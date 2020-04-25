@@ -1,0 +1,85 @@
+DATE:  02.03.2020, 21:00:33
+TITLE: Why Crypto Should Care About Justin Sun’s Steem Drama
+URL:   https://www.coindesk.com/why-crypto-should-care-about-justin-suns-steem-drama
+
+Justin Sun has seized control of the Steem blockchain – with the apparent help of several prominent crypto exchanges.
+
+On the Steemit Blog (which is newly owned by Sun), a post announced the new regime:
+
+"For the next 4-6 weeks, the Steemit team will be using the voting rights to resume the order of the community while having an open channel for meeting community members and Witnesses."
+
+However, as of this writing, users are telling us of app instability and users on Steemit are signaling outright revolt. This is an archived version of the original post because Steemit has been unstable.
+
+In a delegated proof-of-stake (DPoS) system such as Steem, this Orwellian update is only made possible by enough of the network’s native currency, STEEM, being thrown behind a new set of blockchain validators.
+
+In short, exchanges have staked STEEM they controlled (seemingly from user accounts) to “vote” for new leadership.
+
+The implications reach much further than just Steem or Tron, underlining the fundamental message of the "not your keys, not your crypto" mantra. When users hold large amounts of their assets on exchanges, it gives those firms potentially decisive power over ostensibly decentralized networks, particularly when governance authority is tied to currency holdings.
+
+Wait, what?
+
+The turmoil began on Feb. 14 when it was announced Sun, the controversial founder of the Tron blockchain, had acquired Steemit, a blogging site that owns a very large quantity of the STEEM cryptocurrency.
+
+In response, STEEM community leaders, the validators of the blockchain, initiated a soft fork on Feb. 23 that censored the stake of tokens held by Steemit, usually referred to in the community as the "ninja-mined stake," as CoinDesk previously reported.
+
+"It's like the rich guys getting together and saying 'let's show them who's the real boss,'" Roeland Lanparty, a pseudonymous Dutch citizen who runs a Steem witness and some major applications, told CoinDesk over a WhatsApp call.
+
+Leaders or validators on Steem are called witnesses, serving similar roles to bitcoin's miners. All 20 of the new witnesses now leading the chain are accounts created in February 2020.
+
+Tron, Steemit and Huobi have not replied to multiple requests for comment. While Binance has not responded directly to CoinDesk's queries, an enigmatic tweet from its CEO, Changpeng Zhao, addresses the issue.
+
+"I was made aware of this upgrade/hardfork beforehand, and approved it. Projects do this all the time, and we are usually just in a supportive position," he wrote. "Just messaged @justinsuntron, no response yet. Assume he will respond publicly soon."
+
+There has been no update on the proposed town hall scheduled for March 6. STEEM value has been generally down since the acquisition, trading at roughly $0.23 before the news and now at around $0.17, according to CoinMarketCap.
+
+Steemit strikes back
+
+The letter posted to the Steemit blog describes how Steemit had previously used its stake to support the community's development and says Sun’s Tron Foundation "intends to use part of the Steemit stake for such executions."
+
+It then writes that "the Witnesses’ decision [to soft fork] created a need to reclaim the stake and vote in new witnesses to usher in new policies for a healthier ecosystem and community," also adding that the move "may be deemed illegal and criminal."
+
+The post details several priorities for Steem going forward. It lists swaps between Steem and Tron, smart media tokens (a project the company has discussed for at least two years), feature parity with Reddit and incentives for users to bring more people onto the platform.
+
+The new witnesses all now have overwhelming support in terms of STEEM-denominated votes; however, the number of user accounts backing them is tiny, as can be seen in the "voters total" column on that same page.
+
+Differences in the amount of STEEM supporting new witnesses versus the number of accounts. Source: Steemian
+
+Overnight, Binance, Huobi and Poloniex (which is partially owned by Sun) staked tokens they controlled in order to vote for a new slate of witnesses. Presumably, the lion's share of these tokens are technically owned by users of these platforms, not the exchanges themselves.
+
+A tweet shows large accounts powering up tokens in advance of voting in the new slate of witnesses. Luke Stokes, a witness who has tracked exchange data for STEEM for years, verified that the accounts were related to these exchanges.
+
+Then the accounts enacted a new version of Steem software, version 22.5, which released the tokens controlled by Steemit. In large part these tokens quickly flowed into exchange accounts allowing them to increase their vote for Steem's new leaders.
+
+For context, the Steemit STEEM holdings have been an issue within the community for some time. Lanparty said Witnesses have previously discussed hard forks in order to remove the threat of a takeover by the company.
+
+Stokes broke down the mechanics of the takeover last night on YouTube:
+
+Steem was created in part by Dan Larimer who also co-created EOS, which has a very similar structure. Notably, EOS's creator, Block.One, also holds a potentially controlling portion of EOS tokens, but this has not been a major point of contention within the EOS community.
+
+What are users doing?
+
+Lanparty told CoinDesk he was nervous about the Tron acquisition from the beginning. What alarmed him in particular, he said, was any discussion of token swaps in initial announcements of the Steemit acquisition.
+
+As well as running a witness, Lanparty organizes the annual SteemFest, the gathering of the blockchain's enthusiasts.
+
+"This is really a blockchain of people. This is a social chain," he said. "You get a little bit tangled up in all these people. It's not a gambling bot."
+
+Which software version different witnesses are signalling for. Source: Steemd
+
+The prior group of witnesses has begun signalling for an alternate software, 22.4444, in protest. The multiple fours are meant to have negative connotations, as "4" is not seen as a lucky number in China. Users have also been posting giant images of the numeral 4 in threads on Steemit.
+
+The community could still move to hard fork. If they did so, no doubt Steemit would continue to point to the current chain, 22.5, now controlled by Tron allies, but others might not. There are hundreds of apps built on Steem, including alternative blogging front-ends that could start reading a new chain rather than the one controlled by Tron.
+
+Blogging alternatives on Steem include eSteem, Busy.org and SteemPeak, according to Stokes. These could all opt to redirect themselves to look at a new chain if the dispute goes far enough.
+
+On balance, Lanparty said, leaders are keeping apps live in order to not silence the community. However, he pulled an app he had built, SteemWallet, from the iOS and Android app stores in protest.
+
+Exchange culpability
+
+"This is a larger discussion and potentially historical moment for blockchains," Stokes told CoinDesk. "The mechanisms we use to protect these byzantine-fault-tolerant systems, how secure are they really? This is being tested right now."
+
+Somewhat ironically, Lanparty said part of the reason why it soft-forked rather than hard-forked was out of deference to the exchanges. A hard fork would have required exchanges to run new code so their users could withdraw tokens, and the witnesses making the change felt this would be unfair to users.
+
+However, until the Steem software is changed, tokens will be locked up for much longer. Once tokens are locked up to vote, it is designed to take 13 weeks to "power down" (in Steem parlance) and make them exchangeable again. (Of course, the new slate of witnesses now have the power to simply shorten this window.)
+
+One user told CoinDesk he initiated a withdrawal of 500,000 STEEM on Binance following last night's news and it took three hours to arrive, shortly following the Binance CEO's announcement that it will "likely remove the vote."

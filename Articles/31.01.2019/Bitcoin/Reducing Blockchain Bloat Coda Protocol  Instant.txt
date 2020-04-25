@@ -1,0 +1,75 @@
+DATE:  31.01.2019, 12:30:55
+TITLE: Reducing Blockchain Bloat: Coda Protocol & Instant-Sync Bitcoin Nodes
+URL:   https://blockonomi.com/blockchain-bloat-coda-instant-sync-bitcoin-nodes/
+
+The ability to reduce the size of a blockchain through pruning or compacting its size presents enormous benefits for the sustainable decentralization of the network and removing the delegation of trust. Reducing the storage burden of full node clients enables users to practically run full nodes without having to purchase higher-end hardware to support running a full client.
+
+Initiatives and proposals to reduce blockchain sizes are increasingly common among cryptocurrencies, including Bitcoin. Similarly, privacy-oriented cryptocurrencies that use more cumbersome transaction constructions add to blockchain bloat faster than more common cryptographic transactions because of the additional proofs tacked onto each transaction.
+
+Cryptocurrencies like Monero and ZCash have recently implemented efficiency upgrades to such transactions, but compact blockchain solutions will likely be needed in the long-term.
+
+As a result of the growing need to seek solutions to blockchain bloating and faster syncing, several emerging methods for reducing the size of blockchains have come to the forefront of the conversation in decentralization. In particular, some intriguing solutions drawing from zero-knowledge proofs (ZKPs) are in their concept stages or are already testing.
+
+Coda Protocol is one of these projects, which uses zk-SNARKs to compress the size of the blockchain, enabling even mobile clients to run full nodes. Similarly, a recent concept proposal by Tyler Smith details the potential for allowing instant-sync Bitcoin nodes by using ZKPs to produce a full sync of the blockchain with a constant size and in constant time.
+
+Coda Protocol
+
+Coda Protocol is a cryptocurrency coded in OCaml that uses ‘recursive composition of zk-SNARKs’ to compress the entire blockchain to a fraction of the size of traditional blockchain ledgers. The protocol compresses the entire representation of the state of the blockchain into a 1 KB zk-SNARK proof.
+
+The zk-SNARK proof represents the authenticity of the state of the blockchain without nodes needing to store the entire blockchain to validate the ledger. The proof is the only component that needs to be stored — along with a small amount of additional data using a Merkle path from the state’s ledger to an individual’s account.
+
+Coda refers to the compressed blockchain as a ‘succinct blockchain,’ and the protocol enables a constant-size proof, regardless of the arbitrary amount of computations on the ledger. Rather than blocks containing transactions, they consist of a zk-SNARK that verifies specific transactions exist and transition the state of the ledger.
+
+According to the Coda white paper:
+
+“Nodes can participate in a succinct blockchain protocol without storing anything except for the strongest blockchain and a full or partial state. If a node has these items, they can be certain that the information in whatever state they hold is backed by a blockchain with the strength indicated and that balances have been updated only via a sequence of valid transactions contained in that blockchain.”
+
+The implications of what Coda is working on are compelling. Increasing blockchain sizes will eventually preclude many participants from becoming validators in the network by increasing the hardware costs required to run full nodes. Similarly, full node clients — although operable on average consumer laptops — are not compatible with smartphones because of their lower storage capacities. The ability to have fully validating mobile nodes grants much more powerful decentralization potential by drastically reducing the barrier to access a node that verifies the blockchain.
+
+Another collateral effect of a compressed blockchain is the ability to sync nearly instantly since less than 1 MB of data is required to be downloaded by a node. Coda even provides a fully-verifying state explorer on their website (of their Alpha testnet) that updates in real-time in the browser. The efficiency of a succinct blockchain also enables the network to scale decoupled from the amount of data on the blockchain.
+
+Coda recently announced their Alpha testnet, and the project is a prime example of leveraging the largely untapped power of ZKPs.
+
+Instant-Sync Bitcoin Nodes
+
+Drawing inspiration from Coda and working parallel on a similar concept applied to Bitcoin, Tyler Smith proposed an idea for enabling Bitcoin clients to instantly sync and validate the Bitcoin blockchain with similar constant size and time as the Coda protocol does. Such a solution would remove the need for SPV nodes to delegate trust in the Bitcoin network, vastly improving the efficiency of validating the blockchain in the process.
+
+His concept has already gained traction on Reddit where a meaningful discussion about its potential development and obstacles were debated, a rare occasion on crypto Reddit.
+
+The idea for instant-sync Bitcoin nodes would consist of an overlay network where participants can publish proofs with ‘zk circuits.” According to Smith:
+
+“Instead of baking a particular ZK construction into the Bitcoin protocol we can build an overlay protocol where anybody can produce and publish proofs by processing mined blocks with a ZK circuit that implements Bitcoin’s transition rules. This process would be just like a standard full node syncing, except the state they calculate would be authenticated by the circuit.”
+
+In order to sync, clients would only need to download the most worked state hash, representing the authentic state of the blockchain. Traditional full nodes would function as ‘proof producers,’ but SPV nodes would be able to become validating nodes that can instantly sync with the blockchain rather than relying on full nodes to supplement them with the correct state.
+
+The cumulative PoW could be verified by nodes that are presented with multiple valid states that consist of the UTXO set, block height, PoW, and system state. The state with the most work is the primary chain and the authentic state proof that the node selects without needing to validate the PoW for every block.
+
+Smith notes that a new ecosystem of entities could develop where they are incentivized to provide proofs — such as miners and exchanges. Additionally, he references the improved failure model for SPV nodes:
+
+“In this proposed model, just a single entity providing proofs is sufficient and could be operated by institutions (i.e. non-profits, universities etc) or businesses trustlessly. If all provers are compromised the chain is still secure, but clients that rely on proofs can no longer validate updates. This is a much better failure mode than SPV because nodes are not tricked into accepting an invalid state, they just can’t continue to validate new states until a prover is back online.”
+
+Although promising, some significant hurdles remain. Specifically, the need for more development work on ‘recursive composition of zk-SNARKs’ known as ‘zk circuits,’ and the need for a hard fork to fully implement the proposed features, an arduous proposition for the Bitcoin community’s highly conservative approach to change.
+
+Other Initiatives to Reduce Blockchain Bloat
+
+ZKPs are a relatively new cryptographic method with enormous potential, but they are not the only proposed means for reducing blockchain bloat out there. The recent launches of Grin and BEAM highlight an aspect of Mimblewimble that takes a proactive approach to mitigate an increasing blockchain size as well as the potential for pruning the blockchain.
+
+Read: What is Grin Coin?
+
+Mimblewimble nodes only need to store the current state of the UTXO set rather than the entire blockchain’s history of transactions. Nodes can verify inputs by referencing block headers and dummy outputs, so all the other transaction data is unnecessary. As a result, a Mimblewimble blockchain is much leaner than Bitcoin’s. In fact, Mimblewimble blockchains may not even grow over time depending on whether or not more coins are stored in fewer outputs since only specific unspent transaction outputs are required to be verified.
+
+Outside of the proactive advantages of Mimblewimble, data from the blockchain can be pruned since nodes only require the UTXO commitments.
+
+In Grin’s Github documentation, three contributors (two Harry Potter aliases): Ignotus Peverell, Seamus Finnigan, and Quentin Le Sceller outline several contexts for pruning data.
+
+A full node removes already validated data.
+
+An SPV mode may not be interested in receiving or retaining all the data.
+
+Intended full nodes may act as partially validating (SPV) nodes to become available quicker, even though they eventually become full nodes.
+
+Pruning can only remove data that is not required for state validation, so Mimblewimble protocols would always require that the block headers, kernels, unspent transaction outputs, UTXO MMR and range proof MMR remain intact.
+
+There are other proposed pruning and compact blockchain methods for various cryptocurrencies, and they are not strictly limited to ZKPs or Mimblewimble protocols.
+
+Reducing blockchain sizes or decelerating their growth will become vital as many of the established cryptocurrency chains progressively snowball. The Bitcoin community, in particular, has shown an inclination to make the necessary network adjustments when needed, so it will be interesting to watch how innovations to help mitigate the increasing size of Bitcoin’s blockchain emerge. Instant-sync nodes and succinct blockchains offer a glimpse into the power of the ZKPs, and the future development and application of the novel technology are convincing.

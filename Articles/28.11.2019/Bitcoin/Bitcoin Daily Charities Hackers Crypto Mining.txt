@@ -1,0 +1,13 @@
+DATE:  28.11.2019, 11:07:41
+TITLE: Bitcoin Daily: Charities; Hackers Crypto Mining
+URL:   https://www.pymnts.com/blockchain/bitcoin/2019/bitcoin-daily-charities-support-bitcoin-donation-campaign-hackers-seek-api-vulnerabilities-for-crypto-mining/
+
+“In times of crisis, to reach those lofty ambitions, we need to be friendly not only to traditional financing mechanisms but to the crypto community who’s been very innovative,” said Ettore Rossetti, global digital lead of Save the Children in a phone interview with CoinDesk.
+
+And a hacking group has been mass-scanning the internet looking for Docker platforms that have application programming interface (API) endpoints exposed online.
+
+“Users of the Bad Packets CTI API will note that exploit activity targeting exposed Docker instances is nothing new and happens quite often,” Troy Mursch, chief research officer and co-founder of Bad Packets LLC, told ZDNet.
+
+“What set this campaign apart was the large uptick of scanning activity. This alone warranted further investigation to find out what this botnet was up to,” he added. “As others have noted, this isn’t your average script kiddie exploit attempt.”
+
+To prevent an attack, it is recommended that users and organizations who run Docker immediately check if they are exposing API endpoints on the internet, close the ports and then end unrecognized running containers.

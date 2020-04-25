@@ -1,0 +1,53 @@
+DATE:  10.08.2019, 11:00:34
+TITLE: In Big Block Hard Fork, Craig Wright’s Bitcoin Has Left Nodes Behind
+URL:   https://www.coindesk.com/in-big-block-hard-fork-craig-wrights-bitcoin-has-left-nodes-behind
+
+In the wake of a recent network upgrade, a number of nodes have been separated from the bitcoin SV blockchain, a development that highlights why “hard forks” have long been the subject of passionate infighting among cryptocurrency developers.
+
+According to block explorer Blockchair, roughly 20 percent of BSV nodes are still running an older version of the software. That’s before most of the bitcoin SV moved to a new blockchain in an upgrade known as a “hard fork,” executed on July 24th, which increased the blockchain’s block size parameter to 2 GB with the goal of increasing transaction volume.
+
+It’s unclear why these nodes have failed to upgrade. It could because they didn’t know they simply didn’t get the memo, they forgot they were running an older version or their operators simply didn’t agree with the changes in the hard fork and opted to protest.
+
+Bitcoin SV, a cryptocurrency not to be confused with bitcoin, is the brainchild of entrepreneur Craig Wright, who maintains that he created bitcoin (despite a range of security experts debunking his cryptographic proof). Wright is also currently embroiled in a lawsuit in the US that centers in part around the question of his claims to the Satoshi Nakamoto mantle.
+
+“There was a hard fork on BSV […] which resulted in a chain split, the new hard fork rules chain and the original rules chain. Most of the BSV economy and miners followed the new hard fork chain. The old original chain still exists, but has little economic significance, other than miners wasting money mining on it,” a representative of BitMEX Research, a wing of one of cryptocurrency’s largest exchanges, told CoinDesk.
+
+Whether or not this metric matters matters has been up to debate after several other hard forks.
+
+To oversimplify a complex debate, some argue hard forks are a clean upgrading mechanism for enhancing blockchains with new features, while detractors argue that hard forks can only be executed successfully by more centralized blockchains. On the other hand, the old chain is now pretty much dead.
+
+At first, bitcoin SV temporarily forked, with miners on the old chain mining more than 50 blocks, leading said miners to lose their block rewards. But now, at least the vast majority of miners have upgraded, so no more blocks are being created on the old blockchain.
+
+But while critics might argue that the blockchain is leaving nodes behind. This is in line with bitcoin SV’s view that miners, not nodes, are what are important in the network.
+
+“Power has now shifted to the miners to decide their own limits. […] Moving responsibility of the limits of the system to the miners means that the market itself, chooses what is best for the system. It is not for developer groups to decide market forces, but for the market itself,” CoinGeek developer Eli Afram told CoinDesk.
+
+Stuck nodes
+
+Leaving nodes behind wasn’t the only other complication during this period. Last weekend, a significant portion of bitcoin SV nodes had problems processing a 210 MB block. Those nodes were stuck and were unable to send or relay transactions on the bitcoin SV network.
+
+The problem in part was due to large size of the block – but it’s a bit more complicated than that.
+
+“The main cause of the problems with the large 210 MB block was not necessarily the large size, as bitcoin SV had other large blocks in the past, but that it contained a lot of transactions, which used a lot of memory to validate. Previous large blocks on bitcoin SV had a lot of large OP_Return data, which is much easier to validate compared to ‘normal transactions’,” BitMEX Research told CoinDesk.
+
+Critics see this as another sign of centralization of the system because less nodes are having no trouble with blocks. But those in the bitcoin SV community don’t see this is a problem.
+
+“What happened is that some cheap nodes dropped off the network,” Afram said.
+
+Either way, most nodes have recovered since then.
+
+“The nodes eventually got [past] the block or gave up it seems,” a representative from BitMEX Research told CoinDesk.
+
+Bigger blocks have had an impact on bitcoin SV in other ways as well. Money Button CEO Ryan X. Charles, one of the more influential bitcoin SV proponents, disclosed that because of how expensive running a bitcoin SV node is becoming due to the data storage requirements caused by bigger blocks, they’re not going to run one anymore.
+
+“Our new instance will cost thousands of dollars per month to operate. As blocks continue to get larger and we have to upgrade the instance many times, this cost will balloon,” Charles explained.
+
+This decision further flared debate. The more full nodes there are, the more decentralized the network is. MoneyButton’s decisions perhaps shows that bitcoin SV full nodes are growing too fast data-wise for everyday users to run.
+
+But again, this is in line with bitcoin SV’s vision that miners are the important players. And next year, bitcoin SV plans to increase the block size for the last time.
+
+As Afram told CoinDesk:
+
+“I look forward to when the [block size] cap is removed altogether next year, so that Bitcoin can grow completely unbounded, and undeterred by crony developers, and we never have to have this [hard fork] discussion again.”
+
+nChain CEO Jimmy Nguyen via BitcoinSV.io

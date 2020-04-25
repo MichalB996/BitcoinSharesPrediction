@@ -1,0 +1,38 @@
+DATE:  16.03.2020, 13:31:43
+TITLE: BitMEX Downtime Followed By Bitcoin’s $1800 Collapse On Thursday Due To Botnet Attack, BitMEX CTO Says
+URL:   https://cryptopotato.com/bitmex-cto-bitmex-downtime-followed-by-bitcoins-1800-collapse-on-thursday-due-to-botnet-attack/
+
+Samuel Reed, BitMEX CTO, shared some information on the recent controversy that led to high levels of liquidated assets on the exchange platform. He noted that the technical issues BitMEX experienced were connected to an on-going botnet attack.
+
+March 13th: Botnet Attack On BitMEX
+
+Last week, Bitcoin went through a severe plunge that brought the price down to as low as $3,700 on BitMEX. The sharp decrease led to lots of trading volume and, inevitably, significant levels of liquidations on the platform.
+
+Interestingly, during those hours (02:16 and 02:40 UTC), the popular exchange went down. Standard service did not resume until 03:00 UTC when the exchange claimed it experienced “hardware issues.”
+
+Some community members, including rival Futures exchange FTX CEO, Sam Bankman-Fried, had some doubts about the event.
+
+BitMEX said that further investigation would follow. Today, the company’s CTO, Samuel Reed, shared their findings until this moment. According to him, the reason why the exchange went down involved a continuous botnet attack.
+
+So here’s what we know so far: on Mar 13 at both 02:15 UTC and 12:56 UTC, we came under attack from a botnet that appears to have been probing the system for some time. This botnet was also responsible for an attack on Feb 15. — Samuel Reed (@STRML_) March 16, 2020
+
+Not The First Attack
+
+BitMEX CTO also indicated that their network experienced another botnet attack back in February. He believes that both came from the same origin, but the perpetrators have changed their procedure.
+
+“The attack in February was absorbed by our normal DDoS mitigation strategies, which have been working well for all L3 and L4 attacks. No downtime occurred then. Mar 13 was a change in strategy for them. The botnet found an endpoint that was consistently, reliably slow. The query they hit did a 400ms reverse sequential scan rather than using the index (Parallel Index Scan / Gather Merge for PG fans) because an ANALYZE hadn’t been automatically run for too long by RDS defaults.”
+
+Reed also added that after the first attack, they had improved their network. Now, they are “making systemic changes on our backend to ensure this can’t happen again.”
+
+In any case, the timing of the Bitcoin price drop and BitMEX’s offline state is slightly suspicious. Despite Reed’s explanation, some community members remain skeptical.
+
+Enjoy reading? Please share:
+
+Binance Futures Limited Offer: Use this link to register & get 10% discount on fees (Exclusive to CryptoPotato).
+
+
+
+Click here to start trading on BitMEX and receive 10% discount on fees for 6 months.
+
+
+

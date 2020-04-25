@@ -1,0 +1,51 @@
+DATE:  26.09.2019, 15:35:02
+TITLE: Try the Bitcoin PR Review Club to Learn Bitcoin
+URL:   https://bitcoinmagazine.com/articles/op-ed-want-to-learn-about-bitcoin-try-the-bitcoin-core-pr-review-club
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+Continuing the series on the various ways one can learn about the technical aspects of Bitcoin, in this article we will focus on the Bitcoin Core PR review club.
+
+John Newbery announced the creation of the Bitcoin Core PR review club on Twitter in April 2019. Pull requests (PRs) are proposed changes to the codebase or documentation that can be submitted by anyone before being discussed by the maintainers and contributors of the project and eventually being either merged or closed.
+
+The aim of the review club is to onboard new contributors to Bitcoin Core by providing a stepping stone to reviewing and testing pull requests. As Newbery said in his tweet, “There are hundreds of open PRs, it’s not obvious which ones are suitable for new contributors” and that “maintainers seem to speak a strange and confusing language.”
+
+The major bottleneck for Bitcoin Core currently is “good testing and good reviewing and a deep understanding of the system to be able to do that good reviewing.”
+
+How to Find the Bitcoin PR Review Club
+
+The club is hosted on Internet Relay Chat (IRC) channel #bitcoin-core-pr-reviews. IRC is a protocol that is as old as the web. It is the communication channel of choice for online Bitcoin technical meetings and conversations. Think of it like Slack or Mattermost but without the GIFs, emojis, threads and the ability to receive messages when offline. Indeed the company Slack emerged from attempting to address the shortcomings of IRC. Of course, unlike Slack, IRC doesn’t require proprietary software and paid plans to access chat histories. IRC is also faster and less memory- and bandwidth-hungry. There are many IRC clients to choose from, some are free, some are paid.
+
+Every week, those interested in learning more about the Bitcoin Core PR review process or the details of specific pull requests can join the IRC channel at 17:00 UTC on Wednesdays. The meeting is open to all and lasts for one hour. A different pull request is chosen each week. Participants can suggest a specific pull request to be covered in advance of the meeting. There is pre-reading available prior to the meeting and it’s a good idea to go through this in advance to get the most out of the discussion. Logs of all prior meetings are also available.
+
+Most of the meetings have been led by Newbery so far but there have been guest hosts, including some of the authors of the PR being discussed that week. It is certainly a format that can be replicated informally and impromptu whenever there is a group of people wishing to discuss and learn about a particular PR.
+
+The complexity of the PR varies greatly from week to week. Some, like #15443 and #15204 — focused on testing and the graphical user interface, respectively — are relatively easy to follow for new contributors. Others, such as #15481, relating to Matt Corallo’s proposed “Great Consensus Cleanup” soft fork, require a deeper understanding of the Bitcoin codebase and its history to understand the context.
+
+Why Participate in the Bitcoin PR Review Club?
+
+For those who would like to contribute to Bitcoin Core in the future, the PR review club is a no-brainer. But even if you don’t aspire to do that, attending and participating is a great opportunity to both learn more about the Bitcoin Core codebase and to pick up tips and tricks on how to review other people’s code from Newbery and other Bitcoin Core contributors. To this end, Jon Atack, another Bitcoin Core contributor, is in the process of drafting a document collecting together the advice and pointers gathered during the PR review club.
+
+In addition to reading the PR and the prepared notes, one can clone the repo, check out and build the PR branch, and run the tests in advance of the meeting. This will allow you to comment directly on the PR, as authors of PRs typically need confirmation that the PR successfully builds and its tests pass on different operating systems. Build instructions and guidance for running tests are available within the Bitcoin Core repository.
+
+If you want to go even further, there are various tools that are useful when reviewing the code changes of the PR. They include Ctags which, as founder of the MIT Bitcoin Project Jeremy Rubin explains, allow you to use a special set of keyboard shortcuts to jump to where an object is defined in the code from within your favorite text editor. You can also use git grep to search for a string in your working directory or tree in Git.
+
+In addition, GNU Debugger (GDB) on Linux or LLDB on Mac OS are useful debugging tools which let you “do brain surgery on your program,” as Rubin puts it. You can go through the code line by line, inspect the memory and understand the impact of each line. In addition, you can modify the values of variables to help you understand what causes a program to crash. Developer Fabian Jahr is drafting a document with guidance on using these tools which at the time of writing is optimized for Mac OS.
+
+A Major Bitcoin Bottleneck
+
+Although the level of review on Bitcoin Core code compares well to other Bitcoin implementations and certainly to other altcoins, it is not as rigorous as befits a project supporting an ecosystem measured in the hundreds of billions of dollars. If, as we expect, the ecosystem continues to grow, supporting potentially trillions of dollars of value in the future, this need for greater numbers of people capable of quality review will only become more acute.
+
+In the PR review club on September 4, 2019, Newbery advised, “Reviewing is the most effective way you can contribute as a new contributor (and also will teach you much more about the code than opening PRs).”
+
+Review is the main bottleneck preventing faster progress on long-term goals such as making the Bitcoin Core codebase more modular, separating out the node, wallet and GUI components, and providing additional functionality for second layer protocols like the Lightning Network. Some of the most important and critical PRs have languished for months due to lack of review.
+
+Linus’ Law
+
+In his book The Cathedral and the Bazaar, Eric S. Raymond dubbed the regularly-cited law that “given enough eyeballs, all bugs are shallow” as “Linus’ Law,” after the creator of the Linux kernel Linus Torvalds. The recent announcement of the vulnerability in three of the most mature Lightning implementations — c-lightning, eclair and lnd — reminds us of the prospect of bugs in protocols resulting in users losing funds.
+
+Perhaps one day, with the help of the Bitcoin Core PR review club, it will be your eyeballs that prevent a bug from being merged into Bitcoin Core.
+
+Thanks to Jon Atack for contributing to and reviewing this article.

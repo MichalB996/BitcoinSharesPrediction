@@ -1,0 +1,27 @@
+DATE:  17.09.2019, 12:21:40
+TITLE: Deloitte is testing Bitcoin in its canteen — but staff could get pretty hangry
+URL:   https://thenextweb.com/hardfork/2019/09/17/deloitte-bitcoin-blockchain-cryptocurrency-lunch-micropayments-confirmation/
+
+“Big four” accountancy firm Deloitte is allowing staff to buy lunch with Bitcoin BTC as a means of testing its usefulness, Luxembourg Times reports.
+
+“We think it’s good to have our employees assess this new technology,” a partner at Deloitte’s advisory arm told reporters.
+
+They then confirmed that Deloitte isn’t prioritizing micropayments, or even allowing clients to purchase its services with Bitcoin.
+
+Rather, the firm is keen to use blockchain to process transactions related to its fund management services, as a transparent ledger should make such processes easier to audit.
+
+Deloitte staff that use Bitcoin might have to wait it out
+
+Bitcoin is often criticized for being too slow for micropayments (such as purchasing lunch or coffee).
+
+Transactions are typically considered “finalized” once the network has confirmed them six times, which is a fancy way of saying those transactions are six blocks deep in the blockchain.
+
+Currently, the median confirmation time for a Bitcoin transaction is 8.2 minutes. A six-block confirmation is currently more than 49 minutes.
+
+So, unless Deloitte’s canteen is willing to accept “zero confirmation” transactions (which is a big no-no), staff members who buy lunch with Bitcoin could be in for a considerable wait before they’re allowed to eat.
+
+One fix for Bitcoin‘s micropayments problem is the Lightning Network, a “layer two” solution that facilitates almost instantaneous Bitcoin transactions via centralized payment “channels.”
+
+Hard Fork has reached out to Deloitte to determine exactly how its Bitcoin payments work in regards to the number of confirmations its canteen requires. We’ll update this piece should we receive a reply.
+
+Want more Hard Fork? Join us in Amsterdam on October 15-17 to discuss blockchain and cryptocurrency with leading experts.

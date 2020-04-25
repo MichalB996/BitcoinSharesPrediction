@@ -1,0 +1,25 @@
+DATE:  12.08.2019, 13:59:36
+TITLE: Researchers hacked a Canon DSLR with ransomware demanding Bitcoin
+URL:   https://thenextweb.com/hardfork/2019/08/12/canon-dslrs-susceptible-bitcoin-ransomware/
+
+Bitcoin BTC demanding ransomware knows no bounds, and the latest potential victim? DSLR cameras.
+
+A group of security researchers have managed to exploit vulnerabilities in a Canon EOS 80D digital camera to hold its owner’s photos to a Bitcoin ransom, The Inquirer reports.
+
+The researchers from cybersecurity firm Check Point Research exploited the camera‘s picture transfer protocol (PTP), a piece of software typically used to transfer images from the device to a computer.
+
+Many modern cameras can transfer images over a WiFi connection, this is formerly known as PTP/IP (picture transfer protocol over internet protocol). While this is a useful feature if you’re forever forgetting USB cables it presents a valuable attack vector for hackers.
+
+As Check Point Research points out, PTP is an unauthenticated protocol and can support dozens of complex commands. As such, it can be abused by hackers to inject malicious code on to unsuspecting cameras.
+
+In this particular exploit, researchers were able to inject a ransomware program, over WiFi, to encrypt the camera‘s storage. All that remains after the attack is a message on the camera‘s screen with a ransom note that demands Bitcoin for the safe return of the owner’s files.
+
+You can watch the hack in practice below.
+
+Indeed, whilst this might seem shocking, the reality that hackers will have much success with this particular exploit is slim.
+
+WiFi-based PTP is usually a last resort for photographers. Compared to putting the camera‘s SD Card directly into your computer, transfer speeds are glacially slow.
+
+The researchers made Canon aware of the vulnerability earlier this year. Canon subsequently released a patch for the camera’s firmware last week and issued a security advisory notice. It’s not known if this hack would work on other cameras.
+
+Update August 13, 2019, 0913UTC: Updated header for clarity.

@@ -1,0 +1,45 @@
+DATE:  06.04.2020, 09:09:10
+TITLE: What is WBTC? A simple 3-minute guide to the hybrid coin
+URL:   https://decrypt.co/resources/what-is-wbtc-explained-bitcoin-ethereum-defi
+
+In this article, we find out how WBTC is bringing Bitcoin to Ethereum.
+
+Bitcoin is the world’s first, largest, and most-recognized crypto asset. Since Bitcoin’s creation over 10 years ago, the technology behind the revolutionary “peer-to-peer electronic cash system” has largely remained the same. However, innovations have continued happening in other parts of the blockchain ecosystem with the fast-rising world Decentralized Finance (DeFi) being a prime example. WBTC tries to combine the best of both worlds by bringing the value and liquidity (money) of Bitcoin and making it usable in the world of DeFi.
+
+What is WBTC?
+
+WBTC stands for Wrapped Bitcoin and is simply an ERC20 token that represents Bitcoin. One WBTC equals one BTC. BTC can be converted into WBTC and vice-versa. Being an ERC20 token makes the transfer of WBTC faster than normal Bitcoin, but the key advantage of WBTC is its integration into the world of Ethereum wallets, dapps, and smart contracts. To date, there are over 900 WBTC in circulation.
+
+Who Invented WBTC?
+
+Wrapped BTC launched on Ethereum mainnet in January 2019. Wrapped Bitcoin was brought to the world as a collaborative project between major players in the DeFi ecosystem such as BitGo, Ren, Dharma, Kyber, Compound, MakerDAO, and Set Protocol in an effort to bring more liquidity into the Ethereum network by dipping into Bitcoin. The project is now controlled by a Decentralized Autonomous Organization (DAO) called the WBTC DAO.
+
+Did you know? WBTC is not the only project bringing BTC onto the Ethereum network. A project called imToken has created an ERC20 token called imBTC, which also represents one BTC. To date, there are over 460 imBTCs in circulation.
+
+What’s so special about it?
+
+Many of the most popular DeFi dapps on Ethereum require the use of collateral. Products such as MakerDAO and Compound require users to lock up crypto assets in order to borrow other crypto assets. Because the overall value of Ethereum is significantly smaller than Bitcoin, this limits how much these protocols can grow. By bringing Bitcoin over, protocols get a boost in liquidity and thus can create more sources of collateral for their dapps. Wrapped Bitcoin also allows Bitcoin holders to keep holding on to it as an asset while also using DeFI dapps like Compound to borrow or lend money.
+
+What else is different?
+
+Since there is still a gap between Bitcoin and Ethereum–the chains can’t natively talk to each other–trust in people is required. Compared to BTC, Wrapped BTC will never have the same level of security or trustlessness as the original because it relies on people and organizations to manage the system instead of pure code.
+
+To increase trust and transparency, WBTC undergoes regular audits and publishes all on-chain transactions and verifications for the Bitcoin and Ethereum networks. Users can independently verify how much BTC was sent to the WBTC address on the Bitcoin blockchain then check if those transactions are matched with the creation of WBTC tokens on the Ethereum blockchain. The reverse process of burning of WBTC to redeem BTC can also be tracked on-chain.
+
+How are WBTC tokens produced?
+
+Governing members of the WBTC DAO decide on major upgrades and changes to the protocol as well as who can assume the roles of the Merchants and Custodians that manage the system.
+
+Users who have BTC and want to convert it into WBTC must interact with Merchants. Merchants initiate the process of minting or burning WBTC tokens by performing verification procedures to confirm users’ identity. Custodians hold onto the actual BTC being wrapped and do the actual minting and burning of tokens on the Ethereum blockchain. When WBTC is burned, BTC is returned to the user from the custodian’s custody. When new WBTC is minted, BTC is taken from the user and stored by the custodian.
+
+How do you get hold of WBTC tokens?
+
+Since WBTC is an ERC20 token, you can trade it on decentralized exchanges such as Kyber or Uniswap. If you want to swap BTC for WBTC, you can go through one of the WBTC merchants: Dharma, Kyber, Set Protocol, GOPAX, AirSwap, Prycto, Ren, and ETHfinex.
+
+What can you do with WBTC?
+
+You can borrow and lend WBTC using Compound or use WBTC to engage in margin trading on bZx’s Fulcrum dapp.
+
+The Future
+
+The future is not about how individuals use WBTC, it’s about what developers build using WBTC. As a permission-less ERC20 token, WBTC becomes another building block for DeFi applications. The best example of how WBTC is becoming another DeFi building block is with TokenSets, which has created products that automatically trade between WBTC and ETH to capture gains in both assets–combining the best of both worlds.

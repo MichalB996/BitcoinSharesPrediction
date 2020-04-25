@@ -1,0 +1,23 @@
+DATE:  15.05.2019, 14:20:09
+TITLE: Blockstream Launches Security Token Platform on Bitcoin Sidechain
+URL:   https://www.coindesk.com/blockstream-launches-security-token-platform-on-bitcoin-sidechain
+
+Bitcoin startup Blockstream is launching a platform that lets users launch their own tokens by utilizing its bitcoin sidechain, Liquid.
+
+Launched at CoinDesk’s Consensus conference 2019, the Liquid Securities platform is the first product Blockstream has launched on top of its Liquid Network sidechain, a network tied to the bitcoin blockchain with faster coin transfers and better built-in privacy.
+
+The app will allow users to issue and manage security tokens on top of the Liquid Network.
+
+“Businesses around the world are racing to take advantage of the tokenization of securities,” Blockstream CSO Samson Mow said in a statement, adding:
+
+“Unfortunately, blockchain platforms like ethereum are failing them due to issues with scaling, privacy, and reliability. […] Now, with the launch of Liquid Securities, businesses can quickly issue Liquid-based security tokens with the click of a button, and establish sophisticated rulesets to conform with their regulatory requirements with no engineering experience required.”
+
+A few partners are lining up to launch coins on the platform already, including BnkToTheFuture, TokenSoft, Zenus Bank, and Pixelmatic.
+
+You might think you have to be a coder to launch a token. But the Liquid Securities platform will provide a web interface, like the one you’re on right now, on which businesses can issue and monitor tokens. To create one, instead of coding up the rules, the app will feature options to set up the rules, such as regional restrictions and “investor accreditation.”
+
+Under the hood, they’ll be enforced by bitcoin’s multi-signature smart contracts.
+
+And to deal with the question of regulation, especially seeing as regulators are starting to crack down on tokens in the space under securities regulations, Blockstream will also offer a Liquid Securities API for “additional compliance and legal services.”
+
+Liquid Securities image via Blockstream

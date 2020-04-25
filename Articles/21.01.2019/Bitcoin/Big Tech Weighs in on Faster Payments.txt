@@ -1,0 +1,97 @@
+DATE:  21.01.2019, 09:00:57
+TITLE: Big Tech Weighs in on Faster Payments
+URL:   https://www.pymnts.com/news/faster-payments/2019/fed-real-time-payments-big-tech-banks/
+
+There’s a canary in the faster payments coal mine.
+
+It flew in on Dec. 14, the Friday before the week before Christmas, so you might not have noticed.
+
+That was the day that an advocacy group, Financial Innovation Now (FIN), submitted a public comment letter to the Fed in response to its proposal to create and operate a real-time payments system in the U.S.
+
+FIN members include Amazon, Apple, Google, Intuit, PayPal, Stripe and Square.
+
+The letter cited what has become the all-too-familiar talking point about the state of faster payments in the U.S. – that the country is woefully behind everyone else in the world, and our competitiveness is at risk.
+
+The letter highlighted the role of faster payments as a panacea to financial inclusion problems in the U.S. (where almost everyone is now banked) and made the case for why the Fed was positioned as the best player to operate a ubiquitous, interoperable real-time payments network – even though the Fed doesn’t have a great track record at payments innovation (#killthecheck).
+
+Here’s where the canary flew in.
+
+The letter highlighted that access to the payments systems today is only possible through incumbent intermediaries – the banks and the card networks – which have not kept pace with the needs of consumers and businesses.
+
+In addition to the delay in giving people and businesses access to funds, FIN members claim that working through those intermediaries causes increased risk and costs, given the legacy nature of the current financial systems infrastructure.
+
+The Fed’s real-time payments proposal, according to FIN, will address these issues with a new, modern and interoperable system.
+
+FIN also recognizes that getting the Fed’s interoperable network up and running will take some time, so in the interim its members would like to have direct access to the Fed’s national payments settlement system. This access, the letter says, will eliminate the bottlenecks of working through intermediaries while extending the reach of real-time payments to those who need it.
+
+Currently, access to the Fed’s Real-Time Gross Settlement (RTGS) system is limited to financial institutions that hold deposits.
+
+So, net-net, FIN members will have the Fed’s faster payments back moving forward – but in the meantime, over the many years that it will take to build and launch such a system, they want the Fed to let them sidestep the banks by granting access to its RTGS to further faster payments for their stakeholders.
+
+Now, whether the letter is anything more than a well-crafted move to strengthen FIN members’ negotiating positions with the banks and card networks over fees remains to be seen. It doesn’t require a huge investment to throw up a basic website, write a letter and put key stakeholders on notice – publicly.
+
+And maybe move the Fed in their preferred direction.
+
+It may also change the conversation about faster payments in the U.S.
+
+Suddenly, the Fed is no longer the convener of 500 stakeholders to build consensus about how to move faster payments forward in the U.S.
+
+Now, at least in the eyes of FIN members, the Fed may hold the key — or some would like it to — for providing potentially cheap and easy access to bank accounts without the banks being much involved.
+
+That suggests that putting the Fed front-and-center in the U.S. bid for faster payments isn’t about making the country’s financial services and payments system more competitive (and BTW, does anyone have any evidence that the lack of a real-time payments system is holding us back?). Rather, it’s about making banks a cheap public utility – for FIN members and others who want in – for accessing depository accounts.
+
+In the Fed’s faster payments world, access to the deposits could be made free, or could be set at whatever price the Fed decides is fair.
+
+In that world, the “legacy players” whose infrastructure has built the massive customer bases and driven the massive growth and market caps of the FinTechs over the last two decades could become the dumb pipes of payments.
+
+When Faster Is Only Part of the Story
+
+FIN members, of course, are the same players that financial institutions lose sleep over, given their growing presence in a payments ecosystem that has become ever more digital, and the trust these players have gained with consumers and businesses over the last two decades.
+
+Their support of the Fed as the answer to all that ails faster payments seems particularly well-timed.
+
+It comes at a time when the global tailwinds have, unfortunately, moved in the direction of faster payments by central bank regulatory fiat.
+
+And at a time when the prevailing opinion has become that, more or less, the only way to get faster payments done is for the regulators to make banks do it.
+
+It also comes at a time when the vast majority of banks in the U.S. have resisted throwing their support behind TCH, which has been trying for the last several years to get its real-time payments alternative off the ground. Other than the biggest banks, few have signed onto its faster proposition – and without ubiquity, it will go nowhere.
+
+Oddly, the push for faster payments also comes at the same time that payments in the U.S. are moving faster than they ever have.
+
+It didn’t take a regulatory proclamation for Same-Day ACH to become ubiquitous in the U.S. – it has been since the fall of 2017.
+
+NACHA was able to get all 13,000 banks in the U.S. on board because it offered a solution for use cases where same-day was essential. An efficient, cost-effective business model that hasn’t (yet) cannibalized other bank revenue streams provided a way to monetize the service. It isn’t real-time, but it seems good enough for a lot of use cases.
+
+The card networks enable instant payments today, too.
+
+Mastercard (Send) and Visa (Direct) use their debit rails to push instant funds into the accounts of consumers and SMBs, and are enabling access to instant funds around specific use cases for FIN members today.
+
+Debit rails are fast and they are cheap.
+
+Our latest study of disbursement use cases for more than 9,000 consumers suggests that using the debit card as the alias (instead of phone number or email address) was preferred by 84 percent of all consumers. We posit that is for two reasons: Debit cards are easier for a consumer to produce than a bank account number to enable an instant deposit, and consumers trust having the debit card as a layer in between the businesses paying them and the money sitting in their accounts.
+
+Naturally, innovators are leveraging Same-Day ACH and push payments capabilities to innovate along a variety of new services and solutions. NACHA reports that a growing percentage of healthcare claims are now using SDA rails instead of checks – one giant leap toward putting checks out of business.
+
+Then there’s Square’s new business debit product, Square Card. It pushes merchant sales for Square sellers instantly, and for instant use, to a Mastercard-branded debit product, for which Square gets interchange fee revenue. Visa and Ingo Money announced something similar for SMB merchants several months back.
+
+In other words, innovators – as innovators are wont to do – are using new tech and their own creativity to bridge the regulated, secure legacy systems in place today with new ways to create value in a dynamic, digital and on-demand world.
+
+Could it be better? Sure – but then again, everything can always be better.
+
+The Need for Modern Rails
+
+So, it’s not as if we’re all sitting around waiting for the day that we finally get a real-time payments system to unlock new sources of innovation for the ecosystem. Payments already move pretty fast across bank and payments rails today.
+
+But as longtime readers of PYMNTS and of my columns know well, faster is only one piece of the overall value of making or receiving a payment. A payment is the embodiment of good funds to an authenticated buyer and supplier, along with the detailed data that travels with it. Truly instant payments require a system that can do that without any margin of error, because instant also means irrevocable. So even if banks have access to instant payments, there are strong reasons to slow them down to eliminate fraud for themselves and to minimize plain mistakes by their customers.
+
+Many of the obstacles to faster movement of payments today are the result of legitimate controls for fraud and AML, and of the safety and soundness of the banking system.
+
+The Fed, of course, cares deeply about this. Any proposition to create a real-time payments system and/or allow access to its network will be made with the safety and soundness of our financial systems front and center.
+
+Today, that means the faster payments advantage remains with the banks and the card networks, because they already move money fast today – and they do it across regulated rails trusted by consumers, businesses and the Fed. Their rails are also ubiquitous, connecting to every person and business in the U.S. with a banking relationship, which is most people in the country today.
+
+But that doesn’t mean the decades-old legacy systems that exist today in the U.S. shouldn’t be modernized. They should be. Getting there in any meaningful and productive way will also mean giving up the talk track of only making payments faster and instant, and instead focus on creating a modern and agile system that provides value to consumers and businesses by leveraging the good of what’s already in place today.
+
+It means that it’s time for banks and card networks to think a bit differently about real-time – and what it will take to get there.
+
+And it means being extra careful about faster payments initiatives that become a way for firms to free-ride on the efforts of the banks to sign up and service their depositors.

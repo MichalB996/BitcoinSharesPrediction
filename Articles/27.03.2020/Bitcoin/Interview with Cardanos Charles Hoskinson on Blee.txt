@@ -1,0 +1,47 @@
+DATE:  27.03.2020, 15:32:50
+TITLE: Interview with Cardano’s Charles Hoskinson on Bleeding Market Amid COVID-19 And Big Upcoming Byron Reboot
+URL:   https://u.today/interview-with-cardanos-charles-hoskinson-on-bleeding-market-amid-covid-19-and-big-upcoming-byron-0
+
+U.Today Original Article
+
+Charles Hoskinson, founder of Cardano and CEO of IOHK (Input Output Hong Kong), is one of the most famous and notable people in the blockchain space. Last week I spoke with Charles about the current situation with the market, the biggest news regarding Cardano, and which projects he finds the most interesting. We also discussed who Satoshi Nakamoto might be, if it's possible to find out with complete certainty and how significantly our world will change in the next 50 years. The discussion was so fascinating and dynamic that I decided to publish this interview in 3 parts. This is going to be the first one, where we are talking about the situation with the crypto market during the Coronavirus pandemic and the long-expected Byron reboot release which will be deployed on March 31. Let’s dive into it!
+
+U.Today: So, the market is bleeding. Some analysts say it’s time to buy more crypto, while some say people should only trust cash. There are different opinions, we've all seen them. I’m wondering what your personal thoughts are on the situation. What move should we expect from the Bitcoin price? What about Cardano and the market in general?
+
+Charles Hoskinson: Well, if I was capable of predicting the markets, I'd be a trader instead of an engineer. So, I tend to stay away from price speculation other than talking about broad trends. So, long term I feel that crypto is a significant asset class. First, because it's preferred by the young. If you look at people under the age of 30, they're significantly more likely to hold cryptocurrency than a stock or bond. Second, because it's a hedge to the way the global banking system works. If you have fears about a global recession, if you have fears that banks will become unstable or central bank monetary policies are bad in your country, or a broader sense, then buying Bitcoin or crypto is a hedge against that. So, given those two factors, it seems that we will always see a capital inflow into cryptocurrencies, meaning they're always going to have value. The problem is that cryptocurrency markets are not stable. They're very thin, they're traded on exchanges that have a reputation in some cases of faking volume, and also there's a lot of Black Swan events in these projects and these projects are more motivated by events than they are by macroeconomics, like the oil or the coal industry.
+
+A week ago, the Dow Jones was collapsing after the president announced a state of emergency and then crypto collapsed and Bitcoin lost more than 50% of its value. This week the US stock markets are still falling, yet Bitcoin has gone up 30%. So, you know, the same circumstances with coronavirus - in the case of the equity markets, it's collapsing them, and rightfully so, because the fundamentals are no longer sound. And in the case of crypto, they've moved in both directions on the same news event. So it's super hard to predict these things in the short term. But in the long term, I think our industry is quite solid. Most of the top 15 - top 20 cryptocurrencies are extremely well-capitalized. The workforce isn't going anywhere. We see more adoption every year. We see better infrastructure every year, and better protocols every year. We also see greater global demand move away from cash. So, that means paper money is going to die in the next 20 years.
+
+Digital currencies are here to stay. I think these factors give us a long term prognosis of being very bullish. But in the short term, it's just so volatile and unpredictable. It's hard to know where the price is going to move, at least from my perspective.
+
+U.Today: You recently said the Byron reboot release will take place this month* (*at press time, the date of the reboot has been announced - March 31). The release will make connecting to the network much easier, reduce sync times and enable faster restoration. Once the Byron reboot is out, the release of the Haskell Shelley testnet will be announced. Can you tell us more about that?
+
+Charles Hoskinson: Right. So, internally we're on a two-week release cycle and so we have sprints. Each sprint has a series of things that we need to do. And if we get everything done, we ship at sprint eight or nine or something like that. If we miss a few things, it has to be rolled over to the next sprint. So what we're waiting for is to see how diligent we are getting everything done in each of those sprints.
+
+Charles Hoskinson. Image via forum.cardano.org
+
+So, there are two major events. One is the shipping of the Byron reboot, which shares about 80% of the code with Shelly's, meaning that once we hit that milestone, we're more than 80% of the way to Shelly. The second is the shipping of the Haskell Shelly testnet which means that state pool operators can actually start rotating their infrastructure from the incentivized testnet to the Shelley Haskell testnet, and that'll be basically very close to what we're going to launch the mainnet with. So, that infrastructure will work one-to-one.
+
+With a strong degree of certainty, we're going to ship the end of this month the Byron reboot. If it’s not the end of this month, it'll be maybe in a week or two, but it's a very strong certainty that at the end of this month we'll get that milestone. As for the Shelley Haskell testnet, at the end of this month, we'll have a significantly better idea of what sprint that's going to arrive at. Once we've done those two things, then we can look at our estimation, we can look at our velocity with the backlog and we will know with an absolute degree of certainty the release date for Shelly, because I have it on paper. I actually know when we think Shelly's going to launch, but that's an internal estimate and we've been a little bit bad historically with those things. We're being a bit more cautious with our release days.
+
+We have seen a massive increase in our development delivery time this year in particular. And most of the things that we thought were true have happened roughly when we thought they were going to happen.
+
+It's important to understand how enormous this release is. We've been working on it for 18 months, and it contains tens of thousands of lines of new code. Every single line of code has been rewritten using very rigorous processes.
+
+We also are writing specialized libraries for exchange listing. We remodularized the software, we rewrote a new Explorer. You know, we've done an enormous amount of work in a very short period of time, relatively speaking.
+
+So we've completely rebuilt the product. Hopefully, now that that's done, it'll be very quick for us to add things like smart contracts and governments and so forth, as opposed to going through what we went through rewriting Byron, which was just a miserable two-year process. The reboot is almost certainly coming out in the next two or three weeks. Then, shortly thereafter, the Shelley Haskell test will come out. I hope for April, but in the worst case, it'll probably be May. It's hard to know. So we'll announce that date when we announce the Byron reboot.
+
+Cardano community. Image via @Cardano
+
+U.Today: That’s great news! Do you maybe have a surprise announcement regarding a new big partnership?
+
+Charles Hoskinson: We've worked with a lot of entities, but I don't have any particularly large entity at this time that I'm going to announce.
+
+I mean, we have a great relationship, for example, with New Balance. We have a great relationship with PWC. We have a great relationship with a lot of Fortune 500 firms, at least in that our people talk to their blockchain people. We're the largest scientific research lab in the world for cryptocurrency.
+
+So, every single industrial research group that does cryptocurrency research and development cites our papers. In fact, our GKL model has been cited almost 800 times by every one of our competitors and by all the Fortune 500 research labs. So, through those channels, we certainly have great relationships. In terms of commercial relationships, the challenge with big partners is that you can't really fully integrate with them.
+
+They'll usually run a pilot on your system, but more often they want to control the IP and they want to control the implementation so they deploy it themselves. So we tend to focus a lot of our commercial efforts on the SME side, the small to medium-size enterprises, where when you create a partnership, it's a true partnership, meaning that we deploy and get them onto our infrastructure and there are consumers of that infrastructure, just like a small firm would be of Amazon web services or something like that. Those are much more meaningful relationships, they bring a lot of value into the ecosystem and there are barriers to exit because they don't have the ability to build their own infrastructure.
+
+To be continued...

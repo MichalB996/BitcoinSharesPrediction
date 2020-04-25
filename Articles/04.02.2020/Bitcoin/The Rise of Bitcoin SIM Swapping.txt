@@ -1,0 +1,161 @@
+DATE:  04.02.2020, 13:00:25
+TITLE: The Rise of Bitcoin SIM Swapping
+URL:   https://bitcoinmagazine.com/articles/the-rise-of-sim-swapping-how-and-why-bitcoiners-need-to-protect-themselves
+
+Ring in the new bitcoin halving cycle the right way: with us!
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+Using a phone number for identity authentication is a bad operational security practice. Handing over bitcoin to a third party like a cryptocurrency exchange or lending service also reduces security — “not your keys, not your coins” is a security recommendation often shared over Twitter and the Bitcoin podosphere.
+
+Case in point: For the better part of the last decade, the combination of these two practices has given rise to an increasing number of SIM swap attacks ending in the theft of bitcoin and other cryptocurrencies.
+
+A SIM swap is a low-cost, nontechnical way for attackers to gain control of a victim’s wireless phone account. To pull off an attack, a hacker needs to know how mobile wireless carriers authenticate identity and some portion of information about their victim. Often, this only requires a victim’s phone number.
+
+Now, there is unequivocal evidence that the majority of people in the United States who have phone number accounts with wireless carriers are vulnerable to SIM swaps. If you hold bitcoin that you don’t want to lose, this fact can be all the more harrowing.
+
+The Rise of SIM Swapping
+
+This increased potential for SIM swapping was proven in an empirical study published in January 2020 by a joint group of professors and Ph.D. students at Harvard University’s Department of Computer Science and Princeton University’s Center for Information Technology Policy.
+
+“The attacker calls your carrier, pretends to be you, and asks to transfer service to a new SIM — one that the attacker controls,” wrote Arvind Narayanan, an associate professor at Princeton and one of the paper’s authors, in a summation via Twitter. “That’s bad enough but hundreds of websites use SMS for 2-factor authentication, putting your accounts at risk.”
+
+The study tested the authentication protocol of five major U.S. wireless carriers — AT&T, T-Mobile, Tracfone, US Mobile and Verizon. After attempting a SIM swap on 10 different prepaid accounts for each carrier, the authors found that all five carriers used authentication methods which were deemed insecure.
+
+“Taken together, these findings help explain why SIM swaps have been such a persistent problem,” stated Narayanan.
+
+Even more troubling, SIM swaps are such a problem that Narayanan admitted that his phone’s SIM card was swapped during the research. When he called to report the fraud, his carrier’s customer service department was not able to verify him even after verifying his attacker. Narayanan ended up regaining control of his wireless account by applying his research to take advantage of his carrier’s protocol vulnerability.
+
+It was fortunate that Narayanan did this quickly. Once an attacker takes control of a victim’s wireless account, they have copious options for wreaking havoc. As stated in the study, this is due in large part to the insecure authentication methods users set for accessing digital assets online such as SMS- or call-based 2FA (these are insecure once an attacker has access to your wireless account) and security questions involving easily retrievable public information such as a mother’s maiden name. In addition, the study also found 17 websites on which user accounts can be compromised based on a SIM swap alone (the basis for this method came from the twofactorauth.org dataset). Shortly after the study’s release, T-Mobile informed the authors that after reviewing it, it had discontinued the use of “recent numbers” for customer authentication.
+
+Targeting Bitcoin Through SIM Swaps
+
+SIM swaps have been happening for years. Many SIM swap targets fall into one if not both of the following categories: a celebrity with a prized social media account such as CEO of Twitter, Jack Dorsey, or someone who owns a reasonable amount of cryptocurrency. Several cryptocurrency owners were SIM swapped last year during the height of bitcoin’s bull run.
+
+In December 2019, cryptocurrency journalist and podcaster Laura Shin released a podcast episode about her own experience as a recent SIM swap victim. Shin was not robbed, but her experience is noteworthy in that she revealed that, despite previously covering the topic in 2016 and actively securing her accounts years before, she was still vulnerable.
+
+Ultimately, what makes bitcoin owners more appealing SIM swap targets than other wireless carrier customers is the fact that bitcoin transactions are recorded on the blockchain so they cannot be reversed. Unlike wireless accounts, stolen bitcoin is much more difficult for authorities to seize (though it may be traceable through blockchain analysis).
+
+Furthermore, unlike most online banking accounts, only a handful of cryptocurrency exchanges such as Coinbase, Gemini, ItBit and Binance.US are secured by FDIC insurance, which insures deposits in member banks up to $250,000. When considering bitcoin’s value as a decentralized and immutable asset, this makes perfect sense. But it also means security should never be taken for granted.
+
+Wheels of Justice
+
+High-networth cryptocurrency owners like Michael Terpin, an entrepreneur and investor who co-founded the first angel fund for Bitcoin enthusiasts, the Bitangels fund, are all too aware of this tenet.
+
+“The wheels of justice grind slowly,” said Terpin in an interview with Bitcoin Magazine.
+
+Justice in Terpin’s case is entangled in an ongoing $224 million lawsuit against AT&T he filed in August 2018. Twice, an organized group of hackers swapped SIM cards connected to Terpin’s T-Mobile and AT&T accounts. According to him, the first time, a group of attackers “tricked people in two stores in Boston within an hour of each other to give up my credentials for both accounts.”
+
+Following these swaps, the hackers nabbed a little more than half of a bitcoin in an exchange account Terpin opened “when bitcoin was around $100.”
+
+After this first SIM swap, Terpin asked both of his carriers for more security. It turned out that AT&T and T-Mobile each offered “higher-profile protection options.” But both T-Mobile’s in-store verification “no port” option and AT&T’s addition of a six-digit account pin code proved useless when, as Terpin alleged, in January 2018, a 19-year-old employee at a New Jersey AT&T retail store gave up Terpin’s account password in exchange for a $100 bribe.
+
+In return, the group of attackers made off with $24 million in altcoins.
+
+“That’s right,” said Terpin, “the only thing they could get were ‘shitcoins,’ but they happened to be very high value that day.”
+
+Unlike bitcoin, Terpin’s stolen altcoins (TRIG, SKY and STEEM) had no hardware wallet private key backup options available.
+
+Even though Terpin’s last SIM swap happened more than two years ago, he said that he’s contacted each week by a new SIM swap victim seeking help. If they’re in state, he points them to his legal team and California’s REACT Task Force.
+
+Lil’ Swappers
+
+Terpin is also involved in a civil lawsuit against Nicholas Truglia, a 21-year-old New York City resident accused of stealing $24 million through SIM swaps. Truglia was initially accused of stealing $1 million in cryptocurrency from a Silicon Valley executive and creator of StopSIMCrime.org, Ross White.
+
+Terpin alleged that evidence at Truglia’s other SIM fraud bail hearing — an iCloud backup file — indicated that Truglia might also be the SIM swapper behind his $24 million attack. On the same day of Terpin’s attack, Truglia sent messages to family and friends indicating that he had stolen more than $20 million dollars worth of cryptocurrency from a wallet, had converted it to bitcoin and that his life had changed forever. Though investigations have remained quiet, Terpin alleged that Truglia was one member of a decentralized SIM swapping group of 26.
+
+Piecing together Truglia’s case with several other arrests, charges and sentences for cryptocurrency-stealing SIM swappers, the investigative journalist Brian Krebs has laid out detailed depictions of these characters. According to Krebs, they are all male and below the age of 25.
+
+In January 2020, a report emerged accusing 18-year-old Canadian resident Samy Bensaci of unsuccessfully SIM swapping Don Tapscott, head of the Blockchain Research Group. This story linked many SIM swap targets in the cryptocurrency community to their attendance of the annual Consensus conference held in New York City. It also corroborated the Krebs report, connecting SIM swap cryptocurrency theft to users of an online forum known as OGUsers.com.
+
+“I think everyone’s always caught off guard by the younger generation’s adoption of new technology,” said Matt Odell, a Bitcoin and privacy expert contributing to multiple projects such as co-hosting the “Tales From the Crypt” podcast.
+
+As with mass adoption itself, it appears that Bitcoin and related SIM swap theft is a phenomenon initiated by a younger generation to exploit victims of a more primitive system.
+
+Choosing Security Over Convenience
+
+“Laws being created around this technology are always way behind,” said Tyler Moffitt, a security analyst with Webroot, referring to the uniquely hazardous scenario bitcoin owners find themselves in thanks to their wireless carriers. “I can’t see [tighter carrier consumer protection laws] happening within the next five years, and by that time hackers will have made a pretty penny from SIM swap-based cryptocurrency theft.”
+
+Moffitt is among the many who believe that when it comes to weighing convenience and security, people will always lean toward convenience. This is exactly how wireless carrier accounts and American society, at large, have been designed.
+
+But louder voices are beginning to speak out. On January 9, 2020, a letter signed by six U.S. lawmakers was sent to Ajit Pai, the Federal Communications Commission (FCC) chairman who previously served as general counsel to Verizon. Advocating for increased protection against SIM swap fraud for wireless customers, the letter pointed to a statement from investigators with the REACT Task Force on total SIM swap damage: “They know of more than 3,000 SIM swap victims, accounting for a $70 million dollars in losses nation-wide,” the letter read.
+
+This letter also addresses the question of alleged claims that SIM swap hacking has become more sophisticated. Attackers are now also hacking directly into wireless carrier computers by tricking or coercing retail employees to run malware in the form of remote desktop protocols on their computers, in addition to outright bribery.
+
+“Have you seen reports of violations … involving the hacking of wireless carriers including computers in retail stores and those used by customer service agents?” the letter asked.
+
+Taking the issue one step further, the lawmakers and authors of this letter recognized that SIM swaps pose a very real threat to national security. This is according to the claim that many government agency employees use various levels of 2FA. Under this assumption, an organized group of hackers or nation-state actors could gain access to the email accounts of public officials then leverage that access in several significantly crippling ways, such as issuing a fake emergency alert from the Federal Emergency Management Agency’s alert and warning system.
+
+Terpin sent a similar letter to the FCC in the fall of 2019 with a more specific request.
+
+“I’m recommending the FCC make all U.S. carriers cover their passwords,” he wrote.
+
+This is the core security failing of wireless carriers — unlike banks, airlines and hotels, where account access is “pass” or “fail” based on having a password or not, wireless account passwords are available to carrier employees. Mainly, this is for convenience when a customer breaks or loses their phone, then needs back in desperately to return to our mobile-centric world. However, this core security vulnerability appears much worse given that many carrier stores, even ones branded with the names of the largest carriers, are in fact franchises owned and operated by third parties.
+
+“It’s not just the employees of a Telecom company,” said Guido Appenzeller, chief product officer at Yubico, a hardware security company best known for inventing the YubiKey. “Every third-party retail employee can access these databases.”
+
+Added to the fact that the minimum hourly pay for a third-party retail carrier worker ranges as low as $10 per hour in certain locations, it becomes clear why there could be an incentive for a retail worker to leak some thousand account passwords at $100 a pop.
+
+Protecting Yourself From SIM Swapping Should Be Part of Bitcoin
+
+There’s a common thread in Bitcoin culture that was arguably embedded in its code from the start — gaining true freedom means taking on a new level of personal, financial and technological responsibility. Privacy and operational security are no different and often they are not sacrificed for convenience, but for profit through activities such as trading and lending. Overall, having more to lose is the best motivation for better Bitcoin security, but it’s important not to fall victim to theft by assuming your bags aren’t big enough.
+
+This break from convention is one reason why wireless carriers are not optimizing for Bitcoin users. Most people will not be targeted for a SIM swap but, according to Appenzeller, if someone has “say more than $10,000 in a bitcoin wallet, SIM swapping certainly becomes economically attractive to hackers.”
+
+There are also instances of more sophisticated and readily available malware attacks that bypass application-based 2FA without requiring a SIM swap. These include the use of imposter phishing websites, such as the one used in the last Binance hack, as well as the more sinister DNS hijacking or poisoning, typically used by nation-state actors for spying, such as operation sea turtle.
+
+The good news is that there are technologies available to protect against SIM swaps and more sophisticated phishing attacks. The strongest 2FA method available in the mass consumer market is U2F, or two-factor authentication using a USB. Using U2F removes SIM card-based attacks as a risk and also “phishing and other man-in-the-middle attacks and other malware attacks,” according to Appenzeller.
+
+His company, Yubico, created U2F with Google and have since used it in its flagship product, the YubiKey. In this way, the YubiKey is the hardware wallet equivalent of 2FA, and as of this writing, none of its users have fallen prey to a SIM swap-related theft.
+
+How to Avoid a SIM Swap
+
+For this article, we spoke with several security experts and members of the Bitcoin community. Based on that information, here is a list of “do’s” and “don’ts” for avoiding a SIM swap attack:
+
+For Beginner and Average Bitcoin Users
+
+Keep bitcoin in a hardware wallet and stop using phone-based 2FA.
+
+“Do secure your private keys with hardware devices and multisig. Don’t use browser-based wallets as they have huge attack surfaces. Do use hardware-based 2FA for any web app that supports it. Don’t use SMS 2FA or enable online accounts to be reset/recovered via a phone number.” — Jameson Lopp, Bitcoin Core engineer
+
+If you do not transact with bitcoin, do not keep it on an exchange. See this list of exchanges that have lost their customer’s money from hacks and other nefarious activity.
+
+Discuss beefing up security with your phone carrier and use application-based authenticators.
+
+“You can ask for more security with your phone carrier. You should not use SMS authenticators. Use authentication apps like Google Authenticator or Authy.” —Tyler Moffit
+
+For Anyone Who Has Shared Their Identity With Their Wireless Phone Account (Most of Us)
+
+Revisit the security policies of your wireless carrier and other online accounts. You can test this by trying to hack into your own accounts. Twofactorauth.org is a good place to start.
+
+“I think, long term, the real question is why do we still use phone numbers? The simplest way to check if you’re secure is try to get into all your accounts with your phone number, if you can, you have a SIM swap vulnerability.” — Matt Odell
+
+For Those Who Think Their Bitcoin Is Safe With a Hardware Wallet Alone
+
+Use a password manager in combination with your bitcoin wallet(s). Regularly test your procedure, even when its simple.
+
+“I’m using a password manager, it’s a great practice. Everyone I work with uses a password manager.” — Guido Appenzeller
+
+“As far as password/key management, I use a solid password manager with multiple encrypted USB backups. At least one away from the house [and] one at the house. I always bring a copy when I travel, do occasional testing and overview of the setup with my wife and another brother. [The] bulk of [my] sat stacking [is] on hardware wallets, then moderate amounts in a Bitcoin Core wallet that I use to fund all my Casa, mobile apps, Lightning, beta clients, etc.” — Guy Swann, host of the Cryptoconomy podcast
+
+For the Highest Grade of Security, Friendly to Consumers
+
+Get at least one YubiKey, they are relatively inexpensive.
+
+“Buy multiple YubiKeys (for redundancy) and use them for 2FA whenever possible. Many password managers support YubiKey 2FA while many web apps now support U2F 2FA, which newer YubiKeys also support. If a web app only supports TOTP rolling codes, you can still secure that data on a YubiKey by using the Yubico authenticator app.” — Jameson Lopp
+
+To Avoid More Sophisticated Attacks
+
+Bookmark sensitive account webpages.
+
+“The Binance hack is a good example of when application 2FA can fail. In this case, they are searching Binance in Google and selecting the first webpage, which in this case was a fake website that was pushed to the top of Google search through paid promotion for a day. You should bookmark sensitive webpages which hackers could try to fake.” —Tyler Moffitt
+
+To Proactively Improve Your OPSEC
+
+Set a Google alert for “SIM Swap” or “hacker” and “court case.”
+
+“As a civilian, It is difficult to look at OPSEC as something of importance for other (law abiding) citizens. Many of the best examples of OPSEC in the real world — good OPSEC and bad OPSEC — are often pulled from court documents that detail a criminal organization. Other good examples are often from the intelligence or military sectors and rarely seem applicable.” — @5auth, cryptomarket and dark market researcher.
+
+For even more information about how to secure your bitcoin from SIM swap attacks and what to do if one happens to you, see the SIM Swapping Bible. Attacks, SIM swap or otherwise, tend to happen when bitcoin is on a bull run.

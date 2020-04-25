@@ -1,0 +1,23 @@
+DATE:  16.09.2019, 15:31:40
+TITLE: Kraken bug apparently let users buy Bitcoin for $8,000 and instantly sell it for $12,000
+URL:   https://thenextweb.com/hardfork/2019/09/16/kraken-bug-apparently-let-users-buy-bitcoin-for-8000-and-instantly-sell-it-for-12000/
+
+Cryptocurrency exchange Kraken – one of the world’s oldest – has disclosed a bug that apparently allowed certain customers to purchase Bitcoin at $8,000 and sell it for $12,000.
+
+Image provided by Kraken on Twitter
+
+Taking to Twitter, the exchange said “a test of an unreleased advanced order type encountered a bug, which resulted in the order’s prices being matched against the wrong side of the book.”
+
+2/3 While the candle gives the impression that liquidity was exhausted between $8-12k, the wicks on either side are hollow. A trade executed at the high and low but there were not trades throughout and there were no other orders that were not matched that should have been. — Kraken Exchange (@krakenfx) September 14, 2019
+
+The exchange explained that as a result of the bug, orders had been executed on either side of the $8,000-$12,000 spread, without actually clearing the intervening liquidity.
+
+Despite this, Kraken says stop orders were triggered and correctly filled at market price.
+
+Kraken has recommended that affected users get in touch with their questions and submit a support ticket here – but this didn’t stop users from criticizing the exchange.
+
+Taking issue with the critics, Kraken’s CEO Jesse Powell, who set up Kraken in 2011, tweeted: “I’m not sure how ‘a legitimate trade for pricing purposes’ is defined. Agree that matching at trade to the wrong side of the book is an exchange error. Everything that happened after that worked as expected. Trade printed, stops triggered, other orders matched just fine.”
+
+While the Kraken charts may appear as though lucky traders might’ve bought low and sold high almost immediately, the exchange’s official Twitter appears to claim this wasn’t the case. Hmm.
+
+Come say hi to the Hard Fork team at our blockchain event. On October 15-17 in Amsterdam, hear from top experts as they discuss the industry’s future.

@@ -1,0 +1,47 @@
+DATE:  26.04.2019, 14:56:14
+TITLE: One mining pool controls a dangerously dominant share of BitcoinSV’s hash rate
+URL:   https://thenextweb.com/hardfork/2019/04/26/calvin-ayre-coingeek-bitcoin-sv-hash-rate-51-percent-double-spend/
+
+The integrity of Bitcoin Satoshi Vision (BitcoinSV) remains in question, as one group of cryptocurrency miners approaches control of the network‘s hash rate.
+
+Calvin Ayre’s CoinGeek has become BitcoinSV’s primary mining pool. Right now, data shows it controls 46 percent of the total computing power on the network. CoinGeek has also mined 52 percent of BitcoinSV blocks over the past day.
+
+If CoinGeek’s hash rate does end up exceeding 51 percent by itself, it will mark the third time in six months.
+
+The impending struggle comes just one week after an odd series of “block reorganizations” rocked the BitcoinSV network to a standstill that lasted over an hour.
+
+More than 51 percent allows double-spending
+
+When one entity (alone or as part of a colluding group) controls more than 51 percent of a blockchain‘s hash rate, those parties alone decide what transactions are accepted (and rejected) by the network.
+
+This situation is considered an extreme security risk, as all network participants are forced to trust a centralized group to not get up to any funny business. In this case, that group would be Calvin Ayre and CoinGeek.
+
+Hash rate majority also allows bad actors to ‘double-spend.‘ This is an attack that spends cryptocurrency with intent to stop the transactions before they’re confirmed by assuming more than 51 percent of a blockchain‘s total hashing power.
+
+It should also be said that nChain operates “BMGPool,” which currently runs 29 percent of BitcoinSV’s hash rate. nChain is the software firm founded by Craig Wright (one of BitcoinSV’s lead brains).
+
+At present, CoinGeek and BMGPool make up 75 percent of BitcoinSV’s hash rate.
+
+CoinGeek had 51% of BitcoinSV’s hash rate twice before
+
+CoinGeek’s miners controlled over 51 percent of Bitcoin SV’s hash rate for a full week (November 18 to 25) several months back.
+
+The ‘worst’ day was November 24, when it controlled 61 percent. The same thing happened from March 2 to 8, when CoinGeek operated more than 51 percent of BitcoinSV’s mining, often for days at a time.
+
+Having just one mining pool in charge of more than 51 percent of a blockchain‘s hash rate is certainly alarming.
+
+Examples of 51-percent attacks suffered by blockchains are numerous, including the recent Ethereum Classic incident that saw $1.1 million worth of cryptocurrency double-spent by malicious miners.
+
+When this happened to Bitcoin, people really cared
+
+Curiously, when old-school Bitcoin (BTC) mining pool Ghash.io approached hash rate majority for the first time in 2014, the group promised it had never, and would never, participate in a 51-percent attack on Bitcoin, or attempt any double-spending.
+
+At the time, prominent Bitcoin developer Peter Todd even said he had sold 50 percent of his Bitcoin after he deemed the centralized power of Ghash.io far too risky.
+
+To date, it appears CoinGeek is yet to follow the example set by Ghash.io. Early last year, it did pledge to monitor the Bitcoin Cash network for potential double-spenders.
+
+That was back when the group was still dedicated to Bitcoin Cash, a fork of Bitcoin supported by Roger Ver.
+
+A lot has happened since then, you can read about some of it here.
+
+Did you know? Hard Fork has its own stage at TNW2019, our tech conference in Amsterdam. Check it out.

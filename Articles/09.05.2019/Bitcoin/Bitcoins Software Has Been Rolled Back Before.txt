@@ -1,0 +1,39 @@
+DATE:  09.05.2019, 21:35:22
+TITLE: Bitcoin's Software Has Been Rolled Back Before
+URL:   https://news.bitcoin.com/bitcoins-software-has-been-rolled-back-before/
+
+Bitcoin's Software Has Been Rolled Back Before
+
+When Binance lost $40 million to hackers this week, the crypto community discussed reorganizing the chain after it was suggested by a developer from MIT. Many people were upset by this proposition, declaring that there was no way a coordinated effort with miners could be pulled off. However, most bitcoiners don’t seem to remember that a similar centralized decision was made in 2013, when Btc Guild’s hashrate was leveraged to downgrade the main chain from Bitcoin 0.8 to version 0.7.
+
+Also read: Europol Claims New Scalps – Chaos as Darknet Markets are Downed
+
+Crypto Community Outraged Over Reorg Discussion
+
+Cryptocurrency advocates have been all riled up discussing a theoretical reorganization of the Bitcoin Core (BTC) blockchain. The conversation heated up after it was suggested by the developer Jeremy Rubin and Binance CEO Changpeng Zhao (CZ), who mentioned it after his exchange lost $40 million worth of BTC. Some people became extremely upset at the mere discussion of a reorganization and stated that there was no way it was possible. People have argued the subject for hours and have written long-winded posts filled with theories and calculations.
+
+There are a couple of ways to trigger a blockchain reorganization, which occurs when the chain of recorded blocks is invalidated or orphaned by either a 51% attack or another method, forcing miners back to a point where they have to start again from a specific block height. It’s akin to rolling back a recorded history of transactions and then re-recording them again, but of course the new transactions would never be the same as the ones that were erased. If this technique was used, some believe the history of the Binance transaction which saw the loss of 7,000 BTC would be erased as well.
+
+The Coordinated Effort to Roll Back to Bitcoin Version 0.7 in 2013
+
+After all the discussions on social media concerning centralized entities possibly reorganizing the chain to erase the loss $40 million, it’s interesting to revisit the history books to see if there were any similar events back in the day. In March 2013, Arvind Narayanan described a similar situation where developers coordinated to get a large mining pool to revert the chain to prior software after an accidental fork took place. There was a severe issue with the compatibility between Bitcoin client 0.7 and version 0.8, which caused the main chain to fork into two. In fact, Narayanan detailed that a centralized decision was utilized to help find a solution.
+
+After the crisis was assessed, BTC developers were introduced with an idea from Btc Guild which wrote: “I can single-handedly put 0.7 back to the majority hash power — I just need confirmation that that’s what should be done,” in a developer chat room. Pieter Wuille responded: “IMHO, that is what you should do, but we should have consensus first.” Narayanan’s paper underlined the centralization factor when he remarked: “So much for decentralization — The fact that Btc Guild can tip the scales here is crucial.”
+
+“The hash power distribution at that time appears to be roughly 2/3 vs 1/3 in favor of the 0.8 branch, and Btc Guild controlled somewhere between 20% and 30% of total hash power,” the researcher noted at the time. “By switching, Btc Guild loses the work they’ve done on 0.8 since the fork started. On the other hand, they are more or less assured that the 0.7 branch will win and the fork will end, so at least their post-downgrade mining power won’t be wasted.”
+
+Narayanan also stressed that if the hashrate was instead distributed among thousands of small independent miners, it would prove way more difficult to coordinate the effort. The paper describes how Btc Guild sacrificed their mining revenue for the good of the network. The author also hypothesized how developers would be able to convince another large pool operator if Btc guild didn’t believe it would win. After the plan was agreed upon by various developers, the alert notice was sent out which said: “URGENT: chain fork, stop mining on version 0.8.” In addition to the alert, Bitcoin Core developer Pieter Wuille told miners: “If you’re a miner, please do not mine on 0.8 code — Stop, or switch back to 0.7 — Btc Guild is switching to 0.7, so the old chain will get a majority hashrate soon.” After Narayanan summed up the events on how developers and Btc Guild fixed the situation, he explained his opinion that even though it was centralized it was the right decision.
+
+Vitalik Buterin: ‘Incident Brings Forth Uncomfortable Facts About Bitcoin’s Notion of Decentralization’
+
+At the time, however, the inventor of Ethereum, Vitalik Buterin disagreed and said “the incident opens up serious questions about the nature of the Bitcoin protocol and puts into the spotlight some uncomfortable facts about Bitcoin’s notion of ‘decentralization.’” Buterin also emphasized that the other aspect of Bitcoin’s decentralization that this incident called into question was that of mining pools. “The reason why the controlled switch to the 0.7 fork was even possible was that over 70% of the Bitcoin network’s hash power was controlled by a small number of mining pools and ASIC miners, and so the miners could all be individually contacted and convinced to immediately downgrade.”
+
+So the question is, how does the BTC hashrate distribution look today in comparison to when Btc Guild was a dominant miner back in 2013? Today a 51% coordinated effort would take around five mining pools to work together as each of the dominant BTC pools have 10% or more of the global hashrate. The task would be extraordinarily expensive compared to doing this maneuver in 2013. But so-called experts shouting that a coordinated 51% reorganization couldn’t happen today, especially after a similar instance took place in 2013, are being very naive. Even Buterin concluded in his synopsis of the 2013 situation that people were worried about centralization after it happened.
+
+In an op-ed on March 12, 2013, Buterin pondered: “Some worry, if a centralized core of the Bitcoin community is powerful enough to successfully undertake these emergency measures to set right the Bitcoin blockchain, what else is it powerful enough to do?”
+
+What do you think about the similarities between the 2019 Binance discussion involving a reorganization and the March 2013 rollback? Let us know what you think about this subject in the comments section below.
+
+Image credits: Shutterstock, Blockchain.com, Pixabay, Arvind Narayanan blog Freedom to Tinker, and Twitter.
+
+Verify and track bitcoin cash transactions on our BCH Block Explorer, the best of its kind anywhere in the world. Also, keep up with your holdings, BCH, and other coins, on our market charts at Bitcoin.com Markets, another original and free service from Bitcoin.com.

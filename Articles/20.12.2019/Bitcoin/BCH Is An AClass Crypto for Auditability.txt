@@ -1,0 +1,49 @@
+DATE:  20.12.2019, 14:00:11
+TITLE: BCH Is An A-Class Crypto for Auditability
+URL:   https://news.bitcoin.com/bch-is-an-a-class-crypto-for-auditability/
+
+BCH Is An A-Class Crypto for Auditability
+
+Crypto research group Coin Metrics recently released issue 30 of its “State of the Network” series, which ranks crypto assets by auditability. Taking into account node operation, synchronization, normal operation, code audit and extraction of ledger data, the top 10 cryptocurrencies by market cap were ranked. These were also ranked on ease of ledger reconstruction, and in both categories bitcoin cash emerged as a top-ranked, grade A crypto.
+
+Also Read: Crypto Experts Give Their Top Predictions for 2020
+
+Methodology
+
+Released on Tuesday, the Coin Metrics report goes into great detail describing the methodology for its rankings. “As well as running nodes for most major crypto assets, we also extract raw blockchain data from them to rebuild the asset’s ledger independently. This allows us to compute many of our metrics (for example, realized capitalization) but also to more deeply analyze each asset,” the post details.
+
+Rating node operation, synchronization, normal operation, auditability of code, and extractability of ledger data, Coin Metrics ranks the top ten market cap cryptos on their overall soundness and transparency. For example, citing the Binance chain’s code the report reads: “In that dimension, of the more than 35 unique nodes that Coin Metrics manages, one is unique: Binance Chain. It’s the only one whose source code is not available: only signed binaries are provided to would-be node maintainers.”
+
+Regarding difficulty of synchronization and EOS, it is noted that “synchronizing a full archive EOS node took more than one month and required a machine with terabytes of NVMe SSDs, some of the fastest storage available.”
+
+Bitcoin, bitcoin cash, litecoin and bitcoin SV all received an A rating with the aforementioned auditability dimensions considered. Ethereum got a B “Since historical ledger auditing for ethereum requires a node with tracing and they take a long time to synchronize.” As for tether, the Omni Layer it utilizes was found by Coin Metrics to have “many different ways to credit and debit native units, each accessible through its own API endpoint,” resulting in complications.
+
+“Despite having a very clean accounting model for an asset of its complexity, EOS gets an F due to the complexity of extracting all the necessary data to run a complete audit,” the report reads. When it came to Binance, they struck out on two counts: a “complex fee schedule for its DEX” and closed source code for the same which “makes reverse engineering this schedule very hard.”
+
+Ledger Reconstruction Rankings
+
+The second major evaluation of the Coin Metrics report focuses on ledger reconstruction. With the nodes synchronized, auditors can then rebuild the various ledgers. “The way this is accomplished depends on the asset’s accounting model: UTXO-based (like Bitcoin and its derivatives) or account-based (Ethereum and many others),” the report notes.
+
+Some idiosyncrasies and important notes are made regarding how supply is determined. Where bitcoin is concerned, OP_Return outputs and the genesis block’s output are not counted. Regarding Ethereum, the report clarifies that “Account-based transactions, especially smart contract invocations, only describe the intent of the user, not its effects on the ledger. To be able to recover their impact on the ledger, nodes often need to be run with what is often called ‘tracing’.”
+
+Also noted by the report are the difficulties arising with implicit block rewards and implicit ledger edits which are not an issue for most UTXO cryptos — as the reward amount is clearly seen in each block — but can present problems for account-based assets like ethereum.
+
+“Ripple and Stellar are not graded as we do not reconstruct their ledger completely independently as we rely on APIs provided by third parties,” Coin Metrics notes. Their report continues:
+
+Bitcoin and its derivatives (Bitcoin Cash, Litecoin, BSV) receive an A as tracking their UTXO set is a simple task.
+
+Omni gets a B this time due to multiple “ways to move native units which makes it harder to track.” EOS gets a B due to its large scale, which makes auditing difficult. “For Ethereum, the current state of the tools we use don’t allow a full reconstruction of the ledger only using the data exposed by tracing, the changes made in the DAO hard fork have to be manually implemented. It therefore receives a C,” Coin Metrics details. Binance chain once again got an F thanks to a lack of source code and its highly complex DEX.
+
+Keep it Simple
+
+The Coin Metrics report concludes with a statement on validating supply, and notes: “This category doesn’t have a ranking as it’s binary: either we can validate the supply or we can’t due to being unable to reconstruct its ledger. There’s been no case of an asset for which we couldn’t determine what the expected supply should be. A few assets’ nodes let users query what the actual supply is (most notably Bitcoin and its derivatives) which makes this task easy.”
+
+Coin Metrics further clarifies that their rankings are not necessarily reflections on the various protocols themselves, but are also affected by the “nodes and tooling available to users.” In any case, networks like Bitcoin Cash which are easily auditable, straightforward and simple to interact with foster market confidence, and make keeping things decentralized and secure by running one’s own node a readily available option.
+
+Disclaimer: This article is for informational purposes only. It is not an offer or solicitation of an offer to buy or sell, or a recommendation, endorsement, or sponsorship of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.
+
+What do you think about Coin Metrics’ crypto rankings? Share your thoughts in the comments section below.
+
+Images courtesy of Shutterstock, fair use.
+
+Verify and track bitcoin cash transactions on our BCH Block Explorer, the best of its kind anywhere in the world. Also, keep up with your holdings, BCH and other coins, on our market charts at Bitcoin.com Markets, another original and free service from Bitcoin.com.

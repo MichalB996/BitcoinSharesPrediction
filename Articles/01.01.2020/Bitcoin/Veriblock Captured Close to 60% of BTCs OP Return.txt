@@ -1,0 +1,51 @@
+DATE:  01.01.2020, 01:05:07
+TITLE: Veriblock Captured Close to 60% of BTC's OP Return Transactions in 2019
+URL:   https://news.bitcoin.com/veriblock-captured-close-to-60-of-btcs-op-return-transactions-in-2019/
+
+Veriblock Captured Close to 60% of BTC's OP Return Transactions in 2019
+
+During the course of 2019 the most used BTC-based OP_Return protocol, Veriblock, outshined Omni Layer outputs. According to statistics, Veriblock captured 57% of BTC’s OP_Return outputs in 2019. Ever since the protocol’s opcodes started dominating, a number of BTC influencers has called the outputs “abuse” and “spam.”
+
+Also Read: Central Bank Gold Hoarding Hits 50-Year High
+
+Veriblock Captured a Majority of the BTC-Based OP_Return Outputs in 2019
+
+2019 was an interesting year and a slew of blockchains saw a bunch of statistical changes. One specific data point observed this year was the consumption of OP_Return transactions processed on the BTC blockchain.
+
+Prior to the start of the year, the Omni Layer Protocol, the project that issues tether (USDT), captured most of the OP_Returns. But this year, the stablecoin firm Tether started migrating a great number of USDT to other chains including Ethereum, Tron, and Algorand.
+
+The company moved roughly half the activity of USDT into the Ethereum network. Currently, there is 2.2 billion USDT now using the ERC20 standard and another 22% of USDT is held on Tron using the TRC20 standard. These migrations have made it so the Omni Layer Protocol using the BTC chain for data is handling fewer USDT transactions per day.
+
+The Veriblock project is another network that leverages the BTC chain’s OP_Return transactions in order to create a proof-of-proof (PoP) consensus system. Basically, Veriblock uses BTC’s security model to tether a snapshot of an altcoin’s blockchain into BTC’s ledger.
+
+A mixture of OP_Return transactions and other methods are utilized to embed the alternative blockchain’s data. During the first week of 2019, on January 5, Casa CTO Jameson Lopp noticed that OP_Returns stemming from Veriblock were outpacing all the other forms of OP_Return transactions.
+
+At the time, a few BTC supporters called the Veriblock project “spam” or “garbage” and Lopp said the idea was “inefficient.” Then months later in September, the project sparked controversy once again when BTC developer Luke Jr said the Veriblock project was consuming too many Segwit bech32 transactions. At the time, the Veriblock project told the crypto-community it had transitioned to using Segregated Witness (Segwit).
+
+Small block advocates got very upset with Veriblock’s operations writing odd blog posts about “Transaction Eugenics” that week and Luke Jr once again argued that developers should consider reducing the block size to 300 kilobytes.
+
+Coldcard founder Rodolfo Novak agreed with the Bitcoin Core developer’s assessment and Luke Jr emphasized that “denying the problem won’t fix it — reducing block sizes might.” Now that 2019 is coming to an end, BTC proponents once again have discovered that Veriblock outputs have dominated the OP_Returns on the BTC chain all year. On December 29, Lopp again shared data in regard to the OP_Return trend and tweeted:
+
+Omni Layer was displaced as the most-used OP_Return protocol in 2019 as Veriblock was used to create 57% of new OP_Return outputs.
+
+The Hatred Toward Veriblock Operations Swells
+
+The news still upsets BTC supporters who dislike Veriblock’s operations and a number of influencers have bad things to say about the project. This past week, Bitrefill representative John Carvalho called Veriblock a “scam,” while many other BTC pundits continued to show strong adversity toward Veriblock. “Veriblock is like a malicious parasite that is raping the bitcoin network daily without returning any benefits,” one person replied to Carvalho’s scam comment on Twitter.
+
+Bitcoin Cash (BCH) supporters also commented on Veriblock dominating BTC’s OP_Return outputs. “So between Omni and Veriblock, the OP_Return usage on BTC is pretty insignificant — Still, the Segwit usage and the OP_Return usage climbs to new record highs,” software developer Jonathan Silverblood tweeted. Silverblood added:
+
+I wonder how much of BTC network activity is still peer-to-peer-electronic-cash.
+
+Lopp also tweeted a list of OP_Return statistics the following day, which indicated BTC-based OP_Return (data anchor) outputs have been rising exponentially. In 2014, there were 13,000 OP_Returns and in 2016 the number jumped above 1 million. OP_Returns on BTC doubled in 2017 and then jumped 6X in 2018.
+
+In 2019, thanks to Veriblock and the rest of the data anchor operations there were 28.2 million OP_Return-based transactions processed. Of course, a number of BTC supporters are confident that projects like Veriblock will someday be priced out by higher network fees.
+
+“I’m fairly certain the explosion of OP_Return transactions in 2019 came from Veriblock,” said Wayne Vaughan CEO of the project Tierion. “I don’t think [Veriblock’s] usage model will survive future transaction fee price increases.”
+
+What do you think about Veriblock dominating most of the BTC-based OP_Return transactions in 2019? Do you think projects like Veriblock should be allowed to anchor data to the BTC chain in a permissionless manner? Let us know what you think about this subject in the comments section below.
+
+Disclaimer: This article is for informational purposes only. It is not an offer or solicitation of an offer to buy or sell, or a recommendation, endorsement, or sponsorship of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any ideas, concepts, content, goods or services mentioned in this article.
+
+Image credits: Shutterstock, Pixabay, Blockchain.com, Wiki Commons, and Coin Dance.
+
+Want to create your own secure cold storage paper wallet? Check our tools section. You can also enjoy the easiest way to buy Bitcoin online with us. Download your free Bitcoin wallet and head to our Purchase Bitcoin page where you can buy BCH and BTC securely.

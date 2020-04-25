@@ -1,0 +1,107 @@
+DATE:  28.10.2019, 12:00:11
+TITLE: Darknet Markets Can’t Live With or Without Bitcoin
+URL:   https://bitcoinmagazine.com/articles/darknet-markets-cant-live-with-or-without-bitcoin
+
+Ring in the new bitcoin halving cycle the right way: with us!
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+Earlier this month, the United States Department of Justice (DOJ) announced the seizure and takedown of Welcome to Video (WTV), one of the largest darknet marketplaces for child pornography in the world. The website was accessed through Tor Hidden services (.onion) and transacted a total of $353,000 entirely in bitcoin from 2015 to 2018.
+
+It should come as no surprise that all bitcoin transactions in and out of WTV were traceable. Alongside undercover investigation techniques, Bitcoin’s pseudo-anonymity became an integral part of how investigators were able to locate and seize the darknet marketplaces as well as its global user base.
+
+Further Reading: Is Bitcoin Anonymous?
+
+Contrary to what one might consider FBI or NSA territory, U.S. involvement in the case was led by the IRS and Homeland Security Investigations (HSI) teams. In the DOJ announcement, Chief Don Fort, head of the IRS investigation team, stated that through the use of “sophisticated tracing of bitcoin transactions,” agents were able to identify the administrator of the WTV website and locate its server in South Korea. This is all true — and it makes for a great press release — but there’s more to the story.
+
+A Follow-the-Money Style Blockchain Tool
+
+In general, a variety of techniques are required and employed for this level of cyber investigation. During the case, law enforcement was, in fact, aided by blockchain analysis software created by Chainalysis. In an interview with Bitcoin Magazine, Jonathan Levin, Chainalysis’ co-founder and chief strategy officer, explained the role that Bitcoin played in this case.
+
+Chainalysis provides a specialized “follow-the-money” style of data visualization for bitcoin transactions to government agencies, cryptocurrency exchanges and traditional financial institutions. But Levin emphasized that Chainalysis is never purely the architect for solving a case. Its software acts in a much more supplemental support role for law enforcement.
+
+“What we provide really is the training and software to law enforcement agencies so that those agencies themselves and cryptocurrency exchanges can collaborate to build these types of investigations,” said Levin. “We help identify the services that individuals are using to cash in and out of funds. Those exchanges themselves can then identify who those individuals are using KYC standards and then shed light on that information with law enforcement to go on and make arrests.”
+
+Further reading: Bitcoin Is Not Anonymous and Tor Users Are Forgetting This
+
+Using the Chainalysis Investigations product Chainalysis Reactor, IRS-Criminal Investigations (IRS-CI), HSI and a cohort of other national agencies across the world were able to map the flow of transactions on the Bitcoin blockchain that transferred funds to WTV bitcoin addresses.
+
+The Reactor product essentially simplifies how people can see cryptocurrency transactions so that data from those insights can be more easily digested and understood. This bitcoin transaction information was subsequently disseminated as evidence for arrest to other law enforcement agencies in the United Kingdom, South Korea, Germany, Saudi Arabia, the United Arab Emirates, the Czech Republic, Canada, Ireland, Spain, Brazil and Australia.
+
+Chainalysis bitcoin transaction mapping and visualization depicting the flow of funds in and out of Welcome to Video addresses.
+
+Through Chainalysis’ mapping, law enforcement knew to target other darknet markets and cryptocurrency exchanges to further identify the WTV user base for subsequent arrests. U.S.-based cryptocurrency exchanges, at least, are required by law to follow KYC standards and comply with law enforcement. Many of these exchanges provided copies of identification, addresses and other transactional information, while open-source intelligence and “standard investigative techniques” did the rest.
+
+“This is one of the most successful takedowns of a child pornorgraphy website in the last few years,” said Levin, “and it was enabled both through law enforcement effort and collaboration with cryptocurrency exchanges, and without that the case would not have been as successful.”
+
+Given that Chainalysis positions itself in the cryptocurrency ecosystem as a data and compliance firm, providing analysis software to government agencies, financial institutions and cryptocurrency exchanges, Levin thinks fighting against the abusive use of cryptocurrency will create more trust in the market and bring more opportunities to more people.
+
+As cryptocurrencies become more mainstream, touching and integrating more traditional financial institutions into the cryptocurrency economy, there’s a consistently growing demand to understand how and why people are using cryptocurrencies. As a result, Chainalysis is expanding across the board in all of its business lines. Levin said it will continue to add more cryptocurrencies to its platform and expand globally, particularly in the Asia-Pacific region.
+
+In contrast to more traditional anti-(fiat)money laundering services, Chainalysis has a clear advantage.
+
+“The difference between what they do and what Chainalysis does lies in the clear fact that blockchain analysis requires one publicly available immutable ledger,” Levin explained.
+
+An obvious observation from a follow-the-money perspective, using one publicly immutable ledger makes it far less difficult and time consuming to analyze transactional data.
+
+Blockchain Analysis vs. CoinJoin
+
+Research over the internet about the effectiveness of mixing services like CoinJoin yields a miasma of opinions. In the past, government officials and technologists have said it can be cracked. However, the technology for both mixing and unmixing cryptocurrency continues to get better. A Wired article gives some background on why revealing a detailed unmixing methodology to the public is not always in a public or private organization’s best interest.
+
+Also, the true effectiveness of mixing coins isn’t likely a simple yes-or-no answer. Here’s how Levin explains it:
+
+“There have been instances where CoinJoin is relatively ineffective; there have been cases where it has been effective. So there’s not a blanket answer to whether blockchain analysis does or does not get through mixing services like CoinJoin.”
+
+The Other Major Operational Slip Up
+
+Putting aside Bitcoin, another crucial break in the case can be found in the indictment (explicit) for WTV’s administrator, Jong Woo Son. The indictment shows another major security slip. In September 2017, investigators discovered that by right-clicking the WTV homepage and selecting “view page source,” anyone could view the website server’s IP address.
+
+A month later, another IP address was exposed in the same way. These two IPs were used as evidence and tracked back to a single account hosted by a telecommunications provider in South Korea. The account was registered to Son.
+
+During the same time, an undercover agent repeatedly sent BTC to a bitcoin wallet address provided on the WTV website. Each time, the owner of this bitcoin address transferred funds to another address held on a “BTC exchange.” The signature card for the account was held in Son’s name.
+
+With reasonable evidence to search Son’s house, investigators found further indicators to corroborate Son as WTV’s administrator, including four email accounts owned by Son linked to the same leaked IP address in WTV’s homepage.
+
+So Why Use Bitcoin?
+
+Between 2015 and its shutdown in 2018, WTV featured over a quarter of a million videos, over eight terabytes of perhaps some of the most vile content on the internet. It charged users as much as $350 in bitcoin for a subscription. The DOJ release states that this website was one of the first of its kind to monetize child exploitation videos using bitcoin.
+
+However, accepting only bitcoin for this level of criminal activity was not only unwise, it was also fairly uncommon. According to the nonacademic darkweb, crypto and drug market researcher Caleb (@5auth), “marketplaces such as WTV do not typically require payment.”
+
+Caleb has a much better understanding of the darkweb than the average person. His take on the significance of the WTV shutdown is fairly Austrian. After all, in anonymous — and in WTV’s case, sinister — marketplaces, the invisible hand is always moving the market.
+
+“WTV filled a spot that is now vacant,” Caleb said. “Someone will create a site and fill the void. The new site will likely make fewer basic mistakes during its creation and practice better opsec. But I doubt they will drop support for bitcoin or enforce the use of more private cryptocurrencies.”
+
+On this last point, Levin is in agreement: “It’s going to take quite a long time for any other cryptocurrency to unseat bitcoin as the most used cryptocurrency on the darkweb,” he said.
+
+And because bitcoin is the most tried-and-true method for payment in these illicit online markets, not accepting it would clearly be bad for business.
+
+“There has been a lot of research that has shown that darknet marketplaces have real competition, and from an academic perspective, I think there’s an inevitability of those marketplaces to exist,” said Levin. “If [talking about darknet platforms in general] is marketed at trying to get as many people as possible to participate in the marketplace, and that means transacting in bitcoin, then people might feel that it’s worth the risk if it means getting a larger target market.”
+
+This gets at the paradoxical nature of using bitcoin for criminal activity. From an operational security perspective, the WTV shutdown proves that it’s probably one of the worst methods of payment for this level of criminal activity.
+
+However, at least generally speaking about darkweb economics, bitcoin is still by far the most widely used and accepted method for payment. According to Caleb, evidence shows that until a few months ago, almost all darkweb drug markets that only accepted monero ultimately failed or died due to lack of customers.
+
+A SamaSara Market vote for XMR implementation
+
+One or two XMR-only markets are generating income. However, Caleb points out that while Monero might seem better for illicit activity, the market still prefers bitcoin and not accepting it will limit growth.
+
+“‘Fly-by-night’ markets can set up shop with one of the many scripts for creating a basic market that accepts only bitcoin and still make a killing,” Caleb said.
+
+Sending a “Clear Message” to Darknet Markets
+
+Ultimately, bitcoin paid for WTV subscriptions, and that is what led investigators to the door of Jong Woo Song, a 23-year-old South Korean national, currently serving his sentence as the convicted administrator and service operator of WTV.
+
+An analysis of the server revealed that the website had more than one million bitcoin addresses, signifying that it had the capacity for at least one million users.
+
+In total, law enforcement agencies across the world have shared data collected from the seized website and cryptocurrency exchanges to identify and prosecute its customers. So far, this information has been sent to 38 countries and resulted in the arrest of more than 337 people across the globe. There have been searches of residences and businesses of 92 different individuals in the U.S., two of whom were former federal agents.
+
+In Washington, D.C., the seizure of WTV led to a particularly dramatic series of events, starting with “the execution of five search warrants and eight arrests of individuals who both conspired with the administrator of the site and were, themselves, users,” according to the DOJ release. “Two of these users committed suicide subsequent to the execution of search warrants.”
+
+The DOJ release also noted that the WTV takedown and follow-up investigations are “responsible for the rescue of at least 23 minor victims residing in the United States, Spain and the United Kingdom, who were being actively abused by users of the site.”
+
+Today, the case is still alive and investigators are still pursuing WTV users. A Chainalysis blog post was released in tandem with the DOJ announcement, which could be considered risky.
+
+Levin acknowledged the potential downside but stood by this decision, saying, “Right, you might drive this kind of activity further underground, but I think this case sends a really clear message.”

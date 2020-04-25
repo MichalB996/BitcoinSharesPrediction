@@ -1,0 +1,39 @@
+DATE:  27.05.2019, 02:20:36
+TITLE: Bitcoin Cash Privacy Has Improved in Leaps and Bounds
+URL:   https://news.bitcoin.com/bitcoin-cash-privacy-has-improved-in-leaps-and-bounds/
+
+Bitcoin Cash Privacy Has Improved in Leaps and Bounds
+
+Over the last few years, privacy has become of great importance to digital asset enthusiasts as law enforcement has cracked down on money transmitters, seized coin shuffling services, and blockchain analysis has increased significantly. To thwart this, some bitcoiners have turned to mixing applications that utilize the Coinjoin protocol and other methods of obfuscation. However, the crypto community was dealt a blow on May 22 when Europol shut down one of the largest cryptocurrency transaction mixing sites, Bestmixer.io.
+
+Also read: Bitcoin.com Launches Free Bitcoin Cash Register Platform for iOS Devices
+
+Dutch Law Enforcement and Europol Shut Down Bestmixer
+
+Governments and law enforcement have always been interested in prying into people’s wallets, and the over the last decade the world has seen a significant increase in cronyism combined with surveillance capitalism. Blockchain analysis firms have sprung up and government agents have arrested people for things like illegal money transmission and laundering. As the invasion of crypto privacy has increased, cryptocurrency users have turned to coin mixing software. However, last Wednesday Europol and the Dutch Fiscal Information and Investigation Service (FIOD) revealed they had seized one of the largest crypto mixing websites Bestmixer.io.
+
+Bestmixer worked with a variety of digital assets including BTC, BCH, LTC, and ETH, letting pools of people tumble funds together to mask their origin. Dutch authorities accuse Bestmixer of mixing $200 million or 27,000 BTC. Moreover, the law enforcement task force detailed that they have gathered IP addresses, transaction details, bitcoin addresses and chat messages that they plan to analyze. The FIOD stated:
+
+This information will now be analyzed by the FIOD in cooperation with Europol and intelligence packages will be shared with other countries.
+
+BTC and BCH Supporters Mixed a Lot of Coins Over the Last Year
+
+As the cat and mouse game continues, privacy advocates within the cryptoconomy have been flocking toward shuffling software. For instance, BTC users have been using tumblers more often with software like the Wasabi wallet, Samourai, and Joinmarket. A recent study published by Longhash on April 29 estimates that 4% of BTC transactions use the Coinjoin protocol. The Coinjoin concept allows pools of people to mix coins while at the same time letting users keep control over their private keys throughout the process.
+
+On the Bitcoin Cash (BCH) network users have been using the Cashshuffle implementation first launched on the Electron Cash (EC) wallet. On May 26, software developer Calin Culianu announced the launch of Electron Cash version 4.0.4 with Cashshuffle for Windows, Mac, and Linux. The EC 4.0.4 version with Cashshuffle also has Schnorr signing enabled by default.
+
+Cashshuffle was launched on March 27 and BCH supporters have mixed millions of dollars worth of bitcoin cash using the platform. The Cashshuffle code and process were audited by the firm Kudelski Security. Following the release, Cashshuffle has seen significant traction and BCH fans have been creating big shuffles on ‘Shuffle Saturdays.’ Cashshuffle participants broke records on May 1 by shuffling 1,774 BCH ($478K at the time). So far there’s been 8,236 shuffles since the protocol was implemented into EC and 38,530 BCH or $16.5 million at current bitcoin cash exchange rates.
+
+With Low Fees, Schnorr Signatures, and Cashshuffle, Bitcoin Cash Fungibility Is Superior To Most Crypto Assets
+
+The Bestmixer takedown was a loss to people who wanted to shuffle their coins but it was also easily seized. BTC users have the right idea by using noncustodial platforms like Samourai, Joinmarket, and Wasabi but when BTC fees rise it becomes more difficult for pools of people to mix coins. For instance, the next BTC block fee, otherwise known as the fee you pay to have your transaction mined in the next block, is $4.34 at the time of writing.
+
+BCH constantly has low fees and even when the chain processed 2.4 million transactions on Sept. 1, transaction (tx) fees remained below a penny per tx. Moreover, the Bitcoin Cash chain now has Schnorr signatures which allow for greater privacy by allowing obfuscated transactions. Lastly, Cashshuffle isn’t just for Electron Cash only as the open source protocol can be added to pretty much any wallet. Last month, EC founder Jonald Fyookball announced the release of the Cashshuffle JS library, which was a “major step” toward Cashshuffle being added to other light clients.
+
+It’s quite possible that governments will crack down on more mixing sites in the future and make it harder for centralized crypto tumblers to exist. This is why noncustodial solutions are very important and mixing can be done in a far safer fashion. In addition to the Cashshuffle software that’s available to use today, Fyookball came up with Cash Fusion, a method that coordinates Coinjoin transactions with multiple inputs per user. Between Cashshuffle, Neutrino, Schnorr signatures with payment channels hidden as ordinary payments, atomic swaps, and consistently low fees, the Bitcoin Cash chain is steadily becoming far more fungible than that of most digital assets.
+
+What do you think about the number of bitcoiners using mixing software? What do you think about the Cashshuffle protocol and noncustodial solutions? Let us know what you think about this subject in the comments section below.
+
+Image credits: Shutterstock, Pixabay, FIOD, Acidsploit, stats.devzero.be, Wasabi wallet, Samourai, Joinmarket, and Cashshuffle logos.
+
+Want to create your own secure cold storage paper wallet? Check our tools section.

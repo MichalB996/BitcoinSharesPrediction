@@ -1,0 +1,35 @@
+DATE:  15.12.2019, 00:50:58
+TITLE: Bloxroute Releases Blockchain Distribution Network for Ethereum and Bitcoin Cash
+URL:   https://news.bitcoin.com/bloxroute-releases-blockchain-distribution-network-for-ethereum-and-bitcoin-cash/
+
+Bloxroute Releases Blockchain Distribution Network for Ethereum and Bitcoin Cash
+
+On December 3, the crypto software firm Bloxroute’s cofounder, Eyal Markovich, announced the launch of the startup’s Blockchain Distribution Network (BDN) Version 1. Markovich explained that the BDN V1 release is a milestone for the company and the scalability service aims to enable exponential blockchain scaling by propagating blocks and transactions faster.
+
+Also Read: 23 Days Until a Bonded Courier Supposedly Delivers Keys to $8 Billion in BTC
+
+The Blockchain Distribution Network Version 1
+
+The startup Bloxroute, a firm dedicated to blockchain propagation software, recently revealed the launch of BDN V1. The protocol is a “Layer-0 blockchain scalability solution” and Bloxroute’s Markovich detailed that developers have been working “tirelessly” toward the effort. News.Bitcoin.com first reported on Bloxroute back in November 2018, after the Bitcoin Cash blockchain split. After BSV split off from the BCH network, both communities heavily debated how miners and nodes would handle massive sized blocks in the future. At the time, Bloxroute was brought up in these debates quite a bit, because the startup claims the BDN can provide more efficient block propagation for blockchains.
+
+“In particular, Bloxroute propagates blocks without knowledge of the transactions they contain, their number, and the ‘wallets’ or addresses involved. Miners are free to include arbitrary transactions in a block,” the Bloxroute whitepaper explains.
+
+Since then Bloxroute has been experimenting with multiple blockchains and recent tests include the ETH Mining Test, Bitcoin Cash Miner Test, and the Akomba Labs Test. The results from the Bitcoin Cash Miner Test, in particular, had shown that “BDN propagates large blocks (32MB) between 2-18 seconds compared to up to 193 seconds without Bloxroute.”
+
+“Block compression technology, such as Compact blocks, improved with the BDN as transaction propagation allowed mempools to be more in sync,” the report highlights. Additionally, China saw the “largest improvement” in propagation times and BDN “sped up fork recoveries,” like missed transactions from compact blocks. Bloxroute has been working with mining pools as well and news.Bitcoin.com reported about one partnership last January when the firm partnered with the mining operation Rawpool.
+
+‘Any Blockchain Project Can Integrate With Bloxroute’
+
+For the latest BDN V1 Gateway software, Markovich details that the protocol is available via Github, Dockerhub, and Pypi. Markovich also notes that Bloxroute expects to see exchanges, decentralized apps, and mining pools adopt BDN V1. People can get a comprehensive overview of the architecture, components, and installation walkthroughs by visiting Bloxroute’s documentation page.
+
+“Later this year, we will publish a more technical post on the content of V1 and on the BDN roadmap for 2020,” Markovich said. Additionally, Bloxroute’s website shows a list of blockchain partners who plan to leverage the BDN software. Bloxroute is also backed by investment firms such as Pantera, Coinbase Ventures, Fenbushi, and well known individuals like Fred Ehrsam, and Jack Herrick. In addition to detailing that a technical post and BDN roadmap was in the works, Markovich’s blog post emphasized that “any blockchain project can integrate with Bloxroute.”
+
+“While the first version of the Blockchain Distribution Network (BDN) supports Ethereum and Bitcoin Cash, we are also working to integrate the BDN with a number of new blockchain projects including Ontology, Quorum, Conflux, and Metadium,” Markovich added.
+
+What do you think about Bloxroute’s Blockchain Distribution Network (BDN) Version 1? Let us know what you think about this subject in the comments section below.
+
+Disclaimer: This article is for informational purposes only. It is not an offer or solicitation of an offer to buy or sell, or a recommendation, endorsement, or sponsorship of any products, services, or companies. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.
+
+Image credits: Shutterstock, Bloxroute, Fair Use, and Pixabay.
+
+Did you know you can verify any unconfirmed Bitcoin transaction with our Bitcoin Block Explorer tool? Simply complete a Bitcoin address search to view it on the blockchain. Plus, visit our Bitcoin Charts to see what’s happening in the industry.

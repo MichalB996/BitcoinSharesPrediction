@@ -1,0 +1,47 @@
+DATE:  18.09.2019, 07:00:26
+TITLE: Meet Nimbus, a Concept for Enhancing BCH Smart Contracts
+URL:   https://news.bitcoin.com/meet-nimbus-a-concept-for-enhancing-bch-smart-contracts/
+
+Meet Nimbus, a Concept for Enhancing BCH Smart Contracts
+
+On Monday, software developer Tobias Ruck introduced a new transaction version for the BCH chain called Nimbus in a demonstration video. The introduction is a longer version of the presentation Ruck had shown at the Bitcoin Cash City conference. According to the developer, the transaction version could unleash sophisticated smart contract potential on the BCH network.
+
+Also read: India’s Popular ‘Who Wants to Be a Millionaire’ Show Gives Crypto a Boost
+
+Nimbus Is a New Transaction Version for Bitcoin Cash
+
+Tobias Ruck is well known for researching and developing within the BCH community with projects like the SLP Agora auction console, his programming blog, and demonstrating the concept of an onchain chess game. Ruck has now revealed a new project he’s been working on called Nimbus, an alternative transaction version for the BCH chain. The programmer explains in his recent video that he named the concept using a reference to the weather, much like protocols Avalanche and Storm. So Ruck decided to call his idea Nimbus, because of the intention to “make it rain” with transactions. He noted that the BCH chain has accomplished a great deal so far with CTOR, Graphene/Xthinner, and then Merklix trees and sharding ideas that are under development.
+
+In his presentation, Ruck noted that Ethereum has a lot of action taking place on the chain due to smart contracts. According to his data, these transactions (txn) would account for 300,000 txn on the ETH chain and $37,000 in fees per day. This doesn’t really take into account the latest number of Tether-based txns Ruck remarks, which are seemingly congesting the ETH network right now. Ruck broke down some of the smart contract types into genres like gambling, exchanges, and oracles on the ETH chain and insisted that when it comes to “simple smart contracts” BCH could do them “really well.”
+
+“In the areas where Bitcoin Cash could shine — Gambling, games, exchanges, and oracles,” Ruck detailed in his video. “Bitcoin Cash isn’t capable of such smart contracts at the moment so I’ve worked on a few changes to the Bitcoin Cash protocol and I’ve given it a fabulous name — Nimbus.” The developer added:
+
+It enables sophisticated smart contracts on Bitcoin Cash.
+
+Gaming, Exchanges and Oracles
+
+Ruck does note several times that the concept requires a rule-set protocol change. Some of the protocol changes needed for Nimbus are on the BCH development roadmap, but some are not and could be “controversial” Ruck implies. “I think it’s better to shoot for the moon and miss than to aim for the mud and hit,” the developer added during his video presentation. Following the brief introduction, Ruck described how Nimbus could bolster more sophisticated smart contract designs using BCH.
+
+He mentioned the transaction count for the ETH games Gods Unchained (500 txn per day) and Clover.network (3,000 txn per day). Ruck asserts that by utilizing the BCH network, certain games could become more profitable. “Profiting games would be able to lower their costs and for gambling, the pattern is the same, and it would benefit the same way from Nimbus — For exchanges and oracles, there’s also great potential for smart contracts as well,” the developer claims. He then discusses the Chainlink project on Ethereum as an example of an oracle. Ruck puts an emphasis on the fact that it costs $4 to update the Chainlink oracle. If developers used BCH for this particular oracle example “their revenue would double” Ruck claims.
+
+Can a Decentralized Stablecoin Smart Contract System Be Built With Bitcoin Cash?
+
+Following the description of how Nimbus could be used to facilitate gaming and oracles, Ruck also talked about a question that has been asked on numerous occasions — “Can we build a Maker DAO on Bitcoin Cash?” The Maker DAO platform is a protocol that has created the stablecoin DAI which is regarded as being decentralized. At around the 25:00 minute mark, Ruck shows all the requirements needed to create a Maker DAO like voting rights, price oracles, a DAO, CDPs, a burning mechanism and the ability to liquidate over-collateralized CDPs as well.
+
+“Building a decentralized stablecoin like protocol like Maker DAO on Bitcoin Cash would be very complicated but with the right tools and support it shouldn’t be much more difficult than building it on Ethereum.”
+
+However, Ruck again underlines the need for a couple of changes to the Bitcoin Cash transaction format for the stablecoin smart contract concept to work on the BCH chain. The main changes would be merklized script trees, cashassembly, and a preamble. Additionally, Ruck says you could add fractional satoshis and a malleability fix as well as Schnorr signature functionality. The developer also researched a time estimation or how long it would take to implement a project like the Maker DAO on BCH. “The sum would be around 248 days and the total cost around $297,600,” the software engineer suggests. At the very end of the presentation video, Ruck concludes by saying: “Alright, let’s make Bitcoin Cash the best cash the world has seen.”
+
+Can we build MakerDAO on Bitcoin Cash? – Introducing Nimbus, a new transaction version by @TobiasRuck https://t.co/fdy43lJzCb Tobias is a BlockStar and huge asset to the #BitcoinCash developer community. It was great to connect in Australia Tobias. Thanks for everything!🌟 — Gabriel Cardona (@cgcardona) September 16, 2019
+
+After publishing the video on the Reddit forum /r/btc, a lot of BCH supporters really liked the idea. “Make it rain utility,” wrote BCH developer Emergent Reasons. “Great presentation — Also, thank you for sharing your unique research on ETH activity that would fit well/better on BCH,” he added. “This is a great presentation,” said another BCH proponent in response to the Nimbus video. “Being able to have something like Maker DAO would be awesome for adoption and merchants could automatically convert to a stablecoin of their choice, all on the blockchain, holding their keys the whole time — and it would have a good side-effect for BCH holders.”
+
+Electron Cash developer Jonald Fyookball said the concept was “cool” but asked if the idea required a consensus change. “Yeah, a new transaction version,” Ruck replied. Overall the intro video was well received by most of the BCH supporters in the thread, but it was also acknowledged that the project will need full consensus from the BCH development community, economic participants, and miners.
+
+For more information on Nimbus, check out the full presentation with Tobias Ruck in the video below.
+
+What do you think about the Nimbus concept? What do you think about a Maker DAO-like project on the BCH network? Let us know what you think about this subject in the comments section below.
+
+Image credits: Shutterstock, Tobias Ruck, Youtube, Pixabay, and Twitter.
+
+Are you a developer looking to build on Bitcoin Cash? Head over to our Bitcoin Developer page where you can get Bitcoin Cash developer guides and start using the Bitbox, SLP, and Badger Wallet SDKs.

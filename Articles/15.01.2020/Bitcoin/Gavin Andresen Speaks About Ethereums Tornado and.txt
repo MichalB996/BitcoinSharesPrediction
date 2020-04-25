@@ -1,0 +1,41 @@
+DATE:  15.01.2020, 18:10:20
+TITLE: Gavin Andresen Speaks About Ethereum's Tornado and Wallet Privacy
+URL:   https://news.bitcoin.com/gavin-andresen-speaks-about-ethereums-tornado-and-wallet-privacy/
+
+Gavin Andresen Speaks About Ethereum's Tornado and Wallet Privacy
+
+Over the last couple of years the former lead maintainer of the Bitcoin Core (BTC) repository Gavin Andresen has been quiet in regards to the crypto ecosystem. Andresen hasn’t been developing any projects and once in a while makes a comment or two about the digital currency industry. On Monday, January 13, Andresen shared the first blog post he’s written since November 2018, as he decided to review the zero-knowledge protocol for Ethereum called Tornado.cash.
+
+Also read: Privacy-Enhancing BCH Tool Cashfusion Begins Working Behind the Scenes
+
+Gavin Andresen’s Latest Blog Posts Discuss Wallet Privacy
+
+Gavin Andresen was once the lead developer for the Bitcoin Core codebase after Satoshi Nakamoto handed Andresen the repository keys when the inventor left. Since then a lot has changed and Andresen hasn’t worked on the BTC project or any crypto concept in four years. Some crypto observers believe Andresen was ousted in 2016, when the Core development team removed his Bitcoin commit access. Once in a while, Andresen has made comments about the cryptocurrency industry and once tweeted that bitcoin cash (BCH) reminded him of the Bitcoin he worked on back in 2010.
+
+Bitcoin Cash is what I started working on in 2010: a store of value AND means of exchange. — Gavin Andresen (@gavinandresen) November 11, 2017
+
+On January 1, 2020, Andresen tweeted that, in his opinion, the most interesting cryptocurrency project in 2018 was Ethereum’s Crypto Kitties and Pooltogether in 2019. Then 13 days later, Andresen wrote a blog post about the project Tornado.cash, an Ethereum-based project that claims to break the onchain link between ETH recipient and destination addresses. Andresen said he’s been “playing around” with Tornado, the smart contract running on the Ethereum blockchain.
+
+“When I say smart, I mean really wicked-smart,” Andresen stressed in his blog post. “[Tornado.cash] uses “Zero-Knowledge Succinct Non-Interactive Argument of Knowledge” cryptography (ZkSNARK) so the ether (or tokens) deposited into the contract can’t be linked to those that are withdrawn.”
+
+Andresen also noted that he wouldn’t be surprised if a paper is released in 2023 that shows “85% of tornado usage was not private.” “Not because the cryptography is broken, but because it is really hard for mere mortals to use something like Tornado (or Coinjoin or other similar technologies) in a way that doesn’t leak information about their wallet,” Andresen insisted. But Andresen’s post leads to the conclusion that most people will leak information about their mixed coins when consolidating them into one account he dubs the “Super Secret” wallet. “You have almost certainly accomplished nothing — Unless somebody else just happened to use tornado to move 117 ETH from one address to another in the same timeframe, it is easy to see that 0xabc and 0xdef are both owned by you — Your ‘Super Secret’ wallet isn’t,” Andresen emphasized.
+
+More thoughts on private wallets: https://t.co/FEhZbx0pfM — Gavin Andresen (@gavinandresen) January 14, 2020
+
+The Ideal Private Wallet and Cashfusion
+
+The former Bitcoin developer does think Tornado is a step in the right direction and called the project a “fantastic building block.” Following the blog post on Tornado, Andresen published another post on the same subject the following day. On Tuesday the developer explained his description of the type of wallet he’d like to leverage. Andresen explained the perfect setup for receiving Andresen’s dream wallet would give individuals a normal ETH address where they could receive some ether. “But after funds were received to that address, the wallet would automatically forward them into Tornado,” Andresen wrote. To the engineer, sending would be a three-step process, which includes one or more withdrawals from Tornado to a never-before-used address, sending the ETH to the destination address, and then re-deposit any leftover funds back into Tornado.
+
+However, Andresen doesn’t seem to think there’s a simple solution and he also addressed the “change problem,” which can lead to transaction data leakage. Andresen said that a future version of Tornado could support depositing and withdrawing arbitrary amounts. “Which is the best solution to the problem,” the developer stressed. This issue is being tackled today, as Bitcoin Cash developers have been making strides with Coinjoin transactions that can be done in arbitrary amounts.
+
+Bitcoin Magazine’s technical writer Aaron van Wirdum wrote an editorial about the subject on January 13 in a post titled: “Do CoinJoins Really Require Equal Transaction Amounts for Privacy? Part One: Cashfusion.” The writer explained that BCH developers claim Cashfusion can provide Coinjoin transactions without the equal amount requirement. “If true, this might drastically change how we think about privacy in Bitcoin as well,” van Wirdum detailed.
+
+Andresen’s post explains the problems with Coinjoin transactions and seems to hint that things could be improved. “I’d also be happy with an opinionated wallet that “rounds down balances for privacy” and automatically sent the change to the wallet developer’s favorite charity (or maybe goes to fund wallet development, or a little bit of both),” Andresen’s blog post on Tuesday notes. “Not a huge price to pay for privacy, especially if it goes to a good cause,” the developer concluded.
+
+What do you think about Andresen’s blog posts about Tornado.cash and wallet privacy? What do you think about the possibility of Cashfusion being the answer to some of the problems mentioned with Coinjoin-based transactions? Let us know what you think about this topic in the comments section below.
+
+Disclaimer: This article is for informational purposes only. Readers should do their own due diligence before taking any actions related to the subject matter written above. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any ideas, software, concepts, content, goods or services mentioned in this article.
+
+Image credits: Shutterstock, Wiki Commons, Fair Use, Twitter, Tornado.cash, and Pixabay.
+
+Did you know you can buy and sell BCH privately using our noncustodial, peer-to-peer Local Bitcoin Cash trading platform? The local.Bitcoin.com marketplace has thousands of participants from all around the world trading BCH right now. And if you need a bitcoin wallet to securely store your coins, you can download one from us here.

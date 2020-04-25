@@ -1,0 +1,95 @@
+DATE:  13.12.2019, 14:03:55
+TITLE: Blockchain Goes beyond Cryptocurrencies like Bitcoin
+URL:   https://marketrealist.com/2019/12/blockchain-goes-beyond-cryptocurrencies-like-bitcoin/
+
+Typically, most discussions about blockchain technology lean toward bitcoin and other cryptocurrencies. There is an enigma that surrounds cryptocurrencies, but the technology that makes Bitcoin possible often gets overlooked. The blockchain is a magnificent technology by itself and has a lot of business potential.
+
+According to the Deloitte Global Blockchain Survey 2019, 53% of the participants considered blockchain as one of the top five strategic business priorities. Also, the report claims that 61% of the participants believe blockchain adoption would become mainstream in the US.
+
+Statista‘s research estimates that global investments in blockchain solutions in business have risen to $2.7 billion. Also, the Financial Services sector is leading the adoption of this tech.
+
+Technology companies and blockchain
+
+Most cloud companies provide blockchain solutions for enterprises. However, cloud leader Amazon (AMZN) offers Amazon Managed Blockchain Services. This support Hyperledger fabric (1) and hope to start support for the platform Ethereum (2) soon.
+
+Microsoft (MSFT) blockchain is called Azure Blockchain Services. This service deploys networks, scalability, and offers developer tools for managing the network architecture. Network administrators can access a blockchain data manager for publishing data and integrating applications on the network. Also, other tech companies like IBM (IBM), Alibaba (BABA), Oracle, and Google (GOOGL) (GOOG) provide tech solutions using blockchain.
+
+(1) Enterprise solutions deployment uses Hyperledger fabric.
+
+(2) Ether is the crypto token associated with Ethereum.
+
+Blockchain technology: The basics
+
+In simple terms, blockchain tech relies on spreading the data across the network. So, an open-source distributed ledger stores the data in the system in the form of data blocks. These blocks are linked in the form of a chain because of which the tech is called Blockchain.
+
+All the members can access the decentralized data storage on the network configured as a Private Blockchain or a Public Blockchain. In a Private Blockchain, only members have the permissions to access the data. In a Public Blockchain, user permission is not necessary to add new data or view existing data.
+
+The simplicity of this technology makes the data extremely secure. The data in the network is encrypted either by using cryptographic hash algorithms or through digital signatures (3). And, the data stored in a blockchain network records the timestamps, which is tamper-proof. Any backdated change will need validation from other users. Also, the features allow users to track and audit the data effortlessly.
+
+All users have to validate transactions in the decentralized network, making the system more effective. Finally, the members use high-speed processors that perform tedious calculations. As a result of the calculation output, private and public keys are generated. So, this plays a significant role in data encryption. In simple terms, this is what is called mining. When the user creates a new encryption key, he receives a reward for mining it (4).
+
+(3) Recently SpaceChain, a Singapore based startup, launched a Bitcoin Wallet in orbit, in association with International Space Station. They hope this would improve crypto wallet security.
+
+(4) Fundamentally, this idea is the basis for bitcoin mining.
+
+Blockchain applications in business functions
+
+Business units around the globe are working hard to adapt the blockchain technology in their day-to-day operations. Features like the decentralized storage, cryptographically secured shared databases, quicker access to transactions, and the high level of transparency make it an excellent technological platform.
+
+Excluding the cryptocurrencies, blockchain has many other applications across different sectors. Some industries have come up with innovative uses for blockchain. These include Banking and Finance, Supply Chain Management, Healthcare, and Telecommunications.
+
+Did you know that in August 2018, World Bank launched the first global Blockchain Bond in association with Commonwealth Bank of Australia? The Blockchain Bond raised $110 million in Australian dollars. Also, World Bank launched the second series of blockchain bonds in August 2019. Also, it raised additional funding of $50 million Australian dollars.
+
+Blockchain may hurt or help banking
+
+The banking industry faced its first challenge with the digitalization of financial services. Monetary transaction volumes have seen an exponential rise with the innovation of FinTech (financial technology services). So, every user with a smart device and access to the internet can make financial transactions on the go. No wonder the daily transactional volume has grown like never before.
+
+Blockchain technology can be hugely helpful in handling this surge. A publication by Accenture hinted that blockchain could change the way a cross border fund transfers are carried out within the bank. Also, the release mentioned that many of the banks were in the initial stages of adopting this technology.
+
+How blockchain can transform banking and finance
+
+Blockchain has a security feature that makes all the transactions available publicly in an encrypted format. Banks intend to use this feature for audits. Also, they use it to increase employee accountability. Additionally, this makes it impossible to fudge any transaction without leaving traces in the network. Reviewing and monitoring transactions couldn’t be more efficient with this tech.
+
+So, instead of providing auditors with large chunks of data, it is easier to give them access to the bank’s internal blockchain network. Paperwork could be drastically reduced. Even auditors can conveniently pore through vast amounts of data with a single click of a button. The heightened security level is the icing on the cake.
+
+Blockchain makes it much more cost-effective to create FinTech applications that would match up to consumer needs. Also, the banks can cut down on costs like issuing debit cards and maintenance cost for ATM’s by adopting blockchain and FinTech. Additionally, minor tweaks using this technology could tackle foreign exchange rate fluctuations.
+
+A revamp in supply chain management
+
+The entire supply chain management can be turned around by adopting blockchain tech. Supply chain management deals with handling and monitoring product logistics. Blockchain can mobilize manufacturers, raw material suppliers, logistics and transports companies, distributors, and retailers in one single blockchain network. Companies can manage and track inventory levels, collect shipment details, and handle billing through the interconnected system.
+
+Also, blockchain in supply chain management can make it easier for businesses to track a variety of activities. It is possible to overlook routine activities like product requisitions, product planning, execution strategies, and controlling the product flow in the market with ease. Some of the ways that blockchain contributes to supply chain management are:
+
+It is easier to record the movement of goods. The blockchain will store all the details of the number of products that are in transit between two supply chain nodes. It is easier to track product movements using blockchain technology. All trade-related information like purchase orders, shipment details, and receipts is available on the blockchain. Blockchain also makes it easy to share the product information with the suppliers and the vendors. The company has to give them access to the blockchain network. The cryptography feature of the ledger systems ensures data security and integrity of data.
+
+IBM and supply chain for metals
+
+One of the use cases will be IBM Blockchain is working with the Mining Industry. IBM has two projects that deploy blockchain for tracing the source of raw material shipments. The first project includes Ford Motor Company and LG Chem.
+
+Also, others include keeping an eye on Cobalt shipments from the Republic of Congo. In the second project, IBM is working with MineHub Technologies Inc. for record retention and documentation of metal shipments through a private network.
+
+Blockchain in healthcare
+
+After the furor over Google’s Project Nightingale, blockchain seems to be the inevitable answer. Google was working with Ascension to onboard patient information on a cloud platform. And, the tech company was at the receiving end from many people for accessing protected health information. Since Google is predominantly in the data collection and advertising business, many people felt that Google could use the data for targeted ad campaigns. However, Google denied any such intentions.
+
+In recent years, the healthcare industry is increasing its dependence on technology for effective patient health management. Also, it’s using it for routine operational activities. The healthcare sector has many potential applications for blockchain tech. For instance, it can offer solutions to improve medical data management. It is possible to record and save the medical history of a patient, diagnosis of current illness, lab tests, and reports in the data blocks securely. A high level of data security and decentralized network architecture assures the confidentiality of medical records.
+
+Can insurance and pharmaceuticals also benefit?
+
+Taking it a notch further, healthcare providers can use a private network for maintaining the billing and invoicing information. Such a system would automatically rope in the insurance companies and the treatment centers into one interface. Separate modules in the medical community can track the patient’s insurance background and medical claims. But mobilizing the insurance company and the healthcare providers in one network claims handling processes and settlements could speed up immensely. Also, pharmaceutical supply chains will benefit from this technology.
+
+When it comes to healthcare and this revolutionary technology, Alibaba has taken big strides in China. The Chinese tech company partnered with Wuhan Central Hospital in China. Alibaba deployed blockchain as a service to manage the electronic prescription transfer. Alibaba Cloud and Alipay have collaborated on building this system.
+
+Telecommunications and media
+
+The telecommunications sector is also witnessing rapid growth in the last two decades. Many new service providers entered the telecom sector. The consumer base is ever-growing. Blockchain has a high potential for adding value in this industry, too. Information from a diverse network of vendors, distributors, customers, and other network providers can be stored and accessed effortlessly.
+
+The tech makes it possible to create a database for the business support system and operational support system. Managing billing cycles will be more efficient. Telecom service providers can add a new data block to the network for each billing cycle. Additionally, individual blocks on the blockchain could house the number portability database. If a customer chooses to change the network provider, then the customer information can be easily accessed by sharing the block address with the telecom service provider.
+
+Also, blockchain can add value to other revenue-generating products offered by the telecom industry. It makes it easier for buying digital assets. These include music, games, software applications, loyalty credits, gift cards, et cetera.
+
+Conclusion
+
+According to Statisa research, blockchain revenues could cross over $23 billion by 2023. Additionally, Gartner Research estimates blockchain could add a value of over $3 trillion in new businesses by 2030. Yet, most market participants discard the technology, confusing it with Bitcoin.
+
+However, the practical applications of this technology can reduce costs as well as ensure that the data gets stored cryptographically. In my opinion, blockchain can drive the tech sector in 2020 and a couple of other industries along with it.

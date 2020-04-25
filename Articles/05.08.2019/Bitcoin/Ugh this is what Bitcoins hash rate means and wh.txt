@@ -1,0 +1,43 @@
+DATE:  05.08.2019, 14:00:22
+TITLE: Ugh, this is what Bitcoin’s hash rate means and why it matters
+URL:   https://thenextweb.com/hardfork/2019/08/05/ugh-this-is-what-bitcoins-hash-rate-means-and-why-it-matters/
+
+Welcome to Hard Fork Basics, a collection of tips, tricks, guides, and info to keep you up to date in the cryptocurrency and blockchain world.
+
+Earlier this year, Bitcoin BTC was setting records for 12-month price highs. It’s also been demonstrating market dominance as it affirms its spot as the number one cryptocurrency.
+
+But there’s another metric, hash rate, which has been reaching all time highs this year. But what is it? What does it mean? And why do people regard it as a measure of the network‘s health?
+
+The hash rate low down
+
+Put simply, hash rate is a general measure of the processing power of the Bitcoin network.
+
+As Bitcoins are mined, blocks of verified transactions have to be “hashed” before being added to the ever growing chain of blocks, AKA the blockchain.
+
+Each of these hashes is created by successfully completing an intentionally difficult mathematical puzzle. The hash rate, is a measure of how many times the network can attempt to complete this puzzle every second.
+
+This means that hash rate is a good indicator of the Bitcoin network’s health. A high hash rate, when compared to a lower one, is preferable as it effectively means the network is more secure from 51-percent attacks.
+
+The higher the hash power of the network, the greater the number of miners would be needed to commit a 51 percent attack.
+
+So, a high hash rate makes it more logistically difficult to coordinate the number of computers required for such an attack. This is assuming that no one entity controls or owns a majority of the hash power of the network.
+
+Ownership of hash power can be a concern. Research from October 2018, suggested that over 80 percent of Bitcoin mining was conducted by just six groups of miners, five of which are directly managed by individuals or companies from China. Theoretically, this gives China substantial power over the Bitcoin network.
+
+It’s all kilos, megas, gigas, teras, exas, petas, and zettas
+
+As mentioned, hash rate is measured in hashes per second, or H/s for short. At the time of writing (August 5, 2019), the hash rate is sitting around 74 EH/s… But wait, what’s an EH/s? I hear you scream.
+
+Credit: Blockchain.com Bitcoin hash rate
+
+As the Bitcoin network grows and can compute more hashes per second, its hash rate increases. The addition of more powerful, application-specific integrated circuit (ASIC) mining machines also increases the network‘s hash rate.
+
+Over Bitcoin‘s 10-year life, the network has grown so powerful that it can compute quintillions of hashes every single second. For easy comprehension, 74 quintillion hashes per second is written as 74 EH/s.
+
+It’s also common for hash rates of blockchain networks to be written in kH/s (one thousand ‘kilo’ hashes per second), MH/s (one million ‘mega’ hashes per second), GH/s (one billion ‘giga’ hashes per second), TH/s (one trillion ‘tera’ hashes per second), PH/s (on quadrillion ‘peta’ hashes per second), and ZH/s (one sextillion ‘zetta’ hashes per second).
+
+Thing is, just because the Bitcoin network is getting more powerful doesn’t mean it verifies or mines blocks any quicker.
+
+Bitcoin is programmed by design to mine a block about every 10 minutes, on average. It maintains this rate of production by adjusting the “mining difficulty” in line with the overall hash rate of the network.
+
+In short, it makes it more difficult for miners to complete the hash puzzle. Generally speaking, as hash rate increase, so does Bitcoin’s mining difficulty, but that’s a topic for another day.

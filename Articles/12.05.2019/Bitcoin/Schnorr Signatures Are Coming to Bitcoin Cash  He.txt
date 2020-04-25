@@ -1,0 +1,33 @@
+DATE:  12.05.2019, 15:55:22
+TITLE: Schnorr Signatures Are Coming to Bitcoin Cash – Here’s What You Should Know
+URL:   https://news.bitcoin.com/schnorr-signatures-are-coming-to-bitcoin-cash-heres-what-you-should-know/
+
+Schnorr Signatures Are Coming to Bitcoin Cash – Here’s What You Should Know
+
+On Wednesday, May 15, the Bitcoin Cash (BCH) network will be upgraded to incorporate the highly anticipated Schnorr signature algorithm, a digital signature scheme widely known for its simplicity.
+
+Also read: Bitcoin History Part 12: When No One Wanted Your BTC
+
+Schnorr Sigs Are Coming
+
+Next week, the Bitcoin Cash blockchain will be upgraded by adding two specific elements to the network’s underlying mechanics — Schnorr signatures and Segwit recovery exemption. Schnorr signatures will be a distinctive upgrade feature that gives the BCH chain a leading edge due to the signature schemes’ ability to promote privacy and scaling. The Schnorr signature algorithm was invented by the renowned cryptographer Claus Schnorr and cryptocurrency developers have been eager to implement Schnorr signatures for quite some time. Currently, BCH uses what’s called the Elliptic Curve Digital Signature Algorithm or ECDSA for transaction signatures. After May 15, however, the chain will offer both legacy style ECDSA transaction signatures and the ability to use basic Schnorr signatures as well.
+
+Bitcoin cash transactions have a few elements that utilize basic cryptographic procedures. In a BCH transaction, a cryptographic signature is used to validate the owner of the funds. Alongside this, the cryptographic method ECDSA is employed to encrypt data so only a specific recipient can decrypt the information. The combination of these factors proves a BCH user’s ownership which constitutes the owner’s right to spend the bitcoin cash. Signatures also have to be provided for every BCH input within the transaction itself. ECDSA properties give two parties the ability to communicate BCH public and private keys securely. Schnorr signatures added to the Bitcoin Cash chain will offer the same properties as ECDSA, but will be far more efficient and powerful.
+
+Hidden Payment Channels, Atomic Swaps and Multisignature Aggregation
+
+BCH developers are adding Schnorr signatures because the method is a cleaner way to encrypt and decrypt data. With next week’s upgrade, developer Mark Lundeberg has detailed that Schnorr will be an optional replacement for ECDSA signatures. Lundeberg explained that users won’t have to generate new addresses to start using Schnorr signatures. With Schnorr, the developer has said that transactions can be 4% smaller due to signatures being 64 bytes of data in contrast to the usual 70. The feature basically enhances the effectiveness of signature data required for every bitcoin cash transaction. After the upgrade on Wednesday, BCH will have the added ability to utilize payment channels hidden as ordinary payments. Atomic swaps can be hidden as payments and in the future developers can add more sophisticated concepts like multisignature aggregation.
+
+“From a UX point of view, Bitcoin Cash users and merchants accepting Bitcoin Cash via consumer-oriented wallets, such as the Bitcoin.com wallet app, aren’t likely to notice anything different at first glance,” Lundeberg noted. “But, if you view a new transaction after the May 15th upgrade, you may notice (and appreciate!) that its size is ~4% smaller than it would have been before.”
+
+Lundeberg has also clarified that public signature aggregation would provide wallets with the ability to replace many transaction signatures with just one signature. This alone could enhance scaling in the future by adding a “~20% transaction size decrease, making the network faster and more efficient.” Further down the line, smart contracts or sign-to-contract concepts can be built, the programmer expounded, which will further enhance bitcoin cash privacy. The attributes provided by Schnorr and some clever engineering added by BCH developers and infrastructure providers like wallets will further enhance both privacy and scaling.
+
+In just a few days the Bitcoin Cash network will be adding a sexy new feature and well before Bitcoin Core (BTC), whose developers have just announced a proposal to add the upgrade. There’s a lot of value pouring into BCH development-wise right now such as the Simple Ledger Protocol, Badger Wallet, Cash Accounts, Cashshuffle, the Bchd client and its privacy-enhancing wallet Neutrino. With Schnorr signatures coming, the BCH chain will be able to solidify its foundation and continue to provide fungible, peer-to-peer electronic cash to the masses.
+
+If you want to learn more about Schnorr signatures, check out these explainers below from two prominent BCH developers:
+
+What do you think about Schnorr signatures coming to the Bitcoin Cash network? Let us know what you think about this subject in the comments section below.
+
+Image credits: Shutterstock, Electron Cash Wallet, Twitter, Bitcoin.com, and Coin Dance.
+
+Are you feeling lucky? Visit our official Bitcoin casino where you can play BCHslots, BCH poker, and many more BCH games. Every game has a progressive Bitcoin Cash jackpot to be won!

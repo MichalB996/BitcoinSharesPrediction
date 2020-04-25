@@ -1,0 +1,63 @@
+DATE:  07.10.2019, 12:15:15
+TITLE: 10 Ways Hackers Will Try to Steal Your Bitcoin
+URL:   https://beincrypto.com/10-ways-hackers-will-try-to-steal-your-bitcoin/
+
+Casa CEO Jeremy Welch gave a talk on the various threats associated with Bitcoin BUY NOW security Once you've bought or received bitcoins; you now need to keep them as safe as possible. This guide will provide... More at the recent Baltic Honeybadger 2019 conference in Riga, Latvia. As part of his talk, Welch provided thirteen examples of how Bitcoin users could lose access to their funds.
+
+Ten of these threats involved attacks from hackers rather than something like user error or hardware malfunction. Let’s take a closer look at the ten different ways hackers can try to gain access to your Bitcoin private keys.
+
+1. Phishing
+
+The first hacking threat covered by Welch during his talk was phishing, which is when an attacker basically tricks a user into handing over their login credentials via a fake version of a legitimate website. Software upgrade attacks, such as the one that plagued Bitcoin lite wallet Electrum, would also fall under this category.
+
+2. SIM Hijacking
+
+SIM hijacking has been a serious issue for quite some time, but the cell phone service providers don’t seem interested in solving the problem. While this attack was previously used to hack traditional online accounts, a world with Bitcoin and SMS-based two-factor authentication means that real money is lost when a victim’s phone number is ported over to a hacker’s device. “Unfortunately, this has increased tremendously, and the telco companies are not doing much for it — or much to address this issue,” said Welch during his talk.
+
+3. Network Attack
+
+A network attack involves a hacker targeting the core infrastructure that a Bitcoin user needs to access various web applications. An example of this attack was previously seen with MyEtherWallet when the wallet A crypto wallet is a device or app that stores digital assets. Unlike the physical wallet in your back pocket,... More provider was hit with a DNS hack.
+
+4. Malware
+
+A malware attack is often used in combination with phishing, tricking the user into downloading malicious software that then allows the attacker to steal account credentials, private keys, and potentially much more.
+
+5. Supply Chain Attack
+
+The threats associated with supply chain attacks are perhaps not understood that well by most Bitcoin users. This sort of attack involves adding malicious code or hardware to a popular device, such as a hardware wallet When traders think about cryptocurrencies, they focus more on how they can profit from the price swings. But, what happens... More.
+
+“A lot of people think of this one only as the manufacturer potentially would be putting this on there, but there could be a rogue employee, there could be a rogue [manufacturing partner],” explained Welch during his talk.
+
+“A lot of people don’t realize how many companies actually contract out many of the manufacturing for their products. And even very large, top companies contract out a lot of their work. So, it could be a rogue manufacturing partner, a rogue employee of a manufacturing partner, or potentially even a government agent that’s infiltrated into some of these companies.”
+
+6. Physical Coercion
+
+In addition to computer security, Bitcoin users also need to think about physical security. Attacks that involve physical coercion are often referred to as ‘$5 wrench attacks’ because no amount of encryption or data security can prevent someone from going up to an individual and demanding that they hand over information with a wrench in hand.
+
+Kidnapping, torture, or extortion could also be involved with this type of attack. According to Welch, these sorts of attacks have unfortunately increased in frequency as the Bitcoin price has gone up over time.”Because Bitcoin is portable and because it is irreversible, it makes it much harder to recover. So, when these do succeed, [it’s] very, very hard to recover [the stolen funds],” said Welch.
+
+Government seizure was included by Welch as a separate threat to Bitcoin users, but at the end of the day, that can also be considered theft at the threat of violence.
+
+7. Child or Pet Attack
+
+The child or pet attack is an offshoot of the physical coercion attack. This is where a loved one, such as a child or a pet, is threatened with violence or kidnapped rather than the owner of the actual Bitcoin stash.
+
+Of course, ransom demands are not unique to Bitcoin. There was even a movie made a few years ago about the billionaire who refused to pay a ransom for the safe return of his grandson. “A lot of wealthy people have become used to [the threat of a loved one getting kidnapped], but most Bitcoiners have not become used to that,” explained Welch.
+
+8. Internal Service Provider Attack
+
+Internal service provider attacks involve an employee at a cryptocurrency company, such as an exchange or wallet provider, using their privileged access to the service provider’s backend to collect customers’ personal information or steal funds directly.
+
+9. Platform or Hosting Attack
+
+Much of the web today is built on a few centralized pieces of basic infrastructure in the cloud, and that heavily centralized cloud data looks like a giant treasure chest to hackers. It’s not dissimilar from how hackers tend to target exchanges rather than individual users’ nodes.
+
+“All of that data is pulled in one place, and so if you do attack, if you are able to get access to that cloud server, you can often get a lot of data very quickly, exfiltrate that and then, again, attack customers,” said Welch. Welch pointed to the hack of web host Linode in 2012 as a specific example of this attack.
+
+10. Code Dependency Attack
+
+Code dependency attacks are somewhat similar to platform and hosting attacks as they also involve a Bitcoin service provider relying on some outside infrastructure. Platforms that rely on third-party tools like Google Analytics and Mixpanel need to make sure malicious Javascript code is not introduced by these outside codebases.
+
+Are there any security issues that we missed? Let us know your thoughts and opinions in the comments below.
+
+Do you want to Be In Crypto?Join our Telegram Trading Group for FREE Trading Signals,a FREE Trading Course for Beginners and Advanced Tradersand a lot of fun! Images courtesy of Shutterstock, Trading View and Twitter.

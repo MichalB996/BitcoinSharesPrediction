@@ -1,0 +1,65 @@
+DATE:  26.02.2019, 14:22:35
+TITLE: What is Bitcoin’s Graftroot? Complete Beginner’s Guide
+URL:   https://blockonomi.com/bitcoin-graftroot/
+
+The pending inclusion of Schnorr signatures into Bitcoin has stirred debate around Taproot, and Graftroot has emerged as a complement to Taproot — improving its efficiency.
+
+Proposed by Bitcoin developer Gregory Maxwell right after his Taproot proposal, Graftroot expands on the multi-sig scripting condition benefits of Taproot and addresses its shortcomings, primarily efficiency. This piece extends the previous topic of Taproot, so it is prudent to understand how Taproot works before diving into Graftroot.
+
+Brief Background on Taproot and MAST
+
+Graftroot involves improving Bitcoin’s scripting conditions — which currently use P2SH scripts — that include provisions such as M-of-N multi-signatures and timelocks which are exercised to spend bitcoins between multiple participants.
+
+Taproot will rely on Schnorr signatures and a pending protocol upgrade to P2SH, known as MAST. MAST enables users to hide numerous scripting conditions within a single transaction without revealing the other scripting conditions when a specific one is met to spend the corresponding bitcoins. However, outside observers can discern whether explicit transactions are using MAST because they look different than standard transactions — reducing privacy.
+
+Taproot is designed to mask the properties of MAST used with Schnorr aggregate signatures via a ‘threshold public key’ and ‘threshold signature’ that participants can tweak. It is a brilliant solution that bridges Schnorr and MAST to produce complex multi-script transactions that appear as standard transactions.
+
+Despite the advantages of Taproot, there are instances where no ‘cooperative close’ of a multi-party transaction is reached or where a participant loses their private key. In such scenarios, employing scripting conditions like multi-sig or timelocks provide a crucial fallback so that the funds are not locked and can still be spent.
+
+As more safeguards against adverse scenarios and innovation in complicated features of leveraging Bitcoin’s scripting language surface, transactions will probably comprise more scripting conditions — particularly with the inclusion of Schnorr signatures in Bitcoin.
+
+The shortcoming of Taproot is that a complex Bitcoin scripting contract with numerous conditions becomes data heavy and less private than when performed with a cooperative close or simple scripting condition. Maxwell proposed Graftroot as a method to retain the privacy of Taproot without sacrificing the efficiency, allowing the protocol to scale to arbitrary scripting conditions.
+
+According to his proposal:
+
+“Taproot suffers from a limitation that it only natively provides for one alternative. Trees or cascades of taproots can be done, but they have less privacy and efficiency than just a single level. E.g. a tree commitment has overhead that grows with the log of the number of alternatives.”
+
+Read: What is Taproot?
+
+Graftroot
+
+In Taproot, participants in a Bitcoin smart contract of multiple scripting conditions combine their public keys to form a ‘threshold public key’ and a ‘threshold signature.’ The same process applies in Graftroot, however, participants independently sign the specific alternative scripting conditions — creating threshold signatures for each condition rather than the entire set of conditions.
+
+According to Maxwell:
+
+“With graftroot, the participants establish a threshold key, optionally with a taproot alternative, just as they do with taproot. At any time, they can delegate their ability to sign to a surrogate script by signing that script (and just the script) with their taproot key, and sharing that delegation with whomever they choose. Later, when it comes time to spend the coin, if the signers aren’t available and the script must be used, the redeeming party does whatever is required to satisfy the script (e.g. provides their own signature and a timelock, or whatnot) and presents that information along with the signer’s signature of the script.”
+
+For example, Alice, Bob, and Charlie construct a Bitcoin transaction with several alternative scripting conditions, and if no cooperative close is met:
+
+The bitcoins can be spent with 2-of-3 multi-sig spend between the participants. Alice can spend the bitcoins after 1 month without Bob or Charlie’s signature. Bob can spend the bitcoins with a secret key without Alice or Charlie’s signature.
+
+Each participant signs the alternative scripts and stores the threshold signature for each condition. The threshold signatures of the alternative conditions can be used later to prove that the scripts were agreed upon by the parties.
+
+Once a specific condition is met — for instance, one month passes and no 2-of-3 multi-sig spend or Bob secret key spend has occurred — then the third condition to spend the bitcoins (Alice’s timelock condition) can be used to spend the bitcoins. Alice would reveal her stored alternative script condition and the threshold signature to prove the authenticity of her spend. The other conditions are not disclosed.
+
+Conversely, if the three participants settled the transaction with a cooperative close, then none of the conditions would be exposed, and the transaction would appear as a standard transaction. Even if there were multiple participants in the scripting conditions, this would not be identifiable to an outside observer.
+
+The chief advantage of Graftroot over Taproot is the ability of the protocol to scale to outsized amounts of scripting conditions without sacrificing efficiency — the data overhead is constant. Scripting conditions can even be added after the contract was initially assembled. According to Maxwell:
+
+“The result is that instead of allowing only one alternative an unlimited number of alternatives can be provided. All are executed with equal efficiency to a single alternative, and the number of them is hidden without overhead. Alternatives can be provided for existing coins too, without requiring they get moved — movement is only required to destroy the ability to use alternatives by changing keys.”
+
+Another critical benefit of Graftroot is the ability to delegate keys in scripting, a topic which Maxwell cites as a convoluted debate dating back to 2012.
+
+Graftroot does not come without a few of its own pitfalls, however. The protocol is interactive, meaning that participants need to communicate about signing the alternative scripts before even spending the bitcoins with a cooperative close. The problem of cumbersome key management also arises as more scripting conditions and participants are added. Participants need to store correlating alternative condition threshold keys, which is not ideal for attracting users of the more mainstream variety.
+
+The problem of the underlying complexity in scripting conditions also leads into the notion that major strides will need to be made to abstract away the creation and use of alternative conditions with future user-interfaces. Taproot and Graftroot make navigating scripting conditions much easier on the back-end, but they remain complicated innovations to mask on the front-end.
+
+Development and Applications
+
+Several upcoming scripting projects are pegged to be included as complementary upgrades to the Bitcoin protocol. In particular, Schnorr signatures are the most considerable upgrade to Bitcoin since SegWit, and Blockstream recently released MuSig — their proposed test code for upgrading Bitcoin to Schnorr signatures.
+
+MAST and Taproot will likely be rolled out following Schnorr or in conjunction with it. Graftroot very well may be included in the same upgrade but also may be pushed behind the integration of MAST and Taproot with Schnorr.
+
+Simple multi-sig scripting conditions can prevent incidents like Quadriga from occurring, and more complex, scalable alternative conditions can enable innovative transaction/contract constructions. The added benefit of Taproot and Graftroot are their inherent privacy, presenting complicated transactions as standard transactions.
+
+The excitement in the core Bitcoin community around Schnorr signatures is palpable. Their integration with the legacy cryptocurrency opens a range of new opportunities for development and innovation.

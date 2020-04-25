@@ -1,0 +1,13 @@
+DATE:  18.07.2019, 16:19:31
+TITLE: Plaid Rolls Out Tool To Track Student Loan Debt
+URL:   https://www.pymnts.com/news/alternative-financial-services/2019/plaid-rolls-out-tool-track-student-loan-debt/
+
+Plaid’s core business is centered on helping make it easy for developers get up and running with financial apps. That mostly until this point has been focused on areas like basic accounts (savings and checking) and, more recently, investments. But, as the U.S. faces $1.6 trillion in student loan debt, Plaid is expanding its purview with the rollout of a new product called Liabilities endpoint. The aim of the product is to make it easier for developers to build applications on debt in general, and student debt in specific.
+
+“We’re launching with student loan data given the crisis levels it has reached in the U.S., where it is the second largest debt category behind mortgage. Today, over 44 million people, hold $1.6 trillion in outstanding loans,” Plaid’s Kate Adamson wrote in a blog post introducing the new product.
+
+High student debt is a product all on its own, the post notes, but is multiplied by the other developmental milestones it is preventing a generation of borrowers from reaching and moving past. Millennials — as any number of data sets has demonstrated — are marrying later, stalling the purchase of their first home further into their 30s and are falling behind in saving for retirement when measured against their parents and older siblings.
+
+Plaid’s new product aims to give developers the tools they need to build applications that will in turn help borrowers better manage their debt. To manage that, the new API on offer will give developers direct access to data from a number of large student loan debt managers including Navient, Nelnet, FedLoan, Great Lakes and others.
+
+From the starting point of student lending, the eventual goal is to move forward into other kinds of debt servicing data. In its ultimate extension developers would be able to build apps easily that could offer a consumer a full view of their total debt obligations, perhaps suggest ways to bring it down and help consumers navigate what kind of interest costs they are facing.

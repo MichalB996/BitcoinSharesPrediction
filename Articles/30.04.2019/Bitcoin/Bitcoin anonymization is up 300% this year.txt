@@ -1,0 +1,25 @@
+DATE:  30.04.2019, 13:43:34
+TITLE: Bitcoin ‘anonymization’ is up 300% this year
+URL:   https://thenextweb.com/hardfork/2019/04/30/cryptocurrency-mixer-use-tripled-this-year/
+
+Bitcoiners are using cryptocurrency mixers three times more often than they were nine months ago.
+
+Mixed cryptocurrency transactions – or CoinJoins – now account for over 4 percent of all Bitcoin BTC transactions, according to a report from blockchain data firm Long Hash.
+
+CoinJoin or mixing services group many transactions together before sending the correct amounts to their final destinations. In doing so, it attempts to obscure the connection between the sender and recipient in each transaction.
+
+When measured against the total monthly Bitcoin transactions, the number of CoinJoin transactions over the past 30 days is three times the volume it was in August 2018.
+
+Credit: LongHash Monthly CoinJoin use
+
+CoinJoin transactions are also at their highest point since late 2013 and early 2014. That said, overall Bitcoin transaction volumes were much lower five years ago. LongHash suggests the 2013/2014 highs were a result of high developer activity and CoinJoin being implemented in the popular Blockchain.com wallet.
+
+Indeed, lower transaction volumes also means lower fees which makes using cryptocurrency mixing services more cost-effective. Transaction fees are three times now what they were five years ago.
+
+LongHash identified CoinJoin transactions using two criteria. “[First] the transaction has at least two outputs of equal value and [second] the value of the outputs is less than or equal to the value of the inputs,” the report reads.
+
+Bitcoin is often thought to be private thanks to its pseudonymity, but it’s often not as private as many people think, as two drug dealers recently found out.
+
+However, CoinJoins aren’t always as private or secure as they sound. Security experts have previously warned that these systems only really obscure transactions from unskilled blockchain researchers.
+
+Did you know? Hard Fork has its own stage at TNW2019, our tech conference in Amsterdam. Check it out.

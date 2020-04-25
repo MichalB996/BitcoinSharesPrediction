@@ -1,0 +1,31 @@
+DATE:  25.04.2019, 03:50:52
+TITLE: How to Use Bitcoin.com's New Point-of-Sale Solution — Bitcoin Cash Register
+URL:   https://news.bitcoin.com/learn-how-to-use-bitcoin-coms-new-point-of-sale-solution-bitcoin-cash-merchant/
+
+How to Use Bitcoin.com's New Point-of-Sale Solution — Bitcoin Cash Register
+
+During the third week of April, Bitcoin.com released a new point-of-sale (PoS) service called Bitcoin Cash Register for Android operating systems. The free platform allows any retail location to accept bitcoin cash (BCH) without registering an account. With the Bitcoin Cash Register platform, store owners can open their businesses to a new form of payment that’s settled immediately with no chance of chargebacks.
+
+Also read: Statistics Show Bitcoin Cash Is a Strong Contender After Crypto Winter
+
+Introducing Bitcoin Cash Merchant: the Free Point-of-Sale Noncustodial Merchant Solution
+
+Bitcoin.com has launched an application called Bitcoin Cash Register, a platform that allows anyone in the world with a tablet or smartphone to accept BCH in a noncustodial fashion. There’s also no registration process involved with the new merchant app, allowing store owners to accept the decentralized cryptocurrency in a private manner. The PoS service is extremely easy to use as the merchant platform is simply tied to a public BCH address or an extended public key in order to start receiving bitcoin cash payments. The application is also secured by a required PIN code that’s needed to open the merchant platform at every launch.
+
+This week, I decided to experiment with the Bitcoin Cash Register platform in order to show our readers how easy it is to use so they can accept BCH for goods and services at any physical location.
+
+The Bitcoin Cash Register application is currently available for Android devices so the platform needs to be downloaded from the Google Play Store. The download only takes a minute as the application requires about 4.8 megabytes of my storage space. After the download completed, the app started by forcing me to create a 4-digit PIN code for security purposes. After entering the code, the application asked me to confirm the code a second time in order to make sure I remembered it correctly. From here, the platform took me to the settings section so I could add a public BCH address or extended public key (xPub) in order to tether a wallet to the Bitcoin Cash Register platform. After I added the new address, the application turned on and I was ready to accept BCH for payments at any time.
+
+Setting Up Bitcoin Cash Merchant in Less Than Five Minutes
+
+Users can then add a business name and choose from 150+ fiat currencies in order to display a local currency and show the BCH exchange rate on invoices. The home section of the Bitcoin Cash Register platform looks like a register so the user can simply create an invoice for the cost of goods and services in BCH. In order to test the app’s functionality, I set the invoice for $10 and after pressing the “check” button, the app displayed a smaller invoice window. The invoice has a QR payment code that’s compatible with any BCH wallet and the invoice also showed me the exchange rate, which was 0.0363306 BCH at the time of testing.
+
+After an invoice is paid, the history of transactions is encrypted on the device. Using the merchant platform was easy and crypto newcomers could grasp the user interface in no time. The entire process of setting up the payment processor in order to accept BCH for goods and services took me less than five minutes of setup time. Further, if I didn’t already have a BCH-compatible address to tether to the merchant tool, the platform features a direct link to the Bitcoin.com Wallet. Bitcoin Cash Register is also open source and the code can be reviewed on Github at any time.
+
+Accepting bitcoin cash opens store owners to new customers and new merchants bolster this benefit. Moreover, customers can experience the great attributes of paying with BCH as network fees are consistently below 1 cent per payment. This means the Bitcoin Cash Register platform can make high payment processing fees a thing of the past. BCH payments are permanent, so merchants don’t have to deal with nuisances like credit card chargebacks and store owners can make refunds at their own discretion. Because of all these great benefits, the developers at Bitcoin.com released the new PoS platform to help provide more economic freedom. Bitcoin.com’s merchant processor provides everyone with the liberty to transact with this innovative, censorship-resistant technology today.
+
+What do you think about the new Bitcoin Cash Register point-of-sale platform? Let us know what you think about this subject in the comments section below.
+
+Image credits: Shutterstock, Bitcoin Cash Register, and Jamie Redman.
+
+Now live, Markets.Bitcoin.com – a comprehensive, real-time listing of the cryptocurrency market. View prices, charts, transaction volumes, and more for the top 500 cryptocurrencies trading today.

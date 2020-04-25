@@ -1,0 +1,27 @@
+DATE:  16.03.2020, 14:45:44
+TITLE: Malicious COVID-19 tracker app locks phones and demands $100 in Bitcoin
+URL:   https://www.techradar.com/news/malicious-covid-19-tracker-locks-phones-and-demands-dollar100-in-bitcoin
+
+The impact of the coronavirus pandemic is being felt in just about every county in the world. As some people fall ill, others are self-isolating to reduce the risk of infection, and millions of peoples around the globe are having to work from home and amend their travel plans.
+
+And, as is so often the case, there are malicious-minded groups out there willing to take advantage of the chaos and confusion brought about by the spread of the virus. Aware that people are scared and in search of information, cybercriminals are luring in victims with the promise of a coronavirus app for Android – but in reality, it is ransomware.
+
+Both Apple and Google have been proactive in stamping out apps and games relating to coronavirus to prevent fake tools making it to their respective stores. Apple has placed strict limits on COVID-19 apps so that only tools from official sources are permitted, but this has not prevented criminals from finding other ways to take advantage of the coronavirus crisis.
+
+Security researchers from DomainTools not only noticed an increase in the number of domains relating to coronavirus recently, but spotted one in particular – coronavirusapp.site – that purports to offers real-time tracking of COVID-19 cases via an Android app available to download outside of Google Play. The truth is that the app is ransomware that can be named CovidLock
+
+Fake coronavirus tracking
+
+The ransomware takes advantage of the fact that millions of people are hungry for information and advise about the spread of coronavirus. Once installed, the app asks for various permissions which it claims are needed to be able to deliver notifications. But in reality, requests to enable accessibility settings and activate the lock screen are just a ploy to force a victim to change their phone's lock screen password.
+
+Once changed, the app reveals what it really is – ransomware. It demands a $100 (about £80, AU$160) Bitcoin payment to decrypt data, with the threat that everything will be deleted if payment is not made within 48 hours.
+
+There is a glimmer of good news. This type of attack is quite old, and it is something Google has protected users against for some time. DomainTools notes: "Since Android Nougat has rolled out, there is protection in place against this type of attack. However, it only works if you have set a password. If you haven't set a password on your phone to unlock the screen, you're still vulnerable to the CovidLock ransomware."
+
+The group also says that it is working to publicly release the decryption key free of charge so the cybercriminals behind the tool do not profit from it.
+
+This all serves as a helpful reminder to only download apps from trustworthy sources such as Google Play.
+
+Check out our guide to the best free Android apps
+
+Via Android Police

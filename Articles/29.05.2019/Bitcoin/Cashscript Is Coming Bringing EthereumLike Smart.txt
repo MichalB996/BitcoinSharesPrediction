@@ -1,0 +1,39 @@
+DATE:  29.05.2019, 16:30:41
+TITLE: Cashscript Is Coming, Bringing Ethereum-Like Smart Contracts to Bitcoin Cash
+URL:   https://news.bitcoin.com/cashscript-is-coming-bringing-ethereum-like-smart-contracts-to-bitcoin-cash/
+
+Cashscript Is Coming, Bringing Ethereum-Like Smart Contracts to Bitcoin Cash
+
+On May 27, the analytics and data web portal Coin Dance announced the team has added the Cashscript project to the website’s development tracker. Cashscript is a high-level language that enables basic smart contract functionality on the Bitcoin Cash (BCH) network.
+
+Also Read: Crypto Assets Outshine Most Traditional Investments in 2019
+
+Meet Cashscript: A High-Level Programming Language for Bitcoin Cash
+
+Smart contract functionality is coming to the Bitcoin Cash network, which will allow developers to not only use the peer-to-peer cash as a medium of exchange, but also execute unique decision-based transactions. This week, data website Coin Dance added a new project called Cashscript to the site’s development tracker so BCH supporters can get a glimpse of this concept.
+
+The creator of Cashscript, software engineer Rosco Kalis, has been working relentlessly on the protocol and a sneak preview of the project’s potential was shared on Reddit. On May 28, news.Bitcoin.com discussed the Cashscript project with Kalis to give our readers an inside look at this innovative concept. Kalis explained that Cashscript is a high-level language that compiles down to Bitcoin Script. The developer said he was inspired by Tendo Pein’s Spedn language, but found it too difficult to integrate into his web development workflow.
+
+“With Cashscript we are mainly focusing on making that integration easier by providing a Javascript Software Development Kit (SDK) that allows you to plug in Cashscript contracts into any web application,” Kalis told news.Bitcoin.com. “For this workflow as well as the syntax of the language we took a lot of inspiration from Ethereum’s Solidity language and Web3.js / Truffle libraries,” Kalis remarked, adding:
+
+The goal with this is also to make it easier for developers of either community to get involved with the other.
+
+A Javascript SDK That Allows Developers to Easily Plug Cashscript Contracts Into Web Applications
+
+Cashscript is still a work in progress and still has a ways to go before the project is close to being released to the public. Kalis detailed that he believes clear documentation will be added in the coming weeks, and people could start playing around with Cashscript after that. But the developer emphasized that there needs to be a lot of testing and more time to make sure that Cashscript is safe to use. Kalis is also currently writing his Master’s thesis about the project and high-level Bitcoin Script languages. At the moment the engineer said that most of the internal compiler work for the language is done, but the Script output is far from optimized. Right now the generated Scripts are quite a lot bigger than they have to be, Kalis noted.
+
+“What we’re currently working on is the Javascript SDK that allows us to easily plug Cashscript contracts into web applications — We have the first version of this SDK, but we’re still working out the details of it,” Kalis said. “The compiled Scripts and SDK should also still be tested more to make sure that they can safely be used — Finally, we’re also still working on creating the documentation for the language and SDK, as we currently only have a few examples online.”
+
+Bringing Talented Blockchain Developers Together to Create Smart Contracts With a Common Workflow and API
+
+Kalis and other BCH developers have been testing the Script output on the BCH testnet and the software engineer has also been steadily working on the documentation of the language. News.Bitcoin.com then asked Kalis to explain what types of decision-based transactions could be created using the Cashscript protocol. Kalis highlighted that Cashscript could be used to implement zero-confirmation forfeits, a concept that could reduce the amount of time a malicious entity has in an attempt to double spend zero-confirmation transactions. An example of Cashscript and zero-conf forfeits can be seen here on the project’s Github repository. Behind the scenes, the Cashscript SDK uses Gabriel Cardona’s Bitbox library, which handles all things Bitcoin Cash. “For usage, any web application that would like to handle Bitcoin transactions other than P2PKH could use a CashScript contract for that,” Kalis asserted.
+
+“Something else that we have in our SDK is the ‘ABI’ or Application Blockchain Interface — This is a concept from Ethereum, and it is basically a JSON object with all the information that is needed to interface with a smart contract,” the developer said. “So it would also be possible to share this ABI with other people, and the CashScript SDK has a function to import this ABI and use it to generate a “Contract” object that can be used to send and receive money to this contract.”
+
+During the end of the conversation about Cashscript, Bitbox creator Gabriel Cardona joined the discussion. Cardona said a big motivation behind Cashscript was to bolster on-ramping developers from other ecosystems, such as Ethereum. “Since P2SH is BCH’s version of smart contracts we’ve needed a higher level application programming interface (API) for writing Script for a while as writing Script manually is incredibly awkward and error-prone,” Cardona mentioned. The programmer further confided that Kalis leveraged the look and feel of Solidity, hence the API. “[Cashscript] is meant to help talented developers from Bitcoin Cash, Ethereum and other chains create smart contracts with a common workflow and API,” Cardona concluded.
+
+What do you think about the Cashscript language for creating smart contracts on Bitcoin Cash? Let us know what you think about this project in the comments section below.
+
+Image credits: Shutterstock, Twitter, and Pixabay.
+
+Want to create your own secure cold storage paper wallet? Check our tools section. You can also enjoy the easiest way to buy Bitcoin online with us. Download your free Bitcoin wallet and head to our Purchase Bitcoin page where you can buy BCH and BTC securely.

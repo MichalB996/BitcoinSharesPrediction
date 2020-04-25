@@ -1,0 +1,33 @@
+DATE:  15.03.2020, 17:00:12
+TITLE: Lost Your Bitcoin? Here Is How You Can Recover It
+URL:   https://bitcoinist.com/lost-your-bitcoin-here-is-how-you-can-recover-it/
+
+Bitcoin Security Lost Your Bitcoin? Here Is How You Can Recover It
+
+A programmer has released a tool that can recover lost Bitcoins using partial key data. The program simplifies what can be a painstaking and frustrating process when wallet data has become damaged or corrupted. Other tricks may also be employed to find lost funds.
+
+Tool Recovers Missing Information
+
+Redditor u/Coding_Enthusiast recently released the tool, which he calls the “FinderOuter.” Although not the first program designed to recover lost key data, it simplifies the process. The FinderOuter has a simple interface that enables the user to enter the partial information for Base-58 or Base-16 private keys. It then recovers the entire key.
+
+The open-source tool can be downloaded from Github. The author intends to add more features, such as the ability to use partially known information to recover full BIP-based seed phrases and passwords.
+
+There is no shortage of potential users of this software, as missing information is responsible for many lost Bitcoins. In fact, by some estimates, as much as twenty-five percent of all existing Bitcoins are currently inaccessible.
+
+Other Techniques May Help Restore Lost Funds
+
+It is next to impossible to recover missing private keys without a partial amount of information, yet not every case of lost Bitcoins is hopeless. For example, computer crashes have often been responsible for losing funds, but many tools exist, both hardware and software, that can restore failed hard drives.
+
+Also, files believed to be corrupted are often easily recoverable. In fact, it is common for different hardware or operating systems to read data believed to be hopelessly lost. The same is true of files that have been deleted, as tools designed to recover erased data have been around for decades.
+
+Proper Bitcoin Storage More Important Than Ever
+
+Any crypto investment strategy should start with a plan to properly store funds for the long-term. Simply put, the best way to restore lost Bitcoins is to never lose them in the first place. Unfortunately, the mishandling of cryptocurrency is all-too-common.
+
+Cold storage, generally via hardware wallets, has long been considered the best means to protect against loss. However, recovery phrases for these devices must still be carefully written down and stored in a very secure location. Cryptocurrency should never be kept on exchanges, nor should wallet data be kept on any device without adequate backup.
+
+Also, substantial amounts of cryptocurrency have now been lost because owners have died without providing needed recovery information. Thus, this possibility should be factored into any long-term investment plan.
+
+Have you lost any or all of your bitcoins? Tell us in the comments below.
+
+Image via Shutterstock

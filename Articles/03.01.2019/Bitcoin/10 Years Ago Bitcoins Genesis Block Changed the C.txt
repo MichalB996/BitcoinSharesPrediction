@@ -1,0 +1,45 @@
+DATE:  03.01.2019, 18:15:08
+TITLE: 10 Years Ago Bitcoin's Genesis Block Changed the Course of History
+URL:   https://news.bitcoin.com/10-years-ago-bitcoins-genesis-block-changed-the-course-of-history/
+
+10 Years Ago Bitcoin's Genesis Block Changed the Course of History
+
+Over the last 12 hours, cryptocurrency supporters across the globe have been celebrating the 10-year anniversary of the Bitcoin genesis block which was mined at approximately 18:15:05 UTC. Die-hard crypto enthusiasts believe the software released by the anonymous creator Satoshi Nakamoto has forever changed the way people look at money, and that the technology’s effect on the global economy will transform the course of history.
+
+Also read: 2018’s Top Cryptocurrencies Ranked by Github Activity
+
+10 Years of Dust Sent to the Genesis Block’s Wishing Well
+
+On Halloween 2008, an anonymous developer named Satoshi Nakamoto announced a paper called Bitcoin: A Peer-to-Peer Electronic Cash System. Two months later, on Jan. 3, 2009, the network officially launched when Nakamoto mined block 0, bringing the Bitcoin blockchain into life. The genesis block is special for a few reasons as it has characteristics that the thousands of subsequent mined blocks do not. For instance, the genesis block is hardcoded into a great majority of software clients that use the chain for reference and for infrastructure.
+
+Furthermore, at the time of creation, block rewards gave miners 50 BTC, but the genesis block is an unspendable sum that will forever contain those 50 coins. To this day nobody knows whether Satoshi made these coins unspendable for any specific reason. Over the years, many fans have also sent funds to the genesis address, and at the time of publication, there’s a total of 66.9 BTC sitting there. Scrolling through the list of dust transactions sent to the genesis address, one can find messages to Satoshi asking the creator for coins, as many of the senders hoped the creator would send additional funds back to them.
+
+Like the Beatles, Satoshi Left a Backward Message in Block 0
+
+Another interesting fact about the genesis block is that many historians believe it was mined with a Windows-powered PC. Bitcoin version 0.1, the first original implementation, is written in the coding language C++ and was a Windows GUI application at first. This means the first block Satoshi mined was processed solely with a PC’s CPU. People mined BTC this way for two years after block 0 was created.
+
+The genesis block’s hash has two additional leading hex zeroes which are not seen in block creation today (except for the infamous 21e800 hash on June 19, 2018). The content of the ‘input’ in a generated bitcoin block contains what’s called a ‘coinbase parameter,’ which in the genesis block’s case is recognized as one of the most fascinating examples of hardcoded text stored inside the chain.
+
+The coinbase parameter for block 0 states:
+
+The Times 03/Jan/2009 Chancellor on brink of second bailout for banks
+
+There are many theories to why Satoshi created this text, the prevailing one being that it was a philosophical message in response to 2008’s economic crisis and the subsequent bank bailouts. In addition to the coinbase parameter, when someone decrypts the hexadecimal format, the message also shows the “Chancellor bailout” text written backward. With Satoshi mining bitcoin with his CPU, it took six days to find block 1 on January 9 after the genesis block’s creation, and some people consider this day to be Bitcoin’s birthday as well. Some bitcoiners also assume Satoshi took a break in between mining blocks 0-1, in order for the timeline to represent the Bible’s Genesis story where God’s creation of the earth took seven days.
+
+Hal Finney, Cryptographers, Internet Geeks, Anarchists, Tech Entrepreneurs, Venture Capitalists, and Grandma
+
+Three days later, Satoshi sent the first transaction to the developer Hal Finney who decided to run the software and accepted 10 BTC from the creator. In fact, Finney was running the Bitcoin protocol on his computer the day after block 1 was mined on January 10 and tweeted about the software that day. However, even though Finney was the first known or identified bitcoin recipient, Satoshi sent coins to quite a few people on that same day. The creator also chose to send coins from block 9, as opposed to sending funds from blocks 1-8 for another unknown reason. On March 19, 2013, Finney explained how he got excited about the protocol after it was released by the anonymous inventor.
+
+“When Satoshi announced the first release of the software, I grabbed it right away — I think I was the first person besides Satoshi to run bitcoin,” explained Finney’s recollection of the events. “I mined block 70-something, and I was the recipient of the first bitcoin transaction when Satoshi sent ten coins to me as a test — I carried on an email conversation with Satoshi over the next few days, mostly me reporting bugs and him fixing them,” the cryptographer added.
+
+The creation of Bitcoin’s Genesis block and the beginning stages of the network slowly started to gather more supporters as time progressed. To this day, we don’t know what happened to Satoshi when the creator left the scene in 2010, by which point he is credited with having mined close to 1 million bitcoins. Since then, the establishment has scorned the technology year after year, while Bitcoin has steadily gained traction. Meanwhile, large swathes of geeks and political idealists started to believe the protocol would revolutionize the entire monetary system on a global level. For six years after block 0 was mined, the financial elites called cryptocurrencies crap before attempting to commercialize them in 2015.
+
+Hard Money and the 21 Million Deliverable Pieces of Subjective Value
+
+Satoshi’s software is more than just a fundamental breakthrough in computer science; the technology is also a peer-to-peer, open, secure, censorship-resistant, and the most deliverable type of money ever created. Since the creation of the genesis block 10 years ago today, the technological innovation has allowed for a pure form of voluntary free market exchange. Transactions between global individuals are conducted in a permissionless manner across hundreds of invisible borders without the need for any pre-existing trust. The innovation Satoshi gave to the world in 2008 is the current monetary system’s black swan, equipped with a positive feedback loop. Its ability to survive 10 turbulent and testing years is surely an event worth celebrating.
+
+What do you think about the 10-year anniversary of the genesis block and Satoshi Nakamoto’s infamous creation? Let us know what you think about this subject in the comments section below.
+
+Images via Shutterstock, The Times, Twitter, Brave the World, and Pixabay.
+
+Need to calculate your bitcoin holdings? Check our tools section.

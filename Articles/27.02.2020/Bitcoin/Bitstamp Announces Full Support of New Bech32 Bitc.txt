@@ -1,0 +1,42 @@
+DATE:  27.02.2020, 22:27:26
+TITLE: Bitstamp Announces Full Support of New Bech32 Bitcoin Addresses
+URL:   https://cryptopotato.com/bitstamp-announces-full-support-of-new-bech32-bitcoin-addresses/
+
+As of today, Thursday, February 27th, 2020, Bitstamp has just announced that they’ve upgraded to full native SegWit support on their exchange. This means Bitstamp users will now be able to create wallet addresses for depositing cryptocurrency by using the new Bech32 address format.
+
+Although owning Bitcoin can be exciting, sending and receiving cryptocurrency tends to be a bit more complicated. That’s because of the fact that users must carefully keep track of their wallet addresses, and something as small as making a typo while entering a destination address could mean the loss of their precious digital coins.
+
+In the past, Bitcoin addresses had up to at least 34 characters, consisting of randomized digits and lower-case and upper-case letters. But now, with the new Bech32 format, destination addresses on Bitstamp will no longer be case sensitive.
+
+In the end, the goal behind the new update is to make Bitcoin transactions more efficient, while also reducing the risk of accidentally sending crypto to an invalid or mistaken address.
+
+The Benefits Of New Bech32 Addresses
+
+Bech32 is a new Bitcoin address format, which has been created specifically for use with SegWit technology.
+
+And according to Bitstamp, “We’ve always supported the development of new technologies that can help Bitcoin reach its full potential to store and transfer any amount of value anywhere in the world quickly and cheaply.”
+
+Bitcoin users will still be able to choose the old address format, however, the Bech32 format will help boost the efficiency of each transaction because it will reduce the amount of space needed on the blockchain. And on top of this, using the new format also reduces the risk of human error.
+
+Without exception, all Bech32 addresses will start with the symbols, “bc1” and will not be case sensitive. In other words, there will be a lesser chance of anyone making a spelling mistake while typing in an address or just accidentally sending their cryptocurrency to the wrong destination address.
+
+Furthermore, Bech32 addresses also feature an automatic address format check, which helps to ensure that users are indeed sending their cryptocurrency to a valid address.
+
+Making The Switch
+
+As mentioned, Bitcoin users may still use the old address format.
+
+Still, Bitstamp suggests that all users make the switch to the new format, simply because it will help make transactions that much more efficient. With this, the exchange has automatically generated new addresses for all their existing customers.
+
+“Due to this technical upgrade, we have generated new Bitcoin deposit addresses for all our customers. Please make sure you’re using your new address before you send any BTC to Bitstamp.”
+
+Enjoy reading? Please share:
+
+Binance Futures Limited Offer: Use this link to register & get 10% discount on fees (Exclusive to CryptoPotato).
+
+
+
+Click here to start trading on BitMEX and receive 10% discount on fees for 6 months.
+
+
+

@@ -1,0 +1,85 @@
+DATE:  01.08.2019, 18:04:02
+TITLE: Bitcoin Independence Day: How SegWit, UASF Defines Consensus
+URL:   https://bitcoinmagazine.com/articles/bitcoin-independence-day-how-this-watershed-day-defines-community-consensus
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+On August 1, 2017, the Bitcoin community was scheduled to initiate the network’s first user-activated soft fork (UASF). The novel concept, proposed by the pseudonymous Bitcoin and Litecoin developer Shaolinfry, was the final campaign in a years-long scaling conflict that culminated in the activation of SegWit.
+
+The day was dubbed Bitcoin Independence Day, a day which demonstrated the sovereignty of the community’s consensus. And officially put an end to the network’s first of many civil wars.
+
+SegWit: A TLDR
+
+Segregated Witness was introduced in a Bitcoin Core upgrade in October 2016. The two-for-one protocol upgrade repaired a transaction malleability bug (which would ultimately pave the way for secondary networks like Lightning) and, as a happy consequence, lower transaction costs by increasing how much transaction data could fit into each block.
+
+First introduced by Dr. Pieter Wuille at Scaling Bitcoin in December 2015, the upgrade essentially separates signatures (the data responsible for proving who owns which bitcoin) and transactions within each block. Instead of lumping signatures into transaction data, this data is wrapped into the coinbase of a block. This increased Bitcoin’s block size without increasing its original block size limit.
+
+And this could be done, Core contributor Luke Dashjr proposed, as a backward compatible soft fork, meaning the upgrade could be applied by some nodes and not others without threatening the blockchain’s consensus.
+
+After a year of development, some 4,700 lines of code (written by Wuille, Ciphrex CEO and Core contributor Eric Lombrozo and Core contributor Dr. Johnson Lau) would be delivered in Bitcoin Core version 0.13.1 with what seemed like obvious benefits for the network. Who, after all, doesn’t want cheaper, faster transactions?
+
+Miners, apparently.
+
+Even as SegWit made it into the Core release, it had yet to be activated. For this to happen, miners would have to signal their support for the upgrade and begin mining SegWit blocks. Once one miner or pool made the signal, 95 percent of the network’s miners would have the span of two weeks (2,016 blocks; aka a difficulty period) to begin mining SegWit blocks. If 95 percent of hashing power generated blocks under the new SegWit rules within this timeframe, then the soft fork’s rules would be “locked in” to the network and would be fully activated after another difficulty period.
+
+Problem was, only Bitfury, Slush Pool, BTCC and a handful of smaller mining pools and independent miners signalled for the upgrade when it went live in October. Some of the largest, like Bitmain’s Antpool and F2Pool, were less than eager to commit to the upgrade. Bitmain, in particular, demanded that SegWit be accompanied by a block-size increase via a separate hard fork.
+
+So SegWit was actually a nonentity on arrival.
+
+Rallying the Troops
+
+For the rest of 2016, SegWit’s code lay dormant in the Bitcoin Core software, but the scaling debate was as active as ever. In February, the UASF was first pitched as a method to spur SegWit adoption, but support for this didn’t take off until Spring/Summer 2017 (more on this later). Perhaps the positive reception for the UASF can be seen as a last ditch response to two new complications that would bring the space’s years-long scaling conflict to a fever pitch.
+
+The first of these was the discovery that mining goliath Bitmain may have been covertly exploiting a vulnerability in Bitcoin’s mining algorithm to milk up to a 20 percent efficiency boost with its miners. Dubbed AsicBoost, Blockstream CTO and seasoned Core contributor Gregory Maxwell first blew the whistle on the exploitation after reverse engineering an ASIC chip developed by Bitmain. Though Bitmain denied that it had deployed the mechanism at the time, sources told Bitcoin Magazine that the industry’s preeminent ASIC manufacturer included AsicBoost in their chips (though it was never proven that it used the exploit in its operations).
+
+Suddenly, SegWit’s stagnation among miners began to make sense. If activated, SegWit would nullify AsicBoost entirely.
+
+“An incompatibility would go a long way to explain some of the more inexplicable behavior from some parties in the mining ecosystem, so I began looking for supporting evidence,” Maxwell wrote at the time.
+
+As Lombrozo told Bitcoin Magazine, “After it became clear that SegWit made ASICBOOST not work, there was another incentive [for them to not implement SegWit].”
+
+This was in April 2017. The following month, in the days leading up to Consensus 2017, a cabal of the Bitcoin industry’s most influential companies met and forged what came to be known as the New York Agreement. Led by Digital Currency Group and its founder Barry Silbert, the invite-only clandestine meeting had a singular agenda: plan and execute a hard fork that would activate SegWit and expand Bitcoin’s real block size to 4 MB. Apparently, this played to the sensibilities of Bitmain and other major mining firms, as the New York Agreement garnered support from mining pool leaders that represented 80 percent of the global hashrate.
+
+The initiative was branded SegWit2x. And boy was it controversial. The hard fork meant the new protocol rules, unlike the SegWit soft fork, would be incompatible with non-upgraded versions — and the agreement’s version of SegWit was incompatible with Core’s version. A group of elites that represented only a fraction of Bitcoin’s users, the argument goes, were trying to commandeer the Bitcoin brand and control the network’s development, all without any input from the actual Core developers.
+
+This collusion quickly became recognized as an existential threat. What was assumed to be a seamless soft fork with SegWit had spiraled into a scaling war that threatened to cleave the network (and its community) in two. With SegWit2x’s activation slated for October/November of 2017, time for a community-healing solution was running out.
+
+The UASF Solution
+
+Before the summer was up, the new SegWit implementation proposal from February — drowned out as it was during the spring from the noise caused by the surrounding scaling debates — began to resurface as a viable solution.
+
+“There is no universe in which SegWit will not get activated,” the pseudonymous Bitcoin and Litecoin developer, Shaolinfry, told Bitcoin Magazine at the time.
+
+That’s why he introduced a novel fix to the solution, the UASF, in February of 2017.
+
+The solution was simple, if a bit risky. By activating the UASF on their wallets and nodes, users would be giving miners an ultimatum: signal SegWit or we will reject your blocks. In effect, this would incentivize miners into flipping the switch on SegWit, an opportunity for the community to exercise its control over the Bitcoin network. The game theory for justifying the strategic move was based on Nassim Nicholas Taleb’s concept of the intolerant minority — that an economic minority can bend a majority to its whim by encouraging this majority to act in its own rational economic interest. In this case, if the miners don’t play by the UASF rules, then they lose out on profit and harm their wellspring of income.
+
+“The interesting thing about BIP148 [the improvement proposal that ultimately included the UASF] is that any majority of miners can trigger it — it doesn’t have to be 95 percent. If 75 or even just 51 percent of hash power starts rejecting non-signaling blocks per August 1, they will always claim the longest chain. So really, all miners will from then on have to signal support and activate SegWit — or have all their blocks orphaned by the network,” Shaolinfry told Bitcoin Magazine at the time.
+
+And if the 51 percent threshold wasn’t crossed? Well, the blockchain could have split, as certain nodes accepted only SegWit blocks and orphaned others. The possibility of this chainsplit and the security vulnerabilities it might have entailed were the primary caveats against this approach.
+
+Introduced as it was in February, it wasn’t until the heat of the summer and post-New York Agreement that the proposal gained traction. Two Bitcoin improvement proposals (BIP148 and BIP149) were drafted by Shaolinfry. Then-BTCC COO Samson Mow began a crowdfund for the soft fork, and a date for August 1, 2017, was set for users to implement BIP148, the proposal that won out.
+
+Only there was one problem: the New York Agreement. Its version of SegWit was still incompatible with this version of SegWit and, by extension, BIP148. Thankfully, a savvy Bitmain Warranty engineer, James Hilliard, architected BIP91, an upgrade that would make all three compatible (at least for this rollout of SegWit). Jeff Garzik, the former Core contributor and SegWit2x’s lead developer, announced that he would be implementing the fix in the weeks leading up to August 1. Taking its name from an upcoming Electrum Wallet release, the movement was coined Independence Day.
+
+The world’s leading mining pools would implement it, as well, and BIP91 was officially locked in on July 20, 2017. Ironically, because of this, the UASF was no longer necessary; so long as miners ran BIP91, the proposal signaled miner support for SegWit and made the UASF. Miners could still back out of BIP91, however, so the pressure of the UASF was still imperative and users were still encouraged to enforce it. Brilliantly, this peer pressure was factored into the game theory behind its design from the start. Shaolinfry told Bitcoin Magazine in 2017 that a possible avenue to SegWit activation wouldn’t be the UASF itself but the threat of it, and this is precisely how it came to pass.
+
+The Legacy
+
+While it’s unclear how many people implemented BIP148 on August 1, SegWit would lock into the network on August 9, and after a two-week grace period, the upgrade would be set in stone — and without splitting the chain in two. After two years or so of anxiety and infighting, the SegWit saga was concluded. In the ensuing months, the New York Agreement would dissolve and, along with it, another outstanding threat to the community’s consensus.
+
+Today, Eric Lombrozo, a principal architect behind SegWit, believes that the upgrade’s activation had a lot to do with diffusing other existential threats.
+
+“I think that after that, people just gave up. The ones that didn’t give up were forked off and became their own blockchain,” he told Bitcoin Magazine, referring to coin splits like Bitcoin Cash (which went live on August 1 and was originally billed as Bitmain’s “contingency plan” to BIP148). “The ones that wanted to have it all on Bitcoin gave up when they realized it was not possible to make these changes on the Bitcoin blockchain itself.”
+
+Lombrozo views SegWit2x as the last great attempt to co-opt the Bitcoin brand, stating that there have been “[s]everal attempts to do it before with Bitcoin XT, Bitcoin Classic, Bitcoin Unlimited.” With each failure, he sees Bitcoin’s game theory working as intended. He also wishes that, instead of welling up all the “bad blood” and “animosity” these scaling debates did, he’d “like it to be a game where people play by the rules and accept the results.”
+
+“It’s not possible to deploy whatever you want on a consensus network,” he said. “I could want to deploy a million features, but if other people don’t want to accept it, it’s not up to me. I can’t negotiate this on behalf of the network. It’s not up to me or anyone else.”
+
+Looking back two years later, Lombrozo — perhaps like many Bitcoiners — is still trying to find “the story in all of this.” Bitcoin is a still a very young phenomenon and, as he put it, everyone is still trying to figure out how all its moving parts, from game theory, to technical architecture, to community consensus, to economic incentives, operate together.
+
+The biggest takeaway, however, is that Bitcoin Independence Day conveyed who really controls Bitcoin. Its aggregate user base, not the whims of a few mining and corporate oligarchs, are at the helm. This is why we celebrate August 1 — it was Bitcoin’s first major community stress test. And rather than buckle under pressure, the community rose to the occasion.
+
+“It means that in the end, the people that run the validating nodes ultimately determine which transactions they want to consider validated. It demonstrated that, in the end, people can validate their own transactions, and there’s network incentive to join the network that’s going to give them the most value. I think we saw the dynamics play out that way,” Lombrozo said.

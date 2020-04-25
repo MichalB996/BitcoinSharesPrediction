@@ -1,0 +1,127 @@
+DATE:  22.01.2020, 16:15:48
+TITLE: Digital Bounty: The great crimeware awakening
+URL:   https://techaeris.com/2020/01/22/digital-bounty-the-great-crimeware-awakening/
+
+This guest editorial was written by Roger A. Grimes, a technology evangelist at KnowBe4.
+
+Criminals are awakening and taking advantage of their new digital bounty. Ransomware is just beginning to show us how bad it is soon going to be. We thought it was bad now. We really didn’t have a clue.
+
+How I wish for the days of yesteryear. I’m old enough to remember the dawn of computer hackers and malware. I wasn’t around in the ’50s and ’60s and not old enough in the ’70s to firsthand experience the very early and first digital criminals and their malicious creations. But I was around to see the first personal computer virus, Elk Cloner. It was created by 15-year old Richard Skrenta in 1982. It infected the boot sectors of Apple II computers and floppy disks. Skrenta meant it as a practical joke to mess with his friends, but as is often the case with auto-roving malware, it spread around the world causing all sorts of havoc.
+
+I was fully involved in reading about and fantasizing about fighting computer crime during the discovery of Pakistani Brain, the world’s first IBM PC-compatible infecting virus, which came out in 1986. By the time the Jerusalem, Cascade, Stoned, and Lehigh viruses came out in 1987, I was disassembling them into their assembly language coding constituencies for a volunteer group called the PC Antivirus Research Foundation (created by Paul Ferguson) and using a precursor of the Internet called FIDONet to send my digital research findings to the computer antivirus discussion group and John McAfee.
+
+For a long time, a decade-plus, most digital computer malware was written to be harmless jokes. They printed funny messages, played music, and made typed letters on your screen collect at the bottom of the screen area. The worst behaving malware programs, like the Melissa virus (1999) and the Iloveyou worm (2000) flooded corporate email networks and paging systems. Sure, there were the occasional malicious malware programs like the AIDS Cop virus (which was the first ransomware program) and the 1992 Michelangelo virus (which formatted hard drive partitions), but most were near benign and created more to prove that some young man somewhere could write it than anything else. Even the fastest spreading malware program, 2003 SQL Slammer worm, which attacked millions of unpatched SQL servers and crush corporate networks and the Internet for a few days, likely didn’t intentionally do any harm beyond it’s inherent, rapid spreading.
+
+The Elk Cloner Virus was created by 15-year old Richard Skrenta in 1982.
+
+First Crimeware
+
+But around 2005 something started to change. Malware writers learned they could modify malicious roving code to make money. Specifically, they started to create malware programs that would take over someone’s PC to send spam, and that spam would, in turn, make the spammers even money than if they sent it from one computer alone. Computer security defenders may have been able to hunt and put down the IP addresses of a few hundred spammers, but good luck when that spam is coming from millions of computers around the world.
+
+Success breeds success. Some enterprising hackers realized that they could simply take over tens of millions of PCs and turn them into rental “bot” networks. Now bad guys who knew very little about computer crime could rent a slice of a large botnet and direct the evil minions to do something: steal money, cause a distributed denial-of-service attack, or break into other computers. Now, “stub” malware programs, who’s only job it was to obtain the initial breach into a PC, would then “phone home” to the C&C (command & control) of its creator/manager and ask for more instructions. Hackers were able to compromise literally hundreds of millions of computers. At the time, it was estimated that over one-third of the Internet’s computers were exploited and under the control of a hacker at some point in its life.
+
+Cyberwarfare
+
+Even nation-states and militaries started to get into the game. After decades of predictions, the second edition of Stuxnet in 2010 (a professional malware creation of the US and Israel) successfully attacked and ruined an adversary’s nuclear program. In any world and country, it was a declaration of digital war and a battle won without dropping bombs. Cyberwarfare is now a forever permanent part of our world’s wars and battles. Cold wars have been replaced with warm wars where each leader threatens the other with digital annihilation. The military has even coined the term “kinetic battles” to differentiate traditional warfare where arms and munitions are still used and blood is spilled. North Korea blurred the lines between nation-state tactics and business when it successfully exploited Sony Pictures in 2014 simply because they dared to make fun of their leader in a comedy movie.
+
+The Rise of Ransomware
+
+But nothing prepared the world for the scourge of ransomware. The first serious inklings of what we now know as ransomware started appearing in 2005, with a real jump in prevalence in 2015. At first, ransomware mostly attacked consumers and home PCs. When executed, ransomware would immediately encrypt the user’s data and ask for $300 in ransom. In 2013, CryptoLocker ransomware started asking for payment in bitcoin. By 2017, ransomware groups realized they could extort millions at once from a single large organization instead of hitting consumers up for comparative chump change. Soon entire companies, hospitals, law enforcement agencies, and indeed entire cities started to be shut down, sometimes for weeks, by ransomware. Where it used to be rare to hear of a ransom for multi-hundred thousands of dollars, now we don’t blink an eye when a company or city gets hit up for multi-millions of dollars. Ho, hum. Within a few short years, ransomware became the biggest fear of most companies and cities. Everybody keeps hoping that roving ransomware doesn’t find the chinks in their armor. And it’s just getting worse, much worse.
+
+Traditional ransomware executed, locked up files, and hit the user with a ransom request. That was bad enough. Today, the ransomware breaks in, “phones home” to its manager, and waits for instructions. The ransomware “gang” accesses the exploited computer and begins to look around with a myriad of other hacker tools. The ransomware gang is often inside of the exploited network for many months. They monitor employee and C-level officer email and map the infrastructure learning what the important “crown jewels” of the victim are. The hackers often spend weeks to months figuring out what servers and databases, if encrypted, would cause the most immediate and long-term damage. They disable and corrupt data backups. Their goal is to get the company to say uncle as soon as possible and pay the exorbitant ransom. How much the victims have to pay depends on the revenues of the company and how much work they make the hackers do to prove their absolute control. This is what is already happening regularly today. But things are getting worse.
+
+We are seeing an inkling of what is likely to be the norm. As of today (January 2020) we are just seeing a few stories showing how bad malware will soon be during every attack. But what seems crazy today will likely be the norm tomorrow. What do I mean? Here’s what the latest ransomware is starting to do:
+
+Stealing every logon credential it can find
+
+Public shaming of victims
+
+Stealing digital data and intellectual property and threatening to leak that data to the public or competitors
+
+Threatening victim’s customers
+
+Good luck with having a good backup save you! Let me cover each in a bit more detail.
+
+The second edition of Stuxnet in 2010 (a professional malware creation of the US and Israel) successfully attacked and ruined an adversary’s nuclear program.
+
+Stealing Credentials
+
+Early ransomware, like Notpetya, always collected logon credentials, but what they looked for and captured was used to spread further within the same environment. Now, ransomware gangs will use specific password stealing trojans, like Trickbot, to steal as many logon credentials as they can, including:
+
+Network logons
+
+Browser-stored passwords
+
+Cloud-based services
+
+Password Manager passwords
+
+Healthcare services
+
+Financial and retirement services
+
+Utility services
+
+Social media sites
+
+Customer logons of your services
+
+So, instead of just capturing the corporate network passwords, they are going after every credential they can find. And they will use their ill-gotten gain to cause more damage and maximize the money they can ask for and receive. And if you don’t pay them, they will use all those logon credentials to maximize the pain they will inflict upon you and your organization.
+
+Public Shaming
+
+At least one ransomware gang, called Maze, is actually putting victim’s names out on their blog and web site (https://blog.knowbe4.com/nemty-ransomware-creators-plan-to-post-stolen-data-of-non-payors-to-blog), along with how much ransom they asked for and how much data they stole. They then contact media pundits and popular news sites to share what they have done. So, even if you pay the ransom there is no guarantee that it will remain an internal company secret. And if you don’t pay the ransom, the hacker reveals even more private information.
+
+Steal Intellectual Property/Leak Data
+
+Several ransomware groups and programs (Maze, Revil/Sodinokibi, Snatch, Zeppelin, etc.) now routinely copy all the critical digital data before they encrypt it (https://www.zdnet.com/article/another-ransomware-strain-is-now-stealing-data-before-encrypting-it/). Then they tell the company that if they don’t pay the ransom they will give the data to competitors, post it publicly on the Internet, or do what they want with it, including harming the organization’s customers.
+
+Threatening Victim’s Customers
+
+Ransomware is now attacking the customers of the original victim or at least threatening to do so. At least one plastic surgery center (https://blog.knowbe4.com/new-ransomware-threat-now-cyber-criminals-demand-ransom-from-the-patients-after-a-plastic-surgery-clinic-data-breach) the hackers not only encrypted the center’s data but actually contacted their patients and threaten to reveal to the world what plastic surgery each patient had undergone if they didn’t pay the ransom. In another case, ransomware hackers broke into a Managed Security Service Provider (MSSP) and not only asked for ransom to unlock the MSSP’s data, but threatened to attack each of the MSSP’s customers, and bring those customers down as well, if the MSSP didn’t pay the ransom. All is fair in digital love and war?
+
+And this is just a taste of what is to come. Reports of each of these are increasing in popularity. Ransomware gangs have learned that the most valuable bargaining chip they have is complete, unfettered access to the victim’s computers and network, and with that, they can do anything. And that means increased profits.
+
+So, what’s an organization to do? Well, do your best to stop the bad guys and their malware creations from getting admin.
+
+The Real Problem
+
+The real problem isn’t ransomware. That’s just a symptom. The real problem is that hackers are getting complete ownership of a network. They have the admin to the network and the systems it has. They have the keys to the kingdom. They can access, steal, and manipulate the crown jewels of the organization. And until you can stop hackers and malware from getting that level of access, you’re going to have a big problem.
+
+Data-encrypting malware is just one of the things they could do with that level of access. They can install more malware, insert backdoor programs, steal digital data, read email, modify operating systems and networks. They can disable your backups and corrupt them all so that even if you store them “offline” they are no good. They can attack your customers. They can do anything that is logically possible with the level of access they have acquired.
+
+As much as it might seem that the world has a ransomware problem, that isn’t the problem. The world has a “you’re letting the hackers get admin” problem, and as long as that isn’t solved, we will never stop the hackers. Or let me put it another way, the world could stop ransomware 100%…get rid of it completely…and we would still have a far bigger problem to solve.
+
+Solution
+
+So, what’s an organization to do? Well, do your best to stop the bad guys and their malware creations from getting admin. That means all the defense-in-depth tactics you have already been doing all along, but with a special concentration on stopping hackers and malware from getting admin credentials. If you look at the data of 30-years of how hackers break in, 90% to 99% of the risk is due to social engineering and unpatched software. Seventy to ninety percent of all successful data breaches happen because of social engineering, usually phishing. Twenty to forty percent of all data breaches happen because of unpatched software. Everything else you can think of adds up to 1% to 10% of the risk. If you don’t concentrate better on fighting social engineering and patching the things that hackers like to attack to compromise, then everything else is not going to work.
+
+To fight social engineering and phishing you need to install the best technical controls your budget will allow and then train your end-users on how to recognize and handle the phishes that get by. Because no matter what your technical controls are badness will get by them. Do both, technical and security awareness training the best you can, and you’ll have a pretty great digital defense. Don’t know all the technical things you should be doing to stop phishing, then check out this webinar: https://info.knowbe4.com/webinar-stay-out-of-the-net. Want to get a fantastic security awareness training program, then check out this webinar: https://info.knowbe4.com/webinar-making-awareness-stick. Or really, just check out any of the webinars located here: https://www.knowbe4.com/webinar-library.
+
+Focus on better patching, and in particular, make sure you patch the browsers, browser add-ins, and operating systems of workstations. On servers, make sure you patch web server software, database software, operating system, and remote management tools. These are the most popular hacker targets when they are looking for unpatched software.
+
+You also need to have good credential hygiene. Make sure you limit the number of elevated admin accounts to the bare minimum needed. Disable them all if you can, requiring admins to “check them out” to use them. Make sure to enable great auditing on all use of admin credentials and alert on anomalous use. Remember, do everything you can to prevent hackers from getting elevated credentials, and if they do, you want an early warning.
+
+Then do everything else you normally do, including:
+
+Regular, defense-in-depth, computer defenses
+
+Total tested restore of backup of critical systems
+
+Change all possible passwords and not just internal network passwords after a ransomware compromise
+
+DLP tools
+
+Network traffic anomaly analysis
+
+Encrypt data so that you can disable it’s viewing remotely Ex. Active Directory Rights Management Service
+
+Cyber insurance
+
+Media incident response team
+
+Because we are getting ready to be taken on a ride by ransomware and their gangs. In a couple of years, you, too, will long for the ransomware of yesterday which simply encrypted data and asked for money. That was the easy stuff. Here comes the harder to deal with stuff. And a good data backup isn’t going to save you. Stopping the bad guy from getting admin will.
+
+What do you think of our digital security? How do we protect ourselves in this digital world? Let us know in the comments below or on Twitter, or Facebook. You can also comment on our MeWe page by joining the MeWe social network.
+
+*We use revenue-generating affiliate links and may earn a commission for purchases made using them. Read more on our disclaimer page.

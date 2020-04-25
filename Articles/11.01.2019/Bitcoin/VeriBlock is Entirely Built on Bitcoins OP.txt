@@ -1,0 +1,31 @@
+DATE:  11.01.2019, 09:00:18
+TITLE: VeriBlock is Entirely Built on Bitcoin's OP
+URL:   https://btcmanager.com/a-proof-of-proof-startup-is-building-their-entire-blockchain-with-bitcoins-80-bytes-of-data-as-foundation/
+
+A ‘Proof of Proof’ Startup Is Building Their Entire Blockchain with Bitcoin’s 80 Bytes of Data as Foundation
+
+Bitcoin enables 80 bytes of Arbitrary data to be included on its blockchain. VeriBlock, a new startup trying to develop the OP_RETURN command has now started a debate where it argues that this additional space can be used without being considered as spam. VeriBlock is a new company that is trying to leverage OP_RETURN. The startup has motivated a series of debates on how these 80 bytes could be used without being considered spam transactions.
+
+An old debate
+
+The discussion around how Bitcoin could be used as a database is not new. In the past, the community discussed the pros and cons of allowing arbitrary data that had nothing to do with bitcoin transactions to be embedded into Bitcoin’s blockchain. Immediately, two sides took part in the discussion. On one hand, there was those claiming that as long as embedded data would be paid for with transaction fees, any data should be accepted into the blockchain. On the other hand, the purists argued that Bitcoin’s blockchain should only register the needed data to validate transactions. They went as far as to showing strong concerns of blockchain bloat which would increase the growth rate and size of the blockchain altogether.
+
+The discussion led the developers to introduce OP_RETURN as a valid transaction type on October 22, 2013, when Bitcoin Core developers merged pull request #2738. The move enabled 80 bytes of space for embedding arbitrary data on the Bitcoin blockchain but a few months after the activation of OP_RETURN, a new pull request #3737 was merged which reduce the OP_RETURN byte size to 40 bytes to prevent it being abused.
+
+Later, on February 03, 2015, after developers confirmed that OP_RETURN was safe, pull request #5286 was activated and the OP_RETURN byte size was increased back to 80 bytes.
+
+The potential of OP_RETURN
+
+OP_RETURN was a new feature on top of the Bitcoin blockchain and soon businesses uncovered its potential by starting to develop services using these free bytes. Companies such as Proof of Existence, CoinSparkwere and even Counterparty were able to use it to offer notary, messaging, and security services. Currently, VeriBlock is one of these companies offering services using OP_RETURN but is now being hit with a wave of criticism as many consider the startup to be using OP_RETURN to flood the Bitcoin blockchain with spam.
+
+On VeriBlock
+
+VeriBlock is a startup that is using OP_RETURN to secure alternative blockchain networks. According to its whitepaper, “VeriBlock’s Proof-of-Proof (PoP) consensus protocol “aims to enable a security inheriting blockchain to inherit the complete proof-of-work security of a security providing blockchain.” In this case, VeriBlock uses Bitcoin as the security providing blockchain. This process has the ability to reference data on a highly secure blockchain to protect a less secure blockchain. In the event of an attack, VeriBlock is able to call out the data stored on the security providing platform and republish this data on the original network.
+
+Resuming the old debate
+
+Jameson Lopp is the man behind the new OP_RETURN debates. Lopp, who is CTO of crypto custody provider Casa resumed the old OP_RETURN debate with a Tweet on January 5 pointing the finger to VeriBlock. According to Lopp, VeriBlock was identified as the protocol with the highest volume of OP_RETURN outputs.
+
+The incredible amount of VeriBlock’s OP_RETURN outputs in such a short-time brought the OP_RETURN spam debate to light. Once again, much like in the old debate, the community took sides. While Blockstream developer Riccardo Casatta went for the “if it pays the fee it’s not spam” side while Bitcoin core developer Luke Dashjr argued that just because someone pays a fee does not mean it is not spam.
+
+While for some, VeriBlock is actually spamming and causing network bloat, the fact is that the startup is developing something that is quite innovative in the industry. Even though many services are spamming the network it doesn’t mean that every other are doing the same. However, since VeriBlock is inherently tied to the transaction fee of Bitcoin it might become unfeasible for the company to continue increasing its transactions.

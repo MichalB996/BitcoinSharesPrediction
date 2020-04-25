@@ -1,0 +1,37 @@
+DATE:  22.12.2019, 16:11:09
+TITLE: Bitcoin Developer Throws Light on BTC’s Upcoming Future
+URL:   https://bitcoinist.com/what-future-in-store-for-bitcoin-btc-technology/
+
+Bitcoin Bitcoin Developer Throws Light on BTC’s Upcoming Future
+
+Bitcoin (BTC) attracts the most attention with its price action. But the technological capabilities of the leading coin should not be underestimated.
+
+Bitcoin Network Evolves with Lightning Payment Innovations
+
+In 2020, more than a decade after the Genesis block was created, the Bitcoin network will have changed in unexpected ways. Beyond highly active mining and new ASIC coming in, Lightning Network is one of the aspects where BTC transfers will see a significant change.
+
+A new Twitter thread based on analysis by Bitcoin developer John Newbery, suggests the Lightning Network may be one of the most active aspects of BTC’s evolution. The network has its critics and detractors, but improvements allow for fast, truly peer-to-peer payments.
+
+New technologies are being developed to make the LN function smoother, allowing multi-path payments and boosting reserves to ensure liquidity. Multiple teams are working on LN improvements, with Blockstream developing c-lightning, a light-weight implementation of the protocol. Eclair by ACINQ is a Scala-implementation, and other versions include LND and Rust Lightning.
+
+The Lightning Networks, so far considered experimental, will spread across the Bitcoin ecosystem, the analysis predicts. After Bitfinex, other exchanges may start offering Lightning deposits.
+
+“We’ll see more lightning wallets: a mix of non-custodial; self-custodied with outsourced routing; and fully-self-managed wallets. This is a brand new space and there’ll be lots of experimentation. Different teams will find different niches to fill,” suggests Newbery.
+
+The legal status of the LN is still uncertain, as node operators are simply willing peers that transfer previously loaded funds by running the client. However, 2020 will also arrive with additional scrutiny on BTC transactions.
+
+Network May Scale with Off-Chain, Second-Layer Solutions
+
+The Bitcoin network will also develop scaling solutions through second-layer technologies, the analysis suggests.
+
+“Taken together with taproot and SIGHASH_NOINPUT, we’ll get extremely rich and private off-chain contracts will be made possible,” explained Newbery.
+
+Some of those technologies will return Bitcoin’s network to its older peer-to-peer status. Communications and connections could start happening directly between wallets, taking some of the load off nodes. Currently, most BTC nodes depend on cloud services, or require significant technical investment, and are run by miners.
+
+Not all the implementations and innovations will be ready in 2020, but at least the beginnings may be put in place, commented Newbery. Bitcoin and its related protocols remain open-source and are still a form of community effort.
+
+Although BTC is not overloaded now, scaling efforts continue, and the LN may be one of the tools ideal for some types of transactions. Second-layer solutions mean the Bitcoin network may compete with some of the biggest protocols offering smart contracts and other forms of distributed computation.
+
+What do you think about the future of Bitcoin technology? Share your thoughts in the comments section below!
+
+Image via Shutterstock

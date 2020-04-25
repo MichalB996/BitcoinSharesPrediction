@@ -1,0 +1,81 @@
+DATE:  24.04.2019, 21:00:11
+TITLE: New Code Helps Lightning Users Protect Their Bitcoin from File Corruption
+URL:   https://www.coindesk.com/new-code-helps-lightning-users-protect-their-bitcoin-from-file-corruption
+
+Imagine this: Alice is one of the “reckless” users testing a new, risky technology.
+
+She’s excited about the potential for bitcoin’s lightning, a technology that advocates hope will bring bitcoin payments to the masses. So, even though developers tell her it’s risky to do so, she’s running the technology on a little computer called a Raspberry Pi anyway, even using it to buy pizza.
+
+But Alice’s Raspberry Pi is having trouble, so she reboots her node to fix the problem. But when she turns it back on, she finds that a very important file had become corrupted when the computer shut down.
+
+And now, all of Alice’s funds are gone.
+
+This troubling problem with lightning has happened to at least a few users. And it’s one of the reasons using lightning today is considered not exactly safe to use. But thousands of users are ignoring this advice, sending payments across the network to see how the novel technology works in action.
+
+Luckily, the sixth major release of the lightning implementation LND, released just last week, aims to solve this problem by putting into place the change “static backup channels” as coded by Lightning Labs CTO Olaoluwa Osuntokun.
+
+As it stands, the fate of a user’s money hinges on one file.
+
+“What happens if your channel.db file gets corrupted? It’s pretty simple: All the funds in your channels are lost,” an explainer article from earlier this month by developer Patrick Lemke reads.
+
+As Suredbits CEO Chris Stewart, who has also put together research on the topic, put it in conversation with CoinDesk:
+
+“Computers are finicky. Maybe your file system is deleted and you’re like shit, how do I get this money back?”
+
+In practice, Osuntokun noted to CoinDesk that this mostly has happened to lightning enthusiasts using Raspberry Pis, which are little hardware devices that cost roughly $30 and are an easy way to stand up a lightning node at a low entry cost.
+
+Saved by a copy
+
+Losing money in this way is not very common, Stewart notes, but he argues that developers are working on “worse case planning.”
+
+There are three main implementations of lightning so far (including Blockstream’s c-lightning and Acinq’s Eclair) all of which have implemented this sort of a backup scheme in some form or another.
+
+LND’s new technology generates a second copy of the important file, allowing users to save an extra version of their lightning wallet file elsewhere, to minimize the risk of it getting lost or “corrupted,” meaning the data was accidentally altered, like staining a drip of coffee on a white shirt.
+
+This is comparable to backing up all your computer files periodically to ensure they’re safe even if the laptop takes its last steps or gets stolen.
+
+With bitcoin, each transaction is stored in the blockchain, on thousands of nodes across the world. But with lightning, the off-chain transaction data is stored on your computer – and your computer alone. If you lose or “corrupt” the file storing state of the channels, then those funds are lost for good.
+
+Another related scenario: if you accidentally use an old version of the channel.db, which turns out to have the wrong information, then your peer will probably think you’re cheating. Thus, you’ll be penalized, losing money.
+
+That’s why this new backup code is so important. To ensure safety of funds, a user needs to save their channel.db backup file in more than one place at once.
+
+“If you run the latest version of LND your node will automatically create a backup of all the bits of information that you need to rescue your channels in case your channel.db file is lost,” Lemke explains.
+
+“We say safe, as care has been taken to ensure that there are no foot guns in this method of backing up channels, vs doing things like rsync ing or copying the channel.db file periodically. Those methods can be dangerous as one never knows if they have the latest state of a channel or not. Instead, we aim to provide a simple safe instead to allow users to recover the settled funds in their channels in the case of partial or complete data loss,” Osuntokun explains in the “pull request” where he first proposed the change.
+
+That said, Lemke stresses that users running the old lightning code are still at risk.
+
+“If you run an older version of LND your channels are not [safe] and you should be aware that you are at risk of losing your funds if your disk gets corrupted,” he wrote.
+
+Malicious peers
+
+So, now that this code has been pushed through, is the problem solved?
+
+Not exactly. As you can see, it’s still a bit of a process for backing up the files. While the infrastructure LND puts into place automatically generates a backup file for users, the user still has to be technical enough to configure where to put it.
+
+Not to mention, Stewart and Cohen point out one problem with the scheme: it’s not completely trustless. Using this backup scheme, a malicious node could steal a counterparty’s funds.
+
+This feature is “good for the average user who’s willing to trust that their peer is not malicious,” Suredbits software engineer Nadav Cohen told CoinDesk, while Stewart noted that the backup solution should work “99% of the time.”
+
+But Stewart also highlighted how Suredbits has been working a lot with different exchanges that are looking to eventually adopt lightning.
+
+“For exchanges, they absolutely need to a [trustless backup scheme]. They’re dealing with lots of money and don’t want to have the risk of losing a lot of funds,” Stewart said.
+
+Osuntokun has this scenario in mind too, noting that Lightning Labs developers are currently building out a feature that works even when a user is dealing with a malicious peer. In the meantime though, they released static backup channels, since they wanted to push out something that works for the most part.
+
+“This infrastructure will be built out in the near future, but until then we have this scheme which will also be a fall back in the scenario that any higher level mechanisms fail,” Osuntokun explained.
+
+In other words, there’s still building to be done.
+
+“We’re not there yet,” as Stewart puts it, arguing there will be more of a need for this kind of feature in the future once people are using the network for even more money.
+
+“With wumbo, people will start transacting more. We need to be concerned in that case,” he added, referencing a Spongebob Squarepants-inspired technology that will one day allow people to transfer even more money across lightning.
+
+But once developers get this scheme working, Cohen argues that it shouldn’t be hard to put something into place that’s easier for users.
+
+He said:
+
+“Backups are in the early stages and it’s a solvable problem. Once we have something that works and doesn’t require trust, I don’t doubt that we can make them better as far as latency.”
+
+Burning bitcoin image via Shutterstock

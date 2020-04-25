@@ -1,0 +1,27 @@
+DATE:  30.03.2020, 08:09:59
+TITLE: Fake Bitcoin QR Code Generators Stole Over $40,000 In March
+URL:   https://insidebitcoins.com/news/fake-bitcoin-qr-code-generators-stole-over-40000-in-march/255596
+
+Just this month, a network of malicious QR code generators stole more than $40,000 from Bitcoin (BTC) users according to a recent report by ZDnet.
+
+Scammers are Taking Advantage of their Victims’ Ignorance
+
+Bitcoin QR codes replace the lengthy BTC numbers and letters wallet addresses. Users opt for the QR option because they are more convenient than using the wallet addresses, and they were deemed much safer because users can skip the copy and paste process that leaves devices susceptible to clipboard hijacking and funds hacking. Through exchanging QR codes, users can ask another person for payment, who can simply check it with a Bitcoin wallet app and move the funds.
+
+According to ZDnet’s report, the network was uncovered by MyCrypto’s Director of Security, Harry Denley. The first giveaway he noticed was a questionable website that translated an input Bitcoin address to its corresponding QR code, but the final QR code was always the same – the wallet of the scammer.
+
+From the initial website, Denley said that he had noticed eight other websites, all sharing the same interface, indicating that they were created by the same scammer: bitcoin-barcode-generator.com, bitcoinaddresstoqrcode.com, bitcoins-qr-code.com, btc-to-qr.com, create-bitcoin-qr-code.com, free-bitcoin-qr-codes.com, qr-code-bitcoin.com, and qrcodebtc.com.
+
+The fake websites used the same servers as more than 450 other equally suspect-looking websites, Denley said. He clarified that most of them are scams, which include common words like Gmail, coronavirus, and other entities related to cryptocurrency.
+
+Denley reported that by using PassiveTotal – a RiskIQ threat analysis tool, he found that the websites were hosted on three web servers, such as 207.244.100.241, 207.244.100.244, and 207.244.100.245, respectively.
+
+Among the pages are some suspected “Bitcoin transaction accelerators,” promising to accelerate BTC transactions in exchange for a 0.001 BTC fee. The BTC addresses affiliated with the suspected ‘accelerators’ consumed more than BTC 17.6 — an amount that converts to about $110,000 at current market rates.
+
+Crypto Scams on the Rise Amid Coronavirus Pandemic
+
+Many fraudsters are taking advantage of the global pandemic and preying on people’s fear during this crisis. Crypto scams are on an alarming rise, and many governments are cautioning their citizens against doing business with shady platforms or falling victims during this time.
+
+On Monday, the US Department of Health and Human Services released a fraud warning for coronavirus scams, identifying tactics as sites offering fake test kits and national treatment.
+
+The Financial Conduct Authority issued a warning earlier this month, urging citizens to ‘beware of investments that may seem too good to be true’, as many will be vulnerable during this period. In a series of consumer fraud warnings released in March, the Manchester City Council and the counties of Pembrokeshire and Norfolk reiterated the warning of the Financial Conduct Authority (FCA) against ‘sophisticated’ and ‘opportunistic’ cryptocurrency-related schemes operating during the pandemic.

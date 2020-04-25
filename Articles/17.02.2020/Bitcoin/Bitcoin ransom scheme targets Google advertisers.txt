@@ -1,0 +1,23 @@
+DATE:  17.02.2020, 22:45:47
+TITLE: Bitcoin ransom scheme targets Google advertisers
+URL:   https://decrypt.co/19758/bitcoin-ransom-targets-google-advertisers
+
+Another day, another Bitcoin ransom scam. This time, website owners who use Google’s advertising service “AdSense” say they have received emails with demands for Bitcoin, according to a report by cybersecurity researcher Brian Krebs.
+
+Fraudster’s are apparently attempting to scam website owners by threatening to flood their banner ads with bot-fueled junk traffic until Google’s automated anti-fraud system suspends their account.
+
+Last year, Google had announced it was stepping up its efforts to stop fraudulent traffic. It appears fraudsters are using this to attempt to scare website owners into forking over Bitcoin.
+
+“AdSense traffic assessment algorithms will detect very fast such a web traffic pattern as fraudulent,” a scam email read, which a website owner provided to Krebs. The email subsequently demands $5,000 worth of Bitcoin to avoid the attack.
+
+The website owner who shared the latest scam told Krebs that while he thought it was a “baseless threat,” he did notice an uptick in his AdSense invalid traffic report.
+
+Google declined to address the user’s specific account, but told Krebs in a statement that it was aware of this “classic threat of sabotage.”
+
+“We hear a lot about the potential for sabotage, it’s extremely rare in practice, and we have built some safeguards in place to prevent sabotage from succeeding,” Google’s statement read. “For example, we have detection mechanisms in place to proactively detect potential sabotage and take it into account in our enforcement systems,” the statement added.
+
+Bitcoin is a popular payment option for internet fraudsters. A recent report by blockchain forensics firm CipherTrace said “97% of ransomware uses BTC (Bitcoin) as the payment rail.”
+
+While this case did not feature “ransomware,” software that infects a user’s computer and immobilizes functions and files until a ransom is paid, it shows that fraudsters are finding other ingenious ways to extract Bitcoin from potential victims.
+
+Just last week, a series of Dutch bombings similarly demanded Bitcoin to prevent future attacks. These and other recent cases show that Bitcoin-fueled fraud and extortion schemes aren’t going away anytime soon.

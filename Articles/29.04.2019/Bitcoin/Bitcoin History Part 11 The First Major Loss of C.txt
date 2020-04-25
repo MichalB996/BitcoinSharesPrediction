@@ -1,0 +1,55 @@
+DATE:  29.04.2019, 22:10:09
+TITLE: Bitcoin History Part 11: The First Major Loss of Coins
+URL:   https://news.bitcoin.com/bitcoin-history-part-11-the-first-major-loss-of-coins/
+
+Bitcoin History Part 11: The First Major Loss of Coins
+
+Since the very start, people have lost bitcoins due to human error. Mislaid wallets, forgotten passwords, broken hard drives, hacks, and scams have conspired to remove over 20% of all BTC from circulation by some estimates. The dubious accolade for the first major bitcoin loss goes to forum member Stone Man, who, on August 10, 2010, managed to permanently erase his access to almost 9,000 BTC.
+
+Also read: Bitcoin History Part 10: The 184 Billion BTC Bug
+
+A Stone Cold Lesson on the Need to Back up Your Keys
+
+In the early days of Bitcoin, people were free and easy with coins. A plentiful supply of coins and nominal value, coupled with a nascent community that was still getting to grips with the technology, meant that losses were common. It didn’t help that bitcoin wallets were rudimentary back then, leaving even the savviest of users just one misclick away from disaster. In mid-2010, that’s the fate that befell Stone Man, one of the Bitcointalk forum’s earliest users.
+
+“Lost large number of bitcoins,” read the matter-of-fact title to his post published on August 10 of that year. The incident had occurred a day earlier after Stone Man had amassed 9,000 BTC, purchased from the first ever exchange, and then tried to send one coin from his wallet to a different address. The transaction, which can be viewed here, shows that Stone Man achieved this objective. What it doesn’t show is what happened next. The pseudonymous forum user outlined the sequence of events:
+
+1) Bought 9,000 BTC on one of the exchanges over time.
+
+2) Transferred them to my client running on a Linux live CD distro of Debian.
+
+3) Backed up the wallet file to a flash drive.
+
+4) Sent 1 BTC to myself
+
+5) Closed client before any confirmations
+
+6) Shut down system (wiped system disk loaded into memory and therefore the ./bitcoin folder
+
+7) Loaded system back up
+
+8) Copied old wallet.dat file into ./bitcoin folder
+
+9) After some confirmations appeared the balance was 1 BTC and there was a transaction saying I spent 8,900 BTC to an address I did not recognize
+
+Where Stone Cold Went Wrong
+
+To a contemporary bitcoiner reading this account, it may not be immediately clear how Stone Cold got rekt. Because BTC uses a UTXO set, whenever you send a transaction, the unspent remainder, known as the change output, is saved to a separate address. Nowadays, that address is automatically subsumed into the sender’s existing bitcoin wallet, without requiring any action on their part.
+
+As the second responder to Stone Cold’s post chastized, “It sounds like [the coins] are lost for good. Lesson to other people: Remember you need to back your wallet up after every transaction!” Other users chipped in, trying to help the unfortunate Stone Cold track down his 8,999 BTC using what passed for a block explorer in those days. When viewed in “bitcointools,” an early explorer developed by Gavin Andresen, the transaction looked something like this:
+
+A Mistake That Anyone Could Make
+
+“The sad part was I wasn’t even testing the wallet backup when this happened,” rued Stone Cold. “I was trying to watch when the network should have confirmed a payment to a website that takes bitcoins by paying myself 1 coin at about the same time. I never dreamed it could compromise my whole balance, especially since I was sending to myself.”
+
+Ordinarily, Stone Cold might not have forfeited the remainder of his balance, for as Satoshi, who chipped in on the thread, observed: “[Bitcoin] doesn’t usually empty your wallet with each transaction. It uses the smallest set of coins it can find to add up to near the amount. In this case, unfortunately, his wallet had a single 9000 BTC bill in it, and it had to break it to get 1 BTC and 8999 BTC change.”
+
+Today it is no longer necessary to back up your wallet after every transaction, but that hasn’t prevented large quantities of bitcoin from being permanently removed from circulation due to user error. To lose close to 9,000 bitcoins today would be incalculably painful. To lose them back in 2010 was also incalculably painful, because the loss, while stomach-churning, was difficult to price: the first bitcoin exchange had opened only five months earlier, and coins were still trading for only a few cents.
+
+Stone Cold never recovered his lost 8,999 BTC and may have never recovered from the blow caused by the then-record-breaking loss. In October 2010, two months after filing his tale of woe, and two months before Satoshi was to publish his final forum post, Stone Cold logged in to Bitcointalk for the last time. He has never been seen since. As for his coins, they will reside in wallet 167ZWTT8n6s4ya8cGjqNNQjDwDGY31vmHg till time indefinite.
+
+Bitcoin History is a multipart series from news.Bitcoin.com charting pivotal moments in the evolution of the world’s first cryptocurrency. Read part 10 here.
+
+Images courtesy of Shutterstock.
+
+How could our Bitcoin Block Explorer tool help you? Use the handy Bitcoin address search bar to track down transactions on both the BCH and BTC blockchain and, for even more industry insights, visit our in-depth Bitcoin Charts.

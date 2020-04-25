@@ -1,0 +1,57 @@
+DATE:  03.09.2019, 14:49:00
+TITLE: Debunking blockchain, currency’s new frontier
+URL:   https://www.csmonitor.com/Technology/2019/0903/Debunking-blockchain-currency-s-new-frontier
+
+As Bina Ramamurthy, a teaching professor in the University at Buffalo’s computer science and engineering department, says, “It's simply an enabling technology that enables trust.”
+
+Each block contains digital fingerprints, known as hashes, that link it to the blocks that came before and after it. Changing a record on one block would require changing all the other blocks in the chain, making the system extremely resistant to tampering.
+
+A blockchain is a kind of database, a structured way of storing information, shared across a network of computers. Once a piece of information – a record, in blockchain parlance – is entered into this database, it is time-stamped and added to a “block” that is shared across the network.
+
+If you follow economics or technology in the news you’ve probably stumbled upon headlines with the word “blockchain.” As with nearly every human invention, blockchain can be used to achieve goals that are helpful, harmful, or some combination of the two. If you want to decide for yourself what the appropriate uses of blockchain are, you’ll first need to know what it is.
+
+If you follow economics or technology in the news you’ve probably stumbled upon headlines with the word “blockchain.” And if you read those stories, you may have gotten the impression that blockchain is either (1) an earth-shattering technology that will completely transform finance, supply-chain management, and property records, and usher in a new era of online trust or (2) a currency-speculation scheme by amoral libertarians who don’t mind enabling drug deals and wasting electricity.
+
+So which is it? As with nearly every human invention, blockchain can be used to achieve goals that are helpful, harmful, or some combination of the two. If you want to decide for yourself what the appropriate uses of blockchain are, you’ll first need to know what it is.
+
+OK, so what is a blockchain?
+
+A blockchain is a kind of database, a structured way of storing information, shared across a network of computers.
+
+Once a piece of information – a record, in blockchain parlance – is entered into this database, it is time-stamped and added to a “block” that is shared across the network. Each block contains digital fingerprints, known as hashes, that link it to the blocks that came before and after it. Changing a record on one block would require changing all the other blocks in the chain, making the system extremely resistant to tampering.
+
+“Blockchain is a time-stamped recorder of what’s going on in an infrastructure,” says Bina Ramamurthy, a teaching professor in the University at Buffalo’s computer science and engineering department. “It’s simply an enabling technology that enables trust.”
+
+What was it created for?
+
+Researchers since the early 1990s have been working on creating distributed, tamper-proof records using chains of blocks, but the concept first rose to prominence in 2009, with the creation of the digital currency Bitcoin.
+
+In creating Bitcoin, Satoshi Nakamoto, a pseudonym for the unknown person or persons who drafted the original Bitcoin white paper and coded its initial blockchain database, solved a vexing problem in digital currency. If the money is nothing more than a file on a computer, how do you stop people from spending it more than once?
+
+With traditional digital currency, like the kind you use when you make a credit-card purchase, a bank handles most of the transaction. The bank validates the credit card, checks the billing address, authorizes the payment, and puts a hold on your account. The merchant typically gets your payment within 24 to 48 hours.
+
+With Bitcoin and other so-called cryptocurrencies, you and the merchant create a record of the transaction, which gets uploaded to a block. The record is validated by the network.
+
+Having a bank validate and authorize digital payments costs money, which is why merchants often impose minimum spending limits on credit-card purchases. With cryptocurrencies, people can send micropayments, which can help change people’s lives in poorer countries. Professor Ramamurthy suggests, for instance, that cryptocurrencies could be used to pay schoolchildren to pick up plastic on the way to school.
+
+With Bitcoin, the creation of new blocks is performed by computers. This process, known as mining, requires considerable computing resources, as well as vast amounts of electricity. Globally, Bitcoin mining consumes an estimated 66.9 terawatt-hours per year, according to University of Cambridge as of this writing. That’s roughly the power consumption of Colombia.
+
+So blockchain is a Bitcoin thing, then?
+
+Not necessarily. While blockchain’s first widespread application was for Bitcoin, the technology can be used for lots of things. There are several other blockchain-enabled cryptocurrencies.
+
+Three years ago, Tavonia Evans, an entrepreneur and technologist in Atlanta, began working on developing $GUAP Coin, a currency aimed at keeping wealth within the black community. Unlike Bitcoin, $GUAP Coin doesn’t rely on mining, and thus uses far less energy. Instead $GUAP Coin uses a “proof of stake” model. In a proof-of-stake model, purchases are validated by those who already have the coins. Currently $GUAP Coin has about 2,000 users, says Ms. Evans.
+
+“There’s a lot of money that flows out of African American communities and doesn’t flow back into the community,” she says. “I want black people to be able to get in and say, ‘This is our spending power.’”
+
+Other applications for blockchain have nothing to do with cryptocurrencies. The London-based digital platform Provenance is using blockchain to attempt to improve transparency in the global fishing industry, which is notorious for slavery and overfishing. The United Nations World Food Program is currently using blockchain to distribute food vouchers to Syrian refugees, and others have proposed using the technology for everything from tracking carbon credits to providing a secure identity for stateless persons.
+
+In July, The New York Times announced the News Provenance Project, which uses blockchain to verify the authenticity of photos, and aims to expand into validating other journalistic content.
+
+“One of the beautiful things about blockchain,” says Ms. Evans, “is that it’s very visible, it’s very transparent.”
+
+Get the Monitor Stories you care about delivered to your inbox. By signing up, you agree to our Privacy Policy
+
+“I see it giving the power back to the individual,” she says. “Giving real value to whatever it is that they offer to the world.”
+
+Editor's note: This article has been updated to correct the month the News Provenance Project launched. It was July.

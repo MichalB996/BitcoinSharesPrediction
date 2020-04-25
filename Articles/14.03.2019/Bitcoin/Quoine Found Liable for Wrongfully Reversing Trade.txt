@@ -1,0 +1,33 @@
+DATE:  14.03.2019, 18:15:14
+TITLE: Quoine Found Liable for Wrongfully Reversing Trades in First Singaporean Trial Involving Bitcoin
+URL:   https://news.bitcoin.com/quoine-found-liable-for-wrongfully-reversing-btc-trades-in-singaporean-first/
+
+Quoine Found Liable for Wrongfully Reversing BTC Trades in Singaporean First
+
+In the first Singaporean legal dispute involving BTC, Singapore-registered cryptocurrency exchange Quoine has been found to have wrongfully reversed seven trades placed by market maker B2C2 during April 2017. The ruling has been made following four months of proceedings.
+
+Also Read: Thailand Approves Country’s First ICO Portal
+
+Quoine Held Liable for Reversing Trades Selling 309 ETH Priced at 10 BTC Each
+
+The Singapore International Commercial Court has found Quoine to be liable for a breach of contract and breach of trust for unilaterally reversing orders placed nearly two years ago by United Kingdom-based market maker B2C2.
+
+On April 19, 2017, B2C2 placed 12,617 ETH/BTC orders, only 15 of which were filled, including the seven orders that are the subject of the dispute with Quoine. The disputed trades comprised orders to sell 309.25 ETH for BTC at between 9.99999 BTC and 10 BTC each. With the exception of the disputed trades, all other orders were executed at a price of approximately 0.04 BTC per ETH. On April 20, 2017, the trades were reversed, triggering B2C2 to take legal action against Quoine. The trial sought the recovery of roughly 3,085 BTC.
+
+While the Singapore International Commercial Court has ruled in favor of B2C2, Judge Simon Thorley did not order Quoine to transfer the 3,085 BTC in question due to bitcoin currently being priced “substantially higher” than in April 2017.
+
+The judge stated: “When the bitcoin were originally credited to its account, the B2C2 software immediately began to hedge the proceeds by selling bitcoin … Before the trades were reversed, B2C2’s systems had sold slightly under one-third of proceeds on nine different exchanges,” adding that ordering repayment to B2C2 “would cause substantial hardship to Quoine which any potential difficulty in assessing damages does not outweigh.”
+
+Quoine Argues B2C2’s Trades Were Executed as Result of Technical Glitch
+
+According to the Supreme Court of Singapore, Quoine claimed that after 23:30:00 on April 19, 2017, its platform experienced a “technical glitch” causing “the quoter program to cease working” and as such all orders on ETH/BTC “ceased to be available and no true market price was available.”
+
+Between 23:52:52 and 23:54:33 on April 19, 2017, while the quoter program was not functioning, B2C2 placed the seven disputed trades priced approximately 250 times higher than the then-average price of ETH.
+
+As a result of the quoter program being unable to “access all the data necessary to establish a true market price, it sought to do so by reference to … the data arising out of the plaintiff’s seven orders,” causing leveraged traders’ positions to be liquidated. With no other orders available, the program matched the liquidation orders with the plaintiff’s seven orders, resulting in nearly 3092.52 BTC being credited to B2C2’s account in exchange for 309.25 ETH.
+
+Do you agree with the judge’s ruling? Tell us why in the comments section below!
+
+Images courtesy of Shutterstock
+
+At Bitcoin.com there’s a bunch of free helpful services. For instance, have you seen our Tools page? You can even lookup the exchange rate for a transaction in the past. Or calculate the value of your current holdings. Or create a paper wallet. And much more.

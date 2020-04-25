@@ -1,0 +1,21 @@
+DATE:  12.12.2019, 14:02:57
+TITLE: Lightning strikes new milestone for bitcoin payments
+URL:   https://decrypt.co/14480/lightning-strikes-new-milestone-for-bitcoin-payments
+
+Blockstream announced today that it will soon be possible to send larger payments across the Lightning Network. The biggest problem facing Bitcoin’s scaling solution is about to be fixed.
+
+Samson Mow, Chief Strategy Officer at Blockstream, the Canadian blockchain services company well known for its work on the Lightning Network, told Decrypt that tests on the open source initiative to make multi-path payments interoperable were now complete. This will allow payments to be split into smaller chunks so that large amounts of bitcoin can be sent both quickly and cheaply.
+
+Multi-party payments are a key goal of the Lightning Network and one that the community has long yearned for.
+
+According to Mow, it's “the most significant development,” of the year. However, he didn't specify when the new functionality would be available. “Multi-path payments has just passed interoperation tests," he said. "Which means it’ll soon be ready for use.”
+
+The problem of sending larger payments over the network was highlighted during “The Lightning Torch” experiment, earlier this year, which pushed the boundaries of bitcoin payments. The idea was to pass around an increasing amount of bitcoin over the Lightning Network, from person to person around the world. During the process of passing the torch from one person to another, with each recipient adding value each time, the network hit liquidity problems within its channels.
+
+“Multi-path payments allow for multiple channels to be used together in concert, which means large payments can be split into smaller ones to route successfully,” explained Mow.
+
+Atomic Multi-Path Payments (AMP) over Lightning were first proposed by Lightning Labs co-founder Olaoluwa Osuntokun and its Head of Cryptographic Engineering, Conner Fromknecht, in 2018.
+
+But it wasn’t until May this year that a new routing proposal was merged into the Lightning spec, providing a fix to Bitcoin’s long-standing payment problems, including AMP.
+
+Sending payments over the AMP protocol would improve the privacy of Lighting Network intermediaries and provide fee savings, as well as other benefits.

@@ -1,0 +1,66 @@
+DATE:  25.02.2020, 13:00:00
+TITLE: What We Can Learn About Lightning From #LNTrustChain2: Part 1 -...
+URL:   https://bitcoinmagazine.com/articles/what-we-can-learn-about-lightning-from-lntrustchain2-part-1
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+The first Lightning Network “torch relay” debuted on January 19, 2019, to spread adoption of second-layer Bitcoin payment protocol. When it concluded in April 2019, it boasted 278 participants and 56 countries visited. One year later, Hodlonaut, the person behind the torch inception started the relay again, on January 19, 2020. After a few days, however, it was obvious that the new iteration of the torch was different, starting with a high rate of torches being stolen and ending with the chain being “cancelled” by sending the amount through tippin.me to an oblivious Jack Dorsey, CEO of Twitter, who had willingly taken the torch in its 2019 edition.
+
+Because of the way the chain was propagated through Twitter posts, the path of the Lightning Network “Trust Chain” (#LNTrustchain2) is somewhat easy to follow, and the data about specific payment requests (invoices) is available publicly. It can, therefore, provide us with a lot of insight into consumer-related aspects of Lightning Network adoption. Which client agents are being used the most often? Which mobile wallet services? Are custodial wallets prevailing?
+
+Following #LNTrustchain2 provides a perfect opportunity to measure the adoption of the Lightning Network. What other event on this global scale has users from all around the world, from mixed professions, from bitcoin plebs to CEOs, with all of their payment requests openly posted on Twitter?
+
+As a blockchain analyst, I was motivated by professional curiosity and an internal urge to spread knowledge about the anonymity aspects of Bitcoin and the Lightning Network. Several examples provided in this article have been selected specifically to expand public knowledge about the privacy deficiencies of particular solutions.
+
+
+
+In Part 1 of this series, I’ll cover an overview of the data I gathered and will explain the methodology of acquiring the dataset. I will then focus on mobile wallets, mostly examining custodial services, but also showing the potential of a new evolution of wallets, including Phoenix and Breez.
+
+Some Notes on Methodology
+
+I started my research by gathering all the participants and their respective payment requests or “invoices.” Out of 159 participants, there were 19 who either transacted on DMs or have since deleted the payment request, so those payment requests weren’t visible for them. That’s good for their privacy, as researchers (like myself) aren’t able to dissect their data.
+
+
+
+Every Lightning Network payment request has the field “node_id” which points to the owner’s node. Why is this important? For now, let’s consider private node setups, either on some sort of virtual private server (VPS) or through a home environment, mostly in the form of plug-and-play nodes (CASA, Nodl), Raspberry Pi nodes or desktop nodes (Zap).
+
+If the user’s setup isn’t running through Tor (The Onion Router), just the act of publishing the invoice publicly can provide a means for an adversarial entity to know the IP address of a node. No matter if TOR is active or not, an attacker can also use the node ID to collect all the public channels opened by the node owner and, obviously, corresponding bitcoin addresses. With the blockchain analytic tools like common input clustering, even a single public invoice can make one’s full wallet balance visible to an adversary.
+
+By taking all 140 publicly visible invoices of the TrustChain2, I was able to draw a doughnut chart of all wallet providers. At least 56 percent of all wallets were used on mobile phones; 48.2 percent of total wallets were custodial, related to the use of either Bluewallet, Wallet of Satoshi or Dropbit. Private nodes accounted for 44 percent of total wallets used through different providers, like eclair mobile, or through some personal Lightning Network nodes (lnd or c-lightning on the backend).
+
+Custodial Services: There Is a Method to This Madness!
+
+Andreas Antonopoulos famously says, “Not your keys, not your bitcoin.” Similarly, for the Lightning Network, the adage would be “Not your node, not your sats.” When it comes to bitcoin, in 2020, even the worst bitcoin wallets give users the opportunity to back up their wallet seeds. It’s important in terms of the ownership of the coins. For example, if a centralized wallet provider goes down, one’s keys and bitcoin would follow.
+
+The same goes for the Lightning Network. The vast majority of the wallets used in the 2020 torch relay were either related to Wallet of Satoshi, Bluewallet or Dropbit — all custodial services. By decoding the invoices, we would get the receiver’s node ID as owned by one of these three software providers.
+
+Custodial Lightning Network wallets are using their own node infrastructure to allow their users to interact on the Lightning Network layer (and usually are noncustodial on bitcoin on-chain side). The whole wallet user interface (UI) is just a layer on top of their centralized SQL database processing Lightning Network payments. I would compare using these wallets to writing I Owe You (IOU) statements in the balance book, kept by the wallet provider. Every custodial wallet fully manages its own node infrastructure (usually single node), so all the LN-related actions: opening/closing channels, requesting payments, sending payments are done on behalf of the users. Knowing the ID of the node (seen in the payment request) can point us to the wallet provider (Wallet of Satoshi, Bluewallet or Dropbit).
+
+What would happen if their nodes were compromised or if their service stopped working? The outcome is easy to predict — the loss of the funds for their customers. (Dropbit app has already fallen on hard times at the time of writing.)
+
+Using custodial services does have some perks, although they some of them can be also achieved in a noncustodial setup (through private channels). These perks are related to unidentifiable channels and location data. Because custodial wallets use their own nodes for all the users, these users don’t have to worry about protecting their IP addresses or be scared of mistakenly deanonymizing their bitcoin holdings.
+
+Luckily, custodial services don’t have to be the answer to these concerns. With the new features constantly added to Lightning Network protocol (BOLTs), the new breed of Lightning Network wallets emerged.
+
+Noncustodial Mobile Wallets: Anonymous and Secure
+
+The perfect scenario for running a personal Lightning Network mobile wallet would include having a built-in node with private channels opened to the wallet provider’s node. The first part, having your own node on a device, is a crucial component of being self-custodial. Even if any of the neighborhood nodes (with emphasis on the wallet provider’s node) should go down, the node owner could return the funds locked in the payment channel through the force closing this channel. That’s the suggested solution for closing channels where parties either disagree on their states or where one of the parties goes offline.
+
+What about deanonymizing the bitcoin addresses of a node owner? Both Breez wallet and Phoenix provide a “tricky” feature of allowing their users to create channels only to nodes. And these aren’t just “normal” Lightning Network payment channels — these are “private” channels. They aren’t being “gossiped” by the Lightning Network protocols; in layman’s terms, their existence isn’t announced to the rest of the network. Even the activity on the bitcoin layer related to publishing commitment transactions isn’t conclusive, leaving potential adversaries in doubt as to what commitment transactions have taken place.
+
+The core of this feature can be better explained by imagining Alice, the user of Breez or Phoenix. Alice wants to receive the torch payment, so she posts her payment request (invoice) under a previous tweet. Bob sees her invoice and decides to send her the torch. Decoding the request, he sees Alice’s node ID and additional payload, called “routing hints,” with the wallet provider’s respective node ID. The action of sending the payment would route the funds through the wallet provider’s node, which is a one-hop neighbor of Alice’s node and knows the private path.
+
+What would happen if we were to search Alice’s node by ID in any Lightning Network explorer? The result wouldn’t exist, as her node isn’t visible to the rest of the network.
+
+So far, we’ve explored the data gathered from #LNTrustchain2 movement and we’ve described the motivation behind the research. There was a line drawn between custodial and noncustodial Lightning wallets, with a reasoning why specific ways of accessing Lightning Network infrastructure may be dangerous.
+
+In Part 2, we’ll look at the privacy of private node instances and conclude the series with advice on how to take steps in preserving anonymity when using the Lightning Network.
+
+Acknowledgements:
+
+The author would like to thank Jarret Dyrbye for his helpful comments on the article and dataset gathered. All the data and results gathered are a part of blockchain analysis where the end result is probabilistic and relates to a type of analysis performed on the source.
+
+This is an op ed contribution by Tony Sanak. Views expressed are his own and do not necessarily reflect those of Bitcoin Magazine or BTC Inc.
+

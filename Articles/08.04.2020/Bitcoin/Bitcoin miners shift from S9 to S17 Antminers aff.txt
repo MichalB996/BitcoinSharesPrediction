@@ -1,0 +1,23 @@
+DATE:  08.04.2020, 13:00:41
+TITLE: Bitcoin miners’ shift from S9 to S17 Antminers affecting nonce data
+URL:   https://eng.ambcrypto.com/bitcoin-miners-the-shift-from-s9-to-s17-antminer-impacts-btc-nonce-data/
+
+Bitcoin mining is fundamentally one of the most important parts of the network which has also played a role in changing digital asset economics over the past few years. With Bitcoin undergoing its 3rd halving in less than a month, the reward adjustment caused by the event would be another important affair.
+
+In this regard, Coinmetrics recently discussed the gradual shift of dominance to Bitmain‘s Antminer S17 miners from the longstanding S7 and S9 miners on the network.
+
+The concept of mining works on the basis that miners are competing to find a ‘Bitcoin nonce’, which when added to the header of a valid block, allows the miners to verify the transaction and become eligible for rewards associated with that particular block.
+
+However, the process is far from simple hence miners started parallelizing their computations to find the correct nonce in a fixed period of time. The concept of parallelization led to several miners coming together and that’s when mining pools came into existence. Speaking about the nonce distribution, a change in terms of mining can be observed in the chart down below.
+
+The left-hand side of the chart defined a miner computing without parallelization on a CPU, with no possibility of running collision with other miners.
+
+However, the right-side indicated streaked pattern, which indicated miners were undersampling a wide range of possible nonces, practicing parallelization in computing. If observed closely, the streaked pattern started appearing towards the end of 2015, which coincides with the release of S7 Antminer in late August of the same year. S9 Antminer was released in 2016, after which the streaks became more narrow and mining pools became a common practice. However, the report stated,
+
+“The pattern’s recent breakdown coincides with the transition from the S9 to the Antminer S17 as the dominant miner on the network. While the S17 was released in April of 2019, the use of S9s on the network has until recently remained common as they have continued to be economical to operate.”
+
+The popularity of mining pools can also be observed as Nonces of Bitcoin blocks by Bitmain-affiliated Miners like AntPool, BTC.com and ViaBTC from 2016 to late 2019.
+
+Hence, the proportion of unknown miners dropped significantly since 2015 as the striated patterns were faintly visible in the nonces of the blocks.
+
+However, the current shift from S9 to S17 Antminer has been criticized by many market analyst’s assessments of the network. They suggested that the implication of halving has not been properly considered in this radical shift. With changing market conditions and increasing hash rate, these S9 miners are being phased out and streaked patterns that were formerly the defining feature of Bitcoin’s nonce distribution have dissolved. However, the report stated,

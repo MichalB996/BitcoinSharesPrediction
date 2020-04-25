@@ -1,0 +1,33 @@
+DATE:  09.01.2019, 22:00:58
+TITLE: Are VeriBlock Transactions on the Bitcoin Network Helping or Harming BTC?
+URL:   https://www.newsbtc.com/2019/01/09/veriblock-help-bitcoin/
+
+According to reports from Bitcoin (BTC) developers, a startling amount of block space is being wasted on the Bitcoin network to secure the blockchains of other cryptos. A company called VeriBlock has been “borrowing” the hashing power of the Bitcoin network to increase security on vulnerable altcoin chains and filling up BTC block space in the process.
+
+VeriBlock works on a process known of “proof-of-proof” whereby the latter “proof” is arrived at using the hash power of the Bitcoin network. According to Forbes, perhaps the most notable contributor to the VeriBlock project is former Bitcoin Core developer Jeff Garzik.
+
+Only a Matter of Time Before VeriBlock’s Impact on Bitcoin Fees is No Longer Trivial
+
+As was highlighted just this week by the Ethereum Classic (ETC) debacle, the risk of 51% attack on altcoins is far greater than it is on the BTC network. This is because there is much less hashing power securing these smaller networks. With less computing power enforcing them, attackers need to command far less computing power themselves to subvert the network’s rules.
+
+A 51% attack allows those behind it to wreak havoc with a cryptocurrency and enrich themselves. This can involve double spending units of the currency – essentially creating money for nothing for the attacker.
+
+To help altcoins with their failing security requirements, a startup called VeriBlock has devised a way to use Bitcoin’s immense hash power to help secure the blockchains of smaller projects. This involves the use of OP_Return transactions added to the Bitcoin blockchain.
+
+VeriBlock is not even fully live on the main net yet but already it is already having an impact on the Bitcoin network. Chief Technology Officer of CasaHODL and long-time Bitcoin developer Jameson Lopp highlighted a few days ago that the startup was currently responsible for 20% of all transactions on the network:
+
+Source of the now-highest volume of OP_RETURN outputs has been identified as @VeriBlock "proof of proof" miners. They are creating around 20% of all BTC transactions now. Seems inefficient to me; will be interesting to see if the incentives work long term. https://t.co/LpjyhGKg2b — Jameson Lopp (@lopp) January 5, 2019
+
+Whilst there is nothing anyone can do to stop VeriBlock from using the Bitcoin blockchain in such a way, its doing so certainly reduces the utility of the network. With 20% of every block being filled with transactions that support networks that divert both economic and literal human interest away from Bitcoin, VeriBlock could be incredibly detrimental for the success of an entire space, largely tied to the current number one digital asset.
+
+VeriBlock will already be having an undesirable impact on the price of transactions on the network. If a large surge in utility occurs on the network again, there may be another “race to the top” situation within transaction fee markets. Last time this occurred, $40 being spent in Bitcoin fees was not uncommon. Such a fee is difficult to swallow when it is caused directly by economic activity benefiting Bitcoin. When it is caused by a group of altcoins supporting essentially zero economic activity and supposedly in direct competition with Bitcoin, most users would find it grossly unacceptable.
+
+Poaching BTC’s hash rate in the way that VeriBlock is doing and filling blocks with data that benefits dying blockchains only serves to delay the inevitable, whilst limiting Bitcoin’s chances of success.
+
+The massive proliferation of cash-grab altcoins and the continued profitability of scams in the space has made digital currency difficult to take seriously for anyone outside of the industry. Many of these altcoins, particularly those needing support from VeriBlock, need to die off entirely before this can change.
+
+It is hard, after all, to imagine a less noble existence than failing to survive off hash power from miners incentivised to secure the network through mining rewards and instead continuing to exist at the expense of potential Bitcoin adoption whilst continuing to give “get-rich-quick”-type investors hope of an impending moon shoot.
+
+Related Reading: Coinbase Forced to Suspend Ethereum Classic Trading After 51% Attack
+
+Featured Image from Shutterstock.

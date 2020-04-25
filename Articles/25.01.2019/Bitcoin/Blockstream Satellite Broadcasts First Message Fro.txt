@@ -1,0 +1,43 @@
+DATE:  25.01.2019, 11:00:30
+TITLE: Blockstream Satellite Broadcasts First Message From Mysterious Bitcoin User
+URL:   https://bitcoinist.com/bitcoin-blockstream-satellite-message/
+
+News Blockstream Satellite Broadcasts First Message From Mysterious Bitcoin User
+
+Cryptocurrency figures were sharing a sense of excitement January 24 after a mystery user broadcast a message on the Bitcoin blockchain via Blockstream’s satellite network.
+
+‘Straight Out Of Bladerunner’
+
+Blockstream, which launched its network of satellites to allow Bitcoin users to transact without an internet connection, has yet to provide official comment on the event, which developer grubles confirmed as genuine on Twitter.
+
+Covering around two-thirds of the world’s surface as of December 2018, Blockstream’s satellites ultimately aim to open up the Bitcoin blockchain to anyone capable of operating a wallet.
+
+In-keeping with the spirit of Bitcoin, the message grubles discovered while checking his hardware was anonymous.
+
+“It felt straight out of Bladerunner,” he commented.
+
+The message consisted of several paragraphs – in the form of diary entries – to meet the required 1KB file size, its author explained. In it, they identified themselves only as a “developer from a post-Soviet state.”
+
+“…I’m building my first Raspberry Pi Lightning node, and broadcasting messages from satellites, still feels surreal (at) times,” they wrote.
+
+My dream is to accumulate 1 BTC, and I think that will be more than enough for the future.
+
+The developer further asked for support but did not appear to include a Bitcoin or other cryptocurrency address.
+
+Bitcoin Beyond The Internet
+
+Commenting on the message, Blockstream CEO Adam Back subsequently applauded the use of the satellite network.
+
+“History is rising,” he tweeted.
+
+Blockstream first launched its network earlier in 2018. The user-originated message was possible thanks to the release of a dedicated API this month.
+
+Currently in beta, the implementation uses the Lightning Network testnet to pay fees, meaning the message also used testnet coins to broadcast itself. Blockstream says a mainnet transfer will occur following a “period of successful testing” of the API.
+
+“All that is needed to receive a broadcast is a satellite dish (a TV satellite dish will suffice), a few low-cost components, and a computer,” the company explained about receiving messages last week.
+
+Broadcasts can be received anywhere with a line of sight to one of our four geosynchronous satellites, completely free of charge.
+
+What do you think about the Blockstream satellite message? Let us know in the comments below!
+
+Images courtesy of Shutterstock, Blockstream.com

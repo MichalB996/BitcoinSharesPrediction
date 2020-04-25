@@ -1,0 +1,59 @@
+DATE:  01.03.2019, 12:55:32
+TITLE: All you need to know about Bitcoin network nodes
+URL:   https://thenextweb.com/hardfork/2019/03/01/bitcoin-blockchain-nodes-network/
+
+Welcome to Hard Fork Basics, a collection of tips, tricks, guides, and advice to keep you up to date in the cryptocurrency and blockchain world.
+
+The Bitcoin BTC network is often touted as one of the most revolutionary forms of decentralized technology the world has ever seen. But for it to be decentralized, it needs a globally distributed network of connected computers or nodes.
+
+It sounds simple enough, but there isn’t one type of node, and each type has a different role to play in helping the blockchain network function correctly. In this article, we’re going to break down the different types of node and what they do.
+
+Know your nodes
+
+Generally speaking, a node is a piece of computer equipment attached to a network. In the context of the internet and your household, your phone is a node, your laptop is a node, your router is a node, and that wireless IP camera, yep, that’s a node too.
+
+Nodes can take many shapes, sizes, and forms. Each one plays a different – yet vital – role in the functioning of your household.
+
+In the case of the Bitcoin blockchain, there are four main types of node: full nodes, super nodes, light nodes, and mining nodes. Full, super, and light nodes perform similar functions, while mining nodes perform a different function entirely.
+
+Before diving into what these nodes are and what they do, it’s best to think of the blockchain is fundamentally a ledger or list of transactions – for this case at least. All types of nodes contribute in someway to building or maintaining that list.
+
+Mining Nodes
+
+There’s plenty written about what mining is and how it works, but for the sake of this article, think of mining nodes simply as the nodes that produce the blocks for the blockchain.
+
+It’s mining nodes that confirm the blocks that should be put into that “list,” in a process known as “mining.” When people talk about the Bitcoin network, particularly in the context of its energy consumption, they are often referring to the network of miners and ASIC (application specific integrated devices) machines.
+
+Mining nodes aren’t actually responsible for maintaining the blockchain, they are only responsible for creating blocks to add to it. After these blocks are created, they are sent over the network to full nodes which validate them and add them to the blockchain.
+
+Full and Super Nodes
+
+As their name suggests, full nodes are responsible for holding and distributing copies of the entire blockchain ledger. As such, they play a vital role in the network as they are the go-to point for validating the history of the blockchain.
+
+The full node is able to validate transactions all the way back to the genesis block, at the time of publishing, the entire blockchain is getting on for 200GB in size. Some estimate that there are over 10,000 operational full nodes on the Bitcoin network.
+
+These nodes then propagate the blockchain to all other nodes on the network to ensure the most trusted blockchain is maintained. The more nodes, the more decentralized the network, and the harder it is to hack.
+
+Depending on the number of incoming and outgoing connections a full node has, it can also be referred to as a super node or listening nodes.
+
+Super nodes generally operate around the clock to help connect other full nodes to each other and spread the blockchain across the entire network. They serve as information or redistribution relays to ensure everyone has the right copy of the blockchain.
+
+Light Nodes
+
+Light nodes – or thin nodes – perform a similar function to full nodes, but rather than holding an entire copy of the blockchain, they only contain a portion of it.
+
+Light nodes only download the block header of previous transactions, to confirm the validity of the blockchain, and to pass this information on to other nodes. The block header is a summary of a given block, it includes information about the previous block to which it is hashed, the time it was mined, and a unique identifying number, called a nonce.
+
+Generally speaking, light nodes connect to a parent node, usually a full node; which does maintain a complete copy of the blockchain. As light nodes process less of the blockchain and aren’t helping propagate large volumes of data through the network, they don’t need to be as powerful and are much cheaper to own and maintain than full or super nodes.
+
+That said, if a full node is hacked and holds an incorrect copy of the blockchain, the light nodes can serve to dismiss this blockchain as false, and confirm to the full node the correct blockchain it should be maintaining. Think of a group of light nodes as a bunch of supportive friends helping keep a full node on the straight and narrow.
+
+Using light nodes helps to further decentralize the blockchain network, and spread the true ledger across a greater distance for a lower cost compared to full nodes.
+
+Validation is not consensus
+
+Nodes validate the blockchain by following a number of rules. When the entire network follows these rules, all nodes should help to produce the same blockchain. It should be noted that validation actually occurs before a block is mined; validation is not the same as consensus. Consensus is reached when the mining nodes agree on the order of transactions, not on what transactions are valid.
+
+Imagine I have 1BTC and transfer 0.25BTC to my colleague Yessi. She currently has 0.25BTC in her wallet. To confirm this is valid, the Bitcoin network will “ask” the full nodes to confirm I have enough coins and how much Yessi will have after the transaction. Once valid, the transaction will be snapped up by miners to add to a block and verify by Proof-of-Work – in Bitcoin‘s case at least. But how that happens is a whole different kettle of fish – and worth a read.
+
+This is, of course, a highly simplified look at nodes; network structure can get much more complicated. But now that you’ve got to grips with the basics of what nodes make up the Bitcoin blockchain network, why not read up on how Proof-of-Work or mining pools work?

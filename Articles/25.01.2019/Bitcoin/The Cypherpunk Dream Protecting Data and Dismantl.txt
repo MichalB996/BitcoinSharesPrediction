@@ -1,0 +1,45 @@
+DATE:  25.01.2019, 18:47:12
+TITLE: The Cypherpunk Dream: Protecting Data and Dismantling the Dossier Society
+URL:   https://news.bitcoin.com/protecting-data-and-privacy-the-cypherpunk-way/
+
+The Cypherpunk Dream: Protecting Data and Dismantling the Dossier Society
+
+AI specialist Dr. Rand Hindi conducted a presentation on cypherpunk history and data privacy in St. Moritz, Switzerland, at the Crypto Finance conference. At the beginning of the talk, he asked the audience to unlock their smartphones and pass them to their neighbors. The audience responded with a gasp. Someone in the crowd even vocalized their disdain for the idea. Naturally, people feel guarded when it comes to protecting their digital content and private data. This is why the cypherpunks believed protecting personal info was of paramount importance.
+
+Also Read: Governmental Overreach in Developing Nations Will Hasten Hyperbitcoinization
+
+The Cypherpunks, Data Privacy, and the Dossier Society
+
+Protecting data is not only about preventing hackers and thieves from gaining access to personal credentials. According to the cypherpunks, it is also about denying governments access to large troves of information and surveilling the population. In this sense, data privacy represents the sine qua non of personal sovereignty in cyberspace.
+
+The cypherpunk creator of digital cash David Chaum once lamented that internet technologies would create a dossier society. This dossier society means government would catalog information on each individual, and they would possess piecemeal documentation regarding people’s identity and history. They would also track every person and keep tabs on their comings and goings. In its final incarnation, the dossier society would equate to a horror show worse than the dystopia depicted in George Orwell’s 1984.
+
+In a way, this has already transpired. The U.S. government in partnership with large companies like Google and AT&T constantly collects “metadata.” This metadata allows governments to piece together a picture of an individual, allowing the state to gain more accessibility to their private affairs. It’s essentially a Gestalt panopticon of digital control wound tightly around the neck of each person.
+
+Curtailing the Dossier Society With Encrypted Protocols
+
+In order to fight back, cypherpunks and white hat hackers have been developing and deploying encryption schemes to protect sensitive digital materials. One example is Phil Zimmermann‘s PGP or Pretty Good Privacy. Zimmerman created PGP in 1991 as a method to protect emails through public-private key encryption and symmetric-key cryptography.
+
+This method allows people to secure their communication channels with cryptographic privacy. It keeps snoops and government agents from reading the contents of email information. Governments can still determine the header info on emails to collect metadata, but it at least provides a degree of privacy for any sensitive material contained inside the digital package. Its major flaw is it’s not easy to use, and it requires users to share a private key database.
+
+Homomorphic Encryption
+
+A more recent scheme for protecting credentials, including some header materials, involves the use of homomorphic encryption. In his presentation, Dr. Hindi said new developments in this field will allow users to protect data at entry points and even leverage homomorphically encrypted smart contracts. This type of encryption allows sophisticated computation on ciphertexts, or encrypted messages. However, homomorphic encryption has heretofore been too cumbersome and slow for users to reliably deploy on commercial platforms. Dr. Hindi mentioned it is about a trillion times slower than non-encrypted communications.
+
+With that said, new developments emerge everyday and a new kind of homomorphic encryption is making headway. It’s called TFHE encryption. TFHE encryption leverages machine learning to help process the encryption scheme in real time. Nonetheless, Dr. Hindi pointed out that only one known company presently uses this type of encryption.
+
+The Future of Cypherpunk Tools and Crypto Anarchism
+
+The future is still bright for the cypherpunk movement. It is true the dossier society is in full, disturbing effect. However, cypherpunks work relentlessly to create, build and deploy all the necessary tools to protect individuals and their data. At its core, the cypherpunks are in a battle to undermine the dossier society. But they wish to take their mission a step further. The cypherpunks are crypto-anarchists. They would eventually like to see the abolition of government and all dominance-based power structures.
+
+Many people in the cryptocurrency and technology spheres sometimes forget this original mission. The reason why encrypted protocols were more highly developed after the government initially spawned them was to fight back against the surveillance state. The cypherpunks realized if government gains full control of the internet, it will mean that people’s lives will be totally transparent to the bureaucrat and policeman. It will also mean that digital totalitarianism will reign supreme.
+
+True Names
+
+Timothy May, the creator of crypto-anarchism, compared this dystopian nightmare to a science fiction story written by Vernor Vinge called True Names. In this story, the protagonist hackers had to protect their actual identity, or “true names,” from the United States government. If government acquired their true names, the hackers would die at the hands of government in the form of a “true death.” The story illustrates the power of identity and the potency of digital privacy. It illustrates the deep reasoning behind why the cypherpunks expanded on encrypted protocols and consistently wrote about the horrors of government control.
+
+Do you believe in the cypherpunk mission of protecting data? Can we prevent the dossier society from emerging and compromising our privacy? Could we build a crypto-anarchistic future? Share your thoughts in the comments below.
+
+Images courtesy of Shutterstock
+
+OP-ed disclaimer: This is an Op-ed article. The opinions expressed in this article are the author’s own. Bitcoin.com does not endorse nor support views, opinions or conclusions drawn in this post. Bitcoin.com is not responsible for or liable for any content, accuracy or quality within the Op-ed article. Readers should do their own due diligence before taking any actions related to the content. Bitcoin.com is not responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any information in this Op-ed article.

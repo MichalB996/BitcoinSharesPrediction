@@ -1,0 +1,31 @@
+DATE:  26.01.2020, 19:30:01
+TITLE: Bitcoin Gold 51% Attacked - Network Loses $70,000 in Double Spends
+URL:   https://news.bitcoin.com/bitcoin-gold-51-attacked-network-loses-70000-in-double-spends/
+
+Bitcoin Gold 51% Attacked - Network Loses $70,000 in Double Spends
+
+The Bitcoin Gold (BTG) network suffered another set of 51% attacks on January 23-24, as roughly 29 blocks were removed in two deep blockchain reorganizations (reorgs). Reports indicate that more than 7,000 BTG was double spent ($70,000) in two days.
+
+Also read: Bitcoin Gold Hacked for $18 Million
+
+Bitcoin Gold Sees Two Deep Blockchain Reorgs With 29 Blocks Replaced
+
+In May 2018, the Bitcoin Gold (BTG) blockchain was 51% attacked for the first time suffering a loss of more than $18 million. BTG is a fork of the Bitcoin protocol but it doesn’t use the SHA256 consensus algorithm like BTC, BCH, or BSV. The blockchain BTG utilizes a variant of the Equihash algorithm (Equihash 144, 5 or “Zhash”) which can be mined with a GPU. Bitcoin Gold’s creators believed that creating a Bitcoin fork that could be mined with GPUs as opposed to ASIC devices would be more decentralized. However, things went south in the spring of 2018 when a miner gained control of more than 51% of the overall BTG hashrate. After losing $18 million, BTG was also asked to pay the exchange Bittrex back or face being delisted. Since then BTG has been meandering along while other small coins like ethereum classic and vertcoin were 51% attacked too.
+
+Last week on Thursday and Friday, BTG again dealt with a malicious mining entity as more than 51% of the chain’s hashrate was captured and still is. The blockchain suffered from two deep reorgs on both days that saw $19,000 double spent on Thursday and $53,000 double spent on Friday. For instance, at approximately 1:01 p.m. on Thursday, BTG’s chain saw 14 blocks removed and 13 new blocks added. At 7:24 p.m. on Friday, the blockchain saw 15 blocks removed and 16 blocks added during a small period of time. Most of the blame has been directed at the cloud mining operation Nicehash which has been blamed for most of the 51% attacks in the last two years. Some BTG members believe that there are secret ASICs mining the BTG network and community members are begging for a safer algorithm.
+
+“I think it’s time we get a real leader that listens to the members of this community and take action,” one BTG proponent wrote on Reddit. “It is obvious that the first 51% attack was done by ASICs — Why can’t BTG be novel and create a truly new [algorithm]? This coin is a bad investment for anyone looking to buy — None of the devs are qualified.”
+
+$719 per Hour to Attack as Nicehash Captures 57% of the Bitcoin Gold Hashrate
+
+During the last few months, news.Bitcoin.com has reported on how the three main SHA256 Bitcoin forks have seen an exponential rise in hashrate. BTG’s hashrate, on the other hand, has not followed the same pattern and has declined significantly since the last 51% attack in May 2018. The lack of hashpower behind the BTG network makes the blockchain extremely vulnerable to more 51% attacks unless the developers change the consensus algorithm. According to statistics from the Crypto51 application, BTG only has 3 million hashes per second (3MH/s) securing the chain. It would only cost $788 per hour to 51% attack the BTG blockchain and cause a reorg with double spending.
+
+The cloud mining site Nicehash sells individuals and businesses CPU and GPU-based hashrate and on January 26, Nicehash commands 57-74% of the BTG hashrate or 2MH/s. A comparison of how much easier it is to attack the Bitcoin Gold chain in contrast to the Zcash (ZEC) network shows it’s far more convenient to attack BTG. Even though they share a similar Equihash variant, ZEC has 5 billion hashes per second (5GH/s) securing the blockchain. Nicehash miners who are mining ZEC only capture 182 MH/s of the overall 5GH/s or a mere 3% of the network. The estimated cost to 51% attack ZEC is much larger than the BTG attack at $11,788 per hour to accomplish the mission.
+
+Interestingly enough, and similar to coins like vertcoin and ethereum classic, BTG’s market price did not drop in value. In fact, BTG’s price has jumped since the 51% attack and is up over 9.6% for the week and 15% in the last 24 hours. To most observers, it is strange that instead of losing value after two deep reorgs and $70,000 in double spends, BTG is seeing more market demand than it has in months.
+
+What do you think about the 51% attack against Bitcoin Gold (BTG)? Let us know what you think about this topic in the comments section below.
+
+Image credits: Shutterstock, r/bitcoingoldhq, Markets.Bitcoin.com, Crypto51, Wiki Commons, Fair Use, and Pixabay.
+
+Did you know you can buy and sell BCH privately using our noncustodial, peer-to-peer Local Bitcoin Cash trading platform? The Local.Bitcoin.com marketplace has thousands of participants from all around the world trading BCH right now. And if you need a bitcoin wallet to securely store your coins, you can download one from us here.

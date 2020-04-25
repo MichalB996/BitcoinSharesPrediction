@@ -1,0 +1,27 @@
+DATE:  27.03.2019, 16:01:05
+TITLE: OG Exchange LocalBitcoins Is Moving Away From Anonymity
+URL:   https://breakermag.com/og-exchange-localbitcoins-is-moving-away-from-anonymity/
+
+It’s the end of an era. One of the last known exchanges for anonymous bitcoin trading, the Finland-based LocalBitcoins, has started requiring its users to provide their identities due to an upcoming amendment to Finnish anti-money laundering law.
+
+As LocalBitcoins announced on its blog earlier this week, Finnish Parliament approved both a proposal for a new Virtual Currency Service Providers Act and a change to the Act on Detecting and Preventing Money Laundering and Terrorist Financing on March 13. The changes mean that cryptocurrency services like LocalBitcoins will now fall under the supervision of the Financial Supervisory Authority of Finland. Though the Virtual Currency Service Providers Act doesn’t go into effect until November, LocalBitcoins said it initiated changes to its registration process on March 18.
+
+If you’re unfamiliar with LocalBitcoins, the decentralized exchange has been around since the close to the dawn of bitcoin. Founded in June 2012, around the same time as Coinbase, LocalBitcoins is unique as it fosters in-person, peer-to-beer trading of fiat and bitcoin (though users can also choose to buy and sell online).
+
+It’s easy to compare LocalBitcoins to something like Craigslist, where people connect with others online before ultimately meeting up in person to transact something. Say you’re looking to purchase some bitcoin. LocalBitcoins lists sellers near you, and you can wind up on a page that shows the seller’s username, their trade limits, what city they live in, what types of places they’d like to meet in (i.e., “public places with WiFi”), the hours they’re available, and how to contact them (like a phone number and a request to get in touch via Telegram only). Users can “trust” or “block” other users online and leave reviews, creating a ratings system not unlike Lyft’s or Yelp’s.
+
+Get the BREAKERMAG newsletter, a weekly roundup of blockchain business and culture.
+
+A service that pairs people up to trade cash for bitcoin in the physical realm seems counterintuitive. Don’t people have more anonymity behind a computer screen than they do by meeting someone else face-to-face? Due to bitcoin’s transparent nature—all transactions are visible on the public blockchain—the answer is no. While it might be difficult to connect a bitcoin address to someone’s identity, it’s not impossible, and the information that someone bought X amount of bitcoin with fiat currency is indelibly recorded on the blockchain. On the contrary, if you give someone cash for bitcoin stored on a hard drive in person, that transaction isn’t recorded anywhere.
+
+It’s the same reason why people have used bitcoin ATMs to launder money. Since some bitcoin ATMs can be used anonymously (which goes against U.S. banking regulations), the cash you put in isn’t tied to a specific address or person, just a time and the location of the ATM. In turn—voila—you get essentially untraceable bitcoin.
+
+The exchange’s website states it has already “launched a new account registration process” that will conform to the upcoming regulations, “where users can verify basic information already during sign-up.”
+
+On LocalBitcoins, it seems as if transactions like these will no longer be possible. The exchange’s website states it has already “launched a new account registration process” that will conform to the upcoming regulations, “where users can verify basic information already during sign-up.” LocalBitcoins spins this positively, as a way to stop the creation of illegitimate accounts. (LocalBitcoins was not immediately available for comment.)
+
+I attempted to verify this today by registering for the exchange. The initial signup only asked for a username, email address, and password, which could certainly allow for anonymity (depending on the email registrants choose to associate with their accounts). However, after I confirmed my email address, I was led to a page that asked me to provide the first and last name associated with my bank account information (but not my actual bank information), my phone number, and my country of residence. I did not have to provide any form of ID to confirm that the information I’d given was valid before getting invited to trade cash for bitcoin.
+
+Once I was automatically redirected to a list of local buyers, I was told that I could only request “an escrow of up to 0.35 BTC” until I’d traded more and gained a “reputation” on the platform. Additionally, somewhere in LocalBitcoins’ user agreement is nestled a section titled “Identity Verification,” something the exchange “may require…to access part of the services we offer.” For example, users may have to provide their full names, identity documents, and photographs when doing things like creating posts, exceeding certain trade volume limits, and in the course of fraud investigations.
+
+That could have been the small print in LocalBitcoins’ agreement for some time, but the exchange’s new KYC measures will make them a more standard part of a service long renowned for its protection of users’ privacy. Another key part of bitcoin’s Wild West days is ending.

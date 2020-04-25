@@ -1,0 +1,25 @@
+DATE:  14.04.2020, 12:04:26
+TITLE: Sodinokibi Crypto Ransomware Switches from Bitcoin to Monero to hide Money Trail
+URL:   https://winkreport.com/sodinokibi-crypto-ransomware-switches-from-bitcoin-to-monero-to-hide-money-trail/
+
+A type of ransomware – a malware that encrypts user data and demands a ransom to restore access to it – has been switched from Bitcoin (BTC) to Monero (XMR) to better protect the identity of hackers.
+
+According to an April 11 report from cybersecurity news store BleepingComputer, using Monero will make it more difficult for law enforcement officers to track ransom payments to the hackers behind Sodinokibi. As the article mentions, Europol strategy analyst Jerek Jakubcek explained during a webinar in February how anoncoins influence legal investigations:
+
+“Because the suspect used a combination of TOR and privacy coins, we were unable to trace the funds. We were unable to trace the IP addresses. Which means we hit the end of the road. Whatever happened on the Bitcoin blockchain was visible, which is why we were able to get quite far. But with Monero blockchain, that was where the investigation ended. So, this is a classic example of one of the many cases we had where the suspect decided to transfer money from Bitcoin or Ethereum to Monero. ”
+
+According to the report, the hackers behind the Sodinokibi ransomware in a hacker and malware forum posted a message announcing their move to Monero. In the post, cyber criminals explicitly stated that the move was designed to make it more difficult for law enforcement officers to track the money. The announcement reads:
+
+In this regard, we inform you that the BTC will be removed as a payment method after a while. Victims need to understand the new cryptocurrency, as well as other interested parties working with us. “
+
+In fact, the Sodinokibi payment website is already pushing people away from paying with Bitcoin by increasing the price in the currency by 10% compared to the Monero price. Interestingly, the group is also looking for partners who can get back the data access for the users at a discount so they can add a supplement.
+
+Threat analyst at cyber security firm Emsisoft Brett Callow said using anoncoin for ransom payment ransomware is less common than many would expect. He also noted that he wouldn’t be surprised if other ransomware groups followed suit:
+
+“Although there are some instances where demands are made in alternative currencies, this will be the first time that a large ransomware group has chosen a currency other than Bitcoin. Like other companies, criminal companies are using proven strategies and such a switch If it turns out to be successful for REvil, we expect other groups to experiment with requirements in currencies other than bitcoin. “
+
+Many consider ransomware developed and distributed by well-organized cyber crime groups to be the biggest cybersecurity threat today. A UK-based company recently paid hackers nearly $ 2.3 million in Bitcoin after being infected by the Sodinokibi ransomware.
+
+Many fear that the current coronavirus pandemic will exacerbate the consequences of successful attacks on healthcare providers. In an effort to mitigate the threat, Microsoft recently notified hospitals vulnerable to ransomware attacks.
+
+Register for our groups Facebook and Telegram and stay tuned.

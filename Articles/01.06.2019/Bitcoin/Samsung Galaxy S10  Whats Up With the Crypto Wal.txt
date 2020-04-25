@@ -1,0 +1,47 @@
+DATE:  01.06.2019, 13:59:18
+TITLE: Samsung Galaxy S10 – What’s Up With the Crypto Wallet?
+URL:   https://news.bitcoin.com/samsung-galaxy-s10-whats-up-with-the-crypto-wallet/
+
+Samsung Galaxy S10 – What’s Up With the Crypto Wallet?
+
+Samsung’s new flagship smartphone, the Galaxy S10, had one of the most anticipated premieres this year. The launch of the high-end lineup, comprising three models, marked the 10th anniversary of the Galaxy S series, considered a benchmark in the Android world. A slew of new features were introduced for the latest model. However, the one addition that sparked great interest in the crypto community – the Samsung Blockchain Wallet – is not available to many S10 users, and where it is included, it doesn’t store bitcoin.
+
+Also read: The Number of Cryptocurrency Wallet Users Keeps Rising
+
+Flagship Smartphone That Stores Private Keys
+
+It’s been almost a year since the Korean electronics giant published an article on its Insights platform explaining “why smartphones have the best security for blockchain and cryptocurrency.” In the blogpost, IT consultant and security expert Joel Snyder argued that crypto wallets installed on mobile devices are better suited for storing digital assets than computers. That’s because smartphones utilize what’s called a Trusted Execution Environment. The TEE has a separate memory and persistent storage, completely isolated from the rest of the device. The operating system, Android in this case, is unable to reach into the TEE even when it’s compromised.
+
+“The only way to get to and from the TEE is with an API that calls small applications running in the TEE ‘trustlets.’ With a properly written wallet that uses trustlets to manage the keys, security is seriously tight,” Snyder insisted. If the wallet is stored on a PC hard disk or if the developer chooses to store the private keys on the phone’s regular internal storage, there’s little protection against malware. However, if the keys are in the TEE and only accessible via a trustlet, the malware will not be able to extract them directly, the security expert pointed out. Samsung’s own Knox mobile security platform adds another layer of protection, according to Snyder.
+
+Rumors that the new Galaxy S10 would incorporate a secure feature allowing the storage of crypto keys appeared long before its launch. They were reinforced by leaked images in January showing an app called Samsung Blockchain Keystore in the Galaxy S10 menu which, according to its description, allows you to secure and manage your blockchain private keys. In February, when the new flagship phone was released, Samsung revealed it came with “secure storage backed by hardware, which houses your private keys for blockchain-enabled mobile services.”
+
+No Bitcoin in the Samsung Wallet
+
+The official announcement, which was dated Feb. 21, 2019 and tagged “Korea, UK, USA,” did not provide any more details about the crypto wallet that was supposed to be integrated into the new devices. That’s despite Samsung’s decision to file a trademark in the United Kingdom titled “Samsung Crypto Wallet” back in December, 2018. Meanwhile, previous reports that the wallet would support major cryptocurrencies such as BTC, BCH, ETH and ERC20 tokens were dismissed as speculation.
+
+As a result, there’s been some confusion among Samsung fans and crypto enthusiasts regarding the availability of the Blockchain Keystore in different markets. According to reviews, forum threads and some of Samsung’s own press releases, the feature is available on devices in the U.S., Canada and South Korea. News.Bitcoin.com confirmed that phones sold in the U.S. have it, but a video review from March suggests that it may not be present on all devices in America. Generally, the keystore can be found in the Settings menu, under Biometrics and Security. The crypto wallet itself has to be activated.
+
+Another video review shows an Enjin wallet installed on the Korean version of the Galaxy S10. To set it up, you need to launch the application, click “Samsung Wallet” and accept the terms and conditions. Once you do that, you’ll be welcomed to the Samsung Blockchain Keystore where you need to agree with its terms and proceed by clicking “Start” to launch the wallet. Then you’ll have two options: either import an existing cryptocurrency wallet or create a new one.
+
+The Samsung Enjin Wallet supports ETH, ENJ, BNT, KNC, the Binance token (BNB), an ethereum-based ERC20 token called “wrapped bitcoin” (WBTC) as well as a couple of stablecoins, true USD (TUSD) and USD coin (USDC). There’s also an integrated exchange feature where more coins and tokens are available. Unfortunately, neither bitcoin cash (BCH) nor bitcoin core (BTC) can be seen among the supported cryptocurrencies.
+
+European crypto enthusiasts seem to be excluded from the privileged crypto club at this stage. Devices sold in Sweden don’t have the Blockchain Keystore or the Samsung Wallet preinstalled, news.Bitcoin.com found out. A thread in Samsung’s EU community support channel suggests that the built-in blockchain wallet is not available in the U.K. either, and the app cannot be downloaded from the Galaxy Store. A moderator with the nick TracyR explains that the Samsung Blockchain Keystore is only available in the U.S., Canada and Korea, adding “There is no news currently [mid-April] if this will be available in the U.K.”
+
+User guides for Galaxy S10, S10e and S10+, prepared for various other countries in Europe and elsewhere, do not contain instructions on how to activate the crypto wallet feature. Where it’s available and if it’s not preinstalled, you should be able to download it from the Galaxy Store. The same applies to the Samsung Blockchain Wallet application. If you manage to get it, while creating a new wallet you will be asked to provide a PIN before Samsung generates a 12-word recovery phrase for you. This may sound like a unique feature but it’s just like any other mobile crypto wallet available in the Google Play store.
+
+According to available information, the Samsung wallet supports ETH and ethereum-based tokens. The option that allows you to import an existing wallet is also for ethereum wallets. It remains unclear whether and when other major cryptocurrencies such as bitcoin cash and bitcoin core will be added. That’s despite a presentation of the S10’s blockchain features during the Samsung Mobile Business Summit earlier this year clearly showing the Bitcoin logo. News.Bitcoin.com contacted the Samsung Newsroom to find out more about the availability of the phone’s crypto features in different markets and obtain a full list of the supported coins. By press time, there has been no reply to our query.
+
+Talk of More Blockchain in Galaxy, Coins in Samsung Pay
+
+Reports this month suggest that Samsung plans to further invest in expanding and developing the blockchain package. Despite the limited availability of the Keystore and the lack of support for Bitcoin, the Korean conglomerate may bring its crypto wallet to more Galaxy devices. Chae Won-cheol, managing director of product strategy at Samsung’s Wireless Business Division, said in an article published on the Korean page of the Samsung Newsroom that the electronics giant will “lower barriers to new experiences” by offering more phones with blockchain functions and expanding the list of countries where the service is available. Without revealing details, the company representative added that Samsung will also work with telecom operators to activate other related technologies such as blockchain-based identification and introduce support for local currencies.
+
+Last week, the Business Korea portal reported on Samsung’s decision to transfer its Blockchain Task Force from the Mobile Business Division, which is behind the development of the Blockchain Keystore and the Samsung Wallet, to the Service Business Division. The latter is responsible for the implementation of key features and the development of core applications in the Galaxy smartphones, including the mobile wallet and payment service Samsung Pay. One of the possible outcomes of this internal reorganization is the integration of decentralized cryptocurrencies into Samsung Pay which, according to the publication, accounts for 80% of the South Korean simple payment market. Once again, what, where and when are questions that Samsung owes answers to.
+
+Do you expect Samsung to eventually introduce support for major cryptocurrencies such as BCH and BTC in its wallet services and mobile devices? Tell us what you think in the comments section below.
+
+Disclaimer: Readers should do their own due diligence before taking any actions related to third party companies or any of their affiliates or services. Bitcoin.com is not responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any third party content, goods or services mentioned in this article.
+
+Images courtesy of Shutterstock, Exchangify.
+
+Are you looking for a secure way to buy Bitcoin online? Start by downloading your free Bitcoin wallet from us and then head over to our Purchase Bitcoin page where you can easily buy BTC and BCH.

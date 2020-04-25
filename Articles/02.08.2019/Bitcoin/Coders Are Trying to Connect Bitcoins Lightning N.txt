@@ -1,0 +1,29 @@
+DATE:  02.08.2019, 08:00:30
+TITLE: Coders Are Trying to Connect Bitcoin’s Lightning Network to Ethereum
+URL:   https://www.coindesk.com/coders-are-trying-to-connect-bitcoins-lightning-network-to-ethereum
+
+While bitcoin and ethereum enthusiasts might not always get along, one enterprising gaming startup is attempting to bring the two cryptocurrencies closer together.
+
+Blockade Games announced on July 31 that it has successfully bridged the two networks by sending a bitcoin lightning transaction in such a way that it can cause an ethereum smart contract to run.
+
+The company has run its code on the Rinkeby testnet and plans to deploy it on mainnet (using real ether) in the next couple of weeks, Blockade Games CTO Ben Heidorn told CoinDesk.
+
+All of these tests feed into plans to add lightning network support to Neon District, its upcoming role-playing game built on top of ethereum.
+
+Heidorn explained in a new blog post released Wednesday that it moved forward with the test is because it believes both bitcoin and ethereum will play an important role in the future. (The company believes ethereum, in particular, is the future of “non-fungible assets,” or digital assets that are provably unique from all the others).
+
+The blog post goes on:
+
+“We also believe that bitcoin is the future of money, and many of our players will prefer to hold most, if not all, of their funds in bitcoin. We want to make it possible to serve our biggest supporters and players on the bitcoin network while utilizing all of the infrastructure present on ethereum and other blockchain networks.”
+
+As such, they want users to be able to send lightning bitcoin payments to trigger ethereum events.
+
+“By integrating bitcoin lightning network payments, we are able to accept instant payments in bitcoin directly, and instantaneously kick off a series of events on any other chain, such as minting a brand new Neon District asset to a buyer’s ethereum or Loom Network wallet,” the blog continues.
+
+The code for this unique type of lightning transaction is not yet public, but “we will open it once we’re sure it’s ready and secure for people to pull down and use,” Heidorn told CoinDesk.
+
+Regarding the frequent tension between bitcoin and ethereum enthusiasts, Heidorn argued that the two cryptocurrencies are “two sides of the same coin,” adding:
+
+“When it comes down to individuals maintaining sovereignty, privacy and autonomy, especially as crypto grows in popularity and faces greater social and political attacks, the infighting will be a thing of the past.”
+
+Bitcoin and ethereum coins image via Shutterstock

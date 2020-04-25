@@ -1,0 +1,51 @@
+DATE:  01.07.2019, 16:10:55
+TITLE: Confronting Bitcoin Network Issues Using Nakamoto Consensus and a Mining Parliament
+URL:   https://news.bitcoin.com/confronting-bitcoin-network-issues-using-nakamoto-consensus-and-a-mining-parliament/
+
+Confronting Bitcoin Network Issues Using Nakamoto Consensus and a Mining Parliament
+
+On June 28, Bitcoin Cash proponent Javier Gonzalez announced the launch of an interesting protocol called the Bitcoin Mining Parliament (BMP). The theory behind BMP is backed by the concept of Nakamoto Consensus where “miners are the executive power of Bitcoin” and “any needed rules and incentives can be enforced with this consensus mechanism.”
+
+Also Read: Iranians Defy Warning and Share Pictures of Bitcoin Mining in Mosque
+
+A Virtual and Transparent Bitcoin Mining Parliament Will Be Established
+
+The system Satoshi Nakamoto created over 10 years ago has invigorated many people’s lives and has changed the course of history. The technology Satoshi unleashed has many benefits but one of the core innovations of Bitcoin is Nakamoto Consensus, a method that brings the network to a state of valid consensus despite imperfect information. Nakamoto Consensus uses proof-of-work, block selection, and an incentive structure to motivate network participants to act in harmony.
+
+I'm excited to announce the Bitcoin Mining Parliament:https://t.co/djipPly53e — Javier González González (@JavierGonzalez) June 28, 2019
+
+Over the last few years, there’s been a lot of arguments about the power non-mining nodes may or may not possess and the concentration of strength behind mining nodes that process blocks. Javier Gonzalez believes that miners are the executive power of Bitcoin for multiple reasons. The developer has launched a new open source protocol called the Bitcoin Mining Parliament (BMP) and a pool called Bmp.virtualpol.com in order for miners to utilize the protocol. At the moment the BMP project’s readme specifications detail that the platform is still in its early beta form but the tool is currently being used. At the time of writing, there are 124 miners participating with the BMP pool and the dashboard shows how certain things can be voted on with hashpower.
+
+“Miners can write -in proportion to their computing power- in the Blockchain of a network based on proof-of-work — Also -with sufficient consensus- they can write legitimate empty blocks in a minority chain in order to provoke its collapse,” Gonzalez’s BMP theory paper explains. “And they can do this if they consider this extreme decision convenient to the network and therefore their long-term interests.” The paper further states:
+
+Miners can exert their power in real time, in an agile and eminently executive way, recording their decisions in a publicly verifiable way, thanks to the safest and most reliable voting system available which is known. Therefore, miners are in command in Bitcoin. And they will never act alone because they form a group of allies without conflict of interest (except in the competition for computing power).
+
+According to Gonzalez’s BMP theory paper, in time he believes that it will be inevitable that a “virtual and transparent Bitcoin Mining Parliament (BMP) will be established.” Within this parliamentary group of miners, each participant can have voice and ”vote in proportion to their percentage of demonstrable exahashes per second.” A BMP could come to an agreement about certain features, resolve future conflicts, and even appoint legitimate spokespersons for the network. “They will have a closer and more accurate contact with the Bitcoin’s community of users and developers,” the paper highlights.
+
+Nakamoto Consensus Ensures Rules and Incentives Can Be Enforced
+
+According to the project’s philosophy, bitcoin miners estimate consensus with inadequate coordination. Gonzalez insists that Satoshi invented the role of miners because the network’s governance model needed to be entrusted to a higher entity that is more powerful than one individual or a small group of developers. Miners are rewarded for doing this and Gonzalez thinks that their interest will always be the same. Understanding this predictable pattern and relationship is ”the manifestation of what is known as Nakamoto Consensus,” Gonzalez asserts.
+
+“Ignoring these facts will give rise to a brittle Blockchain with a tendency to break with every controversy — Accepting the consensus mechanism means the empowering of the miners in order to wield their legitimate power over the Blockchain to its exact degree,” the BMP creator’s paper explains. “Likewise, accepting this reality could guarantee indefinitely the compliance with the last line of the last page from the Satoshi Nakamoto’s original paper, which states:”
+
+Any needed rules and incentives can be enforced with this consensus mechanism.
+
+Have We Ever Put Nakamoto Consensus to the Test During Conflict?
+
+Of course, the subject comes with controversy, especially from those who don’t believe miners are the executive branch of the network. From many people’s perspective, Nakamoto Consensus hasn’t been truly been tested during times of conflict like Segwit2X for example. For instance, the infamous User Activated Soft Fork (UASF) never took place because Segwit2x was called off. With over 80% of hashpower willing to implement Segwit2X after they managed to get Segwit activated, miners never tested their strength by going forward with a block size increase. This was because the block increase event (Segwit2X) was called off due to the threat of USAF which never materialized into anything more than proof-of-social media. So the question remains: would the majority of miners at the time be able to increase the block size and avoid UASF issues by utilizing Nakamoto Consensus? We will never know until Nakamoto Consensus is used during a disagreement of this kind.
+
+With a concept like BMP, the mining governance model could essentially avoid such conflicts or end a weak minority chain without giving it a chance to survive. “Miners can take responsibility, better than anyone else, for preventing the risk of such events happening again,” the BMP white paper suggests. Gonzalez believes it’s a human tendency to become entangled with such conflicts and with “multiple development teams competing, confrontation is only a matter of time — To resolve this, miners must assume their executive role.” Gonzalez says that the BMP would be a binding power when most of the hashpower participates.
+
+A Parliamentary Group of Governing Miners Can Work Without Altering the BCH Protocol
+
+Gonzalez is convinced that the BMP idea can be implemented in various ways that would not alter the Bitcoin Cash protocol or mining operations. The foundation of BMP would be registered users who can verify their hashpower. Gonzalez explains that in the coinbase transaction of each block (metadata that can store info in a block reward), pools would publish “the addresses of the main miners in multiple outputs, indicating in the OP_RETURN the percentage of hashpower corresponding to each miner.” The creator also underlines the fact that BMP is an “open source tool with no responsibility for actions taken by third parties.” Gonzalez adds:
+
+The individual hashpower of each miner is calculated with his quota signaled with the hashpower registered in the block. A pool will never be able to control more hashpower than that demonstrated in its blocks. In this way, each miner will be able to demonstrate his effort, beyond the blockchain, in proportion to his percentage of hashpower.
+
+What do you think about the Bitcoin Mining Parliament (BMP) created by Javier Gonzalez? Do you agree with his theory about miners being the executive branch within the Bitcoin network? Do you think Nakamoto Consensus has ever been truly tested? Let us know what you think about this subject in the comments section below.
+
+Disclaimer: This editorial is intended for informational purposes only. Readers should do their own due diligence before taking any actions related to the mentioned mining tool or any of its affiliates or services. Bitcoin.com or the author is not responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.
+
+Image credits: Shutterstock, Javier Gonzalez, BMP, and Bmp.virtualpol.com
+
+Want to create your own secure cold storage paper wallet? Check our tools section. You can also enjoy the easiest way to buy Bitcoin online with us. Download your free Bitcoin wallet and head to our Purchase Bitcoin page where you can buy BCH and BTC securely.

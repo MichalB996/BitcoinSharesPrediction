@@ -1,0 +1,39 @@
+DATE:  18.03.2020, 08:02:03
+TITLE: Why Collaboration Will Build Next-Generation AI
+URL:   https://www.pymnts.com/news/artificial-intelligence/2020/baidu-collaborative-effort-build-next-generation-artificial-intelligence/
+
+Every consumer has gone through at least one iteration in their commercial life of the clunky, junky product search.
+
+It starts with a basic idea of what one is looking for — but nothing as specific as say a SKU — entered into a search bar. From there, it is picking through returns for the right option, or at least as close to right option as possible, and then clicking around until one finds a transaction point on a checkout page with a buy button.
+
+It is navigable, unless it isn’t, and the consumer bails out for lack of time to spend clicking around trying to get what they want in front of them and purchasable. In that context, Julia Li, director at Baidu Research Institute USA, told Karen Webster, the part for artificial intelligence (AI) to play is obvious: Make the customer experience much smoother and easier than before by stitching all of those discrete actions into something that is a smoother, “one-click” journey.
+
+And when one is talking about AI, machine learning (ML) or big data and its future, she noted, context really is everything. How it is used, what it will make possible, and what’s next are all questions that can only be answered after one solves the primary query: What is the AI going to be used for? Will it be driving an automated vehicle, conducting eCommerce across channels or managing a patient’s healthcare information? The answer, she noted, will determine all kinds of different responses as to what the AI has to do, what accuracy standards it needs to be held to, and how it should be developed.
+
+But what all AI needs to be is trained, she noted, which over the last two decades has been Baidu’s intense area of focus, particularly around the area that Li noted is often the most challenging to tackle: natural language comprehension. And in the last year and a half, it’s where Baidu has made the biggest progress, as its system, ERNIE (short for Enhanced Representation through kNowledge Integration), is presently the best in the world by GLUE (General Language Understanding Evaluation) score.
+
+“After a few years of evolving, we’ve begun to understand the problems better [with language processing], especially in the modern time when we have much more data than we did when the internet began to take off,” she said. “So, we have seen that by incorporating much bigger unlabeled data sets, we can elaborate this data to do a perfect pre-training model that can capture the information as much as possible.”
+
+Access to ERNIE is being offered open source in the cloud, she noted, because Baidu wants to share the model and make it easy for others to “quickly deploy or use to improve their own voice system or in whatever application it is relevant.”
+
+Building the Future From the Present
+
+While it is easy to get caught up looking for the next big surprising emergence, Li told Webster, from the point of view of the research lab, what is just as interesting is seeing what is actually available and out there today — and seeing what the potential for it could be going forward. Voice technology, she noted, offers a good example here.
+
+The most popular application is the smart speaker, she noted, as at this point, a majority of consumers have one in their home. And although they are relatively new to the market, they are already evolving forward so that smart speakers are now built with screens.
+
+“From the technology perspective, we call it multimodal deep semantic understanding,” Li said. “Because from the technology perspective, we want to leverage the computer vision technology, the language understanding technology, and speech recognition technologies work together to give the users a real immersive experience during communication.”
+
+And she noted, as the world has watched a global pandemic unfold around COVID-19, the disease caused by the coronavirus, the power of that multimodal interactivity has become particularly important as consumers have sought the provision of healthcare services online and as workers have headed out of their offices to conduct business remotely.
+
+“All this technology probably has some potential value there,” she said.
+
+Today’s innovations, she said, are still just a starting place. As AI’s reach expands and knits together experiences over verticals and gets smarter, the most interesting question is what second generation innovations are going to get built over top of it.
+
+Opening up the Development Field
+
+Earlier this year, Baidu had the surprise distinction of shaking up the GLUE leaderboard by knocking off perennial leaders Google and Microsoft with ERNIE. Out of a full score of 100, Baidu is now the first team to surpass 90 with its ERNIE. By comparison, the average human being scores an 87.
+
+What ERNIE does uniquely among programs of its kind is it understands blocks of language in context and thus understands commands and interactions of all kinds better. That’s applicable to voice, she noted, but it’s also applicable to search, to operations, or to any number of applications. That’s why Baidu has opened all that technology up and placed it in the cloud. While the company is excited about what it can build with better AI, it is even more excited about what others can build.
+
+“Because I do believe there is still a lot coming,” she said. “That’s why we are working on deploying all of this technology to the cloud and providing open access and free access for developers and individual users or companies to develop their own next-generation applications. I believe we need more creative people. We need more creative users to help out and think about application scenarios, using the technology that we have been developing in house.”

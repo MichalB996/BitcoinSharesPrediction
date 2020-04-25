@@ -1,0 +1,19 @@
+DATE:  17.04.2019, 16:10:11
+TITLE: Bitcoin SV and the roadmap to Genesis
+URL:   https://coingeek.com/bitcoin-sv-and-the-roadmap-to-genesis/
+
+The Bitcoin SV (BSV) project continues to do what no other blockchain thought possible—scale on chain in a massive way that puts it in line with what is seen by the world’s major credit card companies. The project has been steadily working on different aspects of the “Roadmap to Genesis” and Steve Shadders has issued an update on the progress. To say that BSV is capable of doing what no other blockchain can do would be an understatement of epic proportion.
+
+According to the latest information, the roadmap from last August until the second quarter of this year has seen all of the items fulfilled, or close to being completed, except for one, parallel block validation. This was put on the back burner in favor of other network improvements that were expected to provide a greater return on investment.
+
+Coming soon will be a network upgrade called Quasar. It is currently scheduled for July 24 and centers on increased scaling capabilities. According to Shadders, “We have previously signalled an intent to raise the cap to 512MB however after consultation with the Bitcoin Association (the owner of the Bitcoin SV project) and miners representing a significant majority of hash rate it has been decided that the Bitcoin SV software will implement a default of 2GB in July.“
+
+The logic behind the increased default is simple. By raising the cap, and allowing miners to set a limit of 512MB, the network will be able to see more scaling as it becomes necessary without having to introduce additional upgrades or forks.
+
+The next big upgrade following Quasar is scheduled for February 4, 2020. It will provide a number of protocol restoration changes designed to return the network to the original Bitcoin protocol. It is aptly called Genesis and is scheduled for “11 years, 1 month and 1 day after the original Genesis block.”
+
+The announcement continues, “The Genesis upgrade will also address scaling. We believe that by late in 2019 the Bitcoin SV node software will have implemented all of the safety mechanisms required to allow us to eliminate the block size cap altogether and let miners manage it without intervention from developers. So long as those changes are completed we intend to bring the planned date for allowing unlimited block size forward by almost a year and lift the cap completely in the Genesis upgrade.”
+
+Unlike blockchains such as Bitcoin Cash that allowed developers to make all the decisions, BSV is publishing data in order to receive community feedback before moving forward. This creates a completely transparent network that is truly decentralized and built by the community, not by a few individuals who want to control the entire ecosystem.
+
+New to Bitcoin? Check out CoinGeek’s Bitcoin for Beginners section, the ultimate resource guide to learn more about Bitcoin—as originally envisioned by Satoshi Nakamoto—and blockchain.

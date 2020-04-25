@@ -1,0 +1,94 @@
+DATE:  12.03.2019, 13:15:39
+TITLE: BetterHash Can Improve Bitcoin Mining Decentralization, But When?
+URL:   https://coinjournal.net/betterhash-can-improve-bitcoin-mining-decentralization-but-when/
+
+The level of centralization in mining is one of the more credible problems with Bitcoin today. While there has not been much activity in terms of actual attacks made possible through mining centralization (although some would refer to SegWit2x as an attack), it does add questions to the level of security offered by various layer-two protocols.
+
+
+
+Recently, BetterHash has been promoted as a potentially massive improvement in terms of bitcoin mining decentralization. During an interview on Peter McCormack’s What Bitcoin Did podcast, Chaincode Labs developer and Bitcoin Core contributor Matt Corallo, who authored the BetterHash protocol, discussed the problems with mining centralization, how BetterHash can help, and the issues around getting people to actually use this improvement.
+
+
+
+What are the Problems with Bitcoin Mining Centralization?
+
+
+
+Before getting into the details of BetterHash, it’s important to understand the issues around bitcoin mining centralization.
+
+
+
+“I think the key, kind of, trust model in Bitcoin is ultimately that hashpower is decentralized enough that no one, kind of, takes full control over it,” said Corallo in his recent interview.
+
+
+
+According to Corallo, the most obvious risk associated with miner centralization is transaction censorship, and this problem can go beyond simple censorship when considering layer-two networks like the Lightning Network and sidechains.
+
+
+
+”This idea that some group of miners might either be forced to, might decide to, might because of a technical bug, or whatever not include certain transactions could result in people losing money [in the case of the Lightning Network and sidechains],” said Corallo.
+
+
+
+The security model of something like the Lightning Network relies on users’ ability to broadcast special types of transactions in a situation where someone is trying to cheat.
+
+
+
+Another issue with transaction censorship is that it weakens fungibility. If miners were forced to implement some sort of blacklist, the bitcoin held in blacklisted addresses would become effectively worthless.
+
+
+
+Corallo added that the protocols used to mine bitcoin right now are very vulnerable to various attacks.
+
+
+
+“They’re completely unauthenticated, they’re not secure in any way (they’re not intended to be), and it would be rather easy for someone to hijack a large percentage of Bitcoin hash power for some medium to short period of time,” explained Corallo.
+
+
+
+After hijacking a sufficient amount of hash power, an attacker would be able to pull off 51% attacks in in order to do things like mine empty blocks, double spend coins, or censor specific types of transactions.
+
+
+
+“When you have more miner centralization and more centralized control, it just makes the system much more brittle,” added Corallo.
+
+
+
+What is BetterHash?
+
+
+
+BetterHash is a mining protocol created by Corallo that would help remove some of the centralized components of the mining ecosystem. The most important aspect of this protocol in terms of decentralization is it gives individual miners control over the transactions that will (or won’t) be included in mined blocks.
+
+
+
+This means pool operators are taken out of the equation as possible vectors for 51% attacks. The percentage of the network hashrate that is controlled by each pool basically becomes uninteresting from a mining centralization point of view. In fact, Corallo has stated in the past that it wouldn’t be much of a big deal if all of Bitcoin’s hash power was pointed at a single mining pool that used the BetterHash protocol.
+
+
+
+Getting Miners to Use BetterHash
+
+
+
+Of course, just because this new mining protocol exists does not mean bitcoin mining will be completely decentralized tomorrow. Indeed, Corallo first announced the existence of BetterHash on the Bitcoin development mailing list in June of last year, and there is still plenty of work to do in terms of adoption.
+
+
+
+According to Corallo, one of the issues is no one actually makes more money by switching over to the BetterHash protocol, which means the incentives aren’t exactly aligned for immediate adoption (outside of improving Bitcoin’s decentralization). In fact, there is quite a bit of work involved with making this change.
+
+
+
+“It requires mining pools to restructure their code to support a whole new protocol essentially — potentially run a completely parallel infrastructure, so they have to essentially run two mining pools. Existing mining pools have done a ton of work on optimizing their infrastructure and making sure everything is really well tuned, and now I’m showing up and asking them to run a completely parallel infrastructure for no additional money and less control,” explained Corallo.
+
+
+
+Although Corallo thinks most pools don’t actually care about the level of control they have over the mining process and some of them, such as Slushpool and Poolin, don’t want that control, there are still other issues that get in the way of instant adoption of BetterHash.
+
+
+
+“They’d love to see something like BetterHash exist, but of course there are practical challenges in terms of actually getting customers who want to do this. And so, there’s questions about customer demand, and of course just the technical reality of having to run this thing is steep. And so, there’s a steep cost, and so seeing that kind of customer demand would go a long way to convincing folks to want to spend all of their time to build this. But of course, it’s also just going to be slow, right? Because engineering takes awhile, and so getting that kind of adoption is just going to take people awhile,” explained Corallo.
+
+
+
+“I am talking to some folks,” Corallo later added. “Hopefully we’ll get there. We’ll see.”
+

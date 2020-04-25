@@ -1,0 +1,37 @@
+DATE:  23.09.2019, 12:30:56
+TITLE: Devs Remove BIP70 Payment Protocol From Bitcoin Core's Default Settings
+URL:   https://news.bitcoin.com/devs-remove-bip70-payment-protocol-from-bitcoin-cores-default-settings/
+
+Devs Remove BIP70 Payment Protocol From Bitcoin Core's Default Settings
+
+Cryptocurrency advocates have recently discovered that Bitcoin Core (BTC) developers are planning to disable the payment protocol BIP70 supported by default in the Bitcoin Core version 0.19.0 client. According to developer discussions, full BIP70 support might be removed by version 0.20.0.
+
+Also read: How Merge Mining and Anchored Blockchain Projects Capitalize on Bitcoin’s Security Model
+
+Bitcoin Core Developers Remove BIP70 Payment Protocol From Version 0.19’s Default Settings
+
+There’s been a lot of discussion this week regarding the payment protocol BIP70 used by the cryptocurrency payment processor Bitpay. According to a merged Bitcoin Core pull request, developers will disable BIP70 support by default in version 0.19.0 of the Core client. The programmer who announced the removal request initiated the conversation by asking to “disable BIP70 support in the GUI by default for 0.19.0 (for eventual removal in 0.20.0?).” The payment protocol BIP70 was introduced in 2013 by Gavin Andresen and Mike Hearn in order to address the vulnerabilities associated with BIP21. The open standard called BIP21 has been used across the ecosystem since 2012, but BIP21 QR codes can suffer from man-in-the-middle (MITM) attacks and end up being fraudulent. BIP70 was designed to address the MITM attacks and stop them altogether. The BIP70 payment protocol uses Google’s Protocol Buffers and authenticates the transaction with X.509 certificates over http/https. “Payment Protocol adds new security to payments, protecting you from sending payments to imposters or attackers,” explained Bitpay after implementing the feature.
+
+In 2017, the largest bitcoin payment processor in the industry, Bitpay, started using the BIP70 system and it is now required to pay a Bitpay invoice. The company added BIP70 in 2014 and started full support in 2017 during that year’s market bull run. When the Atlanta-based firm revealed full support for BIP70, the company asserted that the payment protocol eliminates user error in bitcoin payments and MITM attacks. After Bitpay implemented the change, lots of BTC supporters were not too pleased with the change and complained about the digital certificate issuance (X.509) security. People also objected to BIP70 because some skeptics believe the process opens the door to increased AML/KYC surveillance tactics. Initially, the complaints revolved around the number of wallets that supported BIP70 in 2017, but since then there’s been a significant increase in wallet clients that support BIP70. The BIP70 protocol is also used for bitcoin cash transactions and BCH-based Bitpay invoices as well. BTC wallets that use BIP70 today include Btc.com, Copay, Bitpay, Mycelium, Edge, BRD, Bitcoin.com Wallet, Electrum, Bitnovo, Exodus, Blockchain Wallet, and the Bitcoin Core client.
+
+After the request to remove BIP70 from the 0.19.0 default GUI settings is enacted, functionality will still exist, but the user has to toggle the BIP70 settings on to use the protocol. Core developers also seem very adamant about disabling full support in Core version 0.20.0 as well. At first, some developers said that maybe the group shouldn’t disable BIP70 right away and give the public an “aggressive” deprecation warning. Active Core developer James Hilliard said the deprecation warning should also tell merchants that “it’s recommended that users contact/inform the merchant that they are using a deprecated and insecure protocol.” However, most BTC developers simply responded with an “Ack” (accepted the change) and Core lead maintainer Wladimir J. van der Laan said, “I would really like to merge this for 0.19.” The request was merged into the Bitcoin master codebase by van der Laan nine days ago.
+
+Virtue Signaling, Ethereum Acceptance and the Usual Anti-Bitpay Rhetoric
+
+Of course, not everyone agreed with the Core development team’s decision to disable BIP70 and skeptics believe it was done as a signal and out of spite. Some people think that Bitpay’s recent Ethereum support may have pushed Core developers over the edge. The CTO of the BCH platform Cointext, Vin Armani, said: “They’re ceding the entire non-custodial financial services industry to BCH with this move and the accompanying narrative — They think they are “punishing” Bitpay (clear from PR this is all about Bitpay) with this move, but they are cutting themselves off from a powerful protocol.” Armani continued:
+
+It’s an anti-Bitpay narrative using a total non-issue that is simply unlikely as hell, has never occurred in the wild and that can be completely mitigated (“patched”) by a wallet with like 3 lines of code.
+
+Armani also insisted that the reason developers removed BIP70 was for virtue signaling and for adding ETH support. “Plain and simple toxic maximalism — But please, maxis, don’t let me stop you from shooting yourselves in the foot,” he tweeted. “The absolutely most important difference between BIP70 and BIP21 is BIP70 allows for multi-output sends,” Armani continued. “Core hasn’t figured out the significance of this — The BCH community is figuring it out now — It’s what allows non-custodial financial services.”
+
+On Twitter and crypto-related forums, a few maximalists and influencers were very happy to see BIP70 removed from the default settings. VP of Solutions at Blockstream, Warren Togami, was particularly pleased. “Now that BIP70 is no longer included in Bitcoin Core by default there remains only one tenuous reason why Openssl is required at all,” Togami said. “Bitcoin Core needs to seeds its own RNG pool with entropy from a variety of sources, currently including Openssl as one of those sources.”
+
+Core Developers Likely to Remove BIP70 for Good in Version 0.20
+
+Just like the 1MB block size limit, skeptics who believe the BIP70 removal was done simply for virtue signaling think the removal just makes BTC development even more incompatible with the industry’s needs. The extraction from version 0.19.0 means BTC users who want to pay a BIP70 invoice will have to resort to changing the Core client’s default settings. Or choose to use another BIP70 compatible wallet like the Bitcoin.com Wallet or BRD wallet. With the number of Core supporters approving the default settings removal of the payment protocol in such a fast manner, it’s very likely BIP70 will be removed for good in version 0.20, which is sure to spark further debate.
+
+What do you think about Core developers removing the BIP70 payment protocol from the client’s default settings? What do you think about them fully removing support in version 0.20? Let us know what you think about this subject in the comments section below.
+
+Image credits: Github, Shutterstock, Twitter, and Pixabay.
+
+Did you know you can verify any unconfirmed Bitcoin transaction with our Bitcoin Block Explorer tool? Simply complete a Bitcoin address search to view it on the blockchain. Plus, visit our Bitcoin Charts to see what’s happening in the industry.

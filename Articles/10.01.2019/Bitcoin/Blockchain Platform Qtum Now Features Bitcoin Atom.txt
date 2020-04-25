@@ -1,0 +1,39 @@
+DATE:  10.01.2019, 14:11:07
+TITLE: Blockchain Platform Qtum Now Features Bitcoin Atomic Swaps on Mainnet
+URL:   https://www.investinblockchain.com/qtum-features-bitcoin-atomic-swaps/
+
+Blockchain Platform Qtum Now Features Bitcoin Atomic Swaps on Mainnet
+
+Qtum, a decentralized blockchain platform that bridges Ethereum’s smart contracts on top of Bitcoin’s blockchain to provide a unique hybrid of the 2 cryptocurrencies, has introduced Bitcoin (BTC) atomic swaps to its mainnet infrastructure.
+
+Qtum released an in-depth blog post on the matter detailing the technicalities and processes of an atomic cross-chain swap between QTUM and Bitcoin.
+
+What Are Atomic Swaps?
+
+Atomic swaps are a method of exchanging cryptocurrencies peer-to-peer (P2P), from one party to another without going through a third-party service like a cryptocurrency exchange. Atomic swaps have the potential to completely revolutionize the value transfer system in cryptocurrency.
+
+If atomic swaps prove to be a viable solution to exchanging cryptocurrencies, people will be able to exchange one token for another, directly from their cryptocurrency wallets. The idea of atomic swaps is very popular because exchanging cryptos via centralized exchanges makes them susceptible to hacks, mismanagement, volume demands, government regulation, and so on. Atomic swaps are a way of bypassing all of that.
+
+The technology behind atomic swaps is very complicated and has been in development by various people since as early as 2012. In Qtum’s case, the QTUM-to-BTC atomic swaps are made possible with the use of Hash Time-Locked Contracts (HTLCs) technology.
+
+This HTLC technology is adapted from the code base of the open-source cryptocurrency Decred. According to Qtum, this is the most secure way of implementing atomic swaps.
+
+More From Qtum
+
+In addition to introducing Bitcoin atomic swaps, Qtum has also announced plans to release “0 Value UTXOs.” This implementation would allow users who don’t hold QTUM to interact with Qtum dapps and smart contracts while a third party pays the fee.
+
+This will be an important feature to Qtum, as it will make the Qtum blockchain and smart contracts far more accessible to users and provide more use cases for businesses utilizing Qtum’s blockchain technology.
+
+In Qtum’s blog post on the matter, they provide an example of why “0 Value UTXOs” are important:
+
+“For example, an organization that distributes a form of ID can do so without forcing users to own Qtum by paying the transaction fees themselves. The user would still be the owner of the ID as in said transaction they would still be the message sender.”
+
+Conclusion
+
+Qtum is an interesting cryptocurrency and blockchain platform, as it is very versatile in what it’s striving to accomplish. For instance, like Ethereum, Qtum is a cryptocurrency platform that supports smart contracts and decentralized applications (dapps). However, the difference between the 2 is that Qtum uses the Unspent Transaction Output (UTXO), which reportedly enables more lightweight smart contract interactions. Also, Qtum is working to support atomic cross-chain swaps.
+
+All in all, Qtum is a promising cryptocurrency and blockchain platform, to say the least. It will be interesting to see how the project develops, especially on the atomic swaps front.
+
+At the time of writing, QTUM is trading at $2.45, which is a more-than 11% increase from the start of the year, where it stood at $2.16. QTUM is currently ranked 27 with a market cap of $218,325,862 USD.
+
+Do you think Qtum’s atomic swaps will be widely adopted? Will people stop using crypto exchanges if atomic swaps are a success? Let us know what you think in the comment section below.

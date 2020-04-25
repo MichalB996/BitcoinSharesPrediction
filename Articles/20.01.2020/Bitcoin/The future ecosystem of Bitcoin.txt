@@ -1,0 +1,61 @@
+DATE:  20.01.2020, 08:00:08
+TITLE: The future ecosystem of Bitcoin
+URL:   https://coingeek.com/the-future-ecosystem-of-bitcoin/
+
+One of the little understood aspects of Bitcoin SV is the mistaken belief that nodes on the network are all supposed to do the same thing. This incorrect assumption was brought about by those who mistakenly believed that Bitcoin was created as a socialist system where all participants are equal, and therefore protocol specifications must cater to the lowest common denominator. Somehow then, (though you would be hard pressed to find anyone in this group to explain exactly how) decentralization is achieved through this. I hope that it is intuitively clear that this is not something that is supported by reality. If you would permit a geeky reference for a moment, in rocketry it is much like the vaulted aerospike rocket engines vs traditional bell shaped ones, things that look great on paper, but fail horribly in practice. This is one of them.
+
+All nodes will eventually specialize
+
+Today the ecosystem of Bitcoin is simply comprised of three loose groups: Miners, who collectively produce new blocks; Users, who use the platform; and the Business/Merchant Nodes, who run infrastructure services or applications on the platform which depend on the network.
+
+The shape of things to come…
+
+Before we can talk about the node types, we first need to understand the shape of the network, which affects the nature of the ecosystem in Bitcoin, keeping in mind that this is a structure which evolves naturally due to economic forces and not enforced or administered by a central authority. Bitcoin theorists and BTC maximalists like to tell people that the network looks something like the decentralized or distributed mesh as depicted below, but that is pure fiction.
+
+And interestingly, even if it did look like any of the above topologies, it would still not be resilient, as each of the above structures has a weakness. The centralized structure has the weakness of the centre node being the one point of attack. If that node were taken out, or its performance significantly affected in a large scale DDoS attack, then it would affect the service to all users, the periphery nodes connected to it. This weakness is the obvious one that BTC advocates are quick to state that Bitcoin purportedly solves.
+
+Unfortunately for them, the other two have their own flaws as well. The decentralized network, is a bit more robust than the centralized one, namely that you would need to attack more than one node to affect the connectivity of the network as a whole, but this comes at the cost of loss of administrative control and fee revenue, versus those that the centralized topology afforded. Put another way, it is a network where it is difficult to properly incentivize the group of central hub servers to participate and maintain service for their users.
+
+Lightning Networks is famously trying to build out a network topology of this sort, with large exchanges acting as central hub liquidity pools, unfortunately it seems that in practice the fee revenues aren’t lucrative enough to justify the locking up of the massive capital required to operate a large hub. Worse still, the result of LN getting greater adoption means less on-chain transactions, meaning even less fee revenue for BTC miners, making it even more likely that they will eventually abandon mining BTC for lack of profitability. Put another way the central hubs of LN are vampiric leeches that parasitically take fee revenue from miners in a zero sum game, requiring either more fees to be paid by users or less miners supporting the infrastructure of the network.
+
+Finally, the last topology, the distributed one is the theoretical network architects’ ‘pipe dream.’ Though it presents the best robustness to node failure compared to the other two, it achieves this by giving up a very important feature necessary for a global system, scalability. While mesh networks can be robust, it cannot support the speed and latency required for a global payment system.
+
+Thankfully, none of those network models is what Bitcoin was designed to be. Nor what it currently is (in either BTC BCH or BSV forms).
+
+Bitcoin is a highly connected layered Mandala network
+
+Dr. Craig Wright has mentioned on several occasions that the system was designed as a highly connected layered Mandala network, with each layer providing services to the layer outside. A Mandala network is an extremely robust network topology which is resilient to damage and markedly is much more robust against partitioning (part of the network being isolated from another due to individual node outages) even more so than the decentralized or mesh networks. It also has none of their flaws.
+
+One of the mandala network’s signature characteristics is that every node is connected to any other node by the minimal distance in hops. This ensures that any node can reach any other in the minimum amount of time. This feature mirrors the benefit of the decentralized topology, and can approach the efficiency of the centralized topology in this regard.
+
+Furthermore, it is more robust against partitioning than the mesh network, because not only is every node at the periphery connected to its neighbors, it is also connected to multiple nodes closer to the core, and those in turn are connected to mostly all other core nodes. It is a tiered system, where the core nodes (the miners) are the ones that are the best connected and have the highest bandwidth, and are incentivized to maintain this maximal connectivity.
+
+Bitcoin’s innovation is that it doesn’t suffer the issue of how to incentivize the core nodes in a decentralized network to maintain the network. This is because Bitcoin rewards those nodes, by way of network fees… mining fees. So as the transactional volume grows, more transactions are created, (even if each are only at fractions of a cent) and they add up to compensate the core nodes, aka, miners, to maintain and grow their infrastructure to support the network and to maintain the performance level no matter the size of the network. It works because the larger the blocks the network can support the more transactional volume can be generated to fund the infrastructure of the network in a virtuous growth cycle.
+
+Source: NCBI
+
+a) Mandala network with parameters b=2, n1=3 and L=2
+
+b) with parameters b=4, n1=4, L=2
+
+In the figure above, you can think of the miners in Bitcoin to be the nodes in the center, which are tightly connected with each other, service full nodes such as wallet nodes and exchanges are the center middle ring, and finally the regular wallet users at periphery.
+
+This basically breaks down the network into 3 main participants: miners, businesses, and users. Their primary functions can be most easily conceptualized by the simple breakdown of functions below:
+
+Objectives Technology Miners To generate revenue from collecting transactions fees by generating blocks Full Validation nodes Hash power Stores the entire blockchain history Merchant/Businesses To generate revenue by providing goods/services Full Validation nodes (holds a mempool) Prevents Double spending, but need not store the whole blockchain Users To be able to use the system as an immutable payment/data/timestamped ledger of truth SPV Simply stores its own outputs which it can spend, and the Merkle Paths to each
+
+Presently, miners have already specialized into pool operators and hashing farms. Those long in Bitcoin will remember back in 2013 when pundits were saying that the splitting up of miners into ASIC hashing units run in data centers from validating nodes would mean the end of Bitcoin. They were proven empirically wrong. In fact, to this day, there are still some altcoins that insist on being “ASIC-resistant” all under the same misguided idea that mining should not specialize because we should cater to the lowest common denominator, the famous “Raspberry Pi” node.
+
+These projects don’t have much of a following any more, the economics of reality have shown their fears to be misplaced. The hashing farms are the data centers situated near cheap abundant power, and produce Proof of Work (hashes), and the mining pool is the core nodes that use those PoWs to create and broadcast the blocks.
+
+The pool operates very much like an internet ISP, who’s profitability is directly related to how fast they can propagate the blocks that they find. It is the pool operator that, because they validate all transactions they add to their block candidates, prevent double spending by simply rejecting any second attempt at spending the same coins.
+
+Bitcoin SV, being the first Bitcoin to go back to the economic incentive model which was intended to drive Bitcoin to global scale is expected to see even more specialization in terms of network node roles in the decades to come. Like the evolution of ALOHAnet into Ethernet, a simple, uncoordinated network protocol which eschewed all of the conventional wisdom of network protocols of the time, and ended up usurping and subsuming all other competing networking technologies, Bitcoin SV is just getting started, and we can’t even begin to imagine what innovations may come from the ecosystem in the years ahead.
+
+But I can offer a glimpse of what I predict the broad categories of nodes will look like in the future, and the businesses that they will pioneer.
+
+Miners Businesses Users Hashers Txn Validators (M-nodes) Wallet Services Block Builders Applications Payment users Txn Validators Archival Metanet Data Storage
+
+In the next part of this article series, I will go over these node categories in more detail and explain their functions and examine their revenue models.
+
+New to Bitcoin? Check out CoinGeek’s Bitcoin for Beginners section, the ultimate resource guide to learn more about Bitcoin—as originally envisioned by Satoshi Nakamoto—and blockchain.

@@ -1,0 +1,31 @@
+DATE:  14.01.2019, 14:50:38
+TITLE: How to Generate a Bitcoin Address With Your Own Name
+URL:   https://news.bitcoin.com/how-to-generate-a-bitcoin-vanity-address/
+
+How to Generate a Bitcoin Address With Your Own Name
+
+You don’t have to be vain to want a vanity address. A bitcoin vanity address is the crypto equivalent of a personalized license plate, with a portion of its 26-35 alphanumeric characters closely mirroring the name of the wallet’s owner. For fundraising, collecting tips or soliciting donations, having a bitcoin address that’s synonymous with its owner can be advantageous, despite the privacy trade-off this entails.
+
+Also read: Newspaper Ad Seeks Donations for Bitcoin Baby’s College Fund
+
+Why You Might Want a Vanity Address
+
+If you’ve been involved with Bitcoin for a while, you’ve likely encountered a vanity address at some stage. While perusing a blockchain explorer and inspecting the outputs for a particular transaction, for example, you may have spotted an address whose combination of characters looks to be more than just a coincidence. In a report on the U.S. government “blacklisting” bitcoin addresses, for example, news.Bitcoin.com noted some of the addresses that had been sending funds to one Iranian-controlled BTC account:
+
+A vanity address was also used by the couple who placed an ad in The Times seeking to raise college funds for their “bitcoin baby.” Week-old Izabella’s bitcoin address starts with the characters “1ZAB5Xe.” For anyone wishing to follow suit, there are a number of third-party solutions that will help create a personalized address including Vanitygen and, for BCH users, Vanitygen Cash. Caution should be exercised when using third party code, however, particularly with services whose Github repository hasn’t been updated in years.
+
+How Vanity Addresses Are Created
+
+Services such as Vanitygen are designed to search for exact prefixes or expression matches. The search initiated for a matching public key is probabilistic, and thus the longer the name desired, the longer it will take your computer to hash an address that meets the criteria. Vanitygen first appeared in 2011 in a Bitcointalk forum thread, and thus is almost as old as Bitcoin itself.
+
+For anyone interested in playing about with vanity address creation, there are various internet forums and threads dedicated to the topic. It’s possible, for example, to create a bitcoin address containing only numbers and uppercase characters. If you lack the computational power to generate your own vanity address, a service such as Vanity Pool will do the honors, with the fee starting at 0.01 BTC for 1-6 characters, but rising significantly after that due to the increased processing power required. As the Vanitygen wiki page explains, it would take approximately a week to compute a vanity address that began with the characters “1Bitcoin” whereas an address starting with the characters “1BitcoinEat” would take an estimated 3,500 years.
+
+From a security perspective, the safest way to create a vanity address is to do it yourself on your own computer, though this may not be possible if you’re seeking a larger pattern that’s computationally intensive. The next safest option is probably to use a service such as Vante.me, which uses split-key address generation. The biggest drawback to creating and using a vanity address, of course, is that it’s a poor practice from a privacy perspective. If you do choose to use one, it’s wise to periodically send funds to a separate address that you control, for privacy and security reasons. Despite their drawbacks, a vanity address can prove a nice touch for anyone willing to publicize their bitcoin address and be permanently associated with it.
+
+What are your thoughts on vanity addresses? Let us know in the comments section below.
+
+Images courtesy of Shutterstock.
+
+Disclaimer: Bitcoin.com does not endorse nor support these products/services.
+
+Readers should do their own due diligence before taking any actions related to the mentioned companies or any of their affiliates or services. Bitcoin.com is not responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

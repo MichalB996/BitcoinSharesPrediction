@@ -1,0 +1,113 @@
+DATE:  12.08.2019, 11:00:57
+TITLE: Why FedNow Will Slow Real-Time Payments
+URL:   https://www.pymnts.com/news/payments-innovation/2019/why-fednow-will-slow-real-time-payments/
+
+I’m from the government and I’m here to make sure you get your paychecks faster – even instantly…
+
+…if you can just hang in there until about 2024.
+
+That’s the talk track now from the Fed, which a week ago today announced its plans to build and operate a new set of real-time rails, using accelerated access to employer paychecks as its launch use case.
+
+It’s a move that presidential hopefuls and lawmakers fully and publicly applaud. But for the Fed and its rails, they say, employees will be resigned to the bad old days of antiquated payroll systems that force them to live paycheck to paycheck, and at great financial risk.
+
+It’s a pretty bold claim.
+
+It’s also not why the Fed decided to enter the real-time payments fray.
+
+The Real-Time Payday Reality
+
+“Ever notice your paycheck takes days to clear?” Senator Elizabeth Warren asks in a campaign ad, ignoring the fact that 93 percent of working Americans have their checks directly deposited into their bank accounts – ready for use on payday – using the ACH network.
+
+Employers schedule payroll a day or two in advance with their payroll providers so that employees can access and use those funds on payday. For most people, it has been a long time since they received a paper check that had to be deposited at the bank.
+
+Ironically, perhaps, the ACH network’s first direct deposit use case was the U.S. Air Force payroll, at the behest of the federal government in 1974. The pain point was giving paper checks to personnel who were always on the move. Direct deposit over the ACH network eliminated that friction and got them earlier access to those funds.
+
+Fast-forward four decades, and everyone – FIs, ACH operators, FinTechs – have been working overtime to get payroll off the paper check and to get wages into workers’ bank accounts faster.
+
+Prepaid payroll cards were introduced decades ago as a paper check alternative for the unbanked and underbanked worker.
+
+Over the last several years, an army of innovators with billions in venture funding have built instant pay products on top of card network debit rails. Today, Uber and Lyft drivers and a host of gig workers get instant payouts into their checking accounts, onto prepaid debit cards or into their digital wallets – a choice powered by instant money networks.
+
+Walmart introduced a program 18 months ago that gives any of their millions of workers access to their wages as earned, subject to limits for their own financial protection.
+
+Same-Day ACH, launched in September of 2017, makes emergency payroll possible — not instantly, but within the same business day.
+
+For the dwindling numbers of people who still receive a physical paycheck, new applications let workers take a picture of that check and get instant, irrevocable access to the funds for a modest fee.
+
+Innovations using card network debit rails, AI and machine learning are even democratizing pay advances for workers with a steady income and employment history. For those innovators and the workers they benefit, early is the new instant, further reducing the stress of paycheck-to-paycheck cash flow management for millions of workers who can now get paid before fully completing their assignments.
+
+Payroll solutions providers are also using new business models, mostly targeting SMBs and their workers, that give employees access to wages in real time, without forcing employers to change how they schedule and fund payroll.
+
+So, by the time 2024 rolls around a half-decade from now, it’s plausible that we might be able to stick a fork in the notion of faster – and even instant – payday innovations on a large scale.
+
+Existing infrastructure that enables these innovations is cheap, secure and efficient – and ubiquitous for innovators who want to launch those products as well as the corporates that want to use them. The combination of employee/employer demand for innovations in this area and innovators with the vision to build products on top of those cheap networks will only continue to create solutions that close the paycheck-to-paycheck funds gap for workers – whether they are working full-time or gig-time.
+
+Now, not five years from now.
+
+The Fed’s Not-so-Fast Ambitions
+
+The Fed has kept a lot of details about its real-time ambitions close to the vest. We still don’t have answers to some important questions.
+
+Such as how the Fed plans get a critical mass of participants on board, which The Clearing House (TCH) is struggling to do now. Igniting a network at scale and right out of the box can be a real pain, as the litany of failed payments startups knows all too well.
+
+FedNow is positioned as a competitor to the private systems, with TCH as its only real-time domestic account-to-account competitor, but it also competes with cards and ACH. Without requiring all 12,000+ banks to connect to it, it will be hard to convince banks and innovators to develop products that ride those rails.
+
+And it’s unclear whether the Fed will have different requirements for how FinTechs can connect to it. It seems that the Fed and the OCC will have to put their heads together to determine if or how FinTechs will be allowed to connect to the Fed while maintaining the health and stability of the U.S. financial system.
+
+And how much will it cost anyone, especially the FIs, for all the IT infrastructure they will need to connect to it? Assuming, of course, that they still have a choice in 2024 to connect to it or not. Still, they will need to weigh the cost of all that work against the upsides of FedNow.
+
+Much later.
+
+What we do know is that it’s been tough to get support for banks to invest in new, real-time clearing and settlement infrastructure.
+
+Banks – or any enterprises – invest in infrastructure if there is a reason to upgrade those systems. Banks have to believe that the use cases built on top of the new set of rails will be compelling enough – and unique and immediate enough – to monetize, not cannibalize, existing payments flows.
+
+Banks also know that unless such a network is ubiquitous, it’s not worth much.
+
+Just ask the folks at Zelle, whose P2P network via their bank accounts is really awesome if the sender’s and receiver’s banks are connected to the network – and not so awesome if they’re not. NACHA had this problem cracked when it launched Same-Day ACH, because its members all agreed to support it. As a result, Same-Day ACH volume has jumped dramatically in support of use cases for which faster access to funds are necessary: emergency and ad-hoc payments, including bill pay.
+
+Even if FedNow launches in 2024, it is hard to know how quickly it will reach the ubiquity necessary for a real-time money-moving system.
+
+Slowing Innovation
+
+The TCH experience shows the difficulty of reaching critical mass for something that can happen in real time when so many existing systems are already moving money faster – and, in some cases, instantly.
+
+TCH cleared its first RTP transaction on November 14, 2017. Since then, it has gotten 11 of its 26 member banks on board, which it claims represents some 51 percent of deposits in the U.S. They also expect they will have nearly all banks on board by the end of 2020. But a handful of the 12,000 FIs and 51 percent of deposits does not a real-time payments network make.
+
+TCH has also worked with FIs to make it easier for them to get on board – but they still have to invest and connect. A few of them already have – but almost two years later, it isn’t clear whether any of this has led to much RTP activity.
+
+The Fed’s announcement will only make their network harder to ignite and scale – and TCH has every reason to be very nervous about the Fed’s plans.
+
+The banks that had already decided to take a wait-and-see approach may now really wait and see. The FedNow announcement injects a lot of uncertainty into how RTP will evolve in the U.S. Banks might kick the can down the road to 2023 or 2024, when more will be known about the Fed’s system, such as whether they will have to make further investments in infrastructure and the cost of dealing with FedNow rather than TCH.
+
+Without the prospect of a new real-time payments network (or ubiquity anytime soon), banks and innovators will be less likely to build applications to run on top of them.
+
+Corporates, who already have been diagnosed with an acute case of B2B payments inertia, will wave it off until the payments ecosystem figures it out.
+
+TCH and its real-time payments plans could very well stall – or at least make it harder for TCH to push the ball up the hill.
+
+When ‘Now’ Doesn’t Mean Five Years From Now
+
+Meanwhile, the incumbent networks that are already moving and shaking payments without all the friction of building new rails and bank connections will double down – as will the innovators who are doing interesting things to make faster become even faster, including real-time.
+
+Payroll isn’t the only use case that innovators leverage in today’s existing networks to move money faster between people and businesses – which in many cases also means real-time.
+
+Insurance companies are early adopters of using technology to push claims payments to debit cards for real-time use, as well as digital wallets like PayPal. Some processors are using debit rails to enable instant settlement for merchants. Consumers can use push to debit or P2P via their Zelle accounts to move money instantly between them.
+
+There is any number of use cases, many of which you’ll see soon, that will leverage these existing rails to accelerate access to funds for people and even businesses, and to give them options for receiving their money now – or just plain faster than it was available before.
+
+FedNow, of course, isn’t NOW at all – it is FedWAIT5YEARS.
+
+And in payments, five years is a lifetime.
+
+Think about the world five years ago, in 2014, and how quickly innovations have moved in payments, retail and commerce. Given the investments and integrations made to and from existing infrastructure to move money faster over the five years – all intended to give consumers and businesses a better, faster and more secure experience in moving money between parties – the next five years will likely see the pace of innovation accelerate even more rapidly. Existing networks will boost their own capabilities, and their ubiquity will only attract more innovators and use cases to build on top of them.
+
+It’s not that a new set of real-time rails from the Fed won’t be too late five years from now – they just might not be all that relevant.
+
+As they say, time waits for no one, not even the Fed.
+
+Perhaps the great irony of the Fed’s interest in wanting to innovate the rails that clear and settle funds between bank accounts today is that it could bring investments in real-time networks to a screeching halt.
+
+I worry that the Fed has actually done a disservice to the payments industry. By announcing FedNow now but with a launch date of 2024, the Fed may slow down efforts, TCH’s in particular, to get RTP rails off the ground, as well as innovators’ investments in apps for it.
+
+The payments ecosystem absolutely needs competition for enabling the clearing and settling of funds, faster and even in real time. And maybe it does even need a second set of RTP clearing and settlement rails to do that. Maybe that’s the Fed, or maybe that’s someone else. Either way, it would be even better for the market to decide how real-time really happens in the U.S. – which would actually give all of us a chance to learn what businesses and consumers want from an RTP system that they can’t get today.

@@ -1,0 +1,93 @@
+DATE:  07.04.2020, 08:00:00
+TITLE: Schnoor/Taproot Could Improve Bitcoin Privacy and Scaling
+URL:   https://www.coindesk.com/bitcoins-future-exactly-how-a-coming-upgrade-could-improve-privacy-and-scaling
+
+If the privacy and scaling upgrade Schnorr/Taproot makes it into bitcoin (BTC), it could pave the way for advanced and heretofore impossible projects. That is, as they say, good for bitcoin.
+
+Schnorr/Taproot has made a great deal of progress recently, moving from a theoretical privacy and scaling idea into actual code. But while the community is very excited about its future, the change is rather confusing. Why? Because it bundles together several different technologies proposed over the years and each one is technically and conceptually unique.
+
+First, there are Merklized Abstract Syntax Trees (MASTs), a smart contract technology developers have been talking about since 2013. Then we add Schnorr signatures, a scaling change first proposed in 2015 by Pieter Wuille, and finally Taproot, a privacy technology built on top of both, proposed in 2018 by Greg Maxwell.
+
+Privacy and scaling are two things bitcoin still lacks. But as badly as these changes are needed, massive updates like this one are hard and, as such, are few and far between in bitcoin.
+
+One thorny issue is simply deciding what would go into the upgrade.
+
+"I think the biggest struggle in the process was to come up with the exact set of features to deploy at the same time," Blockstream researcher Tim Ruffing told CoinDesk.
+
+Here's a rundown of what changes made the cut, and what didn't.
+
+How big is this update?
+
+First, we must remember this update is helpful but it's not a magic pill that instantly morphs bitcoin into a super-scalable and private currency, as experts debated on Twitter recently.
+
+"It's the right thing to do these improvements but they won't suddenly make bitcoin a private currency," Ruffing said.
+
+There will be some clear improvements. First, more complex types of transactions will be easier to use. In the most typical transaction, one person "signs" a transaction, proving he or she owns the bitcoin and can send it. "Multi-signature" (multi-sig) transactions, on the other hand, require more than one person to sign a transaction. This update will make it easier for multi-sig users.
+
+"It's likely that more wallets will support multi-sig because it's cheaper and more private with BIP-taproot," Blockstream researcher Jonas Nick told CoinDesk.
+
+Multi-signature has many important use cases. First, the multi-sig dependent lightning network could potentially speed up and scale payments for bitcoin, solving massive issues with the digital currency. If lightning proves to be the future of bitcoin, this improvement could have a large impact by making these transactions smaller in size and cheaper to process.
+
+See also: P2P Exchange Hodl Hodl Takes First Step in Bringing Private Bitcoin Trades to BlueWallet Users
+
+Further, multi-sig transactions using the new technology will look the same as normal transactions. So even though the bitcoin blockchain is public and anyone can easily look up a particular transaction, with this technology viewers will have no idea that these transactions actually represent lightning channels.
+
+"Lightning channel openings and cooperatives are indistinguishable on the blockchain from normal payments. This also means that opening a lightning channel is just as expensive as a normal payment," Nick said.
+
+Finally, the change would pave the way for other improvements that weren't possible before. One such possible next step is the addition of "cross-input aggregation," another way of scaling bitcoin by as much as 25 to 30 percent.
+
+Schnorr for more efficient signatures
+
+Understanding these upgrades requires some understanding of how bitcoin works. Only with the right "private key" (like an access code) can someone "sign" a transaction, thereby sending bitcoin to someone else. This process produces a "signature" that is attached to the transaction. The beauty is that anyone in the world can verify that this signature was produced by the right key
+
+We touched on a more complicated version of this, multi-signature transactions, where more than one person is required to sign a transaction. When such a transaction is signed using ECDSA (bitcoin's current signature algorithm), it produces a separate signature for each person.
+
+But this might be unnecessary. With the help of Schnorr signatures, it is possible to squash all of this data into a single signature using key aggregation.
+
+The biggest struggle in the process was to come up with the exact set of features to deploy at the same time.
+
+This makes the special type of bitcoin transaction smaller in size -- to the tune of 30 to 75 percent, according to Bitcoin Optech, an organization that helps bitcoin businesses adopt new scaling technologies like Schnorr/Taproot.
+
+These sorts of scaling technologies are important because downloading the full bitcoin blockchain is the most secure and trust-minimizing way of using bitcoin. But that process requires more than 300 gigabytes of storage space.
+
+Schnorr signatures also allow for something called "batch validation," making it possible to verify that multiple signatures are valid, saving time.
+
+But just as important is what this upgrade leaves out in terms of Schnorr.
+
+Developers have long proposed using "cross-input signature aggregation" to build Schnorr signatures into bitcoin transactions. Usually, each transaction requires more than one signature, one for each "input," which is roughly equivalent to one bill out of a handful of them passed over to a cashier.
+
+But what if we could squash all these signatures for every transaction together?
+
+Schnorr signatures theoretically allow for this. But this feature will have to wait for another time, as developers are still working through some security problems with adding this to bitcoin. Though with Schnorr added as a signature option in bitcoin, this kind of functionality will be one step closer.
+
+"This could be done in a future upgrade," Ruffing said.
+
+MASTs: better smart contracts
+
+Merkelized Abstract Syntax Trees (MASTs) aren't in the name of the upcoming bitcoin upgrade, but it's still a cool technology that developers have been talking about for a long time.
+
+MASTs improve smart contracts in bitcoin, making it easier for users to set more complicated conditions for a transaction.
+
+Think back to the multi-signature option we talked about earlier, where two people instead of just one need to sign a transaction. Then imagine a situation in which you want to say a bitcoin can't be retrieved until after a certain date. A user might want to combine these conditions at once. That's where MASTs come in.
+
+Right now, when one of these scripts is "redeemed" the full script is squashed into a transaction, taking up a lot of room and showing the whole world what conditions the user used to lock up the bitcoin.
+
+MASTs arrange these conditions in a new way that looks like a tree. Each branch of the tree holds a different condition a user could meet to spend the bitcoin. Then, only a hash of the tip of the tree is included in the bitcoin blockchain instead of all the script conditions.
+
+This is more private because only the script used will hit the blockchain. All in all, MASTs make it much easier and cheaper to lock up bitcoin with these more complicated rulesets.
+
+Taproot gives a privacy boost
+
+Taproot builds on MASTs and Schnorr to create smart contracts with better privacy.
+
+Generally, right now, transactions with complex scripts using MAST would really stand out on the blockchain. Even if MAST itself is more privacy-preserving, the format is a bit different for these transactions so it's easy to tell if someone is using a script or not.
+
+Using the magic of signature aggregation Schnorr provides, Taproot would make these transactions look just like normal transactions.
+
+But it doesn't work for every MAST contract, only for cooperative spends, where one branch of the Merkle tree is a multi-sig transaction, which is successfully used. If any of the other branches are used, then this privacy benefit disappears.
+
+That said, developers expect the cooperative spend use case will be the most common use.
+
+Then there's Tapscript, which could make it easier to make further improvements to the scripts we've talked about in the future. "While the BIP-tapscript changes don't immediately benefit the average bitcoin user, they are designed to make updates to the script system easier in the future," Nick said.
+
+Right now, developers are battle testing this bundle of new technologies. So far no major problems have been found, but developers are making it the best they can before they try to add it to bitcoin with a soft fork.

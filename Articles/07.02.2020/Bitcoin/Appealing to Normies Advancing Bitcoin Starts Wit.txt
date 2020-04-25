@@ -1,0 +1,67 @@
+DATE:  07.02.2020, 19:50:04
+TITLE: Appealing to Normies: Advancing Bitcoin Starts With Better UX
+URL:   https://www.coindesk.com/appealing-to-normies-advancing-bitcoin-starts-with-better-ux
+
+Why isn't the average person into bitcoin?
+
+That was the question posed by Blockstream's Selene Jin at the Advancing Bitcoin conference in London on Thursday, in a room with some of the most hardcore bitcoiners on the planet.
+
+Jin pointed out that bitcoiners on Twitter tend to argue that: "Normies don't understand money, have no long-term vision or the ability to think outside the box."
+
+But she has a different opinion of what's holding back broader adoption. More "normies" might use bitcoin if the user experience (UX) was better, if – in Silicon Valley tech speak – they were "delighted" to use the apps and felt "empowered" by them, she argued.
+
+Jin's comments at the two-day event spoke to the difficulty of moving the needle on crypto adoption, even with 11 years under bitcoin's belt.
+
+"Bitcoin UX improved a lot [over the years]. But there are ways we can improve that to push bitcoin even further," Jin, Blockstream's director of UX, said. She argued that most developers try to build an app with the features they want themselves, which isn't necessarily what the average Joe is looking for.
+
+UX is often overlooked in bitcoin's often very technical community. Jin argued that bitcoiners are fascinated by the new currency for a variety of reasons: monetary revolution, technological exploration and getting rich. (She's in it for all three, she said.)
+
+"I'm trying to help fix the user experience here because if we don't do that, these three things can't happen," Jin said.
+
+Less-confusing bitcoin accounts
+
+With the halving around the corner, it could be a particularly good time to focus on improving bitcoin's user experience.
+
+If the price goes up (which is still a big "if" that people are debating profusely), it could bring in a lot of new users, as is the pattern for bitcoin over the past decade.
+
+"Think of it like 'Hungry Hungry Hippos,'" Coinfloor exchange founder and CEO Obi Nwosu said in a panel, referencing the 1980s children's game. "When it comes, each exchange will be trying to get as many customers as possible. We need a service that deals with their requirements," he added, nodding to Jin's talk.
+
+One little-known proposal discussed at the event was to make memorizing bitcoin addresses as easy as memorizing a phone number.
+
+Right now that's far from the case. Instead of being fewer than 10 digits, bitcoin addresses, where bitcoin is stored and transaction IDs are long, random strings of letters and numbers.
+
+"There is no way anyone can memorize it – unless you're someone who memorizes digits of pi for fun. These IDs are always communicated by copy and paste," bitcoin developer and educator Jimmy Song said.
+
+That's why, when he saw a proposal for EasyPaySy posted to the bitcoin developer email list, he was intrigued. EasyPaySy allows these accounts to be represented in a much easier form, as short and human-readable as a phone number or as readable as an email address.
+
+This approach isn't without downsides.
+
+It would require more data to be stored on the bitcoin blockchain (the more slimmed down, the easier it is for more users to run). Plus, users potentially have to spend more time backing up such accounts. One attendee argued that the debacle involving economist and bitcoin critic Peter Schiff recently "losing his bitcoin password" showed that taking care of one's bitcoin is already hard enough as is for many people.
+
+Still, Song argued that the benefits might outweigh the disadvantages.
+
+Attendees of 2020's Advancing Bitcoin conference. (Photo by Alyssa Hertig for CoinDesk)
+
+From the bottom up
+
+But user-facing improvements aren't the only changes being considered. Many UX improvements start at the lowest levels of the bitcoin code.
+
+The faster developers can build new features, the faster they can bubble up to users. This realm of UX problems was probably the biggest focus of Advancing Bitcoin.
+
+One such improvement revolves around "testnet," a network that's like a dummy clone of bitcoin where developers test their apps and new bitcoin features to get a better idea of how they'll work in the real world.
+
+Bitcoin Core contributor Kalle Alm has been building SigNet, an alternative that he describes as "testnet, but without all the broken parts." The network is notoriously unreliable and "reorgs" all the time, an event where transactions that were considered legit for a short time, aren't anymore. This bump is much less common on the real bitcoin network.
+
+Plus, there are people mining testnet coins and earning no money from it, since the mined dummy coins are supposed to be free. Alm argues there isn't a point to this, since decentralization, achieved with the help of mining, isn't really required on testnet.
+
+"I don't even know what [testnet miners] are doing. No government is gonna come in and say, 'Give me the test coins!'" Alm said.
+
+With these problems fixed, Alm thinks SigNet could play a big role in testing network-wide features added to bitcoin. For example, developers could soon use it to test Schnorr and Taproot, a privacy and scalability-focused bundle of changes that's been making progress this year.
+
+But SigNet is just the tip of the iceberg. New bitcoin smart contract language Miniscript, unveiled last year, was the subject of several talks at the conference. Smart contracts require various conditions to be met in order to unlock and send funds, such as not allowing bitcoins to be sent up until a certain day.
+
+Bitcoin's built-in smart contract language Script is notoriously difficult to use, but Miniscript makes it easier for more developers to give it a shot, with the potential of making these smart contracts more available for more users.
+
+Signage at 2020's Advancing Bitcoin conference in London. (Photo by Alyssa Hertig for CoinDesk)
+
+[Correction: The article has been updated to clarify that Jin was talking about the opinions of bitcoin Twitter users in her initial quote.]

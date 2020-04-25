@@ -1,0 +1,43 @@
+DATE:  01.02.2019, 16:00:00
+TITLE: Casa’s Lightning-Enabled Bitcoin Node Just Got a Browser Extension
+URL:   https://www.coindesk.com/casas-lightning-enabled-bitcoin-node-just-got-a-browser-extension
+
+Cryptocurrency custody startup Casa has just launched a browser extension for its lightning network-enabled bitcoin node.
+
+Now, users will be able to interact with their Casa Nodes – hardware devices that connect to and help validate the bitcoin blockchain – directly on any cryptocurrency website that boasts lightning network functionality.
+
+Lightning is a layer-two payments protocol running atop the bitcoin network to facilitate transactions at higher speeds and larger volumes. Some web-based applications such as Satoshi’s Place – a blockchain-based art sharing platform – leverage the lightning network as a more efficient means for users to make bitcoin payments.
+
+“The main thing right now if you’re using a Casa Node and your going … to any of these other [crypto] sites, you’re basically having to open a second browser tab to open the main Casa dashboard and enter in all the [payment] information somewhat manually,” Casa founder Jeremy Welch told CoinDesk.
+
+Starting today, Welch said that Casa will support the extension in two web browsers – Google Chrome and Firefox – by which users can control their Casa Node directly and enter in payment information more easily on websites that are lightning-network enabled.
+
+Having been built in “less than a month,” according to Welch, this product is just one of many anticipated in the first quarter of this year.
+
+“We’ve been pushing out a lot of code and one of the things that drives us is that fact that when we push products out and when we really put a lot of time into stuff, we know that people are going to get really engaged,” Welch explained. “We’ve got a lot more coming out this year. It’s just the beginning for 2019.”
+
+Outpacing expectations
+
+Indeed, describing the current phase of blockchain development more broadly as similar to the “early days of the internet,” Welch anticipates “there’s going to be a lot more lightning applications that are out there on the web.”
+
+And it’s not just Casa that’s working these types of tools to increase usability of the bitcoin lightning network.
+
+The new browser extension, Welch noted, couldn’t have been built without the help of Will O’Beirn – the founder of blockchain-based crowdfunding platform Grant.io and developer of a separate, standalone lightning browser extension called Joule.
+
+“[Joule] got quite a bit of attention I would say at the end of the year, early January and we were getting a bunch of requests [for browser extension] from customers,” said Welch. “We also had previously planned for it before and so we put these plans together and talked to Will.”
+
+As part of this push for increased collaboration, Casa announced yesterday it would be open-sourcing key features of the Casa Node.
+
+That move primarily revolved around improving product security, but also aims to extend creative license for people to “reuse, extend, and improve [product] code,” as stated in the firm’s anouncement.
+
+Welch said:
+
+“I would say everything [Casa] has built has been difficult. We’re pioneering new ground … [but] it’s a privilege to build for a community that really appreciates new products and that’s one of the things that’s driving us this year.”
+
+The Casa Node product in particular has seen a positive response from users since its release last year in October.
+
+While refraining from specifying exactly how many Casa Node products have been sold, Welch did reveal to CoinDesk that the number of orders Casa has received since then has “outpaced initial expectations.”
+
+“We had a small batch [of Casa Nodes] that went out end of October, a batch in November, and a batch in December. Those got much bigger, much quicker. We sold 100 in the first hour and we sold another 200 by the end of the first day,” he said.
+
+Casa CTO Jameson Lopp via CoinDesk archives

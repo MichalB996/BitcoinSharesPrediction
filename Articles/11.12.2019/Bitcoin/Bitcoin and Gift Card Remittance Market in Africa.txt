@@ -1,0 +1,69 @@
+DATE:  11.12.2019, 16:10:55
+TITLE: Bitcoin and Gift Card Remittance Market in Africa
+URL:   https://bitcoinmagazine.com/articles/bitcoin-and-gift-cards-are-powering-a-million-dollar-remittance-market-in-africa
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+It was my junior year of college when I had my formal introduction to Bitcoin. On that bright but brisk autumn day in 2015, my buddies and I ventured into the lone drug store in the parish-pump, truckstop town that accompanied my woodland-tucked university.
+
+Being one of the only convenience stores in town, most students and locals frequented this CVS for their typical pharmaceuticals or basic staples. My friend, though, had one item on his shopping list: a $50 Amazon gift card. He paid in cash, kept the receipt and we went on our way.
+
+The cashier that day had zero inkling that my friend was using the gift card to buy bitcoin — less still that he was using it to buy bitcoin to buy drugs on the dark web.
+
+Purchasing gift cards with cash and trading them for bitcoin has long been one of the most anonymous ways to purchase the cryptocurrency. When I was in college, it was also the way to buy drugs on the dark web. No other method was as surefire to mitigate the risk that the transaction would be traced back to you. At its core, gift cards-to-bitcoin trading was the only way to circumvent capital controls and transaction surveillance to interact with the internet’s black markets.
+
+Today, this is still the case, except the trading is happening at a larger scale and servicing a different (and much more important) market: remittances.
+
+The Paxful Effect
+
+Founded in 2015, Paxful has become a remittance hub for West Africans generally and Nigerians specifically. These payments are underpinned by gift cards, which, as data scientist Matt Ahlborg of the Bitcoin research project UsefulTulips details in a recent blog post, is two-thirds of Paxful’s USD volume.
+
+“It’s hard to tell [what percentage is remittances],” Paxful CEO, Ray Youssef, told Bitcoin Magazine. “Our users are very creative, especially people in Africa and Western Africa. A lot of the gift card trading is used for remittance.”
+
+Ahlborg dove into the complexities of the use case in his article “Paxful is the Most Important Bitcoin Company You Aren’t Paying Attention to.” It typically works like this: An African immigrant will purchase gift cards out of the country (typically from the U.S.) for cash; they will send a picture of this gift card and proof of purchase to a friend or family member back home; the recipient makes a trade on Paxful, selling the gift card (typically at a discount) for bitcoin; they then take this bitcoin and trade it for their local currency and transfer this into their bank account.
+
+There are specific rules of engagement and trade-offs, however. Typically, gift card purchasers want the cards to be paid for in cash and demand a copy of the receipt before initiating the trade. This is meant to reduce the risk of fraud, the same risk that makes gift cards trade at a discount.
+
+In his research, Ahlborg highlighted that Paxful has seen a steady uptick in volume throughout 2018 and 2019, while other Western exchanges have seen declining volume. This is likely because Paxful’s peer-to-peer model, which provides escrow services that allow users to directly trade cryptocurrencies, fiat and gift cards, accommodates edge cases that other exchanges do not.
+
+“Paxful is able to onboard financially disconnected citizens of developing countries on a level that non-P2P [over-the-counter] exchanges like Coinbase simply cannot,” Ahlborg wrote in the article, adding that “Paxful services trades in more than 70 currencies around the world and has made much of its traction in geographic regions that many bigger exchanges have not.”
+
+The Hustle
+
+And it has gained traction particularly in Nigeria. According to IP addresses logged from gift card trades, Ahlborg estimated that Nigerians account for “likely 50 percent or more” of Paxful users who trade gift cards. If this is true, that would mean that, of the roughly $65 million in gift card trades processed through Paxful in October 2019, $32.5 million of them came from Nigerians.
+
+Ahlborg’s research found that Ghana also stokes significant volume, something Youssef corroborated in our talk. Youssef, who sometimes works customer service and interfaces with traders directly, chalked the predominance of Nigerian users up to their “legendary hustle” and told Bitcoin Magazine that “pretty much all of Western Africa is following Nigeria’s lead at an increasing rate.” Every week, Paxful escrows roughly a quarter of a million trades for African users.
+
+The Nigerian people’s uncanny hustle may explain why they’re leading the charge among their peers. In his post, Ahlborg pointed to capital controls as being the main driver of gift card remittances. From 2017 to 2018, the government fixed the Nigerian naira’s exchange rate with foreign currencies and mandated that Western Union comply with its rate rather than black market or official rates from other countries.
+
+This is why some Nigerians turned to alternative solutions like Paxful. Even though these traders take a 30 percent haircut when selling gift cards for bitcoin — that is, the folks buying the gift cards buy them at 70 cents on the dollar due to the risk of fraud — they would still get a better rate than if they were going through traditional remittance rails.
+
+The gap between the government’s rate and the real exchange rate has narrowed, but even so, gift card trading hasn’t abated — it’s continued to grow by leaps and bounds. Even if it’s less cost effective now, there are still reasons to leverage the solution, not the least because it is quicker, less of a hassle and (for those who don’t live near a Western Union) a more accessible option.
+
+“I always wondered why someone would take a 30 percent loss when they can use Western Union. It turns out that it’s worth it because it’s nearly instant … according to them, the Western Union price is well over 24 percent, and they still have to go through all the hassle of picking it up. It’s worth it for the convenience and the speed,” Youssef told us.
+
+In some instances, at least, it’s not just about convenience but still about cost effectiveness, too. For Chinese immigrants living in Nigeria — or Nigerians conducting business with the Chinese — getting money out of the country is even more laborious and price gouging. Youssef said it takes at least a week, and senders could lose anywhere from 50 to 60 percent of the currency’s value in the process. This is no doubt a major reason why Paxful sees $50 million dollars in trades flowing between China and Nigeria weekly.
+
+Time for Plan B
+
+“This remittance method is a plan B when plan A fails or is unavailable,” Ahlborg said in our correspondence. He believes that Nigerians are probably leveraging the option for remittances less and less now that they can get a comparable or better deal at Western Union. There are also some, he cautioned, who need to offload gift cards they obtained illegally, like those procured through so-called “romance scams.”
+
+Still, the gift card market is filling a much needed niche for those, as Matt Ahlborg put it, without a reliable plan A to get money into the country. When he founded Paxful almost five years ago, Youssef never envisioned that his company would grow up to service a multi-million remittance industry. But he’s heeded the use case and is doing his best to learn from those who use Paxful to this end.
+
+“It blows my mind every single day,” he said. “It’s educated me, too. Everything we know about peer-to-peer finance — the reason we’re using the term — is because of everything the people from Africa have shown us.”
+
+That phrase — peer-to-peer — gets worn out in the Bitcoin space, though in Paxful’s case, it’s the secret behind its success. It’s why, even as LocalBitcoins (which used to offer gift card trades but no longer does) services a remittance market in Latin America, Paxful has been able to spread its roots in Africa. Since all trades are peer-to-peer, a gift card market organically blossomed on the platform.
+
+This market became necessary for greasing the region with the liquidity and resources necessary for giving the population exposure to bitcoin as a medium of exchange.
+
+“We started out three years ago in Africa. There was no bitcoin in Nigeria. We were asking ourselves how we were going to create this economy in Africa, and we had to go through Nigeria because it’s the biggest economy in Africa and it’s the hub of Western Africa. So we had to solve the problem of liquidity, so we settled on a digital asset that they could export and that was gift cards,” Youssef said, adding with a laugh that they even thought about using other goods “like cocoa beans and animal skins.”
+
+“We didn’t think of any of this ourselves. We are literally watching our users and listening to them and trying to smooth out the process. We’re just following their lead,” he continued.
+
+Youssef firmly believes that gift cards are “one of the only ways unbanked people can get bitcoin,” claiming that 95 percent of Paxful’s support is devoted to gift card trades. This is why, even as the company is bombarded by legal letters from retailers requesting that they stay their gift card trading, Paxful won’t budge. They’re legally permitted to trade them, Youssef told us, and until the exchange can find a better method to onboard unbanked users, he doesn’t “really see another choice if we want to accomplish our mission.”
+
+Of course, there are still pitfalls and imperfections to this makeshift banking method. Fraud is a constant concern, as evidenced by the discounted rates gift cards trade for on the exchange. And as Ahlborg pointed out, the gift card remittance route is really only a plan B when plan A isn’t available or becomes less optimal.
+
+All said, Paxful has found a way to penetrate a new frontier for bitcoin adoption, even if the final goal is fiat at the end of the trading line. With a discernible dominance in market share in the African sphere of trading, Paxful seems to have found an answer (even if temporary) on how to begin to bank the unbanked through an unlikely tool in gift cards. It’s a bit of a stopgap solution, but for now, at least, it’s demonstrating that bitcoin can be delivered to environments that need it most — and that the cryptocurrency performs best under pressure.

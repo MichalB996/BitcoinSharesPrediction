@@ -1,0 +1,43 @@
+DATE:  08.07.2019, 14:17:16
+TITLE: GoChain working to launch GOST Protocol for cross chain token transfers
+URL:   https://www.cryptoninjas.net/2019/07/08/gochain-working-to-launch-gost-protocol-for-cross-chain-token-transfers/
+
+GoChain, a web3 based blockchain ecosystem and client, recently announced the GOST Protocol is set to be live on the GoChain testnet in the coming weeks. It will enable interoperability between blockchains in a fully decentralized manner.
+
+The GOST Protocol sets the stage to bring stablecoins to GoChain. The concept keeps the transfers decentralized as the protocol is built directly into GoChain and requires all nodes in the network to participate.
+
+Tokens can be transferred to GoChain and transferred back to Ethereum at any time. This would make GoChain one of the first interoperable blockchains. Tokens on GoChain would bring faster transaction speeds, support of much higher transaction volumes and much lower fees that can support day-to-day purchases such as buying coffee or playing games.
+
+Transferring Tokens to GoChain
+
+Each token on GoChain represents exactly one of the same token on the original chain. Below is an example of USDC. Transferring to GoChain requires two steps:
+
+User deposits X USDC to a special smart contract on Ethereum – GOST-C1 (very similar to a multi-sig wallet)
+
+GoChain nodes monitor this contract for transactions
+
+If a transaction is found, the nodes will wait for X blocks for confirmation (30-60)
+
+After confirmation, a minting transaction is confirmed. X USDC on GoChain (USDC? GOUSDC? GOUSD?) is minted in an ERC20/GO20 token contract on GoChain to the original depositor’s address
+
+Transferring Tokens back to Ethereum
+
+User has to burn tokens on GoChain to get the original tokens back. This could work the following way:
+
+The user sends a burn transaction tx3 to burn tokens in the token contract on GoChain (can include extra data such as a withdrawal address on Ethereum)
+
+GoChain nodes accept the burn transaction, tx3, immediately removing the tokens from circulation
+
+After X (30-60) block confirmations, each node sends in a transaction to the GOST-C1 wallet on Ethereum which says to transfer the funds to the address in tx3
+
+Once a high percent of nodes (75%?) submit their transaction, the transaction proceeds and the tokens are transferred to the user
+
+Other Benefits
+
+Fully auditable in real-time.
+
+No entity, except the owner of the tokens, has custody of the tokens or access to the tokens at any point.
+
+Future Plans
+
+Beyond this initial use case, this protocol paves the way for massive scalability increases for GoChain by enabling multiple GoChain networks to work together. GoChain to GoChain transactions means any number of GoChain shards can be created which can then transact across each other.

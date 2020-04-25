@@ -1,0 +1,27 @@
+DATE:  04.07.2019, 08:33:29
+TITLE: Bitcoin consumes more energy than Switzerland, according to new estimate
+URL:   https://www.theverge.com/2019/7/4/20682109/bitcoin-energy-consumption-annual-calculation-cambridge-index-cbeci-country-comparison
+
+Bitcoin consumes more energy than the entire nation of Switzerland, according to new estimates published by researchers at the University of Cambridge.
+
+An online tool that launched this week called the Cambridge Bitcoin Electricity Consumption Index, or CBECI, estimates how much energy is needed to maintain the Bitcoin network in real time, before using this to calculate its annual energy usage.
+
+Currently, the CBECI says the global Bitcoin network is consuming more than seven gigwatts of electricity. Over the course of a year that’s equal to around 64 TWh or terawatt hours of energy consumption. That’s more than the country of Switzerland uses over the same time period (58 TWh per year), but less than Colombia (68 TWh per year).
+
+It means Bitcoin accounts for roughly 0.25 percent of the world’s entire electricity consumption. That’s as much energy as all the tea kettles in the UK use over 11 years. It also means that the electricity wasted each year by always-on but inactive electronic devices in the US could power the Bitcoin network four times over.
+
+“We want to use comparisons that set the narrative,” one of the co-creators of the CBECI, Michel Rauchs, told BBC News. ”Visitors to the website can make up their own mind as to whether it seems large or small.”
+
+It’s well established that Bitcoin requires a huge amount of electricity, used by miners around the world running the computer hardware necessary to maintain the network and validate payments. But it’s also worth remembering these figures are very much estimates.
+
+“Reliable estimates of Bitcoin’s electricity usage are rare”
+
+In a blog post announcing the new index, the Cambridge Centre for Alternative Finance, which oversaw the work, makes the same observation. “Reliable estimates of Bitcoin’s electricity usage are rare: in most cases, they only provide a one-time snapshot and the numbers often show substantial discrepancies from one model to another,” it says.
+
+This uncertainty is reflected by the CBECI’s inclusion of lower and upper bounds for its estimates. The lower bound is currently around 22 TWh while the upper bound is just under 150 TWh. (Though these figures may have changed since the time of publication).
+
+It’s a significant spread, and it suggests that exact comparisons between different estimates should be taken with a pinch of salt. Another popular estimate of the cryptocurrency’s energy usage maintained by Digiconomist pegs the network’s yearly consumption at 70 TWh, for example — six TWh greater than the University of Cambridge’s CBECI. You can read more about the exact methodology used to calculate the CBECI here.
+
+Regardless of the exact figures, the energy usage of Bitcoin is certainly eyebrow raising. It’s increased rapidly, sometimes doubling in less than six months, and this sort of energy usages comes with a significant carbon footprint. Though, again, exact estimates of this environmental impact vary significantly because of the difficulty of determining how the electricity used to power Bitcoin’s mining hardware is generated.
+
+The cryptocurrency also looks unwieldy in terms of day to day utility. Alex de Vries, a Bitcoin expert at PwC, told BBC News that the network processes fewer than 100 million transactions per year, a “completely insignificant” figure compared to the 500 billion payments processed by the traditional financial industry. de Vries estimates that Bitcoin uses more energy per transaction than all the rest of the world’s banks combined.

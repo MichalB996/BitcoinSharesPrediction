@@ -1,0 +1,13 @@
+DATE:  13.05.2019, 10:15:43
+TITLE: Flexa will let you pay at Whole Foods using your bitcoin
+URL:   https://www.theverge.com/2019/5/13/18617554/flexa-cryptocurrency-bitcoin-etherium-whole-foods-gamestop-nordstrom-flexacoin
+
+A new payment network called Flexa is launching today that’ll let you spend cryptocurrencies in physical stores. The technology currently supports bitcoin, ether, bitcoin cash, and the gemini dollar, and it’ll work at retailers including GameStop, Nordstrom, Whole Foods, Caribou Coffee, Jamba Juice, and Crate and Barrel. The eventual goal for Flexa is to support payments using any cryptocurrency to pay any merchant.
+
+You pay for your items using Flexa’s app, Spedn, which generates a QR code that you scan at the checkout register. The merchant receives immediate payment in dollars, and the equivalent amount of cryptocurrency is debited from your cryptocurrency wallet in the Spedn app.
+
+The system is underpinned by Flexa’s own FlexaCoin currency
+
+In order to achieve this immediate payment, Flexa has a complicated process going on in the background. Flexa uses its own cryptocurrency, FlexaCoin, to secure each transaction before it’s approved by the originating coin’s network. The Flexa Network Protocol works as an intermediary for each payment. It pays the merchant in cash and then goes through the slower process of taking payment from your cryptocurrency wallet. The network is essentially taking on the risk of not receiving the cryptocurrency from your wallet, and it’s using the FlexaCoin currency as collateral. It’s a pretty complicated process, but it seems this is what’s needed to make immediate payments.
+
+Making cryptocurrencies usable in physical shops has become a key challenge for digital currency networks. Although retailers are able to set up their own cryptocurrency wallets and take payments directly, this exposes them to price volatility and the slow transaction speeds that blockchain networks can suffer from. Coinbase, a major cryptocurrency exchange, recently took a different approach, launching a Visa debit card that takes cryptocurrency out of your digital wallet. However, a similar card in the US closed down in April after operating for just over three years.

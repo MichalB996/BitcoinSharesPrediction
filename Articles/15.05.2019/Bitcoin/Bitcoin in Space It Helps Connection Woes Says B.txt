@@ -1,0 +1,29 @@
+DATE:  15.05.2019, 10:00:23
+TITLE: Bitcoin in Space? It Helps Connection Woes, Says Blockstream’s Adam Back
+URL:   https://www.coindesk.com/bitcoin-in-space-it-helps-with-connection-woes-says-blockstreams-adam-back
+
+Adam Back, CEO of bitcoin technology startup Blockstream, dove into the lesser-known uses for beaming bitcoin from space during a presentation at Consensus 2019 on Tuesday.
+
+The startup launched its cryptocurrency-focused satellite product nearly two years ago with the primary goal of giving people who don’t have an internet connection another way to download a bitcoin full node, the most secure form of connecting to and using the network.
+
+But while that’s the reasoning they give out for the most part, Back went into some other use cases where a satellite connection can have value, first pointing to “political disruption,” when people are stuck in the middle of political mayhem that’s out of their control.
+
+Back said:
+
+“One of the first things that happens in a coup, like in Arab Springs, is that [those in power] disconnect the internet.”
+
+In this scenario, satellites offer an alternative way to connect to the bitcoin network. Along those lines, mostly when talking about technology satellites, advocates emphasize that the technology has the ability to onboard people who are less fortunate, maybe living in a part of the world that doesn’t have easy access to the internet.
+
+But Back actually made the case that it can provide user cases for people in luckier situations, too.
+
+First, and perhaps most practically, Back argues that this is actually, in some ways, cheaper than a normal internet connection. You can save on the bandwidth costs of a normal internet connection by outsourcing a satellite to download bitcoin updates for you.
+
+Then there’s the privacy angle. If you aren’t careful, anyone can glimpse online to see the IP address associated with your node. But with a satellite connection, it’s much harder to see who’s connecting to it to grab the full node data.
+
+“It gives you a great deal of privacy. By using satellite to receive a full node, no one knows you’re participating in the bitcoin network,” Back said.
+
+Finally, downloading a bitcoin full node by satellite also offer an alternative in the case of outages, which exchanges and merchants are all privy to as they need to run some form of node to connect to the network This bad for miners, who can lose money, as they won’t be able to mine so-called “block rewards” – each of which is worth $87,000 at current market prices – for however long they lose their internet connection.
+
+“I’ve heard firsthand stories from mining farm operators that they’ve been forced to run a farm on a cell phone signal for a week,” Back said, arguing that a satellite is a much cheaper form of backup.
+
+Adam Back image via Alyssa Hertig for CoinDesk

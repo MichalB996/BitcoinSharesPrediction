@@ -1,0 +1,107 @@
+DATE:  11.07.2019, 18:49:00
+TITLE: Can Bitcoin Survive Quantum Computers?
+URL:   https://cryptobriefing.com/bitcoin-survive-quantum-computers/
+
+Technology Can Bitcoin Survive Quantum Computers? by Mike Dalton
+
+New tech could unlock the secrets of the blockchain.
+
+Share this article
+
+Quantum computers have arrived, and new models are introduced every year. Most recently, IBM demonstrated a brand new model at this year’s Consumer Electronics Show. Most quantum computing research is currently limited to academic institutions and major corporations, but the technology will become more widely available in the not-so-distant future.
+
+But it isn’t all good news: quantum computers pose a serious threat to most modern cryptography. Because they are extremely powerful, quantum computers will eventually be able to break many encryption schemes that are currently in widespread use.
+
+Cryptocurrency is at risk as well, because Bitcoin and other blockchains rely on encryption at a fundamental level. Here are some of the potential problems – and a few reasons not to worry.
+
+How Addresses Work
+
+Cryptocurrencies store funds in addresses which rely on encryption. Each public address is controlled by a private key, a secret number that allows you to send your coins elsewhere.
+
+Most cryptocurrencies use elliptic-curve cryptography, which relies on the difficulty of factoring extremely large numbers. It’s effectively impossible to derive a private key from a public key, except by random guessing. Since each private key is hundreds of digits long, doing so would take an impossibly long time with contemporary computers.
+
+But quantum computers have access to advanced algorithms that could deduce private keys extremely quickly, at least for the most common encryption schemes.
+
+There are some measures that can be taken to protect user funds. In the future, mainstream cryptocurrencies will probably adopt Lamport signatures, which will provide quantum resistance at the cost of larger block sizes.
+
+Ethereum plans to add Lamport signatures in version 2.0 or “Serenity.” This will be an optional feature, so Ethereum users will not lose access to their funds. Bitcoin developers do not have firm plans for Lamport signatures, but it is a widely discussed possibility. There’s also some security in existing encryption schemes: quantum algorithms can crack an address if it has a known public key, so it’s advised to use each public key only once.
+
+But even if everyone moved their funds to quantum-safe addresses, inactive wallets would still be vulnerable – and it’s hard to predict how the market will react if some coins are safe and others aren’t.
+
+Quantum-Resistant Cryptocurrencies
+
+Mainstream cryptocurrencies will have to adapt, but some altcoins have been working on quantum resistance from the start. Many quantum-resistant algorithms already exist, such as XMSS, Keccack, and Winternitz, which are being applied by projects like QRL, Hcash, and IOTA.
+
+Sometimes, these schemes are used together, since each works slightly differently. And, often, they require that public addresses only be used once, because each transaction reveals compromising information.
+
+Quantum-resistant schemes are hard to break, but they’re comparatively easy to put in place. Blockchain developers don’t need a quantum computer in order to implement a quantum-resistant encryption scheme, and some of these schemes are actually very efficient and economical.
+
+That said, in order to ensure that a network is truly quantum-secure, developers would need a way to make sure all users and nodes update their software.
+
+Is Mining At Risk?
+
+Bitcoin mining also relies on cryptography, albeit in a different way. Miners dedicate large amounts of computing power in order to solve cryptographic puzzles, in exchange for block rewards. The fact that countless miners are powering the network means that Bitcoin is decentralized – no single user can control it.
+
+If one user gains access to a quantum computer, they could produce hashes very quickly and gain dominance over the Bitcoin mining network, potentially exposing the network to a 51% attack. But many developers believe this is not a serious problem. As long as multiple users have access to a quantum computer, no single quantum computer will gain dominance over Bitcoin mining.
+
+Alternative proof-of-work mining schemes can also prevent quantum dominance, and some studies have found that ASIC devices, which are already faster than normal computers, can reduce the quantum advantage over mining. Additionally, proof-of-stake cryptocurrencies avoid these problems entirely, since they do not rely on mining.
+
+Practical Considerations
+
+Cryptocurrency is just one small corner of the tech world, and many researchers are working on post-quantum security solutions elsewhere. For example, Google and Cloudflare partnered to experiment with quantum-secure algorithms in June. The goal of this effort is to improve Internet security in general, but it is not clear if this will benefit cryptocurrency in particular. Nevertheless, quantum-resistant security research is thriving.
+
+Practical limitations can also prevent attackers from wreaking havoc on cryptocurrencies. Would-be attackers cannot simply access a quantum computer and carry out an attack: they also need to program those computers to break an encryption scheme, and doing so is not an easy task. Right now, programming even the most powerful quantum computer to solve a problem requires a highly dedicated research team and a lot of effort.
+
+On top of everything else, cryptocurrencies have time to prepare for quantum threats. Most experts believe that quantum computers will begin to break encryption schemes in the next five to ten years. That’s not a lot of time, but it is a chance to prepare.
+
+On the other hand, an actual attack might not be needed for a disaster to occur: the mere belief that an attack is possible could drive users away from cryptocurrency en masse.
+
+In Summary
+
+It is impossible to say exactly how developments in quantum computing will play out over the next several years. “Black swan” events cannot be ruled out entirely, but many believe that the threat is still far on the horizon. Quantum-resistant security schemes, as well as practical limitations, will almost certainly prevent any sudden disasters from taking the world by surprise.
+
+Nevertheless, cryptocurrency projects will need to make a paradigm shift. Popular cryptocurrencies like Bitcoin and Ethereum will need to change gears quickly in order to become quantum resistant. Meanwhile, cryptocurrencies that are already pursuing quantum resistance will need to catch up with their popular counterparts in terms of features.
+
+From Allen Walters, originally published on Medium:
+
+In most articles and interviews on the subject of quantum computing -vs- blockchain, I noticed that these meant to be informational pieces need some additions and corrections. So here we go.
+
+Additions to “Can Bitcoin Survive Quantum Computers?”
+
+Note on “optional feature” in ETH upgrade:
+
+As long as it is an option, and not all coins are stored on a quantum resistant address, the blockchain can still be hacked through those vulnerable coins. This will affect the price and thus the users that stored their coins on quantum resistant addresses are still victim of the hack. They’ll still have the same amount of coins, but will it still be worth something?
+
+“Since quantum algorithms require a digital signature to crack an address, your funds should be safe as long as you use each address only once.” (If you follow the link they provided, please see my addition to The Bitcoin Wiki Page On Quantum Computing)
+
+As explained in the addition to the bitcoin wiki page, the remark on using addresses only once is incorrect. And so is the first part of the sentence. Shor’s requires public keys, not a signature to crack an address. Current BTC addresses initially have the public keys are hashed, and thus not available in original form. Which means there is no direct hack possible. Still, the coins on those addresses are not safe in value. Same as with the ETH optional security: coins can devalue since unsafe stored coins can still be hacked. (Close to 40% of BTC is stored on addresses with a published full public key) The fact that hashed public keys is a false sense of security was lately acknowledged by Pieter Wuille, BTC dev, acknowledged this on twitter, here and here.
+
+This is also acknowledged by Andrew Poelstra in this interview. (40:00 and further) He even goes as far as explaining how public keys are exposed in several other ways besides sending transactions to such an extent that “basically all the public keys are exposed.” “If everybody else bitcoins are lost, then […] you have retained all these tokens that are worthless.” Which is an acknowledgment of the risk of value decline due to hacks of the percentage of BTC that is not on addresses with hashed public keys?
+
+44:00 “It was never intended as quantum protection. It doesn’t function as quantum protection. There’s sort of this idea out there that it does, but it doesn’t. And even if it did, by the way, it’s very unclear how you would spend your coins again, because you have to reveal the public key to spend the coins.”
+
+Elaborating on the last comment where is mentioned that you have to reveal you public key to make a transaction, I wrote an article on all attack vectors in that scenario here: https://medium.com/altcoin-magazine/quantum-resistant-blockchain-and-cryptocurrency-the-full-analysis-in-seven-parts-part-6-769973d3decf
+
+As to the quantum resistant blockchains mentioned in the article:
+
+QRL, uses XMSS. Addresses are reusable. XMSS is a mathematically provable quantum resistant signature scheme that will be approved by NIST this year or the next. This approval will include the note that it will only be recommended for specific applications that can safely keep state. Blockchain has that capability, but if it will be specifically mentioned by NIST isn’t a given.
+
+Hcash, has indeed the option of quantum resistant security, but also supports current signature schemes, which means this is another project that only gives an option and therefore is not quantum resistant.
+
+IOTA: uses WOTS, which means that addresses can only be used once. (At this point of time)
+
+“Even though quantum-resistant schemes are hard to break, they’re not hard to put in place.”
+
+This is not true. There are no drop-in replacements for current signature schemes. It’s no simple task to implement. In blockchain, there are also several challenges and impossibilities that make it for example impossible to protect 100% of it’s current circulating supply. Existing blockchains also needs the compliance of 100% of it’s users to fully protect their circulating supply. (Which means that as a user, you depend for your security on the actions of millions of other users.) Fully explained in this series: https://medium.com/altcoin-magazine/quantum-resistant-blockchain-and-cryptocurrency-the-full-analysis-in-seven-parts-part-3-f9193634ecc5
+
+“ractical limitations can also prevent attackers from wreaking havoc on cryptocurrencies.”
+
+The point that hackers might not be able to use quantum computers or that quantum computer use will be highly regulated is an assumption. You could ask yourself if any system is still trusted once a quantum computer has been developed that can break ECDSA. If that level is reached, I doubt anyone would still be comfortable holding value in systems that are not quantum resistant.
+
+“On top of everything else, cryptocurrencies have time to prepare for quantum threats.”
+
+Will certain cryptocurrencies start implementing these measures in time? That is the question. To answer that question you’d need to have a credible estimate on when quantum computers will be able to break ECDSA. Then you’d need to fill out Mosca’s theorem, adjusted for blockchain as explained here: https://medium.com/altcoin-magazine/an-addition-to-the-bitcoin-wiki-page-on-quantum-computing-and-moscas-theorem-of-risk-f2345e504bb4 (See header in the middle of the article: “To make a complete and realistic estimate of the expected timeline for upgrading and migration we use Mosca’s theorem of risk determination.”)
+
+The dismissiveness of most devs on the subject at this point of time, isn’t very promising though.
+
+For the full analysis: I wrote a seven part series on the subject.

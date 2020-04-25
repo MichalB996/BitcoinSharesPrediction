@@ -1,0 +1,37 @@
+DATE:  30.04.2019, 13:00:35
+TITLE: Bitcoin Startup Unveils ‘Thunder Bird’ Lightning Code for IoT Devices
+URL:   https://www.coindesk.com/bitcoin-startup-unveils-thunder-bird-lightning-code-for-iot-devices
+
+Japanese startup Nayuta is releasing an in-progress lightning implementation with a compelling new focus: the internet of things (IoT).
+
+As revealed exclusively to CoinDesk, Nayuta is publishing the first lightning implementation geared specifically toward IoT, or networks of connected devices that feed data to one another. The idea behind Nayuta’s release is that it connects to bitcoin’s live network (as opposed to a test one), allowing transactions of real BTC.
+
+To date, Nayuta’s release represents the fourth lightning implementation to officially launch on bitcoin’s mainnet so far, following software pushes from startups Acinq, Blockstream, and Lightning Labs.
+
+Called Ptarmigan, the Japanese word for “thunder bird,” the name plays off the fact that the promising bitcoin technology it builds upon is named “lightning.”
+
+The startup view micropayments as a major element for the budding Internet of Things industry, which has attracted attention from many big name firms. Some of those companies are investing time and resources at the intersection of blockchain and IoT, and while there’s not one clear direction for how the tech can be integrated into connected device networks, recent headlines make it clear that significant industries are getting involved.
+
+The idea behind one aspect — as demonstrated by Jaguar’s IOTA experiment as well as work by startups like Nayuta, is that IoT devices will be capable of making small payments to one another. In the case of lightning, such micropayments could be conducted using bitcoin.
+
+As Nayuta co-founder Kenichi Kurimoto explained to CoinDesk:
+
+“The lightning network has the following promising characteristics: (a) small transaction amounts, or “micropayments” (b) borderless and cross-domain payments (c) real-time payments (d) large transaction per second (TPS) potential. Especially the combination (a) & (b) has the potential to create a whole new market. Because humans do not want to make payment-action many times, it is required to link with other actions performed by many people or with some kind of autonomous actions.”
+
+Nayuta partnered with a major electric Japanese company last year to put lightning payments to the test for recharging electric cars. But while this is also a vision shared by larger companies like Qualcomm Ventures, thus far, these ideas haven’t taken off at a large scale, perhaps partly because bitcoin’s micropayment technology is still under-developed.
+
+But Nayuta is trying to put the idea to the test. Soon to follow is a device they call a lightning “shield.” Arduino’s are little computers used mostly by hobbyists to create robots or other technology. “Shields” add extra functionality, from motors for making things spin or better sound. a new type of technology that can be clipped onto an Arduino board.
+
+“It means dramatically increasing the number of people who can develop prototypes of IoT applications that use Lightning Network feature,” Kurimoto said, adding:
+
+“IoT is one of the important Lightning Network application area, but no one knows what the killer-app is. In such situation, an increasing number of developers and prototyping trials are very important.”
+
+But this one adds lightning functionality, or the ability for said device to send or receive small payments.
+
+“Our long-term goal is to make Ptarmigan the small-footprint lightning network software that operates on small hardware. This mainnet version experimentally implements an SPV wallet mode with which it operates on an independent node on Raspberry Pi Zero,” Nayuta said in a press release.
+
+“SPV,” which stands for simplified payment verification, is a small lightning node on the network that requires an end-user to download less data. A Raspberry Pi Zero is possibly the cheapest computer to date, costing a mere $5.
+
+To show how it works, Nayuta has released a short demo video, showing how they sent a lightning transaction over their new lightning shield, causing a strip of lights to shine.
+
+Lightning strikes image via Shutterstock

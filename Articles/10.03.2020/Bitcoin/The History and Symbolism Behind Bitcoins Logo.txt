@@ -1,0 +1,73 @@
+DATE:  10.03.2020, 12:00:57
+TITLE: The History and Symbolism Behind Bitcoin’s Logo
+URL:   https://bitcoinmagazine.com/articles/the-history-and-symbolism-behind-bitcoins-logo
+
+Ring in the new bitcoin halving cycle the right way: with us!
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+Most of you reading this have only ever known Bitcoin by its current logo: that white, double-striped “B” superimposed on an orange circle.
+
+Orange coin has become an internationally-recognizable symbol, but Bitcoin didn’t come with this branding out of the box. As with almost every aspect of Bitcoin, Satoshi Nakamoto created a rudimentary logo in the protean days of the decentralized currency and the community iterated on it until this one stuck.
+
+You truly old-school Bitcoin Maximalists will remember the evolutions in this design. And you also might recognize some of the mathematical symbolism that underpins Bitcoin’s logo.
+
+For those of you who don’t, here’s a little history lesson and crash course on the design choice behind Bitcoin’s iconic emblem.
+
+The Evolution of Bitcoin’s Logo
+
+Bitcoin Core originally featured Bitcoin’s first-ever logo created by Satoshi: a gold coin with the initials “BC” inscribed on it. The nod to gold here shouldn’t be overlooked (especially considering that some people think the digital gold comparison is some crazy notion cooked up by Bitcoin extremists — when, in reality, Satoshi himself was thinking of Bitcoin in this way from the start).
+
+OGs typically took to the logo well, though one or another would occasionally make suggestions to alter it on Bitcointalk. One of these suggestions involved using the Thai baht currency symbol (฿) and designating the initials “BTC” as the official currency code.
+
+The latter caught on more easily than the former. Using the Thai baht did prove to be a convenient stopgap before something else came along, though some insisted that using it “would cause confusion.”
+
+But, it could have very well inspired Satoshi to added the dollar-stripes to Bitcoin’s design that make it so distinguishable today. On February 24, 2010, he introduced a new logo. It resembled the gold coin he had started with, but now the symbol inscribed in the middle had two vertical strokes and, unlike the Thai baht, these strokes did not cut clean through the B — they only stuck out of its top and bottom and did not cross through the middle of the letter.
+
+Reactions on Bitcointalk were mixed. Some felt it was still too similar to the baht, while others thought it was too dull.
+
+“Is this the ‘official’ logo?” one observer asked. “I understand how difficult it can be to make something truly professional when you don’t have the skills (which I don’t) or the software (which I also don’t) so I’m not trying to be rude, but wouldn’t it be better if we adopted something…better? I really am not trying to be mean.”
+
+Official or not, this served as the predominant logo until the end of 2010, when a pseudonymous commentator named bitboy dropped their first message into Bitcointalk. Humbly, the user announced that they had just wanted to “drop by to say hi and to share with you some of the graphics I have done.”
+
+These graphics were free to download and placed in the public domain. Bitboy utilized the “B” symbol Satoshi had refined but rendered it in white and placed it on a flat, bright orange circle, tilting the symbol so that it leaned to its right.
+
+“Best Bitcoin logos I’ve seen so far!” one user commented. This was the general consensus, evidenced by the fact that bitboy’s designs would become Bitcoin’s defacto branding for the next decade.
+
+Method to the Madness
+
+Indeed, the logo bitboy cooked up has become iconic. Even people who know nothing about bitcoin may recognize it as Bitcoin’s universal symbol. And, like the technology it represents, it was created pseudonymously without hope of profit.
+
+One user commented in the thread about using the Thai baht as Bitcoin’s symbol that “we should let [Bitcoin’s logo] evolve organically, like a word in a language, and not worry too much about it at the early stage.”
+
+November of 2010 was still a relatively early moment for bitboy to introduce what has become the official logo, but this user also got their wish: The logo did evolve organically.
+
+And it was also imbued with its own intelligent design. Every aspect of the Bitcoin logo has mathematical rationale behind it; every corner was architected as much for practicality and form as it was for symbology and aesthetics.
+
+These rationale are painstakingly documented (as well as the specific instructions on how to make a perfect BTC logo from scratch) in this Medium post. The author, Phil Wilson, had helped design both the second logo that Satoshi introduced in February 2010 and the orange one that we know today.
+
+And the one we know today is riddled with symbols.
+
+For example, the number eight pops up multiple times in the dimensions and geometry of Bitcoin’s design (e.g., the B is rotated clockwise 13.88 degrees — more on this later). Per the internet language 1337, an eight resembles a B, which is short for “Block,” according to Wilson. Many of the patterns that went into creating the Bitcoin logo’s design, like the circles that eventually made up the B, contain the number eight. The dimensions of other shapes (like the rectangles in the design) had a length of 12.5 (or, one-eighth of 100, thus representing eight yet again).
+
+Since eight is B, which stands for block in this symbology, each new pattern is like adding a new block to the logo. Everytime a shape is resized (as they were multiple times throughout the design process) this reflects the changing data size of each new block.
+
+The trebuchet font that’s used in the logo was inspired by the trebuchet catapult which was a favorite weapon of Wilson’s in the “Age of Empires” computer game. By using the vertical strokes from the dollar sign in the Bitcoin design, Wilson wanted to give the impression that “those lines are not actually from the Bitcoin symbol, but from the $ symbol that’s been ‘Stamped’ into the ground by Bitcoin” — an indication of Bitcoin’s monetary dominance.
+
+The coin was colored orange for a practical as well as aesthetic purpose. In the words of Wilson, it had to be a color that could be printed/replicated “on both websites and print media” and one that would “stand out against all [other currency/payment options].”
+
+The circle was chosen because, well, a coin makes sense — and a circle is “warm and friendly” and “continuous, endless, forever — just like Bitcoin.”
+
+Now, for the question that most new people probably ask: Why is the “B” tilted to the right? Well, there’s an explanation for that, too, and rather than butcher it, here it is straight from Wilson’s keyboard:
+
+“14° came about by adding an infinite number of B’s together by dividing the previous value by 10. 12.5 + 1.25 + 0.125 + 0.0125 + 0.00125 + 0.000125 + 0.0000125 + 0.00000125 + 0.000000125 + 0.0000000125 + 0.00000000125 + 0.000000000125 … This comes to about 13.888 repeating. When using a drawing program that rounds the rotation angle to the closest full percent, the angle becomes 14°. The angle represents the blockchain progressing into the future forever.”
+
+And, finally, the logo for the internet’s native currency wouldn’t be complete without a reference to The Hitchhiker’s Guide to the Galaxy. In the logo, the orange circle is scaled to 525 percent to give it a precise diameter. Why is that? Naturally, because “525% is 12.5 x 42,” according to Wilson; in other words, it is one-eigth of 100 times 42, which, according to the book, is the secret to the universe.
+
+And why is the secret to the universe included in Bitcoin’s design?
+
+“This technology is supposed to be the answer to the ultimate question of life, the universe, and everything,” Wilson explained.
+
+Or, put less hyperbolically: Orange coin good.

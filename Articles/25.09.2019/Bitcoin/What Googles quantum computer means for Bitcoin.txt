@@ -1,0 +1,33 @@
+DATE:  25.09.2019, 18:10:25
+TITLE: What Google’s quantum computer means for Bitcoin
+URL:   https://decrypt.co/9642/what-google-quantum-computer-means-for-bitcoin
+
+A document published—and later deleted—by NASA a few days ago revealed that we could soon be entering a new technological era: Google has achieved "quantum supremacy"—supposedly.
+
+According to the Financial Times, Google claims to have successfully built the world’s most powerful quantum computer. What that means, according to Google’s researchers, is that calculations that normally take more than 10,000 years to perform, its computer was able to do in about 200 seconds.
+
+Does that mean that we can say goodbye to that sweet cryptography that protects the integrity of Bitcoin and other digital currencies? Probably not.
+
+Here’s why:
+
+For starters, sources at Google told Fortune over the weekend that NASA took down the paper because it might have been published without the proper scientific peer review. A scientific publication needs to be evaluated and studied by a panel of experts before its ready for publication. So, it might not even actually be ready.
+
+But let’s assume it is. What you need to know about Bitcoin to understand the potential threat of quantum computing is that its architecture relies on two algorithms: ECDSA for digital signatures and SHA-256 as a hash function. If you reuse a wallet address and make a transaction, you expose your public key.
+
+So, yes, a quantum computer could use Shor’s algorithm to get your private from your public key, as Jack Matier of the Quantum Resistant Ledger recently explained in a Medium post. But don’t panic just yet.
+
+The most optimistic scientific estimates say that even if this were possible, it won’t happen during this decade (enough time to fork Bitcoin and make it quantum proof).
+
+Also, considering that Google’s machine is only 53 “quantum bits” (qubits)—a measure of the computer’s quantum power—a research paper on the matter published by Cornell University may give Bitcoin hodlers some peace of mind:
+
+“A 160 bit elliptic curve cryptographic key could be broken on a quantum computer using around 1000 qubits while factoring the security-wise equivalent 1024 bit RSA modulus would require about 2000 qubits” (emphasis added). By comparison, Google's measly 53 qubits are still no match for this kind of cryptography.
+
+And, once again, it's even only a theoretical threat assuming that you re-used your address, which was considered a bad practice even back in Satoshi’s day.
+
+And a SHA-256 cryptographic hash is a different thing altogether. It is so powerful that, according to crypto evangelist Andreas Antonopolulos, the amount of computational power needed to crack it “is greater than the wildest speculation of what intelligence agencies might have”—and that’s assuming they have quantum computers.
+
+What’s more, not only can quantum-computing scientists not break Bitcoin yet, they don’t seem too interested in doing so anyway. In fact, one of the most evident use cases for quantum technology appears to be to improve encryption and cybersecurity techniques, according to Google’s own researchers.
+
+But that isn’t to say that there’s no cause for alarm at all. While the native encryption algorithms used by Bitcoin and other proof-of-work coins are safe for now, the fact is that the rate of advancements in quantum technology is increasing, and that could, in time, pose a threat. "We expect their computational power will continue to grow at a double exponential rate," Google researchers said in the since-deleted document.
+
+Thankfully, there are already companies and research teams working on new cryptography algorithms for a post-quantum era. And, with that in mind, it may not be a bad idea to start thinking about a potential Bitcoin hardfork in a few decades that improves its “weak” security algorithm.

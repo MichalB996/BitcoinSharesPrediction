@@ -1,0 +1,25 @@
+DATE:  24.06.2019, 16:02:15
+TITLE: 98% of Bitcoin Satoshi Vision’s activity comes from a dumb weather app
+URL:   https://thenextweb.com/hardfork/2019/06/24/bitcoin-satoshi-vision-bsv-activity-transactions-weather-cryptocurrency-blockchain/
+
+The majority of Bitcoin Satoshi Vision (BSV) network activity hasn’t anything to do with cryptocurrency.
+
+In fact, pretty much all of its current on-chain activity comes from weathersv.com, an automated weather service that simply copies data from another (centralized) weather site and writes it to the BSV blockchain.
+
+What people fail to realize is a paid subscription service that copies data hourly from an existing website (https://t.co/v3rn5j6FBd) and pastes it into BSV blocks accounts for 98.4% of BSV transactions over the past 30 days pic.twitter.com/iZiunToCEw — Painted Frog (@painted_frog) June 24, 2019
+
+Actions performed on the BSV blockchain in past 30 days
+
+As spotted by Twitter user @painted_frog, weather.sv accounted for more than 1.23 million of BSV’s “actions” over the past month.
+
+It was launched back in April, pitched as a way of recording local weather and climate data with the BSV blockchain. To compare, BSV-centric money transfer app MoneyButton called just 1,040 similar “actions” over the same period.
+
+Top 8 actioners on BSV
+
+Almost incredibly, weather.sv is apparently a paid service. To begin writing local weather data to BSV, users must create a channel for around $4 (AU$5), as well as pay $0.71 ($AU1) per month to keep it open.
+
+BSV mouthpiece CoinGeek previously described weather.sv as an example of an app developer “using OP_RETURN transactions in a practical use case.”
+
+It’s still unclear why this service is necessary.
+
+On the other hand, Bitcoin BTC (BTC) currently processes around 347,000 transactions every single day — and all of them directly relate to the transfer of digital money, not the silly weather.

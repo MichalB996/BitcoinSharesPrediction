@@ -1,0 +1,37 @@
+DATE:  09.10.2019, 12:11:55
+TITLE: Sextortion scammers pivot from Bitcoin to Litecoin for better blackmailing
+URL:   https://thenextweb.com/hardfork/2019/10/09/sextortion-blackmail-masturbation-bitcoin-cryptocurrency-litecoin-phishing-scam/
+
+Sextortion phishers are pivoting away from Bitcoin BTC to alternative cryptocurrencies to avoid being caught by email filters, ZDNet reports.
+
+In particular, some sextortionists now rely on Litecoin, as major email providers automatically flag suspicious emails that feature Bitcoin wallet addresses.
+
+“As this latest twist shows, threat actors can switch to the next crypto currency [sic] and attempt to iterate through all the scam’s previous versions,” said phishing analysts Cofense.
+
+Litecoin is just sextortion flavor of the month
+
+Sextortion phishing scams have plagued inboxes for well over a year. They typically claim malware has infected recipient’s machines to record webcams and naughty browsing habits, demanding Bitcoin in exchange for not leaking that data to the world.
+
+To add authenticity, the emails often include sensitive information, such as email passwords, believed to have been sourced from any number of major online data leaks.
+
+OG Bitcoin sextortion scam email sample courtesy of Emin Gün Sirer.
+
+As for why the scammers have switched to Litecoin over any one of the thousands of cryptocurrencies that aren’t Bitcoin, Cofense explained that not all are easily accessible from popular exchanges.
+
+So, for the scam to work, potential victims need to be able to acquire the demanded cryptocurrency — Litecoin fits that description.
+
+Recent iterations of the sextortion scam have evolved in other ways. Some have reportedly removed text and images altogether, instead opting for PDF documents, which in some cases are encrypted.
+
+Current versions of the scam are also said to be written using very few searchable word patterns, again, to avoid detection.
+
+It’s all fun and games until the real malware showed up
+
+Earlier this year, Hard Fork reported that an 84-year-old bagel-loving lady foiled a $1,400 sextortionist plot by simply ignoring the emails “They told me I have very good taste in porn so I thought that was nice,” she said at the time.
+
+More concerning, however, is that just one month later, ESET researchers discovered a nasty strain of malware that’s reportedly capable of detecting pornography on-screen and automatically recording webcam footage when its found.
+
+That particular malware is distributed through dodgy email attachments, so defending against it is as easy as avoiding suspicious emails altogether.
+
+And still, the best defence against sextortion emails is to simply not reply.
+
+Want more Hard Fork? Join us in Amsterdam on October 15-17 to discuss blockchain and cryptocurrency with leading experts.

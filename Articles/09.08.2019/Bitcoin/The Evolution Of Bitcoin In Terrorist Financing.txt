@@ -1,0 +1,55 @@
+DATE:  09.08.2019, 16:46:23
+TITLE: The Evolution Of Bitcoin In Terrorist Financing
+URL:   https://www.bellingcat.com/news/2019/08/09/the-evolution-of-bitcoin-in-terrorist-financing/
+
+Terrorists have been tinkering with bitcoin as early as 2012 — but today, jihadi crowdfunding campaigns have been on the rise. Some think that since most of these campaigns haven’t raised significant funds, there isn’t much to worry about. I will explain why this is wrong.
+
+Terrorists’ early attempts at using cryptocurrencies were filled with false starts and mistakes. However, terrorists are nothing if not tenacious, and through these mistakes, they’ve grown to have a highly sophisticated understanding of blockchain technology. This investigation outlines the evolution of terrorists’ public bitcoin funding campaigns starting from the beginning and ending with the innovative solutions various groups have cooked up to make the technology work in their favor.
+
+The Promise — And Reality — Of Bitcoin
+
+When word of bitcoin began to spread, illicit actors’ ears perked up at the idea of an anonymous currency that could send money across international borders unregulated by any one central entity. However, the reality of using bitcoin for money laundering or terrorist financing was different.
+
+In spite of the common misconceptions, bitcoin is not completely anonymous. Due to the nature of the blockchain, a public ledger of all bitcoin transactions, researchers and law enforcement can often discern users’ information using various blockchain analysis tools or, for law enforcement, through issuing subpoenas. Unlike with cold hard cash, using bitcoin basically puts transactions on a billboard for all to see, which is not ideal for criminals.
+
+Bitcoin is not something that you can often use for everyday purchases; however, out of all cryptocurrencies, it’s by far the most popular and the easiest to exchange or cash out. Therefore, terrorists have an incentive to try to make crowdfunding with bitcoin work — as opposed to using another cryptocurrency that has fewer users and a more cumbersome exchange process.
+
+That all being said, bitcoin is hardly ubiquitous enough to pay your delivery guy. More often than not, when purchasing weapons and supplies, terrorists need cash. Though cashing out bitcoin is possible, it often requires connecting to a bank account or exchanging currencies directly with someone in your area. These are not great conditions for criminals working to conceal their identities as much as possible.
+
+Due to the lack of purchasing power and anonymity, experts have deduced that cash is still king in the world of terror financing, declaring that bitcoin, and cryptocurrencies in general, are not an immediate threat. But recently, terrorists have found a way to essentially fully anonymize themselves on the bitcoin blockchain, and if mass adoption of this cryptocurrency actually occurs, extremists could easily make bitcoin a vital part of their fundraising. In this case, we could have a real problem on our hands.
+
+How Terrorists Began To Learn
+
+Most terrorists’ early experimentation with bitcoin occurred on the dark web or behind private chat-channels. This changed in 2016 when a group on the Gaza Strip called Ibn Taymiyya Media Center (ITMC) publicly solicited bitcoin donations on Twitter and Telegram to prop up a funding campaign called Jahezona.
+
+The goal was to raise $2,500 per fighter; however, over a two-year period, the group only raised about $2,500 in total based on the price of bitcoin from the day of these contributions. Likewise, the group made another critical error: they publicly claimed a BTC address online.
+
+Some may not think this is a mistake, how else are they supposed to receive donations? But groups that rely on a single address, or even several addresses, open themselves up for scrutiny because researchers now know that any incoming transaction is someone sending the group money and any outgoing transaction is the group moving money.
+
+Researchers can learn a lot about not only funding tactics through this flow of money, but also about who the user behind the funds could be. Law enforcement can take this information a step further by subpoenaing exchanges for user information.­
+
+Again, the claims of many counter-terrorism analysts and cryptocurrency experts were reinforced: bitcoin would not make a sustainable funding model for terrorists. Despite Jahezona’s meager success, the attempt went on to inspire others to try out their methods.
+
+One particular group out of the Idlib region of Syria, Malhama Tactical, started publicly soliciting BTC donations in June 2018. Malhama Tactical, a self-proclaimed jihadi paramilitary group, was seeking donations to fund its operation for training soldiers against ISIS and the Assad regime. The group posted several banners on Twitter soliciting donations for their efforts.
+
+Donations weren’t exactly rolling in for this obscure group in Syria. However, they did start changing their approach for soliciting donations by deleting all tweets with their BTC address and instead requesting that interested parties contact them via DMs for the address.
+
+While there is some speculation that this group removed their address in order to bolster claims they had received more donations than they actually had, their actions did fall in line with how many other groups were using bitcoin. By taking the address off of public display and making it accessible only to interested parties, groups made it harder for researchers to obtain addresses outside of creating fake accounts.
+
+Come January 2019, the landscape evolved even further. The military arm of Hamas, Al-Qassam Brigades, started soliciting donations for their cause. Like the other examples above, they started posting on Telegram and Twitter asking for donations to an address. However, they made an even more critical mistake than the others.
+
+One of the addresses Hamas posted was created through Coinbase, a U.S.- based exchange that closely vets its users. If they suspect a user is using fake information, they are not cleared to transact on the exchange. This means that the group basically handed over one of their member’s real personal information in order to accept bitcoin donations. Realizing their error, the group began soliciting an address created through a different exchange with less stringent identification policies.
+
+After this false start, Hamas buckled down on their bitcoin knowledge and wound up using a much more sophisticated way for their group to garner donations. Al-Qassam Brigades created a funding page on their website that generates a new unique bitcoin donation address every time the page is refreshed. Though the discovery of an address is usually a good sign that the funds or related addresses can be traced, in this case, none of these addresses can be found on the blockchain because they haven’t received any funds yet. Again, the blockchain is a public ledger of all bitcoin transactions to ever occur, but if no currencies are exchanged, no transaction is recorded.
+
+If a transaction is needed to put one of these uniquely generated addresses on the blockchain, then the only way to get that information is to donate to Hamas. And therein lies the catch: In order to track the terrorists, you have to join them.
+
+By utilizing these uniquely generated addresses, Hamas ensures that the mishaps other groups ran into with researchers and law enforcement tracking them close to impossible. Every new donation belongs to a completely new address that only the person donating has ever seen before. This funding mechanism is a powerful tool in Al-Qassam Brigade’s arsenal, and they aren’t the only ones using it.
+
+Researcher Raphael Gluck recently flagged ISIS media website al-Furqan for soliciting BTC donations using the same address generating software as Hamas. It is unclear whether Hamas or al-Furqan implemented this technology first. Gluck’s findings came on the heels of the Sri Lanka Easter Bombings, which ISIS allegedly funded with bitcoin. Based on this information, it is likely that ISIS used this funding development to perpetrate the Sri Lanka attacks. The terrorists’ upgrade from Twitter ads to address generating software isn’t just innovation, it’s deadly.
+
+A Wake-Up Call
+
+Al-Qassam Brigades and ISIS may be some of the first extremist groups to use this style of bitcoin funding, but they definitely won’t be the last. Claims that bitcoin is not suitable for illicit activity due to traceability and lack of liquidity just had a major wrench thrown into their equation. These groups have found a way to almost totally anonymize their funding — now all they needed is a quick cashing out process before bitcoin becomes a true staple in their financing. Cash might still be king, but bitcoin could quickly become a kind of queen.
+
+We should also remember that bitcoin and other cryptocurrencies are not innately illicit. Blockchain technology is a powerful tool that many good people use. But, like any great innovation, there comes a social cost. Trends such as the ones identified above should spark experts in terrorist financing, blockchain technology, and regulation to action. We know that terrorists are continuing to use bitcoin to fund their efforts, so it’s time to mitigate the damages while we can.

@@ -1,0 +1,41 @@
+DATE:  16.09.2019, 13:00:12
+TITLE: Biometrics’ Role In SCA Compliance
+URL:   https://www.pymnts.com/news/regulation/2019/biometrics-role-in-sca-compliance/
+
+Despite announcements last month that the deadline for Strong Customer Authentication (SCA) compliance will be extended, the original proposed deadline approaches next week.
+
+The U.S. has not implemented regulations like GDPR or SCA, but there has been a groundswell of interest, at least from the private sector. Previous efforts for the U.S. to come up with a national privacy law were stymied. This week, however, the Business Roundtable, an organization comprised of top U.S. CEOs, is asking Congress to pass a comprehensive consumer data privacy law that establishes a national framework and strengthens protections for consumers.
+
+Essentially, SCA mandates that millions of consumers will need to confirm their identities for most of their online purchases using two of the following: who they are (e.g., a fingerprint), what they have (e.g., a phone) and what they know (e.g., a password).
+
+The latest PSD2 Tracker looks into how EU merchants and retailers could leverage biometric authentication to better comply with SCA.
+
+Immediate Challenges
+
+The potential cost for non-compliance is huge. Online merchants could collectively lose approximately $57 billion in 2020 due to SCA adjustments, under current levels of preparedness.
+
+Even with exceptions and extensions, EU merchants are relying on card acquirers and issuers to determine how customers will be authenticated under SCA. As a result, technology providers and other companies are currently developing and launching solutions to better enable merchants that are still struggling with SCA.
+
+In an interview with PYMNTS, Paul Rodgers, chairman of European payments membership forum Vendorcom, noted that merchants will be inundated with unanswerable questions until providers make their choices.
+
+“The real challenge is, what do merchants communicate to their customers at the moment? Because merchants are essentially passengers in this process. … Frankly, they’ve gotten on board the SCA card payments Titanic,” he said.
+
+Biometrics and SCA
+
+The “who they are” component of SCA’s identity confirmation guidelines might be the area that stands to see the most innovation. The search for new authentication services
+
+is leading merchants and corporations to take a closer look at biometrics.
+
+Technology providers have rushed to provide physical or behavioral biometrics to overcome the two-factor authentication (2FA) hurdle, though this could change with the introduction of EMV 3D Secure. Additionally, payments shifting to mobile devices to take advantage of biometric capabilities could move such transactions outside the scope of PSD2.
+
+Payment processing company Computop recently announced a biometric authentication solution that merchants can utilize under SCA. The offering allows merchants to run 2FA checks during payments. Merchants that adopt the technology can authenticate consumers through a number of smartphone-based biometric measures, including fingerprints and facial scans, vocal scans or voice prints.
+
+In July, the European Banking Authority (EBA) approved keystroke dynamics and the angle at which the user holds the device as behavioral biometrics that are acceptable for the SCA standard of PSD2. These are in addition to physical biometrics like fingerprints, retina and iris scanning, and vein and voice recognition.
+
+Regulators are also closely examining biometrics as the deadline moves closer. It’s not a stretch to ask consumers to use biometrics, since fingerprint and facial recognition are already commonly used by mobile banking apps or to unlock smartphones. The wild card is how acceptable this process will be for making online purchases – or any purchases at all.
+
+Amazon recently raised privacy advocates’ concerns with the announcement of a new payment system to allow users to pay for goods – in this particular case, groceries at Whole Foods – by waving hands at a scanner.
+
+In an interview with PYMNTS, Rob Eleveld, CEO of identity verification service Ekata, spoke about what comes next. There are tools that are currently in development and might be too untested to immediately help with SCA authentication. Verification solutions that might look at behavioral traits rather than biometrics could have traction.
+
+“If the score of behavioral activity that someone does online is just as accurate as retinal scanning, why doesn’t that count?” asked Eleveld.

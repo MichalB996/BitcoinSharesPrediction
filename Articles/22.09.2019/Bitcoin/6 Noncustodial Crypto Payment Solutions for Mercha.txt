@@ -1,0 +1,51 @@
+DATE:  22.09.2019, 02:00:07
+TITLE: 6 Noncustodial Crypto Payment Solutions for Merchants
+URL:   https://news.bitcoin.com/6-noncustodial-crypto-payment-solutions-for-merchants/
+
+6 Noncustodial Crypto Payment Solutions for Merchants
+
+You don’t have to be a bitcoin purist or tech tinkerer to want to accept cryptocurrency without using a third party. With lower merchant fees, greater network uptime, and no chargebacks, noncustodial crypto payments have several advantages over traditional fiat payment systems. Here are six noncustodial options for accepting crypto in-store and online.
+
+Also read: How Cryptocurrencies Can Mitigate Some of Brexit’s Negative Effects
+
+Accept Crypto With No Questions Asked
+
+For merchants interested in accepting cryptocurrency in-store or online, there’s now a wealth of options. Major companies like Coinbase and Bitpay dominate the industry, with the latter’s custodial solution promising to insulate the retailer from the volatility of crypto. But that’s not all custodial solutions protect the merchant from. Due to the permissioned nature of these payment systems, retailers risk running afoul of the terms of service and having their account closed, which occurs more frequently than you might think – just ask Gab.com.
+
+Should any of your customers hail from countries that are subject to U.S. sanctions, for instance, you’re in danger of having your account shuttered by a U.S. payment provider. The fact that you’re transacting in cryptocurrency won’t save you when you’re using a custodial solution. There are greater reasons why it may be desirable to seek a noncustodial crypto payment solution. Doing so brings greater privacy, grants you sole ownership of funds the moment the transaction clears, and is a far truer way to transact with cryptocurrency, without intermediaries.
+
+Atomicpay
+
+Atomicpay is a noncustodial payment application that supports seven cryptocurrencies including BCH, BTC, LTC, and DASH. It’s user-friendly, offers price conversion into over 150 fiat currencies, and has good privacy practices built in, including generating a new address for every transaction. You can integrate Atomicpay into an ecommerce module such as Woocommerce, and it’s easy to generate payment buttons to embed on your site.
+
+Atomicpay is also suitable for use in physical stores. It offers API integration and the ability to generate a payment invoice in just a few seconds. In terms of fees, Atomicpay charges a reasonable 0.7-0.9% per transaction, with the Personal plan requiring no KYC to get started. Upgrade to the Business plan, however, and you’ll be required to undergo KYC. Greater cryptocurrency support, such as ETH, would be useful, as would additional ecommerce modules, which are listed as coming soon. That aside, Atomicpay provides a good all-round option for merchants desiring a noncustodial solution.
+
+CMM Pay
+
+CMM Pay is a British-based payment startup whose noncustodial service only launched at the start of the month. BTC is the sole major crypto supported at present, although additional assets are on their way. Setup takes less than five minutes and, as a noncustodial payment solution, there’s no need to undergo KYC. CMM Pay’s standard fee is 1%, though for a limited time this has been waived altogether. Features include 24-hour customer support and a merchant dashboard for viewing cryptocurrency sales, business wallet balances, and a host of other metrics.
+
+8Pay
+
+8Pay is a noncustodial payment system with a twist – several twists in fact. Operating on the Ethereum network, it provides on-demand and recurring payments between retailer and customer. This makes it possible to set up subscription-based payments for goods and services. The best part about all this is it’s achievable without sacrificing decentralization: 8Pay is noncustodial and requires no KYC. The only downside is that as an Ethereum-only solution, it’s limited to ETH and ERC20 tokens including stablecoins. There’s good reason for this though: implementing the sort of features that 8Pay’s built into its payment protocol calls for utilizing smart contracts of the sort which most other crypto networks can’t support.
+
+Once 8Pay’s web and mobile apps are rolled out, it will be possible for shoppers to subscribe to on-demand and replenishment-based services (think movies, music, toiletries, household essentials, utility bills) with tokens deducted from their crypto wallet at fixed intervals until they choose to cancel the arrangement. 8Pay also features payment buttons, unique payment links, and the ability to generate invoices on the fly.
+
+Coinbase Commerce
+
+Coinbase attracts flak for some of its executive decisions, and it’s not opposed to deplatforming users of its exchange for the flimsiest of reasons. It’s hard to take exception to the company’s merchant payment solution however. Coinbase Commerce is noncustodial, easy to set up and charges no fees. BCH, BTC, ETH, LTC, and USDC are all accepted, and the interface is neatly designed. It claims to have more than 2,000 merchants using Coinbase Commerce already.
+
+Blockonomics
+
+A BTC-only service with a host of advanced features, Blockonomics is a noncustodial solution for crypto-savvy merchants. It’s not hard to use if you’re familiar with cryptocurrency, but there’s a lot going on here. A range of ecommerce plugins are complemented by enterprise invoicing and the ability to accept BTC into your existing wallet including hardware wallets for added security.
+
+Bitcoin Cash Register
+
+About as simple as a merchant application gets, Bitcoin Cash Register is an Android and iOS application developed by Bitcoin.com. All you need to get started is the public key to your BCH wallet. It’s simple because cryptocurrency is meant to be simple. There’s no need for second layer solutions, payment channels or custodians to convert crypto into fiat and vice-versa when the customer can just press a button and funds are despatched directly to the merchant’s wallet in seconds. Bitcoin Cash Register is limited by being BCH-only, but in every other respect, it’s the perfect example of what a noncustodial crypto payment solution should be.
+
+What other noncustodial merchant payment solutions do you recommend? Let us know in the comments section below.
+
+Disclaimer: This article is for informational purposes only. It is not an offer or solicitation of an offer to buy or sell, or as a recommendation, endorsement, or sponsorship of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.
+
+Images courtesy of Shutterstock.
+
+You can now purchase bitcoin without visiting a cryptocurrency exchange. Buy BTC and BCH directly from our trusted seller and, if you need a bitcoin wallet to securely store it, you can download one from us here.

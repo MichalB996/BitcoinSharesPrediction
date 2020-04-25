@@ -1,0 +1,49 @@
+DATE:  17.11.2019, 19:20:05
+TITLE: An Army of Bitcoin Devs Is Battle-Testing Upgrades to Privacy and Scaling
+URL:   https://www.coindesk.com/an-army-of-bitcoin-devs-is-battle-testing-upgrades-to-privacy-and-scaling
+
+You can think of it as a massive study group with big potential repercussions for bitcoin's usability.
+
+Almost 200 developers are currently reviewing "Bitcoin Improvement Proposals" (BIPs) around Taproot and Schnorr, upgrades to the premier cryptocurrency that could usher in enhanced privacy and scalability.
+
+Pioneered by Xapo bitcoin core contributor Anthony Towns, the idea is to get as many developers as possible to review the changes, to battle-test the BIPs and make sure the ideas are actually safe.
+
+"This is a way to make sure more people understand the proposal as early as possible," Towns said.
+
+Organizers and have been calling the review group an "experiment," as this style of a review group has never been organized so far, and they're not quite sure how it will go. Towns pointed to Chaincode developer John Newbery's weekly bitcoin review group as a model for roping developers into the review process.
+
+BIPs are always public for anyone to review and there are plenty of avenues for offering feedback, like, worst case, if there's a security vulnerability with the code. But not everyone knows how this process works.
+
+The project description admits that "not many people are familiar with reviewing BIPs in the first place, and there are a lot of concepts involved in the three BIPs for people to get their heads around."
+
+But Square Crypto project manager Steve Lee is encouraged this is a way to get more developers involved. “People from all over the world have registered, and many names I have not heard of before," he said. Square is a sizable investor and innovator in bitcoin tech.
+
+How to change bitcoin
+
+In the midst of a sprawling code change, consensus is hard to achieve. Towns says there is a three-step process: identifying the need for a change, writing the code that implements the change, and “having everyone using bitcoin adopt the new code so that the change actually happens," Towns said.
+
+This study group is part of stage one, he said, with participants scrutinizing a handful of "BIPs," or technical proposals for improving bitcoin.
+
+"It’s where we get the details nailed down so that we can work out if things actually make sense or it’s all pie-in-the-sky dream," Towns told CoinDesk.
+
+Though it's a long process, several BIPs have made their way into the bitcoin code over the last decade. Perhaps the best-known is Segregated Witness (SegWit), a change that paved the way for lightning network, early-stage technology that might be bitcoin's best chance at reaching a higher volume of users.
+
+Developers have been discussing adding Schnorr to bitcoin for years. With no major problems found so far, it and Taproot look like a shoe-in.
+
+That said, this effort will bring more eyes to the BIPs. And experts will be closely guiding developers who have never been through the BIP process before.
+
+Participants are spending four-plus hours a week over the next two months sifting proposals and talking them over in small groups.
+
+The BIP group is holding a series of Q&As with experts long-time immersed in bitcoin's underlying technology.
+
+Spontaneous suggestion
+
+As Towns described it, the group formed almost by accident, just as a decentralized bitcoin development process often does.
+
+Developers chat about changes to bitcoin over Internet Relay Chat (IRC). The chat group is completely open – any bitcoiner is invited to join these chat groups, whether to read the transcripts to learn about bitcoin, or to contribute new ideas.
+
+One such discussion centered on how to get the change Taproot to the next level.
+
+"A few of us were chatting on IRC about the Taproot proposal and how to move on from the current draft BIPs to the next steps, and how we would even know when people were comfortable enough with the BIPs that it was time to do that," Towns said. "A couple of hours later we had a shared doc with a rough draft of what that might look like, and it ballooned from there."
+
+The spontaneity of the two-month program highlights how flexible the bitcoin development process can be. Anyone who understands the current processes well enough can try to take initiative.

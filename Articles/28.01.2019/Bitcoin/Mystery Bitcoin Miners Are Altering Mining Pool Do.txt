@@ -1,0 +1,37 @@
+DATE:  28.01.2019, 17:58:04
+TITLE: Mystery Bitcoin Miners Are Altering Mining Pool Dominance
+URL:   https://news.bitcoin.com/mystery-bitcoin-miners-are-altering-mining-pool-dominance/
+
+Mystery Bitcoin Miners Are Altering Mining Pool Dominance
+
+During the first month of 2019, studies have revealed the growing trend of unknown miners processing blocks on the Bitcoin Core (BTC) network. A few years ago, most mining pools began revealing their identity via the coinbase parameter when they found a block. Over the last two years, however, unknown miners have started to dominate as established operations have lost a considerable share of hashrate.
+
+Also read: Bloq Labs Reveals Software Suite That Aims to Increase Hash Power by Double Digits
+
+Unknown Bitcoin Miners Have Been Shifting Hashrate Dominance
+
+The bitcoin mining industry is extremely competitive, with the overall SHA-256 hashrate for major public blockchains growing immensely over the years. Between the two most popular mined SHA-256 coins, bitcoin cash (BCH) and bitcoin core (BTC), 41.8 exahashes per second (EH/s) are currently securing both chains. A recent study from the researchers at Diar explains how unknown miners are shifting the dominance of major known mining pools.
+
+“Unknown miners closed December having solved a whopping 22% of the total blocks up from 6% at the start of last year,” explains Diar’s research report. It continues:
+
+The small miner exodus could be a possible positive for Bitcoin’s network security as smaller miners joined to the hip of large pools began turning off their computing power resulting in a decline in mining pool dominance.
+
+The researchers say there could be “concerns” with the growth of unknown mining pools. Diar’s report explains that just because the miner chooses not to disclose its identity doesn’t mean the source of the hash power isn’t an existing known pool. The researchers note that the three large pools of Btc.com, Antpool, and Viabtc have all seen their percentage of total hashrate decline over the past year, even though they have added a 55 percent increase in pooled resources. In January of 2018, those three combined pools had 53 percent of the network while now they have less than 39 percent the report details.
+
+Coinmetrics Notices the Resurgence of Mystery Miners After Parsing 450,000 BTC Blocks
+
+Diar is not the only analysis team that has picked up on this growing trend of unknown mining pools. During the first week of 2019, cryptocurrency analytics site Coinmetrics noticed the same thing. After parsing the coinbase outputs from the last 450,000 BTC blocks, the researchers noted that one mystery arising from the charts is “the resurgence of unknown miners.” Coinmetrics details that between mid-2015 and mid-2017, most miners disclosed their identity through the coinbase parameter to identify themselves with the name of their pool.
+
+“However, through 2018, unknown miners picked up — This may be due to the waning importance of miner signaling due to the resolution of the Segwit saga, a newly-found appreciation for privacy, or the emergence of miners who have something to hide,” explains Coinmetrics’ granular mining pool mapping research.
+
+Unknown Mining Pools Have Increased Since the Peak of the 2017 Scaling Debate
+
+The resurgence of unknown miners is also prevalent within the BCH network. During the first few months after Aug. 1, 2017, the BCH network had a significant amount of unknown miners processing blocks. This period of time is when the shift seemingly began for both the BTC and BCH networks as it introduced the possibility for SHA-256 mining pools to switch between both chains depending on profitability.
+
+Since then, the rise of unknown mining pool sightings on both chains has continued to increase, and during the Nov. 15, 2018 BCH chain split, there was a huge influx of unknown miners on both networks. At the time of publication, unknown mining entities make up more than 17 percent of the BCH network. Similarly, on Jan. 28, 2019, the BTC chain’s hashrate distribution shows there’s roughly 22.7 percent of unknown miners processing BTC blocks.
+
+What do you think about the resurgence of unknown miners taking away the dominance of known mining pools? Let us know what you think about this subject in the comments section below.
+
+Image credits: Shutterstock, Pixabay, Diar, Coinmetrics, Blockchain.com, and Coin Dance.
+
+Want to create your own secure cold storage paper wallet? Check our tools section.

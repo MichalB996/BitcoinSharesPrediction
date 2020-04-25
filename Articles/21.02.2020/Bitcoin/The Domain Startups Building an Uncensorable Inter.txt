@@ -1,0 +1,41 @@
+DATE:  21.02.2020, 13:30:00
+TITLE: The Domain Startups Building an Uncensorable Internet on Top of Ethereum
+URL:   https://www.coindesk.com/the-domain-startups-building-an-uncensorable-internet-on-top-of-ethereum
+
+Ethereum developers are leveraging blockchain’s censorship-resistant nature to launch the next iteration of the internet, Web 3.0.
+
+Last weekend at ETHDenver – one of the conference circuit’s top gatherings of ethereum coders – decentralized internet alternatives were on display, including Ethereum Name Service (ENS), Unstoppable Domains and UniLogin.
+
+Launched in 2017 and 2018, respectively, ENS and Unstoppable Domains are confronting the hierarchical nature of the internet stack and the Domain Name System (DNS) by building out a peer-to-peer (P2P) internet alternative. Meanwhile, UniLogin provides a portal to Web 3.0 projects such as ENS.
+
+The current internet architecture is controlled by select bodies including non-profit groups, businesses, universities and world governments. Buying, naming and controlling a domain is dependent on the good will of hosting providers, said the teams.
+
+Perhaps the best example of the perils of this dynamic is the controversial planned sale of the .org domain to a private equity firm.
+
+Using the ethereum blockchain, this new crop of startups is helping developers get decentralized websites onto the internet without the approval of DNS authorities.
+
+Unstoppable Domains
+
+Built on ethereum, Unstoppable Domains co-founder Brad Kam told CoinDesk the product is purpose-built to protect free speech online.
+
+Domains linked to .crypto addresses can not be taken offline by a third party, Kam said. Recent populist uprisings in Spain and Turkey, which were heavily censored online by each government, were unique motivators, he said.
+
+“Censorship is happening. For example, the .cat registry, which was supporting Catalonian independence, was raided by the Spanish police,” Kam said. “They arrested the founders and they took down a bunch of websites, all to stop them from running independence votes.”
+
+In Turkey, all web hosting providers received a list of 150 banned words that cannot be hosted anywhere in the country. One of them is “naked.” Another one of them is “gay.”
+
+“With decentralized hosting, we focus on replacing the current internet,” Kam said in an interview.
+
+Kam said most people see Web 3.0 products as competitors against one another, a flawed viewpoint. The goal remains cutting out incumbent systems like DNS, Kam said.
+
+“Any existing attempts in the blockchain world are tiny, ourselves included,” he said. “The competition is .com.”
+
+Ethereum Name Service
+
+While Unstoppable Domains has built out a domain registry and browser, ENS has focused on the former with its increasingly popular .eth top-level domain.
+
+“Our ambition is that ENS, long term, upgrades the tech stack of the domain name system of the internet,” said ENS Director of Operations Brantly Millegan. “Practically, it means that you can have a name that you own, that has all the decentralization and censorship-resistance and programmability of ethereum.”
+
+Millegan said ENS is compatible with certain browsers such as Opera and has over 100 applications and APIs integrated. As an ethereum smart contract, Millegan said .eth domains are dependent on the ethereum network and not web hosting partners.
+
+For now, the main use-case remains connecting domains with cryptocurrency wallets, although this feature remains controversial. Originally intended to make crypto addresses similar to email, a recent report by Decrypt showed how ENS domain names could be used to gather personal information such as business deals or people’s locations.

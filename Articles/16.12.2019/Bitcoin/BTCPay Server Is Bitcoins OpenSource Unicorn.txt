@@ -1,0 +1,105 @@
+DATE:  16.12.2019, 13:00:53
+TITLE: BTCPay Server Is Bitcoin’s Open-Source Unicorn
+URL:   https://bitcoinmagazine.com/articles/btcpay-server-is-bitcoins-open-source-unicorn
+
+Ring in the new bitcoin halving cycle the right way: with us!
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+At the beginning of December 2019, Balaji Srinivasan, the former CTO of Coinbase and a co-founder of Coin Center, listed Bitcoin as the most successful unicorn of the 2010s.
+
+As the decade ends, the biggest unicorn of the 2010s wasn’t Uber, Airbnb, or Snap. It was Bitcoin. — Balaji S. Srinivasan (@balajis) December 4, 2019
+
+Bitcoin is not a company — as many snarky commentators were quick to point out. But they’re missing the point, Srinivasan protested. Speaking from an investment standpoint, “nothing else founded in the same timeframe held at $100B for a longer time” than bitcoin, he tweeted, not to mention that the return on investment for bitcoin far exceeds the tech unicorns that Srinivasan said it eclipsed.
+
+Viewed as an open-source unicorn, Bitcoin is ultimately a portent of a trend to come, Srinivasan argued: that protocols will compete with companies in the not-so-distant future.
+
+Maybe he’s right, and maybe Bitcoin has already spawned another open-source unicorn of its own.
+
+Its name is BTCPay Server.
+
+Build It and They Will Come
+
+BTCPay Server could very well be a frontline soldier in Srinivasan’s anticipated struggle between companies and protocols.
+
+Nicolas Dorier began the open-source project as a direct adversary to BitPay after the payment processor posted an August 2017 blog post urging users to upgrade their BitPay software to SegWit compatibility. Only it wasn’t the real SegWit; BitPay was urging users to upgrade to SegWit2x, warning that its clients’ software could be at risk and that it would be supporting a minority chain if it didn’t push the upgrade.
+
+Further Reading: What Is SegWit?
+
+Dorier famously called B.S. on the masquerade, and vowed to make BitPay obsolete.
+
+This is lies, my trust in you is broken, I will make you obsolete — Nicolas Dorier (@NicolasDorier) August 18, 2017
+
+Two years later, the decentralized payment processor has outperformed expectations. It has 3,151 commits on GitHub from 57 contributors. It has integrated the Lightning Network, has been integrated itself in a handful of consumer-facing products like the Nodl plug-and-play node, and has been leveraged in multiple fundraisers. Its brand found itself emblazoned on the cleats of one of the NFL’s foremost tackles, and it also received a $100,000 grant from Square Crypto.
+
+Dorier works full-time on the project. He described its beginnings as “lonely” and he didn’t expect anyone to use it. Still, he put in the legwork, and this eventually led to contributions from other developers and a budding user base.
+
+“Early adopters are super important,” he told Bitcoin Magazine. “They are the ones that keep you pushing. I did not care about growing as much as to satisfy those who cared about what I did. Initially, it was mainly [developers] coincards and rockstardev. Nowadays, the list is way bigger, but that’s always the same: I care more about satisfying current users than appealing to new ones. Satisfied current users will bring the new users.”
+
+They did. According to Dorier, BTCPay Server has surpassed 100,000 downloads. And each of these instances likely accommodates multiple users; one of Dorier’s downloads, for instance, services 2,000 users.
+
+It Takes a Village
+
+As its community has grown, so, too, have contributors. And there’s a common thread in their motivations for joining: Dorier’s hustle and the BTCPay community’s willingness to help for helpfulness sake.
+
+“I heard about BTCPay on Twitter and the whole idea just really resonated with me. Also Nicolas Dorier spent so much of his own time working on this project it really inspired me,” Britt Kelly, who does documentation, support and testing for the project, told Bitcoin Magazine. “I really wanted to contribute to Bitcoin somehow and Core development was basically out of the question for me. BTCPay was, and still is, not like that; there is a wide range of contribution opportunities for anyone, always.”
+
+Kelly has been working on BTCPay for about a year. She described herself as fairly active but also clarified that it’s “not really about deadlines and quotas, it’s about sharing skills, knowledge, tools and working together as a team.”
+
+“Being involved in open-source projects that you really care about, in my opinion, is more of a lifestyle choice than a job,” she said.
+
+Her family and friends would say that this lifestyle amounts to a full-time job, but compared to another team member, Andrew “Kukks” Camilleri, Kelly quipped, she wouldn’t consider herself full-time.
+
+Kukks certainly is one of BTCPay’s most prolific contributors — his 275 contributions are second only to the project’s progenitor, Dorier (1,874). He joined the project in May 2018 after integrating the payment solution into an exchange he was building at the time. A tinker or two later, and he was hooked.
+
+“As I integrated BTCPay as my deposit system, I started submitting small features to make it more suitable,” he told us. “Eventually, I found myself caring and contributing more about enhancing BTCPay for general usage than my own project and decided to shift my full energy towards it!”
+
+Another contributor, Pavlenex, also joined the team after integrating BTCPay in February 2018. He was running an online shop at the time and was looking for a noncustodial payment portal. Immediately, he was struck by the community (around 10 to 30 people at the time) for “providing this free software and spending hours helping people” to implement it.
+
+The community fostered a culture of receive and giveback. Two years later and this ethos still defines the project.
+
+“It’s interesting, the culture of the BTCPay community has not changed,” Pavlenex said. “This project has given so much to me and enabled rapid personal growth. I feel I’ll never be able to give back to BTCPay what it has given me.”
+
+BTCPay Day?
+
+With rapid growth, however, comes growing pains.
+
+As its user base swells, Pavlenex mentioned that BTCPay must now spend more time on customer support. This obstacle became more pronounced as bugs needed to be wormed out of the system because “BTCPay became big and that lots of people depend on it,” as Pavlenex put it, so scaling to support the influx of users became a highlight of development.
+
+For Dorier, one of the primary issues for scaling has been balancing roles and “developing a community which can support itself and share information.”
+
+“I can’t develop and at the same time do support and spread information on how to develop on BTCPay (but I need to run support from time to time so I can feel what is broken). So that’s why we do our best to provide fertile ground for the community to flourish. We don’t have a help desk, but nothing beats a great community,” Dorier said.
+
+There’s also the issue of funding. For the majority of its lifespan, BTCPay has been volunteer run and operational at the good graces of donations. Revenue has never been a goal of the project, and in this sense, it’s a unicorn by the unconventional metric of adoption and user base rather than profitability.
+
+As such, working full-time on the project comes at financial sacrifice. Kukks, for example, recently tweeted his regrets that he may have to stop working on BTCPay full-time as it’s no longer financially viable.
+
+“I’m hoping I won’t have to leave since I’m still trying really hard to make it work. It was definitely one of the hardest parts [of working on BTCPay],” he told us, adding that some of the features users were requesting and offering remuneration for weren’t in line with the team’s development goals.
+
+Kukks’ conundrum serves as a sort of stand-in for the project’s financial troubles. The $100,000 grant from Square Crypto, along with another $50,000 from DG Labs, ACINQ, Wallet of Satoshi and LunaNode, “solved partially the problem of encouraging contributors” but brought with it new problems like paperwork and red tape, Dorier said (BTCPay receives this money on a rolling basis and has been distributing it gradually).
+
+Still, Pavlenex said that this funding has continued to fuel BTCPay’s rapid growth and has helped it to inch “closer to our goal of scaling for the masses.”
+
+Kukks mentioned that the community recently founded the BTCPay Foundation in a bid to “attract corporate sponsors.”
+
+“We have a long way to go to have stable and decent funding for full-time developers and contributors such as myself though,” he opined, adding that he hopes they figure this out because “there’s still so much to build.”
+
+This includes, among many things, support for Blockstream’s Liquid, a hot wallet generator, hardware wallet support and an API that would automate BTCPay using a command line.
+
+To Strive, to Seek, to Find and Not to Yield
+
+“To succeed, BTCPay needs fans and support. Write blogs, develop, create videos, send us love, spread the words and come chat with fellow bitcoiners on our mattermost chat: https://chat.btcpayserver.org,” Dorier added toward the end of our correspondence.
+
+Dorier’s comment, with no mention of the money that the project will need to continue, speaks to the community effort he has fostered and the commitment that permeates every aspect of BTCPay’s development.
+
+The movement came to a physical manifestation at this year’s Baltic Honey Badger conference in Riga, Latvia. Even with money coming in from Square Crypto and Russell Okung featuring the project on his cleats — which led Pavlenex to “giggle, jump and punch the air in excitement” — the BTCPay Day that the team organized around the conference has been a clear highlight of the project, Pavlenex expressed.
+
+“After two years of work on BTCPay, we all met each other in person for the first time,” he said. “We hugged each other and then opened our laptops and began coding and discussing what we can improve. It was unreal how real it felt.”
+
+This marked the first time that the team convened in person. But, even as it took over a year for the distributed team to finally congregate in meat-space, BTCPay Server’s sense of community has always been strong. It may be said that this physical meeting served as a culmination of — and validation for — the hard work the BTCPay Server team puts in to bringing Bitcoin’s open-source mission more in line with its everyday use.
+
+Kukks perhaps best exemplified the team’s dedication to this cause when he told us that he would still contribute even if he got a full-time job. I got the feeling from my talks with BTCPay team members that this conviction and the sense of fulfilment that drives it is part of what makes working on the project so rewarding. And it creates a positive feedback loop: Community members feed off of each other’s energy and continue to build, improve and drive toward success.
+
+“Being a part of the BTCPay community is one of the most rewarding experiences I’ve ever had,” Kelly said. “Basically everyone is contributing to a collection of ideas or shared knowledge about BTCPay, Bitcoin, Lightning, software, UI/UX and many other things like open collaboration models and building on top of [peer-to-peer] services like Bitcoin. It’s a great example of how a network of users, together, can solve problems better than centralized, closed-source solutions.”

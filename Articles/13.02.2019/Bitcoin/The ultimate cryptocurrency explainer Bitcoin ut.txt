@@ -1,0 +1,75 @@
+DATE:  13.02.2019, 09:18:34
+TITLE: The ultimate cryptocurrency explainer: Bitcoin, utility tokens, and stablecoins
+URL:   https://thenextweb.com/hardfork/2019/02/13/bitcoin-stablecoins-utility-cryptocurrency/
+
+Ten years ago the arrival of Bitcoin BTC changed how we view the global monetary system. With it, a new era was introduced that is reshaping how we connect and exchange value.
+
+Cryptocurrencies are decentralized digital assets that use cryptography as an encryption mechanism for security purposes. Beginning with Bitcoin, at the time of the 2008 global financial crisis, the idea was to create a currency independent of any central authority that could be electronically transferred with low transaction fees. The idea behind Bitcoin was to give back monetary control to the people.
+
+In order for them to function, they use what is known as blockchain technology. It is this which provides a permanent record of transactions between any given party that is confirmed and verified by a network of computers, or nodes. It is these nodes that are continually updating the blockchain when new blocks of transactions are added.
+
+By using the blockchain, parties conducting transactions between each other don’t need to reveal their identities, and the transaction doesn’t need to be verified by a third party. At its inception, the aim of the blockchain is to deliver an immutable record of data that is transparent, secure, and reliable.
+
+Today, there are thousands of altcoins that have a market cap, all of which provide various services. These include the likes of cryptocurrencies, utility tokens, security tokens, non-fungible tokens (NFTS), and stablecoins. Read on to understand what all those are.
+
+Bitcoin: Where it all started
+
+Bitcoin is a first generation cryptocurrency that is used for buying goods and services.
+
+When its white paper was published in 2008 by the pseudonymous person (or persons) Satoshi Nakamoto, the aim of it was to deliver an alternative to the banking system for the global population. At publishing, it remains the number one cryptocurrency with a market cap valued at $62.7 billion, according to CoinMarketCap.
+
+It is built on a concept called Proof-of-Work, which is created through the process of mining. In order to mine a Bitcoin, a node needs to solve a complicated algorithm. The node that solves the answer first is rewarded with newly minted Bitcoin. At the moment, 12.5 Bitcoins ($42,000) are rewarded. The third and next “halving” – the point at which the reward is halved – is to take place in 2020 when the number of Bitcoin rewarded falls to 6.25.
+
+Non-Fungible Tokens (NFTs)
+
+This is a type of cryptographic token that represents something unique. Unlike fungible tokens, NFTs are not interchangeable.
+
+NFTs follow the ERC721 token standard on the Ethereum blockchain. The most popular form of NFT is the virtual cat game CryptoKitties. Even though there are thousands in existence, each one of them is unique, with its own fur color, eye color, special features, fur pattern, and facial expression.
+
+NFTs can also be used in art, real estate, and memorabilia. Tickets, identity, and certification could also see NFTs playing a role.
+
+Utility Tokens
+
+These types of tokens are services or units of services that can be bought. The most common type of utility token is the ERC20 Ethereum standard. In 2017, an influx of blockchain startups who built their decentralized applications (dapps) on top of the Ethereum network were able to raise money through initial coin offerings (ICOs). By doing so, it required them to create their own tokens and sell them to the public in exchange for Ether, the cryptocurrency of the Ethereum blockchain.
+
+Utility tokens are digital assets designed to be spent within a certain blockchain ecosystem. For instance, Sia, a decentralized, peer-to-peer cloud storage solution, pays people in Siacoin to those who rent out extra space on their computers on the Sia network. Similarly, those who want to use Sia’s storage must pay a host in Siacoins.
+
+Another example of a utility token is Dentacoin. This is a DCN token solution for the global dental industry, which can be used as a means of payment. Developed by the Dentacoin Foundation, the token is backed by a number of dentists in Bulgaria, Canada, China, Germany, South Africa, the Netherlands, and the UK. As well as using the Dentacoin token to receive dental care, people can earn additional income from the token through the Dentacoin apps.
+
+Security Tokens
+
+These are tokens that are presented to investors in an ICO for the exchange of their money.
+
+A security token is something that represents legal ownership of a digital or physical asset such as real estate or artwork that has been verified on the blockchain. They are directly related to the growth of the company.
+
+As deemed by the US Securities and Exchange Commission (SEC), any token that can’t pass the Howey test should be considered a security. As such it should fall under the 1934 Security Exchange Act.
+
+The Howey test consists of the following:
+
+Is it an investment of money or assets? Is there an expectation of proofs from the investment? Is the investment in a common enterprise? Does any of the profit come from the efforts of a promoter or third party?
+
+Examples of security tokens include Polymath, a network that aims to simplify the legal process of creating and selling security tokens, enabling trillions of dollars of securities to migrate to the blockchain.
+
+It pitches itself as “the Ethereum Polymath equivalency,” adding that “what Ethereum did for tokens, Polymath will do for securities.” The network also has its own ST20 token standard, which is an extension of the ERC20 standard, but introduces the ability to restrict transfers of blockchain tokens. This ensures that security token issuers can maintain regulatory compliance.
+
+Another example of a security token is tZero, a blockchain subsidiary of Overstock, an e-commerce retail giant. The platform is aiming to change capital markets by addressing “some of the inherent inefficiencies of Wall Street so that financial processes and investors are less beholden to traditional, institutional market structures,” according to its website. The tZero security token delivers its holders a preferred equity security, which also features a dividend based on the firm’s adjusted revenue.
+
+Stablecoins
+
+Stablecoins are the latest type of cryptocurrency to have entered the market. There are three types of stablecoins: fiat-collateralized, crypto-collateralized, and non-collateralized.
+
+Fiat-collateralized stablecoins are those which are pegged to real-world assets such as the US dollar, the euro, the pound or the yen.
+
+The most well-known stablecoin is Tether (USDT), which began in 2015. It is a (supposedly) fiat-collateralized stable currency, meaning it’s backed by the US dollar on a 1:1 ratio. However, over the past year, it has been mired in controversy, with some reports suggesting that Bitfinex, a Bitcoin exchange that is behind Tether, had been using it to manipulate the markets.
+
+Another example of a stablecoin is the Gemini Dollar (GUSD), which is a regulated stablecoin. It is built on the Ethereum network and based on the ERC20 token standard, and backed by the US dollar on a 1:1 ratio. It is aiming to provide a stablecoin that “establishes trust through cryptographic proof and regulatory oversight,” according to its white paper.
+
+Crypto-collateralized stablecoins are those which are linked to the reserves of other cryptocurrencies. They maintain their one-to-one ratio through over-collateralization.
+
+For instance, Dai, created by blockchain company MakerDAO, is an example of a cryptocurrency that is backed up by another. It is pegged to the US dollar and is backed by Ethereum. BitUSD is another crypto-collateralized token, which is collateralized by Bitshares.
+
+Non-collateralized tokens are those which are pegged to precious metals such as gold or even oil.
+
+Digix is a stablecoin, but is one that is backed by gold. One DGX token is valued to the value of one gram of gold on the Ethereum blockchain. Considered a safe haven asset, Digix is backed by 99.99 percent gold cast bars from the London Bullion Market Association-approved refiners.
+
+With this knowledge in hand, go forth and see the world of cryptocurrencies with a new understanding.

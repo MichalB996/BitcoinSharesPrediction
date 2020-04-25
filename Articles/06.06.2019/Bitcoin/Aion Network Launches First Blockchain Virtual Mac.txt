@@ -1,0 +1,27 @@
+DATE:  06.06.2019, 13:45:28
+TITLE: Aion Network Launches First Blockchain Virtual Machine on Java
+URL:   https://www.coindesk.com/aion-network-launches-first-blockchain-virtual-machine-on-java
+
+Aion Network, a non-profit aiming to “rebuild an internet that puts users first” through broadening the use of blockchain, announced a new virtual machine built on top of the popular Java Virtual Machine (JVM).
+
+This marks the first blockchain virtual machine available to Java developers.
+
+The Aion Virtual Machine (AVM) is not a modification or rewrite of the underlying JVM, but a supplementary software layer that can interact with the JVM as developers build decentralized applications and smart contracts above it.
+
+Java provides a secure, transparent, scalable, and easily-deployed environment for those unacclimated to the crypto-landscape. This is fits Aion’s mission statement to promote more extensive use of blockchain.
+
+By employing a commonly used language like Java, Aion CEO Matthew Spoke hopes to surmount one of the largest barriers to widespread blockchain adoption: terra incognita.
+
+“We made the strategic decision to leave the JVM intact so we could fully leverage the mature ecosystem around it,” said a company representative in a blog. “Leaning on a hardened language like Java was crucial since a major obstacle for a business interested in Blockchain is the cost and time needed to train their teams on unfamiliar frameworks, languages, and tools.”
+
+To this end, Aion also provides blockchain education and onboarding through Aion Learn and Aion University. Billed as a collection of engineers, academics, designers, and entrepreneurs – aligned with a singular, altruistic mandate – the network provides a catalog of developer tools and application templates, as well as mobile API’s and software development kits.
+
+“We have a unique opportunity to build a foundation for the future economy. Aion is our contribution to that future; and we need the best and brightest to work alongside us to make it real,” said Spoke, on the network’s website.
+
+The Aion blockchain utilizes multiple tools already popular on the mainnet, which provide accessibility and redundancy in the public network.
+
+“Aion aims to become the common protocol used for these blockchains, enabling more efficient and decentralized systems to be built. The Aion protocol enables the development of a federated blockchain network, making it possible to seamlessly integrate dissimilar blockchain systems in a multi-tier hub-and-spoke model, similar to the internet.”
+
+The native currency, AION, facilitates transaction fees for miners of the network. It has a current market cap of $60,495,358 USD, according to CoinMarketCap.
+
+Code image via Shutterstock

@@ -1,0 +1,23 @@
+DATE:  18.02.2019, 13:40:32
+TITLE: Bitmain Announces New, More Efficient 7nm Bitcoin Mining Chip
+URL:   https://www.coindesk.com/bitmain-announces-new-more-efficient-7nm-bitcoin-mining-chip
+
+Bitmain Technologies has announced a new 7-nanometer bitcoin mining processor that it says offers new levels of energy efficiency.
+
+The new ASIC (application-specific integrated circuit), called the BM1397, is said to provide improvements in performance, chip size and energy efficiency for mining proof-of-work cryptocurrencies based on the SHA256 algorithm, such as bitcoin (BTC) and bitcoin cash (BCH).
+
+Made using a 7nm FinFET process from Bitmain chip supplier Taiwan Semiconductor Manufacturing Company, the BM1397 will gobble up less electricity than previous Bitmain offerings, offering an energy consumption to computing ratio “as low as 30J/TH,” according to an announcement Monday.
+
+Bitmain said:
+
+“This is a 28.6 percent improvement in power efficiency in comparison with Bitmain’s previous 7nm chip, the BM1391. To achieve this, Bitmain’s engineering team has thoroughly customized the chip design to optimize its architecture, circuit and economics.”
+
+The new ASIC will feature in new Antminer mining devices – the S17 and T17 – that Bitmain said it will detail at a later date.
+
+The announcement comes soon after the mining giant revealed its most recent Antminers – the S15 and T15 – in November, both powered by the BM1391 ASIC.
+
+Bitmain also launched ASIC miners for the cryptocurrencies zcash and ethereum last year. The development prompted ethereum’s open-source development community to tentatively agree in January to implement a new algorithm that would restrict ASIC mining on the network, pending further testing of the required code, ProgPoW.
+
+ProgPoW was delayed earlier this month, however, in favor of conducting audits to gauge the effectiveness of the method.
+
+Miners image via Shutterstock

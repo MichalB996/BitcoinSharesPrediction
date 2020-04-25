@@ -1,0 +1,39 @@
+DATE:  27.03.2019, 22:58:28
+TITLE: Cashshuffle Launches, Bringing Greater Privacy to the BCH Ecosystem
+URL:   https://news.bitcoin.com/cashshuffle-launches-bringing-greater-privacy-to-the-bch-ecosystem/
+
+Cashshuffle Launches, Bringing Greater Privacy to the BCH Ecosystem
+
+On March 27, the development team behind the privacy-centric protocol Cashshuffle announced the official launch of the platform using the Electron Cash wallet. Anyone can use the latest Electron Cash version 4.0 with Cashshuffle and the implementation will also be added to the Bitcoin.com wallet and Badger client soon.
+
+Also read: Examine the Token Universe Built on BCH With the New SLP Explorer
+
+Cashshuffle Launched on Electron Cash Version 4.0
+
+Bitcoin Cash (BCH) supporters who appreciate privacy rejoiced on Wednesday when Electron Cash (EC) lead developer Jonald Fyookball announced the official Cashshuffle release implemented in EC version 4.0. The Cashshuffle version is available for Mac, Windows, and Linux users and is disabled by default for better privacy. Moreover, the development team behind Cashshuffle have had the project’s process and code audited by the firm Kudelski Security.
+
+The security researchers diligently studied Cashshuffle’s implementation, error handling, interaction with the blockchain network, and more. Kudelski also looked at general code safety and susceptibility to known vulnerabilities, any bad coding practices, and whether there was any leakage of secrets or other sensitive data through memory mismanagement.
+
+The Kudelski Security report concluded:
+
+We believe that the Cashshuffle codebase that we reviewed is implementing the Coinshuffle protocol with no significant deviations, and we did not find any evidence of malicious intent, flawed logic or potential backdoor in the codebase.
+
+Shuffling Coins
+
+News.Bitcoin.com also tested out the new EC 4.0 version with the Cashshuffle extension to gain an insight into how the shuffling operation works. In order to get the new wallet, go to the official Electron Cash website and download the EC 4.0 release for any of the three desktop operating systems. After the download is complete, installation only takes a minute and you’ll then be directed toward creating or importing a wallet. After this process is finished, the default wallet will be open with the ability to send, receive and store BCH like any normal wallet.
+
+In order to toggle the Cashshuffle feature and connect to the server, go to the Tools tab and select Optional Features. Inside this window, connect the Cashshuffle protocol but initially the settings will keep the program off by default in order to ensure privacy. At the very bottom of the wallet, next to the lock symbol, is an orange Cashshuffle icon that allows you to enable and disable the service at will.
+
+After loading some BCH into the wallet, simply turn the Cashshuffle feature on and the protocol will start the queue process, whereupon you will have to wait for five players to shuffle coins. When Cashshuffle is enabled, the program will be set so only shuffled UTXOs can be spent, but you can toggle this setting off so unshuffled coins can be spent. However, the wallet will warn you that spending unshuffled UTXOs could tie the address to a set of mixed transactions.
+
+It’s probably best to use this specific wallet for mixed BCH only, in order to ensure a much stronger anonymity set. The protocol will also explain when the software is “busy shuffling” and how much is being shuffled at the time. In the section labeled Coins you can get a glimpse at the queue process and how many players have joined. Waiting for a group of players to shuffle with you can take a few minutes to a few hours, depending on how many players are looking to shuffle coins.
+
+The BCH community, in general, on social media channels and dedicated forums were pretty thrilled to hear about a privacy-centric feature that’s available right now. In addition to Cashshuffle addition on Electron Cash, the protocol’s website states that it will be implemented into the Badger and Bitcoin.com light clients in the near future. Moreover, Bitcoin Cash might start being known for many powerful privacy techniques with the recent release of Neutrino and Schnorr signature schemes coming in May.
+
+What do you think about the Cashshuffle launch? Let us know what you think about this subject in the comments section below.
+
+Disclaimer: Walkthrough editorials are intended for informational purposes only. There are multiple security risks and methods that are ultimately made by the decisions of the user. There are various steps mentioned in reviews and guides and some of them are optional. Neither Bitcoin.com nor the author is responsible for any losses, mistakes, skipped steps or security measures not taken, as the ultimate decision-making process to do any of these things is solely the reader’s responsibility. For good measure always cross-reference guides with other walkthroughs found online.
+
+Image credits: Shutterstock, Cashshuffle, Electron Cash, and Pixabay.
+
+Verify and track bitcoin cash transactions on our BCH Block Explorer, the best of its kind anywhere in the world. Also, keep up with your holdings, BCH, and other coins, on our market charts at Satoshi’s Pulse, another original and free service from Bitcoin.com.

@@ -1,0 +1,61 @@
+DATE:  18.05.2019, 14:10:25
+TITLE: Homeless in Vancouver: Microsoft issues Windows XP patch to prevent massive ransomware attack—again
+URL:   https://www.straight.com/tech/1242506/homeless-vancouver-microsoft-issues-windows-xp-patch-prevent-massive-ransomware-attack
+
+1 of 2 2 of 2
+
+A major networking vulnerability has been discovered in the following pre-Windows 8 versions of the Windows operating system: Windows 7, Windows Server 2008 R2, Windows Server 2008, Windows Server 2003, and (of course) Windows XP.
+
+Designated as CVE-2019-0708, the remote code execution vulnerability is in a Windows networking protocol called Remote Desktop Services and allows malicious code to be remotely installed in a system without the knowledge of users.
+
+Furthermore, it allows the malicious code to then be spread to any other vulnerable systems that are accessible over a network.
+
+On May 14, Microsoft rushed out patches to fix this serious security flaw in all vulnerable versions of windows—including Windows XP.
+
+Users of vulnerable Windows versions are being urged to install the fix ASAP, as malicious coders are expected to quickly reverse engineer the Microsoft patches to produce malware—particularly ransomware—that exploits the vulnerability.
+
+According to Microsoft’s Technet blog, the following vulnerable systems are still supported and can therefore be patched through the Windows Update Control Panel: Windows 7, Windows Server 2008 R2, and Windows Server 2008.
+
+Vulnerable “out-of-support systems” include Windows 2003 and Windows XP. Users of these superannuated versions of Windows need to manually download the patch directly from Microsoft.
+
+The longevity of XP is enough to make Microsoft WannaCry
+
+When the infamous WannaCry lock screen really appeared, it covered more, if not all of XP’s famous Bliss wallpaper.
+
+Back on May 13, 2017, the Verge website declared: “Microsoft issues ‘highly unusual’ Windows XP patch to prevent massive ransomware attack”.
+
+The ransomware then was the WannaCry cryptoworm, a nasty piece of work that exploited another remote code execution vulnerability that existed in a networking protocol in old Windows versions, like XP.
+
+Thanks especially to the discovery by security experts of an actual “kill switch” buried in the code, WannaCry was neutralized in a few short days. This was not before it had infected and held hostage (pending a ransom payment in Bitcoin) over 200,000 computers spread across 150 countries, with an inestimable cost to computer users at both the individual and the institutional level.
+
+Now, exactly two years and a day later, Microsoft has again felt the need to issue a security patch for Windows XP.
+
+Again to head off the threat a global ransomware attack and again—ostensibly—because of a remote code execution vulnerability within XP.
+
+Arguably though, it is actually Windows XP’s own exploitable security flaws, plus the flaws of the outdated software that it necessarily runs, multiplied by its stubbornly large user base, which adds up to XP being the kind of threat that Microsoft calculates it cannot ignore.
+
+And the problem with XP is not simply that it makes the systems it is installed on vulnerable to malware. It is the fact that every malware-ridden XP installation becomes an infectious host.
+
+Basically, all the computers in the world running Windows XP have become the operating system equivalent of a disease vector for spreading malware—the way mosquitoes are a vector for spreading malaria and deer ticks for spreading Lyme disease.
+
+This isn’t a surprise though. This is more or less what security experts predicted when, over five years ago, in April of 2014, Microsoft officially pulled the plug on remote updates of any kind for XP.
+
+But, I hear you say, Windows XP is now 18 years old. It can barely function on the Internet.
+
+Chrome discontinued support for XP in 2017; Firefox ended its XP support in 2018. And the current version of many Windows applications (including many anti-malware apps) likewise cannot be installed in XP.
+
+It’s such a crippled old dog! How many Windows XP users could there still be in the world?
+
+A little off-the-cuff figuring suggests a number slightly greater than the population of Australia.
+
+Trying to guesstimate the population of the failed state of XP
+
+As of May 2019, the StatCounter website gives Windows 10 a 56.01 percent global market share among all active Windows versions. At the same time, Windows insider Paul Thurrot reported on May 10th that there are now 825 million installs of Windows 10.
+
+If (and I realize it’s a big if) 825 million equals a 56.01 percent market share, then a 100 percent market share should equal a total of 1.47 billion (1,472,951,258.70) installs of Windows.
+
+In that case, the May 2019 market share of 1.75 that StatsCounter assigns to Windows XP equals over 25.7 million (25,776,647.02) potential XP users!
+
+That’s a lot! According to the World Population website, Australia’s current population is comparatively lower—only 25 million.
+
+This stubbornly high, potential user population, I would argue, is the overriding reason why Microsoft feels that it still has no choice but to issue security patches for Windows XP, even after 18 years.

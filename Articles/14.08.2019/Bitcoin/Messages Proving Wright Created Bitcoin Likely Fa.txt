@@ -1,0 +1,33 @@
+DATE:  14.08.2019, 13:00:41
+TITLE: Messages Proving Wright Created Bitcoin Likely ‘Faked,’ Developer Testifies
+URL:   https://www.coindesk.com/craig-wrights-messages-likely-faked-says-bitmessage-developer
+
+Jonathan Warren, the developer of Bitmessage, testified in a pre-trial examination as part of the continuing Kleiman v. Wright lawsuit.
+
+During his deposition at Hudson Yards in New York City on July 24, Warren testified to his role in developing Bitmessage and opined on the possibility that the self-alleged creator of bitcoin, Craig Wright, and his business partner, David Kleiman, had access to the messaging software prior to its release.
+
+This testimony, as part of a document surfaced August 13, speaks to one of the central claims of the prosecution: that Wright forged a series of contracts, emails, and BitMessages that purported to place Kleiman’s assets under Wright’s control.
+
+At stake is a 1.1 million cache of bitcoin, collectively acquired by Wright and Kleiman and kept in the encrypted Tulip Trust. Ira Kleiman, Dave’s brother, is suing Australian-born Wright for allegedly defrauding the Kleiman estate out of some $5 billion worth of bitcoin.
+
+Backdating Messages
+
+According to the document, Warren alleges that messages pertaining to the formation of the Tulip Trust sent between Wright and Kleiman are likely forged. He was asked about Bitmessages dated November 6 and 13, 2012 with subject lines such as “The trust process,” “Regarding the trust process,” and “1933.” 1933 likely refers to a wallet address held by Craig in escrow, according to the initial complaint.
+
+Warren confirmed that the communications protocol was not released until November 19, and these messages were likely “faked.”
+
+Warren was also asked whether it is possible to alter the date and time a Bitmessage displays as received or sent. He affirmed that it’s possible to “trick the software” into displaying the wrong date and time a computer’s local time is backdated before sending a message.
+
+During the cross-examination it came to light that Warren had put forward misleading testimony that he had not asked for help when developing the code.
+
+The defense also established that Warren had been in communication with Wright about a potential audit of Bitmessage in November 2014, contradicting testimony that Warren had not known of Wright prior to his claim to be the pseudonymous inventor of bitcoin, Satoshi Nakamoto, in 2016.
+
+On August 26, a judge may make a decision on whether Wright will be remedied for violating a court order pertaining to this case.
+
+gov.uscourts.flsd.521536.261.1 by CoinDesk on Scribd
+
+Email photo via Shutterstock
+
+UPDATE (15, August 06:05 UTC): This article has been updated to reflect Jonathan Warren’s pre-trial examination took place in New York, New York.
+
+———

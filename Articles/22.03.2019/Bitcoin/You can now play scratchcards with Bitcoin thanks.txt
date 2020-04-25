@@ -1,0 +1,35 @@
+DATE:  22.03.2019, 16:30:22
+TITLE: You can now play scratchcards with Bitcoin, thanks to the Lightning Network
+URL:   https://thenextweb.com/hardfork/2019/03/22/satoshis-lightning-network-scratchcard/
+
+The Lightning Network is where all the weird and wonderful use cases of Bitcoin BTC micro-payments come to life. You can order a Coke, feed chickens, dispense candy, and even play roulette or Pokémon, all courtesy of the Bitcoin sidechain.
+
+But thanks to one enterprising dev, the Lightning Network now has scratchcards. This one has 1,000,000 Satoshis (0.01 BTC) hidden in it. That’s about $40 at the time of writing, not too bad for a scratchcard that might only cost you a few cents worth of Bitcoin.
+
+How does it work?
+
+A scratchcard is created when someone writes something that can be uncovered or scratched away. Players are offered the opportunity to scratch away pixels to uncover the content in exchange for Satoshis (fractions of a Bitcoin) paid through the Lightning Network. When they do, their name is listed as having funded the scratchcard.
+
+How much it costs to scratch away each letter depends on the length of what is written and the funding goal the writer set for the scratchcard. The Lightning Scratchcard website then charges players 10 percent on top of the writer’s funding goal.
+
+Let’s say I write the seed phrase to a Bitcoin wallet that has $20 in it. It’s 12 words, each four characters long. Including spaces that’s 59 characters in total.
+
+I can set a funding target of 500,000 Satoshis covering to cover cost of the wallet, and it gives one person the chance to win it for just pennies. It would cost about 40 cents to scratch away one character.
+
+Lightning Scratchcard will add their 10 percent on this, so players will have to collectively pay 550,000 Satoshis before the entire seed phrase can be read. But once the seed phrase is visible it’s a race to claim the funds.
+
+But it’s not just money that can be garnered by scratching away with Satoshis. There are two-line joke compilations, where punchlines are revealed when the funding target is reached, there are poems, and someone even uploaded the cypherpunk manifesto.
+
+What’s the point?
+
+Sure, it sounds kind of elaborate for the sake of a few dollars, but developer Guilaume Verbal, sees a bigger opportunity.
+
+Verbal told Hard Fork that he thinks this is a “way to replace advertising.” Think of it “like a gamified Patreon,” he continued.
+
+Rather than hiding seed phrases behind the scratch-off pixels, writers could hide entire articles, that would only be viewable in their entirety, once the writer’s funding goal has been reached.
+
+One Redditor called it communism, indeed the rich get their name highlighted as a funder, and the poor get free content. Sounds like a win-win.
+
+It has a long way to go if it’s going to change the face of advertising, but as a concept, I kinda like it.
+
+Did you know? Hard Fork has its own stage at TNW2019, our tech conference in Amsterdam. Check it out.

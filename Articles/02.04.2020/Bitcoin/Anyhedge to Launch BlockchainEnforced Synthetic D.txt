@@ -1,0 +1,37 @@
+DATE:  02.04.2020, 19:55:42
+TITLE: Anyhedge to Launch Blockchain-Enforced Synthetic Derivatives for Bitcoin Cash
+URL:   https://news.bitcoin.com/anyhedge-to-launch-blockchain-enforced-synthetic-derivatives-for-bitcoin-cash/
+
+Anyhedge to Launch Blockchain-Enforced Synthetic Derivatives for Bitcoin Cash
+
+Developers from the organization General Protocols have announced the launch of a synthetic derivatives platform built on Bitcoin Cash. The project Anyhedge aims to be the first decentralized finance (defi) protocol on any branch of Bitcoin and the platform will launch in cooperation with Cryptophyl’s new non-custodial exchange, Detoken.
+
+Also read: Film Reels and Steel: Github Plans to Archive Bitcoin Code for 1,000 Years
+
+Decentralized Finance on Bitcoin Cash
+
+Bitcoin Cash fans were recently introduced to a decentralized hedge solution against arbitrary assets on the BCH network. Similar to other defi concepts, Anyhedge aims to “mitigate volatility through trading of risk in a peer-to-peer, non-custodial, blockchain enforced, fully collateralized way.” The creators of Anyhedge include well known BCH developers such as John Nieri (emergent_reasons), Jonathan Silverblood, Eric Teng, and Imaginary_username.
+
+“We believe that Bitcoin Cash and all crypto has a volatility problem that holds back adoption,” the Anyhedge devs wrote on the read.cash blog. “Anyhedge is a trustless (except for a price oracle), synthetic derivative that we created to mitigate the stability problem using the incentives of speculation.” The white paper states:
+
+An Anyhedge contract involves at the minimum three parties: Hedge, Short, and Oracle. Only Hedge and Short have coins [BCH] involved while Oracle does not need to be aware of the contract at all. It operates much like a subset of traditional futures and forward contracts. […] In essence, Hedge gains a peg on the external asset for their coins, while Short amplifies the risk and reward for theirs.
+
+Further, the Anyhedge programmers say that in addition to curbing volatility, the project can bring a lot of economic activity to the BCH chain. The engineer’s announcement post notes that it can allow people to leverage BCH without leaving the network and also increases the value proposition by adding counterparty positions. Onchain economic activity takes place because the platform uses onchain contracts for mitigation. “With trust reduced to a blind oracle, the futures contract offers a unique set of advantages and disadvantages over existing stability solutions,” the Anyhedge white paper details.
+
+Anyhedge Tools Will be Released Soon
+
+When the developers have the software polished, the platform will be released in an open source manner and with libraries. The information will be helpful to exchanges and over-the-counter (OTC) crypto desks who are interested in leveraging the derivative.
+
+“General Protocols earns revenue by providing an easy API to all of those parties, especially exchanges and OTC desks,” the software devs underline. “The API handles all the complexity around creating, monitoring and upgrading contracts with no need for new infrastructure or knowledge. A small fee is trustlessly included in every contract made with the API.”
+
+The Bitcoin Cash community welcomed the Anyhedge project on social media and forums like r/btc. “I’m really excited about this and can’t wait to see what other markets get introduced,” one person wrote in response to the Anyhedge announcement. “Going to read through the white paper now,” the individual added.
+
+Anyhedge developers have also explained that the platform will be available for testing soon and there’s plenty of material available for people to read up on the subject until then. “Tools for everyone to play with will be released soon, probably after everything is released with Cryptophyl and Detoken,” the Anyhedge team concluded.
+
+What do you think about the BCH project Anyhedge? Let us know in the comments below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons, Anyhedge.com, Anyhedge white paper
+
+Purchase Bitcoin without visiting a cryptocurrency exchange. Buy BTC and BCH here.
+
+Disclaimer: This article is for informational purposes only. It is not an offer or solicitation of an offer to buy or sell, or a recommendation, endorsement, or sponsorship of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

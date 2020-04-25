@@ -1,0 +1,41 @@
+DATE:  12.06.2019, 22:45:26
+TITLE: The Blind Trust Described in the Kleiman vs. Wright Lawsuit Is a Real Head-Scratcher
+URL:   https://news.bitcoin.com/the-blind-trust-described-in-the-kleiman-vs-wright-lawsuit-is-a-real-head-scratcher/
+
+The Blind Trust Described in the Kleiman vs. Wright Lawsuit Is a Real Head-Scratcher
+
+There’s been a number of developments in the ongoing Kleiman vs. Wright lawsuit lately. After Craig Wright’s sworn deposition, the plaintiffs contend that Wright’s categorical refusal to answer questions about his bitcoin addresses and his marriage(s) needs to be reevaluated. Wright’s legal team say he’s done everything possible to comply with the court’s orders but the Kleimans believe the self-proclaimed Satoshi has been stonewalling for nine months.
+
+Also Read: Satoshi’s Pre-Release Bitcoin Code Contains Fascinating Findings
+
+The First 70 Blocks and the So-Called ‘Blind Trust’
+
+The ongoing Kleiman vs. Wright lawsuit has started to heat up as the plaintiffs want more answers from Craig Wright, the man who claims to be Satoshi Nakamoto. The Kleiman estate represents the now deceased David Kleiman, a security researcher that some believe may have been a member of a pseudonymous group operating under the Satoshi Nakamoto monicker. According to Ira Kleiman, his brother David’s inheritance was manipulated during a multi-year partnership with Australian native Craig Wright. More recently Wright was deposed and refused to answer questions about his current and former wife and certain questions in regard to his alleged bitcoin addresses. Wright did claim to own the addresses to the first 70 blocks mined on the Bitcoin blockchain and provided some information concerning an ostensible blind trust.
+
+Not long after the once redacted list of bitcoin addresses was unsealed, bitcoin security specialists Wizsec researched the addresses and stated Wright’s claim of ownership was still meaningless. Moreover, one of the addresses allegedly used in the case (Wright claims the address is a forgery) was signed by the real owner on May 16, 2019. The legitimate owner of the address in question called Wright a liar and a fraud in the signed message. Wright’s legal team explained that he could provide the public addresses for the first 70 blocks, but also said: “he did not have public addresses for bitcoin that was mined after those blocks because that information is held in a blind trust.” A court filing from June 11 describes in great detail the reasons why Wright presumably cannot disclose certain information tied to the purported trust. Wright’s lawyers did emphasize to the court that “Dr. Wright is the best person to explain the complex manner by which bitcoin was mined and held in the trust.”
+
+Describing the Blind Trust’s Complexity
+
+According to the court document, after he mined the first 70 blocks of bitcoin, Wright allegedly designed a unique algorithm. This algorithm automated the key generation process so that after block 70 was mined, blocks that followed would be assigned to a different public address. This supposedly means the coins were mined directly into the blind trust after this scheme was implemented. The document also says that Wright disposed of all of his mining rigs used to process bitcoin blocks throughout 2009 and 2010. “[Wright] did not keep any list of the public addresses associated with the bitcoin he mined after block 70,” the document explains. “Dr. Wright ceased mining by the end of 2010 — At that time, the value of bitcoin fluctuated between $0.06 and $0.29.” The defense filing continued:
+
+The private key needed to access the encrypted file with the data necessary to retrieve information about bitcoin Dr. Wright mined after block 70 has been split into multiple key shares (in lay terms, multiple parts) through a version of “Shamir’s Secret Sharing Algorithm”, an algorithm created by Adi Shamir to divide a secret, such as a private encryption key, into multiple parts.
+
+After using Shamir’s Secret Sharing Algorithm, Wright insists that the key shares were then distributed to multiple individuals included in the blind trust. The system Wright and his partners imposed made it so no single participant could extract the information and Wright alone does not have the ability to access the encrypted file. “Dr. Wright does not know the public addresses of the bitcoin held by the trusts (i.e., the bitcoin mined by Dr. Wright in 2009 after block 70, through 2010).” Because of the blind trust complications, the document seems to suggest that Wright doesn’t have enough information to claim ownership (sign) because the keys were transferred into the blind trust with multiple owners.
+
+Plaintiffs Don’t Buy Wright’s Argument and the Crypto Community Continues to Fact Check
+
+However, the plaintiffs still want a comprehensive list of the public addresses of all the bitcoin Wright allegedly mined before December 2013. An order signed by the Judge shows that Wright must produce this list by June 17, 2019, and if he cannot comply the court may conduct a show cause evidentiary hearing. The defense believes that the Kleimans’ demand that “Dr. Wright authenticate every single document related to the trusts is facially overburdensome and unreasonable.”
+
+“Dr. Wright has produced hundreds of documents related to the trusts including documents that he did not sign or prepare,” Wright’s litigation team noted on June 11.
+
+The last few weeks of documents stemming from the Kleiman vs. Wright case has opened more doors within this seemingly never-ending rabbit hole. Wright’s recent motion, Document 187, for a protective order, was heavily redacted because he feared criminals would seek retribution against him and an unredacted footnote also showed the name, Paul Le Roux. This information opened up another rabbit hole where some people have suggested that Le Roux may have participated in designing the Bitcoin network. In addition to Le Roux being added to the story, many cryptocurrency fans watching the case from abroad have been questioning some of the statements made by Wright so far. For instance, Vin Armani from Cointext and Dustin Dreifuerst from the podcast Didyouknowcrypto.com (DYKC) asked how the coins from blocks 1-70 can be in a blind trust if he used the private key from block #1 to sign in front of Gavin Andresen.
+
+“Craig signed a message that I chose (“Gavin’s favorite number is eleven. CSW” if I recall correctly) using the private key from block number 1,” Andresen told the public three years ago. “That signature was copied on to a clean USB stick I brought with me to London, and then validated on a brand-new laptop with a freshly downloaded copy of electrum.”
+
+In addition to this showing, Bitcoin Foundation member Jon Matonis revealed in a blog post written on May 2, 2016, that he also witnessed the signing and verifying of messages using private keys from blocks 1 and 9. Crypto enthusiasts have further pointed out that the coins from blocks 1-70 have never moved and the blind trust story sounds extremely far-fetched. As the legal battle continues to unfold in Florida, many onlookers still think that more information will uncover some of the mysteries behind this case and whether certain particulars are true or fabricated.
+
+What do you think about the latest details in regard to the ongoing Kleiman vs. Wright case? Let us know what you think about this subject in the comments section below.
+
+Image credits: Shutterstock, Wiki, Twitter, Pixabay, Court Listener, and Pacer.
+
+Do you need a reliable Bitcoin mobile wallet to send, receive, and store your coins? Download one for free from us and then head to our Purchase Bitcoin page where you can quickly buy Bitcoin with a credit card.

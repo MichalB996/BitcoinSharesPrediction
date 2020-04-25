@@ -1,0 +1,25 @@
+DATE:  05.07.2019, 12:30:47
+TITLE: Electrum Wallet Is Adding Support for Bitcoin’s Lightning Network
+URL:   https://www.coindesk.com/electrum-wallet-is-adding-support-for-bitcoins-lightning-network
+
+The popular wallet service Electrum is soon to add support for bitcoin’s lightning network.
+
+Electrum’s founder Thomas Voegtlin told CoinDesk from the BIP001 blockchain event in Odessa, Ukraine, that work on the solution for sending lightning transactions with the Electrum wallet is now close to its official release.
+
+While he declined to reveal a specific release date, Voegtlin said:
+
+“We’ve been doing this work for about a year in a separate branch [on GitHub] and we’ve reached the point when we are ready to merge it with our master branch. This is going to happen in the coming weeks until the end of July, and it means that the next major release will have lightning support.”
+
+At the event, Voegtlin showed CoinDesk a test version of the wallet on his mobile phone (see image below).
+
+The lightning network is an in-development “layer 2” scaling technology that is aimed to enable faster payments, lower fees and greater transaction throughput than the bitcoin network can provide directly. There are several iterations in development by different projects.
+
+Voegtlin noted, though, that Electrum chose not to integrate with the existing lightning clients, and instead developed its own implementation.
+
+“We want to give users control over their funds,” he said.
+
+The product will be similar to that of Eclair, the lightning wallet, which itself uses Electrum servers to interact with the bitcoin network.
+
+Similarly, Electrum uses its servers for bitcoin transactions, but for the interaction with the lightning network it will not, Voegtlin explained.
+
+Lightning image via Shutterstock; Thomas Voegtlin image via Anna Baydakova for CoinDesk

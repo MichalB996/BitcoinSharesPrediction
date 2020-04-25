@@ -1,0 +1,55 @@
+DATE:  25.02.2020, 08:45:49
+TITLE: How to Hide Your Bitcoin - Opsec, Anonymity, Cold Storage, Brainwallet, Dexes and Non-Custodials
+URL:   https://news.bitcoin.com/how-to-hide-your-bitcoin/
+
+How to Hide Your Bitcoin - Opsec, Anonymity, Cold Storage, Brainwallet, Dexes and Non-Custodials
+
+In an era of increasing economic uncertainty, surveillance, specialized cybercrime and hacking, knowing how to hide bitcoin safely has become a paramount concern for crypto holders. Whether it’s by way of taking wise opsec measures, utilizing noncustodial tools, leveraging a DEX, or even storing seed phrases in your brain, there’s no shortage of measures that can be taken to protect your stash. This article seeks to detail some of the best ways anyone can use to ensure their coins remain safe from bad actors.
+
+Also read: Get Ready for the Bitcoin Halving – Here Are 9 Countdown Clocks You Can Monitor
+
+Safekeeping for Sats
+
+A “satoshi” is the smallest unit of bitcoin, and when it comes to the popular cryptocurrency, keeping one’s stash safe down to the last sat is important. For those new to the space — and perhaps even for more experienced hodlers who’ve overlooked certain security precautions and tips — what follows is a list of ways to ensure your stack of satoshis remains in good hands: your own.
+
+Opsec Best Practices
+
+Opsec, or operational security, is highly important when securing crypto holdings. It’s not sufficient just to have any old two-factor authentication (2FA), for example, as some variants of the measure like SMS-enabled 2FA can still leave easy attack vectors. SIM jacking is one example of this, and all that’s required is an overly cooperative and friendly customer service worker at a cellular provider.
+
+When it comes to hacks like SIM jacking, where an attacker swaps your device data to a new SIM card by way of social engineering, phone number 2FA won’t help, and gives an infiltrator keys to whatever account is secured by that means. Instead, using a 2FA app such as Google Authenticator — and not a phone number, is a better bet. Be sure to disable SMS 2FA on sensitive accounts — especially crypto exchanges — and switch to a more secure option. When a phone number can serve as a key to your crypto safe, hiding bitcoins behind such info is a bad idea.
+
+For account passwords, usernames, pseudonyms, and other such information used for accounts, be sure to use unique and secure choices. Though you may be a huge Guns n’ Roses fan, having “Axl6969” as a password for everything probably isn’t a good idea. Trusted and verified password managers can make maintaining even a long list of unique and strong passwords fairy easy, and quality services allow users to keep their master password stored locally, and not on any central server.
+
+Anonymity and Social Awareness
+
+Where anonymity is concerned, be sure all records, memos, or other account information which might tie your real identity to accounts and usernames are encrypted. Phone numbers should not be given out publicly, and a secure virtual number service can be used to route public calls to your personal device. The more you secure sensitive information, the less likely it is a bad actor or social hacker will be able to connect the dots and gain access to your bitcoins.
+
+Further, simply knowing when to keep quiet is a great tool for keeping bitcoins secure. As mentioned above, sharing a phone number publicly is not a good idea. Nor is exclaiming to the whole bar on karaoke night that you just made huge gains on Binance and are buying everyone a round. The more people know about your holdings, the more potential interest can be piqued in malicious actors who seek to gain as much info as possible to access accounts. This type of openness can even endanger personal safety, as one of the quickest ways to get to someone’s device for criminals may just be to steal it.
+
+Cold Storage
+
+Cold storage refers to storing bitcoins and their private keys offline for greater security. With private keys never being exposed to the internet, the security levels of cold storage options can be significantly higher than other avenues. Examples include hardware wallets such as Trezor and Ledger, which allow funds to be spent without private keys leaving the device, paper wallets created offline, and even more extreme options like fireproof seed phrase capsules. Perhaps most James-Bond-like of all the choices is storing a wallet in something hopefully not cold, but undeniably secure: your own mind.
+
+Known as a “brainwallet,” storing a bitcoin seed phrase in your brain is definitely secure, as long as you don’t forget it or get mixed up. Using a mnemonic device such as a colorful, vivid story, particularly sharp bitcoiners can retain a 12-word seed phrase entirely in their heads. As with all such measures though, there’s a trade off. If you’ve got to run from a bad actor or flee the country and can’t take anything with you, this option is undeniably appealing. But beware: once forgotten, no customer service group on the planet is going to be able to help you retrieve the lost mental bitcoins.
+
+Leveraging DEXs, Noncustodial Options
+
+While popular centralized exchanges like Coinbase, Binance and Kraken can make getting into bitcoin easy, and even storing it for day-to-day transactions, it is never advisable to leave bitcoins sitting around online when not trading. Exchanges have been hacked multiple times, are subject to governmental regulation and technical difficulties, and as such are not secure for stashing sats. Once such an exchange is shut down, hacked, or frozen, so is your money.
+
+Better options include decentralized exchanges (DEXs) with open source code and where software and network data is stored locally. Also, such networks allow for greater anonymity with minimal to no registration requirements, and can afford features such as encrypted chats for P2P trade and blind escrow. The Bisq network is one example of such an exchange. Local.bitcoin.com, another, is a peer-to-peer bitcoin cash marketplace where users need only to enter an email to trade BCH privately for a variety of traditional assets.
+
+Where crypto wallets are concerned, noncustodial options (wallets where the private keys are solely in the user’s possession and are not centrally stored) are always best, as a seed phrase can restore the wallet if an accident happens or a device is lost. When it comes to custodial wallets, however, once the provider is compromised, so is the user. Always be sure to verify any wallet you are using is noncustodial, as the whole point of bitcoin is for you — and nobody else — to be in control of your money.
+
+The Less Trust, the Better
+
+Trust between humans can be a beautiful thing, but when it comes to stashing bitcoins, the less trust, the better. Satoshi himself cited this as the central issue concerning traditional financial systems. The Bitcoin creator noted “the inherent weaknesses of the trust based model” in the Bitcoin whitepaper, and developed the cryptocurrency in answer to these challenges.
+
+When hiding your bitcoins, then, it’s always paramount to remember the reason for the asset in the first place: so you don’t have to trust any central entity to keep your money safe. At the end of the day things like customer service laziness at AT&T, human forgetfulness, and having to trust certain tools or developers may always be an issue, but the closer we can get the trust level to zero, the better.
+
+How do you recommend hiding and securing your bitcoins? Let us know in the comments section below.
+
+Disclaimer: This article is for informational purposes only. It is not an offer or solicitation of an offer to buy or sell, or as a recommendation, endorsement, or sponsorship of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.
+
+Images courtesy of Shutterstock, A.PAES, fair use.
+
+Did you know you can buy and sell BCH privately using our noncustodial, peer-to-peer Local Bitcoin Cash trading platform? The Local.Bitcoin.com marketplace has thousands of participants from all around the world trading BCH right now. And if you need a bitcoin wallet to securely store your coins, you can download one from us here.

@@ -1,0 +1,33 @@
+DATE:  20.01.2019, 00:01:35
+TITLE: Lightning Network Co-Creator Is Designing a Scaling Solution Called Utreexo
+URL:   https://news.bitcoin.com/lightning-network-co-creator-is-designing-a-scaling-solution-called-utreexo/
+
+Lightning Network Co-Creator Is Designing a Scaling Solution Called Utreexo
+
+A blockchain researcher has been working on a scaling effort for the unspent transaction output set found in the Bitcoin protocol. According to Tadge Dryja’s recently published description of research, the software engineer is working on a dynamic accumulator called Utreexo. The project could theoretically allow network participants to verify the state of the chain’s consensus rules with smaller sets of cryptographic proof.
+
+Also read: Venezuelan BCH Proponents Bolster Cryptocurrency Use Cases and Adoption
+
+Utreexo Could Allow Bitcoin Full Nodes on a Mobile Phone
+
+A few years after Bitcoin was born, developers and network participants discovered the protocol needed to scale in order to facilitate transactions for a growing number of users. The software stores a record of every transaction and all the newly minted coins within a distributed ledger. This makes full node maintenance cumbersome over time and a big reason for this is because of a collection of Unspent Transaction Outputs or UTXOs. In order to help solve the scaling issue, Tadge Dryja from MIT has written a description of the current research project he’s been working on called Utreexo. The protocol is a hash-based dynamic accumulator, which essentially brings the millions of UTXOs recorded onchain down to under a kilobyte. “There is no trusted setup or loss of security; instead the burden of keeping track of funds is shifted to the owner of those funds,” Dryja’s description explains.
+
+“With Utreexo, though, rather than having to store the entirety of the bitcoin state, bitcoin holders could simply verify if it is correct using a cryptographic proof,” Dryja’s paper adds. “This approach could minimize storage requirements to the extent that it might even be possible to run bitcoin on a mobile phone.”
+
+Millions of Unspent Outputs Represented in Under a Kilobyte
+
+Dryja’s Utreexo and accumulators have been getting some attention in recent months. In the podcast episode Grey Mirror #1, host Rhys Lindmark interviewed Tadge Dryja about the project, which has slowly become a prototype. Dryja explained to Lindmark how blockchains could bootstrap upgrades in a “non-fork” fashion by using a bridge node to Utreexo. Furthermore, Stanford University cryptographers Ben Fisch, Dan Boneh, and Benedikt Bünz have also written a paper that involves accumulators. The study discusses batching techniques for accumulators with applications to IOPs and stateless blockchains. In addition to the group’s 46-page paper, the research studies vector commitments in groups of unknown order.
+
+With Utreexo, the protocol places the cost of maintaining the network “to the right place,” explains Dryja’s documentation. The millions of onchain transactions that have been the cause of many arguments could be maintained by shrinking the UTXO set down to a few kilobytes of proof. While some blockchain developers have discussed the Utreexo concept, engineers from other projects have been experimenting with different ideas as well. For instance, there’s been a number of conversations about Bloxroute, a company that claims it can provide blockchain networks far better efficiency by propagating blocks in a neutral manner. Additionally, there’s Jonathan Toomim’s Xthinner, which leverages the benefits of lexicographic transaction ordering (LTOR) on the Bitcoin Cash (BCH) network. Purportedly Xthinner can compress the information in blocks by 99.6 percent and Toomim’s other project Blocktorrent could be even more efficient. The torrenting protocol Blocktorrent breaks a block down into fractions and each chunk can be independently verified.
+
+Accumulators May See Action on Another Chain Due to Stubborn Bitcoin Core Developers
+
+Even though accumulators may be a long-term scalability solution, the idea has been discussed for over nine years with little advancement. Some believe accumulators will likely see the light of day with developers who are not so stubborn when it comes to scaling the protocol such as Ethereum and Bitcoin Cash programmers. BTC developers have been criticized by many for their refusal to raise the block size via a hard fork upgrade, while the developers’ soft fork to introduce segregated witness still has less than 40 percent adoption after more than a year. Accumulators were talked about during a Bitcoin Core Dev discussion on Dec. 18, however, and Pieter Wuille reviewed UTXO accumulators on Dec. 7.
+
+There’s still a lot of work to be done with Utreexo, but Dryja has compiled some rough code. The Stanford programmers are working on their idea which is different to the MIT engineer’s work. There have been many scaling concepts announced over the last few months and 2019 might just be the year of scalability for several public blockchains.
+
+What do you think about Tadge Dryja’s Utreexo project and the general concept of dynamic accumulators? Let us know what you think about this project in the comments section below.
+
+Images via Shutterstock, Twitter, and Pixabay.
+
+Have you seen our widget service? It allows anyone to embed informative Bitcoin.com widgets on their website. They’re pretty cool, and you can customize by size and color. The widgets include price-only, price and graph, price and news, and forum threads. There’s also a widget dedicated to our mining pool, displaying our hash power.

@@ -1,0 +1,69 @@
+DATE:  17.03.2020, 12:17:41
+TITLE: BitMEX, OKEx, Binance and Deribit: Which Stood out in This Extreme Market with Best Market Depth
+URL:   https://www.newsbtc.com/2020/03/17/bitmex-okex-binance-and-deribit-which-stood-out-in-this-extreme-market-with-best-market-depth/
+
+Last week was some of the darkest hours of global financial markets. Affected by the COVID-19 epidemic and oil price war, global stock markets, crude oil price, gold price and futures markets dived successively. While people were eager to seek robust investment targets and found that Bitcoin might be the last sort of safe-haven asset, BTC plummeted by approximately 50% on March 13 to a low of $3,791.9.
+
+The sudden drop in prices not only impacted the entire crypto market, but also challenged crypto exchanges worldwide. When huge traffic flooded exchanges with intense fear in a short period of time, whether an exchange had enough market depth to support such a large number of orders to protect the interests of users to the greatest extent became the most important thing for traders.
+
+Summary
+
+BitMEX, OKEx, Binance and Deribit are all leading exchanges with unique edges and have been well-received by traders for a long time. However, the crash on March 13 exposed a huge gap between them in terms of market depth, especially in the BTC futures market.
+
+From the data of several dimensions, such as trading volume, loss of insurance fund, open interest and whether the ADL (Auto Deleveraging) mechanism was triggered, it can be clearly seen that the trading depths of BitMEX and OKEx are top-tier, while those of Binance and Deribit were slightly affected.
+
+Trading Volume
+
+Source: Skew
+
+According to Skew, the 24h BTC futures trading volume on OKEx reached $15.55 billion and overtook BitMEX ($11.98 billion) by approx. 40% to rank the 1st when the crash struck on March 13. While the trading volume on Binance was $5.22 billion and $2.15 billion on Deribit.
+
+Capital always flows to profitable investments. In free markets, investors choose the most favorable exchange for trading. Therefore, trading volume does reflect investors’ acceptance of an exchange to a certain extent.
+
+Loss of insurance fund
+
+The role of the insurance fund is to cover margin call losses and make up for the part of profits that winning traders should have earned when a default appeared. The greater the amount of default, the greater the losses of insurance fund. If an exchange does not have enough market depth to handle rapid and large volatility, default is likely to occur in large numbers.
+
+Thus, the loss of insurance fund is an important indicator of market depth.
+
+Exchanges Bankruptcy Loss（BTC） Bankruptcy Loss（USDT） Proportion BitMEX 1,627.23 8,135,150 4.58% OKEx 179.05 895,24 8.04% Binance – 6,636,344 51.59% Deribit 209.47 1,047,342 53.36%
+
+Source: official website of the four exchanges
+
+When the crash happened, BitMEX lost 4.58% of insurance fund while OKEx lost 8.04%. Compared to Binance and Deribit, these proportions are insignificant.
+
+Insurance fund of Binance sharply decreased 6,636,343 USDT in 24 hours, accounting for up to 51.59% of the total pool. Deribit also lost 53.36% of their insurance fund.
+
+Insurance fund balance of BitMEX
+
+Balance of insurance fund of OKEx
+
+Balance of insurance fund of Binance
+
+Balance of insurance fund of Deribit
+
+It is noteworthy that once the insurance fund is used up and a default occurs, the part of user’s profit that should have been covered by the insurance fund will be shifted to all profitable traders of the exchange. This mechanism is called clawback. Under this mechanism, the gain made by profitable users is not final before deducting the clawback amount, and the profits of all profitable users will be diluted.
+
+At present, the balance of the insurance fund of Binance and Deribit are less than 50% of the previous. Although both exchanges promised to top up if the insurance funds are used out, the users on them are still facing the risk of clawback under extreme market conditions.
+
+Open interest & lowest prices
+
+Open interest refers to the total number of outstanding derivative contracts that have not been settled, which can reflect the trading depth of an exchange directly.
+
+Source: Skew
+
+According to Skew, the BTC futures open interest on BitMEX reached $0.64 billion, ranking 1st while OKEx is close behind with $0.46 billion. These two exchanges are far ahead others by more than 75%.
+
+On the other hand, the lowest price of each exchange can also reflect the trading depth of that exchange from the side. The lowest prices on OKEx, Binance and BitMEX BTC perpetual swap markets were $3,811.1, $3,621.81 and $3,596. In the case of a surge in trading volume, OKEx still maintained a reasonable range of price fluctuation, which implied a good market depth as well.
+
+Lowest prices of BTC perpetual swap markets on March 13
+
+Auto Deleveraging
+
+ADL is a loss covering system that automatically deleverages opposite-side traders’ positions by profit and leverage priority. It is triggered when the margin of the opposing trader is insufficient to cover the loss. Obviously, if the depth of an exchange is good enough, this mechanism will be unlikely to be triggered.
+
+Although it’s hard to find any data about ADL from public information, a reasonable guess can be made based on the official statements of OKEx and Binance.
+
+“(S)ome futures ADL and margin calls”, said CZ, founder of Binance, in a tweet, while Jay Hao, CEO of OKEx claimed that “0 ADL in profit trades”.
+
+Image by Free-Photos from Pixabay

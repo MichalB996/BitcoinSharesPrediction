@@ -1,0 +1,25 @@
+DATE:  02.04.2019, 14:25:32
+TITLE: How Bitcoin Turns Wasted Energy into Magical Internet Money
+URL:   https://breakermag.com/how-bitcoin-turns-wasted-energy-into-magical-internet-money/
+
+Amidst many other forms of crypto-skepticism, critiques of energy use by the bitcoin network should remain troubling even to true believers—especially given that we’re hurtling towards a grim climate catastrophe. But the Wall Street Journal describes a small but important real-world example of how things could be improved. The oil drilling operation Black Pearl Resources runs a small bitcoin mining node powered by natural gas that is a byproduct of crude oil extraction. The natural gas isn’t economical to transport or sell, and burning or venting it is harmful to the environment. Because the drilling operation is located near a tiny town (Marwayne, Alberta, population 600), there’s not even much need for the energy locally.
+
+Enter bitcoin.
+
+As reported by the Journal, an oil field consultant named Stephen Barbour last year set up a shipping container housing a few dozen bitcoin mining servers, all powered by Black Pearl’s byproduct natural gas. He has built and sold two other similar setups. As the WSJ notes, there could be a big market for the solution: In places like Texas, natural gas has sometimes become so abundant it must be essentially given away for free.
+
+Related: Inside the Evergreen State’s Crypto Mining Boom
+
+There is significant upfront cost for Barbour’s mining setups—as much as $130,000 for the container and generator, according to the WSJ, even before mining equipment is installed. The competitive nature of bitcoin mining means that frequent hardware upgrades may continue to be necessary, producing its own stream of e-waste and further expense. And, of course, to the extent that it relies on the larger fossil-fuel industry that is feeding global warming, there’s nothing fundamentally carbon-neutral about this form of bitcoin mining.
+
+It’s also, of course, uncertain whether the up-front investment will turn into profit, depending on the price of bitcoin over the equipment’s lifespan.
+
+But those caveats aside, the example highlights one of the least-appreciated advantages of bitcoin: Because they can be located anywhere with an internet connection, bitcoin mining operations can take advantage of energy supplies that are impractical for other uses. As explained in depth by Coin Center, the electricity used by bitcoin mining is, contrary to some narratives, not expended on “useless calculations.” The computationally-intensive hashing process is the heart of bitcoin’s distributed security scheme, making it just as important as the (no doubt carbon-intensive) steel doors that guard a bank vault. But, simply by virtue of its flexible location, bitcoin mining can potentially be far more efficient and environmentally friendly than a traditional bank vault.
+
+Get the BREAKERMAG newsletter, a weekly roundup of blockchain business and culture.
+
+Of course, we no longer store all traditional currency in giant metal boxes, but bitcoin mining is also more flexible than the private servers that run modern banking. Bitcoin’s redundancy allows miners to be located in relatively unsecure locations, like a remote shipping container: Destroying or stealing a bitcoin miner doesn’t touch the bitcoin that has already been mined. Bank servers, by contrast, are high-security data centers, requiring a diverse bundle of infrastructure and staff to protect. (And while they might not all be as power-hungry as a bitcoin mining center, all server farms use energy—a lot of it dirty.)
+
+At various times in recent years, this geographic flexibility this has led to bitcoin mining concentrations near underutilized dams in China and geothermal power sources in Iceland. This isn’t a blanket solution to the bitcoin energy problem, but at the systemic level, it’s potentially transformational: You can’t park a New York bank branch in Mongolia, but a bitcoin server there can help secure money around the world.
+
+This feature of the bitcoin system seems to still be underappreciated and underutilized. According to the Journal, Barbour, when trying to sell his concept, has met significant resistance from oil-field operators who don’t even know what bitcoin is. That means there’s a lot of cheap, otherwise-wasted power waiting to be added to the bitcoin network—and compete with miners running on more expensive, less systemically efficient juice.

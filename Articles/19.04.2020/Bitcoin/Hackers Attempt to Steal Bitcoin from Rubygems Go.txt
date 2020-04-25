@@ -1,0 +1,19 @@
+DATE:  19.04.2020, 11:43:27
+TITLE: Hackers’ Attempt to Steal Bitcoin from Rubygems Goes in Vain
+URL:   https://www.thecryptoupdates.com/hackers-attempt-to-steal-bitcoin-from-rubygems-goes-in-vain/
+
+Cybersecurity firm reveals that more than 700 libraries of Rubygems programming language were infected with Bitcoin-stealing software. However, all is safe now!
+
+Massachusetts-based cybersecurity firm ReversingLabs has revealed that more than 700 libraries of the popular programming language Ruby are currently contaminated with Bitcoin stealing software. ReversingLabs confirmed the news through a blog post recently. A couple of months ago, it warned that hackers are placing malicious codes in a package manager called RubyGems.
+
+According to the blog post, hackers are compelling developers to download malware using a method called “typosquatting”. These contain contaminated packages dubbed the same as regular files – thus creating the chance for a hacker to gain access to the system.
+
+How does this work?
+
+Once the malicious code is injected into a system and the hacker gets access, the script initiates an infinite loop that gets hold of a user’s clipboard data. By doing this, the hackers were aiming to redirect all crypto transactions to a predefined wallet address.
+
+The blog post reads “It is unclear why the RubyGems repository is being continuously barraged by this threat actor. Since the attacks are using Windows technologies, this campaign has to hit a very specific set of individuals in order to succeed. The perfect candidate to succumb to this type of “spray-and-pray” supply chain attack is a Ruby developer whose environment of choice is a Windows system that’s also periodically being used to make BitCoin transactions. A rare breed indeed.”
+
+However, ReversingLabs confirmed that these hackers were not able to steal any Bitcoin, despite putting in the mammoth efforts.
+
+ReversingLabs has already reported the issue to RubyGems and they have removed all the infected files from their libraries.

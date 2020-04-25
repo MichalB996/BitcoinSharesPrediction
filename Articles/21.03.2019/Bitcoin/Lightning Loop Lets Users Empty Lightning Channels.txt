@@ -1,0 +1,31 @@
+DATE:  21.03.2019, 17:32:56
+TITLE: Lightning Loop Lets Users Empty Lightning Channels Without Closing Them
+URL:   https://bitcoinmagazine.com/articles/lightning-loop-lets-users-empty-lightning-channels-without-closing-them
+
+Ring in the new bitcoin halving cycle the right way: with us!
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+Lightning Labs, the development team working to grow the Lightning Network, just released the alpha version of a new protocol called Lightning Loop.
+
+Lightning Loop is designed to give users the ability to deposit and withdraw bitcoin from their payment channels (the two-way payment gateways that allow users to send and receive funds to and from each other) without closing these channels entirely.
+
+“Lightning channels are like tubes of money: the more you send the more you can receive, and the other way around,” according to a blog post written by Lightning Lab developers Alex Bosworth and Bryan Vu. “Money moves around in the tube, but the total amount of funds remains constant. So, unlike other payment systems, Lightning requires ‘inbound capacity’ in order to receive funds.”
+
+When setting up payment channels, users have to fund their accounts with bitcoin to begin sending and receiving. “Inbound capacity” refers to a receiver’s ability to claim a certain number of bitcoin from a sender. If, for example, Molly has a payment channel set up with Angela and Molly funded her side of the channel with 2 BTC while Angela funded her channel with 1 BTC, then Molly’s inbound capacity is 1 BTC and Angela’s is 2 BTC. If Molly wants to receive 2 BTC from Angela then they’d have to open up a new channel and fund it with the appropriate amount.
+
+If a sender does not have enough bitcoin for a given transaction, the recipient won’t be able to receive an invoiced amount through the channel. But if a channel is at capacity, then the recipient won’t be able to receive funds, either.
+
+This new protocol’s “Loop Out” feature mitigates the latter problem. With Loop Out, a Lightning Network user will be able to empty a channel once it has reached its full capacity. Instead of having to close this channel entirely and set up a new one, they can send a portion of these funds to an on-chain wallet instead.
+
+The blog post also noted that this protocol will also make it easier for first-time users to fund their Lightning wallets to begin receiving payments.
+
+“Further, when a [user] … joins the Lightning Network, they can use Loop Out to get initial receiving capacity as well. As a result, new recipients on the network no longer need to rely on others to open channels with them before they’re able to start receiving payments,” Bosworth and Vu wrote.
+
+Lightning Labs is also working on a feature to work in the inverse. Rightly dubbed “Loop In,” this would allow users to refund their payment channels when they become low on bitcoin capacity.
+
+“The vision for Lightning Loop is to allow users to securely move funds in and out of the Lightning Network using non-custodial Bitcoin contracts,” per the blog post. “With Loop, users, businesses, and routing node operators are able to keep Lightning channels open indefinitely, making the network more efficient, more stable, and cheaper to use.”
+
+To try Lightning Loop’s alpha release, check out Lightning Lab’s GitHub. While still in the testing phase, Lighting Labs’ blog post emphasized that “Loop Out transactions are limited to a maximum of 0.01 BTC” and will require no additional fees beyond on-chain transaction fees.

@@ -1,0 +1,127 @@
+DATE:  10.01.2019, 18:06:07
+TITLE: Bitcoin Trading Bots: Machines Taking the Lead
+URL:   https://coincentral.com/bitcoin-trading-bots-machines-taking-the-lead/
+
+Bitcoin trading bots have been getting attention from crypto traders. Claims of automated trade signals, 24/7 trading opportunities, and virtually 100 percent uptime are enough to turn any serious crypto trader’s head. There are dozens of competitors in the bitcoin trading bots space, each vying for your business.
+
+However, make sure you’re not so bedazzled by their high-tech algorithms that you fail to realistically assess whether or not you’re actually a suitable candidate to trade them.
+
+What is a Bitcoin Trading Bot
+
+Simply stated, these bots are computer programs that generate Bitcoin buy and sell signals. Also known as trading algorithms, these programs connect via API to your trading exchange account. The big idea is to automate your crypto trading to the maximum degree possible, eliminate subjective trading decisions and exploit trading ops that occur when you’re not able to monitor the markets.
+
+Typically, the bot software runs in the following environments:
+
+The cloud
+
+A web-based application
+
+VPS (Virtual Personal Server)
+
+Bots R Us
+
+Cryptotrader.org, BTC Robot.com, Gekko.wizb.it, 3Commas.io, Cryptohopper.com, Gimmer.net, Gunbots.com, and at least a dozen other firms market their bots online. You’ll need to examine the potential advantages and disadvantages of their respective offerings. Here are a few tips to help ferret out the best possible set of bots for you:
+
+Make sure the bot runs on the cloud, not on your computer. If you have an internet or electrical outage, computer crash or another mishap that renders your Mac or PC useless, you’ll be very happy to know your bot will keep performing without interruption.
+
+Verify that your trading bot provider (TBP) offers an extensive array of technical indicators from which to build your trading strategy.
+
+Further, make certain that your TBP also offers a good strategy back testing utility. Never trade a bitcoin (crypto) bot strategy until you’ve extensively back tested and forward tested it.
+
+Your TBP should also offer a simulated trading feature. This is a must-have, especially if you are new to the world of trading system development. You can verify the strengths and weakness of your new bot strategy on real-time crypto data but without the risk of losing any money.
+
+Scalability, Client Support, and User Groups
+
+Your TBP should also excel in these critical areas, too –
+
+Your bitcoin bot firm needs to offer API connectivity to as many reputable crypto exchanges as possible. This is especially true if you’re going to be trading arbitrage strategies that exploit coin mispricing across various exchanges.
+
+Ascertain that reliable, useful client support is available. If you bot has a three AM identity crisis and forgets what to do -and when – you (and your trading account equity) could be in big trouble. Being able to ring up a friendly, knowledgeable support agent at such times is invaluable.
+
+If your TBP offers a dedicated users group, you can greatly shorten your trading system learning curve. Even better, if they offer a trading bot marketplace, you may be able to buy or lease a winning bot strategy, rather than having to build one yourself.
+
+Other Critical Bot Whatnot
+
+Measure the cost-effectiveness of your trading bot. Make sure that the bot can typically make more in profits than the inevitable costs of commissions, slippage, bot subscription fees, and capital gains taxes will eat up. If you can’t program a consistently winning bot, there’s no reason to use one.
+
+A Look at One Bitcoin Bot Firm
+
+Gimmer.net is a TBP that offers its own VPS to clients. However, it comes at a price:
+
+“With the VPS you will not have to worry about losing connection to the internet, power outages in your home or if your computer crashes. Simply subscribe to the VPS service and all necessary data is sent to a cloud computer that is unique and private.”
+
+Gimmer’s VPS will set you back $25 in purchases of its GMR token per month. Additionally, to use any of Gimmer’s trading bots, you’ll need to buy and hold between 200 and 500 of the same tokens. The bots are programmed to handle many niche trading styles, such as:
+
+Non-leveraged trading (garden-variety, directional strategies).
+
+Margin trading, with high leverage multiples available.
+
+Lending (you can make loans in various cryptos)
+
+Scalper (coded to grab quick gains with small losses)
+
+Portfolio-based strategies (may lessen drawdowns, assists with diversification)
+
+Arbitrage (exploiting inter-exchange price differentials)
+
+Triangular arbitrage (similar to arbitrage, but uses three or more coins)
+
+Spreads (go long one coin even as you short another (a popular mean-reversion strategy).
+
+Additionally, all Gimmer clients receive a free trading bot:
+
+“A standard automated crypto trading bot is offered for free. This includes the use of one indicator, one safety and one pair, without leverage.”
+
+Like most other TBPs, Gimmer offers API connectivity to many major exchanges, including Binance, Bitfinex, BitMEX, Bittrex, Cobinhood, Hubii, Kraken, KuKoin, Poloniex, and XTRADE.IO.
+
+Is a Bitcoin Trading Bot Right for You?
+
+Maybe. Maybe not. It all depends on your trading style, account equity size, trading experience, and personal goals. If you have a sound trading system development education, you’ll probably be able to easily build or find a trading bot that will suit you. If you know how to deal with software issues quickly or have instant access to those who can help you diagnose and repair bot-related issues, then you may also be a good trading bot candidate.
+
+However, if you naively believe that making money in Bitcoin or any other crypto is a simple, effortless process that simply requires the push of a button, then you may be sorely disappointed. Successful trading is hard work. If any novice trader could buy a retail bitcoin bot, trade it with $100,000 and make $50,000 per annum, year after year, the crypto markets would progressively render such a strategy ineffective.
+
+Say 5,000 Bitcoin traders use the same winning bot this year. It makes 40 or 50 percent gains. As word of its success spreads, next year maybe 50,000 traders will start using it. Over time, professional and institutional traders will be able to trade against the bot with great effectiveness, thus neutralizing it. Too many traders will be chasing its trade signals on one side of the market, and that’s when the pros come in for the retail trader kill.
+
+This is one reason why you never market a trading system that you personally want to continue making money with. Think about that the next time some trading system developer attempts to con you out of $5,000 for a trading system.
+
+Bitcoin Bot Plusses and Minuses
+
+Advantages
+
+Your trading bot can act on trade signals faster than you can.
+
+Exploit opportunities 24/7. Some big market moves begin in the evening session and then gain even more traction as the herd piles in the next morning.
+
+Lack of system building training isn’t a problem. You can buy or lease potentially effective Bitcoin bots from other developers.
+
+Artificial Intelligence (AI) will become very prominent in the bitcoin bot world within a few years. It’s conceivable that future bots will be able to auto-optimize your trading signals in real-time. AI may also help you select an ideal mix of bot trading strategies for your portfolio.
+
+As more crypto traders trade shorter-term, bot-based strategies, crypto market volatility may actually decrease. This may occur due to a massive increase in coin market caps and liquidity.
+
+Disadvantages
+
+Short-term trading has high commission and slippage costs.
+
+Lack of crypto market liquidity at certain hours of the day. A big new event in the wee hours might trigger a needless losing trade.
+
+Risk of flash crashes. Ironically, these are usually caused by institutional trading bots.
+
+Outages on an exchange, technical problems with the bot, communication or computer issues.
+
+The cost of the bot subscription itself.
+
+The need to continually monitor your bot’s performance and reliability.
+
+You must know how to effectively re-optimize your trading bot.
+
+If your bot provider isn’t 100 percent cloud-based, you’ll have ongoing VPS costs.
+
+Hard Work, Education, Self-Discipline, and Overrides
+
+System trading education, money management skills, sound trader psychology, and an extensive TA education is a must for profitable automated crypto trading results. You can’t simply build a quickie system with canned indicators, hit the ‘run’ button and expect to generate a living from your bitcoin trading bot. However, you might become a consistently profitable bitcoin bot trader if you work hard at developing the above-mentioned trading disciplines.
+
+A final word of wisdom to consider when running a fully-automated Bitcoin trading bot, make of this what you will:
+
+Never take your eyes off off your trading screen. Ever. Do not place 100 percent confidence in your trading bot, computer software or hardware. Crypto market conditions can change rapidly, potentially creating scenarios that your bot was never designed to deal with. You must continually supervise your bot or risk waking up to an unpleasant, money-losing surprise one morning.
+
+Never underestimate your inherently superior reasoning abilities to that of a machine or algorithm. Be ready, able and willing to step in and override your bot any time it encounters hyper-volatile crypto market conditions.

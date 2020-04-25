@@ -1,0 +1,41 @@
+DATE:  09.09.2019, 12:00:46
+TITLE: Here’s Exactly How Long it Would Take to Crack Your Bitcoin Wallet
+URL:   https://bitcoinist.com/heres-exactly-how-long-it-would-take-to-crack-your-bitcoin-wallet/
+
+Bitcoin Here’s Exactly How Long it Would Take to Crack Your Bitcoin Wallet
+
+We put a lot of faith in passwords, specifically in the private keys which secure our Bitcoin and crypto wallets. If someone were to find out or hack our private key, they would gain control over the funds in the wallet. But how long would that take?
+
+
+
+Fortunately, software reviews website, Better Buys, has just launched an online password checker to find out.
+
+How Long Would It Take To ‘Brute Force’ A Bitcoin Private Key?
+
+A Bitcoin private key is essentially just a 256-bit number, which can be represented as a 64-digit hexadecimal. So what do we find out if we enter such a number into the app to estimate password cracking times?
+
+Infiniti! So all we really find out is that a Bitcoin private key is almost impossible to brute force. Oh, and that Better Buys can’t spell… ‘Infiniti’ is a car brand; ‘infinity’ is the concept describing something without any bound or larger than any natural number. But I digress.
+
+What About A Wallet Seed?
+
+How many of us actually know our private keys anyway? The majority of wallets will provide you with a seed when you set them up, so that you can recover the wallet should anything untoward happen. These generally consist of a random string of between 12 and 16 words, which we are urged to write down and store somewhere safe.
+
+And, testing a random key from an empty wallet I set up for the purposes of this article, we still get an estimate of an infinite amount of time required to crack it.
+
+Okay, So What About Something More Tangible?
+
+Our Bitcoin wallet seeds might well be written down somewhere, but our wallets are generally accessible through far less onerous defences. Software wallets might be on a phone or computer, hidden only behind a passcode or word. Hardware wallets may be secured with a simple 4-digit PIN. So how long would these take to crack?
+
+The bad news is that a 4-digit PIN would take 5 milliseconds to crack. Assuming you could have infinite tries before being locked out. The app allows you to go back in time and find that in 1992 it would have taken a bit longer, at nearly 3 and a half minutes. But this sort of security relies heavily on preventing an attacker from spamming every option at once.
+
+In terms of passwords, a string of 7 random letters would take less than half a millisecond to crack. Adding a letter tales it to 5 hours and we go up exponentially from there. So essentially, the longer your password is, the better. 12 random letters would take 2 centuries to crack with today’s technology.
+
+Another way to improve security is to use a combination of upper and lower-case letters, numbers, and special characters. ‘Password’ is crackable in about a fifth of a millisecond (or five weeks if the hacker doesn’t use word lists. Whereas ‘[email protected]’ would take around 14 years to brute force.
+
+Whilst private keys and wallet seeds may be virtually uncrackable by brute force, the weakest link in your bitcoin security is always you. Even if you are Jack Dorsey.
+
+How secure is your Bitcoin wallet password? Let us know in the comment section below!
+
+
+
+Images via Shutterstock, BetterBuys

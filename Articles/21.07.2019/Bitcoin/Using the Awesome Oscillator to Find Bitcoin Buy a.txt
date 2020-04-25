@@ -1,0 +1,45 @@
+DATE:  21.07.2019, 11:00:12
+TITLE: Using the Awesome Oscillator to Find Bitcoin Buy and Sell Signals
+URL:   https://www.coindesk.com/using-the-awesome-oscillator-to-find-bitcoin-buy-and-sell-signals
+
+Few trading tools are as simple and as elegant as the “Awesome Oscillator.”
+
+First developed by American trader Bill Williams, the aptly named Awesome Oscillator (AO) is a momentum indicator that takes advantage of an immediate trend. The AO plots its data using a histogram, similar to how the MACD histogram functions, in that it delivers a buy and sell signal when the bars pass above or below the neutral 0 line.
+
+But that is just one of its main features, the others involve taking stock of an asset’s momentum as well as any immediate change noticed via patterns on the histogram (more on that later).
+
+First, let’s take a quick look at the formula involved:
+
+Median Price = (Price High + Price Low)/2 AO = SMA (Median Price, 5) – SMA (Median Price, 34) SMA – Simple Moving Average.
+
+The AO consists of a 34-period simple moving average, plotted through the middle of the bars and is subtracted from the 5-period simple moving average after taking into account the median price.
+
+The median price is defined by adding the price high and price low of a particular period then dividing that number by 2.
+
+The indicator performs at an optimal level when viewed from the daily and weekly charts, specifically when it comes to crypto, CoinDesk research reveals.
+
+Awesome Oscillator – Weekly chart
+
+Patterns on the histogram can be categorized into two recognizable forms, the “saucer” and “twin peaks.”
+
+The “Saucer” is a pattern for a buy signal occurring when the histogram bars are higher than the zero line. A saucer signal is triggered when there are three consecutive histogram bars above 0, the first two of which must be red (with the second bar being lower than the first), while the third is green and higher than the previous red bar.
+
+BTC produced such a signal beginning July 17 through July 24, 2017, when two red bars formed above the zero line followed by a green bar a week later on July 31. The price of BTC rose from $3,200 by the end of July to near $20,000 in a 5-month period.
+
+“Twin peaks” are also a signal to buy that can be generated when the histogram bars are below the zero line. The signal is produced when two “peaks” are formed below zero and the second peak is closer to the neutral zero line than the first.
+
+
+
+A bullish signal flashed by AO following twin peaks on the weekly chart on Dec. 17, 2018, officially marked the end of the bear market. The measurement of twin peaks is taken from July 9 through Dec. 17, 2018.
+
+It’s worth noting that if the pattern is above the neutral line and the second peak is lower than the first then the same conclusion can be drawn for a sell signal as that would mean declining momentum for buyers.
+
+As mentioned previously, the crossover for a histogram bar from below 0 to above is a buy signal and conversely when it passes below 0 from above, that would be an indication to sell.
+
+While the indicator marked an end to 2018’s bear market it also heralded in the official beginning of a new bull run beginning April 22, 2019, on the weekly chart. You can utilize this to your advantage to confirm that the market you are wading into isn’t susceptible to further downside risk.
+
+While some traders prefer multiple indicators for buy signals on their charts, others prefer a more simplistic setup and if that speaks to you then the Awesome Oscillator has got you covered.
+
+Disclosure: The author holds no cryptocurrency at the time of writing.
+
+Trading trend via Shutterstock; charts by TradingView

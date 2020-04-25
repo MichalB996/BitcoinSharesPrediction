@@ -1,0 +1,37 @@
+DATE:  10.06.2019, 19:00:19
+TITLE: 100 Bitcoin Users Perform What Might Be Largest ‘CoinJoin’ Transaction Ever
+URL:   https://www.coindesk.com/bitcoin-users-perform-what-might-be-the-largest-coinjoin-ever
+
+The community behind the privacy-centric bitcoin app Wasabi Wallet recently brought together 100 people to collectively execute a “CoinJoin” transaction on bitcoin in what might be the biggest event of its kind.
+
+Some context: bitcoin itself is far from private, as users can, via the blockchain, see where coins are being transferred to and from. One effort to afford greater privacy to transactions is CoinJoin, a long-standing technology first proposed in 2013 by long-time bitcoin idea man and cryptographer Greg Maxwell. The idea is that transactions can be made more private by jumbling a number of different transactions together and then redistributing them.
+
+At 100 transactions, Wasabi Wallet’s effort might be the biggest, but it’s certainly an advancement for the privacy tech as a whole.
+
+“There wasn’t any service created to do such large CoinJoins,” zkSNACKS CTO Adam Fiscor told CoinDesk, which launched Wasabi Wallet last year to make CoinJoin transactions easier to use. Fiscor did add one small caveat that it’s “possible” that Blockchain’s SharedCoin has done one as large, “but I’m not sure if it’s relevant.”
+
+As Fiscor explained to CoinDesk, the event represented “the largest practical CoinJoin that can be done on the bitcoin network.” That’s because of some of the built-in restrictions on the bitcoin network, such as the limit on the amount of data that can be included in a single transaction block), as well as the human practicalities of getting so many people to transact together at once.
+
+“The third caveat is that it’s pretty damn hard to coordinate 100 people over the Tor network,” Fiscor remarked.
+
+And indeed, the transaction took a while to execute. Partially on the Wasabi Wallet reddit, the community tried unsuccessfully for a while to organize a 100 person CoinJoin, getting 94, 97, 92, and even 99 participants before reaching their round goal of 100.
+
+The future of privacy?
+
+Going further, Fiscor hopes this large CoinJoin transaction offers a showcase of the norm for bitcoin’s use into the future.
+
+In short, the more transactions in a CoinJoin, the more privacy you get, because with more users it becomes harder to untangle all the transactions that initially went in.
+
+“However, ‘anonymity loves company’ the more participants there are, the better your privacy is, and the faster the CoinJoin rounds are,” the Wasabi Wallet website explains.
+
+Getting 100 people to join together for a transaction might seem like overkill, but Fiscor sees it as the future because the more transactions in one, the more efficient it is, too.
+
+“In the long term bitcoin mixing will be either priced out from the blockchain or improve to be as cost efficient as possible. The more participants there are, the more cost efficiency can be gained,” Fiscor said.
+
+And that’s especially the case with upcoming technologies that could be added to bitcoin — if everyone agrees they should be implemented, that is.
+
+There’s “Schnorr,” for instance, a technology that could build in functionality into bitcoin to meld transaction signatures together.
+
+“For example Schnorr input signature aggregation is way more efficient with 100 people than with [two],” Fiscor said, adding: “Same goes for Bulletproofs. Or just simply tinkering on the optimal mix outputs given a set of inputs.”
+
+Fiber optic cable image via Shutterstock

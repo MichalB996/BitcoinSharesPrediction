@@ -1,0 +1,39 @@
+DATE:  16.01.2020, 17:33:03
+TITLE: 4 Bitcoin Mixers for the Privacy Conscious
+URL:   https://news.bitcoin.com/4-bitcoin-mixers-for-the-privacy-conscious/
+
+4 Bitcoin Mixers for the Privacy Conscious
+
+In an era of unprecedented global surveillance, it is unreasonable to expect the blockchain world to be any different. It is perfectly reasonable, though, to resist this surveillance through countermeasures that thwart the would-be surveillers. Digital privacy is a right that everyone is entitled to. Thanks to the provision of bitcoin mixers, you can claim that entitlement by shuffling your coins and emerging with untainted crypto whose origins have been obfuscated.
+
+Also read: How Dropgangs and Dead Drops Are Transforming Darknet Practices
+
+Before You Mix, Know the Basics
+
+Just as using Tor doesn’t give you internet anonymity, bitcoin mixing alone doesn’t grant you automatic privacy. It helps, but only when used in conjunction with other privacy enhancing techniques, like not using exchanges that enforce KYC, and not recombining your freshly mixed UTXOs, thereby undoing all your hard work. News.Bitcoin.com will examine ways to enhance your anonymity when using mixing services in the near future. For now, just know that the following mixing services are not a silver bullet for privacy. When used as their developers recommend, however, they can significantly enhance the fungibility of your coins.
+
+Bitcoin Mixer
+
+Bitcoin Mixer does exactly what its name sounds like, but it also does a lot more. In addition to mixing up your BTC, the service can do the same with LTC and ETH, providing privacy for three of the most popular cryptos. It’s a custodial service, which generally means you can mix larger amounts of coins than with a noncustodial service, where you’re reliant on your peers to provide privacy in numbers. Using the service is simple: enter the address you’d like your shuffled coins to be sent to, and drag the slider to select your desired mixing time, ranging from 30 minutes to 20 hours. The longer you’re prepared to wait, the greater the degree of anonymity you can expect. The platform charges a fee of 2-5%.
+
+Cashshuffle
+
+One for the BCH brigade, Cashshuffle provides noncustodial mixing of bitcoin cash. It’s fully decentralized, and operates by mixing the UTXOs in your BCH wallet with those of other Cashshuffle users. Over $40 million of BCH has been mixed through Cashshuffle, which is compatible with wallets such as Electron Cash. If you’re new to the world of bitcoin cash mixing, news.Bitcoin.com has published a detailed guide to using the service. There’s also plans for a Tor-integrated version of the service, known as Cashfusion, which will further diminish the ability for blockchain forensics firms to profile BCH users.
+
+Whirlpool
+
+Most noncustodial BTC and BCH mixers are based on implementations of Coinjoin, a trustless method for combining bitcoin payments from multiple users into a single transaction, masking their origin. Cashshuffle is based on Coinjoin, and so are the two most popular wallet-integrated BTC mixers – Whirlpool and Wasabi. The former is developed by Samourai Wallet, and enables users of the noncustodial wallet to mix their UTXOs with others through selecting from one of three pools of varying sizes: 0.01, 0.05, and 0.5 BTC. If you have 1 BTC to mix, for example, select the 0.5 BTC pool and your UXTOs will be sent through in two cycles, until all of your coins have been cleaned. The Whirlpool fee remains the same whether you’re mixing one coin or 10, making Samourai’s Whirlpool Coinjoin implementation cost-effective. It’s also fast.
+
+Wasabi Wallet
+
+Samourai and Wasabi are engaged in a dispute over whose mixing service provides greater anonymity. Samourai appears to have the upper hand at present, but that doesn’t mean you should write off Wasabi – it’s an excellent noncustodial BTC wallet for the privacy-conscious, and its integrated Chaumian Coinjoin mixing service is continually improving. The Plustoken scammers famously tried to wash thousands of BTC through Wasabi and failed due to the size of their transactions, which dwarfed those of all other users combined. For regular users seeking to mix modest amounts of BTC, greater anonymity and less scrutiny should be assured, making Wasabi perfect for everyday use.
+
+Whether you’re planning to use a custodial or noncustodial bitcoin mixer, do your homework, read some reviews, and familiarize yourself with its workings. Then, after successfully mixing your first set of UTXOs, make it a point of habitually repeating the exercise with new coins that come into your possession. Think of it as cleaning your digital house. In the process, you’ll also be enhancing the anonymity of your fellow coinjoiners.
+
+What bitcoin mixers do you recommend? Let us know in the comments section below.
+
+Disclaimer: This article is for informational purposes only. It is not an offer or solicitation of an offer to buy or sell, or a recommendation, endorsement, or sponsorship of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.
+
+Images courtesy of Shutterstock.
+
+Did you know you can verify any unconfirmed Bitcoin transaction with our Bitcoin Block Explorer tool? Simply complete a Bitcoin address search to view it on the blockchain. Plus, visit our Bitcoin Charts to see what’s happening in the industry.

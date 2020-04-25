@@ -1,0 +1,41 @@
+DATE:  15.01.2019, 16:46:53
+TITLE: Anonymous Bitcoin miners are taking over the network
+URL:   https://thenextweb.com/hardfork/2019/01/15/unknown-bitcoin-miners-cryptocurrency/
+
+The world’s most popular cryptocurrency is a now a little bit more decentralized, thanks to the waning influence of Bitmain and the return of the anonymous Bitcoin BTC miner.
+
+Blockchain research unit Diar has published new data revealing exactly who has been validating the Bitcoin network.
+
+Analysts determined that mining pools either owned by or heavily tied to Bitmain (Antpool, BTC.com, and ViaBTC) are now validating far less Bitcoin blocks than this time last year.
+
+In fact, it is “unknown” anonymous Bitcoin miners who are currently validating more blocks than any individual pool.
+
+“[Unknown] miners closed December having solved a whopping 22 [percent] of the total blocks, up from 6 [percent] at the start of last year,” reported Diar. “The Bitcoin network is currently less likely to experience an attack given the fact the BTC.com controlled pools have lost dominance over the network.”
+
+At pixel time, “unknown” miners accounted for more than 23 percent of the computing power driving the Bitcoin network (hash power).
+
+Does this actually make Bitcoin ‘safer’?
+
+Bitmain is the world’s leading manufacturer of cryptocurrency mining equipment, and has historically been a powerhouse of the Bitcoin network.
+
+Diar reports that in early 2018, Bitmain’s mining pools accounted for 53 percent of Bitcoin’s hash power. Theoretically, this would have allowed them to collude to take control of Bitcoin with a “51-percent attack.”
+
+Indeed, a reduction in their influence is surely a big relief for those wary of 51-percent attacks on Bitcoin, like the one suffered by Ethereum Classic that effectively led to $1.1 million being stolen from cryptocurrency exchanges.
+
+For this to happen, major players such as Antpool and BTC.com would need to team up to control a majority of the network’s hash power. This would allow them approve, censor, or even rollback transactions as they please.
+
+Diar conceded that while the threat of that happening may now be much lower, miners have no obligation to share details related to the pools to which they may be contributing.
+
+This means that some (or all) of the “unknown” miners could really be working with one of the larger mining pools.
+
+… but the miners could be waiting for Bitcoin to bounce
+
+The analysts also noted that miners who have turned off their equipment are likely waiting for an uptrend in Bitcoin‘s price before they resume validating transactions.
+
+Last month, when Bitcoin‘s price briefly jumped from $3,200 to over $4,000, the overall Bitcoin hash power increased for the first time since August.
+
+This indicates a distinct correlation between Bitcoin‘s price and the number of miners who are prepared to participate in the network.
+
+Diar did warn that January’s growth in hash rate is unlikely to be sustainable, especially if the price returns to its now-typical bearish ways. This means if Bitcoin‘s price bounces, mining pools controlled by Bitmain could come back online.
+
+At least for now, let’s enjoy the new Bitcoin with more decentralization (and less Bitmain).

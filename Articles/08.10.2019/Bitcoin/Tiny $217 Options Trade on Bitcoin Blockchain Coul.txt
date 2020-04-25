@@ -1,0 +1,53 @@
+DATE:  08.10.2019, 16:30:02
+TITLE: Tiny $217 Options Trade on Bitcoin Blockchain Could Be Wall Street’s Death Knell
+URL:   https://www.coindesk.com/tiny-217-options-trade-on-bitcoin-blockchain-could-be-wall-streets-death-knell
+
+The cryptocurrency industry isn’t replacing Wall Street just yet. But inventors and entrepreneurs are working on it, with some initial success, albeit modest.
+
+In this case, an option premium of 0.0202 bitcoin ($217 at the time) paid via a smart contract may have just become the proof of concept.
+
+The latest target for blockchain disruption is options trading tied to the Standard & Poor’s 500 Index, the main benchmark for U.S. stocks. It’s a massive market, with roughly $400 billion of the options changing hands every day last year, on average.
+
+Under the current setup, Wall Street firms typically execute the trades and handle the settlement afterward – essentially making sure the securities end up in the buyer’s account, and that the cash ends up with the seller. But for investors, the process can be expensive, due to the middlemen fees being charged, and slow, with settlement typically taking a day or two.
+
+In July, Emmanuel Goh, CEO of London-based firm skew., a startup specializing in analytical tools for the crypto industry, says he came up with the idea of using the bitcoin blockchain – the decentralized computer network underpinning the decade-old cryptocurrency – to trade S&P 500 options.
+
+Goh was previously a trader in London for JPMorgan Chase, the largest U.S. bank, where he slung options on auto, chemical, consumer and industrial stocks. In other words, the options market is an arena he knows well, at least in the traditional sense. Earlier this month, skew. (which spells its name with a period) announced $2 million in seed funding from several venture capital firms, including the Silicon Valley icon Kleiner Perkins.
+
+The S&P options project was entirely experimental, Goh told CoinDesk – the challenge was mainly to see if it could be done. (The publicity probably doesn’t hurt, either.) Since the trade would essentially be automated via computer programming, it would be less expensive to conduct and settle a lot faster, maybe in just 10 or 15 minutes, according to Goh.
+
+Goh said the technology that made it possible comes from Crypto Garage, a subsidiary of the publicly traded, Tokyo-based tech firm Digital Garage. Crypto Garage has developed an expertise in smart contracts, small strings of programming that can be encoded into the bitcoin blockchain to run when activated.
+
+The transaction needed to cross on the bitcoin blockchain, Goh said, because it’s the most secure in the industry, even though smart contracts are generally considered easier to program on the ethereum network.
+
+The transaction
+
+So on Sept. 6, Goh says, he took some British pounds from an in-house research-and-development fund at skew. converted those into bitcoin, and then used the proceeds to buy 10 S&P 500 call spreads – a popular type of option – from Crypto Garage, all under a new smart contract, with terms agreed to by both counterparties in minutes. The expiration date for the options was set for the third Friday of the month, similar to the standard practice on many exchanges.
+
+At the outset, Skew. paid an option premium of 0.0202 bitcoin ($217 at the time) via the smart contract, and Crypto Garage posted 0.04667 bitcoin as collateral.
+
+On Sept. 20, the expiration date, the smart contract automatically used a price feed from Atlanta-based Intercontinental Exchange (parent company of the New York Stock Exchange) to establish the final price for the S&P 500.
+
+The trade went in skew.’s favor, resulting in a payout of 0.036 bitcoin ($365 at the time). Crypto Garage got 0.01 bitcoin of its collateral back. (Skew later sent some money back to Crypto Garage, as a true-up.)
+
+Above is an image produced with data from the bitcoin blockchain – the trade settlement, at expiry. Initially daunting, it’s the elegant simplicity here that is the promise of a blockchain-driven future.
+
+At the top, that string of letters and numbers in blue is the ID number for the transaction. On the left, the blue string is the address where the collateral is stored, and the white number is the amount of collateral, in BTC. On the right, the top blue string is the address of the winning counterparty in the trade, which got back the white number of bitcoin, and the blue address just below that is for the losing counterparty, which gets back the leftover collateral. In yellow, on the lower right, it shows that the transaction was confirmed 2068 times by the blockchain and then the yellow number of bitcoin is the total BTC proceeds distributed to the two counterparties from the collateral, after deducting the fees.
+
+Scaling limitations
+
+For Goh, the big takeaway from the exercise is that it worked.
+
+“The trade settlement took 45 minutes to process, with total transaction costs equal to a few U.S. dollars,” he said. “The smart contract knows exactly how much the parties will get back.”
+
+In theory, he says, the cost would have remained the same even if the notional amount of the trade had stretched into the millions or billions of dollars.
+
+The important part, he says, is that “you don’t have all the intermediaries.”
+
+Could the new process be scaled up to handle the volume of S&P options trades currently handled by securities firms? Probably not without improvements to the bitcoin blockchain’s processing capacity, Goh says. But a lot of programmers are working on doing just that.
+
+In the annals of technological breakthroughs, it’s not exactly Ben Franklin hanging a key on the end of a kite. But the little $217 options trade might be a step forward in making financial markets cheaper and faster to use – with less Wall Street involvement.
+
+UPDATE (Oct. 8, 18:00 UTC): An earlier version of this article misplaced Skew.’s headquarters. It is in London, not Paris.
+
+Wall Street via Shutterstock

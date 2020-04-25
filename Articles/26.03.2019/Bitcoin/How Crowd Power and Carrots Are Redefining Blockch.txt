@@ -1,0 +1,37 @@
+DATE:  26.03.2019, 14:05:25
+TITLE: How Crowd Power and Carrots Are Redefining Blockchain Governance
+URL:   https://news.bitcoin.com/how-crowd-power-and-carrots-are-redefining-blockchain-governance/
+
+How Crowd Power and Carrots Are Redefining Blockchain Governance
+
+It’s not just blockchains that have to reach consensus: the people using them also need to be in agreement. Otherwise, chain splits occur, as has happened to Bitcoin 47 times and counting. Blockchain governance has traditionally been dull, involving primitive voting systems and low participation. But as projects like Aragon and Kleros are starting to show, with the right incentives, community engagement will increase significantly, resulting in a fairer and more representative decision-making process.
+
+Also read: From Kucoin Spotlight to OK Jumpstart: Initial Exchange Offerings Analyzed
+
+The Quest for Better Blockchain Governance
+
+Decision-making in democracies is a fraught process, so what hope of achieving concord in the messy and combative world of cryptocurrency? With the last votes cast by Maker and 0x each attracting less than 1 percent of the available votes form their respective communities, it would be easy to conclude that blockchain governance is a niche pursuit within a niche industry, destined for participation by only the most passionate of crypto zealots.
+
+Voting is overrated. — Gavin Andresen (@gavinandresen) March 26, 2019
+
+But away from the binary options afforded by simple onchain/offchain voting systems, a handful of crypto projects are developing more sophisticated systems that harness crowdsourced wisdom and incentivize participation. Kleros and Ethfinex are one such case. The dispute resolution project has joined forces with Bitfinex’s ERC20-based sibling to create a transparent exchange listing process. Their goal is to entrust the community to oversee token listings and to create a reliable list of legitimate tokenized projects.
+
+To achieve this, Kleros has created a token curated registry (TCR) that project details are entered into such as the logo, name, ticker and contract address. It’s then the responsibility of other users to verify this information. If they believe any of it to be incorrect, they can challenge the submission, and are financially rewarded if they are vindicated. In the first fortnight of the scheme, there have been 18 submissions by project teams, who have deposited a total of 459 ETH, while $60K of PNK, the Kleros arbitration token, has been staked by jurors who are mediating any challenges pertaining to the accuracy of the TCR, and rewarded for ruling correctly. When it comes to increasing community involvement, it turns out that carrot beats stick.
+
+Governance for the Good of It
+
+Blockchain governance can be traced all the way back to the birth of Bitcoin. The highly decentralized cryptocurrency features primitive voting mechanisms, such as BIP 34, which measures miner support as indicated by a higher version number appearing in block headers. This has historically been used to signal approval for proposed soft forks and other protocol changes. Subsequent cryptocurrency projects have devised a more formalized governance structure.
+
+Dash operates a decentralized autonomous organization (DAO) that enables masternode operators to vote on how the community’s budget, drawn from 10 percent of all block rewards, is disbursed. Its model has been emulated by numerous other projects including Horizen and Decred, which has implemented a system of ticket-holder voting, in which users who time-lock their funds are awarded tickets that are valid for both onchain and offchain voting.
+
+Altruism, Agora and Aragon
+
+Without financial incentives, blockchain governance is still possible, but the level of community involvement shrinks significantly. For people to participate, they must either care a lot about the project or have the task sweetened a whole lot. While Kleros and Ethfinex have favored the latter approach, devising a system that rewards ethical behavior and fair adjudication, projects with extremely passionate communities have found that intrinsic incentives are all it takes. Decentraland’s Agora dapp enables mana token holders to cast their vote on key matters in just a couple of clicks. It’s been used to resolve such questions as “Should the size of each LAND parcel be increased?” and “When should the next LAND auction take place?”
+
+As crypto economic systems evolve, less primitive forms of governance will be required. DAO-based networks like Aragon are already hard at work in developing those systems. In the meantime, as projects as diverse as Decentraland, Kleros, Decred and Ethfinex have shown, there’s more than one way to implement blockchain governance.
+
+What are your thoughts on blockchain governance? Let us know in the comments section below.
+
+Images courtesy of Shutterstock.
+
+Need to calculate your bitcoin holdings? Check our tools section.

@@ -1,0 +1,19 @@
+DATE:  13.06.2019, 20:30:00
+TITLE: $6 Million in Stolen Binance Bitcoin Is On the Move Again
+URL:   https://www.coindesk.com/the-stolen-binance-btc-is-on-the-move-again
+
+Hackers are now accessing wallets containing cryptocurrency stolen from Binance in May. Coinfirm, the company that tracked the original few moves in early May has spotted a massive outflow from the original hoard of wallets created on May 7, 2019.
+
+Coinfirm’s co-founder., Grant Blaisdell, wrote:
+
+The attack was conducted using diversified techniques including viruses and phishing. According to Binance, stolen funds constituted approximately 2 percent of total BTC holdings of the exchange. In order to prevent user’s funds from being affected and guarantee stable work of the platform, Binance used its SAFU fund to cover the loses. The Secure Asset Fund for Users was established on July 14, 2018 and consists of 10 percent of all trading fees.
+
+According to Coinfirm, the hackers then moved 1,060.64474480 BTC or $6,148,122.40 in a number of hops, shedding value each time. On June 7, 2019, the hacker moved the $6 million from this wallet, called bc1q2r…, to this wallet, bc1q65…, shedding an odd $15.84 dollars into this small wallet and adding $2 million to the total. It’s not clear why this small an amount “hopped” out of the wallet.
+
+The next hop moved 1,040.95915580 BTC ($8,242,840.00) into this wallet, shedding $155,861.00 into another wallet, 1JSfJ…. This shows a concerted effort to break up the bigger wallets into smaller chunks.
+
+Finally, Coinfirm saw a final hop of 1,021.53182514 BTC ($8,089,010.00) into this wallet, again shedding $153,835.00 into this wallet. The remaining BTC ended up in “bc1qcgwn2nv906k3rws803zhxwq3crfgjvnzjejgyq” and has not moved since.
+
+This pattern of hops and “shedding” suggests either some sort of side payment to other parties or further efforts at laundering the cash using what appears to be a series of calculated moves aimed at scrambling the source of the funds. Given each of these wallets are now being watched carefully by legitimate exchanges it could be quite difficult – but not impossible – to convert these wallets to fiat.
+
+Image via Shutterstock.

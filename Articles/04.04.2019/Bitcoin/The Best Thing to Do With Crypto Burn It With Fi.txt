@@ -1,0 +1,125 @@
+DATE:  04.04.2019, 11:00:24
+TITLE: The Best Thing to Do With Crypto? "Burn It With Fire," Says This Bitcoin Super Skeptic
+URL:   https://breakermag.com/cryptocurrency-burn-it-with-fire-says-bitcoin-skeptic-nicholas-weaver/
+
+Nicholas Weaver began his talk on cryptocurrency at January’s Enigma security and privacy conference with some disclaimers. “My work in this area is largely sponsored by the National Science Foundation, but of course, all opinions are my own,” said Weaver, a researcher at the International Computer Science Institute and lecturer in the computer science department at the University of California, Berkeley. “This is also not investment advice. But then again, my advice to anyone who says you should invest in cryptocurrencies [is] you should just kick them.” The rest of Weaver’s 20-minute presentation was as provocative as its title: “Cryptocurrency: Burn It With Fire.” Naturally, we had to speak with him.
+
+What were your main arguments of your talk at the Enigma conference?
+
+First of all, the cryptocurrencies don’t actually work as currency. That’s the big deal. They’re hard to buy because they are deliberately incompatible with the rest of the financial system. They’re incredibly hard to hold on to because, well, something goes wrong it’s “Sorry for your loss.” That’s a function of the irreversible design. And finally, they’re actually really hard to spend. Most merchants who accept cryptocurrency aren’t actually accepting cryptocurrency, they’re using a service that turns it into dollars.
+
+Weaver's Enigma talk, "Cryptocurrency: Burn It With Fire."
+
+You’ve called bitcoin “bovine excrement.” What gets you so riled up about cryptocurrency?
+
+Because they are provably inferior to alternative payment mechanisms, with one exception: They do have censorship resistance. So if you want to be a currency of crime, cryptocurrency is the only online choice. And as a result, cryptocurrencies have these huge externalities. What has happened is they’re useful for extortion and stuff like that. The mining for “proof-of-waste” is such that it’s about the same amount of power draw as Singapore, and in a way that actually disfavors renewables. So the externalities are huge, and the benefits are effectively nonexistent.
+
+Have you ever actually owned crypto, or were you resistant to it from the start?
+
+From the start, I knew it was bogus. Back in 2013, I wrote how irreversibility means that cryptocurrencies will never be useful for payments compared to the alternatives. I did have one bitcoin—one of those physical bitcoins, back when they were 20 bucks. In our research group, you give a presentation, you got a bitcoin. I ended up donating that to the Ross Ulbricht [founder of the dark web market Silk Road] Legal Defense Fund after he was convicted.
+
+So you’re a Ross Ulbricht supporter?
+
+No, I’m not. I support his mother. I feel very sorry for his mother, and the defense was grossly incompetent. I was hoping she would use the money to retire some debts and fire the idiot [lawyer] and go with a ineffective counsel appeal. But they did not. They stuck with the same idiot for the appeal. And so as a result, Ross Ulbricht will never see the light of day.
+
+Do you think Ross is guilty of what he’s been—
+
+Oh, he’s so guilty. The reason why the defense was an absolute joke is the only defense that would have worked would be getting the server seizure tossed out. And the defense literally threw that away, even after getting a handwritten note from the judge: “Oh, are you sure you want to throw away the case like this?” And they did it anyway. The guy was caught, logged in as DPR [Dread Pirate Roberts, the Silk Road administrator’s alias] with the computer that had DPR’s stash of treasure. The attempts to procure hits were amusingly incompetent, but the payments were from the stash on his computer, not on the Silk Road server. He was just so guilty. And the defense was so mishandled.
+
+I wrote a profile of Ross’s mom, Lyn, and the people who support her and Ross insist that he was railroaded.
+
+I was watching the thing carefully from the instant he was arrested. And the FBI did a real nice job on arresting him to preserve the evidence on his computer. It was an open-and-shut case, and to deny otherwise is to deny reality. The defense was a Chewbacca defense once it got to trial, and as a consequence, there was no way they were getting him off.
+
+Aside from uses in crime, you seem to find no real redeeming qualities in cryptocurrency and blockchain. Is there anything else that you think blockchain would be good for?
+
+Let’s split out the term blockchain into two separate things. You’ve got the private blockchains, which are an append-only data structure. We’ve known how to build these for 20 years. And if indeed your problem can be solved by putting it an append-only data structure, it should already be in the git-archive or certificate-transparency chain or all these other data-structure devices that we know how to do. The public, or permission-less, ones—the ones behind the cryptocurrency—they’re interesting from a research viewpoint, but they aren’t actually useful for anything other than the cryptocurrencies themselves.
+
+"If you look at the entire field of cryptocurrencies, it is literally speed-running 500 years of economic failures. And when they reinvent economic successes, they do it badly."
+
+As a computer science researcher, is any of the technology impressive to you at all?
+
+I thought proof-of-work was clever initially, about five, six years ago. It’s just only recently I realized just how bad it is compared with articulating trust. There is some cool work on distributed systems. But the rest is basically comedy gold. If you look at the entire field of cryptocurrencies, it is literally speed-running 500 years of economic failures. And when they reinvent economic successes, they do it badly. Tether is an 18th century wildcat bank. They’re issuing their own bank notes.
+
+Every single ICO on the planet that isn’t restricted to accredited investors is effectively an unregistered security, and some of them are ridiculous. When I was doing my talk, I had to decide between “HIV cure on the blockchain” and “alchemy on the blockchain,” and I went with the latter.
+
+There’s alchemy on the blockchain?
+
+Yes, there was a ICO for alchemy on the blockchain.
+
+How was that purported to work?
+
+[Laughs.] I don’t know. It was alchemy on the blockchain.
+
+You also have the tulip mania recaptured with CryptoKitties. CryptoKitties was pure tulip mania.
+
+But CryptoKitties was fun. Can you not admit is was fun?
+
+They’re deformed little things that somehow were worth $100,000 for a short period of time, assuming somebody else would buy it for $150,000.
+
+And the Ponzi schemes are amazingly rife. The only really innovative new idea is smart contracts, and smart contracts are a disaster, too.
+
+Why are smart contracts a disaster?
+
+First of all, there’s the concept: Let’s replace standard contracts written in a language we call legalese with something written in a language that’s worse than JavaScript, and in the process remove the exception-handling mechanism. If you can go up to a smart contract and say, “Hey, give me all your money” and it goes, “Okey-doke,” is that even theft? That’s within the text of the smart contract. The reality is, these are basically just finance bots: programs that operate on money. Our financial system has run on finance bots for decades now. The only difference is the smart contract finance bots are public. And that means that anybody can interact with them and exploit them. The only real utilities people have written with them are effectively Ponzi schemes and a framework for these unlicensed stock offerings.
+
+How much pushback from the crypto community do you get for your views?
+
+A fair amount, but it’s kind of background noise. You can generally ignore it. The problem is that they don’t listen to my arguments. And I look at their arguments and conclude they don’t make sense. So yeah, there’s some pushback, but it’s not the kind of thing that’s really of interest to me. What’s of interest is how things can fail in interesting ways. There are two things that I think can really cause the cryptocurrency market to totally fail.
+
+First is actual legal enforcement, particularly around Tether. The conclusion is these days 95 percent of [trading volume on] the exchanges [is] effectively fraudulent. These are all the same exchanges that are already cut off from the banking system and use Tether. [If] Tether is [found to be] a criminal enterprise, and the feds arrested those behind Tether and gave Tether the Liberty Reserve treatment, it would effectively collapse all the exchanges.
+
+What’s the second way?
+
+The second is a technical death spiral situation. The problem with bitcoin mining is it’s wasting a lot of energy, and it will always waste a lot of energy as long as the price is high. If the price drops, however, there may be scenarios where we have a large amount of mining equipment that ends up getting turned off. That equipment is not profitable to run 24/7/365 to mint cryptocurrency, but would be profitable to synchronize and turn on for a few hours in order to attack the security of the system.
+
+"The problem with cryptocurrency is it's basically a Venn diagram: those who don't understand economics intersected with those who don't really understand computer security."
+
+Have you ever met your fellow crypto naysayer Nouriel Roubini?
+
+Only online.
+
+Do you see him as an ally?
+
+I see him as a really insightful economist. The problem with cryptocurrency is it’s basically a Venn diagram: those who don’t understand economics intersected with those who don’t really understand computer security. The cryptocurrency defenders tend to attack economists with “Oh, you don’t understand the technology.” And Roubini is really willing to push back against those arguments, because, well, those arguments are irrelevant. The problems with the cryptocurrencies are really economic, not technical.
+
+Initially I thought bitcoin was a clever hack. And I still think it’s kind of a clever hack, but it’s a clever hack without redeeming value at this point. And the problems are economic.
+
+What about Roubini’s approach? He seems to delight in being contrarian.
+
+I don’t think he delights in being contrarian. He just delights in putting down markers that the future will prove to be right. Why was he called Dr. Doom? Because he predicted a large amount of the failure mechanism that happened in 2007, 2008. I don’t think he’s being contrarian for the sake of being contrarian on cryptocurrency. He’s being contrarian because he sees something that he believes has been a large net negative, and that’s going to end badly for a lot of people. I can’t speak for him, but I don’t like that. That’s why I’ve gotten much more vocal in my contrariness. I see a lot of people are going to lose, or have already lost, a lot of money.
+
+Is there anyone in the crypto community whose views you respect?
+
+I like Emin Gün Sirer. He’s a real serious academic. I think he’s wrong about the future on some of these distributed systems. But he’s doing interesting research, and he points out problems when they occur. He, for example, pointed out that reentrancy bugs are going to be a problem in Ethereum. And Ethereum folks ignored him and ended up having the DAO fiasco. I also really respect Matthew Green and company at Johns Hopkins. They do good research.
+
+Get the BREAKERMAG newsletter, a weekly roundup of blockchain business and culture.
+
+
+
+Basically, the big difference between me and [Green] is he believes that censorship resistance and privacy are good things. I have come to the reluctant belief that censorship resistance and financial privacy cause far too much collateral damage. I like to quip “Cryptocurrency has committed a crime against me.” It has made a Silicon Valley semi-libertarian believe in the jackbooted authoritarianism of money-laundering laws.
+
+So the crypto space has changed your worldview?
+
+Yes. Before the cryptocurrency booms and bust, I had these moral objections to a lot of the aggressive money-laundering laws that are in play. Like if you deposit more than $10,000, that gets automatically flagged and blah, blah, blah. And look at what the cryptocurrency space has wrought: drug deals, ransomware, extortion, all those things that would not happen in the regulated commercial banking system. I now actually do believe that money-laundering laws are essential and need to be enforced with vigor. Because when we don’t have that, we have a huge amount of externalities.
+
+If you had your druthers, how would how would we do away with crypto and blockchain?
+
+Well, there’s three things. First of all, black hats can get a lot more aggressive at stealing. The North Koreans have only stolen half a billion dollars [in crypto]. Personally, I think they should up their game and try to add an extra zero to that amount, and there’s ways that that can happen.
+
+Are you advocating that a foreign country steal our cryptocurrency?
+
+No, I’m advocating that if the North Koreans want to hack everybody and be obnoxious, they could be doing a better job of it. But that’s more just something that that the cryptocurrency defenders need to watch out for, that there are scenarios where somebody could do really nasty things.
+
+The big one is just enforce the laws—the laws on money laundering, the laws on know your customer, the laws on unlicensed securities, the laws on wash trading, and stuff like that. What happened, I think, is that the regulators were afraid of being accused of stifling innovation. But now that it’s clear that there was no innovation to stifle, they can actually regulate with without worry.
+
+And finally, there are technical vulnerabilities. With a fairly small amount of money, you could probably make a cryptocurrency system provably unusable. As an attacker, you spam the system, lock out normal transactions, and you keep up the spam game until they start installing spam filters. And then what you do is you train your spam not to get around the spam filters, but to have the spam filters cause false positives. How well would a cryptocurrency work if one percent of the legit transactions got randomly stopped in spam filters?
+
+Given all these these scenarios you’ve laid out, what’s your prediction? Ten years from now, are we still going to have cryptocurrencies?
+
+Probably not. Because the thing is, the volatile cryptocurrencies don’t work for electronic payments. And we already have electronic money; we’ve had it for decades now. And there might be some in the future out on the fringes, but I don’t think we’ll ever see a return to the mania we saw a year ago.
+
+So you’re bearish to the extreme.
+
+But at the same time, I do not have any financial position in anything regarding cryptocurrency, for two reasons. First of all, the market can stay irrational longer than you can stay solvent. And the other thing is there’s no reliable counterparties for out of the money options where you can bet on a collapse safely. So the only winning move is not to play.
+
+This interview has been edited and condensed. Photo courtesy of Nicholas Weaver.

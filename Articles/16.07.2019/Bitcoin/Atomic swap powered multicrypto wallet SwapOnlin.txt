@@ -1,0 +1,33 @@
+DATE:  16.07.2019, 07:13:31
+TITLE: Atomic swap powered multi-crypto wallet Swap.Online to integrate TON, LIBRA
+URL:   https://www.cryptoninjas.net/2019/07/16/atomic-swap-powered-multi-crypto-wallet-swap-online-to-integrate-ton-libra/
+
+Swap.Online, an open-sourced atomic swap solution to store and exchange crypto-assets based on different blockchains, has announced plans for Q3, 2019 along with recently completed developments.
+
+First and foremost, the Swap.Online team is planning for the integration of Telegram’s TON Network and LIBRA blockchains due to the great interest of both projects shown by the community.
+
+The team also highlighted some recent development updates which can be read below:
+
+Bitcoin Cash
+
+First, Swap.Online has launched atomic swaps with Bitcoin Cash (BCH). The team had been planning for a long time to add the significant Bitcoin fork to its atomic swap decentralized exchange ecosystem. The Swap.Online R&D department started to study the possibilities of the BCH integration in October, 2018, and finally, it has executed an ETH<>BCH atomic swap and launched a wallet for Bitcoin Cash.
+
+For now, users can store BCH on Swap.Online, send and receive. An exchange mechanism is available in testnet mode, with plans to launch mainnet swaps for Bitcoin Cash over the next several months.
+
+ETH Upgrades
+
+Next, the team has added some important functions to the ETH and ERC-20 token exchange solution. Now, users can execute swaps even if the balance is insufficient to pay the gas fee. The missing amount of ETH can be paid by either the counterparty of by Swap.Online. This feature was implemented to help our users finish their swaps regardless of trivial insufficient deposit.
+
+Finally, Swap.Online has launched the possibility to place an order prior to token deposit. For example, a user willing to exchange ETH or other tokens would like to know, whether his or her order will be attractive. If it is, the user can send the crypto to the balance during the swap. For protection, if a user places excessive ‘unfilled’ orders, the user’s ranking on Swap.online will be reduced.
+
+Swap.Online Facts
+
+• First to implement EOS and USDT
+
+• No fee, no limits
+
+• Anonymous, No registration needed
+
+• Licenced (FVR000299., Estonia) to provide services of exchanging a virtual currency against a fiat currency
+
+• 6 full-time developers, 20 total

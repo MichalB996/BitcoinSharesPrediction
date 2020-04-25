@@ -1,0 +1,47 @@
+DATE:  08.08.2019, 14:26:11
+TITLE: ‘Bitcoin Jesus’ Roger Ver Epically Trolls Lightning Shills
+URL:   https://www.ccn.com/roger-ver-trolls-bitcoin-lightning-network/
+
+“Lightning fast” may eventually be a trademarked term for some crypto payments company or another, but “Bitcoin Jesus” Roger Ver used the phrase to hard-troll fans of the Lightning Network.
+
+Guerilla Marketing by Bitcoin’s Favorite Jesus Turned Judas
+
+Saying “Bitcoin Cash is lightning fast” and posting a video where a transaction is “completed” within 15 seconds, Ver undoubtedly knew that he was creating a minor controversy.
+
+A top comment on the tweet accused Roger Ver of being a liar:
+
+Ver, however, is not lying.
+
+Zero-confirmation transactions are not only allowed but encouraged in both Bitcoin Cash and Bitcoin SV. Ver recently had a debate with crypto personality Tone Vays.
+
+As Bitmain, a company which loudly supported the Bitcoin Cash fork through its mining power and its CEO Jihan Wu, wrote before the launch of BCH:
+
+“Bitcoin Cash will be pretty much the same as BTC minus a few things, like the Segregated Witness (Segwit) implementation and the Replace-by-Fee (RBF) feature.”
+
+Replace-by-fee is a feature in Bitcoin which allows a user to replace one version of a transaction with another with a higher fee, often guaranteeing that a miner picks up the second transaction. The first version of the transaction then becomes invalid.
+
+The replace-by-fee controversy came to light again when several Canadian men stole millions of dollars in Bitcoin from various cryptocurrency ATMs across the country. RBF’s inventor Peter Todd told CCN at the time:
+
+“The simple truth of the matter is that the ATM operator in question is negligent if they are accepting unconfirmed transactions without other mitigating security measures such as obtaining positive legal identification; the fact that they’re asking for help in identifying the thieves is a strong sign of such negligence. This is no different than, say, a store selling high value items choosing not to hire cashiers and instead relying on an ‘honesty box’ for payment.”
+
+Lack of a convenient replace-by-fee mechanism in Bitcoin Cash definitively gives zero-confirmation transactions a higher degree of safety.
+
+The feature is only primarily useful in Bitcoin when used to get a transaction through a congested blockchain.
+
+Be Careful What You Wish For, Roger
+
+Nevertheless, the eternal wisdom in this industry has always been to wait for at least one confirmation before considering a transaction “settled” at all. Bitcoin currently has a hashpower of over 75 exohash compared to Bitcoin Cash’s two-plus exohash.
+
+That means that a minority of rogue miners from Bitcoin could easily create havoc on the Bitcoin Cash chain, if zero-confirmation transactions were the norm and enough activity took place on the chain.
+
+Bitcoin Cash can shake this threat by switching to a mining algorithm not currently supported by BTC miners, although it would cost their mining network significantly.
+
+Bitcoin Cash proponents rightly argue that 10 minutes – the standard window of time between blocks in BTC or BCH – is a long time for an in-person transaction.
+
+“Cash” settles as soon as it changes hands, with a receipt issued if necessary. To be “digital cash,” whatever technology succeeds will have to mimic this behavior.
+
+Responses to the tweet ranged from excellent to awful, in terms of counter-trolling. Here are some examples.
+
+Factually, it’s true that accepting a zero-confirmation transaction is a leap of faith. It’s also true that every time you accept fiat cash, you could be accepting counterfeit versions worth nothing at all.
+
+The last thing the BCH network likely wants is a reputation for easily-stolen goods. The chain has already suffered reorganizations and undergoes regular hard forks.

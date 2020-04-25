@@ -1,0 +1,67 @@
+DATE:  21.09.2019, 03:30:53
+TITLE: Bitcoin History Part 17: That Time Mt. Gox Destroyed 2,609 BTC
+URL:   https://news.bitcoin.com/bitcoin-history-part-17-that-time-mt-gox-destroyed-2609-btc/
+
+Bitcoin History Part 17: That Time Mt. Gox Destroyed 2,609 BTC
+
+Technically speaking, it’s impossible to destroy bitcoins. But it is possible to send coins to an unspendable address, rendering them redundant to all intents and purposes. In October 2011, that’s exactly what Mark Karpeles did when he consigned 2,609 BTC to eternal oblivion due to a scripting error.
+
+Also read: Bitcoin History Part 16: The First Mt. Gox Hack
+
+How to Destroy One Week’s Profits in One Click
+
+In the last installment of Bitcoin History, Mt. Gox had just suffered its first hack in summer 2011. Less than four months later, its hapless CEO Mark Karpeles was to suffer another embarrassing episode when he wiped out a week’s takings for the bitcoin exchange. Compared to other losses Gox was to endure, this one was a drop in the ocean, and has thus been largely lost to history. The incident deserves revisiting, however, as it provides a cautionary tale on the dangers of meddling with the Bitcoin client, and a lesson in how to destroy coins.
+
+Most of the bitcoin community learned of the event, like so many incidents from the early days, on the Bitcointalk forum where, on October 29, 2011, user genjix started a thread titled “someone fucked up and lost a lot of money.” By way of explanation, they posted the following code:
+
+Few readers had any idea what was wrong from looking at the code, but genjix was on hand to explain. The standard transaction script, which in this case read “76a90088ac,” should have had “14” in place of the “00,” “which in scripting language means push 0 bytes,” genjix observed. “It’s a tx which has been sent to nothing. Obviously someone was hacking at bitcoin or making a custom version and messed up – although I have no idea what it was doing with so much money.”
+
+The answer to that latter question didn’t take long to arrive from Internet Relay Chat, where on the Mt. Gox IRC, Karpeles, aka Magical Tux, confessed to being the one who’d created the faulty transaction script and nuked 2,609 BTC:
+
+MagicalTux: that’s a problem, but not the worst problem we ever faced
+
+MagicalTux: all the broken withdraws have been re-issued
+
+MagicalTux: just spent one week of BTC-only income
+
+‘Lest there were any doubt as to the finality of the transaction, Bitcointalk user “BTCurious” wrote: “They’re gone. No chance of retrieval.”
+
+The Mother of All Unrecoverable Transactions
+
+Sending coins to a wrong or nonexistent bitcoin address is extremely rare. All bitcoin addresses have a checksum which significantly reduces the odds of inadvertently entering an incorrect address. Karpeles had been tinkering with the Bitcoin client, however, and chose a valuable transaction with which to get experimental. As he acknowledged on IRC:
+
+MagicalTux: I need to limit the number of inputs in a tx, seems that normal bitcoind don’t like a tx with 293 inputs.
+
+BTCurious explained over on the Bitcointalk forum:
+
+The bitcoin protocol supports a lot more than just sending coins from A to B, even though that’s mainly what you see in the normal client nowadays. The miners need to accept “unusual transactions” though, as long as they adhere to the bitcoin protocol.
+
+‘Another Blow to Gox’s Tech Reputation’
+
+Reaction to Karpeles’ screw-up was mixed, with an intense debate breaking out on IRC as to whether Bitcoin’s scripting capabilities ought to be limited to prevent such a mistake from happening. This wasn’t as simple as it sounded, however, with Core developer Gregory Maxwell noting:
+
+Glyph-Minus-229: the protocol doesn’t prevent sending to invalid addreses?
+
+gmaxwell: No, the protocol makes MANY things possible.
+
+gmaxwell: The transactions are little programs that govern their redemption.
+
+gmaxwell: There is probably no polynomial time that can identify all unspendable transactions.
+
+One IRC user was unwilling to dismiss the incident as bad luck, describing it as “another blow to mtgox’s tech reputation.”
+
+“And this is the guy whom 90% of Bitcoin users trust their money to,” wrote forum user Raoul Duke, accompanied by a rolling eyes emoji. Of Karpeles, he presciently wrote “It seems he’s closer to losing the Mt. Gox balance than running away with it.” Speculating on what would have happened to Bitcoin had Karpeles made that mistake when sending 442,000 BTC, as he did in a record-breaking transaction four months earlier, he confessed: “Thinking about this stuff gives me the chills.”
+
+You Dun Goofed
+
+The 2,609 bitcoins Mark Karpeles accidentally destroyed in October 2011 can’t be moved, but they can be viewed. In Tux’s defence, Bitcoin was much less user-friendly back then, and executing complex transactions required more tinkering than it does today.
+
+They will remain, till the end of time, in the unusually named bitcoin address “s-272edf45031dd498e7b3ae89e11ff21b.” Attempting to summarize the impossibility of retrieving those BTC, forum user “etotheipi” wrote: “In order to spend these coins, you have to furnish a public key that, when you apply ripemd160(sha256(pubKey)) is equal to “0x00”. Unfortunately, ripemd160 only produces 20-byte hashes. Even if you somehow did have a string that produces such an impossible hash, good luck finding the associated private key.”
+
+Given that the coins Mt. Gox lost were only worth $8,300 at the time, it wasn’t seen as a big deal. Today, those coins would be worth $26 million. The fact that they’ve resided in the same address for the last eight years, untouched, is a testament to Bitcoin’s finality.
+
+Bitcoin History is a multipart series from news.Bitcoin.com charting pivotal moments in the evolution of the world’s first cryptocurrency. Read part 16 here.
+
+Images courtesy of Shutterstock.
+
+Did you know you can verify any unconfirmed Bitcoin transaction with our Bitcoin Block Explorer tool? Simply complete a Bitcoin address search to view it on the blockchain. Plus, visit our Bitcoin Charts to see what’s happening in the industry.

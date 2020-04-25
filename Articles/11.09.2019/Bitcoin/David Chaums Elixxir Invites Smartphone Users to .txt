@@ -1,0 +1,45 @@
+DATE:  11.09.2019, 02:01:55
+TITLE: David Chaum’s Elixxir Invites Smartphone Users to Test Private Messaging
+URL:   https://news.bitcoin.com/privacy-network-elixxir-invites-smartphone-users-to-test-private-messaging/
+
+David Chaum’s Elixxir Invites Smartphone Users to Test Private Messaging
+
+In an age where Google, Facebook and the NSA are known to be harvesting as much as our communications as they can, many people are concerned that online privacy now only exists in the history books. One project trying to address this is the metadata-shredding platform Elixxir, led by cypherpunk innovator David Chaum, which now lets smartphone users test the network’s private messaging capabilities.
+
+Also Read: Total Surveillance Coin Will Be a Dystopia if Controlled by Facebook or Government
+
+Metadata-Shredding Platform Launches Public Alpha
+
+Elixxir, the latest creation of the man known as the “father of online anonymity,” David Chaum, has announced the launch of the Xx network public alpha. Maintained by a team of nodes run by independent operators, the Xx network alpha represents the first public demonstration of Cmix, the transaction network that shreds metadata and provides unprecedented consumer privacy and security.
+
+“We’ve worked very hard over many years to design and develop the Elixxir privacy protecting platform and now users can access the platform for private communication. It’s one thing to talk about and describe such a platform, it’s quite another to make it available for use on a smartphone. I’m very proud of our team for getting this done,” said David Chaum.
+
+In the weeks ahead, users will have a chance to test the Xx network public alpha for themselves. Currently, select partners are testing the public alpha. The developers say that the public alpha will immediately be capable of processing 500 transactions per second, and they expect it to scale within weeks to 2,500-5,000 transactions per second.
+
+The Xx network public alpha nodes are run by a cross-section of selected node operators around the world. Operators include Bitcoin.com, Chainzilla, Everstake, Incrypt, Iqlusion, and Simply VC. Hand-picked by Elixxir, these node operators will contribute their expertise and feedback to inform the Xx network decentralized beta later this year.
+
+“It’s great to see Elixxir is available publicly for high volume testing. I’m a supporter. Some things about my life are confidential, that’s why I’m looking forward to using their privacy protecting platform,” commented Roger Ver, Executive Chairman of Bitcoin.com.
+
+How Elixxir Protects Users’ Metadata
+
+Communication metadata is the information on the times, origins and destinations of phone calls, emails and instant messages, as opposed to their actual content. It can be used against people by advertisers, scammers, identity thieves, and even hostile governments.
+
+The former National Security Agency (NSA) and Central Intelligence Agency (CIA) Director, Michael Hayden, famously said in 2014 that “We kill people based on metadata.” He explained that “metadata alone can provide an extremely detailed picture of a person’s most intimate associations and interests, and it’s actually much easier as a technological matter to search huge amounts of metadata than to listen to millions of phone calls.”
+
+According to the Cmix whitepaper, Elixxir is working to provide protection against the harvesting and exploitation of metadata by fulfilling two core values fundamental to achieving true security and privacy. The first value is anonymity, protecting the identity of participants in activities; for example, a message sender and recipient. This means that an adversary cannot map any input to the corresponding output with any higher probability than random guessing, even if the adversary has compromised most of the system. The second value is integrity – verifying the trustworthiness of the transaction system. This means, for example, that at any given point, either the system delivers all messages without alteration, or, in the event of a failure, any malicious mixnode is identified with high probability.
+
+To achieve both anonymity and integrity, the system brings together two key concepts: mixnets and precomputation. Mixnets, also known as mixing networks, were first described by David Chaum in 1981. A mixnet lays down cryptographic rules for messages or transaction activity from a set of users to be relayed by a sequence of trusted intermediaries known as mixnodes. These are computer servers that receive a batch of encrypted messages, randomly permute or “mix” them, and then send them forward. Mixnets typically protect the contents of messages with public key encryption. The mixing process provides anonymity, while the public key encryption provides integrity.
+
+The main drawback to traditional mixnets is that they are slow; the public key encryption process takes computers a long time to perform, making mixnets too slow for most consumer uses. The Cmix system is designed to solve this problem by using precomputation. Precomputation allows mixnodes to do all the time-consuming work of public key cryptography before the real-time phase of handling messages between senders and recipients. The result, according to the developers, is a very efficient kind of mixnet that allows users to send and receive messages in real-time without compromising on security and privacy.
+
+Mixnodes perform the work of decrypting messages and mixing traffic to hide the associations between senders and recipients. The work of mixnets is performed in three phases: setup, precomputation, and real-time. In the setup phase, mixnodes establish secret and shared public keys, which can be used as a seed to derive unique values for every session. The precomputation phase is performed once for each real-time phase. The mixnodes establish shared values to circumvent the need for public key operations during the real-time phase, with each mixnode in an n-member team doing 1/n of the decryption work. In the real-time phase, mixnodes receive messages, perform the decryption work prepared for with precomputation, and pass the message on to the next mixnode.
+
+Cypherpunk Creator of Digital Cash
+
+David Lee Chaum is known as a pioneer in cryptography and privacy-preserving technologies, and widely recognized as the inventor of digital cash. In 1995 his company Digicash, an electronic money corporation, created the first digital currency with ecash. The renowned cypherpunk once lamented that internet technologies would create a dossier society where government would catalog information on each individual and track every person and keep tabs on their comings and goings.
+
+What do you think about Elixxir and the launch of the Xx network public alpha? Share your thoughts in the comments section below.
+
+Images courtesy of Shutterstock.
+
+Verify and track bitcoin cash transactions on our BCH Block Explorer, the best of its kind anywhere in the world. Also, keep up with your holdings, BCH and other coins, on our market charts at Bitcoin.com Markets, another original and free service from Bitcoin.com.

@@ -1,0 +1,45 @@
+DATE:  01.05.2019, 11:00:30
+TITLE: Electrum Botnet Steals $4.6 Million in Bitcoin, Cryptocurrencies
+URL:   https://bitcoinist.com/electrum-botnet-steals-4-6-million-bitcoin-cryptocurrencies/
+
+Bitcoin Electrum Botnet Steals $4.6 Million in Bitcoin, Cryptocurrencies
+
+The botnet attacking Electrum has grown to 152,000 infected computers and has now stolen $4.6 million in cryptocurrencies such as Bitcoin, according to Malwarebytes.
+
+Malwarebytes states that it has been “closely monitoring” the attack against the Electrum Bitcoin wallet.
+
+The company states how the botnet came to fruition, stating:
+
+“Victims were being tricked to download a fraudulent update that stole their cryptocurrencies,” explained Malwarebytes.
+
+Later on, the threat actors launched a Distributed Denial of Service (DDoS) attacks in response to Electrum developers trying to protect their users.
+
+As Bitcoinist first reported on the botnet in December last year, the amount stolen stood at USD $900,000. The phishing attempt’s first iteration came as a “security update” but would later evolve as the scam became more complex.
+
+The security update window below is caused by the trojan which is part of the botnet.
+
+The botnet attacking Electrum is growing
+
+“On April 24th, the number of infected computers was below 100,000. Then the day after, “the number of infected computers would peak at 152,000, wrote Malwarebytes.
+
+The botnet’s size can be tracked with this online tool here.
+
+New botnet “loader” identified
+
+Malwarebytes adds that a second botnet loader has been identified as “Trojan.BeamWinHTTP” that downloads the trojan “transactionservices.exe” — which is the main infected file that seeds the botnet.
+
+The first loader was detected as “ElectrumDosMiner.”
+
+Visualizations of the scale of the botnets was also provided by Malwarebytes.
+
+The second picture below shows the depth of the botnets architecture as well as its complexity.
+
+Attacks since late December 2018
+
+In a detailed blog post, on the subject, Malwarebytes claims that the attacks have occurred against the network since 2018 before rising sharply in 2019.
+
+As retaliation for attempting to fix the company’s own software, the criminals launched a denial of service attack against Electrum’s servers. The attackers were also able to reverse an initial patch by the company by redirecting users to compromised machines that contained the malware.
+
+Known as being a “lightweight” wallet, Electrum was chosen for attack due to its simplified architecture, operating in a client/server configuration. It was this configuration that would eventually allow attackers to compromise the network’s security.
+
+Specifically, attackers took advantage of the fact that anyone could operate on the network as a public Electrum peer. Attackers then launched what’s called a Sybil attack that introduces compromised nodes into the network. The result of such an attack was that hundreds of thousands of computers have been compromised through the false security update and other means shown at the start of this article.

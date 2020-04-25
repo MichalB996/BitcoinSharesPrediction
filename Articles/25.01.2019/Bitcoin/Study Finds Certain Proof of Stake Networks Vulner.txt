@@ -1,0 +1,33 @@
+DATE:  25.01.2019, 16:45:40
+TITLE: Study Finds Certain Proof of Stake Networks Vulnerable to Low Cost Attacks
+URL:   https://news.bitcoin.com/study-finds-certain-proof-of-stake-networks-vulnerable-to-low-cost-attacks/
+
+Study Finds Certain Proof of Stake Networks Vulnerable to Low Cost Attacks
+
+On Jan. 22, a team of students from the University of Illinois at Urbana Champaign (UIUC) released a unique study concerning the longevity of certain proof of stake (PoS) networks. According to the research, more than 26 PoS blockchains could suffer from vulnerabilities called “Fake Stake” attacks.
+
+Also read: Satoshi’s Bitcoin Whitepaper Is Now Available in Arabic and Hindi
+
+Study Shows Proof of Stake Attacks That Are ‘Simple in Principle’
+
+A team of researchers called Decentralized Systems Lab from UIUC has just released a study that identifies significant weaknesses in certain PoS networks. Sanket Kanjalkar, Yunqi Li, Yuguang Chen, Joseph Kuo, and Andrew Miller shared research which explains the issues threatening PoS cryptocurrencies. According to the students, an attacker with very little or no stake at all can wreak havoc on these types of networks. The researchers say one method of attack essentially causes a “victim node to crash by filling up its disk or RAM with bogus data.” The students are convinced all PoS currencies based on the UTXO of Bitcoin and the longest chain model are vulnerable to these “Fake Stake” attacks.
+
+The students highlight five cryptocurrencies: Emercoin, Particl, Qtum, Htmlcoin, and Navcoin which could all theoretically suffer from a vulnerability called “I Can’t Believe it’s not Stake.” Because these coins have adopted Bitcoin’s block propagation method, a bogus message attack can overload a victim node’s RAM. The attacker doesn’t even need any stake to accomplish this method of attack. However, the student’s paper notes that RAM version attacks are still “particularly trivial.” The vulnerability was introduced to these networks when they merged Bitcoin’s “header-first” feature into the PoSv3 codebase. Another issue with PoS is a weakness called the “Spent Stake” attack, which can allow malicious actors to abuse the validation of apparent stake with a method called “stake amplification.”
+
+“To carry out the attack starting from a small amount of stake, the attacker must amplify their amount of apparent stake,” the researchers explain. “For example, even with 0.01% stake in the system, the attacker only needs 5,000 transactions to mine blocks with 50% apparent stake power.”
+
+The authors continue:
+
+After the attacker has collected a large amount of apparent stake, he then proceeds to mine PoS blocks at a past time using the freshly collected apparent stake outputs. Finally, the attacker fills the disk of the victim peer with invalid blocks.
+
+Proof of Stake Design Not Fully Understood by Developers Creating PoSv3 Networks
+
+The UIUC researchers also note that they decided to responsibly disclose these issues to 15 teams that were most likely to be attacked out of all the PoS coins in the top 200 market capitalizations. The team explained that five teams had acknowledged the attacks, three teams started investigating the vulnerabilities, and three teams rebutted the issues. Four development teams did not respond at all to the responsible disclosure and the researchers also remarked that some programmers were very difficult to contact.
+
+“This suggests an awareness among PoS developers that the trade-offs and requirements in this design space are not yet fully understood,” the paper concludes.
+
+What do you think about PoS coins that are vulnerable to “Fake Stake” attacks? Let us know what you think about this subject in the comments section below.
+
+Image credits: Shutterstock, Pixabay, and the study “‘Fake Stake’ attacks on chain-based Proof-of-Stake cryptocurrencies.”
+
+Bitcoin is cool, and you know everyone wants in – even the ones who say they don’t. Show the world how cutting-edge you are with a bitcoin T-shirt, hoodie, bag, key-ring, even a Trezor hardware wallet. Shipping all over the world, quality merchandise and, of course, a payment system that makes people say “wow!”

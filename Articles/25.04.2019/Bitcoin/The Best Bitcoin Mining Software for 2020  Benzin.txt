@@ -1,0 +1,197 @@
+DATE:  25.04.2019, 20:34:43
+TITLE: The Best Bitcoin Mining Software for 2020 • Benzinga
+URL:   https://www.benzinga.com/money/bitcoin-mining-software/
+
+Benzinga Money is a reader-supported publication. We may earn a commission when you click on links in this article. Learn more.
+
+Though prices have cooled off a bit, Bitcoin remains the top cryptocurrency by market cap. Choosing the best bitcoin mining software can make mining easier to manage and boost long-term profitability.
+
+Quick Look: The Best Bitcoin Mining Software
+
+Cudo Miner
+
+Honeyminer
+
+Awesome Miner
+
+Hive OS
+
+SimpleMiningOS
+
+What Does Bitcoin Mining Software Do?
+
+Bitcoin mining is the process by which a new bitcoin is brought into existence. There can never be more than 21 million Bitcoins in existence, by design. Over 3.3 million of Bitcoins are yet to be mined, a prize worth over $15 billion at today’s prices. Mining is a popular alternative to buying bitcoin.
+
+
+
+Bitcoin miners aren’t physically digging anything up. Instead, mining is comprised of solving puzzles required to add new blocks of transactions to the blockchain. Bitcoin mining software does this by solving a complex mathematical problem and including the answer in the block. When a block is solved, a reward is earned.
+
+
+
+The very first Bitcoin block offered 50 bitcoins (BTC) as a block reward. Built into Bitcoin’s code is a rule that cuts the reward in half every 210,000 blocks. Blocks #1 through #210,000 paid 50 BTC. Blocks #210,001 through #420,000 paid 25 BTC, and so on.
+
+Currently, the block reward is 12.5 BTC, worth over $63,000 today, and is expected to halve again in 2020 to 6.25 BTC.
+
+
+
+The process of bitcoin mining uses a measurement called hash power. This refers to how fast the hardware and software can produce guesses to solve the encryption puzzle. In general, a higher hash rate leads to faster block rewards.
+
+
+
+Due to the increasing complexity involved with solving a block, hardware plays a huge role in productivity. This has led to the use of specialized ASIC hardware by many miners in combination with mining software.
+
+Hash rate differences can be found between software providers, as well as differences in efficiency. This depends on how much of the reward goes to the software company or how much of your hash power is donated to the software provider.
+
+In some cases, you can purchase the software outright or license the software per machine, allowing you to keep all your earnings.
+
+
+
+You’ll find that bitcoin mining software comes in different forms, from web-based mining that uses javascript, to standalone software programs that mine in the background, to entire operating systems designed around cryptocurrency mining.
+
+
+
+In some cases, like browser miners or some software packages, the mining software is really mining Monero (or a cryptocurrency with a similar CPU-optimized algorithm) and then converting to Bitcoin for payments. As you might expect, this conversion process can lead to some overhead that can affect profitability.
+
+For Bitcoin, in particular, and if your hardware is optimized for mining Bitcoin, you’ll probably want to move to dedicated Bitcoin mining software solutions.
+
+Key Features of the Best Software
+
+Miners range from beginning, casual miners who just want to put their machines to work during downtime, to those building systems specifically to mine or even optimize for a particular type of currency. Even with such a broad group of needs, there is still some overlap in key features, some of which may be a bigger priority for some users.
+
+Hash Rate
+
+You can think of the hash rate as efficiency. Your hash rate can be used to predict your daily or monthly mining earnings. What you’ll find, however, is that there are sometimes measurable differences in hash rates from one mining software platform to the next. This discrepancy can create drag, slowing your mining earnings.
+
+Currency Switch Mining
+
+Some Bitcoin mining software provides the ability to switch to a more profitable currency for mining while still paying out in Bitcoin, or another currency of your choice. The software chooses the best cryptocurrency to mine based on the hardware you are using as well as the market price and current mining difficulty for the currencies it supports.
+
+
+
+This can be a great feature for beginners or casual miners who don’t have a dedicated mining rig with the latest hardware or specialized ASIC chips.
+
+For example, CPU mining isn’t practical for Bitcoin, but even a low-end computer can mine Monero or a similar CPU-optimized currency, which can then be converted to Bitcoin.
+
+Open Source
+
+The cryptocurrency market has had its share of scandals, fraud, and sketchy characters. For this reason, along with others, open source software may be a priority for some users. The code is openly available to review. Cudo Miner, for example, uses open source miners unless you specifically enable closed source miners.
+
+
+
+User Optimizations
+
+Sometimes a small tweak to the default settings can yield large dividends in increased hash rate, boosting monthly earnings. If you want more control, you’ll want mining software that gives you more tuning options.
+
+Costs and Fees
+
+Much like the way a lower hash rate can create a drag on production, fees should be considered as well. Some mining software is licensed as a 1-time purchase. Other solutions are offered with a monthly fee or even a percentage of earnings.
+
+
+
+For example, you might pay a fee as a percentage of your Bitcoin production and then another fee for transferring your Bitcoin to a separate wallet. These fees can add up, so if you choose mining software with higher fees, be sure there’s enough value provided to justify the increased cost.
+
+
+
+You’ll find that even open-source projects often redirect some of your hash power to the developer’s mining pool, typically 2% to 5%. This isn’t necessarily a bad thing, but be sure there’s value in the exchange.
+
+
+
+Easy Setup and GUI with Reporting
+
+It’s nice to be up and running quickly so you can start to track your progress. Command line software provides productivity data as well, but you’re on your own to build graphs and aggregate the data. Many miners will prefer software with easy setup and intuitive reporting, assuming there isn’t too much of a penalty paid in terms of hash rate or fees in exchange for ease of use.
+
+Security
+
+Following a high-profile hack of NiceHash in 2017, in which over $60 million worth of Bitcoin went missing, security may be a bigger concern than ever before. Software that mines directly to your wallet (solo mining) minimizes exposure to hackers.
+
+Mining software that also serves as a web platform and temporary wallet increases this risk but provides other benefits like ease of use or mining other currencies that are automatically converted to Bitcoin.
+
+Our Picks for the Best Bitcoin Mining Software
+
+Whether you’re a casual miner, hobbyist, or run a mining farm, there’s a mining software solution designed for you.
+
+Cudo Miner
+
+Source: www.cudominer.com
+
+A newer offering on the mining scene, Cudo Miner Bitcoin mining software is available for Windows, Mac, Ubuntu Linux, and as a dedicated mining operating system based on Ubuntu 18.04. A beta version that runs off a thumb drive is also available, but we didn’t find it usable with the hardware we had on hand for a quick test.
+
+
+
+Cudo Miner is a multi-algorithm CPU and GPU miner that can automatically choose the most profitable currency to mine and then convert your earnings to Bitcoin.
+
+You can also choose to be paid in other cryptocurrencies instead of Bitcoin, including Ethereum, Monero, or Ravencoin.
+
+
+
+You may find other miners to be more efficient with certain cryptocurrencies. For example, we noticed a lower hash rate with Cudo Miner when mining Monero than when we ran XMrig directly. XMrig is the open-source miner used by Cudo Miner to mine Monero.
+
+To be fair, we didn’t experiment with optimization settings, which Cudo Miner does support.
+
+
+
+Cudo Miner’s benefit is are ease of use. You can be up and running in minutes and the user interface is intuitive. The software can also run automatically in the background, allowing you to put your computer to work when not in use.
+
+
+
+Cudo Miner’s fees include 5% of your Bitcoin production and a 1.5% fee charged when you transfer to an external wallet.
+
+Honeyminer
+
+Source: honeyminer.com
+
+Similar to Cudo Miner, Honeyminer is easy to use and allows mining of various cryptocurrencies depending on your hardware.
+
+Some users report a higher hash rate with Honeyminer than with Cudo Miner, but this can vary depending on hardware and the type of cryptocurrency being mined.
+
+
+
+Mined cryptocurrencies are automatically exchanged for more liquid assets, like Bitcoin or Ethereum, with Bitcoin being the default.
+
+
+
+Fees vary with Honeyminer, from 2.5% for 2 GPU systems to 8% for single GPU systems, making it a bit costlier than similar options like Cudo Miner. However, if you have a higher hash rate with Honeyminer, the efficiency gain may be enough to offset the difference in fees.
+
+
+
+Honeyminer supports Windows. Mac support is on the way. There is currently no support for Linux. A not-yet-released version called Honeyminer pro promises enhanced support for dedicated mining machines with specialized hardware.
+
+Awesome Miner
+
+Source: awesomeminer.com
+
+If you’re building out a mining farm, Awesome Miner deserves a close look. A free version of this Windows-only mining software is available and will support up to 2 computers.
+
+5 upgrade choices unlock support for more computers (up to 900) and additional features like GPU overclocking and user groups with defined permissions.
+
+
+
+Awesome Miner offers a one-time purchase for the license, ranging from $35 for the standard edition up to $700 for the ultimate edition. Upgrading between versions as your farm grows is affordable because you only pay the difference in price rather than repurchasing at full price.
+
+Switch mining is supported, allowing the mining software to automatically choose the most profitable cryptocurrency based on market factors and your hardware. However, unlike some other options, your production won’t be automatically converted to Bitcoin.
+
+You’ll need to utilize your own pools or wallets for mining and use a cryptocurrency exchange service if you want to convert your crypto to BTC. Of course, you can manually select a currency to mine as well.
+
+Hive OS
+
+Source: hiveos.farm
+
+For experienced miners, Hive OS provides a proven Linux-based platform for mining multiple currencies. Home users can try out Hive OS with a free version that supports up to three rigs. Features and reporting are limited on the free version, but pricing is affordable at $3 per worker for the personal plan. It supports more workers as well as additional features and extended reporting.
+
+SimpleMiningOS
+
+Like Hive OS, SimpleMiningOS, is a Linux-based OS dedicated to mining. Pricing is a bit lower at $2 per month per worker, but there is no free level as you’ll find with HiveOS. The monthly subscription includes updates and per-seat prices drop as your farm grows beyond 50 workers.
+
+
+
+By the time you’re ready to use a mining OS with multiple connected computers, you’ll want to do more extensive research and testing because small differences in efficiency are then multiplied by the number of workers.
+
+Choosing the Best Bitcoin Mining Software for Your Needs
+
+A casual or beginner crypto miner doesn’t need the cost and complexity of the more sophisticated mining software. A high-production crypto miner isn’t as well served by entry- or mid-level software designed for common hardware.
+
+Fortunately, most Bitcoin mining software is available without a high price of admission or a long term commitment. Try out more than one and see which one feels like home.
+
+
+
+Hire a Pro: Compare Financial Advisors In Your Area

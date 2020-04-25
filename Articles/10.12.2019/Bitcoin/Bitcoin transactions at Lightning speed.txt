@@ -1,0 +1,43 @@
+DATE:  10.12.2019, 11:10:41
+TITLE: Bitcoin transactions at 'Lightning' speed
+URL:   https://www.mobilepaymentstoday.com/articles/bitcoin-transactions-at-lightning-speed/
+
+Stuck with a lot of change in your pocket? You can use it to buy bitcoin — not a lot, just tiny fractions of it.
+
+A bitcoin aficionado who goes by the moniker "21isenough" has created a prototype for a Lightning ATM. The rudimentary contraption allows you to send tiny amounts of bitcoin over the Internet via the Lightning Network, a second-layer protocol that works on top of the bitcoin blockchain. The Lighting Network was designed specifically for instant, micro transactions of bitcoin
+
+Speaking to ATM Marketplace on the phone from Lisbon, 21isenough said his machine will allow you to buy a unit of bitcoin as small as a single satoshi — worth one hundred millionth of a single bitcoin — for a few pennies. His invention, which initially caused a stir at the Baltic Honeybadger conference in September in Latvia, accepts six different types of coins.
+
+21isenough said he came up with the idea for a crypto ATM that takes coins when he was at the Breaking Bitcoin conference in Amsterdam over the summer. It would be neat to buy bitcoin with spare change, he thought, and the Lightning Network fit the bill.
+
+"I thought it would be kind of an interesting and also quite a tangible way of introducing people to bitcoin," he said.
+
+Lightning ATMs are rare, almost nonexistent, he said. The first Lightning ATM was introduced by bitcoin developer Felix Weiss in March in Hong Kong. Weiss used a modified bitcoin kiosk developed by General Bytes.
+
+How it works
+
+21isenough described how his machine works. He also posted a video on Twitter.
+
+You insert as many coins as you like into the coin receptor. When you are done, you push a button to initiate the exchange process. You then open a Lightning wallet on your mobile phone, generate a QR code and place it near the device's camera for scanning. The Lighting ATM then converts your coins into satoshis (the smallest unit of bitcoin) and sends them to your wallet. The entire process takes less than a minute, he said.
+
+21isenough said he wasn't quite sure what to do with his invention yet, whether to mass produce it or simply create a kit and sell that to other tinkerers like himself.
+
+In the meantime, he has uploaded a parts list and code to his GitHub page for those who would like to recreate his Lightning ATM, with the caveat that it is still under development. He is also working on a tutorial that shows how to assemble the machine but wants to perfect the product a little more before publishing it.
+
+"From the hardware perspective, it's pretty finished, but there is quite a bit of things that need to be implemented into the software," he said.
+
+For those who want to build their own Lightning ATM, parts cost $50-$70 and include a Raspberry Pi Zero WH, a 16 GB SD card, a PaPiRus Zero ePaper/eInk screen and a Raspberry Pi Zero Camera. It also includes a coin acceptor (616), a push button, a bunch of cables and a power supply. Behind the scenes, the setup makes use of the open-source crypto payment processor Btcpay Server and Lightning Network Daemon to pay invoices via an API.
+
+Why Lightning?
+
+One of the problems with bitcoin is that you can't actually use it to buy anything. There is virtually no merchant adoption, which makes it difficult to use the popular crypto as an actual form of money. You can't easily do things like buy a cup of coffee, for instance, because it can take up to 10 minutes for a transaction to go through and the cost of sending fractions of a bitcoin can also be prohibitively expensive.
+
+Lightning Network was created as a way to solve all of that. In theory, it allows you to send tiny amounts of bitcoin instantaneously, at low cost. However, critics claim the off-chain solution is riddled with problems.
+
+21isenough agrees that the Lightning Network has a ways to go before it fulfills its promise. "The network has to grow; there is a lot of quirks," he said.
+
+Still, he hopes his contraption will help people learn more about crypto. "I would love to see them built all around the world for people who want to introduce others to bitcoin," he said.
+
+Update: An earlier version of this story said that one satoshi is worth 1 millionth of a bitcoin. It actually represents a one hundred millionth of a single bitcoin.
+
+Images proved by 21isenough.

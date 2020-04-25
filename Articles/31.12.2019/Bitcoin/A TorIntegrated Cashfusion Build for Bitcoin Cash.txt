@@ -1,0 +1,29 @@
+DATE:  31.12.2019, 19:00:36
+TITLE: A Tor-Integrated Cashfusion Build for Bitcoin Cash Is Coming
+URL:   https://news.bitcoin.com/a-tor-integrated-cashfusion-build-for-bitcoin-cash-is-coming/
+
+A Tor-Integrated Cashfusion Build for Bitcoin Cash Is Coming
+
+On Monday, Electron Cash developer Jonald Fyookball updated the Bitcoin Cash (BCH) community in regards to the Cashfusion protocol. Fyookball revealed that Tor integration is currently in the works. The Tor-integrated Cashfusion build is “the big piece” the development team needs to get from alpha to beta stage, Fyookball detailed.
+
+Also read: Privacy-Enhancing BCH Tool Cashfusion Begins Working Behind the Scenes
+
+Tor + Cashfusion
+
+Bitcoin Cash proponents are excited to hear that developers are relentlessly working on the Cashfusion protocol. A number of BCH users already utilize the Cashshuffle protocol, which mixes Bitcoin Cash-based UTXOs in a pool with other shuffling participants. Millions of dollars worth of BCH ($41.2M) have been shuffled since the platform’s official release in March. Cashshuffle adds a greater layer of privacy but the concept can be improved. For example, if a shuffling participant mixes their BCH and eventually consolidates the UTXOs, it’s possible the transaction can leave behind some clues for blockchain analysis. “We need a method to coordinate Coinjoin transactions with multiple inputs per user,” explains the Cashfusion specifications.
+
+In November, Electron Cash (EC) developer Jonald Fyookball told the BCH community that the privacy-enhancing BCH tool was working behind the scenes. That week Fyookball and independent software developer Mark Lundeberg shared a couple of mainnet Cashfusion transactions as examples. A month later on December 30, Fyookball revealed the “alpha software Cashfusion already works, and we do fusion transactions on mainnet on a daily basis.” “Axel Gembe is working on Tor integration [and] this is the big piece we need to get from alpha stage to beta stage,” Fyookball added. The EC programmer also shared an update from Gembe which said:
+
+I had to abandon the idea of using tor as a dynamic library due to recent glibc changes. They basically disallowed loading pie executables with dlopen, even though it works well for some situations. Now I have the build system work done (except macOS, I’ll need likely need help with that). And the plan is to use stem to control tor using the control port — It should be finished in a few weeks.
+
+Enhanced Bitcoin Privacy
+
+The BCH community on social media and forums enjoyed Fyookball’s update. “Bundling Tor with EC sounds great,” one person wrote on Reddit. “Once this is fully functional this will be a game changer for BCH — I wouldn’t be surprised to see more darknet markets accepting BCH alongside BTC and monero,” another individual commented. BCH fans were pleased to hear the creator of Wasabi compliment Cashfusion after he listened to Mark Lundeberg’s recent interview with Naomi Brockwell. Then on December 27, Wasabi wallet developer @nopara73 commended Cashfusion again on Twitter. “I am not convinced if this is true, but if it is, it’s a game changer in Bitcoin privacy,” the engineer tweeted.
+
+Overall the news of Cashfusion’s progress has BCH fans excited and a number of Cashshuffle users look forward to the advanced update. Fyookball thanked Axel for this “amazing and critical work” and told the community the developer can be tipped. “If you want to send him a tip, you can do so at ichundes#102 cashaccount,” the EC programmer concluded.
+
+What do you think about the Cashfusion progression helping bolster BCH privacy? Let us know what you think about this subject in the comments section below.
+
+Image credits: Shutterstock, Github, Acid Sploit’s Cashshuffle Stats Twitter, and Pixabay.
+
+You can now purchase Bitcoin without visiting a cryptocurrency exchange. Buy BTC and BCH directly from our trusted seller and, if you need a Bitcoin wallet to securely store it, you can download one from us here.

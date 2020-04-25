@@ -1,0 +1,61 @@
+DATE:  22.12.2019, 17:55:42
+TITLE: These Myth-Busting Articles Dispel Common Bitcoin Myths
+URL:   https://news.bitcoin.com/these-myth-busting-articles-dispel-common-bitcoin-myths/
+
+These Myth-Busting Articles Dispel Common Bitcoin Myths
+
+Recently, a few Bitcoin Cash (BCH) proponents have been writing a series of myth-busting articles that describe Bitcoin technicals generally thought to be true but which are not. The articles posted on the read.cash blog have reviewed topics like 10-minute confirmation times, SPV wallets, PoW energy usage, and rising network fees.
+
+Also read: Meet Snowglobe: An Avalanche-Based Pre-Consensus Protocol for BCH
+
+Bitcoin Myth-Busters
+
+BCH supporters have been participating in an editorial series called “Mythbusting” that aims to dispel wrong information about the Bitcoin protocol that’s been articulated by sophists throughout the crypto community over the last decade. The articles have been posted to the BCH-centric blogging site read.cash and translated into Spanish, French, and German so the topics can gather a wider audience.
+
+BCH Fees Won’t Rise Like BTC Because the BCH Network Is Not Artificially Constrained by a 1MB Limit
+
+One article called “Mythbusting: BCH fees would also be high with increased usage” written by Mr. Zwets explains how a lot of people believe that just because BTC fees rise with more usage, the same will happen to BCH as well when usage increases. “This argument does not hold ground and comes from a lack of understanding,” Zwets wrote. Basically, Zwets says the reason why BTC fees spike considerably when usage rises is because of the 1MB block size limit. “Keeping the limit was the biggest change to happen to bitcoin in its history, changing it was not,” Zwets’ post explains. “Bitcoin Cash has a 32MB limit so it will not have to bump into the limit in the foreseeable future.”
+
+In fact, there is data that shows fees won’t rise as they do on the BTC network when the chain is overloaded with transactions. In 2018, the BCH community participated in a stress test that saw 2.4 million transactions processed on September 1. Throughout the week, the BCH network continued to stress test day after day, processing 2-4x the daily transaction average BTC produces. During this week of tests, observers noted that the network fee actually slid from $0.003 to $0.001 per transaction. Zwets’ post highlights the fact that the BTC network’s main issue is due to the artificially constrained block size limit. Zwets’ article stresses:
+
+The underlying reason why there are high transaction costs to use BTC is because there is an artificial limit on the amount of transactions that can be processed and this limit is lower than the amount of transactions people want to make.
+
+PoW Energy Consumption Is a Non-Problem
+
+Another myth busted on read.cash called “ Bitcoin is necessarily energy-inefficient because of PoW” explains how saying Bitcoin’s proof-of-work is a waste of energy is “meaningless” and the “only purpose of this claim is to put Bitcoin (BTC) and PoW in a bad light.” The article was written by read.cash user Alanone and he says the best way to analyze the energy consumption is by comparing it to other systems that consume energy.
+
+“For example, the energy-consuming by video game console has a cost more than bitcoin network, but of course it is not for security purposes, but for entertainment purposes,” Alanone’s post notes. The writer concluded his post by adding:
+
+As we can see, the issue linked to the cost also to the Bitcoin (BTC) is a non-problem for the environment and to conclude this article, a fun fact shows that the consumption from an idle home device can provide the power for bitcoin network for over three years.
+
+The 10-Minute Block Time and Replace-by-Fee Debate
+
+BCH proponent Cain wrote his thoughts on the myth that 10-minute confirmation times make the Bitcoin network difficult to use for everyday payments. In the post “Mythbusting: 10-minute confirmation time makes Bitcoin unsuitable as a ‘cash’ method of payment” Cain writes that “BTC supporters say that Bitcoin isn’t meant for buying coffee.” One reason some people promote this myth is because they think 10-minute block times make double spends easier. Cain mentions the recent double spend exploit video, where Hayden Otto used the Replace-by-Fee (RBF) protocol to show how easy it was to double spend on the BTC chain. BTC supporters glossed over the RBF issue and claimed it was due to the 10-minute block interval. They also claimed all zero-confirmation transactions were unsafe. Cain’s post refutes this fallacy by explaining that BCH doesn’t have RBF and what BTC supporters fail to recognize is that it’s much harder to demo Otto’s real-world example on the BCH network.
+
+“Instead, the [Bitcoin Cash] network follows the ‘first seen’ rule where miners accept the first transaction they see as opposed to the transaction with the highest fee,” Cain’s post emphasizes. “This means that trying to successfully perform a double-spend on the BCH network is significantly more difficult.” Cain notes that because BCH doesn’t have RBF, a person who wants to double spend has to send the funds at virtually the same time. If a transaction is sent just mere seconds later, the chances of a double spend dramatically decrease. The RBF protocol baked into Bitcoin Core makes it so the miners are more incentivized to accept ‘higher fees’ as opposed to Nakamoto’s original design which follows the ‘first seen’ rule.
+
+Dispelling the Belief That Simplified Payment Verification Is Unsafe
+
+Then there’s the article “Mythbusting: SPV is not secure” written by Tomz (Thomas Zander maintainer of Flowee the Hub), which dispels the myth that Simplified Payment Verification is insecure. Zander believes it’s a “shame” that people have “misconceptions about SPV wallets” even though the process is well described in the Bitcoin whitepaper. “SPV wallets do validate, but they validate less,” Zander’s post details. “The myth we hear is that this deferred checking is not safe — The idea that if you don’t check 100% of the transactions, somehow people can take your money,” the developer adds. With full nodes, Zander says that miners validate each and every transaction and if they try to create a block that spends UTXOs twice then the whole network will reject them. SPV wallets validate by following the chain and since SPVs don’t check every transaction they trust the network of full nodes to verify.
+
+“SPV wallets don’t just trust miners, they trust every company observing those miners to have enough selfish reasons to keep the chain healthy and sane,” Zander’s post highlights. “Because the moment one of those 1000s of miners starts to cheat, it is cheaper to eject that one miner from the ecosystem than to just declare all your money in that chain lost due to the value and trust drop that would follow.” The Flowee the Hub developer continues:
+
+An SPV wallet owner, then, trusts in a coin’s ecosystem. Which, frankly, is no different than any other company or person using that coin. The only difference is one of risk — The risk is not about a single payment being stolen from you, the risk is about the entire chain becoming corrupted and losing value. A situation that is very easy to avoid by running a full node and running your business on it. As exchanges and companies like Bitpay do. The only risk for an SPV wallet is when there are not enough people keeping miners in check.
+
+Bigger Blocks Do Not Equal Lesser Nodes
+
+Lastly, Mr. Zwets also wrote another rebuttal called “Mythbusting: Bigger blocks mean less full nodes,” which dismisses the belief that larger blocks will hurt the full node count. Essentially because the blocks are so large believers of the myth think that users will opt out of running a full node because the chain will be too large. Zwets uses Bitcoin Unlimited’s chief scientist Dr. Peter Rizun’s talk “Block Propagation and the Z-parameter” to help argue his case. Basically, Zwets emphasizes that users run full nodes because the cost is low and “because they find them useful and care about the network.”
+
+“This means the more people the network is useful to the more full nodes. This might sound extremely obvious but some people seem to think the only way to get more bitcoin nodes is to lower the cost of running one,” Zwets’ article insists. He also adds that protocol developers shouldn’t ignore a rapid decline of full nodes if cost becomes exponential. One example of this is the “huge node cost” associated with 200+MB blocks “which causes nodes to crash and forces operators to upgrade to more expensive hardware.” Zwets says the BSV chain is a perfect example of this type of “node cost” as a mega-sized block “crashed many BSV block explorers and required Bitmex to double the memory of their node.”
+
+Santa to Reward Myth-Busting With a 1 BCH Prize
+
+Overall, the BCH community seems to appreciate the editorials designed to dispel myths and historical revisionism. The authors on read.cash have been getting BCH tips and many of them received feedback on their essays. Moreover, writers have been getting an SLP-based token called “Mythbuster” as all the rebuttals were invoked by a post written by Btcfork called “A roadmap to busting small blocker myths about Bitcoin.” Btcfork’s post lists a variety of ‘small blocker’ myths and there are many unclaimed essays that can still be written.
+
+Positive contributors may receive Mythbuster tokens for their efforts and Btcfork hopes that the work provides a comprehensive list of editorials that argue against these untruths. Btcfork has also written some posts of his own, which include “Mythbusting: big blocks => zero fees => infinite spam,” and “Mythbusting: “Controversial hard-forks cannot happen.” Lastly, to incentivize writers even more, Btcfork said that “Santa” has announced that he will reward 1 BCH to the article he likes best after December 27. Santa Claus will also reward 0.666 BCH to his runner up favorite, and 0.333 BCH to his 3rd place favorite.”
+
+What do you think about all the Mythbusting posts written by BCH proponents? Let us know what you think about this subject in the comments section below.
+
+Image credits: Shutterstock, BCH logo, Pixabay, Fork.lol, Block Propagation and the Z-parameter slides, read.cash, Mythbusters logo, the Bitcoin white paper, and Fair Use.
+
+Did you know you can verify any unconfirmed Bitcoin transaction with our Bitcoin Block Explorer tool? Simply complete a Bitcoin address search to view it on the blockchain. Plus, visit our Bitcoin Charts to see what’s happening in the industry.

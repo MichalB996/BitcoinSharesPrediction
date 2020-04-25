@@ -1,0 +1,19 @@
+DATE:  07.02.2020, 10:06:40
+TITLE: RSK Launches Interoperability Bridge Between Bitcoin and Ethereum
+URL:   https://www.coindesk.com/rsk-launches-interoperability-bridge-between-bitcoin-and-ethereum
+
+The parent company behind the bitcoin-based smart contract platform RSK has launched a token bridge joining it to ethereum.
+
+Gibraltar-based developer IOV Labs said this week its newly released interoperability bridge would allow users to cross RSK- and ethereum-based digital assets, including ether and ERC-20 tokens, across the different protocols.
+
+When a user transfers tokens, the bridge's smart contract locks the originals and mints a corresponding amount of new tokens on the other chain. Using the system, ether-based tokens can be transformed into RSK's RRC20 tokens, which conversely can be turned into ethereum ERC777 tokens.
+
+Interoperability protocols make it easier for projects to operate on different blockchains. Decentralized apps (dapps) can cater to a broader base of users, who would otherwise remain siloed in closed networks, and projects can leverage specific characteristics of different blockchains simultaneously.
+
+“Interoperability has been a cornerstone of the RSK vision from the start," explained Adrian Eidelman, RSK Strategist at IOV Labs. "We believe being able to offer Bitcoin’s benefits to Ethereum users and to connect these respective developer communities is a crucial step for the blockchain ecosystem as a whole."
+
+There are other protocols offering interoperability between bitcoin and ethereum: Wanchain launched a token bridge between the two networks in 2018. Edelman told CoinDesk that while Wanchain focuses on connecting blockchains by being a "middleman," RSK is different in that it actually combines the networks, allowing both ecosystems to leverage the other's strengths.
+
+Bitcoin stablecoin protocol Money on Chain, which uses bitcoin as collateral for new tokens, has already said it will use the new RSK bridge to cross its stablecoins onto the ethereum ecosystem. The project's co-founder Max Carjuzaa said the new interoperability would combine the security and "global recognition of Bitcoin with the vibrant DeFi ecosystem currently developed in Ethereum.”
+
+Last September, IOV labs said it would integrate RSK tokens into its newly acquired Spanish-language social media network, Taringa. Further information regarding any possible integrations with the interoperability bridge will be released in the coming months, a spokesperson said.

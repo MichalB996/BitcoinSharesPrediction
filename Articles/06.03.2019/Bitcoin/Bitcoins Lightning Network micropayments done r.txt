@@ -1,0 +1,73 @@
+DATE:  06.03.2019, 11:00:24
+TITLE: Bitcoin's Lightning Network: micro-payments done right!
+URL:   https://coinrivet.com/bitcoins-lightning-network-micro-payments-done-right/
+
+Bitcoin was introduced to the world about 10 years ago and much has changed during this decade.
+
+One of the major bottlenecks with this decentralised money technology is that, as with most decentralised technologies, it doesn’t seem to scale.
+
+A way to overcome the scalability issue was through the introduction of off-chain payment channels, like the Lightning Network.
+
+But how can users, exchanges and miners benefit directly from adopting this technology in the near future?
+
+The idea behind Lightning
+
+The Lightning network is a payments channel linked to the Bitcoin network, meaning there can be many different implementations of the same protocol by multiple companies. The Lightning Network (LN) refers to both Lightning Labs’ LN and Blockstream’s LN.
+
+Instead of relying on hard-forks to upgrade transaction storage per block (block weight), the LN allows for the integration of off-chain payment state channels between nodes. This is, instead of validating all information on the main-chain, the LN creates direct off-chain connections between nodes, which are opened up by storing Bitcoin on that channel.
+
+Nodes open routes among each other so payments can hop between nodes until they reach their final destination.
+
+With LN any user can setup a Lightning node and open channels with any node in the network; this has great advantages in terms of speed and cost, as fees would be much cheaper because only settlement transactions get validated on the Bitcoin blockchain.
+
+In a way what Lightning does is to allow for users to deposit Bitcoin to open payment channels, in order to make as many transactions with third-parties as required, without any sort of formal validation (PoW). What happens is that when the channel is closed and the balance is settled, miners will pick up those transactions, validate them on the main blockchain and then propagate to all other nodes.
+
+Lightning Stats
+
+Since the introduction of the Blockstream Store, the Lightning Network has grown tremendously. Around the announcement, the Lightning Network had a total of 46 open channels and 0.682 BTC in capacity. Nowadays, there are roughly 20,000 open channels with over 500 BTC of capacity.
+
+Aweome, right?
+
+Some of the recent improvements made by the latest c-lightning implementation are quite astonishing and can definitely help in supporting a continuous growth due to higher user and business adoption. Some of the key LN working mechanics that are attracting users are:
+
+Lightweight nodes : this release still requires the Bitcoin-client utility to be present, but it can now talk to remote nodes as well, including some lightweight nodes. This makes it possible to run a c-lightning node on Raspberry Pis as well as other low-powered devices. Perfect to one day have it on phones everywhere!
+
+: this release still requires the Bitcoin-client utility to be present, but it can now talk to remote nodes as well, including some lightweight nodes. This makes it possible to run a c-lightning node on Raspberry Pis as well as other low-powered devices. Perfect to one day have it on phones everywhere! The gossip protocol : has been updated to use a more lightweight bandwidth mechanism that asks for specific information, rather than exchanging full network views as the previous release did. This is particularly important for low-powered and mobile devices that would otherwise spend a lot of bandwidth and energy downloading and verifying information they already have.
+
+: has been updated to use a more lightweight bandwidth mechanism that asks for specific information, rather than exchanging full network views as the previous release did. This is particularly important for low-powered and mobile devices that would otherwise spend a lot of bandwidth and energy downloading and verifying information they already have. API stability : Interfaces and supporting libraries have been redesigned in order to minimise changes in future releases. This API stability should make it easy for other projects to build on top of c-lightning because we will support this version of the API for the foreseeable future, maintaining backward compatibility, should we introduce any changes.
+
+: Interfaces and supporting libraries have been redesigned in order to minimise changes in future releases. This API stability should make it easy for other projects to build on top of c-lightning because we will support this version of the API for the foreseeable future, maintaining backward compatibility, should we introduce any changes. Wallet and sync : c-lightning now includes a full-fledged wallet that manages both on-chain and off-chain funds. All funds are automatically tracked and returned to the internal wallet as soon as possible, with no user interaction required. In addition the blockchain tracking now maintains an internal view of the blockchain, ending long blockchain rescans.
+
+: c-lightning now includes a full-fledged wallet that manages both on-chain and off-chain funds. All funds are automatically tracked and returned to the internal wallet as soon as possible, with no user interaction required. In addition the blockchain tracking now maintains an internal view of the blockchain, ending long blockchain rescans. TOR support : c-lightning now supports connecting to nodes over the TOR (the onion routing) network, auto-registering as a hidden service, and accepting incoming connections over TOR.
+
+: c-lightning now supports connecting to nodes over the TOR (the onion routing) network, auto-registering as a hidden service, and accepting incoming connections over TOR. Payment logic: has undergone a major overhaul to support automatic retries for routing failures, randomisation of route selection, and better feedback about the current state of a payment.
+
+Exchanges Integration with the LN
+
+A key area where the Lightning Network can contribute to the scalability of Bitcoin is in making transactions between users and exchanges faster and cheaper. A large percentage of Bitcoin’s daily trading volume involves exchanges, so moving some of these transactions to Lightning payment channels can lower fees for everyone. In addition, faster, lower-friction exchanges can increase liquidity and make price discovery more efficient throughout the Bitcoin ecosystem.
+
+With the Lightning Network functionality available today, I propose two types of integration that can work independently or together: exchange-to-exchange integration and direct-to-user integration. The first allows exchanges to open channels among each other to facilitate the transfers of user funds at high speed, in a cryptographically secure way.
+
+In the second, users are able to deposit and withdraw funds at high speed with minimal fees. This also allows users to move funds between exchanges with low friction and with a greater degree of privacy.
+
+Exchange-to-Exchange integration
+
+One integration strategy will be to have high-volume channels opened between exchanges, allowing users to move funds between exchanges quickly, cheaply, and securely without exposing the details of the Lightning Network directly to users. For exchanges, the benefit of Lightning in this scenario is the ability to offer virtually instant funds transfers to users with a high degree of cryptographic security.
+
+The disadvantage of this integration strategy is that traders will be exposing additional transaction details to their exchanges. Currently, traders transfer funds to a pseudonymous Bitcoin address that may or may not be associated with another exchange. With exchange-to-exchange integration, the name of the receiving exchange as well as the account ID at the receiving exchange must be revealed to the sending exchange.
+
+In this scenario, exchanges will work with one another to open Lightning payment channels. User interfaces will be added to each exchange’s website to allow users to transfer funds directly to accounts on other exchanges.
+
+Exchange-to-user integration
+
+In an exchange-to-user integration scenario, exchanges offer the ability for users to open Lightning payment channels directly with their exchanges. This allows traders to move funds in and out of exchanges with higher velocity and lower friction.
+
+This should allow traders to keep lower balances under the control of exchanges and reduce risk in the case of a security breach at an exchange. Another advantage of this approach is that it gives traders and market makers the ability to move funds between exchanges without exposing where funds are moving and without potentially exposing trades and strategies to exchanges.
+
+The downside of this approach for users is additional complexity, since users will be responsible for their own Lightning payment channels.
+
+With exchange-to-user integration, the exchange operates one or more publicly accessible Lightning nodes. These nodes are integrated with the exchange’s wallet back-end so that funds deposited and withdrawn via Lightning payment channels are immediately available and appear available for trading just as on-chain deposits and withdrawals would.
+
+The most recent example of meaningful integration is how the LN was included in Twitter’s tips, via an API called Tippin, which allows for users to make small donations, like tips, to other users via the Lightning Network.
+
+Don’t miss it out!

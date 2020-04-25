@@ -1,0 +1,75 @@
+DATE:  23.12.2019, 14:00:00
+TITLE: Corporations Need Bitcoin, They Just Don’t Know It Yet
+URL:   https://www.coindesk.com/corporations-need-bitcoin-they-just-dont-know-it-yet
+
+This post is part of CoinDesk's 2019 Year in Review, a collection of 100 op-eds, interviews and takes on the state of blockchain and the world. Chris Dannen is co-founder at Iterative Capital, a New York-based cryptocurrency investment manager, and CEO of i2 Trading, a wholesale dealer and trading desk.
+
+Anyone who has attended cryptocurrency conferences in 2019 has experienced the narrative confusion that hit after the ICO bubble. “Blockchain” companies push lame enterprise products that are, at best, nice to have; token issuers shill new issuances; exchange operators search for capital.
+
+Who isn’t there? Big corporate technology customers. Like any technological device of the last 50 years, cryptocurrency needs to catch their attention before large-scale adoption is feasible.
+
+But two years after the bubble, killer apps are nowhere to be seen. So at the start of a new year, it’s worth asking ourselves what sort of path might bitcoin and its competitors take to get there, and whether 2020 is an inflection point.
+
+Whatever the path and timeline, the transition period for corporations building on bitcoin is sure to be painful; at a big company, technological change always is. Automating payroll, invoicing, expense reporting and other financial operations on top of the bitcoin network would be a slow and expensive process, requiring a massive amount of time and money spent on building software and retraining workers.
+
+Only an extremely serious problem could be the impetus for such a scenario. Does such a problem exist today, and if so, how might cryptocurrency solve it?
+
+The speed of corporate implosion
+
+Consider a few data points:
+
+In 1958, the mean lifespan of a blue-chip company was 61 years; by 2016 it had dropped to 24 years.
+
+Almost three-quarters of a billion hours per week are spent by U.S. workers on internal compliance activities, roughly half of which do not create value.
+
+The return on assets of the top 25 percent of public companies declined from 12.9 percent in 1965 to 8.3 percent in 2015.
+
+Things are going badly for workers, too; since 1976, productivity growth (from technology) has outstripped wage growth by a factor of 5.9.*
+
+From Nokia to Microsoft to Borders to BlackBerry, incumbents fail again and again to preserve their market position and grow wages, despite all the market data they vacuum up each year, all the consultants they pay and all the bright young college grads they hire.
+
+This is a big problem. Why is it so?
+
+The problem is digital technology has advanced the “practical arts” (from spreadsheets to moviemaking) to such a degree that advanced planning and hyper-efficient processes – once strengths of the large hierarchical organization – are no longer as valuable. In an unpredictable, ad-hoc business environment, agility rules and bureaucracy are a drag.
+
+If bitcoin and similar networks can’t help large companies become more agile, they may have little relevance in the economy of the next 20 years. What is the path to utility?
+
+The philosopher Bertrand de Jouvenel theorized we can reason about the future by conceiving of “futuribles.” “A future state of affairs enters into the class of ‘futuribles’ only if its mode of production from the present state of affairs is plausible and imaginable,” he wrote. “A futurible is a descendant of the present, a descendant to which we attach a genealogy” that extends from conditions today.
+
+What are the “conditions” of the whirlwind corporate world of the last decade? In their attempts to move faster and forestall their early demise, the largest incumbents have begun to reorganize to reduce hierarchy and push more decision-making to the margins of the business and away from upper management. What is the corresponding futurible as we look to the 2020s?
+
+What sort of operating model might corporations be forced to adopt next as the physical world digitizes and the speed of business further increases?
+
+The dual-OS company
+
+While he’s never written about cryptocurrency, Harvard Business School professor John P. Kotter originated the concept of “the dual-operating-system company,” which combines a traditional hierarchical management organization with a “network” of supertemps, some paid and some unpaid, outside the office walls.
+
+Hierarchies, he says, are good for planning, creating budgets, defining roles, HR functions and measuring results. “What they do not do well,” he wrote in the Harvard Business Review in 2012, “is identify the most important hazards and opportunities early enough, formulate creative strategic initiatives nimbly enough, and implement them fast enough.”
+
+He advocates what he calls a “second operating system,” a network of people who design and implement strategy from outside. The network half of the dual-OS company is like an immune system for the traditional corporate hierarchy, constantly surveying the business, its markets and its competitors to bring new information and practices in.
+
+Kotter says about 10 percent of the network should be comprised of full-time employees, and the rest carefully selected part-timers and volunteers who are given highly structured processes to make sure their contributions are meaningful, and whose work is seen at high levels of the hierarchy.
+
+There are a few practical problems with an ideal implementation of Kotter’s dual-OS model, however, especially with a very large network. One is payroll. If roles are nonstandard with varying schedules of compensation for part-time, full-time and contract work (and payees constantly dropping on and off at high volume), an army of HR staff would be needed to handle the load. It’s even worse if paychecks are being remitted around the world to a network of external contributors, in places where the business doesn’t have a local office.
+
+Could it be dual-OS is the panacea to ailing corporations and it needs a new sort of financial infrastructure to be implemented economically?
+
+Where bitcoin comes in
+
+Bitcoin is, at heart, infrastructure built for (and by) leaderless groups, operating by emergent consensus. Examples of leaderless groups include not just FOSS developers but also hashtag-based movements like #metoo, or Occupy Wall Street-style protests like the Arab Spring in 2011. In Kotter’s dual-OS company, the “network” half is one such leaderless group.
+
+Bitcoin is ideal infrastructure for leaderless groups because wallets can be issued without permission and bitcoin payments are easy to automate, giving companies the flexibility to pay people in very small or very large amounts, at large scale, anywhere in the world.
+
+Another headache of dual-OS is budgetary permissions. Companies like to set thresholds where staff can spend money with or without permission, but these rules are often not very granular at the corporate credit card level, and enforcing them otherwise can be hard. Custom wallet software, perhaps with multi-signature functionality for large wallets, can help companies put the spending power in the hands of employees, reducing the bottleneck of managerial approval by formalizing the spending rules into the wallet software iself.
+
+Remittance is another issue, for corporations and their employees overseas. Remote offices often need to remit payment back home, but forex conversions can be difficult, slow and expensive in some geographies. Employees working in far-flung places need to be paid locally but also like to send money home; fees and delays abound with existing financial systems. The increasingly global nature of business means that suppliers, manufacturers and logistics agencies may need to be paid in dozens of different currencies.
+
+Thus, the dual-OS operating model seems like a valid futurible for today’s corporations, and its challenges create a need for digitized financial infrastructure.
+
+To the business world, bitcoin and its competitors are effectively competing to be the premier inter-settlement-network network. That is, networks that transmit value between poorly connected fiat systems, filling gaps where other services are too expensive, bureaucratic or slow.
+
+Before long, local money transmitters will be able to push large amounts of value cheaply and instantly through Lightning (or similar) channels from one country to another, meaning their customers never even need to own bitcoin to benefit from the technology to remit value overseas.
+
+This has been a cursory look at how bitcoin might find its way into the mission-critical enterprise stack. In an attempt to remain agile, large incumbents have already begun to wrap themselves in permeable networks, even without knowing how such a dual-OS structure might scale. As they grow their networks, it’s only a matter of time before the cryptocurrency narrative regains its strength.
+
+*Data from Aaron Dignan’s new book, Brave New Work.

@@ -1,0 +1,53 @@
+DATE:  28.02.2020, 16:40:04
+TITLE: 'A Drop-in Replacement for ABC' - BCH Devs Release Bitcoin Cash Node Software
+URL:   https://news.bitcoin.com/bch-devs-bitcoin-cash-node/
+
+'A Drop-in Replacement for ABC' - BCH Devs Release Bitcoin Cash Node Software
+
+On February 27, a group of developers behind the Bitcoin Cash Node implementation released the first version of the project’s codebase. The new client is essentially a drop-in replacement for Bitcoin ABC 0.21.0, as the code aims to disable the Infrastructure Funding Proposal (IFP).
+
+Also Read: BCH Funding Debate: Developers Plan to Launch IFP-Free Version of Bitcoin ABC
+
+Bitcoin Cash Node Unveils Code and Rebrands
+
+The Bitcoin Cash (BCH) community was introduced to the open source codebase for a new full node project called the Bitcoin Cash Node on Thursday. The node has rebranded from Bitcoin ABC and developers launched a new website as well. News.Bitcoin.com first reported on the project after it was initially announced, as the full node has various well known BCH developers working on the client. “This is the first release of Bitcoin Cash Node as a drop-in replacement for Bitcoin ABC 0.21.0. It is based on Bitcoin ABC 0.21.0, with minimal changes necessary to disable the Infrastructure Funding Proposal (IFP) soft forks,” Calin Culianu (Nilacthegrim) of Electron Cash explained on the Reddit forum r/btc.
+
+There are minimal changes from Bitcoin ABC 0.21.0 to Bitcoin Cash Node 0.21.0, the developer noted. This includes:
+
+All IFP soft fork logic, signaling logic, and the hard-coded whitelist have been removed.
+
+Rebranding from Bitcoin ABC -> Bitcoin Cash Node.
+
+Qt GUI settings are automatically copied from Bitcoin ABC (on first use of Bitcoin Cash Node).
+
+“For exchanges and users, this client will follow the longest chain whether it includes IFP soft forks or not,” Culianu added. “For miners, running this client ensures the getblocktemplate RPC call will return a block with version bits that vote ‘NO’ for the IFP soft forks. Additionally, unlike Bitcoin ABC, getblocktemplate will not automatically insert IFP whitelist addresses into the coinbase transaction.”
+
+The subject was discussed fervently between BCH supporters on Twitter and Reddit. “Thank you, everyone, for your hard work on this,” one Reddit user wrote on Thursday. “I love this community.” However, others were more skeptical of the Bitcoin Cash Node announcement and asked harder questions. One person asked if after the dust settles, developers would offer a completely different fork of ABC and create a different roadmap or continue to support ABC’s roadmap with minimal changes.
+
+“That’s a very good question,” Culianu responded. “The answer to that is: It depends entirely on how the ecosystem reacts and what miners do. Our ideal scenario is that the soft forks do not activate and that ABC loses relevance and no longer is in the driver’s seat for BCH development.” The developer further stated:
+
+If that happens, we will follow our own roadmap, which will be heavily influenced by what the ecosystem wants. If any of the soft forks activate then obviously that’s a sign ABC got its way — at which time we will reassess things going forward.
+
+Imaginary Username: ‘We’re Here to Offer an Alternative’
+
+The Reddit discussion concerning the Bitcoin Cash Node project also included the BCH developer Imaginary Username. Another person on r/btc asked if the Bitcoin Cash Node launch was simply to cause “more of a split in the community?” “Most of the people are on a desperate course to save BCH who are otherwise just going to leave, having lost confidence in the ‘lead’ implementation,” Imaginary Username responded. “Do you know why we spent a week instead of doing a simple revert of one commit as some suggested? We gotta get everything set up since we ain’t going anywhere. We’re here to offer an alternative, better future.” The Bitcoin Cash Node developer added:
+
+While we make sure things are going okay, would you mind giving it a little wait? ABC – especially what’s left of ABC right now – does not get to claim that they “built BCH into what it is now.” A lot of people did that together, and many of them caused much less harm, took much less money while doing so.
+
+Signatures and Bitcoin Unlimited
+
+The day before the codebase release, one of the original BCH developers and former Bitcoin ABC programmer, Freetrader, shared a list of people who support the project. In the original announcement, Freetrader and many others included their PGP signatures so they can prove they were all involved. Since then, the group has gathered more signatures and the team shared them on the read.cash blog on Wednesday. Signatories include Alexander Levin Jr, CEO of Asicseer.com, Pokkst of Crescent Cash, tipbitcoin.cash, and bitcoincashj, Youtube host Collin Enstad, and Leandrodimarco of the plutonic shores.
+
+The Bitcoin Cash community will have to wait to see what happens with this new node. People discussing the subject question if miners will run the software and wonder what the Bitcoin Unlimited (BU) team does going forward. Currently on February 28, 2020, BU nodes represent 46.2% of the network’s known public nodes according to Coin Dance.
+
+Presently BU developers have plans to vote on a few BUIP proposals including: “BUIP142: Create Bitcoin Cash testdata” “BUIP143: Refuse the Coinbase Tax,” BUIP145: Additional funding for BCH specifications,” and “BUIP146: Add configurable parameter to delay mining transactions.” The next BU voting period begins on March 5-10 and the vote may determine what BU will do after BUIP143 is settled.
+
+What do you think about the new Bitcoin Cash Node project and the codebase the team released on Thursday? Let us know what you think about this subject in the comments section below.
+
+Feel like you missed something with this story? Check out the prior articles about the Bitcoin Cash Infrastructure Funding Proposal (IFP) debate below.
+
+Disclaimer: This article is for informational purposes only. It is not an offer or solicitation of an offer to buy or sell, or a recommendation, endorsement, or sponsorship of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.
+
+Image credits: Shutterstock, Bitcoin Cash Node, Fair Use, Gitlab, Github, bitco.in/forum/, Read.cash, and Pixabay.
+
+Do you want to maximize your Bitcoin Mining potential? Plug your own hardware into the world’s most profitable Bitcoin mining pool or get started without having to own hardware through one of our competitive Bitcoin cloud mining contracts.

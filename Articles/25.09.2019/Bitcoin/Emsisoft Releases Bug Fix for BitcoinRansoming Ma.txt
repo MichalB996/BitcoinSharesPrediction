@@ -1,0 +1,29 @@
+DATE:  25.09.2019, 20:35:00
+TITLE: Emsisoft Releases Bug Fix for Bitcoin-Ransoming Malware WannaCryFake
+URL:   https://www.coindesk.com/emsisoft-releases-bug-fix-for-bitcoin-ransoming-malware-wannacryfake
+
+Software firm Emsisoft released a bug fix for the bitcoin-ransoming malware WannaCryFake.
+
+Announced today in a blog post, the free software will help recover encrypted files without leading to data loss.
+
+Unlike real crypto-mining exploits, ransomware is dependent on extortion to reap a reward. Ransomware attacks increased 118 percent in 2019, equaling 504 new threats per minute, in the first quarter, according to a McAfee report.
+
+WannaCryFake is a variant of the infamous WannaCry ransomware that targeted Microsoft computers in 2017. It locks victims’ files using AES-256, or the advanced encryption standard.
+
+An infected victim will receive a message that says:
+
+“You have to pay for decryption in bitcoins. The price depends on how fast you write to us. After payment we will send you the tool that will decrypt all your files.”
+
+Victims are instructed to contact the ransomware distributors through ProtonMail or Telegram, and are then provided steps on how to send bitcoin through Pidgin.
+
+Though the virus suggests LocalBitcoin’s as the “easiest way to buy bitcoin,” it also sources CoinDesk’s beginners’ guide to bitcoin for users unfamiliar with the digital currency.
+
+The malware also warns, “Decryption of your files with the help of third parties may cause increased price (they add their fee to our) or you can become a victim of a scam.”
+
+Once downloaded, the Emsisoft Decryptor uses the encrypted file and the original unencrypted version to piece together the keys needed to decrypt locked data. Because the protocol uses filename extensions to determine the encryption parameters, users are instructed not to rename their files.
+
+Emsisoft’s software allows users to keep a record of the decryption process by using the Save Log button.
+
+In addition to an increase in bitcoin ransoming malware, crypto-jacking scams are up 29 percent in the first half of 2019, despite the difficulty in mining due to bitcoin’s increasing hash rate.
+
+Hacker photo via Shutterstock

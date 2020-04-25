@@ -1,0 +1,53 @@
+DATE:  13.11.2019, 16:00:14
+TITLE: Unchained Makes Multisig Bitcoin Mainstream
+URL:   https://bitcoinmagazine.com/articles/with-open-source-caravan-wallet-unchained-wants-to-make-multisig-mainstream
+
+Ring in the new bitcoin halving cycle the right way: with us!
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+Austin-based Bitcoin financial service provider Unchained Capital just unveiled its newest multisignature wallet tool.
+
+Revealed exclusively to Bitcoin Magazine in anticipation of the launch, Caravan is the latest tool in Unchained Capital’s suite of bitcoin investor products. Like the Collaborative Custody that came before it, Caravan is a multisignature bitcoin wallet, meaning it requires multiple devices/parties to sign off on a transaction before it is sent.
+
+Unlike its predecessor, though, which relies on Unchained Capital to act as one of the signatories, Caravan cuts out Unchained as a counterparty. The multisig option can either be completely trustless (i.e., involve only a single user) or involve multiple parties. Additionally, it’s also completely open source, contrary to the private Collaborative Custody.
+
+Introducing Caravan
+
+“Caravan is a stateless, open source and flexible multisig coordinator that integrates with your hardware or software keys and your bitcoin node or a block explorer. Caravan makes it easy to build and spend from multisig addresses right in your web browser,” a press release shared with Bitcoin Magazine reads.
+
+The browser-based wallet makes use of the BIP 67 standard for key ordering and BIP 32 for derivation paths for public keys. It’s compatible with Ledger and Trezor hardware wallets, along with Hermit, a command-line wallet developed by Unchained Capital.
+
+“Caravan also accepts public keys and signatures as text, so can be used manually with almost any wallet or key,” the press release reads.
+
+Caravan is also quite modular. You can choose up to seven keys to include in the multisignature and also adjust the quorum (number of signatures needed to sign a transaction) to whatever you like (e.g., 2-of-3, 3-of-5 or 3-of-7 signatures are needed, etc.). It also supports pay-to-script addresses, SegWit addresses and the P2SH-P2WSH address to bridge non-SegWit and SegWit-enabled addresses.
+
+To reach network consensus, you can point Caravan at your own node or, if you’re not running your own node, the application will default to blockstream.info to make sure your wallet is in sync with the Bitcoin blockchain.
+
+“Caravan specializes in one thing: coordinating multisignature addresses, meaning that it is the most streamlined multisig tool available,” Parker Lewis, a partner at Unchained Capital, told Bitcoin Magazine. “It’s highly flexible at multisig, meaning you can adjust quorum sizes on the fly, build quorums by pasting in public keys, switch public keys around in different orders and customize BIP 32 paths you use. But it outsources key management and consensus to hardware wallets and Bitcoin Core or blockstream.info.”
+
+Caravan Wants to “Lower the Bar” for Multisignature
+
+Other multisignature wallet providers, such as Casa and Blockstream, act as a counterparty for their clients to sign off on transactions if needed. Unchained Capital’s Collaborative Custody vaults work this way, but there’s obvious, counterparty risk involved.
+
+“What happens if the app or the site goes down? What happens if they’re no longer there?” Lewis asked.
+
+Now, open-source options certainly exist for users to recover a multisignature wallet (such as Electrum, Ciphrex and Armory), but in Lewis’ words, “there’s also a reason why people aren’t doing it, and it’s because those tools aren’t easy.”
+
+“The options that exist today for an individual to access and interact with an open-source multisignature wallet, which is typically something like Electrum, are still very challenging for normal individuals,” Lewis continued. “Anyone who is sophisticated enough to use a hardware device can use Caravan. It lowers the bar.”
+
+Bitcoin Magazine reached out to Electrum for comment on the wallet’s UX/UI, but did not hear back by the time of publication.
+
+He views Caravan as a complement to Unchained Capital’s use of vaults or any existing multisignature option that relies on a third party. If the access points to these services go down, then the bitcoin user (so long as the user controls, say, 2-of-3 keys) can use Caravan as a fallback.
+
+But what happens if Unchained Capital folds and you can’t access its instance of the Caravan browser wallet? The source code is on GitHub, meaning anyone can fork it or any coder/company can integrate it into their own services. Moreover, you can run a local instance of the browser wallet from the GitHub code, Unchained Capital’s director of product marketing, Phil Geiger, told Bitcoin Magazine. It also has a desktop wallet in the works.
+
+Carvan’s end game is to make multisignature security more accessible and streamlined for technical and nontechnical users alike. By using BIP 67 for address ordering and BIP 32 for derivation paths, Unchained Capital believes it is using the latest and most robust “standards and rules that the community can rally behind and follow [for multisig wallets],” Geiger said.
+
+Part of this rallying cry is open-sourcing the code, so that Unchained Capital can collaborate with hardware wallet manufacturers and other companies to standardize the multisignature process and make its device agnostic.
+
+“We hope that wallet manufacturers that want their hardware wallets to be compatible with multisig will use Caravan as the first step toward integration,” Lewis told us. “They just need to implement the appropriate subclasses in the unchained-wallets library.”
+
+If you would like to demo Caravan while it is still in beta, you can do so through Unchained Capital by sending the company a request, or you can run a local instance on your browser by running the source code.

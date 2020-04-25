@@ -1,0 +1,45 @@
+DATE:  10.01.2019, 00:44:11
+TITLE: Qtum Completes First Atomic Swap With Bitcoin on Mainnet
+URL:   https://bitcoinmagazine.com/articles/qtum-completes-first-atomic-swap-bitcoin-mainnet
+
+Ring in the new bitcoin halving cycle the right way: with us!
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+Qtum, a blockchain platform that merges the strength of Bitcoin’s blockchain with the Ethereum Virtual Machine to build decentralized applications, has completed its first atomic swap with Bitcoin on mainnet.
+
+This is a big, first step for atomic swaps, a feature that allows for on-chain exchanges, or transactions, between cryptocurrencies on two separate blockchains without the need to rely on a third party. For Bitcoin, this is a big step forward in allowing interoperability between other blockchains and itself in a trustless manner.
+
+Atomic swaps are not an entirely new feature, as Bitcoin Magazine has reported on a Lightning Network ERC-20 swap with bitcoin just a few months ago.
+
+According to Qtum’s blog post, the main solution that makes atomic cross-chain swaps possible is Hash Time-Locked Contracts, or HTLC. In a brief summary, HTLC essentially locks up the funds in a transaction for enough time so that both blockchains are able to confirm the transfer of funds on their own (via block confirmations) and gives both parties time to claim their funds. If enough time passes where one side has not claimed their funds, everything is returned back to the original parties.
+
+The entire process of the atomic swap is described in the blog post as follows:
+
+Alice initiates a transaction on Qtum which contains a time-locked contract and transfers QTUM to Bob.
+
+Bob audits the transaction.
+
+If the transaction is approved, Bob participates in a similar transaction on Bitcoin which pays BTC to Alice.
+
+Alice audits the transaction.
+
+If the transaction is approved, Alice redeems BTC from it.
+
+Bob extracts a secret from the redeeming transaction.
+
+Bob redeems QTUM from the initial transaction.
+
+If the time specified in the time lock is reached and Bob has not redeemed the token, Alice can refund the token.
+
+In the last year, Qtum has made significant leaps forward in developing its blockchain for greater adoption and interoperability as well. Atomic swaps are just the next step.They are also a crucial, next-step feature for interoperability with the Lightning Network.
+
+Why Are Atomic Swaps Important?
+
+Atomic swaps solve a big problem in cryptocurrency, which is the inability to directly exchange two different types of currencies with each other without having to rely on a trusted third party like an exchange or company.
+
+In a present example, let’s say Alice wants to buy a digital collectible from Bob, and there is no way to trade in person. If Alice wants to send money to Bob for a collectible, Bob could easily receive the funds and not send the collectible in return. Also, the opposite could happen, where Bob sends the collectible first and Alice never sends the money in exchange.
+
+The problem in the present example is the factor of trust. When trust is factored into the risk of exchanging things online, it becomes much more risky. Atomic swaps are a solution to this problem, as described above, because they allow funds to be exchanged between parties without having to rely on anything but mathematics to ensure the process has been completed smoothly.

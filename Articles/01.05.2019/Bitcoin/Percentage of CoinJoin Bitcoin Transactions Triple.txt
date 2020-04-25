@@ -1,0 +1,23 @@
+DATE:  01.05.2019, 20:50:17
+TITLE: Percentage of CoinJoin Bitcoin Transactions Triples Over Past Year
+URL:   https://bitcoinmagazine.com/articles/percentage-coinjoin-bitcoin-transactions-triples-over-past-year
+
+Ring in the new bitcoin halving cycle the right way: with us!
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+According to a study released by Longhash on April 29, 2019, the relative usage of CoinJoin out of all bitcoin transactions has tripled in one year, currently sitting at 4.09 percent.
+
+CoinJoin was first proposed in mid-2013 as part of many solutions to solve the issue that bitcoin transactions are not genuinely anonymous. Considering that transaction histories can be easily traced on the public ledger, anyone with the technical know-how and resources can perform transaction analysis to de-anonymize users.
+
+CoinJoin works by allowing multiple users to pool their individual transactions into a single, grouped transaction. This, in turn, scrambles the funds in this pool to obscure the link between sending and receiving addresses. This shuffling greatly improves anonymity and has become a favorite of privacy-minded bitcoiners.
+
+Longhash’s report acknowledges that several early spikes in the relative prominence of CoinJoin-type transactions can be attributed to early tests of the technology and the release of Shared Coin integration in 2013. These experiments ended, and Shared Coin integration was shuttered in 2014, so these spikes have diminished significantly.
+
+One of the greatest boosts to CoinJoin adoption so far has been the advent of Wasabi Wallet: The company’s introduction to the crypto industry is now largely responsible for more than one out of every 25 bitcoin transactions using CoinJoin technology.
+
+Source
+
+First debuting in October 2018, Wasabi Wallet is a project intended to make the possibilities of CoinJoin easily accessible and convenient for the average user. Adding features of security, privacy and user experience in April 2019, the project’s github release stats show more than 33,000 user downloads already. The company now claims to have made 29,797 bitcoins (and counting) more fungible through their platform. Clocking in at $157.8 million, using today’s bitcoin prices, figures like these highlight CoinJoin’s growing prominence.

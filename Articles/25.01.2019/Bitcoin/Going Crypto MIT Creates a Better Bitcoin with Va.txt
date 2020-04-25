@@ -1,0 +1,55 @@
+DATE:  25.01.2019, 08:51:47
+TITLE: Going Crypto: MIT Creates a Better Bitcoin with Vault
+URL:   https://www.crowdfundinsider.com/2019/01/143729-going-crypto-mit-creates-a-better-bitcoin-with-vault/
+
+The Massachusetts Institute of Technology (MIT) has always been an active participant in the crypto industry but typically this engagement has been more in the form of commentary. This week, researchers at MIT have dived into crypto by creating the ability to build a better Bitcoin, according to a release from the university.
+
+Developed by MIT researchers, new crypto Vault is designed to drastically reduce the data users need to join the network and verify transactions. MIT claims this improvement is up to 99 percent compared to Bitcoin and up to 90% compared to Ethereum. That’s huge.
+
+The researchers built their system on top of a crypto network called Algorand which was invented by Silvio Micali, the Ford Professor of Engineering at MIT. Creators Derek Leung, Yossi Gilad, and Nickolai Zeldovich, who is a professor in the Department of Electrical Engineering and Computer Science (EECS), and recent alumnus Adam Suhl ’18, are the collaborators on the Vault project.
+
+While described as a cryptocurrency in the release, Vault is not actually a cryptocurrency, according to a spokesperson. It is a blockchain compression technology that was developed to ensure that Algorand would avoid the storage and bandwidth costs associated with other blockchain protocols.
+
+Today, Algorand is incorporating these advancements into its blockchain platform so that it can scale the protocol to a level that enables worldwide adoption.
+
+MIT points to decentralization as being pretty interesting but also undermining efficiency. The distributed ledger takes too long and is thus not a good option, or impractical,” for some uses.
+
+Vault, in comparison, lets users join the network by downloading just a fraction of the total transaction data. Additionally, Vault is said to delete empty accounts that take up space while slowing things down. Verifications use only the most recent transaction data – which is still shared across the network but minimizes storage and processing requirements.
+
+MIT says that Vault still ensures that all nodes validate all transactions, providing tight security equal to its existing counterparts.
+
+Co-creator Leung, a graduate student at MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL), says that a lot of existing cryptocurrencies are hitting bottlenecks:
+
+“The broad goal here is to enable cryptocurrencies to scale well for more and more users.”
+
+Leung explains that the title is a pun. A vault is a place where you can store money, but the blockchain also lets you ‘vault’ over blocks when joining a network.
+
+Vault, Vaults Over Blocks
+
+MIT explains that each block in a cryptocurrency network contains a timestamp, its location in the blockchain, and fixed-length string of numbers and letters, called a “hash,” that’s basically the block’s identification. Each new block contains the hash of the previous block in the blockchain. Blocks in Vault also contain up to 10,000 transactions — or 10 megabytes of data — that must all be verified by users. The structure of the blockchain and the chain of hashes, ensures that an adversary cannot hack the blocks without detection.
+
+New users join cryptocurrency networks by downloading all past transaction data to ensure they’re secure and up to date.
+
+To join Bitcoin last year, a user would download 500,000 blocks totaling about 150 gigabytes. Users must also store all account balances to help verify new users and ensure users have enough funds to complete transactions. Storage requirements are substantial, as Bitcoin tops 22 million accounts.
+
+In traditional cryptocurrencies, users compete to solve equations that validate blocks but as the network scales, things bog down.
+
+Algorand uses a “proof-of-stake” concept to verify blocks and enable new users to join. For every block, a representative verification “committee” is selected. Users with more money (stake) in the network have a higher probability of being selected. To join the network, users verify each certificate, not every transaction.
+
+But each block holds some key information to validate the certificate immediately ahead of it, meaning new users must start with the first block in the chain, along with its certificate, and sequentially validate each one in order, which can be time-consuming.
+
+To speed up the process, researchers give each new certificate verification information based on a block a few hundred or 1,000 blocks behind it. The researchers call this a “breadcrumb.” When a new user joins, they match the breadcrumb of an early block to a breadcrumb 1,000 blocks ahead.
+
+Like many other speedy blockchain endeavors, Vault incorporates sharding. Vault uses a data structure called a binary Merkle tree. In binary trees, a single top node branches off into two “children” nodes, and those two nodes each break into two children nodes, and so on.
+
+In Merkle trees, the top node contains a single hash, called a root hash. But the tree is constructed from the bottom, up. The tree combines each pair of children hashes along the bottom to form their parent hash. It repeats that process up the tree, assigning a parent node from each pair of children nodes, until it combines everything into the root hash.
+
+In cryptocurrencies, the top node contains a hash of a single block. Each bottom node contains a hash that signifies the balance information about one account involved in one transaction in the block. The balance hash and block hash are tied together.
+
+To verify any one transaction, the network combines the two children nodes to get the parent node hash. It repeats that process working up the tree. If the final combined hash matches the root hash of the block, the transaction can be verified. But with traditional cryptocurrencies, users must store the entire tree structure.
+
+With Vault, the Merkle tree is divided into separate shards assigned to separate groups of users. Each user account only ever stores the balances of the accounts in its assigned shard, as well as root hashes. The trick, according to MIT, is having all users store one layer of nodes that cuts across the entire Merkle tree. When a user needs to verify a transaction from outside of their shard, they trace a path to that common layer. From that common layer, they can determine the balance of the account outside their shard, and continue validation normally.
+
+Now the question is will Vault be utilized?
+
+A paper on Vault will be presented at the Network and Distributed System Security Symposium in February.

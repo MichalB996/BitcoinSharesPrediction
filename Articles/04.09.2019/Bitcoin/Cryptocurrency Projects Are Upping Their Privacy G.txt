@@ -1,0 +1,49 @@
+DATE:  04.09.2019, 19:30:15
+TITLE: Cryptocurrency Projects Are Upping Their Privacy Game
+URL:   https://news.bitcoin.com/cryptocurrency-projects-are-upping-their-privacy-game/
+
+Cryptocurrency Projects Are Upping Their Privacy Game
+
+What you do with your digital currency ought to be nobody else’s business. Unfortunately, law enforcement, regulators, blockchain forensics firms and other opponents of civil liberties are constantly seeking to usurp this basic human right. As a result, crypto developers are caught in a constant battle to maintain a reasonable degree of transactional anonymity.
+
+Also read: New Storm Concept Could Strengthen Bitcoin Cash Instant Transactions
+
+Suterusu Promises Inter-Chain Privacy
+
+Interoperability is all the rage in blockchain land right now, so it was only a matter of time until someone created a solution for baking in anonymity along the way. Suterusu uses zero-knowledge proofs that enable assets to be transferred across blockchains in a private manner. Not a whole lot is known about the project at present, but it captured the imagination of privacy proponents already with the promise of a joined up ecosystem of privately transferable crypto assets. 76% of all tokens have been promised to the community through mining, while on-chain governance will help shape future project developments and blockchain integrations.
+
+Beam Hard Forks to Support Confidential Assets
+
+Mimblewimble cryptocurrency Beam has just undergone its first hard fork. As a result, the privacy coin now has a new mining algorithm. Despite the forced change, the network hashrate was able to recover within 24 hours, following the inevitable drop-off while miners switched to the new protocol rules. From a privacy perspective, the main benefit of the fork was that it activated confidential assets. This provides a means for cryptographically verifying that a transaction is secure, and that no additional assets have been created in the process, but without revealing the nature of the transaction including the assets it contained.
+
+Meanwhile, Litecoin and Beam’s partnership remains in the works. All going to plan, LTC should have optional private transactions using Beam’s take on Mimblewimble implemented by the end of this year, or thereabouts.
+
+Decred Mixes Things Up
+
+Rather than emulate Litecoin and import existing privacy coin tech into its protocol, Decred has decided to integrate coin mixing into its PoS system. This means that stakeholders will gain anonymity and the ability to “simultaneously create a substantial background volume against which they and non-stakeholders can mix regular transactions.” Decred will use Coinshuffle++, which is based on Coinjoin, a mixing technique more commonly associated with Bitcoin.
+
+Bitcoin Cash Becomes More Fungible
+
+Bitcoin Cash has its own take on Coinshuffle – Cashshuffle. The technology works on the privacy in numbers approach, in which the more users who participate by commingling their transactions, the harder it is for the source to be ascertained. With greater Cashshuffle usage comes better fungibility for all BCH users who participate in the non-custodial coin mixing solution. Electron Cash is the main wallet that’s integrated Cashshuffle, but there are further integrations coming soon, most significantly to the Bitcoin.com Wallet, whose 4.6 million users will soon benefit from better privacy at the push of a button.
+
+Semaphore Signals Greater Privacy for Ethereum
+
+There’s a constant stream of solutions being proposed for bringing better privacy to Ethereum. None of them have gained much traction yet, which may be because low privacy is the least of ETH’s problems at present. Regardless, it’s interesting to see the steps that are being made in trialing new technology that has the potential to bring about greater privacy for Ethereum users in need of it.
+
+The latest initiative, Semaphore, is used in Micromix, which facilitates anonymous transactions of ETH and DAI. It uses zero-knowledge proofs, with the anonymity set revealed after midnight, by which time the cumulative growth will have made it harder for an attacker to guess the sender’s origin. The plan is for Semaphore and Micromix to be integrated into various Ethereum wallets and other mixers that utilize zk-snarks, “to provide the best possible anonymity for users as a public good.”
+
+This week, we’re spotlighting Bitcoin mixing techniques that help obscure certain transaction details to add an extra layer of anonymity to Bitcoin and preserve coin fungibility.https://t.co/VrhR8Nymwn — Circle Research (@ResearchCircle) August 30, 2019
+
+BTC Wallets Shuffle Harder
+
+Privacy-enhancing changes to the Bitcoin Core codebase are unlikely to arrive any time soon, although Schnorr signatures ought to be introduced at some stage, which will serve as a precursor to greater privacy. In the interim, BTC wallet developers have been doing their utmost to provide optional anonymity tools. The two main players advancing this goal are Wasabi and Samourai.
+
+The latest Wasabi build adds a raft of improvements including a countdown to when the next Coinjoin round will start. Samourai, meanwhile, has added its own iteration of Coinjoin, known as Cahoots, which enables transactions between two wallets to be merged. Cahoots adds to the existing mixing tools incorporated into Samourai Wallet, giving users a range of ways to enhance their privacy depending on their needs.
+
+Usage of pure privacy coins such as Grin, Beam and Monero remains low (the latter recorded just 5,000 onchain transactions in the last 24 hours) as a proportion of overall cryptocurrency usage. The number of projects experimenting with optional privacy-enhancing tools, however, shows that interest in attaining greater transactional anonymity is high across the cryptosphere. Given the budgetary and technical might of the foes cryptocurrency users are up against, such provisions are to be welcomed.
+
+Do you think transactional privacy is important for major cryptocurrencies? Which cryptos do you think are making the greatest progress in this regard? Let us know in the comments section below.
+
+Images courtesy of Shutterstock.
+
+Did you know you can verify any unconfirmed Bitcoin transaction with our Bitcoin Block Explorer tool? Simply complete a Bitcoin address search to view it on the blockchain. Plus, visit our Bitcoin Charts to see what’s happening in the industry.

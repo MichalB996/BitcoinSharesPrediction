@@ -1,0 +1,27 @@
+DATE:  29.03.2020, 06:51:18
+TITLE: Windows Defender updates contain flaw making Bitcoin vulnerable to theft
+URL:   https://coingeek.com/windows-defender-updates-contain-flaw-making-bitcoin-vulnerable-to-theft/
+
+A security error has been discovered on Windows Defender version 4.18.2003, the latest version of Windows Defender by the team at Windows Latest. This issue exposes the vulnerability of the Microsoft program, which may compromise the security of sensitive information such as crypto wallets logged into the system.
+
+The report suggests that this version of Windows Defender fails to perform complete system scans by either quitting or skipping over specific files and reporting error “items Skipped During Scan” breaking the Windows 10 antivirus scans. It remains unclear what items were skipped during the Windows Defender scan, and the report from Windows Latest still does not identify if the Microsoft antivirus software is capable of detecting any threats on the Windows 10 software.
+
+It is possible in this case that the Windows Defender warnings are false, and scans were performed successfully. Given such probability, the team’s replications of the scan in their lab suggest otherwise. Both manual and automatic scans performed during testing have failed with the error message: “Item skipped in the scan, due to exclusion setting, or network scanning disabled by admin.”
+
+The latest Windows Defender version seems to have introduced this flaw alongside with the attempts of Microsoft to solve other problems in its software. The issue is specific to Windows 10, as other Windows operating systems, including Windows 7 and 8, are unaffected by this flaw.
+
+The error message is shown after the Windows Defender scans claims that such items are skipped because of its exclusion or network scanning settings. Since the exclusion does not appear to be the issue in user reports, it is likely to be associated with a particular defender update or other updates pushed by Microsoft and the device manufacturer. Microsoft has yet to document problems with Windows Defender, and may not occur during offline scans. It remains imperative that producing a definite closure to the situation requires the input of Microsoft itself.
+
+This technical glitch in the Windows antivirus tool poses a security threat to the system bearing a weight of uncertainty unto the situation. The advent of the issue could be an alarming threat, especially in light of increasing digital currency-related malware. The vulnerability discovered in the antivirus program would be problematic for numerous Bitcoin investors who deposit funds in desktop wallets. Keyloggers or other nefarious programs designed to capture sensitive data can compromise these financial reserves. Adding to this danger is malware, which actively replaces pasted Bitcoin addresses causing funds to be redirected to the criminal’s wallet.
+
+Security issues such as this do not spare even experts within the software development field. In 2019, the blockchain project, VeChain Foundation, lost over 1 million VET to the malware installed on the personal computer of one of its developers. The problem stretches even to exchanges as thieves have been able to steal digital currencies from exchanges because of their lack of stringent protocols.
+
+This issue could have been of no surprise given the lacking reputation of Windows Defender as a leading security program. Nevertheless, this issue highlights more the importance of safeguarding digital currency funds. Careless behavior, such as storing passwords and keys without encryption, given such vulnerabilities could only lead to criminal behavior.
+
+Microsoft has already been notorious in the past for its security issues, which possibly explains the preference of investors resorting to storing funds in smartphones instead. Though given such precautions, the problem of security is no longer exclusive to any particular platform. The Apple desktop software and Android have both been hit in the past, and their vulnerability extends to smartphones that have been jailbroken or modified improperly.
+
+The widespread issue of security is not only a call to action for digital companies to have more stringent protocols but also to users who rely on the digital environment to store their financial resources. Experts agree that hardware wallets are the safest means to store digital currency, and should be used by long-term holders. Investors must respect the crucial need to secure a safeguarded process of holding sensitive information.
+
+Because of this, it is recommended that digital currencies never be stored in online exchanges, nor given to third parties for safekeeping. Blockchain technology offers unprecedented freedom for its users, though the need for personal security calls for this freedom to be held with proper responsibility. Those that have downloaded this version of Windows Defender should run this recently released patch from Microsoft to fix the flaw.
+
+New to Bitcoin? Check out CoinGeek’s Bitcoin for Beginners section, the ultimate resource guide to learn more about Bitcoin—as originally envisioned by Satoshi Nakamoto—and blockchain.

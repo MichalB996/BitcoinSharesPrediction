@@ -1,0 +1,33 @@
+DATE:  12.11.2019, 14:59:16
+TITLE: Programmable Data Security is Changing How Banks Protect Data
+URL:   https://techbullion.com/programmable-data-security-is-changing-how-banks-protect-data/
+
+In response to expanding cybersecurity threats to the enterprise, ALTR has developed an approach called ‘programmable data security’ to safeguard data. This solution provides data security as a service, embedding governance and protection natively into applications.
+
+The data that banks store on their servers is as precious as the money they keep in a safe. With that data, criminals can open up bank accounts, transfer money and even siphon off the accounts, all without the original data owner’s consent or knowledge.
+
+The latest breach of security at Capital One shows that the financial industry needs to overhaul their data security. A hacker was able to gain access to the bank’s database, with more than 100 million customer account details, such as social security numbers, bank accounts, social insurance and account holder addresses, balances, and credit scores.
+
+A report on cybersecurity by research firm Javelin noted that “retail banks will increasingly view privacy as more than just a regulatory hurdle.” As a result, safe and compliant storage and accessibility of sensitive information has become even more important to the banking and lending experience. While the problem of data security is not limited to any specific industry, the banking sector is taking an interest in ALTR’s technology.
+
+Q2 eBanking (NYSE:QTWO) provides digital solutions to over 400 banks and recently rolled out Q2 TrustView which integrates ALTR as a core technology into the Q2 platform. Q2 says it is strengthening its data management to ensure that protections are in place for their bank customers, and by extension those firms’ account holders, at every step of data usage.
+
+Programmable data security actually hard wires data monitoring, governance, and at-rest protection into the source code itself, and then hand over management directly to security and compliance teams. This model means applications are more portable, and easier to implement and maintain than the systems usually used by banks for this purpose.
+
+According to Dave Sikora, ALTR’s CEO, “Every bank should think about how they would respond and remain resilient in the wake of a cyber attack, but they should also put equal or more emphasis on proactive approaches to cybersecurity. This means building their organizational and technical posture with a ‘security and privacy by design’ philosophy.”
+
+Programmable data security also uses private blockchain technology to fortify data access and governance, as well as data protection itself. ALTR was founded by a team which has extensive experience in algorithmic options trading technology, an industry where firms have long understood the importance of giving data the same importance as the money they control.
+
+Sikora said, “We found that data and the audit trail about who accesses it must not only maintain security, but also integrity. It needs to be the ‘digital truth’. By developing our own private, permissioned blockchain technology inside of our platform, we found that we can offer that next level of protection and preservation that organizations are seeking.”
+
+When asked how a bank can integrate ALTR into its existing security systems, Dave Sikora makes it clear that every application uses a database driver to talk to its database.
+
+“We simply place a thin layer of technology around that driver to make it intelligent. Installation is as simple as wrapping the basic driver with the ALTR smart driver. This allows for easy embedding into applications you control, but also allows you to quickly and easily perform an embedded retrofit on existing applications.”
+
+The ALTR driver is controlled and coordinated by a cloud-based platform, which integrates into existing security orchestration tools like SIEM or SOAR. This is meant to ensure organizations develop and implement a more holistic privacy and security strategy.
+
+“On the privacy front, we can control which user groups can view which data groups by providing dynamic data masking according to policy. We also audit all data access to a tamper-resistant blockchain, which is a great tool for compliance teams to not only gain visibility but also to prove to auditors that they are managing data appropriately and comprehensively,” said Sikora.
+
+With data representing perhaps the most important information that banks hold, their most common data-security struggles are symptomatic of unreflexive technology that has been holding them back from getting a handle on data assets. Programmable data security is a model that evidence shows is working.
+
+For more information, visit: https://www.altr.com/

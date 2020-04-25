@@ -1,0 +1,51 @@
+DATE:  12.01.2020, 23:30:49
+TITLE: White House Market Wants to Become the Darknet’s Toughest DNM
+URL:   https://news.bitcoin.com/white-house-market-wants-to-become-the-darknets-toughest-dnm/
+
+White House Market Wants to Become the Darknet’s Toughest DNM
+
+White House Market (WHM) is an ultra-secure darknet market (DNM). It disallows Javascript, enforces PGP throughout, admins key sign every 72 hours, and only accepts monero (XMR). It might be the darknet’s most private market. But do its vendors deliver? News.Bitcoin.com dusted down some XMR and decided to find out.
+
+Also read: How to Encrypt Messages With PGP When Using Darknet Markets
+
+A Fortress in the War on Privacy
+
+“All transactions on the blockchain can be traced due to blockchain’s immutability,” begins surveillance firm Bitfury in its December report on darknet interactions. That’s not quite true, for while public chains like bitcoin can be inspected by anyone with a block explorer or forensic analysis tool, monero provides no such luxury. That’s why its usage is enforced on White House, one of the several dozen DNMs competing for market share.
+
+Empire, the darknet’s most popular market, has been struggling under heavy DDoS attacks for weeks, believed to be the work of a slighted ex-vendor, “Stackz420,” who’s gone so far as to publish a script so that anyone can join in the assault on its servers. Just to add to their woes, Stackz420 has attempted to dox Empire’s operators and exposed security holes in the site. Empire survives for now, but given its extended periods of downtime, it seemed opportune to give a different DNM a try.
+
+White House is locked down like a fortress, with enough security measures to keep amateurs at bay, but enough tutorials to ensure the determined can get inside and ply their trade. It’s an opsec obsessive’s paradise.
+
+What’s Inside the White House?
+
+The homepage for WHM lays down the house rules from the get-go. For starters, you need to upload your PGP key just to be able to browse. You also need to add the site’s public key to your keychain to verify the signed messages from its operators attesting that they are still alive and supplying mirror links for the market.
+
+Exit scams occur almost monthly on the darknet, with Grey Market the latest site to disappear. Even with frequent message signing, there is no way of verifying the integrity of White House’s operators, and thus it too could fall by the wayside. The use of mandatory encryption throughout, however, coupled with direct payments between vendors and buyers, limits the possible fallout.
+
+After logging into the site, you must decrypt a PGP message using the private key you associated with your WHM account. It contains a code that you enter to verify your pseudonymous identity.
+
+A Darknet Safety Charter
+
+On its About page, White House Market lays out the security measures it has in place, which functions are encrypted, and what information is retained in plaintext. It explains: “We assume that any server can be hacked or seized eventually, so we don’t want to keep more data our servers then we need to.” PGP and monero private keys are reportedly not kept on the servers.
+
+Under “Security Considerations,” detailed advice on maintaining good opsec, both online and offline, is provided. This includes the invocation not to reuse usernames/passwords/PGP keys over multiple darknet markets, finishing: “Under any circumstances do not use on darknet any username / nickname / moniker / password / PGP key that you may use or may have used on the clearnet or in real life, not even something similar. It’s the fastest way to get caught.”
+
+Although PGP can seem complex at first, once you’re accustomed, it adds mere seconds onto DNM purchases, and the peace of mind it buys is well worth it. While other DNMs employ optional PGP, White House enforces it, preventing users from getting lazy.
+
+Buying Monero to Buy Darknet Goods
+
+In reviewing WHM, I had no monero to hand but did have some BTC in a noncustodial Bitcoin.com Wallet. I sent it over to accountless crypto changer Flyp.me and within half an hour had its XMR equivalent in a noncustodial Monerujo Android wallet. For similar privacy guarantees and a slightly better exchange rate I could have alternatively traded BTC for XMR on exchange.Bitcoin.com.
+
+As a newer darknet market and one with a stricter door policy, WHM has fewer listings than the market leaders; a little over 4,000 products in its drugs category, and around 6,000 across all categories. This will grow, though, if the site sticks around and builds up trust. In the meantime, there’s enough listings to cover most bases, territories, and tastes. Many vendors have yet to accrue much feedback, but some have ported their PGP key and with it their rep over from other DNMs.
+
+I order something fragrant for testing purposes, from two different sellers, and receive a PGP encrypted message containing the seller’s XMR address. I must decrypt it with my own key, or I can scan in the wallet QR code. A BTC option is available at checkout, but WHM discourages its usage. I send the XMR from my Monerujo wallet and within 10 minutes my transaction has cleared and within 48 hours the package is on my doorstep. Financial freedom and the free exchange of goods and services is a beautiful thing.
+
+Bitfury estimates that $920M of BTC poured into darknet markets last year, with other cryptos likely taking that total past the $1 billion mark. “Unfortunately, we see that the annual flow of funds to darknet entities is increasing,” finishes Bitfury’s darknet report. Fortunately, we have private cryptocurrency and there’s nothing Bitfury and their surveillance sisters can do to stop it.
+
+Do you think darknet market sales will increase this year? Let us know in the comments section below.
+
+Disclaimer: This article is for informational purposes only. It is not an offer or solicitation of an offer to buy or sell, or a recommendation, endorsement, or sponsorship of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.
+
+Images courtesy of Shutterstock.
+
+Did you know you can verify any unconfirmed Bitcoin transaction with our Bitcoin Block Explorer tool? Simply complete a Bitcoin address search to view it on the blockchain. Plus, visit our Bitcoin Charts to see what’s happening in the industry.

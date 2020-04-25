@@ -1,0 +1,55 @@
+DATE:  23.09.2019, 14:00:58
+TITLE: How the Bitcoin hash rate predicts BTC price
+URL:   https://finance.yahoo.com/news/bitcoin-hash-rate-predicts-btc-140058221.html
+
+Last week, Bitcoin’s hash rate hit new all-time highs of over 100 exahashes per second (or 100 quintillion terahashes per second).
+
+As you may already know, a high hash rate means miners are flocking to the space, which not only puts extra pressure on mining hardware but also increases the difficulty of the next algorithm adjustment.
+
+As such, I believe we’ll either see BTC pumping over $20,000 soon or we’ll have a mass exodus of miners.
+
+Because I hardly believe energy has suddenly become cheaper, miners will need to keep selling Bitcoin above a certain threshold to remain profitable. That, in my opinion, could definitely put positive pressure on BTC price.
+
+There are two main factors I will explore in this piece that show there is a correlation between the hash rate and price given the underlying security assumptions.
+
+In essence, I will try to answer the following questions:
+
+A) Is the Bitcoin protocol hash rate correlated to price?
+
+B) Why does a higher hash rate attract more long-term investors?
+
+The Bitcoin hash rate keeps growing
+
+View photos
+
+Looking at the hash rate logarithmic chart above (courtesy of blockchain.info), we can see that Bitcoin’s hash rate has clearly been growing since its inception.
+
+Not only that, but due to the difficulty adjustment mainly adjusting to the upside, that means it has become more and more expensive to mine a single Bitcoin, as miners need to spend additional resources (mining equipment and energy) in order to validate a block to earn the fees and the block reward.
+
+It’s also worth mentioning that in less than a year, the Bitcoin protocol reward will halve to 6.25 BTC per block. This will put extra pressure on price that could help BTC achieve new all-time-highs.
+
+So does Bitcoin’s hash rate correlate with price? And why is the hash rate increase better for Bitcoin if fees will also increase as it becomes more expensive to mine BTC?
+
+Bitcoin’s hash rate and price
+
+View photos
+
+Chart by Bitinfocharts
+
+I admit this isn’t the nicest looking chart, but the information it contains is incredibly important.
+
+First, we can see there is a clear correlation between hash rate and price. Usually, hash rate tends to be the leading indicator (except during the 2012-2014 bull run as price started pumping before the hash rate accompanied it).
+
+Of course, that could be due to a simple historical reason: it was the first time BTC had exponentially risen and fallen (2011-2012). It was therefore hard to predict if price was going to recover, meaning fewer people decided to mine the cryptocurrency given energy requirements were already starting to take their toll on mining profitability.
+
+After price started skyrocketing and surpassed the previous all-time high around March 2013, we see a clear boost in the hash rate as more people were confident BTC was here to stay.
+
+If we need extra proof, we can take a look at the next bull/bear cycles. After the bust in 2014, even with Mt Gox going under, the Bitcoin hash rate kept increasing. Price took about two and a half years to reach its new all-time high, surpassing the hash rate once again (albeit briefly).
+
+Although there was a minor decline in late 2018 as the price of Bitcoin tumbled to $4,000, the hash rate has since recovered and has been growing non-stop.
+
+I argue it’s only a matter of time before price returns to the same level as the hash rate, meaning a $20,000 BTC doesn’t seem that far away.
+
+Still, could the hash rate follow price instead? As discussed above, there have been plenty occasions hash rate has followed price-action. Nevertheless, it seems to me miners do tend to signal intentions before price moves. For instance, after the dip in late December 2018 miners started pumping the hash rate before the big price move that started around February 2019.
+
+Story continues

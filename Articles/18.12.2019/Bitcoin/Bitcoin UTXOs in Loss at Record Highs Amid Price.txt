@@ -1,0 +1,39 @@
+DATE:  18.12.2019, 17:20:00
+TITLE: Bitcoin ‘UTXOs in Loss’ at Record Highs Amid Price Sell-Off
+URL:   https://www.coindesk.com/bitcoin-utxos-in-loss-at-record-highs-amid-price-sell-off
+
+A key metric is hovering at record highs, suggesting investors are likely holding bitcoins even when deep in the red.
+
+The number of unspent transaction outputs (UTXOs) in loss rose to all-time highs above $45 million on Dec. 17, representing a 578 percent rise from the July 1 figure of $6.69 million, according to on-chain market intelligence firm Glassnode.
+
+Bitcoin: UTXOs in Loss Source: Glassnode
+
+A UTXO is basically leftover bitcoins after a transaction. It’s a little bit like getting back change when paying for something in cash using large bills.
+
+For example, Alice has 10 bitcoins and needs to pay three BTC to Bob, a merchant. Alice can’t just send out three BTC and hold the rest. Instead, she will have to spend 10 BTC, of which three BTC will be sent to Bob and the remaining seven BTC will be sent back to the address she controls. These seven bitcoins are UTXOs and can be used as inputs in another transaction.
+
+A loss-making UTXO is the one whose price at the time it was created was higher than the current price.
+
+The fact that the UTXO-loss metric is hovering at record highs following a 50 percent price slide from June highs above $13,800 to recent lows near $6,500 indicates investors are likely holding on to their loss-making outputs, according to Alex Benfield, a crypto asset analyst at Digital Assets Data.
+
+"There have been 438 days where someone could have bought bitcoin and would currently be at a loss at the time of writing," Benfield told CoinDesk in an email. "About half of these days took place in 2019 (dating back to May 12) and would represent short-term holders of less than one year. The other half dates back to as early as Nov. 3 of 2017 and are over two years old, representing long term-holders. Any bitcoin purchased during one of the days where the price was higher than it is today contributes to the UTXO-loss metric, which will continue to reach new all-time highs if the price continues to drop while buyers hold on to their bitcoin."
+
+
+
+Meanwhile, Yan Liberman, co-founder of research boutique Delphi Digital, said UTXO’s in loss can represent long-term holders and cited bitcoin’s market value to realize value (MVRV) ratio as a quicker way to gauge the amount of UTXOs in loss.
+
+The MVRV ratio is calculated by dividing market value by realized value. While the market value is found by counting all mined coins equally at current market price, the realized value represents the sum of all coin values based on the last time they moved (sum of all UTXOs).
+
+Thus, a falling ratio implies there are large amounts of UTXOs in loss, Liberman told CoinDesk. Bitcoin’s MVRV ratio currently stands at 1.23, having peaked at 2.38 in June, according to data source woobull.com.
+
+Also, there is evidence that long-term holders haven’t been selling. The portion of supply held for at least 12 months started the year at 55.6 percent, peaked at the end of April at 60.8 percent, and sat at almost 59 percent at the end of November, according to Delphi Digital.
+
+Further, the portion of supply held for more than two years stood at an all-time high of 40 percent at the end of November, having started the year at 34.6 percent.
+
+All in all, there is strong reason to believe that “HOLDing” has driven the UTXO-loss metric to record highs.
+
+The drop in the number of transactions seems to have played a role as well, according to Glassnode.
+
+Bitcoin Transaction Count (7-day moving average) Source: Glassnode
+
+As shown in the chart above, the seven-day moving average of the on-chain transactions has declined from the high of 378,808 seen at the end of June to lows near 304,000. Fewer transactions mean fewer UTXOs have been created during the price slide.

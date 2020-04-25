@@ -1,0 +1,27 @@
+DATE:  06.05.2019, 22:15:48
+TITLE: Pieter Wuille Unveils Two Proposals for Upcoming Bitcoin Privacy Soft Fork
+URL:   https://www.coindesk.com/new-bips-hint-at-upcoming-taproot-bitcoin-soft-fork
+
+Prolific bitcoin developer Pieter Wuille unveiled two Bitcoin Improvement Proposals (BIP) today that offer plans that could prove foundational to a possible upgrade to the cryptocurrency.
+
+The two proposals, announced on the bitcoin developer email list, describe Taproot, a code change designed to increase bitcoin’s privacy. Taproot is expected to be bundled together with an upgrade called Schnorr in a soft fork that developers have been looking into for some time, paving the way for privacy and scalability improvements to bitcoin.
+
+Developers have long been thinking about how to arrange this particular upgrade. There have been a number of proposed changes to bitcoin over the years and, as they are all related, it makes sense to implement them together. That includes Merkelized Abstract Syntax Trees (MAST), adding, improved bitcoin smart contracts, Schnorr signatures, which adds another way to sign bitcoin transactions, and Taproot, which adds even better privacy.
+
+This pair of Taproot proposals, available on Github, is one more signal the pieces for such a transition are finally starting to come together.
+
+It’s important that these technical details are now public because more developers in the community can look at them and see if they agree with the changes. If the community agrees these changes are the right ones to make, then the change could finally go live after being put together over several years.
+
+Notably, some think this will be less controversial than bitcoin’s last soft fork activating Segregated Witness (SegWit). Bitcoin cash developers, those who split off from bitcoin because they didn’t agree with the code change, actually really like Schnorr. In fact, they are implementing similar technology in a little over a week.
+
+For a bit more detail, Wuille’s first BIP describes a “new SegWit version 1 output type, with spending rules based on Taproot, Schnorr signatures, and Merkle branches.”
+
+The BIP primarily describes the timing and methodology to be used for this next upgrade and will include the popular Taproot and Schnorr upgrades to be rolled out while “not adding any new strong security assumptions and “not combining into the proposal any functionality which could be simply implemented independently,” wrote Wuille.
+
+While the second describes “the semantics of the initial scripting system under bip-taproot.”
+
+Wuille added in his email announcing the BIPs that while proposal includes Schnorr, MAST, and Taproot, one other much-anticipated feature will probably not make it in this time around:
+
+“While many other ideas exist, not everything is incorporated. This includes several ideas that can be implemented separately without loss of effectiveness. One such idea is a way to integrate SIGHASH_NOINPUT, which we’re working on as an independent proposal.”
+
+Wuille image via CoinDesk archives

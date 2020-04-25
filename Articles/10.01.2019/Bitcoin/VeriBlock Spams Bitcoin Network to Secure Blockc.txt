@@ -1,0 +1,41 @@
+DATE:  10.01.2019, 10:42:17
+TITLE: VeriBlock ‘Spams’ Bitcoin Network to Secure Blockchains of Other Cryptos
+URL:   https://www.coinspeaker.com/veriblock-spams-bitcoin-network/
+
+On October 22, 2013, Bitcoin Core developers merged pull request to accept OP_RETURN as a valid transaction type, providing users with 80 bytes of space for embedding arbitrary data. OP_RETURN enables users to mark transaction outputs as unspendable.
+
+Recently, Bitcoin developers noticed some strange activity on the blockchain. Specifically, a large number of unidentified OP_RETURN transactions were discovered, according to Forbes.
+
+OP_RETURN is a type of Bitcoin transaction that is used for embedding data into the blockchain. It can be used for anything from proving the existence of some data at a specific point in time (proof-of-existence) to issuing new assets, such as the controversial US dollar-pegged Tether, on top of the Bitcoin blockchain.
+
+This function accepts a user-defined sequence of up to 40 bytes. When a transaction containing a challenge script with an OP_RETURN function is mined into a block, the accompanying byte sequence enters the blockchain.
+
+OP_RETURN and its 40-byte limit represent a compromise between two opposing visions of Bitcoin’s future.
+
+One camp sees the blockchain as a secure, decentralized data store on which numerous financial and social applications can be built. Promoting the growth of these new applications helps ensure Bitcoin’s long-term relevance. Allowing transactions to carry application-specific data in a standard way advances this goal.
+
+The other camp views the Bitcoin blockchain exclusively as a medium for recording electronic cash payments. Even so, important scalability issues will need to be addressed sooner or later. Trying to accomodate the data requirements of arbitrary application layers only raises the cost of maintaining the network today, while pushing forward the eventual day of reckoning.
+
+Over the past few days, it became more clear that the entity behind these newly-revealed transactions is VeriBlock, a project that piggybacks on the Bitcoin blockchain in an effort to better secure alternative crypto asset networks.
+
+“Proof-Of-Proof” Using Bitcoin’s Hash Power
+
+VeriBlock works on a process known of “proof-of-proof” whereby the latter “proof” is arrived at using the hash power of the Bitcoin network. Perhaps the most notable contributor to the VeriBlock project is former Bitcoin Core developer Jeff Garzik who infamously led the development of the abandoned SegWit2x hard fork attempt of Bitcoin in 2017, is part of the VeriBlock team.
+
+The new OP_RETURN debates started from Jameson Lopp’s tweet on January 5. According to Lopp, who is CTO of crypto custody provider Casa, VeriBlock was identified as the protocol behind the highest volume of OP_RETURN outputs. Data from opreturn.org showed that in December 2017, VeriBlock posted 784k OP_RETURN transactions and according to Lopp, they are on track to post 1.5 million transactions in January 2018.
+
+Source of the now-highest volume of OP_RETURN outputs has been identified as @VeriBlock "proof of proof" miners. They are creating around 20% of all BTC transactions now. Seems inefficient to me; will be interesting to see if the incentives work long term. https://t.co/LpjyhGKg2b — Jameson Lopp (@lopp) January 5, 2019
+
+Although the VeriBlock blockchain is still in a testing phase, the OP_RETURN transactions that it generates already account for roughly 20% of all of the transactions made on the Bitcoin network every day.
+
+Even though some may characterize VeriBlock as simple spam, the truth is, that Bitcoin works on a system where anyone who is willing to pay a fee will get their transactions into the blockchain. For now, VeriBlock is making it more expensive to make actual money transfers on the Bitcoin network due to the limited availability of block space.
+
+However, there isn’t really anything anyone can do about this as long as people are willing to pay Bitcoin transaction fees in an effort to improve the security of alternative blockchains. The viability of VeriBlock and its effect on Bitcoin will be something worth tracking in 2019.
+
+If the company continues to increase the number of transactions it creates using OP_RETURN and filling up Bitcoin’s limited block space, the market will bid up the price of transaction fees to the point where it could become uneconomical for VeriBlock to continue to increase its transactions.
+
+The massive proliferation of cash-grab altcoins and the continued profitability of scams in the space has made digital currency difficult to take seriously for anyone outside of the industry. Some think that many of these altcoins, particularly those needing support from VeriBlock, need to die off entirely before this can change.
+
+We already wrote of how last week Ethereum Classic (ETC) debacle happened and how the risk of 51% attack on altcoins is far greater than it is on the BTC network. This is because there is much less hashing power securing these smaller networks. With less computing power enforcing them, attackers need to command far less computing power themselves to subvert the network’s rules.
+
+Author: Teuta Franjkovic Experienced creative professional focusing on financial and political analysis, editing daily newspapers and news sites, economical and political journalism, consulting, PR and Marketing. Teuta’s passion is to create new opportunities and bring people together.

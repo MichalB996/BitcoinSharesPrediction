@@ -1,0 +1,59 @@
+DATE:  30.08.2019, 15:40:12
+TITLE: What’s Being Built – and What’s Not – on 2019’s Smart Contract Blockchains
+URL:   https://news.bitcoin.com/whats-being-built-and-whats-not-on-2019s-smart-contract-blockchains/
+
+What’s Being Built – and What’s Not – on 2019’s Smart Contract Blockchains
+
+Has anyone checked in with EOS lately, to see how it’s doing? How about Tezos – any signs of life there? In mid 2017, two of the largest token sales in history birthed two smart contracting platforms that promised to topple Ethereum and usher in an era of fast and low-cost value transfer with dapps for everyone. Two years on, news.Bitcoin.com decided it ought to perform a welfare check on the leading smart contracting platforms to look for signs of life.
+
+Also read: How Market Makers Inject Liquidity Into the Cryptoconomy
+
+‘U Okay Hun?’
+
+The number of smart contract platforms, sometimes referred to as second-generation blockchains, has multiplied since the days when EOS, Tezos, and Tron were being talked up as the new Ethereum. Just to further complicate matters, there’s also been a string of layer two solutions and sidechains that connect to networks such as Ethereum, performing much of the heavy lifting off-chain, before transmitting the computed result to the mainchain. Even Bitcoin Cash has gotten in on the act, with Simple Ledger Protocol supporting ERC20-style token issuance, but with lower fees. As a result, there isn’t enough time, space or willpower to record what every smart contract platform in the industry is currently up to. The following snapshot, however, reveals the health of the main players and their new contenders. Consider it the equivalent of a kindly text to an old friend who hasn’t been heard from in days. “U okay hun?”
+
+The story concerning what’s being built on EOS differs wildly depending on whether you read the narrative being peddled at eosprojects.org or the unofficial one recorded by Dappradar.com. According to the former, recent projects of note include Equilibrium, a smart contract solution for creating EOSDT-backed stablecoins, and pro-privacy market research project Insights Network. Other than that, the handful of projects listed on eosprojects.org are either dead or dying, such as Eos Time, an auction site that hasn’t been heard from since the start of February. Srsly hun, u okay?
+
+Dappradar paints a far rosier picture of EOS adoption, even if its killer use case isn’t the one that Dan Larimer envisioned. It turns out that EOS is great for running gambling dapps, thanks to its free transactions and fast block times. Centralization concerns aren’t an issue here either: for gambling purposes, EOS is decentralized enough. Top dapps include Dice, Hold’em Poker King, and GP Casino. There are also a few gaming dapps in the top 10 such as Prospectors and EOS Knights.
+
+$4 billion to create a cheap gambling network doesn’t seem like much to crow about, though to cut EOS some slack, gambling was one of Bitcoin’s early successes – remember Satoshi Dice? At some stage, EOS will need to start launching more than just gaming and gambling Dapps if it’s to justify its existence. The EOS VC fund, with its $1 billion war chest, should help there. One of EOS’ problems is a lack of cohesive communication about what’s actually being built on the network. Scout around, however, and there are signs of life. Tech collective Ghostbustersx, for instance, are beavering away on some interesting EOSIO projects including a DAG for the independent nation of Liberland.
+
+Tron
+
+Tron’s trajectory has proven very similar to EOS, with the difference being that Justin Sun’s ICO-funded network seems willing to embrace what it’s become: a gambler’s paradise. Moreover, having raised six times less than EOS (albeit a still significant $70 million), there’s been less pressure on Tron to deliver flagship products from game-changing crypto companies. As a result, Tron has quietly grown into one of the most successful dApp networks to date. Admittedly, there’s a preponderance of gambling dapps, with a few exchanges thrown in for good measure, but then not every smart contracting platform has to reinvent finance: sometimes it’s nice to throw a few tokens at a high-low betting game and see what comes back.
+
+Another minor success story for Tron is that its sub-tokens have gained some traction, in contrast to EOS. Most notably, the Wink token, which IEO’d on Binance last month, has done well, and cemented Tron’s reputation as the gambler’s chain of choice. Tron’s also been making progress in other areas, such as with the Sun network, a sidechain for launching dapps that provides all the functionality of the mainchain but with lower resource costs.
+
+Tezos
+
+After getting concerned at the milk bottles stacking up outside the door and the number of newspapers protruding from the mailbox, news.Bitcoin.com sent a series of increasingly concerned texts to Tezos. Tezos did not respond.
+
+RSK
+
+Unlike the other smart contracting networks featured here, RSK isn’t a second-gen blockchain: it’s a layer two that serves as an open source smart contract solution anchored by the security of the BTC network. That’s right, the absolute madmen are building on Bitcoin. As value propositions go, that’s pretty enticing, not least to enterprises that desire the functionality of smart contract-powered products, but without dirtying their hands by dabbling with unproven blockchains.
+
+After a quiet start to the year, RSK has announced a detailed roadmap and begun to court developers interested in building open finance products. RSK is already being used by a number of projects, including a meat production traceability initiative in its native Argentina. In July, a major network upgrade (Wasabi) improved storage components of the RSK protocol, and a raft of other improvements scheduled for Q3 will ensure the smart contract network is enterprise-ready. After that, it’ll be time for RSK to step up and show what it’s made of.
+
+Matic Network
+
+We’ve left the main chains behind now, and are onto sidechains and other smart contract solutions that nevertheless compete directly with EOS and its ilk. Matic is probably the biggest breakthrough this year, from the dozens of sidechains promising to enhance Ethereum and every other network they’re plugged into. While the seed money from Coinbase Ventures and the IEO on Binance has undoubtedly helped its cause, Matic has actually built stuff too, partnering with a string of companies along the way including some known names.
+
+Decentraland and Makerdao are among the partners Matic can count, while on the dapp side it’s got a handful of applications up and running. Matic Network uses an adapted version of Plasma, a scaling technology originally conceived for Ethereum. It enables fast and cheap transactions, which attain finality once confirmed on the mainchain. Thanks to its broad cross-industry support, coupled with an energy that only young projects can possess, Matic looks set to end 2019 on a high.
+
+Liquid Apps
+
+Purpose built for hosting dapps that can operate at scale, Liquid Apps is focused on the endgame: a future in which thousands of decentralized apps are used by millions. Should that vision ever become a reality, cheap computation and storage will be essential, which Liquid Apps promises to deliver through the originally named Dapp Network.
+
+Rather than seek to take on the leading dApp blockchains in a zero-sum game, Liquid Apps aims to work with them. Its interoperability product Liquid Link connects EOS and Ethereum, enabling developers to create dapps that work on both chains. Like RSK, Liquid Apps has its tech stack in place. Next up, it needs to attract a few more projects that can showcase what its technology can do.
+
+Verdict: Signs of Life
+
+For the networks described here, there are signs of life, ranging from tepid to robust. Even Tezos will probably stir at some point once it’s put its legal troubles behind it and is free to focus on building. One matter that all those involved with the above networks seem to agree on: Ethereum isn’t scalable, and won’t be application ready any time soon. “Complex dApps just don’t work on Ethereum,” Vahid Toosi of Ghostbustersx told news.Bitcoin.com. “I also think there is something different with EOSIO which allows people to iterate quickly on different blockchains … The idea was always to build platform specific chains rather than general and then have the interoperability between the chains.”
+
+In the promised land envisioned by its architects, blockchains communicate openly with one another, dapps scale, fees are forever low and block producers never collude. It may be an impossible dream, but for the developers of today’s smart contract networks, it’s one worth clinging to. News.Bitcoin.com will return in six months for another welfare check when its entreaty – “U okay hun?” – will hopefully be met with a resounding “Yes.”
+
+Which smart contract platforms do you think are likeliest to succeed? Let us know in the comments section below.
+
+Images courtesy of Shutterstock and Dappradar.com.
+
+Did you know you can verify any unconfirmed Bitcoin transaction with our Bitcoin Block Explorer tool? Simply complete a Bitcoin address search to view it on the blockchain. Plus, visit our Bitcoin Charts to see what’s happening in the industry.

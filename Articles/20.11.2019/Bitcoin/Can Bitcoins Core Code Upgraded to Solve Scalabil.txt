@@ -1,0 +1,19 @@
+DATE:  20.11.2019, 16:00:24
+TITLE: Can Bitcoin’s Core Code Upgraded to Solve Scalability?
+URL:   https://blockpublisher.com/can-bitcoins-core-code-upgraded-to-solve-scalability/
+
+No radical and transformational innovation has ever been able to avoid competition and periodic challenges. Bitcoin, a decentralized fintech solution to the world economic problems, faces a vital issue of scalability. While the secure P2P (peer-to-peer) based solution has gained significant confidence of the public, it is up for many modifications to stay in the market for long. While Visa provides a transaction per second(TPS) rate of 1,700, Bitcoin can only do about 4.6 which will be a huge issue if it is to become the mainstream currency.
+
+READ ALSO: Lost Bitcoin Can be Traced in Some Cases
+
+Many organizations are adopting Bitcoin but TPS is one of the critical issues related to it. Bitcoin blocksize is 1MB ~ 1,048,576 bits with each transaction of size 380,04 bytes which means roughly 2,579 transactions per block. Each new block in the network is created after 10 minutes ~ 600 seconds which results in 4.6 transactions per second. Soft forking is a way in which a new set of rules are introduced keeping all the nodes in the network backward compatible and adaptable to the new version of Blockchain but there are various limitations attached to it.
+
+Increasing block size, decreasing block generation time by making the hashing algorithm flexible is not a long-term solution to the Bitcoin scalability issue as they would only make the TPS hypothetically 188 times better which is still nowhere comparable to the Visa 1700 TPS. SegWit was the first biggest soft fork solution introduced in the BTC network which segregates the witness part of the transaction with actual transaction data and increases the block size to a hypothetical 4MB. SegWit has helped to change the blocksize without messing up the code base but hasn’t been of much value to the global TPS.
+
+It takes 14 seconds to propagate the creation of a new block or any other change to all the nodes involved in the network so block generation time cannot do better than this time else it will lead to security and multiple transaction recording issues.
+
+These all factors accounted for the creation of Bitcoin Cash, having blocksize of 8MB, and LiteCoin and several others which have more TPS than Bitcoin but are all hark fork solutions. It is difficult to change all scalability issues of Bitcoin with a soft fork overnight because the hardware may not be compatible to deal with the changes.
+
+Batch transactions, hard forking, lightning network, EOS and high-performance Blockchains, CDN’s for Bitcoin are the solutions proposed to address Bitcoin scalability concerns. One can only hope that there may come a backward-compatible game-changing solution to serve as an aid to provide a sudden increase in the Bitcoin TPS rate.
+
+READ ALSO: Can Quantum Computer Break Bitcoin?

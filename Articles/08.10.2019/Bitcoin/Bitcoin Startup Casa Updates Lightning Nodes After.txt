@@ -1,0 +1,23 @@
+DATE:  08.10.2019, 14:00:07
+TITLE: Bitcoin Startup Casa Updates Lightning Nodes After Shipping 2,000 in Year 1
+URL:   https://www.coindesk.com/bitcoin-startup-casa-updates-lightning-nodes-after-shipping-2000-in-year-1
+
+Casa, a bitcoin custody provider and manufacturer of hardware nodes for lightning, bitcoin’s scaling layer, is launching a new version of its flagship device.
+
+The new node will process transactions faster because of its larger memory unit (4 GB versus the current node’s 1 GB), better processor and new software, Casa CEO Jeremy Welch told CoinDesk.
+
+Also, unlike the current version, the new node will have a built-in BTCPay server, a self-hosted crypto payment processor for accepting bitcoin payments, Welch said. New features are expected to make the whole experience of opening lightning channels and sending funds much smoother, he said, adding:
+
+“It’s like going from iPhone 3 to iPhone 11.”
+
+The new node has been about six months in the making and comes in response to a growing community of lightning users, Welch said.
+
+This community, according to Welch, ranges “from young software engineers to older people, from doctors to students.”
+
+Since the company started selling the lightning nodes last fall, Casa has shipped over 2,000 devices to buyers in over 65 countries, according to Welch. The firm, however, can’t see where all these nodes ended up plugging into the network.
+
+“The beautiful thing is, we have no idea where all these nodes are,” Welch said. “They are connecting via Tor – it’s all about privacy protection.”
+
+Lightning is an experimental network for faster bitcoin transactions, allowing users to open channels between each other by staking the bitcoin they want to use. Only the final settlement results – not each small transaction – are recorded onto the bitcoin blockchain.
+
+Jeremy Welch image by Anna Baydakova for CoinDesk

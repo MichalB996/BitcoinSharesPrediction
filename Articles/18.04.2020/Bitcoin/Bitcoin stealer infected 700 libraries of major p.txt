@@ -1,0 +1,23 @@
+DATE:  18.04.2020, 19:45:51
+TITLE: Bitcoin stealer infected 700+ libraries of major programming language
+URL:   https://decrypt.co/26025/rubygems-bitcoin-stealing-software-reversinglabs
+
+A cybersecurity firm discovered that over 700 libraries of the popular programming language, Ruby, contained malicious Bitcoin-stealing software.
+
+ReversingLabs, based in Cambridge, Massachusetts, disclosed its findings in a blog post on Thursday. Back in February, it wrote, hackers placed malicious files inside a package manager called RubyGems—which is usually used to upload and share improvements on existing pieces of software.
+
+The hackers were trying to trick developers into downloading malware by using a method called “typosquatting”, which consists of uploading malicious packages with similar names to regular ones. By just changing a few characters of a file name, the hope was that a developer would mistakenly download an infected package—unwittingly providing the hacker with access to their system.
+
+Once inside, the malware executed a malicious script that starts an infinite loop to capture a user’s clipboard data—with the goal of redirecting all potential cryptocurrency transactions to their wallet address.
+
+But despite hackers’ best efforts, ReversingLabs found that they weren’t successful in a Bitcoin-stealing hack because the attack was too obscure.
+
+“The perfect candidate to succumb to this type of ‘spray-and-pray’ supply chain attack is a Ruby developer whose environment of choice is a Windows system that’s also periodically being used to make Bitcoin transactions. A rare breed indeed,” it wrote.
+
+Now it’s too late for hackers: the security firm contacted RubyGems two days after they discovered the attack, whereupon the infected files were shortly removed.
+
+Hotspot for crime
+
+RubyGems has 158 thousand packages with nearly 49 billion total downloads—and appears to be a popular target for hackers who want to steal cryptocurrencies. Last year, researchers found cryptojacking software, which uses a host's computer to mine crypto, in 11 Ruby libraries.
+
+Though security firms often pick up on such attacks, hackers will always try and find new ways to get to your Bitcoin. As if 2020 couldn’t get any worse.

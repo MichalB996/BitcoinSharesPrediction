@@ -1,0 +1,39 @@
+DATE:  15.02.2020, 22:54:55
+TITLE: 5% of Block Rewards - Bitcoin ABC Will Add Infrastructure Funding Plan in Next Release
+URL:   https://news.bitcoin.com/bitcoin-abc-add-infrastructure-funding-plan/
+
+5% of Block Rewards - Bitcoin ABC Will Add Infrastructure Funding Plan in Next Release
+
+Bitcoin ABC developers published a blog post on Saturday which discusses the miner Infrastructure Funding Plan (IFP) and the team told the community the software engineers have been “requested” to implement IFP. According to the developers, the code for IFP will be implemented in the upcoming 0.21.0 ABC software release.
+
+Also Read: 3 Cents per kWh – Central Asia’s Cheap Electricity Entices Chinese Bitcoin Miners
+
+Bitcoin ABC Will Implement Code for the Infrastructure Funding Plan in the Next Software Release
+
+Btc.top founder Jiang Zhuoer recently introduced a miner-funded Infrastructure Funding Plan (IFP) that would see a fraction of block rewards sent to core developers working on the BCH protocol. At first, the plan was to use 12.5% of the BCH coinbase rewards and miner participation was required. While some people liked the plan, the proposal didn’t sit well with a number of BCH supporters and people debated the subject for days. Then Zhuoer followed up with the community after hearing the responses and he explained that the coinbase reward would be reduced and instead of requiring other miners to donate they could burn their percentage.
+
+Again, BCH community members mulled over the revised plan and the conversation had settled for a while. Then on Saturday, Bitcoin ABC announced the team would be adding support to the IFP within the next codebase release. The 0.21.0 ABC software release will contain code that implements the rules if triggered by miners via [a] BIP-9 like method. The method would be the same steps used when BTC developers activated Segregated Witness (Segwit) for soft fork deployment. The Bitcoin ABC blog post states:
+
+The new plan addresses several of the major concerns expressed over the last few weeks. Bitcoin ABC has been requested to implement this plan in the node software, and as such will be including this implementation in the upcoming 0.21.0 release.
+
+BIP-9 Like Voting Will Be Used for IFP Activation
+
+According to the development team, the new plan is different as it will be “triggered by miners via BIP-9 like method.” “The amount is reduced to 5% of block reward [and] the funds can go to more than one project, and can go to one of several in a whitelist,” the update says. The post goes further and explains the “whitelist” of possible projects. The following criteria include:
+
+Must be common infrastructure, things that different products build on top of.
+
+The project must provide a “Public Good”
+
+The project must use open source software licenses compatible with other projects in the Bitcoin Cash ecosystem.
+
+The plan should prioritize projects that are in need of money.
+
+The software engineers disclosed that by applying the criteria a whitelist has come to fruition. There will be donation addresses for a General Fund, Bitcoin ABC, Electron Cash, and BCHD. “As a project, Bitcoin ABC believes that stable funding of Bitcoin Cash software infrastructure is vital to the success of the project,” the developers concluded. “While we recognize that some aspects of this plan have been controversial, we believe that overall the benefits of the plan create the potential for a very exciting future in which Bitcoin Cash can grow and compete, and can reach its goal of becoming the best money the world has ever seen.”
+
+The developers also thanked Btc.top’s Jiang Zhuoer and other mining pools for their “desire” to fund infrastructure. “We are optimistic this plan could be a great success,” the team’s blog post further highlights.
+
+What do you think about Bitcoin ABC’s recent announcement? Let us know what you think about this topic in the comments section below.
+
+Image credits: Shutterstock, Bitcoin ABC logo, and Coin Dance.
+
+Do you want to maximize your Bitcoin Mining potential? Plug your own hardware into the world’s most profitable Bitcoin mining pool or get started without having to own hardware through one of our competitive Bitcoin cloud mining contracts.

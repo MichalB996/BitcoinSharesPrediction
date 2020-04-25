@@ -1,0 +1,43 @@
+DATE:  09.01.2019, 14:00:04
+TITLE: New Bitrefill Service Aims to Make Lightning Payments Easy
+URL:   https://www.coindesk.com/new-bitrefill-service-aims-to-make-lightning-payments-easy
+
+Stockholm-based startup Bitrefill now offers a way to mitigate bitcoin’s expensive learning curve for new users.
+
+Revealed exclusively to CoinDesk, Bitrefill’s new Thor service allows people to give lightning channels to someone else with no setup on the recipient’s side. Lightning was created to allow cheaper, off-chain bitcoin payments.
+
+Bitrefill’s John Carvalho told CoinDesk:
+
+“Thor allows people to connect to the lightning network whether they have bitcoin or not. All you have to do is download one of the supported wallet apps, install it, and then either you or a friend can come to Bitrefill and purchase a channel opening.”
+
+Typically, this is how lightning works: Someone has to set up a channel between two parties and deposit enough bitcoin to hold it open. Users can only send as much money as the channel’s capacity supports.
+
+What Thor allows users to do is outsource the technical work for opening a channel, which can be paid for with bitcoin, litecoin, ethereum, dash or dogecoin. Bitrefill will then maintain active channels for 30 days.
+
+“The idea here is to be able to allow everyone to get on the lightning network and running a hot wallet,” Carvalho said. “There’s still a lot of lightning development left to go and a lot of convenience that is needed so it’s not so intimidating to get onto lightning.”
+
+After more than a year of experimenting with lightning payments, this 12-person startup has allowed people to pay phone and cable bills and use the network for a variety of other transactions, totaling 3,760 completed orders. The first week of 2019 alone saw 105 new orders, the company says. According to 1ML.com, Bitrefill is one of the top five organizations increasing global lightning channel capacity, which now hovers above $2 million across the network.
+
+Carvalho said overall lightning usage is growing steadily, adding:
+
+“As far as giving bitcoin enthusiasts a way to onboard other people and teach them about lightning, I think [Thor] will be a good tool.”
+
+Thor works with several free wallet apps such as the LND wallet. Users scan the QR code on the Thor page provided while paying for the service, then copy and paste script – all without needing to deal with the raw command line themselves.
+
+Anton Kumaigorodskiy, a developer for the Bitcoin Lightning Wallet that also integrated directly with Thor, told CoinDesk this service could help boost lightning usage. He said at least 3,204 users have installed the Bitcoin Lightning Wallet app on their phones so far.
+
+New possibilities
+
+“Opening an incoming payment channel is something which was not possible for mobile [lightning network] users before,” Kumaigorodskiy said. “But now anyone can install a fresh wallet, order an incoming channel and start receiving lightning payments right away.”
+
+All things considered, lightning usage is poised to continue growing in 2019.
+
+This bitcoin scaling solution burst onto the scene with user-ready beta software less than one year ago. And yet already a comparison of 1ML.com statistics to Ethernodes.org, which tallies nodes for the second largest cryptocurrency network, reveals there are roughly half as many lightning nodes as there are unique ethereum nodes, more than 5,215.
+
+However, when it comes to lightning-enabled payments competing with traditional fiat methods, Kumaigorodskiy said he is “a bit skeptical.” For now, Kumaigorodskiy said he still thinks professional traders have the most to benefit from using this nascent technology.
+
+It will take quite a bit of experimentation before lightning services are ready for a high volume of low-value payments from mainstream users. Speaking of his own hopes for lightning growth in 2019, Carvalho added:
+
+“The more these services are working, live and tested, the more this will become a majorly used network that people can transact on.”
+
+Team meeting image via Bitrefill

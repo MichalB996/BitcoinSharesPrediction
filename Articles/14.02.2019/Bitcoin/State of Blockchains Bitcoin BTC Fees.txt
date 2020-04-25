@@ -1,0 +1,19 @@
+DATE:  14.02.2019, 14:41:45
+TITLE: State of Blockchains: Bitcoin (BTC) Fees
+URL:   https://www.coindesk.com/state-of-blockchains-bitcoin-btc-fees
+
+Transaction fees make the bitcoin blockchain go round. The miners are compensated for their efforts, not only through inflationary block rewards but also through fees charged to users for adding their transaction to blocks. While fees on average make up about 4% of the total miner revenue per day, with the lion’s share coming from block rewards, sometimes economic shocks cause those fees to rise.
+
+The average fee per transaction is approximately $1.63 with the median being $0.88 over the past five years. The fees are the prices charged for a transaction to get into the limited space of a 1 MB block that occurs every 10 minutes. This results in about 1,800 transactions (~556 average transaction size in bytes) that are able to fit into a block. If the standard 144 blocks are mined per day, we observe a ceiling of about 260,000 transactions per day. Thus there is always a backlog of unconfirmed transactions that reside in the mempool awaiting miners to select them for inclusion in the blockchain.
+
+According to Blockchain.Info, there are about 3.4 million bytes awaiting inclusion in the mempool. Miners will usually include the transaction with the highest fees and work their way down as capacity dwindles to the lower fee transactions. Imagine you are commuting to work and you hit a traffic jam. There is a premium toll road that allows limos to pass by the normal commuters in the low fee road. Eventually, your car gets through and you arrive at work only 5 hours late. This is how transactions get into the blockchain, although the capacity should never increase so much that an exasperated traffic jam occurs…or at least not a big one.
+
+Such a traffic jam occurred in Q4 of 2017. Bitcoin interest was at an all-time high which led to a parallel increase in price to nearly $20,000. All this demand caused the mempool to become clogged which caused transaction fees to rise to about $30-$60 and confirmation times to expand to a week. Some suggested that this made bitcoin unusable in commerce while others described this as the natural fate of sound digital money. The traffic jam was only solved as demand evaporated from the market and price began to fall.
+
+Bitcoin now sits sub-$4k and the demand is returning to parity with that of Q4’17. Astonishingly, fees have remained low. This begs the question of how we could have the same increased demand levels but not the commensurate increase in fees. The answer is Segwit Adoption.
+
+Segwit is a software upgrade that allows transaction data to be minimized so a user can fit more transactions in a given block. Only 10% of transactions were using Segwit during the fee crisis of Q4’17 while more than 35% are now using it. Jimmy Song, blockchain programmer, simplifies it as “Segwit transactions [result] in a block size of around 2MB”. Thus fees and confirmation times were reduced through the solution of an effective block size increase.
+
+While a new crisis has been averted it seems that it really has only been pushed down the road. As demand grows, bitcoiners are rushing to both increase Segwit adoption to 100% as well as offload as much of that demand to L2 solutions. Bitcoin transactions that are fast and cheap might end up being a nostalgic memory as mass adoption takes hold, but we can rest easy…for now.
+
+Sources: CoinMetrics.io, Blockchain.Info, and Woobull.com

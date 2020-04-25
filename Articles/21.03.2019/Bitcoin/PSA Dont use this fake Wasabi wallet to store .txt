@@ -1,0 +1,33 @@
+DATE:  21.03.2019, 11:34:56
+TITLE: PSA: Don’t use this fake Wasabi wallet to ‘store’ your Bitcoin
+URL:   https://thenextweb.com/hardfork/2019/03/21/wasabi-wallet-bitcoin-fake/
+
+Watch out! Wasabi, the popular anonymizing Bitcoin BTC wallet, has been duplicated in an apparent bid to steal your Bitcoin — and the ruse comes complete with an entirely phony website.
+
+Wasabi’s co-founder, nopara73, shared the discovery this morning: “The first malware that pretends to be Wasabi […]. Notice only the Windows download link points to their own website, the rest is to our GitHub?” he tweeted.
+
+Indeed, the fraudulent site (wasabibitcoinwallet [dot] org) features a download page that links to the latest version of “Wasabi.” It lists four versions for download (macOS, Windows, and two for Linux).
+
+All the links direct users to the real Wasabi wallet (hosted via GitHub) except the Windows link, which automatically downloads a very suspicious .msi file hosted by the scammers‘ website directly.
+
+Curiously, when the fake wallet was checked with antivirus engines, they were unable to detect any malware inside the dubious installer: “Oh boy, this is going to be messy,” nopara73 added.
+
+Wasabi is an open-source Bitcoin wallet. It natively supports “shuffling” technology, as well as Tor, with goals of providing users with additional privacy when using the world’s most popular cryptocurrency.
+
+Late last year, Wasabi was listed as one of the preferred Bitcoin wallets for cryptocurrency fans in Iran, where it’s increasingly taboo.
+
+For reference, below is a screenshot of the real Wasabi wallet homepage (https://wasabiwallet.io/).
+
+Hard Fork has reached out to nopara73 for more details about the functionality of the fake version, and will update this piece as we learn more.
+
+A method employed by most reputable software projects is arming users with “Pretty Good Privacy” (PGP) signatures, which they can use to verify files they are interacting with are legit. You can read more about how to use PGP signatures here.
+
+Update 11:28 UTC, 21 March: Nopara73 has since contacted Hard Fork with more information. Although conclusive testing on the potential of the fake version hasn’t been conducted, it’s definitely a scam.
+
+“It may not be a virus yet, they may just be building up their userbase. It may be a virus, but they’re doing a selective scam,” he told Hard Fork. “The Linux and OSX users would vouch for the site, because their software is the original one, so that’d create confusion in forums where they spread the link.”
+
+When asked why he thought the fraudsters chose the Windows version to re-create, nopara73 suggested that it may have simply been too difficult to build modified Wasabi’s for any other platform.
+
+“Now unfortunately for them, they don’t have the signing key I’m using to sign the binary on Windows, so when you’ll try to install their software, Microsoft will complain: ‘Hey, this software has an unknown publisher.’ I wonder if this jeopardizes their efforts,” he added.
+
+Did you know? Hard Fork has its own stage at TNW2019, our tech conference in Amsterdam. Check it out.

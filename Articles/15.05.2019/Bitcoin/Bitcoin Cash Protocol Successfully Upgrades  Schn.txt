@@ -1,0 +1,41 @@
+DATE:  15.05.2019, 16:36:50
+TITLE: Bitcoin Cash Protocol Successfully Upgrades — Schnorr Signatures Are Here
+URL:   https://news.bitcoin.com/bitcoin-cash-protocol-successfully-upgrades-schnorr-signatures-are-here/
+
+Bitcoin Cash Protocol Successfully Upgrades — Schnorr Signatures Are Here
+
+The Bitcoin Cash (BCH) chain has officially upgraded, adding Schnorr signatures and the Segwit recovery exemption. As of block 582680, the chain has implemented the new features successfully and BCH fans are celebrating another major protocol improvement.
+
+Also read: Schnorr Signatures Are Coming to Bitcoin Cash – Here’s What You Should Know
+
+Another Bitcoin Cash Upgrade Achieved
+
+On Wednesday, May 15, the Bitcoin Cash network has completed yet another successful upgrade by implementing two new features — Segwit recovery and Schnorr signatures. Essentially, the Segwit recovery addition makes it possible for network participants to recover funds that have been sent to Segwit addresses by accident. The implementation makes an exemption following the enforcement of the new CLEANSTACK rule that made Segwit recovery previously impossible after the upgrade last November. But the high profile feature everyone’s been chatting about is the implementation of Schnorr signatures, a digital signature scheme that allows for complex signing abilities.
+
+The signature scheme was invented by Claus Schnorr and cryptocurrency developers have been looking into adding the scheme for years but it was patented. Now that the patent has expired, Bitcoin Cash (BCH) developers ran with the idea and decided to add the preliminary basics of Schnorr signatures to the main chain. In conversation last week, developer Mark Lundeburg told news.Bitcoin.com that the basics of Schnorr signatures can slash roughly 4% off current transaction storage. In the future, after another Schnorr related upgrade, the scheme could provide for public signature aggregation and more complex sign-to-contract concepts.
+
+Bitcoin Cash Using Schnorr Will Aid Privacy & Scaling
+
+Further Schnorr related improvements can provide multiple parties with the ability to transact with simple multi-party aggregation schemes. Because Schnorr signatures are only 64 bytes in contrast to the traditional 70 bytes used by ECDSA signatures, initially people can take advantage of the 4% savings in regard to blockchain storage and bandwidth. But with further upgrades and the implementation of public signature aggregation, the entire network’s scaling abilities could be enhanced by reducing blockchain storage and bandwidth by at least 20-25%. When Schnorr is combined with concepts like pay-to-public-key-hash (P2PKH) addresses and the recently added opcode OP_CHECKSIG, other benefits can be added to transactions like privacy and decision-based smart contracts.
+
+As of today, after the initial implementation BCH developers will be able to build:
+
+Payment channels hidden as ordinary payments.
+
+Atomic swaps hidden as ordinary payments.
+
+Lightning-style payment channel networks too, if desired.
+
+Secure chains of unconfirmed transactions involving multiple parties (layer 2).
+
+After the upgrade, the Bitcoin Cash community and developers celebrated the achievement and programmers like Gabriel Cardona and Mark Lundeberg processed the first Schnorr signature transactions on the main network. As of 12:10 p.m. EST there’s been 23 blocks processed under the new consensus rules. A few hours earlier, however, it seems an unknown entity attempted to exploit the chain with invalid transactions, which affected numerous Bitcoin ABC clients. A patch was then added to fix the issue within the client after being submitted by Amaury Séchet and reviewed by ABC developer Jason Cox. Developers have said that the exploit had absolutely nothing to do with the consensus upgrade itself and mining pools were notified of the mining bug immediately. While waiting for the patch, pools mined a succession of empty blocks up until block height 582697 and the chain began processing blocks normally.
+
+The community is thrilled to see yet another successful upgrade and is pleased the added features will enhance the path toward providing the best peer-to-peer electronic cash system on the planet.
+
+If you want to learn more about Schnorr signatures, check out the explainers below from two prominent BCH developers:
+
+What do you think about the Bitcoin Cash network implementing Schnorr signatures following another successful upgrade? Let us know what you think about this subject in the comments section below.
+
+Image credits: Shutterstock, Coin Dance, and Twitter.
+
+Want to create your own secure cold storage paper wallet? Check our tools section.

@@ -1,0 +1,39 @@
+DATE:  17.02.2020, 16:48:15
+TITLE: The $800 million Bitcoin wallet no one wants to touch
+URL:   https://decrypt.co/19648/the-800-million-bitcoin-wallet-no-one-wants-to-touch
+
+A Bitcoin address containing nearly 80,000 BTC—supposedly originating from the first Mt. Gox hack—has remained untouched for over nine years. The funds are deemed "high risk," according to experts, making them difficult to cash out. So, with the world's eyes firmly on the notorious prize, one question lingers: Will these funds ever be moved?
+
+For over nine years, the Mt. Gox debacle has hung like a dark cloud over the crypto industry. At the beginning of 2011, the now-defunct exchange was responsible for a massive 70% of Bitcoin’s global trade volume. A few months later, it brought the cryptocurrency to its knees.
+
+According to official reports, hackers used a compromised Mt. Gox admin account to crash the price of BTC on the platform. With the artificially lowered price, the attackers went to town—buying up Bitcoin in droves. User accounts were also targeted, with reports placing the damage somewhere close to 25,000 BTC, stolen from 478 accounts—amounting to $8.75 million at the time.
+
+Now, a recent Reddit thread has reignited interest in the case. According to Redditor jwinterm, a Bitcoin address associated with the original Mt. Gox hack has been unearthed.
+
+"This Bitcoin address associated with the MtGox [sic] hack has a balance of 75,957.20 BTC, and not a single satoshi has ever been moved out of it," reads the thread.
+
+Per data from Bitinfocharts.com, the address holds a current balance of 79,957 BTC ($815 million), a figure remaining practically unaltered since funds arrived at the address on March 1, 2011. So, why the lack of movement?
+
+Blockchain analytics firm Chainalysis has been keeping a keen eye on the stolen BTC. Speaking to Decrypt, Chainalysis suggested that the notoriety of the address has kept funds virtually rooted.
+
+"We have had this address labeled in our products as stolen funds for a long time. If the funds are sent to an exchange they would be considered 'high-risk,' making it more difficult for them to successfully cash out," said director of communications for Chainaylsis, Maddie Kennedy.
+
+There are two possibilities: Either the hacker has lost the private keys or simply can't move the funds without being tracked down. Both hypotheses hold some weight. But, assuming the hackers do have access, how troublesome would it be to shift the funds in theory?
+
+According to Chainalysis, with eyes fixed on the address, cashing out is a reasonably risky move—but not an impossible one.
+
+"It is more difficult to move these funds knowing that the industry has eyes on it," explained Kennedy, "that said, we saw PlusToken scammers move very large amounts like this. While they were easy enough to track, they were able to cash out large amounts of funds via multiple over-the-counter (OTC) brokers in Asia. Hopefully awareness about these OTC brokers will make it more difficult for them to cash out illicit funds undetected."
+
+Bitcoin is easy to hide, hard to trace.
+
+Decrypt reached out to another blockchain analytics company, Merkle Science, to expand on possible routes to liquidation. Thomas Glucksmann—Vice President of Global Business Development at the firm—explained to Decrypt that cashing out is simpler than it seems.
+
+"If the individuals or organization controlling the funds want to make life difficult for law enforcement agencies and investigators they could use a number of tactics to obfuscate their transactions such as transferring BTC through coin mixers or using payment channels like Lightning and exchanging funds into fully private cryptocurrencies using unregulated exchanges and OTC markets.
+
+Once obfuscated funds are sent to an exchange it becomes very challenging to trace the activity within or from that entity, and identify the criminals, unless the exchange cooperates swiftly with law enforcement agencies."
+
+Glucksmann adds that even though transaction masking makes tracking them problematic, hunting the stolen BTC still wouldn't be impossible—it would just take more time.
+
+As for why it's taken so long for hackers to shift the funds, Glucksmann suggests that it could be a simple matter of timing.
+
+"It could be a case of waiting for the right conditions for liquidating such a large amount of BTC or taking time to plan a low-risk approach to laundering the funds."

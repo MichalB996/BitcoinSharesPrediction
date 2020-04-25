@@ -1,0 +1,87 @@
+DATE:  02.01.2020, 13:50:44
+TITLE: Why Nick Szabo Probably Isn’t Satoshi
+URL:   https://news.bitcoin.com/why-nick-szabo-probably-isnt-satoshi/
+
+Why Nick Szabo Probably Isn’t Satoshi
+
+Search online for ‘possible creators of Bitcoin’ and Bit Gold creator Nick Szabo will always appear near the top of the list. His long history in the cypherpunk space, his writings on money, digital cash, and smart contracts, and some facts about his past have often been used to create a compelling picture that he is Satoshi Nakamoto. But many of the facts are misinterpreted and actually point against this theory.
+
+Also Read: “I Designed Bitcoi… Gold” – The Many Facts Pointing to Nick Being Satoshi
+
+Why It Even Matters
+
+Bit Gold creator Nick Szabo is probably not Satoshi. He is not even one of the pretend Satoshis. He has said publicly several times that he is not the creator of Bitcoin. For years though, small-block bitcoiners have successfully used Szabo’s theoretical Satoshiness in the Bitcoin scaling debate to argue against changes to Bitcoin that would allow it to work better as fast, reliable digital cash.
+
+A Useful Talking Point
+
+During the 2017 Segwit2x fork, Litecoin creator and small-blocker Charlie Lee went as far as to use Szabo’s possible Satoshiness as an argument against an increase to BTC’s block size that would have prevented the spike in fees that occurred at the end of 2017, with the growth of forks like BCH and BSV, and helped push BTC into a two-year dark age in which adoption and price have stagnated.
+
+In my opinion, Nick Szabo is the closest we have to Satoshi, if not Satoshi himself. With Nick and all of Bitcoin Core devs against Segwit2x, why are people still pushing for this hardfork that will split the chain?
+
+More recently, small-blocker Dan Held shared what he said were similarities between Satoshi and Szabo to argue that Bitcoin was not intended primarily as a medium of exchange, but as a collectible and store of value.
+
+Satoshi even refers to the earlier use of Bitcoin being a “collectible” before SoV/MoE just like Nick Szabo.
+
+This is incorrect. Satoshi wrote he believed Bitcoin would bootstrap because it had utility and defined its earliest uses in an email on the Cryptography Mailing List as a utility token, not a collectible.
+
+As long as someone can theoretically imagine Szabo being Satoshi though, people will be able to use him to support arguments that might otherwise be discredited with Satoshi’s writing alone. Interestingly, there’s a remarkable amount of evidence against the Szabo-Satoshi theory. Let’s put it to rest by refuting three of the popular arguments.
+
+Why Szabo Probably Isn’t Satoshi
+
+Claim: Satoshi was a cypherpunk like Nick Szabo
+
+Nearly all the popular theories about the origins of Bitcoin place it firmly within the cypherpunk tradition of anarchist digital cash. The idea is that Satoshi was simply the end of a long road pioneered by cypherpunks like b-money creator Wei Dai and Nick Szabo, and that indeed because of this, Satoshi could even be Szabo. It isn’t totally baseless. In 2010, Satoshi wrote that Bitcoin is “an implementation of Wei Dai’s b-money … and Nick Szabo’s Bitgold proposal.” But there’s another explanation for this.
+
+Thanks to statements from cypherpunk Adam Back and emails from Wei Dai, we know that Satoshi was back-crediting and citation stuffing when he said this, and that before creating Bitcoin he was likely not even aware of the prominent earlier cypherpunk attempts to create digital cash like Nick Szabo would have been.
+
+It goes all the way back to around mid-2008, several months before Satoshi announced the whitepaper to the Cryptography Mailing List. Satoshi contacted Adam Back, who according to him suggested he contact b-money creator Wei Dai because the idea for Bitcoin sounded similar to Wei’s earlier proposal. Adam wrote that he believes it was he who got Wei Dai’s b-money reference added to Satoshi’s Bitcoin paper. In other words, Satoshi, unlike Szabo, was ignorant of b-money until Back told him about it and only added the citation to the whitepaper because Back told him about it.
+
+Back hasn’t released any emails, but we can confirm this conversation probably took place because Wei Dai has released the emails Satoshi sent him after communicating with Back.
+
+I’m getting ready to release a paper that expands on your ideas into a complete working system. Adam Back (hashcash.org) noticed the similarities and pointed me to your site. I need to find out the year of publication of your b-money page for the citation in my paper.
+
+Two things are important here. 1) Satoshi didn’t even know the date to the b-money paper, information which Szabo definitely would have had, and 2) his point that Bitcoin “expands on your ideas” clearly does not mean that Satoshi was literally influenced by b-money or aware of it before creating Bitcoin. He was simply giving credit to someone who independently had some similar ideas before him and spreading the word about his new project. Wei tells us as much himself.
+
+My understanding is that the creator of Bitcoin, who goes by the name Satoshi Nakamoto, didn’t even read my article before reinventing the idea himself. He learned about it afterward and credited me in his paper. So my connection with the project is quite limited.
+
+He also has said that “in Satoshi’s early emails to me he was apparently unaware of Nick Szabo’s ideas.” So much for the cypherpunk origin theory of Bitcoin and its relationship to b-money and Bit Gold. It looks like Satoshi just wanted to pad his work for credibility. Szabo might be a cypherpunk, but Satoshi doesn’t appear to have been one.
+
+Claim: Satoshi and Szabo share the same vision for Bitcoin
+
+As we saw earlier, Charlie Lee used the shared vision argument to justify his opposition to the Segwit 2x fork, but a look at the evidence shows Szabo and Satoshi say almost entirely opposite things about important parts of Bitcoin. Compare what Szabo wrote in 2018 about scaling Bitcoin for small payments to what Satoshi wrote 10 years before.
+
+Szabo: “I’ve always thought of Bitcoin as evolving into a settlements-and-large-payments layer that in the long term needed a layer 2 for consumer payments.”
+
+Satoshi: “[Micropayments] can become more practical if I implement client-only mode and the number of network nodes consolidates into a smaller number of professional server farms. Whatever size micropayments you need will eventually be practical. I think in 5 or 10 years, the bandwidth and storage will seem trivial.”
+
+While Satoshi expected Bitcoin to scale onchain according to Moore’s Law using large, professional server farms, Szabo says he has always believed that digital cash would require a base settlement layer and a second payment layer. Even 15 years before Satoshi published the Bitcoin whitepaper, Szabo explained on the Cypherpunk Mailing List a two-layer digital cash that is very different from Bitcoin: “accumulating credits/debits for use of on-line services (including travel services, concert tickets, etc. purchased on-line), eventually paid for by some “real” currency: FRNs, yen, etc. Implemented with Chaum-style protocol to prevent forgery and assure privacy.”
+
+Let’s look at two more quotes to be sure Satoshi and Szabo don’t agree.
+
+Szabo: “…we can have multiple protocol layers instead of separate kinds of physical objects. Bitcoin the settlement & large payments layer is the “gold”; layer 2s or 3s used for retail are the “silver” and “copper”, smaller but pegged to layer 1.”
+
+Satoshi: “Gold mining is a waste, but that waste is far less than the utility of having gold available as a medium of exchange. I think the case will be the same for Bitcoin. The utility of the exchanges made possible by Bitcoin will far exceed the cost of electricity used.”
+
+Satoshi and Szabo both refer to gold, but while Szabo called gold a settlement too, Satoshi specifically calls it a medium of exchange in his comparison to Bitcoin. In other words, Szabo thinks Bitcoin is for settlement while Satoshi thought Bitcoin was for payments. Szabo is a small-blocker, Satoshi was a big-blocker.
+
+Claim: Nick Szabo deliberately altered his blog to hide his tracks
+
+Did Szabo really alter a blog post about Bit Gold? He did. In 2008, Szabo dated a blog post from 2005 to December 2008, nearly two months after the Bitcoin whitepaper was released. Szabo-Satoshi theorists have jumped on this for years as the definitive smoking gun that proves Szabo was trying to mask his involvement in Bitcoin by making it appear he was working on Bit Gold at the same time Satoshi was releasing Bitcoin, but some searching shows this isn’t as scandalous as it appears. Szabo explained this in a post on August 20, 2008 announcing that he would be doing this so that he could bump his better articles to the front of the site as ‘reruns.’
+
+Unenumerated is going into reruns season. For the next few weeks I will be reposting the best articles from this blog. These will mostly be posts from previous years, so unless you have been a reader since the beginning or have read most of the archives many of these will be new to you.
+
+A web archive search of the 2006 article Wet code and dry shows he began changing dates to 2008 only a few days after the announcement, just like he said he would. Redating old posts so they appear at the top in the newsfeed is a well-known practice among bloggers and Nick redated several other posts in 2008 and 2009, including The Kula Ring, which was written in 2005 but now shows September 22nd as the date.
+
+There’s no smoking gun here, just a common blogging practice.
+
+Final Thoughts
+
+What we’re left with after all this is substantially more difficulty making the case Szabo is Satoshi. Satoshi doesn’t match up nearly as well with the cypherpunk origin myths that have been common for so long which are essential for the Szabo theory, his vision for scaling Bitcoin is the opposite of Szabo’s, and the popular smoking gun theory about Szabo’s blog turns out to be much ado about nothing.
+
+If Nick Szabo is Satoshi, he has done a remarkable job of leaving bread crumbs that point the opposite way. From what we know about Satoshi Nakamoto’s abilities, admittedly, that’s not entirely inconceivable.
+
+Who do you think is Satoshi? One person? Many? Let us know in the comments section below.
+
+Images credits: Shutterstock, fair use.
+
+Want to create your own secure cold storage paper wallet? Check our tools section. You can also enjoy the easiest way to buy Bitcoin online with us. Download your free Bitcoin wallet and head to our Purchase Bitcoin page where you can buy BCH and BTC securely.

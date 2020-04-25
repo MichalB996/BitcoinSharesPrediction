@@ -1,0 +1,57 @@
+DATE:  14.06.2019, 13:00:57
+TITLE: A Protocol for Issuing Tokens Launches on Bitcoin’s Lightning Network
+URL:   https://www.coindesk.com/startups-debut-first-protocol-for-issuing-tokens-via-bitcoins-lightning-network
+
+Many bitcoiners thought it would be a cold day in hell when BHB Network co-founder Giacomo Zucco admitted that all tokens aren’t inherently scams.
+
+But, as it turns out, all he needed were the right partners. What started as a client’s request for a more secure alternative to ethereum’s ERC-20 tokens will soon emerge as the first unique protocol for issuing tokens via bitcoin’s lightning network.
+
+A better token-minting protocol, Zucco said, could be a game changer for entrepreneurs.
+
+“If ethereum is going to die eventually, then we have very high hopes that this will be sustainable long term,” the notorious ethereum critic told CoinDesk.
+
+This open-source token project, called Spectrum, includes contributions from investors at Fulgur Ventures and Poseidon Group, startups such as Bitrefill and Chainside, as well as support from crypto exchange giant Bitfinex. The goal is to change the perception that bitcoin is too slow moving for experimentation.
+
+Indeed, Bitfinex CTO Paolo Ardoino said in a press release that he hopes to issue a Spectrum-compatible version of the tether stablecoin by the end of the year.
+
+“Bitfinex will continue supporting Lightning projects and features in our platforms,” Ardoino added.
+
+Spectrum, which uses the RGB colored coin standards anchored to bitcoin, allows people to issue tokens several layers above bitcoin’s base layer. This would complement, rather than compete with, sidechain tools like Blockstream’s Liquid, as well as efforts to enable cross-currency swaps with the lighting network.
+
+The fundamental difference here is that ethereum-based tokens bake complex logic, such as automated token distribution related to external factors, straight into the assets themselves via chunks of code called smart contracts.
+
+Gregory Rocco, a staffer at ethereum venture studio ConsenSys, told CoinDesk that colored coins never really took off because, compared to ethereum’s built-in support for complex functions, the former required external coordination for the tokens to “represent something” beyond simple units.
+
+On the other hand, a Spectrum-compatible RGB token will be more like an international socket converter connecting the token to the bitcoin blockchain via the lightning network, and also externally to software that automates functions similar to smart contracts. There’s still some abstraction, but some bitcoin advocates feel the security trade-offs are worth it.
+
+“If you want to do something with tokens, we think Layer 3 is the right place to put it,” Zucco said of his Spectrum solution. “With lightning now you can be competitive, fast, creative, reckless.”
+
+Federico Tenga, co-founder of the startup Chainside, told CoinDesk some of his consulting clients have already asked for bitcoin wallets that support such units for use cases such as equity tokenization.
+
+“Theoretically you could do anything you could do on ethereum,” Tenga said. “Some people may use RGB on Liquid, ideally, if the standard is adopted, it would be useful across different protocols, maybe even centralized databases. Even for atomic swaps, things like that.”
+
+Playing catch-up
+
+By expanding on the earlier work done by Blockstream developer Alekos Filini, Spectrum contributors are looking to provide a do-it-yourself bitcoin toolkit to enable the network effects that propelled ethereum’s popularity.
+
+After all, the reason DIY ERC-20 tokens became so popular is that all ethereum-based platforms and wallets were compatible with them. That made it easy for startups and hobby projects to distribute them with some level of liquidity. Along those lines, Spectrum will provide the first bitcoin-centric standard for tokens that can utilize the lightning network for near-instant transactions.
+
+Bitfinex will be the first to promote this protocol, via its new tether variant.
+
+Bitrefill CCO John Carvalho said he believes the subsequent snowball effect could turn the bitcoin ecosystem into a “playground where people are going to start doing things like they are trying to do on ethereum.”
+
+Since Bitrefill recently closed a $2 million seed round, Carvalho said his startup’s goal for 2019 is “to collaborate with more bitcoin businesses to grow the [lightning] network,” including the exploration of token use cases. To that end, Bitrefill is also hiring.
+
+On the other hand, Robert Paone, head of growth at the token exchange platform AirSwap, told CoinDesk it would take considerable work for a lightning-compatible token to compete with ERC-20 tokens. Scalar Capital cofounder Linda Xie agreed with Paone, saying Tenga’s wallet alone would hardly give the protocol an edge compared to all the exchanges and wallets that already support ethereum-based tokens.
+
+“The infrastructure around lightning is still not robust enough,” Paone said via email. “Lightning Network is still a bit complex and difficult to interact with, at least in comparison to the ease of using an ERC-20 with MetaMask, MyEtherWallet, etc.”
+
+Paone added:
+
+“Lightning is a long way off from being competitive against ERC-20.”
+
+Perhaps the weather in hell is merely lukewarm with a crisp breeze at this point. Despite a lingering distaste for token sales, BHB Network’s Zucco conceded that, as long as clients continue to seek help with token issuance, Spectrum could provide a useful conduit.
+
+“If we assume hyperbitcoinization, we assume many people will have a bitcoin wallet,” Zucco said, referring to the idea that bitcoin will become a dominant global currency. “You can leverage Spectrum because it is part of the logic stack you are already using.”
+
+Lightning image via Shutterstock

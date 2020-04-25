@@ -1,0 +1,21 @@
+DATE:  20.05.2019, 14:43:00
+TITLE: CoinGeek: The Mathematical Reality of Future Bitcoin Mining
+URL:   https://finance.yahoo.com/news/coingeek-mathematical-reality-future-bitcoin-144300187.html
+
+LONDON, May 20, 2019 /PRNewswire/ -- Block reward halvings will, by Bitcoin's design, occur about every 4 years. The BTC chain abandoned on-chain scaling and thus will never fit high transaction volumes into a block, and thus miners will never earn large amounts of transaction fees from a block. Given those dynamics, Wright wanted to demonstrate how upcoming block reward halvings would impact the economics of the BTC chain and revenue to BTC miners. The results show, in black and white, the lack of sustainability of BTC over the long haul.
+
+The Mathematical Reality of Future Bitcoin Mining (PRNewsfoto/CoinGeek) More
+
+Consider the fact that the BTC block reward is scheduled to halve to 6.25 coins in 2020, halve again to 3.125 coins in 2024 and to just over 1.5 coins by 2028. HODLer dogma says BTC miners will continue to expend their time, energy and cash because the value of each individual coin will skyrocket over the next nine years.
+
+States Wright, "Bitcoin (now back in the form of BSV) will see its block reward halve next year, just as Corecoin (BTC). Let's investigate the premise of constant increasing of Bitcoin's price value and see where that gets us. We'll assume the constant call for BTC to reach a value of USD $100,000 USD. Except I'm going to be realistic and do calculations based upon BTC going up in value incrementally in real terms, rather than just magically jumping up to higher amounts. The reality is that BTC won't even get to $100,000. If you start looking at the calculations, the block reward halvings mean that the BTC chain will need $20 fees or more for every individual transaction in order for mining revenue to remain sustainable. It never becomes viable." He is able to demonstrate this easily through the maths:
+
+Even assuming individual coin value reaches $61,440 by 2028, the actual returns from the block rewards will continue to shrink, forcing miners to make up this shortfall by increasing the amount of individual transaction fees because there will not be enough transactions in each block. But given how few transactions (at most 1,800) can be fit into a small BTC block, even having $20 transaction fees will not be enough to keep mining profitable as the block reward halves and halves again.
+
+As Wright's insight reveals, there is a lot more going on behind the scenes of Bitcoin's design that only those with a solid grasp on economic theory and financial markets can understand—it's not difficult to assess that most crypto developers do not fit in either of these categories.
+
+Explains Wright, "In the next 10 years, bitcoin will not replace all global money. To do that, it first of all needs to be the only form of electronic cash. It would need to replace all government systems. It won't. The reality is we could expect … by 2030 [is that Bitcoin represents] 1/3 of global money. Let's round up to 2 trillion worth of total value for bitcoin and round up the number of mined bitcoins to 20 million. That means Bitcoin must reach a value $100,000 per coin. To achieve that, bitcoin needs to be 33% of global cash."
+
+For this to happen, the solution requires massively increasing transaction volume on the Bitcoin network, and that requires massive scaling. Terabyte blocks will be needed and this is where BTC is going to fail. BTC developers have already made it clear that bigger blocks are not in their plans and have tried to assert that they're not feasible, even though Bitcoin SV has already proven this wrong. On-chain scaling is a vital and necessary component to sustain mining profitability, and thus sustain the health of the blockchain.
+
+Story continues

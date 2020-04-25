@@ -1,0 +1,27 @@
+DATE:  23.04.2019, 18:16:43
+TITLE: Lightning Labs Launches Desktop App on Bitcoin Mainnet
+URL:   https://www.coindesk.com/lightning-labs-launches-desktop-app-on-bitcoin-mainnet
+
+Lightning Labs, one of the largest bitcoin companies behind the upcoming scaling technology lightning, has released its first desktop app on the bitcoin blockchain.
+
+Previously the desktop app worked for bitcoin’s testnet — think fake bitcoins used to try out programs — but this is the first time the app will work on bitcoin mainnet, meaning users can use it to send and receive real money. Notably, the app is “non-custodial” meaning that users have control over their bitcoin.
+
+Authored by Lightning Labs developers Tankred Hase and Valentine Wallace, the blog post announcing the new app explains:
+
+“Driving this release is a complete commitment to scaling the principles that Bitcoin was built on: privacy, security, and self-determination. For that we need to go beyond custodial solutions and enthusiast guides and deliver a great user experience for everyone.”
+
+Other apps work with real bitcoin today, including Bluewallet, Zap, and Zeus. But Lightning Labs, originally started by lightning’s creators, is perhaps the largest company to release a bitcoin mainnet app so far.
+
+The app works on MacOS, Windows, and Linux devices.
+
+Developers revealing the app are quick to note that although this is a mainnet app, it’s still made for “advanced users” who want to test out the budding technology. There’s still a risk of losing money when sending it on what remains an unfinished technology.
+
+The other big part of the release is that behind the scenes the desktop incorporates “Neutrino,” a “light client” technology which requires users to download much less of the bitcoin blockchain in order to verify transactions are real. Though other light client technologies exist, Neutrino is more private. (Though, some developers have been known to argue about the protocol’s drawbacks.)
+
+Looking ahead, Lightning Labs is eyeballing a release on mobile devices in the future.
+
+The blog post explains that Lightning Labs has plans to move into mobile devices soon as well.
+
+“[The release] also represents an important stepping stone towards mobile while we continue to invest in performance and stability,” Hase and Wallace wrote. “We’re working as quickly as we can to get our mainnet iOS and Android apps out soon.”
+
+Lightning strike over city image via Shutterstock

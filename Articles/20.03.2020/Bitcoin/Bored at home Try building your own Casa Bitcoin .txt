@@ -1,0 +1,17 @@
+DATE:  20.03.2020, 15:46:04
+TITLE: Bored at home? Try building your own Casa Bitcoin node
+URL:   https://decrypt.co/23091/bored-building-casa-bitcoin-node
+
+Earlier this year, Casa announced that it would no longer build its own Bitcoin hardware nodes so that it could fully focus on its Keymaster Bitcoin multisig solution.
+
+Still want a Casa Node? Build one yourself. As a potentially perfect DIY project for any tech-savvy crypto enthusiast cooped up at home amidst the coronavirus (COVID-19) pandemic, Casa has released comprehensive instructions for building your own node.
+
+With a Casa Node, you’ll be able to run a full Bitcoin and Lightning node with an interface designed to be user-friendly. Getting there looks to be a fairly lengthy process, but Casa’s tutorial is robust and full of videos and diagrams, hopefully taking any confusion and aimless experimentation out of the process.
+
+You’ll need a USB keyboard, a monitor with HDMI input, a router, and a small/mini/precision Phillips head screwdriver handy. Assembling the inside of the node requires a Raspberry Pi 4 computer, fan shim, microSD card, microSD USB adapter, Ethernet cable, and MicroHDMI adapter.
+
+When it comes to cases, you have a couple of options: a Geekworm case or a Casa-branded case from CryptoCloaks. Each needs a power adapter and a SSD drive, as specified in the instructions, while the former case also requires a hard drive expansion board.
+
+Casa pegs the total cost of components at between $250-300 depending on selected options, although you may need to hunt around for a couple of them: Some of Casa’s provided Amazon links point to sold-out products, perhaps due to these newly shared instructions.
+
+If you’ve ever wanted to run your own Bitcoin node, this could be an ideal way to get started. And even if you haven’t, this might be a compelling way to make the most of our current social-distancing predicament and maybe learn something new in the process.

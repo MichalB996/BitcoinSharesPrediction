@@ -1,0 +1,77 @@
+DATE:  08.05.2019, 07:00:42
+TITLE: Staking, Ethereum’s Mining Alternative, Will Be Profitable – But Barely
+URL:   https://www.coindesk.com/staking-ethereums-mining-alternative-will-be-profitable-but-barely
+
+The Takeaway
+
+Ethereum is soon to abandon bitcoin-style proof-of-work (PoW) mining in favor of a long-in-development alternative system called proof-of-stake (PoS), but the economics are still being worked out.
+
+Under a proposal by creator Vitalik Buterin, computer operators who validate transactions would be able to earn 5 percent annual on a minimum 32 ETH (~$5,500) investment, or roughly $260, at present prices.
+
+The profitability of computer operators who validate transactions is deemed by some analysts to favor those who run their own hardware as opposed to relying on cloud services.
+
+Computer operators helping to validate transactions in a forthcoming version of ethereum – dubbed ethereum 2.0 – will see positive returns on their investment but not much, according to new data.
+
+According to newly proposed numbers by ethereum creator Vitalik Buterin, validators – which are what miners are called in ethereum 2.0 – are projected to earn around 5 percent annually on their 32 ether (ETH) investment. At present ether prices, this would be an annual return of roughly $260.
+
+However, factor in hardware, electricity and other additional overhead costs of running a validator on ethereum 2.0 and the annual profit margin drops down to roughly $41 or a net yield of 0.80 percent. Assuming ether prices at $160, under the old issuance schedule, the net yield would have been -1.87 percent, according to global token strategist for Consensys Collin Myers.
+
+“When you include the expenses of running your own machine in your own home, the net yield is 0.80 [percent],” said Myers to CoinDesk. “So, it’s low but it’s positive compared to the last time it was not positive.”
+
+Validators under a different reward issuance schedule proposed as recently as two weeks ago would have only turned over a profit if they were the first 300,000 or so in the network to stake their tokens. This is because ethereum 2.0’s code would attempt to dynamically incentivize the number of people staking their ether and taper reward issuance as more ether is staked.
+
+Now, under the new issuance schedule, the first one million validators will turn over a profit on their investment. This, according to director of Consensys Capital Tanner Hoban, is a significant improvement to the anticipated design of ethereum 2.0. “I think it provides stronger security for the network and I think it enables more confidence in the network,” said Hoban to CoinDesk.
+
+Founder of ethereum information site ETHHub Eric Conner told CoinDesk:
+
+“I think we’ve hit that sweet spot between security and making sure we hold on to ether being a store of value and being programmable money and not over-issuing.”
+
+Favoring ‘true decentralization’
+
+It’s important to note that the above estimates of the ethereum 2.0 reward issuance schedule are for a single validator run on independently owned computer devices. One user can actually run multiple computers as validators on the new ethereum network each with a minimum stake of 32 ETH.
+
+Myers notes that users may also choose to stake their wealth and run validators using cloud service providers as opposed to running their own hardware and bypass any costs associated with machinery upkeep.
+
+“Let’s say you’re a digital nomad and you want to stake 32 ETH on your own,” explained Myers. So, through your laptop you would get an Amazon Web Services account and then you would host your ETH through them as your cloud provider instead of using your own machine.”
+
+Doing this is less costly for a user upfront and decidedly more mobile. However, Myers in his calculations found that over a year’s time with cloud service costs being at least $80 per month (if not more), a user validating blocks and transactions on the ethereum 2.0 network would make an annual profit of -$783 and a net yield of -15.30 percent.
+
+Snapshot of validator returns on ethereum 2.0 using cloud services. Courtesy of Collin Myers.
+
+It’s a “massive difference” to running validation on your own hardware versus cloud services, said Myers. “But I actually think it makes sense.”
+
+Myers told CoinDesk:
+
+“You want to be promoting people to do it in their own home. What that says is this model favors true decentralization which is a human being running machines in their own home instead of relying on someone else to do it for them.”
+
+And even if profit is a net negative, Myers argues that some validators on the ethereum 2.0 network will still stake for two reasons. First, “because they believe in a decentralized future even if it’s unprofitable for them. They anticipate making it into a reality.”
+
+“Answer number two are those who believe in ethereum just as much but are a little bit more rational,” explained Myers. “They’ll say, ‘Look, I believe in ethereum. I believe in the long-term potential for it…I do believe the token will increase substantially in value in the future. So I’m okay with losing [money] to accumulate X amount of tokens.”
+
+‘Trending’ in the right direction
+
+Overall, Eric Conner from ETHHub expects that with ethereum 2.0 blockchain security will be much cheaper to secure than is currently the case.
+
+“We’re creating like 4.8 million ether a year to pay miners so it’s a lot higher security budget but proof-of-stake introduces a new paradigm there,” said Conner to CoinDesk. In comparison, the ethereum 2.0 protocol would issue just under 100,000 ETH annually, assuming 30 million ETH were staked on the network
+
+Conner explained:
+
+“The reason for that is there’s different styles of attack…There’s very different attack vectors in proof-of-stake. One of the major benefits of ethereum 2.0 proof-of-stake is that if there’s a bad actor, their [staked] ether can be slashed. So people obviously don’t want to burn any amount of value.”
+
+Conner suspects that with the “sweet spot” between network security and validator profitability having been met with the new reward issuance schedule, ethereum researchers and developers will begin focusing on state transitions.
+
+“The still open discussions that are out there that aren’t finalized are outside issuance like how the state is going to be transitioned from ethereum 1.0 to 2.0,” said Conner. “There’s been some discussions around trying to migrate ether from the 1.0 to 2.0 chain like in Phase Zero, is it going to be a one-way or two-way bridge?”
+
+Phase Zero is the first phase of ethereum 2.0 rollout where a new proof-of-stake blockchain known as the “beacon chain” will be launched. The code for Phase Zero which includes the new reward issuance plan, scheduled to be finalized by June 30, and in Conner’s best estimations, activated on mainnet sometime in Q1 of 2020.
+
+To this, Anthony Sassano also working on ETHHub with Conner added during an ethereum community call Wednesday that in his view lingering questions over reward issuance schedule on ethereum 2.0 simply won’t find answers until the beacon chain goes live.
+
+“I think we’re going to have a very diverse set of people that will be staking and that’s why the rewards are variable as well,” said Sassano during the call. “We might only get five million staked [on the network] at the start, maybe we get ten million…but I don’t think we’re going to have answers to this until the chain actually goes live and not just live but also some kind economic activity happening on ethereum 2.0.”
+
+Ultimately both Conner and Myers expressed their satisfaction that the plan, while not finalized, has been “done in a decentralized manner,” in the spirit of the project as a whole.
+
+Myers concluded:
+
+“I have enjoyed the increased focus on economics versus security and how we find that equilibrium. Overall, we are trending in the correct direction on all elements of the ethereum ecosystem.”
+
+Ether, bitcoin image via Shutterstock

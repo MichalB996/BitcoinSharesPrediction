@@ -1,0 +1,47 @@
+DATE:  24.02.2020, 13:00:00
+TITLE: How to Protect Bitcoin for Your Heirs With the Push of a ‘Dead Man’s Button’
+URL:   https://www.coindesk.com/how-to-protect-bitcoin-for-your-heirs-with-the-push-of-a-dead-mans-button
+
+What happens to your bitcoin after you die?
+
+This is more than just a philosophical question: It could involve a substantial amount of currency.
+
+The question of crypto and the Great Beyond is what prompted about 20 or so developers to get together in London recently to experiment with repurposing the current lightning protocol to send private messages as a “dead man's button,” a system that can't be censored and would keep your crypto safe for your heirs.
+
+Lightning Labs infrastructure engineer Joost Jager has been exploring using lightning for messaging over the past year. At the Advancing Bitcoin conference in London, Jager hosted a workshop to explore building a dead man's button with lightning. The mission was to show that lightning can be used as messaging system as well as a payment network.
+
+These buttons are not new. At the workshop, Jager noted Edward Snowden, the National Security Agency whistleblower, used one in case he died before journalists could reveal the contents of the documents he wanted to make public.
+
+The goal of the workshop was to explore one of lightning’s relatively new features, "keysend" (formerly known as spontaneous payments). It’s so experimental it isn't even described in the lightning specifications yet. But it does offer a way to send data (called "custom records" in LND, the lightning implementation Jager works on) along with a transaction.
+
+Here’s how it might work: Imagine a user who wants to pass on a bitcoin (BTC) inheritance. That user would communicate with a "service," pushing a "button" that would send a message every week or so to signify that the user is still alive.
+
+If the button isn't pressed one week, it is assumed the bitcoin user is dead or incapacitated and it's time for the bitcoin to be passed on, at which point the service automatically dispenses a "secret," which can be used to retrieve the crypto.
+
+Beyond that, Jager thought some additional features should be added, even if they could make the program trickier to implement. The program should maintain the privacy of the sender and the receiver, he said, and should allow the sender to get proof the service still has the secret.
+
+Developers split into small groups to think about how to build a service that would meet all of these and other goals. The workshop developers came up with some ideas, which Jager published to GitHub. He included a rough implementation, which puts several of the ideas into practice, though he said the code "is extremely limited and does not implement everything described."
+
+This design isn't necessarily the best way forward, Jager said, but it's a proof of concept he hopes can inspire other implementations.
+
+Imagination versus loss
+
+Jager told CoinDesk the "primary" reason he chose the dead man's button for the workshop was it is complex enough of a use case that it can show off what lightning can do as a messaging system.
+
+But he also thinks a dead man's button could be a real use case for lightning down the road.
+
+"Many people try to arrange their crypto inheritance and need to make up their minds about who they trust. This could be an alternative, assuming that wrinkles are ironed out and the whole process is hidden underneath a user-friendly shell," he said. This is "unlikely to happen short term, but I hope people see the possibilities."
+
+Lawyer Pamela Morgan, an expert on crypto inheritance and author of a book dedicated to helping people develop a plan to pass on their crypto, agrees with Jager the technology is far from ready. But she said she would not encourage users to put any money into any experimental dead man's button systems just yet.
+
+"Dead man's switches are fun projects that excite our imaginations but fail to solve the complex and multidisciplinary challenges of crypto asset inheritance distribution. Relying on such solutions for something as important as inheritance is likely to cause catastrophic loss," she told CoinDesk.
+
+However, she said the technology has promise. Since few crypto enthusiasts have any sort of a plan for what to do with their currencies after they are gone, she's happy to see people exploring ways to make crypto inheritance a more common practice.
+
+"If adding a dead man's switch makes more people actually do inheritance planning for their bitcoin, then I'm all for it because so few people actually do anything," she told CoinDesk.
+
+In the meantime, Jager is pressing on with beefing up lightning's messaging system to make it easier to send messages across the network.
+
+
+
+Correction (Feb. 24, 22:52 UTC): This article has been updated to clarify the intent of the workshop.

@@ -1,0 +1,81 @@
+DATE:  19.02.2020, 09:00:00
+TITLE: Bitcoin Coders Confront an Old Quandary: How to Upgrade an Entire Network
+URL:   https://www.coindesk.com/bitcoin-coders-confront-an-old-quandary-how-to-upgrade-an-entire-network
+
+An old debate is resurfacing in the bitcoin developer community, underscoring one of the critical challenges facing decentralized systems: how to update the software when ostensibly no one's in charge.
+
+The catalyst this time is called Taproot/Schnorr, a years-in-the-making privacy and scaling upgrade that's seen exciting progress recently, especially now that the code in the form of a "pull request" is being reviewed and tested, bringing a change first discussed years ago closer to reality.
+
+The code change itself isn't controversial among developers so far. What is up for discussion is the best way to activate the change, making it finally possible to send bitcoin (BTC) transactions in this new way.
+
+At the heart of why there's a question about this at all is that bitcoin has no leader and is distributed across the globe. How does the whole network smoothly upgrade in a way that's backward-compatible, allowing those with older versions of the software to continue participating? What's the best way for bitcoin to make this type of change without disruption?
+
+To be clear: bitcoin's code is updated almost every day by the open-source project's global web of developers. But "consensus" code changes, which strike at a deeper part of bitcoin, require a "soft fork," which in turn requires a certain amount of coordination to go through smoothly.
+
+"There are a series of soft-fork designs which have recently been making good progress towards implementation and future adoption. However, for various reasons, activation methods ... have gotten limited discussion," Bitcoin Core contributor Matt Corallo wrote in an email to the bitcoin developers' list last month that reopened the debate.
+
+There are two main options for enacting a soft fork. One option, Bitcoin Improvement Proposal (BIP) 9, has been used for a few soft forks in the past. It ensures the miners are prepared in advance of a soft fork, to make sure a change smoothly ripples throughout the network. A common objection to this approach is that it gives miners too much power.
+
+Alternatively, there's BIP 8, also known as the user-activated soft fork (UASF), which activates regardless of whether miners signal they are ready or not. Depending on execution, this approach could cause other problems, Corallo cautioned.
+
+History lesson
+
+The discussion started in 2017, when BIP 9 was used to activate Segregated Witness, or SegWit, a change integral to bitcoin's great scaling debate. To protect miners from mining invalid blocks and losing money, SegWit would not activate until 95 percent of miners raised a flag showing they were ready.
+
+The majority of mining pools (groups of miners who combine their computational power on the network) declared they would not back SegWit – essentially vetoing it – unless it was paired with an increase in the block size parameter. (Bitcoin's mysterious creator had set the ceiling at 1 megabyte, limiting the number of transactions that could be stuffed into blocks, which are published every 10 minutes or so.)
+
+This was a controversial demand that many believed could lead to the centralization of the network (and couldn't be executed successfully unless bitcoin were centralized, anyway).
+
+Long story short, the incident showed mining pools could use the 95 percent threshold to extract other changes instead of the intended purpose: to help them ease into the change so they wouldn't lose money.
+
+Many bitcoiners did not like this, seeing it as miners trying to use their power to push through a change not all users wanted.
+
+As this debate raged on, a mysterious developer going by the handle Shaolinfry pointed out that bitcoiners could still make the upgrade. The root of the idea is that bitcoin users and exchanges should decide whether a change should go through, and miners would follow their desires – not the other way around. This method had been used to activate other bitcoin changes. Shaolinfy formalized this idea in BIP 8, otherwise known as a UASF.
+
+A large swath of users loudly declared support for the SegWit UASF on social media and began running the software. This seemed to have the desired effect. Before the day the UASF would activate, miners started flagging support for SegWit.
+
+Notably, there were a couple of flavors of UASF circulating during this tumultuous time, one more cautious (and more conservatively timed) and less controversial than the other. But without getting into the weeds, the takeaway for some bitcoin developers was that UASF was a better way to enact changes.
+
+At the time, Rusty Russell, a developer at bitcoin startup Blockstream, went as far as to apologize for playing a part in constructing BIP 9.
+
+"I hadn’t expected that this checkpoint would be used as a chokepoint to ransom the network. This significantly changes the risk model; BIP-8 is now a far superior method for network upgrades, where miners can only accelerate the process, not block it," he wrote in a Medium post.
+
+Long memories
+
+Remembering all this drama, some developers are wary about using BIP 9 again for Schnorr/Taproot, or other future changes.
+
+"I think BIP 9 is a proven failure," said Bitcoin Core developer Luke Dashjr, responding to Corallo, going on to provide technical reasons for his objection. During the scaling debate, Dashjr was one of the most vociferous proponents of a UASF to push SegWit through.
+
+Alex Bosworth, a developer at startup Lightning Labs, expressed a similar opinion, based partly on recent drama surrounding bitcoin cash (BCH), a smaller cryptocurrency that split off from bitcoin in 2017.
+
+A sizable group of bitcoin cash mining pools recently proposed that some BCH from each new block should go to a development fund, which Bosworth sees as another example of mining pools flexing their muscles in a way that's bad for cryptocurrency decentralization.
+
+"I know that common thinking for soft fork deployment is to attempt the traditional friendly-miner method. But a good [one third] of our current hashrate has just organized into a cartel for the purposes of censorship to steal coin subsidy," tweeted Bosworth, who works on infrastructure for the speedy and scalable lightning network.
+
+That's why he supports a UASF method, though one with a longer time horizon.
+
+"A slow-burn UASF feels most appropriate to me," he added.
+
+Synthesis
+
+But some, urging caution, worry that looking to UASFs as the sole activation method could open the possibility of pushing through changes that could hurt bitcoin.
+
+For example, one reason developers initially liked BIP 9 is the 95 percent threshold could provide a sort of safety net. If a problem came to light while mining pools were working to upgrade their software, then pools could stop the change. It's tougher to stop a UASF activation once initiated.
+
+That's why Corallo re-proposed an old idea, something of a mixture of BIP 8 and BIP 9. The soft fork would start with BIP 9. Then, if it failed over the course of a year due to "unreasonable objections," users could debate and regroup over a period of six months. After that, if the change is definitely something the community wants, they can try BIP 8 over the period of another year.
+
+Some developers might argue this time period is too long for a change with no "unreasonable objections." But Corallo urged patience.
+
+
+
+Finding out whether the objections really are "unreasonable" could take some time. "In the case that it does fail, BIP 9 process, in fact, provides a good learning opportunity as to the level of community readiness and desire for a given change," he said.
+
+"Developing bitcoin is not a race. If we have to, waiting 42 months ensures we're not setting a negative precedent that we'll come to regret as bitcoin continues to grow," he said. Readers can read Corallo's full reasoning as well as many of the nuanced responses from developers here.
+
+And while Russell seemed quite against BIP 9 in 2017, he told CoinDesk he now agrees with this hybrid approach.
+
+"Since the miners' attempt to block changes didn't work, and we didn't suffer greatly from the delay, I don't mind BIP-9 activation," he said. But he proposed a shorter timeline than Corallo.
+
+"Perhaps the one-year BIP-9 timeout is too long, and a six-month expiry would be preferable. That way, users can organize a UASF if the BIP-9 activation fails and they feel it is due to miner obstructionism," Russell said.
+
+Engineers are painstakingly reviewing the proposed Taproot/Schnorr code to fix any lingering problems. So there's still time for developers to discuss activation options. But the community will need to decide on something before the change can be added to bitcoin, building more privacy into the network.

@@ -1,0 +1,55 @@
+DATE:  03.12.2019, 15:45:49
+TITLE: The Darknet Just Had One of Its Wildest Months Yet
+URL:   https://news.bitcoin.com/the-darknet-just-had-one-of-its-wildest-months-yet/
+
+The Darknet Just Had One of Its Wildest Months Yet
+
+Darknet marketplaces exist on a constant knife edge, never more than an exit scam, LE bust, or DDoS away from going down. Even by their usual frenetic standards, though, November was quite a month for DNMs, with high drama and intrigue aplenty. Despite a number of marketplaces disappearing off the map, a new study shows the ecosystem to be stronger than ever.
+
+Also read: John McAfee Weighs in on Maximalism, Epstein’s Death, and ‘the Greatest Gift Since Fire’
+
+The Darknet Will Not Be Downed
+
+“The drug market has become increasingly digitally enabled. Drugs purchased online can be transported across Europe and delivered to consumers by post and parcel services.” So reads the forward to the latest EU Drug Markets Report released by Europol last week. The 260-page report makes for heavy bedtime reading, but darknet vendors eager to optimize their opsec will find useful clues in there on how to frustrate law enforcement. As the report acknowledges:
+
+There are notable challenges in identifying postal items containing drugs. For example, the total volume handled every day by a major postal centre such as the Mail Centre Vienna amounts to 4 million items. Furthermore, there is currently no mechanism in place for the reporting of suspicious parcels akin, for example, to the existing one for reporting suspicious financial transactions. Although systems are in place for service providers to remove and destroy suspicious parcels, they do not have a legal obligation to inform police authorities.
+
+As an indication of the quantity of drugs moving through the mail each day, the report notes that “Since August 2016, about 8,500 postal items containing illicit drugs have been identified at international airports across Germany, amounting to a total of 404 kg of illicit drugs (287 kg amphetamine and 111 kg MDMA, as well as cocaine and cannabis) and 307 250 MDMA/ecstasy tablets.”
+
+While Europol was applying the finishing touches to its painstakingly researched report, the darknet was undergoing one of its most turbulent months to date. The following rundown records November’s key DNM talking points.
+
+Double-Crossing and DDoSing on the Darknet
+
+Nov 4: Silk Road admin and drug dealer turned informant Curtis Green receives his first restitution check from jailed fed turned criminal Carl Mark Force.
+
+Wow, look what i just got in the mail. Carl mark Forces first if many restitution checks to me. he owes me thousands and I get a check for 25 dollars? He does only make 12 cents an hour.. If it wasnt so sad, id laugh. but hey, i cam buy lunch now. #freeross pic.twitter.com/Zcv2DlHSGQ — Curtis Green (@ilovepoker) November 4, 2019
+
+Nov 14: Cryptonia, one of the most popular DNMs goes down. At the time of writing, three weeks on, it is still offline, despite an admin promising that it will return and that users will receive the funds they are due. It’s believed to be gone for good.
+
+Nov 15: Dread, the darknet’s main forum for all things DNM-related, goes offline and stays down for the next 10 days.
+
+Nov 22: The Independent discovers that DNM vendors are offering Black Friday deals, seemingly unaware that this has been a thing since the Silk Road days.
+
+Nov 22: Data scientist Andrea Baronchelli shares “Collective Dynamics of Dark Web Marketplaces.” The report analyzes “24 episodes of unexpected market closure through a novel datasets of 133 million Bitcoin transactions involving 31 dark markets and their users, totalling 4 billion USD.” It found that “coordinated user migration from the closed market to coexisting markets guarantees overall systemic resilience beyond the intrinsic fragility of individual markets. The migration is swift, efficient and common to all market closures.” The hydra theory is true it would seem: lop off one darknet market and two will spring up to replace it.
+
+Nov 23: Nightmare market is hacked, and its homepage defaced to display the dox of a Belarusian said to be a former admin of the site. The site exit scammed four months earlier, with the hack the final act of the crippled DNM’s long goodbye.
+
+Nov 25: An admin for Grey Market, one of the smaller DNMs, claims that their computers were seized by LE and that anyone who used the market in the past week is compromised. Whatever the case may be, Grey Market is still online at press time.
+
+Nov 25: Dread returns to the darknet, with admin Hugbunter explaining in a PGP signed message the technical reasons for its lengthy downtime. He also notes that someone claiming to be the FBI asked them to “place a ban on opiate related posts on the site, following a case of a 15 year old who overdosed on fake oxys laced with fent.” A couple of days later, the feds sign their own PGP message claiming that it wasn’t them that asked for fentanyl discussions to be purged. Curiouser and curiouser.
+
+Nov 26: Darknet monitoring site Dark.fail reveals that 8chan successor 8kun’s Tor hidden service has remained online despite its clearnet site being DDoSed. Darknet markets haven’t been so fortunate, with Point/Tochka in particular spending days at a time offline. At the time of publication, the popular DNM and its Github repository have been down for a week. The site has been frequently offline all year, with DDoS attacks to blame. When Dread returned to life two days earlier, citing DDoS attacks, its admin wrote “If any of the attacks were to be LE, I’d put a bet on this one.” Could feds be behind Point’s hiatus as well?
+
+Law enforcement's April takedown of Wall St. cryptomarket was very effective at igniting a year of chaos in the darknet. Four major markets disappeared in the seven months following: Nightmare, Berlusconi, Samsara, now Cryptonia. Only Berlusconi's arrest is confirmed. — dark.fail (@DarkDotFail) November 25, 2019
+
+3 Down, 30 to Go
+
+In total, three darknet markets disappeared in November: Berlusconi, Samsara, and Cryptonia. Despite this coup for law enforcement, these DNMs were merely the tip of the iceberg: with another 30-odd sites listed on dark.fail, there’s still plenty of places for cryptocurrency users to acquire their wares. At present, Empire Market appears to be soaking up most of the business, just as it has been all year.
+
+Darknet markets are interlinked with bitcoin because BTC remains the most popular means of paying for goods and services on them. There’s another reason, though, why the two have synergies: the distributed design of DNMs gives them a utility akin to that of Bitcoin nodes. If one market disappears, or is found to be acting dishonestly, users will bypass it and route their business through the honest majority. In this manner, DNMs have proven incredibly resilient. Individually, each one is centralized, but collectively they form a decentralized market whose uptime since 2011 has rivaled Bitcoin itself.
+
+Do you think the latest darknet market closures will affect supply, or will new DNMs appear to replace them? Let us know in the comments section below.
+
+Images courtesy of Shutterstock and Europol.
+
+Did you know you can verify any unconfirmed Bitcoin transaction with our Bitcoin Block Explorer tool? Simply complete a Bitcoin address search to view it on the blockchain. Plus, visit our Bitcoin Charts to see what’s happening in the industry.

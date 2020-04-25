@@ -1,0 +1,47 @@
+DATE:  22.10.2019, 02:00:32
+TITLE: Running Bitcoin Cash: An Introduction to Operating a Full Node
+URL:   https://news.bitcoin.com/running-bitcoin-cash-an-introduction-to-operating-a-full-node/
+
+Running Bitcoin Cash: An Introduction to Operating a Full Node
+
+Setting up a Bitcoin Cash node is a fairly easy task for someone who wants to contribute to the decentralized ecosystem. There are various ways you can run a node whether it’s on a cloud, on a local machine or by leveraging a small single-board computer. The following is a simple introduction for anyone who wants to set up a full node implementation.
+
+Also Read: The Fed Plans to Inject $60 Billion per Month Into the Economy
+
+The Required Elements Needed to Run Bitcoin Cash
+
+During the last two years, the Bitcoin Cash (BCH) environment has grown robust and there are quite a few different full node clients. A full node can be any computer that connects to the BCH network by downloading the entire history of the blockchain. Full nodes watch the network to ensure all the consensus rules are being followed and they also offer noncustodial and privacy advantages. At the time of writing, according to Coin Dance there are 1,681 public nodes that can be seen running the BCH network. There are also full nodes running BCH that choose to remain out of sight from the public view. Coin Dance counts six different full node clients in Bitcoin ABC, Bitcoin Unlimited, BCHD, Flowee, XT, Bitcoin Verde, Bitprim, and three other unknown variations.
+
+To get started you need to download the software and sync the full node by also downloading the existing chain data. For our example, we used the latest Bitcoin ABC version 0.20.4, which can be found here. Users can download any type of BCH full node implementation they want to run and basically follow the same steps. Before you start, there are three methods that can be used to install and run your own BCH node. The first one would be running a node using a cloud service like Google Cloud or Amazon. You need to create a virtual machine (VM) and configure everything through that specific operating system.
+
+After downloading the software, you will need to apply the correct port settings and also make sure you have enough storage space and bandwidth. Port TCP/8333 is the port generally used to connect with Bitcoin Cash. If you choose the cloud route, keep in mind that you are using a centralized server which makes you dependent on their services. Another option is using your desktop or laptop if it has enough speed and enough storage to host the entire BCH blockchain. Today the Bitcoin Cash blockchain is around 134 Gigabytes (GB) in size so you will need at least that amount plus some extra capacity for further syncing.
+
+Hosting a full node using a local machine is just as easy to set up, but it’s good to make sure your computer won’t be bogged down. A computer with around 2GB of RAM with an internet connection of around 50 kilobytes per second (Kbps) or more will be sufficient. Because the BCH chain is so large in size, it may take a few days to get the entire network synced up on your device. Following the first sync, subsequent syncs will take far less time depending on how often you sync or keep the node online. The last method you can choose when building your first full node is with a single-board computer like a Raspberry Pi. Of course, the Raspberry Pi will also need a 50 Kbps internet connection and enough storage space attached to hold the current chain size and then some (300-500GB is sufficient). There are a few companies that produce plug-n-play full nodes in a box that do the same thing as a homemade Raspberry Pi kit. Usually, these pre-built kits are more pricey than building your own node, but once you get one in the mail you can sync up in no time without any hassle.
+
+In order to download and operate a Bitcoin Cash client you will need:
+
+Time: it will take several days to download the entire blockchain.
+
+A computer: any computer that runs Windows, OSX, or Linux.
+
+Storage space: around 200 GB of initial space for the first sync and another 200 GB of free space for following syncs.
+
+Reliable internet: an internet connection that offers a dependable broadband service with speeds of at least 50 kilobytes per second.
+
+Unlimited connection services: a full node will need to be able to operate without exceeding upload limits.
+
+A constant connection: at the very least a node should run for roughly eight hours a day or non-stop.
+
+Again, you can choose to download another full node client instead of Bitcoin ABC and follow the same process. Bitcoin ABC is written in C++ and is the most popular client with 934 nodes at the time of writing. Bitcoin Unlimited (BU) is a fork of the Bitcoin Core reference client written in C++ as well. Similarly to the ABC version, BU features an adjustable blocksize cap and other concepts like emergent consensus and Xthin blocks. Bitcoin Verde is a complete full node, block explorer and library built from the ground up. BCHD is an alternative full node bitcoin cash client written in Go (golang). Flowee the Hub is another alternative implementation of the BCH network that includes features like libsecp256k1, adjustable blocksize cap, and Xthin blocks. Bitprim’s creators consider its software client to be a high-performance Satoshi implementation focused on user flexibility. All of them need the basic requirements which include a reliable internet connection, storage space, and time.
+
+The Benefits of Maintaining a Bitcoin Cash Full Node
+
+Running a full node is not hard, and with a cloud account, a local machine or a simple Raspberry Pi 3 starter kit with some storage space anyone can get one going. Building a low-end single-board computer system with an HDMI cable, screen, keyboard, and mouse can cost around $150-250 depending on the quality of equipment used. You have to consider the operational costs involved with running a BCH node too, which will always require a reliable internet connection. Beyond the cost, you will be helping contribute to the BCH network by allowing others to use your node to broadcast transactions. In the same manner, you can be sure your transactions will be broadcast as full node implementations have their own wallet. To that end, operating a full node allows you to run Bitcoin Cash in a noncustodial fashion while keeping your funds secure and permissionlessly broadcasting financial transactions.
+
+It may take some time to set up and a little maintenance here and there, but there are a lot of benefits when it comes to hosting your own BCH node.
+
+Do you run a Bitcoin Cash node? Let us know how you set yours up and what you think about this subject in the comments section below.
+
+Image credits: Shutterstock, Bitcoincash.org, Pixabay, Wiki Commons, and Fair Use.
+
+Want to create your own secure cold storage paper wallet? Check our tools section. You can also enjoy the easiest way to buy Bitcoin online with us. Download your free Bitcoin wallet and head to our Purchase Bitcoin page where you can buy BCH and BTC securely.

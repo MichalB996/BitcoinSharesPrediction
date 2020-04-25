@@ -1,0 +1,35 @@
+DATE:  27.03.2020, 08:00:14
+TITLE: Yes, Bitcoin can run any kind of smart contract
+URL:   https://coingeek.com/yes-bitcoin-can-run-any-kind-of-smart-contract/
+
+Smart contract development platform sCrypt Inc. has dispelled the notion that Bitcoin contracts are limited compared to other currently popular platforms such as Ethereum and EOS. In a post detailing how complex contracts can be written and run, the company said Bitcoin scripting is “extremely extensible, versatile, and future-oriented,” with “unbounded” scaling.
+
+Bitcoin was always designed to run smart contracts
+
+A common myth in the digital/blockchain industry is that Bitcoin can’t run the kind of sophisticated smart contracts that Ethereum and others were “designed” to handle, or that smart contracts were never part of Bitcoin’s original purpose.
+
+Quite the contrary, sCrypt founder and CEO Xiaohui Liu says—any perceived limits stem from a lack of deep understanding among developers of Bitcoin’s full functionality, or on the artificial limits imposed on alternate versions of Bitcoin such as BTC. Moreover, Ethereum may even be fundamentally flawed by attempting to perform complex computation on-chain—this could prevent it from scaling to enterprise-tier requirements, and presents several security risks.
+
+Bitcoin, by design, does not run “Turing-complete” scripts in its transaction outputs, and this is mainly where it differs from Ethereum. However developers may still create Turing-complete processes with an off-chain agent for computation, and using the Bitcoin ledger as a “ticker tape” to store its results. Attempting to perform actual computation on-chain places a huge burden on transaction processors, and is where Ethereum has most frequently run into problems (and will continue to in the future).
+
+‘States’ in smart contracts
+
+In a post on Medium, Liu detailed “a general mechanism to maintain state in Bitcoin smart contracts.” States are necessary in automated smart contracts, as they record details of changing circumstances/stages over time that determine the end result. In business and law, these could include whether a task has been performed or a payment made, or any other event in the world external to the contracting parties has (or hasn’t) occurred. The ultimate result would differ depending on a complex combination of these outcomes. Think of insurance, gambling, wills, real estate and other major deals, elections/voting, property ownership, and pretty much everything else.
+
+Each Bitcoin transaction, Liu said, consists of an output that “locks” funds in place, and some future input that “unlocks” those funds if the contract obligations have been met. In a simple financial transaction, the outputs and inputs check whether a party has the right to send or receive Bitcoins. A smart contract would need to check whether the contract obligations have been met according to its original conditions.
+
+A developer could record changing states by separating data (information about the current state) from code (the actual functionality of the program) in the locking script—echoing techniques used in object-oriented programming. The “code” part of the script cannot change, while the “data” part may—but only in accordance with the rules the code has set for state transition.
+
+Doing this can maintain the current status of changing circumstances across multiple transactions, which are necessary to run smart contracts. For a more detailed technical description and an example, read Liu’s post here.
+
+sCrypt and Bitcoin’s full potential
+
+sCrypt Inc. encourages more developers to innovate on Bitcoin, particularly with smart contracts. It provides an integrated development environment (IDE) and a more familiar linguistic interface to Bitcoin’s native scripting language. The Bitcoin development platform is unrelated to the “sCrypt” hashing function used by some proof-of-work altcoins, including Litecoin and the lesser-known “Bitcoin-sCrypt” blockchain project.
+
+First introduced at CoinGeek Seoul in October 2019, it is a development platform aimed at making some of Bitcoin’s more complex functionality more accessible to programmers and businesses. Bitcoin’s Forth-like scripting language itself (simply called “Script”) can be complex and difficult for the inexperienced to grasp at first, which Liu said has historically presented a barrier to Bitcoin innovation.
+
+Unlocking the full potential of Bitcoin Script is only possible on BSV, with its unlimited transaction block sizes and full set of scripting functions. BTC in particular has crippled Bitcoin’s usefulness as a smart contract platform with its artificially-limited transaction block sizes, and deprecation of some of Satoshi Nakamoto’s original set of functions.
+
+BSV removed these limitations with the activation of Bitcoin v1.0.1, also known as “Genesis,” in February 2020.
+
+New to Bitcoin? Check out CoinGeek’s Bitcoin for Beginners section, the ultimate resource guide to learn more about Bitcoin—as originally envisioned by Satoshi Nakamoto—and blockchain.

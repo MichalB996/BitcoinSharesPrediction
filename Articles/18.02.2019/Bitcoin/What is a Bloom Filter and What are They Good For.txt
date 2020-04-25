@@ -1,0 +1,27 @@
+DATE:  18.02.2019, 17:55:36
+TITLE: What is a Bloom Filter and What are They Good For?
+URL:   https://dashnews.org/what-is-a-bloom-filter-and-what-are-they-good-for/
+
+This post is also available in: Deutsch
+
+This is the first in a series of articles explaining technical concepts related to on-chain network scaling, block propagation, and other related subjects
+
+A data structure refers to a format that is used to store information on a computer. A bloom filter is a probabilistic data structure that can be used to identify a set. We will first explain what a bloom filter is. Then we will explain trade offs when designing a bloom filter for a specific purpose. Lastly, we will explore applications to Bitcoin Cash and Dash.
+
+How does a bloom filter work?
+
+Any information stored by a traditional computer is ultimately stored as ones and zeros. Computer Scientists call this smallest amount of information a bit. In order to construct a bloom filter we need to identify the number of bits we want the bloom filter to use. We also need to choose a number of hash functions. So, for example, let’s consider a 12 bit bloom filter that uses two hash functions to identify two items. In this case, the hash functions are used to take any item identify only one bit. That is, produce a number between 1 and 12.
+
+Continuing with this example, let’s say that the first item identifies 4 and 9 when the two hash functions are applied. The second item identifies 7 and 10. Then a bloom filter that represents these two items is 12 bits with only the 4th, 7th, 9th and 10th bits turned on. If the same bit gets identified one or more times then the bloom filter is prepared with that bit on, otherwise the bit is off.
+
+Now if we want to verify that the bloom filter identifies the first item in the list is actually in the list apply the hash functions to get 4 and 9. Then we check if these two bits are on in the bloom filter. As they are on, then the item passes the filter.
+
+If we take a third item and apply the hash functions to get 7 and 11. Then this third item would not pass the filter as the 11th bit is not set as on. A bloom filter does indeed act like a filter. A bloom filter is constructed to identify items in a set. Anyone else can use the bloom filter to rule out an item as being in the intended set.
+
+Now, lets take a fourth item. What’s the chance that it passes the filter? Well, the filter has four bits on out of 12 there is a one third chance that the first hash function will yield a bit set to on. Similarly, there is a one third chance that the second hash function will yield a bit set to on. The result is that there is a one out of nine chance that this fourth item will pass the filter. When this happens it’s called a false positive. This fourth item may pass the filter even though it’s not in the set.
+
+Therein lies the rub. A bloom filter is generally a small data structure that communicates a set. However, there is a chance that items could be erroneously identified as part of the set. The good news is that if an item does not pass a bloom filter then it is certain that it is not in the set. Also good news: the false positive rate of a bloom filter can be tuned or adjusted. When constructing the bloom filter we can adjust the number of bits and the number of hash functions to change the false positive rate. Generally, by allowing more bits in a bloom filter the false positive rate will decrease. In fact given a desired false positive rate and the number of items in the list, the number of bits and hash functions can be optimized to provide the smallest bloom filter with the desired false positive rate.
+
+Bloom filters in cryptocurrency
+
+Bloom filters are used by the Bitcoin Unlimited team to help identify transactions that are unknown to a node. Another application of bloom filters is for Simplified Payment Verification, SPV, wallets. Some SPV wallets, such as Dash Wallet, ask for transactions involving addresses that pass a bloom filter. This allows some level of privacy as an address asked for may not belong to the wallet in question, but rather be a false positive. Bloom filters are also used to identify the set of transactions in a block in the graphene protocol for broadcasting blocks. Graphene also uses an invertible bloom lookup tables to identify false positives.

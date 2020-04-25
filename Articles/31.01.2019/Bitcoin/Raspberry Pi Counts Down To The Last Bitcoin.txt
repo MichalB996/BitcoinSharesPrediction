@@ -1,0 +1,13 @@
+DATE:  31.01.2019, 12:00:00
+TITLE: Raspberry Pi Counts Down To The Last Bitcoin
+URL:   https://hackaday.com/2019/01/31/raspberry-pi-counts-down-to-the-last-bitcoin/
+
+Even though it might appear to be pretend Internet money, by design, there are a finite number of Bitcoins available. In the same way that the limited amount of gold on the planet and the effort required to extract it from the ground keeps prices high, the scarcity of Bitcoin is intended to make sure it remains valuable. As of right now, over 80% of all the Bitcoins that will ever exist have already been put into circulation. That sounds like a lot, but it’s expected to take another 100+ years to free up the remaining ones, so we’ve still got a way to go.
+
+Even though his device will probably no longer exist when the final Bitcoin hits the pool, [Jonty] has built a ticker that will count down as the final coins get mined from the digital ground. The countdown function is of course a bit tongue-in-cheek, but the gadget also shows slightly more pertinent information such as the current Bitcoin value, so you can always remember what a huge mistake it was not to invest while they were still worth pennies.
+
+On the hardware side, this is a pretty simple project. The enclosure is laser cut 5 mm MDF, and it holds a Raspberry Pi 3, a MAX7219 32×8 LED dot matrix display, and a 10 mm white LED with accompanying resistor. The white LED is placed behind an acrylic diffuser to give the Bitcoin logo on the side of the display a soft pleasing glow when the device is powered up. There are no buttons or other controls on the ticker, once the software has been configured it just gets plugged in and away it goes.
+
+As for the software, it takes the form of a Python script [Jonty] has created which uses Requests and Beautiful Soup to scrape the relevant data from bitcoinblockhalf.com. The script supports pulling any of the 19 variables listed on the site and displaying it on the LED matrix, which range from the truly nerdy stats like daily block generation to legitimately useful data points that anyone with some Bitcoin in their digital wallets might like to have ticking away on their desks.
+
+The first decade of Bitcoin has been a pretty wild ride, not only monetarily, but in the wide array of hardware now involved in cryptocurrency mining and trading. From Bitcoin traffic lights to custom-made mining rigs that are today more useful as space heaters, it takes a lot of hardware to support these virtual coins.

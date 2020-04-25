@@ -1,0 +1,339 @@
+DATE:  24.01.2020, 13:28:11
+TITLE: Solidity Tutorial: An Introduction to Solidity Programming for Beginners
+URL:   https://blockonomi.com/solidity-tutorial/
+
+Solidity is an object-oriented, high-level language for developing dApps (Decentralized applications), on the Ethereum blockchain.
+
+A blockchain is a peer-to-peer network of computers, called nodes, that share all the data and the code in the network.
+
+So, if you’re a device connected to the blockchain, you are a node in the network, and you talk to all the other computer nodes in the network (we will talk how to setup Ethereum node on your local machine in later tutorials).
+
+You now have a copy of all the data and the code on the blockchain. There are no need for central servers anymore.
+
+What is Ethereum?
+
+At its simplest, Ethereum is an open software platform based on blockchain technology that enables developers to build and deploy decentralized applications.
+
+While the Bitcoin blockchain is used to track ownership of digital currency (bitcoins), the Ethereum blockchain focuses on running the code of decentralized applications.
+
+In the Ethereum blockchain, instead of mining for bitcoin, miners work to earn Ether, a type of crypto token that fuels the network. Beyond a tradeable cryptocurrency, Ether is also used by application developers to pay for transaction fees and services on the Ethereum network.
+
+There is a second type of token that is used to pay miners fees for including transactions in their block, it is called gas, and every smart contract execution requires a certain amount of gas to be sent along with it to entice miners to put it in the blockchain.
+
+Starting with the basics
+
+Solidity’s code is encapsulated in contracts.
+
+Ethereum blockchain allows us to execute code with the Ethereum Virtual Machine (EVM) on the blockchain with something called a smart contract.
+
+Smart contracts are where all the business logic of our application lives – all variables and functions belong to a contract, and this will be the starting point of all your projects.
+
+Smart contacts are written in a programming language called Solidity, which looks like a mix of Javascript and C.
+
+Remix IDE
+
+Remix is online tool that allows you to write Solidity smart contracts, then deploy them and run it.
+
+Just go to https://remix.ethereum.org from your browser and we can start coding.
+
+As you can see, you can choose between Solidity and Vyper. Both are languages for writing smart contracts, Vyper is python-like and Solidity is javascript-like.
+
+Both can compile to the EVM bytecode, kinda like Javascript and Typescript. We are choosing Solidity.
+
+On the left side there’s file explorer. By default, there are two .sol files, just to demo basic syntax (ballot.sol is smart contract, ballot_test.sol is script for testing that smart contract).
+
+You just need to click that plus button and we can start coding our first smart contract.
+
+All solidity source code should start with a “version pragma” — a declaration of the version of the Solidity compiler this code should use. This is to prevent issues with future compiler versions potentially introducing changes that would break your code.
+
+It looks like this:
+
+pragma solidity ^0.4.25;
+
+(for the Solidity version above 0.4.25)
+
+or
+
+pragma solidity >= 0.5.0 < 0.6.0;
+
+(for the Solidity version between 0.5.0 and 0.6.0)
+
+Then you create your contract by typing reserved word contract and the name of your .sol file (It is important to contract name match the name of the file, we will discuss why later). In our case,
+
+contract MyFirstContract { }
+
+Let’s compile it. You just need to navigate to that compile tab on the left and click the big compile button. If something is wrong with the code you will see errors and warnings here (be compassionate with Solidity, it is still “young language”).
+
+With our current contract everything is fine because we really haven’t done anything.
+
+Now I will generate error on purpose just to show you something. You can manually select compiler from that drop down menu.
+
+Let’s choose for example 0.4.26 version. Now, compile it again. Now you will see a ‘Compiler not yet loaded’ error.
+
+This is because we specified with pragma to work with compiler versions above 0.5.0. Just change compiler version again, and the error will be gone.
+
+Okay, let’s code now!
+
+We will start with simple ‘Hello world’ code and get and set functions, just to get more familiar with the syntax.
+
+A contract in the sense of Solidity is a collection of code (its functions) and data (its state) that resides at a specific address on the Ethereum blockchain.
+
+First, let’s define state variable called message for example and its type will be string.
+
+Our get function will return the value of our variable message, and set function will assign a new value to our variable message.
+
+How to type functions?
+
+First, reserved word function then the name of particular function and parameters and after that <visibility specifiers>.
+
+function myFunction() returns (bool) { return true; }
+
+Functions can be public or private. If a function is public it can be called outside of contract. If a function is private it has a limited scope, and can be called only from its current contract (from some other function for example).
+
+Here is the list of all Function Visibility Specifiers:
+
+public : visible externally and internally (creates a getter function for storage/state variables)
+
+: visible externally and internally (creates a getter function for storage/state variables) private : only visible in the current contract
+
+: only visible in the current contract external : only visible externally (only for functions) – i.e. can only be message-called (via this.func)
+
+: only visible externally (only for functions) – i.e. can only be message-called (via this.func) internal: only visible internally
+
+Functions can be pure, view, or payable. If a function does not write any data on blockchain it is very recommended to be view, because view functions do not cost any gas.
+
+Here is the list of all Function Modifiers (there’s also modifiers for state variables, events and events arguments but it will talk about them later):
+
+pure : Disallows modification or access of state.
+
+: Disallows modification or access of state. view : Disallows modification of state.
+
+: Disallows modification of state. payable: Allows them to receive Ether together with a call.
+
+If Function returns some value you need to specify that with reserved word returns and then in regular brackets to specify which type does function returns. In our case it will be string (because we return our variable message which is string)
+
+If the Function does not return any value, there’s no need for returns statement.
+
+To access a state variable, you do not need the prefix this. as is common in other languages.
+
+Because of that, a common practice is to write function arguments with underscore syntax (_message). This convention came from Javascript, where private methods and variables starts with _.
+
+To be clear, your code will work fine and without underscores, but it’s cleaner with them.
+
+You will notice reserved word memory in our code. If you write our code without memory, and set pragma to some version under 0.5.* it will work just fine, but when you change your compiler to above 0.5.* EVM generates compile error.
+
+Why does this happen?
+
+Well, The Ethereum Virtual Machine has three areas where it can store items.
+
+The first is storage , where all the contract state variables reside. Every contract has its own storage and it is persistent between function calls and quite expensive to use.
+
+, where all the contract state variables reside. Every contract has its own storage and it is persistent between function calls and quite expensive to use. The second is memory , this is used to hold temporary values. It is erased between (external) function calls and is cheaper to use.
+
+, this is used to hold temporary values. It is erased between (external) function calls and is cheaper to use. The third one is the stack, which is used to hold small local variables. It is almost free to use, but can only hold a limited amount of values.
+
+For almost all types, you cannot specify where they should be stored, because they are copied every time they are used.
+
+But when you work with arrays or structs, and from latest versions with strings also, compiler will force you to specify store area.
+
+So, our code now looks like this:
+
+pragma solidity ^0.5.0; contract MyFirstContract { string message; function get() public view returns(string memory) { return message; } function set(string memory _message) public { message = _message; } }
+
+Please note that some Solidity developers break those visibility specifiers into separate lines in order to make code cleaner. So our get function can be written like this:
+
+function get() public view returns(string) { return message; }
+
+It’s really up to you how you choose to write your functions.
+
+Let’s compile our contract now and test it.
+
+To compile it just repeat the steps from below (Compile <nameOfContract>.sol button or cmd/ctrl + S from keyboard and it will recompile it automatically)
+
+To actually see how it works (if compiling does not generate errors) you need to Deploy your contract.
+
+To do that, navigate to that Deployment tab from left, for environment select JavaScriptVM and hit Deploy button.
+
+After deployment, we can now see methods from our contract. Let’s focus just on that part of screen now.
+
+You can see that there’s two buttons (get & set) for our two public functions. If any of those was private we would not see it here.
+
+If we click get button EVM will execute our get function.
+
+Let’s see how it worked out.
+
+We’ve got empty string. Not great, not terrible. But, why? Well because we didn’t initialize our message variable at first place.
+
+Just one quick pause. I want you to introduce to the Remix Terminal. It’s under code editor and here you can track all your transactions, to see if they are successfully executed or not, to debug them, see details (transaction hash etc.) and more.
+
+For now, we have two successful transactions. One is Contract Deployment and it costs us ether (but don’t worry, we are in editor now everything is virtual) and second is Call of our view function.
+
+Ok, let’s go back now. What will happen if we call set function now?
+
+We need to pass an argument _message (“Hello World” for example) and hit transact button to execute function. You can track success of transaction in Terminal.
+
+Now let’s call get function again. Now it returns our message.
+
+Let’s make some improvements to our code. We didn’t initialize our variable message. Let’s do this.
+
+contract MyFirstContract { string message = "Hello world!"; function get() public view returns(string memory) { return message; } function set(string memory _message) public { message = _message; } }
+
+Notice that message is now “Hello world!”, and when we call get function for the first time it won’t return empty string.
+
+To test this, we need to compile our contract (cmd/ctrl + S).
+
+Then to deploy it again. We need to create a new instance of contract (because of the changes we made) and publish that on blockchain.
+
+Just delete previous version from editor (not from our virtual blockchain of course) and hit Deploy button again. Let’s call our get function now.
+
+Nice! Let’s call set function now.
+
+And get again.
+
+Cool.
+
+Let’s now make our message a constant.
+
+Our code now:
+
+pragma solidity ^0.5.0; contract MyFirstContract { string constant message = "Hello world!"; function get() public view returns(string memory) { return message; } function set(string memory _message) public { message = _message; } }
+
+When we try to compile it, we get error in our set function. That’s because one can not change a value of a constant.
+
+We will just get rid of that constant now.
+
+To initialize variables like this is not an error, but it is much better if we do that in constructor. You can write constructor in Solidity with:
+
+constructor() public { // do something… }
+
+Constructor is just another function which is being called during deployment of smart contract. Our code looks a little bit different, but it works same.
+
+pragma solidity ^0.5.0; contract MyFirstContract { string message; constructor() public { message = "Hello world!"; } function get() public view returns(string memory) { return message; } function set(string memory _message) public { message = _message; } }
+
+You can compile it again and test it if you want.
+
+Finally, one can change visibility of state variables. If you make your state variables public that means that one can claim their values from outside the contract.
+
+Solidity will make for each public state variable a method with same name which can be called as a regular function (kinda like getter function).
+
+This means, that we can get rid of our get function, just declare variable message as public, and our code will work the same, it will be much cleaner and it will costs us less to deploy it one day to Main Network.
+
+The bigger the code, the more gas is needed to execute it and the cost of running our dApp is increases.
+
+When we develop smart contracts we need to be:
+
+efficient – gas rate consumed needs to be low
+
+– gas rate consumed needs to be low precise – once you deploy smart contract it can not be changed and it is public 24/7h, every single line of code ( imagine a hacker who finds a bug and can exploit your dApp)
+
+Our final code for today looks like this:
+
+pragma solidity ^0.5.0; contract MyFirstContract { string public message; constructor() public { message = "Hello world!"; } function set(string memory _message) public { message = _message; } }
+
+Let’s deploy it and test it.
+
+You can see that message button. It is being created because our state variable message is public.
+
+If we call that, it should returns us a value that is being initialized through constructor (that’s “Hello world!”).
+
+Nice. Let’s test set function now.
+
+How to learn Solidity?
+
+Solidity itself is pretty simple language, but to be a good Solidity developer one needs to understand how everything works on Ethereum.
+
+Solidity is high-level programming language with syntax similar to ECMAScript (javascript).
+
+It compiles to EVM bytecode, something only the EVM can understand.
+
+The Compiler is called Solc.
+
+Let’s take this simple contract as example:
+
+pragma solidity ^0.5.0; contract Example { uint a = 10 + 5; }
+
+Simple as that. Now let’s compile it. If we go to Contract Details in Terminal we can see a lot of information.
+
+In this case, the compiled code is:
+
+0x6080604052600f600055348015601457600080fd5b5060358060226000396000f3fe6080604052600080fdfea165627a7a72305820bf75c57b7d8745a79baee513ead21a9eb8b075896f8e4c591c8916574d317c750029
+
+These long values are hexadecimal representation of the final contract, also known as bytecode. EVM only understands bytecode.
+
+But, if something goes wrong, we get stuck with some error for example, one can not debug bytecode.
+
+Opcodes
+
+Language above bytecode is opcode. Opcode is low-level programming language. Solidity and Opcode are like C and Assembly Language for example.
+
+So when we need to debug some failed transaction, we debug opcode.
+
+One thing you should know about Solidity and debugging – it’s very hard. But not impossible, so let’s dive into it.
+
+This is opcode of our Example contract:
+
+0 PUSH1 60 02 PUSH1 40 04 MSTORE 05 PUSH1 0f 07 PUSH1 00 09 SSTORE 10 CALLVALUE 11 DUP1 12 ISZERO 13 PUSH1 14 15 JUMPI 16 PUSH1 00 18 DUP1 19 REVERT 20 JUMPDEST 21 POP 22 PUSH1 35 24 DUP1 25 PUSH1 22 27 PUSH1 00 29 CODECOPY 30 PUSH1 00 32 RETURN 33 INVALID 34 PUSH1 80 36 PUSH1 40 38 MSTORE 39 PUSH1 00 41 DUP1 42 REVERT 43 INVALID 44 LOG1 45 PUSH6 627a7a723058 52 SHA3 53 INVALID 54 PUSH22 c57b7d8745a79baee513ead21a9eb8b075896f8e4c59 77 INVALID 78 DUP10 79 AND 80 JUMPI 81 INVALID 82 BALANCE 83 PUSH29 750029
+
+Opcodes are the low level human readable instructions of the program. All opcodes have their hexadecimal counterparts, eg MSTORE is 0x52.
+
+The EVM is Stack Machine. It is based on LIFO structure (Last In First Out). To simplify, imagine stacking up slices of bread in a microwave, the LAST slice you put in is the FIRST one you take out.
+
+In normal arithmetic, we write our equation this way:
+
+10 + 2 * 2
+
+and the Answer is 14, because we do multiplication before addition.
+
+In a stack machine, it works in LIFO principle:
+
+2 2 * 10 +
+
+It means, put 2 in the stack first, followed by another 2, then followed by multiplication action. The result is 4 sitting on top of the stack. Now add a number 10 on top of 4 and eventually add the 2 numbers together. The final value of the stack becomes 14.
+
+The act of putting data in the stack is called the PUSH instruction and the act of removing data from the stack is called the POP instruction. It’s obvious that the most common opcode we see in our example above is PUSH1 which means putting 1 byte of data into the stack.
+
+So, this instruction:
+
+PUSH1 0x60
+
+means putting a 1 byte value of “0x60” in the stack. Coincidentally, the hexadecimal value for PUSH1 happens to be “0x60” as well. Removing the non-compulsory “0x”, we could write this logic in bytecode as “6060”.
+
+Let us go a bit further.
+
+PUSH1 0x60 PUSH1 0x40 MSTORE
+
+The MSTORE (0x52) takes in 2 inputs and produces no output. The opcodes above mean:
+
+PUSH1 (0x60): put 0x60 in the stack.
+
+PUSH1 (0x40): put 0x40 in the stack.
+
+MSTORE (0x52): allocate 0x60 of memory space and move to the 0x40 position.
+
+The resulting bytecode is:
+
+6060604052
+
+In fact, we always see this magic number “6060604052” in the beginning of any solidity bytecode because its how the smart contract bootstrap.
+
+To further complicate the matter, 0x40 or 0x60 cannot be interpreted as the real number 40 or 60. Since they are hexadecimal, 40 actually equates to 64 (16¹ x 4) and 60 equates to 96 (16¹ x 6) in decimal.
+
+In short, what “PUSH1 0x60 PUSH1 0x40 MSTORE” is doing is allocating 96 bytes of memory and moving the pointer to the beginning of the 64th byte. We now have 64 bytes for scratch space and 32 bytes for temporary memory storage.
+
+In the EVM, there are 3 places to store data. Firstly, in the stack. We’ve just used the PUSH opcode to store data there as per the example above.
+
+Secondly in the memory (RAM) where we use the MSTORE opcode and lastly, in the disk storage where we use SSTORE to store the data. The gas required to store data to storage is the most expensive and storing data to stack is the cheapest.
+
+Now it’s good time to go back to our Solidity code from this tutorial and to recap what we learned about reserved word memory and how compiler forces us to specify how we store strings, for example.
+
+We have only covered the basics of bytecode and a few opcodes.
+
+We don’t need to know opcodes to start writing smart contract!
+
+On the other hand, the EVM error handling is still very primitive and its handy to look at opcodes when things go wrong.
+
+Conclusion
+
+This first lesson have a bit more theory than actual coding, but it is very important for beginners to know how things work on Ethereum. In the next tutorials, we will write some more interesting code and learn how to deploy our own token on the Ethereum blockchain.
+
+Until then 👋

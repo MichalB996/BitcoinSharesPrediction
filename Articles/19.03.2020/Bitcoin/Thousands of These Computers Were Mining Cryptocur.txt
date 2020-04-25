@@ -1,0 +1,62 @@
+DATE:  19.03.2020, 17:10:05
+TITLE: Thousands of These Computers Were Mining Cryptocurrency. Now They’re Working on Coronavirus Research
+URL:   https://www.coindesk.com/thousands-of-these-computers-were-mining-cryptocurrency-now-theyre-working-on-coronavirus-research
+
+CoreWeave, the largest U.S. miner on the Ethereum blockchain, is redirecting the processing power of 6,000 specialized computer chips toward research to find a therapy for the coronavirus.
+
+These graphics processing units (GPUs) will be pointed toward Stanford University's Folding@home, a long-standing research effort that unveiled a project on Feb. 27 specifically to boost coronavirus research by way of a unique approach to developing pharmaceutical drugs: connecting thousands of computers from around the world to form a distributed supercomputer for disease research.
+
+CoreWeave co-founder and Chief Technology Officer (CTO) Brian Venturo said the project has at least a shot at finding a drug for the virus. As such, CoreWeave has responded by doubling the power of the entire network with its GPUs, which are designed to handle repetitive calculations.
+
+See also: Bitcoiners Are Biohacking a DIY Coronavirus Vaccine
+
+According to Venturo, those 6,000 GPUs made up about 0.2 percent of Ethereum's total hashrate, earning roughly 28 ETH per day, worth about $3,600 at press time.
+
+There is no cure for the coronavirus just yet (though various groups are working on vaccines and research to combat the disease, including IBM's supercomputer). Venturo noted that Folding@home has been used to contribute to breakthroughs in the creation of other important drugs.
+
+"Their research had profound impacts on the development of front-line HIV defense drugs, and we are hoping our [computing power] will aid in the fight against coronavirus," Venturo said.
+
+The coronavirus is taking a toll across the world. Italy and Spain are on lockdown. Conferences, stores and restaurants are closing to stem the spread of the disease; by stoking fears, it's slamming the financial markets in the process.
+
+World computer
+
+When the idea of using GPUs for coronavirus research was mentioned to CoreWeave, the team didn't think twice.
+
+They had a test system up and running "within minutes," Venturo said. Since then, the project quickly snowballed. CoreWeave has been contributing over half of the overall computing power going into the coronavirus wing of Folding@home.
+
+"The idea of 'should we do this?' was never really brought up, it kind of just happened. We were all enthusiastic that we might be able to help," Venturo added.
+
+Folding@home is a decentralized project in the same vein as Bitcoin. Instead of one research firm alone using a massive computer to do research, Folding@home uses the computing power of anyone who wants to participate from around the world – even if it's just a single laptop with a little unused computing power to spare.
+
+See also: Bitcoiners in Europe Reflect on Economic Shocks as Coronavirus Spreads
+
+In this case, the computing power is used to find helpful information relating to the coronavirus. Much like in bitcoin mining, one user might detect a "solution" to the problem at hand, distributing this information to the rest of the group.
+
+"Their protein simulations attempt to find potential 'pockets' where existing [U.S. federal agency Food and Drug Administration (FDA)] approved drugs or other known compounds could help inhibit or treat the virus," Venturo said.
+
+Viruses have proteins "that they use to suppress our immune systems and reproduce themselves. To help tackle coronavirus, we want to understand how these viral proteins work and how we can design therapeutics to stop them," a Folding@home blog post explains.
+
+Simulating these proteins and then looking at them from different angles helps scientists to understand them better, with the potential of finding an antidote. Computers accelerate this process by shuffling through the variations very quickly.
+
+"Our specialty is in using computer simulations to understand proteins’ moving parts. Watching how the atoms in a protein move relative to one another is important because it captures valuable information that is inaccessible by any other means," the post reads.
+
+Long shot
+
+Folding@home could use even more power. Venturo urges other GPU miners to join the cause.
+
+Even without these calls for participation, though, miners of other cryptocurrencies are already independently taking action. Tulip.tools founder Johann Tanzer put out a call to action to Tezos bakers (that blockchain’s equivalent of miners) last week, promising to send the leading contributor to Folding@home a modest 15 XTZ, worth roughly $20 at press time.
+
+The initiative blew up, to Tanzer's surprise. Though they might not be contributing as much power as CoreWeave, 20 groups of Tezos miners are now contributing a slice of their hashing power to the cause. Tanzer's pot has swelled to roughly $600 as Tezos users caught wind of the effort and donated.
+
+But that's not to say all miners can participate. While GPUs are flexible, application-specific integrated circuits (ASICs), a type of chip designed specifically for mining, aren't, according to Venturo. Though ASICs are more powerful than GPUs, they're really only made for one thing: To mine cryptocurrency. This is one advantage Venturo thinks Ethereum has over Bitcoin, since GPU mining still works on the former, whereas the latter is now dominated by ASICs.
+
+See also: Israeli Bitcoiners See Surveillance as Unavoidable During Coronavirus Crisis
+
+"This is one of the great things about the Ethereum mining ecosystem, it's basically the largest GPU compute resource on the planet. We were able to redeploy our hardware to help fight a global pandemic in minutes," Venturo said. (However, it's worth noting that Ethereum has seen ASICs enter the fray. Not to mention, ether miners might soon go extinct when a pivotal upgrade makes its way into the network.)
+
+ASICs are useless for the Folding@Home effort, but if bitcoin miners have old GPUs lying around from the early days that they could contribute, too.
+
+Even if other miners join up, though, it's still a long shot that the effort will lead to a helpful drug.
+
+"After discussing with some industry experts [...] we believe the chance of success in utilizing the work done on Folding@Home to deliver a drug to market to be in the 2-5% range," Venturo said.
+

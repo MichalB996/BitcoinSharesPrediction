@@ -1,0 +1,53 @@
+DATE:  13.02.2020, 02:10:53
+TITLE: How to Recover Your Funds If You Lose Your Bitcoin Wallet
+URL:   https://news.bitcoin.com/how-to-recover-bitcoin-wallet/
+
+How to Recover Your Funds If You Lose Your Bitcoin Wallet
+
+Losing a phone or hardware wallet containing cryptocurrency is inconvenient, but it shouldn’t be fatal. Provided you’ve backed up your private key, recovering your coins is a simple exercise. Should you find yourself in such a predicament, however, there’s a few things you should know before reaching for your wallet recovery phrase.
+
+Also read: Zengo Is a Keyless Yet Noncustodial Bitcoin Wallet
+
+
+
+Recover Your Wallet the Right Way
+
+If you’re smart enough to store your bitcoin in a noncustodial wallet, you’re smart enough to make a backup. Whether you’re using a desktop, mobile, or hardware wallet, the process is much the same: look out the seed phrase you’ve stashed in a safe place for this very scenario and enter it into your replacement wallet. All going to plan, you’ll see your balance restored and your coins reappear in your wallet within seconds of importing your seed.
+
+There are a few exceptions to this rule, however, as not all wallets rely on a seed phrase to restore access. Hashwallet generates a unique recovery key and recovery seed during setup of the smartcard device. When combined, these components can be used to regain access to the funds stored on the wallet, and must be stored separately for security reasons. Once the recovery key and recovery seed have been securely stored, they are permanently deleted from the smartcard.
+
+In the event of wallet loss, the user can retrieve and combine these security elements, whereupon their new Hashwallet will generate the keys required to access the funds. Zengo is another wallet that deploys a keyless design. For the remainder of this guide, though, we’ll focus on conventional noncustodial wallets that utilize a seed phrase.
+
+Sweeping vs Importing – What’s the Difference?
+
+If your phone or hardware wallet have been lost or stolen, a third party may be able to access the private key. If so, importing it into your new wallet won’t prevent them from draining it at the earliest opportunity using the original device. To prevent that from happening, you’ll want to sweep your private key.
+
+A private key is mathematically related to all public keys (i.e. addresses) generated for a particular bitcoin wallet and can be represented as a string of letters and numbers like the following example:
+
+5Kb8kLf9zgWQnogidDA76MzPL6TsZZY36hWXMssSzNydYXYB9KF
+
+It can also be represented as a seed phrase like the following example:
+
+witch collapse practice feed shame open despair creek road again ice least.
+
+When you import a private key into a new wallet, it’s usually done by entering the more memorable seed phrase. All previous versions of that wallet – such as on a lost mobile, hardware, or paper wallet – still exist however. This presents a risk of the older wallet being discovered by a third party and the funds drained.
+
+To prevent this, it is safer to sweep your private key into a new public address in your newly created wallet. This entails creating a transaction that empties the balance of the old wallet and sends the funds to a newly created private/public key pair that is known only to you. Most noncustodial wallets, including Ledger, Trezor, Exodus, Electrum, Samourai, and Metamask enable you to sweep a wallet, draining it and aggregating its balance into a new one.
+
+How to Import Your Private Key Into a New Wallet
+
+If you’re certain that your old wallet isn’t recoverable by a third party (the software has been deleted, for example, or your paper wallet has been destroyed), you can simply import your private key into your new wallet. When you do so using the Bitcoin.com Wallet, you’ll see the following option:
+
+If you’re importing a private key into a hardware wallet such as a Ledger, there’s an additional step involved. First, you’ll need to import the private key into a wallet such as Electrum, after which you can send the coins to your Ledger address.
+
+Finally, if you’re importing your seed phrase into a different brand of wallet – say, from Exodus to BRD – there’s one final thing to be aware of: derivation path. HD wallets create a master seed based on BIP 32, from which all subsequent keys are derived. The derivation path used can differ between wallets, and must be set correctly when importing. Walletsrecovery.org, which is still in beta, provides information on the derivation paths used by the main hardware and software wallet developers.
+
+To summarize, then, if you lose your bitcoin wallet, sweep your private key into a new wallet, if possible, and check the derivation path if you’re switching to a different brand of wallet. The cost of replacing a lost hardware wallet or smartphone is considerable, but the main thing is that your funds are safe. Keep your wallet seed in a safe place and you’ll be protected in the event of acts of god, man, and unfortunate boating accidents.
+
+What bitcoin wallet do you recommend? Let us know in the comments section below.
+
+Disclaimer: This article is for informational purposes only. It is not an offer or solicitation of an offer to buy or sell, or a recommendation, endorsement, or sponsorship of any products, services, or companies. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.
+
+Images courtesy of Shutterstock.
+
+Did you know you can verify any unconfirmed Bitcoin transaction with our Bitcoin Block Explorer tool? Simply complete a Bitcoin address search to view it on the blockchain. Plus, visit our Bitcoin Charts to see what’s happening in the industry.

@@ -1,0 +1,27 @@
+DATE:  03.06.2019, 10:06:26
+TITLE: Creating Your Own SLP-Based Token Using Memo
+URL:   https://news.bitcoin.com/creating-your-own-slp-based-token-using-memo/
+
+Creating Your Own SLP-Based Token Using Memo
+
+Over the last few months, Simple Ledger Protocol (SLP) tokens have been very popular among Bitcoin Cash (BCH) supporters and there’s been a wide variety of unique tokens created. Since then Memo.cash, the onchain social network built on Bitcoin Cash has revealed users can not only store tokens with the application’s native wallet, but they can now create their own SLP-based coins within the Memo platform as well.
+
+Also read: How to Create Your Own SLP Token Using the Electron Cash Wallet
+
+The BCH community has been well aware of the Simple Ledger Protocol and how much the project has developed since the platform first launched. The protocol allows anyone to easily create, trade, and manage unique tokens that are created on the BCH chain. Literally, anyone in the world can create a token in seconds and it costs less than a penny to produce. Since the SLP project launched there’s been plenty of tokens created and there’s a variety of wallets that hold them, an SLP transaction explorer, and now Memo.cash has added another option for token creation. Back in March, news.Bitcoin.com gave our readers step-by-step instructions about how to create an SLP-based token using the Electron Cash light client. Now we’re going to give you a quick lesson on how to forge an SLP token using the Memo.cash social network.
+
+In order to create a token using Memo, you need to have an account. I created a brand new profile to show people how easy it is to get started. First head to the website Memo.cash and select the signup tab and from there the site will direct you to the account registration page. All you need to do to signup is create a username, password and select the create key tab. You will also be required to accept a disclaimer, which basically says that you understand that everything is noncustodial and Memo takes no responsibility for your account.
+
+Signing up for Memo takes less than a minute and from here you can browse the platform and load up your account with BCH. A small fraction of BCH is needed for when you’re using Memo because every action is done onchain for a tiny number of satoshis. This includes setting your profile name, description, and your profile picture. It’s good to have a small fraction of BCH in your Memo wallet for token creation as well. You don’t need to add a lot of funds as anyone can mess around with Memo with as little as $0.10-0.50 worth of bitcoin cash.
+
+After getting a feel for the functionality of Memo, head to the page memo.cash/token/create and the platform will allow you to generate an SLP token based on your specifications. This means you can customize the token’s ticker, the name, how many decimals the token can be divided by, and the initial quantity. Further, you can also tether a web link to the tokens as well giving them more personalization.
+
+For my example creation, I created a bunch of tokens called “The Triforce of Wisdom” and the token’s ticker is called “Zelda.” I decided to make Zelda tokens non-divisible, but you can make tokens divisible by 9 decimals. From here I decided to create 45 billion Zelda and I also attached a URL to these tokens which lead to the official Zelda homepage.
+
+After you are happy with all the customized attributes of your token, simply press “create” and Memo will broadcast the transaction over the BCH network. After creation, Memo will show you the transaction ID and all the opcode data as well. You can also view the token’s genesis on a block explorer like Bitcoin.com’s BCH explorer to view the token’s metadata, and Simpleledger.info as well. Because Memo accounts have SLP addresses now, you can send funds to Memo users but you can also send them to individuals using wallets like the Badger Wallet, Crescent Cash, Monarch Wallet, and the Electron Cash SLP version. It’s worth noting that creating a token on Memo will be etched into your profile forever. So people who want to launch a token in a more private manner should contemplate using the Electron Cash method to create an SLP token. Creating an SLP token with Memo is super easy, however, and creating one can be done in no time if you already have a Memo account.
+
+What do you think about creating an SLP token using the Memo.cash platform? Let us know what you think about this subject in the comments section below.
+
+Image credits: Shutterstock, Memo.cash, Badger Wallet, and Pixabay.
+
+At news.Bitcoin.com all comments containing links are automatically held up for moderation in the Disqus system. That means an editor has to take a look at the comment to approve it. This is due to the many, repetitive, spam and scam links people post under our articles. We do not censor any comment content based on politics or personal opinions. So, please be patient. Your comment will be published.

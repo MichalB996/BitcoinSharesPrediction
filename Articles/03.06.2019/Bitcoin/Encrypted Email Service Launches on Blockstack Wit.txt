@@ -1,0 +1,35 @@
+DATE:  03.06.2019, 14:00:10
+TITLE: Encrypted Email Service Launches on Blockstack With Bitcoin Features
+URL:   https://www.coindesk.com/encrypted-email-service-launches-on-blockstack-with-bitcoin-features
+
+An encrypted email service that uses Blockstack IDs is hoping to make online privacy tools more accessible, especially in the Middle East.
+
+A product of Egyptian web firm Intelli Coders, Dmail launched in beta on June 1. Prior to launch, 500 people, from Saudi Arabia to India, tested the service, according to CEO Mohamed Abdou. Since going live on Saturday, 151 emails have been sent between Dmail’s 600 users.
+
+With limited access to cryptocurrency exchanges being a common theme in the Middle East especially, Abdou said the ability to receive or send bitcoin directly to the Blockstack ID’s external cryptocurrency wallet could become a key feature in attracting users to this messaging service.
+
+“There is social information, and payment information, already attached to the message,” Abdou said. “Especially in Egypt, I’m trying to do my best to spread the culture of privacy.”
+
+Bitcoiners living in Egypt often struggle to acquire cryptocurrency, since electricity for mining is expensive and services like exchanges generally exclude this jurisdiction. The Egyptian government has condemned both trading and commercial usage of bitcoin.
+
+“This is also associated with human rights because you have the right to communicate with others in a private and secure way,” Abdou told CoinDesk. “Bitcoin could be useful to software developers who are freelancing all over the world.”
+
+Indeed, Blockstack investor and Dmail advisor Mohamed Elkasstawi, founding partner at Zk Capital, told CoinDesk the high level of unemployment among Egyptians could be seen as an opportunity for global companies in the blockchain space. Speaking of blockchain use cases more broadly, Elkasstawi said:
+
+“Adoption will come from emerging markets where trust [in traditional systems] is low.”
+
+How it works
+
+Dmail uses Blockstack decentralized identities (DIDs), which can be linked to GitHub and social profiles, as well as cryptocurrency addresses, in a way that the user controls.
+
+The service is currently listed in Blockstack’s App Mining program, which distributes bitcoin grants to projects garnering the most usage and developer contributions.
+
+There’s clearly a demand for secure email services, as the current market leader, ProtonMail, reportedly has 10 million users.
+
+Dmail messages are encrypted. And, with Blockstack’s storage system, only the DID holder herself has access to any related data. Plus, recipients must indicate their consent in order to receive a message from another ID holder. Recipients can still deactivate the ability for that sender to send new messages at any time.
+
+Speaking to the potential of this free Dmail service, Blockstack’s head of growth Patrick Stanley added:
+
+“They seem to be a highly motivated team, and developers like them throughout Egypt need better access to funding to build great apps that protect people.”
+
+Mohamed Abdou image via Intelli Coders

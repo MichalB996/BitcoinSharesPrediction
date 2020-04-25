@@ -1,0 +1,351 @@
+DATE:  03.06.2019, 16:32:09
+TITLE: Bitcoin Digital Asset Report: BTC Review And Investment Grade
+URL:   https://cryptobriefing.com/bitcoin-digital-asset-report-btc-review-and-investment-grade/
+
+SIMETRI Digital Asset Reports Bitcoin Digital Asset Report: BTC Review And Investment Grade by The Analyst Team
+
+Bitcoin is the undisputed King of Crypto - for now.
+
+Share this article
+
+Bitcoin Digital Asset Report: Introduction
+
+As stated in the original whitepaper, Bitcoin (BTC) was created to become “a peer-to-peer version of electronic cash”. Its system enables payments without passing through a central authority, while the transaction management and money issuance are carried out collectively by the blockchain network.
+
+Created by a pseudonymous developer (or developers) using the pseudonym Satoshi Nakamoto, Bitcoin gave birth to the multibillion-dollar cryptocurrency industry, supported by blockchain technology and the decentralization movement.
+
+Although many projects have tried to replicate Bitcoin’s success by creating coins that are far more scalable and advanced on the technological level, Bitcoin has remained the most dominant cryptocurrency on the market.
+
+Its main use-case has been shifting, though. People started to consider it as a “store of value” (digital gold) rather than a “payment currency”. And that is primarily due to its high domination, large liquidity, and general lower volatility in relation to other cryptocurrencies.
+
+And although on the technological level it is less advanced than some of its rivals, its network effects and market dominance helped the coin remain competitive as a payment instrument/store of value asset. Its technology has also been progressing, along with second layer solutions built on top of its network.
+
+All of the above factors should help Bitcoin to withstand competition and grow its value, en route to widespread adoption.
+
+Bitcoin Market Opportunities
+
+There is still an ongoing debate in the space about whether Bitcoin should be considered a “medium of exchange” or a “store of value”.
+
+In its whitepaper Bitcoin was designed as a peer-to-peer version of electronic cash. The global cash market accounts for about $36.8 trillion of physical money and could increase to $90.4 trillion if we also include money held in easily accessible accounts.
+
+Bitcoin also has the potential to cover the digital remittance and the contactless payment markets, which are expected to reach $8.59 billion and $801.4 billion in 2025 respectfully.
+
+In this sense, Bitcoin has the potential to be compared to the store of value standard – gold, the market capitalization of which is currently over $8 trillion.
+
+Although Bitcoin’s competitors criticize the cryptocurrency’s technological limitations, Bitcoin’s performance and evolution continue to be a catalyzing force for the market. Currently, some of Bitcoin’s most prominent rivals are Bitcoin Cash, Litecoin and Stellar. These players primarily compete with Bitcoin in the “payment sector”, while the “store of value” segment is almost entirely dominated by BTC.
+
+Forks In The Road
+
+Bitcoin Cash (BCH) is the first hard fork of Bitcoin. BCH appeared in 2017 after controversy over Bitcoin’s scalability issues. BCH proponents offered to increase the block size limits of Bitcoin’s blockchain from 1 MB to 8 MB (later to 32MB), to improve its throughput capabilities and reduce the high transaction fees associated with BTC payments. This scalability improvement method became subject of heavy debate since it would increase costs of full nodes operators, and decrease decentralization of the network.
+
+Although Bitcoin Cash proponents were able to split the network, as of today, BCH has failed to reach adoption levels of BTC, and what’s even more interesting it has failed to make use of its 32MB block size. In fact, on average, Bitcoin blocks are larger than Bitcoin Cash blocks, which proves BTC superiority.
+
+Litecoin (LTC) appeared even earlier than Bitcoin Cash, in 2011. It is a source code fork of Bitcoin that improved processing time (2.5 minutes vs 10) and reduced the size of transactions. This gave Litecoin better throughput capabilities. However looking at transaction count numbers (LTC has 13 times fewer transactions), users don’t seem to care much about Litecoin’s advantages over Bitcoin.
+
+Although Litecoin has quite a long history and a large number of supporters, under current conditions its advantages do not play an essential role, and the coin continues to remain in the shadow of Bitcoin.
+
+Dash (DASH) is another competitor of Bitcoin and also its code fork. It processes payments faster than Bitcoin and supports transactions through the Private Send/InstantSend features. DASH operates a large merchant network of nearly 5,000 merchants. However, its ecosystem is still much smaller than that of Bitcoin, and although it may compete on the regional scale in countries such as Venezuela, on a global scale it is far behind.
+
+With that said, even though Bitcoin competitors in the blockchain space do present more advanced technologies, this is currently not enough for the market. Moreover, with the development and adoption of Lightning Network, which enables scalable micropayments, Bitcoin can become even more scalable than many of its blockchain competitors.
+
+Although technologically the Lightning Network could also be implemented on another network, in order for them to scale there is a need for a large ecosystem – which many of Bitcoin’s competitors lack.
+
+In fact, Bitcoin’s network effects will make it much more difficult for its rivals to compete with it at scale. Especially for the players that have an underdeveloped ecosystem.
+
+Competition in the Blockchain Space
+
+The NVT Comparison reveals that Bitcoin transactions are on average priced similarly to Litecoin transactions, and lower compared to transactions of DASH and BSH, which shows that the project is not overvalued, on a relative basis.
+
+NVT Comparison
+
+Although Bitcoin initially started as a small project, over the past 10 years it has started to find its place and keeps increasing its market share compared to the more traditional players that have been around since the middle of the last century.
+
+2018, was quite bearish for bitcoin and the overall market. Nevertheless, Bitcoin’s transaction count has been steadily growing. Although this metric is susceptible to wash transactions, it is one way to measure activity on the blockchain.
+
+In terms of total USD transaction volume number in 2018, Bitcoin has already surpassed PayPal and is getting close to MasterCard. In fact, it is already successfully competing with large players, despite having relatively small adoption, and young technology.
+
+Bitcoin Transaction Volume
+
+Large financial industry leaders have also been working on their blockchain solutions. JPMorgan is developing JPMorgan Coin, while Bank of America is acquiring blockchain patents.
+
+Most likely, such companies will be able to implement blockchain in certain narrow areas of their business. However, to build a decentralized currency, they will have to entirely change their business model, which is unlikely in the near future.
+
+Competition in the Traditional Space
+
+From the market opportunity perspective, Bitcoin is showing good results. The competition in the blockchain space is far behind due to Bitcoin’s overwhelming network effects and adoption of Lightning Network. The competition in the traditional space seems to miss the importance of decentralization, which contradicts their corporate principles.
+
+With further market growth and increasing adoption, Bitcoin has all the chances to not only retain but also grow its leading position in the market.
+
+Part One: Technology Case
+
+Underlying Technology
+
+Bitcoin utilizes a Proof-of-Work (PoW) consensus algorithm. It requires individual miners to solve complex cryptographic puzzles before they can add a block to the blockchain. In fact, miners compete against each other using their computing power to produce a new block and get BTC rewards.
+
+The primary purpose of mining is to allow Bitcoin nodes to reach a secure, tamper-resistant consensus. The “cryptographic puzzle” that miners are solving is a mathematical equation that is difficult to calculate but easy to verify. The answer for the mathematical equation is known as a “hash”. The larger the network, the more hash power you need to solve the equation and receive the reward.
+
+Initially, when Bitcoin just launched, individuals were able to use their CPU’s power to mine Bitcoin. However, as the network started to grow, people had to switch to more resource-intensive and sophisticated equipment. Currently, Bitcoin can only be mined by ASICs (application-specific integrated circuits), that represent a set of microchips specially designed and manufactured for this purpose.
+
+In general, ASICs tend to centralize the mining power of the network, since this is expensive and high-powered equipment which is not available for everyone. Bitcoin’s mining is not only centralized on the consumer level, but also on a manufacturing level. Bitmain, the largest manufacturer of cryptocurrency mining equipment, owns up to 75% of that market. Moreover, Bitmain controls a significant amount of network hashrate, through several mining pools, and there have been reports that its share can potentially exceed 51%.
+
+Such centralization could put the network at risk of a 51% attack. However, according to some of the recent studies 51% attack would require “significant expenditures” and give “little financial returns”. Moreover, for Bitmain, as the major manufacturer of Bitcoin ASICs, an attack on the network would be suicidal.
+
+Nevertheless, there is still a risk of a powerful private entity or a hostile nation launching a successful attack.
+
+Such an attack may be motivated by a desire to protect the national currency, undermine a competing product, or even to stifle crypto adoption as a whole.
+
+Although the 51% attack currently has little chances, the technology behind Bitcoin is still evolving and vulnerabilities in its code are found every year. The most threatening bug discovered over the past year could give an attacker the ability to create new bitcoins, inflating the supply above 21 million. An attack of this variety is far more realistic, and if exploited, it would have a large negative impact on the whole crypto market.
+
+The Bitcoin GitHub remains very active, with over 100 contributors, and, on average, over 30 commits per week. Its codebase is written in C++, an extremely complex programming language. Due to their complexity, C++ open source projects suffer from far more potential issues. Therefore, Bitcoin maintainers are considered somewhat paranoid about adding new changes to the protocol.
+
+Currently, the code is maintained by the Bitcoin Core team and operates under the open contributor model where anyone with the knowledge of C++ can contribute towards development in the form of peer review, testing, and patches. Developers can submit their Bitcoin Improvement Proposals (BIPs) which will go through several rounds of prompt reviews, and community discussions, before going live.
+
+Bitcoin GitHub is also protected with the PGP key of Bitcoin Core maintainers, where Bitcoin Core performs checks of trusted PGP keys that must sign every merge commit. This is needed for extra security due to the fact that even GitHub cannot be trusted; it could potentially have employees with administrative rights inject code to any repository without consent from the maintainers.
+
+GitHub Activity
+
+Although from the development perspective Bitcoin has been evolving, its network is still criticized for having low throughput capabilities. In fact, all of its competitors are several times more scalable than BTC.
+
+Scalability Comparison
+
+Low throughput capabilities of the Bitcoin blockchain is one of its biggest limitations. During the high network load, the number of unconfirmed transactions grows dramatically, while the confirmation time increases, and in some cases can exceed several days.
+
+However, the issue is being worked on. In 2017, Segregated Witness (SegWit) was deployed, increasing the block size limit to 2-4 MB (from the original 1 MB) without a hard fork. It helped increase the scalability of the blockchain as well as add additional security. Currently, SegWit transactions account for around 40% of all BTC transactions.
+
+The other scaling solution gaining traction on the Bitcoin blockchain is the Lightning Network. This is a “Layer 2” payment protocol that reduces the number of transactions that need to be stored on the blockchain. Instead, funds are held in smart contract “payment channels,” and transactions are exchanged outside of the blockchain between transacting users. Only the final state is broadcast to the Bitcoin network. This increases the transaction speed and decreases fees, which potentially opens a variety of new use-cases for bitcoin in the micropayments sector.
+
+Bitcoin Lightning Network
+
+There have also been attempts to add smart contracts to the Bitcoin network. The closest project that has achieved this is RSK Network. It allows ethereum-like tokens and smart contracts on top of Bitcoin’s blockchain. According to the team, the smart contracts that operate on the RSK sidechain are programmed on Solidity, so developers can migrate existing ethereum smart contracts to RSK Smart without any changes. This project expands functionality to the Bitcoin ecosystem and could be applicable to use cases beyond money and store of value.
+
+Critics always attack Bitcoin protocol for being slow and hard to scale. However, what they seem to be missing is that its technology is not static, it’s evolving and still attracts top developers from the crypto world.
+
+Part Two: The Business Case
+
+Ecosystem Development
+
+Bitcoin utilizes a PoW consensus algorithm so its network relies on an extensive network of miners. Over 1.7 mln ASICs are currently working to support the Bitcoin network. However, the number of individuals that are controlling this equipment is much smaller.
+
+In fact, the majority of Bitcoin mining farms are located in China, since the county offers low electricity rates and cheap labor costs. China is also the world’s largest manufacturer of Bitcoin ASICs and specialized cryptocurrency mining hardware. Moreover, according to recent studies, more than 74% of Bitcoin’s network hashrate originates from Chinese-managed pools.
+
+Bitcoin Mining Pools
+
+Such geographical concentration of Bitcoin infrastructure has been a point of concern for the crypto community. The Chinese government could potentially influence the ecosystem, destabilizing the network and weakening the consensus.
+
+In fact, the overall cryptocurrency sector has been under heavy scrutiny in China. The regulators banned ICOs, shut local cryptocurrency exchanges, and have not provided government-backed regulation over the practice of Bitcoin mining. This provokes ongoing rumors that China will eventually ban mining on its territory.
+
+Nevertheless, if China eventually bans Bitcoin mining, this could actually have a positive effect on the Bitcoin network. Mining in China happens at a much cheaper rate than the rest of the world: the loss of cheap electricity would raise the mining costs, which should induce a net positive on price. It would also serve to kill the concerns that Bitcoin is overly dependent on a single region.
+
+Right now there are still plenty of investments in Bitcoin mining. Recently Fundamental Labs (backed Binance and Coinbase) announced investment of $44 mln in top-of-the-line Bitcoin miners. In fact, in 2019, with the rise of the Bitcoin price, mining has once again become popular and institutional money is flowing in.
+
+As a result, the network hashrate has been growing to ATH numbers. A higher hashrate usually means a more secure network since it increases the cost of 51% attacks.
+
+Bitcoin Network Hashrate
+
+Besides miners, the Bitcoin network is also supported by the full node operators. Full nodes download every block and transaction and check them against Bitcoin’s consensus rules. Bitcoin has over 9,400 full nodes decentralized around the globe, with major centers in the United States (~25%), Germany (19%) and France (6%). On the full node level, the network appears well decentralized.
+
+Moreover, it was recently announced that the consumer electronics giant HTC, will add full node capability to its latest smartphone Exodus 1S. This will increase the number of full nodes dramatically, increasing the security of the network.
+
+The wealth distribution of bitcoin is also signaling at high decentralization. Top-10 accounts wallets hold around 5,05% of all bitcoins, while most of the top wallets belong to exchanges.
+
+Bitcoin Top-10 Wallets
+
+From the governance perspective Bitcoin does not have a central point of command or control. It rather has a focal point of development represented by Bitcoin Core.
+
+In fact, 96.77% of Bitcoin nodes are running some version of Bitcoin Core. Its maintainers have built sufficient social capital within the Bitcoin community, while its code is backed by more developers, and tends to show the best performance and security.
+
+This makes Bitcoin Core a very powerful party but does not give it full control over Bitcoin since its team does not have the influence over the users that are running the actual software. In fact, the users are free to choose any software they want, and can easily switch if Bitcoin Core is compromised.
+
+Moreover, since the users are typically running previously released versions of Bitcoin Core, they have the option to disagree with the updates that Bitcoin Core is implementing. For example, currently not all the nodes have updated their software to support SegWit transactions, while the update was released nearly two years ago.
+
+However, such decentralization of Bitcoin governance has also its negative sides. It is inefficient in many ways. Protocol updates have to be accepted by many parties (miners, developers, mining pools, etc.), and it could take years before the network becomes fully updated.
+
+Problems could also arise if different parties do not come to an agreement on a particular update. This potentially could result in a split of the network. In fact, the lack of consensus was the main reason why SegWit2x (scalability update) was canceled on the Bitcoin network.
+
+However, this has not stopped the development of second layer solutions that seem to have found the way around Bitcoin’s on-chain inflexibility.
+
+Lightning Network is the most prominent second layer scalability solution that has been developing on the Bitcoin network. It allows smaller and faster payments using BTC. Since the launch (January 2018) the network has grown dramatically. It now has more than 4,200 nodes with 34,000 active channels and 1,039 BTC ($8.2 mln) total network capacity.
+
+Although the number of nodes has grown significantly, currently over 70% of the network capacity (over 700 BTC) is controlled by one operator LNBIG.com. However, it is also important to understand that the technology is relatively young, the software is still in beta, and the capacity is so low that it can be easily controlled by a single party with virtually no competition.
+
+Lightning Network Nodes and Channels
+
+Nevertheless, Lightning Network adoption is growing. Using the crypto payments processing startup Moon people can use Lightning Network to pay on websites such as Amazon. Similarly, the Chrome browser Tippin app allows users to send small Bitcoin payments (tips) to their favorite authors on Twitter. Lightning Network is also already integrated into the Apple Watches, through the Bluewallet.
+
+Taking into account the fact that Lightning technology is just over a year old, its pace of development signals a bright future.
+
+Lightning Network on Amazon.com
+
+The other project that is building on top of Bitcoin Network is RSK, by IOV Labs. It is a two-way pegged sidechain to Bitcoin, designed to enable full smart contract functionality for the Bitcoin ecosystem. RSK basically can do anything the Ethereum smart contracts allow, but with the security of the Bitcoin network.
+
+Although its technology is also relatively young and has little adoption, RSK smart contracts are already available on the Microsoft Azure platform. The project is also working on improving its platform and recently has announced the launch of Lumino Network ‘Layer 3’ solution to scale its smart contracts up to 5,000 transactions per second.
+
+Also in our conversation with the IOV Labs team, its members have stated that the project will be expanding this year. The team has focused on use-cases involving organizations that have a significant user base. The project also has close connections with government agencies in Argentina, Chile, and Colombia.
+
+Second layer solutions on the Bitcoin network have appeared quite recently but given their flexibility and fast development they can significantly enhance Bitcoin’s functionality and scalability.
+
+Another development that is widely anticipated by the crypto community is the approval of a Bitcoin ETF. It could pave the way for large institutional investors from Wall Street and hence push the adoption of Bitcoin, and the overall sector.
+
+ETFs are much better understood across the financial sector since they allow investment in the coin without having to go through the process of purchasing and holding the underlying asset.
+
+There are several parties that have been filing ETF proposals to SEC, during the last two years. However, all of the filings have either been declined or postponed to a later date. In May 2019, the SEC again postponed the decision on the most prominent VanEck/SolidX ETF proposal until August 19th.
+
+The SEC has the option to delay the decision on VanEck/SolidX ETF one more time, until the final deadline of October 18. However, if SEC declines the application it can be submitted again and will go through the same review process.
+
+Nevertheless, despite all the rejections and delays, a member of the SEC commission stated his opinion that sooner or later the ETF will be approved.
+
+“Eventually, do I think someone will satisfy the standards we’ve laid out there? I hope so, yes, and I think so.”
+
+However, ETFs are not the only instrument that should attract institutional investors to the sphere. By the end of this year, it is expected that Bitcoin futures exchange Bakkt will be launched.
+
+Bakkt is established by Intercontinental Exchange (ICE), owner of the well-known New York Stock Exchange (NYSE) and other traditional exchanges. Initially the exchange is planning to focus on trading and conversion of Bitcoin versus fiat currencies.
+
+However, later it also plans to collaborate with BCG, Starbucks, Microsoft, and others to create an open ecosystem that supports the growing needs of the crypto economy. It also plans to include federally regulated markets and warehousing along with merchant and consumer applications.
+
+In fact, Bitcoin merchant adoption has been growing through the years and now thousands of small businesses worldwide accept it as payment. Bitcoin is also accepted by large retailers, such as Overstock.com, eGifter, Shopify stores and others.
+
+The state of Ohio in the United States allows its residents to pay a portion of their taxes using the cryptocurrency as a part Ohio Bitcoin initiative.
+
+Worldwide adoption has helped Bitcoin to grow a large community around the project. In fact, the number of active addresses on its network is ten times higher than the number of its closest competitor, Litecoin. Bitcoin also has a very active community on Reddit, which incentivizes discussion and involvement in the project.
+
+Community Involvement Comparison
+
+Token Economics
+
+BTC is the native currency of Bitcoin the blockchain. Its main application within the ecosystem is to serve as a reward instrument for miners who are adding blocks to the blockchain. Miners are paid through a combination of Bitcoin’s block reward and transaction fees.
+
+Reward – current block reward is equal to 12.5 BTC. It cuts in half every 210,000 blocks. The next halving is expected during summer 2020 and will cut the block reward to 6.25 BTC.
+
+Halving has been an important event for the industry since, historically, it had a positive effect on the Bitcoin price. Although there is a macroeconomic support for value increase with regards to the halving, partially the spike is likely to be attributed to large miners trying to offset reduced rewards by pumping up the price.
+
+Bitcoin Halving
+
+Fees – average Bitcoin transaction fees equal to around $3.53. Bitcoin fees tend to be higher than the fees of its competitors. When the network is heavily loaded, fees rise dramatically, along with the number of unconfirmed transactions.
+
+The problem should have been partially solved by the adoption of SegWit. However over half of the businesses involved in the Bitcoin ecosystem have not adopted the update yet, despite the lower-fee advantage. As network load continues to grow, adoption is likely to increase.
+
+Fees should also decrease with the adoption of Lightning Network since it would offload the network. In fact, to send Bitcoin over LN would cost you less than one US cent.
+
+Speculation – BTC is traded on many of the popular crypto-exchanges.
+
+Total BTC supply is equal to 21 million coins. Currently inflation is around 3.9%. The relatively small supply of BTC makes it scarce and has been considered as one of its main advantages.
+
+Moreover, according to some reports, around 30% of all mined bitcoins have been lost forever, which decreases current supply to around ~12.3 million. With the increase in adoption rates, the demand for BTC could grow dramatically – and there may not be enough bitcoins for everyone.
+
+There are also a number of wallets that belong to the original creator, Satoshi Nakamoto. It is estimated that Satoshi owns roughly 600k-1 mln BTC. However these funds have never moved from their wallets, and it is possible they never will.
+
+Nevertheless, centralization of funds potentially puts the network at risk, especially if the funds are located on the exchange wallets. In the past hacks and fraudulent activity generated sell-offs in the market, and even provoked a bear market.
+
+In fact, the largest theft in Bitcoin’s history has occurred in 2014 when 850,000 bitcoins disappeared from the cryptocurrency exchange Mt. Gox. Since then Mt. Gox former users have been trying to reclaim what was left after the hack. There are around 24,000 victims claiming more than 137,892 bitcoins ($1.08 bln).
+
+Although due to legal issues, it is unlikely that these funds will be distributed in the next two years, when they get distributed the behavior of the new owners will be hard to predict.
+
+Supply Comparison
+
+Bitcoin’s token economy has been considered one of its major advantages. Low inflation and a relatively small number of coins, make Bitcoin a scarce resource for crypto owners. If diminishing mining rewards are coupled with increasing adoption levels, the demand for the crypto asset could far outpace supply – and in so doing, push its market value higher.
+
+Lead Team
+
+Bitcoin does not have a centralized team behind its development. However, this section will cover some major people behind the Bitcoin Core, since over 96.77% of Bitcoin nodes are using their software implementation.
+
+Wladimir J. van der Laan – Wladimir is a Bitcoin Core Developer and the Lead Maintainer of the Bitcoin repository on GitHub.
+
+Pieter Wuille – Peter is a developer and the co-founder of Blockstream. He is second in terms of commits to Bitcoin Core and is responsible for major improvements to the Bitcoin protocol.
+
+Jonas Schnell i – Jonas is a Bitcoin Core developer and the co-founder of Digital Bitbox. He also developed a Bitcoin library written in C which is available for Linux, FreeBSD, OpenBSD, Mac OS X, iOS, and MinGW.
+
+The lead maintainer role is for someone who has oversight over all aspects of the project and is responsible for coordinating releases. Historically, Satoshi Nakamoto has been the creator and the first lead maintainer of Bitcoin. However, in 2011 he had passed that role to Gavin Andersen, and in 2014 Gavin passed that role to Wladimir J. van der Laan.
+
+Wladimir has been the core maintainer for over 5 years now. He is well respected by the community and as discussed on Reddit “he is trying to avoid much of the politics and just works away on the code.”
+
+Nevertheless, the role of lead maintainer has been quite stressful due to public pressure, especially when there are major disagreements in the community – such as during the scaling debate.
+
+During Bitcoin’s history, just a dozen most active people have had commit access to Bitcoin Core repository. However, hundreds of developers have made contributions, making Bitcoin’s developer team one of the largest in the industry.
+
+Finally, the Bitcoin Core team has a proven track record of dealing with difficult situations over the years of Bitcoin history, whether there is a bug in the protocol or a community disagreement on scaling approaches.
+
+Roadmap
+
+Bitcoin Core does not have a standard roadmap. All the updates are coordinated through the Bitcoin Improvement Proposals (BIPs), while some are included in the upcoming updates.
+
+Bitcoin Core Version Updates
+
+In 2018, there were eight version updates, while in 2019, so far, there was just one update v. 0.18.0 released in early May.
+
+However, there are currently there are over 300 BIPs, most of which have been proposed over 2 or 3 years ago and still are waiting to be included in the protocol. The maintainers are taking extra care about what they are adding to the updates, avoiding proposals that could result in a hard fork.
+
+The absence of a roadmap adds uncertainty about the direction of the project and long term plans for the protocol improvements
+
+Part Three: The Investment Case
+
+BTC Token Performance
+
+Bitcoin is the largest cryptocurrency by market capitalization. The price of one bitcoin has declined nearly 58% since its ATH in December 2017. In terms of 24-hour volume, Bitcoin also holds the 1st place on the chart with over $25 bln daily volume.
+
+Although the price comparison chart for Bitcoin and its rivals displays a similar set of shapes, Bitcoin has seen larger gains than all of its competitors. In fact, Bitcoin has been leading the sector recovery, which shows its strong potential and dominance on the market.
+
+In fact, Bitcoin dominance has been on the rise during the last several months. BTC currently accounts for around 56% of the market, while its price movements have an immense effect on the whole industry.
+
+Bitcoin Dominance
+
+Bitcoin exchange volume numbers also have been growing since April 2019, reaching ATHs that were achieved during the last bull market. This shows that interest in cryptocurrencies is growing again.
+
+Volume Comparison
+
+The vast majority of BTC trading is represented by BTC/USDT, BTC/USD, and other fiat pairs. BTC is trading on all major markets, while its trading volume spread across many exchanges.
+
+Recent BTC volatility (30-day) numbers remain close to its competitors, with an overall spike in volatility during the start of Q2 2019.
+
+30-Day Volatility Comparison
+
+If we compare bitcoin to other major asset classes, Bitcoin has the highest correlation to gold (12.6%) and the lowest correlation to the S&P 500 (-3.2%), according to the Fundstrat report. Although, the higher correlation with gold seem to make sense, since Bitcoin is often compared with gold, the correlation coefficient is still too small to draw a conclusion.
+
+Bitcoin Correlation with other assets
+
+Technical Analysis
+
+Bitcoin / USD Short-term price analysis
+
+Bitcoin has a bullish short-term trading outlook, with the cryptocurrency remaining well supported on any technical corrections lower.
+
+The four-hour time frame is showing that BTC / USD bulls are still maintaining price above the neckline of an inverted head and shoulders pattern, despite a strong technical pullback from the $9,000 resistance level.
+
+A sustained move under key neckline support may see the BTC / USD pair falling into a lower price range between the $8,300 and $7,250 levels.
+
+Technical indicators on four-hour time frame are attempting to recover higher, following the latest bearish technical correction.
+
+Traders should note that the $9,300 and $9,600 are the current bullish targets of the inverted head and shoulders pattern on the four-hour time frame.
+
+The MACD indicator on the four-hour time frame is correcting back towards neutral levels and is currently failing to generate a clear trading signal. The Relative Strength indicator on the four-hour time frame is also attempting to correct higher and has a neutral trading bias.
+
+Bitcoin / USD Medium-term price analysis
+
+Bitcoin has a bullish medium-term trading outlook, with the BTC / USD pair remaining technically bullish above its trend defining 200-day moving average.
+
+The daily time frame is currently showing the existence of two extremely large bullish patterns that have yet to reach their overall upside objectives.
+
+Firstly, the falling wedge pattern on the daily time frame has an overall upside of around $12,500, while the inverted head and shoulders pattern on the mentioned time frame has an overall upside target of around $13,500.
+
+Technical indicators on the daily time frame are starting to turn lower and may need to correct from overbought conditions.
+
+Traders should note that the neckline of the large inverted head and shoulders pattern on the daily time frame is located around the $8,400 level.
+
+The MACD indicator on the daily time frame is turning bearish, with both the MACD signal line and histogram attempting to move lower. The Relative Strength indicator on the daily time frame is coming under downward pressure and still has significant scope to trade lower.
+
+Bitcoin / USD Long-term price analysis
+
+Bitcoin has a bullish longer-term trading outlook, with the BTC / USD pair performing its fourth consecutive month of positive trading gains.
+
+The weekly time frame is showing that the BTC / USD pair bounced sharply from its 200-week moving average, further underscoring the long-term demand for the cryptocurrency.
+
+Both the weekly and monthly time frames show large head and shoulders patterns, with bulls needing to lift the BTC / USD pair towards the $19,000 level to completely invalidate the bearish patterns.
+
+Technical indicators on the weekly time frame remain bullish and still show scope for further upside.
+
+Traders should note that the weekly time frame is highlighting the $10,000 and $11,770 levels as major upcoming resistance levels.
+
+The MACD indicator on the weekly time frame is bullish, with the MACD signal line continuing to issue a strong buy signal. The RSI indicator on the weekly time frame remains bullish, although it is starting to approach overbought territory.
+
+In the near-term, trades should expect a deeper technical correction in the BTC / USD pair if price starts to hold below the important $8,400 technical level. Both the four-hour time and the daily time frames continue to show valid bullish patterns with wide-ranging upside targets extending between the $9,600 to $13,500 levels.
+
+Long-term BTC / USD bulls will need to rally the cryptocurrency towards its all-time trading high to eradicate the bearish head and shoulders patterns across the weekly and monthly time frames.

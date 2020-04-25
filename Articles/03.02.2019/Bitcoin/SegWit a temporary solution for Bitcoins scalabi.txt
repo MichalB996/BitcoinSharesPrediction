@@ -1,0 +1,81 @@
+DATE:  03.02.2019, 19:10:51
+TITLE: SegWit: a temporary solution for Bitcoin’s scalability problem
+URL:   https://cryptoheroes.ch/segwit-a-temporary-solution-for-bitcoins-scalability-problem/
+
+SegWit is an upgrade for the Bitcoin network that aims to bring down the size of transactions and thus increase the network capacity and the transaction speed. In this article, we will take a closer look at this renovation and find out what’s holding it back from mass adoption.
+
+Bitcoin scalability issue
+
+Ever since Bitcoin has gained popularity, it has stumbled across a very big issue: scalability. Bitcoin block size is limited by 1 MB and allows to process only seven transactions per second at the maximum.
+
+Apart from Bitcoin, many new projects with a much higher capacity have been created over the past years: EOS, Ripple, Tron, etc. However, as Bitcoin still holds its dominating positions, all these projects still have little chances to conquer the market. So the attempts to resolve the scalability issue with Bitcoin are still going on.
+
+Increasing the block size
+
+Various proposals have been made by the community on how to resolve this problem. The most obvious one is to increase the size of the block. However, this leads to increasing the weight of the whole network and reduces its security as bigger blocks are easier to hack. Also, all the nodes have to agree upon the upgrade, otherwise transactions just won’t be approved since the network is inconsistent. However, not all participants comply with the suggested changes.
+
+Actually, the community has been long debating about Bitcoin’s blocksize, which eventually led to the hard fork known as Bitcoin Cash (strongly supported by Roger Ver).
+
+On BCH, the block size equals to 8 MB and allows to process 61 TPS at the maximum. This is a significant improvement compared to Bitcoin, but still, it doesn’t fully resolve the issue. VISA and MasterCard process several thousands of transactions per second on a daily basis with the potential of reaching 65,000 TPS. The indices provided by Bitcoin Cash are just a drop in the ocean. Thus, increasing the block size is not a solution.
+
+Improvements offered by SegWit
+
+Bitcoin network is the public ledger where the information about transactions is stored. Bitcoin blocks the following information:
+
+Input data
+
+Output data
+
+The signature that validates the transaction
+
+The last item occupies a significant volume of each block. SegWit is the renovation that removes all the data related to signatures from transactions on Bitcoin and places it in a separate data box.
+
+This helps to decrease the weight of each transaction. More transactions can fit into one block and the network capacity increases.
+
+No more transaction malleability
+
+Apart from increasing the network speed, SegWit helps to eliminate one more flaw in the Bitcoin code – transaction malleability. In fact, this is what SegWit was created for in the first place. The decreased transaction weight and improved network capacity turned out to be a tasty bonus.
+
+Transaction malleability is the flaw that allows changing the transaction ID without changing the transaction itself. Here’s how it works:
+
+Alice sends 10 BTC to Bob. Bob utilizes the flaw of the Bitcoin network and changes the ID of the transaction before it is confirmed on the blockchain. The new ID sends bitcoins to another wallet. Bob makes a complaint that he hasn’t received bitcoins and shows the state of his wallet on the blockchain as a proof. He asks to repeat the transaction. Alice sends 10 BTC to Bob one more time. Thus, he gets the sum which is twice as big as it should have been.
+
+SegWit removes the transaction data from the block and thus helps to fix this bug.
+
+SegWit pros
+
+With all that has been mentioned above, here are the advantages that SegWit offers to Bitcoin users:
+
+SegWit eliminates transaction malleability and the risk of the network participants tricking each other.
+
+SegWit decreases the size of transactions and thus increases transaction speed.
+
+The amount of data that is needed to hold a full node decreases, too. Thus, the time needed to synchronize with the network and the requirements for node holders are reduced.
+
+SegWit supports the development of the Lightning Network. Fixing the bug with malleability moves forward the implementation of the second-layer protocols as it helps to reduce the risk with unconfirmed transactions.
+
+SegWit cons
+
+Despite its numerous advantages, the technology is far from perfect.
+
+Transaction size is reduced only by ~50%. This allows increasing Bitcoin capacity up to only 14 TPS, which is even smaller than what Ethereum currently offers (19 TPS). This is just a temporary solution for the scalability issue.
+
+SegWit is implemented by a very small number of nodes. As of January 2019, only an estimated 36% of all Bitcoin transactions are using it. The maximum of almost 40% was reached back in September 2018.
+
+What’s holding back SegWit adoption?
+
+There’s a number of reasons that allegedly prevent SegWit from being adopted on a mass level. Among them are the following:
+
+It’s a backward-compatible upgrade . Nodes that don’t use SegWit can normally communicate with those who have already implemented it. So, businesses are not in a hurry to adopt the new technology despite its advantages.
+
+. Nodes that don’t use SegWit can normally communicate with those who have already implemented it. So, businesses are not in a hurry to adopt the new technology despite its advantages. Risks of switching to new technology . The №1 rule of any IT company is not to touch something if it works properly. Users are fine with Bitcoin payments the way they are right now and there’s no guarantee that the upgrade will pass smoothly.
+
+. The №1 rule of any IT company is not to touch something if it works properly. Users are fine with Bitcoin payments the way they are right now and there’s no guarantee that the upgrade will pass smoothly. Decreasing miners’ reward. Excluding the transaction data from the block decreases the miners’ reward. It’s not surprising that mining giants such as Bitmain reject SegWit and doesn’t let it spread further. Considering the size of the market share that such companies hold, the chances for SegWit reaching the consensus are very low.
+
+Summing up
+
+Initially designed to eliminate the security bug, SegWit has granted the Bitcoin community a tool to resolve the biggest problem of scalability – to some extent. However, it doesn’t fully resolve it and creates additional problems on the way of BTC mass adoption. Just like the Lightning Network, SegWit is a quick and dirty hack that only offers a temporary solution for global issues.
+
+Currently, it exists as a soft fork. In order for the hard fork to occur, at least 95% of the network participants should accept the changes. With huge mining companies monopolizing the market, it’s hardly possible.
+
+More knowledge:

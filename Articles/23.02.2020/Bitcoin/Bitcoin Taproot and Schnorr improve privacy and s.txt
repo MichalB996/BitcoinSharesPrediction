@@ -1,0 +1,33 @@
+DATE:  23.02.2020, 11:15:44
+TITLE: Bitcoin: Taproot and Schnorr improve privacy and scalability
+URL:   https://www.crypto-news-flash.com/bitcoin-taproot-and-schnorr-improve-privacy-and-scalability/
+
+The Bitcoin Improvement Proposals (BIPs) for Taproot and Schnorr will improve the fungibility, privacy and scalability of Bitcoin.
+
+A timetable for deployment of the BIPs in the mainnet is not yet known.
+
+In mid-January, the Taproot/Schnorr proposal was officially formalized in the form of three Bitcoin Improvement Proposals (BIPs) 340, 341, 342, thus setting a milestone within the Bitcoin community. Taproot and Schnorr are considered the most important and biggest updates to the Bitcoin protocol in the recent past. It was a long way until the formalization through the Bitcoin Improvement Proposals.
+
+In 2018, Bitcoin core developer Greg Maxwell proposed Taproot for the first time, whereupon Pieter Wuille, also a core developer, made a bundled soft fork proposal with Schnorr. As CNF reported, Taproot and Schnorr are expected to bring huge improvements in the fungibility, privacy and scalability of Bitcoin.
+
+To date, Bitcoin uses the ECDSA algorithm to generate cryptographic signatures. Schnorr has been under discussion for some time and is an alternative algorithm with several advantages. Taproot allows payments to public keys, which can optionally be passed to a script. BTC protected by Taproot can be issued either by fulfilling the script or by providing a signature that is verified against the public key.
+
+Taproot is intended for use with Schnorr signatures, which simplifies the creation of multiparty scripts (e.g. with MuSig). In particular, the soft fork will also affect the Lightning network. A simple payment between two parties, the opening or closing of a Lightning channel will look the same with the upgrade for external observers.
+
+While the BIP itself does not imply final approval within the Bitcoin community, as Peter Wuille also noted, a first big step has been taken before Wuille will probably open a “pull request” to activate the upgrade in Bitcoin mainnet. A timetable for this is not yet known.
+
+The Schnorr/Taproot proposal is now published as BIPs 340, 341, and 342; see https://t.co/33uiulO8RA Note that the assignment of BIP numbers is not any kind of stamp of approval; it just means the process was followed (which includes some amount of public discussion). — Pieter Wuille (@pwuille) January 24, 2020
+
+Taproot and Schnorr will increase network capacity
+
+In the latest edition of the Crypto Voices podcast, Adam Back, CEO of Blockstream, spoke about the progress of the soft fork:
+
+Actually the technology has undergone a number of improvements. They are more flexible. There are interesting use cases for multi signatures but, you then, have to worry about the cost, so that’s a trade-off. So if Schnorr can largely eliminate the cost then people will feel more comfortable using multi-sig configurations.
+
+Wide ranging bitcoin discussion with @MatthewMezinskis across Bitcoin economics, technology including privacy/fungibility, tech improvements and even some applied crypto on hash functions. https://t.co/OIx7536DHg — Adam Back (@adam3us) February 22, 2020
+
+BitMEX Research had also previously commented on the integration of Schnorr and estimated that Schnorr would lead to an increase in network capacity:
+
+Although based on the current usage of the network, according to our basic calculation, even 100% Schnorr adoption only results in a 13.1% network capacity increase, in the long term the potential space savings and network capacity gains are likely to be far higher than this.
+
+Follow us on Facebook and Twitter and don’t miss any hot news anymore! Do you like our price indices?

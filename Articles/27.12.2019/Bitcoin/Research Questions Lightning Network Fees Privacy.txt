@@ -1,0 +1,83 @@
+DATE:  27.12.2019, 21:03:33
+TITLE: Research Questions Lightning Network Fees, Privacy
+URL:   https://bitcoinmagazine.com/articles/lightning-network-traffic-analysis-raises-questions-fees-privacy
+
+Ring in the new bitcoin halving cycle the right way: with us!
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+A new research paper provides what is perhaps the most informative series of snapshots simulating Lightning Network traffic over the past year.
+
+The paper, titled “A Cryptoeconomic Traffic Analysis of Bitcoin’s Lightning Network,” was written by a trio of Hungarian researchers: Ferenc Béres of the Institute for Computer Science and Control, István A. Seres of Eötvös Loránd University and András A. Benczúr of Széchenyi István University.
+
+Using a Lightning Network traffic simulator created for this research to imitate the network’s flow of transactions, the paper concludes that the current rate of network transaction fees is not economically viable for the long term. In addition to an immature fee market, the paper addresses the tendency of bitcoin senders using the Lightning Network to utilize more direct, less private payment routes. The paper proposes solutions to both perceived issues and, in doing so, raises questions about what the Lightning Network should ultimately be for Bitcoin.
+
+Lightning Network Problem #1: Economic Viability of the Fee Market
+
+The Bitcoin blockchain processes far fewer transactions per second (seven to nine) when compared with institutional giants such as Visa (which processes about 40,000 transactions per second). Even though Bitcoin is certainly not trying to be Visa, this illustrates the purpose of the Lightning Network: to scale Bitcoin. Thus the core idea of Lightning is to allow people to issue bitcoin payments off of the blockchain so that they can be conducted more seamlessly. This reduces processing backlog by creating faster and cheaper payments and also presents an interesting opportunity for better privacy.
+
+The Lightning Network is operated by nodes that run based off of Lightning Technology (BOLT), the foundation of the Lightning Network protocol. Similar to running an on-chain Bitcoin node, Lightning nodes route payments between senders and receivers, in turn reaping a transaction fee for their work.
+
+However, because the Lightning Network is both newer and more private than the Bitcoin blockchain itself, the research paper authors stated in a presentation that “to the best of our knowledge there was no paper on quantifying the financial incentives of LN router nodes.” Their analysis draws from traffic data extracted from 40 consecutive snapshots of the Lightning Network between February and March 2019, and a subsequent estimation simulating that data.
+
+The paper found that, “currently, LN provides little to no financial incentive for payment routing. Low routing fees do not sufficiently compensate the routing nodes that essentially hold the network together.” In their presentation, the authors estimated that daily routing income for major router entities at different levels of traffic volume and payment value is approximately 100,000 sats (about $7) per day.
+
+For clarity, Lightning Network developers set default transaction fees for node operators, they can agree to do this in consensus or act independently for their own Lightning software implementations. However, the node operators can manually adjust their transaction fee rate to whatever they want. The paper called this network-wide inclination for low transaction fees “economically irrational,” but in conversation with Bitcoin Magazine, Seres, a mathematics PhD in Budapest, was quick to admit that the behavior is probably more akin to a kind of altruism seen during the early days of Bitcoin’s on-chain fee market.
+
+Assuming nodes operators want a legitimate return on investment from transaction fees, the paper asserts that the financial incentives in the Lightning Network are not enough. To make payment routing economically viable for node operators, the paper proposes either 1) increasing traffic or 2) increasing transaction fees.
+
+“In this sense, many of the larger nodes can raise their transaction fees because they are in a monopolistic position,” the authors wrote.
+
+This means that, because many of the larger nodes are indispensable due to the proportion of transactions they currently route for the network, “there aren’t many options for neighboring nodes to route payments,” said Seres.
+
+Lightning Network Problem #2: Routing Privacy
+
+The paper also finds that despite randomized onion routing, “strong statistical evidence can be gathered about the sender and receiver of payments, since a substantial portion of payments involve only a single routing intermediary.”
+
+As a potential solution to this privacy drawback, the authors suggest using “deliberately suboptimal, longer routing paths [that] can restore privacy while only marginally increasing the cost of an average transaction.” Additionally, creating a direct payment channel between senders and receivers creates the optimal level of privacy.
+
+Based on the paper’s recommendations, if default transaction fees increase, taking longer, less direct payment paths for privacy will cost more. Similar to the concern with setting a default transaction fee for node operators, and in the spirit of Bitcoin’s earliest developments, this paper’s findings currently put the responsibility of privacy on users selecting their payment routes.
+
+Rationally Low Transaction Fees
+
+Many developers and node operators within the Lightning Network community are not likely to agree with the conclusions of the paper, that low transaction fees are economically irrational or even problematic.
+
+For instance, many Lightning Network node operators are Bitcoin businesses, such as Bitrefill, which allow customers to purchase a wide range of products and services using bitcoin through Lightning Network payments. Businesses like Bitrefill appear to be taking advantage of the Lightning Network’s low transaction fees for the sake of their customers.
+
+“It is entirely short-sighted to assume that Lightning routing is economically irrational if routing fees themselves have a summable cost to participants,” CCO of Bitrefill, John Carvalho, told Bitcoin Magazine. “There are at least two major factors that must be considered. One, that Lightning offers features that onchain Bitcoin transactions do not, like high frequency and instantaneousness. Those are features people are willing to incur cost to access. Two … economic actors have incentives to scale their node activity externally as a business, just like Bitrefill. Demand for commercial-friendly BTC transacting is real.”
+
+Another Bitcoin business taking advantage of the Lightning Network’s low transaction fees is Sparkswap, an app that lets users buy bitcoin with USD directly into a Lightning Network wallet.
+
+“In looking at our routing fees you might assume that we are operating in an uneconomic way, but considering our business as a whole tells a different story,” said Trey Griffith, founder of Sparkswap.
+
+Griffith stated that because Bitcoin businesses are such a dominant part of the Lightning Network’s routing, it’s difficult to draw meaningful conclusions from the paper’s data, like why certain openings create triangular routes.
+
+Griffith agreed that transaction fees will grow over time while Carvalho admitted “they will likely approach on-chain levels overtime … and a rank for rates can be predicted: Bitcoin on-chain > Lightning > Shitcoins.”
+
+Should Lightning Network Transaction Fees Be Raised?
+
+According to Seres, the ultimate harm of low transaction fees on the Lightning Network “would be that maybe nodes would quit the network, and it would lose capacity for payment channels.”
+
+And in October 2019, Rusty Russell, a developer for Blockstream, pointed out another pair of problems with setting low default transaction fees.
+
+In a message to the Lightning Dev mailing list, Russell observed that two-thirds of node operators were “sitting on the default (1,000 [millisatoshi] + 1 [parts per million of the payment (ppm)])” transaction fee. This would imply that the majority of node operators on the Lightning Network do not choose to deviate from default fee rate set by developers.
+
+Russell pointed out that acceptance of the default fees indicated low reliability and that routing gets slowed in trying to find a responsive node. He also noted that “there’s no meaningful market signal in fees,” meaning that the Lightning Network fee market doesn’t look like a real market.
+
+Elaborating more recently on Russell’s point and responding to the paper’s findings, Russell’s colleague, Blockstream researcher and general Bitcoin and Lightning Network enthusiast Christian Decker, told Bitcoin Magazine that “the issue at hand is that the current default fees do not leave much room for differentiation. By increasing the default fees, we’d automatically skew the route selection away from nodes that were just set up and left there unattended.”
+
+Decker also pointed out that the paper seemed to have overlooked that c-lightning implementation already randomizes route selection for senders. Decker said that “due to the randomization in route selection, an increase in the default fee rate would not result in those nodes being excluded from forwarding payments, but we could still skew the routes towards more actively managed nodes.”
+
+Looking Into 2020
+
+While most sources interviewed for this article did not agree with the paper’s conclusions, their concerns did shed light on the Lightning Network of 2019 and what are likely to be major priorities for 2020.
+
+“Since our public testing began a little over a year ago, the Lightning community has built a lot of infrastructure to bootstrap the network and to experiment [with] what works and what doesn’t,” Decker said. “This builds the foundation on which we can build in the coming years, and we expect that many of the upcoming developments will indeed be more user facing. This includes simpler UX and further improved reliability, which can then drive user adoption. We agree with the authors that privacy is likely a major topic in LN for 2020.”
+
+Carvalho also doesn’t see a problem with the Lightning Network’s low transaction fees and projects significant improvements in the coming year.
+
+“In the end, the nature of the network being P2P and voluntary means that arguments against its rationality must refute the reality that the network persists, is growing and being leveraged by businesses today,” he said. “In my view, we’re only scratching the surface and Lightning will demonstrate more uses cases and incentives for participation in 2020.”
+
+Furthermore, Carvalho made the point that the Lightning Network has never made a promise to solve privacy off-chain — that is more a side effect of its privacy-minded culture of engineers and users. And, in the context of on-chain data, “having the ability to watch some money move on Lightning does not imply you have useful external taint to apply to it.”To learn more about what could be coming for the Lightning Network in 2020, you can follow the discussion by subscribing to this Lightning Network developer mailing list.

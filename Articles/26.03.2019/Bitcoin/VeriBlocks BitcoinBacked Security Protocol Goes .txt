@@ -1,0 +1,53 @@
+DATE:  26.03.2019, 16:35:03
+TITLE: VeriBlock’s Bitcoin-Backed Security Protocol Goes Live
+URL:   https://bitcoinmagazine.com/articles/veriblocks-bitcoin-backed-security-protocol-goes-live
+
+Ring in the new bitcoin halving cycle the right way: with us!
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+After a year on its testnet, the VeriBlock blockchain went live yesterday on the Bitcoin mainnet, allowing exchanges, wallet providers, merchants and other crypto businesses to leverage Bitcoin’s robust blockchain security.
+
+Now that it’s live on the mainnet, VeriBlock’s model extends the Bitcoin blockchain’s security protection from 51-percent attacks to non-Bitcoin blockchains by linking them to the Bitcoin blockchain, offering it as a security backstop.
+
+How Does VeriBlock Work?
+
+VeriBlock allows any blockchain to inherit the full proof-of-work security of Bitcoin using a novel consensus protocol — proof of proof — which records snapshots of any given blockchain and embeds them (in an aggregated form) in Bitcoin transactions, allowing the former to inherit the latter’s security characteristics.
+
+These snapshots can be automatically referenced by the protocol in the event of a 51-percent attack to determine the correct chain. The presence of conflicting snapshots for a particular “altchain” triggers early attack detection (EAD) metrics, which warns users about the potential rewrite before they confirm the transaction and updates them when the transaction is safe to accept.
+
+VeriBlock uses OP_RETURN — a type of bitcoin transaction that is used for embedding data on the blockchain. It can be used for anything from proving the existence of some data at a specific point in time (proof of existence) to issuing new assets, all on top of the Bitcoin blockchain.
+
+“A ‘regular’ Bitcoin transaction and one carrying a VeriBlock publication need not be mutually exclusive,” VeriBlock CTO Max Sanchez said. “It would be a relatively simple engineering matter to add an option in a Bitcoin wallet that said ‘Sending BTC? Secure the crypto-ecosystem with VeriBlock and subsidize your BTC transaction fee.’”
+
+Does VeriBlock Create Problems for Bitcoin?
+
+There have been estimates of the percentage of the Bitcoin blockspace used by VeriBlock that range from 20 percent of the network to as high as 45 percent. This may raise some concerns about how VeriBlock will affect the network.
+
+“This was widely reported right before the VeriBlock testnet was phased out,” Sanchez said. “However, the effects of proof of proof on the Bitcoin network are actually very small … As demand for bitcoin transactions increases and users are willing to bid higher fees, the amount of space VeriBlock consumes in Bitcoin will shrink — the two economic forces result in an equilibrium.”
+
+Sanchez also noted that VeriBlock’s solution offers security regardless of Bitcoin’s transaction frequency at a given time.
+
+“The natural ebb-and-flow of VeriBlock transaction volume on Bitcoin does not affect the security characteristics of VeriBlock or VeriBlock-secured altchains, nor does it adversely affect Bitcoin,” he said.
+
+Jameson Lopp, CTO of Casa, has been observing VeriBlock’s activity on Bitcoin’s testnet for over a year.
+
+During an episode of the HSHR8 podcast on March 20, 2019, Lopp said that he doesn’t see the VeriBlock venture as an attack on the Bitcoin network, as some might, but he wondered about the economics of spending millions in fees to provide security.
+
+“If you’re paying the fees to put it in the blockchain and you convince some miners to put it in, then there might be some economic rationality for this,” he said. Lopp also noted that he can see “the value of having a data anchor” for Bitcoin.
+
+“We believe that VeriBlock elegantly expands Bitcoin’s usefulness and does so in a way that doesn’t result in a burden on the network,” VeriBlock CEO Justin Fisher told Bitcoin Magazine. “It drives demand for Bitcoin and also, in its own way, helps make Bitcoin more secure while maximizing the utility derived from Bitcoin’s energy consumption.”
+
+In an announcement on March 25, 2019, Matt Roszak, Bloq co-founder; Anthony Di Iorio, founder and CEO of Decentral; and Bill Shihara, co-founder and CEO of Bittrex, all commended VeriBlock on its innovative new protocol, expecting it to add a new level of security to the blockchain ecosystem.
+
+“Bloq is proud to have been part of the journey with VeriBlock over the past two years — and especially with a technology that helps any blockchain project thrive and benefit from the security that Bitcoin provides,” Roszak wrote on his company blog. “As the multi-chain, multi-network, multi-token world emerges, we are confident that VeriBlock will continue to play a vital role as a security root for this new frontier.”
+
+The vice president of crypto exchange BitBuy, Jordan Anderson, also praised the solution in an interview with Bitcoin Magazine.
+
+“VeriBlock is an excellent example of a proof-of-proof initiative to ensure altcoins are not susceptible to a 51-percent attack,” he said. “VeriBlock will promote security and stability within the altcoin ecosystem, and provide greater confidence to consumers looking to participate.”
+
+Meanwhile, long-time bitcoin core developer Peter Todd was more apprehensive, explaining that he needed time to look at the actual implementation of the VeriBlock project.
+
+“The general idea of piggybacking on an existing consensus system is a good one,” he said. “But VeriBlock is an unusually complex variant of that idea, so I'm not confident given what I've seen in the white paper that it is secure.”

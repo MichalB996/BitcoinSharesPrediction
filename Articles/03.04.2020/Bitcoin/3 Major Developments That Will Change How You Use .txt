@@ -1,0 +1,47 @@
+DATE:  03.04.2020, 18:00:06
+TITLE: 3 Major Developments That Will Change How You Use Bitcoin
+URL:   https://bitcoinist.com/3-major-developments-that-will-change-how-you-use-bitcoin/
+
+Bitcoin Technology 3 Major Developments That Will Change How You Use Bitcoin
+
+For all of its revolutionary potential, Bitcoin remains a work in progress. Its long, and often contentious development has been the subject of immense debate among both supporters and critics. Several emerging steps along its march to completion will soon become game changers on the move toward mass adoption.
+
+
+
+SCALABILITY IS A PRIORITY
+
+Increasing network capacity is crucial for Bitcoin’s long-term success. Finding a workable scaling solution has been by-far the most difficult and contentious challenge faced by Bitcoin advocates.
+
+The adoption of Segregated Witness (SegWit) enabled the creation of the Lightning Network (LN), which in theory solves the scaling problem. However, LN use has been anaemic since its launch. Apps and wallets that use the protocol are not user friendly, and it remains more of a novelty than a core function of the platform.
+
+This fact may soon change as the network grows. Presently, daily transaction levels are low enough for all to easily move on-chain without help from the LN. Bitcoin will begin to see problems once daily volume is roughly double what it is now, which is all but certain to happen. At that point fees and slowing confirmation times will make using the LN far more attractive.
+
+There are other scaling solutions in the works as well. Liquid, promoted by Blockstream, is growing rapidly. In fact, as Longhash recently pointed out, more Bitcoins are tied to Liquid than the LN at the time of writing:
+
+The Lightning Network is a much hyped improvement for Bitcoin. But recently, the amount of BTC held on the Liquid sidechain surpassed BTC held in public Lightning Network channels. Analysis: https://t.co/iIiSvyX19T @kyletorpey — LongHash (@longhashdata) March 26, 2020
+
+BITCOIN PRIVACY FEATURES WILL BE EMBRACED
+
+Critics have long derided Bitcoin for lacking true privacy, as every transaction can be tracked on the chain. Many altcoins, such as Monero, Zcash, and Dash seek to solve this shortcoming through a variety of obfuscation features.
+
+Bitcoin developers have been hard at work on this issue for several years. One solution, known as bulletproofs, uses what are known as “zero knowledge proofs.” These enable senders and receivers to prove that they know the value of a transaction without revealing how. Thus, transactions can be sent and confirmed privately.
+
+Other ways to ensure private Bitcoin transactions are also under development. It remains too early to know which will become the standard, yet there is little doubt that the flagship cryptocurrency will soon enable fully confidential use. How this will tie in with future international regulations however, remains to be seen.
+
+CROSS CHAIN FUNCTIONALITY WILL OPEN NEW DOORS
+
+The ability to move blockchain assets across the various platforms has long been a major goal of crypto developers. Various incarnations of this ability have been worked on over the years, the most notable of which are Atomic Swaps.
+
+Perhaps the strongest demand is to create functionality between Bitcoin and Ethereum. In fact, Vitalik Buterin recently tweeted about this issue:
+
+We should put resources toward a proper (trustless, serverless, maximally Uniswap-like UX) ETH <-> BTC decentralized exchange. It's embarrassing that we still can't easily move between the two largest crypto ecosystems trustlessly. — vitalik.eth (@VitalikButerin) March 24, 2020
+
+Among the most promising is the Nerve network, which is part of the Nuls ecosystem. The Nuls technical team has just released a whitepaper that outlines how Nerve will enable a degree of interoperability between Ethereum and Bitcoin. Cosmos and Polkadot are two other platforms also working on similar projects.
+
+The most important takeaway from these developments is the fact that Bitcoin is far from complete. Many changes will soon dramatically increase its functionality and potential for use on a mass scale.
+
+What do you think is Bitcoin’s most important development going forward? Add your thoughts below!
+
+
+
+Images via Shutterstock, Twitter @VitalikButerin @longhashdata

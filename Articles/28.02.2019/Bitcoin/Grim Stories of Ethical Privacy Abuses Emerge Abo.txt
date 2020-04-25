@@ -1,0 +1,71 @@
+DATE:  28.02.2019, 14:19:16
+TITLE: Grim Stories of Ethical, Privacy Abuses Emerge About Coinbase’s New Partners
+URL:   https://bitcoinmagazine.com/articles/grim-stories-of-ethical-privacy-abuses-emerge-about-coinbases-new-partners
+
+Ring in the new bitcoin halving cycle the right way: with us!
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+When Coinbase acquired Neutrino for an unspecified amount in February 2019, the news looked like business as usual: A cryptocurrency juggernaut had made another acquisition. But the company in question, specifically the ties it has to the unethical practices of one of its predecessors, suggests that the monolithic Coinbase may be joining the oligarchic ranks of its privacy-hostile, too-big-for-consumer-comfort counterparts in legacy tech.
+
+The Ties That Damn
+
+On its website, Italian blockchain analysis company Neutrino proudly advertises that its proprietary software offers all-in-one “solutions for law enforcement” and “financial services.” Its two flagships, XFlow nSpect and XFlow nSight, are billed as “comprehensive solution[s] for monitoring[,] analyzing and tracking cryptocurrency flows across multiple blockchains.” nSight was built to help exchanges and financial service companies like Coinbase to stay regulatorily compliant. nSpect, on the other hand, was built for “criminal investigations and intelligence gathering” and is specifically marketed toward law enforcement.
+
+Continuing on with their work at Coinbase, the Neutrino team, a three-man show consisting of CEO Giancarlo Russo, CRO Marco Valleri and CTO Alberto Ornaghi, are no strangers to building complex computer monitoring software for law agencies.
+
+In another life, they did it as Hacking Team, the notorious Italian software services firm whose dubious business practices made them an antagonist of the wider tech and privacy community. Hacking Team got their start when Valleri and Ornaghi (under the aliases NaGa and ALoR) sold man-in-the-middle attack software to the police force of Milan, Italy, in 2003. These two founders would later be joined by Russo, who acted as COO of the company.
+
+Throughout its history, Hacking Team sold its services to oppressive regimes in Saudi Arabia, Morocco, Sudan, Kazakhstan, Bahrain and Turkey, among others. These services centered around Hacking Team’s proprietary Remote Control System (RCS) software, a Trojan horse malware that gives users the ability to remotely access files, record keystrokes, take photos and read emails from any infected device.
+
+Email leaks reported by The Intercept trace the team’s cyber footprints to human rights abuses around the world. Hacking Team’s RCS technology was used by the Ethiopian government (which ranks as one of the most oppressive in Africa, with a penchant for silencing free speech) to surveil and interfere with the operations of Ethiopian Satellite Television and Radio, a news outlet run by Ethiopian expats. The technology helped the Turkish government to spy on an American, and it was also sold to the Sudanese National Intelligence and Security Service in 2012 for a whopping €960,000 (around $1,210,000 at the time), though the team shuttered Sudan’s access to their software in 2014 when the government’s clumsy implementation of the software showed that they weren’t “enough prepared for the product usage,” Hacking Team emails reveal. It also played its part in the murder of journalist Jamal Khashoggi in Saudi Arabia and the assault and arrest of UAE activist Ahmed Mansoor.
+
+Reporters Without Borders labeled Hacking Team as one of five “Enemies of the Internet” in 2013 for its role in humanitarian abuses against journalists.
+
+During the 2012 uprisings in Morocco that were inspired by the Arab Spring movement, RCS, under the control of the Moroccan government, singled out Mamfakinch.com, an outlet that published journalists who were vocal critics of the regime. The leaked emails prove that Hacking Team had been selling its software to Morocco since 2010. This would culminate in Mamfakinch’s hardware being infected by a Trojan horse virus, which originally masqueraded as a news tip.
+
+“Mamfakinch.com came as the first citizen media portal to document protests, providing tools like mapping of protests and also articles. At the time it started, I was not a member. I was asked to join later by one of the co-founders,” Zineb, a pro-democracy activist who was involved with Mamfakinch, told Bitcoin Magazine.
+
+The outlet employed the help of the Citizen Lab to dismantle the virus and trace it back to its Hacking Team source, though most of the damage had already been done by the time they consulted this help.
+
+“Moroccan activists suffer tremendously from what government surveillance provides them with, and former ones like myself have seen what that can be like. From physical threats to family threats, and even worse threats to fellow activists who were part of the human rights and digital rights effort in Morocco,” she said.
+
+Hacking Team repeatedly refused to disclose its clients, and the internal emails betray that, more often than not, when their ties to human rights abuses and oppressive regimes were unearthed by international media, they always tried to mitigate the scrutiny and severity of the ensuing bad press.
+
+In June of 2014, a U.N. panel inquired into Hacking Team’s business with Sudan for violating sanctions regarding weapons exports to the country. The U.N. considered Hacking Team’s software a weapon of sorts, something that Russo refutes in internal emails while also emphasizing that the team wants to keep its name clear from any records regarding the investigation.
+
+“It looks like their focus is to trace every single armament,” wrote Russo. “We absolutely need to avoid being mentioned in these documents.”
+
+Why Coinbase (and We) Should Care
+
+The U.N. investigative panel would mark the beginning of Hacking Team’s unraveling. By March 2016, the Italian government revoked Hacking Team’s export license after an Italian PhD student was murdered in Cairo, Egypt. Hacking Team’s software was allegedly involved in the crime. With the company’s revenue streams severely restricted, Hacking Team was on its last financial leg.
+
+Conveniently, Neutrino was founded the same year that Italian officials revoked Hacking Team’s export license, “very obviously around the time that they would have been desperate for money and needing to start fresh somehow,” Janine, a member of crypto podcast Block Digest who initially raised the alarm about Hacking Team and Neutrino’s ties, told Bitcoin Magazine.
+
+Bitcoin Magazine spoke to Janine to learn more about the possible ramifications of this acquisition. In addition to her work at Block Digest, Janine has been a consistent and reliable whistleblower for industry developments that could indicate privacy threats. In the past, she also helped dissect community concerns surrounding the privacy implications of Bitfury’s Peach Lightning suite.
+
+As with the Bitfury situation, Janine has covered every angle of Neutrino and Hacking Team’s shared past on Twitter, and she helped Block Digest produce a two-hour segment on the subject, as well.
+
+Hacking Team has been listed as an “Enemy of the Internet” by @RSF_inter because they “sell products that are used by authoritarian governments to commit violations of human rights and freedom of information.” https://t.co/9xDnfJotYo — Janine (@J9Roem) February 20, 2019
+
+Since Neutrino was acquired by Coinbase, the team is more than financially secure. Furthermore, as part of the deal, it will continue to act autonomously out of Coinbase’s London office. The exchange framed the buyout as a means to outfit itself with the proper tools to remain KYC- and AML-compliant with regulators. Janine points out that the company will likely make use of XFlow nSight to this end, though she’s also worried that Neutrino’s technology will come with more serious privacy trade-offs than nSight’s base functionality.
+
+“The chain analysis stuff is not really that interesting to me; it is how much access Coinbase will give to Neutrino,” she told Bitcoin Magazine.
+
+More specifically, she expressed concern about Money Module, a Hacking Team software that allows the user to access devices and private keys. Janine is also suspicious of the backdoors that Hacking Team coded into their software: “They likely had access to whatever data these government clients were collecting from their targets.”
+
+If Coinbase forks over too much data to Neutrino for transaction analysis, and if a backdoor to the software exists in tandem with Money Module, this could spell disaster for user privacy and private key security.
+
+That this backdoor may exist alongside a vehicle for stealing user funds is disturbing — even more disturbing, Janine and other critics have suggested, is Coinbase’s ability to overlook the history of unethical business practices of Neutrino’s team.
+
+When Bitcoin Magazine reached out to Coinbase to ask about the acquisition and how it plans to use Neutrino, the exchange sent back a general statement, indicating that they are aware of and don’t condone Hacking Team’s practices. But this past behavior is not enough for Coinbase to distance themselves from a team whose expertise is in line with its vision:
+
+We are aware that Neutrino’s co-founders previously worked at Hacking Team, which we reviewed as part of our security, technical and hiring diligence. Coinbase does not condone nor will it defend the actions of Hacking Team. Increasingly, third-party blockchain analysis companies are requesting customer data from cryptocurrency companies that they serve. It was important for Coinbase to bring this function in-house to fully control and protect our customers’ data and Neutrino’s technology was the best we encountered in the space to achieve this goal.
+
+Zineb, who is also a crypto enthusiast, told us that it’s disheartening to see the same privacy-compromising and autocratic software eke its way into the cryptocurrency space. You expect this from the legacy tech industry, she expressed, but you don’t expect it in an industry whose tenets rest on privacy, freedom and censorship resistance.
+
+“To have Coinbase acquire anything run by anyone ever associated with Hacking Team is alarming,” she said. “Perhaps Coinbase is clueless as to WHY it’s important to protect [these virtues], but I’m not. When banks freeze or easily hand over private financial information of dissidents in autocratic countries, that’s when a system like [Bitcoin] is needed.
+
+“They say this is to protect user data. But how can they possibly trust that those who engaged in such appalling actions would somehow have Coinbase user data privacy’s best interest at heart? I can’t say much for others but I can only speak for myself: I won’t be using any of their tools in the future, and shame on them for allowing the Hacking Team people to continue to thrive.”

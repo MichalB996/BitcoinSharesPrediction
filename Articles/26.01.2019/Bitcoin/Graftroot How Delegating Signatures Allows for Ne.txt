@@ -1,0 +1,47 @@
+DATE:  26.01.2019, 04:23:30
+TITLE: Graftroot: How Delegating Signatures Allows for Near-Infinite Spending Variations
+URL:   https://bitcoinmagazine.com/articles/graftroot-how-delegating-signatures-allows-near-infinite-spending-variations
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+This article is a direct follow-up from our Taproot explainer. If you haven’t read that article, you should probably do so first.
+
+If Taproot is deployed on Bitcoin, many smart contract constructions will look just like regular transactions on the blockchain. As long as all participants agree on the outcome of the contract — a “cooperative close” — the clever combination of Schnorr and MAST offers both data efficiency and privacy.
+
+However, if a Taproot smart contract is complex enough — that is, if there are many potential outcomes — the Merkle path that needs to be revealed in case of an uncooperative close would still be data heavy.
+
+A follow-up proposal by Bitcoin Core contributor Gregory Maxwell, “Graftroot,” could provide similar benefits as Taproot but without this downside, offering even more smart contract flexibility.
+
+Graftroot
+
+With Taproot, all participants in a smart contract combine their public keys to create a “threshold public key,” from which they can spend with their “threshold signature.” For Graftroot, all participants create such a threshold public key as well. But this time, they do not tweak this threshold public key.
+
+The participants do create the different scripts: the alternative conditions under which the money can be spent. But, with Graftroot, they all sign the different scripts to create threshold signatures corresponding with these scripts. Any participant that wishes to use a particular script as a fallback takes and stores that script and the corresponding threshold signature. These signatures can later prove to the world that the script was a valid alternative, a “delegation”, agreed upon by all participants.
+
+So, let’s say that Alice and Bob establish a smart contract where both of them can spend funds together, or have Alice alone spend it after a week, or have Bob alone spend it in combination with a secret number. In this case, Alice and Bob combine their public keys to create a threshold public key from which they can later spend the funds if they provide the threshold signature. (They do not create this threshold signature yet — only when they spend the funds.)
+
+Then, they also create and immediately sign the alternative scripts. Alice keeps the threshold signature corresponding to the script that lets her spend the coins after a week, and Bob keeps the threshold signature corresponding to the script that lets him spend the coins in combination with a secret number. (Note that the threshold signatures and corresponding scripts alone don’t suffice to spend the coins; they just prove that the scripts are agreed on by both Alice and Bob. The conditions specified in the scripts still need to be met to spend the coins.)
+
+The next day, when the time comes to settle the contract, Alice and Bob will likely agree to sign the settlement transaction. They, together, create a threshold signature to spend from the threshold public key, and no one else learns about the alternative spending conditions, or even that more than one person was involved. It looks like a regular transaction.
+
+But, if the cooperative close fails for some reason, whoever can meet an alternative condition gets to spend the coins alone. If Bob has the secret number, he reveals “his” alternative script in combination with the threshold signature corresponding to the script. The rest of the world can check the threshold signature against the threshold public key, and will conclude that all participants in the smart contract agreed on the alternative script. Bob can, therefore, rightfully spend the coins with the secret number. Alternatively, if a week has passed, Alice can reveal “her” alternative script in combination with the threshold signature for the script and spend the coins. In either case, no one learns of the alternative backup script.
+
+The main benefit of Graftroot is that it no longer matters how complex a smart contract is or, more accurately, how many possible outcomes there are. While the above example only includes two alternative scripts, a Graftroot construction could include hundreds, and it wouldn’t make a difference. Alice and Bob could even add more conditions after the original smart contract was constructed!
+
+A downside, however, is that Graftroot is interactive. Participants must communicate with each other to sign the alternative scripts, even before spending the coins. Additionally, participants will need to store the threshold signatures for the alternative scripts; if they lose this signature, they lose their fallback.
+
+Graftroot’s Development
+
+So, when will Bitcoin users be able to utilize this tech?
+
+The good news is that with Segregated Witness, a feature called “Script Versioning” allows for a relatively easy rollout of these types of changes — Schnorr signatures, Taproot, Graftroot — in a backwards-compatible manner.
+
+Still, ideally, the Bitcoin Core contributors working on these kinds of upgrades — this includes Pieter Wuille, Anthony Towns, Johnson Lau, Jonas Nick, Andrew Poelstra, Tim Ruffing, Rusty Russell and Gregory Maxwell — would prefer to roll out all these improvements at once. While script versioning makes upgrading easy, it does require that transactions reveal which protocol upgrade is being used. So while Graftroot could perfectly hide that alternative scripts were available, the script version could still reveal that the transaction is using Graftroot. Deploying multiple protocol upgrades at once avoids this to an extent, as they’d all use the same script version. On top of that, deploying several upgrades at once benefits software compatibility.
+
+On the other hand, a “relatively easy rollout” is still a huge undertaking when it comes to consensus changes on a security-critical protocol that is running 24/7, sometimes with varying interests and preferences when it comes to upgrades. Each potential feature has its own trade-offs, so combining many at once could also lead to more objections. And, of course, combining more features into a single upgrade doesn’t make the development process any easier either.
+
+For now, therefore, Schnorr signatures and Taproot are prioritized, to be proposed as a single package. Graftroot could be a step after that.
+
+This is a general outline of the Graftroot concept; implementation specifics may vary. For more details, read the original Graftroot proposal by Gregory Maxwell or watch this presentation by Pieter Wuille.

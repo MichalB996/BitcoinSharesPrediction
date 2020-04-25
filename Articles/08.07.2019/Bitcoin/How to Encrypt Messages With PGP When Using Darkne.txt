@@ -1,0 +1,45 @@
+DATE:  08.07.2019, 02:45:56
+TITLE: How to Encrypt Messages With PGP When Using Darknet Markets
+URL:   https://news.bitcoin.com/how-to-encrypt-messages-with-pgp-when-using-darknet-markets/
+
+How to Encrypt Messages With PGP When Using Darknet Markets
+
+If you’re capable of shopping on the darknet, you’re capable of encrypting your order. PGP provides protection for both parties, thwarting man in the middle attacks and keeping busybodies at bay. The following guide explains how to install PGP and then use it to place an encrypted order on the darknet.
+
+Also read: 7 Darknet Markets Where Your Cryptocurrency Is Welcome
+
+
+
+Pretty Good Privacy Is Very Good
+
+Don’t let the name mislead you: Pretty Good Privacy (PGP) is better than good – it’s excellent. The encryption standard developed by Phil Zimmerman in 1991 is today widely used for signing, encrypting and decrypting emails, text documents, and other files. If you’re familiar with using Bitcoin, you’ll understand the public/private key pairing that is integral to PGP. With Bitcoin, your public key is represented as your wallet address, while your private key is the part you guard with your life, since it’s used to access your wallet.
+
+With PGP, your private key is used to verify your identity every time you sign a message, and thus should equally be safeguarded. For the purposes of this guide, we’re going to use GPG Suite which is designed for Mac. Windows users can install Gnu PG instead or similar open source software. If you’re wondering what the difference between PGP and GPG is, incidentally, the latter stands for Gnu Privacy Guard, and is simply a more up to date version of PGP. To all intents and purposes, however, they’re the same.
+
+Setting up GPG Suite
+
+GPG Suite comprises four pieces of software: GPG Mail, GPG Keychain, GPG Services, and MacGPG. Hit the download button and the 25 meg file will install on your desktop within a minute or so.
+
+Run the standard setup guide, which will auto-install the software on your Mac, and then open GPG Keychain. Your first task is to create a new key, which will be used to sign and decrypt all communications you send and receive. Gpgtools has a good guide to creating your own key pair, which can be summarized as follows:
+
+Select ‘New’ from the top left of the GPG Keychain console. Enter a name, email address and strong password. (Note: you don’t need to use your real name or real email address – nor should you if you’re intending to use this key on the darknet.) Decide whether to have your key uploaded to a public server, so others can easily import it and message you. If you’re creating this key solely for use on the darknet, you’re better selecting ‘No.’ Note that once a key has been uploaded to the key server, it cannot be removed. Select ‘Generate key’ and after a few seconds your new key will appear in GPG Keychain, with the words ‘sec/pub’ (secret/public) and a green bar to show it’s valid.
+
+Now that we’ve covered the setup process, let’s take a trip to the darknet and run through the ordering process on one of its many marketplaces.
+
+How to use PGP to Order From a Darknet Market
+
+For the purposes of this walk-through, the darknet market chosen is Tochka Market, its onion address selected from dark.fail. Upon logging in to Tochka and selecting the item I wish to order, I’m prompted to enter my details.
+
+If I was being lazy and wasn’t bothering to encrypt, I’d just paste my delivery address in here, but for the reasons outlined at the outset, this is ill-advised. Instead, make sure that you have GPG Keychain open on your desktop. Then, select the vendor’s PGP key that is displayed above the message window. (Other DNMs may require you to visit the vendor’s profile page to obtain their PGP key.)
+
+Select everything from —–BEGIN PGP PUBLIC KEY BLOCK—– to —–END PGP PUBLIC KEY BLOCK—– including these two headers. Then select CMD+C to copy the address. When you do this, the GPG Keychain icon in your dock will bounce, and when you click on the icon you’ll be asked whether you wish to import the key. Select ‘Yes’. If you order from the same vendor again, you’ll be able to skip this part since you’ll already have their key stored for future reference.
+
+Next, open Textedit and paste your postal address into a blank document, select the text so that it’s highlighted, double tap on the trackpad, and from the menu that appears select Services > OpenPGP Encrypt Selection. In GPG Keychain, check the box pertaining to the vendor whose key you just imported. (If you’ve shopped with a few vendors, you’ll have multiple keys stored in here, so it’s important to make sure you’ve selected the correct one.) Select ‘Encrypt’ and a jumbled message that looks like this will appear in a new Textedit window:
+
+Copy and paste the message into the order form on the darknet market, submit and that’s it: your encrypted message will be sent to the vendor. Since only they possess the corresponding private key, only they can unscramble the message and read its contents. Once you’re accustomed to the process, encrypting your communications when ordering off the darknet takes all of 20 seconds. Pretty Good Privacy is pretty easy when you know how.
+
+Do you use PGP? If so, what’s your favorite software for managing your keys? Let us know in the comments section below.
+
+Images courtesy of Shutterstock.
+
+Disclaimer: Readers should do their own due diligence before taking any actions related to third-party companies, darknet markets, or any of their affiliates or services. Bitcoin.com and the author are not responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any third party content, goods or services mentioned in this article. This editorial is for informational purposes only.

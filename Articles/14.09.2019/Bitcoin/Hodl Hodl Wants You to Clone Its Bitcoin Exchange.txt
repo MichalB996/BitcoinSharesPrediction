@@ -1,0 +1,57 @@
+DATE:  14.09.2019, 11:09:59
+TITLE: Hodl Hodl Wants You to Clone Its Bitcoin Exchange
+URL:   https://www.coindesk.com/hodl-hodl-wants-you-to-clone-its-p2p-bitcoin-exchange
+
+Hodl Hodl plans to make its software freely available so anyone can launch their own version of the peer-to-peer bitcoin exchange.
+
+Announced Saturday at the Baltic Honeybadger conference in Riga, Latvia, the plan is, in part, a recognition that Hodl Hodl’s business model is vulnerable to regulatory crackdowns.
+
+“History teaches us that if a government wants to shut you down, it will,” Hodl Hodl CEO Max Keidun told CoinDesk.
+
+Open-sourcing the code for its smart contracts, which Hodl Hodl intends to do sometime next year, is a way to deal with the threat, Keidun said, explaining:
+
+“Let’s imagine, our domain gets blocked — some activist would be able to just take the code from Github, fork it and launch something new.”
+
+Already, people in Africa, Asia and Latin America have reached out to the company, asking about such an opportunity, he said. “Peer-to-peer is something emerging markets, in particular, are interested in.”
+
+Rare breed
+
+Hodl Hodl is a rare animal in the 2019 crypto world: as a matter of principle, it focuses on bitcoin (the only cryptocurrency that the company’s founders trust), it doesn’t do know-your-customer (KYC) checks and it has no plan to start.
+
+Why not? “Because we don’t like three-letter abbreviations,” Hodl Hodl’s CTO, Roman Snitko, joked in a slide for his presentation to the Riga conference.
+
+In all seriousness, Hodl Hodl is averse to holding the sensitive personal information that financial institutions are mandated to collect from customers under global anti-money-laundering (AML) regulations.
+
+“We think KYC/AML does more harm by exposing law-abiding users to fraudsters and criminals,” Snitko told CoinDesk. “The information and documents users upload to exchanges has been stolen many times in the past. It also does very little to prevent actual money laundering and criminals from using those services. They always find ways.”
+
+Yet regulators across the globe are tightening the screws on the industry to identify the parties to transactions. Most notably, the Financial Action Task Force (FATF), an intergovernmental body, has directed its member countries to make exchanges collect and store information about who their customers trade with.
+
+Winds of change
+
+Hodl Hodl’s founders believe they don’t have to identify customers because the exchange never takes custody of users’ funds.
+
+Rather, it lists offers to buy or sell bitcoin and provides an escrow service in which the seller locks bitcoin in a multi-signature smart contract until the buyer sends fiat. Releasing the bitcoin requires 2 out of 3 signatures, belonging to the buyer, seller, and Hodl Hodl (which steps in as a referee when there’s a dispute).
+
+“We don’t touch the crypto, don’t match users automatically and don’t keep funds in our wallets,” Keidun said. “We create multisigs in a public blockchain,”
+
+In the same June guidance, the FATF said even peer-to-peer platforms may be subject to such regulations in cases “where the platform facilitates the exchange.” It’s unclear whether Hodl Hodl’s escrow service counts as “facilitating.”
+
+But the founders see the way the wind is blowing.
+
+“We’re not switching to the open-source model exclusively because of the regulatory pressure,” Snitko told CoinDesk. “In fact, we haven’t experienced any due to the fact that we’re a non-custodial exchange. However, we do foresee regulators becoming more desperate in their attempts to contain the spread of bitcoin and we refuse to be the victims of desperate actions.”
+
+Passing the reins
+
+At some point, Keidun and Snitko might hand management of Hodl Hodl to others so they can focus entirely on supporting and upgrading the code. (The exchange says it has no head office; employees work remotely, serving 10,000 users worldwide.)
+
+“We want to create a community around us, so that at some point we could pass the reins to other people,” Keidun said. There is no timeframe for that yet.
+
+In his Riga presentation, Snitko also announced Hodl Hodl’s intention to open “a bitcoin smart contract app store.”
+
+Another way people can utilize the code is payments for e-commerce, and in the coming months, the team will focus on making the technology plug-and-play, so people who are not proficient coders can easily deploy it in their online store and accept bitcoin.
+
+“We want to launch a platform for bitcoin smart contracts, so that anyone who wants to sell homes online or do [over-the-counter] trades could use it,” Keidun said, adding that it might be a multi-sig with more than three signatures and it can be used for multiple use cases.
+
+Aside from bitcoin-to-fiat trades, Hodl Hodl’s multi-sig escrow is used in a peer-to-peer predictions market when people bet on things like the price of bitcoin or publicly traded stock, sports results and other measurable outcomes. A real estate platform is also in the works, with a launch tentatively scheduled for 2020, Keidun said.
+
+Image of Roman Snitko by Anna Baydakova for CoinDesk

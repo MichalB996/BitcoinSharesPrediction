@@ -1,0 +1,103 @@
+DATE:  02.04.2020, 10:53:47
+TITLE: Could Coronavirus Kill the Bitcoin Mining Industry?
+URL:   https://www.financemagnates.com/cryptocurrency/news/could-coronavirus-kill-the-bitcoin-mining-industry/
+
+Depending on where you are in the world, you may be on week four, eight, or even thirteen of coronavirus quarantine; while video conferencing in pajama pants may be starting to feel a bit more normal, the world is keenly aware that the full effects and implications of the quarantine have not yet been felt, and will not be fully realized for months–or even years–to come.
+
+Just as in much of the financial world, this is particularly true in the cryptocurrency sector. Every week–and, at times, every day–there is a new revelation of the effects of the spread of COVID-19 on various parts of the nascent industry.
+
+The Most Diverse Audience to Date at FMLS 2020 – Where Finance Meets Innovation
+
+While massive fluctuations in crypto markets are perhaps the most visible part of these effects, there are many other consequences that are somewhat overlooked–namely, the effects of coronavirus on the cryptocurrency mining industry.
+
+Why is hash rate important?
+
+This has been evidenced by major fluctuations in the “hash rate” of the Bitcoin network, which measures the amount of computing power that is being devoted to performing “mining” duties.
+
+On the Bitcoin network, “mining” is the process by which transactions are confirmed–computers are chosen by the network solve complex cryptographic equations, which results in transactions being added to the ledger. In exchange for their work, these computers are rewarded with Bitcoins.
+
+The hash rate is an important indicator of the Bitcoin network’s health: essentially, the greater the hash rate, the more secure the blockchain is; a higher hash rate means that it is more difficult for hackers to successfully alter the blockchain. A higher hash rate can also mean that transactions sent through the network are validated more quickly.
+
+Therefore, a lower hash rate means slower transaction times: “if we look at this from a short term perspective, it is inconvenient as creating the block now takes longer as a result,” said Alex Batlin, ex-Blockchain Lead at BNY Mellon and current chief executive of custodial wallet specialist Trustology, to Finance Magnates. “Suddenly, blocks that could be mined in 10 minutes now take 20-30 minutes, causing massive issues for the blockchain.”
+
+Additionally, some cryptocurrency analysts also believe that hash rate is an indicator of Bitcoin’s price–that, though it may take several months, an increase in hash rate is an eventual indicator of an increase in price, and vice versa.
+
+Price follows hashrate and hashrate chart continues its 9 yr bull market. #Bitcoin pic.twitter.com/Rh49V9gaJw — Max Keiser, tweet poet. (@maxkeiser) August 8, 2018
+
+The spread of the coronavirus is already being blamed in part for a steep dive in the Bitcoin network’s hash rate that took place throughout the month of March; the BTC hash rate reached its highest rate this year at 150 EH/s on March 5th before plummeting to 105.6 EH/s by March 15th, just ten days later–a 29 percent drop.
+
+Then, on March 26th, the drop continued; the hash rate dove as much as an additional 15.95 percent, resulting in a 45 percent decline since the peak in January. It has since shown some signs of recovery but has not neared its higher levels earlier in the month.
+
+Practical concerns: quarantine requirements, supply chain disruptions, and non-essential business designations
+
+The decline is, in part, being attributed to the spread of the coronavirus.
+
+Case in point: a 10-K report that was was filed with the United States Securities and Exchange Commission late last month, Riot Blockchain, a cryptocurrency mining firm based in Castle Rock, Colorado, laid out several scenarios in which fallout from the coronavirus–which has already begun to affect some of the company’s operations–could seriously impair its business.
+
+This is for several reasons: first, quarantined employees cannot perform all of the necessary duties to maintain business-as-usual: “[…] we have experienced and will experience disruptions to our business operations resulting from quarantines, self-isolations, or other movement and restrictions on the ability of our employees to perform their jobs,” the report said.
+
+The firm also pointed to possible issues with its supply chain: “China has also limited the shipment of products in and out of its borders, which could negatively impact our ability to receive mining equipment from our China-based suppliers,” he said.
+
+Finally, Riot Blockchain said that because “we have not been classified as an essential business in the jurisdictions that have decided that issue to date,” there is a possibility that “we may not be allowed to access our mine or offices.”
+
+All of this could result in shutdowns: “if we are unable to effectively service our miners, our ability to mine bitcoin will be adversely affected as miners go offline, which would have an adverse effect on our business and the results of our operations.”
+
+BTC’s price movements may be the most significant factor attributing to the decline in hash power
+
+Riot Blockchain’s 10-K report scenario is largely hypothetical, but there have been reports from other participants in the mining industry who have said that their operations have been impaired by the spread of the coronavirus–this is particularly true for miners in China, which is still home to the majority of Bitcoin’s hash power.
+
+Indeed, in early February, PandaMiner, a mining firm based in China, told CoinDesk that quarantine controls had caused disruptions in business as usual: Abe Yang, the company’s chief executive, said that “not only us, [but] most miner makers have been affected by the outbreak since their factories are based in cities like Dongguan and Shenzhen in Guangdong province.”
+
+But quarantined workers and possible disruption in mining supply chains are not the only corona-related reasons that miners may be shutting off their equipment.
+
+Suggested articles How to Navigate a Crisis and Weighing the Potential of ForexGo to article >>
+
+Indeed, the price fallout from the Bitcoin network that has ensued as part of the widespread economic fallout over the last several weeks may have also caused a slowdown in mining: some of the declines in hash rate can be attributed to the possibility that larger mining rigs are also programmed to shut off once the price of Bitcoin passes through set lower limits, and return to full functionality once the price of Bitcoin recovers to a certain level.
+
+However, while these programmatic price limits may have been responsible for some of the decline in hash rate throughout March, it doesn’t seem as March 26th’s hash rate drop was related to any price event on the Bitcoin network–the price hovered around $6600 throughout the day, up from a monthly low of approximately $4200 the week prior.
+
+Smaller mining operations may be forced to shut down
+
+However, the price movements in Bitcoin may have more dire implications for smaller- and medium-sized mining operations, who may have been forced to temporarily (or even permanently) close up shop.
+
+Indeed, Ibrahim Alkurd, the chief executive of New Mine and Partner at Lavaliere Capital, told Finance Magnates that “economies of scale play a big factor in mining farms.”
+
+“The recent price drop in BTC caused smaller mining farms that have more expensive power and machine costs to unplug,” he said. “Although the bigger mining farms have seen smaller profits after the recent price crash, they’re still running profitably.”
+
+The exodus of smaller miners could mean more centralization in the long run
+
+Alkurd added that the downward price movements that Bitcoin has experienced as a result of the coronavirus crisis are particularly grizzly because of the upcoming “halvening” or “halving” in May 2020, which will result in the mining reward for Bitcoin miners to be cut in half.
+
+This “will make it even harder for small farms to compete with the big players,” Alkurd said.
+
+This could have other, more serious implications for the Bitcoin mining industry over the long term: “I expect that we will see more centralisation of mining in the Bitcoin sphere with the May 2020 halving,” he continued. “The bar of entry to run a profitable mining farm is constantly being raised due to the reducing supply [of mining rewards] because of halving events.”
+
+Of course, there is quite a bit of evidence that hash power on the Bitcoin network is already highly centralized: earlier this year, blockchain research firm found that as of “27th January 2020, [five] mining entities controlled 49.9% of the hashrate of the bitcoin network.”
+
+Therefore, more centralization at this point could mean that the Bitcoin network is under greater security threats: Alex Batlin told Finance Magnates that in the long-term, lower hash rate “increases the risk of a 51% attack on the network.”
+
+Should Bitcoin move away from Proof-of-Work?
+
+“It’s a point in time issue really at the moment, but the bigger issue is more systemic. BTC currently operates on a ‘proof of work’ model [that requires] significant amounts of electricity and computational needs to operate, and is also very limited in the number of transactions it can process at the same time.”
+
+“Other networks, though, are moving to a ‘proof of stake’ model that doesn’t require the massive computation, in terms of cost, power, and people to operate. So, the question becomes: should BTC migrate to a ‘proof of stake’ model like other networks, and will the halving of BTC perhaps force them to make the move?” (Easier said than done, perhaps.)
+
+On the other hand, Ibrahim Alkurd told Finance Magnates that although the decline in the price of Bitcoin “meant that the profit margins for miners are smaller,” it “isn’t anything out of the ordinary for this market” and that “there’s no effect on the Bitcoin network in terms of security. This volatility in hash rate and price is completely normal for this market.”
+
+“Experienced miners should factor these swings into their models and be ready to react to them,” Alkurd explained, adding that “Bitcoin actually performed better than the DOW and the S+P 500 by a considerable amount in Q1 2020.”
+
+In the meantime…
+
+While the long-term effects of coronavirus on the Bitcoin mining industry may be impossible to avoid, Alkurd says that there are some steps that mining companies may be able to take to abate the effects in the short-term.
+
+For example, instead of in-person maintenance checks, “utilize software to remotely monitor machines,” Alkurd suggested, adding that adding cameras to mining farms can make remote monitoring easier.
+
+If in-person checks are absolutely necessary, “implement social distancing practices within the farms,” he added. Companies “can also reduce the number of staff in the [facility] at any one time. This can be done by altering the shifts of the workers.”
+
+Additionally, mining companies located in countries where the virus has not yet passed its peak “can look at China and see what they did wrong and right, and learn from it.”
+
+“Because of the way this virus has spread, we can use information from countries that have been impacted before us, so we can learn what to expect.”
+
+What are your thoughts on the possible short- and long-term effects of the coronavirus on the Bitcoin mining industry? Let us know in the comments below.
+
+·

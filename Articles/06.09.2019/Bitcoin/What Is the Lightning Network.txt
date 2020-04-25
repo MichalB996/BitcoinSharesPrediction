@@ -1,0 +1,75 @@
+DATE:  06.09.2019, 13:54:13
+TITLE: What Is the Lightning Network?
+URL:   https://bitcoinmagazine.com/guides/what-is-the-lightning-network
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+The Lightning Network is a “layer two” protocol for Bitcoin, specifically designed for cheap, fast and private payments. As an overlay network consisting of payment channels, Lightning payments are not recorded on Bitcoin’s blockchain — only channel-funding transactions and channel-closing transactions are. This effectively means that many Lightning transactions can be settled with much fewer on-chain Bitcoin transactions.
+
+Further Reading: What Is Bitcoin?
+
+By settling many Lightning transactions into much fewer Bitcoin transactions, users and miners on the Bitcoin network are relieved of having to validate and store all of these Lightning transactions. As perhaps the main benefit, this translates into lower fees for Lightning users. Furthermore, Lightning users no longer need to wait for confirmations on the Bitcoin blockchain: Transactions are instant.
+
+Finally, as an added bonus, the fact that transactions aren’t recorded on the blockchain (in combination with a Tor-like routing algorithm for Lightning payments) means that Lightning users generally enjoy some extra privacy.
+
+Further Reading: What Is a Blockchain?
+
+Who Created the Lightning Network?
+
+The Lightning Network was first proposed in 2015, in the Lightning Network white paper (full title: “The Bitcoin Lightning Network: Scalable Off-Chain Instant Payments”), authored by Joseph Poon and Thaddeus Dryja. Various design aspects of the Lightning Network date back even further than the white paper.
+
+Since then, several teams have been working on different Lightning implementations, including Blockstream’s c-lightning, Lightning Labs’ lnd and Acinq’s Eclair. All implementations are compatible through the BOLT protocol specifications.
+
+The Lightning Network is still being improved every day; it’s a work in progress.
+
+Further Reading: The History of Lightning: From Brainstorm to Beta
+
+Further Reading: The Future of Bitcoin: What Lightning Could Look Like
+
+How Does the Lightning Network Work?
+
+The Lightning Network is a network of payment channels. A payment channel is perhaps best understood as a complex type of multisignature address for which two users hold a private key; the funds in the address are shared between the two users. If one user makes a payment to the other, they update their respective balances in the payment channel, which translates into how much of the funds they can later get from the address.
+
+Further Reading: How to Keep Bitcoin Safe
+
+For example, if Alice and Bob share a payment channel worth four BTC where both own two BTC, and Alice pays Bob one coin, the payment channel balance is updated so Alice holds one coin, and Bob holds three coins. Meanwhile, all four coins are still in the same shared address.
+
+When they close the channel, the final score is settled. In the above example, Alice and Bob would agree to send one of the four coins to Alice and three of the four coins to Bob. The added complexity mentioned previously lies in safety precautions to ensure that neither user can cheat. Both users could always claim their share (even if the other doesn’t cooperate), and neither user can claim more than their share.
+
+What makes the Lightning Network a network is that the payment channels are cryptographically linked with other payment channels. If Alice has a payment channel open with Bob, and Bob has a payment channel open with Carol, Alice can pay Carol through Bob. In other words, Alice pays Bob, and Bob pays Carol, and this happens in such a way that Bob cannot cheat by stealing the funds, nor can Alice and Carol cheat by claiming they have or haven’t sent or received the funds.
+
+Similar to the concept of “six degrees of separation,” the idea is that all Lightning Network users will be able to pay all other Lightning Network users either directly, or through one or several forwarding users.
+
+Further Reading: Understanding the Lightning Network
+
+How Do I Set Up a Lightning Channel?
+
+To set up a Lightning channel, you need to run a Lightning node or have a Lightning wallet. Popular options include c-lightning and lnd (nodes) and Eclair, Zap and the Lightning App (wallets). Once this is set up, you can set up a payment channel with another Lightning node or wallet through a unique code corresponding to that node. How this is done exactly differs slightly from one solution to the other.
+
+Further Reading: What Are Bitcoin Wallets?
+
+Once set up, you can transact through the channel and with the rest of the network for as long as channel funds allow. Depending on your setup, you can also forward transactions for other users and possibly earn fees.
+
+How Do Lightning Network Fees Work?
+
+On Bitcoin, fees are paid to miners to include transactions in a block. But the Lightning Network itself doesn’t have miners, nor blocks. (Although as a layer two solution, it ultimately does depend on miners and blocks, of course; without miners and blocks, there would be no Bitcoin and, therefore, no Lightning Network.)
+
+Further Reading: What Is Bitcoin Mining?
+
+Instead, fees are paid to Lightning nodes on the network that do the jobs of providing liquidity (funded channels) and forwarding transactions. Some nodes will charge more than others, but fees are generally low, and since anyone can set up a competing node, competition will probably keep fees fairly low.
+
+Paying fees is typically abstracted away in the wallet and not something you need to worry about too much. Unlike on-chain transactions, there is no risk of including a fee that is too low — your transaction either goes through immediately or it does not go through at all.
+
+If you’d like to earn fees yourself, you will have to set up a Lightning node, ideally one that is well connected with many other nodes on the Lightning Network, and with a lot of liquidity in different channels. It also helps to have this node online as much as possible.
+
+Can I Send or Receive Lightning Payments Without Opening My Own Channel?
+
+Strictly speaking, you need to have at least one payment channel open to send or receive Lightning payments. That said, if for some reason you don’t want to open a Lightning channel (yet), there are some ways around it.
+
+
+
+For example, some Lightning wallets — like Blue Wallet — offer custodial solutions. This essentially means that when users receive payments, it’s actually the operational team behind the wallet that received the payment on behalf of them. The funds can be withdrawn by the wallet user, but until then it’s really controlled by the Blue Wallet team. This has the benefit that users can start accepting payments immediately, but it has the obvious downside that the users have to trust the wallet team to let them withdraw funds when they choose to.
+
+Alternatively, a service like Submarine Swaps lets users make payments without having a Lightning channel open. Instead, users send a regular, on-chain transaction to the service, which then forwards the payment as a Lightning payment to the intended recipient. While these types of payments can be trustless — meaning the service provider can’t back out of forwarding the payment — it does mean that users need to pay on-chain fees and an additional fee for the service on top.

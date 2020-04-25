@@ -1,0 +1,91 @@
+DATE:  02.03.2020, 09:51:50
+TITLE: Daniel Connolly: We’re taking a big data approach with Teranode
+URL:   https://coingeek.com/daniel-connolly-were-taking-a-big-data-approach-with-teranode/
+
+The following article is a written interview conducted with the lead developer of the Bitcoin SV Node software, Daniel Connolly with specific questions about the Teranode implementation. The goal of this interview is to establish a common understanding in the BSV society of what Teranode is and address common questions that arise. I also added some personal questions I had based on my software development experience.
+
+At a high level, how does Teranode differ from a Bitcoin SV node?
+
+Teranode is a re-design from first principals of the Bitcoin node software, taking full advantage of modern design paradigms and incorporating all the knowledge we’ve gained about Bitcoin over the last 11 years. We’re taking a “big data” approach with Teranode, re-architecting the node to be able to harness the power of many systems to achieve its goals of scaling to handle massive throughput of transactions. It will scale horizontally, which means that the owner can increase Teranode’s capacity by adding more systems.
+
+Does Teranode intend to deprecate the Bitcoin SV node? Or will they live in parallel?
+
+Teranode and the Bitcoin SV node implementation will be supported and maintained in parallel for at least a couple of years, but we do envisage that eventually the Bitcoin SV node implementation will have difficulty in handling the volume of transactions on the Bitcoin SV blockchain.
+
+What is the primary motivation for the Teranode project?
+
+The Bitcoin SV node implementation is just not designed for high volumes of transactions and it will eventually reach a limit in the number of transactions that it can process. The Teranode project was initiated to meet this future need.
+
+How long has the project been underway?
+
+Teranode is the result of evolving plans to expand the capability of the software to handle large volumes of transactions. Prototypes date back to August 2017.
+
+How did you determined the functional requirements referenced in your CoinGeek Seoul presentation?
+
+We’ve used our own in-house expertise based on years of analysis of Bitcoin and discussed requirements with miners and other major users of Bitcoin SV.
+
+What is an example of a real enterprise/business use-case with Teranode implemented?
+
+The initial versions will be aimed directly at miners.
+
+What are the major milestones in Teranode development? When is the target release date?
+
+We will be releasing a series of beta’s that gradually build up the capabilities of Teranode over the next year or so, leading to a full release in 2021.
+
+How much of your time is spent on the Teranode project?
+
+There have been periods where I’ve shut myself away for a week or two to concentrate on Teranode, but in general I’ve had to focus on Genesis over the last six months and not had much time for Teranode.
+
+How will your role at nChain change after the Genesis upgrade?
+
+I will be switching my focus to Teranode.
+
+Will Teranode help its operator win more blocks?
+
+No, not more. Teranode will enable miners to produce larger blocks and enable integrators to integrate their platforms with Bitcoin SV.
+
+Will nChain be the sole operators of Teranode, or will the software be sold and/or distributed to other parties to operate? Is it privatized software?
+
+Teranode will be open source under the Open BSV license. nChain has been contracted to develop the software by the Bitcoin Association, who will own the software.
+
+Which license will the software be under?
+
+The Open Bitcoin SV License.
+
+How will unconfirmed transactions be stored in Teranode?
+
+There will be different options for this.
+
+What level of documentation will be provided (if at all) for application developers?
+
+There will be a documented and stable API which will enable developers to integrate their platforms with Bitcoin SV.
+
+Which programming language is Teranode written in?
+
+Mainly C++ but some components may be written in other languages.
+
+What are the different micro-services that will be provided? Can these scale out and be run on different machines?
+
+Yes.
+
+How will communication between the different parts be done?
+
+We’ll be using message technologies; the exact technology has not been selected yet. Initially we expect to release with support for single technology, but others may be added as needed or desired.
+
+How many separate containers does Teranode use to perform the functionality of the Bitcoin SV node?
+
+That will be configurable depending on use case and because it can be horizontally scaled.
+
+How many TPS can Teranode achieve when first released?
+
+10,000 is the first target for the beta releases.
+
+Will Teranode have a feature to allow companies to simulate their transactions on the Scaling Test Network in order to determine cost savings?
+
+Teranode will support the Scaling Test Network.
+
+Conclusion
+
+Thank you, Daniel, for taking time to answer the questions. I hope the readers have a better understanding on what the Teranode software hopes to achieve.
+
+New to Bitcoin? Check out CoinGeek’s Bitcoin for Beginners section, the ultimate resource guide to learn more about Bitcoin—as originally envisioned by Satoshi Nakamoto—and blockchain.

@@ -1,0 +1,41 @@
+DATE:  06.09.2019, 13:00:55
+TITLE: Leadership Shakeup at Wasabi Wallet as Bitcoin Business Surges
+URL:   https://www.coindesk.com/leadership-shakeup-at-wasabi-wallet-as-bitcoin-business-surges
+
+One of bitcoin’s most experimental startups has grown dramatically over the past year, highlighting both the opportunities and pitfalls of open source development.
+
+Now Adam Ficsor, co-founder of zkSNACKs – the firm behind the privacy-centric Wasabi Wallet – is stepping down from his role as CTO to focus on research as the company matures.
+
+“I was just reviewing other people’s code and managing people, and that’s not what I’m good at. I’m good at coding and researching privacy,” Ficsor said. “It’s getting to the point of being a serious business and we have to be more conservative.”
+
+Wasabi Wallet launched in August 2018, then garnered more than three-dozen open source contributors via GitHub. As a bootstrapped startup that strove to embody the bitcoin’s decentralized ethos, managing contributions is central to Wasabi’s development. There are now five zkSNACKs developers reviewing external submissions as part of the effort to reduce Ficsor’s cornerstone role in the project.
+
+The move to a new CTO follows a bitter feud with Wasabi’s rival, Samourai Wallet, which published critiques of Wasabi’s trademark CoinJoin feature in August. This mixing feature collects pending bitcoin transactions then sends them out in a mixed bunch so it’s harder to identify the source of each transaction.
+
+After the backlash sparked by Samourai’s critique, Dávid Molnár, incoming zkSNACKs CTO, told CoinDesk that Wasabi users clearly require more documentation to avoid confusion. Plus, he added, code should be written in a standardized way that is easier for people to read, regardless of its functionality.
+
+“Adam and me have the same coding style. But when we started the Contribution Game, we also had to write documents about how to code [for Wasabi],” Molnár said, referring to a summer campaign that attracted 15 developers to review code and offer potential solutions. “I plan to continue this procedure.”
+
+Today, the zkSNACKs staff includes nearly 20 employees, including several developers who went from being volunteer contributors to official contractors paid with bitcoin earnings from the CoinJoin feature. According to Ficsor, wallet transaction fees earned the startup 8 bitcoin in May, 10 bitcoin in June, and 14 bitcoin in July 2019, with the latter alone being worth roughly $149,000 on Sept. 4.
+
+“The first six months were pretty painful, we had to pay everyone from our pockets and we weren’t sure we’d survive. But now we have considerable income and we don’t need to look for investors anymore,” Ficsor said, adding that the newest version of Wasabi, released in July 2019, has 13,000 downloads so far.
+
+Industry impact
+
+Mixing features from both Wasabi and Samourai have become increasingly popular in 2019.
+
+Samourai’s comparable “Whirlpool” feature has seen 3,201 transactions since April 2019, according to data from the bitcoin blockchain. That’s slightly more than Wasabi’s 2,810 CoinJoins in the same time frame. (Wasabi has facilitated a total of 5,286 CoinJoin transactions since launching in August 2018. However, the latter often involves more participants per transaction.)
+
+Still, bitcoin consultant Udi Wertheimer argued that Wasabi has set the tone for privacy features across the industry. The analytics firm Chainalysis reportedly estimated during a webinar that Wasabi alone was responsible for mixing $90 million worth of bitcoin in August 2019.
+
+In part, Wertheimer told CoinDesk this uptick came because Wasabi offered “the first CoinJoin implementation that’s easy enough to use that a motivated non-technical user could make use of it.”
+
+These CoinJoin transactions can combine a variety of privacy-focused techniques, depending on the user’s sophistication, which is why users are willing to pay fees of up to 5 percent per transaction.
+
+“I think the business model for Wasabi is very unique, because they manage to generate revenue while minimizing trust,” Wertheimer said. “The Wasabi server is generating real value and has real network effect, that’s why users are willing to pay for it. It’s also where the rivalry comes from, as upstarts have to try compete with that advantage.”
+
+While Molnár said he is focusing on fostering robust contributions and stabilizing the product, which is currently slow and glitchy, Ficsor will work on integrating bitcoin node features directly into the wallet.
+
+“We want to bring Bitcoin Core into Wasabi [desktop] in a way that you just click a checkbox and have a full node operating from then on,” Fiscor said. “Also, as the blockchain fees go up, this way of mixing with Wasabi is not going to be economical. … We have to figure out what is the most optimal algorithm for mixing with Wasabi.”
+
+Image: zkSNACKs founders (left to right) Lucas Ontivero, Balint Harmat, Gergely Hajdu and Adam Ficsor. Courtesy of zkSNACKs

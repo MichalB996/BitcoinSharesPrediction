@@ -1,0 +1,69 @@
+DATE:  20.12.2019, 17:00:40
+TITLE: The Many Facts Pointing to Ian Grigg Being Satoshi
+URL:   https://news.bitcoin.com/the-many-facts-pointing-to-ian-grigg-being-satoshi/
+
+The Many Facts Pointing to Ian Grigg Being Satoshi
+
+Financial cryptographer. Cypherpunk. Inventor of Ricardian contracts and early utilizer of triple-entry accounting systems, which would later be exemplified in Bitcoin. Ian Grigg may have claimed that Satoshi was a team effort and is now dead, only living on in bitcoiners everywhere, but some seem to think it’s him. In this installment of “the many facts,” we’ll direct our attention to Grigg’s background, achievements, associations and direct claims to see which evidence possibly points to him as being Satoshi Nakamoto.
+
+Also Read: The Many Facts Pointing to Shinichi Being Satoshi
+
+Satoshi: A Cypherpunk Story
+
+Nearly every popular Satoshi candidate has a background or at least association with the cypherpunk movement of the 1980s and 90s. This is for good reason. Hashed into Bitcoin’s genesis block is a message about bank bailouts. Cypherpunks are generally libertarian and anarchist-leaning individuals, set on unshackling the financial system and returning economic power to the everyday individual via crypto technology.
+
+Grigg, in a very real sense, is no exception. A pioneer of triple-entry accounting systems as also conceptualized by lesser known accounting wizard Yuji Ijiri, Grigg invented what are known as Ricardian contracts and sought means by which to leverage cryptography in data verification and security for legal contracts — forerunning and related concepts to smart contracts and cryptocurrency. Grigg was an early cypherpunk, has an educational background in computer science and business, and is associated with personas like Craig Wright and ostensibly connected parties like Dave Kleiman. Grigg writes in his paper on Ricardian contracts:
+
+Our innovation is to express an issued instrument as a contract, and to link that contract into every aspect of the payment system.
+
+Griggian Grist for the Narrative
+
+Triple-Entry Accounting
+
+Looking back to the cypherpunk mailing list of the late 80s and 90s is always a good start, but there’s a concept that was being developed prior to and largely separate from cypherpunk exchanges about cryptocurrencies, and which is much more elemental. That of triple-entry accounting.
+
+Throughout the history of money, keeping accurate records has been paramount and evolutionary. From the first systems of single-entry bookkeeping where recorded amounts of assets or goods held were single data points, to the later, double-entry system where the reason for a new amount must also be entered, increasingly accurate and trustworthy ledgers have been developed. Before any code can even be written, the concept has to exist. Grigg wrote in his 2005 paper “Triple-Entry Accounting“:
+
+The digitally signed receipt, an innovation from financial cryptography, presents a challenge to classical double entry bookkeeping. Rather than compete, the two melded together form a stronger system. Expanding the usage of accounting into the wider domain of digital cash gives 3 local entries for each of 3 roles, the result of which I call triple entry accounting.
+
+Prior to Grigg’s publication, way back in the 1980s, Japanese accounting researcher Yuji Ijiri had already come up with the idea and published a monograph on it, entitled “Momentum accounting and triple-entry bookkeeping,” but hadn’t found a way to apply it. Just over three years after Grigg published his paper on the topic, Bitcoin was born.
+
+The Wright Associations and ‘Team Satoshi’
+
+“Satoshi Nakamoto is dead, long live Satoshi,” Grigg writes on May 2, 2016 in a post to his Financial Cryptography website. Asserting that “Craig Wright has just outed himself as the leader of the Satoshi Nakamoto team. I confirm that this is true, both from direct knowledge and a base of evidence,” Ian Grigg set the crypto space on fire with equal parts excited speculation and derisive skepticism.
+
+Claiming that the suspicious death of supposed Satoshi team member David Kleiman “played merry hell on the lives of those left in the team,” Grigg then goes on — as he previously had on Twitter — to detail how extortionists and hackers had targeted Wright, ostensibly leading to his move to reveal himself as Satoshi. While some may understandably view an association with the infamous CSW as very strong evidence that Grigg is definitely not Nakamoto — or even part of the “team” — it’s his strange words on Wright that give pause:
+
+Yet, a warning to all. Satoshi was a vision … Which is why the team aspect is so important to understand … As you come to know Craig you will discover he is no legend, no God, no saviour. He’s just a guy, a prickly one at that, he’s a lot like those very difficult geek/nerd/blatherers that turn minor IT support into a social drama … Satoshi Nakamoto has died, yet long may Satoshi live. Now we really are Satoshi, now you all are. There is no longer any excuse, we each in every way are responsible for taking the vision forward.
+
+Why would someone like Grigg feel the need to make such a clarification? One Redditor remarked on the topic: “Yes Grigg’s ‘testimony’ sort of remains a mystery without which the entire thing would be much easier to dismiss. Why does he, a true veteran of the scene, put his weight on behalf of Craig Wright and risk his reputation?” Some view Grigg’s actions as something only a truly concerned party would do.
+
+Stylometry
+
+Stylometry is a field of linguistics dealing with expressive style, and usually applied to writing. Many Satoshi candidates have been the stylometric focus of sleuthing aimed at uncovering Nakamoto’s real identity. Grigg has notably been pointed to by data scientist Michael Chon as the closest match when it comes to email correspondence.
+
+Chon has previously noted that “Timothy C. May has the highest similarity score to the Bitcoin paper and Ian Grigg has the highest similarity score to Satoshi’s email exchanges. An unusual result is that Ian Grigg has a similarity score of .99996 to Satoshi’s email exchanges.”
+
+Theories on Blockchain Governance
+
+In an April 10, 2018 speech at the Internet of Agreements conference in London, Grigg detailed how compliance costs related to KYC and AML are driving traditional banking systems into the ground. The financial cryptographer with connections to Block.one and EOS stated: “I’ve got bad news: if you do the compounding, in seven years you won’t have a bank account, because all the banks will be out of money. If you compound 30% forward by 20%, in seven years all of the money is consumed on compliance.” Grigg goes on:
+
+Does anybody know when compliance started? 1985 was the first time I ever heard about it. It couldn’t have started a year earlier, 1984. It literally started the year after 1984, and it’s been rolling ever since, and the problem is it hasn’t got a particularly good record. It’s been rolling forward, and the solution to failure has always been to double down.
+
+Grigg points out the futility of the FATF and others “discovering that there are problems, running into banks, fining the hell out of them and doubling down on compliance, but what they’re not actually succeeding in doing is changing the problem.” His solution? Community creation governed by blockchain transparency and “skin in the game.”
+
+In this presentation a voice is heard which is very focused on current, unsustainable banking practices (as Nakamoto was back in 2009), and calling for blockchain-based solutions to these same dilemmas, which would theoretically be available to anyone. Also noteworthy is that Grigg’s seminal contribution to fintech, Ricardian contracts, has no patent and is not subject to intellectual property restrictions. An available financial tool for anyone to use, like Bitcoin.
+
+Counterpoint and Summary
+
+It’s hard to tell whether a look at Ian Grigg makes the Satoshi mystery any less murky, or simply befuddles the understanding further. Here we have a cryptographer, deeply interested in broken banks and implementation of solutions therefore, who was an OG cypherpunk developing applications in triple-entry accounting. He even more notably claims to have inside info about the team of people who were collectively “Satoshi.”
+
+Some big counter arguments exist. Biggest of all, perhaps, is that Grigg claimed his supposed assertion that he was a Satoshi team member was just poor wording. “Nope — I am not a member of the team,” he tweeted. He also seems to be very excited about the European Central Bank’s recent progress in developing a centralized, digital cash. Hardly something the creator of peer-to-peer, permissionless cash with potential to topple banks would likely be pumped about.
+
+Still, if Satoshi really were a team effort, it might make sense that a fragmentation has happened, with individual members and their individual personalities splintering off in starkly different directions. After all, can anyone say with a straight face that any solo Beatle’s career was as good as the band itself? It’s also hard to imagine that the whole Financial Cryptography piece on his direct knowledge of the team, and implied involvement — including the since-edited statement “I confirm as member” — was merely the result of something being “badly written.” However one slices it, the world may never know, and the mystery marches on.
+
+Who do you think is Satoshi? One person? Many? Let us know in the comments section below.
+
+Images credits: Shutterstock, fair use.
+
+Want to create your own secure cold storage paper wallet? Check our tools section. You can also enjoy the easiest way to buy Bitcoin online with us. Download your free Bitcoin wallet and head to our Purchase Bitcoin page where you can buy BCH and BTC securely.

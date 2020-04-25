@@ -1,0 +1,33 @@
+DATE:  22.02.2020, 03:51:25
+TITLE: UNISOT launches SeafoodChain and supply chain tools for everyone
+URL:   https://coingeek.com/unisot-launches-seafoodchain-and-supply-chain-tools-for-everyone/
+
+Blockchain supply chain management firm UNISOT has launched SeafoodChain, its solution for the seafood industry. Speaking at CoinGeek London, CEO Stephan Nilsson said it will cover the entire journey “from sea to plate,” managing what he called “one of the most important and fastest-growing industries in the world.”
+
+We’ve heard a lot of talk promising enterprise-level applications running on Bitcoin, once it was able to scale. On day two of CoinGeek London we started to see some examples. They’re not just proofs-of-concept on hypothetical blockchains, either, they’re built and ready for use.
+
+Seafood a complex but analogue supply chain
+
+Seafood has a very complex supply chain, Nilsson said. As the industry grows, the product is traveling longer and longer distances and it’s also facing sustainability issues. Many different parties will handle the product before it reaches consumers, and it’s important that all stages can trust each other to do it correctly.
+
+He described today’s seafood industry as “not very digitalized,” describing the process as a very manual one where computers were used only for basic functions, using common applications like Excel spreadsheets or even older DOS systems to manage the process. Needless to say, these lower-tech solutions also suffered from poor integration with each other.
+
+Trust and cost are two of the biggest problems in supply chain management, and this is especially true in a poorly-integrated one like seafood. “This is an industry that really needs digitalization,” Nilsson said.
+
+In a live demonstration, Nilsson and UNISOT’s Jan Axel Karlstedt also used a mobile app the company has developed to show how a product (packaged halibut) could be transferred from one link in the supply chain to the next, changing ownership by one party scanning the other’s QR code and accepting or declining receipt. This information is encrypted and written on the blockchain, unifying the data in one place where it can later be verified and/or audited.
+
+The system controls access permissions to various pieces of information.
+
+For fish or… anything
+
+Though the demonstration and current refinement is for the seafood industry, UNISOT’s supply chain tools could easily be adapted to any industry. Various stakeholders in the chain could identify and solve problems, note changes and reasons for delays, and ultimately establish greater trust among all links.
+
+UNISOT‘s system can connect IoT devices and ERP (enterprise resource planning) data companies use to track supply chains. All information provided is “owned” by its creator, and others could subscribe to information concerning (in the case of seafood) various suppliers, distributors, inventory, fishing vessels, fish species, etc. Other relevant data can be added at each point.
+
+“It’s your keys to your data,” Karlstedt said. It also supports various enterprise standards such as EDI (electronic data interchange) messages, and half a million GS1 global product classifications (GPC). The system is modular, and works by creating “digital twins” that interact with each other along the supply chain.
+
+It works with SAP, the ERP system used by a large majority of businesses (around 70%) but UNISOT will provide plugins for all ERP systems its clients use.
+
+Using the app and blockchain platform, the largest ERP systems “can connect to the universal source of truth, the BSV blockchain,” Nilsson said. “You need economies of scale, and that’s what you get with BSV.”
+
+New to Bitcoin? Check out CoinGeek’s Bitcoin for Beginners section, the ultimate resource guide to learn more about Bitcoin—as originally envisioned by Satoshi Nakamoto—and blockchain.

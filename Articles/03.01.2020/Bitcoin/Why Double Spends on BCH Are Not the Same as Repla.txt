@@ -1,0 +1,55 @@
+DATE:  03.01.2020, 08:03:24
+TITLE: Why Double Spends on BCH Are Not the Same as Replace-By-Fee Fraud
+URL:   https://news.bitcoin.com/why-double-spending-on-bch-and-btc-arent-the-same-problem/
+
+Why Double Spends on BCH Are Not the Same as Replace-By-Fee Fraud
+
+When it comes to creating a peer-to-peer electronic cash system, accepting zero confirmation transactions becomes critically important. When a model’s main aim is to “just hodl” or push an isolated store of value narrative, important concerns like double spending can take a back seat, potentially opening a network to serious attack. A recent video demonstrating this risk saw some claiming such weaknesses are equally exploitable on the BCH chain. However, as the Replace-By-Fee (RBF) protocol isn’t part of the BCH codebase, the claims can be easily refuted and as such, the BCH community has been speaking out.
+
+Also Read: Travelbybit to Drop Bitcoin Payments After Viral Double Spend Video
+
+Double Spending BTC in the Wild
+
+A double spend is just what it sounds like — spending the same bitcoin twice. Of course, this is a favorable proposition to bad actors, scammers and thieves, who are more than happy to make off with goods without paying a service provider or merchant. In essence, double spending involves spending bitcoin, then sending the same money back to oneself before the transaction is etched into the blockchain via sufficient confirmations.
+
+Bitcoinbch.com CEO, Hayden Otto, recently demonstrated this flaw in a video, showing a merchant’s point-of-sale (POS) device confirm that his BTC payment had been sent, and then walking off slyly with his bucket of champagne only to reverse the payment moments later. Of course, the merchant had agreed to the experiment prior, and all funds were returned, but the humorous demonstration successfully showcased a decidedly unfunny problem with RBF and Bitcoin Core.
+
+Replace-By-Fee Fraud vs. Other Double Spend Instances
+
+As BCH community member kilrcola writes in his recent read.cash post:
+
+There was a great deal of chatter on this topic on social media – Reddit, Twitter and Facebook. The reasoning for this follow up was – the main defense I saw online was: ‘Zero Confirmations on BCH were equally as bad as Double Spending on BTC.’
+
+Kilrcola goes on to clarify that “there is a big difference between a perceived double spend (on BCH) when there is two TX sent at the same time and a double spend on BTC where the sender sends two TX the first one, and then the second TX minutes later after he has purchased something, allowing the spender to leave the brick and mortar shop or online store without the merchant realizing what has happened.”
+
+In other words, as there is no RBF protocol allowing a transaction to be replaced by another with a higher fee in Bitcoin Cash, for a successful double spend to occur, two payments would have to be sent simultaneously or near simultaneously. Bitcoin Core’s RBF function can provide minutes, hours or conceivably days for a bad actor to double send a transaction. The difference is trying to pull the scam in front of a vendor and not be detected (via some serious blockchain acrobatics), or having ample time to take your goods and walk out the door, planning the double spend for later. Kilrcola clarifies:
+
+Yes Double spends on BCH are possible, in the real world they are very hard to do (we’re talking 1 out of 3992 attempts where the tx was not broadcast simultaneously, 0.025% chance) and because on BCH it is possible to mitigate with a Point-of-sale system design where the merchant can detect it, it is substantially more difficult to attempt a Double Spend on BCH than on BTC.
+
+The 1 out of 3,992 figure comes from doublespend.cash, a statistics and informational resource on BCH double spends created by developer Dagur. As noted on his page, “Double spend can happen for various reasons. A wallet may not be fully synced. Software bugs. Someone having fun. One of the reasons can is fraud attempts. Double spending attempts are relatively rare compared to the total amount of transactions on the network.” Even critics of BCH and Otto’s video have acknowledged this, albeit while adding their own creative interpretations of Dagur’s data.
+
+One such article reads: “In BCH you don’t necessarily have to wait [for confirmations] if it’s a dinner, with the successful double spends being far less than 1% based on some 50,000 BCH transactions in just the past 24 hours.”
+
+What’s not noted by these critics and reactionary voices, however, is that the percentage of successful double spends listed on doublespend.cash mostly comprises simultaneous double spend instances whose motivations or causes are unknown. Delayed double spending on BCH, such as can be demonstrated on BTC via RBF, only stretches out to mere seconds and almost never happens.
+
+For example, in the month of December there were more than 1.1 million BCH transactions. Double spend attempts — which could be malicious or otherwise as noted above by Dagur — for the same month were only 5,499 according to the data, and in almost every case the acknowledged first seen transaction won, and was mined into the blockchain. Only a miniscule portion of the number of successful double spends were delayed, and when they were, it was only by a matter of one or two seconds, not minutes or hours.
+
+Twitter user @Vnumeris laid into the statistics, tweeting: “According to https://doublespend.cash/stats.html (a site that tracks 2x spends on bcash), the chances for a successful double-spend on bcash in the past 7 days averages out to be a staggering 13.5%. Between 11-18 Dec, there were 1,185 2x spend attempts, out of which 160 were successful.” Dagur retorted:
+
+Otto, for his part, replied:
+
+Go double spend it [BCH] at a real world merchant and show the video. I have been asking people to do this for years and nobody can rise to the challenge, maybe because it’s impossible.
+
+Transparency Makes for Easy Targets, but Greater Reliability
+
+While the data may be presented creatively and criticized harshly by detractors, and BCH hasn’t yet achieved the market cap or hashrate of BTC, the BCH community continues to provide transparent resources — such as Dagur’s site — as well as innovative solutions and answers to issues that need attention.
+
+Kilrcola, also known as Michael Nunzio, notes at the end of his article that “The difference is that on BTC you can effectively, purchase an item in-store, walk out of the store, double spend it and be off with your items. This is the difference. Compare it to attempting to defraud a merchant while standing in front of them while paying for your coffee, vs. attempting it after walking out of the shop. It is also worth mentioning there is some development going on by those in the BCH community to improve the security of 0-conf with Double Spend Proofs, ZKSnarks.”
+
+Dagur further observes: “After receiving a transaction, if you monitor the network for double spends for only a few seconds before accepting it as valid payment, you’ll drastically reduce the acceptance risk, as this is the time needed for most of the network to see your transaction first.”
+
+What are your thoughts on Hayden Otto’s video and the double spend controversy surrounding RBF? Let us know in the comments section below.
+
+Image credits: Shutterstock, fair use.
+
+Want to create your own secure cold storage paper wallet? Check our tools section. You can also enjoy the easiest way to buy Bitcoin online with us. Download your free Bitcoin wallet and head to our Purchase Bitcoin page where you can buy BCH and BTC securely.

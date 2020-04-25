@@ -1,0 +1,33 @@
+DATE:  18.02.2020, 18:10:19
+TITLE: Voluntary Financing: Bitcoin Cash Devs Reveal Noncustodial Funding App Flipstarter
+URL:   https://news.bitcoin.com/voluntary-financing-noncustodial-app-flipstarter/
+
+Voluntary Financing: Bitcoin Cash Devs Reveal Noncustodial Funding App Flipstarter
+
+On February 15, a user on the read.cash blog site announced the development of a new Bitcoin Cash fundraising project called Flipstarter.cash. The developers behind the platform highlighted the recent questions people have been asking about voluntary funding of the Bitcoin Cash commons. The Flipstarter team plans to release an application that allows people to fund projects in a “secure, non-custodial” fashion using the Electron Cash wallet.
+
+Also Read: The Many Facts Pointing to Dorian Nakamoto Being Satoshi
+
+Flipstarter: A Lighthouse-Like Bitcoin Cash Crowdfunding App Is Coming Soon
+
+A team of software developers have revealed they are working on a BCH project called Flipstarter.cash which will allow people to fund projects in a noncustodial manner. The project announcement said that “a group of volunteers came together to create Flipstarter” referring to the recent discussions over the Infrastructure Funding Plan (IFP). The blog post mentions the “big questions in the air right now in the Bitcoin Cash space” and explains that the project was created to help bolster a voluntary funding mechanism for the BCH ecosystem.
+
+Over the next few weeks, the group of BCH developers plan to test and release the software. The project is similar to Mike Hearn’s Lighthouse project that was shelved when he left the Bitcoin community. The developers disclosed that “Flipstarter is basically Lighthouse but boiled down to the main feature. That is an old feature of Bitcoin transactions called ‘Anyone-can-pay.’”
+
+In traditional bitcoin cash transactions, when you sign you authorize all the outputs and inputs. But with an Anyone-can-pay Sighash, a crowdfunding transaction (signing a partial transaction) can be built by approving all outputs and only your inputs. Anyone-can-pay transactions can make it so pledged donations need to reach a threshold (funding goal) before they are spent. “In other words, as long as everyone agrees on the total output, anyone can help pay, and everything happens trustlessly,” Flipstarter’s creators detailed. “We need to create a way for people to participate in assurance contracts,” the programmers added. However, the Anyone-can-pay structure doesn’t have much wallet support so for the first version the programmers chose to create a plugin for Electron Cash (EC).
+
+User-Friendliness Is Great But a Trustless Noncustodial Solution Is Needed
+
+Essentially, a user would install the EC plugin and select a proposal from the Flipstarter website. Then they can set a pledge value and copy and paste some text which adds the necessary information into the EC plugin. The EC plugin will then build a signed, partial transaction that is frozen and you can “unfreeze it at any time.” The Flipstarter website monitors the pledges until the soft cap or funding goal is complete. “The site finalizes the assurance contract, and pays out to the target addresses,” the Flipstarter developers said. “If the campaign does not get enough pledges, then everyone can un-freeze their pledge and use it as normal. That is, the coin never leaves Electron Cash until the whole campaign succeeds.” Flipstarter’s creators added:
+
+It looks a bit clunky, but the process is more secure, non-custodial, does not require the user to take their coins out of Electron Cash and it lets us get something working with limited time and resources.
+
+The developers have contemplated other options, but for now they are sticking with the EC plugin because it is a trustless, non-custodial solution. Of course, the Flipstarter creators are just getting started and the user interface and concept can be improved a great deal. “Volunteers will continue to develop it, and there is opportunity for a for-profit team to develop it into a full-fledged platform — Whatever happens, we are making the first version so that anyone can fork it and run a campaign by themselves,” Flipstarter’s developers insisted. Currently, the volunteers working on Flipstarter include developers such as Dagur, Jonathan#100, Leandro_DiMarco, Imaginary Username, Emergent Reasons, and Sploit.
+
+What do you think about the Flipstarter plugin for Electron Cash? Do you think that a concept like this could bolster voluntary financing for the Bitcoin Cash commons? Let us know your opinion in the comments section below.
+
+Disclaimer: This article is for informational purposes only. It is not an offer or solicitation of an offer to buy or sell, or a recommendation, endorsement, or sponsorship of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.
+
+Image credits: Shutterstock, Flipstarter.cash, read.cash, Fair Use, and Pixabay.
+
+Did you know you can buy and sell BCH privately using our noncustodial, peer-to-peer Local Bitcoin Cash trading platform? The local.Bitcoin.com marketplace has thousands of participants from all around the world trading BCH right now. And if you need a bitcoin wallet to securely store your coins, you can download one from us here.

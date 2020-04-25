@@ -1,0 +1,75 @@
+DATE:  23.01.2020, 21:21:41
+TITLE: How Payswap Can Confuse Blockchain Analysts
+URL:   https://bitcoinmagazine.com/articles/how-payswap-can-confuse-blockchain-analysts-benefiting-bitcoin-privacy-for-all
+
+Ring in the new bitcoin halving cycle the right way: with us!
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+Although Satoshi Nakamoto’s white paper suggests that privacy was a design goal of the Bitcoin protocol, blockchain analysis can often break users’ privacy. This is a problem. Bitcoin users might not necessarily want the world to know where they spend their money, what they earn or how much they own, while businesses may not want to leak transaction details to competitors — to name some examples.
+
+But there are solutions to regain privacy. A new solution was proposed on the bitcoin-dev mailing list this week, by the Bitcoin and Lightning developer who goes by the pseudonym “ZmnSCPxj.” Called Payswap, the proposed solution offers a simple-yet-effective trick to confuse blockchain analysis by inverting the relation between payer and payee.
+
+Here’s how that works.
+
+The Traceability of Bitcoin Payments
+
+A typical bitcoin transaction is a payment from one person (the payer) to another (the payee). Let’s say, for example, Alice wants to pay Bob 3 bitcoin. If Alice owns a chunk of coins (a UTXO) worth exactly 3 coins, and we for simplicity ignore fees, she could create a transaction with one input (referring to her address holding 3 coins) and one output (referring to Bob’s Bitcoin address). The chunk of 3 coins would essentially move from Alice’s address to Bob’s address. Simple.
+
+However, more often than not, Alice won’t have a chunk of the exact right amount of coins she needs to pay Bob. Alice may, for example, only have chunks of 2 coins. In this case, she can still create a transaction. This transaction would have two inputs (two chunks of 2 coins, presumably from two different addresses), and also two outputs: one output worth 3 coins attributed to Bob’s address, and one output worth 1 coin, which she sends back to one of her own addresses as change.
+
+Unfortunately, exactly because such a transaction is so typical, it would reveal information to blockchain analysts. They will assume that the chunk of 3 coins constitutes the payment (to Bob), and that the 1 coin is change (back to Alice). After all, if the payment only constituted 1 coin, Alice wouldn’t have needed to include two inputs. This enables blockchain analysts to trace payments over the blockchain and ultimately allows for address clustering and more privacy-infringing strategies.
+
+Enter Payswap
+
+Payswap essentially replaces the payment from Alice to Bob with two payments: one from Alice to Bob, and one from Bob to Alice. Doing this securely requires some technical complexity — more on that below — but let’s for now ignore that.
+
+In this case, Alice would still create a transaction with two inputs: two chunks of 2 coins. But this time, the transaction would include only one output: She would send all 4 coins to Bob. Already, this may confuse blockchain analysts. Because most typical payment transactions include a change address, and this transaction doesn’t, they may (falsely) assume that this is a transaction in which someone is, for example, moving their own funds around to a new wallet.
+
+Meanwhile, Bob would also create a transaction to Alice. Let’s say Bob has chunks of 0.6 coin. He would create a transaction that includes two inputs (chunks of 0.6 coin), and two outputs: 1 coin for Alice, and 0.2 coin as change. This would look just like a regular transaction (1 coin from Bob to Alice).
+
+If different Bitcoin addresses are used, a blockchain analyst will not be able to tell that the two transactions described here happened between the same two people (Alice and Bob). Instead, on top of the false assumption they may have made about Alice’s transaction to Bob, they may now also have a wrong assumption about Bob’s transaction to Alice. Overall, they may think that Bob paid Alice 1 bitcoin, while in reality Alice paid Bob 3.
+
+Blockchain analysts, by their false assumptions, would have been misled, benefiting both Alice and Bob’s privacy. By extension, if blockchain analysts’ assumptions are broken through these kinds of tricks often enough, their assumptions become useless overall.
+
+Adding CoinSwap
+
+In reality the Payswap trick would be slightly more complicated.
+
+In the example above, there is a problem left to solve. Since Alice and Bob don’t trust each other, neither is willing to make their payment first, as this would allow the other to disappear without returning the payment.
+
+This can be taken care of with an older trick, called CoinSwap. Based on atomic swaps (an even older trick), two otherwise separate transactions can be made dependent on one another; neither party could refuse to return the payment.
+
+If you know how CoinSwap and/or atomic swaps work, the idea behind Payswap is actually very simple. Instead of using (near-)equal amounts in the atomically-linked transactions, Payswap uses unequal amounts; the difference constitutes the payment. (If this is clear to you, there’s no need to read the rest of this section of the article.)
+
+In a little more detail, Payswap introduces two additional transactions into the equation.
+
+First, instead of creating a transaction that sends 4 coins directly to Bob, Alice creates a transaction that sends the coins to a very basic smart contract. The coins can be claimed from this smart contract in two ways. It can either be claimed by Bob, if he also includes a secret number that Bob himself generated. Or, if the coins aren’t claimed by Bob, the coins can be claimed back by Alice after some time has passed.
+
+Second, instead of creating a transaction that sends a coin directly to Alice, Bob also creates a transaction that sends the coin to a basic smart contract. (And 0.2 coin back to himself as change.) Again, the coin can be claimed in two ways. Either, it can be claimed by Alice, if she includes the same secret number that Bob generated. Or, it can be claimed by Bob after some time has passed. (Slightly more time than in the first smart contract.)
+
+Both transactions are broadcast to the Bitcoin network to be included in a block.
+
+Now, when Bob wants to collect his payment (4 coins), he’d create a transaction from the smart contract that Alice created, thus including the secret code he generated, claiming the money. Importantly, by doing so, he reveals his secret code on the Bitcoin blockchain for Alice to see. With it, Alice can in turn create a transaction from the smart contract that Bob created, claiming 1 coin back to her address.
+
+In other words: Bob can only claim 4 coins by letting Alice claim 1 coin. Either both transactions come through or neither does.
+
+If, for whatever reason, Bob does not claim his payment, the timelock on the basic smart contract Alice created will expire, and she can claim her 4 coins back. Bob, a little later, can also claim his 1 coin back. No harm done.
+
+It’s worth pointing out that these smart contracts can be created with fancy mathematical tricks to hide the secret codes in the cryptographic signatures, to prevent the two transactions from being linked by blockchain analysts through the code. The details of how this is done falls outside of the scope of this article, however; if you’re interested in learning more, see this article on Scriptless Scripts.
+
+In the end, while using atomic swaps adds some complexity, blockchain analysts would be confused just the same.
+
+Drawbacks of Payswap
+
+Payswap does come with some trade-offs.
+
+The most obvious drawback is that a payment would require four transactions, instead of just one. Two transactions are needed to get the funds from Alice to Bob, and two transactions are needed to get the “change” back from Bob to Alice. This requires more blockspace and, therefore, more fees.
+
+Additionally, the payment requires Alice and Bob to interact. Alice can’t simply send funds to Bob’s address; instead, the two have to communicate outside of the Bitcoin protocol to also settle on an identifier (hash) of Bob’s secret number.
+
+The solution might, therefore, actually be more useful in the context of Lightning. Payment routing on the Lightning Network is entirely based on the exchange of secret numbers, much like the one Bob generated in the example above, so it’s not difficult to see how the same trick would apply. Yet, on the Lightning Network, the extra transactions wouldn’t hit the blockchain, while payments require interaction anyway.
+
+In fact, mostly focused on Bitcoin’s Layer 2 network for fast and cheap payments, ZmnSCPxj originally came up with the idea for Payswap in the context of the Lightning Network, where he simply refers to it as a “self-payment.” But more on this proposal in a future article…

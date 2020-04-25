@@ -1,0 +1,37 @@
+DATE:  23.11.2019, 03:00:50
+TITLE: New Tamper-Evident Packaging to Curb Hardware Wallet Vulnerabilities
+URL:   https://news.bitcoin.com/shift-cryptosecurity-reveals-new-tamper-evident-packaging/
+
+New Tamper-Evident Packaging to Curb Hardware Wallet Vulnerabilities
+
+As digital assets have grown valuable over the last decade, hardware wallets have become a mainstay and there’s now a variety of choices on the market. However, people still worry about their devices being tampered with during the shipping process and the firm Shift Cryptosecurity AG wants to erase the anxiety tied to these types of attacks. In order to curb vulnerabilities in shipping hardware wallets, Shift created a tamper-evident packaging product called Bitboxtep.
+
+Also Read: A Review of the Swiss-Made Digital Bitbox Hardware Wallet
+
+Bitboxtep: High-Level Tamper-Evident Packaging
+
+Cryptocurrency hardware wallets have been very popular during the last few years and many digital currency proponents use them to secure their assets. Although when buying a hardware wallet, some people worry about the delivery process and attacks like a postal employee opening the device. Since the introduction of hardware wallets, the industry has seen different tamper-evident methods like tamper-resistant holographic tape and other schemes used to protect the device from being accessed before reaching the owner.
+
+Now Shift Cryptosecurity AG has designed a new method called Bitboxtep which aims to eliminate attacks during the shipping process. Shift is the creator of Digital Bitbox, a minimalist hardware wallet. News.Bitcoin.com reviewed the first Bitbox product in February 2018. Digital Bitbox has a few privacy features other wallets don’t have like “plausible identity” using hidden wallets. Now the company has initiated the alpha testing of Bitboxtep or Tep so people can experiment with the firm’s next-generation tamper-evident packaging product. Shift has published a demonstration video of the new Tep packaging as well as specifications of how the product works.
+
+“Bitboxtep is a security packaging that significantly raises the cost of tampering during shipping or storage — Our solution proposes a temporarily locked fingerprint consisting of spherical particles,” Shift Cryptosecurity AG’s documentation states. “The negative pressure achieved by vacuum sealing creates an elaborate design in a transparent vacuum bag. When the vacuum bag is opened, the spherical particles mix.” The product specifications further explain:
+
+This makes it extremely difficult to rearrange into the original design. You compare the reference image fingerprint taken prior to shipment with the received packaging. Currently, you use your eye to verify that the pattern is unchanged. Eventually, a mobile phone supported computer vision app will verify the images to further enhance accuracy.
+
+Tamper Deterrent
+
+Shift has started accepting applications for alpha Tep testers and people interested in this new tamper-evident packaging can apply. Essentially when a user gets the unit, they need to scan the QR code to access the reference image or visit the company’s serial code portal to enter the 8-digit serial code in the text mask. Then the user needs to shake the package to make sure the particles are locked. Shift noted that a few of the particles within clusters may move freely in a small range. However, after comparing the temporarily locked fingerprints of the reference image and the packaging, the two should match. If everything checks out, then the user can cut the vacuum bag open and remove the particle pouch. From here, the product’s packaging particles should be in a loose state, but if they don’t Shift says to contact them as soon as possible. “To verify if there is a difference between your fingerprint and the reference image, we recommend to go from high level to details,” Shift’s Bitboxtep document suggests.
+
+Shift’s specifications also note that the company has prototyped a variety of different designs and they wanted to make sure the particles would lock and ensure they become loose when the seal is broken. “We use industrial-grade vacuum sealing equipment to make reproducible test sets — We’ve tested our prototypes to work in a temperature range between +40°C and -20°C,” Shift claims. “We aim for both more intense sub -20°C tests soon and upper-temperature limitations by using high temperature resistant plastic casings.” The company stressed:
+
+We are currently able to lock over 95% of the particles. A handful of particles in tight cluster situations tend to move within a small area, which we consider acceptable. We’re constantly improving our physical prototypes to get as close to 100% as possible. Eventually, a mix of particles with different colors (RGB) will enable even higher entropy.
+
+The current methods used today don’t really compare to the amount of high-level security being used for Bitboxtep. In comparison, the traditional tamper-evident tape is used by most hardware wallets. Some people might find the Bitboxtep security a bit extreme, but if a person has $50,000, $100,000 or more in BTC or another crypto, then they might feel a lot more comfortable knowing their device hasn’t been tampered with during the shipping process. On social media and crypto forums, digital currency proponents welcomed the new concept from the Switzerland-based firm. “That’s really cool, I like it — As bitcoin becomes worth more, it will be worth it for thieves to invest the money to manufacture their own tamper-proof materials and boxes, so after they break into a shipment they can replace it,” a crypto user wrote on Reddit about the alpha Bitboxtep packaging. “This is a pretty good deterrent to that,” he added.
+
+What do you think about Shift Cryptosecurity AG’s new tamper-evident packaging product called Bitboxtep? Let us know what you think about this subject in the comments section below.
+
+Disclaimer: This article is for informational purposes only. It is not an offer, solicitation or a recommendation, endorsement, or sponsorship of any products, websites, software, services, or companies mentioned. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.
+
+Image credits: Shutterstock, and Shift Cryptosecurity AG.
+
+Did you know you can buy and sell BCH privately using our noncustodial, peer-to-peer Local Bitcoin Cash trading platform? The local.Bitcoin.com marketplace has thousands of participants from all around the world trading BCH right now. And if you need a bitcoin wallet to securely store your coins, you can download one from us here.

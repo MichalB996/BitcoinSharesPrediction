@@ -1,0 +1,51 @@
+DATE:  21.10.2019, 22:00:26
+TITLE: How to Safely Store Your Wallet Recovery Phrase
+URL:   https://news.bitcoin.com/how-to-safely-store-your-wallet-recovery-phrase/
+
+How to Safely Store Your Wallet Recovery Phrase
+
+As a cryptocurrency holder, security is paramount – and you can’t be too careful when it comes to your wallet recovery phrase. Unless you want your meticulously accrued crypto to disappear into the ether (or your ether to disappear into the cryptosphere), safely stashing your wallet mnemonic is vital. You must do everything in your power to construct a fortress around your recovery phrase, which you’ll need should you misplace your smartphone or lose your wallet.
+
+Also read: Bitcoin and Mnemonics: The Art of the Secret Phrase
+
+Hide Yo Seed, Hide Yo Phrase
+
+Just as you’d source the biggest deadbolt and fiercest Rottweiler to guard a physical bounty, protecting your crypto from nefarious third parties requires vigor and cunning. The following guide outlines a variety of ways you might go about storing your wallet recovery phrase – as well as the pros and cons to each approach. Be it a 24-word mnemonic, conventional password, numeric PIN, or a combination thereof, it needs to be stored in such a manner that you and you only can access it. There’s no perfect solution to this problem, but these five options come pretty close.
+
+Steel Punch Card
+
+Protect your recovery phrase from physical deterioration caused by fire damage, flooding and other acts of god by engraving it onto a steel plate. Services such as Blockplate are perfect for this purpose, supplying materials that are stainless, rust-free, acid-resistant, non-toxic and fireproof. In essence, you are turning your recovery phrase into the Terminator – an object that can, unlike a piece of paper, withstand a ridiculous amount of damage and stay the course.
+
+As for the cons, they should be obvious: you still have to stash the plate in a safe place, and if it falls into the wrong hands, well, there’s not much you can do. Consequently, you might consider storing your prized plate offsite – close enough to your home to access it conveniently, but sufficiently well hidden.
+
+Bank Vault or Safety Deposit Box
+
+There’s still some merit in the idea of storing valuables offline in a bank or safety deposit box. Sure, banks occasionally get broken into, and CCTV footage of masked raiders ransacking reinforced concrete rooms – even those deep underground, as in the Hatton Garden heist – is enough to give anyone pause. But 99.9% of the time, valuables locked in a bank stay there until such time as the account-holder calls by to make a withdrawal. It’s far better to store your recovery phrase in a physical vault than on a note-taking app, in the cloud or, heaven forbid, in a document on your desktop. Hackers gonna hack.
+
+Split the Secret
+
+Sharing schemes distribute parts of a secret among a set of trusted participants, none of whom know what the others hold. Shamir’s Secret Sharing is one such algorithm with a hierarchical component inbuilt. Which is to say that you can regulate the trustworthiness of participants in the scheme, for instance by making blood relatives more trusted than associates. Apparently, the Winklevoss twins used a similar principle to store shards of private keys in safety deposit boxes spread throughout the country.
+
+The drawback to splitting your wallet seed into parts and doling it out is that multiple participants could conceivably collude to meet the threshold requirement of shares and uncover the phrase. However, if you don’t like sharing, you can still use this approach but retain all the parts yourself in separate locations – ideally with a backup of each for redundancy.
+
+Memorize It
+
+Memorizing a wallet recovery phrase is surprisingly easy once you create a memory palace to hold it. This is essentially a well-known physical location (e.g. your kindergarten, first home, workplace) that you visualize and then traverse in your head, laying down words from your wallet phrase as you go from room to room. Once committed to memory and rehearsed a few times, odds are you’ll recall those 12 or 24 words for life. This technique is particularly good when crossing borders, where you wish to transport cryptocurrency without possessing a physical clue to its existence. Relying solely on your brain is a dangerous game, though, which means that even with a memory palace in place, you’ll want a physical copy of your wallet phrase, dotted down and stashed in a safe place.
+
+Obfuscate It
+
+Even if an adversary discovers your wallet recovery phrase, it will be worthless to them if you’ve taken steps to obfuscate it. Techniques can range from the basic (rearranging the words) to the more elaborate, such as switching the first letter in certain words, or writing down their equivalent in a foreign language you’re familiar with. Use your imagination, in other words, and whatever technique you deploy, keep a record of how to unscramble the message in a separate place. Just don’t title it “Secret to unscrambling my wallet seed.”
+
+Plan for the Inevitable
+
+Another thing to bear in mind is that when you check out of this world, your recovery phrase will vanish with you, unless you pass it on to your inheritor. So, remember to include instructions on accessing your secret phrase in your will. Someone else might as well spend those satoshis you’ve assiduously accrued during your lifetime.
+
+It’s also prudent to make more than one copy of your recovery phrase and store it in a different location. After all, none of the above methods are entirely foolproof: as well as being robbed, banks can burn down or go bust. Just remember to safeguard your get-out-of-jail copy with the same rigor as you employed for the original.
+
+What other wallet recovery phrase techniques do you recommend? Let us know in the comments section below.
+
+Disclaimer: This article is for informational purposes only. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.
+
+Images courtesy of Shutterstock.
+
+Did you know you can verify any unconfirmed Bitcoin transaction with our Bitcoin Block Explorer tool? Simply complete a Bitcoin address search to view it on the blockchain. Plus, visit our Bitcoin Charts to see what’s happening in the industry.

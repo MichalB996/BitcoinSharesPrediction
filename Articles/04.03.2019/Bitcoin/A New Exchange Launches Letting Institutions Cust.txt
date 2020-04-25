@@ -1,0 +1,59 @@
+DATE:  04.03.2019, 12:30:12
+TITLE: A New Exchange Launches, Letting Institutions Custody Their Own Crypto
+URL:   https://www.coindesk.com/a-new-exchange-launches-letting-institutions-custody-their-own-crypto
+
+A new crypto exchange for institutional investors is launching this month with an unusual approach to custody.
+
+LGO Markets, based in New Jersey, officially launched Monday with limited functionality, allowing new users to set up and fund their accounts. However, spot trading in bitcoin will start on March 11.
+
+According to CEO Hugo Renaudin, the company has secured 10 institutional clients already – mostly over-the-counter (OTC) trading desks, plus several hedge funds, crypto businesses and market makers. Another 56 clients are in the process of onboarding, he said.
+
+The firm will soon face stiff competition, with large financial players like Fidelity Investments and New York Stock Exchange parent Intercontinental Exchange planning to launch institutional crypto trading platforms this year, not to mention the already-live up-and-comer SeedCX. But Renaudin said he sees plenty of potential clients out there.
+
+“There are roughly 400 institutional clients that are currently trading in the cryptocurrency market,” Renaudin told CoinDesk. “We estimated this by talking to the crypto-friendly banks. Among these 400, it’s mostly hedge funds, proprietary trading firms, OTC brokers, a few family offices, asset managers and purely crypto players like lending providers that consider trading bitcoin as a part of their business.”
+
+The LGO Markets team is a mix of youthful entrepreneurs and seasoned finance professionals. Renaudin, for example, interned at BlackRock and Societe Generale before joining the blockchain startup BitSpread and then LGO. Yet the firm also recruited Bank of America’s former director of prime brokerage sales, Camilla Churcher, to be the startup’s head of sales.
+
+To finance development of the platform, LGO’s French branch raised 3,600 bitcoin (roughly $32.5 million at the time) through an ICO in February 2018, when it was known as Legolas Exchange, Renaudin said.
+
+The ICO was conducted in compliance with French law and excluded U.S. residents, but sold tokens to 9,000 retail buyers from more than 50 countries. Eventually, the native LGO token will be used to pay trading fees at the exchange, though that won’t be the case for some time after the launch.
+
+But what may truly set this exchange apart from other institutional-focused players is that it will not hold clients’ funds in either bitcoin or fiat.
+
+Three’s a trade
+
+To start trading on LGO Markets, a client will need to set up a multi-signature wallet that requires two out of three private keys to move funds. One key is controlled by the client, the second one is held by LGO Markets and the third by a Swiss company, Altcoinomy, which will serve as a clearinghouse.
+
+Users will also need an account with Signature Bank, which will serve as LGO Markets’ fiat on-ramp. To send fiat for the bitcoin they buy, they will use Signet, a blockchain-based settlement system the bank launched in December. (Signature’s spokesperson said it is the bank’s policy not to comment “on vendor or client relationships.”)
+
+To sell their bitcoin, users will need to sign a trade with their own key, then wait for LGO Markets to pass the information to the clearing firm and for the clearing firm to sign the trade with its key and settle it. It’s Altcoinomy, not LGO itself, that will be responsible for moving bitcoin between the users’ accounts.
+
+Renaudin said that if LGO moved funds itself, it would pose a “conflict of interest” and too much risk for big clients. Maintaining their own custody, on the other hand, will mean they are always in control of their funds and don’t need to care if the exchange fails in any way.
+
+As he put it:
+
+“Even if, say, we get hacked or I die like the guy from QuadrigaCX, or the office gets burnt down, the clients still can retrieve their funds, because with their own keys and the keys of the clearing firm they can move their funds and go back to their normal life.”
+
+To bolster its credibility with institutional investors, LGO will be audited by PwC — a “Big Four” auditor that has recently been actively involved with the crypto space and this year announced it will audit the Tezos Foundation. (PwC declined to comment on the LGO relationship.)
+
+Semi-decentralized
+
+LGO’s model combines elements of centralized and decentralized exchanges (DEXs).
+
+Like on a DEX, clients will store their funds independently, but the order book will run on a central server and the trades will be settled by the clearing firm. At the same time, all orders will get broadcast to the bitcoin network and recorded on the blockchain, timestamped and visible to everyone. This will eliminate the risk of LGO front-running its own clients, Renaudin says.
+
+Renaudin emphasized that execution, clearing and settlement at LGO will be done separately — the way it is done with traditional securities trading. While some think the old-fashioned way is too cumbersome and should be streamlined with blockchain technology, Renaudin maintained that mimicking the traditional markets will give institutional clients the level of security they need to trust crypto trading.
+
+“If you’re a large hedge fund or asset manager and you want to trade on Coinbase, you cannot apply the same control as you would use with the traditional trading. And we allow them to apply the same processes as to any other asset class,” he said.
+
+Another advantage compared to existing crypto exchanges, Renaudin said, is that, as only institutional investors will be trading at LGO Markets, big orders won’t move the price as dramatically because all trades will be big. “You want to have a large trade but you don’t want the price to slip because you don’t have enough liquidity,” he said.
+
+However, LGO plans to launch a separate trading service for retail investors in the second half of the year, Renaudin said. (The exchange has applied for a New York BitLicense, a FINRA broker-dealer license and a National Futures Association introducing broker license.)
+
+Further, he said he sees this bifurcation of the markets as temporary, concluding:
+
+“The promise of the blockchain technology applied to financial markets is a perfectly scalable market infrastructure and direct market access for every participant. … So it makes sense in the short term to create a platform for Fidelity and a platform for John Smith, and potentially join them together in the long term – not just for cryptocurrencies but for any kind of tokenized asset.”
+
+UPDATE (March 4, 3:14 UTC): This article was corrected regarding the details of the clearing process at LGO Markets.
+
+Hugo Renaudin image via Anna Baydakova for CoinDesk

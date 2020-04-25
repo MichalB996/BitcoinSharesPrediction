@@ -1,0 +1,67 @@
+DATE:  05.08.2019, 21:35:37
+TITLE: Braiins Plans Pooled Bitcoin Mining With Stratum V2
+URL:   https://bitcoinmagazine.com/articles/with-stratum-v2-braiins-plans-big-overhaul-in-pooled-bitcoin-mining
+
+Ring in the new bitcoin halving cycle the right way: with us!
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+To earn a more reliable stream of income compared to mining solo, most Bitcoin miners today mine through mining pools. This option is enabled by the open-source “Stratum” mining protocol currently used by almost all mining pools, designed by Slush Pool and first announced nearly seven years ago.
+
+Now, Braiins — the company behind Slush Pool — has announced Stratum V2: the second generation of the Stratum mining protocol. Having started work on it two years ago, the Prague-based mining company believes it has improved on the first Stratum protocol (now referred to as “Stratum V1”) in several key ways, making the new version markedly better.
+
+“It solves historical technical and security issues, it is generally much more efficient and it allows some advanced use cases like work selection or easier mining farm management,” Braiins co-CEO Pavel Moravec told Bitcoin Magazine. “This should have been done years ago, really.”
+
+Stratum V1
+
+As a brief refresher, this is how pooled mining with Stratum V1 works.
+
+First, a hasher (the user of a mining pool, sometimes also simply called a “miner”) connects their mining computer (typically a specialized machine with ASIC chips) to a mining pool. Or, more specifically, they connect their computer to a computer operated by the mining pool operator.
+
+The mining computer then requests a partial “block template” from the pool operator. This partial block template is essentially an incomplete Bitcoin block, without the proof of work to make it valid.
+
+Importantly, the transactions in this block are selected by the mining pool operator. The transactions themselves aren’t actually sent to the hasher at all; in fact, only the Merkle path — a series of hashes — of all transactions is.
+
+On top of that, the pool operator gets to choose which “version bit” is included. This can be relevant for the activation of soft fork protocol upgrades.
+
+The hasher then starts hashing on the partial block template, hoping that one of the hashes will result in a valid block header, meeting the network’s proof-of-work requirement. If the hasher hashes a valid block header, it is returned to the mining pool operator, who adds it to the remaining part of the block and broadcasts it to the Bitcoin network. The block reward is then distributed between all participants in the pool by the mining pool operator, based on how much work each hasher put in. (This is measured by having hashers also send in “almost valid” block headers that prove that the hasher performed work.)
+
+Stratum V1, therefore, gives the mining pool operator a relatively powerful position in the pool. Not only are they in charge of distributing the reward, but they also decide which transactions are included in a block, and what version bit is included. A mining pool operator could, if they wanted to, decide to censor certain transactions, or block certain protocol upgrades.
+
+Inspired by BetterHash
+
+Inspired by BetterHash, a proposal put forward last year by Chaincode Labs engineer and Bitcoin Core contributor Matt Corallo, Stratum V2 optionally turns the Stratum V1 protocol on its head. Instead of having a pool operator send a (partial) block template to hashers, hashers can opt to send a block template to the mining pool operator instead. This “work selection” allows hashers to pick transactions themselves and choose a block version.
+
+To make this work, Braiins (with help from Corallo) had to solve some of BetterHash’s more practical problems. Most importantly, there was the potential for the hasher to be mining on an invalid block template (because it includes an invalid transaction, for example). Even if the hasher is able to find a valid hash, the block itself would still be invalid, therefore, not helping the pool — while the same hasher would still benefit from valid blocks found by other hashers.
+
+One solution to this problem would be for the pool operator to first check that a hasher’s block template is valid before letting him into the pool. But in a large, public pool, this step would run into technical difficulties as well.
+
+“Imagine what happens when a new block is found on the Bitcoin network and every hasher in the pool wants to start working on a new block template,” Moravec explained. “Each of them can have a slightly different version of the mempool [unconfirmed transactions], and different transaction selection rules possibly … and they all want to start mining immediately. Having them all send their block templates to the pool for approval would basically be DDOSing the service each first second after a network finds a block. The mechanism needs to scale to be useful in practice.”
+
+Braiins solved this problem by letting pool operators check the validity of new block templates asynchronously. As soon as a hasher submits a block template, he can immediately start hashing it. In the meantime, the pool operator starts checking all block templates.
+
+Moravec added, “If a block template is later found invalid, the [hasher]’s rewards can be adjusted accordingly. So he has the incentive to work on proper blocks and provide all the data in a timely manner. Yet, he can continuously work on his templates without any delay.”
+
+Security, Efficiency and Flexibility
+
+Besides the change in transaction selection, Stratum V2 will include more improvements, some of which will probably be at least as important for many hashers.
+
+In Stratum V1, there is no cryptographic data authentication to make sure that the hasher’s computer is really connected with the pool operator’s computer, and the pool operator’s computer alone. This leaves the door open for man-in-the-middle attacks: an attacker could intercept the communication between the hasher and the pool operator and make the hasher work on a block provided by the attacker instead, for example. The attacker could make the block reward of this block payout to one of their own addresses, effectively “hijacking” the hasher’s hash power.
+
+Stratum V2 counters this attack by letting pool operators cryptographically sign the partial block templates. If a hasher knows the public key of the mining pool operator, they can check that the partial block template comes with a valid signature and, therefore, is really provided by the pool operator.
+
+Stratum V2 is also more efficient than its predecessor. Where Stratum V1 communication happens through human readable text (JSON), Stratum V2 communication is done in binary (computer readable code). Moravec believes that, combined with some elimination of data on the protocol level itself, this would cut the data shared between pool operators by one-half to two-thirds, making communication faster and cheaper.
+
+Further, Stratum V2 has a built-in mechanism for “multiplexing.” This means that hashers can have independent communication channels on the same connection, allowing their machines to share data about temperatures, voltages of chips or how their power supply behaves, for example. Mining pools could offer extra services based on this information, or the hasher could share it with another service or server.
+
+Stratum V2 will also let pools “guess” what the next block will be. Every time a new block is found, it takes a moment for a mining pool to figure out which transactions were included in that block, and therefore which transactions can’t be included in the next block. Today, many mining pools start mining the next block empty: They don’t include any transactions at all for a couple seconds, to be sure they’re not including a double-spend (which would make the block invalid).
+
+With Stratum V2, pool operators (or hashers if they are the ones selecting the transactions) can instead make an educated guess about which transactions will be included, based on all unconfirmed transactions. In these first seconds, they can then start mining what they think will likely be a valid next block. Especially as each block subsidy becomes a smaller chunk of a block reward, eventually to be replaced by fees, this small efficiency could benefit hashers.
+
+Improvements Yet to Come
+
+Finally, the Braiins team says there will be some more improvements that haven’t been announced. While the company has a running prototype, the protocol specification is not finalized yet.
+
+“We now want to gather feedback from people to finalize the proposal internally, then a Bitcoin Improvement Proposal will be published. I guess this will cause another round of discussions … and in the meantime we will deploy Stratum V2 to Slush Pool, and release it as part of testing version of Braiins OS to get real life experience,” Moravec said. “We’re implementing it as fast as possible to get everybody something to play with soon.”

@@ -1,0 +1,43 @@
+DATE:  03.01.2020, 01:02:26
+TITLE: Early Cypherpunk Emails Reveal a Blueprint for Bitcoin
+URL:   https://news.bitcoin.com/early-cypherpunk-emails-reveal-a-blueprint-for-bitcoin/
+
+Early Cypherpunk Emails Reveal a Blueprint for Bitcoin
+
+The cypherpunks, a ragtag group of tech tinkerers, cryptographers, and privacy advocates, were obscure in their 1990s heyday. And it would have remained that way in perpetuity were it not for a certain Satoshi Nakamoto launching a digital currency in 2009 encapsulating their core beliefs. We don’t know if Satoshi was a cypherpunk. But what we do know from rediscovered mailing list conversations is that many of the cypherpunks’ early ideas were to be enshrined in Bitcoin more than a decade later.
+
+Also read: Why Nick Szabo Probably Isn’t Satoshi
+
+
+
+Hal Finney Described Bitcoin Before It Was Born
+
+Building on David Chaum’s digital cash, a certain Hal Finney proposed several improvements, suggesting to his fellow cypherpunks that “Alice and Bob could be pseudonyms, using anonymous addresses to communicate with each other and with the bank … If these problems can be solved, a big advantage of this approach is that the banker can be anonymous. He would be known only by his anonymous address and his public key(s). This would provide some safety in the event that even a small-scale experiment like this was targeted for a crackdown.”
+
+If you think that sounds a lot like Bitcoin – minus the central bank – you’re not alone. Last month, bitcoiner Nadav Ivgi shared the full trove of cypherpunk emails from the early 90s to the present day, and this particular despatch from Hal Finney immediately stood out. What’s most remarkable is that those words were written in November 1992 – 16 years before Satoshi’s whitepaper was published. Given the perspicacity of Hal Finney’s vision for the form electronic money could take, it’s no wonder that some suspect him of being Satoshi Nakamoto himself.
+
+But the resurfaced cypherpunk mailing list is not a rich mine of clues to Satoshi’s identity – it’s a blueprint for Bitcoin itself. Satoshi – whether he lurked there or not – did more than simply cobble together the ideas of others; he solved the Byzantine Generals Problem for one thing. Yet it’s hard to sift through these early internet conversations without sensing the shape of what was to come in 2009.
+
+Cypherpunks Foresaw Blockchain Surveillance
+
+Hal Finney wasn’t the only cypherpunk who foresaw a future in which digital cash was a reality. Others had the prescience to envision the up- and downsides that this would entail. In a November 1992 thread on the topic of a “cypher bank,” one respondent warned:
+
+It is said information should be free… however, if someone was (and someone undoubtedly would) … monitor the bank(s) they would probably see accounts going up and down by various amounts and it should be possible to track transactions between identities … This probably isn’t particularly inviting to the majority to know that your funds could be traced very anonymously and that patterns could be formulated… If you wish to entertain such a testbed financial system be very careful with any decision made and work through each possible consequence. Most people I think would prefer to remain anonymous. I know I would.
+
+In light of the surveillance era the cryptosphere has sleepwalked into, that prediction has been fully vindicated.
+
+In February 1993, cypherpunk Alan Hetzel proposed another potential drawback to digital cash, writing: “One of the serious deterrents to crimes such as kidnapping is the probability that one will get caught attempting to communicate one’s demands or collect the payment … I could send you an anonymous note threatening to poison your dog, kill your wife, burn down your house, whatever, unless you pay me $$$ in untraceable digital cash. What can you do?”
+
+He added: “I foresee a great way for jerks to “earn extra income in their spare time” threatening hundreds of people in mass anonymous mailings. Some of these folks will be scared enough to pay off.” Bitcoin does not provide true anonymity, but given its ability to facilitate ransomware and blackmail attempts, it would be disingenuous to dismiss this prediction altogether. It can be tempered, however, by this riposte to Hetzel’s post, composed by Perry Metzger. It may have been despatched by email, but if you listen closely, you can almost hear the mic drop at the end:
+
+“To eliminate the capacity to use digital cash means to require monitoring of all speech and ban most international traffic, to prohibit strong cryptography and require key registration. Even then I’m not convinced that it would work because people would still try to avoid these restrictions.
+
+“All technologies are fraught with dangers. All of them. The knife you use to slice your bread can be used to kill your wife. Shall we dispense with knives? Shall we pretend that we can unlearn what we know? A bright 10 year old with a computer can produce a cypher machine. Shall we lobotomize all ten year olds and destroy all the computers? You can’t put some genie back in the bottle after you’ve rubbed the first time. We can’t stop people from knowing things.
+
+“At least the well meaning fools who advocate gun control have the fact that good machine shops aren’t in practically every home on their side — telephones, modems, and computers are becoming ubiquitous, however, and they are all capable of aiding and abetting in the criminal techniques you mention. Welcome to the world.”
+
+Have you read any of the cypherpunks’ emails? Do you think Satoshi was among them? Let us know in the comments section below.
+
+Images courtesy of Shutterstock, Wiki Commons, Fair Use.
+
+Did you know you can verify any unconfirmed Bitcoin transaction with our Bitcoin Block Explorer tool? Simply complete a Bitcoin address search to view it on the blockchain. Plus, visit our Bitcoin Charts to see what’s happening in the industry.

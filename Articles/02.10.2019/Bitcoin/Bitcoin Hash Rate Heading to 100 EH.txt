@@ -1,0 +1,27 @@
+DATE:  02.10.2019, 15:24:50
+TITLE: Bitcoin Hash Rate Heading to 100 EH
+URL:   https://bitcoinmagazine.com/articles/bitcoin-hash-rate-heading-to-100-eh-s-how-price-halving-and-security-are-involved
+
+Ring in the new bitcoin halving cycle the right way: with us!
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+This article was originally published by 8btc and written by Vincent He.
+
+Computing power does not determine the price of cryptocurrency — on the contrary, the price of cryptocurrency affects computing power. Recently, there has been a heated discussion about Bitcoin’s hash rate with many people looking forward to seeing it break 100 exahashes per second (EH/s).
+
+So it’s important to look at the relationship between Bitcoin’s hash rate, price, halving and security.
+
+The essence of cryptocurrency mining is to conduct hash rate operations, so computing power can be measured in the number of hashing operations per second. For example, Bitcoin’s hash rate is about to break 100 EH/s, meaning that 100 exahash operations can be completed in one second.
+
+Above is the line break chart of Bitcoin’s average daily computing power. You will find that the fluctuation of Bitcoin’s daily computing power is not small. For example, the hash rate 101.23 EH/s on September 16, 2019, dropped to 88.96 EH/s on September 17, 2019 — a decline of 12 percent. Increases or decreases of about 10 percent are very common. Why is that? As we mentioned above, the hash rate is the sum of all computing power. Does it mean that thousands of mining machines are switching on and off every day?
+
+In fact, the hash rate cannot actually be counted. What we see in the chart above is not the actual computing power, but an estimate based on the difficulty and the time of block confirmation. Mining difficulty and computing power, together with luck, will affect this time.
+
+The luck of the whole network fluctuates greatly on a 24-hour scale, so the average daily computing power on a single day does not have much reference value. We must take a dimensional view of the computing power to reduce the deviation brought on by this luck. That is to say, the average seven-day computing power may have exceeded 100 EH/s, but the average daily computing power has not yet broken it.
+
+For bitcoin, or all proof-of-work-based cryptocurrencies, security does not depend on the hash rate but on the cost of 51 percent attacks. The higher the attack cost, the safer the network will be. The current increase in Bitcoin’s hash rate means that the requirements for 51 percent attacks on the network are correspondingly increased, but this does not mean that the cost of 51 percent attacks has increased, because the unit cost of computing power should be taken into consideration.
+
+There is no direct relation between the Bitcoin hash rate and bitcoin’s price. Hash rate does not determine price. On the contrary, price will affect hash rate. When the price rises, the miners’ profits are enlarged, which will attract more miners to join the network, thus increasing the hash rate of Bitcoin. The cost is determined by the price of bitcoin and the price underpinned by the cost.

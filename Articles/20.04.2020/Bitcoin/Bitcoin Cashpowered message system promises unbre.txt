@@ -1,0 +1,45 @@
+DATE:  20.04.2020, 17:20:36
+TITLE: Bitcoin Cash-powered message system promises unbreakable encryption
+URL:   https://decrypt.co/26138/bitcoin-cash-powered-message-app-promises-unbreakable-encryption
+
+Bitcoin Cash developer Chris Troutner has taken the fight for privacy to new levels after creating an encrypted messaging system that harnesses Bitcoin Cash transactions.
+
+Dubbed bch-encrypt, the system works in a similar way to email encryption.
+
+"In email, you get someone's public key, encrypt the message, and only the person with the private key can decrypt the message," Troutner told Decrypt.
+
+Similarly, within bch-encrypt, anyone can encrypt a message as long as they have a Bitcoin Cash address. The message gets written to the blockchain, and only a person with the private key held by that address can decrypt the message.
+
+Fighting the EARN IT Act with bch-encrypt
+
+Troutner developed the messaging system as a response to the Eliminating Abusive and Rampant Neglect of Interactive Technologies (“EARN IT”) Act, currently the subject of hearings in the US Senate. The bipartisan legislative effort was formulated as a means to fight online child sexual abuse, but privacy advocates such as the Electronic Frontier Foundation have called the Act “a disaster for Internet users’ free speech and security.” They argue that EARN IT could be used to eliminate end-to-end encryption in instant messaging apps and other communications platforms.
+
+For Troutner, this was a bridge too far.
+
+"To prove how ineffective these lawmakers will be, I put this video demo of some software I wrote. It lets you encrypt a message and send it to someone using Bitcoin Cash,” Troutner wrote on a Reddit thread. "There isn't a damn thing any state actor can do to stop the communication or break the encryption. Bitcoin does not respect laws."
+
+Because the encryption leverages the Bitcoin protocol, he explains, there is no way for any company using it to comply with the EARN IT act.
+
+"The decryption simply wouldn't work if anyone tried to comply with law enforcement on it. The billions of dollars at stake in the Bitcoin forks prove that the encryption can't be broken by any state actor," he said.
+
+As for any limitations—such as inundating the blockchain with surplus data—Troutner explained that as long as the system omits large files, there shouldn't be an issue.
+
+"This technique could be expanded by leveraging IPFS, in order to encrypt and share large files," he said.
+
+One condition of bch-encrypt is the necessity to provide a private key for payment when sending a message. When asked whether this could pose a security risk, Troutner reasoned that it wouldn't be prudent to store a lot of money on the address that controls encrypted messages.
+
+Taking bch-encrypt to the masses
+
+Right now, bch-encrypt exists only on Github. However, Troutner intends to streamline the system to make it more widely accessible.
+
+"I plan to create a web page on FullStack.cash where people can enter a 12-word mnemonic, someone else's Bitcoin Cash address, and a message, then click send. 1,2,3. That's how easy it will be to send encrypted messages to people on the Bitcoin Cash network."
+
+He also revealed plans to integrate it into two blockchain-based decentralized social media platforms—memo.cash, a Twitter-esque platform, and member.cash, a site reminiscent of Reddit.
+
+Could decentralization solve social media’s privacy problems?
+
+Decentralization has been mooted as a solution to the myriad issues currently facing centralized social media platforms. One advocate is Twitter CEO Jack Dorsey, who has announced plans to create an open and decentralized standard for social media.
+
+Dubbed Bluesky, the project aims to tackle “entirely new challenges centralized solutions are struggling to meet,” including “abuse and misleading information.”
+
+Now, with the EARN IT act threatening privacy protections, decentralized social media projects could attract greater scrutiny.

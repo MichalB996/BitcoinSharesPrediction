@@ -1,0 +1,75 @@
+DATE:  21.09.2019, 21:20:05
+TITLE: How Merge Mining and Anchored Blockchain Projects Capitalize on Bitcoin's Security Model
+URL:   https://news.bitcoin.com/how-merge-mining-and-anchored-blockchain-projects-capitalize-on-bitcoins-security-model/
+
+How Merge Mining and Anchored Blockchain Projects Capitalize on Bitcoin's Security Model
+
+Since 2011, just after Satoshi Nakamoto left the Bitcoin project for good, networks have emerged that leverage the BTC chain in some way. A variety of projects over the last nine years have found value in anchoring some sort of feature set to BTC in order to bolster the satellite’s underlying network. The following article examines when these anchor-style projects started, where they are today, and how these concepts have been perceived by the crypto community.
+
+Also read: Bitcoin History Part 17: That Time Mt. Gox Destroyed 2,609 BTC
+
+Blockchain Projects That Leverage BTC
+
+Satoshi’s cryptocurrency invention is almost 11 years old and a lot has changed since the early days. One thing that has remained a constant, however, is projects using the BTC chain in some form for leverage. Protocols that harness the network include projects like Namecoin, Counterparty, Rootstock, Blockstack, Omni Layer, Factom, and Veriblock.
+
+Namecoin
+
+Namecoin is a project that started in 2010 when a few early blockchain developers including Gavin Andresen and Satoshi talked about using the BTC chain for a domain name system (DNS). That December, developers offered a reward for a DNS system and Namecoin (NMC) was born from these discussions and ideas. After months of DNS and Bitcoin discussions, Namecoin was officially announced on April 18, 2011. The NMC network is a separate blockchain that creates a domain naming system and the NMC code is based on the BTC codebase releases of that timeframe. Namecoin uses a system called merged mining and on block 19,200 the NMC network allowed users to mine both BTC and NMC at the same time. This move made it so NMC miners didn’t jump from one chain to another when profitability changed.
+
+NMC trading and mining is still quite active today and it’s one of the oldest cryptocurrencies in existence. Just like BTC, the NMC supply is limited to 21 million, and currently there’s a circulating supply of 14,736,400 NMC in existence. Essentially, domain name value pairs are stored on the chain and attached to coins. After 12,000 blocks, names expire unless the owners renew the domain. Initially, the project was fairly popular and attracted other projects like Onename which has since rebranded to Blockstack.
+
+However, in 2015, Harry Kalodner, Miles Carlsten, Paul Ellenbogen, Joseph Bonneau, and Arvind Narayanan from Princeton University released a dreary empirical study of Namecoin. The study noted that only 28 of 120,000 domain names tethered to Namecoin were used. That year, Blockstack founder Muneeb Ali explained that his project would move to to the BTC chain due to the mining pool Discus Fish dominating 60-70% of the NMC hashrate. NMC touched an all-time high (ATH) in 2013, jumping to over $10 a coin, but it never saw those heights again. During the bull run of 2017, NMC spiked to $5 and today the coins trade for $0.55. Namecoin is the first major project to leverage the BTC chain.
+
+Omni Layer
+
+Another coin that uses the BTC chain to benefit is Omni Layer, a project that originally stemmed from Mastercoin. Omni is well known for issuing the stablecoin tether (USDT) and every Omni and tether transaction utilizes the same transaction hash on the BTC chain. Omni Layer also has other tokens such as maidsafe, synereo, and the native omni tokens, but tether (USDT) which started in 2014 has been the chain’s dominant output.
+
+Omni is a protocol built as a layer over the BTC chain. The idea lets anyone generate tokens, send, trade, redeem, and pay token dividends as well. Omni developers consider the protocol to be an HTTP layer that works on top of the BTC network’s TCP/IP. The Omni blockchain uses the BTC chain’s scripting feature and the OP_Return opcode that initiated during version 0.9 of the Bitcoin reference client release.
+
+Throughout the cryptocurrency community, discussions rarely talk about Omni as the project is not very well known. However, the tether stablecoin issued on the Omni Layer chain is very well known and USDT accounts for the majority of trades against nearly every cryptocurrency trading pair. For instance, on September 21, tether USDT represents 70% of all global BTC trades.
+
+Counterparty
+
+The Counterparty platform is another project that makes use of the BTC chain in order to issue financial tools, token assets, and a decentralized trading platform. Similarly to the Omni project, Counterparty uses another chain as a layer built on top of the BTC network and OP_Return opcode transactions tie the assets to the BTC chain. In order to create the Counterparty (XCP), the original team burned 2,140 BTC by sending the coins to a provably unspendable Bitcoin address. The proof-of-burn (PoB) system bootstrapped the cryptocurrency XCP which is used within the system to create new tokens, bets, and callback callable assets.
+
+Currently, there are 2,615,428 XCP in existence and on September 21, each coin is trading for $1.79. Counterparty was once a popular digital currency system and people referred to the project as part of the “Bitcoin 2.0” era. The project made headlines in November 2014 when the development team bragged that it implemented the Ethereum Virtual Machine (EVM) into the protocol. In January 2018, XCP touched an all-time high of $99 per coin and has lost most of its value since. The Counterparty project is well known for extensible blockchain game tokens and cards like the game Spells of Genesis. Other Counterparty projects like Mafia Wars and the Rare Pepe trading card series have also gathered a following.
+
+Factom
+
+Factom (FCT) is a digital currency and separate blockchain that uses the BTC network as an anchor. The people who created Factom explain that the blockchain manages and secures data, documents, and systems on an autonomous blockchain protocol. Basically, Factom allows users to create hashes of digitized assets through the Factom blockchain API and the hashes are combined into a single hash.
+
+The finished product is then anchored to the BTC chain and Bitcoin miners record entries for order finality and audit entries for validity. Factom was first announced in 2014 and launched the genesis block on September 1, 2015. Four years later, on September 21, a single FCT is worth $3. At one time FCT touched a high of $78 on January 2018. Similar to Counterparty, Factom was considered a Bitcoin 2.0 project, but is far less popular today as it was in its heyday. Factom has managed to record data for the Bill and Melinda Gates Foundation as well as the U.S. Department of Homeland Security.
+
+Blockstack
+
+The blockchain-based domain name service (DNS), app ecosystem, and decentralized computing network Blockstack, formally known as Onename, also has plans to use the BTC chain in the Stacks network. In January 2019, Stacks lead developer Jude Nelson described how the protocol leverages the hash power from the BTC network. Essentially Stacks is secured by 90 exahash of distributed hashrate in its initial stages and it aims to harness this security to bootstrap the system and eventually transition away from BTC.
+
+Stacks also uses proof-of-burn by allowing participants to provably destroy or burn bitcoins. “Every participant competing for the opportunity to write the next block must burn a certain amount of proof-of-work token (bitcoin) to enter the competition,” Nelson details in a video demonstration of the Stacks protocol. Since Onename rebranded to Blockstack and transitioned to using the BTC chain in 2015, the protocol has been a popular project amongst bitcoiners. In July 2019, the cofounder of Blockstack, Muneeb Ali, told the public that the firm’s token sale was “qualified by the SEC under Regulation A+.”
+
+Rootstock
+
+The Rootstock (RSK) project is an open source Turing-complete smart contract sidechain that uses the BTC chain via merge-mining. The chain adds multi-chain interoperability through the two-way peg to BTC and allows for smart contracts built on top of the network. The project had been in the works for three years before it mined the RSK genesis block on January 4, 2018. Developers of RSK consider it to be “the first open source smart contract platform secured by the Bitcoin network.” In May of 2018, RSK creators revealed that the system’s smart contracts were secured by 10% of the BTC hashrate.
+
+By February 2019 RSK was secured by more than 45% of the BTC hashrate and at the time attacking RSK contracts would have cost approximately $112,000 per hour. Rootstock is a well known project and has enticed believers in smart contracts for years now, although some people take issue with merge mining techniques and believe the method could be insecure. However, RSK increased its security in an upgrade and developers claim: “RSK merge-mining security could reach a level of security comparable to Bitcoin mining, for users that wait for at least a hundred block confirmations.”
+
+Veriblock
+
+The last project on the list, Veriblock, has been a hot topic of conversation over the last year for using a significant portion of BTC transactions. Veriblock is a blockchain that uses a consensus system called proof-of-proof (PoP) and the ‘proof’ is tied to the BTC chain via OP_ Return transactions and other methods of interoperability. These ‘SP blockchain transactions’ essentially store an alternative blockchain’s state data in order to benefit from the anchor of BTC’s security. Veriblock made headlines last February when the chain was consuming around 30% of BTC’s daily transactions.
+
+Nowadays, Veriblock captures between 15-20% and bitcoiners have noticed the project is now using Segregated Witness (Segwit) transactions. With a large number of transactions in February through March and the recent use of Segwit transactions, Veriblock’s operations have caused some Bitcoin proponents to complain about the project. After finding out that Veriblock was using a sizeable portion of all Segwit transactions, BTC developer Luke Jr begged the community to reduce the block size to lower than the current 1MB limit. Veriblock (VBK) also has its own native currency called VBK and each coin is worth $0.01 on September 21.
+
+Networks That Use BTC for Leverage Have Always Been Controversial
+
+So far, all of these projects have been either welcomed or hated on for the type of services they provide and it’s been this way since the beginning. The Namecoin project was originally going to be hosted on the BTC chain and called BitDNS, but bitcoiners took issue with that type of data being hosted on the network. The argument has been tied to all of these projects in some form or another as skeptics don’t like arbitrary data being stored onchain and they believe that these practices could lead to higher fees, blockchain bloat, and congestion.
+
+A few people also think that merge-mined chains could be dangerous. Even Satoshi stated that merge mining parties could be “a danger to each other if the available CPU power gangs up on one.” The Namecoin blockchain itself has served as a real world experiment for merge mining examples as well as other blockchains. Merged mining was first used on Namecoin but was also introduced to coins like huntercoin (2014), dogecoin (2014) and myriadcoin (2015). The problems associated with merge-mined coins include possible impacts on mining power distribution, mining power centralization issues, effects on proof-of-work (PoW) difficulty, and validation disincentives.
+
+Any project that decides to leverage the BTC chain in some form or another going forward will be scrutinized and disliked just like all these other projects. However, the permissionless nature of these protocols has given any person or organization the ability to start such projects and no one can stop them. As long as the underlying security of the BTC hashrate continues to grow, projects like Veriblock will exist no matter what people think about them.
+
+Bitcoin’s inability to scale could contribute to these projects leaving the BTC chain for something more affordable, however. This can be seen with the Tether project and how millions of Omni Layer tethers have been swapped for ERC20 equivalents. When Tether Limited told the public it was doing this, it cited cheaper network fees and faster transactions. All of these projects that utilize the BTC chain right now could find themselves in the same boat if BTC scaling remains limited to 1MB blocks and Segwit transactions. If congestion and high fees price out such projects, it’s likely many protocols could flow into blockchains like Ethereum (ETH), and for even cheaper fees and more block space to Bitcoin Cash.
+
+What do you think about the projects that leverage the BTC chain? Let us know what you think about this subject in the comments section below.
+
+Image credits: Shutterstock, Veriblock, RSK, Blockstack, Namecoin, Factom, Counterparty, Omni, Rare Pepe Cards, Tari Labs, and Tether Limited.
+
+Do you need a reliable Bitcoin mobile wallet to send, receive, and store your coins? Download one for free from us and then head to our Purchase Bitcoin page where you can quickly buy Bitcoin with a credit card.

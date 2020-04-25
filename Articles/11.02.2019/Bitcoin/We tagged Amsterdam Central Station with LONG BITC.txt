@@ -1,0 +1,45 @@
+DATE:  11.02.2019, 12:07:42
+TITLE: We tagged Amsterdam Central Station with LONG BITCOIN SHORT THE BANKERS
+URL:   https://thenextweb.com/hardfork/2019/02/11/bitcoin-graffiti-amsterdam/
+
+The White House has been tagged with digital Bitcoin BTC graffiti, thanks to a new augmented reality platform powered by cryptocurrency.
+
+Satoshi’s World allows anyone to add text, images, and GIFs to real-world settings for a small Bitcoin fee. Posts are made viewable through a special Google Maps feed.
+
+It was launched over the weekend, and it took just a few hours for “bitcoin” to be scrawled across the White House.
+
+It works like this: you drop the little orange ‘Pegman’ anywhere on the map, and its first person view will appear on the right hand side of the screen.
+
+For 50 Satoshis ($0.0018) per character, you can then type in any message you would like to “appear” in that location. It supports emoji directly, as well as images and GIFs through links.
+
+It’s a neat spin on a Bitcoin project from last year, Satoshi’s Place, which allowed users to purchase pixels on a blank canvas for a very small amount of cryptocurrency. It also used the Lightning Network.
+
+Doing our part
+
+In the spirit of advancing Bitcoin adoption, Hard Fork decided to give this a go.
+
+TNW is based in the Netherlands, so we couldn’t resist spraying some choice cryptocurrency graffiti all over Amsterdam Centraal station.
+
+These cost about $0.05 worth of Bitcoin each.
+
+We also caught up with Satoshi World’s creator to see how he’s been using the platform, and to find out what some of his favorite graffiti has been so far.
+
+“I wrote ‘hello gorgeous ;)’ on the Maiden Tower in Istanbul,” Pseudozach told Hard Fork. “There are seriously profound ones, one says ‘welcome to the cliff dwellings, we are a lie.‘ I don’t even know what that means, but it sounds deep.”
+
+No Satoshi’s World censorship for now
+
+With regard to why he chose to use the Lightning Network to accept Bitcoin payments instead of using the blockchain directly, he noted that without Lightning, the service just wouldn’t be the same.
+
+“I started out charging 10 Satoshis per character, and a few people wrote ‘bitcoin.’ That was 70 Satoshis, pretty much impossible on-chain,” said Pseudozach.
+
+This is due to Bitcoin‘s network fees. When users send very small amounts of Bitcoin (like the ones in Satoshi’s World), transaction fees can actually outweigh the original amount to be sent.
+
+Lightning Network removes this barrier by allowing Bitcoin to be sent directly between nodes through special payment channels.
+
+“Another reason is Lightning is final, so I take the payment and user refreshes the page and sees the graffiti immediately,” he added. “On-chain, we would have to wait a few blocks (20-40 minutes).”
+
+Pseudozach also isn’t really concerned that Satoshi’s World will be flooded with dirty messages and dick-related doodles like its predecessor.
+
+“I’m definitely not interested in censoring or monitoring what’s on there so I’ll let it run wild for a while, but if there’s any chance it would get me in trouble, I’ll think of something,” he said.
+
+In any case, this is certainly a blast, and oddly addictive. What better reason to whip out your Bitcoin wallet and test the Lightning Network?

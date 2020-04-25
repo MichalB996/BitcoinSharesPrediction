@@ -1,0 +1,57 @@
+DATE:  06.12.2019, 21:30:49
+TITLE: Bitcoin Cash 2019: Year in Review
+URL:   https://news.bitcoin.com/bitcoin-cash-2019-year-in-review/
+
+Bitcoin Cash 2019: Year in Review
+
+2019 is coming to an end and the Bitcoin Cash (BCH) ecosystem has matured a great deal. BCH has successfully upgraded twice this year, adding Schnorr signatures capabilities and most transactions on the BCH network are now non-malleable. Moreover, BCH has seen increased adoption this year, an SLP token explosion, a slew of helpful third-party applications, and has become a privacy contender with Cashshuffle and Cashfusion on the way.
+
+Also read: Onecoin Websites Suspended as the $4 Billion Ponzi Crumbles
+
+This Year’s Bitcoin Cash Growth
+
+As the new year approaches, BCH proponents have been discussing all the benefits the Bitcoin Cash network has to offer. Marketwise BCH, like most coins in the top 10, saw little movement, but is still above (+30-40%) January 2019 prices. While markets had an interesting year, the Bitcoin Cash ecosystem saw a great level of development. From infrastructure to merchant adoption, BCH continued to see rapid growth in 2019. Moreover, the BCH chain has experienced two upgrades this year, which has improved overall functionality and strides toward the BCH roadmap. BCH supporters from all around the world wholeheartedly believe that the decentralized cryptocurrency is paving the way toward a global peer-to-peer electronic cash system.
+
+“In the last two years, BCH has become a much better peer-to-peer electronic cash system than it was 24 months ago, far superior to what BTC would be even if BTC wasn’t slow and expensive,” Cointext founder Vin Armani stressed on December 4.
+
+2019 Upgrades
+
+Every six months, the BCH chain upgrades in order to bolster the Bitcoin Cash roadmap toward scaling and technical improvements. On May 15, at block 582680, the BCH blockchain implemented the basic foundations of Schnorr signature functionality and Segwit recovery exemption. Schnorr signatures open the door to improved scaling and privacy and the first upgrade created the initial framework so developers can leverage the protocol. The Segwit recovery change made it possible for network participants to recover funds that have been sent to Segwit addresses by accident.
+
+Six months later on November 15, at block height 609135, BCH developers implemented the Minimaldata rule change which removes the final bip-0062 malleability vector from the network. This change makes the majority of BCH transactions on the network non-malleable. The November consensus change also included Schnorr signature support extended to OP_Checkmultisig(verify), which means all signature checking operations will support Schnorr signatures.
+
+Simple Ledger Protocol (SLP)
+
+The Bitcoin Cash network saw an explosion of Simple Ledger Protocol (SLP) usage this year as the SLP universe has grown quite robust. So far there’s been 6,141 tokens created using the SLP framework, accounting for 312,505 SLP transactions this year. Popular tokens built on the BCH network this year include Honk Honk, Spice, Official Honk, ACD coin, Flex coin, Honestcoin, SAI, Drop, and Gocrypto. Many of these SLP tokens have gained value and BCH proponents have watched token market capitalizations grow.
+
+SLP tokens are traded on exchanges now and can be swapped on trading platforms like Bitcoin.com Exchange, Cryptophyl, Coinsuper, Coinex, and Altilly. In July, the CEO of the Bitcoin Cash node Bitcoin Verde revealed that the local government from Dublin, Ohio plans to issue SLP-based tokens. Lots of wallets now support SLP tokens including Memo, Ifwallet, Electron Cash SLP, Badger, and Crescent Cash. During the summer, Bitcoin.com released the SLP Dividend Calculator and BCH supporters were introduced to paying dividends in BCH directly on the blockchain to the addresses holding a specific token type. “Bitcoin Cash has enabled all sorts of amazing things,” Bitcoin.com’s Executive Chairman Roger Ver explained. SLP developers also introduced nonfungible SLP token support this year and Cointext founder Vin Armani created a new system called the ‘Simple Ledger Postage Protocol.’ The postage service allows wallets to send SLP tokens without having to use bitcoin cash as ‘gas’ to forward transactions.
+
+Merchant Adoption
+
+BCH fans always enjoy getting retailers to support a peer-to-peer electronic cash system and 2019 was no different. Thanks to many people spreading BCH awareness, merchant adoption has grown a lot since last January. At the beginning of 2019, Acceptbitcoin.cash data showed 934 online merchants accepted BCH, 550 brick-and-mortar merchants were listed on Map.Bitcoin.com, and 889 merchants of all types could be found on Green Pages.
+
+The numbers were faithfully recorded by Redditor u/neonwasteland nearly every single week this year. This week u/neonwasteland wrote: “We’ve got 1,128 online merchants listed on Acceptbitcoin.cash, there are 1,772 brick-and-mortar merchants listed on Marco Coino (Map.Bitcoin.com), and you can find 1,148 merchants of all types on Green Pages.” Moreover, numerous well known retailers have partnered with Bitpay this year, adding more BCH acceptance to the overall landscape.
+
+Privacy
+
+Bitcoin Cash privacy improved a great deal this year as well and it really spiked after the full-featured version of Cashshuffle was introduced on March 27. The developer Acid Sploit’s Cashshuffle stats page shows there’s been 37,025 shuffles since the end of March. 189,760 BCH has been shuffled and at today’s market prices that’s over $40 million worth. Cashshuffle allows users to mix their bitcoin cash UTXOs with a pool of other users within the Electron Cash (EC) Wallet interface.
+
+Cashshuffle offers a deeper anonymity set, but it’s also being improved upon with an idea called Cashfusion. EC lead developer Jonald Fyookball explained on November 23 that the Cashfusion framework was working behind the scenes using alpha software and the beta software “is coming soon.” Moreover, independent software developer Mark Lundeberg detailed how both Schnorr and Cashfusion can create “a situation that’s ripe for doing batched signature validation.”
+
+Various Bitcoin Cash Milestones and New Applications
+
+Bitcoin cash fans also saw the introduction of a local BCH marketplace called local.Bitcoin.com which allows people to trade in a peer-to-peer and noncustodial fashion. The dedicated SLP exchange Cryptophyl launched this year, which created an SLP-centric market that uses BCH as the base pair. Bitcoin.com also launched a cryptocurrency exchange this year and the trading platform has base BCH base pairs as well and supports SLP tokens too.
+
+The application Sideshift.ai became a popular crypto swapping platform in 2019 and also introduced a native token called SAI which uses SLP infrastructure and two other blockchains. BCH proponents were introduced to concepts like Cashscript, Nimbus, a prototype smart card that produces Bitcoin Cash signatures, Spedn improvements, an offline Bitcoin Cash sending tool called Be.cash, cashchannels, simple escrow contracts, and a formal specification proposal. Bitcoin Cash meetups have swelled across the world and they continue to be created in various countries nearly every single week.
+
+Popular applications have been introduced like the blogging project Read.cash and the uncensorable Memo platform has matured in 2019 as well. Bitcoin.com announced the launch of a $200 million fund to promote the growth of the BCH ecosystem. Merchant adoption in Australia has grown exponentially and there are plans underway to build a $50M Bitcoin Cash tech park in North Queensland.
+
+A new crypto resource emerged in Barquisimeto, Venezuela, called the Bitcoin Cash House for Venezuelans interested in learning about the benefits of BCH and cryptocurrencies. The Bitcoin Cash House initiative is also expanding to a number of countries in Africa. A video game called Realmx was built on top of the Bitcoin Cash blockchain this year. BCH charities grew significantly in 2019 and the nonprofit peer-to-peer food drive Eatbch celebrated its first anniversary. Eatbch has also made significant strides in Africa and the BCH community recently funded an Eatbch representative’s trip to Ghana.
+
+Overall, the Bitcoin Cash network has seen a slew of development and milestones this year and people are excited about what’s in store for 2020. A myriad of things happened this year when looking back at the BCH ecosystem’s growth over the last 12 months as it seems like something new is being announced on almost a daily basis. Despite what critics say about the network, there’s a whole lot happening in the BCH universe and proponents are quite pleased with the achievements.
+
+What do you think about everything that happened within the BCH ecosystem this year? Do you think 2019 was a good year for Bitcoin Cash? Let us know what you think about this subject in the comments section below.
+
+Image credits: Shutterstock, Various Crypto Company logos, Fair Use Pixabay, SLP, Cashshuffle, and Wiki Commons.
+
+Do you need a reliable Bitcoin mobile wallet to send, receive, and store your coins? Download one for free from us and then head to our Purchase Bitcoin page where you can quickly buy Bitcoin with a credit card.

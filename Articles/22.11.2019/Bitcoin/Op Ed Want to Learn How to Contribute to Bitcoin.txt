@@ -1,0 +1,47 @@
+DATE:  22.11.2019, 20:22:30
+TITLE: Op Ed: Want to Learn How to Contribute to Bitcoin? Try a ‘Good First Issue’
+URL:   https://bitcoinmagazine.com/articles/op-ed-want-to-learn-how-to-contribute-to-bitcoin-try-a-good-first-issue
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+Continuing the series on the various ways one can learn about the technical aspects of Bitcoin, in this article we will focus on good first issues in the Bitcoin Core GitHub repository.
+
+Bitcoin Core is widely recognized as the reference implementation for Bitcoin. Although the name “Bitcoin Core” wasn’t used until 2013, the client itself can trace its roots right back to the very first release by Satoshi Nakomoto in 2009. Other Bitcoin implementations like libbitcoin (C++), bcoin (Javascript) and btcd (Go) were created later.
+
+Get to Know GitHub
+
+Bitcoin Core is an open-source project. The code and documentation can be viewed and downloaded by anyone with an internet connection. Bitcoin Core (and many other software projects) use the open-source and nonproprietary Git version control system for tracking changes in the codebase across distributed contributors.
+
+Git was developed by the creator of the Linux kernel, Linus Torvalds. In contrast, GitHub (recently acquired by Microsoft) provides proprietary software which offers convenient tools and social features around the Git protocol. Bitcoin Core is not dependent on GitHub for its ongoing survival though it would be inconvenient and disruptive if the project was suddenly moved or prevented from using GitHub software in the future.
+
+During the time of Microsoft’s acquisition of GitHub, there was discussion in the Bitcoin community and on other open-source projects as to whether they should transition away from any future reliance on GitHub. This view is becoming more popular as greater numbers of contributors and potential contributors are being banned from using GitHub software. There is also the possibility that Microsoft could make the first move and ban entire projects if they are perceived as politically controversial. Time will tell if Bitcoin Core and other Bitcoin implementations continue to leverage GitHub’s admittedly well-crafted, user-friendly features in the years to come.
+
+Find a ‘Good First Issue’
+
+One of those features is GitHub Issues which are used to announce and track bugs, enhancements and requests. Any GitHub user can create an issue, though it is recommended that they only open an issue after researching it and discussing it with existing contributors on IRC. You do not need to request permission to start working on an issue. But if you do, you are encouraged to comment on the issue to encourage collaboration with other contributors. It is also a good way to request assistance if and when you need it.
+
+The purpose of the “good first issue” label is to highlight which issues are suitable for a new contributor who might not have a deep understanding of the codebase. A good first issue isn’t targeted toward software development beginners. At the very least, you’ll need basic Git proficiency and ideally C++ and/or Python proficiency, too, given that the Bitcoin Core codebase is written in these languages.
+
+Good first issues for Bitcoin Core highlight the “useful skills” for addressing that issue. It is a good idea to learn C++ and/or Python to make code-related contributions, but if you are not proficient in those languages you may choose to get started by making a material improvement to the documentation or finding a good first issue that requires shell scripting, Automake or CMake experience.
+
+‘Typos’ vs. ‘Real’ Issues
+
+Some people get started by correcting basic typos in variable names, comments or documentation. Jeremy Rubin has joked that he deliberately leaves typos in his contributions so that new contributors can find them and correct them. Although this is one way to get started as a new contributor, it is better to focus on good first issues rather than submitting pull requests (PRs) for typos.
+
+Good first issues have been highlighted as something that is missing and of significant value to the project by existing contributors. They will not be set up to identify typos, and existing contributors and maintainers would prefer to focus their time on reviewing and merging high-priority for review pull requests. (Pull requests are proposed changes by contributors that are only merged by maintainers after review and when there is sufficient consensus to do so.)
+
+It would, therefore, be better to correct typos as part of a more substantive pull request. As discussed previously, it is worth remembering that reviewing existing PRs is generally more valuable than submitting new ones. John Newbery recommends that a good rule of thumb is to review 5–15 PRs for every PR that you submit personally. At the time of writing, there are approximately 300 open pull requests and 700 open issues requiring testing and review.
+
+Plenty of Opportunities to Practise and Learn
+
+Fabian Jahr, a recent new contributor to Bitcoin Core, has identified that the main skill often lacking in new contributors is sufficient Git proficiency, such as the ability to squash commits. Contributors are required to enter Git commands into the command line. If you are a beginner to the command line and/or Git, it is best to complete tutorials and practice on other projects that aren’t subject to the resource constraints of Bitcoin Core.
+
+There are many Git tutorials online (some of them free) and Justin Moon’s Mooniversity course (paid) will also help you learn the prerequisites for interacting with and contributing to Bitcoin Core from the command line. Don’t be afraid to request assistance from recent new contributors online or at your local Socratic Seminar if you need further guidance.
+
+Ask for Help
+
+One of the challenges with onboarding new contributors is that tasks that would take an experienced contributor a short period of time to complete may take a new contributor a much longer period of time. This requires new contributors to persist whenever they encounter challenges and ask for assistance when needed. Recent new contributors to Bitcoin Core can be a good first port of call, as they may be able to solve your problem; if not, they should be able to direct you to an appropriate long-term contributor. You can also comment on the issue you are working on to flag that you require assistance.
+
+In an interview with Bitcoin Magazine’s Vlad Costea, Chaincode Labs engineer Carl Dong recalled setting up an IFTTT email alert which would flag every time there was a new “good first issue” posted by existing contributors. This was one of the strategies he used to get started with Bitcoin development and identify some mini projects that he had the skills to contribute to. Dong has since created the Twitter account @GoodFirstIssues which anyone can follow for notifications of new good first issues.
+
+Thanks to Jon Atack and Marco Falke for their contributions to this article.

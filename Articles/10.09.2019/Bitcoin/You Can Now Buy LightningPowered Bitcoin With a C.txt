@@ -1,0 +1,27 @@
+DATE:  10.09.2019, 19:15:07
+TITLE: You Can Now Buy Lightning-Powered Bitcoin With a Credit Card
+URL:   https://www.coindesk.com/you-can-now-buy-lightning-powered-bitcoin-with-a-credit-card
+
+Payments startup Breez has unveiled a new feature allowing lightning-based bitcoin purchases directly from its mobile app.
+
+The feature, made possible thanks to a partnership with fiat-to-crypto broker MoonPay, is available to users in 35 countries. According to the company, it simplifies the currently long-winded procedure for lightning payments.
+
+A “Layer 2” payment protocol that operates on top of a blockchain, lightning is seen by many in the blockchain industry as solving bitcoin’s scalability issues. But it remains experimental technology and users can potentially lose money during transactions due to undiscovered bugs, say security experts.
+
+While buying lightning directly with a credit card sounds like a simple feature, Breez claims this functionality hasn’t been possible before now.
+
+Breez CEO and co-founder Roy Sheinfeld told CoinDesk:
+
+“Breez is not just a wallet. It’s a lightning payment service that aims to provide a holistic experience. Breez’s goal is to take the lightning technology and infrastructure and expose it in an experience regular folks could use with compromising on the bitcoin values. Other [lightning] wallets are less UX focused.”
+
+Previously, if users wanted to buy lightning, they would need to buy bitcoin, move that bitcoin to a wallet that supports lightning, then wait for that transaction to go through (the industry standard is to wait for roughly an hour to make sure the transaction is final). Buying lightning directly within a wallet allows them to skip a step.
+
+Breez’s new feature is part of a growing effort to make lightning payments less arcane for average folks.
+
+“Going into a website and going through cumbersome process just to top up your wallet with a hundred bucks is not the UX we want to provide. We aim to provide a UX that is at least on-par with fiat,” Sheinfeld said.
+
+Developers are still ironing out security problems with lightning — for example, by developing third party “watchtowers” that monitor for suspicious on-chain activity.
+
+Breez doesn’t require users to provide personal information for monthly purchases up to a total of 150 euro. But for amounts larger than that, it requires users to prove their identity under Know Your Customer (KYC) laws meant to outlaw money laundering and other criminal acts.
+
+Lightning image via Shutterstock

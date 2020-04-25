@@ -1,0 +1,37 @@
+DATE:  29.08.2019, 09:00:16
+TITLE: Bitcoin Fees Today Over 88% Less Than December 2017
+URL:   https://bitcoinist.com/bitcoin-fees-today-over-88-less-than-december-2017/
+
+Bitcoin Bitcoin Fees Today Over 88% Less Than December 2017
+
+Bitcoin Fees in December 2017 were almost always above $10, sometimes reaching nearly $30. Today we are nearly at the same price and fees have dropped considerably; less than a dollar in most cases. But has Bitcoin actually scaled, or is it just a case of fewer transactions happening on the network?
+
+Fees are only part of the story
+
+The Bitcoin network has had a few issues with fees over the last few years. Because of Bitcoin’s limited blocksize, a large number of users trying to all send transactions at once will congest the network. Transactions that don’t get confirmed get stored in a queue called the mempool.
+
+Miners will generally mine those transactions that pay the highest fee, so people can jump to the front of the queue by paying a sufficiently high fee. It results in a blind bidding war of sorts, where everyone is constantly paying a little bit more to have their transaction confirmed first.
+
+The median Bitcoin fees today are significantly less than the fees users experienced the first time Bitcoin hovered around $10k and above. According to BitInfoCharts, median fees today are $0.58. Compared to fees in December 2017 of $10 to $25, that is significantly less. However, there is a very apparent reason for this. There isn’t as much of a demand to use Bitcoin.
+
+The size of the Bitcoin mempool is, roughly, 88% lower than what it was in December 2017. The percent decrease in mempool size and median fees is nearly the same.
+
+On top of this decrease in mempool size, Bitcoin has also seen a decrease in the number of transactions getting confirmed per day.
+
+These charts show that during Dec. 2017, the average number of transactions confirmed per day was somewhere between 350k and 400k. This last month, Aug 2019 had an average of 300k to 350k transactions. So while the fees may be lower, there are also fewer transactions happening on the blockchain.
+
+Scaling via efficiency
+
+Additions to Bitcoin like Segwit and the Lightning Network had the goal of helping the network scale in a safe manner. However, neither has made enough of a dent to let Bitcoin grow.
+
+Segwit is a change added in Aug 2017, allowing for more transactions to get confirmed fit into each block. If 100% of Bitcoin users used Segwit, we would get an effective throughput increase of 1.8x. Despite being active for over two years, Segwit usage has never gone above 50%. In addition, that percentage has been stalled out between 35-45% for the past 15 months. On the chart below, the green line denotes the percentage of transactions that use Segwit.
+
+Layer Two solutions aimed to facilitate transactions off-chain, taking the pressure off the main blockchain. The Lightning Network saw some solid growth in it’s first few months, but still has several massive design issues to solve before it will be anywhere near mass adoption. In addition, the LN has been shrinking since the beginning of the summer. You can read about the current state of the lightning network here.
+
+More centralized solutions such as Blockstream’s Liquid has also launched in the past 18 months, but have seen little to no user adoption. Looking at the Liquid explorer, the network is processing only 1 or 2 transactions per block.
+
+To be usable for the entire world, Bitcoin will need to solve it’s scaling issues. That may be fixing existing issues present in the current scaling plan or implementing other solutions.
+
+What do you think about Bitcoin’s current scaling strategy? Will changes need to be made, or will the developers solve many of the issues facing the network? Let us know in the comments below!
+
+Images courtesy of Bitinfocharts, p2sh.info, Blockstream

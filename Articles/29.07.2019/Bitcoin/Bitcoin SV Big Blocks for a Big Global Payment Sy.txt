@@ -1,0 +1,43 @@
+DATE:  29.07.2019, 13:00:16
+TITLE: Bitcoin SV: Big Blocks for a Big Global Payment System
+URL:   https://www.paymentsjournal.com/bitcoin-sv-big-blocks-for-a-big-global-payment-system/
+
+It’s been over 10 years since Bitcoin was introduced to the world with the Satoshi Nakamoto white paper describing “a peer-to-peer electronic cash system.” But in the decade since, Bitcoin has not yet become an electronic cash system with fast transactions, low fees, and reduced intermediaries. What people think is Bitcoin – the Bitcoin Core (BTC) network – had its scaling capacity crippled with a tiny block size, became congested, and spiked high transaction fees. Merchants and consumers will not use a payment system that is slow and costly. Luckily, Bitcoin SV (BSV) emerged in November 2018 to fix that. BSV will ensure Bitcoin’s “Satoshi Vision” succeeds by massively scaling with big blocks to support a big global payment system.
+
+Bitcoin Core (BTC) did not fulfil Bitcoin’s original vision
+
+Bitcoin’s transformative concept was enabling people to instantly send cash directly to anyone globally, without intermediary banks or service providers. Transactions are recorded on a distributed ledger known as the blockchain, with blocks of transactions added on average every 10 minutes.
+
+Bitcoin’s blockchain actually began with no limit on the block size. Back in April 2009, Satoshi Nakamoto (my colleague, nChain Chief Scientist Dr. Craig Wright) wrote this:
+
+“The existing Visa credit card network processes about 15 million Internet purchases per day worldwide. Bitcoin can already scale much larger than that with existing hardware for a fraction of the cost. It never really hits a scale ceiling.”
+
+However, early in Bitcoin’s life, a 1MB block cap was installed as a temporary measure to protect the network from attack in its early days. But for their own ulterior purposes, the Bitcoin Core development group (which now controls the BTC protocol) kept the 1MB block cap as permanent, rather than temporary.
+
+1MB blocks are tiny; they only allow an average of 3 transactions per second. Compare that to Visa’s global network which averages 2000 transaction per second, and hits 56,000 transactions per second at peak. With 1MB blocks, Bitcoin can never rival payment card networks for daily usage.
+
+That’s why BTC often runs into congestion, with transactions sometimes waiting hours to be confirmed. This causes transaction fees to skyrocket; in January 2018, it cost $20-40 to send a single BTC transaction. (Fees are paid to “miners”, who devote computing power to maintain the network). As recently as late May 2019, BTC transaction fees were approximately $4 – still far too high to act as a daily payments system. Not surprisingly, merchants stopped viewing BTC as a viable payment option, and consumers rarely use BTC to buy things.
+
+This led to years of disputes. The Bitcoin Core development group would not raise the block cap; it wanted small blocks and to create separate “off-chain” payment channels (the Lightning Network), using the blockchain only as a settlement ledger. In contrast, Bitcoin purists call for increasing the block size to enable more transaction capacity, faster processing, and keep fees very low.
+
+BSV is Scaling with Big Blocks to Create a Big Global Payment System
+
+Because BTC got hijacked from Bitcoin’s original plan, Bitcoin SV (BSV) emerged in November 2018 to ensure the “Satoshi Vision” is fulfilled. BSV intends to massively scale to give big merchants and enterprises a payment network that is scalable, with throughput capacity that can support high-volume needs. While BTC keeps its tiny 1MB blocks, BSV began with a significantly larger block cap of 128 MB. Thus, BSV transactions are processed very fast and for very low fees. While BTC fees average around $4 per transaction now, BSV transactions now cost less than 1/5 of 1 cent. And we expect BSV transaction fees will drop even lower as block sizes get bigger and technology improves.
+
+And BSV is already getting bigger capacity. On July 24, 2019, BSV’s network upgraded to a much bigger default block cap of 2 gigabytes (that’s 2000 megabytes). That’s right, BSV has a default block cap 2000 times bigger than BTC. After the July 2019 upgrade, BSV comfortably handles 1000+ transactions per second, and will continue increasing capacity. In theory, 2GB blocks could enable 9000-14,000 transactions per second (though that depends on technology improvements and the types of transactions, because BSV’s greater capacity supports many forms of data transactions, not just payments).
+
+And in February 2020, BSV plans to entirely remove the block cap, and allow its capacity to grow into whatever the market needs. In fact, one of the leading BSV development teams (nChain) is working toward terabyte size blocks (1 million megabytes!) to process billions of transactions per block and 4 million transactions per second. That future means BSV can be the world’s public data ledger, recording payments and all kinds of other enterprise data transactions.
+
+BSV Will Transform the Payments Industry
+
+For merchants, BSV offers far lower transaction fees than today’s payment card systems, which charge 2-3% per transaction (plus base or monthly costs). For true peer-to-peer transactions (where a customer pays directly to a merchant’s Bitcoin wallet), the transaction fee paid by the customer can be a fraction of a cent. But most merchants will likely use a cryptocurrency payment processor– such as Coinify or White Pay from The White Company. Those options charge their own transaction fees for enabling merchants to accept BSV (and settle immediately in fiat currency if a merchant chooses). As BSV grows in usage, we expect those processing fees to dramatically reduce.
+
+The greater efficiency will be for cross-border payments. Because BSV is a global system, foreign exchange costs will be minimized. For payment networks and merchants operating in multiple countries, BSV enables fast transfer across borders.
+
+Speed is another benefit. With instant confirmations, merchants can quickly receive customers’ BSV, without waiting days for credit card payments to clear into a merchant account. Once a transaction is confirmed onto the blockchain, it is immutable, reducing risk of fraud and chargebacks. BSV teams are also working on solutions for safe instant transactions, so merchants feel comfortable accepting payments even before they are confirmed on the blockchain.
+
+Finally, the BSV ecosystem focuses on ease of use. For too long, Bitcoin has lived among crypto hobbyists clinging to complicated practices. On BTC, the Lightning Network requires users to run their own node; but everyday consumers do not want to run a node just to pay merchants. In BSV, great mobile wallets like HandCash and Centbee make it easy to send Bitcoin – just knowing a person’s user handle or having a friend in your mobile phone contacts. BSV also has the groundbreaking Paymail protocol, allowing you to send BSV to an email address rather than clunky 26+ character Bitcoin wallet addresses. Payments need to be simple, and BSV understands this.
+
+Over 10 years since the birth of Bitcoin, it is time to fully realize the vision for a new electronic cash system. That requires big blocks to create a big global payment network. This “Satoshi Vision” will only happen on Bitcoin SV.
+
+Jimmy Nguyen is Founding President of Bitcoin Association, the global industry organization which backs Bitcoin SV (BSV). Jimmy was formerly CEO of nChain Group, the worldwide leader in advisory, research and development of blockchain technologies, and now is Chair of its Strategic Advisory Board. nChain’s Chief Scientist is Dr. Craig S. Wright, the creator of Bitcoin. Previously, Jimmy was an IP and digital technology lawyer in the U.S. for 21 years, and was a partner in three major U.S. law firms. In 2008, Lawdragon named Jimmy (at only age 36) one of the “500 Leading Lawyers in America”.

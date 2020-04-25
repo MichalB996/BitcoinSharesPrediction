@@ -1,0 +1,37 @@
+DATE:  09.12.2019, 20:00:31
+TITLE: Bitcoin Scaling Layer Lightning Network “Works Like a Charm”, Says Bitfinex CTO
+URL:   https://www.newsbtc.com/2019/12/09/bitcoin-scaling-layer-lightning-network-works-like-a-charm-says-bitfinex-cto/
+
+The first week of Lightning Network support at cryptocurrency exchange Bitfinex, has seen more than 800 transactions make use the Bitcoin payments layer. The company’s Chief Technical Officer Paolo Ardoino says customers have deposited more than seven Bitcoin (~$52,000) to the exchange since it added Lightning payments.
+
+Despite recent Lightning Network vulnerabilities, it appears to be serving the crypto exchange well. Ardoino says “it works like a charm!”
+
+“BAM!”: More than Seven Bitcoin Arrive at Bitfinex via Lightning Network
+
+Last week, Bitfinex became the first major crypto asset trading venue to offer Bitcoin deposits via the Lightning Network. The firm’s Chief Technical Officer Paolo Ardoino announced the integration via Twitter:
+
+LN and LN assets are not only the best P2P micro-payments solution, but an impressive settlement layer for B2B.@bitfinex leads the way. https://t.co/fzblyAtkCG — Paolo Ardoino (@paoloardoino) December 3, 2019
+
+The integration of Lightning Network support at Bitfinex comes amid a wider push from the exchange to support Bitcoin’s scaling. Bitfinex started using bech32 (SegWit) addresses early last month. As NewsBTC reported, SegWit transactions require less space on the blockchain. As such, they effectively increase the chain’s capacity without needing to raise the size of each block – a subject that has been the focus of much impassioned debate previously.
+
+Despite the fact that major Lightning Network vulnerabilities were recently detailed, the deposit option appears to be proving popular immediately following its launch at Bitfinex. In the below tweet, Ardoino provides some early statistics for its use.
+
+More than 800 Lightning Network ⚡️⚡️ transactions processed so far by @bitfinex
+
+600 of which are deposits, adding up to more than 7 #bitcoin deposited. And it works like a charm!
+
+BAM! — Paolo Ardoino (@paoloardoino) December 9, 2019
+
+Ardoino claims that there have already been more than 800 transactions between the platform and its users. He adds that 600 of them have been deposits, which have seen more than seven Bitcoin (~$52,000) arriving at Bitfinex.
+
+The Chief Technical Officer also described how the integration was working so far. He wrote:
+
+“And it works like a charm! BAM!”
+
+As mentioned, Bitfinex is the first major exchange to integrate support for the still young Bitcoin scaling technology. Developers at Lightning Labs, one of the most active groups working on the network, continue to urge those experimenting with the micropayments system to do so with caution. Other exchanges have previously shown interest in the technology but are yet to add it to their own platforms.
+
+NewsBTC recently reported on BitMEX, the leading Bitcoin derivatives exchange, showcasing the power of the Lightning Network at a cryptocurrency conference held in Berlin earlier this year. Attendees at The Lightning Conference could buy a coffee for a single satoshi (the smallest unit of Bitcoin). At considerably less than a penny per cup, and coffee usually being free at conferences anyway, the idea wasn’t to make money with the Lightning Network coffee sale but to demonstrate how effective the system is for even the smallest payments.
+
+Related Reading: Kraken Adds GBP Support for UK; What This Means for Crypto Market
+
+Featured Image from Shutterstock.

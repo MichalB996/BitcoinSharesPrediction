@@ -1,0 +1,13 @@
+DATE:  06.01.2019, 21:46:08
+TITLE: Leading crypto wallet adds Bluetooth support for mobile bitcoin access
+URL:   https://www.theverge.com/2019/1/6/18171346/ledger-nano-x-bluetooth-crypto-hardware-wallet-ces-2019
+
+On Sunday at CES, the crypto wallet company Ledger revealed its latest device — the Bluetooth-enabled Ledger Nano X. The device is roughly similar to the previous Nano S, offering more support for multiple wallets and coin types but leaving internals otherwise the same. But Bluetooth will allow the X to connect to mobile devices through the new Ledger Live app, a powerful new way to access hardware wallets through your phone.
+
+Hardware wallets let you hold bitcoin locally without keeping them in an exchange, a more flexible version of simply writing down your key on a piece of paper. The devices typically require a PIN to unlock and support multiple physical devices tied to the same key, providing strong protection against theft or accidental loss. Ledger’s previous hardware wallet, the Nano S, was a favorite among many in the community. Ledger CEO Eric Larchevêque has said the Nano S will fall in price after the Nano X is released.
+
+Adding Bluetooth may be controversial. Wallets typically connect over USB, and any wireless capability raises the risk of unauthorized access. Still, the hardware-level PIN protections (and Bluetooth’s limited range) should mitigate the risk. Crucially, Ledger says the Nano X is designed to only respond to devices running the corresponding Ledger app, which has its own security features to preserve authenticity.
+
+The Nano X costs $119 and will be available for pre-order tomorrow, to ship in March. The corresponding app is expected to go live on January 28th in the iOS App Store and Google Play Store.
+
+Update 11:16PM ET: Updated with price and shipping info.

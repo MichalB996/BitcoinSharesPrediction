@@ -1,0 +1,69 @@
+DATE:  18.10.2019, 21:00:09
+TITLE: With 18 Million Bitcoins Mined, How Hard Is That 21 Million Limit?
+URL:   https://www.coindesk.com/with-18-million-bitcoins-mined-how-hard-is-that-21-million-limit
+
+In a matter of hours, the 18 millionth bitcoin will have been mined and the world’s first cryptocurrency will draw one step closer to its hard-coded cap of 21 million coins.
+
+“The pie is shrinking. This [milestone] gives people some simple math to raise awareness about where we’re at in the [bitcoin mining] process,” said Alex Adelman, CEO of bitcoin rewards platform Lolli, adding:
+
+“It’s good for people to see the progress of bitcoin, to look back on everything that has been done and will be done for the next 3 million. … You should pay attention to the next 3 million.”
+
+But don’t worry, you’ll have 120 years to do so.
+
+The next 3 million bitcoins will be progressively slower to mine as a result of block reward halvings which occur every 210,000 blocks (or roughly four years) and reduce new bitcoin supply by 50 percent. The final bitcoin is expected to be mined in 2140.
+
+Or is it?
+
+It seems blasphemous even to go there, given bitcoin’s value proposition as digital gold. But outsiders foresee a day when the 21 million cap might, gasp, come up for debate.
+
+Eventually, once there are no more bitcoins left to mint, miners will rely solely on transaction fees, which are paid by users to transfer coins through the blockchain. This change gives cause for concern to some who view bitcoin’s block subsidies as integral to bitcoin’s incentive system.
+
+To skeptics, this could undermine the structure that motivates miners to record validated transactions in the ledger.
+
+“All of your assumptions about incentives, risk and value go out the window,” said Angela Walch, a research fellow at the University College London Centre for Blockchain Technologies. “Please take the blinders off and stop assuming that everything will still work well once everything goes to a pure transaction-fees system as opposed to block [subsidy].”
+
+Currently, with each block, miners get a subsidy of 12.5 newly created BTC, worth roughly $99,370, plus any additional transaction fees, which normally don’t total more than 1 BTC.
+
+Along the same lines, Paul Brody, global innovation leader for audit firm Ernst & Young (EY), said bitcoin’s limited supply could limit the cryptocurrency’s utility as a global reserve currency.
+
+Pointing to situations such as the Great Recession where monetary policy interventions were needed to lift the U.S. out of economic turmoil, Brody said:
+
+“If bitcoin were to become a substantial part of the global monetary system, we would need to address [the hard supply cap] because a lot of economists agree deflationary systems are not necessarily the best thing.”
+
+What next?
+
+Both Walch and Brody suggested that bitcoin’s 21 million supply cap might one day be subject to change. What if?
+
+“We need to acknowledge that the 21 million cap is aspirational,” said Walch. “If people decide to change that [supply] cap for certain reasons and enough people make that decision, the system will move to it. It’s aspiration, not reality.”
+
+While technically feasible, a change to the supply cap would almost certainly be a non-starter for bitcoin users who cherish its gold-like properties. Indeed, bitcoin’s code has long been governed by a community with a bias toward retaining the coin’s original features as created by its pseudonymous founder, Satoshi Nakamoto.
+
+Unlike ethereum, the world’s second-largest cryptocurrency, the bitcoin blockchain has rarely seen backward-incompatible, system-wide upgrades changing core code features.
+
+In the rare instances it has, the bitcoin community has gone through fierce governance disputes – such as the infamous scaling debates of 2017, which centered on a potential increase to bitcoin’s block size. The philosophical rift ultimately resulted in the creation of bitcoin cash in August 2017.
+
+Still, a prospective hard fork that would change bitcoin’s 21-million-coin supply cap is conceivable, if perhaps heretical.
+
+“It’s not a given that bitcoin has to stay at that 21 million hard limit,” said EY’s Brody (who, it should be noted, is building enterprise applications on top of rival chain ethereum). “There is a governance mechanism to permit changes in bitcoin – if the community agrees that would be good.”
+
+The other side
+
+Even so, bitcoin advocate and author Andreas Antonopoulos stressed that governance drama surrounding bitcoin’s supply cap is nothing to lose sleep over – especially since bitcoin’s transition to a purely transaction-fee rewards model will take 120 years.
+
+Antonopoulos added that from the very launch of bitcoin in 2009, mining was always “a marginally profitable endeavor” never intended to stay constant.
+
+“[Mining rewards] dynamically adjust based on the network. … It’s a very complex economic environment. It’s not as simple as people think,” said Antonopoulos, adding:
+
+“There are half a dozen variables that determine miner profitability [right now] including the cost of electricity, their access to bandwidth transaction, the block subsidy, the transaction fees at the time, bitcoin price, their local currency exchange rate, the type of equipment and how efficient it is at converting electricity into mining.”
+
+As such, Antonopoulos says the concerns surrounding a transition from a block subsidy to purely transaction-based block rewards are grossly overblown.
+
+“Nothing magical happens when block subsidy drops to zero,” said Antonopoulos. “It’s a very gradual and predictable change that happens over a period of 120 years. It’s already happening and every day [miners] make their decisions.”
+
+While the 18th million bitcoin may not be the best reminder of the ongoing reality of a limited supply cap, the next upcoming milestone on bitcoin’s horizon assuredly will.
+
+Viewing the next bitcoin halving as a far more notable event in bitcoin’s history, venture capitalist William Mougayar said:
+
+“In my opinion, [the 18 million] milestone is not that significant in relation to the next halving which occurs May 2020. … On that date, the block [subsidy] will go from 12.5 BTC to 6.25 BTC.”
+
+Andreas Antonopoulos image via Christine Kim for CoinDesk

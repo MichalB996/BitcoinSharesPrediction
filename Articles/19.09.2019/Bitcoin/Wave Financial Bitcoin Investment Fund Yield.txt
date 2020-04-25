@@ -1,0 +1,35 @@
+DATE:  19.09.2019, 12:00:02
+TITLE: Wave Financial Bitcoin Investment Fund Yield
+URL:   https://bitcoinmagazine.com/articles/financial-group-offers-indirect-exposure-to-bitcoin-with-investment-fund-yields
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+An investment and asset management firm has contrived a creative, if circuitous, way to give investors exposure to bitcoin.
+
+Wave Financial, a California-based financial services firm focused on digital assets, just announced its Wave BTC Income & Growth Digital Fund. Through what it calls “the first crypto derivatives yield fund on the market,” the company will sell equity in its bitcoin fund in the form of investment tokens to accredited investors. The fund isn’t promising returns in bitcoin, however, nor are investors buying bitcoin directly to hodl or speculate. Instead, Wave intends to pay out dividends to shareholders from the fund’s investment yield.
+
+How Call Options Work
+
+This cash flow will come from short-dated call options, an investment contract that grants the option buyer the privilege (but not the obligation) to purchase an asset at a certain price within a specific time frame. To illustrate: As bitcoin hovers around $10,000, Wave sells a call option on its bitcoin at $12,000 with an expiration of one month; an investor buys this option and pays a premium to Wave. Once the month is up, the investor can either choose to buy the bitcoin for $12,000 or leave it on the table. This flexible option is more amenable to risk-averse investors, because if bitcoin is lower than $12,000, they can say no without losing much skin; but if it’s above $12,000, then they have the attractive option of buying it at a lower price.
+
+Wave believes that, given the intrinsic volatility of bitcoin, this fund will garner attention from accredited investors. It will then use the premiums it generates from these trades to pay the fund’s stakeholders. If everything goes as planned, Wave projects an average monthly yield of 1.5 percent of the fund’s value for an annual return of 18 percent. Yield above this threshold will primarily be used to purchase more bitcoin for the fund’s stash.
+
+Of course, the fund has to have buyers to accrue this yield. Benjamin Tsai, president and managing partner at Wave Financial, told Bitcoin Magazine that two things could threaten the fund’s yield: a lack of market interest and tempered bitcoin volatility. Neither of these, he believes, are likely in the near future. If there is waning interest, though, Wave could toy with the target price to stimulate demand, though this would provide “less room for upside.”
+
+Wave will look to list its call options on regulated exchanges like LedgerX and Deribit “or with OTC counter parties, depending on pricing,” Tsai suggested. As for custody for the underlying bitcoin, that will be in the hands of Fidelity Digital Assets.
+
+Tsai also mentioned that the investment token is classified as a security, though a press release states that it is subject to “an exemption from registration provided by Rule 506(c) of Regulation D” in the Security Act of 1933. The tokens are immediately tradable for international investors, but come with a one-year lockup for U.S. buyers due to the Regulation D exemption. Tsai mentioned that they may be eligible for listing on regulated security token exchanges. Wave will likely issue the investment token as an ERC-20, Tsai explained, “because most security token exchanges are built to only support ERC-20 protocol at this point in time.”
+
+Alternative Exposure
+
+Tsai admitted that the structure of the fund “is a bit confusing.” But to Wave’s credit, it offers muted exposure to bitcoin for more conservative investors who may want partial access to bitcoin’s market activity without assuming the full risk of owning the cryptographic asset. By monetizing bitcoin’s volatility, the fund, as Tsai noted in the release, “is an alternative way to hold BTC exposure.”
+
+Wave’s alternative mitigates some of the risk of direct exposure to bitcoin, and this would presumably make legacy investment folks more comfortable with holding shares in the fund. It’s still beholden to market pressures — if bitcoin were to fall, for instance, demand for the call options might shrink — but, as long as the options produce a yield, the product could be “more stable price wise, compared to holding BTC directly,” Tsai anticipates. The fund’s income stream may also appeal to traditional investors who “in [Tsai’s] experience … are interested in having a stream of dividends from their investment products.”
+
+Hassan Ahmed, the U.S. finance and operations director for eToro, called the product “compelling” for this reason, saying that it may act as a “[bridge] to crypto via traditional financial vehicles for sophisticated investors [who] are figuring out ways to play this market and find an edge.”
+
+“We’ve already seen retail investors embrace the crypto asset class, but building out these advanced tools is an essential step in spurring institutional adoption,” he continued, adding that “eToro is also working to build this infrastructure for advanced traders, offering tokenized currency, commodity and crypto pairs.”
+
+As institutional investors grow hungry for bitcoin investment vehicles, options are popping up to fill demand. LedgerX launched call options for bitcoin in July 2019, and Bakkt will soon launch with an all-in-one market platform featuring futures and custody. Meanwhile, bitcoin ETF attempts limp behind after repeated delays, withdrawals and rejections. Maybe one day, with the U.S. Securities and Exchange Commission’s approval, an ETF will catch up to the pack, but currently, other products are coming to market to service steady demand.

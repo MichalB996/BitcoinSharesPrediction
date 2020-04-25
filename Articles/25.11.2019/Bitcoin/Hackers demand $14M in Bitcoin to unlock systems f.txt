@@ -1,0 +1,37 @@
+DATE:  25.11.2019, 18:24:38
+TITLE: Hackers demand $14M in Bitcoin to unlock systems for 110 nursing homes across US
+URL:   https://thenextweb.com/hardfork/2019/11/25/bitcoin-ryuk-ransomware-cryptocurrency-blockchain-nursing-care-facilities-vcpi/
+
+Hackers are demanding $14 million worth of Bitcoin BTC to restore computers powering 110 nursing homes across the United States, putting the lives of patients at risk.
+
+In an interview with KrebsOnSecurity, Wisconsin-based IT company Virtual Care Provider Inc. (VCPI) confirmed that hackers have used the dreaded Ryuk ransomware to encrypt all of the data it hosts for clients. The firm estimated it maintains roughly 80,000 computers and servers powering care facilities across 45 US states.
+
+Ryuk is a particularly nasty malware strain that’s been sweeping government organizations and other high-value targets all year.
+
+Machines are typically infected with a special Trojan named Trickbot via widespread email phishing campaigns. The attackers then select lucrative targets to exploit with Ryuk, which encrypts files and demands large sums of Bitcoin to unlock them.
+
+Back in January, it was estimated that Ryuk‘s masterminds had earned $3.7 million in just five months — a total now likely to be significantly higher.
+
+Care facilities could close if Bitcoin ransom isn’t paid
+
+VCPI’s chief executive Karen Christianson noted the attack has affected “virtually all” of its core offerings, which includes internet access, billing, phones, email, and access to client records.
+
+“We’ve got some facilities where the nurses can’t get the drugs updated and the order put in so the drugs can arrive on time,” Christianson told KrebsonSecurity. “In another case, we have this one small assisted living place that is just a single unit that connects to billing. And if they don’t get their billing into Medicaid by December 5, they close their doors.
+
+“Seniors that don’t have family to go to are then done. We have a lot of [clients] right now who are like: ‘just give me my data,’ but we can’t,” she added.
+
+VCPI’s own payroll systems are being held for ransom, too, with employees reportedly asking when they’re going to be paid.
+
+Christianson told reporters the firm was concerned with handling life-threatening situations first, which meant dealing with getting electronic medical records back online as soon as possible.
+
+This attack, like others, was likely preventable for a long time
+
+KrebsonSecurity also reviewed dark web communications provided by cyber intelligence firm Hold Security that showed VCPI’s initial intrusion may have occurred way back in September 2018.
+
+Hold Security‘s founder explained that the attack VCPI is currently dealing with was actually preventable up until the Ryuk ransomware was deployed, which happened on November 15th of this year.
+
+VCPI’s CEO has reportedly vowed to publicly document everything that has happened once the attack has been brought under control – if that’s possible, that is.
+
+In October, Hard Fork reported that a string of US hospitals opted to pay Ryuk ransomers in order to regain access to critical files.
+
+As for VCPI, it reportedly cannot afford to pay the Bitcoin ransom.

@@ -1,0 +1,73 @@
+DATE:  22.03.2019, 15:01:34
+TITLE: The Growth of Alternative Avenues for Transacting in Bitcoin
+URL:   https://blockonomi.com/alternative-bitcoin-transactions/
+
+Bitcoin’s development has come a long ways from its humble cypherpunk origins to become an established means of value exchange and censorship-resistance. The cryptocurrency is continually evolving to meet new demands and expand how it is used. From the Lightning Network (LN) as its second layer payment scaling solution to enhancing the privacy of transactions, Bitcoin is a compelling testament to the power of open-source protocols.
+
+Outside of more well-known improvements such as the LN and the pending inclusion of Schnorr Signatures into the protocol, some more subtle developments are emerging as viable alternative means for transacting in Bitcoin.
+
+Some of these new avenues extend the network’s topology, improving its censorship-resistance, while others focus on bridging the gap between mainstream use and the legacy cryptocurrency.
+
+Expanding Bitcoin’s Network Topology
+
+A concept that has been discussed in Bitcoin circles for several years, and recently elaborated on by Nick Szabo and Elaine Ou, is the notion of expanding into new mediums for sending Bitcoin transactions. Their proposal at Scaling Bitcoin in 2017 at Stanford primarily focused on using high-frequency, weak-signal radio communications to send Bitcoin.
+
+They referenced how a ‘multi-homing’ network with mediums for using Bitcoin outside of solely the Internet would make the network’s resilience much more robust. Unsurprisingly, strides have already been made in accomplishing what they detailed, with Elaine Ou and others participating in sending Bitcoin via ham radio waves internationally — and it was an LN payment.
+
+The idea of sending Bitcoin over radio waves may seem bizarre, but Szabo and Ou pointed to its ability to resist partition attacks. Further, while it may seem infeasible, real concerns surround the commanding presence of China’s Great Firewall and its ability to censor regional Internet connections, while similar fears arose with revelations of Russia’s tests with shutting off global Internet access.
+
+Read: Broadcasting Bitcoin Transactions with Radio Transmissions & TxTenna
+
+Internet censorship in authoritarian regions is a legitimate threat to broadcasting Bitcoin via the Internet, however unrealistic it may seem to people in Western democracies like the U.S.
+
+Similar to expanding Bitcoin’s network topology into radio waves, Blockstream’s push into sending Bitcoin and LN payments with its Blockstream Satellite product has yielded impressive results. Blockstream controls multiple ground stations known as ‘teleports’ that participate in Bitcoin’s consensus and broadcast the blockchain to geosynchronous satellites.
+
+The satellites subsequently broadcast Bitcoin’s blockchain to the globe 24/7, without the need for Internet access. Users only need a satellite antenna and small receiver (i.e., USB) to ensure that their node is always in sync. Benefits for users are evident, as they can assure a continual redundancy of Bitcoin’s blockchain without the need for an Internet connection, can receive Bitcoin at reduced costs, and have a more stable means for connecting to the blockchain without fears of isolation or node partition.
+
+Blockstream has continued to build more tools for developers for Blockstream Satellite as well. As part of an update at the end of last year, Blockstream added an API for sending messages via their satellites. The result has been applications like Spacebit.live, which enables users to send messages around the world via Blockstream’s Satellites using LN invoices to pay for the service based on the size of the message.
+
+Bitcoin is not just an Internet currency anymore. Although it still has significant work to be done in other transaction mediums, it is capable of being sent over radio waves and through satellites.
+
+New Methods for Spending Bitcoin
+
+Besides the innovative methods for sending Bitcoin over different mediums, exposing more people to Bitcoin, particularly in the developing world, remains a major hurdle.
+
+Many people in developing or economically struggling countries (i.e., Venezuela) do not have consistent Internet access or access to liquid exchange services for buying/selling Bitcoin with ease.
+
+How do you convert Bitcoin into a more accessible and flexible medium of value transfer? Several projects have come up with some clever ways for accomplishing this, and they are worth looking at.
+
+Azteco
+
+Azte.Co is a Bitcoin voucher system designed to grant much broader access to the cryptocurrency in areas where people lack consistent Internet connection or the knowledge to purchase Bitcoin on exchanges.
+
+It reduces the barrier to buying Bitcoin through a simple method: you go to your local convenience store and by the Azteco voucher with cash or debit/credit card, enter the info on the voucher on the Azteco website, and Bitcoin is instantly deposited into your account. Azteco vouchers are available in convenience stores for everyday uses like topping up phone bills, which makes them a highly practical method for introducing people to Bitcoin.
+
+Imagine street vendors, convenience stores, and grocery stores around the world selling Azteco vouchers for cash, bringing much more liquidity to the Bitcoin ecosystem.
+
+OpenDime
+
+OpenDime is an intriguing concept of converting Bitcoin into ‘credit sticks’ that function as bearer instruments — effectively giving Bitcoin a cash-like property in the physical dimension. OpenDime sticks are USB drives that store in the private key internally and enable users to access the stick by plugging it in to view the balance and load it with BTC.
+
+However, once a user wishes to spend the BTC in the credit stick, they need to pierce a hole in the stick which alters the flash memory and enables them to use the private key to spend the BTC in the stick. Sticks can be passed between people just like cash, and as long as the seal isn’t broken, they know that they control the BTC and it has not been spent.
+
+Using OpenDime sticks can enhance the privacy of Bitcoin transactions significantly since they don’t need to be broadcast to the blockchain and can occur similar to cash deals.
+
+BitRefill
+
+BitRefill is a popular service for purchasing gift cards or mobile refills with Bitcoin and several other cryptocurrencies, and they even offer LN payments.
+
+They offer over 750 gift cards in more than 170 countries, enabling Bitcoin to be used for common purchases with merchants and retailers that do not accept the cryptocurrency. Popular international gift cards include Amazon, Google Play, and Apple’s App Store.
+
+BitRefill is practical for users who want to spend their Bitcoin but not go through the hassle and fees of exchanging specific amounts on an exchange then sending to a bank account and spending the fiat currency.
+
+Fold App
+
+Similar to BitRefill, Fold App is from the creators of Keep Network, who designed Fold App as a way to spend Bitcoin in the real-world with merchants who do not accept Bitcoin directly. However, Fold App explicitly focuses on sending Bitcoin to partner stores as in-store credit with digital cards. The credit can be spent directly from the phone in the participating stores.
+
+Participating stores currently include Dunkin Donuts, Starbucks, Target, Uber, and Whole Foods.
+
+Conclusion
+
+There are numerous more services like those above for transacting with Bitcoin using alternative methods, and their prevalence is sure to grow over the next few years. OpenDime and Azteco, in particular, have some really promising potential for users in both the developed and developing worlds.
+
+The progress that Bitcoin has simultaneously made in its network topology is also impressive, although still in its very early stages. Blockstream continues to push the speed of innovation and sending Bitcoin via radio waves represents an interesting dynamic of a novel currency with an old medium of communication. Continually improving, Bitcoin is on pace to become a highly robust network with various means for accessing and spending it.

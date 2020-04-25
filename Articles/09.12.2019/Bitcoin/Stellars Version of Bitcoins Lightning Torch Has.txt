@@ -1,0 +1,57 @@
+DATE:  09.12.2019, 09:00:13
+TITLE: Stellar’s Version of Bitcoin’s Lightning Torch Has Been Burning Quietly Since June
+URL:   https://www.coindesk.com/stellars-version-of-bitcoins-lightning-torch-has-been-burning-quietly-since-june
+
+The Stellar blockchain has been running its own version of bitcoin's Lightning Torch since the summer.
+
+Early in 2019 a bitcoin community member known only by a pseudonymous handle, @hodlonaut, launched an experiment known as the Lightning Torch or Lightning Trust Chain. The idea was to test the lightning protocol, a second-layer scaling solution on bitcoin that makes it less expensive to send money (the experiment ended on April 10 as a donation to Bitcoin Venezuela).
+
+Meanwhile, since June 26, Stellar quietly has been passing around its own version of the torch as a simple demo of how easy it is to move money around on the base layer of the blockchain created by Jed McCaleb.
+
+"I wanted something to bring the community together," Wouter Arkink, the Stellar torch's instigator, told CoinDesk in a phone call. "There's a lot of people building, but you need something that is fun and connecting at the same time."
+
+The torch is currently 1150 XLM, or about $67. Unlike the lightning torch, Arkink says that participants don't always add the same amount to the torch (lightning users typically added 10,000 satoshis, much less than a dollar). It can be anywhere from two to 50 XLM.
+
+We first encountered Arkink at the first Stellar conference, Meridan, in Mexico City. He initiated the torch and the website, enlisting some help from other community members once he got going. He met many former torch wielders for the first time at the event.
+
+"They said it connected the community, which is nice, because that was the goal," he said.
+
+Arkink works as an innovation manager at a company in the Netherlands called Asito, but the torch was a personal project.
+
+Lisa Nestor, director of partnerships at the Stellar Development Foundation, recently passed the torch herself. She told CoinDesk in an email: "It's fun and something that has brought many of our community members together, which we really value."
+
+Keybase is key
+
+The Stellar community has adopted the end-to-end encryption suite of apps called Keybase in much the same way that the rest of crypto uses Telegram, in part because the Stellar Development Foundation has been airdropping XLM on the app.
+
+All torch participants need to use Keybase, but one unique advantage it offers is that a user can send something to someone on the app even if they aren't using it yet.
+
+For example, a Stellar user might have a friend who is on Twitter but not on Keybase. The Keybase user could send the Stellar torch to that person's Twitter account. Keybase will create a wallet for that handle and wait for the owner to claim it (it charges 2 XLM to do so – roughly a penny, as an anti-spam measure, Arkink explained).
+
+The whole idea of the Stellar torch (like lightning's) is to send it to people who want to receive it first, but Keybase makes it a little easier to bring people in. If two Twitter friends want to pass the torch but the receiver doesn't have a stellar wallet, Keybase provides a solution.
+
+When the torch gets passed, users post their coordinates in the memo field. This helps the experiment's website track the torch as it traipses around the world. All the hops are shown on an animated infographic. The site currently lists 77 torchbearers.
+
+So far, the website estimates that almost 500,000 kilometers have been covered – and it still hasn't reached a penny in total transaction fees.
+
+Challenges
+
+The Stellar torch doesn't have a pre-defined goal for ending, and it's going beyond just passing the torch around.
+
+Arkink and his collaborators have introduced the idea of challenges. The first challenge is allowing a user to "claim" a country by being the first person to send the torch to someone in that nation. There are still lots of countries left up for grabs; a holder just needs to know someone they trust in a new geography.
+
+A new meme has taken off where users make videos to commemorate their passing of the torch. Here's one with a ninja vibe and another that's a little more on X-Men side.
+
+The torch's most ambitious challenge to date is getting the torch into the hands of famous people.
+
+"I think that will be very interesting because that's when you have to send it at some point to people who are less familiar with blockchain or cryptocurrency," Arkink said.
+
+"Probably the first one will be Kevin Bacon," Arkink said, aspirationally, due to the "six degrees of Kevin Bacon" game from the early days of the internet.
+
+Nonetheless, the Stellar torch burns on quietly, the way things on Stellar tend to do.
+
+"Bitcoin gets a lot more attention than Stellar. Stellar in general is not marketing itself as much," Arkink admitted. But he likes that facet of the community's culture.
+
+"I like that it's just realizing real things and not gloating about things that might be there in the future," he said.
+
+Correction (Dec. 9, 16:35 UTC): A previous version of this story referred to Stellar as a proof-of-stake blockchain. Its consensus mechanism actually relies on a federated Byzantine agreement system.

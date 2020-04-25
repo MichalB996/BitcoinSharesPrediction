@@ -1,0 +1,63 @@
+DATE:  10.03.2020, 15:00:22
+TITLE: 7 of the World’s Largest Blockchain-as-a-Service Enterprises
+URL:   https://news.bitcoin.com/7-of-the-worlds-largest-blockchain-as-a-service-enterprises/
+
+7 of the World’s Largest Blockchain-as-a-Service Enterprises
+
+You’ve heard of Software as a Service (Saas), the means by which businesses subscribe to and access cloud-based software. Blockchain-as-a-service (BaaS) is its distributed ledger equivalent. It describes the process by which a third party installs, hosts and maintains blockchain networks on behalf of other organizations. Today, BaaS is utilized in industries such as fintech, IoT, supply chain and telecommunications to give businesses exposure to blockchain without getting their hands dirty. Let’s take a look at some of the service providers helping enterprises realize their blockchain ambitions.
+
+Also read: Industry Execs Claim Freshly Minted ‘Virgin Bitcoins’ Fetch 20% Premium
+
+
+
+Why Big Companies Are Embracing BaaS
+
+The recent release of the second annual Blockchain 50 list highlights the growth of blockchain-as-a-service (BaaS) platforms and software, with established global players such as Microsoft and Amazon rubbing shoulders with newcomers such as Russia’s National Settlement Depository, China Construction Bank, and EDF.
+
+Blockchain-as-a-service platforms give disparate businesses the opportunity to experiment with blockchain apps and smart contracts while letting service providers manage the network itself. By favoring this model, companies can take advantage of the many oft-cited benefits of blockchain tech – improved transparency and accountability, data security and trust minimization – without having to develop their own blockchain ecosystem or invest in expensive in-house computing resources.
+
+Amazon Web Services
+
+Jeff Bezos’ all-conquering conglomerate provides assorted blockchain tools to companies large and small via its cloud computing arm, Amazon Web Services. The vendor supplies a high-performance, immutable Quantum Ledger Database (QLDB) and lets businesses of all stripes deploy and manage private or public blockchains using Amazon Managed Blockchain, launched in 2018. There’s even an option for companies that wish to manage their own network going forward but need assistance with the initial setup (AWS Blockchain Templates). Naturally, Amazon have the resources to support thousands of blockchain applications at scale, which has ensured a steady stream of high-profile clients such as Nestlé, BMW, Accenture, Sony Music Japan, and the Singapore Exchange.
+
+IBM Blockchain Platform
+
+Another company on Forbes’ influential Blockchain 50 list is IBM, thanks to its Blockchain Platform which has allowed organizations such as Kroger and Plastic Bank to “easily build and join a blockchain network on-premises, or on any private, public, or hybrid multicloud using Kubernetes.” Partnerships have been vital to IBM’s continuous BaaS expansion: it created the Trust Your Supplier platform alongside blockchain firm Chainyard (Vodafone is a new client) and also pioneered the Contingent Labor platform in conjunction with IT People. IBM’s blockchain-as-a-service business deploys Hyperledger Fabric and has been used extensively in industries such as food supply, media, advertising and trade finance.
+
+Microsoft Azure
+
+Microsoft’s Azure platform enables clients such as General Electric and T-Mobile to deploy blockchain networks, build apps with confidence and store data off-chain. Clients can choose to build on several networks, and three products are available – Azure Blockchain Service, Azure Blockchain Workbench, and Azure Blockchain Development Kit. Microsoft have been especially keen to elide the differences between Azure and AWS, pointing out that the latter is “five times more expensive than Azure for Windows Server and SQL Server” and that Azure’s compliance offerings are more comprehensive. In any case, Azure’s integrations with other Microsoft products such as Logic Apps and Flow make it a dependable choice for enterprises seeking to harness blockchain.
+
+EDF
+
+French energy giant EDF is getting into the BaaS business, Cryptoast reports, via its subsidiary, Exaion. Naturally, energy is a key focus – the cloud provider is pitched as an “eco-responsible digital offering” – though a secure vault service for crypto-asset portfolios will also be rolled out in Q4 of 2020. While it’s too early to tell just how much market share EDF can expect to command, its vast computing resources and regulatory experience suggests it could become an attractive European proposition, particularly among companies seeking to reduce their carbon footprint.
+
+Alibaba Cloud Blockchain as a Service
+
+Alibaba’s Blockchain as a Service offering hit the market in 2018, under the umbrella of its cloud computing arm. The move was hardly a surprise: the company is known as a prolific hoarder of blockchain patents. Utilizing Quorum, Hyperledger Fabric and the Ant Blockchain, the platform integrates Alibaba Cloud’s Internet of Things (IoT) and anti-counterfeiting technologies to create blockchain solutions for product traceability, among other things. At present, Alibaba’s BaaS offering encompasses enterprise-level BaaS services, an agile BaaS platform that supports private deployment, and specific blockchain solutions for container services.
+
+Oracle Blockchain Cloud Service
+
+Launched in 2017, Oracle’s Blockchain Cloud Service seeks to help businesses “increase trust and provide agility in transactions across their networks” via its enterprise-grade, pre-assembled platform, built on Hyperledger Fabric. Clients can provision permissioned blockchain networks for private or consortia models, enrol member organizations, and run smart contracts to update and query the ledger. The Blockchain Platform is intended for use alongside other Oracle-deployed tools such as those for identity management and remediation.
+
+Corda
+
+Developed by global enterprise solutions provider R3, Corda is an open-source blockchain platform that enables companies to transact directly and privately using smart contracts. The BaaS provider was recently used by KLM Royal Dutch Airlines to simplify financial processes and enhance settlements, while existing clients include Monetago and Tradeix. Interoperability, security and privacy are the foundations of the finance-focused Corda, and R3’s pedigree – the firm develops solutions for over 300 clients – means it’s one of the best platforms currently available.
+
+Despite Dubious Benefits, Demand for Enterprise Blockchain Remains Strong
+
+Blockchain is not the panacea that business leaders believe it to be, and its benefits within an enterprise context are dubious at best. Regardless, many are unwavering in their conviction that DLT is the future, and that to avoid being left behind, they’re best jumping on the blockchain bandwagon post-haste.
+
+Despite this, BaaS could hold the key to ensuring mainstream adoption of blockchain technology. After all, enterprise blockchain providers function similarly to web hosting providers – and where would the internet be without them? So long as blockchain-as-a-service operators continue to make it easy, fast and cost-effective for individuals and businesses to implement smart contracts and blockchains, and build impactful applications, the ecosystem will continue to flourish.
+
+Thanks to the preponderance of BaaS platforms now marketing their services, it’s relatively easy to develop and implement secure applications on established networks such as Ethereum or Hyperledger Fabric. Because BaaS providers handle the heavy lifting in terms of architecture/bandwidth management and back-end services, enterprises can focus on their core business without fretting about the day-to-day complexities of operating a blockchain.
+
+Web searches for “enterprise blockchain” and “blockchain service” have spiked recently, with India one of the regions driving this trend. BaaS providers are capitalizing on such surging interest by laying the groundwork for the next wave of distributed applications and permissioned chains. They are also helping firms add serious value: according to Gartner, the value added by blockchain will surpass $360 billion by 2026, before exceeding $3.1 trillion by 2030. Those figures should be taken with a pinch of salt, but at the very least they suggest that enterprise blockchain won’t be going away any time soon.
+
+Do you think enterprise blockchain is a fad or the future of business innovation? Let us know in the comments section below.
+
+Disclaimer: This article is for informational purposes only. It is not an offer or solicitation of an offer to buy or sell, or a recommendation, endorsement, or sponsorship of any products, services, or companies. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.
+
+Images courtesy of Shutterstock.
+
+Did you know you can verify any unconfirmed Bitcoin transaction with our Bitcoin Block Explorer tool? Simply complete a Bitcoin address search to view it on the blockchain. Plus, visit our Bitcoin Charts to see what’s happening in the industry.

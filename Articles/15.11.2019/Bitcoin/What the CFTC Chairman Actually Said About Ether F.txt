@@ -1,0 +1,105 @@
+DATE:  15.11.2019, 08:15:05
+TITLE: What the CFTC Chairman Actually Said About Ether Futures and Ethereum 2.0
+URL:   https://www.coindesk.com/what-the-cftc-chairman-actually-said-about-ether-futures-and-ethereum-2-0
+
+The Takeaway:
+
+CFTC Chairman Heath Tarbert said last month that ether is a commodity, and he expects to see regulated ether futures in the U.S. in the next six months.
+
+The ethereum network is expected to transition from its current proof-of-work consensus mechanism to a proof-of-stake model over the next year, in an upgrade known as Ethereum 2.0.
+
+Asked about this shift, Tarbert said Tuesday the CFTC is still evaluating whether ether will remain a commodity under the new model.
+
+Ethereum developers and proponents believe proof-of-stake may actually bolster the case that ether is “sufficiently decentralized” to be considered a commodity in the eyes of U.S. regulators.
+
+U.S. regulators are not yet sure about what to make of ethereum’s impending transition to a staking-based protocol.
+
+Commodity Futures Trading Commission (CFTC) Chairman Heath Tarbert, who recently declared his view that the world’s second-largest cryptocurrency by market capitalization is a commodity that could support a futures market, said this week his agency is still evaluating whether this will remain true after ethereum upgrades its network sometime in the coming year.
+
+Speaking at CoinDesk’s Invest: NYC conference on Tuesday, Tarbert said the CFTC and its sister agency, the Securities and Exchange Commission (SEC), were both “thinking carefully” about the forthcoming Ethereum 2.0 upgrade which is designed to replace the coin’s current proof-of-work (PoW) model for transaction validation.
+
+In PoW, computer servers called nodes solve computationally-intensive mathematical equations in order to validate transactions and process new blocks. However, in Ethereum 2.0, these same nodes will stake wealth (in the form of ETH) and vote on new blocks rather than solve for them.
+
+“Staking is obviously different than mining in the sense that mining is by its very nature sort of more decentralized, whereas with the stake obviously it reduces energy costs because you’re just giving it to one validator or line of validators,” Tarbert said Tuesday.
+
+The CFTC, which has been looking into ethereum and its potential shift to proof-of-stake (PoS) since at least December 2018, is now looking into how decentralized the ethereum network will be after the 2.0 upgrade. In addition, Tarbert said regulators are also examining the requirements expected of users to run nodes on the Ethereum 2.0 network.
+
+“That’s exactly the kind of analysis that that we’re undertaking and the SEC is undertaking right now,” Tarbert said.
+
+This analysis will be key for any evaluation and eventual approval by U.S. regulators for a regulated ether futures market – which according to Tarbert’s earlier statements is “likely” in the next six to 12 months.
+
+What’s at stake
+
+According to Jehan Chu, managing director of Hong Kong-based crypto investment firm Kenetic Capital, a regulated ether futures market would be game changing in the U.S.
+
+“What regulated futures will do is allow institutional investors to trade this commodity,” Chu said. “They’re not going to be logging on to Bitmex and trading in size. They will potentially on Bakkt, the NASDAQ, etc. This is why you need to have regulated financial instruments and why CFTC’s commodity designation is so important.”
+
+Adding to this, Aaron Wright, founder of ethereum startup OpenLaw, said another core benefit of a regulated futures market would be better “price discovery” for ether.
+
+“Without futures, it’s more difficult for those that think the price of ether is overvalued to signal that to the market,” said Wright. (According to recent remarks by former CFTC Chairman Christopher Giancarlo, the introduction of bitcoin futures in late-2017 brought BTC prices back down to earth.)
+
+Some industry experts say both the demand and maturity of ethereum as a technology is still far too nascent for a futures market to be supported in the U.S. This is because ethereum futures contracts do trade on exchanges based outside of the U.S. – such as on U.K.-based Kraken Futures – but trade volumes for these contracts are relatively thin.
+
+Still, the most ardent supporters of ethereum are optimistic about the successful delivery of Ethereum 2.0. In fact, most believe the case for a regulated ether futures market is only strengthened in light of the upcoming transition to PoS.
+
+There are two reasons why.
+
+1. ‘Better decentralization’
+
+In June 2018, the SEC’s director of corporation finance, William Hinman, argued ether was not a security based on the understanding of the ethereum network as a “decentralized structure.”
+
+Danny Ryan, an Ethereum 2.0 researcher at the Ethereum Foundation, explained one of the key aims of ethereum’s PoS network is “better decentralization.”
+
+“With [PoW], there is some intrinsic centralization due to the hardware component tied to the real-world supply chain in which some people are more entrenched and can get more specialized hardware than average consumers,” said Ryan, adding:
+
+“In ethereum’s PoS, the capital that you need to acquire to participate is much more readily available. … Converting capital into an asset that allows you to stake in the protocol is much cleaner.”
+
+Eric Conner, founder of information site ETHHub and product researcher at blockchain startup Gnosis, said the minimum cost for an Ethereum 2.0 validator to process blocks and earn rewards like a miner would on ethereum today is 32 ETH or roughly $5,800.
+
+According to Connor, this is a comparatively lower barrier to entry than in PoW where “you would have to buy thousands of [machines] because the hash power on the network is so high.”
+
+“What’s interesting about proof-of-stake is that it takes away miner centralization,” Conner said.
+
+To this, Collin Myers, head of global product strategy at ConsenSys, the Brooklyn-based ethereum venture studio, estimates Ethereum 2.0 is targeting roughly 15,600 validators to secure the network at launch. Currently, there are only about 7,000 computer servers running ethereum software around the world.
+
+2. Expectations of profit
+
+Currently, miners on ethereum are randomly selected to process new blocks on the network. By devoting higher amounts of computational energy to the network, miners have a greater chance of being selected to create a new block and earn rewards.
+
+In Ethereum 2.0, validators, who are the equivalent to miners in a PoW network, earn rewards on a more regular and predictable basis. Rather than using up computational energy, validators lock up 32 ETH as collateral to the network and earn rewards in the form of interest on their staked wealth.
+
+“Although the chance for reward is much more regular and frequent on PoS, the amount which you are rewarded as a validator is still related to your ability to participate well in the protocol,” said Ryan. “There is not an expectation of profit by doing nothing and through the work of others. It’s all related to your ability to provide services to the network.”
+
+Indeed, outside of staking, validating transactions and appending new blocks in the PoS network, validators are also expected to actively attest to the validity of a block in a shard or the primary PoS blockchain, called the beacon chain. This happens every six minutes in the new network, according to the Ethereum Foundation.
+
+“I don’t think it changes anything to be honest. Ether is a commodity as far as the … CFTC is concerned. I don’t see a reason why proof-of-stake would change that,” said Gnosis researcher Conner, adding:
+
+“It’s actually very similar to how proof-of-work works today when it comes to reward issuance.”
+
+A blurred line
+
+Given that both efforts for regulated ether futures in the U.S. and Ethereum 2.0 are still largely theoretical, it’s difficult to draw a correlation between how one might impact the other, according to Chu of Kenetic Capital.
+
+“In my mind, the [ETH 2.0] roadmap isn’t impacting the markets yet. I don’t think it’s going to impact a [possible] futures market until … some major milestones come into place,” said Chu.
+
+What’s more, the actual criteria influencing how U.S. regulators make their decisions on what is or is not a security when it comes to cryptocurrencies is still highly uncertain, according to Felix Shipkevich, a New York attorney with a specialization in litigating on cryptocurrencies and blockchain technology.
+
+“We still don’t have clarity from the SEC on what type of tokens are securities and what are not,” Shipkevich said, adding:
+
+“Please explain to me, what does [the SEC] mean by decentralized? What is truly decentralized? … We do not have a legal definition of what decentralized versus centralized ledgers are and why bitcoin and ethereum in the eyes of the SEC [and CFTC] are not securities.”
+
+To put things in perspective, the only other cryptocurrency in the world that has been granted commodity status within the United States is bitcoin. As recently as September, the first physically-settled bitcoin futures contracts were launched and made available for trading on the regulated digital assets platform Bakkt.
+
+However, Shipkevich said bitcoin does not behave in a similar way to other traditional commodities. The majority of people buying bitcoin (and similarly ethereum) do so with the intention to speculate on the asset and earn high returns, Shipkevich said, adding:
+
+“These two cryptocurrencies are treated more like [equity] assets than truly cryptocurrencies. People buy bitcoin today because they want to hold and speculate on bitcoin.”
+
+Whatever the reason, Chu said he is confident U.S. regulators know more about these two cryptocurrencies than they are currently letting on.
+
+“I’m not concerned about the relationship between ether futures and ETH 2.0,” said Chu. “You don’t issue all of these enforcement actions without understanding what you’re enforcing.”
+
+Watch Heath Tarbert’s full remarks at Invest: NYC 2019
+
+Nikhilesh De contributed reporting.
+
+CFTC Chairman Heath Tarbert speaks at Invest: NYC 2019; image by Joe Jenkins for CoinDesk

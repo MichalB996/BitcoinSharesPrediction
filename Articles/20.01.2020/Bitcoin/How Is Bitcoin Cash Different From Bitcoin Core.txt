@@ -1,0 +1,45 @@
+DATE:  20.01.2020, 22:30:18
+TITLE: How Is Bitcoin Cash Different From Bitcoin Core?
+URL:   https://news.bitcoin.com/how-is-bitcoin-cash-different-from-bitcoin-core/
+
+How Is Bitcoin Cash Different From Bitcoin Core?
+
+The crypto space can be hard to break into for those unfamiliar with the jargon, lingo, and foundational knowledge taken for granted by the already initiated. Adding to this difficulty is the fact that there are several different cryptos which bear the name “Bitcoin.” Convoluted as this all may seem, the differences are pretty easy to understand. This article seeks to explain in simple terms the difference between two of the most popular cryptocurrencies: Bitcoin Cash (BCH) and Bitcoin Core (BTC).
+
+Also Read: An In-Depth Look at the Multi-Currency Cold Storage Card Ballet
+
+Bitcoin’s Genesis
+
+Just before the first version of Bitcoin launched in 2009, Satoshi Nakamoto described his creation in the Bitcoin whitepaper, or foundational document, as “A purely peer-to-peer version of electronic cash,” which “would allow online payments to be sent directly from one party to another without going through a financial institution.” The ticker symbol for this currency was eventually set as BTC.
+
+Over the years, however, as disagreements among community members and developers about scaling grew, it became clear that differences were irreconcilable, and that a split in the bitcoin community via a fork in the protocol would occur.
+
+The Bitcoin Cash Hard Fork
+
+One group wished to increase the block size significantly to allow for faster processing of transactions, elimination of high transaction fees, and greater ease-of-use as cash for everyday spending and payments. The other group argued that such high fees were necessary and even desirable, and that extremely slow transaction speeds were a tradeoff for a more secure network. Arguments have been made in favor of both sides regarding the issue of security and centralization, as this Twitter thread demonstrates.
+
+On August 1, 2017, Bitcoin Cash (BCH) split from Bitcoin Core (BTC) via a hard fork, and the former now features 32MB blocks, whereas BTC has a theoretical capacity for a max “block weight” of 4MB via a controversial solution known as Segwit. Popular bitcoin core narratives have since evolved saying BTC is like “digital gold” that should not be spent, but only held and saved. This presents a clear problem where Satoshi Nakamoto’s vision was specifically for a “purely peer-to-peer version of electronic cash.”
+
+Onchain Scaling vs. Second Layer Solutions
+
+Adding to the specialized language, buzzwords and other crypto terminology that inundates newcomers to the space is the idea of a second layer. This is exactly what it sounds like: a new layer on top of a blockchain where transactions and settlements can be made prior to being set in stone in the underlying chain. One such popular and developing second layer for BTC is known as the Lightning Network.
+
+“Wait a minute,” a crypto newb might interject, “if the idea of bitcoin is to increase transparency, simplicity and trustlessness in transactions, wouldn’t a second layer only complicate things?” In this case the neophyte would be onto something. While second layer solutions such as the Lightning Network are often touted as being the answer to all of BTC’s scaling and congestion issues, as with Segwit, there are numerous criticisms and potential problems. One of which being the necessity of trusting unknown parties with the transmission of one’s funds, prior to said transaction being written into a block.
+
+The Bitcoin Cash network does not rely on such a second layer as it has more capacity and speed for processing transactions directly onchain. Though there are critics of this approach as well, when it comes to the ability to use crypto as cash — and a readily-navigable user experience — the principle that unnecessary complications mean more potential problems comes into play, which is part of the reason BCH separated from BTC.
+
+Trying Both Coins
+
+The best way to understand the fundamental differences between Bitcoin Cash (BCH) and Bitcoin Core (BTC) is to dive in and try the two currencies out. By sending small amounts back and forth with a friend, across multiple wallets, or using them to pay for goods and services, one gets a feel for how they work, can compare fees and transaction times, watch market value fluctuate, and begin to understand overall security and convenience, unique features, benefits and drawbacks.
+
+The Bitcoin.com Wallet supports both BCH and BTC, is freely downloadable, and can be loaded with free bitcoin cash from the Bitcoin Cash Faucet. BCH and BTC can also be bought with a credit card, and more privacy-minded users might utilize local.Bitcoin.com, an encrypted-chat and blind escrow trading platform that allows the purchase and sale of bitcoin cash for several payment options including cash, with no invasive KYC (know your customer) policy.
+
+Getting a feel for permissionless money and real economic freedom without a middleman or third party is exhilarating, and speaks to the movement of money into a new era as Satoshi Nakamoto, among many others, imagined. Whatever one’s preference when it comes to crypto — whether it be one coin or many — most in the space agree the vision that “A purely peer-to-peer version of electronic cash would allow online payments to be sent directly from one party to another without going through a financial institution” is something worth fighting for.
+
+What do you think about the differences between Bitcoin Cash and Bitcoin Core? Do you have another crypto that you like? Let us know in the comments section below.
+
+Disclaimer: This article is for informational purposes only. It is not an offer or solicitation of an offer to buy or sell, or a recommendation, endorsement, or sponsorship of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.
+
+Image credits: Shutterstock
+
+Did you know you can buy and sell BCH privately using our noncustodial, peer-to-peer Local Bitcoin Cash trading platform? The local.Bitcoin.com marketplace has thousands of participants from all around the world trading BCH right now. And if you need a bitcoin wallet to securely store your coins, you can download one from us here.

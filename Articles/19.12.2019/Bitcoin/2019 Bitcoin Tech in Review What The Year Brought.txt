@@ -1,0 +1,79 @@
+DATE:  19.12.2019, 13:00:20
+TITLE: 2019 Bitcoin Tech in Review, What The Year Brought
+URL:   https://bitcoinmagazine.com/articles/bitcoins-2019-in-tech-what-this-year-brought-us-part-1
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+Bitcoin’s technical development is progressing full steam ahead. The leading cryptocurrency’s developer community, growing each year, is hard at work to improve the Bitcoin protocol and everything around it. Some of the bigger projects — Taproot, Stratum V2, OP_CHECKTEMPLATEVERIFY and Drivechain, to name a few examples — have made much progress throughout the year and could (in some cases optimistically) be released in 2020. Meanwhile, SegWit-usage kept increasing throughout 2019, more coins are mixed through Chaumian CoinJoin tools each month, and a growing number of wallets and services are adopting the bech32 address standard.
+
+But, as 2019 comes to an end, let’s take a look at which new technologies have been released in the past year.
+
+Less Trust Required With Guix
+
+Computers speak binary: they receive instructions from computer programs in “ones and zeros.” But humans don’t speak binary. Programs are, therefore, written in human-readable programming languages, to then be compiled (“translated”) into binary code.
+
+But this means that when you download binaries, for example the latest Bitcoin Core release, you cannot check that it actually matches the open-source project hosted on Bitcoin Core’s GitHub repository. You are trusting whoever sent you the software or whichever webpage you downloaded it from.
+
+To help subvert this problem, a number of Bitcoin Core developers compile Bitcoin Core’s latest release into binaries as a standard part of the release process, and cross-check that their binaries match. They cryptographically sign the binaries if they match and only if they match. These signatures can, in turn, be checked by users downloading the binaries. In this way, no single developer needs to be trusted. (Of course, users can also compile the binaries themselves, if they don’t even want to trust this group of developers.)
+
+This is harder than it sounds, however. The process of compiling binaries is usually subject to minor variables, for example, because it’s done on different operating systems or at different speeds. This can actually result in different binaries even when compiled from the same source, making cross-checks impossible.
+
+To solve this, Bitcoin developers use a program called Gitian. Gitian is best understood as a virtual computer within a computer, in which programs can be compiled, so they always result in the exact same binaries.
+
+However, Gitian has the problem that Gitian itself was somewhat trusted: It relies heavily on Ubuntu binaries. This theoretically opens the door to sophisticated attacks on the Gitian process, potentially indirectly affecting the Bitcoin Core binaries users end up downloading.
+
+Chaincode Labs engineer Carl Dong, therefore, introduced Guix, a binary verification system that allows users to check that the Bitcoin Core client they download corresponds exactly with the code that Bitcoin Core developers wrote. In July 2019, the Bitcoin Core project merged support for Dong’s solution, removing another layer of trust.
+
+“Guix allows us to construct the environment in a way where we rely on a severely reduced set of trusted binaries,” Dong told Bitcoin Magazine earlier this year. “Most of the environment is constructed by building from a tiny binary seed, and this building process is much more auditable.”
+
+Sidechains’ Increased Asset Offerings
+
+2018 was the year in which Bitcoin’s first sidechains were launched: Blockstream’s Liquid and RSK Labs’ RSK, both of which are (for now) secured by a federation. A group of key-holders — well-known companies in the space — lets users effectively move bitcoin from the Bitcoin blockchain to the alternative blockchain, where the coins obey different protocol rules.
+
+Now, as of 2019, Bitcoin sidechains are increasingly used for a wider range of assets. Liquid in particular is hosting a list of alternative assets, which under Liquid’s protocol rules allows them to change hands quickly and privately. Barring some tests and playtokens, or assets that aren’t actually used yet (like Infinite Fleet’s INF, because the game is still to be released), SideShift AI was perhaps the first company of note to deploy its native token SAI on the Liquid sidechain. (SideShift AI first suggested it might do this in January 2019 and followed suit later in the year — but we’ve been unable to find out when exactly. Edit: It was July.)
+
+Additionally, several stablecoins found a home on Liquid, for example those issued by Listed Reserve and Condensat Technologies. Then, in July 2019, Tether (USDT) — the industry’s biggest stablecoin by market cap — was deployed on Blockstream’s sidechain. In itself considered the fourth-largest cryptocurrency by market cap at the time of writing, USDT is now ready to be leveraged for arbitrage between exchanges and potentially atomic swaps, and accessible through Blockstream’s Green wallet.
+
+“The growth of alternative assets like stablecoins and security tokens on the Liquid Network shows that sidechain technology is maturing rapidly,” Blockstream CSO Samson Mow told Bitcoin Magazine. “We hope and expect that Liquid usage will only increase in 2020.”
+
+It seems that Liquid may indeed host more assets in the near future. Just in early December 2019, Dubai-based cryptocurrency exchange BTSE announced a token offering hosted on Blockstream’s sidechain.
+
+Shamir Backups for More Secure Storage
+
+Hardware wallets are generally considered to be among the more secure solutions to store bitcoin. But even hardware wallets can break, get lost, be stolen or become otherwise unusable. This is why users are encouraged to keep a backup seed: A list of words, typically written down on a piece of paper, with which the funds on a hardware wallet can be recovered. But this introduces a new risk: If the seed is stolen, the thief could gain access to all your funds. If the seed is lost (or part of it is, for example, because it was cut in pieces and stored in different locations), it cannot be used to recover the wallet if needed.
+
+In August 2019, SatoshiLabs introduced a solution to this problem: Shamir Backups. After more than a year of development, the company behind the Trezor hardware wallet finished a seed format based on Shamir’s Secret Sharing: A cryptographic algorithm created by well-known cryptographer Adi Shamir. It’s now possible to “split up” a wallet seed into several different seeds (“shares”), of which a predetermined subset of them is needed to recover the wallet. SatoshiLabs’ Shamir Backups allow for the creation of up to 16 shares, while individual shares can even be divided into sub-shares.
+
+“To give one of the practical use tips — if you want your kids or loved ones to have fair access to your digital assets even after you are not here, you can split the shares evenly among them, preventing single individuals from accessing your funds,” SatoshiLabs CEO Marek “Slush” Palatinus suggested, speaking with Bitcoin Magazine. “The possibilities are now much broader, and we are happy to offer this open-source solution to any project in the industry.”
+
+New Privacy Tools With Pay to Endpoint (P2EP)
+
+Pay to Endpoint (P2EP) is a privacy technique first popularized through blogs and podcasts in the summer of 2018, following a privacy-focused brainstorm event attended by Bitcoin privacy researchers. (Fittingly, it remains unknown who attended the event exactly.)
+
+In short, P2EP is a trick that would break the assumptions that much of blockchain analysis relies on, even if only a small segment of Bitcoin users would utilize it. It does this by having the recipient of a transaction partake in the transaction through a CoinJoin, to basically send funds to themselves, in addition to the actual payment. If blockchain spies assume that all coins sent in a transaction belonged to the sender — as would normally be the case — they would be wrong. Being wrong a bit too often might render this type of heuristics useless altogether.
+
+In the final weeks of 2018, a demo version and early implementation of this privacy tool had already been introduced, in the form of Bustapay and PayJoin, for JoinMarket. These versions have not been developed much further, however.
+
+But in August 2019, the privacy-focused Samourai Wallet released its own version of P2EP, called Stowaway, under the Cahoots umbrella. Stowaway slightly differs from some other versions of P2EP, in that it only lets users make such payments to explicitely selected peers. Samourai Wallet developers believe this is a bit better for privacy, as recipients do need to reveal some of their coin ownership to the sender.
+
+A related trick under Samourai Wallet’s same Cahoots umbrella, also released this year, is STONEWALLx2. With STONEWALL (without the “x2”), users could make normal payments look like CoinJoin payments even though they aren’t, simply to confuse blockchain spies. With STONEWALLx2, real CoinJoins are made, in which the coins of a selected peer are used to make the mix. This trusted peer just gets his funds returned to him. Samourai Wallet will soon also offer Cahoots as a Service, a premium spend where the Samourai team itself acts as the selected peer.
+
+“One of our main goals is to provide the best possible on-chain transactional privacy for our users,” pseudonymous Samourai Wallet developer “Samouraidev” told Bitcoin Magazine. “The past year has been spent moving ahead with our roadmap and placing on-chain transactional privacy tools not only front-and-center, but in the palm of everyone’s hand.”
+
+Adding to Cahoots (and its Chaumian CoinJoin implementation Whirlpool), Samourai Wallet in 2019 also introduced its “Dojo”: a dedicated backend full node server benefiting privacy (as well as security).
+
+Miniscript Is Making Bitcoin Programming Easy(er)
+
+Spending bitcoin, on a technical level, really means “unlocking” bitcoin, and “locking them up” again. The conditions under which coins can be “unlocked” are embedded in code, which is created in a programming language specifically designed for Bitcoin, called “Script.” Script has some complications, however, most notably that it isn’t always easy to interpret by humans, which makes it tricky to work with.
+
+To improve on this, Blockstream’s Andrew Poelstra, Pieter Wuille and Sanket Kanjalkar (an intern) designed a “stripped down” version of Script: A selection of “tools” from the “Script toolkit” that makes it easier to use and easier to verify. Miniscript, as it’s called, allows for virtually everything that Script allows, save some fringe use cases, but it is much more straightforward and predictable.
+
+“Miniscript is, in a theoretical sense, more limiting than Script,” Blockstream director of research and Miniscript co-designer Andrew Poelstra told Bitcoin Magazine earlier this year. “But it can do everything that people actually use Script for.”
+
+To make the process of writing Miniscript even easier, Wuille also designed a “policy language.” The policy language is really like a programming language of its own. After programming the conditions under which a coin can be spent in this policy language, it can be compiled into Miniscript, and, therefore, into valid Script. An added benefit of this policy language is that it automatically compiles into the best, most efficient version of Miniscript possible.
+
+While the current version of Miniscript is not actually the final version, Blockstream is already using it internally, and Wuille is hosting a demo version of a policy language for anyone to use.
+
+In part two of this series on what 2019 brought to Bitcoin: The Lightning Network.

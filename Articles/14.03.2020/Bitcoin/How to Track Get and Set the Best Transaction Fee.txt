@@ -1,0 +1,57 @@
+DATE:  14.03.2020, 08:44:02
+TITLE: How to Track, Get and Set the Best Transaction Fees with Bitcoin and Bitcoin Cash
+URL:   https://news.bitcoin.com/how-to-get-best-transaction-fees-bitcoin/
+
+How to Track, Get and Set the Best Transaction Fees with Bitcoin and Bitcoin Cash
+
+Once set up with a bitcoin or bitcoin cash wallet and some coins, using and sending them is pretty easy. Part of this process involves paying a transaction fee, which is a small amount of coin included in a transaction incentivizing miners to work the tx into a block. Both BTC and BCH transactions have fees, with BCH fees being much lower. This post will detail some ways to find and track the best possible fees, set tx fees in your wallet, and make the most of this aspect of using peer-to-peer electronic cash.
+
+Also read: How To Start Using Bitcoin: Buying, Storing, and Spending Crypto
+
+How Transaction Fees Work
+
+A transaction (tx) fee is a small amount of bitcoin included in a transaction that rewards miners for validating a payment, which results in confirmation on the blockchain. Higher fees generally will result in a tx being processed more quickly. Depending on the nature of your transaction, you may not be in a hurry to have it confirmed, and can set a lower fee in your wallet which might result in the tx being confirmed in a later block. In a more urgent situation, a higher fee will get your tx processed more quickly. This post will look at both BTC and BCH tx fees, and how to make the most of them.
+
+Tracking BCH and BTC Fees
+
+For starters, the highly customizable chart above from bitinfocharts.com, shows average BTC fees (blue) as compared to average BCH fees (red) over the past three months in USD. BCH fees are generally much cheaper thanks to a larger block size limit, meaning more transactions can fit into each block and the network is less subject to congestion. When a network is congested, users set higher and higher fees to outbid each other so their transaction will be processed first.
+
+Another site that displays fees in a readily digestible, comparative format is bitcoinfees.cash, which shows the median Bitcoin Cash and Bitcoin Core network fees. “Typically, most people using Bitcoin as a currency don’t want to wait many blocks for their transactions to be confirmed,” the site maintains,” so they pay next block fees to get their transaction confirmed within 10 minute block times. Median fees are just the middle range of all the fees to give users a better idea of the average amount being paid by everyone, discarding high and low fees.”
+
+Transaction Size as a Factor
+
+One thing that the average user or crypto newcomer might not be aware of is that calculating an appropriate tx fee can be much more involved than just looking at averages and medians. Transaction size (measured in bytes) also affects miner incentive to take your tx out of the mempool waiting room and process it.
+
+Miners are looking for value, so even if a high fee is paid, if the tx size is huge, there is no guarantee it will be processed as quickly as others paying the same amount. This is why some wallets offer highly customizable fee adjustment options and detailed tx info which can be used in conjunction with real-time network data to customize a fee. Luckily for most users, however, built-in fee estimators are fairly reliable for general purposes, taking tx size and fee rate into account automatically.
+
+For those wanting to see current tx size info on both the BTC and BCH networks, charts.Bitcoin.com provides this resource.
+
+Adjusting Fees in Your Bitcoin Wallet
+
+Fees (often measured in satoshis per byte) can typically be adjusted in bitcoin wallets depending on the user’s individual needs. For users of the Bitcoin.com wallet — both desktop and mobile — there is a section entitled “Network fee policy” in the settings menu. Once tapped or clicked, a new menu is displayed which allows users to select their level of urgency, with options like “priority,” “normal,” and “economy.” This takes some of the guesswork out of setting fees where manual adjustment might be challenging for beginners, or inconvenient for everyday users.
+
+Some wallets, such as the Electrum BTC wallet and the Electron Cash wallet for BCH, feature a slider by which the tx fee can be adjusted manually.
+
+In the Electron Cash wallet the satoshi/byte fee rate is set as an integer from 1 to 10. In the Electrum wallet for Bitcoin Core, the fee rate is set according to a block target estimated time of arrival (ETA) as seen in the image below. The Electrum BTC wallet also provides further options for customizing fee settings such as the choice to estimate by mempool status, or to simply set a fixed fee rate. Fees can also be edited manually, and unconfirmed Replace-By-Fee (RBF) transactions “batched” (grouped together into a single transaction) to save on prices.
+
+This likely sounds complicated for newcomers to crypto and everyday users, which is a large part of the reason Bitcoin Cash features a larger block size limit than Bitcoin Core. The greater capacity allows for less congestion and negligible fees, making many of the complications found in adjusting fees on the BTC network often seem unnecessary. BCH’s Electron Cash wallet also allows for a custom fee rate to be set, beyond the default slider options, but as RBF is not part of the Bitcoin Cash codebase for security reasons, RBF batches aren’t available in this wallet.
+
+Timing Your Transaction for the Best Fees
+
+As with traveling, sending a bitcoin tx is most easily and efficiently done when the roads are clear and traffic is light. If the side streets are clogged and you have to take a toll road, your trip is going to cost more. Also, depending on the time of day there may be traffic jams or rush hour congestion. Txstreet.com provides an excellent resource for viewing tx and mempool data, so bitcoiners can see the best time to send a transaction and a reasonable fee to pay.
+
+When it comes to the best time to send a tx, that depends on a variety of factors. Price spikes can see network activity increase dramatically, and with it, fees. For example, just days after BTC’s historic all time high in December 2017, the average tx fee in USD was over $37 per transaction. This resulted in legions of everyday bitcoiners having to wait days for their txs to be validated. While this was certainly a special event, network congestion nonetheless plays a role in determining daily fees.
+
+A highly detailed resource for analyzing both the BTC and BCH mempool and tx fee activity, and getting familiar with daily, weekly, and market-correlated patterns across time can be found at Johoe’s Bitcoin Mempool Statistics. As the image directly above shows, the early a.m. hours of March 14 saw more unconfirmed transactions in the mempool as compared to other times of the day. The correlating “Pending Transaction Fee in BTC” chart on the site shows generally higher fees during the same interval.
+
+The site notes: “The data is separated into different fee levels given in satoshi per bytes. The lowest colored stripe is for transactions that pay the lowest fee. Higher fee transactions are stacked on top of it. Since miners prefer high fee transactions, a new block usually only removes the top 1 MB from the queue. If a colored stripe persists over several hours without getting smaller, this means that transactions paying this amount of fee are not confirmed during this time, because there are higher paying transactions that take precedence.”
+
+Sites like this and others can help bitcoiners, regardless of wallet or preferred network, be sure they’re setting a good tx fee that will help them save money and get their transaction validated in a timely manner.
+
+How do you find the best fees when sending bitcoin or bitcoin cash? Let us know in the comments section below.
+
+Disclaimer: This article is for informational purposes only. It is not an offer or solicitation of an offer to buy or sell, or as a recommendation, endorsement, or sponsorship of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.
+
+Images courtesy of Shutterstock, fair use.
+
+Did you know you can buy and sell BCH privately using our noncustodial, peer-to-peer Local Bitcoin Cash trading platform? The Local.Bitcoin.com marketplace has thousands of participants from all around the world trading BCH right now. And if you need a bitcoin wallet to securely store your coins, you can download one from us here.

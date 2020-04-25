@@ -1,0 +1,15 @@
+DATE:  20.04.2020, 15:26:24
+TITLE: Over 700 Libraries in RubyGems Stole Bitcoin Wallet Data
+URL:   https://sunriseread.com/over-700-libraries-in-rubygems-stole-bitcoin-wallet-data/90689/
+
+Unknown hackers loaded 725 malicious libraries into the RubyGems repository that steal knowledge from the consumer's clipboard. This was reported by ReversingLabs researchers.
+
+The malware was disguised as a authentic library with nearly equivalent names. After putting in the sufferer on the sufferer’s laptop, the hacker software program regarded for knowledge associated to cryptocurrency wallets in the clipboard and changed it with the purses of attackers.
+
+“One of these assault targets third-party software program suppliers and ensures hackers higher assault effectivity as a result of organizations and customers spend much less time checking software program from trusted publishers.” - famous in ReversingLabs.
+
+RubyGems has now eliminated all malicious libraries from the repository.
+
+Earlier, Google eliminated 49 extensions for Chrome that steal keys from Bitcoin wallets.
+
+Subscribe to ForkLog information on Telegram: ForkLog Feed - your complete information feed, ForkLog - a very powerful information and polls.

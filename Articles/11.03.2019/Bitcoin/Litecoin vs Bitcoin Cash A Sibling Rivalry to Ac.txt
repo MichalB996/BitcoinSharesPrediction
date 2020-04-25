@@ -1,0 +1,127 @@
+DATE:  11.03.2019, 07:00:35
+TITLE: Litecoin vs. Bitcoin Cash: A Sibling Rivalry to Achieve Satoshi’s Vision
+URL:   https://btcmanager.com/litecoin-bitcoin-cash-sibling-rivalry-achieve-satoshis-vision/
+
+Litecoin vs. Bitcoin Cash: A Sibling Rivalry to Achieve Satoshi’s Vision
+
+In many ways, Bitcoin Cash (BCH) and Litecoin (LTC) represent the Cane and Abel of cryptocurrencies.
+
+Satoshi Nakamoto’s Bitcoin, being the father of crypto, birthed two sons: Litecoin and Bitcoin Cash. Ever since their inception, both cryptocurrencies have seen it as their destiny to claim the role of prodigal son and achieve Nakamoto’s true vision of a “Peer to peer electronic Cash system.”
+
+In the following, BTCManager takes a closer look at the history of both cryptocurrencies to explore how this sibling rivalry emerged and has evolved over the years.
+
+History of Litecoin and Bitcoin Cash
+
+According to Satoshi Nakamoto, Bitcoin was initially developed to be a medium of exchange between anonymous users on the Internet. Over time, however, this vision became distorted as the cryptocurrency’s inability to scale, yet profitable market returns led people to believe it should instead function as a store of value or digital gold.
+
+As the store of value interpretation of Bitcoin became more mainstream, many purists felt that the community was losing sight of Bitcoin’s potential to provide financial autonomy for people all over the world as a peer to peer cash system.
+
+Litecoin and Bitcoin Cash were subsequently born in the absence of a genuinely decentralized peer-to-peer cash system. Each cryptocurrency aimed to solve the scalability challenges that were making it impossible for Bitcoin to fulfill its destiny as a medium of exchange. Among those scalability challenges was an increase in transaction fees and block validation times. These issues continued to hamper people’s ability to transact BTC and became a source of divisiveness amongst the developer community, eventually leading to two forks that created Litecoin and later Bitcoin Cash.
+
+Litecoin was created on October 7, 2011, by Charlie Lee, a former Google employee and Engineering Director at Coinbase. Its main features are the ability to process a block every 2.5 minutes (instead of ten minutes on the Bitcoin blockchain) and the use of Scrypt hashing algorithm used in place of SHA-256.
+
+Bitcoin Cash was created several years later on August 1, 2017. While Litecoin emerged out of relatively smooth circumstances (a simple forking of the Bitcoin blockchain to create a new currency), Bitcoin Cash’s hard fork was much more divisive and controversial.
+
+In early 2017, members of the Bitcoin community began to push for increasing the block size to store more memory and handle more transactions. This group (led by the passionate and highly-opinionated Roger Ver) felt that the community’s resistance to increasing the block size was an expression of favoritism towards the digital store of value narrative rather than as a currency.
+
+The disagreement led to the pro-currency group of developers and entrepreneurs creating a hard fork and establishing Bitcoin Cash. BCH increased their block size to 8 MB, while Bitcoin remained at 2 MB. This increase supposedly allows BCH to handle up to 61 transactions per second compared to Bitcoins seven per second.
+
+BCH Hard Fork (SV and ABC)
+
+In almost the same controversial manner in which BCH split from Bitcoin, on November 15, 2018, the BCH community experienced their hard fork, leading to the creation of BCHABC (ABC for Adjustable Blocksize Cap) and BCHSV (SV for Satoshi’s Vision). Unsurprisingly, the dispute between these two groups was over the topic of block sizes.
+
+In July 2018, Bitcoin ABC developer Amaury Sechet proposed an idea called Pre-consensus, which described a method for determining block size before the block arrived. The benefits would include providing a significantly stronger zero-confirmation guarantee compared to the one BCH has at the moment, plus allowing the network to scale better. Both Roger Ver and Jihan Wu of the mining company Bitmain supported this idea.
+
+Craig Wright, the chief scientist of NChain (and self-proclaimed Satoshi Nakamoto), was not in support of this idea and decided to create BCH SV with the goal of restoring “the original Satoshi protocol” by overwriting the network scripts of Bitcoin ABC and increasing the block size of BCH from 32MB to128MB.
+
+BitcoinCash (ABC) vs. Litecoin: Fundamentals
+
+The stories of how Litecoin and Bitcoin Cash emerged are fascinating, but if one wants to understand how these two cryptocurrencies compare, it’s imperative to dig deeper into their fundamental architecture and utility in the market.
+
+Here’s a chart of how BCH stacked up against LTC back when they first forked:
+
+Here’s how that compares to Bitcoin Cash vs. LiteCoin as of March 9, 2019):
+
+Functionality and Use Case
+
+As offspring’s of the Bitcoin blockchain, Bitcoin Cash and Litecoin share some similar features to the pioneer cryptocurrency, such as their use of the Proof-of-Work (PoW) consensus mechanism. However, there are more differences in their underlying architecture. For example, Litecoin uses segregated witness (SegWit), which is a process that increases the amount of space on a block by removing the signature data from transactions.
+
+The additional space created from the removal of the signatures allows for more transactions to be processed per block. Through SegWit, Litecoin was able to increase its block size from 1 MB to 4 MB. By contrast, Bitcoin Cash initially split from Bitcoin to increase their block size to 8 MB and has since increased it to 32 MB.
+
+When it comes to use cases, Bitcoin cash seems to have the upper hand, having developed more applications on its blockchain and also integrated with more decentralized services to spread the utility of its currency. Some of the apps developed on Bitcoin Cash’s platform include Memo Cash, a decentralized social media app like Twitter, Blockpress, a social media platform, and Centbee, a wallet that integrates users phone contacts.
+
+Litecoin, by comparison, doesn’t have as many applications. However, they do have Lite.IM, which allows users to send funds to each other via SMS without an Internet connection. Currently, this app competes with Bitcoin Cash’s CoinText and may end up achieving higher adoption due to its integration with Telegram, one of the largest messaging platforms in the world.
+
+Bigger Isn’t Always Better
+
+The most obvious benefit to having a bigger block size is that a blockchain network can support more transactions within the same timeframe.
+
+If increasing the block size is the best answer to the scalability problem, then why doesn’t every blockchain do it? Well, the simple reason is that bigger blocks are not always better. In some ways, increasing the block size may be insufficient for achieving scalability.
+
+For one, an increase in block size can put extra costs on users due to an increase in bandwidth, which may prove too much for people with slow Internet connections living in underdeveloped countries to handle. By increasing the disk space requirements needed to mine BCH, the network forces people to continue buying larger drives to accommodate the space. This requirement results in fewer miners being able to participate, which could ultimately lead to centralization.
+
+Furthermore, data from Bitcoin cash’s transaction volume shows that there isn’t enough transaction volume on the BitcoinCash network to make use of all that extra space provided by the increased block size.
+
+Despite being capable of managing 5,760,000 transactions per day, the Bitcoin cash network has only seen 9,695 transactions in the past 24 hours, which is just 0.16 percent of the transaction volume the network can support. By contrast, Litecoin has seen 21,411 transactions in the past 24 hours, which means it is making far more use of its block space than BCH.
+
+(Source: BitInfoCharts)
+
+(Source: BitInfoCharts)
+
+These are some of the main reasons why Bitcoin chose to focus on layer 2 scaling solutions like Lightning Network, which Litecoin has primarily concentrated on adopting in place of increasing block sizes.
+
+Transaction Volume and Speed
+
+Both coins are meant to serve as mediums of exchange, meaning that it should be easier to buy a cup of coffee with Litecoin or Bitcoin Cash than with Bitcoin. To find out which of the two coins is cheaper and faster to purchase a cup of coffee, BTCManager looks into each coin’s transaction volume, speed, and affiliated costs.
+
+When it comes to block processing speed, Litecoin has the upper hand with its ability to process a new block every 2.5 minutes, while BCH still takes ten minutes per block.
+
+This has an impact on transaction volumes, for which Litecoin’s volume over the past 30 days is $39,703,524,041, and Bitcoin Cash’s 30-day volume is just $9,270,619,602. A ranking of the average transaction speeds shows that Bitcoin Cash takes about 60 minutes to process a transaction, while Litecoin takes only 30 minutes.
+
+It’s not all bad news for BCH though. When looking at average transaction fees, it is Bitcoin Cash that provides a cheaper transaction at just $0.0043 compared to Litecoin’s $0.021. This is even more surprising when you consider the average transaction value, which for BCH is $29,011 and for Litecoin is only $3,545.
+
+(Source: BitInfoCharts)
+
+(Source: BitInfoCharts )
+
+We can see from the chart that for most of 2017 and 2018 it was Litecoin’s transaction fees that were cheaper. Only until November 2018 (around the time of the BCH hard fork that created BCHABC and BCHSV) did the BCH networks transaction fees start getting less expensive than Litecoin’s.
+
+Overall, LiteCoin tends to be more favorable for making smaller purchases (like a cup of coffee), but buyers end up saving more money when transacting larger volumes with BCH, especially as those cups of coffee start to pile up.
+
+Mining Profitability
+
+Litecoin uses the Scrypt hashing algorithm, while Bitcoin Cash uses SHA-256. These algorithms are applied to the hardware used to mining these cryptocurrencies.
+
+The SHA-256 algorithm creates hashes representing the data held in blocks on the blockchain. SHA-256 requires a higher hash rate, and due to the algorithms increased complexity it tends to be more accurate and secure than Scrypt, but also slower. This is why it takes ten minutes to generate new blocks on the Bitcoin and Bitcoin Cash blockchain.
+
+Scrypt, by comparison, is a much simpler hashing algorithm that requires a lower hashrate than SHA-256, which is why the Litecoin block time is only 2.5 minutes. It is, however, more memory intensive, and the shorter block time can lead to an increased number of blocks, which makes data storage expensive.
+
+Currently, Litecoin ranks ninth on the list of most profitable cryptocurrencies to mine, while Bitcoin Cash is ranked 10:
+
+(Source: CoinWarz)
+
+Public Perception
+
+When it comes to public perception, both of these cryptocurrencies could not be more different.
+
+While the Litecoin community has worked quietly over the years to carve its lane, the Bitcoin Cash community has been very vocal in its attempts to brand itself as the “true” Bitcoin. This move has unsurprisingly led to many clashes with the Bitcoin community and created tribalism in the broader crypto space.
+
+While some see BCH as a legitimate cryptocurrency forged out of a fundamental disagreement over whether Bitcoin should be a store of value or medium of exchange, others see it as nothing more than an attempt to exploit the name of Bitcoin to maximize profits, especially at the height of the crypto bull market in 2017.
+
+Among those who have publicly criticized BCH is none other than Litecoin founder Charlie Lee. In 2018 Charlie called out Roger Ver for his attempts to brand Bitcoin Cash as the new Bitcoin, using Bitcoin.com as the BCH home website and calling Bitcoin “Bitcoin Core.”
+
+Roger @rogerkver, please stop calling Bitcoin, Bitcoin Core. No one else does this. Both https://t.co/VKB9ZGgQk8 website and mobile wallet are misleading new users with this bullshit. And it is especially hypocritical coming from you seeing how upset you are with the name bcash. https://t.co/ufjJDqDW1W — Charlie Lee [LTC⚡] (@SatoshiLite) February 13, 2018
+
+This isn’t the only time that the leaders of BCH and LTC have publicly criticized each other, though most of the battle between these two cryptocurrencies tends to be fought through their development work and efforts to achieve market dominance.
+
+The Saga Continues
+
+The sibling rivalry between Litecoin and Bitcoin Cash is fascinating because it can be interpreted from a functionality perspective, as well as from a mission statement perspective.
+
+Litecoin’s ethos has always been to become the best version of Litecoin, never directly competing with Bitcoin. On the other hand, BitcoinCash’s mission has been to replace Bitcoin core and become “Bitcoin” in its purest sense.
+
+These differing approaches seem to affect the way each community tackles the problem of scalability. While Litecoin sees layer 2 scaling solutions as a more forward-thinking approach, BCH chooses the more conventional route of larger block sizes to stay as true to the original Bitcoin white paper as possible.
+
+From a usability standpoint, Litecoin is built to handle everyday transactions at a faster speed than Bitcoin Cash. However, Bitcoin Cash seems to have the upper hand as transactions get larger due to its large block size, which makes it possible to process greater transaction volumes for less cost.
+
+It’s too early to tell which strategy will be most effective in achieving widespread adoption. Yet regardless of how well one cryptocurrency outperforms the other over the coming years, at 1.68 percent and 1.78 percent market dominance, it’s safe to say that both Litecoin and BitcoinCash still have an uphill battle to climb before they can stand toe to toe with Bitcoin and achieve Satoshi’s vision of a peer-to-peer electronic cash system.

@@ -1,0 +1,59 @@
+DATE:  05.01.2019, 15:00:44
+TITLE: Are Stablecoins the New and Improved Bitcoin?
+URL:   https://singularityhub.com/2019/01/05/are-stablecoins-the-new-and-improved-bitcoin/
+
+PwC, the global consulting and assurance firm, recently signalled its entrance into the cryptocurrency world by announcing a partnership with decentralized lending platform Cred. Cred (previously Libra Credit) was founded by PayPal technology veterans and intends to produce an entire suite of crypto assets, including a US dollar stablecoin—a digital asset pegged to the price of the US dollar.
+
+What Is a Stablecoin?
+
+Over the past two years, there has been increasing interest in blockchain as a technology for data sharing and traceability in industries ranging from shipping to food to diamonds. There has also been a rush of initial coin offerings, a form of capital raising based on digit assets, with over $20.6 billion raised this year.
+
+With these different use cases competing for attention, it is easy to forget that the original application for blockchain technology was Bitcoin, the cryptocurrency described by Satoshi Nakamoto, in the now ten-year old white paper as “a peer-to-peer electronic cash system.”
+
+Bitcoin has turned out to be a highly volatile asset. There is no central bank for Bitcoin working to keep its value relatively stable, and the worth of one Bitcoin went from less than $1,000 at the start of 2017 to almost $20,000 in mid-December of 2017 before dropping back to around $6,500 today.
+
+The recent volatility of Bitcoin and other cryptocurrencies has made it much harder for them to be actively used as a payment mechanism. It’s difficult to imagine such an unpredictable asset being used to pay employee salaries, buy goods or services, or pay rent.
+
+But in addition to those examples, which today are managed fairly well by the traditional financial system, the demand for totally new forms of payment is increasing. Our devices will need to transact with each other, creating “thing-to-thing” payments, to effectively fulfill the function they were designed for, e.g. autonomous vehicles paying for charging, or artificially intelligent processes paying for computing power as needed.
+
+The friction inherent in the traditional payments system—the cost and time needed to make a transaction—makes it unworkable for these types of value exchanges. But a stablecoin, a digital asset pegged to the price of the US dollar or another currency, can enable these transactions. It offers many of the advantages of a cryptocurrency but without the volatility associated with Bitcoin.
+
+Stablecoins come in three broad flavors, each of which has unique advantages and risks.
+
+Traditional Asset-Backed
+
+The first, and to date most popular, type of stablecoin is one backed by traditional assets such as fiat currency or gold. For example, if a coin is pegged to the US dollar, then for each coin issued $1 is held in a bank account. Or if the coin is pegged to the price of gold, then for each coin issued there is a set amount of gold held in a vault.
+
+This type of stablecoin is relatively easy to create and understand. But the risks of a traditional asset-backed coin are related to trust and centralization. For the stablecoin to hold its value, the market must believe that the total number of coins on issue are backed 100 percent by traditional assets held. This requires trust in the organization backing the coin and leaves the coin vulnerable to fraud perpetrated either by or against that organization. In addition, the market needs to trust that in the worst-case scenario, stable coin holders can swap their stablecoins for traditional assets.
+
+Tether (USDT) is a stablecoin pegged to the US dollar. With a market capitalization of over $1.75 billion and daily trading reaching well above that, it is easily the most valuable and widely-used stablecoin in existence today.
+
+Concerns about Tether’s willingness to produce an audit of its bank accounts, persistent rumors of insufficient funds, and difficulties maintaining banking relationships have all contributed to some movements away from 1USDT = $1. Nevertheless, Tether has broadly maintained parity with the US dollar since it came into existence over three years ago.
+
+Crypto Asset-Backed
+
+Crypto-backed stablecoins are also reliant on the backing of another asset, but in this case the collateral is a cryptocurrency like Bitcoin or Ether. This type of stablecoin is less centralized than a traditional asset-backed coin because the crypto assets being held as security can be locked in smart contracts. These crypto assets are not subject to the same vulnerabilities as traditional asset collateral.
+
+However, crypto assets are highly volatile, so the stablecoin needs a way to retain its asset backing, and therefore its stability even during times when the value of the underlying assets falls dramatically.
+
+MakerDAO produces the stablecoin Dai, which is pegged to the US dollar. The MakerDAO smart contracts allow people to deposit Ether and receive Dai up to a maximum of two Dai for every US $3 of Ether deposited. If the value of the Ether deposited falls and approaches this maximum ratio, the owner of the smart contract is incentivized to increase the amount of Ether deposited–or risk having the contract taken over and closed out for them, along with an associated penalty fee.
+
+This mechanism has allowed Dai to keep broad parity to the US dollar since its creation in late 2017, even through the large falls in value of Ether in early 2018.
+
+Supply Algorithms
+
+The final type of stablecoin maintains its stability primarily by matching supply to demand. These are complex economic mechanisms, particularly for reducing supply if the price of the coin starts to fall.
+
+As a result, risk of the value of this coin decoupling from its peg is high,which happened this year with the US Dollar-pegged stablecoin NuBits. NuBits, created in 2014, is one of the oldest stablecoins in existence. In March of this year its value fell rapidly, dropping below 30 cents over the course of two weeks, and has continued to fall since.
+
+Growing Interest
+
+Over the past three years, payments company Circle, which holds a BitLicense from New York’s Department of Financial Services and an electronic money license in the UK, has raised over $240 million. These funds notably include a $50m round led by Goldman Sachs. In late September of this year, Circle launched USDC, a US dollar-pegged, traditional asset-backed stablecoin.
+
+Also in September, $15 million was invested by Andreessen Horowitz’s a16z crypto fund in MakerDAO, backing the stablecoin Dai.
+
+And finally, the recent announcement of the partnership between PwC and Cred opens up new possibilities for traditional asset-backed coins, with the addition of PwC’s risk management, audit, and governance expertise to this fledgling industry.
+
+Strong institutional interest now exists in across a range of stablecoins, and the race is on to see who can achieve mass adoption.
+
+Image Credit: lucadp / Shutterstock.com

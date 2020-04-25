@@ -1,0 +1,17 @@
+DATE:  08.07.2019, 14:39:25
+TITLE: Blockstream Green wallet now supports L-BTC
+URL:   https://www.cryptoninjas.net/2019/07/08/blockstream-green-wallet-now-supports-l-btc/
+
+Blockstream, the blockchain and bitcoin development company, has announced that its recently launched premium bitcoin wallet Blockstream Green, now supports its Liquid Network across both iOS and Android (and coming soon to desktop).
+
+Liquid is an inter-exchange settlement network linking together cryptocurrency exchanges and institutions around the world, enabling faster Bitcoin transactions and the issuance of digital assets.
+
+Issued Assets
+
+In addition to L-BTC, Blockstream Green also supports Issued Assets. Users of tokenized assets like tokenized fiat (stablecoins) and securities can use Blockstream Green to take full custody of their tokens and transact with other Liquid users peer-to-peer.
+
+L-BTC
+
+To send L-BTC transactions, users will first need to acquire some L-BTC. Once in possession of L-BTC, users will need to connect to the Liquid Network and create a Liquid wallet in Blockstream Green.
+
+Finally, users will then be able to send their L-BTC to a Blockstream Green Liquid wallet address, as they would with any Bitcoin transfer. The L-BTC should arrive within minutes. Note, To swap L-BTC back to BTC, use Sideshift (early access), swap with a friend, or peg-out with a participating Liquid member exchange.

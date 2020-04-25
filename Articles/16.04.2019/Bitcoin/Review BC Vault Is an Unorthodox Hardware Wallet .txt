@@ -1,0 +1,43 @@
+DATE:  16.04.2019, 16:22:47
+TITLE: Review: BC Vault Is an Unorthodox Hardware Wallet With a Random Key Generator
+URL:   https://news.bitcoin.com/review-bc-vault-is-an-unorthodox-hardware-wallet-with-a-random-key-generator/
+
+Review: BC Vault Is an Unorthodox Hardware Wallet With a Random Key Generator
+
+One of the biggest responsibilities of cryptocurrency owners is safely storing their digital assets. Over the last few years, hardware wallets have become an extremely convenient security solution that has helped in this regard. The BC Vault is a new hardware device with a number of distinctive features.
+
+Also read: The Struggle to Buy Bitcoin in Crypto-Starved Botswana
+
+The BC Vault Isn’t Like All the Rest
+
+The BC Vault (short for Blockchain Vault) is a new hardware wallet that was designed by a Slovenia-based firm called Real Security Inc. Its creators believe that the BC Vault is “the safest way to store your cryptocurrencies,” refusing to even refer to the gadget as a wallet. “Wallets are for pocket money and vaults are for safekeeping,” Real Security asserts. The BC Vault costs $155 plus VAT for EU customers and the firm will ship to customers around the world. My BC Vault arrived this weekend in a box sealed with tamper-resistant holographic tape which I removed after inspection with a pocket knife.
+
+Inside the box is a piece of paper that explains the BC Vault setup process and the device itself which sits in a foam enclosure. Under the device is a few stickers and a long USB cord to attach the BC Vault to a computer. One end of the cord is a traditional USB insert, but the other side of the cord that fits into the device itself is the new USB-C standard. The machine is similar in size to the Keepkey wallet but has a four-way control pad and a 2.42 inch OLED screen. The USB connection is also taped over with tamper-resistant tape which needs to be peeled off gently. The D-pad reminded me of an old Sega Genesis controller. The USB-C cord, as is customary with devices of this nature, needs to be inserted with a forceful push.
+
+It was after plugging the BC Vault in that I observed just how different the device is compared to other hardware wallets. This is because the BC Vault generates each wallet with a random number generator (RNG) which uses an integrated gyro sensor. The process obliged me to shake the Vault for at least a minute and a half in order to begin the setup process. The scheme is similar to moving your mouse around or typing random keys in order to create a paper wallet. Essentially, the RNG mechanism inside the device created my private key after I’d shaken the device enough and from there I proceeded to the Vault’s quickstart guide.
+
+The guide offers standalone software for Linux, Mac OS, and Windows. The application I downloaded for Mac OS was around 29.9 MB in size and the process took only took a minute. I was prompted to use my computer’s administrator password for the install and the software wound up taking around 62 MB of disk space. After launching the software, you will be asked to agree to an end-user license agreement.
+
+Unlike the Trezor or Ledger, the BC Vault does not use an unencrypted BIP39/44 seed phrase, instead opting for a global password, PIN, and encrypted backup. In order to back up the funds, the device gives the option of saving encrypted wallet data on an SD card or backing up the encrypted wallet data by printing out a series of QR codes. Competitors use hierarchical deterministic wallets which means the funds and addresses can be traced back to the seed.
+
+BC Vault claims it brings higher security to the table because the non-deterministic wallets on the device cannot be mathematically linked. While browsing the software I noticed I can add a variety of different digital currencies, with bitcoin core (BTC) available by default. BC Vault can hold BTC, BCH, ETH, DASH, XRP, LTX, XLM, DOGE, and all of the ERC20 tokens that stem from the Ethereum network.
+
+An Integrated Gyro Sensor, Random Key Generation, and Encrypted Backups Provide a Different Approach to Security
+
+The BC Vault device I received was built well and the seed creation by shaking the RNG was an interesting experience. The product reminded me of a cross between Shapeshift’s Keepkey and the Swiss-made Digital Bitbox because of the SD card backup. The BC Vault does come with an micro SD card, which is located next to the USB insert slot. The standalone software was also a nice change to having to use a Chrome extension.
+
+Similarly to the Trezor model T and the Keepkey, I found that inserting the cord needs a forceful push. The BC Vault will actually make a clicking sound so you will know the device is securely connected. The wallet interface worked well and things like network fees can be customized. The BC Vault dashboard allows the user to switch from legacy BCH addresses to Cashaddr address formats within the wallet interface. (*this article was updated to reflect that BC Vault does, in fact, support the Cashaddr address format as well as legacy addresses.)
+
+The BC Vault is fairly intuitive to use and a beginner could master this wallet without much difficulty. Even though the device doesn’t use a mnemonic seed, users must remember to back up the encrypted key on the micro SD card or print out the QRs for recovery purposes. If the global password, PIN, and encrypted backups are lost, the funds held inside the BC Vault can never be retrieved.
+
+Overall, the BC Vault, much like the simple Bitbox, offers cryptocurrency users something different and people may enjoy the alternative security aspects it incorporates. A built-in random number generator definitely sets the BC Vault apart from the rest of the hardware wallets on the market.
+
+What do you think about the BC Vault? Let us know what you think about this device in the comments section below.
+
+* This article was updated at 5:46 p.m. EST to reflect that the BC Vault does supply a micro-SD card and the BCH wallet can switch between the legacy address format and the new Cashaddr address format.
+
+Disclaimer: Readers should do their own due diligence before taking any actions related to the mentioned company, software or any of its affiliates or services. Bitcoin.com or the author is not responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article. This editorial review is for informational purposes only.
+
+Image credits: Jamie Redman, and BC Vault.
+
+Now live, Markets.Bitcoin.com: A comprehensive, real-time listing of the cryptocurrency market. View prices, charts, transaction volumes, and more for the top 500 cryptocurrencies trading today.

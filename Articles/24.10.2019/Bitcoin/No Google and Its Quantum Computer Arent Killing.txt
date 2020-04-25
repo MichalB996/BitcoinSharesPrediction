@@ -1,0 +1,39 @@
+DATE:  24.10.2019, 14:18:07
+TITLE: No, Google and Its Quantum Computer Aren't Killing Bitcoin Anytime Soon
+URL:   https://www.inc.com/eric-mack/no-google-its-quantum-computer-arent-killing-bitcoin-anytime-soon.html
+
+Google made it official this week with a publication in the respected journal Nature outlining its claim of "quantum supremacy." Put simply, the company says its Sycamore quantum chip was able to perform a calculation that would be practically impossible for a conventional supercomputer to crack in a reasonable amount of time.
+
+If the claim bares out, it has potentially profound implications in the long term, with an exponential leap in computing power enabling major breakthroughs in everything from medicine to engineering and artificial intelligence.
+
+But it could also put a powerful new tool in the hands of hackers and criminals, and some fear blockchain-based cryptocurrencies like Bitcoin and the rest could be easy targets.
+
+"A powerful enough computer, similar to Google's quantum computer, could solve these classical equations quickly enough to crack not only bitcoin but also the encryption that the internet is built on," crypto and blockchain columnist Billy Bambrough writes for Forbes.
+
+Meanwhile, this week Bitcoin's price has been tanking to its lowest lows in the past five months. It's unclear if this has to do with Google's quantum supremacy claim, which first leaked last month, or with Mark Zuckerberg and Facebook's plans for its own "Libra" currency getting grilled in Congressional hearings.
+
+Either way, the worries that quantum computers will soon break Bitcoin, blockchain, the internet and everything else worth loving in the world may be overheated, at least in the short-term.
+
+See, the title of quantum supremacy comes with some pretty big caveats. First off, IBM was quick to push back on Google's claim that it would take a classical supercomputer 10,000 years to perform the same computations that Sycamore did in just a few minutes. IBM says it could be done with conventional supercomputers in under three days.
+
+That's still a hefty quantum advantage, but far from the mind-melting supremacy claim Google was making.
+
+Second, the calculations Sycamore performed were custom conceived for the purpose of achieving quantum supremacy. It was a type of problem that quantum computers have an advantage in solving, but that has little practical application.
+
+"It means nothing because Google's quantum breakthrough is for a primitive type of quantum computing," said blockchain developer Peter Todd on Twitter. "We still don't even know if it's possible to scale quantum computers."
+
+Real-world applications are still likely decades away, something that's even pointed out in a Nature article that accompanied the publication of Google's paper.
+
+Somewhat ironically, Scott Aaronson, a theoretical computer scientist at the University of Texas at Austin who assisted in the peer review process of Google's paper for Nature, says the experiment used to prove quantum supremacy could actually be useful in cryptography and cryptocurrencies.
+
+"The benchmark task we demonstrate has an immediate application in generating certifiable random numbers," the paper reads. Confirming the randomness of such values could have application for blockchain.
+
+Still, most blockchain boosters have more concern than enthusiasm for the advent of quantum computing. Money has been pouring into initiatives in recent years from the likes of the National Research Council of Canada and UK government that could eventually help develop quantum-safe blockchain technology.
+
+Cryptographers are working to develop both new, quantum-resistant blockchains as well as adaptations and updates for existing ones.
+
+So if you're thinking of adding a cryptocurrency or blockchain component to your business and all this quantum supremacy news has you second-guessing, don't. At least not for a while. Blockchain, the internet and all the other facets of society that classical computers and cryptography have given us aren't going anywhere.
+
+But do keep an eye on that coming quantum revolution that's just become visible on the distant horizon.
+
+The opinions expressed here by Inc.com columnists are their own, not those of Inc.com.

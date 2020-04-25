@@ -1,0 +1,35 @@
+DATE:  29.11.2019, 10:15:16
+TITLE: Counter-terrorism expert makes scary prediction about Bitcoin
+URL:   https://decrypt.co/12593/counter-terrorism-expert-makes-scary-prediction-about-bitcoin
+
+When Andersen Cheng, CEO of London-based cryptography company Post-Quantum, said that quantum computing technology could break crypto within three years, he wasn’t joking.
+
+Cheng’s exigence comes from his knowledge of the intelligence community. His company, Post-Quantum, has worked on top-secret counter-terrorism departments of organizations including Nato, GCHQ, and NCSC, and he’s the former head of TRL, which was the leading counter-terrorism technology supplier to the UK government.
+
+Using quantum computers, hackers could, Cheng told Decrypt, hijack a victim’s private keys and use them to fraudulently validate transactions. Since blockchains have no middle-man to determine which transactions were made fraudulently, the whole thing falls apart.
+
+“The entire digital currency world is based on trust and the security of private key signing. If that trust is gone, then the value of your Bitcoin will to zero, immediately,” Cheng said.
+
+Cheng’s deadline for crypto is noticeably more urgent than warnings from other industries. In a previous piece, Stewart Allen, the CEO of quantum computing company IonQ told Decrypt he expected that quantum computing might cause problems for blockchain in a decade; Danny Ryan, a core researcher at Ethereum, estimated 20 to 30 years.
+
+But Ryan and Allen are from the US, a nation Cheng said is lagging the rest of the world in its quantum computing industry. When US President Donald Trump put $1 billion in quantum research in late 2018, China spent $10 billion on a quantum research lab a year earlier. Speaking of sources from within the British intelligence community—a nation Cheng said is at the forefront of development—Cheng said, “I have heard from more than one party in my community [that quantum computing will become a threat] in less than five years.”
+
+Cheng is quick to clarify that those who estimate the quantum threat to be decades away make their assumptions based on what is known of commercially available quantum computers, like Google’s recent announcement that it created a computer capable of computations faster than even the most powerful supercomputer, an event known as quantum supremacy.
+
+Instead, Cheng speaks of the dangers posed by secret government projects, which can be purpose-built to solve a specific problem—like encryption—without concerns of commercial viability. “It can be the size of the football stadium, underground somewhere in the lab with all kinds of bandages around it. As long as it can start cracking encryption, who cares?
+
+“Those guys never want to launch it. They will always want to keep quiet about it. Why would they tell the world that they got it working when they can start cracking the communications between the US and the UK, or the stock exchange trading information, or Bitcoin transfers,” he said. By the time the commercial world’s heard about it, it’s probably too late.
+
+
+
+
+
+Former US Navy signal officer Rob Campbell told Decrypt the quantum threat is one of the highest priorities for national security agencies worldwide. “There is hardly anything more important. It is like the 1950s race to the moon,” he said. Like Cheng, he now works in the commercial sphere—he heads Baltimore, Maryland-based Med Cybersecurity. But his experience in the intelligence world has led him to believe that quantum supremacy has already been achieved by states, prior to Google's announcement.
+
+Campbell points to the NSA’s requirement that vendors would deliver quantum-safe solutions by 2015, and the amount of money governments worldwide are putting into quantum-computing laboratories, such as China’s $10 billion quantum fund.
+
+Blockchain’s best defense against quantum computers is the development of cryptographic encryption techniques that are resistant to powerful quantum computers. A competition run by the US’s National Institute of Standards and Technology is underway to work on a fix, though it could take years until a solution is reached.
+
+Until then, Cheng’s not taking any chances. He said he prefers paper bank statements to digital ones. “If [the bank] got hacked and if people no longer know their bank balances, at least I will be the first in the queue with the paper statements.”
+
+Cheng once mentioned this at a roundtable with a senior executive from the FCA, head of procurement of a large investment bank, and the CTO of a stock exchange. Turns out they all use paper statements, too.

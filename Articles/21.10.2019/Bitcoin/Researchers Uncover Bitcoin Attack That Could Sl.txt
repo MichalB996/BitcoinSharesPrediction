@@ -1,0 +1,73 @@
+DATE:  21.10.2019, 08:00:03
+TITLE: Researchers Uncover Bitcoin ‘Attack’ That Could Slow or Stop Lightning Payments
+URL:   https://www.coindesk.com/researchers-uncover-bitcoin-attack-that-could-slow-or-stop-lightning-payments
+
+The bitcoin lightning network could be vulnerable to a simple and disruptive attack, according to a recent research paper.
+
+Written by Saar Tochner, Aviv Zohar, and Stefan Schmid, the paper describes a denial-of-service (DoS) attack that could be used to slow down or even stop a huge percentage of payments on the network and, although the behavior hasn’t been seen in the wild and lightning’s technology is still in-progress, it’s considered a major flaw in the network as it stands today. The paper, entitled “Hijacking Routes in Payment Networks,” was published in mid-September.
+
+Tochner and Zohar both hail from the Hebrew University of Jerusalem while Schmid works at the University of Vienna.
+
+“The attack allows for a disruption of payments on the lightning network,” said Zohar.
+
+This is possible because each lightning network payment is passed across a network of nodes in order to reach its destination. If one of these middle nodes is a bad actor it can slow the payment down rather than swiftly pass along the payment as it’s supposed to.
+
+What’s more, it currently doesn’t take much to execute the denial of service attack, according to Zohar.
+
+“It is extremely easy to execute. It takes opening a few lightning channels to key points, promising zero fees, and then not relaying any payments,” he said.
+
+It’s an attack that the researchers haven’t seen in the wild, but it could potentially make the lightning payment network more difficult to use. And it’s a discovery that has gotten the attention of developers who work on bitcoin and lightning.
+
+“I wish I had thought of the attack,” bitcoin researcher Gleb Naumenko told CoinDesk.
+
+“The paper is very interesting, so is the analysis of the different heuristics used for path-finding, and we’re very happy to see independent researchers work on how lightning can be abused and attacked,” said lightning startup Acinq CTO Fabrice Drouin.
+
+‘Amplified’ denial of service
+
+When a user sends a payment across lightning, their app decides which path to take based on many factors, including which node requires the lowest fees.
+
+Though there are hundreds of nodes in the lightning network, a bad actor can use this attack to make sure there’s a high probability that their node will be selected. They can do this by “analyzing how each implementation computes routes to design a strategy that enables attackers to get their nodes selected in as many routes as possible,” said Drouin.
+
+“We can open channels that offer short and low-cost routes in the network which then are selected (almost always) for the route,” Zohar further explained.
+
+By doing this, they can capture a significant portion of the network’s payments at a given time. “We find that just five new links are enough to draw the majority (65% – 75%) of the traffic regardless of the implementation being used,” the paper explains.
+
+What’s more, they can do this over and over again to ensure the payment keeps getting stopped.
+
+“Then, when a payment request comes in, we can just refuse to pass it onward. When a new path is selected […] the attacker channels are again selected for the route,” Zohar said.
+
+As bad as the attack sounds, it hasn’t appeared in the wild – yet.
+
+“I think the network is just not in heavy use right now and disrupting it does not cause too much damage. The attack does not directly give funds to the attacker, so the incentive will only be there if lightning is heavily used as a payment network,” Zohar said.
+
+It should be noted that, for the attacker, such a maneuver is “not cheap,” Drouin argues, because “attackers need to open actual channels and lock funds, which will get closed and pay on-chain fees whenever a payment is locked and times out.”
+
+Still, Zohar argues it’s “not that expensive, given the damage you do,” adding: “You’d need around 20 or so new channels to attack some 80% of all transactions, so the total cost would be around $2000.”
+
+Stopping the attack
+
+Lightning developers agree this is a serious attack vector but they are optimistic that future changes will make the attack much harder.
+
+“It’s something [that’s] hard to talk about because we are still developing the pathfinding system in LND and it’s a moving target,” said Alex Bosworth, who is the infrastructure lead at Lightning Labs.
+
+LND is an implementation of lightning network made by Lightning Labs. Bosworth further noted that changes are coming in fast, and that the new version of LND that just came out on Tuesday, for example, has some “major changes” that impacts the routing analyzed by the researchers to come up with this attack.
+
+“I wouldn’t say that there is any way to conclusively stop people who are trying to disrupt payments because this is a system where the peer-to-peer design means that anyone can participate and route or not route as they prefer,” he said.
+
+‘Trampoline’ payments
+
+The lightning code is changing very rapidly and there are plenty of modifications still in the pipeline.
+
+Some of these changes could make it a lot harder for bad actors to execute an attack, lightning developers argue, including system for banning “bad” users.
+
+“Also, as the network grows, lightning network implementations will deploy more aggressive heuristics to ban misbehaving peers … and such attacks will become more an more short-lived,” Drouin said.
+
+“For example, we don’t just look at the cheapest fees when we compute routes, we try to select older channels, so an attacker would have to wait and behave before they can carry out the attack,” he said.
+
+Drouin further argued that there are other improvements forthcoming including trampoline payments, a feature proposed by Blockstream lightning developer Christian Decker, who was known for independently inventing a payment channel network similar to lightning in 2015.
+
+Lightning is supposed to be instant but behind the scenes each node in the network carrying a payment from point A to point B needs to do a little computation as it carries the data. In fact, not all lightning users have equipment that’s powerful enough to perform these calculations, thereby requiring the “trampoline” system.
+
+The typical user in today’s network might send a bitcoin payment from a smartphone, for instance, which isn’t exactly a powerful machine. So one idea is to allow these smaller nodes to outsource computation to “trampoline” nodes that have more computational power.
+
+Fibre optics image via Shutterstock

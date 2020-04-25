@@ -1,0 +1,61 @@
+DATE:  16.04.2020, 18:46:12
+TITLE: Wallet balances on Bitcoin's Lightning Network aren't private, new report says
+URL:   https://decrypt.co/25800/wallet-balances-on-bitcoins-lightning-network-arent-private-new-report-says
+
+How easy is it to reveal people's wallet balances on Bitcoin’s Lightning Network?
+
+The Lightning Network, a second-layer technology stack built atop Bitcoin, is typically billed as a transaction speed and privacy upgrade for Bitcoin. Think instant settlement instead of having to wait 10 to 60 minutes for confirmation. On the privacy front, payments are settled peer-to-peer with actors on the secondary network. Since the transactions aren’t immediately settled on Bitcoin’s primary network, they're never publicly stored. That gives people the perception that, as a side effect, Lightning can actually make Bitcoin more private, too.
+
+But new research shows that Lightning has some easily exploitable privacy gaps—ones that could actually be used to improve the protocol, if leveraged correctly.
+
+The researchers and their research
+
+The research is published in a digital archive of computer science research maintained by Cornell University and overseen by professors Alex Biryukov of the University of Luxembourg and Mariusz Nowostawski of the Norwegian University of Science and Technology. The inspiration for the research comes from University of Luxembourg PhD candidate, Sergei Tikhomirov, who is focusing on privacy and security aspects of cryptocurrencies. Rene Pickhardt, the final member of the team and a PhD candidate at the Norwegian University of Science and Technology, is an entrenched member of the Bitcoin and Lightning network researcher and developer community, with hundreds of commits to Lightning Network-related projects on Github.
+
+In their findings, the four researchers were able to prove this claim in the paper by “probing” channel balances (i.e., user accounts on the Lightning Network) to discover how much Bitcoin each channel held.
+
+You can send payments over the Lightning Network in one of two ways: a direct payment (through a bidirectional payment channel) or with a routed payment (an indirect payment that must have one or more intermediaries). For example, if Bob had a channel open with Alice, they could easily send payments to each other. But if Bob wanted to send a payment to Mallory (and she doesn’t have a channel open with Mallory but Mallory has a channel open with Alice), then Bob can “route” the payment through Alice. Bob would send a payment to Alice, who would then send it to Mallory—this is referred to as “routing.”
+
+To unmask channel balances, the research team “probed” Lightning Network channels on Bitcoin’s Testnet by sending payments of varying sizes to different actors on the network.
+
+How the exploit works
+
+As Sergei Tikhomirov, one of the researchers whose PhD studies on cryptocurrency privacy and security spurred the study, explained to Decrypt:
+
+“We send payments of different sizes and determine the distribution of funds in each channel. Say, there is a channel between Alice and Bob. Alice has 3 coins, and Bob has 7. Mallory doesn’t know this balance, she only knows that they have 10 coins in total capacity. First, Mallory sends a payment of 5 coins. This doesn’t go through, because Alice doesn’t have enough coins on her side. From that, Mallory concludes that Alice has between 0 and 5 coins. Then, Mallory sends 2.5 coins, and now the payment goes through. From that, Mallory concludes that Alice has between 2.5 and 5 coins. Repeating this process, Mallory discovers Alice’s balance (and Bob’s balance as well, as they sum up to a known value) with a high accuracy.”
+
+It’s important to note that Lightning Channel balances are shared. When Molly opens a channel with Angela, for example, they both might deposit 1 BTC each. If Molly paid Angela 0.5 BTC, then the “state” of the channel balance would update, but the Bitcoin itself stays put. Angela has a claim on those 0.5 BTC, so the channel balance is now 1.5 BTC for Angela and .5 for Molly. Like a bar tab, settlements on Lightning are deferred, so Angela will receive her 1.5 BTC on chain when the channel closes.
+
+Since channel balances are (sort of) shared and final settlement comes later, this can cause issues for routing. For instance, in Tikhomirov’s example, when Mallory tries to send Bitcoin to Bob through Alice, she can’t send more than 3 BTC because of Alice's “outbound” capacity, or how much she is able to send. Alice and Bob’s channel has 10 BTC in total, of which 3 are Alice’s and 7 are Bob’s; since Alice only has three total BTC in this channel, she cannot send more than 3 BTC. (Remember: payment channels only go two ways, so routing a payment requires enough intermediaries to provide a “route” for the payment).
+
+Both outbound capacity and “inbound” capacity (how much BTC you can receive, based on the capacities of the peers in your payment channels) present significant obstacles when a payment is searching for a route. Some of the nodes supporting the Lightning Network are private, so they don’t share information or connect with other nodes, which could open up routes for otherwise dammed-up payments.
+
+Striking a Balance
+
+This is the crux of the problem, the team reported. How do you improve routing without compromising privacy, and vice versa? If nodes stay private, they can’t provide liquidity for routing; but the more public they become, the easier it becomes to reveal their balances.
+
+“It seems unlikely though that we can achieve the best privacy and the best routing efficiency at the same time,” Tikhomirov said. “Having to trade off efficiency for security/privacy is not a novel problem: fundamentally, systems are made efficient by handling different tasks in different ways, which reveals information about those tasks.”
+
+A few work arounds
+
+There are a couple of solutions, according to the team, but none without tradeoffs. One involves changing Lightning Network’s routing structure to allow intermediary nodes (rather than the sender’s node) determine a payment’s route. This would boost routing efficiency at the expense of privacy, though. The other solution is to have nodes send back modified data to fool attackers, but this would be very computation heavy and sacrifice routing efficiency.
+
+Another of the researchers, Rene Pickhardt, told Decrypt that his Just In Time Routing proposal (a mechanism that would mitigate routing problems) could also help here, something he wouldn’t have discovered if Tikhomirov hadn’t invited him to conduct research. This proposal could actually help improve privacy, too, as Pickhardt mentioned that JIT routing could be “defining a sweet spot.”
+
+Pickhardt emphasized that this attack doesn’t exactly have to be seen as a negative. If an entity used this technique to probe balances, it could provide data on optimal pathways for routing. This would be a boon for companies that provide lightning network services, likes wallets, node hosting providers and payment portals.
+
+Tikhomirov agreed, and he added that, since this vulnerability exists, users should know it exists to protect themselves and also take advantage of the exploit when it offers benefits.
+
+“Our idea is that we should either protect this information properly or acknowledge the fact that it is public and make use of it. Ideally, each LN user should be able to make this choice individually,” he told Decrypt.
+
+The privacy security trade off
+
+“In a decentralized cryptocurrency, privacy is of a very high importance,” he continued. “So we hope that LN efficiency is improved insofar that it doesn’t facilitate surveillance and censorship similar to what happens in centralized financial systems. We hope that research like ours helps make well grounded decisions regarding protocol modifications, and provide users with honest information on what they can and can’t expect.”
+
+Indeed, some unaware Bitcoiners might expect the Lightning Network to be private, but as this research suggests, channel balances can be anything but. And while this paper didn’t touch on IP address privacy, public Lightning nodes and use of the gossip protocol for routing have made IP anonymity a moot point, as well.
+
+The Lightning Network enjoyed steady business and infrastructural growth in 2019. Pickhardt said he hopes all of this investment doesn’t overshadow “fundamental research” into the protocol itself. Seed investments and series As are great, no doubt, but none of this money matters if it goes to build products on a network that can be frustrating to use.
+
+The team behind this research is optimistic that it will improve. But to do that, developers need to tinker and computer scientists need to research. Maybe then we can see the improvements necessary that allows us to scale routing and improve transaction anonymity without making compromises.
+
+Until then, though, you might want to learn how to set up a direct lightning channel if you want you want to stay low key.

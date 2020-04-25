@@ -1,0 +1,27 @@
+DATE:  26.03.2020, 16:10:44
+TITLE: Bitcoin coders work on “statechains” for cheaper payments
+URL:   https://decrypt.co/23620/bitcoin-announces-statechains
+
+A team of Bitcoin developers yesterday announced that they are starting to implement the “statechains” concept—a way for people to bypass transaction times and costs by sending each other private keys instead of transferring Bitcoin between wallets.
+
+Of course, if you were to hand over your private key to a Bitcoin wallet to your intended recipient, then you’d be able to keep a copy of that key, so you wouldn’t have been handing over the exclusive rights to that Bitcoin at all.
+
+Handing over private keys might sound foolish, but statechains is a novel idea. Image: Shutterstock.
+
+But if you first move that Bitcoin to the statechain, everything changes. You introduce a neutral third party into the mix, one who ensures the handover of the private key of the statechain Bitcoin wallet in such a way that only the recipient has access to the private key.
+
+For this statechain transaction to occur, both the sender and the neutral party must give the transaction the green-light at once. They’ll only do so if the recipient asks them to.
+
+The idea has been knocking about since October 2018, when developer Ruben Somsen unveiled the idea at a conference in Tokyo. But Somsen’s concepts would require “features not currently available in Bitcoin,” according to Tom Trevethan, CTO of blockchain company Commerce Block, whose team is implementing the concept.
+
+Trevethan has started to work on a modified version of the concept that “would work with current Bitcoin functionality.” He’s not sure exactly how it would work just yet, and wrote on the Bitcoin developer mailing list that he’s looking for “some feedback.”
+
+Joining the fight
+
+Trevethan is not the first to consider ways to make the increase the efficiency of sending Bitcoin and reduce transaction costs. The Bitcoin Lightning Network, another payment network that sits atop the Bitcoin blockchain, was launched in 2018.
+
+It works by letting users send money to each other without first requiring these transactions to be verified on the Bitcoin blockchain.
+
+Instead, the network quickly performs brief verification checks about the transactions—just enough for the transaction to take place—and completes the settlement later on.
+
+Trevethan added that the statechains will be compatible with the Lightning Network.

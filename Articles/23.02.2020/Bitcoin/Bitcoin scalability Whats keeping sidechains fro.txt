@@ -1,0 +1,27 @@
+DATE:  23.02.2020, 13:00:59
+TITLE: Bitcoin scalability: What’s keeping sidechains from mass adoption?
+URL:   https://eng.ambcrypto.com/bitcoin-scalability-whats-keeping-sidechains-from-mass-adoption/
+
+“It’s hard to make complex changes to Bitcoin’s base layer,” said Adam Back, the CEO of Blockstream and a cypherpunk. Back, who appeared on the latest edition of Citizen Bitcoin Podcast, said that since it’s hard to add desirable features to Bitcoin’s base layer, adding that he shifted his focus to make Bitcoin more modular so that Bitcoin can have different opt-ins like security, where one could have different features. “And that is where the sidechain concept came from,” he said.
+
+It has been a decade since Bitcoin’s inception and the age-old debate still continues. When is Bitcoin sidechain likely to see significant adoption and when is the issue of scalability likely to be solved? An excerpt from the book Token Economy written by Shermin Voshmgir read,
+
+“One of the greatest challenges of a distributed consensus like “Proof-of-Work” is that it makes the network safe, but slow. This is due to the trade-off between all dominant attributes of blockchains: decentralization, security, and scalability. Scalability is a big issue when it comes to evaluating the feasibility of tokenized use cases and the future of a token economy.”
+
+Many solutions have been proposed to make transactions faster and cheaper, while addressing the scalability issue plaguing the Bitcoin network. Sidechain is one of them, one in which user interaction is moved out of the blockchain, to a second layer, allowing a number of different blockchains to run in parallel.
+
+Sidechain was touted as the new architecture capable of solving Bitcoin’s scalability issues. In fact, Chainalysis’s data had revealed that 90% of Bitcoin activity is related to exchanges. And the fact that Bitcoin’s economic activity continues to be dominated by exchange trading was something that was revealed by Kim Grauer, Senior Economist at Chainalysis.
+
+The main theory here is that most of the Bitcoin movements are happening on exchanges, i.e., going through regulated entities. Since both parties are already trusted, it is not necessarily important to execute transactions on-chain since it is a costly affair.
+
+However, it appeared that crypto-exchanges do not mind paying high transaction fees as both Lightning Network, as well as Liquid, aren’t as well-adopted as expected. While LN’s adoption has been stagnant for a while, Liquid’s adoption surged significantly only in December 2019.
+
+On a positive note, DeFi Pulse’s chart recorded slow, but steady figures, in terms of the total value locked in the Lightning Network. It recently hit $9 million, a level unseen since September 2019.
+
+Source: DeFi Pulse
+
+But, what is keeping the adoption of the sidechain? This could be due to several trade-offs that sidechains come with. In line with this, Back said,
+
+“I think the reason that it would be desirable to have fungibility and privacy in the base layer is that we don’t have a way to fully provide a similar level of security to sidechains. so there is some kind of security trade-off inherent sidechain today but might be fixable in the future.”
+
+That being said, many industry commentators have speculated that 2020 would be the year for Liquid sidechains, developed by blockchain technology firm Blockstream. In fact, just recently, Dubai-based cryptocurrency platform BTSE expressed its intention to use the Liquid Network Bitcoin sidechain created by Blockstream to raise $50 million.

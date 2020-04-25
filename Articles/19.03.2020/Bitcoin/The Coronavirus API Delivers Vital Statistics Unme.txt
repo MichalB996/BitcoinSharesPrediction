@@ -1,0 +1,59 @@
+DATE:  19.03.2020, 18:05:36
+TITLE: The Coronavirus API Delivers Vital Statistics Unmediated by Government Hands
+URL:   https://www.coindesk.com/the-coronavirus-api-delivers-vital-statistics-unmediated-by-government-hands
+
+The COVID-19 pandemic arrives as Americans' trust in institutions is faltering.
+
+According to a January 2019 Pew Research Center survey, only 35 percent of adults have a great deal or a fair amount of confidence in elected officials to act in the public’s best interest, while fewer than half trust corporate or media leaders.
+
+Further, while 68 percent had a mostly favorable view of medical research scientists, only 16 percent of those surveyed said they “know a lot” about what these researchers do.
+
+Medical research is vitally important to stymie the spread of the coronavirus. After the Centers for Disease Control and Prevention (CDC) was slow to test early and broadly, the U.S. is on its way to surpassing China in reported COVID-19 cases, two and half months after the initial outbreak.
+
+This is largely because quality information relating to the viral spread and its potential community impacts is difficult to come by and, when presented by the media or governments, is often untrusted.
+
+Enter Danny Yang and Susan Joseph's new project, CoronaVirus API, an effort to disintermediate data from the traditional sources of information. The website collects, collates and presents the most recent figures on the virus’ spread through all 50 states. Using a web scraping bot to gather information from relevant government sources, CoronaVirus API is a decentralized solution to presenting people with information they could grow to trust.
+
+The CDC is not reporting enough data in a timely manner
+
+“The CDC is not reporting enough data in a timely manner,” Yang said in a phone call. “First, they need to provide transparency in getting data out there.”
+
+This isn’t to say Yang’s site is a replacement for the CDC’s announcements, but a way to push out real-time figures, rather than waiting for a centralized bureau to make an announcement. “The CDC is often a day behind in reporting the official state statistics,” Yang said.
+
+In fact, the CDC states that "since states are testing and reporting their own results, CDC’s numbers are not representative of all testing being done nationwide."
+
+The CDC did not respond to a request for comment by press time.
+
+Danny Yang
+
+Yang’s permissionless data aggregator scrapes government websites, which in turn rely on infection, recovery and death statistics provided by local hospitals to states as required by many state public health laws. Nearly three-quarters of Americans trust their medical professionals, according to PEW. Now, CoronaVirus API has created a more direct line to these official numbers.
+
+“Right now, there are zero ways for states to aggregate information from other states, which slows coordinated efforts to protect the public,” Susan Joseph, Yang’s legal counterpart and partner, said in a phone call. "You can use data as a lifeline to plan in real time and help protect yourself, your community and state."
+
+Yang, a self-described “data guy” and founder of the block explorer (a tool that helps people examine blockchain transactions) Blockseer, said his unofficial and unverified workaround is also attempting to provide transparency in the age of Trump.
+
+Joseph is an attorney and blockchain consultant specializing in digital assets and insurance, and has worked with global insurance consortia, enterprise, and the World Economic Forum.
+
+See also: InterPlanetary File System Is Uncensorable During Coronavirus News Fog
+
+This Tuesday, Yang contacted the developers behind Real Items, a VeChain-based authentication protocol, to provide historical versioning of medical statistics, so authorities are unable to censor or change the statistics at a later date.
+
+This product, developed by David Menard, adds these medical records to the InterPlanetary File System and then hashes that information onto a blockchain using a non-fungible token (NFT) format.
+
+“This provides double immutability,” Menard said over Zoom. “It's a way for us to easily keep records of vital statistics.”
+
+Coronavirus API chart showing an increase in infection rates in top states by population over a 12-day period. (Image courtesy Danny Yang.)
+
+The NFT format allows researchers and laymen to quickly find datasets related to a single day during the outbreak, he said. Currently, each hash onto VeChain costs approximately 17 cents, but it’s a cost Menard is willing to eat.
+
+“If data is editable or adjusted, it opens the possibility for people to take the narrative and drown out the truth,” he said.
+
+This is something Danny Yang has direct experience with. His family is from Hubei province in China, where the coronavirus outbreak began, and he is in daily contact with his family who are still there. Yang was disappointed with how the Chinese government initially tried to suppress information related to the virus before taking the extreme measure of enforcing quarantines.
+
+You can’t ignore data.
+
+“My family has been in a continuous lockdown for over two months,” Yang said. “What’s happened in China will happen everywhere. The whole country [United States] has to participate.”
+
+For his part, Yang has been under self-isolation since January, only leaving the house three times since, according to a spreadsheet he uses to keep track of his time under lockdown.
+
+He’s hoping his website will help people take similar precautions. “You can’t ignore data,” he said.

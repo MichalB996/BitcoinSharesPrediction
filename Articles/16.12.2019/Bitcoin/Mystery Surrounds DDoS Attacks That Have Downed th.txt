@@ -1,0 +1,33 @@
+DATE:  16.12.2019, 21:31:10
+TITLE: Mystery Surrounds DDoS Attacks That Have Downed the Darknet
+URL:   https://news.bitcoin.com/mystery-surrounds-ddos-attacks-that-have-downed-the-darknet/
+
+Mystery Surrounds DDoS Attacks That Have Downed the Darknet
+
+If you’ve been struggling to access your favorite darknet market lately, you’re not alone. Ongoing DDoS attacks have rendered marketplaces, forums and other onion sites inaccessible for weeks. Speculation surrounds the attacks, with some blaming law enforcement and others attributing a DDoS war between rival markets.
+
+Also read: The Darknet Just Had One of Its Wildest Months Yet
+
+The Darknet Has a DDoS Problem
+
+If November was a rip-roaring rollercoaster ride on the darknet, December has been a snore-fest. The drama has been curtailed due to an access problem that has rendered large chunks of the darknet inaccessible. The reason is DDoS attacks, but the culprit remains a mystery, despite finger-pointing at the usual suspects – law enforcement (LE) and rival darknet markets (DNMs).
+
+Dark.fail, which tracks the online status of dozens of DNMs and darknet forums, is normally a sea of green dots. This month, the lights have been extinguished on most sites, denoting that they are offline, with DDoS attacks usually to blame. Darknet DDoSings are as old as DNMs themselves, and in the past, months have elapsed in which scores of sites were unavailable. The latest wave of attacks has comprised the most intensive onslaught of the year, and it’s left DNM users frustrated, albeit not entirely out of options.
+
+At press time, Dread, Darknet Live, The Hub Forum, Hydra, Monopoly, and Cannazon are among those showing up as offline, while Empire, despite having more mirrors than any other DNM, has repeatedly been down in December. Image loading issues, however, are impairing the visibility of Empire’s captcha and vendor listings, and many pages, including order and message sections, are failing to load.
+
+Who Is Behind the Darknet’s Spate of DDoSings?
+
+Some darknet users have blamed LE for the attacks, be it to disrupt DNM services altogether, or to funnel users to a specific marketplace that they have compromised. “You can bet that the one market that isn’t being DDOSed is the one that LE have a mirror of, so they can herd everybody in,” speculated one user on r/Darknet. By process of elimination, that market would likely be Empire, but there is no firm evidence to support this theory. Moreover, even if LE have infiltrated Empire or another DNM, buyers who encrypt their communications and maintain good opsec should be safe.
+
+Another r/Darknet user ventured that law enforcement don’t need to directly down a DNM to score a victory, writing “By DDOSing you remove faith in the markets … it’s a war of attrition, for every time they do this they are knocking another few thousand drug distributors offline, and they don’t even need to make a real arrest.”
+
+A related theory holds that LE are DDOSing specific Tor exit nodes, with the goal of steering traffic through LE-controlled exit nodes to de-anonymize users. Malicious relays on the Tor network is a problem that is starting to gain awareness, despite having been prevalent since 2017, with one researcher claiming that up to 10% of all Tor nodes may be malicious. Finally, there is speculation that rival DNMs may be engaged in a DDoS war, which has been known to occur as sites vie for supremacy of the darknet’s lucrative trade in contraband. As Russian DNM Hydra’s ICO prospectus shows, there’s major money to be made from running a darknet market.
+
+The greatest casualty of the DDoS war has been Tochka, which has been offline since late November. While a DDoS attack was initially responsible for downing it, the site’s admin has since gone awol, leaving users in the dark as to the site’s status. “Please consider finding an alternative source for your future shopping,” recommended a Tochka moderator in a signed PGP message. DNM users are having to pick their moments, rushing to place orders on sites in the intervals when they’re fleetingly online. With the holidays rapidly approaching, partygoers will be praying for respite from the wave of DDoS attacks.
+
+Do you think law enforcement could be responsible for the darknet’s DDoS attacks? Let us know in the comments section below.
+
+Images courtesy of Shutterstock.
+
+Did you know you can verify any unconfirmed Bitcoin transaction with our Bitcoin Block Explorer tool? Simply complete a Bitcoin address search to view it on the blockchain. Plus, visit our Bitcoin Charts to see what’s happening in the industry.

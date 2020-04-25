@@ -1,0 +1,35 @@
+DATE:  24.10.2019, 11:24:56
+TITLE: Lightning Network User Confused by Protocol Lost 30,000 USD
+URL:   https://news.bitcoin.com/mishap-sees-user-lose-30000-btc-on-lightning-network/
+
+Lightning Network User Confused by Protocol Lost 30,000 USD
+
+The Lightning Network has long been touted by its proponents as a speedy, low-cost solution to Bitcoin’s scaling issues. A series of security scares and UX issues have called that vision into question however. The latest LN slip-up saw a user lose 4 BTC in one fell swoop.
+
+Also read: Hidden Lightning Network Bug Allowed Spending of ‘Fake’ Bitcoins
+
+Redditor Has a Lightning Nightmare
+
+An unfortunate LN user claims to have lost 4 BTC after force-closing a channel using an older invalid state. Cue a cascade of alternately sardonic and sympathetic comments on the thread where redditor ZipoTm confessed their calamity.
+
+How did this travesty befall the hapless ZipoTm? Well, on Lightning, the distribution of funds occurs when a channel is closed, with the protocol deferring to the most recently signed balance sheet. Or as one redditor explained, “If you force close using an older invalid state, they can take the money while it’s timelocked if their node is online.”
+
+At current prices, that mistake cost ZipoTm a cool $30,000. Force-closing on an open payment channel would have taken but a second, but the effects were irreversible and catastrophic. ZipoTm isn’t a tech newb, either, confessing “I’m working as a system administrator, have some server knowledge and I bet that everybody who has bigger nodes will face the same issues.”
+
+Lightning Strikes Twice
+
+This is the second embarrassing issue to have beset the Lightning Network in as many months. September saw the disclosure of a hidden bug that allowed the spending of ‘fake’ coins on the network. The revelation prompted Bitcoin Unlimited’s Peter Rizun to chide: “Many people pointed out how LN channel balances were claims on real bitcoins, and not actually real bitcoins themselves, and that problems like this would surface. LN proponents retorted that it was impossible for channel balances to be unbacked. LN proponents were wrong.”
+
+With the Lightning Conference having taken place in Berlin over the weekend, and given the recent release of lnd v0.8.0-beta, the LN brain trust must be alarmed by the timing of the latest disaster story. Even if ZipoTm was at fault, the tale proves that despite being ultra-quick, Lightning Network is not yet production-ready in any shape or form – and its developers will have their work cut out to restore confidence in the technology.
+
+Just a friendly reminder that BTC was crippled for this:https://t.co/ViNL8BQWow pic.twitter.com/eQJVcLIegj — Roger Ver (@rogerkver) October 23, 2019
+
+Roger Ver weighed in on the story, quoting a tweet from Lightning Network earlier this month warning users “Don’t put more money on Lightning than you’re willing to lose.” Perhaps the calmness which ZipTim exhibited suggests he was willing to lose $30k – but that seems a stretch. One redditor could scarcely accept the apparent apathy, writing: “Tell me that’s not your whole stack? I’d be nowhere near this calm.”
+
+To fulfill its promise as Bitcoin’s scaling savior, more rigorous Lightning Network testing is required. However, it is not always possible to legislate for the carelessness of users. A fully-working Lightning Network would appear to be some way off, but lessons can be learned in the interim. Perhaps the most important is to avoid locking up a substantial amount of bitcoin in a technology which is far from flawless at this juncture.
+
+Do you think LN will ever be ready for public use? Let us know in the comments section below.
+
+Images courtesy of Shutterstock.
+
+Did you know you can verify any unconfirmed Bitcoin transaction with our Bitcoin Block Explorer tool? Simply complete a Bitcoin address search to view it on the blockchain. Plus, visit our Bitcoin Charts to see what’s happening in the industry.

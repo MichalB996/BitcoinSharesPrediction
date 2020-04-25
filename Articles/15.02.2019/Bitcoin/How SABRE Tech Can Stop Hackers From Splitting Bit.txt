@@ -1,0 +1,71 @@
+DATE:  15.02.2019, 08:15:20
+TITLE: How SABRE Tech Can Stop Hackers From Splitting Bitcoin Into Two
+URL:   https://www.coindesk.com/how-sabre-tech-can-stop-hackers-from-splitting-bitcoin-into-two
+
+If hackers felt like it, they could split bitcoin in two.
+
+It wouldn’t even be that hard, according to research from 2017. Thanks to insecure technology underpinning the internet, someone with the right credentials could exploit the Border Gateway Protocol (BGP) by faking their identity and confusing the network into sending floods of data somewhere it shouldn’t. “The internet’s biggest security hole,” as it’s been called, has been used for everything from snooping on government emails to stealing cryptocurrency.
+
+As far as splitting bitcoin, the attack is as bad as it sounds. If executed successfully, one chunk of the network would be completely sliced off from the other. No one could communicate and send transactions to people who are a part of the “other” network.
+
+That’s where researchers from the prestigious Swiss university ETH Zurich hope to help. As described in a new white paper, they’ve invented a relay network called SABRE that they hope will one day be built on top of bitcoin.
+
+With the same name as the curved blade common in the Napoleonic era, SABRE sounds like it would be used to slice bitcoin in half. Instead, it hopes to do the opposite. Rather, the planned network would (metaphorically) wield a saber against impending attackers, stopping them in their tracks.
+
+Eth Zurich computer network researcher Maria Apostolaki told CoinDesk:
+
+“SABRE is a small relay network whose nodes are strategically located such that they remain connected to each other and connected to as many regular nodes as possible, even in the presence of a AS-level adversary that hijacks traffic.”
+
+This network would “render the partition ineffective,” she said.
+
+When SABRE is used, the risk of a split goes down, the researchers claim. Without SABRE, it’s possible for an ISP to attack and partition bitcoin with only a “small” routing attack. But, according to the researchers’ simulations on a group of five nodes, there’s only a 3.1 percent chance probability of the attacker could hijack the network and partition it. The probability also decreases as the number of nodes increases.
+
+To be presented at The Network and Distributed System Security Symposium this month, the proposed layer is the result of years of research. Apostolaki has been researching this specific issue since 2016 since “blockchain applications are very common nowadays making research on their routing characteristics very impactful.”
+
+The attack
+
+The attack strikes at the root of the internet.
+
+Every time you click a webpage, you’re unknowingly using BGP, an internet protocol that helps get data from Point A to Point B. Say you want to get to CoinDesk.com. Your computer doesn’t necessarily have a direct link to the server storing that website, stored in, say, New York City.
+
+Rather, millions of nodes make up the internet, which are divided into groups called “autonomous systems” (ASes), each managed by a single entity known as an Internet Service Provider (ISP). ISPs then connect companies to the internet, such as Comcast or the like. BGP helps your request for CoinDesk.com determine which ASes to jump through to get to get the webpage and pull it up on to your screen the fastest. (It sounds like a lot, but all of this happens in the blink of an eye.)
+
+The problem is, hackers can trick other nodes using the protocol that they own certain resources they don’t really own in order to divert internet traffic essentially anywhere they want.
+
+That’s why it can be used to access data the attacker isn’t supposed to be able to see – or to steal cryptocurrency, as hackers have done several times in the past, by using BGP to redirect traffic from bitcoin miners to themselves.
+
+ETH Zurich’s researchers say it could be particularly harmful for bitcoin.
+
+Apostolaki told CoinDesk:
+
+“An [AS] level attacker can partition the bitcoin into two disjointed components by first hijacking and then dropping traffic exchanged between them.”
+
+The paper explains that “any” AS-level attacker could isolate half the bitcoin mining power by hijacking just 100 prefixes.
+
+SABRE to the rescue
+
+But ETH Zurich researchers think they can prevent the attack with a so-called “relay network.” SABRE is a proposed network that would be managed by one entity, providing bitcoin nodes with an “extra secure channel” for moving blocks across the network.
+
+This network would consist of a variety of nodes with IP addresses (an ID number that lets other nodes find and connect to them) that are publicly known. That way, any bitcoin node can connect to them. And a bitcoin node needs to just connect to one of them to take advantage of its capability for keeping it connected to other nodes.
+
+So, why can’t the attack just switch targets and fool the SABRE nodes instead? The researchers propose a little hack: They only place the SABRE nodes in “cherry-picked” ASes with certain characteristics that make them harder to hijack.
+
+“So, the [central] idea on their work is that if you run a relay network with nodes on diversely placed /24 announcements, it’s much harder for a route hijacker to disrupt it,” explained long-time Bitcoin Core developer Gregory Maxwell, discussing the idea in the IRC chat channel “bitcoin wizards.”
+
+The research is convincing. Or, at least, reactions from at least one skeptical bitcoin developer have been rosy.
+
+“At least it’s doing something different that makes sense,” continued Maxwell, who’s often critical of proposed changes that might have negative consequences for the blockchain.
+
+In an email to CoinDesk, Braiins and bitcoin mining pool Slush Pool CEO Jan Čapek argued that “[SABRE] is an interesting insight into BGP hijacking issues. It solves the bitcoin network partitioning problem and can be applied to other [peer-to-peer] networks, too.”
+
+However, he’s not convinced a “large-scale” attack is very likely, partly because “there are many redundant ways” bitcoin nodes are connected already. “Many nodes form global clusters interconnected via VPN channels. We now have Blockstream satellite that provides an alternative way of broadcasting blocks via a satellite link,” he explained.
+
+He hopes the underlying problem – BGP – will also one day be addressed.
+
+That said, Čapek said Slush Pool would be happy to connect to the SABRE network, should it get “industry-wide consensus.”
+
+Since it would be immediately helpful for mining pools to adopt, it would prevent their miners from losing mining rewards, Apostolaki told CoinDesk, she expects to see some adoption soon:
+
+“Given the practicality of routing attacks I do believe that SABRE will be at least partially deployed.”
+
+Fencing image via Shutterstock

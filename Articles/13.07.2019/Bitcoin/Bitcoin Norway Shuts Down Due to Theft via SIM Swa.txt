@@ -1,0 +1,55 @@
+DATE:  13.07.2019, 09:36:32
+TITLE: Bitcoin Norway Shuts Down Due to Theft via SIM Swap Hack and “Sophisticated Spear-phishing Techniques”
+URL:   https://www.crowdfundinsider.com/2019/07/149439-bitcoin-norway-shuts-down-due-to-theft-via-sim-swap-hack-and-sophisticated-spear-phishing-techniques/
+
+Bitcoin Norway has shut down all operations according to its website and posts on Facebook. Bitcoin Norway is a cryptocurrency exchange that claims to have served over 25,000 Norwegians since 2013.
+
+Last week, via Twitter, the exchange said they are dealing with extraordinary problems:
+
+Hei og takk for din henvendelse, Vi har for øyeblikket stor pågang og beklager lang responstid.
+
+Bitcoins Norge er utsatt for en ekstraordinær situasjon som er helt utenfor vår kontroll.
+
+Vi undersøker alle muligheter for å ivareta våre kunders interesser best mulig.
+
+… — Bitcoinsnorway.com (@Bitcoinsnorgeno) July 3, 2019
+
+The exchange referred to a Facebook post explaining the dilemma.
+
+The Facebook translation service interprets the above as follows:
+
+Update to our customers
+
+Correction KL 12.57. 4.7.2019. we have stopped all activity on our platform. It is not possible to make deposits, trade or other activity.
+
+We start today to review each customer’s account, then start the payouts next week.
+
+We are now working to quality testing the information we get from alpha point and work as quickly as we can.
+
+The media continues to address us with speculation linked to sikkerhetssvikten at Alpha point. We don’t want to contribute to the kind of speculation, but relate to the information we’ve received from alpha point.
+
+Nordic publication E24 has been following the story claiming that potentially millions in Bitcoin have been stolen and impacted investors have hired lawyers to represent their interests. E24 reported:
+
+“On Monday last week, the customers of Bitcoins Norway’s crypto exchange were told that their crypto currency would be forcibly sold at a significantly lower price due to an alleged attack on the supplier Alphapoint.” [translated]
+
+An earlier report in E24 claimed the issue was “due to a security hole at the supplier AlphaPoint technology, and that these are hit by a hacker attack.” [translated]
+
+Crowdfund Insider contacted AlphaPoint for more information on the reports.
+
+AlphaPoint has emerged as a highly respected operation that has been providing crypto trading and issuance infrastructure for multiple years.
+
+AlphaPoint CEO Igor Telyatnikov shared the following statement explaining the hack:
+
+AlphaPoint reported to Bitcoins Norway on May 1, 2019 that a security incident had occurred. Bitcoins Norway’s original post reported the date as May 7, 2019.
+
+There are a number of other clarifications and corrections to the Bitcoins Norway report. There was no hack of the AlphaPoint software or technology. Rather, attackers gained access through a SIM swap enabled by exploiting a vulnerability in a telecom carrier, and sophisticated spear-phishing techniques which compromised sensitive credentials.
+
+The FBI is the sole and appropriate law enforcement entity to investigate this crime. AlphaPoint is fully cooperating with the investigation. AlphaPoint immediately notified Bitcoins Norway of the security incident, and provided as much information as it could without jeopardizing the investigation and without risking the spread of inaccurate information.
+
+On July 1, 2019, Bitcoins Norway made the decision to announce that it would sell end users cryptocurrency. AlphaPoint did not participate in that decision.
+
+AlphaPoint assured Bitcoins Norway that AlphaPoint would compensate Bitcoins Norway, which we are doing. We stand by our customers.
+
+SIM Swap hacks are a pressing issue in the crypto sector but this scam also impacts other types of theft and data privacy in general. Having been the victim of a SIM Swap hack, I speak from experience. It is no fun. While all or most of these types of scams could be addressed by basic actions from the mobile wireless providers – these companies have yet to act.
+
+Michael Terpin, SIM Swap hack victim, saw tens of millions of crypto stolen from his accounts. He has since filed a lawsuit, using the RICO statute, against AT&T Mobile seeking $224 million in compensation.

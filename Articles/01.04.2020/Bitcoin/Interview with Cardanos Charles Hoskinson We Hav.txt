@@ -1,0 +1,51 @@
+DATE:  01.04.2020, 13:26:32
+TITLE: Interview with Cardano’s Charles Hoskinson: We Have the Best Product From Every Dimension
+URL:   https://u.today/interview-with-cardanos-charles-hoskinson-we-have-the-best-product-from-every-dimension
+
+U.Today Original Article
+
+Cardano founder tells us which projects on the crypto market are the most interesting, and why it took so much time for Cardano to get their product ready for the market
+
+Cover image via www.youtube.com
+
+In the second part of my interview with the founder of Cardano, CEO of IOHK, and ex Ethereum co-founder, Charles Hoskinson, we discussed what projects, apart from Cardano, Charles finds the most noteworthy and what difficulties Cardano’s team has encountered while working on their big upgrades.
+
+U.Today: So, Charles, can you please tell us what the biggest challenge Cardano faces is?
+
+Charles Hoskinson: The single biggest challenge we initially faced, which has been resolved, was, “how do you do scientific research in this space and turn science into engineering and actually bring it to the customer?” It's easy to just copy someone else's code. It's easy to just write some code and say it works. It's easy to write a white paper abstracted from reality and say, “Oh look, my beautiful protocol’s perfect.” But they actually don’t put all those pieces together and turn it into an end product that's built on evidence. No one actually has ever done that. We were the first company in this space to pursue this.
+
+There have certainly been some attempts, like Algorand and Tezos and others who have a slightly more formal methodology, but we're dealing with it in every aspect of the product: the network stack; we designed our own programming languages; we designed our own consensus protocol; we designed our ledger rules; we designed a method to actually write those rules down. There's just so much stuff that's going into the development of Cardano that we kind of over-engineered things, in a certain respect.
+
+The problem is that we're expected to bring this to market as quickly as Ethereum brings things to market, as quickly as other people bring things to market. We're building a Ferrari, but there’s market expectation of delivering a Toyota. So, the big challenge was managing expectations. The big challenge was trying to accelerate things that ordinarily do not accelerate well. But, for example, just the use of formal methods, there are several projects that do that. The braking systems on the trains use formal methods because you'd like to know that when the train tries to brake, it's gonna brake, otherwise everybody dies on the train. That's one of those things that just can't fail.
+
+There are examples of where things have not worked well. When software was bad, like for example, the Boeing 737 MAX, they didn't use formal methods at the construction of that system. So, it had some nascent bugs that crashed the plane.
+
+There's consumer demand for this. But generally speaking, these systems take years to implement. So, we were saying, “Oh, we're going to do that, plus science, plus consumer engineering, and we're going to get this all done in around 24 months.” No one has ever done that before in any computer science project. So, that was the biggest single challenge, it was trying to figure out what the scope was going to be, how to put all these pieces together, how to execute quickly, especially with people who aren't used to executing quickly. Academics are not engineers. They're not accountable to two-week sprints. They have the luxury of taking a semester off or holiday and there's always next semester. So when we tried to put a commercial product into that kind of culture, that was a huge challenge for us as well.
+
+But, we've overcome those challenges in that respect. We've gotten to a point where we feel we have the best product from every dimension. We feel we have the fastest product, we have the most secure product, we feel we have a product that can be the most decentralized. We feel we have the product with the best smart contract model and asset issuance model that brings a lot of competitive things to the table. We feel we also are quickly getting to a point where we have the product that's easiest to list for exchanges, both as staking as a service and as just holding the asset.
+
+Charles Hoskinson. Image via @IOHK_Charles
+
+We also feel we have a product that's the most extensible, meaning that you can add things to it very rapidly and it works well. This is just a consequence of spending years of engineering effort, carefully thinking things through and simplifying things as much as possible. Despite the fact that we have all of this complexity on the science side, our actual implementation, the actual codebase is about half the size of Bitcoin’s.
+
+So, we're much more concise, things are more modular, they’re more simple, and as a consequence, they're much easier for people to work with and eventually understand. We paid a large, huge price on the front end, but now it's going to start paying dividends on the backend and in the foreseeable future.
+
+U.Today: That's impressive! Apart from Cardano, what other projects can you single out in the market?
+
+Charles Hoskinson: I have a lot of respect for Algorand because I know Silvio Micali personally and I think he's one of the best scientists in the history of cryptography. Algorand is a legitimately good protocol and there's some good science there with Vault, their programming language design. They have good engineers who were poached from MIT to go and do interesting things. So, that's an example of a project that's doing novel and interesting things.
+
+There's actually a project in Russia led by Alex Chepurnoy. I think he's based in maybe St. Petersburg, I forget, but it's called Ergo and it's based on a framework called Scorex. That's a great piece of software. It doesn't get enough love. I think that the market cap is only a billion dollars, but it's actually one of the most innovative cryptocurrencies ever constructed. It has non-outsourceable puzzles. It's got Sigma protocols. Alex is a genius. He's one of the best programmers and designers in the entire cryptocurrency space and he's been here for eight years with very little praise or fanfare. He's much smarter than Vitalik and he should get credit for that. So, I love Ergo as a project. I think it's a great piece of software sadly underloved by the market.
+
+I have a lot of respect for Dash, especially given the things that they've done for governance, the fact that they've forged an entire community off of their central bank function and people can get paid to do things, whether it be making videos or writing code, that means that they always have a shot to be relevant. So, even if this year you don't like them, because they have perpetual funding, because they have a stable community, that means that they have money to get to next year, and then they have money to get to the next year. So they'll be around for a long time. If you have the ability just to indefinitely work on something, eventually you find a niche and you're able to execute and do well.
+
+So, I have great admiration for all of the treasury coins that actually have a treasury function. Of course, I always respect Bitcoin. I started with Bitcoin. I've been in the space for eight years.
+
+It's been so much fun to watch Bitcoin evolve and grow from 50 cents when no one cared about it, when the hash rate would collapse 25% per day or go up 25% per day because people would turn off their computers for a night, to this massive global movement that has a huge brand name.
+
+Bitcoin can always get back in the game. Should they implement taproot, simplicity, side chains, Lightning and get all these things pulled together. It'd be actually quite a good system to build on in a very secure system. So it's fun to compete with them, both on the brand liquidity and on the technology side, and that community is extremely vigilant.
+
+I do wish that maximalism would go away because if I say I admire Bitcoin, they say that I'm a scammer and I'm stealing money from people. So, that culture is kind of toxic and it prevents Bitcoin from ever growing to a critical mass. But, all those things aside, it never diminishes my admiration for what Bitcoin has done and the technology it has brought to the marketplace.
+
+
+
+To be continued...

@@ -1,0 +1,51 @@
+DATE:  30.10.2019, 18:55:36
+TITLE: Bitcoin Just Hit $1 Billion in All-Time Transaction Fees
+URL:   https://www.coindesk.com/bitcoin-just-hit-1-billion-in-all-time-transaction-fees
+
+On Oct. 30, 2019, the bitcoin blockchain reached $1 billion in cumulative transaction fees.
+
+“This milestone is a really cool milestone just because it shows how much people value block space,” said Bryan Aulds, founder of bitcoin wallet Billfodl. “And that it’s something people don’t mind paying for, which I think is really important moving forward.”
+
+According to data from blockchain analytics startup BlockChair, the amount of bitcoin transaction fees collected annually has actually decreased in recent years. This is due to the advent of scaling solutions on bitcoin including “Segregated Witness” and the Lightning Network.
+
+And while the cumulative amount of bitcoin transaction fees converted to USD amounts to roughly $1 billion, the amount is actually much larger if you consider the market value of bitcoin today. According to Coin Metrics data, 204808.3479 BTC has been doled out in transaction fees to miners since 2009. At today’s price, that’s equivalent to $1.86 billion.
+
+It's official. The Bitcoin network has surpassed 1 billion USD in cumulative fee revenue. pic.twitter.com/lKzstEX3eI — Yassine Elmandjra (@yassineARK) October 30, 2019
+
+The cumulative size of transaction fees on the bitcoin network is only set to grow larger in the coming years – especially as alternative mechanisms for rewarding miners such as block subsidies gradually decline.
+
+“Over the long run, the transaction fees will eventually have to replace the block [subsidy],” said Jameson Lopp, CTO of bitcoin management startup Casa. “There’s a reason why it’s called the block subsidy in the code. It’s because it is subsidizing the security of the network,” adding:
+
+“The understanding all along is that this subsidy via inflation will have to be replaced by the people who are paying to use the network via transaction fees.”
+
+Securing the bitcoin network
+
+Stepping back, transaction fees play three key roles on the bitcoin blockchain – all of which serve to secure the integrity and censorship-resistance of the network.
+
+First, attaching fees to bitcoin transactions discourages denial of service attacks, also called “spam” attacks, from slowing down the network.
+
+“When you create a transaction, you’re able to use bandwidth and write data onto the hard drive of anyone running a node on the network,” said Lopp. “If there’s no cost to doing that then you can saturate everyone’s bandwidth and fill up everyone’s hard drive.”
+
+Second, fees serve to prioritize which transactions get confirmed and written onto blocks faster than others.
+
+David Steinberg, VP of crypto mining consultancy Navier, said:
+
+“It’s very simple: you pay more, you get your transaction accepted more quickly. So that mechanism is a fair way to participate in a pending transaction pool.”
+
+Finally, and perhaps most importantly, transaction fees also ensure transaction finality. Coupled with the bitcoin block subsidy – which yields 12.5 BTC per block and decreases by 50 percent every four years – transaction fees incentivize bitcoin miners from purposefully stalling or editing the blockchain.
+
+Without this monetary incentive, miners could easily be bribed by malicious actors to unfairly withhold all or certain transactions from being committed to the blockchain.
+
+“In aggregate, the transaction fees plus the block subsidy provide for the probabilistic transaction finality of the bitcoin system,” said Pierre Rochard, founder of consultancy startup Bitcoin Advisory, adding:
+
+“The greater this finality is, the less time transactors have to wait before having confidence that the transaction will not be censored or double-spent.”
+
+What’s ahead
+
+“We have another 10 to 13 years of decent subsidies left before it drops away to pretty negligible amounts,” said Billfodl’s Auld.
+
+When this happens, miners will have to start adjusting profitability measures around the comparatively more volatile values of transaction fees as opposed to block subsidies.
+
+“You have to start thinking more about the game theory around miner profitability and what would happen if the profitability of a miner becomes a lot more volatile from hour to hour, day to day,” said Lopp. “For example, we already know there are both daily and weekly cycles of demand for block space.”
+
+Bitcoin image via Shutterstock

@@ -1,0 +1,39 @@
+DATE:  06.11.2019, 19:13:41
+TITLE: Conceal and Reveal: The Evolution of Privacy Coin Technology
+URL:   https://news.bitcoin.com/conceal-and-reveal-the-evolution-of-privacy-coin-technology/
+
+Conceal and Reveal: The Evolution of Privacy Coin Technology
+
+Privacy can assume many forms and occur on many levels. The technologies that blockchain architects originally envisioned for privacy coins are now being utilized by an array of crypto stakeholders, from enterprises to exchanges. What began as a means of transacting anonymously has spawned a burgeoning industry, built upon technologies designed to conceal, but which can also be programmed to reveal to a select few.
+
+Also read: Chinese Communist Party Reportedly Filling Roles at Top Exchange Huobi
+
+zk-Snarks
+
+zk-Snarks are best known for their use in privacy coin protocols such as Zcash. These “zero knowledge proofs” have far broader applications than simply masking the sender and receiver when transmitting crypto via a public ledger. A zero-knowledge proof allows one party to prove to another that a statement is true, without revealing any information about the statement itself.
+
+To break this down into a simple analogy, imagine that Farmer Bob is selling some livestock at the market. He wishes to prove to the auctioneer that there is a cow in his trailer, but without opening the door (cos then the creature would escape). Using a heat sensor installed inside the trailer, Bob can prove that there is a living, breathing animal inside, but the auctioneer will have no way of knowing which cow it is, or even whether the animal is a cow (unless it moos and gives the game away). That, essentially, is how a zk-Snark operates: proof that something is true, while disclosing zero knowledge about the thing in question.
+
+As for how zk-Snarks can be deployed outside of privacy coin transactions, look no further than smart contracts. Quras, for example, is using the technology to provision privacy-enabled smart contracts that run on its eponymous VM. Applications include concealing information pertaining to credit history; enabling healthcare and medical information from IoT devices to be shared confidentially; and facilitating sealed auctions that are executed using smart contracts.
+
+Mohammad Mazen is the CEO of Burency, a cryptocurrency exchange and blockchain research and development platform. Expounding on why private smart contracts are desirable, he told news.Bitcoin.com: “Smart contracts have the potential to automate business processes ranging from calculating insurance premiums to powering decentralized synthetics markets, but for this to happen, there needs to be privacy built in. Broadcasting information on-chain nullifies any benefits that might otherwise have been gained through using blockchain, since publicly verifiable smart contracts enable observers to frontrun markets and steal competitors’ proprietary algorithms. Privacy technology provides a means to conceal the secret sauce that’s in a smart contract, while still enabling its integrity to be verified.”
+
+Mimblewimble
+
+zk-Snarks aren’t the only privacy technology whose applications extend far beyond those originally envisioned by its pseudonymous creator. The origins of Mimblewimble don’t need retelling again, but its evolution does. Although utilized by both Grin and Beam – and soon Litecoin too – it is the Beam iteration of Mimblewimble that has applications for the broadest range of users. Understanding how Mimblewimble works isn’t easy, unless you’re au fait with elliptic curve cryptography. Even Beam’s attempt at explaining the process via a series of dumbed down metaphors takes some digesting.
+
+What’s relevant here isn’t so much the way in which Mimblewimble works, but the fact that it can provide complete transactional anonymity between parties while being compatible with implementations such as Beam that enable optional audibility. Digitally signed documentation can be attached to transactions, giving an approved auditor permission to view the transactions associated with a particular key. For cypherpunks intent on concealing their activity from snooping governments, that ability will be of little interest, but for businesses that wish to conceal their day-to-day affairs from the public (paying staff, contractors, and purchasing goods) while still remaining compliant from an accounting perspective, it’s extremely useful.
+
+Bulletproofs
+
+Bulletproofs are actually part of the zero-knowledge proofs family and allow multiple range proofs from different parties to be aggregated into one proof. What this means, in practice, is that bulletproofs allow for information to be significantly compressed without compromising its validity. When integrated into Monero last year, for example, bulletproofs slashed transaction fees through reducing the average size of each transaction.
+
+There is a number of interesting applications for bulletproofs outside of facilitating confidential transactions. They can be used in proof of solvency, for instance, with one research paper noting: “A Bitcoin exchange with 2 million customers needs approximately 18GB to prove solvency in a confidential manner … Using Bulletproofs and its variant protocols … this size could be reduced to approximately 62MB.” The same paper lists a total of eight use cases for bulletproofs, including smart contracts and crypto derivatives.
+
+Privacy coin tech follows the same adoption curve as other disruptive technologies: first it’s used by criminals, outlaws, and geeks. Then by enterprises, ordinary end users and even governments. Just as it was with encryption, so it is proving to be with privacy-preserving tech: from unknown to ostracized to indispensable in under a decade.
+
+What other privacy technologies have broad applications beyond simply enabling anonymous transactions? Let us know in the comments section below.
+
+Images courtesy of Shutterstock.
+
+Did you know you can verify any unconfirmed Bitcoin transaction with our Bitcoin Block Explorer tool? Simply complete a Bitcoin address search to view it on the blockchain. Plus, visit our Bitcoin Charts to see what’s happening in the industry.

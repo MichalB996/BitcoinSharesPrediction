@@ -1,0 +1,33 @@
+DATE:  14.02.2020, 12:00:37
+TITLE: US Department of Justice Is Criminalizing Onchain Privacy, Starting With Mixers
+URL:   https://news.bitcoin.com/criminalize-onchain-privacy-mixer/
+
+US Department of Justice Is Criminalizing Onchain Privacy, Starting With Mixers
+
+The American government’s long-running war on privacy escalated this week following the arrest of Coin Ninja’s Larry Harmon on money laundering charges. A Department of Justice statement that “seeking to obscure virtual currency transactions in this way [using mixers] is a crime” means that bitcoiners risk prosecution simply for exercising their right to privacy.
+
+Also read: Treasury Secretary Mnuchin Gives Testimony on Cryptocurrency, New Regulations Rolling Out Soon
+
+
+
+First They Came for Larry Harmon
+
+The cryptosphere was rocked on Thursday by the news that Coin Ninja and Dropbit CEO Larry Harmon had been arrested on charges of laundering $311 million from darknet marketplace (DNM) Alphabay. Despite having no direct connection with Alphabay, the Helix mixer Harmon had developed was recommended by the DNM. Coin mixers, or tumblers, are legally used by bitcoin owners to merge their transactions with those of other users, providing a degree of onchain privacy that Bitcoin does not provide by default. Mixers can also be used by criminals for the same purpose.
+
+The grand jury indictment served in Washington, D.C. is a nightmare for Harmon and his family (his wife has since faced telephone threats from blackmailers demanding bitcoin), as well as for Coin Ninja’s employees and customers. Dropbit, described as “Venmo for bitcoin,” sponsored the What Bitcoin Did podcast hosted by Peter McCormack and had a high industry profile. Both of Hamon’s companies have had their assets frozen, including those of customers which were in Dropbit’s custodial Lightning wallet. But the repercussions of Harmon’s arrest threaten to extend much further, affecting anyone who’s ever taken measures to enhance their privacy through deploying onchain obfuscation techniques.
+
+Is Bitcoin Mixing a Crime?
+
+“This indictment underscores that seeking to obscure virtual currency transactions in this way [using a mixer] is a crime,” said Justice Department Assistant Attorney General Brian Benczkowski in a statement on Thursday. The day before, in testimony before the Senate Finance Committee, U.S. Treasury Secretary Steven Mnuchin said “We want to make sure that these [cryptocurrencies] are not used as the equivalent of secret bank accounts … “We are working with FinCEN and we will be rolling out new regulations to be very clear on greater transparency so that law enforcement can see where the money is going and that this isn’t used for money laundering.”
+
+Commenting on the indictment against Larry Harmon, Bitcoin developer Matt Corallo tweeted “Setting precedent that tumblers (aka “still-worse-privacy-than-cash-machines”) are illegal to own/operate would be the beginning of the end.” Prominent bitcoiners have long warned that U.S. regulators will seek to cripple the currency however they can, attacking it indirectly through asymmetric warfare against exchanges and centralized mixers whose operators can be cowed into compliance, under threat of imprisonment; Harmon faces up to 30 years if convicted. Centralized bitcoin tumbler Bestmixer.io was shut down last year in similar circumstance.
+
+It remains to be determined whether Harmon’s Helix mixer was knowingly complicit in laundering darknet drug money; the service shut down in 2017, the same year that Alphabay bit the dust. Whatever the case, it appears that a chilling precedent is being made in criminalizing the innate human desire for privacy. If “seeking to obscure virtual currency transactions” is a crime, as the DoJ claims, what other privacy practices could be outlawed? Is using noncustodial mixers such as Samourai’s Whirlpool or Wasabi Wallet’s Coinjoin implementation illegal? Does generating a new bitcoin address for each new transaction count as a crime?
+
+In a world where citizens were forced to hold their dollar bills in see-through plastic wallets, no one would feel safe stepping outside. The DoJ is effectively trying to enforce the digital equivalent on bitcoiners, conflating all attempts at concealment with criminality.
+
+What are your thoughts on the latest DoJ statement? Do you think the U.S. is trying to outlaw onchain privacy? Let us know in the comments section below.
+
+Images courtesy of Shutterstock.
+
+Did you know you can verify any unconfirmed Bitcoin transaction with our Bitcoin Block Explorer tool? Simply complete a Bitcoin address search to view it on the blockchain. Plus, visit our Bitcoin Charts to see what’s happening in the industry.

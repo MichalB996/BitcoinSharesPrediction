@@ -1,0 +1,21 @@
+DATE:  28.02.2020, 15:15:22
+TITLE: Microsoft Updates Edge Browser to Protect Against Illicit Crypto Miners
+URL:   https://www.coindesk.com/microsoft-updates-edge-browser-to-protect-against-illicit-crypto-miners
+
+With malicious cryptocurrency miners having proliferated over the internet in the last two years, Microsoft has moved to protect users of its Edge web browser from the effects of the malicious software.
+
+In a blog post on Thursday, the tech giant said it had enabled a feature that will spot and prevent the download of "potentially unwanted applications" (PUAs) such as cryptojackers or adware.
+
+Cryptojackers utilize code hidden on websites or downloaded onto users' devices to harness computer processing power to mine cryptocurrencies.
+
+Microsoft explained it added the feature after users complained that when downloading free software from the internet, they often had apps "with a poor reputation" being installed at the same time.
+
+The new feature – available in Edge versions from 80.0.338.0 on – is off by default, but can be switched on in the Privacy and Services settings panel.
+
+As Microsoft said, PUAs like miners can slow a user's computer. They can also lead to excessive fan noise and overheating while they steal victim's electricity to carry out mining tasks in the background.
+
+While users complained of free software sites being laden with cryptojackers, they can find their way into apparently legitimate sources too. A year ago, eight Windows apps on the Microsoft Store were discovered by Symantec to be hosting a version of Coinhive, a commonly deployed script for mining the monero (XMR) cryptocurrency. The apps were removed from the site after Microsoft was alerted.
+
+A report from Skybox Security in 2018 said crypto mining malware had overtaken ransomware as the cybercriminal's weapon of choice. The firm's figures suggested cryptojacking comprised 32 percent of all cyberattacks at the time.
+
+Referring to its new miner blocking feature, Microsoft said: "Our goal is to assist users in getting the apps they want, while empowering them to maintain control over their devices and experiences."

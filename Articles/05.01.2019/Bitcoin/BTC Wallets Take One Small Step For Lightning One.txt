@@ -1,0 +1,73 @@
+DATE:  05.01.2019, 17:00:41
+TITLE: BTC Wallets Take One Small Step For Lightning, One Giant Leap for Bitcoin
+URL:   https://bitcoinist.com/bluewallet-lightning-micro-bitcoin/
+
+Bitcoin Technology BTC Wallets Take One Small Step For Lightning, One Giant Leap for Bitcoin
+
+New user-friendly Bitcoin Lightning wallets such as Bluewallet are ushering in the future of payments. Users can now send and receive Bitcoin Lightning payments right to/from your mobile device, the ramifications of which could be revolutionary for the future of online payments.
+
+Bitcoin Lightning Wallets Are Setting the Bar
+
+Following the first review of Bluewallet by Bitcoinist less than a week ago, the wallet app now supports generating invoices and thus, receiving Lightning Network (LN) payments right to your mobile device.
+
+Meanwhile, Wallet of Satoshi is another recently-launched ‘mum-friendly’ mobile app targeted at the Australian market that already supports similar functionality. There are a few more newly-released LN wallets making waves, though Bluewallet and Wallet of Satoshi are the easiest to get started with due to their simplicity.
+
+Australians can use Wallet of Satoshi to send BTC via Lightning Network to pay bills and buy products at participating merchants in Australia, which includes Brisbane Airport and online services such as Tippin.
+
+Together, these two ‘grandma-friendly’ wallets are making it easy to send and receive payments. What’s more is that these transactions can be as small as a fraction of a cent, the implications of which can be nothing less of revolutionary. Here’s why…
+
+Online Micro-Transactions Becoming Viable
+
+Remember ChangeTip?
+
+Founded in 2013, it enabled Bitcoin users to send micropayments across various social media websites. Unfortunately, the service apparently wasn’t economically viable. Friction due to on-chain transaction fees and confirmation wait times made the user-experience rather inconvenient, particularly for sending small amounts.
+
+Ultimately, the service was shut down in 2016 after it was acquired by Airbnb.
+
+But now, the aforementioned wallets may be able to resurrect this concept as transactions are now instant at almost zero-cost with LN payments.
+
+Tippin is one such promising application for online micro-payments similar to ChangeTip but harnessing LN payments for a better experience. Meanwhile, another similar service is already being used on Reddit. The LN tipbot lets anyone tip on the platform using text commands.
+
+Admittedly, the function is still in its infancy but the arrival of bidirectional and easy-to-use Bitcoin LN wallets now lets you collect these tips right to your mobile device in seconds.
+
+For example, receiving a tip will look something like this:
+
+Ten thousand satoshis equal to about 40 cents. So if you’d like to receive these funds to your Bluewallet, for example, simply click ‘withdraw’ to take you to the next screen:
+
+Replace the “put_invoice_here” with your invoice number that you can generate in your Lightning wallet by clicking ‘Receive.’ Specify the amount you’d like to withdraw: 10,000 satoshis (though this can be any amount under 10K) and write a short description for yourself.
+
+Click ‘Create’ to generate the invoice. It will look like this:
+
+Copy and paste that invoice address to replace the “put_invoice_here” in the message box and Send the message to the Reddit Ln tipbot.
+
+The invoice is paid within 10-15 seconds and the Bluewallet invoice then shows the following message:
+
+The satoshi balance in your LN wallet will now reflect the received amount.
+
+The entire process is quick and takes about a few seconds once you get the hang of it. What’s more, the fee is “unfairly cheap.” In fact, I can’t even tell you what it was as there are only two zeros displayed after the decimal – so I assume it’s a tiny fraction of a cent.
+
+The process also worked flawlessly with an even smaller amount of 10 satoshis (or 0.0003831 cents).
+
+Bitcoin Can Now Scale Beyond Visa
+
+The arrival of this new generation of mobile wallets gives a glimpse into the future of online payments.
+
+Admittedly, some issues still remain like the inability to withdraw satoshis from the LN wallet to your on-chain BTC wallet, a feature that will be introduced in Bluewallet soon.
+
+In the meantime, the Lightning Network is growing rapidly and now boasts over 5,000 nodes with over $2 million USD in capacity.
+
+This second layer developing on top of Bitcoin is poised to become the future of quick and cheap online payments while potentially making altcoins, designed for faster and cheaper transactions, in particular, obsolete.
+
+Prior to LN, Bitcoin could handle roughly seven transactions per second (tps), which critics argued would prevent it from competing with the likes of VISA that can process up to 45,000 tps.
+
+But Bitcoin’s LN promises to not only handle millions of transaction per second but also enables sending fractions of a penny (and even a fraction of a satoshi, something that’s not possible on-chain) to anyone in the world.
+
+This should certainly bolster Bitcoin adoption moving forward. But the ramifications of this technology could also be revolutionary in other ways.
+
+Viable micro-transactions will introduce new ways of monetizing online content. This means innovative online revenue streams the likes of which we haven’t even seen yet. Moreover, this means innovative online business models that can challenge the existing advertising-based and censorship-prone system.
+
+In the meantime…Lightning-powered arm wrestling anyone?
+
+Have you tried Lightning Network? Share your experiences below!
+
+Images courtesy of Shutterstock

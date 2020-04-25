@@ -1,0 +1,41 @@
+DATE:  04.04.2020, 12:23:31
+TITLE: All About Proof Of Work And Proof Of Stake
+URL:   https://bitcoinik.com/all-about-proof-of-work-and-proof-of-stake/
+
+Proof of Work (PoW) and Proof of Stake (PoS): What’s the Difference and Why Does it Matter?
+
+In the cryptosphere, anyone looking is bound to hear quite a lot about proof of work and proof of stake protocols. While they are important, what exactly do they mean?
+
+Just because crypto is decentralized, doesn’t mean that there aren’t real people behind those nodes that help keep everything running smoothly. Like any sysadmin, these people need to be paid. They also need to be able to bring changes to protocols in a democratic way. This ensures that all of the maintenance necessary to the network is completed while keeping it fully decentralized at the same time.
+
+Ultimately- each of these concepts is the means by which the network verifies it’s blocks of information that are formed with each transaction that comes across any given crypto network. Which says a bit about what proof of work and proof of stake are, but does little to explain the intricacies of each. Which is often why they are mentioned and not necessarily broken down. But the devil is in the details, and proof of work and proof of stake are incredibly important concepts all on their own.
+
+Proof of Work (PoW) and Proof of Stake (PoS): What You Need to Know About Both
+
+Perhaps the most useful part of knowing a bit about both proof of work and proof of stake is that each are methods used to mine popular cryptocurrencies. Ethereum, Bitcoin, and Dash are just a few of the big-name coins you cauldron actually start pocketing, without a purchase!
+
+While “mining” is a term that is generally associated with bitcoin exclusively, the term really just refers to the process of completing tasks in order to gain coins or tokens in return. This is how many people can get in on networks and crypto markets without spending thousands of dollars, or needing to speculate on values in order to gain more coins.
+
+Broadly, both proof of work and proof of stake are considered to be “consensus mechanisms” which, as mentioned above, is just a fancy way of saying this is how transactions are verified. Consensus describes how any given network can be absolutely sure that any given transaction is not only valid but has never been done before.
+
+The consensus is what prevents anyone from taking advantage of a decentralized system- as there is no one authority that overlooks every transaction. Each new consensus method released (and there is a few) hopes to streamline and disentangle the issues of the consensus method before it- yet proof of work and proof of stake, despite their flaws, still remain the two most popular methods.
+
+Proof of Work and Proof of Stake: What is Proof of Work (PoW)?
+
+Proof of work can easily be considered the grandfather of consensus mechanisms. Proof of work is the mechanism behind bitcoin that was unveiled by Satoshi Nakamoto. This cryptographic validation system was presented in 2009, and future consensus mechanisms wouldn’t start being used until 2012! So it’s a system that has been in use since cryptocurrency itself.
+
+Many types of cryptos use this system, as many of them are really just hard forks of bitcoin. So much of their protocol is the same as the original coin. Proof of work is a favored method of validation for a few reasons, but it also has its shortcomings.
+
+If you skipped any of your high school math classes, proof of work can be a bit difficult to explain. This is because proof of work, well- works by creating complex mathematical algorithms and also creating proofs to those algorithms. The algorithms that are produced are representative of unique transactions that occur on the network. These algorithms are incredibly difficult to produce, requiring massive amounts of computing power, because they are so complicated.
+
+This is both good and bad. The algorithms are nearly impossible to duplicate or falsify- which is one of the things that makes bitcoin transactions so secure. However, the more complicated the algorithm, the more energy required to make it- meaning that it can become an incredibly energy-intensive, and wildly expensive, endeavor.
+
+The proofs are much easier to supply. Each computer on the network, known as nodes, competes to be able to provide these proofs before any other node can do it. The node that solves the algorithm first- wins! This “competition” is called mining. The winner takes home freshly “mined” bitcoin as a reward for their computational hard work.
+
+Proof of Work and Proof of Stake: What is Proof of Stake (PoS)?
+
+Proof of stake is indeed another type of validation that users can perform. Where almost everything that is true for proof of work system is also true with a proof of stake system. Where these two validators differ is that proof of stake isn’t a competition. Instead, to decide who gets to provide the proof for the algorithm computers will randomly choose between any user that puts up a bid (or stake) to do so.
+
+In a proof of stake system, any node that chooses to run for a position to validate is called a validator. As opposed to the term “miner”. These validators then lock up a given amount of their corresponding cryptocurrency as a stake. Like a blind in poker, except should they not be chosen to validate, they don’t lose their stake. From this point, some proof of stake systems will randomly select which user will validate the following block, while others will base that selection on how long each user has held their coins, or even some will allow stakeholders to bet on which block will next be added.
+
+Regardless of how the system chooses its validator, only one user will be validating blocks at a time. Which saves the network an untold amount of money over what proof of work system would require. Not only that, but proponents of proof of stake systems also suggest that this particular type of consensus mechanism could help keep systems decentralized by reducing the likelihood and profitability of a potential Tragedy of Commons issue.

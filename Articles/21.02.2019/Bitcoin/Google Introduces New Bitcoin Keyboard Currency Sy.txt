@@ -1,0 +1,43 @@
+DATE:  21.02.2019, 02:58:57
+TITLE: Google Introduces New Bitcoin Keyboard Currency Symbol
+URL:   https://news.bitcoin.com/bitcoin-currency-symbol-google/
+
+Google Introduces New Bitcoin Keyboard Currency Symbol
+
+In what some view as a landmark move, Google developers have added the bitcoin currency symbol to the iOS keyboard. The move, by a company so successful it’s evolved its domain name into a verb, reflects Bitcoin’s mainstream trajectory.
+
+Also read: 10 Years Ago Bitcoin’s Genesis Block Changed the Course of History
+
+An Unlikely Love Story: Apple, Bitcoin and a Currency Symbol
+
+The bitcoin symbol, which has seen deployed in a shortcuts app to aid Siri with command execution, is available on the Google Keyboard on iOS devices. Apple’s native keyboard does not have this functionality.
+
+A Reddit user explained how to produce the key manually: “If any of you guys want to be able to type it, the Unicode code point it: U+20BF. For me, on Linux this means hitting Ctrl-Shift-U then releasing and typing 20BF or 20bf since caps don’t seem to matter which produces a nice ₿.”
+
+For Windows, another user proved just why an Android symbol would be very welcome indeed: “On windows, you first have to edit the registry. In order to enable a universal (independent of language settings) input method in Windows, one can add a string type (REG_SZ) value called EnableHexNumpad to the registry key HKEY_CURRENT_USER\Control Panel\Input Method and assign the value data 1 to it. Users need to log off/in on Windows 8.1/8.0, Windows 7, and Vista or reboot on earlier systems after editing the registry for this input method to start working. Then, holding ALT and typing “+20BF” should give ₿.”
+
+It’s unclear why Google has opted to add the bitcoin symbol to Apple’s interface and not yet to that of Android. Apple’s penchant for privacy is a good fit for bitcoin users, yet its wallet-gobbling insistence on proprietary software is in direct contrast to Bitcoin’s – and Google’s, for that matter – open-source nature. With most privacy-minded individuals opting for Android over iOS, it’s thus slightly ironic that the bitcoin symbol, a currency arguably geared towards the privacy-conscious, is available exclusively on iOS. Even more ironic is the fact that most iOS users tend to use the native Apple keyboard as opposed to the Google version, pointing to Google’s permissions requirement as an adoption deterrent.
+
+From Brand Recognition to Brand Adoption in a Single Keystroke
+
+If brand recognition is any indication of eventual mainstream acceptance then Google’s addition of a bitcoin currency symbol to its native iOS keyboard is a sizeable arrow pointing in the right direction.
+
+The symbol now features on the Google keyboard currency strip alongside the dollar, euro, yen, pound, Korean won, Russian ruble, Indian rupee, and the cent symbol.
+
+It’s alluring to fall into the honey trap that this spells significant news. The tech conglomerate, which under the guise of parent company Alphabet co-founder and president Sergey Brin once admitted that it “failed to be on the bleeding edge [of blockchain]” is finally coming around. That Alphabet is going Bitcoin, and then – just maybe – crypto. (Especially in light of Google’s AI defining bitcoin as a “collapsed economic bubble” or making the cryptocurrency industry the butt of a launch joke.)
+
+After all, in the period 2012-2017, Google placed second as the most active corporate investor in the blockchain space. And rumors regarding a cryptocurrency of Google’s own making have been circulating for a while, but that seems far-fetched, with Brin admitting as recently as last year that he doesn’t know “a whole lot about cryptocurrency” save for an amateur ethereum mining rig he’d set up with his son.
+
+Offering a Window Into the World’s Collective Conscious
+
+While the addition of a bitcoin currency symbol certainly shows Google isn’t turning a blind eye on the world of crypto, this latest news is unlikely to signal Alphabet’s foray into the land of cryptopia. Instead, for a company that makes billions out of listening to us ask questions, it’s only natural that they would give us what we want. According to Google Trends, the search query “What is bitcoin” was the year’s top in the U.S. and U.K. in 2018. A company that, in layman’s terms, “owns the internet” can only stay top by doing what it does best: playing host to the globe’s digital hive mind. And if that collective mind wants bitcoin, then bitcoin is what it’ll get.
+
+Google has a significant effect on the cryptocurrency market. Unlike other movers and shakers holding the stock market in the palm of their hands, it’s primarily a content ledger, whether that content is organic or paid. Yet when the bitcoin price dropped by 11 percent after Google announced it would follow in Facebook’s footsteps and restrict the display of crypto ads in 2018 (a ban that’s since partially been lifted), it drove home the reality that Google has more of a say in crypto-land than many would like.
+
+Time will tell what cascading effect the addition of the bitcoin symbol will have in the minds of everyday iOS users. And, of course, when Android users will get to greet the new family member.
+
+What do you make of the addition of a bitcoin currency symbol to iOS? Tell us in the comments section below.
+
+Images courtesy of Shutterstock and Reddit.
+
+Do you like to research and read about Bitcoin technology? Check out Bitcoin.com’s Wiki page for an in-depth look at Bitcoin’s innovative technology and interesting history.

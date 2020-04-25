@@ -1,0 +1,41 @@
+DATE:  17.05.2019, 15:10:14
+TITLE: 'Craig Is a Liar' – Early Adopter Proves Ownership of Bitcoin Address Claimed by Wright
+URL:   https://news.bitcoin.com/craig-is-a-liar-early-adopter-proves-ownership-of-bitcoin-address-claimed-by-craig-wright/
+
+'Craig Is a Liar' – Early Adopter Proves Ownership of Bitcoin Address Claimed by Wright
+
+On May 16, an unknown person posted a signed message to social media concerning a bitcoin address that was used as evidence in the ongoing Kleiman v. Wright lawsuit. According to the message, which is verified to be the rightful owner of the address used in the Florida lawsuit, the address never belonged to “Satoshi or to Craig Wright” and once held over 160,000 BTC.
+
+Also read: Blockchain Researchers Mock Craig Wright’s Unsealed Bitcoin Address List
+
+** This post was edited on 5/18/19 to reflect new information from Craig Wright’s recent blog post concerning the specific court documents mentioned in this article.
+
+Bitcoin Whale: ‘This Address Does Not Belong to Satoshi or Craig Wright’
+
+Since last year, Craig Wright has been involved in a lawsuit against the Kleiman family who are suing him for allegedly manipulating the now deceased Dave Kleiman’s inheritance. Wright and Kleiman worked together and the Kleiman estate and Dave’s brother Ira accuse Wright of fraud of “over $11 billion worth of bitcoins.” This is due to a slew of documents and contracts submitted as evidence in the Florida lawsuit. One specific contract submitted to the courts called Exhibit 11 shows a variety of bitcoin addresses that were allegedly used in a trust held in the UK.
+
+The supposed trust would be kept untouched until the “regulatory issues” were resolved, likely referring to the regulatory unknowns with bitcoin at the time. However, on Feb. 27, 2018, almost immediately after the case came to light, Wizsec Security published a post called “Kleiman v Craig Wright: The bitcoins that never were” which debated the legitimacy of the trust’s addresses.
+
+Wizsec’s research concluded that the only reason the addresses were used is because at one time they all had large amounts of BTC in them. The security researchers also went through the addresses to determine who the addresses may have belonged to. Some wallets were simply used for Mt. Gox cold storage and others were merely traders who managed to accumulate lots of coins. But on May 16, the owner of one of the bitcoin addresses listed — 16cou7Ht6WjTzuFyDBnht9hmvXytg6XdVT — posted a message to social media claiming ownership of the address. The message read:
+
+Address 16cou7Ht6WjTzuFyDBnht9hmvXytg6XdVT does not belong to Satoshi or to Craig Wright. Craig is a liar and a fraud.
+
+Signing a Message Tethered to a Bitcoin Address Requires Private Key Ownership
+
+The message also contained the legitimate signature of the owner, which can be verified by using public tools online. Essentially the owner’s signed message contains a hash that successfully validates against the specific address that once held more than 160,000 BTC. After the message was posted to social media, Bitcoin supporters and blockchain analysts tested and verified it with tools to make sure it was legitimate.
+
+Blockchain developer Mark Lundeberg posted an image to r/btc that shows the Electron Cash wallet verified the message as being real. Many others verified the message as well, including the developer Jameson Lopp who posted his findings to Twitter. About a week before the verified signature was published on social media, Lopp stated that if the year-old Wizsec Security report was accurate then there are “~23 people who could cryptographically disprove Craig’s claimed ownership of these addresses.”
+
+The address, 16cou7Ht6WjTzuFyDBnht9hmvXytg6XdVT (16cou-), is used in at least two documents stemming from the Kleiman v. Wright lawsuit, otherwise known as the Southern District Court of Florida case 9:18-cv-80176. The address is mentioned in Exhibit 11 as well as Exhibit 4 which describes an interesting encounter. Allegedly on October 13, 2011, Wright’s attorney swore by oath that his client came into his office and showed him his HTC mobile phone. Then, the lawyer writes, “on the screen of the Wright mobile, I reviewed and verified the following bitcoin wallet addresses.” The last address listed on Exhibit 4 is the 16cou- address, the very one that was verified on May 16 and left a message calling Wright a “liar and fraud.”
+
+However, on May 18, 2019, following the recent 16cou- address signing, Wright posted a blog post on Medium which claims that the scanned court documents displaying the 16cou- address and other bitcoin addresses were altered and have different fonts in regard to Exhibit 11. In addition to the blog post, an individual on Twitter posted a side-by-side picture that allegedly shows another version of Exhibit 4 with entirely different addresses.
+
+The recent address signing from the ‘OG bitcoin whale’ spread like wildfire on Reddit and Twitter throughout the day. The message was meaningful to bitcoiners and not just for what it said, but for how it truly verified the integrity of the message. The demonstration has shown how validating ownership of a bitcoin address is simple. This has been the biggest cause of Wright’s self-proclaimed Satoshi theory being discredited as he has never provided any valid cryptographic proof.
+
+Just as the legitimate address owner of the 16cou- address proved ownership, anyone can prove ownership with a bitcoin address if they truly hold the private keys. Crypto supporters know that simply claiming ownership of certain UTXOs is impossible without the private keys. People who attempt to do so without cryptographic proof will always fail miserably by showing they don’t understand how the technology works.
+
+What do you think about the person who signed a message from the 16cou- address on May 16? Let us know what you think about this subject in the comments section below.
+
+Image credits: Shutterstock, Pacer, Court Listener, Twitter, Mark Lundeberg, Memo, and the Electron Cash wallet.
+
+Did you know Bitcoin.com will soon be launching a peer-to-peer trading platform called Local Bitcoin Cash? The service will allow for direct exchange with people trading BCH all around the world. At Bitcoin.com we’re excited and it’s coming soon! If you want to stay notified for when the hottest new trading platform launches – Sign up here today!

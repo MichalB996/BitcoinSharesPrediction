@@ -1,0 +1,75 @@
+DATE:  09.01.2020, 23:30:08
+TITLE: How Dropgangs and Dead Drops Are Transforming Darknet Practices
+URL:   https://news.bitcoin.com/how-dropgangs-and-dead-drops-are-transforming-darknet-practices/
+
+How Dropgangs and Dead Drops Are Transforming Darknet Practices
+
+Since the creation of the Silk Road, authorities have waged a war against the online drug trade with a wave of surveillance and enforcement. However, crypto-anarchists are developing new ways to evade the state’s tentacles as the next technological phase started to emerge in late 2017. On Monday, the Cypherpunk Bitstream podcast discussed the evolution of darknet markets as new ideas like dropgangs and dead drops proliferate into the next decade.
+
+Also read: Why the Counter Economy Is Necessary to Bitcoin’s Survival as a Disruptive Currency
+
+The Importance of Evolving Darknet Practices
+
+At the end of 2019, the publication Vice highlighted the fact that since 2014 the number of users buying illicit narcotics on darknet markets (DNM) has doubled. Vice columnist David Hillier’s report underlines the fact that DNMs have increased since the Silk Road, but the growth of ‘Snapchat dealers’ and other instant messenger service drug operations has multiplied. For instance, Hillier cites a report called “DM For Details” which explains that in 2019, 24% of young people said “they see illicit drugs advertised for sale on social media.” 56% of the drugs being sold are on Snapchat, 55% of ads are seen on Instagram, and 47% leverage Facebook Messenger. The report detailed that cannabis is the most popular drug advertised 63% of the time, while cocaine was the second most popular drug.
+
+Meanwhile, the podcast “Cypherpunk Bitstream” hosts Jonathan ‘Smuggler’ Logan and ‘Frank Braun’ published an episode which discussed the advancement of the online drug trade and Smuggler’s nine-page article “Dropgangs, or the Future of Darknet Markets.” Smuggler’s research studied how DNMs have evolved since they were first advertised on the clearnet and migrated to the deep web via the Silk Road (SR). When SR was seized by global law enforcement, dozens of new DNMs popped out of the woodwork with mega-markets like Dream and Alphabay.
+
+D E F I A N C E
+
+Unschoolers defy the ED.
+
+Biohackers defy the FDA.
+
+Gun printers defy the ATF.
+
+Drone pilots defy the FAA.
+
+Carnivores defy the USDA.
+
+Cypherpunks defy the NSA.
+
+Token issuers defy the SEC.
+
+Darknet markets defy the DEA.
+
+Bitcoiners defy the Federal Reserve. — Jameson Lopp (@lopp) January 9, 2020
+
+However, in 2017, police forces shut down Alphabay and operated Hansa undercover for more than 30 days before closing it. Smuggler’s editorial notes that the “loss of darknet markets led to severe disruption of client-merchant relationships.”
+
+“Identities and reputation being lost, previous marketing efforts being negated – often leading to temporary or even permanent collapse of merchant business,” he added. Despite the cat-and-mouse game of surveillance and evasion, Smuggler’s research notes:
+
+The problems of darknet markets have triggered an evolution in online black markets.
+
+Cypherpunk Bitstream Episode 0x04 Talks About Dropgangs, Dead Drops, Drone Mix networks, and Sneakernet
+
+On January 6, 2020, Smuggler conversed about the topic of dropgangs on episode 0x04 of the podcast Cypherpunk Bitstream. Smuggler talked about the premise of his article with Frank Braun and defined what a dropgang is for listeners. “Dropgangs are organizations that distribute contraband by using mostly messenger services, often cryptocurrencies, and dead drops.”
+
+Dropgangs solve the last mile problem of the drug trade. — Frank Braun (@thefrankbraun) January 8, 2020
+
+Smuggler also gives an example of a dropgang that leverages messenger services like Telegram. Basically you text on Telegram, agree on a price, and the dealer sends coordinates to a secret location where you can pick up the goods. “[Darknet markets are] not the end of development when it comes to the distribution of contraband,” Smuggler emphasized on the podcast. “One of the tendencies of [DNMs] is that they appear, they’re used and then they go away. And in between, you have a lot of people that are arrested.”
+
+Smuggler notes that in Eastern Europe and throughout the Balkan States, there’s another end of the spectrum of the online drug trade where DNMs have evolved. In a lot of Eastern European countries, the dominant model is different to a centralized DNM website that simply sells product. This is because vendors from these regions started using dead drops early, Smuggler told Braun during the podcast. Braun agreed and said that this was because the postal system in that area of the world was never really trustworthy. The dead drop method allows the vendor to drop the product at a secret and random geographical location that only the two parties are aware of. This idea skips the global mail systems and customers can remain anonymous and don’t have to reveal an address.
+
+Postal Service Vulnerabilities
+
+During the mid-section of the episode, Smuggler and Braun go into great detail on how the postal service flags and tracks suspected contraband dealers. Smuggler highlights the global mail systems’ flagging infrastructure and sorting equipment is digitally augmented. Some things are augmented so far that the letters get a tracing code printed on it and people don’t notice it, Smuggler says. If a package or letter is found suspicious, the hidden tracing code is added which flags all letters posted in the same container and allows investigators to track origins and create heat map-like data points. Smuggler insists that over time, the heat map tracking system is perfected and “you get a map with a statistical overlay.” The podcast host says this kind of mail inspection gives investigators a really good indication about where the sender is from and the frequency of mail the vendor ships.
+
+The issues tethered to centralized DNMs and the postal service mail inspection process make Braun and Smuggler stress the importance of evolving black market practices. In addition to the discussion about dropgangs, dead drops, existing DNMs, and the postal service, the two hosts talk about the idea of drone mix networks that could leverage drones and hard-to-trace communication mixes.
+
+Cypherpunk Bitstream’s episode 0x04 also touches upon concepts like sneakernet. Rather than transmitting information via connected computer networks, individuals leveraging the transfer of data via physical devices can greatly improve privacy. For instance, a person could create a BCH bearer bond instrument by using an optical disc, USB flash drive or external hard drive loaded with BCH and pass it along a network of individuals without the transactions ever being seen on a public block explorer. Sneakernet crypto trading might be essential after the Fifth Anti-Money Laundering Directive (5AMLD) and the updated FATF “Travel Rule” take effect this year. Four years ago, before bitcoiners became infatuated with institutional interest, a few decentralized marketplace ideas emerged.
+
+First Ever Decentralized Market Transaction Just Happened in Drop Zone: https://t.co/18A086u3Mj #bitcoin #btc — Bitcoin España (@Bitcoin_Spain) December 21, 2015
+
+On August 30, 2015, Reddit user miracle-max_ described a decentralized marketplace layer written on top of the BTC chain called the Drop Zone Protocol. The system was originally tested on BTC’s testnet and the author of the concept released a paper on the cryptography mailing list. The paper called “Drop Zone: An Anonymous Peer-To-Peer Local Contraband Marketplace” describes the system’s properties. It featured concepts like anonymous and encrypted communications with built-in reputation controls. Additionally, “contraband markets can be open and anonymous,” Miracle Max wrote at the time.
+
+Another concept similar to Max’s Drop Zone is Voluntary Labs project Bitmarkets, an idea that leveraged Bitmessage for listings and buyer/seller communications and runs on Tor by default. Both Bitmarkets and Drop Zone never really materialized and people remained mostly dependent on centralized DNMs up until 2017. Since the fall of the major DNMs in 2017, the peer-to-peer application Openbazaar has been used lightly to facilitate contraband deals, mainly with narcotics like cannabis. Centralized DNMs have been a mess over the last two years and several of the most popular marketplaces went under in 2019.
+
+The recently published Cypherpunk Bitstream podcast is over three hours long, but gives a comprehensive overlook of where things are headed within the modernized online drug trade. Law enforcement seems to be leading the cat-and-mouse game but the podcast shows that evasion schemes are growing stronger in certain regions. Readers who are interested in this subject can read Smuggler’s article published last year, and listen to Smuggler’s podcast in its entirety via the link below.
+
+What do you think about the evolution of DNMs and ideas like dropgangs and dead drops? Let us know what you think about these topics in the comments section below.
+
+Disclaimer: This article is for informational purposes only. Readers should do their own due diligence before taking any actions related to the subject matter written above. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any ideas, software, concepts, content, goods or services mentioned in this article.
+
+Image credits: Shutterstock, Bitmarkets, Openbazaar, Twitter, Wiki Commons, Fair Use, and Pixabay.
+
+Did you know you can buy and sell BCH privately using our noncustodial, peer-to-peer Local Bitcoin Cash trading platform? The local.Bitcoin.com marketplace has thousands of participants from all around the world trading BCH right now. And if you need a bitcoin wallet to securely store your coins, you can download one from us here.

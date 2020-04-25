@@ -1,0 +1,29 @@
+DATE:  29.01.2019, 17:00:14
+TITLE: TokenSoft Launches Crypto Custody Service for Security Tokens
+URL:   https://www.coindesk.com/tokensoft-launches-crypto-custody-service-for-security-tokens
+
+TokenSoft is rolling out what it describes as the first cold-storage custody service designed specifically for security tokens.
+
+The company, which also helps other firms run legally-compliant token sales and has invested in a broker-dealer, is launching a beta version of the wallet to all of its existing and future customers today. Known as Knox (after the U.S. Army post where gold is held), it allows enterprises to maintain a multi-signature, self-custody system for different cryptocurrencies, as well as digital securities.
+
+“It provides the highest level of security when it comes to … storing digital securities, which [are] newer to the market,” said TokenSoft co-founder Mason Borda. “The digital asset industry’s been comfortable with storing [coins] for the last few years, digital securities are kind of new ground.”
+
+Digital securities differ from cryptocurrencies in that they tend to be less decentralized and have built-in restrictions for traders, Borda explained, while digital assets such as bitcoin suffer from no such restrictions.
+
+Further, digital securities can be asset-backed tokens, representing equity, debt or real estate, as some examples.
+
+Borda called the Knox wallet “the first custody solution for digital securities,” adding:
+
+“I think it’s a key piece of infrastructure that the industry has ignored up until now, and this puts it on the map as a key piece of infrastructure that’s necessary to service digital securities.”
+
+All-in-one
+
+The Knox wallet can hold any ERC-20, ERC-1404, DS-20 (Securitize), ST-20 (Polymath) or Harbor’s R tokens. It also will support bitcoin and ether, though Borda emphasized that the focus would remain on digital securities rather than cryptocurrencies. However, such securities can be built on top of the ethereum, stellar, R3 or Hyperledger blockchain platforms.
+
+“What we hear a lot is that it’s very easy to use and [investors] wish that they could also manage their bitcoin like this, and so that’s why we rolled in support for additional digital assets, though that’s not the focus for the product,” he said.
+
+The different security features included with the wallet range from providing offline cold storage, allowing multiple owners to authorize or execute transactions and cryptographic authentication.
+
+The Knox wallet was first developed in 2017, and while select customers had access to it over the past year, Tuesday’s release is “production grade,” though the service remains in beta, Borda said. The wallet will be available more broadly to the general public in the coming months, though there is no timeline for this release just yet.
+
+Vault door image via Shutterstock

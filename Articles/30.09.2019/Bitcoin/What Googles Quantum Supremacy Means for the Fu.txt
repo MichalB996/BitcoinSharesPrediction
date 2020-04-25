@@ -1,0 +1,91 @@
+DATE:  30.09.2019, 11:00:33
+TITLE: What Google’s ‘Quantum Supremacy’ Means for the Future of Cryptocurrency
+URL:   https://www.coindesk.com/what-googles-quantum-supremacy-means-for-the-future-of-cryptocurrency
+
+Just like that, the promise of quantum computers overtaking traditional computers is one step closer to reality.
+
+According to a recent report by the Financial Times, tech giant Google claims to have achieved “quantum supremacy,” meaning it has built a quantum computer able to solve formerly impossible mathematical calculations.
+
+If proven true, this marks a major milestone in the development of quantum computers and possibly, the demise of blockchain technology as we know it today.
+
+Since the advent of bitcoin, the threat of quantum computing has motivated researchers, technologists and, now, governments, to build software able to resist attack by even the most powerful quantum computers.
+
+Quantum computers, while still largely theoretical, are thought to vastly speed up the process of solving complex computations. So much so that current calculations impossible for a current computer to solve in one human lifespan would take mere seconds for a quantum computer to crack.
+
+As explained by data research firm CB Insights, quantum computers rely on “naturally occurring quantum-mechanical phenomena” known as superposition and entanglement.
+
+“These states of matter, when harnessed for computing purposes, can speed up our ability to perform immense computations,” said the report.
+
+Canada steps in
+
+And this summer, the National Research Council (NRC) of Canada partnered with the University of Waterloo to launch a two-year research initiative for quantum-safe blockchain technology.
+
+The research, led by University of Waterloo professors Srinivasan Keshav and Michele Mosca, is receiving a total of $180,000 over this two-year period to expand the team with other “highly qualified personnel,” said Nic Defalco, communications advisor to the NRC.
+
+Among state governments, Canada is the leader in quantum computing research, according to Andersen Cheng, CEO of quantum R&D firm Post-Quantum.
+
+“Other governments are trying to play catch-up,” said Cheng. “The U.S. is lagging behind quite a bit. The UK is putting a lot of money into quantum computing hardware and now, they’re just about to start thinking about post-quantum software and cryptography.”
+
+U.S. President Donald Trump signed the National Quantum Initiative Act into law last December, allocating $1.2 billion over a five-year period to activities promoting quantum information science. In June, the UK’s National Quantum Technologies Programme received an additional $193 million of funding from the UK government, placing total investments in the program since 2014 at $1.2 billion.
+
+Why the fuss?
+
+Efforts in the private sphere are similarly increasing, according to CB Insights, which found the number of investments in private quantum computing startups has increased over 200 percent in the past six years.
+
+All this, in the mind of Adam Koltun of the Quantum Resistant Ledger (QRL) Foundation, speaks to a growing problem.
+
+“A decade ago people said it would take 50 years to get where we are now with quantum computing. Five years ago, they said it would take 25 years to get where we are now. So quantum computing has this nasty habit of exceeding people’s expectations,” said Koltun, adding:
+
+“The blockchain industry does need to grapple with this and be wary.”
+
+Koltun’s group claims to have built the first blockchain that is secure against attacks from quantum computers.
+
+Without proactive behavior to safeguard existing technologies from possible attacks, Koltun fears the future blockchain and cryptocurrencies – and also the internet at large – will be at risk.
+
+Cautionary tale
+
+There are actually a few different ways a quantum computer can snap a blockchain.
+
+For one, blockchain transactions are secured with digital signatures based on elliptic curve cryptography (ECC). ECC coincidently is also used on the internet to encrypt user data and website traffic.
+
+However, ECC is not “quantum-safe,” according to Post-Quantum’s Cheng, meaning that a powerful quantum computer could theoretically decrypt user private keys and forge transaction signatures on their behalf.
+
+“Once that trust is broken, that will be the end of cryptocurrencies,” said Cheng, adding:
+
+“If you can no longer tell whether [the right] people are signing transactions to you or not, then you have destroyed trust. This cryptocurrency world is based on a distributed, trustless environment.”
+
+This is by far the most pertinent security issue for blockchains when it comes to co-existing in a world with quantum computers – especially given that researchers and mathematicians are already aware of a possible algorithm, called Shor’s algorithm, that could be used by a sufficiently powerful quantum computer to break elliptic curve digital signatures.
+
+“We’ve had the math available for us for decades in terms of what the first and second generation of quantum computers are going to look like,” said the QRL Foundation’s Koltun.
+
+At the same time, Koltun did contend that quantum computers may vastly exceed scientist’s expectations and prove to make blockchain technology obsolete in ways not yet imagined.
+
+Said Koltun:
+
+“You should be wary of anyone who claims to sell you a waterproof watch or quantum-proof blockchain because we are not yet fully aware of the potential of quantum computers. … For someone to proclaim any technological product, blockchains or otherwise, as impervious to quantum computers would require them to know what these computers are entirely capable of, which we don’t.”
+
+Fighting an enemy that doesn’t yet exist
+
+Precisely because the full capabilities of quantum computers are not yet known, combatting their impact to existing blockchain platforms may sound like a doltish task.
+
+As frequently explained by prominent bitcoin evangelist and author Andreas M. Antonopoulos, the threat of quantum computing in his mind is often overplayed.
+
+“We can migrate quite easily to another algorithm,” he said last year during one of his monthly Q&As. “It’s not really as big a threat as people think it is.”
+
+What’s more, while the capabilities of quantum computers might be vastly more extensive than currently imagined, they may also be vastly overstated.
+
+“Google’s quantum breakthrough is for a primitive type of quantum computing that is nowhere near breaking cryptography,” said bitcoin core developer Peter Todd. “We still don’t even know if it’s possible to scale quantum computers.”
+
+Still, if there’s a general understanding that quantum computing will be a problem for blockchain networks moving forward, Keshav, the professor at the University of Waterloo, asks:
+
+“Shouldn’t we be doing something about it today?”
+
+Keshav said his newly commissioned research team would be looking into a handful of the most promising “quantum-safe cryptography” tools, including lattice-based cryptography and multivariate public-key cryptography. His researchers will initially begin testing on the enterprise-focused Hyperledger Fabric blockchain.
+
+There are scores of others that the wider crypto space should be looking into, according to Keshav. Pointing to an ongoing competition hosted by the U.S. National Institute of Standards and Technology (NIST), Keshav said there have been over 80 different proposals submitted from researchers and academics for “quantum-resistant, public-key cryptographic algorithms.”
+
+Having put forth his own proposal in NIST’s ongoing cryptography competition, Post-Quantum’s CEO Andersen Cheng said:
+
+“You don’t need a quantum computer to come into existence to work out what is required to counter the threat from it. This isn’t trial and error because you can work out mathematically what is good enough or not.”
+
+Model quantum computer image via Shutterstock

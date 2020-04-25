@@ -1,0 +1,25 @@
+DATE:  27.01.2020, 10:45:54
+TITLE: Bad Actors Rent Hashing Power to Hit Bitcoin Gold With New 51% Attacks
+URL:   https://www.coindesk.com/attackers-rent-hashing-power-to-hit-bitcoin-gold-with-new-51-attacks
+
+Bitcoin gold, a cryptocurrency that forked from bitcoin in 2017, has again been hit by 51 percent attacks.
+
+Occurring Thursday, according to tweets from the bitcoin gold team, two deep blockchain reorganizations (or reorgs) resulted in double spends of 1,900 BTG and 5,267 BTG, respectively. The losses amount to around $87,500 at current prices.
+
+"We do not know if they successfully extracted any value from an exchange. Advanced risk control systems in exchanges make it likely one or both attacks failed," they wrote.
+
+"Evidence" suggests the attacks used mining power obtained through mining power marketplace NiceHash, according to the team.
+
+A 51 percent attack is conducted by actors who are able mine a blockchain network with more than half its hashing power, hence the name. This enables transactions to be rewritten, potentially diverting previously spent funds to a different address, as was the case here.
+
+Writing on GitHub over the weekend, James Lovejoy, lead maintainer of the vertcoin cryptocurrency and a researcher at MIT's Digital Currency Initiative, said the attacker mined blocks with an address that can be seen here.
+
+In another tweet, the bitcoin gold team said: "We are in contact with exchanges to offer security help and got positive feedback from them. The targeted exchange(s) have already taken effective measures."
+
+While the exchanges were not named, Lovejoy said Binance has increased its withdrawal requirement for BTG to 20 confirmations from 12 since the attack.
+
+Based on NiceHash data, the estimate cost to the attacker of each reorg was roughly 0.2 bitcoin (around $1,700), he added – around the amount that would have been given out in block rewards. As such, even if exchanges manage to block the double-spent coins, the attack would have broken even.
+
+The is not the first time bitcoin gold has seen such an attack. In May 2018 around $18 million in the cryptocurrency was reportedly double spent.
+
+Interestingly, bitcoin gold's value has risen since news of the attack broke. At the time of writing, the price of BTG is around $12.20 – up 18.70 percent over 24 hours.

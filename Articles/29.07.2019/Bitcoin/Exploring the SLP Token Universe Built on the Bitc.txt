@@ -1,0 +1,53 @@
+DATE:  29.07.2019, 20:00:28
+TITLE: Exploring the SLP Token Universe Built on the Bitcoin Cash Chain
+URL:   https://news.bitcoin.com/exploring-the-slp-token-universe-built-on-the-bitcoin-cash-chain/
+
+Exploring the SLP Token Universe Built on the Bitcoin Cash Chain
+
+Since last August, the Simple Ledger Protocol (SLP) has become a prevalent application within the Bitcoin Cash ecosystem. So far there’s been thousands of SLP tokens created, a number of which have been very popular and used regularly. Tokens have been issued by governments like Liberland, there’s a new SLP stablecoin backed by USD, a city-token being built for Dublin, Ohio and trading platforms like Coinex and Altilly have begun to list SLP-based tokens.
+
+Also Read: SLP Developers Publish Specs for a Unique Type of Non-Fungible Tokens
+
+Bitcoin Cash Tokenization Matures With the Simple Ledger Protocol
+
+The token universe on the Bitcoin Cash blockchain is growing and since last year there’s been close to 2,700 tokens created using the Simple Ledger Protocol framework. All of the tokens created using the protocol can be queried using the SLP explorer called Simpleledger.info or a block explorer that supports the SLP type standard.
+
+Bitcoin Cash proponents appreciate the SLP standard because the token system does not interfere with the BCH chain’s consensus rules. SLP tokens and their transactions have metadata attached to them, which is data that describes and gives information about the token’s properties. The SLP system ties the metadata to OP_Return transactions on issuance, and when tokens are sent and received.
+
+“Because SLP builds on the transaction chain of the existing Bitcoin framework, users can easily verify transactions with SPV/lite wallets within practical boundaries,” the Simple Ledger Protocol whitepaper explains. “Full validation of a transaction back to its token genesis is possible by supplementing existing transaction-retrieval infrastructure with integration of SLP consensus rules.”
+
+Spice, Liberland’s Merits, Dublin Ohio’s City Tokens, Cash Games Dividends, and ACD
+
+When the project started, lots of people created tokens for fun and to experiment with the SLP framework. After a few months, token creations became more robust and people have started using them for a variety of reasons. Currently, the most popular tokens by transaction volume include projects like Honk Honk, Spice, Brave Sound token, Official Honk, ACD coin, Amouranth, Honks and Taylor Swift token. Honk Honk tokens capture 26.4% of the SLP transaction volume while Spice tokens hold 9.1%. Spice tokens are used to tip regularly on Telegram channels and even Twitter.
+
+In April, the sovereign micronation known as Liberland issued its own SLP tokens to bolster Liberland’s goals as an independent and free nation. Liberland’s Merits (LLM) tokens are listed and traded on the Altilly exchange. LLM tokens are paired against BCH on Atilly and are swapping for 0.00199900 BCH ($0.61) per LLM. Last year, Vit Jedlicka, Liberland’s President, detailed that at some point merits will be used for “more of a share in Liberland than a cryptocurrency.” Moreover, in the future, as Merits become more mature, they could be used for special voting privileges and paying for state contributions (voluntary taxes).
+
+Following the launch of Liberland’s merits, in July the CEO of the BCH implementation Bitcoin Verde revealed that the local government from Dublin, Ohio is planning to issue SLP-based tokens. The unnamed SLP token aims to curate three different functions: a token of value, an electronic polling system, and digital identity. “The ‘Dublin token’ is intended to be a reward and barter system for Dublin’s citizens — to incentivize positive behavior,” Green told the BCH community on July 2. “For instance, citizens may receive ‘Dublin Points’ for participating in volunteer programs and can use the points in exchange for city-branded swag, for priority parking, or can be redeemed by vendors for goods or rewards.”
+
+Then there’s SLP utility coins and dividend tokens. For instance, on July 23, Bitcoin.com’s Roger Ver announced the launch of a Cashgames.Bitcoin.com Dividend Test Token (CGT). “Bitcoin Cash has enabled all sorts of amazing things — One of them is the ability to pay dividends in BCH directly on the blockchain to the addresses holding a specific token type,” Ver explained. “This essentially turns SLP tokens into bearer shares that are able to collect dividends. I don’t think people appreciate how awesome this is yet, so I wanted to help get things started.”
+
+At the time, there were 173 BCH in the Cashgames hot wallet and over the next few days holders of the Cashgames.Bitcoin.com Dividend Test Token got sent half of all the BCH earned on the site when dividend payouts were sent. The distribution of Bitcoin.com’s dividend token concept will be based on the percentage of tokens you hold. In the near future, Bitcoin.com will be launching “Cash” tokens for all of the BCH-centric projects within the Bitcoin.com portfolio. Anyone will be able to purchase, sell, and hold Cash tokens in order to get distributed dividend payments.
+
+Last May, the Tokyo-based Alliance Cargo Direct, a subsidiary of ANA Holdings (ALNPF), announced the launch of an SLP token called ACD. According to Alliance Cargo Direct, ACD and BCH will be supported by physical and online merchants partnered with the company. Alongside this news, in order to bolster ACD’s utility, the business also initiated an ACD coin buyback project. ACD is also listed on Coinsuper exchange and is currently swapping for $0.065 paired against USD and is up 8.33% over the last 24 hours.
+
+BTC2 and Honestcoin: SLP Tokens Backed by Assets
+
+There are two coins that are backed 1:1 with other assets: Sideshift.ai’s BTC2 which is backed by BTC and then Honestcoin (USDH) created by the company Honestnode and backed by USD. Both SLP-based tokens were introduced to the BCH community on the same day. The cryptocurrency exchange Coinex revealed the USDH launch and also explained that week that the trading platform will be listing other SLP tokens in the future. Honestnode’s CEO Jian Shi told news.Bitcoin.com that USDH is a regulated and secure stablecoin backed 1:1 with USD and partnered with a San Francisco-based compliance provider Koi Compliance. Jian Shi told our newsdesk the startup Honestnode is building a whole ecosystem around the USDH token. Moreover, Jian Shi emphasized that SLP tokens built on top of the BCH chain are more robust than tokens created on Ethereum (ERC20s) or Omni Layer (Tether). “At the same time, Bitcoin Cash supports large blocks, with low transfer fees (about 1 satoshi) and 0 confirmation (instant arrival of small amounts),” he explained, which allows USDH to move fluidly.
+
+BTC2 (Core Cash) is backed 1:1 with BTC and was launched by the cryptocurrency swapping platform Sideshift.ai. The Sideshift project created by Andreas Brekken allows users to trade cryptocurrencies between chains with ease. When Brekken launched BTC2, he told news.Bitcoin.com that all the BTC is collateralized by Sideshift. “Sideshift.ai is to BTC2 what the firm Tether is to USDT,” Brekken explained. At the time of publication, BTC2 has a market capitalization of around $957,000 with 100 BTC2 tokens in circulation.
+
+Third-Party SLP Infrastructure Support and the Continued Growth of BCH Tokenization
+
+Since the creation of the SLP system, there’s now a couple of ways people can issue tokens. The first is the SLP version of Electron Cash (EC) which is an alternative version of the light wallet that allows for token creation. News.Bitcoin.com has published a step-by-step walkthrough that explains how easy it is to issue SLP tokens using the BCH wallet. Not too long after the launch of the SLP-centric EC wallet, the social media platform Memo.cash created a way for users to produce tokens. Generating tokens on the Memo.cash platform takes less than a minute and our newsdesk published a review of that process as well. Additionally, there’s a decent number of light wallets that support SLP tokens so people can store and validate their own SLP token transactions in a noncustodial fashion. Wallets like Ifwallet, Crescent Cash, Badger, Electron Cash, and Memo’s native wallet all give users the ability to store, send, and receive tokens.
+
+The SLP ecosystem is only going to continue to grow more mature over time and there’s plenty of token projects in the making. In March, Tribeos founder Matt Gallant and Electron Cash founder Jonald Fyookball explained Tribeos is creating an SLP token for a Security Token Offering. The STO was approved by the Bermuda Minister of Finance under new digital asset laws in the region. On July 26, SLP developers Fyookball and James Cramer published new specifications for a unique type of non-fungible tokens called NFT1. This implementation will allow anyone to create non-fungible tokens that can be grouped together by a single ID.
+
+This type of token opens the doors to things like collectibles, digitized assets like virtual land, virtual items for extensible blockchain games, lotteries, raffles and event tickets. There’s been a lot of concepts produced by these SLP tokens and the protocol is really just getting started. Developer Tobias Ruck launched an onchain token auction protocol for SLP tokens and the point-of-sale (PoS) service Bchpls.io now supports SLP. Engineers can also supercharge their BCH application workflow with SLP and Badger Wallet software developer kits (SDKs).
+
+It’s likely that people with innovative concepts will design a lot more tokens within the SLP ecosystem, which should help push the value and utility of bitcoin cash alongside the people using BCH for traditional double spend-resistant onchain settlement.
+
+What do you think about the environment being built around the Simple Ledger Protocol and all the tokens created on top of the BCH chain so far? Let us know what you think about this subject in the comments section below.
+
+Image credits: Shutterstock, Pixabay, Simple Ledger Protocol, Simpleledger.info, Bitcoin.com, Memo, Ifwallet, Badger, Crescent Cash, Electron Cash, Core Cash, and Cashgames.Bitcoin.com.
+
+Did you know that Bitcoin.com’s BCH Block Explorer can query SLP token transactions? Check it today to search and find Simple Ledger Protocol token’s within the BCH network. Our Blockchain Explorer tool will allow you to view all previous BCH and BTC transactions as well.

@@ -1,0 +1,27 @@
+DATE:  21.12.2019, 11:35:00
+TITLE: ‘Multi-Part’ Payments Could Bring Bigger Bitcoin Sums to Lightning Network
+URL:   https://www.coindesk.com/multi-part-payments-could-bring-bigger-bitcoin-sums-to-lightning-network
+
+Bitcoin tech startup Blockstream said its c-lightning software team is the first to release a working version of "multi-part payments."
+
+While the name, c-lightning v0.8.0, is a mouthful, it's a big improvement for the user experience of the lightning network, a new layer that's probably bitcoin's best shot at scaling to support a larger number of payments. The change updates the plumbing of lightning network payments so users can send larger lightning payments, with a much smaller risk of them failing.
+
+"The user experience of lightning clients is a topic that is brought up often, and we are working actively on improving the status quo, together with the teams working on other lightning implementations. Our goal is to make using lightning as easy as using an on-chain wallet," lightning developer Christian Decker explains in a blog post.
+
+Right now, it's not as easy. For one thing, there's a chance there won't be enough liquidity in the network to support the transaction, especially for larger payments. Say a user sends 0.5 bitcoin across the network. Under the hood, it bounces from one node to the next until it reaches its destination. Each of those nodes needs to have 0.5 bitcoins that it can pass on to the next node.
+
+If one of the nodes in the path doesn't have enough bitcoin, the user is out of luck and the payment fails.
+
+Multi-part payments tackle this problem by making it possible to break a payment into smaller pieces that are easier to send across the network, since a user can combine bitcoin from multiple channels they have open to send payments.
+
+"Multi-part payments allow a lightning node to bundle the capacity in all its channels when making a payment, making larger payments than any individual channel on its own would allow," Decker writes. "This greatly reduces the headache of managing how many channels to open, and how to allocate funds to them, since you can now simply combine them as and when necessary."
+
+Notably, while this release supports sending these types of payments, it still isn't possible to receive them. That functionality is still being worked on.
+
+Decker claims the code change also "greatly increases" the resiliency of the entire payment network. Since users sending payments are less likely to have to transact with a large node, that's a "single point of failure."
+
+Decker writes:
+
+"The capacity of the largest channel used to be the limiting factor when performing payments. As such, users were incentivised to open a single channel, with as many funds as possible, to a node that was as stable as possible. This led to users rating the reliability of nodes before opening a channel with them, since that node would now be their single point of failure, i.e., if that node was down, they couldn’t do much. With multi-part payments, users can now open multiple channels to multiple nodes, while at the same time being sure that the funds will be there when they need it. For the network, this means more connectivity and better resilience against the threat of big nodes suddenly disappearing."
+
+Blockstream says the technology will be expanded upon in future releases.

@@ -1,0 +1,23 @@
+DATE:  04.03.2020, 22:35:11
+TITLE: Dorsey's Square Crypto puts more cash toward Bitcoin grants
+URL:   https://decrypt.co/21357/jack-dorsey-square-crypto-more-cash-bitcoin-grants
+
+Square Crypto, the Bitcoin development unit of Jack Dorsey's Square payment company, today expanded its involvement in the Bitcoin community by awarding grants to two developers, Jon Atack and Tankred Hase.
+
+The money will allow them to work full-time on open-source projects that benefit the Bitcoin network. Square Crypto also articulated the types of projects it's looking to fund through future grants.
+
+In addition to contributing to Bitcoin Core, Square Crypto has been particularly focused on expanding development of the Lightning Network, a second-layer technology that can theoretically help scale the network while enabling quick payments and off-chain settlements. In January, it released its Lightning Development Kit.
+
+The outfit has been clear that it wants to "improve and promote Bitcoin" not just through its own efforts but by supporting others. Part of doing that has been simply helping devs get paid for the free work they do. Because Bitcoin is a massive open-source project, there's a need for developers to contribute. Active contributors often rely on grants to continue their contributions. OKCoin, for instance, started a 1,000 BTC fund for developers last year.
+
+The Square Crypto Grant program is designed to financially support developers who otherwise "don’t have the financial means to build financial freedom for others." It specifically targets individuals and small organizations working on projects "aimed at improving bitcoin through UX, scaling, privacy, security, or something else we haven't thought of." Moreover, devs should be working on free, open-source projects "without a business or profit motive."
+
+Square Crypto has previously awarded grants to the BTCPay Foundation, which is developing a self-hosted server to process cryptocurrency payments, as well as a Lightning contributor who goes by the easy-to-pronounce name of ZmnSCPxj.
+
+March's grantees include Jon Atack, who's been contributing to Bitcoin Core since early 2019. According to his website, he's planning on doing some deeper reviews of the code and fixing bugs. He also wants to improve the Bitcoin Core wallet. Now, because of the grant, he'll be getting paid to continue contributing.
+
+The other grant recipient, Tankred Hase, is working on a lightning wallet that will allow users to text small amounts of BTC to one another with just an SMS verification. He told Decrypt, "It's an ambitious long-term goal, especially without an obvious business model. But I think it's worth exploring and it makes sense to try it in the context of a grant."
+
+Though Square Crypto did not respond to Decrypt's request for funding specifics, Hase said the grant was substantial enough to allow him to work full-time on "the open-source infrastructure required to tie wallets to phone numbers."
+
+Interested developers can find funding guidelines and project examples on Square Crypto's Medium account.

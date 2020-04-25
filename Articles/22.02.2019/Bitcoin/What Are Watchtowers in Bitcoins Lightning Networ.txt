@@ -1,0 +1,63 @@
+DATE:  22.02.2019, 09:21:27
+TITLE: What Are Watchtowers in Bitcoin’s Lightning Network?
+URL:   https://blockonomi.com/watchtowers-bitcoin-lightning-network/
+
+Watchtowers were conceptualized within the original Lightning Network (LN) paper and have since been improved and optimized as Bitcoin’s LN looks to scale into a global P2P payments network. Watchtowers are essentially an ecosystem of third-parties that users employ to outsource monitoring of on-chain transactions relevant to their lightning channels.
+
+Watchtowers effectively act as ‘watchdogs’ of the blockchain to identify and penalize malicious actors for cheating other users within channels. They evaluate whether or not a participant in an LN channel has improperly broadcast a prior channel state, which could be used to reclaim funds after closing the channel with an invalid state.
+
+For their services, they receive fees from users, and several monetization methods could be deployed. Users can even outsource channel monitoring to multiple watchtower services in case one fails.
+
+Recent developments like compact-client side filtering — used in the Neutrino protocol — reduce the overall burden that watchtowers need to take on, but they provide a crucial role in the LN environment — particularly with scaling. Prudent LN users need to check-in on the status of their off-chain channels correlating to on-chain activity every once in a while, and watchtowers provide a 24/7 hedge against security risks posed by invalid channel states.
+
+Bitcoin’s LN takes a privacy-oriented approach, so mitigating the ability of watchtowers to link transactions to specific channels is vital, and several innovations have a direct effect on the mesh network’s ability to scale and maintain privacy.
+
+How Watchtowers Work
+
+Watchtowers are third-parties that monitor the Bitcoin blockchain 24/7 on behalf of their clients. They look for discrepancies between on-chain transactions and closing off-chain channels with invalid states. Every off-chain LN channel payment requires a valid commitment that creates a current state of the channel balance. The state can be updated by either party in a channel and is updated by the next iterative commitment accompanying a transfer.
+
+A path of commitments indicates the channel’s balance state, but a counterparty can broadcast past (invalid) balance states if they stand to benefit better from those states — as in they would have more BTC on their end of the channel. Such scenarios can arise if party A broadcasts a previous balance state following an outgoing transaction to party B in the channel that reduces party A’s balance.
+
+Due to the nature of timing constraints within a channel (i.e., HTLCs), a channel participant needs to wait a specific period before claiming funds in their wallet. However, this requires that the users remain online periodically to verify that an invalid state was not broadcast and that a counterparty is not acting maliciously.
+
+This presents evident inconveniences for most people who simply do not have the time nor technical expertise to realize such adverse situations or remain consistently online.
+
+Enter watchtowers. A watchtower monitors the blockchain 24/7 by remaining online on behalf of the user in return for fees. Therefore, users can be assured that they are not being cheated while they are offline.
+
+The basic flow of how a simple watchtower mechanism works between two participants in a single payment channel is as follows:
+
+Alice updates the state channel by sending Bob 1 BTC within their channel.
+
+Alice concurrently sends a ‘hint’ or ‘secret’ of a specific transaction to a watchtower indicating a specific transaction to look out for without revealing the transaction contents.
+
+Alice’s signature sent to the watchtower pre-authorizes the channels funds to be sent back to her in case of a breach.
+
+The watchtower cross-references the ‘hints’ with a hash table of hints it receives from its clients and the Bitcoin blockchain.
+
+If the watchtower detects a channel breach by Bob via invalid state broadcast, then it constructs a penalty transaction using Alice’s signature and returns the channel funds to her.
+
+Alice is subsequently protected from a channel breach without having to be online, and watchtowers cannot link state updates to specific channels. However, problems with the above example are quite distinct when you consider that broadcasting former channel states is not always performed with malicious intent. If a software bug causes Bob to broadcast an invalid channel state that is penalized by a watchtower, he loses all of his funds in the channel — a harsh penalty.
+
+Developers came up with a solution to protect against such scenarios with a proposal called eltoo. Essentially, eltoo creates two transactions for every channel state: an update transaction and settlement transaction. Using this structure, a chain of repeating invalidations of previous channel states update to a new state in a chain of time-locked transactions.
+
+Importantly, counterparties have time to respond to previous state broadcasts, providing them with the opportunity to mitigate the settlement of a channel with a prior state. However, such a model would lead to the requirement of the chain of transactions to be broadcast to the Bitcoin blockchain, and an updated BIP proposal that corrected the issue called sighash_noinput is under consideration for inclusion into the Bitcoin protocol under BIP-0118 as a soft fork.
+
+Watchtowers play an important role in helping Bitcoin’s LN to scale, as they act as the persistent line of defense against channel cheating. However, they face some economic hurdles and monetization methods are still under construction and ideation.
+
+Economics, Monetization, and Challenges
+
+Watchtowers would have to function as businesses because they retain operational overhead, are affected and constrained by user bases, and deploy monetization models. The two prevailing monetization methods for watchtowers are penalty transactions fees or subscription services.
+
+Watchtower services operate with overhead regarding bandwidth, computation, and disk space. With the privacy-preserving LN implementation that Bitcoin uses, watchtowers need to store all previous channel states of their clients, which can lead to ballooning costs in storage space.
+
+Where bandwidth and computation can scale with growing watchtower user bases, the potential challenge lays with the quadratically increasing growth problem for disk space requirements. Large-scale watchtowers would need to have enough resources to store millions or billions of ‘blobs’ (i.e., state data). As the user base increases, the amount of saved states increases quadratically, leading to high operational costs for the business in the form of data storage.
+
+However, the size of the stored data is tiny — blobs are akin to the size of a Tweet — so watchtowers that effectively scale with sufficient capital can meet the demand. Large-scale watchtower operations are thus a likely development in the ecosystem. Watchtower operations can sustain profits through subscription-based services, which would actually allow their revenue to scale parallel to the usage of their service.
+
+This also presents long-term considerations in the adverse power of large watchtower operations to potentially surveil the LN and Bitcoin ecosystem via channel and transaction mapping. Hurdles facing watchtowers include the convoluted connection between privacy and scalability in the watchtower ecosystem. Users can mitigate the surveillance capabilities of sizeable, colluding watchtowers by connecting to numerous services, but it is unclear how the market for watchtowers will play out and whether that will provide a sufficient hedge against privacy intrusions.
+
+Another proposed monetization model is via a portion of the penalty transactions that the watchtowers take as fees. However, the incentives for such a model are misaligned as watchtowers would be incentivized for more breaches, contrary to the mindset of LN users who want as few breaches as possible. A proposed alternative solution comes in the form of the Olympus server, which performs watchtower services via storage tokens — among other LN wallet maintenance features.
+
+The watchtower market is not developed yet as the LN is still progressing into a larger P2P payments network on top of Bitcoin. However, the research and innovations in the field provide some compelling narratives for a future ecosystem of LN watchtowers. It remains unclear how much partiality users will place on using the services of watchtowers, but their security assurances can prove vital against offline channel threats — something that prudent users should take into account.
+
+Eventually, the ideal marketplace of watchtower services would have the complex technical components abstracted away from the end-user, but significant progress is necessary before that desired level of LN features can be achieved. Bitcoin’s LN continues to snowball with increasing user adoption, channel balances, and innovation. Watchtowers present a forward-thinking approach to security risks posed by the evolving ecosystem of Bitcoin’s novel second layer.

@@ -1,0 +1,119 @@
+DATE:  08.04.2020, 09:51:07
+TITLE: Ryan X. Charles: Bitcoin is going to be the largest computer ever
+URL:   https://coingeek.com/ryan-x-charles-bitcoin-is-going-to-be-the-largest-computer-ever/
+
+The titled quote from Ryan X. Charles could be pointing at the actual game changer that gradually awakes in Bitcoin SV. However, what does it mean for Bitcoin to be the largest computer ever?
+
+There are very few true Bitcoin SV pioneers, and Ryan X. Charles surely is among them. The founder and CEO of Money Button, which has already achieved more than 1.3 million button swipes, also publishes remarkable YouTube videos about Bitcoin and related topics.
+
+CoinGeek’s Michael Wehrmann caught up with Ryan X. Charles for a wide range interview about Bitcoin computation, Money Button’s role in the network and the Bible.
+
+Hello, Ryan! With Money Button, you were among the first to launch a successful Bitcoin SV app. Kindly introduce our readers to what Money Button offers.
+
+Ryan X. Charles: Money Button is a simple payment system. It is easy for users to make payments with it and it easy for developers to build applications with it. We deeply value user-experience, and have done everything we can to make the experience both for the end-user who makes payments and for the developers who integrate it into their applications. We have built Money Button on Bitcoin SV because it offers all the advantages of the original Bitcoin protocol, including low fees and immutable data storage, as well as a scaling plan that will enable genuinely global adoption. There are no other cryptocurrencies that have the potential to scale globally, so Bitcoin SV is in a league of its own in this respect. It is the only option.
+
+At the CoinGeek London conference, you mentioned that over 150 businesses use Money Button. What exactly do these businesses use Money Button for?
+
+Ryan X. Charles: Money Button is used by every type of application on Bitcoin, including data storage, social media, messaging, and finance applications. Money Button can be used for very simple applications, such as tipping or newspaper pay walls, and it can also be used by advanced applications that make use of many sophisticated features of the Bitcoin blockchain.
+
+Could Money Button’s growth—at least at the moment—be an indicator for Bitcoin SV’s growth?
+
+Ryan X. Charles: Money Button has seen a lot of adoption within the enthusiast community around Bitcoin SV. However, I think it is premature to think that we have grown beyond the enthusiast crowd at this time. I believe this year we will solve some of the key issues that will allow us to grow beyond the enthusiast audience and bring in users and businesses who use it for the value proposition and not simply for the promise of future value. Let’s see how it goes in the next six months to a year. If we are successful at what we are aiming to do, I think Money Button will lead the growth of the ecosystem.
+
+Money Button and HandCash recently surprised Bitcoin SV users with a huge press release concerning the implementation of an inter-wallet peer-to-peer collaboration. Kindly introduce our readers to this implementation and the implications of that.
+
+Ryan X. Charles: Money Button and HandCash are competing wallet providers, but we are also friends and work closely together on protocol issues. Together, our companies have made a critical advance in building scalable wallet infrastructure by sending transactions peer-to-peer between the two services. The fundamental advance here is that the receiving wallet does not need to scan the blockchain to find the transaction. Rather, they receive the transaction directly. This radically reduces the effort necessary to receive transactions. Although this doesn’t make a difference in cost today, it will make a giant difference in cost in the future at scale. This will make it much cheaper to operate Bitcoin wallets. And furthermore, it’s how Bitcoin was designed to work, as specified in the whitepaper.
+
+Bitcoin is “peer-to-peer electronic cash.” That is the vision we are now delivering on with Money Button and HandCash. We invite all wallet developers to join our initiative to restore peer-to-peer transactions for the entire ecosystem so that every wallet can operate cost-effectively at scale.
+
+I find this collaboration interesting, because I thought Money Button and HandCash compete for the same users. Is Bitcoin incentivizing businesses to collaborate in new ways other than in the non-Bitcoin world?
+
+Ryan X. Charles: Money Button and HandCash share a similar philosophical disposition. We are going to make the pie bigger. We have far more to gain by making the pie bigger than by taking a pie slice from somebody else. Therefore, we have every reason to work together.
+
+Is there any difference between B2B and B2C in Bitcoin concerning “peer-to-peerness”?
+
+Ryan X. Charles: No. The new peer-to-peer transaction protocol is designed to work both for consumers and for businesses.
+
+How does Money Button actually make money? What are the plans to get even more profitable in the future?
+
+Ryan X. Charles: Money Button does not charge transaction fees, but we do sell names from our namespace to end-users for a small amount of money. Users can buy a paymail such as [name]@moneybutton.com for $1.00 each. Some users collect many paymails. Although we are not profitable yet, we believe that this source of revenue will be sufficient for us to operate at scale. In addition, we have other premium services planned that will also cost money. We plan to continue to offer 0% transaction fees indefinitely and all Money Button revenue will continue to come from premium services that users can opt-into above and beyond the basic free version of the product.
+
+Is Money Button out to profit in USD or in Bitcoin SV satoshis?
+
+Ryan X. Charles: All of the revenue for Money Button comes in the form of BSV. We do not earn any revenue in USD. We have not yet sold any of our BSV. However, it is likely we will need to regularly sell BSV in order to pay expenses. Wherever possible, we prefer to pay expenses in BSV. But when that is not possible, we pay from our USD reserves. Our intention is to operate as smartly as possible, using both BSV and USD for the foreseeable future. Over the long-term, it will be possible to transition entirely to BSV.
+
+Help us understand the role of the Bitcoin tokens/coins in the Bitcoin network. Many think the only way to pay transaction processors (so called miners) is by transaction fees paid in satoshis. However, it is not unthinkable to actually pay transaction processors in fiat money directly off-chain. Does that mean fiat money could substitute satoshis?
+
+Ryan X. Charles: Bitcoin is an economic system. The system itself functions because businesses are incentivized to build and maintain infrastructure through profit. Built into the protocol is the ability to pay miners with transaction fees in each transaction. However, that is not the only way to pay miners. It is possible to pay them with normal transaction outputs by arranging a contract with one or multiple miners. Bitcoin allows the best economic outcome to emerge naturally. If people find it is better to pay miners in some non-standard way, it is possible to do that.
+
+I think it is very likely we will see wallets creating contracts with miners directly and paying with normal transaction outputs. However, I do not think it is likely we will see a transition to fiat tokens for this purpose, because Bitcoin is global, and it is actually easier and more cost-effective to use Bitcoin directly as the currency unit to pay miners. Bitcoin is designed to treat the Bitcoin tokens themselves as superior in this respect. If nothing else, the transactions that sent Bitcoin itself will always be smaller and cheaper than transactions that send fiat tokens.
+
+Are the satoshis truly indispensable for the Bitcoin network to run or not?
+
+Ryan X. Charles: Yes, of course. Miners are paid in Bitcoin. Bitcoin incentivizes its own use. It is very likely the continued survival of the chain will mean the continued utility and value of the currency. If miners try to use a currency other than Bitcoin, they will be disincentivized to invest in the network. This is exactly what happened with the miners of the other chains, and why the other chains have practically no utility. If miners misunderstand their own incentives, they could build the wrong thing and miss the chance to make Bitcoin global.
+
+It is important that miners continue to use Bitcoin to fund the system. With that being said, miners should do whatever is profitable. If they find something better than Bitcoin, then they should use that instead. If that means Bitcoin fails, it is because Bitcoin was outcompeted by something better. (Or, it could mean the world simply misunderstood Bitcoin and missed the chance to make it work – that is something that would have happened already if not for CoinGeek and nChain investing enormously in the survival of BSV after the split with BCH).
+
+In your YouTube video about Bitcoin being Turing complete for three different reasons, you have stated this simple but mind blowing thought: “Bitcoin is going to be by far the largest computer ever (…) And what you can do with the biggest computer in the world is: you can actually compute bigger numbers.” Kindly explain that to us.
+
+Ryan X. Charles: As Bitcoin grows, the storage, computation, and bandwidth continues to increase. Eventually, every property of the Bitcoin computer will be larger than any other computer. Because it has more memory, it has the capacity to compute larger numbers than any other computer. For instance, at scale, it will be possible to run data analysis and simulations inside Bitcoin, and it will be cheaper to run these inside Bitcoin than to try to run these on some other kind of computer. That is because Bitcoin is designed to continuously optimize itself for cost-effectiveness in order to compete with alternatives. Thus, it will be the biggest computer in the world, and it will be possible to run some things inside Bitcoin that are too big to be run in any other way.
+
+What implications could Bitcoin being “the world computer” have 2-3 years from now?
+
+Ryan X. Charles: I think that will take longer than 2-3 years for Bitcoin to become “the world computer.” When that does happen, what it means in practice is that it will be easier and cheaper to get computation done. Although most end-users don’t usually think about their actions as requiring computation, they do, and more sophisticated things will be performed more cheaply over time. I estimate this will take more like 10-20 years rather than 2-3 years. I think in 2-3 years, the mainstream world will only be just waking up to the possibilities of Bitcoin. It will take a while longer to build and deploy all the systems on top of Bitcoin to make this vision real.
+
+Is it wrong to say the Bitcoin SV network “as a computer” is competing with—for example—AWS, IBM, Microsoft, Apple and Google for computational power?
+
+Ryan X. Charles: No, I think that Bitcoin as a computer does compete with those systems as the underlying infrastructure. However, that does not mean it necessarily replaces them. It is my opinion that many of the systems that compose AWS and other cloud systems will end up running on top of Bitcoin rather than the other way around. Bitcoin itself will be made of hyper-optimized components that are used only for Bitcoin and not for any other purpose. AWS and other cloud providers will then simply pay miners with Bitcoin for using the infrastructure.
+
+Kindly let me push this even further: do the mentioned companies sooner or later have to join the Bitcoin SV network with their computational power in order to remain competitive against Bitcoin SV transaction processors?
+
+Ryan X. Charles: I think they will eventually be driven to use Bitcoin the same way every company and organization is driven to use the internet today. However, that does not mean that their existence is threatened. They should regard Bitcoin as an opportunity to make their systems better. If they can lower costs and provide a better user-experience by adopting Bitcoin, they will do so. If they choose to compete head-to-head, they will eventually be obsoleted in a manner similar to other companies based on obsolete models. Consider how telecom companies have pivoted over time from providing telephone access to providing internet access. They were not obsoleted by the internet. They became better by adding internet access to their services.
+
+I guess we both agree that Bitcoin SV has no scaling issues, yet Bitcoin SV apps have had some scaling issues in stress tests and could have them by bigger inflow of new users again. How could Bitcoin SV apps such as Money Button make use of the computational power of the Bitcoin SV network besides the transaction of tokens/coins?
+
+Ryan X. Charles: Money Button is a wallet and as such we want to make sure our infrastructure can handle our current userbase and can continue to scale to handle a global userbase over time. However, we do not need to handle all transactions on the network, because we will never be producing all transactions on the network. Like any other application, we have to scale our infrastructure in a way that is appropriate for us. For the most part, this is a completely different challenge than scaling Bitcoin itself, because our infrastructure is effectively a strict subset of the Bitcoin scaling problem.
+
+One of the techniques we are working on is to pivot to an SPV model over time. That is what the peer-to-peer transaction system we developed in partnership with HandCash is all about. That is a step towards SPV. In order to be able to use the Bitcoin network itself, all we need to do is pivot to SPV, and the transaction fees in each transaction automatically pay for the scalability of the network as a whole. That will be handled by a lot of companies that we do not have to partner with directly. It is handled by the network as a whole, similar to how any company in the economy can simply purchase things on the market without necessarily understanding how or why things get better and cheaper over time.
+
+As far as I know, everything that AWS and the like do could be done by “the Bitcoin computer,” meaning the Bitcoin SV dedicated transaction processors. Why would we want to let AWS etc. compute anything and not leave that to Bitcoin SV dedicated transaction processors? What I am trying to get at is this: If Bitcoin SV apps use AWS and the like instead of Bitcoin SV dedicated transaction processors, we essentially let money/energy flow into AWS etc. instead of letting it flow into the Bitcoin SV ecosystem. What are your thoughts on that?
+
+Ryan X. Charles: Insofar as AWS continues to provide systems that are useful and cost-effective for us to use inside Bitcoin, we will continue to use them. However, in order to hyper-optimize systems for Bitcoin, it is often the case (such as with ASIC mining hardware) that we need to build entirely custom systems that simply are not supported by AWS. If AWS wanted to compete directly with existing miners, they would probably be successful and would be a competitive miner. I do not see any reason to worry about AWS being a competitive company. The better they are at what they do, the better the system is as a whole.
+
+We should fully embrace that AWS does whatever they perceive to be best for their company. They will use Bitcoin when the time is right. It can be that AWS both uses Bitcoin and is used by Bitcoin simultaneously. AWS is a complicated system and different parts can work different ways. For instance, AWS could have a script computation system that validates transactions for a fee, and at the same time they could use Bitcoin itself as a data storage system underneath S3. They would both provide infrastructure for and use the infrastructure provided by Bitcoin simultaneously.
+
+Are Bitcoin SV apps incentivized to make use of “the Bitcoin computer,” meaning the Bitcoin SV dedicated transaction processors’ network for literally all of their app’s backend computations?
+
+Ryan X. Charles: I think if people understand the vision of Bitcoin, they will realize that they are going to want to use the computational power of Bitcoin over the long-term. That does not necessarily mean they need to use it right now. What businesses should do is whatever works for their business. They need to create value for customers. The more forward-looking they are, the more capital they are going to need to burn through before achieving profitability.
+
+For companies that are able to raise significant capital, they can spend more time ramping up the infrastructure around Bitcoin and placing bets on the future. For companies with less capital, they need to concentrate on creating more value right now, and that will mean using a smaller set of the functionality of Bitcoin. For instance, companies with a lot of capital can bet that in 5-10 years Script will be a formidable option for data analysis and simulations. But if they only have 2 years of runway, it might be better to concentrate on social media or some other application that can start generating revenue right now without needing to build a lot of infrastructure first or wait for others to build the infrastructure.
+
+Is it not convenient enough to do so at the moment, as most transaction processors are not yet specialized enough to compete with AWS and the like? Or is it right now technically impossible for any reason?
+
+Ryan X. Charles: AWS is an extremely complicated system with many subsystems. It will never be the case that Bitcoin competes directly with AWS. Even if Bitcoin replaces all of the fundamental infrastructure underneath AWS, the interface itself will still need to exist, and even that by itself is complicated. The reason why AWS doesn’t start using Bitcoin right now is that it would not be cost effective. The transactions are too expensive, and they would have to invest a huge amount of capital into developing the layers on top of Bitcoin to make that work. They won’t do so. Instead, forward-looking companies and investors will create that infrastructure, gradually making Bitcoin more cost effective, and eventually surpassing the cost-effectiveness of the systems underneath AWS. AWS will adopt these technologies when it makes economic sense for them to do so, which may mean waiting for others to build it themselves, or by investing themselves in building it over a period of years.
+
+Kindly allow me a personal question. In your YouTube video concerning your religious experience in Toronto, you talked about connections between Bitcoin and the Bible. I found that very, very interesting. When we look at the Revelation in the Bible, we find this:
+
+“And I saw the dead, great and small, standing before the throne, and books were opened. Another book was opened, which is the book of life. The dead were judged according to what they had done as recorded in the books.”— Revelation 20:12 (New International Version)
+
+So personal information is said to be recorded “in the books.” Is God using kind of an encrypted blockchain to track our movements, thoughts and feelings?
+
+Ryan X. Charles: I believe in effect a log of events is being recorded in the universe itself. The way this works is that the consequences of actions do not disappear. The information exists in the form of physical systems. For instance, if you lie, the sound waves ripple out into the universe and has an impact that never goes away.
+
+The universe constantly generates new information and it does not seem as though information is destroyed. Another aspect is that there are consequences to your actions. Independent of your interpretation of “God” in your above question, one can recognize that other people and other physical systems will respond to good- or ill-intentions. If you lie, you are contradicting facts in the world.
+
+Insofar as your lies create a problem for someone or something, that can be traced back to you and create a problem for you. Lies will come back to haunt you, exactly in the sense that the dead will have to face up to God in the above story. One can make sense of many of the moral lessons in the Bible in this manner. One can interpret these stories through a moral lens completely consistent with physics and science without appealing to any metaphysical beliefs. The universe creates new information, stores it, and it does not delete anything. Everyone is held accountable.
+
+There could even be more to that thought of yours:
+
+“But everything exposed by the light becomes visible–and everything that is illuminated becomes a light.” –Ephesians 5:13 (New International Version)
+
+Is it wrong to say the Bitcoin blockchain exposes by being light with its traceability and transparency? Could Bitcoin be a battle between good and evil?
+
+Ryan X. Charles: I definitely think Bitcoin encourages moral behavior through the use of transparency and the immutable log. It is profitable to comply with accounting accuracy in Bitcoin. Fraud can be uncovered. Furthermore, if you think through many other immoral actions, such as murder, you will find they often involve lying. Thus, by encouraging the truth and accountability, Bitcoin encourages all types of moral behavior as well, and discourages all types of immoral behavior. I do not believe Bitcoin guarantees anything in particular about morality, but it does seem to nudge us in the right direction.
+
+Thank you very much for all these insights and thoughts!
+
+Ryan X. Charles: Thank you for the opportunity!
+
+New to Bitcoin? Check out CoinGeek’s Bitcoin for Beginners section, the ultimate resource guide to learn more about Bitcoin—as originally envisioned by Satoshi Nakamoto—and blockchain.

@@ -1,0 +1,35 @@
+DATE:  26.03.2019, 17:38:46
+TITLE: Samourai Wallet Adds Tor Integration in Privacy Push
+URL:   https://bitcoinmagazine.com/articles/samourai-wallet-adds-tor-integration-privacy-push
+
+Ring in the new bitcoin halving cycle the right way: with us!
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+Samourai Wallet announced this month that its latest update supports Tor integration, offering additional privacy for users.
+
+What Does Tor Integration Enable?
+
+In a conversation with Bitcoin Magazine, Samourai’s lead developer, who is known simply as “TD,” gave a rundown of the Tor integration. He explained that using the Tor integration before creating a new wallet can shield a user’s identity beyond the fact that they are not required to provide any personal information. With Tor, Samourai’s servers will not be able to see a user’s IP address when they connect to the API, only their Bitcoin addresses, thus protecting the one piece of information that could tie their wallet to their real-world identity.
+
+He also noted that Tor-enabled connectivity paves the way for Samourai’s forthcoming Whirlpool mixing services and full-node Dojo offering, two more privacy-enhancing features.
+
+“Our users have been requesting tighter Tor integration for some time,” TD explained. “It was a prerequisite for rolling out Whirlpool and Dojo.”
+
+Whirlpool is Samourai’s implementation of ZeroLink, a coin-mixing protocol that has been anticipated since 2017. ZeroLink’s protocol demands the use of Tor, enabling Whirlpool to break chain analysis between incoming and outgoing coins. This shuffling helps to ensure privacy and further secure anonymity of the origin source of an outgoing transaction.
+
+Samourai’s wallet-specific full node, Dojo, has been tailor-made to run over a Tor-only connection. This further establishes privacy, as the personal Dojo will include backend APIs that allow the Samourai Wallet to connect to the Dojo directly, bypassing the company’s own servers. The intent is to provide greater security and verification measures for users. The Samourai website claims that the full-node Dojo will sport an easy-to-use interface.
+
+Samourai has also planned for a directory of PayNyms, a feature that provides users with stealth addresses to send transactions anonymously between other Samourai Wallet users.
+
+Tor Has Its Issues
+
+TD acknowledged that Tor integration could make for a slower network than others under certain conditions, though he suggested that “Tor users [would] readily accept that tradeoff.”
+
+Other concerns relating to the Tor network might include the fact that it is blocked in certain locations and/or by certain internet service providers.
+
+Regardless of its limitations, the privacy potential makes Tor essential to Samourai Wallet’s near future.
+
+“Connectivity over Tor is now an integral part of Samourai Wallet and will be maintained in an important position within our code base as we move forward,” TD said.

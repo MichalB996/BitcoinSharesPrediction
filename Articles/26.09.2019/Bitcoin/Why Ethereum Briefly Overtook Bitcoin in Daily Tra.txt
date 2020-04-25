@@ -1,0 +1,57 @@
+DATE:  26.09.2019, 19:00:02
+TITLE: Why Ethereum Briefly Overtook Bitcoin in Daily Transaction Fees
+URL:   https://www.coindesk.com/why-ethereum-briefly-overtook-bitcoin-in-daily-transaction-fees
+
+Ethereum transaction fees are back on the rise and gaining parity with bitcoin transaction fees.
+
+As seen in data charts provided by blockchain analytics firm CoinMetrics, ethereum surpassed bitcoin in daily transaction fees on Sept. 21. While ethereum has since been maintaining a close parity with bitcoin’s daily transaction fees, bitcoin currently beats out ethereum at roughly $350,000 in fees per day.
+
+Granted, bitcoin trading volume has been experiencing a slump as of late June, falling from $1.32 million to below $300,000 across major cryptocurrency exchanges, according to data from Bitconity.org. Bitcoin’s market value is also tanking in recent days dropping from a high of $8,500 to below $8,000 on Thursday.
+
+However, this slump isn’t expected to last forever, with many cryptocurrency day traders such as Eric Choe noting that transaction fee volumes should pick up again in coming months as trading for the asset begins to increase.
+
+“I do believe this is a temporary thing,” said Choe. “Historically, bitcoin transaction fees have been higher. I do think this is more a temporary fixation of the markets right now.”
+
+Choe added that part of the reason for a surge in ethereum transaction fees has been the recent increase in trading activity surrounding dollar-pegged stablecoin Tether (USDT).
+
+Since 2018, USDT has been trading on ethereum, as well as on the bitcoin-based Omni Layer Protocol. Over the course of 2019, however, the ethereum version of Tether has been surpassing the Omni Protocol version by some metrics.
+
+“The Ethereum version of Tether hit a new all-time high of 187,912 daily transactions on September 9th,” CoinMetrics reported in a Sept. 17 newsletter, adding:
+
+“USDT-ETH is generating so many transactions that it recently accounted for over 25% of all Ethereum transactions on September 8th, and has consistently accounted for more than 10% of all Ethereum transactions since mid-August.”
+
+According to Tether’s official website, there is roughly $2 billion worth of USDT currently issued on the ethereum platform. In December of last year, there was only a reported $60 million.
+
+Calling this the “rise of Tether” on ethereum, TM Lee, co-founder of cryptocurrency data aggregator CoinGecko, said the spike in Tether’s popularity is likely due to the migration of users from Omni to ethereum.
+
+“This is likely due to the gradual switch of USDT support from Omni to Ethereum in most exchanges, especially Binance, which made the [switch] sometime in July 2019,” Ong said via email.
+
+Financial markets director at cryptocurrency exchange OKEx Lennix Lai added:
+
+“The shift is potentially beneficial to the Ethereum ecosystem since it shall decrease fiction for the most-used stablecoin in the world integrating into the open finance space. However, with USDT clogging the Ethereum network, it means other developers have to encounter a spike of cost on computation power in Ethereum.”
+
+Poking fun
+
+In order to prevent network congestion, miners on the ethereum network have recently responded to the surge in transaction activity by increasing ethereum’s “gas limit.”
+
+Stepping back, the cost to send a transaction on the ethereum network is called gas and paid in fractions of ETH called gwei. For every block processed on the ethereum blockchain, there is a limit to the overall amount of gas that can be collected by miners.
+
+In short, a higher gas limit means that a higher number of transactions can be included in a block. On Sept. 19, ethereum miners collectively raised network gas limits from 8 million to 10 million gwei.
+
+Ethereum blocks are now effectively 25 percent larger – allowing for larger transaction processing loads.
+
+At the same time, the concern around larger block sizes on ethereum is that block propagation speed may slow down. The slower it is for a block to be propagated and accepted by all miners in the ethereum network, the higher the likelihood is for temporary chain splits to occur.
+
+“As gas limit goes up, block size will eventually follow it, requiring more storage and initial sync time for nodes,” said Eric Conner, founder of ethereum information site ETHHub. “So far though, block size hasn’t really gone up despite the gas limit increasing.”
+
+Even so, some outside of the ethereum community have viewed the collective decision-making of miners on the platform with derision.
+
+“It’s official! Ethereum miners have unilaterally increased the gas limit and made it even harder to sync a full node,” tweeted self-proclaimed bitcoin maximalist Conner Brown. “Meanwhile ethereans rejoice at how easy it was for miners to do this without public debate.”
+
+However, there is still room for public debate, according to ethereum core developer Alexey Akhunov, who says he’d like to better understand the effects of this gas limit increase.
+
+“I would like to analyse whether this increase in the gas limit by 25 percent has accelerated the [ethereum] state growth by 25 percent, or by a lower percentage,” Akhunov said, adding:
+
+“I do not know yet but we shall see soon.”
+
+Ethereum and bitcoin image via Shutterstock

@@ -1,0 +1,47 @@
+DATE:  09.08.2019, 22:30:37
+TITLE: Tokens Built on Bitcoin Cash Are Cheaper to Send Than Those of Rival Networks
+URL:   https://news.bitcoin.com/tokens-built-on-bitcoin-cash-are-cheaper-to-send-than-those-of-rival-networks/
+
+Tokens Built on Bitcoin Cash Are Cheaper to Send Than Those of Rival Networks
+
+Satoshi Nakamoto’s Bitcoin technology has inspired a lot of innovation spawning a myriad of tokens representing digitized assets. There are now token creation systems on blockchain networks like Omni Layer, Counterparty, and Ethereum. Each framework comes with the cost of sending tokens and right now the Simple Ledger Protocol is one of the cheapest most cost-effective ways to issue and send tokens.
+
+Also read: Meet ‘Spedn’ — A Smart Contract Programming Language for Bitcoin Cash
+
+The Rising Popularity of Tokens Built on Some of the Best Known Blockchains
+
+Over the last few years, tokens have become a big part of the cryptocurrency ecosystem. Blockchain tokens, colored coins, and the association of real-world and digital assets tied to a secure network have been around for quite some time. In 2012, the Mastercoin protocol whitepaper was published and the author J. R. Willett explained: “The [Bitcoin blockchain] can be used as a protocol layer, on top of which new currency layers with new rules can be built without changing the foundation.” From here, history shows the initial formation of the Mastercoin project which slowly evolved into the Omni protocol.
+
+Other token creation systems appeared later, like Counterparty in 2014 and the Ethereum ERC20 token standard was proposed in late 2015. The Omni Layer protocol is known for issuing one of the most prominent stablecoins to date, Tether (USDT). The Ethereum network had a token explosion after the first ERC20s were released (DAO, Digix, Alethzero), which fueled the initial coin offering (ICO) token craze in 2017. Regardless of the merits of these tokens, there’s no doubt that Ethereum’s ERC20s and Omni’s USDT have made a mark on the crypto ecosystem.
+
+The Migration to Token Creation Systems With Lower Transaction Fees
+
+Tether is an interesting project and recently there’s been news of the project migrating to the Ethereum network. Right now the stablecoin USDT is the seventh largest market valuation at approximately $4 billion. Interestingly, tethers represented within that market valuation are spread across multiple blockchains.
+
+“Tether is working with an exchange to perform a swap from Omni to ERC20 of part of its USDT cold wallet,” Paolo Ardoino, technical director of Tether explained to the public on August 5. Currently, just over half of the USDTs in existence use the Omni Layer system, and more than $1.45 billion are represented as ERC20s. There’s also a little more than $350 million worth of tether tokens between the EOS and Tron blockchains and USDT will also appear on the Algorand network. The reason Tether is likely migrating to other chains is because the cost to send Omni-based tokens is based on the fees derived from the BTC chain. The average BTC fee is currently well above $1 and more recently touched $4-5 per transaction. However, the cheaper ETH fees or the gas to send ERC20s may only be a temporary bandaid.
+
+Currently, the gas needed to push an ERC20 token is between 11-19 U.S. cents and if you’re lucky maybe $0.03 to $0.05 per send. Like BTC, the Ethereum network can suffer from congestion and rising gas prices. On December 4, 2017, the entire cryptocurrency community celebrated all-time price highs, but both BTC and ETH had severe congestion difficulties. That week the Ethereum network was “congested with cats” thanks to the Crypto Kitties project. Crypto Kitties are represented as non-fungible Ethereum tokens. During the second week of January 2018, the average ETH network fee spiked to $3.26 per transaction.
+
+Ethereum’s elevated fees were not nearly as high as BTC’s exponential fee market that spiked well above $50 per transaction during the last week of December 2017. Dynamic fee markets that become unsustainable can essentially neuter token use cases as it becomes infeasible to send tokens that are worth less than the underlying fees to send them. After seeing a large project like Tether move from BTC to ETH, it’s apparent that blockchains that provide both security and low network fees will prevail in the token environment.
+
+Simple Ledger Protocol Tokens Using a DAG and BCH Scriptability Make the System Robust, While New Ideas Could Unleash Miner Enforceable Tokens
+
+Bitcoin Cash and the Simple Ledger Protocol (SLP) have the opportunity to strive where other chains lack when it comes to delivering strong token creation. SLP tokens are robust because actions are all recorded onchain, SLP uses the BCH network’s scriptability, and the protocol uses a directed acyclic graph (DAG) for lite proofs. Other types of colored coin concepts utilize balance-based ideas, but these require a full node for the most optimal verification. SLP’s DAG is easy to implement into Simplified Payment Verification (SPV, a method for validating transactions included in a block without downloading the entire blockchain) and one can prove the legitimacy of token transactions with ease. Just like ERC20 tokens, SLP creations can be traditional fungible type 1 coins and people can also design non-fungible tokens (NFT1) using the Simple Ledger Protocol as well. In the future, SLP tokens could even be stronger by bringing the full BCH security model to tokens.
+
+The reason BCH proponents like SLP is because the system doesn’t mess with the underlying consensus layer to facilitate the creation of tokens. However, developer Tendo Pein may have found a loophole where developers can combine OP_Checkdatasig spending constraints with OP_Return tokens, making them miner enforceable. Pein is the creator of “Spedn,” a BCH-based programming language that has a syntax similar to the C programming environment. On August 8, Pein published a post that shows that developers could design tokens that are miner enforceable and backed by the processing power behind the BCH network. During the end of the Honest.cash blog post, Pein showed some fancy spending constraints and explains how valid OP_Return tokens could be enforced by consensus. The Spedn creator remarked:
+
+We can further introspect the provided script and check if it matches some pattern, for example – if it contains valid OP_Return metadata in a particular scheme … And in that way, make OP_Return based tokens miner-enforceable.
+
+With SLP Tokens Built on the BCH Chain Congestion and High Fees Could Be a Thing of the Past
+
+Last but not least, SLP tokens are powered by BCH transactions, so the cost (gas) to send SLP created coins is far superior to ERC20s and BTC-based tokens stemming from Omni or Counterparty. The average bitcoin cash (BCH) transaction is between $0.001 to $0.003 per transaction and these cheaper network fees are applied to SLP’s current universe of tokens. So sending 50,000 Spice, Flex, or Honestcoin (USDH) is typically less than a tenth of a U.S. penny.
+
+This opens the debate for skeptics arguing that BCH fees would rise just like BTC or ETH if SLP tokens gained enormous traction, but we’ve seen from statistical data that this wouldn’t be the case. Bitcoin Cash developers have already proved this during the first week of September in 2018 when BCH participants invoked stress tests. In a 24-hour period and with multiple large blocks (over 1MB), BCH miners processed 2.2 million BCH transactions and cleared the mempool with ease the whole day. Observers noticed that BCH network fees (the cost to send a transaction on the chain) remained at $0.001 during the stress tests in September.
+
+In time, the need for token systems that rely on cheap transaction fees to power the token’s movements and infrastructure will become evident. As a result, people aggregating toward building stablecoins, dividend tokens, non-fungible collectibles, extensible game items, and more using the SLP system will bolster the mainchain’s usage. Right now, the SLP ecosystem is still very young and tokens with real-world use cases and value are starting to appear. The big Omni to ERC20 tether swap this past week shows that token systems with low fees continue to be in demand going forward and even cheaper solutions like SLP on the BCH network may be a more attractive option.
+
+What do you think about the fees to send SLP tokens in comparison with ERC20s and BTC-based tokens that stem from Omni or Counterparty? Let us know what you think about this subject in the comments section below.
+
+Image credits: Shutterstock, Simple Ledger Protocol, Omni, Counterparty, Ethereum, ERC20, Tether, Bitinfocharts.com, Tendo Pein and Honest.cash.
+
+Did you know you can verify any unconfirmed Bitcoin transaction with our Bitcoin Block Explorer tool? Simply complete a Bitcoin address search to view it on the blockchain. Plus, visit our Bitcoin Charts to see what’s happening in the industry.

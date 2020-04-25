@@ -1,0 +1,137 @@
+DATE:  21.05.2019, 08:00:40
+TITLE: How to Build Your Bitcoin Trading System (+2 Trading Strategies)
+URL:   https://www.bitcoinmarketjournal.com/bitcoin-trading-system/
+
+Long-time traders are all too familiar with the old saw that says: “Trading systems are a dime a dozen.”
+
+Unfortunately, the sad truth is that many trading systems cost hundreds, if not thousands of dollars to lease or buy. However, even with such steep price tags, not one of them can 100 percent guarantee you or any other bitcoin trader of steady profits. That’s because you are the single most important factor that determines the actual profitability of your system.
+
+Right, Wrong, and Results
+
+George Soros once shared a wonderful line that reveals the importance of the you-factor when putting together your bitcoin (or any other market) trading system:
+
+“It’s not about being right or wrong. It’s about how much money you make when you’re right and how much you don’t lose when you’re wrong.”
+
+Soros understands that a trading system is a statistical probability machine, one that makes money over time by ensuring that winning trade profits overwhelm losing trade drawdowns. Even a system that wins only 40 percent of the time can be incredibly profitable, provided that its winners are two to three times as large as its losers.
+
+Proven Stats Can Provide Trader Confidence
+
+Bitcoin traders who have rock-solid faith in their (properly tested) trading system stats are the ones who stand the best chance of reaping consistent gains over time. They are also miles ahead of discretionary (non-system) traders inasmuch as they’ll likely experience less stress (no fretting over which trades to enter, nor worries over which ones to exit) when it’s time to pull the trigger on a bitcoin system signal.
+
+Who Are You?
+
+Your first task in constructing your bitcoin trading system is to evaluate your own investment psychology:
+
+Do you prefer to limit bitcoin market exposure to 14 days or less? You may be a great candidate for a swing trading system.
+
+Perhaps you’d prefer to take advantage of the larger trend moves that bitcoin makes several times per year. If so, you could be prime material for a bitcoin trend-following system.
+
+If you have deep pockets and a solid understanding of bitcoin support levels (and which ones matter most), you could even trade a ‘scale-in’ bitcoin trading system. This is generally how banks and hedge funds rake in the bucks, year after year. However, this method can rely on a variety of ‘inverse pyramid’ position sizing that is not for the faint of heart, nor for those with tiny trading accounts.
+
+What Is a Bitcoin Trading System?
+
+A bitcoin trading system is an integrated combination of:
+
+Entry trigger
+
+Trade management
+
+Exit trigger(s)
+
+Backtesting
+
+Forward testing
+
+Trade sizing
+
+Trading psychology
+
+Your system can be dirt-simple (and simpler is usually more effective) or hideously complex. However, whatever entry, trade management, and exit triggers you settle on, you need to properly backtest and forward test it to ascertain if it’s a potential winner or just another also-ran (those two topics require an exhaustive study by every serious bitcoin system trader, so be sure and research them thoroughly).
+
+Later on, you’ll also read a bit more about the importance of trade sizing and trading psychology. These are truly the ‘make or break’ components of your well-conceived trading system plan.
+
+A Simple Volatility Breakout Swing System
+
+Here’s a look at a very basic, yet rational, bitcoin swing trading system. The entry, trade management, and exit criteria are simple enough for a newer trader to comprehend and implement. Trades typically last a week or less; profits on winning trades are secured quickly and with minimum time exposure to the markets. Only buy signals are taken, no short trades are allowed.
+
+Entry trigger: A volatility breakout calculation generates the buy signals.
+
+Profit target: If bitcoin’s price rises by $200 after a buy signal, trades are closed at a profit.
+
+A volatility trailing stop: The volatility stop loss serves as an initial stop loss and as a trailing stop. It will help limit losses on losing trades, even as it locks in some profit as price rises.
+
+This daily chart of BTCUSD shows these trade building blocks at work:
+
+A simple volatility expansion swing trading system at work in bitcoin. This style of breakout system usually works best in a bull market and also during bullish reversals off of major lows. Chart graphic: TradeStation 10.
+
+
+
+The key hypothetical trade stats for this bitcoin swing system:
+
+Profit factor: 3.95
+
+Average win/average loss: .66
+
+Winning percentage: 85.71 percent
+
+Number of trades: 14
+
+Start date: 11.28.18
+
+This system features a high winning percentage, but note that its losing trades are larger than its winning trades (winners are only 66 percent the size of the losers). However, the profit factor (dollars won divided by dollars lost) is nearly four to one, a very desirable figure.
+
+Will this system continue to crank out big gains in the second half of 2019 and beyond? No one knows. However, it should make money during every strong, sustained bitcoin bull run, as that is the market phase from which it’s designed to profit.
+
+A Modified ParaSar Trading System
+
+Here’s a look at a very basic ParaSar bitcoin swing trading system. The entry, trade management, and exit criteria are simple enough for a newer trader to comprehend and implement. Similar to the long-only volatility breakout system above, this one also takes fast gains, whenever the market offers them:
+
+Entry trigger: A Parabolic Stop and Reverse Sar (ParaSar) buy signal; some bitcoin trading platforms include this system.
+
+ATR profit target: If bitcoin hits a predetermined ATR price target after trade entry, the trade will be closed at a profit.
+
+A volatility trailing stop: This volatility stop serves as an initial stop and as a trailing stop. It will help limit losses on losing trades. It will also help secure profits as the price rises.
+
+This daily chart of LTCUSD shows these trade building blocks at work:
+
+A modified ParaSar swing trading system at work in Litecoin. This style of long-only breakout system may work best in an uptrending bull market, or after bullish reversals from major lows. Securing high-probability gains quickly can help eliminate the risk of subsequent, adverse market action. Chart graphic: TradeStation 10.
+
+The key hypothetical trade stats for this litecoin swing system:
+
+Profit factor: 5.31
+
+Average win/average loss: 3.18
+
+Winning percentage: 62.50 percent
+
+Before you try to duplicate this trading system, bear in mind that it’s based on a very small, eight-trade dataset going back to July 2, 2018. Future trade results may be less robust, depending on market conditions, but it could continue to perform well in strong Litecoin uptrends.
+
+Regardless, the basic ParaSar buy signal, volatility expansion, volatility trailing stop and ATR-based profit target concepts presented can offer you the raw materials needed to build and then fine-tune your own trading system – on bitcoin, Litecoin, or any other altcoin.
+
+More Important Than the System Itself
+
+If you’re still a bit unsure about terms like volatility breakout, ParaSar and volatility trailing stops, relax. Although you need to understand each one to implement systems similar to those described, there are even more important components you’ll need to include as part of your bitcoin/altcoin trading system.
+
+Spend at least as much time researching and internalizing the following concepts as you do the pure technical indicators needed to trigger your entry and exit signals:
+
+Trade sizing: Determining how many shares, units, or contracts to trade on every new system signal. This will be a major factor in your ultimate success or failure as a bitcoin/altcoin trader. Many pro traders limit their per-trade account risk to 1 or 2 percent, maximum; they carefully limit the size of each trade to manage risk on their losing trades.
+
+Trading psychology: Managing your natural instincts of fear and greed, transforming them from trading account killers into your most valuable trading allies.
+
+A Rational Approach, Not a Magic Solution
+
+Building your bitcoin trading system is relatively easy once you understand the basics of market price action. Studying tens of thousands of charts (in real-time) can also provide you with an even keener, intuitive sense of probable market direction.
+
+What is a bitcoin trading system? It’s merely a rational, statistically-based device that can help you profit in the digital currency markets. However, it’s not a ‘can’t-lose’ ATM machine that will automatically pour big bucks into your wallet on every trade.
+
+Also, contemplate the fact that without a pro-level understanding of trade sizing and trading psychology, it will be difficult for you or any other bitcoin trader to experience the joy of a steadily rising account equity curve, month after month, year after year. Devote as much time as you need until you master the art of trade sizing and trading psychology before risking a single dollar in the bitcoin or altcoin markets.
+
+To learn more about bitcoin trading and investing, leverage the knowledge base found in the Bitcoin Market Journal weekly newsletter. Subscribe today!
+
+
+
+Author disclosure:
+
+I do not have any open positions in bitcoin or Litecoin at the time of this writing.
+
+All trading systems were constructed by me with the tools included standard in TradeStation 10. All system results are hypothetical and are not specific trading/investing advice for any specific person or entity.

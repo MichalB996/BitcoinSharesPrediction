@@ -1,0 +1,25 @@
+DATE:  25.07.2019, 11:20:08
+TITLE: Unencrypted User Credit Card Data Leaked from YouHodler
+URL:   https://insidebitcoins.com/news/unencrypted-user-credit-card-data-leaked-from-youhodler/233684
+
+Cryptocurrency loan site YouHodler failed to encrypt their servers because of which it exposed customer credit card and user transaction data for almost a month.
+
+Researchers find the lapse
+
+A vpnMentor research team led by Noam Rotem and Ran Locar discovered a database of lending platform YouHodler. It is a cryptocurrency lending platform that claims to have processed loans worth $10 million to over 3,500 customers. However, despite such huge numbers, the company made a simple yet critical mistake in handling its data- it failed to encrypt its server. As soon as the researchers found the leaking data, they reported it to the company which immediately pulled it offline.
+
+The data included 86 million lines of daily updated records of the platform, it includes all streams of logs and computer commands that were generated via user interactions on the front-end. The data included sensitive information, including records of every loan or transaction on the platform. The researchers noted that they have found enough information in the records to make fraudulent card purchases (CVV) and their expiry dates. The website failed to encrypt this sensitive data.
+
+A huge lapse in security
+
+The researchers noted in a blog post that the website had been storing the CVV numbers of users’ credit cards and tagged them as “identity”. In some cases, the information is not directly linked with a customer’s name but in numerous cases, all information was available together.
+
+They also said that using the information available to them, it is relatively easy to link a user’s Bitcoin wallet address to their personal identity which may have serious consequences. Note that Bitcoin is a public ledger where transactions are freely available for audit. However, it is an anonymized network where users are identified by their wallet addresses instead of personal information.
+
+This is not where the problem with the website’s security end. The records also contain the banking information of users- which includes their names, address, routing numbers, SWIFT codes, bank account numbers and transaction amounts on the platform. Customers’ phone numbers and even their passport numbers were available in some cases. The researchers said,
+
+“The amount of information included in the database makes stealing a user’s identity a simple task.”
+
+The website has not made any public comments about the leak and the total lack of security at their end yet.
+
+The breach not only affects customers in the US but also in Canada, France, Russia, and the UK.

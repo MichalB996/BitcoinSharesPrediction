@@ -1,0 +1,42 @@
+DATE:  12.07.2019, 01:00:34
+TITLE: Ever Imagined How The Bitcoin Blockchain Looks in 3D?
+URL:   https://bitcoinist.com/ever-imagined-how-the-bitcoin-blockchain-looks-in-3d/
+
+Featured Ever Imagined How The Bitcoin Blockchain Looks in 3D?
+
+The Symphony of Blockchains team at IOHK has released an update to the project — Symphony 2.0 which shows a 3D representation of the Bitcoin blockchain.
+
+View the Bitcoin Blockchain in 3D
+
+The team announced the news in a blog post on the Cardano web forum of Monday (July 8, 2019). According to the post, Symphony 2.0 is an attempt to represent the Bitcoin blockchain in a manner that is engaging, stimulating, and entertaining while transforming abstract concepts into tangible sensory information.
+
+For the team, apart from creating a visual spectacle, they felt it necessary to utilize sounds like a signature for transaction blocks. Thus, each block in the network has a unique sound.
+
+According to the post, the team achieved this unique sound signature through a process called “additive synthesis.” Each transaction has a distinctive sound thus making every block composed of these transactions having its own special “auditory fingerprint.”
+
+Symphony 2.0 feels much like models of the neurons in the brain or indeed the many galaxies in the universe. The design philosophy sees the mempool as a sort of primordial soup visualized in a gravitational swell.
+
+The visual interface also sees validated transactions as concentric rings. Each added transaction causes the rings to extend outward like an expanding model of the physical universe.
+
+Certain aspects of the Bitcoin blockchain visualization incorporate practical elements like trees representing Merkle trees. Zooming into each block sees validated transactions displayed as 3D hexagons.
+
+The followings description from the Symphony 2.0 live environment provide a high-level summary of the project:
+
+Transactions are shown as crystals; height is value, brightness is spent output ratio. Each crystal creates sound based on value, spent outputs, and fee. Sounds are cycled through in the order the transactions were made.
+
+Other Crypto Blockchains in the Works
+
+Symphony 2.0 is available on web browsers for both mobile and laptop devices. For low-end devices, the developers also advise running the visual simulation on medium quality.
+
+The development also plans to create visual blockchain simulations for other networks like Ethereum and Cardano.
+
+Commenting on the importance of the project as a tool for greater blockchain education, Cardano forum user and developer of Symphony 2.0, “IOHK_Kevin” declared:
+
+Describing blockchains and how they work is hard. We’ve already collected feedback from users who say they are using Symphony to teach others about blockchains. They’re now able to describe complex terms that they once could not by using graphs, charts or traditional block explorers.
+
+There are several real-life examples showing the gaps in knowledge about bitcoin and blockchain as a whole. As previously reported by Bitcoinist, the majority of college students interviewed during a YouTube survey two months ago chose $1 over 1 BTC.
+
+Would you like to see a visual representation of the Bitcoin network? Let us know in the comments below.
+
+Images via Cardano Web Forum.
+

@@ -1,0 +1,31 @@
+DATE:  03.05.2019, 07:05:18
+TITLE: $500K of BCH Shuffled in Record-Breaking Cashshuffle Transaction
+URL:   https://news.bitcoin.com/500k-of-bch-shuffled-in-record-breaking-cashshuffle-transaction/
+
+$500K of BCH Shuffled in Record-Breaking Cashshuffle Transaction
+
+On May 1, Cashshuffle participants shattered records by shuffling 1,774 BCH ($478K) following a $284K shuffle two days prior. In addition to the big shuffles, BCH supporters have started ‘Shuffle Saturday’ so people can gather and mix large quantities of bitcoin cash.
+
+Also read: Former Mod Explains R/Bitcoin Censorship and Why He Was Removed
+
+Close to Half a Million Worth of Bitcoin Cash Shuffled
+
+Recently, news.Bitcoin.com reported on how BCH fans have been shuffling millions of dollars worth of bitcoin cash using the Cashshuffle application for Electron Cash. Moreover, developers released a new Cashshuffle JS library which will make it easier for light clients like the Bitcoin.com Wallet to integrate the protocol.
+
+Additionally, over the last few days, people have shuffled more than $762,000 and the week is still not over. The first big shuffle took place on April 30, as $284K was shuffled for less than a penny and BCH fans discussed the watershed moment on Reddit. The person who noticed the shuffle exclaimed a “quarter million shuffle just occurred — large BCH holders join us.” After that specific shuffle, Jonald Fyookball, the lead developer of Electron Cash, announced Wednesday’s record 1,774 BCH shuffled.
+
+“I can neither confirm nor deny whether my wallet was involved in this transaction,” BCH developer and miner Jonathan Toomim jokingly responded to the announcement.
+
+Cash Fusion and Shuffle Saturdays
+
+Not long after the biggest shuffle yet, Jonald Fyookball also revealed Cash Fusion, a method that coordinates coinjoin transactions with multiple inputs per user in a trustless fashion. Cashshuffle currently can only handle one input but with the Cash Fusion scheme, Alice, Bob, and many others can shuffle with multiple outputs.
+
+Participants only see one input using a method called Sharded Input Proofs which could essentially make Cashshuffle less reliant on trusting a server. “It’s a trustless way to consolidate coins,” Fyookball explained after announcing the concept. Fyookball and the community also discussed trivial concepts like cheating, assigning, and processing blame, which is explained in great detail on the Cash Fusion repository. When Fyookball was asked what happens if Bob doesn’t reveal that Alice cheated, the Electron Cash developer replied: “If blame cannot be assigned then the protocol aborts.”
+
+In addition to the latest shuffle milestones and Cash Fusion, the BCH community also started Shuffle Saturdays and have been shuffling together since Easter. BCH and Cashshuffle developer Acidsploit explained: “On Saturdays, we keep our shuffle wallet open and try to provide as much liquidity as possible to the Cashshuffle protocol.” Acidsploit also regularly shares Cashshuffle statistics on Twitter and since March 27 there’s been 16,617 BCH ($4.5M) shuffled.
+
+What do you think about all the action surrounding the Cashshuffle protocol lately and the $478K shuffle? Let us know what you think about this subject in the comments section below.
+
+Image Credits: Pixabay, Jamie Redman, Acidsploit, Github, and Twitter.
+
+Have you seen our Bitcoin Cash (BCH) tips generator? Anyone can create tips in order to give BCH by email or printable tickets. Recipients easily redeem tips by visiting a web page with instructions, and if the funds are not redeemed you get the money back. Check it out today!

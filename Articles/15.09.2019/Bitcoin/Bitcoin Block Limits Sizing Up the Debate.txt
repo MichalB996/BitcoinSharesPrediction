@@ -1,0 +1,51 @@
+DATE:  15.09.2019, 17:39:47
+TITLE: Bitcoin Block Limits: Sizing Up the Debate
+URL:   https://cryptobriefing.com/bitcoin-block-limits-sizing-up-the-debate/
+
+Analysis Bitcoin Block Limits: Sizing Up the Debate by Mike Dalton
+
+Size does matter
+
+Share this article
+
+One of the largest points of contention in the Bitcoin community surrounds the question of block sizes. Larger blocks mean faster transactions and less congestion, but they have higher requirements in storage and bandwidth.
+
+The communities behind Bitcoin and its forks are currently debating whether large blocks are truly feasible, and there is very little agreement on the matter. In fact, the Bitcoin blockchain has literally been split over this issue multiple times. Here’s a closer look at the ongoing block size debate.
+
+A Brief History of Block Size Limits
+
+When Satoshi Nakamoto created Bitcoin in 2008, he didn’t introduce a block size limit. That didn’t happen until 2010, when he instituted a 1 MB limit. There was some mild debate around block sizes at that time, but the issue became increasingly pressing over the next five years as Bitcoin’s transaction volume began to climb.
+
+At one point, the Bitcoin community planned to increase block size limits to 2MB via a hard fork in August 2017, but this hard fork was eventually cancelled. Instead, Bitcoin introduced SegWit in November 2017. Segwit handles signatures more efficiently and frees up block space, but does not actually increase block size limits—though it is sometimes said to give Bitcoin a “block weight” of 4 MB.
+
+In any case, the controversial addition of SegWit prompted Bitcoin Cash to split off and opt for an 8 MB limit, which was later increased to 32 MB in May 2018. And history soon repeated itself: in November 2018, Bitcoin SV split away from Bitcoin Cash in order to introduce a 128 MB limit—and that limit was raised to 2 GB this July.
+
+Do Large Blocks Provide Better Performance?
+
+Although all three blockchains have different block size limits, Bitcoin, Bitcoin Cash, and Bitcoin SV each have roughly ten minute block times. As such, their performance is best observed indirectly. Bitcoin Cash and Bitcoin SV have near-zero fees, which suggests that users do not have to compete to get their transactions included in upcoming blocks:
+
+However, high performance may be partially due to low demand rather than large block sizes. Bitcoin Cash and Bitcoin SV rarely approach full block capacity, and on a typical day, their average block sizes are much lower than those found on Bitcoin. Additionally, both blockchains have much lower transaction volumes than Bitcoin, as shown below.
+
+There are outliers, of course. Bitcoin Cash’s stress tests show that its network is capable of handling a high volume of transactions and large blocks – this month, a 14 MB block containing 73,000 transactions was mined. Coin Geek, meanwhile, has demonstrated that 128 MB blocks can be mined on Bitcoin SV– although in practice such large blocks are harder to propagate through the network.
+
+If Bitcoin Cash and BSV ever start to consistently handle full blocks, their large size limits should benefit their performance. It should be noted that these blockchains do not need to attract more transactions to fill their blocks: Bitcoin SV, for example, aims to store large media files on chain. (Whether this feature is actually necessary is another debate.)
+
+Do Large Blocks Harm Security and Decentralization?
+
+There is one major concern around increasing block size: large blocks could reduce network security. Large blocks require nodes to dedicate more resources and bandwidth, making node operation an expensive commitment. This could cause nodes to leave the network, centralizing the blockchain in question and leaving it vulnerable to attack.
+
+It’s also possible that some networks will be unable to keep up with large blocks. BitMEX, for instance, detected a “reorg” on Bitcoin SV in April. This means that Bitcoin SV miners were unable to propagate and verify large blocks before another block was found. Bad actors didn’t take advantage of this issue, but it was a security risk.
+
+Fortunately, some projects are aiming to make it easier for nodes and miners to handle large blocks. Flowee the Hub, for example, recently demonstrated (on a test chain) that 250 MB Bitcoin Cash blocks can be mined and verified by low-memory nodes. This is just one of Flowee’s many initiatives to lighten the burden of large blocks.
+
+Denial-of-service attacks are another issue, as SFOX has explained here. If bad actors create large blocks, they could induce massive backlogs. Of course, attackers could attempt a DOS attack by sending a high volume of small transactions as well. Ultimately, Bitcoin has many anti-DOS measures, and block sizes are just one factor at play.
+
+Taking Scalability In Other Directions
+
+Block sizes might be a hot topic in Bitcoin communities, but they’re not a problem for all blockchains. Ethereum, for example, uses gas limits instead of block size limits. The ETH network has had its own issues with transaction backlogs and overloads, but its gas limits are not as contentious as block sizes, as they can be adjusted relatively easily.
+
+Even when it comes to Bitcoin and related blockchains, there are other scalability efforts underway. Second-layer solutions like the Lightning Network can be used to perform transactions off-chain. On-chain scaling features like Xthinner, Graphene, and Compact Blocks also reduce the need for larger blocks on Bitcoin and related blockchains.
+
+It’s also important to note that block sizes are trending upward right now, but that trend could conceivably be reversed. Some parts of the Bitcoin community are currently pushing for smaller, 300 KB blocks. As new scalability methods are found, the debate over large blocks might quiet down—and efficient data handling could make more noise.
+
+Correction: a previous version of this article claimed that Segwit2X had been activated and that Bitcoin supported 2 MB blocks. Currently, only SegWit is activated, and Bitcoin only supports 1 MB blocks.

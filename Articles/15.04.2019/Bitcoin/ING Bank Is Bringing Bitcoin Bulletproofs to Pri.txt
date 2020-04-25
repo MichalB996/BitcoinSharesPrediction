@@ -1,0 +1,51 @@
+DATE:  15.04.2019, 08:00:34
+TITLE: ING Bank Is Bringing Bitcoin ‘Bulletproofs’ to Private Blockchains
+URL:   https://www.coindesk.com/ing-bank-is-bringing-bitcoin-bulletproofs-to-private-blockchains
+
+ING’s blockchain team is testing a privacy technology called “bulletproofs,” the latest in a series of seemingly unlikely cypherpunk experiments at the Netherlands-based global bank.
+
+Developed and refined by hardcore cryptographers at Stanford University, University College London and startup Blockstream, bulletproofs are designed to hide the amounts being transferred in bitcoin transactions, which are normally visible to anyone. But banks have privacy concerns about blockchains too, since they don’t want to expose competitive or sensitive client data to rivals.
+
+One early solution was zero-knowledge proofs (ZKPs), a way of proving possession of a secret without revealing the secret itself. Over the past year or so, ING has explored ZKP variants such as range proofs (where a hidden number is proven to be within a certain range) and zero-knowledge set membership (where alphanumeric data can be validated within a specified set).
+
+But ZKPs eat up a lot of computation and so potentially slow down a blockchain. Now, ING sees bulletproofs as a much more efficient, therefore applicable, version of these proofs.
+
+The bank found bulletproofs turn out to be “roughly ten times faster than other range proofs, for a single range proof,” said Mariana Gomez de la Villa, global head of ING’s blockchain program.
+
+And when aggregated together these proving schemes gain efficiency. Gomez de la Villa gave the example of a cryptocurrency exchange using range proofs to show it has enough funds to pay all its clients if they want to withdraw their money at the same time.
+
+In this case, “bulletproofs would allow a solution that is 300 times more efficient than other alternative range proofs,” she said.
+
+While a lot of this stuff is academic, ING is now looking to where it can apply the tech. Potential uses touch on the need to obey the Europe Union’s General Data Protection Regulation (GDPR); for instance, ZK set membership can prove an individual belongs to a given EU member state without disclosing any other information about their identity.
+
+Meanwhile, academics and cryptocurrency scientists seem encouraged, if a little bemused. Blockstream mathematician Andrew Poelstra told CoinDesk via email:
+
+“When we developed bulletproofs in 2017, we did not expect such an uptake. We’re very excited and proud whenever we see the technology being applied to real world problems, if a little surprised its found a use-case in traditional banking!”
+
+Trade and trolls
+
+ING is also looking at applying ZKPs to the testing out of trade finance blockchains, an innovation which in turn looks ahead to a world of blockchain interoperability, said Gomez de la Villa.
+
+“We are setting up a whole [ZKP] shop to help developers find these use cases and are in contact with some of our customers to ensure they have a good understanding of how they can leverage these open source projects that we have,” she said.
+
+To illustrate how the bank’s blockchain projects might apply ZKPs, Gomez de la Villa said imagine tracking a commodity from its origin and keeping the certificate of origin throughout the supply chain but without disclosing the supplier, price or the quality of the commodity.
+
+Looking ahead, this could involve that commodity touching several distributed ledger networks (interoperability is something ING is thinking about now, given the bank has close ties with R3, ethereum-based oil and gas consortium Komgo, and recently IBM’s MineHub on Hyperledger Fabric).
+
+“We need to ensure that the specific properties of the commodity worth passing along the chain in terms of semantic (meaning and interpretation of the fields) and the syntactic (format and fields) remain intact,” said Gomez de la Villa, “and at the same time being able to hide the ones that do not need to be passed on along the value chain but still are useful to record for other purposes.”
+
+Proving the bank has reached the highest levels in this field, ING takes part in the annual ZKProof Workshop alongside the team behind cryptocurrency zcash, Blockstream and QEDIT. The bank also said it compares notes with the likes of JPMorgan, another enterprise consumer of zero-knowledge cryptography, to help make the tech a reality for clients.
+
+Gomez de la Villa said:
+
+“Everybody helps each other, everybody bounces stuff with each other and the important thing is not what you have learned but it’s more like how do you apply those learnings.”
+
+But not everybody likes the idea of a bank getting involved with technology seen as the reserve of privacy-driven libertarians for use on public blockchains. Gomez de la Villa said her social media has been trolled by certain people claiming the bank “just copy and pasted” the technology.
+
+“There are people that are quite anarchist about it and they are obviously 100% pro-bitcoin and they believe that indeed they are doing all this to circumvent financial institutions,” she said.
+
+However, Gomez de la Villa is unfazed by her trolls, concluding:
+
+“I like it. Cause that means that it matters.”
+
+Enigma decryption pic: Shutterstock

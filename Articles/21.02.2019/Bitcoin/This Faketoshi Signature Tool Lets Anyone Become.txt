@@ -1,0 +1,49 @@
+DATE:  21.02.2019, 01:25:42
+TITLE: This 'Faketoshi' Signature Tool Lets Anyone Become Satoshi Nakamoto
+URL:   https://news.bitcoin.com/this-faketoshi-signature-tool-lets-anyone-become-satoshi-nakamoto/
+
+This 'Faketoshi' Signature Tool Lets Anyone Become Satoshi Nakamoto
+
+Over the years, it’s become popular to claim that you are Satoshi Nakamoto even if you lack a shred of evidence. Although some individuals have tried really hard to prove it, they have always failed to convince the greater community. For instance, a few self-proclaimed inventors of Bitcoin have attempted to generate a signature with a message hash that’s tethered to an early mined block. After a few of these occurrences, a financial transparency startup called Albacore Labs has created a tool that will validate a signature against the genesis block, making it “easier for other people to make similar claims.”
+
+Also Read: Another ‘Satoshi’ Steps Out of the Woodwork, Calls Craig Wright a Liar
+
+Crypto-Babble About Digital Signatures or Hashing Should Not Be Enough
+
+Many bitcoiners will never forget how Craig Wright tried to prove he was Satoshi Nakamoto back in 2016. It all started when the London Review of Books reporter Andrew O’Hagan spent months with Wright and allegedly saw him sign a message tied to a Satoshi Nakamoto address. There was also a series of blog posts Wright wrote that has since been scrubbed from the internet and Wright’s interaction with Gavin Andresen in London. Back in the spring of 2016 Wright also appeared on a BBC video claiming to sign a signature tethered to the first bitcoin transaction.
+
+“My name is Craig Wright and I’m about to demonstrate a signing of a message with the public key that is associated with the first transaction ever done on Bitcoin,” the Australian native stated on May 2, 2016. “So you are going to show me that Satoshi Nakamoto is you?” the BBC reporter asked at the time. “Yes,” Wright replied.
+
+After the show aired, veteran cryptographers quickly pointed out that the BBC reporters and Andrew O’Hagan were seemingly duped. The long-winded London Review of Books story that describes O’Hagan’s experience hanging out with Wright for months shows O’Hagan had no clue what Wright was actually signing. Moreover, well-known cryptocurrency developers like Pieter Wuille, Christopher Jeffrey and Greg Maxwell showed the public how Wright pulled off his signing parlor trick.
+
+One of the so-called Satoshi PGP keys Wright signed was provably backdated and other signature attempts have been cited as blatant forgery. Then, last year, a Twitter handle that used the name “Satoshi Nakamoto” tried to create the same signing proof with a message tied to block number 9. Finally, Bitcoin Cash (BCH) developer Amaury Séchet recently shared a hash message on Twitter and claimed to be Satoshi. However, the message was clearly a joke except a few cryptocurrency news outlets ran with the story.
+
+Now Anyone Can Prove They Are Satoshi By Signing a Message Tied to the Genesis Block
+
+Since the so-called block 9 signing, Albacore, a team that develops tools to improve financial transparency, has released an application that can tie a message to the Bitcoin genesis block so anyone can attempt to “prove they are Satoshi.”
+
+“With everyone seemingly trying to prove they are Satoshi (looking at you Craig Wright and “Faketoshi twitter”), we’ve decided to make it easier for other people to make similar claims,” explains Albacore.
+
+The startup’s Faketoshi website continues:
+
+Clicking the button below will generate a signature and message hash that will successfully validate against the address that mined the genesis block, which is known to have been mined by Satoshi. Just don’t ask for the plaintext message that generated the hash…(spoiler, we don’t know it either).
+
+A Faketoshi Signing Tool Benefits the Community by Teaching Bitcoiners to Dismiss Fraudulent Behaviour
+
+In a post that describes the tool’s process, Albacore says people claiming to be Satoshi is nothing new, but Craig Wright is the most “recent cult” following. Albacore says this is due to a serious lack of technical understanding within the blockchain and bitcoin ecosystem. “This leads to situations where the merest mention of crypto-esque jargon like digital signatures or hashing is convincing enough,” the startup’s blog post explains. Albacore notes that people can see that the forged messages are clearly faked because the hash of the message is provided without the actual plaintext message.
+
+“So why would the scammer provide the hash of a message and not the message itself? Albacore asks within the essay, before answers its own question: “Because they do not know the message — That would involve them actually knowing the private key and generating a legitimate signature.”
+
+Albacore adds:
+
+Given the one-way nature of cryptographic hashes — The only way to verify this signature is to use a non-standard ECDSA verifier that does not internally hash the message but instead accepts the hash of the message as an input.
+
+This week, news.Bitcoin.com reported on another self-proclaimed Satoshi Nakamoto who called Craig Wright a “liar” and stated he could sign a real message in due time. However, just like the slew of other Faketoshis we’ve covered in the past, this one has yet to provide any real proof to the greater crypto community. To some people, these signatures are pretty much meaningless, unless the signer can provide an actual plaintext message or literally move bitcoins that were mined in the early days with a well-known Satoshi address. Even Wright’s open letter saying that he is willing to testify in front of the U.S. Commodity Futures Trading Commission (CFTC) is worthless because none of those regulators understand this technology.
+
+Albacore says tools like the Faketoshi signing application benefit the community as a whole, so they can be more critical towards people attempting blockchain signature parlor tricks and instead “focus on things that advance the space as a whole.”
+
+What do you think about Albacore’s Faketoshi signature tool? Do you think anyone has proven themselves to be Satoshi Nakamoto with these signature tricks? What would make you believe a person is really Satoshi? Let us know what you think about this subject in the comments section below.
+
+Image credits: Shutterstock, Twitter, Pixabay, Albacore, Medium, and Bitcoin.com.
+
+At news.Bitcoin.com all comments containing links are automatically held up for moderation in the Disqus system. That means an editor has to take a look at the comment to approve it. This is due to the many, repetitive, spam and scam links people post under our articles. We do not censor any comment content based on politics or personal opinions. So, please be patient. Your comment will be published.

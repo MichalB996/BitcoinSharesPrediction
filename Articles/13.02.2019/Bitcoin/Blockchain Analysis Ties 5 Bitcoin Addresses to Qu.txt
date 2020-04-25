@@ -1,0 +1,63 @@
+DATE:  13.02.2019, 23:15:13
+TITLE: Blockchain Analysis Ties 5 Bitcoin Addresses to QuadrigaCX Exchange
+URL:   https://www.coindesk.com/blockchain-analysis-ties-5-bitcoin-addresses-to-quadrigacx-exchange
+
+Blockchain watchers have identified a group of bitcoin addresses that likely belong to one of the so-called cold wallets of failed crypto exchange QuadrigaCX.
+
+The discovery is notable in light of QuadrigaCX’s claim that it has been unable to access these wallets – which held the lion’s share of the $190 million owed to customers – since the death in December of CEO Gerald Cotten. In court filings, the company has said Cotten had the sole responsibility of moving funds from the exchange’s “hot,” or active, wallet to offline “cold” storage.
+
+But Quadriga did not share its cold wallet addresses, driving many researchers to try to trace transactions to determine which wallets these were, as well as whether they truly contained the $136 million in cryptocurrencies, including about $92 million worth of bitcoin, said to be held offline. (Another $53 million of customers’ fiat currency has been held up at payment processors.)
+
+A clue came on Tuesday, from Ernst & Young (EY), QuadrigaCX’s court-appointed monitor in the creditor protection case. In its first progress report to the Canadian court, EY revealed that on Feb. 6 Quadriga had mistakenly transferred 103 BTC (around $350,000) to the “cold wallets which the Company is currently unable to access.”
+
+Internet sleuths then found a group of addresses that had received multiple small transfers on that date totaling 104.335 bitcoin – nearly the same amount mentioned in the report. Prior to this, these addresses had not seen any transactions since April.
+
+Reddit user Decoze published the addresses of these wallets on Wednesday:
+
+1HyYMMCdCcHnfjwMW2jE4cv9qVkVDFUzVa — received 36.37786282 BTC,
+
+1JPtxSGoekZfLQeYAWkbhBhkr2VEDADHZB — received 33.19556316 BTC,
+
+1MhgmGaHwLAvvKVyFvy6zy9pRQFXaxwE9M — received 19.54328527 BTC,
+
+1ECUQLuioJbFZAQchcZq9pggd4EwcpuANe — received 10.34268585 BTC,
+
+1J9Fqc3TicNoy1Y7tgmhQznWrP5AVLXj9R — received 4.87560516 BTC.
+
+Further supporting the connection, the first address once received a small amount of bitcoin from 3N8auHdN9rtmHDHqNnXK4eWhfukBAQcve1, the same address that was listed as QuadrigaCX’s hot wallet by the exchange’s owners in a court affidavit.
+
+Plus, those five addresses had earlier been “clustered” together, or determined to belong to the same entity, by two blockchain analysis sites, Walletexplorer and OXT.
+
+Laurent, a developer at OXT who would not disclose his last name, told CoinDesk he also believes the cluster to be related to QuadrigaCX based on patterns of transactions it sent and received.
+
+Careful now
+
+Stepping back, it’s important to be careful when analyzing the bitcoin blockchain, or any other public ledger that relies on unspent transaction outputs (UTXOs).
+
+Unlike the account-based ethereum, in bitcoin, what can be considered a “wallet” is often not one address but a group of them. In the UTXO model, addresses designate not accounts but transaction outputs, i.e. the parts into which initial amounts of bitcoin are split during transactions.
+
+“These addresses are automatically clustered thanks to a script processing a conservative version of a method called the ‘merged inputs heuristic’,” Laurent said in explaining how OXT draws connections between addresses. “In its basic version, the ‘merged inputs heuristic’ states that all addresses associated to the inputs of a bitcoin transaction are controlled by [the] same entity and should be clustered.”
+
+However, Laurent warned that bitcoin blockchain analysis, by its nature, cannot lead to exhaustive, unambiguous conclusions.
+
+For example, he said, the Mt Gox exchange, which failed spectacularly in 2014, had a feature that confused the analytics platforms, “leading to the appearance of a giant cluster merging wallets controlled by independent entities. As a result, some analytics platforms label all the addresses of this cluster as ‘suspicious’ because some transactions found in the cluster seem related to dark markets.”
+
+The lesson, he said, is simple:
+
+“Despite what many people think, blockchain analysis is far to be 100% reliable.”
+
+Older transactions
+
+With those caveats in mind, there’s one more interesting piece of information about the five addresses now believed to be QuadrigaCX’s cold wallet.
+
+In his Reddit post, Decoze noted that in December 2017 – a year before QuadrigaCX’s unraveling – the first and second addresses in the group sent transactions to address No. 1PdBMFkicx1vTHs9P6whPGondSVcmndVha, which he determined belongs to another exchange, Bitfinex.
+
+“Experience (or google) with the BTC blockchain and popular exchanges shows this is the main collection address of Bitfinex’s hot wallet,” Decoze wrote. “This means we can be very confident 1PdBMFkicx1vTHs9P6whPGondSVcmndVha was a deposit address generated by Bitfinex for a customer.”
+
+Laurent told CoinDesk he, too, had identified transfers to Bitfinex from the cluster.
+
+“My main theory is that it might be a wallet controlled by QCX and used as a kind of ‘pivot wallet’ between QuadrigaCX hot wallet and several exchanges. Large financial flows (in/out) can be observed between this wallet and exchanges like Bitfinex,” Laurent said.
+
+This would be consistent with a pattern observed on the ethereum blockchain, where CoinDesk and independent researchers identified a significant flow of Quadriga’s funds to Bitfinex and other exchanges as well.
+
+Gerald Cotten circa 2015 image via Decentral.

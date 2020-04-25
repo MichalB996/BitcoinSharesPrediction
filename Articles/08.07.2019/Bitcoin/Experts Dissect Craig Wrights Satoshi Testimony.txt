@@ -1,0 +1,69 @@
+DATE:  08.07.2019, 09:00:36
+TITLE: Experts Dissect Craig Wright's 'Satoshi' Testimony and Court Documents
+URL:   https://news.bitcoin.com/experts-dissect-craig-wrights-satoshi-testimony-and-court-documents/
+
+Experts Dissect Craig Wright's 'Satoshi' Testimony and Court Documents
+
+Last week, Craig Wright, the man who claims he’s Satoshi Nakamoto, appeared in court and testified why he did not have access to his public bitcoin addresses and trust information. Since then a lot of new evidence has been submitted to the court and members of the crypto community have dissected Wright’s recent testimony and the newly filed documentation.
+
+Also Read: Bitcoin Cash Scaling Benchmarks, Brewdog, and Rising Transaction Volume
+
+The $5 Billion Dollar Bitcoin Lawsuit Continues to Unfold
+
+For years now, Australian native Craig Wright has told the public that he invented Bitcoin and tried to submit evidence to prove that he is who he says he is. However, a great number of cryptography experts and well known bitcoiners have discredited nearly all of his claims to the point where individuals have called him a fraud. The Kleiman v. Wright case involves the now deceased Florida computer forensics expert Dave Kleiman.
+
+The reason David is involved is because much of the evidence provided to the court involves Kleiman and Wright’s multi-year business relationship. After David passed away, allegedly Wright reached out to the family and explained to them that he and David were involved with the creation of Bitcoin and how they both mined large amounts of bitcoin during the early years. Now, Ira Kleiman, on behalf of David’s estate, is accusing Wright of interfering with David’s bitcoin assets and intellectual property after he died. The Kleiman estate’s complaint reads:
+
+This matter concerns the rightful ownership of hundreds of thousands of bitcoins and the valuable intellectual property rights of various blockchain technologies. As of the date of filing, the value of these assets far exceed $5,118,266,427.50 USD (before punitive or treble damages).
+
+The court case started in February 2018 and involves billions of dollars worth of BTC that allegedly exist in a blind trust called the “Tulip Trust.” Kleiman’s litigation team have asked Wright to produce bitcoin addresses and trust information, but so far the plaintiff’s counsel say he has failed to comply. The hearing on June 28 was held to understand why Wright and his attorneys believe he should not be held in contempt for failing to produce what the court has ordered him to procure.
+
+When Wright was asked why he hasn’t provided a list of the public addresses to the plaintiffs, he explained that “there are no public addresses in the Bitcoin system.” Wright insisted to the court that public addresses “don’t exist” and claimed there are no public addresses at all in Bitcoin. “Bitcoin was derived such that a key would only be used once — And if you look at the section in the whitepaper, later on, it states that as an additional firewall, keys should not be reused,” Wright responded.
+
+Accusations Aimed at the Creator of Bitcoin.org
+
+When Wright was asked if he was familiar with the Bitcoin system, he said that he was familiar with the system he created and he claims to have “used the pseudonym Satoshi Nakamoto” during this time. Again, Wright was then asked whether he could provide the public addresses at the hearing. “If I could, I would have not given the first 70 addresses — I would have given every other address,” Wright responded further. “The first 70 addresses associate me as Satoshi — I did not want to be associated with Satoshi.” Wright was then asked to explain why he stopped acting as the pseudonymous Satoshi Nakamoto and he claimed that it all started after the creation of Bitcoin.org. Wright then went on to accuse Martti Malmi and Theymos of starting the “Silk Road, Hydra and a number of other darker websites” along with Ross Ulbricht. Wright’s testimony stated that these websites and forums were created to foster drug sales, weapons, child pornography, and assassination markets.
+
+Apparently CSW has claimed in court that I cofounded Silk Road and worked "to allow assassination markets". For the record: that is obviously a made up accusation. https://t.co/lAdFhsLoHH — Martti Malmi (@marttimalmi) July 6, 2019
+
+After reading the transcript, early Bitcoin developer Martti Malmi went on record and said Wright’s claims were “obviously made up accusations.” During the tweet thread, at first Malmi said he was leaning toward not responding back with a libel and defamation lawsuit. It seems Malmi hasn’t made up his mind, however, and from further comments, he may retaliate against these accusations.
+
+“Then again, would be good to see justice served and him not getting away with outright slander,” Malmi explained. The former Bitcoin developer stated:
+
+Taking a closer look to the transcript, Craig Wright is accusing me and Theymos of soliciting drug trade, assassinations, terrorism and child porn — That is too much to be ignored. I want to thank everyone for the support I’ve received and I’ve already got some suggestions about where to start, but recommendations for good lawyers, etc. are welcome.
+
+Wizsec Dissects Wright’s Testimony and Alleged Forgeries
+
+After Wright’s transcript was published, Bitcoin security specialists Wizsec analyzed his testimony and found many flaws. Wizsec discussed how Kleiman’s lawyer had focused on an email produced by Wright in discovery that allegedly is a forgery. The email is a PDF that was purportedly sent by David Kleiman on June 24, 2011. Kleiman’s lawyer presented the PDF and explained that even though it says it was created in July 2011, the software used to write the metadata in the document stems from software that had not launched until the summer of 2012.
+
+Moreover, Wizsec’s analysis says that the PDF document at the very least must have been modified somehow at some point. “Indeed the PDF metadata lists a modification date of October 22, 2014, which Wright himself identifies — Wright denies modifying the PDF at that time,” Wizsec writes. Kleiman’s lawyer noted that the PDF contained a string of code that further suggested the document was modified at some point. Then Wright claimed the Kleiman counsel submitted a forgery and tossed the document in the air and the judge gave him a warning.
+
+“All the evidence presented by the plaintiff raise significant doubts as to the authenticity of this supposed email from Dave Kleiman,” Wizsec’s research notes. “No legitimate document should show this many signs of manipulation, and even if Wright denies that he forged anything, all of this is hurting the credibility of any other documents Wright’s side has submitted, if not Wright’s own credibility.”
+
+Following the email discussion, Kleiman’s lawyer then discussed a PDF called the deed of trust. According to the transcript, the plaintiff’s forensics expert extracted metadata from the PDF which shows it was embedded with the Calibri font created in 2015. But Wright and even some of his dedicated followers believe that the Calibri font got an update and any PDF would pick up the new font after the fact.
+
+Indeed, many of Wright’s fans have dismissed all of the claims against him and even Wright himself is attempting to sue certain people for calling him a fraud. One Wright supporter on Twitter has been tracking all of the negative comments against Wright on the social media platform. “If you’re spreading lies on Twitter, you better hope your opsec is the best and you have lawyers on retainer,” the user warned. Meanwhile, there are many bitcoiners assessing the court drama and have rebuked all of Wright’s documents and claims of being Satoshi. Adding more insult to injury, this week an unidentified person bought the domain name Loser.com allegedly for $21,000 and the website now directs to Craig Steven Wright’s Wikipedia page.
+
+Just published Proof-of-Perjury? on Medium. Kleiman v. Craig Wright case https://t.co/MqKDGZyCuR — SeekingSatoshi (@jimmy007forsure) July 7, 2019
+
+The Court’s Verdict Could Come Soon
+
+During the hearing, Kleiman’s attorney continued to ask Wright about a slew of documents that were seemingly modified at a later date, an email that Wright allegedly sent to himself, and a bunch of other document discrepancies. In addition to Wizsec’s examination, Daniel Kelman, an attorney who often discusses cryptocurrency cases, also wrote an extremely detailed post about Wright’s latest testimony. Kelman said that Wright fully understands how to produce public addresses and the court order was very clear. However, in his opinion Wright failed to produce the addresses and comply with the order and did so “willfully,” Kelman emphasized. The attorney at law said there will be a second hearing later this summer and he expects the other witnesses to be heard and more discussions in regard to certain technical exhibits.
+
+“After this hearing, the court will issue its verdict — As discussed previously, this could result in fines or a six-month incarceration for Wright,” Kelman wrote. “The court can issue a default judgment to Kleiman or can issue the lesser remedy of preventing Wright from contesting these matters, which would all but hand the case to Kleiman.” The lawyer continued:
+
+Based on Wright’s performance at the June 28 hearing and the court has already established grounds for contempt against him, I don’t see this going in Wright’s favor.
+
+The Kleiman v Wright case could end soon, but the court still needs to hear from Wright’s expert witnesses including Brett Roberson, Kevin Madura, and Nchain developer Steve Shadders. The date for this proceeding has not been chosen yet, but reportedly both parties must appear in court before Judge Beth Bloom on July 10. So far there’s been a lot of evidence against Wright’s claims and documents submitted to the court as well as the crypto community’s continued grievances against him.
+
+Wizsec and others have discredited Wright’s technical explanations many times in the past and continue to believe he has lied many times and obfuscated his story by using “technobabble.” “Word salad is not meant to help a less technical audience understand, but to keep it from understanding or questioning,” Wizsec’s analysis detailed. The paper concludes:
+
+This is a basic scammer’s trick; the “con” in con artist stands for confidence, after all — Keeping an open mind is nice and all, but that requires active critical thinking and that you do your own research properly so you don’t get taken advantage of. If someone has been caught lying 999 times, you’re not obligated to keep an open mind for number one thousand.
+
+What do you think about the Kleiman v. Wright lawsuit involving billions of dollars worth of bitcoin? Let us know what you think about this subject in the comments section below.
+
+Feel like you missed something? Check out our full coverage of the Kleiman v. Wright case here:
+
+Image credits: Shutterstock, Twitter, Pixabay, Courtlistener, Pacer, and Reddit.
+
+Are you feeling lucky? Visit our official Bitcoin casino where you can play BCH slots, BCH poker, and many more BCH games. Every game has a progressive Bitcoin Cash jackpot to be won!

@@ -1,0 +1,24 @@
+DATE:  07.03.2019, 09:23:19
+TITLE: Hodl Hodl plan Bitcoin-centric prediction market to launch in spring this year
+URL:   https://coinjournal.net/hodl-hodl-plan-bitcoin-centric-prediction-market-to-launch-in-spring-this-year/
+
+The Latvia-based Hodl Hodl team behind the non-custodial p2p exchange and the Bitcoin-maximalist friendly Baltic Honeybadger conference, have recently outlined their plans for a Bitcoin-focused prediction market, similar to the Augur platform which is currently active on the Ethereum network.
+
+Hodl Hodl currently offer a straightforward p2p exchange platform, which functions like a non-custodial Localbitcoins using Bitcoin multi-signature transaction capabilities. They provide a simple interface for posting bids and asks, wherein users can find a counterparty to enter into a trade with. When two parties enter into a trade, bitcoin is transferred to a multi-signature address, and when a bank payment or similar to cover the bitcoin has arrived, the seller can confirm, allowing the buyer to take the funds from the multi-sig escrow address. The platform uses 2-of-3 multi-signature transactions, such as in the event of a dispute, HodlHodl themselves can arbitrate and ultimately ensure the funds go to the correct party. The UX is very similar to that of the popular LocalBitcoins, but uses multi-signature technology to avoid having full custody over user funds.
+
+
+
+A prediction market would allow for more complex p2p instruments to be created, including rudimentary forms of derivative somewhat similar to the options offered by the popular derivative platforms such as Deribit and BitMEX. For example, two users could choose to make a prediction on the price of Ethereum on a specific date six months in the future, and create a winner-takes-all contract, wherein party A wins if Ethereum is greater than X and party B wins if Ethereum is less than X.
+
+
+
+More interesting though, will be the possibility for an active prediction market built on Bitcoin to develop and facilitate contracts on completely unrelated events outside the world of cryptocurrency. For example, it will be possible to create prediction contracts based on the outcomes of elections and sporting events, which could allow an exciting active market to develop with different parties offering varying odds on certain outcomes.
+
+
+
+Hodl Hodl only intend to have two simple rules that dictate acceptable contracts, which would disallow both illegal or ambiguous conditions for the contract. In order to ensure the rules are followed, contracts will be pre-moderated by the Hodl Hodl team before going live, and most potential users will likely agree that these simple rules are pretty reasonable considerations when making a market for the outcome of a prediction. According to Roman Snitko at HodlHodl, the Predictions platform “will probably have some templates for offer descriptions first”, and there are likely to be standardised offers/contracts for the most popular predictions as the platform grows.
+
+
+
+The platform will be hosted at predictions.hodlhodl.com and existing HodlHodl users will be able to get stuck straight into making and taking predictions when the platform goes live within the next couple of months.
+

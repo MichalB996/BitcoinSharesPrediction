@@ -1,0 +1,37 @@
+DATE:  12.03.2019, 19:31:42
+TITLE: Samsung Galaxy S10 Wallet Supports Ether, CryptoKitties — But Not Bitcoin
+URL:   https://bitcoinmagazine.com/articles/samsung-galaxy-s10-wallet-supports-ether-cryptokitties-but-not-bitcoin
+
+Ring in the new bitcoin halving cycle the right way: with us!
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+When leaked pictures of Samsung’s latest smartphone went viral, the crypto sphere lost its mind over a singular feature: a built-in cryptocurrency wallet.
+
+Samsung would quickly deny rumors that the S10 contained a baked-in hardware wallet. Well, the wallet definitely exists. It’s just missing a few features you might expect of a crypto wallet. Specifically, it doesn’t support bitcoin — only ether and ERC20 tokens — which would be akin to your broker at Charles Schwab or Fidelity telling you that your 401(k) lets you invest in silver, copper and other metals but not gold.
+
+The Wallet
+
+I bought my S10 yesterday and downloaded the wallet first thing this morning from Samsung’s Galaxy Store (interestingly, it’s not available on the Google Play Store). Upon setting up the wallet, the app asks for permissions, like access to your phone’s calling function, storage, camera and body sensors, and it asks you to sign in with either a Samsung or Google account.
+
+I tried to take screenshots of the process, but when you try this, an error message reads: “Can’t take screenshots due to security policy.” So there’s a plus-one for mindful security practice even if the app’s asking for access to your phone leaves you wary.
+
+Setting up the wallet is pretty standard procedure. You can either import an existing wallet using your seed phrase or create a new one. If creating a new one, you’ll be asked to enter a 6-digit PIN, and after you confirm this PIN, you’ll be given a 12-word seed phrase (aka recovery phrase or mnemonic phrase).
+
+The device will warn you to store the phrase on another device (or, if you’re being really security minded, offline entirely), adding that if you lose it, then your wallet will be lost to the blockchain abyss if you need to recover it for whatver reason (instances where you might need to recover your wallet: your phone gets broken, your phone gets stolen or Thanos secures all the Infinity Stones). The app also assures you that Samsung has no access to your wallet, but that anyone with your seed phrase does.
+
+After you promise that you’ve written down the seed phrase safely like an obedient little enthusiast, like any responsible wallet, it will randomly select three of these words (numbered 1–12) for you to regurgitate to the app to prove that you didn’t ignore the most important step in setting up a wallet.
+
+Bitcoin When?
+
+Once you’ve done this, your wallet is set up and you can start sending and receiving ether and ERC20 tokens.
+
+Yep, just Ethereum stuff: no bitcoin. The wallet comes with innate support for ether, TrueUSD, Basic Attention Token, Augur’s REP, Chainlink, the Paxos Standard, Maker, USD Coin, BNB and ZRX, among others. You can also add a “custom token” like you can for other Ethereum wallet services such as MyCrypto and MyEtherWallet: this means that you can tell the wallet to recognize any ERC20 token by entering its token contract address, its name, its symbol (ticker) and its decimals.
+
+It also comes with intrinsic support for two dApps: the Enjin Coin wallet, the eponymous cryptocurrency for Korean gaming company Enjin; and the notorious CryptoKitties. Enjin has been touted as a token platform that will revolutionize in-game purchases and ownership (what amounts to tokenizing cosmetics, items and other content). CryptoKitties, depending on who you ask, is either a really cute crypto trend or the virtual reincarnation of Beanie Babies with even more irrational buyer’s mania. It made headlines in 2017 when the dApp clogged up the Ethereum network.
+
+According to BREAKERMAG’s coverage of the wallet, COSMEE, a cosmetic token that rewards users for things like reviews of beauty products, is also supported. The app reportedly features the CoinDuck payment portal for point-of-sale and merchant payments, as well.
+
+Samsung has given no indication as to why it chose to support only Ethereum out of the gate, and it has also given no promise or timeline for integrating bitcoin or other cryptocurrencies in the future.

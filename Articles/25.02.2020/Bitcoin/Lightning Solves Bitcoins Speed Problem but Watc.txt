@@ -1,0 +1,41 @@
+DATE:  25.02.2020, 05:00:00
+TITLE: Lightning Solves Bitcoin’s Speed Problem, but Watch Out for Fraudsters
+URL:   https://finance.yahoo.com/news/lightning-solves-bitcoin-speed-problem-050000405.html
+
+J.P. Koning, a CoinDesk columnist, worked as an equity researcher at a Canadian brokerage firm and a financial writer at a large Canadian bank. He runs the popular Moneyness blog.
+
+I don’t know about you, but the thing that got me interested in bitcoin (BTC) was its potential to become a popular way to make payments and remittances. Over the years we’ve been constantly disappointed on this front. Bitcoin payments just never caught on with the masses. Meanwhile, usage of fiat-based person-to-person payment tools like Venmo, Square Cash, Zelle and the U.K.’s Faster Payments has exploded.
+
+Bitcoin’s new lightning layer has rekindled the dream of bitcoin-as-generally-accepted medium of exchange. But lightning is prickly to use. Which is why Zap’s recent announcement of Strike, a new lightning application, caught my interest. Strike aims to popularize bitcoin payments by making lightning more user-friendly.
+
+Related: Securities Law Helped Build Modern Capitalism. Crypto Should Embrace It
+
+The idea behind Strike is to create a fiat-based payments app, say like Venmo, except under the hood the payment is conducted in bitcoin. A hybrid fiat-bitcoin payments app is a neat idea. But marrying fiat with bitcoin will involve challenges, too.
+
+A bitcoin payment is special. The bitcoin network is open to everyone, or censorship resistant. It allows for pseudonymous usage. And it provides what Satoshi Nakamoto described as non-reversible digital transfers; like cash, once the stuff is spent, the economic relationship between payer and payee is severed.
+
+Without even knowing it, you’ve paid your neighbor with bitcoin.
+
+Pseudonymity, non-reversibility and openness will cause hassles that regular payments platforms like Square Cash or Venmo needn’t worry about. It remains to be seen whether hybrid fiat-bitcoin platforms like Strike will be able to marry the two systems in a form that still attracts a mainstream user base.
+
+Related: Crypto Exchanges Need Common Messaging to Comply With Travel Rule
+
+Let’s back up a bit. How does lightning resuscitate the dream of mainstream bitcoin payments? Writing a transaction to bitcoin’s core blockchain takes time. It has to be broadcast to the network and confirmed by miners. On top of that, a processing fee must be paid. This fee can get particularly costly when everyone wants to use the bitcoin network at the same time.
+
+These delays and fees put off mainstream users. By routing around the blockchain, lightning can help regular people be more comfortable making bitcoin payments.
+
+Roller-coaster problem
+
+Unfortunately, lightning doesn’t solve bitcoin’s roller-coaster problem. After experiencing bitcoin’s crazy price rises and dips, a new user will never want to hold bitcoin again. Or they will be so excited by the ride that they treat it as a betting game. Either way, they won’t use it for payments.
+
+Strike, founded by a smart and affable Jack Mallers, tries to solve the roller-coaster problem by letting people load funds onto an app, much like they do with Venmo. But when they make a payment, unbeknown to them, Strike (which is still in beta) will route the payment to the recipient via lightning.
+
+Say you’d like to buy an antique vase for $100 at your neighbor’s garage sale. You don’t have any cash on hand. But you do have your credit card. Needless to say, your neighbor doesn’t have a card terminal set up. But she does have a lightning channel open. Strike allows the two of you to connect. The $100 flows from your bank account to Strike’s bank account, upon which Strike sends 0.01 bitcoins to your neighbor via lightning.
+
+That’s it. Without even knowing it, you’ve paid your neighbor with bitcoin. No volatility. And no need to learn how to use a strange new payments network. The entire experience simply piggybacks off of your existing knowledge of how to use a debit card.
+
+As for your neighbor, with just a lightning address, she can immediately accept non-reversible payments from debit card holders all over the world. That’s neat.
+
+But unless your neighbor has the technical chops, setting up lightning won’t be easy, certainly not as easy as accepting fiat-based payments via Zelle or Venmo. Which means that hybrid fiat-bitcoin payments systems will probably have to reach nooks and crannies that are as-yet unserved by the Zelles and Venmos of the world.
+
+Story continues

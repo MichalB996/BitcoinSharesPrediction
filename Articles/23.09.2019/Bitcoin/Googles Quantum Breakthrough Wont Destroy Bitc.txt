@@ -1,0 +1,39 @@
+DATE:  23.09.2019, 16:29:49
+TITLE: Google’s Quantum ‘Breakthrough’ Won’t Destroy Bitcoin. Not Yet
+URL:   https://www.ccn.com/google-quantum-bitcoin/
+
+Last week, the promise of an emerging era of quantum computing seemingly became a reality as Google released a new scientific paper claiming “quantum supremacy.” While this could have a tremendous impact future of mankind, fears arise that it may also pose a giant threat to bitcoin.
+
+The paper was recently uploaded to NASA.gov and promptly taken down. An insider from Google relayed that the document was likely erroneously uploaded before any peer review could take place. This meant that any deeper study of the paper is not likely until the appropriate vetting procedures finish – something which could take months.
+
+Luckily, the paper wasn’t removed fast enough. As soon as it was uploaded, a myriad of media succeeded in taking a fleeting glance at what could very well be the future of quantum computing. What many found, was a claim, noting that Google had calculated an equation so complex, that even the world’s most sophisticated supercomputers would shudder at the concept; in essence, Google reached quantum superiority.
+
+Quantum Capabilities
+
+According to Fortune, who managed to obtain a copy of the paper before it was taken down, the quantum processor, dubbed “sycamore,” contains 54 quantum bits or Qubits. Qubits primarily denote data stores and are somewhat analogous to the binary digit within traditional computing. However, rather than the on/off states that traditional computer data is restricted to, in theory, quantum computing is only tempered by the breadth of quantum mechanics. Technical jargon aside, this new creation is powerful. Researchers relayed a practical comparison displaying the extent of Google’s quantum prowess:
+
+“While our processor takes about 200 seconds to sample one instance of the quantum circuit 1 million times, a state-of-the-art supercomputer would require approximately 10,000 years to perform the equivalent task.”
+
+A Threat to Bitcoin?
+
+Quantum computing has always been the chief innovation that threatens to break bitcoin and its contemporaries. Currently, cryptographically secured public keys are the only safeguard standing in the way between users’ funds, and financial ruin. If quantum computers managed to crack the encryption afforded to distributed ledgers, then it would most likely spell the end of bitcoin.
+
+The bad news is, there’s already a quantum shortcut that bypasses public-key cryptography. Known as Shor’s algorithm, the calculation enables the extraction of the private key from any public key. The worse news is, Shor specifically targets the Elliptic Curve Digital Signature Algorithm (ECDSA) – an algorithm used within many popular cryptocurrencies, including bitcoin and ethereum.
+
+The main threat from Shor’s algorithm comes in its capability to outperform conventional technologies. One major drawback in blockchain’s fight against quantum obsolescence is that it’s highly reliant on one-way mathematical functions. This was highlighted in an article by Aleksey K. Fedorov, Evgeniy O. Kiktenko and Alexander I. Lvovsky, several researchers from the Russian Quantum Center. Within the article, the researchers highlight how these one-way functions, such as the validation of transactions and the creation of digital signatures, offer an inherent exploit for quantum computers. Merely using these functions in reverse – something which is near impossible for current technology – would allow an attack vector, enabling the manipulation of transaction history. The article reads:
+
+Yet, within ten years, quantum computers will be able to calculate the one-way functions, including blockchains, that are used to secure the Internet and financial transactions. Widely deployed one-way encryption will instantly become obsolete.
+
+Quantum Resilience
+
+Now for the good news. There are multiple attempts at hand to fight this quantum threat. One of these efforts comes from none other than the NSA, because if anyone’s going to snoop on you or your transactions, it’s them, of course.
+
+A Tweet by Bloomberg Technology reporter, William Turton, relayed the NSA’s plan to create quantum-resistant cryptography. Further reports suggested that, rather than a secret NSA crypto project, it comes an effort to secure the US against ransomeware attacks from other nations.
+
+Within the cryptocurrency industry, developers also battle to lessen a quantum threat. One such venture from David Chaum – known to many as the father of digital cash – is a quantum-resilient cryptocurrency, known as Praxxis. According to Chaum, the project is built to weather against exploits such as Shor’s algorithm; combatting the blockchain-breaker via quantum-resistant signatures within its consensus mechanism and structure.
+
+Time is Running Out
+
+Regardless of bitcoin’s potential exploits, there is one fundamental requirement that needs to be met before any application of Shor’s algorithm. According to a research paper by Centre for Cryptocurrency Research and Engineering, only a quantum computer containing 1500 Qubits could execute the algorithm; something which could take years to produce. Baring in mind that Google’s newfound “quantum supreme” machine only contains 54 Qubits; it doesn’t seem likely that it’ll fill the criteria.
+
+But that’s not to say that there won’t ever be a machine capable of running such an algorithm. As noted by Google’s researchers, the power of quantum computing will likely “grow at a double exponential rate,” meaning that blockchain obsoletion could come a lot sooner than everyone thinks.

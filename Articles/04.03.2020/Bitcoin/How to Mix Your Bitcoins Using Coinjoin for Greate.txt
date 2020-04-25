@@ -1,0 +1,77 @@
+DATE:  04.03.2020, 01:35:07
+TITLE: How to Mix Your Bitcoins Using Coinjoin for Greater Privacy
+URL:   https://news.bitcoin.com/how-to-mix-your-bitcoins-using-coinjoin/
+
+How to Mix Your Bitcoins Using Coinjoin for Greater Privacy
+
+Mixing bitcoins using a noncustodial service increases fungibility without having to relinquish control of your coins. Bitcoin mixing services let you keep your coins and retain your privacy, for nothing more than a modest fee and the time it takes to mix them. The most popular noncustodial mixers for bitcoin core and bitcoin cash are based on Coinjoin and are easy to deploy. Here’s how you can use these tools to increase your onchain privacy.
+
+Also read: How to Anonymously Buy Bitcoin Online and in Person
+
+
+
+Whirlpool Brings Bitcoin Mixing for the Masses
+
+Privacy-conscious bitcoiners gained new powers this week with the release of Whirlpool for mobile. Using the service, which is built into Samourai’s Android wallet, you can mix coins on the go, increasing your onchain privacy without relinquishing custody of your BTC. The software, previously only available on desktop, provides a means of cycling UTXOs, thereby breaking the deterministic links between them. The technology uses a version of Coinjoin, based on the same tech that powers BCH mixing service Cashshuffle.
+
+Already, there are signs that bitcoiners are mixing their UTXOs en masse, with coin joins (CJ) accounting for over 1% of transactions in recent BTC blocks. Chain analysis companies can observe that CJs are taking place, but cannot reliably correlate the inputs with the outputs of the transactions.
+
+As one user urged in Whirlpool’s Telegram chatroom, “Pollute the UTXO set with CJ’s … we need that critical mass of people using these privacy tools regularly because it will totally mess with [the] chain analysis side.” The more people who coin join, in other words, the better for everyone. Altruism aside, however, there are more tangible reasons to use Whirlpool, such as breaking the link between coins you’ve withdrawn from known (KYC’d) wallets and the wallets you’d like to transfer them to next. The following guide explains how to use the mobile implementation of Whirlpool.
+
+How to Use Whirlpool to Cycle Your Coins
+
+1. After installing the app on your Android device, send some BTC to your Samourai wallet by hitting the blue ‘+’ symbol in the bottom right and then the green ‘Receive’ icon.
+
+2. Once you have received coins into your wallet, you can proceed to mix all or some of them using the built-in Whirlpool service. The smallest amount you can mix is a little above 0.01005 BTC; this includes the mixing fee and will gain you entry to the 0.01 BTC pool; the other two pools are 0.05 and 0.5 BTC respectively. (Although you can mix a large amount of BTC in a small pool, the process will take longer than if you were to send it to the largest pool it’s eligible to enter.)
+
+3. To start mixing, click the blue ‘+’ symbol in the bottom right of the app and then tap the Whirlpool icon. After a few seconds, Whirlpool will load.
+
+4. Select ‘Mix UTXOs’ and then choose which UTXOs in your wallet you wish to send to Whirlpool. (This guide assumes you have a basic knowledge of unspent transaction outputs or UTXOs; if not, it is recommended that you read up on them before proceeding. The main thing to know is that a wallet balance of 0.1 BTC can be made up of multiple UTXOs and you can choose which of these you wish to send to Whirlpool.)
+
+5. Select which of the three pools mentioned at the outset you wish to enter and set a miner fee of low/normal/high. Coin mixing is an exercise that’s best unhurried (not least because dragging it out can defeat timing analysis) so there’s no need to rush; once your coins are mixed you’ll have years in which to hold or spend them at your leisure.
+
+6. Review the details of the mix you’re about to start on the summary screen and when you’re ready select ‘Begin Cycle.’ You will be prompted to mark the toxic change output (i.e any UTXO created and sent back to your wallet, unmixed) as ‘Do Not Spend.’ Select ‘Yes.’ This small UTXO can be spent at a later date, but will be temporarily hidden in Samourai as combining it with mixed UTXOs can break the anonymity.
+
+7. You will now see a screen displaying your pre-mix UTXOs as queued. It can take several hours or more for a mixing pool to gain enough liquidity from other users for your UXTOs to enter, so just keep the app running in the background on your phone.
+
+8. Once mixed, your UTXOs will appear in the post-mix section of Whirlpool. This can be accessed by opening Whirlpool and twice tapping the text that reads ‘Total Whirlpool Balance’ at the top of the screen.
+
+9. Mixed UTXOs will not be returned to your wallet balance; instead they will remain in Whirlpool. To spend them, click the three dots in the top right of the Whirlpool screen and select ‘Post-mix transactions.’ Then click the blue ‘+’ icon in the bottom right and select ‘Send.’ You will be able to send BTC up to the maximum amount stored in your post-mix Whirlpool. Alternatively, you can access your post-mix coins from within the main wallet by clicking the three dots in the top right and selecting ‘Spend from post-mix Whirlpool.’ (To alternate between your unmixed Samourai balance and your mixed Whirlpool balance, click the logo in the top left of the wallet homescreen.)
+
+And that’s it: you’ve successfully mixed your coins and regained a precious piece of privacy that’s eroded daily by surveillance exchanges and their chain analysis partners. Whirlpool is easy to use, bringing noncustodial coin mixing to intermediate bitcoin users. All of the wallet’s features, as well as tips on optimizing your post-mix privacy, are beyond the scope of this article, but see the company’s Whirlpool guide and Twitter summary for further information. More in-depth answers and privacy enhancing techniques can be sourced from the Whirlpool Telegram group.
+
+For all the convenience that mobile mixing brings, it does require running Whirlpool in the background on your phone for hours. And because the app is in beta, there may be the odd crash or performance issue, though your funds will remain safe at all times, even if a restart is required. Better and less intrusive mixing can be obtained using the Whirlpool desktop GUI or the CLI client.
+
+How to Mix Your BCH Using Cashshuffle
+
+Like Whirlpool, Cashshuffle is an implementation of Coinjoin, but for the Bitcoin Cash network. Although not currently available for mobile, the desktop version of Cashuffle works very well and is a cinch to use. To mix your bitcoin cash with the aid of Cashshuffle, just follow these steps:
+
+1. Download the Electron Cash wallet, which is the BCH equivalent of Electrum for BTC. Then either import an existing BCH wallet or create a new one and securely back up the recovery phrase.
+
+2. If you’ve set up a new wallet, or imported one that contains no funds, click ‘Receive’ and send BCH to the address generated. Once the incoming transaction has confirmed, you’ll see the balance displayed in the Electron Cash wallet with a green tick. Now you’re ready to get shuffling.
+
+3. Click the Cashshuffle icon in the bottom right of the wallet GUI (it’s the second icon from the left). This will activate Cashshuffle.
+
+4. Like waiting for players to join an MMORPG, you need enough participants to join a Cashshuffle to begin mixing. This usually only takes a few minutes, and you can see the number of participants (marked ‘Players’) by clicking the ‘Coins’ tab in the top right. Shuffles are performed once five participants have joined.
+
+5. Your fresh UTXOs will show up in the ‘History’ tab of Electrum Cash, with a green tick denoting when incoming transactions have confirmed onchain. Each mixed UTXO is accompanied by a description that reads ‘Shuffle’ to distinguish it from non-mixed UTXOs.
+
+6. To send shuffled coins, click ‘Send’ and you’ll see ‘Cashshuffle Enabled’ to denote that you are about to use mixed coins. Click the button to the right to send unshuffled coins from your wallet instead, but avoid mixing the two types so as not to undo the privacy gains you’ve made from shuffling.
+
+That’s all there is to it. Mixing coins using Cashshuffle is easy and, thanks to the low fees of the Bitcoin Cash network, extremely economical. In testing, for example, I was able to mix 0.1 BCH for just 135 sats.
+
+6,000 Mixes and Climbing
+
+Almost 6,000 Whirlpool cycles have been completed this year, a figure which has almost surpassed 2019’s total. In fact, the 0.5 BTC pool has already passed last year’s total, with the mobile release playing a large part in boosting adoption. In addition, 7,000 BCH have been shuffled in the past week using Cashshuffle.
+
+The time and effort required to mix coins, while not trivial, is now bearable thanks to the release of products such as Whirlpool for BTC and Cashshuffle for BCH. Just as our ancestors took cheap and plentiful land for granted, the same is true of early digital real estate in bitcoin land, when all UTXOs were assumed to be untainted. The hoops we have to go through today to remove deterministic links from coins are worthwhile, though, thwarting chain analysis and allowing bitcoiners to privately stack sats.
+
+Using Coinjoin is a best practice we recommend before depositing and after withdrawing from exchanges. It prevents accidental leaks of personal information to unrelated 3rd parties without consent, protecting both users and the exchange. We do not consider it suspicious behavior. — Bull Bitcoin 🇨🇦 (@BullBitcoin_) March 3, 2020
+
+What other noncustodial coin mixers are you aware of? Do you think more bitcoiners will use Coinjoin technology now it’s becoming more easily accessible? Let us know in the comments section below.
+
+Disclaimer: This article is for informational purposes only. It is not an offer or solicitation of an offer to buy or sell, or a recommendation, endorsement, or sponsorship of any products, services, or companies. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.
+
+Images courtesy of Shutterstock.
+
+Did you know you can verify any unconfirmed Bitcoin transaction with our Bitcoin Block Explorer tool? Simply complete a Bitcoin address search to view it on the blockchain. Plus, visit our Bitcoin Charts to see what’s happening in the industry.

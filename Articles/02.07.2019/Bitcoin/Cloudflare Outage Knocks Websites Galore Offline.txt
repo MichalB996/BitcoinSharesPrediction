@@ -1,0 +1,35 @@
+DATE:  02.07.2019, 16:00:44
+TITLE: Cloudflare Outage Knocks Websites Galore Offline
+URL:   https://www.cbronline.com/news/cloudflare-down-aws-down
+
+“A massive spike in CPU that caused primary and secondary systems to fall over”
+
+Updated with details from Cloudflare CEO Matthew Prince, following a call at 16:35, GMT+1, July 2.
+
+A major Cloudflare outage today was caused by a glitch in the company’s firewall processes, which spun up as if to respond to a DDoS attack, consuming massive CPU resources across the company’s infrastructure which acted as if to repel a major attack.
+
+CEO Matthew Prince told Computer Business Review that while engineers had initially suspected it was an attack and looked for traffic to indicate that this was the case, it was determined to be a faulty process. “This was a Cloudflare issue.”
+
+The company is currently reviewing what caused that, how it can institute more breaks to stop it happening again, and will publish “all the gory details” on the Cloudflare blog as soon as it has them.
+
+[Updated July 3, 08:30] A Cloudflare blog describes the cause of the outage as “deployment of a single misconfigured rule within the Cloudflare Web Application Firewall (WAF) during a routine deployment of new Cloudflare WAF Managed rules.”
+
+“The intent of these new rules was to improve the blocking of inline JavaScript that is used in attacks. These rules were being deployed in a simulated mode where issues are identified and logged by the new rule but no customer traffic is actually blocked so that we can measure false positive rates and ensure that the new rules do not cause problems when they are deployed into full production.”
+
+“Unfortunately, one of these rules contained a regular expression that caused CPU to spike to 100% on our machines worldwide. This 100% CPU spike caused the 502 errors that our customers saw. At its worst traffic dropped by 82%.”]
+
+While the incident would have been unfortunate at the best of times, it was particularly painful for Cloudflare this week, coming days after the content delivery network (CDN)’s and DNS provider’s services were briefly taken down by a BGP routing leak.
+
+Prince, speaking from the US, said: “I want to be clear that this was very much a Cloudflare problem. We’re a radically transparent company. We’re now investigating the root cause of what happened and pretty confident that we’re getting close.”
+
+“This was at worst a 30 minute outage. The problem last week was that 22,000 networks were essentially hijacked by Verizon. We’re ultimately responsible to our customers in both instances, but the latter issue is an industry-wide problem.”
+
+CDN’s are geographically distributed group of servers which work together to provide fast delivery of Internet content. Cloudflare also provides an authoritative domain name system as well as load balancing, routing and DDoS protection services.
+
+The process impacted all services, as Cloudflare’s defense mechanism acted as if to defend them all, consuming CPU resources across the fleet. The company will be urgently looking at how to put in additional breaks so that if a false positive happens like this again, the issue can be contained without causing the issue again.
+
+Aware of major @Cloudflare issues impacting us network wide. Team is working on getting to the bottom of what’s going on. Will continue to update. — Matthew Prince 🌥 (@eastdakota) July 2, 2019
+
+Downdetector showed a simultaneous spike in reports for outages at CenturyLink, Shopify, Discord, Grindr, Nest, Amazon Web Services and more.
+
+Among those affected was Coindesk, which said bad data from our providers as a result of the outage meant it was showing incorrect Bitcoin prices.

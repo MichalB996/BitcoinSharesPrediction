@@ -1,0 +1,43 @@
+DATE:  13.06.2019, 20:20:34
+TITLE: An In-Depth Look at Iris, a New Decentralized Social Network
+URL:   https://news.bitcoin.com/an-in-depth-look-at-iris-a-new-decentralized-social-network/
+
+An In-Depth Look at Iris, a New Decentralized Social Network
+
+Cryptocurrency advocates have been discussing a new social media platform designed by one of Bitcoin’s earliest developers Martti Malmi, otherwise known as Sirius. The project he designed, called Iris, is a social networking application that stores and indexes everything on the user’s devices and connects directly with peers rather than using centralized and privacy-invasive algorithms.
+
+Also read: Coinex Exchange Lists the first SLP-Based Stablecoin Built on Bitcoin Cash
+
+Former Bitcoin Developer Creates Social Networking That Uses Cryptographic Key Pairs
+
+Over the last decade, people have been on the hunt for the ultimate decentralized social networking experience that puts users 100% in control of their data. This quest has been a holy grail of sorts for cryptocurrency proponents as well as those who believe digital assets will be integral in driving a proper social media solution. There have been a few attempts where people have tried to design decentralized versions of Twitter and Facebook but so far none of them have really caught on. Although, one application called Memo.cash, a platform that utilizes the Bitcoin Cash (BCH) network, has gained some traction since it first launched over a year ago. The Iris platform created by one of Bitcoin’s earliest programmers, Martti Malmi, is another social networking alternative that is quite different than its centralized predecessors.
+
+Iris stores and indexes everything on the user side and in the back end it uses cryptographic key pairs and a reputation system called the web of trust. The application promises to offer a social media experience that cannot be censored by authoritarian governments and it’s not controlled by a giant corporation. Iris aims to curb trolling and eliminate spam and advertisements that can be found on most of today’s social media networks.
+
+“Iris is a social networking application that stores and indexes everything on the devices of its users and connects directly with peers who run the application – no corporate gatekeepers needed,” explains the software’s Github repository documentation.
+
+Testing the Social Networking Platform
+
+To provide an idea of what this application has to offer, I created an account on Iris on June 13. Iris is available to use at three different domains, iris.to, iris.cx and irislib.github.io, but it also offers browser extensions for Chrome and Firefox. Moreover, there are plans for an Electrum desktop app with Bluetooth and LAN peer finding. When using Iris, similarly to posting onchain using Memo.cash, everything you post is public.
+
+To create an account on Iris I simply pressed the login tab and wrote my name in the new user field. Existing Iris users can paste their private key or drop the key file in the login window below. After creating a new account the software gave me access to the Iris dashboard where I can post and change my profile settings. In order to get a feed going in order to upvote friends, you can ask people for their QR codes to scan in order to make their posts visible. You can also browse an Iris address book as a starting point so you can follow other people’s posts.
+
+In the settings section, you can gain access to your private key and it’s good to remember that if you log out you cannot log back in without the private key backup. When creating your account make sure you back up the Iris private key in the settings section. When you start to use Iris over time, by following a list of users and upvoting content, you start building upon what Iris calls the ‘web of trust.’ Essentially when you upvote another Iris user they become your first-degree contact, following this the accounts they upvote become secondary contacts and so on. This is how the web of trust builds and you can filter this scheme while also having the power to downvote.
+
+“This way we can avoid spam and other unwanted content without giving power to central moderators,” the Iris documentation notes. “You can also add to your contacts list and rate people and organizations who are not yet on Iris.”
+
+Web of Trust, GUN, and IPFS Solutions
+
+On top of this, identity verifications can take place by utilizing peers trusted by your web of trust. For instance, if you lost the private key to your account you can simply create a new one and link your old Iris data by asking your web of trust for verifications. Iris creators have revealed other concepts that could be tied to Iris like cryptocurrency wallets. Digital asset wallet curators could design an Iris-based human-recognizable identity system that’s tethered to payment addresses. The developer specifications say that Iris could be used instead of telecom-bound phone numbers on mobile messaging apps like Signal. Additionally, users can opt to connect imports from existing services and have them digitally signed for verification purposes.
+
+“In other words: message author and signer can be different entities, and only the signer needs to be on Iris — For example, a crawler can import and sign other people’s messages from Twitter,” Iris developers theorized. “Only the users who trust the crawler will see the messages.”
+
+Getting used to Iris takes a few minutes, but after getting the hang of the interface it works quite well. Malmi’s creation still has an incredibly large hurdle to overcome which is attracting an active user base. This issue is what every decentralized social media app faces because it’s not really an enjoyable experience with no active people. Still, Iris offers what most incumbent social media giants don’t, which is decentralization stemming from messages and contacts stored and indexed on GUN and IPFS for backups. Moreover, other social media applications have issues with profiles being cloned in a malicious manner and Iris greets identity and reputation head-on. With more activity, Iris could become a successful social network. The problem is that enticing people to switch over is easier said than done.
+
+What do you think about Martti Malmi’s social networking platform Iris? Let us know what you think about this subject in the comments section below.
+
+Disclaimer: This editorial is intended for informational purposes only. Readers should do their own due diligence before taking any actions related to the mentioned organization, social media platform, software or any of its affiliates or services. Bitcoin.com or the author is not responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.
+
+Image credits: Shutterstock, Twitter-Martti Malmi’s profile, Iris, Jamie Redman, and Pixabay.
+
+Did you know you can verify any unconfirmed Bitcoin transaction with our Bitcoin Block Explorer tool? Simply complete a Bitcoin address search to view it on the blockchain. Plus, visit our Bitcoin Charts to see what’s happening in the industry.

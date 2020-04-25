@@ -1,0 +1,75 @@
+DATE:  02.09.2019, 08:00:42
+TITLE: A Crypto Fix for a Broken International Monetary System
+URL:   https://www.coindesk.com/a-crypto-fix-for-a-broken-international-monetary-system
+
+The international monetary system is broken. Helping to fix it poses a huge opportunity for the cryptographers behind cryptocurrency and blockchain technology.
+
+Now they have one of the stewards of that system in their corner: Mark Carney, the outgoing Bank of England Governor.
+
+A week ago in Jackson Hole, Mont., Carney told the Federal Reserve’s annual gabfest that central bankers could develop a network of national digital currencies to create a new, basket-managed “synthetic hegemonic currency.”
+
+Carney’s proposal was mostly a thought exercise to inspire conversation around solutions to the dangerous imbalances fostered by the current system’s dependence on the dollar as the world’s reserve currency. The specifics were necessarily thin – any solution will be both technically and politically complicated, and even though he’ll depart the BOE in January, Carney’s status as a public official demands caution.
+
+But I don’t share those constraints. So, let me lay out my own modest proposal for a cryptocurrency-based fix to a broken global financial system. Hint: it is not “buy bitcoin.”
+
+I’m neither a trained economist nor a cryptographer, so I know this act of hubris will attract naysayers. I welcome criticisms and suggestions. I’m also quite certain I’m not the first to think of this, so I’m eager to hear of others working on similar projects.
+
+The thing is I’ve been obsessed with both the structural failings of the global financial system and cryptocurrency for many years now. Three of my five books have covered those topics. It’s hard to bite my tongue.
+
+Fixing the global currency system
+
+I think that instead of creating a whole new global currency, central bankers should work to develop digital currency interoperability. We need a system of decentralized exchange through which businesses in different countries can use smart contracts to create automated escrow agreements and protect themselves against exchange rate volatility. With algorithms that achieve atomic swaps now available and with other advances in cross-chain interoperability, I believe we’ll soon have the technology to remove foreign exchange risk from international trade without relying on an intermediating currency such as the dollar.
+
+Here’s how it might work: A hypothetical importer in Russia could strike a deal with an exporter from China and agree to a future payment, denominated in Chinese renminbi, based on the latter’s prevailing exchange rate with the Russian ruble. Relying on an interoperability protocol that’s commonly integrated into each party’s preferred digital national currency – either in privately run stablecoins or central bank-issued digital currencies – the two firms could then establish a smart contract that “trustlessly” locks up the required renminbi payment in decentralized escrow. If delivery and contract fulfillment are confirmed, the payment is released to the Chinese exporter. If not, the funds revert to the Russian importer at the same, initial conversion rate.
+
+In this scenario, both parties are protected against adverse exchange rate movements. Yet, despite the trust gap between them, there is no need to intermediate the payment through dollars, and no need for either party to take out a forward contract, FX option or some other expensive exchange rate hedge.
+
+Of course, the importer would suffer the opportunity cost of locking up otherwise valuable working capital for a few months. But private banks could mitigate that with collateralized short-term loans on terms that would be a lot cheaper than the current cost of currency hedging. Alternatively, if the smart contract is executed on a proof-of-stake blockchain, the locked-up funds could be employed to earn cryptocurrency staking rewards.
+
+What would central banks’ roles be?
+
+Well, for one, they could backstop the entire credit and/or staking model. Providing liquidity or guarantees to banks’ trade finance businesses would be a more constructive use of domestic money supply than applying it to rainy-day funds of U.S. Treasuries and other dollar assets.
+
+Secondly, they’d be charged with assuring the trustworthiness of the interoperability protocol. Whether central banks would endorse and regulate privately developed protocols such as Tendermint’s Cosmos, Parity Technologies’ Polkadot or Ripple’s Interledger, or whether they would commission a multilateral body to build and manage a single official system, there’s no getting around an oversight role for public sector policymakers.
+
+(Don’t worry, crypto libertarians, no one’s taking away your bitcoin in this scenario. In fact, since central bankers will retain their own monetary sovereignty, with exchange rates continuing to fluctuate, bitcoin’s appeal as a “digital gold” alternative to domestic currencies could well be enhanced.)
+
+A broken system
+
+Let’s be clear: if foreign trade no longer requires dollar intermediation, the U.S.-centric global economy will suffer a massive impact, perhaps bigger even than the 1971 “Nixon Shock,” when the dollar was unpegged from gold.
+
+The entire reserve currency system, in which foreign central banks own U.S. government bonds as a backstop and multinational companies hold large parts of their balance sheets in dollars, is based on the need to protect against exchange rate losses. If that risk is removed, the edifice would, in theory, come down.
+
+Yet, as Carney rightly points out, continuing with dollar hegemony is not tenable, either. The system is broken. Whenever global investors get the jitters they rushen masse into “safe haven” dollar assets – even when, as with President Trump’s trade war with China, U.S. policy is the cause of their malaise.
+
+This process, which has become progressively more acute with each financial crisis, causes huge distortions, economic dysfunction and political turmoil. And with economies slowing and the worldwide value of bonds carrying negative yields now at $17 trillion, we now face worrying signs of another crisis. This time, traditional central bank policy could be powerless.
+
+When another crisis comes, the dollar-based system will generate a predictable vicious cycle. The dollar will rapidly rise. This will hurt U.S. exporters, which further stir the mercantile instincts of anti-free traders such as Trump and fuel risks of a destructive tit-for-tat currency war.
+
+Meanwhile, emerging markets will suffer capital flight as a rising dollar raises the risk of debt defaults in those countries. Their central banks will respond by jacking up interest rates to prop up their domestic currencies, but this will choke their economies at a time when they require easier, not tighter, monetary policy. Unemployment will surge and governments will topple.
+
+The current system breeds what former Fed Chairman Ben Bernanke dubbed the “global savings glut” as developing countries squirrel money into dollar reserves that could otherwise be used for domestic development.
+
+In the U.S., it creates the countervailing effect of massive deficits – in other words, sky-high debt. Far from being the “exorbitant privilege” once described by French Finance Minister Valéry Giscard d’Estaing, the dollar’s reserve status is an American curse. It creates artificially low U.S. interest rates, which misprices credit risks and fuels bubbles – see: the 2008 housing crisis.
+
+Worst of all, the dollar system undermines democracy and diminishes economic sovereignty. The performance of every economy hinges on U.S. Federal Reserve policies. Yet the Fed’s low inflation/maximum employment mandate is defined only by the U.S. economic outlook. This policy mismatch makes it much harder for governments to pursue effective measures to create opportunities for all.
+
+When things really go sour, the Fed belatedly and reluctantly becomes the world’s lender of last resort, pumping dollars into the world’s banks via their New York subsidiaries. That’s how we ended up with the “quantitative easing” surfeit after the last crisis, money that went into financial assets, London real estate and fine art, but did little to boost the earning power of the middle class.
+
+These policy failures have bred a populist backlash against globalization, manifest in the U.K.’s Brexit crisis and President Trump’s adversarial trade policies. Yet the reality is that capital flows are more globalized than ever and increasingly beating to the drum of the U.S. dollar.
+
+So, yes, we need change. The question is how and in what time frame?
+
+Violent or managed change?
+
+The solution I described could be adopted abruptly and disruptively or it could be cooperatively managed for a smoother transition.
+
+Under the first scenario, let’s consider Russia and China, the two countries I deliberately chose for my explanatory example, since they are believed to be further ahead than most in developing fiat digital currencies. Both would love to do away with dollar dependence. Could they go it alone and jointly devise a bilateral, cross-chain smart contract between a digital renminbi and a digital ruble? Sure. Would other countries follow suit? Maybe. Such an uncontrolled retreat from dollars could do huge harm to the U.S. and the overall global economy.
+
+That’s why I think central banks should heed Carney’s call and work together on a solution. They could coordinate the gradual introduction of digital currencies, selectively managing access and applying differential interest rates to discourage an exodus from shaky banks. They could also charge the IMF with seeking a global standard for cross-chain interoperability.
+
+Regardless, the disruptive technologies behind digital currencies, stablecoins and decentralized exchanges will advance. It’s a ticking time bomb.
+
+Some central bankers, led by Carney – and now, Philadelphia Fed President Patrick Harker, who said in a Wharton Business School podcast that stablecoins are “inevitable” – get it. Others need to learn fast.
+
+Mark Carney image via Twocoms / Shutterstock.com

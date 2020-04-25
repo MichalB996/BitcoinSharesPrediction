@@ -1,0 +1,89 @@
+DATE:  04.04.2020, 17:29:25
+TITLE: Quant Overview: The Connectivity Backbone for Blockchains
+URL:   https://www.altcoinbuzz.io/reviews/altcoin-projects/quant-overview-the-connectivity-backbone-for-blockchains/
+
+Almost a decade back the first distributed, decentralized and public ledger came into being. Yes, you are right. We are talking about the Bitcoin phenomenon. As it rose to fame for offering anonymity and privacy, blockchain like Ethereum, Ripple, Hyperledger, and Quorum mushroomed. And what happened after that is history!
+
+But now, the excitement seems to be ebbing. It seems after years of aggressive innovation and development effort, these projects might reach a dead end. That’s because these networks are facing a problem that the internet once faced. As a matter of fact, there exists no common network that would connect these technically diverse blockchain networks.
+
+The internet approach
+
+If the internet could overcome the problem of diversity and work as a single strong network, so can blockchain. Till now, the blockchain interoperability hiccups are being addressed only at the transactional layer. What does that mean?
+
+Let’s assume blockchain X is attempting to connect Bitcoin and Ethereum. It will basically follow this approach:
+
+Bitcoin Transaction -> X Transaction -> Ethereum Transaction
+
+And vice versa.
+
+Unfortunately, there is a Gordian knot in this solution.
+
+As progressive technology, the blockchains will keep evolving. Sometimes the progress may happen from the TPS (transactions per second) perspective. And sometimes the transaction format itself might change. In short, the biggest roadblocks for interoperability are the parameters like consensus models, smart contract functionality and transaction schemes.
+
+That means the blockchain X will never be future-proof.
+
+Inspired by Vint Cerf, one of the fathers of the internet, Team Quant took a unique approach to the interoperability issue. Instead of creating a new blockchain to connect, let’s say Bitcoin (BTC) and Ethereum (ETH) networks, it created something that runs on top of blockchains. And that is Quant’s patented Blockchain OS, Overledger.
+
+Future-proof Overledger
+
+Designed to run on top of blockchains, Overledger doesn’t care about the blockchain, the consensus method or any other aspect to connect the blockchains. This setup ensures Overledger is a future-proof way to connect blockchains.
+
+The journey of a transaction in Overledger
+
+Talking from a real-life perspective, let’s discuss a simple transaction using crypto.
+
+Alice wishes to buy a pizza from a marketplace multi-chain application (MApp) owned by Bob that uses Overledger. This particular transaction chain involves Alice, Bob, the restaurant and the delivery man.
+
+Let’s say Alice pays for her pizza in BTC, but the restaurant only accepts ETH and on top of that the delivery man accepts only XRP. Do you smell trouble?
+
+This is what Overledger intends to settle
+
+Bob has a multi-chain smart contract on MApp. According to that, when Bob receives BTC, a part of the payment will process as ETH towards the restaurant and another, as XRP towards the delivery man.
+
+Overledger has multiple layers where ledgers remain isolated. These are transaction layers, messaging layers, filtering and ordering layers, and the application layers.
+
+The BTC transaction received from Alice goes to MApp-1 and invokes Bob’s contract. The BTC transaction thus heads to the BTC ledger of the MApp-1 transaction layer. It extracts the transaction info which is directed to the messaging layer. This layer then lets the filtering and ordering layer create a verification block. And that is how the application layer gets to know that it has to make ETH and XRP payment to the restaurant and delivery man respectively.
+
+How does one trust Overledger?
+
+The MApp used by Alice uses Quant’s patented fingerprint verification technology called TrustTag. This assigns digital fingerprints to physical goods, documents or any other item to make sure it is secure and maintains the integrity of transactions.
+
+GoVerify is another such MApp that is currently in use to verify invoices, letters, emails, and texts. Lloyds Bank, government authorities and logistics organizations have trialed it for verification.
+
+Why would one want to create a marketplace with MApp rather than DApp?
+
+This point is very interesting. We can sum up the advantages of MApp over a decentralized application or DApp as below:
+
+Front end– Easy to integrate front ends into existing apps. It has also released an Overledger SDK (software development kit) for quick developments.
+
+API- This programmable interface allows Bob to store the MApp rules to interact with the Overledger OS and the multiple blockchains.
+
+Treaty Contracts– Multi chain contracts
+
+Blockchains– Decentralized networks of nodes with no smart contract capability necessarily.
+
+QNT token utility
+
+Regulated by the Swiss Financial Market Supervisory Authority (FINMA), the QNT token is a utility token. It provides digital access to an application or service. Anyone can access the Overledger OS by using the QNT tokens. These are required to pay the annual license or platform fee.
+
+The Quant market share
+
+Quant might not be pretty aggressive on exchange listings or GitHub commits but it has an impressive business development pipeline. And that comprises of over 300 clients at enterprise levels.
+
+It is running an ongoing project with SIA, the European ICT giant. SIA has over 580 banks in its networks and it intends to use Quant to process all these banking transactions.
+
+Exchange presence
+
+Currently, QNT is available on IDEX, Bithumb, and Bittrex. Quant explains this conservative spread as due to its heavy enterprise involvement.
+
+According to a Telegram AMA, Quant’s enterprise associates restrict it from listing the token on every possible exchange. We learned from a Reddit thread that it was trying to list QNT on Kraken, Bitstamp or Coinbase. And it might also attempt listing on traditional exchanges for its institutional clients.
+
+At the time of publishing, the QNT price was trading at over $5. It had seen an all-time high in July 2019, a surge of almost 800%. But as we understand, Quant is a project that is bridging the interoperability gap between blockchains. And that makes it a high-value proposition in the ecosystem. It is thus no wonder that Quant made it to our top altcoin blockchain protocol list.
+
+—
+
+Disclaimer
+
+The information discussed by Altcoin Buzz is not financial advice. This is for educational and informational purposes only. Any information or strategies are thoughts and opinions relevant to accepted levels of risk tolerance of the writer/reviewers and their risk tolerance may be different than yours. We are not responsible for any losses that you may incur as a result of any investments directly or indirectly related to the information provided.
+
+Do your own due diligence and rating before making any investments and consult your financial advisor. The researched information presented we believe to be correct and accurate however there is no guarantee or warranty as to the accuracy, timeliness, completeness. Bitcoin and other cryptocurrencies are high-risk investments so please do your due diligence. Copyright Altcoin Buzz Pte Ltd. All rights reserved.

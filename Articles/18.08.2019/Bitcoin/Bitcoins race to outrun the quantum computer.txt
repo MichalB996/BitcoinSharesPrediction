@@ -1,0 +1,59 @@
+DATE:  18.08.2019, 13:31:06
+TITLE: Bitcoin’s race to outrun the quantum computer
+URL:   https://decrypt.co/8498/bitcoins-race-to-outrun-the-quantum-computer
+
+Want to steal some Bitcoin? All you need to do is find your victim’s 16-character public key and calculate their private key by solving something called an “elliptic curve discrete logarithm problem.” No sweat! With a regular computer, that’ll take you around 50 million times the amount of time the universe itself has left—around 0.65 billion billion years.
+
+Ah, but with the right quantum computer, able to process information at speeds exponentially faster than today’s supercomputers? Suddenly, what seems uncrackable becomes child’s play, able to be broken in under 10 minutes.
+
+The quantum-computing problem is nothing new to crypto, and many experts believe we have at least a decade or more to come up with quantum-resistant cryptography. However, some observers say that recent and unexpectedly fast advances are causing the time horizon to dramatically shrink. The most aggressive estimate says that bitcoin will be hackable by 2027, according to Fact Based Insights.
+
+“We moved the state of the art more in the last two years than it has progressed in the last 15 or 20,” says Stewart Allen, Chief Operating Officer at IonQ, a company that claims to make some of the most powerful quantum computers in the world, in an interview with Decrypt.
+
+On Thursday, top cryptographers will meet in Santa Barbara at the University of California for the National Institute of Standards and Technology (NIST) Post Quantum Cryptography semi finals. The finalists of the NIST competition will be announced in the months after the conference, though it might take years before the winner is annointed. Cryptographers say the standards that result represent blockchain’s best hope for resisting the rapidly encroaching power of quantum computers.
+
+”If someone cracked your key, they could do anything they wanted,” Rob Campbell, President at Baltimore,Maryland-based Med Cybersecurity, told Decrypt. Anyone with sensitive information on the blockchain—cash, personal data, medical records—is at risk. With that sort of information, quantum hackers could “forge your name, take your assets,” and, if there’s medical data to be found, maliciously “triple your dose,” said Campbell. “It’s an open door.”
+
+Take the Bitcoin blockchain: an unencrypted public key is sent along with every bitcoin transaction, and left unencrypted during the time it takes for the network to confirm the block, around ten minutes. That’s theoretically more than enough time for a quantum-equipped hacker to calculate a private key from the public key and replace the recipient’s address with his own.
+
+Que Quantum?
+
+Transistors in conventional computers capture data in terms of 1s and 0s. Is the sky blue today? If it is, 1. If not, 0. Computing is essentially combinations of these calculations: have enough transistors, you can compute almost anything.
+
+With quantum computers, it’s possible for the same input, called a qubit, to represent both 0 and 1 at the same time, a non-binary state known as “quantum superposition”—think Schrödinger's dead-and-alive cat. This makes quantum computers exponentially more powerful; one lone, superpositioned qubit can handle the processing load of at least two full-sized transistors on a regular computer.
+
+Using modified versions of “Shor’s algorithm,” a quantum algorithm that rapidly turns large numbers into prime factors, hackers could reverse the process that makes private keys so difficult to crack.
+
+But at the moment, the best quantum computer is probably Google's Bristlecone quantum computer, which has 72 qubits. Miruna Rosca, a PhD student in post-quantum cryptography, tells Decrypt you’d probably need around 4000 qubits to break current cryptographic algorithms.
+
+So how long do we have?
+
+IonQ’s Allan, who creates quantum computers for a living, speculates it’ll take about a decade for post-quantum cryptography to become an issue. By then, he reckons, someone will probably have developed a quantum-resistant blockchain. Danny Ryan, a core researcher at Ethereum, thinks the same: “This isn't really a meaningful problem in the next 10 years and likely not for 20 to 30. That said, we tend to be bad at estimating things like this so we should be ready to transition sooner rather than later.”
+
+But others say the problem requires immediate attention, and that—beyond the threat to Bitcoin—quantum computing could pose a major cybersecurity threat. Med Cybersecurity’s Rob Campbell says that a government armed with quantum decryption software could read all the world’s secrets.
+
+A U.S. Navy signal officer by training, Campbell’s time in the classified research and development world has taught him that secret government technologies often outpace commercially available technology. “We were decades ahead of the commercial world,” he said. “We didn’t want any potential adversaries to know what our capabilities are.”
+
+Even if Campbell’s claims seem ambitious, he points out that if an enemy security agency scrape all of your encrypted data today—which they certainly could—they’ll be able to decrypt all that data once they’ve built a powerful enough quantum computer. That’s enough to make developing quantum-resistant cryptographic techniques an issue of national security.
+
+In any case, the arms race for quantum supremacy is well underway: China just spent $10 billion on a research center for quantum computers, and the U.S. has pumped hundreds of millions of dollars into the field.
+
+Quantum-resistant techniques
+
+Quantum computing can be just as effective for cryptographers as it is for hackers. Unobserved, superpositioned particles exist in multiple states, but when detected, they “collapse” to one point in space-time. Quantum cryptography has the same properties; because the protons that make up an encoded transaction shift upon observation, a successful attacker would have to break the laws of physics to intercept it.
+
+This makes information encoded at the quantum level resistant to, among other things, so-called “man in the middle attacks,” where attackers intercept the transmission itself without having to decrypt the key.
+
+A few blockchains claim to apply quantum-resistant techniques to ensure signatures and hashes remain encrypted, including QRL, IOTA, HyperCash, and Starkware. But with quantum computing still in its formative years, it’s difficult to determine the strength of these claims.
+
+Until a quantum-resistant algorithm is tested and accepted by the wider academic community, there’s no assurance that any of these blockchains will be resilient enough against quantum computers. Scientists like Campbell are waiting on the results of next week’s NIST competition at UCAL-Santa Barbara; the final winners might not be announced for a few years, however. NIST tentatively expects drafts for standardisation will be completed around 2022.
+
+“These winners are considered to be the best candidates on Earth and will likely go on to be standard cryptography and will be used by most of the planet,” says Campbell.
+
+But developing the algorithm might not be the difficult part for large blockchains like Ethereum or Bitcoin. Whereas owners of centralized protocols can update the system as they please, blockchains, democratic by nature, require broad consensus among many thousands of miners to pass an upgrade.
+
+In the case of an upgrade, all wallets that aren’t quantum-resistant become vulnerable to attack. That includes the 1 million bitcoins mined by Bitcoin’s pseudonymous inventor, Satoshi Nakamoto—if those aren’t migrated to a new, quantum-resistant wallet, they’re treasure for the first person with a powerful enough quantum computer.
+
+“If high powered quantum computers appeared tomorrow,” said Ethereum’s Ryan, “we'd have many more problems than just the security of our blockchains.”
+
+A 2019 National Academy of Sciences report concludes that, even if quantum computing is about a decade off, prioritising research is necessary to minimize “the chance of a potential security and privacy disaster.” Best get cracking, then.

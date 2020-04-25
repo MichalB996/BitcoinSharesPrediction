@@ -1,0 +1,87 @@
+DATE:  12.07.2019, 08:00:25
+TITLE: Bitcoin Could Help Stop News Censorship – From Space
+URL:   https://www.coindesk.com/how-bitcoin-might-help-the-worlds-oppressed-sidestep-censorship-in-space
+
+A loose group of developers are testing out the idea that the combination of bitcoin and orbital communication might provide a means for stopping governments or other powerful entities from suppressing news they don’t like.
+
+Censorship is a worldwide problem, with one of the more recent examples include a new law strengthening the Russian government’s control over the internet, which pundits worry will be used to censor information that reflects poorly on it. As such, technologists have long tried to chip away at this problem with technology that ranges from privacy browser Tor to the walkie-talkie messaging app Zello, the latter of which Venezuelans used to read information that’s uncontrolled by the government and to organize protests a few years back.
+
+A more recent effort is being waged by a small but global group of developers who are sending messages using satellites paired with software from the bitcoin technology startup Blockstream, initially deployed with the grand goal of allowing people worldwide access to bitcoin even if they didn’t have internet.
+
+Passionate hobbyists around the world have re-purposed this technology to send out news that — theoretically — can’t be censored by corporations or governments.
+
+Bitcoin plays a crucial role in this scenario because the messages themselves need to be paid for. That’s because users can’t send as many messages as they want, given the space limitations for such content. And using bitcoin, which by design is censorship-resistant, makes more sense than a paying with other digital payment systems, which could hypothetically be shut down by the same parties that are trying to censor the messages.
+
+One pseudonymous bitcoiner going by the moniker SafetyFirst has broadcasted dozens bundles of news, a package he dubs “BlockSat.” They’re calling it a test for “proof of news,” a play on the phrase “proof of work.”
+
+The idea is that once the messages are aired, the messages are distributed across the globe. Anyone, as long as they have a satellite receiver that costs approximately $100, can receive them.
+
+As SafetyFirst argued in a tweet:
+
+“The future of open access to information is happening right in-front of our eyes.”
+
+In a message to CoinDesk, he elaborated on the idea: “It seemed like info you can receive without any third party interference would be of value to parts of the world where information controls (by the government or anyone) try to stifle […] access to news, information, or anything in between.”
+
+Why space is censorship-resistant
+
+Using satellites to stop censorship is actually far from a new idea.
+
+For example, in 2012, hacker activist Nick Farr put out a call to action that led to the creation of the Hackerspace Global Grid (HGG), an effort to fuel research of uncensorable communications via satellite. Hobbyists then deployed miniature satellites, called CubeSats, into space.
+
+“Since the founding of the Chaos Computer Club, we stand for the human right of free (at least) worldwide communication. [Glass] fiber located on federal territories could become a problem for unhampered communication. People in charge could shut them down to produce a congestion. The task of the Hackerscene is to establish communication ways, that do not stop at borders. The creation of earth near networks, where governments cannot interact with, is one big role for free communication,” the original call to action explained.
+
+Let’s go back to how they work. As CoinDesk explained in an earlier article about such transmissions, users are mostly using the simple website spacebit.live to send the messages by satellite with just a small fee paid in BTC.
+
+“The news is immutable in the fact that anyone worldwide with a basic satellite dish, some software, and a little knowledge can receive it. No controls on internet, cellular data, or state control can stifle it. There are numerous oppressive countries that censor everything from whole sites to certain keywords. In a world of companies kneeling to these demands, it seems only right to provide people with all the available information,” SafetyFirst contends.
+
+That said, since Blockstream is in control of the satellites, there’s a degree to which they and the companies it’s leasing satellites from are in control. But SafetyFirst argues that, at the very least, the satellites offers a worldwide alternative.
+
+Countries often shutdown the internet in times of turmoil (in fact, the dictator of Chad has shut down the internet for over a year). When this happens, people still have satellites as an option for retrieving information these entities might be trying to hide.
+
+To this end, SafetyFirst notes that he’s been trying to help users send their messages anonymously. “This is the […] reason I created a hidden service (darkweb) .onion link so they can broadcast over the satellites without fear,” SafetyFirst explains. This website can only be accessed on special privacy-minded browsers, such as Tor or Brave.
+
+Where bitcoin fits in
+
+Again, bitcoin factors into this arrangement because the messages need to be paid for, explains Grubles, community manager for Blockstream.
+
+The number of messages that can be sent are limited by available bandwidth, according to Grubles.
+
+The fees have generally been very low thus far. It costs just a few cents to send a message to space right now, since the system is not hitting this limit. But in the event that more people start trying to broadcast messages at the same time, there’s a bidding feature. If there are too many messages trying to be sent at once – the one that pays the most bitcoin wins.
+
+“The bandwidth is limited so we let users choose to expedite their data in the event there is more demand than available bandwidth,” Grubles said.
+
+And when paying to send controversial or politically charged message, bitcoin makes more sense than, say, PayPal, which generally has an identity tightly linked to it and could face sanction or funds freeze.
+
+Philosophically, the leaderless online money seems almost like a natural fit as it’s a currency that is worldwide, not being limited to a particular country, and unable to be censored by any particular company. If you need a currency to pay for the messages, one can see why it’s a natural link.
+
+Farr noted this, arguing: “I think tying bitcoin to it is one of the best use cases for the original vision of bitcoin: A way to unify a global effort.”
+
+It’s also important that the satellite system runs on a particular new type of bitcoin: lightning.
+
+Lightning allows users to send “micropayments,” small payments, which current financial apps just can’t handle, because processing fees are too high.
+
+“Lightning is great for this since you can pay and quickly broadcast a message if needed, and also pay very small amounts of bitcoin if your data, or message, is small,” Grubles added.
+
+Too crazy an idea?
+
+That said, just because the pairing bitcoin and satellites to send out messages that are harder to censor is possible doesn’t mean people use it.
+
+Farr was quick to note this. While he called a decentralized network of satellites — like the one he helped to start at HGG — is the “holy grail of censorship resistance,” he also stressed that: “[L]ike the search for the holy grail, it’s an incredibly complex set of problems to solve that really elude even very well coordinated hobbyist efforts.”
+
+While it’s “technically viable,” he said, there are other problems.
+
+“I think we’re at the point where the obstacle is coordination. I see this piece as a part of the way to get there,” he told CoinDesk, noting that people have been working on this type of satellite technology for “a decade now.”
+
+That said, he noted that the open-source operating system Linux started off feeling like a very unrealistic effort as well.
+
+“Before Linux proved it could be done, we never would have thought a global worldwide effort of folks could come together and create an operating system, for free. Now that operating system runs the world. Once all of those disparate groups get coordinated, once there are so many cube sats in orbit, interoperability standards and pieces liking together existing old tech (like Linux drivers for old devices), we’re basically there. Once launch capabilities are no more difficult to put together than a data center, you’ll see this plan come into place,” Farr added.
+
+Now Linux is by far the most popular operating system in the world. That kind of success that, perhaps, is why bitcoiners are still so optimistic about the technology.
+
+“I really believe all in all the satellites can be a new age of information sharing. Just look at this guy posting about his worries for Hungary today,” SafetyFirst said, pointing to an article broadcast over Blockstream Satellite where a blogger outlined some political concerns in the country.
+
+SafetyFirst added:
+
+“I have no idea if his concerns are valid, but I do think it’s a great thing he has an outlet to post where it can be seen and cataloged.”
+
+Satellite dish image via Shutterstock

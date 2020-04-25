@@ -1,0 +1,47 @@
+DATE:  01.08.2019, 12:00:11
+TITLE: Bitcoin Lightning Wallets Are Gaining Traction in 2019
+URL:   https://www.coindesk.com/bitcoin-lightning-wallets-are-gaining-traction-in-2019
+
+Lightning-centric bitcoin wallets are gaining traction in 2019 and making small transactions affordable by reducing network fees.
+
+The bootstrapped Spanish startup Bluewallet garnered 35,000 downloads so far this year, according to co-founder Nuno Coelho, a significant jump from the 5,000 users it had in 2018.
+
+Coelho told CoinDesk the wallet’s built-in lightning marketplace, offering connections to external services like the crypto exchange ZigZag, the blog Yalls and games like Lightning Roulette, facilitates nearly 10,000 referrals a month. So far, BlueWallet users have completed more than 100,000 lightning transactions.
+
+“The things we are working on now are to prepare the wallet for the next bull run,” Coelho said. “To allow users to have more control over the fees when the market will be with higher fees.”
+
+After a year of operations, Bluewallet is currently raising its first round of venture capital. It is hardly alone. Competition across the marketplace is ramping up with a crop of new wallets seeking funding to support lightning development, sources told CoinDesk.
+
+In June, the Lightning Labs wallet launched and attracted 2,000 downloads within the first 24 hours. That same month, the bitcoin wallet provider Samourai Wallet announced a partnership with the French lightning node-maker Nodl to make the mobile wallet lightning-compatible.
+
+At the same time, Zap wallet creator Jack Mallers told CoinDesk that 500 Android users downloaded Zap since early June. This summer could be described as a lightning boom for product development.
+
+Plus, Mallers added, Zap now has more than 25,000 desktop downloads and 1,000 active TestFlight users on iOS.
+
+“Not only are they downloading it, but the applications are actually checking assets because they’re using it and the wallets are open,” Mallers said. “On average, we get thousands of asset downloads a day. That means we have thousands of active users.”
+
+According to Google’s analytics, Mallers said, only 33 percent of those users are located in the United States. While Bluewallet has far more American users, Coelho said his company’s wallet also appears to be gaining traction in Indonesia, the Philippines and Japan, based on App Store data and the times that users interact with the product.
+
+Across the board, all of these apps share a common trait: They lack a clear business model.
+
+However, for some, that process might be seen as a feature, not a bug.
+
+Slow growth
+
+“It’s not our main priority to focus on a business model at the moment,” Coelho said. “It’s our priority to … put product out there and talk to users.”
+
+Like Coelho, Mallers said he is not in a rush to profit from this wallet because playing the long game means focusing on users for now. Lightning Labs developers told CoinDesk the startup will offer premium services for wallet users in the future, but collecting fees from users isn’t a priority for their team either.
+
+“It wasn’t very clear how a lightning wallet would make money. A lightning wallet’s point is to help with scaling,” Mallers said.
+
+Most mainstream wallets like Jaxx and Bread earn revenue by taking a percentage of transaction fees. They also rely on other revenue models like fundraising tokens (Bread) or integration partnerships (Jaxx). Meanwhile, open-source wallets like Bluewallet and Zap de-prioritize the business model as they seek to stabilize the product with the help of volunteer contributors.
+
+“You cannot accelerate the development of bitcoin,” Coelho said. “We see this as a long-term project, from 5–10 years.”
+
+So far, most of these wallet apps rely on an autopilot setting rather than making users manage channels and independent nodes. Coelho said those options for experts will come with time, considering that the LND beta version many such wallets are experimenting with is just one year old.
+
+As such, Coelho concluded:
+
+“Our goal was just to show this is what lightning could be in the future.”
+
+Lightning Labs CEO Elizabeth Stark via CoinDesk archives

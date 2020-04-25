@@ -1,0 +1,39 @@
+DATE:  30.07.2019, 09:04:32
+TITLE: Opportunistic hackers delete files from Iomega network drives, demand Bitcoin ransom
+URL:   https://thenextweb.com/hardfork/2019/07/30/opportunistic-hackers-delete-files-from-iomega-network-drives-demand-bitcoin-ransom/
+
+Nefarious hackers are wiping files on publicly accessible storage devices and leaving just a Bitcoin BTC ransom note behind.
+
+According to users on the BleepingComputer forums, files on their Lenovo Iomega NAS (network attached storage) devices are allegedly being deleted or hidden. The attackers are demanding Bitcoin in exchange for the safe return of victims’ files.
+
+After the attack, victims are finding their NAS drives empty, except for a text file with the name “YOUR FILES ARE SAFE!!!” One of the ransom notes outlines the attackers’ demand of 0.03 Bitcoin ($280). In this instance, attackers give the victim a deadline of August 1, 2019 to make the payment, or else the files will “be gone for good.”
+
+Credit: BleepingComputer Bitcoin ransom note
+
+It appears attackers are generating new messages for each victim. That said it’s not immediately clear if it’s the same group of hackers responsible for all the attacks.
+
+Each ransom note appears to list a different Bitcoin address and the amount of Bitcoin hackers demand varies between 0.01 ($100) and 0.05 ($470) Bitcoin.
+
+These are relatively low amounts for data ransom attacks, which have been known to go into six figures. Given that these attacks are most likely on individuals, hackers might be hoping that the low price is enough to lure victims to pay, rather than go through the stress of file recovery themselves.
+
+Sadly, it looks like it might have worked on a few victims.
+
+One of the Bitcoin addresses used in the attack has received nine payments since June 27 which, according to BleepingComputer, could be associated to this campaign. The address has received a total of 0.2 Bitcoin ($1,900).
+
+Credit: Blockchain.com One of the Bitcoin ransom addresses
+
+Initial reports confirm that, unlike typical ransomware attacks, files are being deleted rather than encrypted.
+
+One victim said they managed to use file recovery software to recover their lost files, by attaching his NAS drive directly to their PC.
+
+While it’s not been confirmed how hackers are gaining access to these network drives, BleepingComputer found there are numerous unsecured Iomega NAS drives directly attached to the internet. So it sounds like it might be quite straightforward.
+
+Iomega network storage devices have a publicly accessible front-end, so users can access their files over the internet. This is a great feature if you want to run your own “cloud” on your home network, but if you don’t appropriately secure it, the device will be open for the world to see.
+
+Credit: BleepingComputer Iomega public front-end
+
+One victim admitted that they hadn’t secured their Iomega NAS drive sufficiently, and suspected this was exploited by hackers in the attack. Largely it seems that users, and not Lenovo, are at fault here for not securing their own devices.
+
+Lenovo issued has previously released an advisory note giving users information about best practices when it comes to securing Iomega NAS drives.
+
+Update, July 31, 2019, 0850UTC: Updated Lenovo advisory note for clarity. A spokesperson from Lenovo said there is no new security flaw. The advisory note is “guidance for users to lock their proverbial door.”

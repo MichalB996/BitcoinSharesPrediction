@@ -1,0 +1,109 @@
+DATE:  30.12.2019, 13:00:43
+TITLE: Video: Trace Mayer, Bitcoin Proof of Keys
+URL:   https://bitcoinmagazine.com/articles/video-trace-mayer-on-proof-of-keys-sovereignty-and-bitcoin-privacy
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+For almost a decade, Bitcoiners from all across the world have celebrated January 3 as Bitcoin’s bona fide birthday. It was on that date in 2009 that Satoshi Nakamoto mined Bitcoin’s genesis block and it was this first successful hash computation that defined the political purpose of Bitcoin with the embedded message: “The Times 03/Jan/2009 Chancellor on Brink of Second Bailout for Banks.”
+
+Simply put, Bitcoin is an instrument that is specifically designed to resist the inflationary urges of monetary politics, and its qualities empower individuals to become sovereign. However, the business sector that developed and blossomed around Bitcoin has not always remained true to the cypherpunk origins that created it; Often times, exchanges and lending services impose withdrawal limits, freeze accounts and find other ways to arbitrarily restrict users’ access to their funds.
+
+Long-time Bitcoiner Trace Mayer has observed how these businesses tend to restrict the concept of sovereignty that the technology was meant to protect, and his response to the phenomenon is the Proof of Keys event, held every year on January 3 to remind bitcoin holders of the ethos behind the technology.
+
+During the “celebration,” as it’s described on the official website, participants seize back their bitcoin from any third parties they usually trust on their behalf.
+
+“I started Proof of Keys as a celebration of our monetary sovereignty,” Mayer told Bitcoin Magazine in a recent interview. “If you have rights but never flex them, your muscles will get weak. With Proof of Keys, we just withdraw all of our crypto from any third party — be it exchange or lending platform. You withdraw to a node that you’re running (so you do your own validation without relying on somebody else) and you hold your own private keys.”
+
+The event speaks to Mayer’s own noteworthy commitment to Bitcoin’s most cypherpunk ideals, including distrust of third parties, the utmost privacy and security and a relentless emphasis on taking every precaution available to retain control of his bitcoin.
+
+Educating Newbies About Sovereignty
+
+Going a step further for its emphasis on sovereignty, Proof of Keys makes a point to remind bitcoiners of instances when exchanges were hacked or other issues led users to irreversibly lose their funds — even if those bitcoiners haven’t experienced that themselves.
+
+“We have so many people who come into the space and they didn’t lose money in Mt. Gox or other big exchange hacks that have happened over the years,” explained Mayer. “So they don’t necessarily have the ethos, experience and human capital to own their own keys. Proof of Keys is an annual event which helps everybody develop these skills and abilities. It will also help strengthen the network.”
+
+Mayer, who has coined the term “HODLer of last resort” as a way of signalling individual sovereignty, has also expressed his concern over the increasing centralization of bitcoin ownership. In a recent tweet, he pointed out that almost 2,000 BTC are being kept in the custody of nine exchanges, and this trend of embracing trust in third parties is anathema to the philosophy and purpose of Bitcoin.
+
+Proof of Keys acts as a test for exchanges to make sure that they have enough liquidity to handle massive withdrawals from participants and it also emphasizes an educational component. New Bitcoiners are encouraged to run their own nodes, learn proper key management and inherit the philosophical ideals of sovereignty.
+
+“Proof of Keys is a celebration during which we exert our monetary sovereignty, we get to have a lot of fun, and we get to teach new people how to do it,” said Mayer. “It’s important to celebrate that we have this ability — because if we never exercise the ability or do it hazardously, we face the risk of taking exchange solvency for granted. You don’t want to learn and train yourself to become sovereign during a real emergency situation.”
+
+In terms of hardware and software recommendations for individual sovereignty, Mayer is a big fan of general-purpose devices and Bitcoin Core. In his view, somebody who only owns small amounts of bitcoin should simply download and run Bitcoin Core, as it’s one of the most audited and tested pieces of software.
+
+“Newbies in the space should run their own full node and take their cybersecurity very seriously,” he said. “If you deal with small amounts, then it’s recommended to use the Bitcoin Core software, as it’s a full node which allows you to hold your private keys. They built Core to be very secure and robust, and it’s free. As long as you have enough disk space on your computer, you can run it for free. Start from here, and withdraw a small amount to see how it works.”
+
+For more advanced users who want even greater security, Mayer recommends the open-source cold storage bitcoin wallet Armory.
+
+“Armory is like a Swiss Army knife: you can have multiple wallets, you can control the UTXOs on each one of them, and all of this is an upgrade in your ability to interact with the Bitcoin network,” he explained. “You can have your watch-only wallet on the new computer and a cold storage wallet on a computer that you never connect to the internet. Through this software, you don’t need to buy specialized hardware that leaks privacy.”
+
+Other resources and protocols that Mayer endorses for custody and sovereignty are the Glacier protocol (a 90-page guide which explains best security practices) and Smart Custody by Christopher Allen.
+
+Mayer’s recommendation for learning proper key management is practical. In his view, newcomers should approach Bitcoin just like a bicycle: By taking small, low-risk steps to learn and never feeling discouraged when failures happen.
+
+“There is no substitute for getting on the bicycle and riding it,” Mayer said. “You might fall and scrape your knee — if it happens, just get up and get back on the bicycle. Start out small, as you have no business locating to bitcoin more capital than you’re ready to lose. And when you deal with third parties, remember that you will inevitably be disappointed and it will cost you money. The golden rule in Bitcoin says that you can’t trust these third parties: they become massive honeypots and there’s a lot of value to be stolen in terms of both assets and data. At least we have Proof of Keys to generate some discussion, otherwise most people remain ignorant. The price of being ignorant in the Bitcoin space is very expensive.”
+
+What’s the Matter With Hardware Wallets?
+
+Hardware bitcoin wallets are affordable devices that use cryptography and physical security features in order to provide a safer way of holding private keys. Yet in spite of their rising popularity and relative user friendliness, Mayer remains skeptical and critical.
+
+“First of all, I don’t like bitcoin-specific hardware wallets like Ledgers and Trezors — you put a lot of trust in these companies,” he said. “They know that you’re going to be using that device for bitcoins, Amazon knows that it’s in your permanent purchase history, so think about it.”
+
+Mayer’s main concern in regards to hardware wallets isn’t coin security but privacy. As he explains, “Ledger and Trezor can be uniquely identifiable through a serial number, and when they report back home they leak all types of information about your addresses, connection and transactions.”
+
+If the hardware wallet manufacturers store information about how many bitcoin their clients are holding, they become honeypots for hackers and eventually threaten those who trust third parties with their financial security.
+
+“Put on your criminal hat: If you want to figure out where you can find some bitcoins, you go compromise the databases of Ledger or Trezor, and simply go for the people whose devices hold most coins. It’s not very difficult,” argued Mayer.
+
+What’s Wrong With Full Node Products?
+
+In recent years, the concept of “financial sovereignty in a box” has become increasingly popular among newbies. Instead of synchronizing the Bitcoin blockchain on their computers and running complementary applications on top of it, some community members prefer to purchase dedicated plug-and-play hardware. However, Mayer is not a fan of these products due to the fact that users need to blindly trust in the good faith of the service providers.
+
+“I don’t think that you need to spend money on a node,” he said. “I have several old computers and I run Bitcoin full nodes on them. In addition, I can run Bitcoin Core on any of my new computers too.”
+
+As with hardware wallets, Mayer is concerned about leaving permanent trails in regards to interacting with the Bitcoin network (and potentially owning coins). In this regard, he recommends using generic multipurpose computers and hardware that nobody would suspect to be running Bitcoin.
+
+“I like using general-purpose hardware because the sellers from whom I acquire it don’t necessarily know how I’m going to be using it. With a random number generator, it’s less likely to be compromised and it’s less likely that the person who sold it to me will know that I use it for Bitcoin,” said Mayer.
+
+Exchanges, Lending Services and the Importance of Privacy
+
+Mayer recommends that Bitcoiners choose their exchanges with great precaution and also review their privacy policies. While security is very important for traders, the way financial data gets handled is of equal importance.
+
+“You need to be extremely careful with the exchanges that you use, the way that you interact with them and the data that you’re leaking to them,” Mayer said. “We must also remember that Bitcoin is an immutable blockchain and the transactions are there permanently. If you’re leaking data such as IP address, email address or passport scans and it gets attached to different bitcoin UTXOs, you’ve got to be careful and aware of the immutability. The data gets shared around with other companies in the space such as Coinbase, Bitstamp and Chainalysis, so precaution when signing up with your data is essential.”
+
+Furthermore, Mayer presented an essential principle: Third parties can’t be trusted with too much data and the only bits of information that are truly safe from hackers are the ones that never get shared on the internet.
+
+“I like to give to these exchanges and operators the least amount of information and the least amount of privilege. If you don’t give up the data in the first place, it can’t get hacked or spread around,” he said.
+
+Lending services didn’t escape from Mayer’s scrutiny either, as the Bitcoiner has questioned their business models in relation to liquidity, solvency, data retention and commercialization.
+
+“How can lending services pay 7 percent interest while charging only 6 percent for loans?” he asked. “It’s because they most likely also sell data, or don’t deal with their own money. When you demand back your bitcoins from the lending services, you’re going to find out whether they have them or not. When you withdraw your coins from exchanges, you also see if these companies are fair and solvent. This is very important information that you don’t learn until you enforce it.”
+
+The Problem With CoinJoins and Skepticism for Bitcoin Privacy
+
+After attending most of Ross Ulbricht’s trial hearing, Mayer became aware of the U.S. government’s ability to trace transactions on the open Bitcoin ledger and differentiate between coins that have been used for criminal activities and “clean” ones. Consequently, he became very much aware of the importance of UTXO cleanliness and developed a habit of holding taint-free coins.
+
+“I’m not really interested in engaging in CoinJoins because that only complicates the KYC/AML situation and I know that my bitcoins are clean,” he explained. “So why would I want to mix them with someone whose bitcoins are dirty? All of this KYC/AML data has effects on the fungibility of satoshis and you don’t want to become a person of interest in criminal investigations.”
+
+Mayer also implied that anonymity on a very small scale is inefficient and easily breakable, and privacy should exist by default even for users who aren’t aware that they’re using it.
+
+“I think that privacy and fungibility have to be there in the base layer for everybody,” Mayer explained. “Privacy can’t be opt-in — if three out of 100 people are wearing a mask, then it’s simpler to use scrutiny and figure out who the masked people are. But if everybody is wearing a mask, identification becomes more difficult.”
+
+In regards to Confidential Transactions, Mayer suggested that the ability to audit the Bitcoin blockchain and guarantee the limited supply is more important than concealing transaction data.
+
+“What is more important: having a limited supply or the privacy and fungibility?” he asked. “For the first network effect of speculation, I think having a limited amount is more important. In hindsight, I also think that the limited supply is more important for monetary sovereignty than privacy and fungibility. This doesn’t mean that privacy and fungibility aren’t important and it doesn’t mean that we shouldn’t try to take territory through them whenever we can.”
+
+An Airdrop for Proof of Keys Participants?
+
+In order to incentivize Bitcoiners to withdraw their coins from exchanges through Proof of Keys, Mayer thinks it may be a good idea to airdrop special altcoins as a gift.
+
+“I think having an airdrop for Proof of Keys participants would be great,” he said. “These events don’t cost the bitcoin holders anything and you get a new asset. And if these airdropped assets have any value at all, you can always sell them and get more BTC.”
+
+Though he hasn’t fleshed out a complete plan for such an incentive, Mayer thinks that these airdrops can work in two ways: They reward users for withdrawing their coins, but also reward exchanges for proving that they hold all the required liquidity to operate. The resulting altcoin might acquire market valuation and help traders acquire more bitcoin.
+
+“I haven’t put a ton of thought in this idea of having a Proof of Keys airdrop, but if we could use this concept to squeeze value out of the exchanges that don’t provide the keys, then that would be a way for us to perhaps even make some money,” Mayer explained. “The illiquid exchanges that can’t process all withdrawals won’t get the airdrop, so the scarce assets received by the good players can even be liabilities for the exchanges.”
+
+In defense of noncontentious altcoins, Mayer said that they can serve two important purposes that support Bitcoin: They offer a testnet for Bitcoin features (as was the case of Litecoin with SegWit) and also raise the cost of blockchain analysis operations.
+
+“If more coins exist, then Chainalysis must adapt to the magnitude of the market,” Mayer concluded. “We don’t know how profitable it is for them to spy on people at such a great scale, but we can increase the amount of work that they need to do so they can have greater costs.”

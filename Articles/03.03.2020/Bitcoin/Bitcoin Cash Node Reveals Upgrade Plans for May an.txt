@@ -1,0 +1,45 @@
+DATE:  03.03.2020, 21:10:10
+TITLE: Bitcoin Cash Node Reveals Upgrade Plans for May and Difficulty Algorithm Research
+URL:   https://news.bitcoin.com/bitcoin-cash-node-upgrade-plans/
+
+Bitcoin Cash Node Reveals Upgrade Plans for May and Difficulty Algorithm Research
+
+On March 2, the developers behind the Bitcoin Cash Node project announced the team’s plans for the May upgrade and beyond. The programmers highlighted that the implementation was built to follow the longest chain, regardless of whether the Infrastructure Funding Plan (IFP) is voted in. Bitcoin Cash Node will also implement two new features planned for the May upgrade and there are plans to evaluate improving the Bitcoin Cash difficulty adjustment algorithm (DAA).
+
+Also Read: ‘A Drop-in Replacement for ABC’ – BCH Devs Release Bitcoin Cash Node Software
+
+Bitcoin Cash Node Updates Community With Plans to Upgrade Two Features and Follow the Longest Chain
+
+The Bitcoin Cash (BCH) community was greeted by the first Bitcoin Cash Node project announcement on Monday. The first update explained what the project’s intentions are and what the developers aim to do going forward after the May 2020 BCH upgrade. The team underlined that for the May 15th upgrade, the full node implementation aims to provide “a safe and professional node implementation that will neutrally follow the longest chain without contributing to the risk of a chain split.”
+
+The software engineers also explained that the Bitcoin Cash Node (BCN) will help implement the two new upgrade features planned for May. The opcode OP_Reversebytes will be added and the Sigcheck specification, just like the Bitcoin ABC version. However, as news.Bitcoin.com has detailed in previous articles, the Infrastructure Funding Plan (IFP) is not included in the new BCN codebase. According to Coin.dance, so far 0.3% of the blocks mined have votes in favor of the IFP and 1344 blocks (67%) in the current 2016-block signaling period is required to lock in the IFP protocol. Redditors on the forum r/btc have also noticed that one of the pool operations voting for the IFP is Poolin. BCN engineers believe their full node project’s main intent is to provide a safe way for BCH miners to opt out of the IFP.
+
+“Our node is constructed to safely follow the longest chain during the upgrade, by accepting blocks regardless of whether they vote for the IFP or not,” the BCN project developers wrote on the blog read.cash. “The client does not include any rule activation based on BIP9 or similar voting. Re-org protection remains included and configured with the same default values as the ABC client.” The BCN post further stated:
+
+We intend to make no further changes that require consensus for May, but focus on reducing defects and improving performance, stability, and user-friendliness until then. It is likely that we will issue an optional minor release providing such enhancements before May.
+
+An Upcoming AMA Session, Further Research, and Improving the Bitcoin Cash DAA
+
+Furthermore, the announcement published by BCN explains that the BCN team has a number of “seasoned Bitcoin professionals, including software developers with many years of experience, who are committed to delivering C++ node software.” Freetrader, the lead developer of BCN, will be hosting an Ask-Me-Anything (AMA) session on the Reddit forum r/btc this Thursday. The team says it will continue to maintain the project and the blog post on read.cash highlighted that the BCN team created a Continuous Integration (CI) pipeline. The BCN developers will focus on certain elements within the BCH codebase including up to date project user documentation, completing the missing specification of the automatic finalization feature (aka ‘rolling checkpoints’), creating a development process, identifying existing gaps in software tests, and monitoring Bitcoin Core and Bitcoin ABC projects for backports.
+
+The announcement also covered the “organizational [and] project management side” of the BCN project. BCN developers aim to complete Bitcoin Cash related research as well, as the engineers will be studying things like UTXO/UtreeXO commitment, Merklix tree usage, and evaluating adaptive block size algorithms.
+
+The team also plans to research and improve the BCH difficulty adjustment algorithm (DAA), which has been a hot topic among BCH proponents lately. On February 29, the independent BCH developer and miner Jonathan Toomim published a post and video about the DAA issues called “The BCH difficulty adjustment algorithm is broken – Here’s how to fix it.” That post and a few other concerns about the DAA have been debated widely over the last few weeks within the BCH community. At certain times, the DAA has made it so block intervals have been longer than usual and faster than normal too. Some miners switching from BCH to BTC are allegedly gaming the DAA by causing the difficulty to drop, making it profitable again to mine BCH. The BCN project plans to study the problems at hand and hopefully create a DAA solution for the Bitcoin Cash network.
+
+“We are starting an evaluation to improve the difficulty adjustment algorithm (DAA) in order to reduce the variance of the block confirmation time,” the full node developer’s update details. “Much research has already been done in this field. We will not change DAA validation rules in May. However, we want to proactively look at possible improvements that might be needed as long as Bitcoin Cash has a relatively low hashrate compared to BTC.”
+
+Maintaining Neutrality
+
+The BCN project update was posted on r/btc and the thread caused quite a bit of discussion. Electron Cash developer Jonald Fyookball responded to the post on r/btc and told the team he doesn’t think the BCN project should have “the lead programmer be the lead maintainer.” “The lead maintainer should be a very neutral person, and the lead developer should be someone like Mark Lundeberg, who has demonstrated more competence than anyone else in the group,” Fyookball added. The BCN lead developer Freetrader replied to Fyookball’s critique.
+
+“Point taken, the role names at this stage are really a bit fluid still, I fulfill a maintainer function mostly, though I reserve the right to get my hands dirty occasionally,” Freetrader replied. “I see more of a natural code ownership taking hold based on who works on what (and I’d like to see at least two people working on big feature changesets, but that is a way off into the future at this point).”
+
+What do you think about the Bitcoin Cash Node project’s latest announcement? What do you think about BCN’s future plans and the strategy to tackle the DAA on BCH? Let us know what you think about this topic in the comments section below.
+
+Feel like you missed something with this story? Check out the prior articles about the Bitcoin Cash Infrastructure Funding Proposal (IFP) debate below.
+
+Disclaimer: This article is for informational purposes only. It is not an offer or solicitation of an offer to buy or sell, or a recommendation, endorsement, or sponsorship of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.
+
+Image credits: Shutterstock, Bitcoin Cash Node, Fair Use, Youtube, Twitter, Reddit, Read.cash, and Pixabay.
+
+Do you want to maximize your Bitcoin Mining potential? Plug your own hardware into the world’s most profitable Bitcoin mining pool or get started without having to own hardware through one of our competitive Bitcoin cloud mining contracts.

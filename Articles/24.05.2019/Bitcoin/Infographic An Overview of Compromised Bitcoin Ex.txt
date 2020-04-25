@@ -1,0 +1,167 @@
+DATE:  24.05.2019, 18:56:03
+TITLE: Infographic: An Overview of Compromised Bitcoin Exchange Events
+URL:   https://bitcoinmagazine.com/articles/infographic-overview-compromised-bitcoin-exchange-events
+
+Ring in the new bitcoin halving cycle the right way: with us!
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+The purpose of this infographic is to visualize the size of large cryptocurrency hacks that have occurred in the past as if they all happened today. The hacks included in this infographic extend beyond exchanges, as there were other large entities that experienced cryptocurrency hacks, such as marketplaces like Silk Road 2.0. All hacks in this infographic are displayed as if the price of bitcoin were the same when they occurred, in order to visualize their magnitudes in relation to one another.
+
+The x-axis shows the price of bitcoin at the time of the hack. The y-axis shows the amount lost in the hack (converted to BTC for altcoin hacks). The size of each hack circle was determined by the value of BTC lost using a consistent price, regardless of the actual price at the time.
+
+It is important to note that several of the exchanges underwent hacks that did not necessarily involve bitcoin or exclusively involve bitcoin. These exchanges are rendered in green.
+
+Mt. Gox
+
+Hack Dates: June 2011 (Then Continuously Until February 2014)
+
+Amount Lost: 790,000+ BTC
+
+In March 2014, Mt. Gox declared bankruptcy due to a series of hacks and thefts that went unreported for over three years, which were later documented by blockchain analyst Kim Nilsson. The final collapse resulted in a crash of Bitcoin in 2014. Below is a summary of all meaningful hacks that occured.
+
+On March 1, 2011, 80,000 BTC were stolen from Mt. Gox’s hot wallet, as thieves were able to make a copy of the wallet.dat file. In May 2011, hackers stole 300,000 BTC temporarily stored in an off-site wallet, which was on an unsecured, publicly accessible network drive. However, shortly after, the thieves got nervous and returned the stolen funds with a 1 percent (3,000 BTC) “keeper’s fee.” In June 2011, a hacker was able to get into Jed McCaleb’s administrator account and manipulate prices, temporarily crashing the market. After the ordeal was over, the hacker managed to steal 2,000 BTC.
+
+In September 2011, a hacker was able to get read-write access to Mt. Gox’s database. The hacker created new accounts on the exchange, inflated user balances and was able to withdraw 77,500 BTC, after which they deleted most of the logs containing evidence of such transactions. In October 2011, a bug in Mark Karpelès’s new wallet software caused 2,609 BTC to be sent to an unspendable null key. The largest hack occurred by 2013, when a hacker was able to obtain a copy of Mt. Gox’s wallet.dat file and stole 630,000 BTC.
+
+Bitcoinica
+
+Hack Date: March 1, 2012
+
+Amount Lost: 43,000 BTC and then another 18,457 BTC
+
+Web hosting provider Linode’s servers were hacked, granting access to the bitcoin stored on pioneering exchange Bitcoinica. The incidents ultimately led to the demise of Bitcoinica.
+
+BitFloor
+
+Hack Date: September 2012
+
+Amount Lost: 24,000 BTC
+
+BitFloor was compromised when a hacker was able to access unencrypted backups of the exchange’s wallets and transfer out the coins.
+
+Poloniex
+
+Hack Date: March 4, 2014
+
+Amount Lost: 97 BTC
+
+In March 2014, Poloniex announced that it had been the victim of an attack due to a previously unknown vulnerability in its coding. As a result, the exchange told all of its customers that it would have their account balances reduced by 12.3 percent.
+
+Bitstamp
+
+Hack Date: January 2015
+
+Amount Lost: 19,000 BTC
+
+Hackers were able to access Bitstamp’s hot wallet. As a result of the theft, Bitstamp began to keep 98 percent of its bitcoin in cold storage.
+
+Cryptsy
+
+Hack Date: July 2014
+
+Amount Lost: 13,000 BTC
+
+In early 2016, Cryptsy collapsed following the theft of 13,000 BTC (and 30,000 LTC) from customers’ wallets.
+
+Bitfinex
+
+Hack Date: August 2016
+
+Amount Lost: 120,000 BTC
+
+Attackers were able to exploit a vulnerability in the multisig wallet architecture of Bitfinex and blockchain security company BitGo.
+
+QuadrigaCX
+
+Shutdown: January 15, 2019
+
+Amount Lost: Approximately $190 million in BTC, ETH and CAD (at time of publication)
+
+The co-founder of QuadrigaCX died on December 9, 2018, allegedly as the only one with access to the exchange’s keys. Evolving courtroom proceedings have revealed fund mismanagement and potential fraud on the part of the exchange. This has led to calls for greater oversight of exchange operations.
+
+Binance
+
+Hack Date: May 7, 2019
+
+Amount Lost: 7,000 BTC
+
+Through phishing, virus and other techniques, hackers obtained a large number of Binance user API keys and 2FA codes, allowing them to withdraw 7,000 BTC in one transaction.
+
+2018’s Cluster of Mishaps in Asia
+
+In 2018, a cluster of hacks and mismanagement of funds by exchanges occurred as a result of minimal regulation and security precautions. Consequently, some exchanges were forced to close operations entirely while others received fines.
+
+Coincheck (Japan)
+
+Hack Date: January 2018
+
+Amount Lost: 523 million NEM
+
+Coinrail (South Korea)
+
+Hack Date: June 2018
+
+Amount Lost: $40 million in various cryptocurrencies
+
+On July 15, 2018, Coinrail resumed trading and offered the victims two compensation options: a gradual refund through the purchase of stolen cryptocurrency or compensation in Coinrail’s RAIL tokens, which could then be converted into another cryptocurrency at an inner rate.
+
+Bithumb (South Korea)
+
+Hack Date: June 2018
+
+Amount Lost: $30 million in various cryptocurrencies
+
+The successful hack of Bithumb occurred shortly after the exchange updated its security systems following an earlier hack in 2017.
+
+Decentralized Exchanges
+
+Bancor
+
+Hack Date: July 9, 2018
+
+Amount Lost: $23 million (mostly in ETH)
+
+Hackers were able to gain control of a Bancor exchange wallet and transfer out funds.
+
+BitGrail
+
+Hack Date: February 21, 2018
+
+Amount Lost: $170 million in XRB, now NANO
+
+Following this hack, authorities in Florence confiscated all of the cryptocurrency from the Italian exchange BitGrail to secure the claim of affected users, and the Nano Foundation promised to assist in the protection of interests and compensation for losses. Users accused the exchange of having lax security.
+
+MyBitcoin Wallet
+
+Hack Date: July 2011
+
+Amount Lost: 78,739 BTC
+
+Little information was released about the MyBitcoin theft; however, many argue that operator Tom Williams ran it as a scam. The theft resulted in the closure of MyBitcoin, which was once a successful Bitcoin company in the cryptocurrency’s early days.
+
+Bitomat.pl
+
+Hack Date: July 27, 2011
+
+Amount Lost: Approximately 17,000 BTC
+
+During a server restart, the remote Amazon service that housed Bitomat.pl’s wallet was wiped. No backups were kept, and Mt. Gox later bailed out Bitomat.pl. Ultimately, neither the exchange’s customers nor the original owners suffered any loss from the incident.
+
+Evolution Darknet Marketplace
+
+Hack Date: March 2015
+
+Amount Lost: Approximately 44,000 BTC
+
+In March 2015, Evolution Marketplace administrators “Kimble” and “Verto” were suspected of unexpectedly shutting down Evolution, a darknet marketplace that appeared after the seizure of Silk Road 2.0, and vanishing from the internet with all user funds.
+
+Silk Road 2.0
+
+Hack Date: February 2014
+
+Amount Lost: Approximately 4,400 BTC
+
+Defcon, an administrator at underground marketplace Silk Road 2.0, noticed that funds held for the escrow service were stolen from a hot wallet in February 2014. “Transaction malleability,” an issue with the Bitcoin protocol at the time that also affected some other services, was blamed for the theft, though many suspect it was an inside job.

@@ -1,0 +1,33 @@
+DATE:  10.12.2019, 19:53:28
+TITLE: SPV Mobile Bitcoin Wallet
+URL:   https://bitcoinmagazine.com/articles/nayuta-launches-hybrid-full-node-spv-mobile-bitcoin-wallet
+
+Ring in the new bitcoin halving cycle the right way: with us!
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+On December 9, 2019, Nayuta announced the launch of what it claims is the first application to enable a “Bitcoin full node and SPV [simplified payment verification] node” on mobile devices.
+
+The Japanese company, best known for releasing the fourth Lightning Network client which operates on the grounds of the BOLT protocol, Ptarmigan, has published the installation kit for its new wallet on GitHub. All Android phone owners should be able to download and install Nayuta’s wallet software, and the full validating node will automatically get pruned according to storage space availability.
+
+Sovereignty in a Mobile Wallet
+
+As portable solutions for Bitcoin sovereignty become more practical and popular among users, device manufacturers and developers are finding creative ways to maximize their potential. About a year ago, running Bitcoin and Lightning nodes required static hardware and a remote connection. Thanks to the contributions of Blockstream developer Lawrence Nahum, who worked extensively on the ABCore project, now full Bitcoin nodes can be run on any Android phone with enough storage space. Launched in October 2019 during The Lightning Conference in Berlin, HTC’s Exodus 1s was the first retail product to take advantage of this significant innovation. If the phone proves to be successful, then more manufacturers are expected to follow the trend.
+
+Interestingly, Nayuta’s wallet doesn’t make use of the proprietary Ptarmigan Lightning implementation and opts for the more popular LND.
+
+“This product is actually separate from Ptarmigan,” project lead developer Christian Moss clarified. ”Ptarmigan is for IOT devices, whereas this new release is a mobile app running on Android.”
+
+In conjunction with the full node, the new release takes Bitcoin sovereignty and privacy on the go to a whole new level.
+
+A Full Node/SPV Hybrid
+
+However, it’s its status as a full node/SPV hybrid that appears to be most intriguing, as many people who choose to validate their own transactions are unlikely to take a step back by putting trust in third parties.
+
+“The full node Lightning wallet is on mobile, so when people are out and about using the mobile wallet and they have limited data and battery life, it makes sense to use the hybrid. Then, when they are at home with their mobile phone charging and on WiFi, the full node can start syncing and validating the blockchain,” Moss told Bitcoin Magazine.
+
+Correspondingly, SPV mode is only for emergency situations when transactions really have to be made in critical conditions and access to mobile data and battery availability are scarce.
+
+For those seeking more technical details about Nayuta’s hybrid full node and SPV Lightning wallet, Moss has written an extensive article. Its contents can serve as a step-by-step tutorial that users can follow in order to set up their wallets.

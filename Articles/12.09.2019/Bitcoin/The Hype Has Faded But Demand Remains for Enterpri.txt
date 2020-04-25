@@ -1,0 +1,45 @@
+DATE:  12.09.2019, 00:43:35
+TITLE: The Hype Has Faded But Demand Remains for Enterprise Blockchains
+URL:   https://news.bitcoin.com/the-hype-has-faded-but-demand-remains-for-enterprise-blockchains/
+
+The Hype Has Faded But Demand Remains for Enterprise Blockchains
+
+The days when blockchain was portrayed as a cure-all for businesses of all kinds have gone. Now that the hype has faded, enterprise blockchain projects have quietly begun to ship. While some of these initiatives have faded into obscurity, others have prospered, suggesting that there’s life in enterprise blockchain yet.
+
+Also read: David Chaum’s Elixxir Invites Smartphone Users to Test Private Messaging
+
+After a Shaky Start, Enterprise Blockchain Adoption Ramps Up
+
+When IBM and shipping giant Maersk teamed up to create a blockchain solution for supply chains, the two goliaths seemed to be shooting towards an open goal. The product, dubbed Trade Lens, would help shipping companies manage cargo and inventory, eliminating the vast bulk of administrative work required to keep track of consignments, cutting costs by up to 20% in the process.
+
+The promise was of an “open and neutral” supply chain platform “underpinned by blockchain technology” and “supported by major industry players.” The project was slow to gain traction, however, with the duo initially finding it hard to secure major partners. Now, almost two years on, the project is finally gathering momentum, but the question still remains as to why two major players found it so hard to bring partners onboard. The answer may lie in the way that IBM-Maersk envisioned their blockchain from the outset, and the level of trust they asked their partners to place in them.
+
+Rick Schmitz, CEO of hybrid blockchain LTO Network, has a theory as to why the shipping project floundered initially. “The real potential and the value of blockchain integration comes from creating a global level playing field,” he told news.Bitcoin.com. “A consortium is not the optimum way to go as it merely recreates an already existing permissioned system.” Schmitz remains a staunch advocate of enterprise-ready blockchains, but maintains that the optimal approach is a solution that enables businesses to control their own sidechain and broadcast transactions to a main chain that is not controlled by any single entity – particularly when that entity is a close competitor.
+
+More Mainstream Companies Enter the Fray
+
+Following scores of trials, most of which have ultimately resulted in little traction, businesses are beginning to commit to blockchain in greater numbers, and for wider ranging projects. Having transitioned from the realm of the exotic to the ordinary, blockchain can now be used by businesses without raising too many eyebrows. This week, it was revealed that Mastercard is constructing a blockchain-based payment solution with the aid of R3. Designed to facilitate cross-border payments, it follows a multi-blockchain patent filed by the payment processing giant in 2018.
+
+As with many of these announcements, details of what the initiative will entail, or why a blockchain is needed, remain sketchy. In fact, in a carefully crafted soundbite accompanying the release, Peter Klein, executive vice president of New Payment Platforms for Mastercard, managed to avoid mentioning the word “blockchain” altogether, speaking instead about “Developing a new and better cross-border B2B payments solution by improving worldwide connectivity in the account-to-account space,” whatever that means.
+
+There may be a justifiable use case for blockchain in this, and in so many other initiatives utilizing distributed ledger technology, but it can be hard for onlookers to ascertain why. The opacity of enterprises experimenting with the tech, coupled with a tendency to deal in business speak and platitudes, means the public are left none the wiser as to how or why blockchain is being deployed.
+
+Trust Us, We’re Competitors
+
+In tracking the uptake of enterprise blockchain to date, there are lessons to be learned from the failures as well as the successes. In IBM and Maersk’s logistics supply chain, there’s a bit of both. At first, third parties were slow to join the endeavor, with the first clue as to why lying in the fact that IBM and Maersk retain all rights to intellectual property on the blockchain. The job for the duo has since been to assuage the fears of potential partners. Persistent assurances from IBM regarding data privacy, governance and the publication of APIs seem to have had a positive effect on adoption of the blockchain, as does its rebranding from “joint venture” to “joint collaboration.”
+
+The move is a smart one, as it is not unreasonable to argue that private blockchains are a misapplication of the technology on which they are built. On the surface, blockchain appears to offer a solution for supply chain companies in which all parties are equal. Shippers, manufacturers and suppliers all have differing and sometimes conflicting interests at stake, and as such, the only way to ensure equal access is to create a level playing field for every stakeholder. Instead of creating a trustless blockchain in which all network partners were equal, IBM and Maersk’s blockchain placed Maersk at the head of the table.
+
+For smaller competitors, that pitch has dubious benefits and a high risk profile; an invitation from Maersk to place all your eggs in their cargo hold and observe as they steer the ship to whatever port they deem best. In the case of Trade Lens, IBM complicated matters by insisting that partners adopt proprietary IBM systems and products in order to onboard. That meant that for any company not already using IBM, the costs of integration were substantial. Permissioned blockchains have a habit of developing an unholy trinity of undesirable qualities in the form of poor trust and transparency issues, high costs, and limited functionality. IBM and Maersk have since recovered from these setbacks, and now have over 15 carriers and 90 companies using their blockchain, with the latest participant the Customs Department of Thailand.
+
+The Inexorable March of Enterprise Blockchain
+
+To date, most of the enterprise blockchain projects of note have been based upon IBM’s Hyperledger or R3’s Corda. Next week, there’ll be a new blockchain network in town for businesses to play about on. Hedera Hashgraph is about to launch, promising to serve as an enterprise-ready, highly scalable alternative to existing chains. With major corporations like Boeing, Deutsche Telekom, and IBM involved, it’s got the credentials to attract businesses eager to experiment with the latest tech. Despite questions over its claimed throughput, and its ability to deliver state proofs of transactions, Hedera looks set to claim a large slice of the enterprise pie.
+
+If there are lessons to be learned from the performance of enterprise chains to date, it is that blockchain is only useful when you play to the strengths of the technology and work within the ethos of what made it so compelling in Bitcoin to begin with. After all, centralized blockchains are nothing more than databases controlled and run for the benefit of their owners.
+
+What are your thoughts on the success of enterprise blockchain projects to date? Let us know in the comments section below.
+
+Images courtesy of Shutterstock.
+
+Did you know you can verify any unconfirmed Bitcoin transaction with our Bitcoin Block Explorer tool? Simply complete a Bitcoin address search to view it on the blockchain. Plus, visit our Bitcoin Charts to see what’s happening in the industry.

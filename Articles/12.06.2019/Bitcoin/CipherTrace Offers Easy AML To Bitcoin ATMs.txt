@@ -1,0 +1,29 @@
+DATE:  12.06.2019, 19:37:09
+TITLE: CipherTrace Offers Easy AML To Bitcoin ATMs
+URL:   https://cryptobriefing.com/ciphertrace-easy-aml-bitcoin-atms/
+
+Business CipherTrace Offers Easy AML To Bitcoin ATMs by Andrew Ancheta
+
+"Clean Crypto Kiosk Initiative" helps keep ATMs compliant
+
+Share this article
+
+If you’re selling Bitcoin, the U.S. Treasury would like a word from you. New guidelines from the Financial Crimes Enforcement Network (FinCEN) have labelled all Bitcoin ATMs as money transmitters, meaning that if you want to buy crypto from a machine, you’ll need to show some ID.
+
+But one company is making it easier for ATM operators to comply with the new FinCEN rules. In collaboration with leading ATM providers, CipherTrace has announced the Clean Crypto Kiosks Initiative, which seeks to make it easier for vendors and ATM entrepreneurs to comply with Anti-Money Laundering (AML) regulations.
+
+“Currently, most Bitcoin ATM manufacturers include software that streamlines the steps toward compliance,” CipherTrace said. However, “those systems will not meet the newer stricter crypto AML requirements.”
+
+The new CipherTrace solution makes it relatively painless to verify customer transactions, by putting FinCEN-approved AML procedures on a simple web interface.
+
+It “takes less than 5 minutes to set the necessary parameters to start AML risk scoring,” explained CipherTrace COO Steve Ryan. The company hopes to see several thousand ATM’s enable CipherTrace’s AML services.
+
+Marketing documents revealed to Crypto Briefing reveal some of the features which CipherTrace will provide to ATM operators.
+
+Vendors will be able to choose their own risk settings, and decide which transactions to allow and which ones to flag for manual review. For example, vendors could decide to accept transactions from Exchanges and Enterprises, but to flag transactions from High-Risk Exchanges, or Ransomware.
+
+There are similar options for Faucets, Gambling Sites, Miners, and Mixers, allowing vendors to determine which risks they’re willing to accept. According to the integration instructions, CipherTrace recommends most ATM operators to start with a “less aggressive” risk posture.
+
+A more aggressive risk posture is also available, which checks transaction addresses two hops out from the subject transaction.
+
+The new FinCEN guidelines are part of a long string of efforts by financial regulators to limit the flow of cryptocurrencies to trusted actors and transactions. Although these rules are unlikely to get any friendlier to frequent users, the latest service from CipherTrace could make things easier for ATM vendors.

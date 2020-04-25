@@ -1,0 +1,35 @@
+DATE:  04.07.2019, 08:54:51
+TITLE: Blockstream Introduces Atomic Swaps on Liquid Bitcoin Sidechain
+URL:   https://www.coinspeaker.com/blockstream-atomic-swaps-liquid-bitcoin-sidechain/
+
+Blockstream created an ‘experimental’ Liquid Swap Tool introduced to Liquid Bitcoin Sidechain. The tool uses atomic swaps to trade more securely between tokens by eliminating middlemen who have suffered hacks and lost investors’ funds in the past.
+
+Blockstream created an ‘experimental’ tool that enables users to trade ‘trustlessly’ between tokens launched on its local Liquid sidechain. According to their tutorial published on Medium, Liquid Network (LN) users can now generate Bitcoin Lightning payment channels using c-lightning. That development is a noteworthy milestone as Liquid users can now make Liquid-Bitcoin (L-BTC) transactions instantly and privately.
+
+Plans are underway to extend this feature to cover other assets on the Liquid sidechain including fiat tokens and tokenized stocks. The platform is known as Liquid Swap Tool. It uses ‘atomic swaps’ which is a cryptographic technology. The technology already serves as the backbone for newer decentralized exchanges presently in development.
+
+Details in the tutorial reveal that the procedure for running c-lightning on Liquid is similar as on the Bitcoin mainnet. The main motivation for these transactions arises from the fact that currently, most exchanges operate as middlemen trusted by users to exchange crypto on their behalf.
+
+Over the years, many middlemen have suffered severe hacks or lost funds. Hence, technologists believe that investors must not trust these exchanges with their money. Atomic swaps now come in as viable alternatives. To highlight the importance of cross-convergence between Bitcoin layers, the Blockstream took to Twitter on July 2 saying:
+
+Lightning on bitcoin on liquid (L-BTC). Bitcoin layers connecting and converging! (People may not know that Lightning can bridge multiple networks). https://t.co/E2Qm9oIuij — Adam Back (@adam3us) July 2, 2019
+
+Liquid is Now a Fully Realized Sidechain
+
+Lightning payments on the Liquid Network make up another technical milestone achievement for Blockstream’s Bitcoin sidechain. The available technological features on the Liquid sidechain seem to take the network towards becoming fully realized. Lightning implementation together with atomic swaps now join confidential transactions and ability to issue tokenized assets.
+
+Liquid has been indulging extensively in the issuance of security tokens in the last few months. As we announced, Blockstream unveiled its new platform enabling users to launch their tokens using the Liquid sidechain in May 2019.
+
+Most of these newly added features thriving on the Liquid network threaten to make the distinct operating propositions offered by smart contract-focused altcoin projects. Some of the threated projects include those offered by TRON, Ethereum, and EOS.
+
+More cutting-edge technology keeps coming up that proves to have a tangible utility that users may deploy off-chain. With that technology, Bitcoin now appears set to transform into the all-round programmable store of value (PSoV) that all other blockchains purport to be.
+
+How it Works
+
+Users must send tokens to the Liquid sidechain effectively trading their Bitcoin for “L-BTC” to use the Atomic Swap. The ‘new’ type of Bitcoin is faster with more privacy features but it needs more trust in the intermediaries that operate the sidechain.
+
+Users will need to download Liquid fiddle with a configuration file. Then, they must download the separate swapping tool and follow all the instructions in the code repository to start using the network. According to the tutorial, the tool is in its early days and it should be considered experimental. To make trades more private, the description states:
+
+“It is recommended to use the tool with someone that you can trust to keep such data private. Users are also encouraged to encrypt/sign messages sent with their trading partners in order to protect against man-in-the-middle attacks.”
+
+Author: Wanguba Muriuki Wanguba Muriuki is a content crafter passionate about putting everything into writing. He is passionate about Blockchain and Traveling. He is also an experienced creative and technical writer. Everything and everyone has a story to tell. What better way to capture the real story than in words.

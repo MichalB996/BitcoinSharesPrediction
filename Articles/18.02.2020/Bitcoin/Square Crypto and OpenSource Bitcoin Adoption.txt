@@ -1,0 +1,81 @@
+DATE:  18.02.2020, 13:00:03
+TITLE: Square Crypto and Open-Source Bitcoin Adoption
+URL:   https://bitcoinmagazine.com/articles/for-square-crypto-the-way-to-bitcoin-mass-adoption-is-open-source
+
+Ring in the new bitcoin halving cycle the right way: with us!
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+When Jack Dorsey founded Square in February 2009, Bitcoin was all of one month old. In fact, Satoshi Nakamoto and Dorsey were likely laying the groundwork for their respective creations concurrently in the year prior. Ten years later, the two would converge in what now seems like an inevitable collision.
+
+Square launched its Venmo-like payment service, Cash App, in 2013. The application features common stock investing, and in June 2019, it added bitcoin to the mix of assets you can purchase on the app.
+
+But a few months before this, in March 2019, Square established an additional business arm: Square Crypto. But don’t let the general “crypto” moniker fool you. This auxiliary venture’s purpose? To work on Bitcoin-specific development full time.
+
+“Square is hiring 3–4 crypto engineers and 1 designer to work full-time on open source contributions to the bitcoin/crypto ecosystem. Work from anywhere, report directly to me, and we can even pay you in bitcoin,” Dorsey tweeted at the time.
+
+Its first hire was Steve Lee, a former Google project manager and a sometimes Bitcoin developer with a handful of commits to his name on GitHub.
+
+This seminal hire would be followed by positions for prolific Core contributor Matt Corallo; Lightning Labs developer Valentine Wallace; Google software engineer Jeffrey Czyz; and Arik Sosman, a former architect behind Facebook’s Calibra wallet for the libra digital currency.
+
+Each of Square Crypto’s hires have some experience developing Bitcoin and its adjacent technologies. Its Twitter account often tweets out maximalist takes with a bullish tinge. The only link in its Twitter bio is to the Bitcoin white paper. And its bio, instead of some boilerplate message lauding its parent company Square to the world, reads “Bitcoin for all.”
+
+That bio sums it up. Or as Lee put it while speaking with Bitcoin Magazine, “What we aim to do is make bitcoin a widely-used global currency.”
+
+The Square Commitment to Bitcoin: Open-Source Software and Noncustodial Solutions
+
+With the exception of Corallo, Square Crypto’s recently-outfitted team came from legacy tech companies. And most of these poached employees were Bitcoin tenderfoots — they may have had a little bit of experience coding Bitcoin but not as much as a veteran like Corallo.
+
+Learning the ins-and-outs of Bitcoin wasn’t an issue. What could have been, however, was a lack of cohesion among the team. Most open-source developers (and Bitcoiners here being no exception) are used to a fair degree of autonomy; Corallo, for example, had been the recipient of grants for undirected work on Bitcoin Core before.
+
+But most of these hires were, as Lee put it, accustomed to working on focused projects while at their former FAANG employers.
+
+“From the outset, we had to decide our model and approach and how we were going to organize the team,” Lee said. “[In] traditional companies you work as a team and focus on a project. In open source, that’s not common, per se. Each individual contributor is ever independent and usually anonymous. We decided that we wanted to work as a team.”
+
+And what would they be working on? Lee emphasized that the team is “focused on open source and the broader ecosystem,” in particular noncustodial and key management solutions.
+
+“We feel like custodial solutions will be naturally invested in [by financial investors], but there is a long-term risk for Bitcoin when the user experience gap between custodial and non-custodial user experience will widen due to under-investment in non-custodial [solutions], because there’s not a strong business model associated with that,” Lee explained.
+
+Indeed, custodial options proliferate in the bitcoin market. According to figures estimated by Nic Carter based on Coin Metrics data, roughly 4.4 million bitcoin are held on exchanges (this data, Coin Metrics cautions, is not exhaustive and is a lower-bound estimate. The figure Carter gave Bitcoin Magazine includes bitcoin custodied by Coinbase, while the initial Coin Metrics data he drew from does not). This is nearly 25 percent of bitcoin’s outstanding supply and more has entered custody more quickly than bitcoin’s supply is inflated.
+
+For the average user, storing on an exchange or a hedge fund-like custodian is simpler than storing their private keys themselves. Lee’s fear is that, if Bitcoin continues to catch fire, more bitcoin will fall into the hands of third-party guardians than today’s figures. As exchange hacks in the past have shown us, this makes Bitcoiners’ holdings kindling for potential disaster.
+
+Lightning Development Kit
+
+In order to ameliorate this perceived issue, Square Crypto’s team has chosen an area of the ecosystem that features perhaps the most custodial solutions available: the Lightning Network.
+
+More abstruse and technically challenging than running Bitcoin Core, the Lightning Network requires a full node to run precisely as intended. Failing this, you can run a lightweight wallet with the Neutrino protocol or use a custodial wallet — typically, the latter option provides a less-frictioned user experience.
+
+“Less-frictioned” because the Lightning Network, exciting as it is, is still nascent and clunky. Announced at the end of January 2020, Square Crypto’s Lightning Development Kit (LDK) is being designed to make it easier for developers to build on Lightning. In turn, this will hopefully improve the UX for Lightning’s growing user base.
+
+For Square Crypto, it’s a chance to make a big impact in one of the smaller sectors of the Bitcoin development economy.
+
+“It lets our relatively small team team have an outsized impact over most of the areas in Bitcoin that need to improve for it to be a widely used currency,” Lee said. “We chose the LDK because that’s the best way we can leverage our team. If we’re successful, the LDK will lower the barrier to entry for a developer building on Bitcoin.”
+
+When asked if Square’s Cash App would integrate Lightning using the LDK, Lee emphasized that his team is “independent of Square.”
+
+Of course, he would love to see Square adopt the solution when it’s released, “but at the same time,” he continued, “we’d love to see Coinbase use it and we’d love to see BitGo and Bitstamp and other companies to use it. Strategically, we want to increase the chances of Bitcoin’s success to accelerate that as much as possible. If we’re able to contribute to that, I think that Square as a corporation will be happy and feel like the investment will be a success.”
+
+But whether or not this project wows Square’s corporate echelon isn’t phasing Square Crypto’s project plan. Dorsey gave the team a budget to solve problems for the Bitcoin ecosystem, so that’s what Lee is determined to do.
+
+“What Jack has told us is we’re free to decide what we think is best for Bitcoin. Square’s commercial interests don’t influence us,” he said. “The Bitcoin ecosystem is our boss (not Square) and the community is our customer.”
+
+Where Corporate Meets Open Source
+
+Lee makes it seem like Square Crypto is made up from the vestiges of Square’s corporatism, which dissolved and resolved itself into an independent body that more closely resembles the slap-happy, open-source groups of Bitcoin’s cypherpunk faithful than it does the exit-seeking technocrats that dominate Silicon Valley.
+
+BTCPay Server, an open-source and decentralized bitcoin payment processor, comes to mind. In fact, the BTCPay team, which works entirely on a volunteer basis, received one of the first of Square Crypto’s open-source grants. This $100,000 grant was succeeded by another grant for an undisclosed amount to anonymous Bitcoin developer ZmnSCPxj.
+
+This is part of Square Crypto’s two-front strategy to march Bitcoin toward mass adoption: On one front, it will develop the LDK; on another, it will pass the buck to independent developers and projects to advance Bitcoin’s growth.
+
+“For some developers this can be an awesome opportunity — to work on something that they’re very passionate about and not really have a boss,” Lee said. He stressed that these grants will be “hands off,” so teams should have a project plan in place and a clear direction forward if they want to receive funding.
+
+Square Crypto has more grants in the works, though Lee wouldn’t disclose the forthcoming recipients. He did say that Square Crypto would hopefully give out a dozen grants per year.
+
+He also clarified that these grants don’t need to be related to what Square Crypto’s core team is doing. In fact, the projects eligible for grants don’t even need to be highly technical. Though Square Crypto is looking for proposals related to privacy (ones that would, say, advance new technologies like Snicker or older ones like CoinJoin), they can also be for design work, project management or UX work.
+
+Returning to Square Crypto’s focus on the “open-source and broader ecosystem,” Lee recognized that the road to making Bitcoin function smoothly on a mass scale will be long — but Square Crypto’s goal is to make bitcoin a widely used currency, so it will take this road in stride.
+
+“It’s a marathon — not a sprint,” Lee concluded.

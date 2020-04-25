@@ -1,0 +1,33 @@
+DATE:  19.05.2019, 01:01:32
+TITLE: Anchor a Document or File to the BCH Chain With Notary.Bitcoin.com
+URL:   https://news.bitcoin.com/anchor-a-document-or-file-to-the-bch-chain-with-notary-bitcoin-com/
+
+Anchor a Document or File to the BCH Chain With Notary.Bitcoin.com
+
+In my last article, I explained how to prove ownership of a specific address by signing a message with a public and private key pair. That’s just one way of proving ownership and verifying a valid signature, as BCH users can also anchor a document to the chain using the Bitcoin Cash protocol’s Script language. This particular walkthrough aims to teach you how to create notarized proofs using Notary.Bitcoin.com.
+
+Also Read: Putting an End to the Bitcoin Store of Value Fallacy
+
+Upload a File or Document to the BCH Chain and Prove Ownership Using Notary.Bitcoin.com
+
+Proof of ownership or proof of existence is a technique that can be used by anyone via the Bitcoin Cash protocol in order to certify the integrity of a variety of proofs. Our last guide covered the basics on how a person can prove ownership of a specific BCH address and tether a unique message and digital signature to the address as well. However, there are other methods available that allow people to record various things like a document or file. The BCH chain allows you to add raw data to a transaction using an opcode called OP_Return. Our website hosts a service called Notary.Bitcoin.com that allows people to tether the hash of a signature and file within the blockchain’s recorded data. Similarly to how the private key allows someone to prove ownership of an address, a private key can also correspond with the owner’s signature and the hash of the file held in the BCH blockchain.
+
+This attribute allows for some unique possibilities so anyone can certify a document, contract, and date of publication at any time in a permissionless fashion. To demonstrate how to use Notary.Bitcoin.com, I decided to upload a Rich Text File (RTF) to the BCH chain which contains the abstract introduction to the Bitcoin white paper.
+
+After creating the RTF, I simply selected ‘Choose file’ located in the Get Started section, which allows you to either upload or drag a file into the window. The file is never uploaded to the Bitcoin.com server as privacy is our top priority. After the file is uploaded, a new screen will appear which shows the document timestamp, and the document hash but the data will not be broadcasted to the BCH chain until 0.00005 BCH is paid to the address shown.
+
+From here I fired up the Badger Wallet located in my Chrome browser and sent the 0.00005 BCH to the address supplied by Notary.Bitcoin.com. After that, the service told me that my transaction was pending and that it needs one blockchain confirmation in order to be etched into the BCH chain. After the transaction is confirmed, Notary.Bitcoin.com will provide a document hash, server timestamp, the blockchain broadcast time, and the blockchain confirmation time. The upload will also appear in the recent documents registered and the recent anchors section on the notary page.
+
+Notarized Proofs on the Bitcoin Cash Blockchain for Less Than 5 Cents
+
+After you test Notary.Bitcoin.com service and get an understanding of how it works by tethering a notarized document to the BCH chain you can verify the document as well to certify the file’s integrity. Instead of selecting the Notarize tab, simply select the Verify tab and again you just upload or drag the file that was tied to the BCH chain into the window. The service will tell you whether or not the document has been notarized on the BCH chain and Notary.Bitcoin.com will redirect you to the document proof page. When the process is complete, the service also provides a transaction ID (txid) which can be queried on any BCH blockchain explorer.
+
+The simplicity of tying a document to the BCH chain makes it so anyone can certify ownership and this includes businesses, journalists, whistleblowers, and artists who decide to share and create unique content. Just like our previous article which shows anyone how to prove ownership of a specific BCH address, Notary.Bitcoin.com is very easy to understand and allows anyone to prove ownership of a document or file for only 0.00005 BCH (which is less than 5 cents).
+
+If you missed our guide called How to Prove Ownership With a Bitcoin Cash Address and Digital Signature, check it out now.
+
+What do you think about signing and verifying an uploaded document or file with Notary.Bitcoin.com? Let us know what you think about this subject in the comments section below.
+
+Image credits: Shutterstock, Notary.Bitcoin.com, Jamie Redman, and Pixabay.
+
+Enjoy the easiest way to buy Bitcoin online with us. Download your free Bitcoin wallet and head to our Purchase Bitcoin page where you can buy BCH and BTC securely.

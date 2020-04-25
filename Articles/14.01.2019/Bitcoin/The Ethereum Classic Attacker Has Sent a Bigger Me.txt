@@ -1,0 +1,55 @@
+DATE:  14.01.2019, 10:00:02
+TITLE: The Ethereum Classic Attacker Has Sent a Bigger Message
+URL:   https://www.coindesk.com/the-ethereum-classic-attacker-has-sent-a-bigger-message
+
+Michael J. Casey is the chairman of CoinDesk’s advisory board and a senior advisor for blockchain research at MIT’s Digital Currency Initiative.
+
+The following article originally appeared in CoinDesk Weekly, a custom-curated newsletter delivered every Sunday exclusively to our subscribers.
+
+___________
+
+One of the more disturbing side effects of the crypto market’s downturn is it has made it easier for malicious actors to launch 51-percent attacks, making that most fundamental of blockchain security breach more frequent.
+
+But, like all unfortunate events in the never-ending drama of crypto, the real-world losses, in this case, are providing a valuable lesson. In this case, it’s a lesson about the role that network effects play in building security, especially for blockchains that have adopted bitcoin’s proof-of-work consensus model.
+
+Crypto enthusiasts debate ad nausea about the principles of this or that chain’s design, and those debates are important. But if a permissionless blockchain doesn’t have a large enough community of users, developers and miners operating in a self-reinforcing manner of value creation and protection, they’re vulnerable.
+
+That was the takeaway this week when crypto exchange Coinbase announced it had detected a series of deep chain reorganizations within ethereum classic (ETC). Someone had accumulated a majority of the ETC network’s hashing power and had used that dominant position to alter past transactions, resulting in double spends of 219,500 ETC, which Coinbase estimated to be worth $1.1 million at the time.
+
+This was arguably the most significant 51-percent attack ever, more so than those seen on bitcoin gold and vertcoin.
+
+Twist of fate
+
+It was also, however, an especially painful blow for ethereum classic’s true believers.
+
+They belong to a minority community of ethereum users, developers and miners who in 2016 decided to keep working on the old blockchain that was left when leading developers in the ethereum community convinced a majority of users to run a new software that would reverse the transactions of the notorious DAO hacker.
+
+The ETC community’s position was often described as a principled stance: regardless of what losses were incurred by investors in The DAO investment project. Whether you called it theft or not, the ethereum blockchain should be immutable, they would say. No cabal of leaders should be able to organize a software change that invalidates transactions that the network had previously accepted.
+
+Yet, those principles proved of little value when an attacker overwhelmed their network.
+
+Ethereum, on the other hand, which represents the forked version of the blockchain that the majority moved to after The DAO, has, for now at least, remained free from a 51-percent attack.
+
+This is not to say that ethereum is immune from such risks in the future. With its price at 90 percent of its year-ago peak and still volatile, the profitability of mining pools has fallen significantly, which essentially makes it cheaper to rent enough hashing power to launch a 51-percent double-spend attack.
+
+Still, the numbers point to a much more secure foundation at ethereum than ethereum classic. According to Crypto51, which tracks the estimated cost of launching such an attack on different proof-of-work blockchains, it would cost $88,633 to launch a one-hour attack on ethereum, as opposed to just $4,571 for ethereum classic.
+
+Ethereum is second only to bitcoin’s $281,060 on that list as the most expensive to hit with a 51-percent attack.
+
+Positive feedback loops
+
+Price and existing network hashing power are key drivers of this cost, but what’s equally important over time is that the broader idea of a large network of users that creates a positive feedback loop that encourages developers to work on a blockchain’s code.
+
+A coin’s security is helped by ongoing development, not only because of the improvements and tweaks that are made to the code, but also because there are more eyes watching the network.
+
+For all these interrelated reasons, ethereum’s comparatively large global community of enthusiastic users make it a more secure blockchain than ethereum classic. A history of immutability, if that’s what ethereum classic truly represented, was of lesser importance from a security perspective than the strength of the competing ethereum chain’s community.
+
+This is borne out in CoinDesk’s Crypto-Economics Explorer, whose five metrics of value – price, exchange transactions, social activity, developer interest and network size – all show markedly higher levels for ethereum than ethereum classic. The data captures a much healthier network effect, a positive feedback loop of interest, activity and value that gives the former comparatively more security against such attacks.
+
+The lessons here are important. And they are not that dissimilar from the lessons learned in the battles between Bitcoin Core and the now many forks that have occurred after bitcoin cash was first created a year ago.
+
+For all the noise that the bitcoin cash, bitcoin SV and bitcoin ABC crowds make, they have nothing like the vast pool of community value that Bitcoin Core has accumulated.
+
+On the blockchain, community equals security.
+
+Weights image via Shutterstock

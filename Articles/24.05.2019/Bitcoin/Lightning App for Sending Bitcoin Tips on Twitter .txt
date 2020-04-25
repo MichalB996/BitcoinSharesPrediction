@@ -1,0 +1,25 @@
+DATE:  24.05.2019, 17:20:30
+TITLE: Lightning App for Sending Bitcoin Tips on Twitter Is Now Easier to Use
+URL:   https://www.coindesk.com/lightning-app-for-sending-bitcoin-tips-on-twitter-is-now-easier-to-use
+
+A Twitter app for tipping by way of bitcoin’s experimental lightning network is now easier to use thanks to a new update.
+
+Launched earlier this year, Tippin.me took Twitter’s crypto community by storm by making it possible to tip Twitter users with the experimental micropayment layer lightning. The still-nascent network is being built by a series of startups and developers in a bid to create a new level of scaling for the network.
+
+On Thursday night, the Chrome extension app‘s version 1.0 was released with features that aim to make onboarding new users to the app much easier. These elements include a more comprehensive built-in wallet and better messaging system.
+
+The lightning network is still rather experimental, and even risky to use. At the time of its release, Tippin.me drew support because the app is fairly easy to set up and use as long as a user has a Twitter account.
+
+But even if it’s easier than many other lightning apps, it still left something to be desired, prompting the app’s developer, Sergio Abril, to work on a series of new updates that were bundled into version 1.0.
+
+Notably, users no longer need to set up a third party lightning wallet app to send tips. Perhaps one of the most confusing parts of the app in a prior version was, if you didn’t have a lightning wallet already, you needed to create one to send a tip. But now, that’s not necessary so long as you have a balance on Tippin.me.
+
+The caveat here though is that Tippin.me is a custodial app, meaning that the app itself has control of the funds sitting on the website, rather than the user themselves.
+
+Tippin.me is even giving out a little bit of bitcoin to people who join – enough that they can send a couple of tips, that is.
+
+In addition, users can now use “on-chain” bitcoin instead of just “off-chain” lightning funds to fill up their tipping jar, and can send messages along with their tips.
+
+✏️ Now you can leave a note. Always. No matter if you tip using your balance or a regular Lightning Invoice. pic.twitter.com/kKOk4QRFna — Tippin⚡️ (@tippin_me) May 23, 2019
+
+Twitter image via Shutterstock

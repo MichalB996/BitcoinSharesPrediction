@@ -1,0 +1,55 @@
+DATE:  13.03.2020, 22:30:08
+TITLE: ETH Price Strains Defi Collateral Loans as 'Black Swan' Event Strikes Makerdao
+URL:   https://news.bitcoin.com/eth-price-dai-collateral-loans-makerdao/
+
+ETH Price Strains Defi Collateral Loans as 'Black Swan' Event Strikes Makerdao
+
+The price of ethereum dropping double digits on March 12 sent shockwaves through the decentralized finance (defi) community. Makerdao’s single collateral DAI has been struggling and the low price of ETH has left millions worth of DAI undercollateralized. The defi project’s undercollateralizition was also blamed on price oracle discrepancies.
+
+Also read: The 35 Most Influential Bitcoiners Dominating Crypto Twitter by Follower Count
+
+Makerdao Community Deals With Black Swan Event
+
+The Makerdao project and the stablecoin DAI have been extremely popular over the last 12 months. The total value locked (TVL) in Maker touched an all-time high (ATH) on February 14, 2020. Following the ATH on Valentine’s Day, Maker’s TVL started to drop and has been sliding downward for three weeks straight. Things got a lot worse when cryptocurrency markets faced coronavirus fears and started dropping in value three days ago. Then on March 12, the cryptoconomy lost more than $44 billion rapidly and the price of ethereum (ETH) dropped below the $100 range.
+
+@MakerDAO situation explainer thread ELI10 :
+
+– 4.5M$ underwater due to auction fail
+
+– Surplus Buffer of 500k eaten
+
+Minting MKR is a seriously considered option. Maker jargon in (), will try to use human words as much as possible — Marc 'aDai is Money' Zeller (@lemiscate) March 12, 2020
+
+Because the Makerdao project leverages ETH for overcollaterization, the falling price of ether put significant pressure on the DAI stablecoin and collateral loans. Not only was the price of ether hurting DAI, but Makerdao’s oracles had issues with exchange prices being different. While the entire crypto cap shed billions on Thursday, exchange rates for every coin were all over the place, depending on which source was used. Estimates say that around $2 to 4.5 million worth of DAI was undercollateralized due to the event.
+
+Big problems with DAI. Liquidators are acquiring undercollateralized vaults at zero cost. Check on your vaults and avoid liquidation at all costs. https://t.co/yKXQDtCUHN — Chris Blec (@ChrisBlec) March 12, 2020
+
+Liquidations and Circuit Breakers
+
+This caused serious disruption for DAI holders and the team behind the Makerdao project. According to one person’s testimony, DAI’s issues caused him to lose 1,713 ETH from a Collateralized Debt Position (CDP) that was liquidated. The team of developers behind Maker contemplated an emergency shutdown in the midst of the sell-off as well. The proposal, however, was extremely controversial and not favored by everyone.
+
+Moreover, some defi proponents said that cryptocurrency exchanges need “circuit breakers” or “shut off” switches similar to traditional markets. “Today’s price moves in crypto are a strong argument for industry-wide circuit breakers,” Multicoin Capital’s managing partner Tushar Jain tweeted. “Crypto markets structurally broke today and leading exchanges need to work together to prevent a repeat.”
+
+“Crypto needs circuit breakers,” professor Emin Gün Sirer tweeted on March 12. “Every market needs circuit breakers to get the negative bot interactions to slow down. Exchanges going down under load is crypto’s version of circuit breakers.”
+
+Makerdao Struggles Predicted Two Years Prior
+
+Makerdao and the stablecoin DAI have dealt with issues before when the asset struggled to hold the dollar peg in April 2019. Nothing has been as severe as the March 12th crypto carnage but Makedao’s ‘black swan’ event was predicted in June 2018. Bennett Tomlin’s blog post called “A Deep Look at Maker DAO and Dai and MKR” pretty much sums up the March 12th Makerdao issues two years before it happened. “[DAI] cannot always be collateralized in excess, because if there is a black swan event that destroys the value of ethereum that is no longer true,” Tomlin’s research highlighted. Tomlin added:
+
+My biggest fear here is in the case of a serious, say 40% 1-hour movement in the value of Ethereum. You are going to have people selling their Ether, possibly into Dai if it is trading in a pair, creating a strong demand driving the price of us, at this same time it is now easier to collateralize and create more DAIs, but the value of the collateral is rapidly depreciating, thus leading to a greater likelihood of Dai becoming undercollateralized.
+
+‘Keepers and Maker Buyers Should Prepare’
+
+Defi Pulse shows that Maker’s TVL right now has around $347 million USD on March 13 following Thursday’s crypto market sell-off. The defi action yesterday spurred a number of anomalies with collateral and observers noticed all kinds of discrepancies across multiple defi platforms. The Twitter profile ‘Crypto Curious’ believes that Polychain and Dydx “tried to help Makerdao in stopping more 0$ bid in auctions for under-collateralized CDPs.”
+
+“Around the time DAI was going up sharply to 1.05-1.09, there were many small DAI amounts coming from the Polychain address that were sent to DyDx,” Crypto Curious tweeted. “I believe they were lending DAI on the exchange in order to provide more liquidity to the system once they realized there was only one keeper bidding for the auction. By adding more DAI to the pool, they tried to reactivate the liquidation bots that had stopped working from lack of DAI liquidity.”
+
+Defi proponent Ryan Berckmans explained during the Makerdao emergency announcement that the “social contract of MakerDAO is that MKR tokens take a haircut in the event of system failure.” “Keepers and MKR buyers should prepare for sustained high gas prices, and downward pressure on ETH and MKR — The Dow Jones hit sell-off circuit breakers three times in the past week and a half. It’s a historic week,” Berckmans conceded. The defi project Makerdao now has plans to initiate a MKR governance token auction on March 15, 2020. The plan is to offset the $4 million that’s currently undercollateralized from the wrath of Thursday’s market carnage.
+
+What do you think about the recent problems with Makerdao dealing with the ETH sell-off? Let us know what you think about this subject in the comments section below.
+
+Disclaimer: This article is for informational purposes only. It is not an offer or solicitation of an offer to buy or sell, or a recommendation, endorsement, or sponsorship of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.
+
+Image credits: Shutterstock, Iamnomad, Twitter, Defi Pulse, Fair Use, Wiki Commons, Makerdao logo, Coinmarketcap.com, and Pixabay.
+
+Want to create your own secure cold storage paper wallet? Check our tools section. You can also enjoy the easiest way to buy Bitcoin online with us. Download your free Bitcoin wallet and head to our Purchase Bitcoin page where you can buy BCH and BTC securely.

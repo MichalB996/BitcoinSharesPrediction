@@ -1,0 +1,109 @@
+DATE:  14.12.2019, 08:00:38
+TITLE: Bitcoin SV’s situation in the German-speaking countries
+URL:   https://coingeek.com/bitcoin-svs-situation-in-the-german-speaking-countries/
+
+The crypto sphere is international, however differences in media coverage of certain blockchain projects can be observed from country to country. In the German-speaking countries Germany, Austria and Switzerland, Bitcoin SV (BSV) seems to be underrepresented in the crypto news. One could even argue there is quite a negative connotation in almost all German reporting about Bitcoin SV so far. Why would that be the case though? Time to ask someone knowledgeable.
+
+CoinGeek’s Michael Wehrmann had the chance to win Christoph Bergmann for an interview. Christoph Bergmann is a known German Bitcoin blogger who runs bitcoinblog.de since 2013 and recently published his book “Bitcoin – Die verrückte Geschichte vom Aufstieg eines neuen Geldes” (title translated: “Bitcoin – a crazy story of the rise of new money”). Furthermore, he is involved in the creation of the wordpress plugin Mediopay, which uses Bitcoin SV as an easy to implement payment solution for online content.
+
+Michael Wehrmann: Hello Christoph! Kindly give our audience your opinion on Bitcoin SV in general and tell us about your promising project Mediopay.
+
+Christoph Bergmann: It’s very simple. BTC was not allowed to grow onchain. Then BCH started to fall in love with centralized capacity planning too. So Bitcoin SV is the only Bitcoin version left which allows massive onchain scaling. This was the design outlined by Satoshi and I want to know how it plays out.
+
+MedioPay builds on this. The idea is to use micropayments to monetize all kind of user interactions on media sites: reading, commenting, sharing, liking and so on. It’s not just a paywall. Paywalls are simple and boring. If you have a bit of imagination, you can do so much more to allow journalism to make money in the Internet.
+
+Michael Wehrmann: How would you describe the perception of Bitcoin SV in the crypto communities of Germany, Austria and Switzerland?
+
+Christoph Bergmann: Oh, it’s bad. Some are interested, and if you show people what BSV can do, they open up a bit. But it’s a hard road, and there is always somebody reminding everyone how bad Craig Wright is and that BSV is a scam.
+
+Michael Wehrmann: Did this perception change in the last months?
+
+Christoph Bergmann: Not really. For most people crypto is like soccer: Once you support a team, you support it forever. Changing people’s opinion is often close to impossible.
+
+Michael Wehrmann: You keep your audience informed about Bitcoin SV on your blog. How did your readers react to your articles concerning Bitcoin SV so far?
+
+Christoph Bergmann: Usually not that bad. Many are open and somehow know that BSV is that thing they wanted Bitcoin to become, before it was reengineered. But many just don’t care – for most crypto is just an investment.
+
+Michael Wehrmann: If you were to write more often about Bitcoin SV on your blog, how do you think your readers would respond?
+
+Christoph Bergmann: My readers expect me to cover topics they are interested in and which are relevant for the broader crypto market. Many are customers of the platform Bitcoin.de, where Bitcoin SV has a tiny trading volume. So it would be not a good representation of the market if I wrote too often about BSV.
+
+Michael Wehrmann: How would you describe the crypto media coverage of Bitcoin SV in the German-speaking areas?
+
+Christoph Bergmann: Maybe as “non existent”. Mainstream journalists don’t even know about Bitcoin SV – maybe about Craig Wright, but rather in a negative way – and if they try to learn, they become confused about all of this.
+
+The largest German crypto magazine, BTC-Echo, made some fair reports, but didn’t go deep, while they also had published some heavy anti BSV stories. Other blogs and podcasts are usually very anti BSV or ignore it.
+
+Michael Wehrmann: Would you agree there is a lack of media coverage concerning Bitcoin SV’s technical and economical developments in the crypto media outlets of German-speaking countries?
+
+Christoph Bergmann: Yes, definitely. They miss a lot of thrilling things.
+
+For example, PayMail is the most user-friendly way to use cryptocurrencies with a nice level of privacy. It is lightyears ahead of everything else. I don’t know how I lived without. But you don’t find any article about it outside my blog.
+
+Also, MoneyButton is such a great tool for all kind of payments. People waste so much time not using it. It’s like they decide to slow down their internet connection. But again, you don’t find anything about it.
+
+I could go on and on. We have all those scaling records, proving all those ‘blockchain can’t scale’ buttcoiners wrong. But again, nobody reports.
+
+Or take TonicPOW’s P2P advertising: this is a perfect example of how to decentralize a terribly centralized market. Or Unwriter and MonkeyLord literally breaking the great Firewall. Everybody in crypto wants this. And FloatSV and Okex accepting zero conf BSV deposits.
+
+But, again and again and again: No one writes about it, no one tries it.
+
+Michael Wehrmann: Why is that the case though?
+
+Christoph Bergmann: It’s complicated. On one side, journalists have to be selective, as attention is a limited resource, and so they focus on coins which receive more attention by readers. This is not just a problem for BSV, but also for Bitcoin Cash, Monero and Dash.
+
+On the other side, most of us crypto journalists are part of the “community”. We are basically not journalists, but cheap marketers for coin holders. We are sucked in those narratives, and for most, they are highly anti BSV. So they don’t WANT to write about it.
+
+Michael Wehrmann: You attend regularly “Bitcoin Stammtische” (translated: Bitcoin meetups) in Germany. Describe the perception of Bitcoin SV in those meetups for us. Is there anything different you notice in comparison to how the German-speaking crypto media covers Bitcoin SV?
+
+Christoph Bergmann: Unfortunately, no. This must be a disappointing interview for you. I’ve only met one single BSV fan on a South German meetup. Even people who highly respect my knowledge and want me to give talks don’t want to even try BSV. But I don’t give up to change this.
+
+Michael Wehrmann: There is a new German newsletter about Bitcoin SV’s Metanet called “Metanet Weekly”. Tell us about that. Who is behind it and how do readers respond so far?
+
+Christoph Bergmann: It’s a project of B2029, which is a Berlin based association for Bitcoin SV. It was founded by Stefan, Ekhard and me, after we organized the first “Hello Metanet” workshop. With Metanet Weekly we write about all the weekly news about BSV in German. I have very little reader feedback, but our visits and email-subscriptions are on the rise.
+
+Michael Wehrmann: The German crypto market place bitcoin.de listed Bitcoin SV as soon as possible, whereas the Austrian exchange Bitpanda did not and still does not offer Bitcoin SV to this very day. Bitpanda enables way smaller projects than Bitcoin SV to be bought and sold though and made BCH tradable pretty fast. What are your thoughts on that?
+
+Christoph Bergmann: Exchanges and Bitcoin SV is a difficult topic. Many in BSV don’t realize how big the problems are. When exchanges list or delist coins they think about profits.
+
+The BSV community has the very noble approach to not care about trading and gambling, but focus on building. I like this, but it has the effect that trading volume on exchanges is very low. After the delisting from Kraken and Binance I expected volume on Bitcoin.de to grow. But the opposite happened. All the arbitrage tradings bots relied on Kraken and Binance API, so they broke for BSV. This made price finding unreliable.
+
+At the same time BSV scales the nodes. This increases the costs for exchanges. Some think they will create some kind of SPV. In reality exchanges will not invest many developer hours in a coin which produces a very low volume. They will just delist.
+
+Michael Wehrmann: In your book you present a whole chapter called “civil war of Bitcoin”. Tell us how you personally experienced the BTC-BCH-BSV forks and give us an idea of how the German-speaking crypto community thinks about these events.
+
+Christoph Bergmann: Oh, I had to write this. It was a very personal story.
+
+I never got over it that “the community” was so much ok with large parts of it became censored. What did Bitcoin stand against if not censorship?
+
+Let me tell you the secret fundamental law of crypto: You always get what you don’t want to get. BTC wanted censorship resistent money, and they got censorship. They wanted decentralization so much, but they got a lightning system which hardly works without middlemen for non expert users. And Bitcoin Cash wanted anarcho capitalism, but ended with centralized production quotas.
+
+It was also disturbing for me to learn how trolling can influence and fabricate opinion. This made me really pessimistic about the future of our society. A couple of keyboard warriors with some VPN switches and a good spin doctor can mass influence people much better than all media together.
+
+The blocksize war itself is a very complicated story. It’s technically too complex for most people, and if you finally understand the technology, you realize that it has never been a question of technology at all, but of politics.
+
+But it is complicated, and I am impressed how good BTC exercised the digital gold narrative and how they have spun up Lightning.
+
+Michael Wehrmann: Would you say there is a German-speaking Bitcoin SV community growing at the moment? If so, where and how exactly?
+
+Christoph Bergmann: Not much, unfortunately.
+
+Michael Wehrmann: In March 2019 you published an article with the title “Bitcoin SV’s Metanet: ingenious or just insane?” Is there an answer yet?
+
+Christoph Bergmann: Mh, hard question. We still don’t really know what to do with the Metanet. There are many discussions, some only want to store metadata onchain, others want to put everything onchain and cry for even lower fees.
+
+I think real data ownership can become a big issue. If you have your data encrypted onchain, it is always available for you, like it’s on your own disc, but you can access it from everywhere, and nobody can steal or destroy it. If you look at what all those big scary servers do, and how they get more and more influence over the lifes of people, we really need this. In some way the Metanet is our only chance to prevent the upcoming data tyranny.
+
+But will people realize it? Will they get out of their beloved nanny zone under the hood of a scary server? Taking care of your own data is terrifying for most.
+
+There are many other aspects. Take all the ransomware attacks. There have been large scale attack waves, disabling the systems of cities, public services, hospitals and many large companies. It’s hard to fight it with conventional methods, and it’s reaching a state of permanent cyber terrorism. Data on the Metanet would be immune to it, while not being as hard to access as data on a cold backup.
+
+Or take archives. I’m a historian and spent a lot of time in archives, looking through 17th century papers. Many archivars are concerned that we will have a digital dark age, because electronic data is much less durable than paper sheets. The Metanet could be a solution for this, by making data durable and selecting data economically. WeatherSV does an awesome job here, also Twetch.
+
+So, there are many interesting ideas. When I wrote the article I suspected it was madness technically to put all the data onchain. In this regard I have become less pessimistic. But I’m still sceptical if people will use it, and if they will realize that BSV is the solution and not some other data chain or non incentivized networks like IPFS.
+
+Michael Wehrmann: Thanks for your insights!
+
+The situation for Bitcoin SV in the German-speaking countries does not seem to be bright at this moment. However, results will speak for themselves in the long run and will sooner or later be noticed, as well as covered by all crypto media outlets. We thank Christoph Bergmann for the interview and highly appreciate his efforts to spread information about Bitcoin SV’s developments in the German-speaking areas.
+
+New to Bitcoin? Check out CoinGeek’s Bitcoin for Beginners section, the ultimate resource guide to learn more about Bitcoin—as originally envisioned by Satoshi Nakamoto—and blockchain.

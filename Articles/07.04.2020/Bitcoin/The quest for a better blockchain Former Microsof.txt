@@ -1,0 +1,29 @@
+DATE:  07.04.2020, 17:28:33
+TITLE: The quest for a better blockchain: Former Microsoft AI chief invests in Seattle startup Asensys
+URL:   https://www.geekwire.com/2020/quest-better-blockchain-former-microsoft-ai-chief-invests-seattle-startup-asensys/
+
+Asensys, a Seattle startup promising to build a more scalable and efficient blockchain infrastructure, has landed noted computer scientist and former Microsoft artificial intelligence chief Harry Shum as one of the investors in a $2.7 million angel round.
+
+Shum’s interest points to the potential of AI to benefit from the secure, decentralized nature of blockchain, the type of distributed public ledger best known for powering cryptocurrencies such as Bitcoin and Ethereum, said Asensys founder Brendon (JiaPing) Wang, a former Microsoft researcher.
+
+Blockchain’s characteristics can help to address the privacy challenges inherent to centralized AI data repositories, Wang said. However, to realize the full potential of AI on blockchain, it’s critical for the underlying blockchain infrastructure to scale more efficiently than existing systems do.
+
+“We can have a more safe and more trustworthy AI,” Wang said in an interview with GeekWire, explaining that the Asensys blockchain will enable a variety of applications in addition to artificial intelligence.
+
+Shum left Microsoft in February after a 23-year career at the Redmond company, most recently leading its AI and Research Group, which Microsoft CEO Satya Nadella formed in in 2016 as a fourth engineering division at the company, alongside the Office, Windows and Cloud & Enterprise divisions.
+
+Wang and his colleagues say they’ve come up with a new solution to what’s known as the blockchain “trilemma,” in which duplication of blockchain transactions across different nodes in the network makes the system decentralized and secure, but also more difficult to scale efficiently.
+
+“Simply put, we are here to conquer the blockchain trilemma,” said Michelle Chuang, the company’s chief operating officer.
+
+Their approach is based in part on “asynchronous consensus zones,” which reduce the need for redundancy across individual nodes, achieving greater efficiency and speed even as a network grows.
+
+“Brendon and the Asensys team have developed a system to support the scaled throughput and capacity necessary to realize the promise of the decentralized Web based on solid peer-reviewed research work on NSDI,” Shum said in a statement, referring to the annual Usenix symposium on Networked Systems Design and Implementation. “I very much look forward to working hand-in-hand with the Asensys team to bring this solution to the forefront of internet technology innovation and ensure that our digital lives empowered by AI are secure and trustworthy.”
+
+At the NSDI ’19 conference (above), Wang presented results from a test showing the Asensys system providing 1,000 times the throughput and 2,000 times the capacity of the underlying blockchain infrastructure that runs the Bitcoin and Ethereum networks.
+
+Asensys, which launched in January, is one of several startups and companies seeking to make blockchain more scalable. The company’s forthcoming blockchain infrastructure will support a wide variety of applications in addition to artificial intelligence, Wang said. Asensys will generate revenue through transaction fees.
+
+Wang left Microsoft in 2016, after a 13-year career with the company that culminated in a position as lead researcher focused on distributed systems and graphics technologies. He went on to work in a variety of technical, executive and advisory roles with Sinovation Ventures, the Beijing-based venture capital firm founded by Kai-Fu Lee, another computer scientist and artificial intelligence specialist with roots at Microsoft.
+
+Asensys declined to name other investors in the $2.7 million angel round. The company currently has 10 employees across the U.S., Germany and China.

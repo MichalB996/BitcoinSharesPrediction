@@ -1,0 +1,51 @@
+DATE:  05.03.2019, 18:05:48
+TITLE: How to Create Your Own SLP Token Using the Bitcoin Cash Blockchain
+URL:   https://news.bitcoin.com/how-to-create-your-own-slp-token-using-the-bitcoin-cash-blockchain/
+
+How to Create Your Own SLP Token Using the Bitcoin Cash Blockchain
+
+Since the latest Electron Cash SLP version release and the newly published Badger Wallet extension, Bitcoin Cash (BCH) supporters have been creating an abundance of tokens. Because the tokens are so simple to develop, BCH enthusiasts have created tokens for fun, giving them names like ‘XRP Cash,’ ‘Doge Cash,’ and even ‘BSV Cash.’ The following step-by-step walkthrough details how to create an SLP-based token on the Bitcoin Cash network and distribute them to friends and family.
+
+Also read: An In-Depth Look at Ethereum’s Maker and Dai Stablecoin
+
+Creating a Custom Token on the BCH Chain Using the Simple Ledger Protocol
+
+Ever since the inception of BCH-based token creation applications, Simple Ledger Protocol (SLP) and Wormhole-launched tokens have been a hot topic. Now anyone can create tokens on the BCH network using these protocols, and over the last week, the BCH community has been messing around by creating different kinds of tokens to share for fun. In this guide, we will be discussing how anyone can create a token using the Simple Ledger Protocol (SLP), a project spearheaded by the developer James Cramer with help from programmers like Jonald Fyookball, Calin Culianu, Gabriel Cardona, SpendBCH, and Mark Lundeberg. Creating a token using the SLP version of Electron Cash is very easy and only takes a few pennies’ worth of BCH to get started.
+
+Step 1: Download Electron Cash SLP Version 3.4.5
+
+The first thing you need to do to create a token on the BCH chain is download the latest version of Electron Cash that includes SLP integration. The SLP code is open source and individuals who are tech-savvy can review the SLP source code hosted on Github. Electron Cash SLP version 3.4.5 can be found at the official website, for Mac and Windows operating systems.
+
+After downloading a new application, you can simply create a new wallet or import an existing wallet into Electron Cash SLP version 3.4.5. A small fraction of funds (a nickel’s worth will suffice) is required to create a new SLP token. So if the wallet was created from scratch, you need to send some dust to the wallet first to move onto the next steps.
+
+Step 2: Send Funds to the Electron Cash SLP Wallet and Create a Custom Token
+
+In our example, we sent $1 worth of BCH to the Electron Cash SLP wallet and waited for the transaction to confirm. After about 10 minutes the transaction was confirmed and we opened the wallet in order to access the token creation settings. The SLP wallet is identical to the original Electron Cash wallet but the logo is green and the wallet’s interface has new ‘Tokens’ and ‘SLP history’ tabs.
+
+When the initial BCH is confirmed, head over to the ‘tokens’ tab and right click below where the transaction history is usually displayed. By right clicking in this area, the wallet will give two choices: ‘Add an existing token’ and ‘Create a token.’ Simply press ‘Create a token’ and a second window will pop up that allows you to custom-build your own SLP token on the BCH network.
+
+Step 3: Customize the Token Name, Ticker, Quantity, Receiving Address, and Optional Attachments
+
+The customizations include token name, token symbol (optional), token quantity, and the receiving address. It also includes the ability to append an optional URL, document hash, and how many decimal places will be included so the token can be divided. Additionally, the creator can customize the quantity created and whether or not the token will have a fixed supply.
+
+Step 4: Preview and Broadcast
+
+You can now preview the token or create the token onchain, which will only cost a tiny network fee. After the tokens are created, the Electron Cash wallet will give a transaction ID that can be used on a block explorer to view the genesis creation. From here, you can send the tokens to another SLP compatible wallet like the Badger wallet extension and utilize the coins for whatever you desire. SLP created tokens can only be seen by a compatible wallet and an SLP address format looks like this: simpleledger:xxxxxx followed by an alphanumeric string. SLP tokens need to be sent to SLP addresses or the tokens could get lost in a wallet that doesn’t recognize the tethered data.
+
+Bitcoin.com developer and Bitbox creator Gabriel Cardona has published a PR template for individuals and organizations wishing to create tokens. This means token creators can include a token name, symbol/ticker, genesis TXID and asset templates in sizes between 32×32, 64×64, 128×128 and SVG. “We hope this helps with token interoperability between Bitcoin Cash apps,” Cardona tweeted on March 4.
+
+The Satoshi Cash Experiment
+
+On Feb. 4, I decided to have some fun and create a new token called Satoshi Cash (STC) and distribute the tokens on forums and social media. Satoshi Cash has a fixed supply cap of 10.5 million tokens to represent half the supply of Satoshi’s original design. Due to this digital scarcity, STCs are divisible to nine decimal places. Satoshi Cash is also linked to an online version of the whitepaper hosted on Bitcoin.com. The reason for this is so that when people get some STC sent to them, they may be enticed to read Satoshi’s seminal work for a better understanding of peer-to-peer electronic cash. Moreover, using a special tool, I tethered a hash to the token supply which is tied to the original genesis block hardcoded into the main chain.
+
+The next morning, on the Reddit forum r/btc, I created a thread which detailed that I was giving away STCs to those who provided me with an SLP address. I further added a bonus question for 100,000 STCs and gave it to the first person who answered the question correctly. In just a couple of hours, I managed to give away 550,000 STC out of the total supply of 10.5 million. I plan to continue the experiment until I’ve distributed the majority of STC coins. In our next token experiment, the step-by-step guide will teach people how to create a token using the Wormhole protocol.
+
+Creating a token on the BCH chain is easy and distributing them to friends and perfect strangers is fun. What’s not easy is adding value to these tokens, but some individuals and businesses could achieve this by allowing them to act as discounts and coupons for services, backing them with some type of commodity or fiat reserve, or creating a security token which could be collateralized as company shares. So far, people have been sharing these tokens just for fun, as I did with the STC experiment, but in the future, the concept may spread into something far more valuable.
+
+What do you think about the SLP tokens? Have you tried to make a token using the Bitcoin Cash network? Let us know what you think about this subject in the comments section below.
+
+Disclaimer: This article is for informational purposes only. Readers should do their own due diligence before taking any actions related to the mentioned applications and services. Bitcoin.com and the author are not responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.
+
+Image credits: Shutterstock, Electron Cash, Simple Ledger Protocol, and Pixabay.
+
+Need to calculate your bitcoin holdings? Check our tools section.

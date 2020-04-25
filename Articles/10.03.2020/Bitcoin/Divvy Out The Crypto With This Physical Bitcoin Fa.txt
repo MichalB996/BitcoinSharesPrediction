@@ -1,0 +1,13 @@
+DATE:  10.03.2020, 05:00:56
+TITLE: Divvy Out The Crypto With This Physical Bitcoin Faucet
+URL:   https://hackaday.com/2020/03/09/divvy-out-the-crypto-with-this-physical-bitcoin-faucet/
+
+For those unfamiliar with the term, a “Bitcoin Faucet” is usually used as an incentive in software that wants your attention. Complete a captcha or look at and advertisement and you get one millionth of a BTC, that sort of thing. You’re never going to get rich off of one of them, but most people aren’t going to turn down free money either. The latest project from [TJ Bruno] follows that same concept and brings it into the physical world. But you still aren’t going to get rich off of it.
+
+The hardware used for this corporeal Bitcoin Faucet is pretty simple. All you need is a Raspberry Pi, a camera module, and a 2.8″ touch LCD. Naturally you could use a larger screen if you wanted, but then it wouldn’t fit inside of the very slick 3D printed stand that [TJ] developed. We might consider upgrading to a slightly speedier Pi though, in the demonstration video it looks like the Zero is struggling pretty hard to handle the GUI.
+
+Using the Faucet is straightforward enough. You tap the screen and place a QR code representing your Bitcoin wallet on the device’s tray, where it’s scanned by the camera. In a few seconds the Faucet shows a QR code on its own screen that will point your phone’s browser to the transaction details so you can verify your digital coinage is on the way.
+
+You might be wondering why you’d want to have a device that sits there waiting to pay out fractions of a BTC to anyone who’s willing to flash their wallet at it. We’re not entirely sure, though it might make for an interesting way to raise awareness about cryptocurrency. In this particular case though, [TJ] says he was just looking for a project that would give him an excuse to hone his Python skills. Nothing wrong with that around these parts.
+
+Watching the growth of cryptocurrency from our unique vantage point, we can see how the hacker’s interest in Bitcoin as changed over the years. Where we once saw people excited about building custom mining rigs, we now see counters that tick down as the last coins are put into circulation. Looking at projects like this, it seems hackers are happy enough to just give the things away in an interesting way.

@@ -1,0 +1,29 @@
+DATE:  30.01.2019, 14:42:08
+TITLE: Money Button: Large OP_RETURN data sizes on Bitcoin SV are the start of a new era
+URL:   https://coingeek.com/money-button-large-op_return-data-sizes-bitcoin-sv-start-new-era/
+
+Money Button: Large OP_RETURN data sizes on Bitcoin SV are the start of a new era
+
+Crypto payment button app Money Button has announced support for giant OP_RETURN data sizes, allowing users to store files of up to 100KB on a single transaction on the blockchain. Leveraging the Bitcoin SV (BSV) blockchain, Money Button announced the service would be available to its users free of charge, which miniscule fees of just $0.07 per 100KB transaction.
+
+The news paves the way for Money Button users to rely on Bitcoin as a data carrier, and on a massive scale, with the capacity for huge transaction volumes thanks to the scalability of BSV.
+
+In a post published on their blog, Money Button said its users could already benefit from giant OP_RETURN transactions on the BSV blockchain. According to Money Button:
+
+“We are happy to announce that as of today, Money Button supports giant OP_RETURN data sizes of up to 100 KB, making it possible to store files such as images, audio, video, documents, and any other type of data in a single transaction on the Bitcoin SV (BSV) blockchain. Money Button provides this service completely for free, and the only fees paid are to miners, which at present market prices are only about 7 US cents per 100 KB.”
+
+The OP_RETURN data can be integrated into Money Button through a simple OP_RETURN parameter, with the ability to insert an OP_RETURN script into a list of outputs manually for greater control.
+
+How We Added Support for Giant OP_RETURN Data in Money Button https://t.co/wyQXRvcs0q — Money Button (@money_button) January 26, 2019
+
+The announcement follows Steve Shadders’s recent breakthrough, where he discovered how to increase OP_RETURN data sizes within the existing Bitcoin SV node software.
+
+Previously thought to be potentially unworkable, the breakthrough, and Money Button’s decision to support giant OP_RETURN transactions, are a further reflection of the strength of Bitcoin SV.
+
+With an eye to the future, Money Button said Bitcoin SV was ushering in a “new era” for bitcoin, and that it was now possible to build the apps that will fund the miners of tomorrow.
+
+“The new large OP_RETURN data sizes on Bitcoin SV are the start of a new era of leveraging Bitcoin as a data carrier. Long-term, miners will be funded entirely by tiny transaction fees on huge volumes of transactions. Thanks to this improvement, it is now possible to build many of the types of applications that will fund miners in the future.”
+
+To learn more how Money Button added support for giant OP_RETURN data, read here.
+
+New to Bitcoin? Check out CoinGeek’s Bitcoin for Beginners section, the ultimate resource guide to learn more about Bitcoin—as originally envisioned by Satoshi Nakamoto—and blockchain.

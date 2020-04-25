@@ -1,0 +1,41 @@
+DATE:  11.02.2019, 21:01:55
+TITLE: Square payments app considers adding Bitcoin Lightning Network transactions
+URL:   https://sociable.co/business/square-payments-app-bitcoin-lightning/
+
+Financial payments company Square may facilitate Lightning Network-based Bitcoin transactions in the near future. That’s according to the company’s CEO, Jack Dorsey following an interview earlier today on Stephan Livera’s podcast.
+
+Square is a financial services and mobile payments company based in San Francisco. Amongst its service offerings, the company provides its ‘Cash App’ which supports person to person money transfer within the app for individuals or businesses. In January 2018, the app’s functionality was broadened to incorporate Bitcoin trading.
+
+Dorsey, who is also the CEO and co-founder of Twitter, was speaking alongside Lightning Labs’ Elizabeth Stark on the Bitcoin themed podcast. Livera asked Dorsey about the potential for integration of Lightning within the Square Cash App, with the Square CEO confirming that the company has been exploring this option.
+
+Read More: ‘Lightning network will make money flow’: 3 Blockchain experts discuss future of cryptocurrencies
+
+He said that the company would love to make the transaction of Bitcoin as fast and efficient as possible. Taking the matter a step further, Dorsey said of integration, “It’s not an if, it’s more of a when”.
+
+What is Lightning Network and Why is it Needed?
+
+The lightning network is a layer 2 protocol that runs on top of the Bitcoin blockchain. It incorporates a peer to peer network that facilitates Bitcoin micro-payments through a system of bidirectional payment channels without the handing off of the custody of funds through a third party.
+
+The Bitcoin network is robust and has proven itself over its 10 years of existence. However, it has hit a stumbling block in terms of scalability, transaction cost and transaction time. In order for the cryptocurrency to be fully functional in terms of day to day transactions for goods and services, it needs to find a way to overcome these issues. Lightning network has been championed as the mechanism to overcome these issues as transactions have minimal cost implications and can be achieved instantly and globally.
+
+Dorsey elaborated that speed really matters. If you have to wait 12 seconds to complete a transaction to buy a cup of coffee, that impacts both the consumer and the retailer. Whilst there isn’t much in the way of consumer demand for Bitcoin based transactions right now, he wants to get out ahead of it and utilize the technology that will make the process and the customer experience seamless.
+
+The conversation then turned to the idea of facilitating tipping on Dorsey’s other company and platform, Twitter via Lightning. In response to Livera’s query, the Twitter CEO confirmed that it is something that the company have been looking at. Dorsey suggested that Twitter as a platform provides the reach but that the facility of a seamless method of tipping may provide the economic incentive to increase participation and reward the quality of participation on the social media platform. Stark wants to see that integration happen, given the important role that Twitter plays in the sharing of information.
+
+Dorsey has long been a proponent of Bitcoin. During the interview, he gave his opinion as to why his interest remains with Bitcoin and not any of the alternative cryptocurrencies:
+
+“The brand recognition is so strong, the awareness is so strong”. . . “I think it has a lot going for it in terms of lasting power and ensuring it endures. It feels like it’s the one that wants to be a currency the most.”
+
+He acknowledged that there are interesting ideas elsewhere but thinks that those ideas can be integrated into Bitcoin if they have sufficient merit.
+
+Stark on Lightning
+
+Stark is seen as a central figure in the development of the Lightning Network through her company, Lightning Labs. 2018 was the year that Lightning really emerged as a credible solution to the Bitcoin scaling issue. She articulated that the current cryptocurrency bear market has “brought us back to fundamentals” with the focus now back on building out the technology and the ecosystem.
+
+On the theme of solving real problems for real users, Livera asked Stark about the new concepts that have emerged in terms of services online that can now be paid for using Lightning. Stark claims that a whole new economy is emerging with sites that only accept Bitcoin via Lightning as a means of payment.
+
+Citing an example of the flexibility of the payment method in terms of micro-payment, Stark pointed to the writer of a science fiction novel who has made his book available to the public with payment per page. This means that if you don’t like the book, you stop reading and you stop paying.
+
+Stark also referred to the use of Lighting on live video streaming platform, Twitch. Whilst not integrated by Twitch, some Twitch users have started to utilize the payment method through the sending of Lightning invoices, something Stark said is also possible on the Twitter platform.
+
+This may seem modest in terms of traction but there are real tangible indicators that Lightning network is growing and gaining traction. Data from 1ML.com confirms that the number of nodes and the transaction capacity of the cumulative Lightning nodes has reached a new all time high. At the time of writing, the number of nodes stands at 6,140 whilst there are currently 24,508 individual Lightning Network channels.

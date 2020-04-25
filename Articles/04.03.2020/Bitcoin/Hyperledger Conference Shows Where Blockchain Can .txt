@@ -1,0 +1,53 @@
+DATE:  04.03.2020, 14:00:25
+TITLE: Hyperledger Conference Shows Where Blockchain Can Fight Global Warming
+URL:   https://www.coindesk.com/hyperledger-conference-shows-where-blockchain-can-fight-global-warming
+
+This year’s Hyperledger Global Forum, the annual gathering for big companies seeking the benefits of distributed ledger technology (DLT), opened in Phoenix, Ariz., with a film of a woman walking through a bamboo forest gathering up crimson thread.
+
+The metaphor of traceability was hammered home in the Accenture flick, asserting that blockchain empowers people to buy from companies that share their values, giving consumers the info needed "to contribute to an inclusive green economy."
+
+ESG (the new shorthand for environmentally minded corporate do-gooding) and how it overlaps with digital identity appeared to take center stage at this year's event, with perhaps less of an emphasis on banking consortia and trade finance blockchains.
+
+Hyperledger Executive Director Brian Behlendorf said the ideal scenario is combining positive social impact with positive financial implications for the different participants, or a double bottom-line approach.
+
+He gave the example of diamond-tracking blockchain Everledger, where there are real commercial reasons to want to verify a diamond didn’t come out of a factory, but also it didn't come via slave labor.
+
+“A blockchain purely for social impact might be challenging to get enough critical mass,” said Behlendorf.
+
+Important new projects, including blockchain-enabled climate accounting to meet the goals of the Paris Agreement, are figuring out the right framework and incentives.
+
+“This will depend upon a regulatory environment and a trustworthy set of auditors, but also commercial motivation for companies to reduce their emissions – using the blockchain as a way to keep track of who is emitting what and getting credit for cutting your emissions,” said Behlendorf.
+
+The Tesla example
+
+Social-impact tracking platform Circulor, built in conjunction with Oracle using Hyperledger Fabric, began its life tracking cobalt from mines in the Congo. The startup is now attributing carbon footprints to the dynamic flow of materials (natural rubber and leather as well as electric car battery components) across the supply chains of Daimler and Volvo.
+
+“The reason this is important is that electric cars are worse for the planet than normal cars,” said Circulor CEO Doug Johnson-Poensgen. “Why? Because the carbon footprint in the supply chain is bloody enormous.”
+
+In other words, a Tesla Model 3 and a BMW 7 Series would both have to drive about 50,000 miles before their total carbon footprint was exactly the same. In the case of the gas-powered 7 Series, this is based on tailpipe emissions; but for the all-electric Model 3, it’s about the supply chain that built it – and half of that is the battery.
+
+Politicians such as U.K. Prime Minister Boris Johnson who enthusiastically tout an all-electric-car future either choose to ignore this fact or simply don’t understand it, said Johnson-Poensgen.
+
+“Building that battery involves the carbon footprint of large-scale mining, multiple stages of chemical refining and it’s all geographically dispersed – mined in Africa, refined in China, turned into cathode in South Korea and then back to China to be turned into a battery,” he said. “And of course, China uses a lot of coal-fired electricity and are therefore a significant carbon consumer.”
+
+Blockchain is an essential first step in accounting for this complexity.
+
+Car manufacturers are interested because they all have carbon neutrality targets. Buying a slightly more expensive electric battery component from a manufacturer that uses hydropower could potentially knock five years off their carbon neutrality footprint.
+
+“You can’t reduce something you can’t measure,” said Johnson-Poensgen. “So if this is the flow of my material and I understand the carbon footprint of each segment of transport or manufacture along that way, I can engage my tier-one suppliers, my battery manufacturer, for example, in a conversation about balancing sustainability with price. At the moment it’s all about price.”
+
+Accountability
+
+The carbon accounting problem was framed at a dizzying scale by Hyperledger’s Climate Action and Accounting Special Interest Group.
+
+The goal of the project, which also grew out of work done at Yale Open Innovation Lab, is to create a global climate accounting mechanism that can be compatible with the Paris Agreement.
+
+There are certain climate accounting efforts that happened at the United Nations level that are essentially accountability of countries and their pledges, but big companies are also making these pledges.
+
+That’s why an enterprise blockchain conference is a good place to build collaborations, said Martin Wainstein, the founder of the Yale Open Innovation Lab who co-chairs Hyperledger’s climate action group.
+
+“We know the biggest climate actors today are the companies. But their type of pledges have very little accountability,” said Wainstein. “When big companies make these pledges it’s also because they know the next generation is angry, and those are their customers of the future.”
+
+Exploring the role of digital transformation for a trusted climate accounting system has involved looking at blockchain and IoT and also things like the blockchain-based Spatial Web initiative, said Wainstein.
+
+“You have to think about a climate internet or a planetary internet that can talk about jurisdiction, spatial contracts, volumetrics and clear expression levels. Hyperledger has become a very interesting center of gravity around this.”

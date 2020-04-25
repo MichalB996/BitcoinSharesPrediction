@@ -1,0 +1,35 @@
+DATE:  04.01.2020, 20:45:11
+TITLE: New SLP Telegram Bots Introduced to Bitcoin Cash Supporters
+URL:   https://news.bitcoin.com/new-slp-telegram-bots-introduced-to-bitcoin-cash-supporters/
+
+New SLP Telegram Bots Introduced to Bitcoin Cash Supporters
+
+The Bitcoin Cash community was recently introduced to two new Telegram bots that use Simple Ledger Protocol (SLP) tokens within the messenger application. There’s a new SLP Telegram-based dice bot that claims to provide provably fair gaming and a developer has also launched an SLP dividend Telegram bot.
+
+Also read: Ross Ulbricht Supporters Auction Collectibles After BTC Price Wager Goes Sour
+
+Spicecasa: The First SLP Telegram Dice Bot
+
+Cryptocurrency-fueled Telegram bots have become quite popular and there are a bunch of applications that allow people to tip fellow users during a conversation. Not too long ago, news.Bitcoin.com covered the Telegram tipping bot Button Wallet, which allows people to send and receive BTC, BCH, LTC, ETC, ETH, and XLM using the messenger. Last spring, BCH developers created a Simple Ledger Protocol (SLP) tipping bot that disperses the SLP token called spice. The app was first used in the Telegram channel associated with the Coinspice publication. These days, the bot is also used in other crypto Telegram channels and is available on Twitter as well. Similar to the bot Tippr, people can share spice with other Twitter accounts using the platform. Then, about a week before the end of 2019, a Twitter account called @Spicecasa revealed a new Telegram gaming bot is now available that uses SLP tokens for dice games. In fact, the gaming bot leverages spice for bets and jackpots with 226 members joining since the initial launch.
+
+According to the Spicecasa chat room’s pinned Telegram message, the application uses the spice token’s publicly available API backend to “receive and credit spice as tips.” Essentially, once the ‘Casagamebot’ gets a tip with a valid command it will roll and notify the user of the outcome. “If the command is not properly formatted, we reject the tip through the API and no roll is performed,” the pinned message adds.
+
+The bot’s notice also details that Spicecasa has started with spice tokens, but in the future the app will “expand to include BCH and other fine tokens.” The developer who created Spicecasa also revealed that patrons should stay tuned for different types of games to be released. Currently, the Spicecasa gaming group has a website that notes there have been 1,437 bets at the time of publication, while the site also records other Spicecasa gaming data.
+
+Sending SLP Dividends and Airdops via Telegram
+
+In addition to the Spicecasa gaming bot, another Telegram bot was revealed on January 3 which leverages Bitcoin.com’s SLP Dividend Calculator. The software programmer u/sschueller published his SLP Dividend Telegram bot Github repository to the Reddit forum r/btc to see if people would like the application. The bot’s Github specs highlight the fact that the developer created the bot code “in a few hours” and he “takes no responsibility for any lost funds of any kind.” Schueller also left a link to the Telegram bot’s channel so people can test the application.
+
+When Schueller’s SLP Dividend Telegram bot initiates, it asks if you want to send BCH dividends or airdrop tokens just like the Bitcoin.com tool. If you press the ‘Send BCH,’ tab the bot then asks for the SLP token’s unique ID. While testing the bot, I entered the spice token transaction ID to create a test invoice. The bot then asks you to enter the desired amount of funds you want to send to token holders. After choosing how much BCH to send, the bot asks whether you want to set a minimum or maximum balance for each dividend receiver.
+
+The bot also asks you to confirm the information that you had previously entered, so it can build a transaction for the payments. When the transaction is created, the bot sends you an invoice with a QR code to pay in order to send dividend payments. Using the spice token ID, a minimum balance set to zero, and a payout of 0.001 BCH, the invoice provided the exact amount I needed to settle the invoice. Of course, I was just testing the app’s functionality and had no intention of paying the invoice at the end of the experiment.
+
+The BCH community has been fond of SLP tokens and the many applications that support the protocol. As the SLP universe continues to grow, people will likely see more automated Telegram bots like Spicecasa and tools like Schueller’s SLP Dividend Telegram bot going forward.
+
+What do you think about the Telegram dice game bot called Spicecasa? What do you think about Schueller’s SLP Dividend Telegram bot? Let us know what you think about these applications in the comments section below.
+
+Disclaimer: This article is for informational purposes only. It is not an offer or solicitation of an offer to buy or sell, or a recommendation, endorsement, or sponsorship of any products, Telegram bots, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any ideas, software, concepts, content, goods or services mentioned in this article.
+
+Image credits: Shutterstock, Telegram Logo, Wiki Commons, Fair Use, Spice.casa, and the SLP Dividend Telegram bot.
+
+Did you know you can verify any unconfirmed Bitcoin transaction with our Bitcoin Block Explorer tool? Simply complete a Bitcoin address search to view it on the blockchain. Plus, visit our Bitcoin Charts to see what’s happening in the industry.

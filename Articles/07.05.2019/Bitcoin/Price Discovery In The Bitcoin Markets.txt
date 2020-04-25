@@ -1,0 +1,37 @@
+DATE:  07.05.2019, 10:46:00
+TITLE: Price Discovery In The Bitcoin Markets
+URL:   https://seekingalpha.com/article/4260800-price-discovery-in-bitcoin-markets
+
+In their first half year the volumes were low, but there has been enough trading to study whether futures are contributing to price discovery, that is, the process by which trading determines the efficient market value of an asset.
+
+In her paper on price discovery in the bitcoin markets, Tatja Karkkainen adds to the existing body of scholarship on bitcoin price discovery by using the empirical evidence offered by the new futures markets.
+
+Tatja Karkkainen, a scholar on financial technology who is pursuing a PhD at the University of Glasgow, has written an illuminating paper on price discovery in the bitcoin markets.
+
+She begins with the observation that CBOE and CME introduced bitcoin futures in December 2017 "as the first institutional standard cryptocurrency derivative." In their first half year the volumes were low, but there has been enough trading to study whether futures are contributing to price discovery, that is, the process by which trading determines the efficient market value of an asset.
+
+Bitcoins are sold into fragmented markets, in the sense discussed in Joel Hasbroucks' 1995 article in The Journal of Finance, the process of price discovery is an important attribute of those markets.
+
+Miners and the Need to Hedge
+
+Karkkainen is adding to the existing body of scholarship on bitcoin price discovery by using the empirical evidence offered by the new futures markets. She observes that the bitcoin miners are natural participants in the futures market, because... they need to hedge. At present, a bitcoin block compensates its miner by earning the miner 12.5 bitcoins, as well as certain transaction fees, which are also denominated in bitcoins. A miner, then, can be badly hurt by a drop in the value of bitcoins. That is, of course, the risk the miner may want to use futures to manage.
+
+But the contracts are cash-settled. This means that the miners must exchange their mined bitcoins or transaction fees into cash at the bitcoin exchanges, then use that cash to settle their futures trades or margins with the broker. This process is, as Karkkainen says, "cumbersome," and it could be helping to keep the volume low.
+
+Hedging could become less cumbersome for miners if they could settle their contracts in bitcoin. That would also become some portfolio diversification for the speculators on the other side of the trades.
+
+Preceding and Predicting
+
+Despite the limitations of the current system, for miners and others, Karkkainen concludes that the futures markets serve a valuable purpose. They "provide traders a more robust trading instrument in the developing but frictional bitcoin marketplace." Further, she suggests that the futures activity causes spot market price discovery. At the least the futures are "Granger-causing spot markets at all tested frequencies."
+
+This is a familiar phrase in econo-talk. One event "Granger-causes" another if the first event regularly precedes and predicts the second. This need not involve the judgment that the first event causes the second in any stronger sense of the word. A virus may infect a human body and cause a variety of symptoms in a certain dependable sequence. The early symptoms may then be said to "Granger-cause" the later - a cough will "Granger-cause" a rash, for example. It doesn't follow that the cough actually causes the rash. The virus causes them both, one before the other. But the early symptoms may predict the latter.
+
+Why do the Predictions Work?
+
+The above quote from Karkkainen refers to Granger causality "at all tested frequencies" because the frequency level is important to understanding why the predictions work.
+
+As Kenneth Garbade and William Silber wrote back in the 1970s in the Review of Economics and Statistics, identical assets may trade on a number of different markets and may price independently of one another on those different markets, to the extent that there are obstacles in the way of (instant) arbitrage. In cases short of perfect integration (where the same asset has the same price on every market) and perfect independence, there will be a range of possibilities, in many of which there will be an interval of time that will have to pass before the price of an asset at a satellite market catches up with price changes at the dominant market. Garbade and Silber were talking specifically about securities traded on New York as well as on regional stock exchanges, where the former is clearly the dominant market.
+
+Karkkainen cites the Garbade and Silber article, and in her view, the same situation applies to the markets for bitcoin futures on the one hand and for the underlying bitcoin on the other. The futures market takes the lead (though subject to feedback effects) because it is more efficient than a long-only and unregulated market. Since it allows for shorting, it facilitates arbitrage and helps the system that consists of both markets getting to the efficient price level.
+
+Editor’s Note: The summary bullets for this article were chosen by Seeking Alpha editors.

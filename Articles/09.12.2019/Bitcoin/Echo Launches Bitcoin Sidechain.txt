@@ -1,0 +1,41 @@
+DATE:  09.12.2019, 16:41:01
+TITLE: Echo Launches Bitcoin Sidechain
+URL:   https://bitcoinmagazine.com/articles/echo-launches-bitcoin-sidechain-a-weighted-approach-to-more-functionality
+
+Ring in the new bitcoin halving cycle the right way: with us!
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+In late November 2019, the Bitcoin-based DApp network Echo announced the launch of a Bitcoin sidechain on its blockchain testnet. It framed the release as a critical step in its mission to establish decentralized financial applications that leverage BTC as a native asset for lending, trading and more.
+
+“The launch of the Bitcoin sidechain on Echo testnet is the first step towards building the most trust-minimized sidechain for Bitcoin in existence,” Alexei Dulub, founder and CEO of PixelPlex, the blockchain development firm behind Echo, told Bitcoin Magazine. “Getting BTC into the network trustlessly is the hardest technical problem to solve to reach that vision, but this first release is a giant step towards reaching that goal.”
+
+While Dulub describes his team as advocates for Bitcoin Core, Echo sees a need to develop a sidechain that allows users to do more with their BTC.
+
+“Projects like MakerDAO, Uniswap and Compound allow users to borrow against, trade and lend assets on Ethereum without a central party,” Dulub explained. “We want to bring similar functionality to the most trusted, secure and liquid cryptocurrency, BTC.”
+
+PoWR and the Echo Sidechain Difference
+
+Of course, there are other sidechain projects that promise to bring more functionality to Bitcoin while leveraging its security and trustlessness — most notably, Blockstream’s Liquid and IOV Labs’ RSK. These operate through a “federated” consensus model in which a small group of nodes serves as signatories for transactions, enabling these sidechains to utilize BTC as an underlying asset without having to achieve the full consensus required on the main blockchain. This means that users must trust this federation to act in good faith, a trade-off that has inspired a different approach from Echo.
+
+“Echo’s design aims to minimize the trust required in the nodes that operate the connection [between Bitcoin’s main chain and the sidechain] by randomly selecting federation members based off of stake and frequently rotating the members,” said Dulub. “This greatly reduces this risk of collusion among or coercion of committee members to act maliciously.”
+
+Echo calls this consensus mechanism “proof of weighted randomness” (PoWR).
+
+“By randomly selecting validators for each block rather than forcing every node to validate every block, [PoWR] minimizes the resource requirements of running a node without compromising speed or security,” Dulub explained.
+
+In practice, Echo sidechain users send BTC to a multisig address on the Bitcoin blockchain that is controlled by these randomly selected federation members. Once these members confirm that BTC has been sent to the address, they mint an equivalent amount of “eBTC” on the Echo chain. To convert their eBTC back to bitcoin, they can send it to a “burn address” (an unused, unaccessible address that effectively destroys the eBTC), which will then unlock the BTC back to the user on the main blockchain.
+
+An Ongoing Challenge for Bitcoin
+
+Dulub provided his outlook on the advantages of such a committee-operated sidechain, many of which are shared by other federated sidechains: The inherent centralization should increase the “liveliness” of the system and the sidechain remains safe from mainchain miners who might want to disable it, among others.
+
+But ultimately, Echo’s sidechain is just the start in what will be an ongoing challenge to add more functionality and flexibility to Bitcoin while maintaining the inherent safety and decentralization of its main blockchain. It’s a challenge that Echo is not alone in undertaking, but one that it may have a truly unique and powerful approach to.
+
+“Our main goal is to allow Bitcoin users to do more with their BTC, without ever jeopardizing the integrity of the main Bitcoin blockchain,” Dulub concluded. “Perfecting the sidechain will continue to be a work in progress, but we have made great strides and couldn’t be more excited to be pushing the limits of this new technology.”
+
+Those interested in participating and getting their hands on this technology should visit Echo’s tutorial page.
+
+Disclaimer: The parent company of Bitcoin Magazine, BTC Media, LLC, is an affiliate of Echo.

@@ -1,0 +1,45 @@
+DATE:  07.08.2019, 15:17:28
+TITLE: Layer 2 Protocols Improving Bitcoin Remittances
+URL:   https://bitcoinmagazine.com/articles/op-ed-how-layer-2-protocols-can-improve-bitcoin-for-remittances
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+Bitcoin is mostly viewed as a store of value or as “digital gold” these days, but there is also a growing number of people who mainly use the digital asset for international money transfers. These people don’t care about being a cypherpunk. They just want to get money from point A to point B in the fastest, cheapest manner possible.
+
+While Bitcoin has definitely proven its usefulness in these sorts of international payments, there is still plenty of room for improvement, and Layer 2 protocols like the Lightning Network may be the proper way forward.
+
+Problems With Bitcoin for International Money Transfers
+
+While Bitcoin is generally faster than the international money transfer options available between a large number of international corridors, the digital cash system is still far from perfect.
+
+On-chain confirmations can take anywhere from a few seconds to a couple of hours, and someone hoping to convert their bitcoin to the local currency will usually have to wait for multiple confirmations before they’ll be able to transfer the funds to their bank account.
+
+Bitcoin is relatively quick when it comes to international transfers, but the user is still susceptible to the digital asset’s price fluctuations as they wait for their money to arrive. The bitcoin price has dropped as much as 10 percent in 30 minutes this year, which means someone who was expecting to receive $10,000 would be left with $9,000 if they were waiting for their bitcoin transfer to finalize during that time.
+
+While on-chain transaction fees aren’t high enough to be much of an issue for international transfers these days, there is also the issue of currency conversion fees. This could amount to 2 percent or more of the total transaction (depending on the exchanges used), which would amount to a roughly $200 fee for the previous example of a $10,000 transfer.
+
+Having said all of this, it should be noted that plenty of users are willing to look past these issues in an effort to gain better privacy or move money around the world more quickly with Bitcoin.
+
+How Lightning Can Help With Remittances
+
+When most Bitcoin users think of the Lightning Network, they usually think of it primarily as an innovation related to payments or microtransactions. However, the technology may be useful for international money transfers as well. This is because settlement is effectively instant on the Lightning Network.
+
+Once the Lightning Network is adopted by more users and it is implemented by exchanges (Bitstamp is already experimenting with it), then anyone will be able to buy some bitcoin on an exchange, send it to the recipient’s exchanges and have the recipient sell it for their local currency — all in a matter of seconds and for minimal fees.
+
+It is often said that users will want to use on-chain transactions for larger payments because the fees will be lower, but that won’t always necessarily be the case. While the fees for larger payments on the Lightning Network may be higher than a similarly sized payment made directly on the blockchain, there is also the issue of time. And, as mentioned previously, a longer transaction processing time also means more exposure to bitcoin’s price volatility risk.
+
+Other Layer 2 Options
+
+While there are clear benefits to the Lightning Network, there are other Layer 2 solutions that can be useful in the area of international money transfers. While the Lightning Network may not have the necessary liquidity or capacity to handle larger transfers, it’s possible that exchanges will open rather massive Lightning Network channels with each other.
+
+That said, the Liquid sidechain, which is mainly focused at traders who wish to move money between exchanges, may be more useful for larger transfers. It will be interesting to watch these separate layers being built on top of the base Bitcoin blockchain develop over the coming years, as each protocol may be better for different, specific use cases.
+
+The Lightning Network and the Liquid sidechain both come with their own sets of tradeoffs. The Lightning Network is instant, but it could have issues with liquidity. Liquid is a bit slower with its one-minute block times, but it could be better for larger transfers, albeit in a more centralized fashion.
+
+In the future, Drivechains and Statechains could offer additional options in terms of sending bitcoin across the world as efficiently as possible.
+
+For now, the best way to improve the usefulness of bitcoin for international transfers may be for exchanges to plug into the Lightning Network and the Liquid sidechain. Experimentation with these Layer 2 protocols can only help more people learn how to use bitcoin as efficiently as possible for their specific needs.
+
+This is a guest post by Kyle Torpey. Opinions expressed are entirely his own and do not necessarily reflect those of BTC Inc or Bitcoin Magazine.

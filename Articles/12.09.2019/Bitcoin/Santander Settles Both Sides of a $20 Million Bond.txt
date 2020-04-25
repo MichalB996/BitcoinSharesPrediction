@@ -1,0 +1,57 @@
+DATE:  12.09.2019, 07:00:40
+TITLE: Santander Settles Both Sides of a $20 Million Bond Trade on Ethereum
+URL:   https://www.coindesk.com/santander-settles-both-sides-of-a-20-million-bond-trade-on-ethereum
+
+Spanish banking giant Santander says it has become the first institution to use a public blockchain to manage all aspects of a bond issue.
+
+Revealed Thursday, the company not only used a token on ethereum to represent the $20 million debt issuance but settled it with another set of ERC-20 tokens representing cash held in a custody account.
+
+To understand why that’s important, imagine asking someone a question on WhatsApp and waiting for them to mail a postcard with the answer. That’s what it’s like to issue securities on a blockchain while settling the cash side of the trade through the analog legacy system. But Santander, in this analogy, conducted both parts of the conversation digitally.
+
+Previously, the World Bank issued a similar blockchain bond but used a private version of ethereum. French lender Societe Generale issued a bond earlier this year on the public ethereum network but said nothing about cash on-ledger.
+
+Santander is claiming bragging rights since every part of its process is digitized, automated and on-chain, including having Santander Security Services custody the cryptographic keys for the tokenized security and tokenized cash.
+
+However, like SocGen, Santander issued the blockchain bond to itself, meaning no outside investors were involved.
+
+“It’s an evolutionary step,” John Whelan, head of digital investment banking at Santander’s corporate and investment bank, told CoinDesk. “There are no secondary markets yet, but we are on that path,”
+
+Plain vanilla
+
+Describing the project as a “real-money pilot,” Antonio Torío, head of funding at Santander, said the transaction was a plain-vanilla bond with a one-year maturity, four quarterly coupons and a standard rate of 1.98 percent.
+
+“For Santander, this is really much more of a technology innovation issue than a pure financial issue. We regard this an important first step that will be followed by more complex transactions,” Torio said.
+
+Whelan said the tokenized cash was held “in escrow in a smart contract on the public ethereum blockchain, until the issuer had underwritten the transaction and instructed the blockchain to perform the delivery versus payment,” at which point the cash and bonds were swapped “simultaneously and irrevocably.” The process started Friday and wrapped up Tuesday.
+
+Asked if Sandander’s custody services could equally hold fully-fledged digital assets such as bitcoin and ether, Whelan said this was technically possible but not the bank’s plan, adding:
+
+“At the bank, we are not interested in cryptocurrencies directly. The technology is the same underneath, but we are interested and our customers are interested in traditional dollars, euros, pounds and that’s our space.”
+
+Nivaura’s role
+
+Santander relied on London-based technology provider Nivaura (which the bank has invested in) to assist with the digitalization of the issuance.
+
+Nivaura CEO Avtar Sehra pointed out that creating a blockchain bond is not difficult; essentially all you are doing is creating a notarized form of information using a smart contract.
+
+“This is not really digitizing a bond,” he said. “All you are really doing is digitizing the process for registration and settlement – and even for the settlement part you are only addressing half the problem because you haven’t got cash on the blockchain.”
+
+Nivaura allows all documentation and negotiation around issuance to be digitized in such a way that data can be encrypted so each party can only see certain fields in the document, as opposed to emailing pdfs around and such like.
+
+“That’s the key significance of what Santander is doing here,” said Sehra. “They are saying ‘let’s digitize the entire process’. We are not now doing the bond construction in the old fashioned way, inputting data manually in an insecure fashion into a blockchain to tokenize it and doing the same with cash. That’s absurd.”
+
+“The Santander execution is the first truly digital front to back execution process, which securely uses relevant data to tokenize both the assets and cash to enable on-chain settlement and coupon payments,” Sehra added.
+
+Vote of confidence?
+
+One conclusion that can be drawn from Santander’s efforts and others doing similar things is that the banking world is slowly but surely coming around to trust ethereum.
+
+This is perhaps not so surprising given it is almost five years since the second-largest blockchain switched on its mainnet.
+
+Whelan pointed out that bitcoin and ethereum have the unique characteristic of having had 100 percent uptime since launch (in this regard, unlike any other computing system on the planet he could think of).
+
+He concluded:
+
+“I think it’s becoming apparent that ethereum is just part of the internet.”
+
+Santander image via Shutterstock

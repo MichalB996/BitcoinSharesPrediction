@@ -1,0 +1,45 @@
+DATE:  07.10.2019, 20:30:59
+TITLE: Schnorr + Taproot Soft Fork Promises Big Things For Bitcoin
+URL:   https://bitcoinist.com/schnorr-taproot-soft-fork-promises-big-things-for-bitcoin/
+
+Bitcoin Technology Schnorr + Taproot Soft Fork Promises Big Things For Bitcoin
+
+Engineers and developers are continuously working to provide Bitcoin with technological improvements. Now, most likely, the next Bitcoin technological breakthrough will come through the Schnorr + Taproot soft fork.
+
+
+
+Greater Scalability, Fungibility, and Script Innovation
+
+According to Bitcoin Optech contributor Steve Lee, the Schnorr + Taproot soft fork proposal offers “a whole new world of possibilities.”
+
+Specifically, the proposal promises to provide Bitcoin with greater scalability for multi-signature applications or complex smart contracts that may have several different ways to spend the cryptocurrency.
+
+The Schnorr algorithm provides a simple way of structuring crypto signatures. Therefore, it can significantly enhance the efficiency of validating Bitcoin transactions. According to Lee, Schnorr Signatures are 11 percent smaller than existing methods.
+
+Schnorr Signatures are better than the currently used Elliptic Curve Digital Signature Algorithm (ECDSA). And they allow the tweaking of signatures and keys, which facilitates the creation of innovative business solutions.
+
+Additionally, Schnorr Signatures are compatible with existing private keys. Thus, with this proposal, most limitations regarding the number of scripts that can be used to spend digital coins disappear.
+
+Schnorr Signatures Make Key Aggregation Possible
+
+Most notably, Lee affirms, Schnorr Signatures, through the Musig scheme, enable key aggregation. That is, Schnorr allows the combination of multiple signatures over a single input.
+
+Despite the significant benefits that Schnorr Signatures carries over ECDSA, Lee explains that perhaps Satoshi Nakamoto did not include this algorithm when designing Bitcoin because of Clause Schnorr’s patent. Fortunately, the patent has since then expired.
+
+Taproot Enhances Fungibility
+
+Besides, this proposal will improve privacy by ensuring proper fungibility. In this regard, Lee underscores, with Taproot, all outputs for spending look identical.
+
+Taproot is a scheme for signing transaction scripts. Taproot enhances fungibility. According to Kento U. of Coinmonks,
+
+“[Taproot’s] most functional role is to homogenize, in a content perspective, the transaction output based on whatever Pay-to-PubKey or Pay-to-ScriptHash (P2SH). The result will be for the details of the Bitcoin transaction output difficult to distinguish by outsiders.” Kent U. adds,
+
+“To put this simpler, Taproot actually works to make Bitcoin transactions look exactly the same on the blockchain explorer and impossible to tell each from one another, which naturally guarantees Bitcoin with considerably very good privacy.”
+
+This proposal has already been in the Ecosystem Feedback phase of the Bitcoin Consensus Upgrade Lifecycle. Lee estimates that the Schnorr + Taproot soft fork proposal would be ready to pass into the Adoption phase in Spring 2020.
+
+Do you think the Schnorr and Taproot soft fork will be a breakthrough for Bitcoin?
+
+____________________________________________________________________________________
+
+Images via Shutterstock, Bitcoin Optech

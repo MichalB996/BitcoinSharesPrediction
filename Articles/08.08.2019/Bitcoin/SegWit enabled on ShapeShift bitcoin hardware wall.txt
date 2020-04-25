@@ -1,0 +1,23 @@
+DATE:  08.08.2019, 18:10:08
+TITLE: SegWit enabled on ShapeShift bitcoin hardware wallet KeepKey
+URL:   https://www.cryptoninjas.net/2019/08/08/segwit-enabled-on-shapeshift-bitcoin-hardware-wallet-keepkey/
+
+KeepKey, a bitcoin and cryptocurrency hardware wallet, acquired by ShapeShift back in 2017, today announced that SegWit support for bitcoin (BTC) has been enabled.
+
+Last year, the KeepKey team began building a comprehensive web-based platform for KeepKey. While this improved the hardware wallet experience and is available to KeepKey owners for free, it meant SegWit for KeepKey had to be deprioritized, but now, SegWit integration is complete.
+
+SegWit, short for Segregated Witness, is a protocol upgrade on Bitcoin activated in 2017 which changes the way data is stored. P2SH SegWit is now live on the KeepKey platform, as the team continues to work on support for full SegWit Native.
+
+Overview
+
+Moving forward, users BTC address in the platform will start with a 3 (SegWit) instead of a 1 (Legacy). Users can still access their BTC Legacy account and address in the KeepKey Chrome app.
+
+The BTC account balance will reflect the total amount of BTC Legacy and BTC SegWit addresses.
+
+When users spend their bitcoin in the ShapeShift Platform, funds will be spent from the smallest number of UXTOs, regardless of if the funds are on the BTC Legacy address or BTC SegWit address. This will help reduce transaction costs.
+
+By default, “change” from transactions will deposit to users BTC SegWit address.
+
+The KeepKey team recommends moving all BTC funds to the SegWit BTC address to realize all of its benefits.
+
+See below the chart for SegWit payment adoption since activation:

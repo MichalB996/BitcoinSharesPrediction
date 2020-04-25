@@ -1,0 +1,61 @@
+DATE:  16.12.2019, 00:09:28
+TITLE: Here’s What Happens When You Use Lightning Network for the First Time
+URL:   https://news.bitcoin.com/heres-what-happens-when-you-use-lightning-network-for-the-first-time/
+
+Here’s What Happens When You Use Lightning Network for the First Time
+
+Do you remember receiving your first bitcoin? Seeing those satoshis arrive in your wallet is a magical, almost spiritual, experience. In that moment, the most beautiful thing about bitcoin is not its censorship resistance or pseudonymity: it’s that it works at the first time of asking. No pending account verification, no weekend processing delays, and no questions. What about Lightning bitcoin? Could it too work at the first time of asking? As Lightning Network approaches its second anniversary, I decided to find out.
+
+Also read: Maduro Plans to Airdrop Petro to Municipal Leaders and Eligible Citizens
+
+Bitcoin Core Needs Lightning – But Is Lightning Ready?
+
+Blockchain Capital caused a stir last week when it predicted onchain BTC fees to hit $100 in 2020. This will be “a positive development” according to the firm’s Spencer Bogart as it will force “scaling up the stack” to Lightning Network (LN). Even if that prophecy doesn’t come to pass, and fees “only” reach $10, Lightning will be sorely needed, not least to the 3.4 billion people who earn less than $5.50 a day. The question is, two years into its lifespan, is Lightning ready to pick up the slack? To find out, I downloaded two bitcoin maximalist-recommended LN wallets and got to work.
+
+First though, a preface: news.Bitcoin.com is known for its support of Bitcoin Cash and its onchain approach to scaling. We nevertheless cover BTC extensively, albeit with less focus on Lightning Network, since it is experimental technology that has scarcely been used in the wild up until now. That said, with Bitfinex announcing support for LN deposits and withdrawals earlier this month, there are signs that the tide is turning. The next few months will be critical for Lightning: either it starts working, all the time for all the people, or there’s a risk of LN being written off as a failed experiment.
+
+If Lightning isn’t ready for mass adoption the next time onchain fees pass $50, either the public will go elsewhere – be it to BCH, EOS, or any other network that can pick up the strain – or they’ll give up on crypto for good. If that happens, bitcoin will effectively exist as a custodial asset only, suitable for investing but never transacting. And if that happens, it won’t just be Lightning that’s deemed a failed experiment – it will be Bitcoin itself. There’s a lot riding on Lightning Network’s performance over the next few months then. Can LN step up and prove that it’s production ready?
+
+Putting Phoenix Wallet to the Test
+
+Billed as “the bitcoin wallet from the future,” Phoenix’s architects aren’t afraid to sing the praises of their new LN wallet. After seeing well-known bitcoiner Matt Odell tweeting his support for Phoenix, I decided it would be an ideal jumping off point for my debut Lightning experience.
+
+Last month, I helped a friend buy his first BTC, showing him how to install the Exodus wallet and transfer his newly acquired coins to it. It worked at the first time of asking, the same way it has with everyone I’ve introduced to bitcoin over the years. Could I, with seven years of bitcoin experience, get a Lightning wallet to work at the first attempt?
+
+After installing and opening the Phoenix Android app, I’m prompted to backup my wallet and set a PIN, as is standard with any noncustodial crypto wallet. I’m then presented with the following screen:
+
+What I’m aiming to do is send onchain BTC to Lightning, in whatever way the app will allow me to. After pressing “Receive,” I tap the QR code to copy the address and then paste it into the “Send” field of one of my BTC wallets. Upon pasting the QR code, however, it turns out that it contains the following:
+
+lnbc1pwlva5epp5z77fkphh….scq6zw5hu
+
+That’s not a BTC address – it’s a Lightning one, which only works for transactions on the Lightning Network. But all is not lost, for below the QR code in Phoenix is a button that reads “Show a bitcoin address,” which displays the following prompt:
+
+I’d prefer not to pay a 0.5% fee: if I was sending 1 BTC, that means I’d be charged £35. Still, this is Lightning, which isn’t yet ready for receiving transactions of that size, so the 0.5% fee can be forgiven for now. What can’t be forgiven is what happens next: the infinite spinning wheel of death, as I’m instructed to “Please hold.”
+
+Two days later, and I’m still no further along.
+
+Putting Nayuta Wallet to the Test
+
+The next LN wallet I try is Nayuta, a hybrid full-node/SPV Lightning mobile wallet that was brought to my attention by Nomics. The wallet is still in beta, and comes liberally coated in disclaimers to that effect:
+
+That being the case, I’m prepared to cut Nayuta some slack. It’s not like I’m trying to open dozens of Lightning channels, add a watchtower, or run a local node: I just want to get some onchain BTC to LN. That shouldn’t be too hard, right?
+
+There’s a button marked ‘Lightning’ across the bottom of the Nayuta app and another marked ‘Onchain.’ I press the latter, select ‘Receive’ and am shown a BTC address. Despite being in beta, Nayuta’s already gotten me further than Phoenix. I paste the BTC address into the bitcoin wallet I intend to send funds from and run into my first problem: the address format is bech32, and the wallet I’m sending funds from, like most custodial and noncustodial BTC wallets, isn’t compatible. This isn’t a Lightning problem – it’s a bitcoin one – but it’s nevertheless another hurdle in my quest to get funds onto LN.
+
+I log into an exchange account instead and try withdrawing funds from there which, to my pleasant surprise, work with bech32 addresses. Two hours later, however, and there’s still nothing shown up in the Nayuta app. I’d only sent $70 of BTC, but am nevertheless miffed by its failure to appear. After three hours have elapsed, I log into Nayuta again, and this time my funds have magically appeared, but I can’t access them: they’re now being sent from my Nayuta BTC address to my Nayuta Lightning address, minus the 0.5% fee, and the transaction is showing up as unconfirmed. It will require six confirmations before the funds will clear, which means I need to wait another hour.
+
+My understanding of LN is limited (this is my first time after all), but here’s what I’d like to see: a wallet service that will instantly send funds to my LN wallet after a 1-confirmation onchain transaction. In other words, I send BTC onchain from my wallet to theirs, whereupon they immediately send a corresponding amount from their already funded LN channel to me. That’s a service I’d happily pay a 0.5% fee for. But having to wait four hours and counting to get going isn’t going to impress the nocoiners.
+
+Two Years on and Lightning Network Still Isn’t Ready for Mass Adoption
+
+My first experience with Lightning has been interesting, to put it charitably, and maddening to put it more accurately. It feels like there’s a whole world of instant confirmations and low sat transactions waiting for me, if only I could get some damn funds onto the Lightning Network. Then it occurs to me: why am I killing myself trying to break into the promised land of fast, cheap transactions when they’re already at my fingertips with bitcoin cash, litecoin, and doge?
+
+It’s possible that I’ve made some noob mistake in trying to get connected to Lightning Network, but since there’s zero guidance in either of the LN wallets I tried, I’ve no way of knowing. And that’s the whole point: if LN can befuddle a bitcoiner of seven years, we’re still years away from it being ready for mainstream adoption.
+
+I check my Nayuta wallet one last time. The transaction from my onchain wallet to my LN wallet was initiated 16 hours ago. Current status: unconfirmed.
+
+What are your thoughts on Lightning Network? Have you tried using it? Let us know in the comments section below.
+
+Images credits: Shutterstock and Phoenix Wallet.
+
+Did you know you can verify any unconfirmed Bitcoin transaction with our Bitcoin Block Explorer tool? Simply complete a Bitcoin address search to view it on the blockchain. Plus, visit our Bitcoin Charts to see what’s happening in the industry.

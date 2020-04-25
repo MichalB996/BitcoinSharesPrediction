@@ -1,0 +1,59 @@
+DATE:  29.07.2019, 13:26:42
+TITLE: Messaging via Blockstream’s Satellite: Lightning’s Killer App?
+URL:   https://bitcoinmagazine.com/articles/messaging-via-blockstreams-satellite-lightnings-killer-app
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+The Blockstream Satellite might just be the Lightning Network killer app. Until recently, it was a pretty, cypherpunk experiment which ham radio enthusiasts would use to either synchronize their Bitcoin full nodes in areas with no internet connection, or send instant and cheap messages in space. But thanks to the efforts of Blockstream engineer Grubles, there is now a Twitter bot which relays all text and image transmissions to the @satnode account.
+
+The result of this social media communication experiment has been astounding, as hundreds of Lightning enthusiasts have started to take advantage of the cheap and private messages. For amounts as little as 10 satoshis (a rough estimate of the average cost), anybody can have their thoughts broadcasted via satellite, stored on the hard drives of enthusiasts around the world, and also published on Twitter to the followers of satnode.
+
+“There are roughly 126 million daily active users of Twitter, so using the bot to relay messages means all of those people have access to the information users broadcast via Blockstream Satellite now,” Grubles told Bitcoin Magazine.
+
+“If you are unable to setup a satellite dish to receive the data directly from the Blockstream Satellite network, you can still receive the data via Twitter and share the messages among your followers or even discuss the content of the messages. I saw that there was an opportunity to increase the visibility to the messages people broadcast via the Satellite network and relaying the messages to the Twitter user base is a great way to do so.”
+
+Inspired by Hodlonaut’s popular #LNTrustChain, people are passing another torch via satellite.
+
+From a sociological perspective, it’s interesting to observe how bitcoiners decide to make use of their ability to communicate with others via satellite. A quick look at the Twitter page reveals that people have created lotteries, torches that they pass, and even micro blogs. Sometimes they use their extended privilege to free expression in order to compliment or praise somebody, other times they take shots at individuals they perceive as being unethical, and there are instances when messages concern personal reflections on Bitcoin and society at large.
+
+Regardless of the meaning or purpose bitcoiners find in the satellite, all the activity generates buzz around the technology and lots of nocoiners can be introduced to the concept thanks to the Twitter integration.
+
+According to Grubles, the intentions and potential are greater and cover cases of censorship or network shutdowns, where access to means of communication is vital. “The Satellite API can actually be used for more than text messages. Any arbitrary data can be broadcasted over the Satellite network such as images or files. Messaging is, of course, an important use case, which would be particularly useful in regions without access to traditional internet infrastructure, so that they could receive weather updates or other important information.”
+
+How to Pay With Lightning to Send Messages to the Blockstream Satellite
+
+For the purpose of this article, we sent a test message via Blockstream Satellite and took a screenshot to reveal every step, so the process becomes easy to follow. By accessing the “Transmissions” section on the website, you are able to see all the sent, queued and pending messages. However, for privacy considerations, you can only observe the metadata concerning the satellite communication. Therefore, you can’t associate one particular message with an IP address, Lightning wallet or any kind of information that may compromise the privacy of the sender. It’s a smart way of protecting free speech that is absolutely necessary for people living under oppressive regimes.
+
+This is the simple interface which Blockstream offers to satellite communication enthusiasts.
+
+In order to send a message, you must press the “Broadcast a Transmission” button and proceed with the instructions. If you’ve previously sent a message and want to check its status, you should use the “Manage Transmission” function.
+
+Once you press the button which enables you to broadcast, you will be greeted with the first step of the process. Here you can either upload a file but to a maximum size of 10kb (a very small picture of text file), or type in a message. For convenience, our message was “Read Bitcoin Magazine and buy a ticket for the Bitcoin2020 Conference: https://www.bitcoin2020conference.com.”
+
+This is the step where you type in the message you want to broadcast.
+
+In the next section, you will have to bid for your message’s priority. The minimum amount is 50 milisatoshis/byte, and the price you pay gets more expensive if you use more characters or choose to upload a larger file. It’s also interesting to note that, in my personal experience, the bid for an instant message was never greater than 52 msats. In this particular case, the bare minimum worked, thanks to a less intense network activity.
+
+For verification purposes, you receive an ID and an authentication code that you can use in the “Manage Transmission” section.
+
+Before you finish the process and finally have your message broadcasted, you must pay. In our specific case, the cost of the transaction was as low as 6 satoshis. We scanned the QR code with a Lightning Wallet, and, in just a few seconds, everything was validated.
+
+Satellite messages are unfairly cheap!
+
+The Blockstream Satellite sent the message, and the Twitter bot instantly published it, so its 2,118 followers were able to read the invitation to attend the Bitcoin2020 conference.
+
+The Bitcoin2020 conference has been advertised to 2,118 people for only 6 satoshis.
+
+However, due to the small price and incredible ease of use, one can’t help but wonder if the satellite can be used to spam messages. Are the fees too low to deter bad actors from abusing the system?
+
+According to Blockstream engineer Grubles, the company is confident in its queueing implementation. It even plans to increase the bandwidth for greater output: “I think the current queueing system works well. If a backlog of data occurs, users can choose to expedite their data to be broadcasted by paying a higher fee per byte. We also plan on increasing the available bandwidth for both the core Bitcoin block download service and for the Satellite API.”
+
+Killer App or Just a Fad?
+
+The Twitter integration of the satellite transmissions has been quite a killer LApp throughout the last couple of weeks. Lightning enthusiasts have sent all sorts of messages, and most of them didn’t seem to serve a clear purpose other than experimentation or for fun. Therefore, one can’t help but wonder if this is just a fad like Satoshi’s Place and every other popular application that we’ve seen.
+
+In Grubles’ opinion, the use case applies best to those who really need to communicate with the outside world; the full potential of the technology is yet to be seen: “We have some ideas for what’s next for Blockstream Satellite — especially the messaging use case. I think that it’s more than a fad. We’re connecting previously disconnected regions with not only Bitcoin data but any user-broadcasted data. Anyone without access to the internet can receive this data for free. It’s transformative, in my opinion, and we’ve yet to see the full effect this service will have.”
+
+A version of this article has been uploaded for transmission to the Blockstream satellite.

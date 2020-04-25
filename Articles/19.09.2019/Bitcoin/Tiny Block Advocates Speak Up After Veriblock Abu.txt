@@ -1,0 +1,51 @@
+DATE:  19.09.2019, 00:20:44
+TITLE: Tiny Block Advocates Speak Up After Veriblock 'Abuses' Bitcoin's Block Size
+URL:   https://news.bitcoin.com/tiny-block-advocates-speak-up-after-veriblock-abuses-bitcoins-block-size/
+
+Tiny Block Advocates Speak Up After Veriblock 'Abuses' Bitcoin's Block Size
+
+The BTC community recently celebrated the fact that Segregated Witness (Segwit) transactions accounted for 50% of transactions and bech32 transactions doubled as well. However, the celebration quickly came to an end when a few Bitcoin Core developers found out where the transactions derived from and got upset at the Veriblock project for using scarce block space. Bitcoin Core developer Luke Jr urged the BTC community to reduce the block size limit. He further called Veriblock “spammers” and abusers of Segwit’s “block size increase to gain an advantage over legit Bitcoin users.”
+
+Also read: South African Payment Gateway Drops BTC Over Fees and Network Congestion
+
+The Argument for Scarce Block Space and ‘Legit’ Bitcoin Users
+
+Block space is a contentious subject within the BTC community as many people believe it is sacred and only meant for “legit” users. Even though this opinion is very subjective, many BTC supporters believe that only certain transactions should be allowed onchain and anything else is considered “spam” or “abuse.” For instance, the founder of consulting firm Bitcoin Advisory, Pierre Rochard, discussed how people mistakenly use the term “fee market” when it should be considered a “block space market” at the Baltic Honeybadger conference.
+
+Then, on September 15, BTC advocate Brad Mills published a post called “Transaction Eugenics: Bitcoin Blockspace is a Scarce Resource & Protocol Developers are Scientific Innovators.” The post outlines why he considers BTC’s block space to be precious and why the “1MB cap is transaction eugenics and the Bitcoin developers are scientists innovating at the edges to make humanity better.” The post was controversial due to Mills’ choice of words as the term “eugenics” refers to the science of population control and removing undesirable traits from humans.
+
+Core Developer Takes Issue With Veriblock Project, Begs BTC Community to Consider Reducing the Block Size
+
+A few days after BTC proponents celebrated the rise in Segwit and bech32 transactions, they found out that the project Veriblock was to blame. Veriblock even wrote a post about it on September 16 and specifically said the protocol will “now take more space on Bitcoin.” The move toward Segwit transactions came from the Veriblock team releasing an alpha Segwit-enabled proof-of-proof (PoP) miner. Additionally, the team highlighted that Segwit (bech32) PoP transactions will be ~28.9% less expensive for operations. Veriblock had already made headlines months ago when the project captured more than 30% of all BTC transactions last February and March. At the time many BTC influencers despised the Veriblock project and developer Jameson Lopp said it was “inefficient” and others called it straight “garbage.” Now, as the Veriblock protocol captures a ton of Segwit bech32 transactions, BTC developers like Luke Jr are getting upset about the situation.
+
+“So it turns out (not so surprisingly) that spammers are abusing Segwit’s block size increase to gain an advantage over legit Bitcoin users,” Luke declared on September 17. “Reducing the block size limit could rebalance this unfair advantage / bad incentive Segwit has created.” BTC developer Luke Jr is well known for proposing a block size decrease and has submitted a proposal for such advances. In the proposal specifications published in 2017, Luke argued that developers should consider reducing the block size to 300 kilobytes. The developer claimed the block size should shrink to a “safe value, and gradually increased over time, eventually expanding beyond the current limits.” When the programmer insisted the block size should be reduced, the BTC chain was congested with a backlog of transactions (67,000 unconfirmed) and network fees continued to rise.
+
+I am encouraged that "fees are good" is now orthodoxy for the most part. High fees: – contribute to security spend, will replace subsidy long term
+
+– price out uneconomical (wasteful) usage
+
+– force heavy users to optimize their block space usage
+
+– encourage L2 buildout — nic carter (@nic__carter) September 18, 2019
+
+A BTC Block Size Reduction Is Controversial But the Conversation Continues
+
+When a few people told Luke this week that there wasn’t a problem with Segwit transactions and block space abuse, the developer replied: “Denying the problem won’t fix it — Reducing block sizes might.” Opendime and Coldcard founder Rodolfo Novak agreed with Luke Jr’s assessment and tweeted that “smaller blocks can be broadcasted by radio across the world for very cheap — I support this.” Hours later, Luke again insisted that the block size needs to be reduced for technical reasons and “Segwit broke the theory by creating a broken incentive.” Luke said there are a variety of methods that can be used to implement a block size reduction: “Miners can just do the right thing and flip a setting, users can pay higher fees to miners they can only collect if they do the right thing. (bad precedent?), and users can deploy a UASF to enforce a new limit.” Then someone asked the programmer if a hard fork was necessary to reduce the block size and Luke simply said “no.”
+
+Luke’s statements were not welcomed by everybody and the topic was discussed on social media, even making an appearance on the comical Reddit forum /r/buttcoin. “As much as I hate Veriblock there is no such thing as bitcoin spam. Either you pay for the space or you don’t get onchain at all,” one individual chimed in on Twitter. Another person asked Luke to describe more accurately why Veriblock transactions are not achieving their intended purpose. “Which designed feature of bitcoin is preventing this? Who are bitcoin users? How are you gauging what they’ve agreed to?” they asked but received no reply from the developer. Another individual wrote: “There is no problem here — Veriblock will price itself out.” The following day, the developer continued to promote the idea of shrinking the block size. “Right now, Veriblock is paying half the fees that the equivalent legitimate user needs to pay to outbid them,” Luke exclaimed. The programmer further added:
+
+Reducing the block size lets us fix that by making the fee rate the same for both.
+
+BTC Mempool Congestion and Rising Fees Continue After the Price Jumped Over the $10K Zone
+
+At the moment, we don’t know if Luke’s idea will convince other BTC developers as the concept has never previously gained traction. Despite this, the block size reduction conversation continues to show up every few months, alongside BTC supporters discussing the pros and cons of lifting the supply limit of 21 million coins in the future. Furthermore, there are those who believe that if certain groups get priced out of the block space, individuals can simply migrate to the Lightning Network and possibly even to Blockstream’s Liquid chain.
+
+Okay, so your general point is that anyone using SegWit hurts Bitcoin – not Veriblock in particular? — Hasu (@hasufl) September 18, 2019
+
+With the BTC chain limited to 1MB, however, there are those who believe that lots of people are already priced out of using bitcoin. This week BTC network fees have been between $0.50-1.00 per transaction, which prices out billions of people from third world nations. When the fees grow higher than they are today, a few bitcoin decimals literally become neutered and even more users are priced out of the ‘sacred’ block space. Those who believe that keeping the 1MB block size for the BTC chain is still a glaring issue and that Segwit didn’t really help much think reducing the block size even further is a ludicrous idea. In fact, network fees already spiked significantly and fighting for block space became very apparent again throughout the spring and summer months of 2019. To this day, merchants continue to stop supporting the cryptocurrency due to network congestion and high transaction fees.
+
+What do you think about BTC supporters disliking Veriblock transactions? What do you think about Luke Jr asking the community to consider shrinking the block size? Let us know what you think about this subject in the comments section below.
+
+Image credits: Shutterstock, Shrinky Dinks, Youtube, Pixabay, and Veriblock.
+
+Did you know you could win big with Bitcoin gambling? Choose from a range of BCH games including BCH poker, BCH slots, and many more. All games are provably fair—good luck!

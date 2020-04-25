@@ -1,0 +1,35 @@
+DATE:  19.07.2019, 15:45:48
+TITLE: Ethereum's Wrapped Bitcoin Set to Eclipse Lightning Network Capacity
+URL:   https://news.bitcoin.com/ethereums-wrapped-bitcoin-set-to-eclipse-lightning-network-capacity/
+
+Ethereum's Wrapped Bitcoin Set to Eclipse Lightning Network Capacity
+
+Since the project launched a little over six months ago, Wrapped Bitcoin (WBTC) has roughly $5.9 million or 558 BTC locked into the system. At the rate WBTC’s token contract is climbing, the project is close to surpassing the Lightning Network’s capacity in the near future.
+
+Also read: The ”Wrapped Bitcoin” Project Has Now Officially Launched on Ethereum
+
+Wrapped Bitcoin Contract Captures 558 BTC
+
+In January, Bitgo, Kyber Network, and Ren (formerly Republic Protocol) revealed the creation of a new ERC20 token project called Wrapped Bitcoin, a token created on the Ethereum network that’s been gathering a bunch of growth recently. Essentially WBTC is an ERC20 token backed by bitcoin core (BTC) at a 1:1 ratio. The creators of WBTC explained during the token’s launch that the system was designed to bring more liquidity into the crypto ecosystem. At the moment, the token contract’s locked BTC has climbed significantly in value, gathering 558 BTC with roughly $5.9 million in value. The numbers have been impressive since the project started in January and reached a million dollars by the first week of May. Since April 16, the amount of BTC added to the WBTC contract has grown by 272%.
+
+In comparison to the Lightning Network’s growth, the WBTC contract is growing much faster and they both provide similar functionality. Since February 2018, the Lightning Network capacity has held around 5.5 BTC or roughly $46,000 and it’s taken more than a year to climb past $10 million and reached an all-time high of $12 million last month. At the time of writing, the Lighting Network’s current capacity is $9.5 million or 911 BTC. While the Lightning Network’s capacity has been dwindling, there’s been a lot more demand for WBTC tokens. WBTC can be obtained from a number of exchanges like Airswap, Hitbtc, Kyber, Radarrelay, Uniswap, and Imtoken. The project now has a slew of merchants like Grapefruit Trading and the San Francisco-based security platform Bitgo has been acting as the custodian for the WBTC project’s reserves as well.
+
+WBTC’s recent popularity is also due in part to the cryptocurrency infrastructure providers giving the asset support. On July 16, the Compound protocol, an open source lending platform that compounds interest on the Ethereum blockchain, announced its support for WBTC. The Compound community voted on adding WBTC in January, but there were some delays, like the length of time it took for bitcoins to get wrapped. After the project reached a level of maturity, Compound community members were “clamoring” for the coin to be supported. Now the team behind the Compound software has deployed WBTC and users are now able to earn interest on and borrow WBTC. “The market uses the same interest rate model as ETH, BAT, ZRX, and REP, and the initial exchange rate is 0.0200,” the Compound team detailed. So far, $32,000 worth of WBTC loans has been issued since the launch on Compound.
+
+A week prior, on July 8, the NEO-based cross-chain atomic swap exchange Switcheo also launched WBTC on the trading platform. Switcheo’s Jack Yeu explained: “For the first time, traders around the world will be able to buy or sell NEO with the BTC-pegged token, WBTC, in a trustless manner via Switcheo’s cross-chain atomic swaps.” Adding WBTC is part of Switcheo’s goal toward creating a network with cross-chain swapping capabilities across multiple chains. WBTC has added a lot of value into the Ethereum ecosystem and between all the decentralized finance (defi) platforms like WBTC, Maker, and Compound, defi protocols command more than 2% of the entire ETH supply.
+
+Another Instance of Wrapping BTC Using the Bitcoin Cash Network
+
+The rise of WBTC also follows the recent launch of a Simple Ledger Protocol (SLP) token that has similar attributes. The SLP token built on top of the Bitcoin Cash network is called BTC2 and the pegged token is issued by the platform Sideshift.ai. According to the Sideshift creator, BTC2 tokens are backed 1:1 with BTC and people who don’t live in the U.S. can obtain the token using the Sideshift swapping application. BTC2 tokens (not to be confused with the BTC snapshot fork of the same name) use the same BCH network fee to transact which means people can send BTC without paying high transaction fees.
+
+Similarly to sending WBTC, owners must sign a transaction that requires a certain amount of gas or gwei. In contrast, BCH or SLP transactions typically have a network fee of around $0.001 to $0.005 on average. At the time of publication, there are 100 BTC2 tokens in existence which is a touch more than $1 million worth at current BTC market prices. Sideshift’s creator Andreas Brekken told news.Bitcoin.com that with Sideshift acting as the custodian of people’s BTC, it adds a counterparty, which means BTC2 can also open new doors such as earning interest.
+
+In addition to both WBTC and BTC2, there’s Blockstream’s LBTC, a project aimed at facilitating large amounts of BTC transfers offchain. However, unlike the two aforementioned tokens created on public blockchains, LBTC is a federated sidechain using a number of exchanges as the trusted federation. It’s interesting and ironic that there are people with millions of dollars between WBTC, BTC2, and LBTC that think it’s valuable to transact with BTC using alternative chains with lower fees. Moreover, as WBTC comes close to surpassing the Lightning Network’s capacity, one could conclude that it’s easier to transact with WBTC or BTC2 than learning to grasp the technical aspects of the Lightning Network.
+
+What do you think about the WBTC project’s growth? Why do you think people think it’s valuable to transact with BTC on an alternative chain? Let us know what you think about this project in the comments section below.
+
+Disclaimer: This editorial is intended for informational purposes only. Readers should do their own due diligence before taking any actions related to the mentioned companies or any of their affiliates or services. Bitcoin.com or the author is not responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.
+
+Image credits: Shutterstock, Defi Pulse, Simpleledger.info, wbtc.network, and Sideshift.ai
+
+Are you a developer looking to build on Bitcoin Cash? Head over to our Bitcoin Developer page where you can get Bitcoin Cash developer guides and start using the Bitbox, SLP, and Badger Wallet SDKs.

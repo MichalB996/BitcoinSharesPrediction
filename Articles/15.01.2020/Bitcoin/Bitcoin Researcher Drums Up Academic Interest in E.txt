@@ -1,0 +1,72 @@
+DATE:  15.01.2020, 15:57:56
+TITLE: Bitcoin Researcher Drums Up Academic Interest in Erlay Protocol -...
+URL:   https://bitcoinmagazine.com/articles/bitcoin-researcher-drums-up-academic-interest-in-erlay-protocol
+
+Ring in the new bitcoin halving cycle the right way: with us!
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+In November 2019, Gleb Naumenko, co-author of the Erlay protocol and Bitcoin researcher at Chaincode Labs, came to London to present at the ACM conference 2019.
+
+The ACM conference is one of the premier conferences on computer and communications security. It brings together “security researchers, practitioners, developers and users from all over the world.” Naumenko’s appearance was a rare recent example of Bitcoin research being covered at a conference focused on broader topics than exclusively cryptocurrency (or “blockchain”).
+
+As Naumenko himself has said, there are numerous benefits to getting individuals from other fields of research engaged in reviewing and providing feedback to the Bitcoin ecosystem. These benefits include strengthening existing Bitcoin research and also attracting new talent to address the multitude of challenges and real world research that need advancing. Naumenko is seeking to encourage current and future graduate students to focus on the peer-to-peer challenges of Bitcoin such as future botnet attacks on the Bitcoin network.
+
+Erlay: Reducing Bitcoin’s Bandwidth Requirements
+
+Naumenko describes his research as “analyzing, protecting and optimizing the way these nodes communicate.” He is perhaps best known for his work on Erlay. Aaron van Wirdum and Omar Faridi previously covered Erlay in Bitcoin Magazine. As they write, “Erlay is a new proposal that could help reduce bandwidth requirements.” It outlines an approach that reduces the number of messages between nodes and the size of some of those messages. Erlay could reduce the amount of bandwidth required by approximately 40 percent.
+
+Reducing bandwidth requirements is not only important for lowering the bar for an individual to start running a full node but also allows existing nodes to increase their number of connections making eclipse attacks harder to execute.
+
+Just as a lunar eclipse shields your view of the moon, an eclipse attack shields your view of the rest of the network’s blocks and transactions. As a result, an attacker can feed you transactions and/or blocks that either aren’t seen on the rest of the network or aren’t included on the greatest proof-of-work chain. This attack becomes less viable as a node’s number of connections increases as the attacker has to control a greater number of nodes.
+
+Currently, bandwidth requirements increase linearly with the number of connections. However, with Erlay the bandwidth requirements are approximately constant as the number of connections increases.
+
+Although the need to run a full node has garnered a lot of attention in recent years (for good reasons such as decentralization and trust minimization), the quality and quantity of Bitcoin peers you are connected to has garnered less attention. Although not as important as on the Lightning Network, certain attacks, like eclipse attacks and network splits, are possible on the Bitcoin network if an attacker manages to control the peers you are connected to or manages to disconnect you from honest peers.
+
+Why Aren’t More Academics Researching Bitcoin?
+
+There are some Bitcoin-focused research clusters investigating these issues. These include The Initiative For Cryptocurrencies and Contracts (IC3), Aviv Zohar at The Hebrew University and Aniket Kate at Purdue University. However, the number of them is relatively low given the media attention, public awareness and market dominance of Bitcoin.
+
+There are a number of possible explanations why the Bitcoin ecosystem hasn’t attracted more academic interest thus far. Bitcoin has the arguably unfair reputation of being slow moving and resistant to new ideas. It is certainly more conservative than many other cryptocurrencies with greater emphasis placed on censorship resistance, decentralization and avoiding regular hard forks.
+
+Whilst other cryptocurrencies can experiment with unproven novel cryptography, many Bitcoin Core developers feel the responsibility to ensure novel cryptography is extensively studied and ideally battle-tested before being considered for Bitcoin.
+
+In addition, there are the vast financial incentives to focus on building a new cryptocurrency, either through the advisor fees offered on other projects and pre-mines or the generous salaries offered by companies like Facebook to work on their own cryptocurrency-related projects. In contrast, open-source contributors to Bitcoin often struggle with more limited funding opportunities.
+
+Furthermore, there is a significant subset of the academic community that dedicates its time to researching potential replacements to proof of work, such as proof of stake, in an effort to address the perceived problem of energy expenditure.
+
+The Pull of Proof of Stake
+
+There is no harm in some researchers continuing to pursue this idea, but it is worth remembering that proof of stake is not a new idea. Indeed, the breakthrough that Satoshi Nakomoto made back when he first released the Bitcoin software in 2009 made no progress in making proof of stake viable. Nor has the 11 years of observing a proof-of-work system being stressed in the real world with billions of dollars on the line taught us anything about the viability or the optimal design of a proof-of-stake system.
+
+Although it can be attractive and ego-inflating to pursue these Satoshi-level technical breakthroughs, they are extremely rare, assuming they will occur with regularity is grounded in hope and not science.
+
+Of course, it is extremely difficult to mathematically prove that proof-of-stake systems will never work, given the vast design space. Nevertheless, Andrew Poelstra, Director of Research at Blockstream, is convinced distributed consensus from proof of stake is impossible. In 2014, he wrote,
+
+“The problem ultimately comes down to what Greg Maxwell calls costless simulation and Andrew Miller calls nothing at stake. If it is costless for signers to create valid blocks, then they are able to cheaply search the blockspace for blocks which direct the history in their favour.”
+
+It is not as if proof-of-work systems no longer present an interesting research area for academics and researchers. As Naumenko himself has commented, “We are still learning stuff about proof of work … I think proof of work is simple and yet we don’t understand it in full.”
+
+London Bitcoin Devs
+
+Whilst in London, Naumenko also presented at the London Bitcoin Devs meetup. (The video of his presentation can be viewed here with the transcript available here.) To prepare for Naumenko’s presentation, the London Bitcoin Devs meetup hosted a Socratic Seminar a week earlier on the Erlay research paper and the peer-to-peer networks of Bitcoin and Lightning.
+
+This led to an interesting discussion during Naumenko’s presentation on, among other things, the challenges of accurately measuring the number of full nodes without the methodology being gamed and the peer-to-peer vulnerabilities on altcoin networks. He was not complimentary of IPFS’s libp2p library for use in distributed consensus networks, describing it as “Frankenstein’s monster” when compared to the greater simplicity of Bitcoin’s peer-to-peer protocol.
+
+He was also not impressed with some of the unaddressed peer-to-peer vulnerabilities on Ethereum and feels that the Ethereum community is focused overly on proof of stake and zero-knowledge proofs research to the detriment of addressing peer-to-peer exploits.
+
+On the Lightning Network, Naumenko has found the pace of change too fast at the present time to extensively research a relevant attack, consult the Lightning protocol developers and consider publishing a paper on it. Interestingly, Naumenko believes there are applications for Erlay on the Lightning Network so it may be a case of “watch this space.”
+
+Other Bitcoin Research
+
+It is clear that the peer-to-peer layers on both Bitcoin and Lightning promise to be a thriving research area in the coming months and years. In addition to his research on Erlay, Naumenko has a number of open pull requests on the Bitcoin Core GitHub repository.
+
+Unlike the PRs impacting other components of the Bitcoin Core codebase like the wallet, Naumenko’s PRs often touch very few lines of code and are perhaps easier to review and understand for those who are less familiar with the C++ language. There are other peer-to-peer research projects such as Dandelion, which focuses on bringing privacy improvements to the peer-to-peer layer and is compatible with Erlay.
+
+Bitcoin Core contributor Amiti Uttarwar is also working on improving the transaction rebroadcasting logic to improve privacy. She hosted a Bitcoin Core PR review club session in November 2019 to discuss a pull request she opened (#16698) in the Bitcoin Core repository.
+
+For those that are interested in learning more about Bitcoin’s peer-to-peer layer, Naumenko will be returning to London to present at the Advancing Bitcoin conference in February 2020. A BIP number has been assigned for Erlay (BIP 330) and Naumenko is currently working on a production-ready implementation.
+

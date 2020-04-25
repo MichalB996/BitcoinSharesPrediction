@@ -1,0 +1,195 @@
+DATE:  09.08.2019, 21:52:03
+TITLE: Podcast 210: Radko Albrecht of Bitbond
+URL:   https://www.lendacademy.com/podcast-210-radko-albrecht-of-bitbond/
+
+When you think of cutting edge cryptocurrency technology you generally don’t associate it with small business lending. Even the new fintech lenders that are doing really innovative work in small business lending have tended to stay away from crypto.
+
+But our next guest on the Lend Academy Podcast has combined these two niches into a successful company. Radko (aka Radoslav) Albrecht is the CEO and Founder of Bitbond, a company that began as a bitcoin lending operation to fund small businesses. They are based in Berlin and regulated by Bafin, the German financial regulator, and recently completed the first ever regulated Security Token Offering.
+
+In this podcast you will learn:
+
+This episode of the Lend Academy Podcast is sponsored by LendIt Fintech Europe 2019, Europe’s leading event for innovation in financial services.
+
+Download a PDF of the transcription of Podcast 210 – Radko Albrecht.
+
+Click to Read Podcast Transcription (Full Text Version) Below
+
+PODCAST TRANSCRIPTION SESSION NO. 210 – RADKO ALBRECHT
+
+Welcome to the Lend Academy Podcast, Episode No. 210, this is your host, Peter Renton, Founder of Lend Academy and Co-Founder of the LendIt Fintech Conference.
+
+(music)
+
+Today’s show is sponsored by LendIt Fintech Europe 2019, Europe’s largest fintech event for lending and digital banking. It’s taking place on the 26th and 27th of September in London at the Business Design Centre. Lending and banking are converging, LendIt Fintech Europe delves deeply into this new world bringing you the latest developments in the most important areas of fintech. LendIt Fintech, lending and banking connected. You can find out and register at lendit.com/europe
+
+Peter Renton: Today on the show, I am delighted to welcome Radko Albrecht, he is the CEO and Founder of Bitbond. Now Bitbond are a really interesting company, they actually are the first global SME lending platform in dozens of countries around the world. They operate out of Berlin, they’re also a regulated platform, they have registered with BaFin and they’ve broken new ground in many areas, particularly when it comes to blockchain and cryptocurrency and they just completed the first ever regulated security token offering in Europe.
+
+We talk about that in some depth and we talk about a lot of the other groundbreaking work they’ve done and how their business has evolved really from a bitcoin lending platform to really a 21st century SME lending platform globally. It was a fascinating interview, I hope you enjoy the show.
+
+Welcome to the podcast, Radko!
+
+Radko Albrecht: Hi Peter, well, thanks for having me. It’s a great pleasure.
+
+Peter: No problem at all. Okay so, you know, I like to get these things started by giving the listeners a little bit of background about yourself and particularly in your career, what you did before you started Bitbond.
+
+Radko: Yeah, so in a wider sense, I have a background in financial services. I studied economics with a focus on finance then had my first career position with Deutsche Bank in London in sales and trading of structured equity products. After that, I moved into management consulting and I spent four years with a company called Roland Berger, which is a German strategy consulting firm.
+
+Most of the projects that I worked on were banking-related projects, mostly post merger integrations where we were setting up new strategic concepts for a combined entity, business planning, strategic plan and integrating two organizations. So I’ve done that for a good number of years, but I always knew I wanted to start my own company at some point and so around 2011/2012, I got really excited about online lending.
+
+Actually, Lend Academy was one of the first sources that I had (Peter laughs) that educated me about the whole online lending space. So definitely, you have a good share in the fact that I actually started a marketplace lending platform.
+
+Peter: Oh, that’s great to hear, great to hear, Radko. Before we get there, I’m interested in your sort of relationship with cryptocurrency because that’s sort of what the founding of Bitbond was based on. So when did bitcoin first get on your radar, when did you first become interested?
+
+Radko: I was in a really fortunate situation, in 2012, a really good friend of mine told me about bitcoin. Personally, he didn’t have anything to do with it, but he knew that I’m super excited about finance and about financial technology and so he said, Radko, I read a newspaper article about this internet currency called Bitcoin, have a look at it, I’m sure you will find it interesting. And so, I looked at it, it was really technical, everything that you could read back then about bitcoin was super technical and it took me a while to get my head around it.
+
+But then once I thought I understood a little bit more about it, I found it a super exciting, super fascinating concept and I had the impression that it could change a lot in the world of finance and that the underlying concept of blockchain and the problems, the technical problems, that it solves can be something that’s very important for the financial industry.
+
+But at the beginning, it was very theoretical for me. I bought a little bit of bitcoin at $35.00, (Peter laughs) but I did not really see it as an investment. I just bought one or two BTC in order to test it and, you know, in order to do transactions in order to know what it feels like so those were the first days that I kind of got in touch with bitcoin and the technology.
+
+Peter: So then tell us about the start of Bitbond and what was it…you know, you could have done what other European platforms have done. You wanted to start a lending platform, but you did a twist on it and you started it based on cryptocurrency so tell us about the idea that you had and why you decided to go that way.
+
+Radko: The original idea that I had was actually not related to cryptocurrencies. I had the idea to start an SME lending platform, first of all, because I really found online lending/peer-to-peer lending a super exciting concept and the platforms that were operating back then were all focused on consumer loans with probably the only exception being Funding Circle which was already up and running, which was focusing on SME loans.
+
+I felt like there’s a big market opportunity in SME lending in Europe and also elsewhere in the world. So, on the vertical, I wanted to focus on SME lending and then at the same time, I was quite puzzled by the fact that all of the P2P lending platforms that already existed back then…I mean, LendingClub already had a considerable size, Zopa in the UK, Auxmoney in Germany and a good number of other platforms. All of them were just operating in one market.
+
+I thought, well, if you look at the internet and if you look at internet-based services, most of them are accessible to customers from multiple countries. So what I wanted to do, I wanted to start an SME lending platform that is accessible, more or less, to everybody who has an internet connection. And so I had this idea and I wanted to get it started and I thought I knew a lot of bankers so it would be easy for me to find a partner and to solve kind of cross border payment processing which was one of the challenges that we had at the beginning, however, it turned out to be a lot more difficult than what I originally thought.
+
+When we have conversations with banks, they said, well, it’s expensive, or we’re not even capable of providing that for relatively small loans because it’s just not economical to do cross border payments that go beyond Europe, especially, and the transactions are expensive. And that was when I remembered bitcoin that I had heard about, about half a year before I was about to start an SME lending platform, and I looked into it and I tried to understand whether bitcoin could help us to launch our international SME lending platform.
+
+And when I saw the back then really low transaction fees and the universal accessibility of bitcoin then I had the idea to launch an SME lending platform where the underlying payment network in order to get money from A to B between borrowers and investors on the platform is actually bitcoin. So, that’s how it all started and then we actually came up with the name Bitbond once we knew, well, we’re not going to work together with banks in order to send payments from A to B, but we will actually channel them through cryptocurrency.
+
+Peter: Okay, so then you launched the company, did you target specific countries, or did you just sort of open it up for anybody? Where did your initial business come from?
+
+Radko: At the beginning, Bitbond was a bootstrapped startup funded by my own savings and we hacked together the first version of Bitbond in just three months. As you can imagine, if you hacked something together, two people in three months, you know, it’s not the greatest product with the greatest features. It was literally bare-bones.
+
+Investors and borrowers could sign up, borrowers could disclose a relatively limited amount of information for a credit check and the payments worked so that an investor who signed up, funded their account, could fund a loan and there was a payment schedule and the money got collected automatically when the borrowers repaid it. It wasn’t more and it looked awful.
+
+We also had no marketing strategy for it, we really just focused on getting something out so that people could use it. The good thing was it was international. At the beginning, we accepted literally everybody from any country and so what we’ve done is, since this was a bitcoin-based service back then already…we launched it in about July 2013, there was already a pretty big bitcoin community on forums like Bitcointalk and a couple of others.
+
+So what we’ve done after launch, we posted about the newly launched platform on these forums and were really asking people to start using it just for testing purposes. At some points, we even went so far to, you know, offer other newly founded platforms that we would be testing their platform and in return they should sign up with Bitbond and test what we have built. So really, the first users were people who were maybe not the biggest peer-to-peer lending enthusiasts or experts, but those people who were really excited about the fact that there were some real life use cases for bitcoin which back then there weren’t a lot.
+
+And so these were actually our first users and the first real borrowers that we had on the platform were actually people who were doing bitcoin mining. Back then, it was still profitable to do bitcoin mining from your bedroom with your own hardware running and so a lot of the first borrowers of Bitbond were borrowing bitcoin in order to finance their mining hardware.
+
+Peter: Okay, got it. So, what was it like, how were your repayments back then, I mean, I presume one of the things working internationally, it’s harder to do underwriting and credit checks. How did you go about that and how was the repayment rate?
+
+Radko: It’s been an interesting evolution. At the very beginning, when we had a relatively small number of users, we had very good repayment rates. I think we didn’t have a default or considerable late payments for the first six to eight months, but at the same time, for fairness we have to mention it, in those first six to eight months we funded perhaps 30 to 50 loans so a really small amount and the loan amounts on these loans were also pretty small, ranging between $100 to maybe $2,000, but most of them more at the $200/$300 scale, so really, really small.
+
+But those users were enthusiasts and had really good repayment rates despite the fact that our credit and underwriting model was not sophisticated at all. Then as we were ramping up marketing and we were growing the business, we started to have more and more users and kind of had a bit of a viral effect at the beginning because for the first year we did not really have a marketing budget, but we actually managed to grow the number of users quite considerably and also default rates started to go up.
+
+Probably our worst time in terms of credit was year number two, number three of Bitbond when some of the monthly cohorts went above 30/35% in default rates which were obviously not sustainable.
+
+Peter: Right, right. So how did you transition then to where you are today? Maybe just give us a little bit of a…I don’t believe you’re doing…tell us, are you still doing bitcoin lending? I’d like to know sort of how it kind of transitioned to where you are today.
+
+Radko: So fast forward to today, the platform functions in a completely different way. Today, we use bitcoin only for a very small portion of the transactions on our platform. We have switched the payment processing to the Stellar blockchain which is more efficient, more scalable and highly optimized for payment processing. We’re not using the native cryptocurrency on top of Stellar which is Stellar lumens, but instead, we’re using a so called stablecoin which is a cryptocurrency that is backed by the Euro.
+
+So for Euro-based investors and borrowers there’s actually no exchange rate fluctuation because we work together with a French payment processor called Tempo which issues euro tokens for every euro that arrives in their bank account from investors or borrowers. So that has changed a lot, investors and borrowers can interact with the platform through their bank account with this payment processor that we work together with.
+
+So we have managed to completely eliminate any exchange risk, at least from a euro perspective. For the investors and the borrowers, they can interact with the platform either through the euro tokens or through their bank accounts. We have integrated multiple of these payment providers, for example, in some African countries we work together with m-Pesa, with Flutterwave so that’s our borrowers from Kenya, which is also a strong market for us, can get payments through their bank account or through their mobile money account.
+
+So a lot of this has changed and today, we’re also highly focused on only SME’s. Most of our customers today are online sellers on eBay, Amazon, Jumia and some of the other big e-commerce marketplaces and restaurants, these are our two biggest verticals today.
+
+And so how did we get there in very short terms, I mean, after the first year of Bitbond raised the first funding round with outside capital, with Point Nine which is a Berlin-based early stage VC and then over time we brought on more investors, both business angels and institutional money, who helped us to grow the platform into an actual SME lending platform with technical aspects that were really exciting at the beginning are actually under the hood.
+
+Our users today don’t care about which technologies we use, obviously the only thing that is relevant to them, how quickly can we make a credit decision, what are the terms on the loan, what’s the loan amount that they can get. From the investors’ perspective, what kind of returns can they earn on our platform. So we have transitioned into a more conventional type of platform from the types of customers that we serve, however, I would say pretty innovative on the technology side that we use in order to make our service available.
+
+Peter: Right, right. I saw your license, you’ve got a BaFin license, BaFin being the German regulator, so you are regulated by BaFin?
+
+Radko: That is correct. So a lot of startups in the fintech space in Europe go a way where they rent a license from a bank so they work together with a fronting bank, but I had the goal from the beginning to make ourselves independent of banks on the infrastructure side. And so, from the very beginning of Bitbond we decided to apply for our own regulatory approval instead of having to work together with a fronting bank. This was a pretty long process, it took us three years.
+
+So we applied immediately when we founded Bitbond and we got the license in late 2016. This was also a relatively long process, but today, we see it as a big advantage to operate on our own license, especially when we work together with other financial services providers. Compliance-wise, we speak the same language, all the documentation that we have is highly valuable in setting up partnerships with banks and with other financial service providers. So, yeah, it’s been a long way to get there, but we’re happy about operating the business with our own license.
+
+Peter: Sure. So tell us a little bit about the loan terms, what is the average length of the loan, the interest rate, the loan amount, what are you offering?
+
+Radko: So in the SME spectrum, we really focus on the small ones. The average loan amount on Bitbond is approximately 12,000 euros, so right about $14,000/15,000. We offer three terms: three months, six months and 12 months. The majority of our borrowers take on a 12-month installment loan so the average term, if you calculate, is right about 11 months across the whole loan book and the interest rates are pretty different from country to country and borrower to borrower, depending on what kind of credit risk they represent, but to give you a range, it’s between 10 to about 35% per year. The average in that range is about 24%.
+
+Peter: Okay, okay. What are your top three countries you operate in?
+
+Radko: Today, the top three countries are Germany, France and Italy, so by volume, these are the top three countries today.
+
+Peter: But you said you still have the ability to offer these loans globally?
+
+Radko: Yes, although today, for compliance reasons, we have excluded some countries. One of the things that are driven by the fact that we operate under our own license because we have to do a know your customer check, according to German anti-money laundering standards, which means that we are required to do a video identification with every customer who registers with our platform. For this video identification, there are relatively strict rules that are defined by the regulator.
+
+One of the rules includes that the identification document that our customers are using have to include certain security features like a hologram and a certain set of these security features. Some countries around the world, the passports and the ID cards that people are using don’t have these security features and if this is the case, then for regulatory reasons we have to reject such users despite the credit quality or other characteristics of these applicants. But we still can serve easily over 80 countries around the world and it still remains an international platform.
+
+Peter: Okay, okay. So I want to move into your recent security token offering that I kept reading about again and again, it seemed, over the last few months. I know you just recently wrapped it up, but maybe before we even talk about that, just explain, for the listeners, what is a security token offering or STO?
+
+Radko: So a security token offering, first of all for my business or an economic standpoint, is a public offering of a security, something that’s existed for hundreds of years. So it’s a way for a company to offer a security in order to raise funds. Now, the token aspect that comes in here is about how the proof of ownership in a security happen. In a regular security offering there is still the concept of a paper certificate that represents proof of ownership in a security.
+
+Today, around the world, people hold securities electronically typically within their bank account. Somewhere there is still an underlying paper document that represents the ownership in that security typically held with a central clearing house in Europe. This would normally be Clearstream which is almost like a monopolist for central clearing. So, the security token offering is a security offering where there is no more paper certificates, other types of physical paper-based documents, but a digital token represents the ownership in that security. So, that’s from a very, I would say, basic concept, the idea behind a security token offering.
+
+Peter: Right, okay. Maybe we could start off with why did you decide to raise money this way rather than going out in the traditional…either equity markets or VC or something like that?
+
+Radko: So first of all, the security token offering that we launched at Bitbond has the purpose to refinance our loan origination so this is not funding for Bitbond as a company, but primarily used in order to grow our loan origination. Our goal has been, when we launched a project to diversify and to increase the amount of refinancing that we have for the loan originations on our platform.
+
+One idea that we had was simply go to the public markets and do a bond offering. So, when we had that idea, that was around the time when ICO’s were still really big and a lot of ICO’s were running and we looked at them and we said, well, the general idea of an ICO is pretty cool, however, we as a regulated financial institution would put our license and our whole company at risk if we were running an unregulated offering which frankly looks very much like a security offering which is something that I believe is true for a lot of the ICO’s that were running, maybe not for all of them, but a good deal of the ICO’s that were running very close to what you would normally consider a security offering.
+
+And so when we saw that, we said, well, we have a lot of experience with blockchain technology because we’re using blockchain-based payment methods on our platform, we want to address the public financial markets, however, let’s use the knowledge and the expertise that we have in order to do a security offering where the proof of ownership happens through a token which then brings us to an STO and this was about January/February 2018 so that’s when we first started to seriously approach this project.
+
+Peter: You did register this with BaFin, right, that’s my understanding.
+
+Radko: So the first thing that we did was we internally drafted a legal concept together with the law firm that we work together with and we knew that if we present a securities prospectus for a security token offering to the regulator, it will most likely be rejected because there are so many new aspects to it that the regulator simply won’t have enough time to evaluate all of that. Because securities prospectus approval happens in a relatively short time frame, the regulator has only 20 business days to get back to you, either with an approval or with a set of questions or remarks around the prospectus and there’s not enough time if we present them with something that’s completely new to them.
+
+And so what we’ve done is we have approached them with a general concept which was not a prospectus filing, but just a concept that laid out to them, this is what we want to do and we would highly appreciate if you gave us feedback so that when we ultimately hand in a prospectus for approval, it will address the topics that you see as relevant here. The regulator really appreciated this approach, they did give us feedback which is not very usual because, normally, the regulator wants to see finished contracts, finished prospectus and will, normally, not always help you to create something new.
+
+But I think in this case, they recognized that security tokens will be a thing. They, as a regulator, need to have an opinion to them and they need to educate themselves. So what they did was to ask a lot of questions, not just around the security token offering, but also around how proof of ownership on the blockchain works; what opportunities come with it, what additional risks might come from that. After we went through the whole process, we kind of knew what were the concerns, what would be the risks that we have to address in the prospectus and we knew that when we hand in a prospectus after that process, it will have a relatively high likelihood to be accepted.
+
+Peter: Right.
+
+Radko: Looking at it from today, it was a good decision to kind of take this long path with the regulator because it turned out that before us there were over 130 other companies filing for security token offerings, but of all their prospectuses got rejected and we were in the lucky situation to be the first ones to receive approval.
+
+Peter: Right, probably not the last, I would imagine, but that’s great, you’re breaking new ground there. And so, maybe you can start like how much did you raise with this offering? I believe it just recently ended earlier this month, right?
+
+Radko: Yes, the offer period ended Monday last week, on the 8th of July, and we haven’t announced the final number yet, but now, it’s relatively clear that it is 2.2 million euros raised.
+
+Peter: Okay, so I’m curious, maybe just one thing as an aside, I noticed that US investors were not able to participate. Why couldn’t US investors participate in that?
+
+Radko: Because we have not registered the prospectus with the SEC, that’s simply the reason. We could have done a Reg D registration, for example, which would allow us to accept accredited investors, qualified investors, but we already had quite a good deal of complexity with the whole prospectus dealing with the request from the German regulator that we wanted to at least reduce the complexity in this part.
+
+For the next offering, we could easily see ourselves also registering a prospectus with the SEC, but for a first project we felt like there was already enough complexity in there that we don’t need to also go the way to the SEC which would definitely have created more legal work and would have slowed down the project.
+
+Peter: Not to mention it would have been more expensive. If you’re not raising $50 million then that would make it a bit more challenging. So then, I’m curious about the tokens now, are investors able to start trading these tokens and what do the tokens represent?
+
+Radko: We call the tokens BB1 tokens, BB1 standing for Bitbond 1 and we plan to do further token offerings in the future. Each token has a face value of one euro and represents a share in the bonds that we have issued. So when you hold a token, you have a partial ownership in the bonds that we issued. The ownership of this token entitles you to receiving the coupon payments that we’re paying.
+
+We have two types of coupons on this bond. One is a 4% per year fixed coupon that is paid out quarterly, so every three months we’re paying 1% to the token holders. And then we have a variable coupon which is 60% of the pre-tax profit of the investments that we’re doing from the proceeds and this is paid one time per year, once the financial statements of the issuer are finalized. And so, on 1st of October, the first coupon payment of the 1% quarterly coupon will be paid and everybody who holds the BB1 token on the 1st of October 2019 will receive the coupon payment.
+
+After that, if you decide to sell your tokens in the secondary market, they will exchange hands and then in the next payment coupon payment date which will be the 1st of January, the people who hold the BB1 token then will receive the coupon payments. You asked about the secondary market, so there are two ways, or actually three ways how you can trade.
+
+First of all, you can trade in a truly peer-to-peer fashion so if you, Peter, decided not to buy the BB1 token in the primary market, you could tell me, hey, Radko, I really want to hold a couple of BB1 tokens, do you want to sell them to me. So, I could sell you, I don’t know, ten BB1 tokens and we could literally send them from my phone to your phone and this is one of the truly revolutionary aspects about the security that it can be traded peer-to-peer or over the counter, as you would say it in the securities world, without involving any third parties; no bank, no custodian, no third party, no intermediary would need to be involved in that transaction so that’s one way to trade them.
+
+The other way to trade them is through the so-called Stellar Decentralized Exchange. We have issued our token on the so-called Stellar blockchain, the same blockchain that we use for payment processing on the Bitbond platform and the Stellar protocol has integrated a so-called decentralized exchange which is an exchange where everybody who holds an asset that has been issued on the Stellar blockchain can use it and put up sell or buy orders. It’s not a real exchange in that sense that there is an anonymous matching of counterparties.
+
+It functions more like black box, someone wants to sell something, they create a sell offer and this is now visible in the Stellar blockchain and there are wallets that can display these buy and sell orders and you can decide to buy, for example, at that offer. We expect that there will be some trading going on on this platform. The third way to trade the token will be through bigger exchanges. We have signed agreements with two relatively big exchanges where we will be listing the token.
+
+These are exchanges that currently operate only as cryptocurrency exchanges and they are, at the moment, in an approval process from a regulatory standpoint, you will also be allowed to list securities because from a regulatory standpoint there’s a relatively big difference between cryptocurrencies and securities and so they are filing and expect to receive approval to list securities within the next three to six months. Once that happens with these two exchanges, we will list the token and these are pretty big exchanges where we expect a significant trading volume also in the Bitbond security token.
+
+Peter: Okay, we’re almost out of time, but there’s two more questions I wanted to get out. Like when you want to raise money again, you’re going to go into another STO, or do you feel like you may end up raising money in the traditional way? I mean, how do you feel…like now that you’ve gone through this and you’ve put a massive amount of work in to make this happen, is this going to be your main mode of raising money going forward?
+
+Radko: I don’t think it will be the only mode. I think it will be one out of two or three sources of capital going forward. Right now, we’re negotiating a relatively big credit line with a bank which is our kind of next step in our refinancing of our loan originations, but then after that, I could very well see ourselves going into the next security token offering because we have learned so much in the process and our goal is actually to get a rating on the BB1 token because this is an unrated product.
+
+I think that when we get a rating on top of that, the next offering will be again easier because we will be not a first time issuer anymore, but a second time issuer with a rating which will allow us to access other sources of capital, including institutional investors. Right now, the 2.2 million that we raised was purely from retail investors.
+
+Just one final aspect, the fact that we’ve learned so much in the process also led to the fact that a lot of other companies approached us, were asking whether they could use the expertise and the technology that we’ve built for our STO and we’re actually working together with other companies who are using the very concept that we have defined from a technical and a legal standpoint in order to raise capital. So, we’ve actually also introduced a second revenue stream to our company based on what we’ve learned.
+
+Peter: That’s good because I’m sure that was a lot of time and effort and expense so it’s nice to be able to actually leverage that. So anyway, last question then, what’s on the horizon? How are you growing Bitbond, what’s next for you guys?
+
+Radko: So right now, we have the capital available from the STO and potentially from the bank financing that we are about to close. The next big step for Bitbond will be to further scale the demand on our platform and we’re currently in the process of talking to a lot of potential partners on the origination side.
+
+This includes comparison sites, this includes e-commerce marketplaces and this includes banks who know that they themselves can provide a good loan product to the SME customers that they have, but they want to serve them and we’re working together with some banks that are in the process of setting up a partnership with us where they will be referring SME customers to Bitbond when they need financing. This is one of our next important steps.
+
+Peter: Interesting, it’s fascinating. I really appreciate you coming on the show today, Radko, you’ve broken some new ground here for the fintech world.
+
+Radko: It’s been a pleasure, thank you so much for having me.
+
+Peter: Okay, see you.
+
+Radko: Cheers.
+
+Peter: You have to take your hat off to Radko and the team at Bitbond really for the groundbreaking work they have done. They certainly have not done this the easy way and they’ve done all of this innovation under the watchful eye of the German financial regulators. So, clearly, they have done things carefully and, you know, they’ve broken new ground, as I said.
+
+I’ll be very interested to see how this all develops whether they really maintain this security token offering as a way for them to continually raise money, or whether this was just a one off thing. Regardless, we were talking afterwards that…Radko was saying there’s like 60 applications now pending at BaFin for doing something similar to what Bitbond have done but I said, there’s only going to be one that’s first and that was them.
+
+Anyway on that note, I will sign off, I very much appreciate your listening and I’ll catch you next time. Bye.
+
+Today’s show was sponsored by LendIt Fintech Europe 2019, Europe’s largest fintech event for lending and digital banking. It’s taking place on the 26th and 27th of September in London at the Business Design Centre. Lending and banking are converging, LendIt Fintech Europe delves deeply into this new world bringing you the latest developments in the most important areas of fintech. LendIt Fintech, lending and banking connected. You can find out more by going to lendit.com/europe.

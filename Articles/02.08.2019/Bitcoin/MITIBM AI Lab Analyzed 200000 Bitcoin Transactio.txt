@@ -1,0 +1,29 @@
+DATE:  02.08.2019, 13:00:14
+TITLE: MIT-IBM AI Lab Analyzed 200,000 Bitcoin Transactions. Only 2% Were Labeled ‘Illicit’
+URL:   https://www.coindesk.com/mits-ai-lab-crunched-200000-bitcoin-transactions-only-2-were-illicit
+
+Blockchain analytics firm Elliptic collaborated with researchers from the Massachusetts Institute of Technology (MIT) and IBM to publish a public dataset of bitcoin transactions associated with illicit activity.
+
+The group’s study detailed how researchers at the MIT-IBM Watson AI Lab used machine learning software to analyze 203,769 bitcoin node transactions worth roughly $6 billion in total. The research explored whether artificial intelligence could assist current anti-money laundering (AML) procedures.
+
+Only 2 percent of the 200,000 bitcoin transactions in the data set were deemed illicit as part of Eliptic’s initial work. While 21 percent were identified as lawful, the vast majority of the transactions, roughly 77 percent, remained unclassified. (To date, there have been an estimated 440 million bitcoin transactions since the network’s launch in 2009.)
+
+To be clear, the 2 percent comes from an Elliptic data set that was previously not public and the figure was merely affirmed by the MIT researchers’ analysis. The data point is in line with a study from competing analytics firm Chainalysis, which estimated just 1 percent of bitcoin transactions in 2019 were known to be associated with illicit activity.
+
+Since Elliptic is frequently hired by law enforcement agencies around the world to identify illegal activities using cryptocurrency, this research aimed to identify patterns that can help distinguish illicit usage from lawful bitcoin usage, especially among unbanked individuals or other unknown entities.
+
+“A big problem with compliance, in general, is false positives. A big part of this research is minimizing the number of false positives,” Elliptic co-founder Tom Robinson told CoinDesk. “The key finding is that machine learning techniques are very effective at finding transactions that are illicit.”
+
+Sometimes, Robinson added, software was able to find patterns that would be difficult to describe yet still matched with known entities, based on pre-existing data from darknet markets, ransomware attacks and other criminal investigations.
+
+Following the academic study, Elliptic made the same dataset public to encourage open-source contributions.
+
+“On the AML side, we are sharing our early experiments with domain experts to solicit feedback,” IBM researcher Mark Weber told CoinDesk, adding:
+
+“We are also hoping the release of the Elliptic Data Set inspires others to join the effort to help make our financial systems safer by developing new techniques and models for AML.”
+
+CNBC reported in April that surging demand for U.S. $100 bills was likely driven by a rise in global criminal activity. A 2017 report by the American Institute for Economic Research, estimated that “more than a third of all US currency in circulation is used by criminals and tax cheats.”
+
+Update (22:00 UTC, Aug. 6): The title of this article has been modified and language has been added to clarify that the 2 percent figure was calculated in Elliptic’s initial work, and not in the subsequent analysis involving MIT-IBM Watson AI Lab.
+
+MIT image via Shutterstock

@@ -1,0 +1,27 @@
+DATE:  10.04.2019, 13:02:13
+TITLE: New Experiments Could Allow Bitcoin Traders to Locate Price Bottoms
+URL:   https://www.newsbtc.com/2019/04/10/experiments-bitcoin-price-bottoms/
+
+Arithmetic researchers Willy Woo and David Puell might have pulled off methods to realize bitcoin price bottoms.
+
+In their latest tweetstorm, the cryptocurrency analysts shared two experiments after analyzing the bitcoin’s price action relationship with a time-value relating to how long an investor held their coins. Woo’s experiment was about finding Cumulative Value-days Destroyed (CVDD), a method to track the total value-time destroyed as one holder transferred bitcoin’s ownership to another holder. On the other hand, Puell’s experiment focused on finding the Transferred Price and Balanced Price by using the coin supply as one of the primary metrics.
+
+Introducing Cumulative Value Days Destroyed (CVDD) and Balanced Price. New experimental models using the early metric of Bitcoin Days Destroy. Check @kenoshaking's handle very shortly for Balanced Price, I'll dig into CVDD here. pic.twitter.com/avWRxBRu3d — Willy Woo (@woonomic) April 9, 2019
+
+After putting those measurements in a mathematically jargoned mix, both Woo and Puell found their “accurate” version of bitcoin bottoms as output. Or at least, the range that saw the maximum accumulation at the apex of a bitcoin price downtrend.
+
+The Experimental Outputs
+
+The CVDD output came too close to the recent bitcoin price bottoms, indicating that Woo was successful in designing a formula to predict potential price depths in the future. Though the experiment was still in work, the too-good-to-be-true accuracy between the bitcoin price action and the CVDD hinted that Woo’s study was heading in the right direction.
+
+“When coins move from one investor to another, the transaction carries both a USD value and also destroys a time value relating to how long the original investor held their coins,” explained Woo. “CVDD tracks the cumulative sum of this value-time destruction as coins move from old hands into new hands as a ratio to the market age.”
+
+On the other hand, the outputs achieved during the Transferred Price experiment were subtracted by the realized price. The result was a balanced price, measured by the difference between two long-term bitcoin moving averages.
+
+“It goes without saying that this evokes Delta Price in both calculation and visualization,” wrote Puell. “We believe that Delta Price serves as a technical analysis proxy of Balanced Price. The former seems to be agile enough to catch exact bottoms — the “wicks” — while the latter catches the full accumulation level before the bull run, also defining the brief moment when price remains below it as “capitulation.”
+
+Do These Experiments Prove Bitcoin’s Bullishness?
+
+Analyzing CVDD and Transferred Price experiments from a trader’s lens, one can notice that the output adjusted itself according to the bitcoin price action. It was not a method to examine bitcoin’s bullish potential. On the contrary, they appeared more like a method using which traders could predict bottoms and adjust their positions accordingly. And that they did.
+
+“CVDD has hit the historical Bitcoin price bottoms with remarkable accuracy,” confirmed Woo. Puell’s experiment also indicated the same – an accurate relationship between the bitcoin price supports and the balanced price results.

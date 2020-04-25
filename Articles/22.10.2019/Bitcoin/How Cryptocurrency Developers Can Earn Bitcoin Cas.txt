@@ -1,0 +1,49 @@
+DATE:  22.10.2019, 19:30:04
+TITLE: How Cryptocurrency Developers Can Earn Bitcoin Cash With REST APIs
+URL:   https://news.bitcoin.com/how-cryptocurrency-developers-can-earn-bitcoin-cash-with-rest-apis/
+
+How Cryptocurrency Developers Can Earn Bitcoin Cash With REST APIs
+
+A recent video by Chris Troutner, Senior Javascript Developer at Bitcoin.com, points out a problem with anti-profit seeking approaches to crypto development, and how devs can incentivize growth and attract business using REST APIs to earn BCH. Without incentives, Troutner notes, many promising services and applications run the risk of succumbing to an economic tragedy of the commons, when user demand surpasses developer ability to accommodate these needs.
+
+Also Read: Running Bitcoin Cash: An Introduction to Operating a Full Node
+
+Profit Protects Quality
+
+There’s nothing wrong with free, but at the end of the day, everybody has to eat. In the cryptosphere this fact of reality shouldn’t be looked at as an obstacle, but rather an opportunity for growth. This is the view of Chris Troutner, who in his latest video expounds on the possibilities of economies of scale within the Bitcoin Cash ecosystem.
+
+A REST API is a ubiquitous type of API (application program interface) used all over the internet today and on popular sites like Amazon and Twitter. As Troutner says in his presentation, the acronyms aren’t all that important. An API is simply a “way for a computer on the internet to talk to another computer on the internet.”
+
+Some examples of free APIs in the BCH space are Electrumx servers, Cashshuffle, SLPDB, Bitdb and Rest.bitcoin.com. While free APIs are a wonderful thing, there are also risks when demand outruns scalability. Speaking of Rest.bitcoin.com, the developer notes:
+
+It’s not that people aren’t using the service, it’s that too many people are using the service and we don’t have a pro tier. We don’t have a way to move people from the free service to a paid service so that the end users can pay for the services they’re using.
+
+The reasons for incentivizing REST APIs are myriad, and it’s not just about making a buck. According to Troutner, “What this tragedy of the commons is specifically with REST APIs is that they’re open to abuse and they’re open to disproportionate use.” He notes that serious developers trying to create a great user experience and make crypto accessible to all have to compete with malicious entities and less experienced developers, all utilizing the same free infrastructure. For a business looking to build on a solid foundation, this presents significant risk. Troutner’s proposed solution is to wrap a full BCH node around a REST API, and charge a small fee to serve multiple people. The developer elaborates:
+
+Now all of the sudden, you have 30 people paying one dollar, instead of 30 people paying 30 dollars to run their own [full node] infrastructure. So that’s a huge economy of scale … Businesses need to focus on their core business value, and running infrastructure like full nodes is not a part of that.
+
+Payment for APIs via BCH
+
+One proposed way users could access REST APIs via bitcoin cash is through leveraging JSON web tokens (JWT). JWTs are access-granting credentials. The long and short of Troutner’s demo in the video, and proposed solution to the ‘tragedy of the commons,’ is as follows:
+
+An API (such as for a crypto wallet) has a limit imposed on running requests.
+
+In order to access the next tier of usage allowance, the user must provide a JWT credential.
+
+To obtain the JWT, users can pay the REST API in BCH.
+
+Things like subscription duration, refund options, rollover credits and other parameters can be put in place on the JWTs as well, increasing options for developers. The entire process can be automated, according to Troutner.
+
+Permissionless Profit
+
+For some reason, many in the crypto space seem to view profit as an evil boogeyman. A strange thing considering the whole mission is to make sure the world is spending and using crypto as money. Troutner provides the code used for his demo via his organization, the Permissionless Software Foundation, on Github, and a couple other sources detailed in-depth in the video. Hardly the move of a heartless, greedy profiteer.
+
+The confusion in the crypto space surrounding profit seems to often take the form of conflation. The confusion of “not free” with “not fair.” The truth is, there can be world of incentivized development happening via open source software and code, and all degrees of usability and tiered access. This kind of robust environment can only happen in one context, though: a free and permissionless (non-authoritarian) open market. As Troutner puts it:
+
+The fix to the typical tragedy of the commons scenario is to create a marketplace.
+
+What do you think about Chris Troutner’s proposed incentives for devs? Let us know in the comments section below.
+
+Images courtesy of Shutterstock, fair use.
+
+Did you know you can verify any unconfirmed Bitcoin transaction with our Bitcoin Block Explorer tool? Simply complete a Bitcoin address search to view it on the blockchain. Plus, visit our Bitcoin Charts to see what’s happening in the industry.

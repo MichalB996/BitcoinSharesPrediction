@@ -1,0 +1,47 @@
+DATE:  08.01.2020, 14:39:27
+TITLE: Making Regulatory Progress With Bitcoin, ETFs and Pricing -...
+URL:   https://bitcoinmagazine.com/articles/making-regulatory-progress-bitcoin-etfs-pricing
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+Since 2013, one of the ongoing conversations between U.S. regulators and digital asset market participants has been the attempt to get a bitcoin exchange-traded fund (ETF) approved. By my count, there have been 24 ETF application listings filed, with all but one either rejected by the Securities and Exchange Commission (SEC) or withdrawn (the United States Bitcoin and Treasury Investment Trust from Wilshire Phoenix continues to go through the SEC’s approval process).
+
+Each of these ETFs has taken a unique crack at satisfying the requirements demanded by the SEC of ETFs, from reliance on different underlying assets — like “physical” Bitcoin and futures traded on regulated exchanges — to different underlying index methodologies. Unfortunately, none of these combinations has managed to satisfy the regulator’s demands, which from our reading of regulatory filings as well as public comments from members of the SEC, continues to evolve as the asset class matures.
+
+The industry has been working directly with regulators, helping them to understand issues they currently confront. What follows is an exploration of the history of the SEC’s ETF rejections, the current state of the conversation around bitcoin prices, and what can be done to move the conversation forward.
+
+The Importance of a Bitcoin ETF
+
+ETFs offer many advantages to traditional investment vehicles, like open– and closed-ended funds. These advantages include liquidity, access to unique asset classes and investment strategies, portfolio diversification, tax efficiencies, ability to margin and low costs. Specifically, for a bitcoin ETF, benefits include investor protections, tax benefits and asset class access.
+
+A bitcoin ETF would offer investors the protections and disclosures of federal securities laws that are not afforded through existing bitcoin ownership options. Furthermore, ETFs bring with them transparency in underlying asset ownership through a net asset value (NAV), intra-day liquidity and simplicity in tax reporting. Finally, the U.S. operates some of the most trusted and liquid markets in the world. As a globally respected regulator, the SEC’s approval could be viewed as a signal to other financial regulators around the globe.
+
+The SEC’s Objections Thus Far: Price Manipulation and Fraudulent Activity
+
+In the disapproval orders for bitcoin ETFs and in public comments, the SEC and its members have consistently cited several issues. These concerns largely focus on fraudulent activity and market manipulation in underlying markets. The SEC has said that these issues can be overcome with two important steps: by surveillance-sharing agreements with a regulated market of significant size; or by showing that the bitcoin market is isolated from fraudulent and manipulative activity, which, to date, no applicant has successfully done.
+
+As a clarifying point, bitcoin does not currently trade on a “national securities exchange,” an exchange registered with the SEC. In the U.S., bitcoin currently trades on digital asset exchanges that are regulated by the Financial Crimes Enforcement Network (FinCEN), a division of the U.S. Treasury, by various states through Money Transmitter Licenses or via a BitLicense by New York State Department of Financial Services.
+
+Bitcoin futures are listed and cleared on the CME, a U.S.-registered designated contract market (DCM) and derivatives-clearing organization (DCO). The trading and clearing of bitcoin futures are regulated by the Commodity Futures Trading Commission (CFTC). The CME is regulated and engages in market surveillance and participates in market surveillance-sharing agreements.
+
+The First Step in a Reliable Price: Finding the Real Volume
+
+The concern over a reliable price has been a common refrain from the SEC. Speaking at Consensus: Invest in November 2018, SEC Chairman Jay Clayton stated, “The prices retail investors are seeing are the prices they should rely on and free from manipulation — not free from volatility, but free from manipulation.” In order to arrive at a reliable price, you have to start with economic trading between a real buyer and a real seller.
+
+In March of 2019, the SEC published a report from a meeting with Bitwise Asset Management, a sponsor of one of the bitcoin ETFs, detailing the analysis of trading of bitcoin on various digital asset exchanges. As a result of their analysis, Bitwise alleged that 95 percent of reported trading volume was “fake” or the result of wash trading. The report offered that its ETF sourced prices from “real” spot markets, which exhibited certain characteristics indicative of markets that were free from manipulation or fraudulent trading practices. The SEC saw differently and rejected the proposed rule change in October 2019.
+
+Analysis and testing of exchange integrity has advanced since then, incorporating factors not contemplated in the original Bitwise report. Through vetting, we can identify spot markets that do not report fake volume, and that have the policies and procedures in place in order to prevent wash trading or other methods of price manipulation.
+
+The Next Steps: Lead-Lag Relationships
+
+In its disapproval notice of the Bitwise Bitcoin ETF Trust, the SEC brought up a new issue not addressed in previous ETF denials — the relationship between prices on digital asset exchanges with “real” volume and those that do not currently pass vetting standards, i.e., “lead-lag” relationship. As stated in that denial, “… mere belief that reported trading volume is questionable is no substitute for data-driven analysis of how other market participants would adjust their pricing in response to prices on other platforms, even if they agree that those platforms have predominantly — but not entirely — fake volume.”
+
+Price discovery is an important element in financial markets and becomes critical around the globally fragmented trading of bitcoin. A lead-lag study might help determine whether bitcoin markets are resistant to manipulation and which digital asset exchanges have market activity of real economic substance, and thus bring the market closer to a reliable bitcoin price that can be trusted by regulators and investors.
+
+Lead-lag studies are well underway. In the coming months, regulators and market participants can expect greater clarity on whether venues that engage in questionable activity have a tangible impact on prices; if they don’t, this could be highly promising for ETF, product and index creators.
+
+Either way, a lead-lag analysis will help illuminate the current market structures of this asset class and further the discussion with the asset management industry, regulators and crypto native investors not only in the U.S. but around the world.
+
+This is an op ed by Greg Cipolaro. Views expressed are his own and do not necessarily reflect those of Bitcoin Magazine or BTC Inc.

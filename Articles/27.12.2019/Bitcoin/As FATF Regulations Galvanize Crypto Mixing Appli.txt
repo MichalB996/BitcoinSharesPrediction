@@ -1,0 +1,37 @@
+DATE:  27.12.2019, 18:28:58
+TITLE: As FATF Regulations Galvanize, Crypto Mixing Applications Are Targeted
+URL:   https://news.bitcoin.com/as-fatf-regulations-galvanize-crypto-mixing-applications-are-targeted/
+
+As FATF Regulations Galvanize, Crypto Mixing Applications Are Targeted
+
+Since the inception of Bitcoin, governments have tried to keep track of all the transactions taking place on the public blockchain. As the years progressed, authorities have shown a distaste for cryptocurrency mixing applications like Coinjoin. On Dec. 19, a Binance customer couldn’t withdraw his bitcoin because the exchange told him he used the mixing wallet Wasabi. Eventually, the customer got his funds back, but only after promising not to deposit to a tumbling wallet again.
+
+Also Read: European Crypto Exchange Bitbay Ends Monero Trading due to Anonymity Features
+
+Coin Tumbling Users Beware
+
+The battle for cryptocurrency anonymity is upon us and governments are invading the very decentralized frameworks designed to bypass their so-called authority. Last Thursday, a Binance customer explained on Twitter that his funds were frozen because he was withdrawing to a wallet that mixed his UTXOs. “Bitcoiners be warned: this is what happens if Binance finds you withdrawing to Wasabi wallet,” the Binance client tweeted. The customer dubbed @Bittlecat said he wasn’t surprised to find out his transactions were tracked, but stressed that he was very concerned that Binance knew he was sending to Wasabi. After telling the public about the incident, Bittlecat said that he got his BTC back. “I got my [satoshis] back, but not without promising Big Brother I wouldn’t mix those UTXOs,” he remarked. Bittlecat added:
+
+It is really sad that [Coinjoin] is seen as criminal activity, and I’m glad that we are discussing this.
+
+Bittlecat’s tweet, of course, quickly made its way across social media and crypto forums, becoming a viral topic in a matter of no time. Binance CEO Changpeng Zhao (CZ) replied to Bittlecat’s tweet and disclosed that the exchange operates under regulatory guidelines. “Binance SG operates under the requirements set forth by MAS and our MAS regulated partner, Xfers. Hence there are AML CFT controls set in place,” CZ responded. “Not something for us to decide [and] I believe they have already reached out to you to clarify and explain.” The Wasabi user reacted to CZ’s response and said that he expected the CEO to “decentralise the blame.” “How does this regulation make sense, when Binance has already KYC-ed me?” he asked. “Mixing is not illegal, it’s privacy.”
+
+Governments Dislike Crypto Mixers and UTXO Tumblers
+
+A great number of crypto proponents believe that issues like the Wasabi/Binance problem are just the start of a large uphill battle for privacy. Governments worldwide and the Financial Action Task Force (FATF) are preparing to crack down on exchanges after FATF galvanized the fact that the “Travel” rule will certainly apply to cryptocurrencies. For years now, governments have targeted tools like BTC mixers and tumblers (Coinjoin-based) to fight against so-called money laundering and terrorist financing. For instance, in January 2017, a group of officials from Europol, Interpol, and the Basel Institute on Governance met in Doha, Qatar and discussed the topic of crypto mixers. During the two-day event, participants attending the anti-crime focused conference had a slew of recommendations including dismantling crypto tumbler services. The Basel Institute’s press statement insisted:
+
+All countries are advised to take action against digital currency mixers/tumblers. Such services are designed exclusively to anonymize transactions and to make it impossible for law enforcement agencies to detect and trace suspicious transactions. The existence of such companies should not continue to be tolerated.
+
+Since then, law enforcement officials have taken action against digital currency mixers. Furthermore, a few online mixing services on clearnet and the deep web decided to shut down services in fear of criminal charges. For instance, after the takedown of the two darknet marketplaces Alphabay and Hansa, the extremely popular Bitmixer.io voluntarily closed operations in July 2017. Two years later, in May, the operation Bestmixer.io was seized by Europol and the Dutch Fiscal Information and Investigation Service (FIOD). At the time, Dutch authorities accused the Bestmixer administrators of mixing 27,000 BTC. A month later, in June 2019, the BTC tumbling service Bitcoin Blender voluntarily bowed out and closed its operations.
+
+After a number of digital currency mixer/tumbler services bit the dust, cryptocurrency developers have created in-wallet platforms that allow users to mix UTXOs in a noncustodial fashion. For BTC, there are popular mixing wallets like Samourai and Wasabi wallet and bitcoin cash (BCH) users have access to Cashshuffle. Moreover, BCH developers are improving Cashshuffle with a protocol called Cashfusion. Additionally, as governments and regulators have threatened exchanges who don’t comply with AML/KYC guidelines, a myriad of trading platforms have delisted cryptos with privacy-centric characteristics like monero (XMR), and zcash (ZEC). Officials from Japan pressured Japanese exchanges to delist privacy coins and a number of other international exchanges have dropped digital currencies that provide anonymity.
+
+FATF Rules Will Further Disrupt Privacy Advocates and the Anonymous Crypto Applications They Use
+
+People believe exchanges delisting privacy coins, law enforcement agencies cracking down on mixers, and the recent issue with a Binance customer using Wasabi is just more signals of a FATF-driven agenda against cryptocurrencies. Individuals and organizations knew big changes were coming after the June G20 leaders’ summit ended in Japan. At the time, G20 participants including leaders from the EU, U.S., Germany, Japan, South Korea, the U.K., and India reaffirmed that the FATF rules would apply to the digital currency ecosystem. By this spring of 2020, the whole cryptocurrency environment may look entirely different due to the FATF regulations and of course anything to do with privacy, like using mixers like Wasabi, will be frowned upon.
+
+What do you think about Binance freezing a customer’s BTC because they used the Wasabi wallet to mix UTXOs? Let us know what you think about the FATF-driven agenda against anonymity and cryptocurrency usage? Do you think regulations will get much worse? Let us know what you think about this subject in the comments section below.
+
+Image credits: Shutterstock, Binance and Wasabi Logos, Fair Use, Wiki Commons, and Twitter.
+
+Verify and track bitcoin cash transactions on our BCH Block Explorer, the best of its kind anywhere in the world. Also, keep up with your holdings, BCH, and other coins, on our market charts at Bitcoin.com Markets, another original and free service from Bitcoin.com.

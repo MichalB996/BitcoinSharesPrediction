@@ -1,0 +1,37 @@
+DATE:  10.12.2019, 13:28:36
+TITLE: Bitcoin-hungry hackers broke their own decryption tool, analysts warn
+URL:   https://thenextweb.com/hardfork/2019/12/10/bitcoin-hackers-ryuk-ransomware-decryption-encryption-broken/
+
+Cybersecurity researchers warn that paying Bitcoin BTC to retrieve files locked by the prolific Ryuk ransomware may still result in data loss.
+
+This means that Ryuk‘s latest victims are stuck between a rock and a hard place. If they refuse to send their attackers Bitcoin, they’ll lose access to their data altogether, but if they pay, the hackers will provide them with a decryption tool that doesn’t work.
+
+Software company Emsisoft told Hard Fork that the attackers themselves are responsible for breaking their own encryption tool with an update.
+
+“Obviously, we’re hoping to get the word out about this as quickly and widely as possible so that affected organizations can avoid data loss,” said Emsisoft via email.
+
+Ryuk now cuts off one too many bytes during decryption
+
+The firm explained that in one of the latest versions of Ryuk, attackers made changes to the way it calculates the length of certain files. This has created unexpected consequences during decryption.
+
+“As a result, the decryptor provided by the Ryuk authors will truncate files, cutting off one too many bytes in the process of decrypting the file,” Emsisoft said in a blog post. “Depending on the exact file type, this may or may not cause major issues.”
+
+Researchers said that in the best case scenario, the byte that was cut off is unused, therefore unnecessary, and could even be decrypted just fine.
+
+However, in virtual disk type files (such as VHD/VHDX), as well as many database files (such as Oracle’s), that last byte stores important information. It’s common for larger, high-value target networks to feature these types of files.
+
+This means that those files will be damaged by Ryuk‘s decryption tool, and will fail to load properly even after they’ve been unlocked by the tool provided by the attackers.
+
+Being hit is still very costly, so make frequent backups
+
+Ryuk has hit hospitals, state-owned oil refineries, nursing homes, schools, private corporations, and government institutions across the world over the past year, demanding hundreds of millions of dollars worth of Bitcoin in exchange for access to critical computer systems.
+
+Unfortunately for those who find themselves struck by Ryuk, there’s currently no way to retrieve files without paying up. Previous analysis run on the malware shows that perps scale their Bitcoin ransoms dependant on the size of the target.
+
+As such, Emisoft advises Ryuk victims to make copies or backups of any data that’s been encrypted, especially considering that the decryption tool provided by the attackers will reportedly delete files it thinks have been properly unlocked.
+
+That said, creating regular backups of data is advisable in any sense, as it will dampen the effect of being hit by ransomware in general.
+
+It should be noted that while Emsisoft has released many free decryption tools for other ransomware strains, the service it offers to Ryuk victims is a paid one.
+
+“A final word of advice: prior to running any ransomware decryptor – whether it was supplied by a bad actor or by a security company – be sure to back up the encrypted data first. Should the tool not work as expected, you’ll be able to try again,” said Emsisoft.

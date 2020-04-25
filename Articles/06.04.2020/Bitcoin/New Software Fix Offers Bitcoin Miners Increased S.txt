@@ -1,0 +1,39 @@
+DATE:  06.04.2020, 08:00:00
+TITLE: New Software Fix Offers Bitcoin Miners Increased Security
+URL:   https://www.coindesk.com/new-software-fix-offers-bitcoin-miners-increased-security
+
+The company behind the world's sixth-largest bitcoin mining pool has released software that aims to patch several security problems with such pools.
+
+The software, included in the BOSminer software suite, is the first working implementation of Stratum V2, the protocol that Prague-based startup Braiins released a specification for in 2019. With this software release, the company’s effort to fix bitcoin mining is no longer theoretical; it's been turned into functioning code.
+
+"The importance of it is that it's the first real-life code or product using V2, so real bitcoin is being mined by using it," Braiins co-founder and co-CEO Pavel Moravec told CoinDesk.
+
+The most profitable way to mine bitcoin is not to do it alone, but to hook up to a so-called mining pool, combine efforts with other miners, and get paid for the total computing power they contributed.
+
+But there are issues with Stratum, the industry standard used to connect miners to pools since 2012. Braiins aims to fix them with Stratum V2.
+
+Braiins co-founder and co-CEO Jan Capek stressed that miners gain security and efficiency in terms of bandwidth if they run the software.
+
+This might seem like a meager consolation to miners, who have taken a hit to their paycheck since bitcoin's (BTC) price dipped. Not to mention that bitcoin's halving is approaching, which will cut their rewards in half.
+
+Slush Pool (operated by Braiins) now has the software set up so miners can connect to them in this new way, providing better privacy for them and building in protections from so-called hijacking attacks, where other entities temporarily steal their hashing power.
+
+If all goes according to plan, the protocol could gain more adopters soon. The EMCD mining pool, for example, is experimenting with the protocol.
+
+Still to come
+
+While the new release pushes important mining changes forward, the full specification has not been turned into code yet.
+
+The community can still provide feedback on the specifications, Moravec said. If Stratum V2 is to become an industry standard, the community needs to agree with the included changes.
+
+While this initial version brings security benefits to miners, it's important to note that the most exciting change, "job negotiation," which could have positive consequences for bitcoin as a whole, is not yet implemented in this software.
+
+Job negotiation, if adopted, could return "voting" power over Bitcoin protocol upgrades, which mining pools currently have, back to individual miners.
+
+By doing so, it could help decentralize mining in one sense by redistributing power from pools to the miners they are composed of.
+
+(However, there are other ways in which the bitcoin ecosystem is still centralized. For example, only a few companies manufacture the hardware run by miners to create bitcoin.)
+
+The feature will be added at a later date, which Braiins did not specify.
+
+To make job negotiation work most efficiently, Capek said a "template distribution interface" needs to be added to Bitcoin Core, by far the most popular bitcoin full node software.

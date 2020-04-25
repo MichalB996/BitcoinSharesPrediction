@@ -1,0 +1,29 @@
+DATE:  16.09.2019, 13:00:50
+TITLE: Sparkswap Desktop: Bitcoin in Lightning Wallets
+URL:   https://bitcoinmagazine.com/articles/sparkswap-desktop-lets-users-deposit-bitcoin-directly-into-their-lightning-wallets
+
+Ring in the new bitcoin halving cycle the right way: with us!
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+Lightning service provider Sparkswap now features a desktop application with a first-of-its-kind killer feature: USD-to-bitcoin purchases that deposit sats directly into a user’s Lightning wallet.
+
+Dubbed “Sparkswap Desktop,” the new product “allows consumers for the first time ever to buy bitcoin directly into their Lightning wallets using USD,” according to a press release shared with Bitcoin Magazine. To use the feature, users wire a fee-free ACH transfer to a U.S.-domicile escrow account held by Sparkswap’s payment partner; from here, Sparkswap transfers the bitcoin into the user’s wallet using atomic swaps. This technique means that the process, while run centrally through Sparkswap, is completely noncustodial.
+
+“This is really an extension of the technology we’ve built previously — making it easier for non-developers to use and adding a trading pair that we find the most compelling. While this specific app has been in the works for a couple of months, it is a step toward goals that we’ve had since we started almost two years ago,” Trey Griffith, Sparkswap’s founder, told Bitcoin Magazine.
+
+Sparkswap’s existing stack had its beta release in April 2019. Another first for the young company, the beta launch released the world’s first user-ready atomic swap exchange to the Bitcoin public. This beta, however, was limited to bitcoin and litecoin trades, while this most recent news opens the exchange to fiat liquidity as well.
+
+For now, Sparkswap Desktop will cap buying amounts at 0.04 BTC to work within the channel limits reinforced by many of the wallets and tools the application integrates with. Griffith said that Sparkswap’s team has it in mind to expand this limit “over time if there is demand for larger transactions.”
+
+“Pushing Toward a Noncustodial Financial System”
+
+Sparkswap Desktop is available for Mac, Windows and Linux. Griffith explained that it’s also compatible with any “existing LND instance.”
+
+“We’ve focused in particular on Zap Desktop and the Lightning App since they support Neutrino, which makes them easy to get started with, but it works with any instance of LND at or above version 0.7,” he said. “We’d like to support other implementations and platforms in the future, and we’re looking at ways we can make the integration with existing node providers even easier.”
+
+Founded in 2017, Sparkswap quietly wrangled $3.5 million in funding from Initialized Capital, Pantera Capital and Foundation Capital, among others, in 2018. This latest release, Griffith told us, is another notch in their belt as they work toward a more decentralized financial landscape.
+
+“We’re trying to build applications that we think are important and valuable to the Bitcoin community and take advantage of the unique properties that Lightning offers. We don’t have specific products or features that we’re ready to announce yet, but I think you’ll continue to see us pushing toward a noncustodial financial system.”

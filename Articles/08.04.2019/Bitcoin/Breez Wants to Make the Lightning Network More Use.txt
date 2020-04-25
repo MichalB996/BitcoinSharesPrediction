@@ -1,0 +1,93 @@
+DATE:  08.04.2019, 15:21:45
+TITLE: Breez Wants to Make the Lightning Network More User Friendly
+URL:   https://bitcoinmagazine.com/articles/breez-wants-make-lightning-network-more-user-friendly
+
+Ring in the new bitcoin halving cycle the right way: with us!
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+New announcements around Bitcoin’s Lightning Network have been coming almost nonstop lately, with new exchanges, wallets and other services popping up seemingly every day.
+
+Two weeks ago, Zebpay announced its Lightning integration. Last week, Lightning Power Users officially launched and Bitrefill released an improvement to its Thor service. Just this morning, Sparkswap announced the public beta of its Lightning-powered exchange platform.
+
+Now, there’s a brand-new wallet coming to market with a focus on ease of use. Today, Breez has announced that its mobile Lightning wallet is available in open beta.
+
+Hiding Lightning’s Complexity
+
+Perhaps the most unique attribute of Breez is that it doesn’t include an on-chain bitcoin wallet. In other words, it’s all Lightning.
+
+“Lightning only,” Breez CEO Roy Sheinfeld confirmed in an interview with Bitcoin Magazine. “This is one of the elements that simplifies the user experience.”
+
+Sheinfeld pointed to the fact that no bitcoin wallet management is necessary and users have a single balance — rather than both an on-chain and a Lightning balance — as examples of this simplification.
+
+Although on-chain funds cannot be stored in Breez, the app includes the ability to move funds from traditional, on-chain bitcoin wallets to the Lightning-based Breez via Submarine Swaps, which were popularized by Lightning Labs Infrastructure Lead Alex Bosworth.
+
+“Breez allows its users to add or remove funds via on-chain transactions,” said Sheinfeld. “We use Submarine Swaps to provide a simple user interface without requiring our users to manage another bitcoin wallet inside Breez.”
+
+Sheinfeld also explained how the complexities involved with opening and closing Lightning channels are hidden from users.
+
+“Opening a channel is seamless to the user,” he said. “When a user installs Breez, we automatically open a channel funded by our hub. We provide an lncli-like interface for advanced users for extended channel management.”
+
+Breez users also don’t need to worry about running a full node (if they trust Breez), as each user automatically runs a Neutrino node, which uses simplified payment verification (SPV), on their mobile devices. (Although it has the same name, this Neutrino node is unrelated to the controversial Blockchain analytics company that was recently acquired by Coinbase.)
+
+By default, users can only open channels with a Lightning hub operated by Breez.
+
+“Lightning transactions are executed when both user nodes are online,” explained Sheinfeld. “And, since payments are routed via the Breez hub — which is always online — there is no chance of misconduct between Breez users. Advanced users can open channels against other nodes, but since third-party watchtower services are not yet available, we do not recommend it.”
+
+Room for Improvement
+
+Of course, this may mean that users must trust Breez not to cheat. It is not a secure best practice to receive Lightning transactions without checking in on the blockchain from time to time, because the user on the other end of a Lightning channel could broadcast a lie about the state of the two parties’ Lightning channel balances.
+
+By periodically checking the blockchain for transactions related to the Lightning channel, a user can detect attempts to lie and then broadcast a different transaction to prove that the other person tried to withdraw bitcoin from the channel that wasn’t theirs to take. The user who tried to cheat then loses their share of the Lightning channel’s total balance as punishment.
+
+So, the drawback with Breez is that users are unable to securely receive bitcoin on the Lightning Network without checking in with the blockchain every now and then (unless the user is willing to simply trust Breez not to cheat).
+
+“Breez hub can close the channel when the user is offline and publish an old state to the blockchain,” explained Sheinfeld when asked about the level of trust users must put into Breez. “However, since the user runs a light node, the Breez hub can be penalized trying to do so. The risk is when the user is offline for days. Once third-party watchtowers are available, they can help mitigate it and completely reduce this trust.”
+
+It should also be noted that, while Neutrino is a massive improvement over old SPV models in terms of privacy, some data is still leaked to the full nodes that serve data to the light clients.
+
+“Neutrino clients still leak some information about a user’s wallet, since an adversary can potentially observe which blocks the client is downloading and find addresses that are reused across those downloaded blocks,” according to a Lightning Labs blog post on Neutrino. “To mitigate this, we’re exploring the use of Private Information Retrieval for blocks as mentioned above. Nonetheless, we believe Neutrino is still far better for user privacy than other mobile options.”
+
+However, these issues around privacy and trust are not specific to Breez and really stem from the Lightning Network being in the early stages of development.
+
+Acting as a Lightning Hub for Users
+
+The Breez hub is a key aspect of this Lightning wallet’s attempt at creating a user interface that is simple to use and easy to understand, and they’ll need to stake enough bitcoin in their hub to allow their users to transact on the network.
+
+“Users’ channels are private,” said Sheinfeld. “Currently, for each user we open a channel with one million satoshis capacity. We have hundreds of users in the closed beta and anticipate a few thousand soon after opening the beta. We try to minimize opening public channels to others’ hubs, and only maintain channels with well-connected hubs. We currently have 1.5 bitcoin in our public channels which we rebalance frequently.”
+
+In these early days, it will be extremely important for Breez to properly manage its hub’s position in the greater Lightning Network. If the Breez hub is not well connected, its users’ payments will fail and they won’t have the option to open a channel with another Lightning node or fall back to the blockchain to make the transaction.
+
+Of course, users can always use a Submarine Swap to move their funds to another bitcoin wallet if they’re unable to make a payment with Breez.
+
+According to Sheinfeld, this sort of model, where bitcoin wallets provide their users with a Lightning hub, is one way in which the Lightning Network itself is likely to increase its user base, at least in the first phase.
+
+“I think the next step would be to decouple the wallets from the hubs,” he added. “We at Breez are already working to provide the ability for our users to choose other hubs, similar to the internet ISP model. A mobile wallet still needs to provide services that are not related to operating a hub, such as mobile notifications, on-chain updates, Submarine Swaps and others.”
+
+In the past, there have been concerns that Lightning hubs (or even smaller Lightning nodes) could be targeted with regulations due to the view that they’re acting as money transmitters. When asked about this matter, Sheinfeld agreed there is reason to be worried about this.
+
+“I’m concerned regulators won’t understand our technology,” said Sheinfeld. “As a non-custodial service, we are not managing funds on behalf of our users. Our hub acts as a routing node. In that regard, it’s no different than an ISP or an internet provider.”
+
+Additional Features
+
+Breez also has additional features outside of its Lightning functionality.
+
+The wallet supports FastBitcoins.com for users who wish to add bitcoin to the app via a cash-based exchange, while a credit card-based model through a partnership with a currently unnamed third party is also in the works.
+
+“We really want to encourage users to spend bitcoin instead of converting them back to fiat, that’s why we are currently investing our efforts in expanding our marketplace,” said Sheinfeld.
+
+The marketplace Sheinfeld mentioned currently only includes Bitrefill, but Breez plans to add ln.pizza integration in the near future.
+
+“We’re always looking for serious Lightning merchants to work with us to provide a great Lightning-fast shopping experience,” added Sheinfeld. “There aren’t that many at the moment.”
+
+Breez also plans to partner with another third party to handle fiat off-ramps for merchants.
+
+“We started exploring with several vendors the ability to provide bitcoin to fiat conversion: this is a must-have for merchants,” said Sheinfeld.
+
+There is also a Breez card that allows users to make purchases at traditional payment terminals via near field communication (NFC).
+
+“Breez supports NFC, both using a device or via a Breez card,” explained Sheinfeld. “There are cases, like in a restaurant, when you don’t want or can’t hand out your phone to make a payment. In this scenario, it is much easier to use a card. You can give the card to someone else (like your child) to buy something, and since you need to approve the purchase in your device, you have full control on how the card is being used. The point behind the card is to demonstrate the bitcoin payments can be on-par with fiat when it comes to user experience.”
+
+Although Breez isn’t completely trustless or private, the app provides a glimpse into how much more user-friendly Lightning wallets could be once additional tools, such as watchtowers and an even more privacy-enhanced version of Neutrino, are available.

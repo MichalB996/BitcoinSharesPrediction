@@ -1,0 +1,31 @@
+DATE:  01.10.2019, 12:00:33
+TITLE: Bitcoin Network Experiences Slowest Block in 5 Years
+URL:   https://bitcoinist.com/bitcoin-network-experiences-slowest-block-in-5-years/
+
+News Bitcoin Network Experiences Slowest Block in 5 Years
+
+The Bitcoin (BTC) network produced an unusually slow block, taking 119 minutes to discover the block number. The anomaly is happening despite the record activity of miners.
+
+Slow Block May Be a Statistical Anomaly
+
+The Bitcoin network has a 10-minute block schedule, and so far keeps within the predetermined time, with only small fluctuations. But an unusual block at height 597,273 posed a significant challenge to miners.
+
+Block #597,273 was mined 119 minutes after its parent. This happened only 10 times in Bitcoin's history, last time in May of 2014. Assuming blocks come in 10 minutes in average, this interblock time has a 0.000679% chance of occurring. — Antoine Le Calvez (@khannib) September 30, 2019
+
+It is highly unusual that the block number was so difficult to discover. As of October 1, the Bitcoin collection of miners performed a total of 89 quintillion hashing operations each second. This means that for 119 minutes, each second produced this much possible answers, and only then discovered a number that fit the requirements for a block header.
+
+The next block was discovered immediately, within a minute. Some miners also attempt to optimize block number discovery by using probability, thus making the event of the “difficult” number even stranger.
+
+The explanations for the slow block are either a statistical anomaly, or a failure to achieve consensus and agree on the next block. The second explanation suggests that the Bitcoin chain may have split, but the fork monitor has not detected such an event.
+
+Bitcoin Lacks Emergency Difficulty Adjustment
+
+Slow blocks have happened for other networks, most notably Bitcoin Cash (BCH). The reason was that too few miners were producing blocks, and the difficulty had not adjusted downward. The Bitcoin network adjusts its difficulty every two weeks, and is currently at peak difficulty levels not seen before.
+
+The anomaly of a freakishly difficult block number, or another mystifying event, follows an unusual crash in mining, where suddenly 30% of all hashing power was lost. Additionally, the Bitcoin network has lost more than 1,400 nodes in the past three months, an indicator of lowered decentralization and potential security.
+
+Time and again, the Bitcoin network has proven it cannot easily enter a “mining death spiral”. However, at the current peak difficulty, a loss of hashing power means it may take a long time before the requisite blocks are reached for a new difficulty recalculation. The Bitcoin code has no provision for emergency difficulty readjustment in a more agile manner. But so far, mining has only grown upward, with no significant sharp drops.
+
+What do you think of the anomalous block event? Share your thoughts in the comments section below!
+
+Images via Shutterstock, Twitter @khannib

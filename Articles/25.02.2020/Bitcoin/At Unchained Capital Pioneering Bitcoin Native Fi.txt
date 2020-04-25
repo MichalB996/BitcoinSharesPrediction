@@ -1,0 +1,49 @@
+DATE:  25.02.2020, 13:00:05
+TITLE: At Unchained Capital, Pioneering Bitcoin Native Financial Services
+URL:   https://bitcoinmagazine.com/articles/at-unchained-capital-pioneering-bitcoin-native-financial-services
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+This is a sponsored article provided by Unchained Capital.
+
+Unchained Capital is building the archetype of the future financial institution, form fit for the world of bitcoin. It leverages the strengths of the Bitcoin protocol to offer bitcoin-native financial services, championing the importance of private keys, the benefits of multisignature security and the value a financial partner can provide. Today, most individuals and businesses that hold bitcoin end up at two extremes, either choosing to independently self-custody or relying on a trusted third party as a full custodian. Unchained bridges the gap through collaborative custody, which is designed to combine the control of self-custody with the benefits of a managed financial service. In its view, there is no other way to deliver bitcoin-native financial services.
+
+Collaborative custody allows clients to hold their own private keys, while Unchained participates in the security of Bitcoin by managing a single key in a 2-of-3 multisig quorum. Depending on the service, clients either maintain full control of assets, or distribute control to the extent necessary, dictated by the nature of the service demanded, such as a bitcoin-backed loan. With any bitcoin-related financial service, the most critical component is how the asset itself is secured and accessed. At Unchained, private keys in the hands of bitcoiners matter and everything else follows from that core principle. By eliminating many of the drawbacks of both self custody and third-party custody, Unchained delivers what it believes is the most secure foundation off of which to build all other financial services.
+
+By Bitcoiners, for Bitcoiners
+
+Discussing this philosophy with Bitcoin Magazine, the company’s two co-founders and current executives, Joe Kelly and Dhruv Bansal, emphasized their own personal journeys into bitcoin and how these have impacted the vision of Unchained Capital. What drew the two of them together, and later became a philosophy for the company as a whole, was a desire for personal independence and adaptability. That is what they believe is the promise of bitcoin.
+
+“Bitcoin is a tool for helping people become independent, free citizens,” Kelly said, explaining how that belief has driven his professional life and the vision of Unchained Capital.
+
+Bansal expressed a similar outlook, talking about his background in physics before meeting Kelly and deciding to build a business around bitcoin. He claimed that practice in hard sciences “is not just a skillset, it’s also a mindset,” giving him ample opportunity to gather a wide range of expertise and adaptability in other fields. He added that “that kind of playfulness and willingness not to be anchored has always helped the business,” and it helped him uncover the biggest “open secret” about bitcoin that serves as Unchained Capital’s raison d’être.
+
+Unchained’s HODL Wave data science unveiled what many bitcoiners innately know: that bitcoin is primarily held over longer periods of time. The majority of bitcoiners are not day trading, they are using bitcoin to save for the long term. This data-driven analysis of the bitcoin market combined with personal experience drives Unchained’s roadmap.
+
+Unchained Capital has assembled a team of bitcoiners working to solve problems that they identify as the most acute market needs, relying on their own experiences but also informed by those in the community. Based in Austin, Texas, a fast growing hot-bed of Bitcoin development and talent, Unchained Capital hosts the local Bitcoin developer meetup, which it views as a unique asset.
+
+“It not only gives our own engineers an opportunity to learn and keep a close pulse on Bitcoin development, but we also benefit from input from some of the best minds in Bitcoin,” Kelly said, emphasizing the value that the Austin bitcoin community brings to Unchained.
+
+HODLers of Last Resort
+
+As bitcoiners, Kelly and Bansal are focused on building services that long-term bitcoiners need and that they themselves would use. It becomes the litmus test at Unchained. Bansal told us that the “open secret” at Unchained is that it “pays attention to early HODLers and seeks their input on the services they need most.” Building for the core bitcoin holder is the North Star, believing that the rest of the market will consistently gravitate toward the services demanded by the most knowledgeable of bitcoiners.
+
+Unchained Capital sees a world in which bitcoin becomes the dominant global currency, and in its experience, the longer an individual holds bitcoin as a savings mechanism, the more likely each individual is to hold their own keys.
+
+“Keys, it’s why we are all here,” Kelly said, elaborating on how his own experiences have informed the vision for bitcoin-native financial services.
+
+If bitcoin is money, then many bitcoiners will increasingly need financial services. But bitcoin is not like any other form of money that has existed before it; bitcoin offers a distinct and unique pathway for individuals to retake their financial freedom and independence. Many believe that financial service providers will always be challenged to add long-term value to bitcoiners if the primary benefits inherent in bitcoin are not preserved and strengthened in the process. Bitcoin-native financial services are the only way, in the minds of Kelly and Bansal, to deliver consistent value to clients over the long term.
+
+Everyone is swimming upstream (or against the tide) if the starting point is not putting keys in the hands of clients. At Unchained, this is what being bitcoin native means and it believes it delivers greater security for clients by building its financial services on top of client keys and ultimately through collaborative custody.
+
+Collaborative Custody Is Bitcoin Native
+
+In a collaborative custody approach, clients hold two keys (either Trezors or Ledgers today) and Unchained secures a third key, in dedicated 2-of-3 multisig vaults. In order to facilitate any transfer of bitcoin, clients must create valid signature(s) using their own keys. Unchained’s technology makes multisig easy to access for its clients, and as a trusted financial partner, its keys help secure client assets (but not control them). If a client ever loses a key or requests Unchained to countersign a transaction, Unchained will independently verify the identity and intent of a client prior to doing so. Security of client assets is collaborative. Clients maintain control but Unchained’s participation creates and diversifies redundancy in key management, adding to the ultimate security of client bitcoin in its view.
+
+Bansal reiterated that most of the world’s bitcoin isn’t held on platforms like Coinbase but, instead, is owned by the bitcoiners themselves in private cold storage. Allowing people to access financial services while continuing to hold their own keys is “such a more natural fit to what banking needs to look like in bitcoin,” he explained, also expressing his view that it leads to greater security for each individual and the network as a whole.
+
+The security that Unchained’s core custody solution offers is only one of several services offered on the platform. For individuals or companies that value financial controls over sovereignty, Unchained also offers a multi-institution custody solution in which clients only hold 1-of-3 keys, with Unchained holding a second key and an independent third-party key agent holding the third. No single party has unilateral control, but clients still authenticate transactions by creating bitcoin signatures. A similar model is also applied in Unchained’s bitcoin-backed lending service, which gives clients access to dollar liquidity without selling their bitcoin while still allowing each client to participate in the security of assets (which are never rehypothecated).
+
+If financial services are to be bitcoin native, collaborative custody is the only path Unchained sees as viable or sustainable. Describing himself as a maximalist “with a small ‘m,’” Bansal claimed that the company’s bitcoin-only focus helps to meet the community where it is, based on the data and fundamentals. Kelly agreed, saying that bitcoin “has the most desirable qualities,” and that’s a big part of why Unchained is singularly focused on bitcoin and why it tailors its services to the strengths of the protocol.
+
+Consistent with its vision, Unchained has invested in resources that help educate about bitcoin and has developed valuable open-source tools such as Caravan and Hermit designed to further its broad-based goal of elevating bitcoin security standards. If bitcoin is going to be the dominant global currency, Unchained is mission-driven to build for that future world. That means creating a company that can serve all bitcoiners, new and old. Unchained has something for everyone and as it expands its suite of financial services, keys and collaborative custody will be core to the future Unchained builds. Bitcoin native is Unchained Capital.

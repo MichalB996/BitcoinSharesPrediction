@@ -1,0 +1,57 @@
+DATE:  30.03.2019, 11:15:09
+TITLE: The Ultimate Irony of Crypto Trading
+URL:   https://www.coindesk.com/the-ultimate-irony-of-crypto-trading
+
+David Weisberger is co-founder and CEO of CoinRoutes and a veteran of building trading desks and financial technology businesses. The opinions expressed in this article are his own, and do not reflect CoinDesk’s position.
+
+The following article originally appeared in Institutional Crypto by CoinDesk, a free newsletter for the institutional market, with news and views on crypto infrastructure delivered every Tuesday. Sign up here.
+
+We have all witnessed armies of “introducers” trolling around LinkedIn and Telegram advertising their access to buyers or sellers of bitcoin, coupled with hundreds of wannabe over-the-counter (OTC) trading desks whose only method of trading is to call wholesale market makers.
+
+The irony of this is amazing, considering that one of the most important goals of bitcoin and other cryptocurrencies is to “eliminate middlemen” and remove frictional costs from the financial system. Today, however, bitcoin trading is done by more middlemen than in traditional finance, with the result that frictional trading costs are far higher than for non-digital assets.
+
+Before delving into the silliness of the current market structure for trading crypto, it is important to note that I am a fervent believer in the potential for crypto to revolutionize the capital markets, eventually.
+
+I have, on the record, stated that the ability of crypto market structure to support global capital formation and trading will eventually mean that all financial assets will trade digitally.
+
+My reasoning is based on the ability of crypto exchanges, serving clients around the world, to trade the same asset against a variety of different currencies, cryptocurrencies or stablecoins. This can potentially eliminate a wide variety of intermediaries from markets that currently serve one geography trading in one currency per instrument. That being said, the current crypto OTC market is littered with intermediaries, all of whom extract their own commission.
+
+Consider the following workflow diagram that represents a typical transaction in crypto today:
+
+In this example, the investor is “represented” by an introducer, who wins from among five introducers that all talk to that investor. The winner contacts five OTC desks to “source liquidity” for its client. One desk is chosen, and it, in turn, contacts three market makers and chooses one for the trade.
+
+The market maker then gives the client a price, after checking where they believe they can trade the order; the transaction is done with the client and the market maker trades out of the position via an exchange.
+
+This model is, of course, quite inefficient. Paying a commission or implied spread to four different counterparties makes little sense, but even worse is the fact that each of the OTC desks and market makers contacted knows about the order’s existence. This, in turn, makes it likely that the market would move before the trade is consummated, magnifying the cost to the investor.
+
+All is not lost, however, as there are legitimate options for investors that want to trade efficiently. For example, the most sophisticated large wholesale market makers have built excellent systems for trading across exchanges and other market makers. In addition, agent desks with smart order routing systems are being established. From the perspective of investors, however, it can be hard to discern each firm’s real capabilities. That makes it difficult for investors to find the best trading desk to suit their needs.
+
+My advice to investors is to ask the following questions when evaluating a trading firm:
+
+1. Does it trade against my order flow as “principal”? (I.e., does it take the other side of the trade by committing their own capital?)
+
+The answer is vital, as it tells you immediately if you are facing off with a proprietary trading desk. If the answer is “yes” that is neither bad nor good, but it does have important implications – it means that you are likely trading without having to pay an extra intermediary (good), but, unless the desk contacted you first, you should only trade with them if you need immediacy. That is because immediate liquidity comes with a cost, and you end up paying too much in the implied spread.
+
+Additionally, if you contact multiple desks to source your trade, you are leaking a lot of information to the market, and desks will often “pre-hedge” ahead of consummating the trade. That is very expensive as it amounts to legal “frontrunning” that will move the price against you.
+
+If, however, the desk you are talking to does not commit capital, that is also neither good nor bad, depending on their process and relationships. If they are acting as an agent and have a bonafide “natural” counterparty to the trade or if they have a sophisticated algorithmic trading platform, they can provide substantial value. In the case of “natural” counterparties, however, be suspicious as most of those claims in the crypto market tend to be false.
+
+Algorithmic platforms built for the crypto markets are typically the most cost-efficient trading alternative. Once again, be careful to understand if the desk you are talking to trades for their own account also. If they do, ask for their procedures in writing that stop them from trading ahead of or alongside your order. If they don’t provide that, assume that they are going to use your trade to make trading profits.
+
+2. How and where does the firm source liquidity and what does it charge to do so? Is that charge reflected as commission or a markup/markdown from the price?
+
+Asking where your OTC desk is sourcing liquidity is also vital. If it relies exclusively on other OTC desks, find another one. Why do you need an intermediary desk to talk to firms that will take your call themselves? That means you are paying an extra desk, for no reason. In addition, you would be losing control over your order. Sadly, such desks are very common and probably make up the bulk of the trading universe. If, however, they have a robust platform with access to a combination of OTC desks and exchanges, the next question becomes key.
+
+3. What electronic trading tools does the firm utilize and how do they interact with “public” markets?
+
+If your OTC desk uses a combination of single exchange or OTC desk interfaces, be extremely suspicious.
+
+It is almost impossible for a trader to simultaneously survey all markets and calculate the optimal pieces of the order to send to markets over an order’s full life. The answer you should be looking for is that the desk has an algorithmic trading system with maximum connectivity and access to data.
+
+That statement is considered self-evident in other asset classes, but not in crypto. Now that such tools for trading crypto exist, it is time for crypto investors to take notice and demand their agents use them.
+
+In conclusion, it is about time for investors in the crypto markets to start caring about best execution, which will help them earn greater returns while improving the market structure overall.
+
+That is important as such improvement will help attract reluctant institutional investors that are leery of rapid price moves and the difficulty of discerning the price of liquidity.
+
+Broken bitcoin on chart via Shutterstock

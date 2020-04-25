@@ -1,0 +1,39 @@
+DATE:  05.02.2020, 11:27:55
+TITLE: Ethereum discusses future plans for Eth2
+URL:   https://www.thecoinrepublic.com/2020/02/05/ethereum-discusses-future-plans-for-eth2/
+
+Ethereum has released notes regarding the update no. 8 which gives details about audit and formal verification.
+
+This achievement is a milestone towards the introduction of eth2 phase 0 mainnet.
+
+The beacon chain, which is the core of eth2, is an essential component of the sharded system.
+
+Ethereum has released notes regarding the update no. 8 which gives details about audit and formal verification of deposit contract bytecode, optimizations performed, news regarding the ongoing phase 2 research, release details about Whiteblock, and lots more. Here you will find a brief of what expected from this update.
+
+Advertisement
+
+
+
+Runtime Verification audit and verification of deposit contract
+
+Runtime Verification is done with its review and formal verification of the eth2 deposit contract bytecode. This achievement is a milestone towards the introduction of eth2 phase 0 mainnet. Now, the community is free to review and comment on its working.
+
+K Framework has already specified the formal semantics that defines the exact behavior of the EVM bytecode, and it works as intended.
+
+Optimization is the word of the month
+
+In January, the Ethereum was undergoing numerous optimizations. Ten times better optimization at one place and 100 times better optimization at another doesn’t work so well.
+
+So, the team is looking to improve the working and make each component equally good. After all, proper optimization is a key aspect of achieving the final goal.
+
+The beacon chain, which is the core of eth2, is an essential component of the sharded system. To sync with any shard, a client needs to first sync with the beacon shard. So, to ensure that the client can run the beacon and the other shards on their system, it is necessary to make the shards as resource-efficient as it can be.
+
+Lighthouse has also optimized even further. Now, it needs just 10k validations as compared to the earlier 16k validations. This will ensure that the Lighthouse testnet can work with 2CPUs and 8 GB RAM. A new Lighthouse launch is also pretty close.
+
+libp2p gossipsub test results from Whiteblock
+
+This week, Whiteblock revealed the libp2p gossipsub testing results. This work is looking forward to validating the gossipsub algorithm for the uses of eth2.
+
+Stacked Spring
+
+The spring is full of exciting hackathons, conferences, and eth2 bounties and lots more. So, don’t forget to check it out.

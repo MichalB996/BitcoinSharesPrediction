@@ -1,0 +1,67 @@
+DATE:  02.04.2020, 08:53:56
+TITLE: How Many Bitcoins Are There? The Difference Between Real and Capped Supply
+URL:   https://cryptobriefing.com/how-many-bitcoins-are-there-difference-between-real-capped-supply/
+
+Analysis How Many Bitcoins Are There? The Difference Between Real and Capped Supply by Ashwath Balakrishnan
+
+Despite the 21 million cap placed on Bitcoin, lost coins, hacks, and user error, have ensured that a large portion of this capped supply will never reenter circulation.
+
+Key Takeaways Bitcoin’s supply is capped at 21 million coins, but its real supply is much lower.
+
+Coins have been erased or lost for various reasons over the years.
+
+Satoshi Nakamoto, Bitcoin’s anonymous creator, accounts for almost all BTC lost.
+
+There can only be 19.5 million Bitcoins at max; the current real supply is 16.8 million Bitcoin.
+
+Share this article
+
+Bitcoin’s scarcity is a vital aspect of its value proposition. The project’s anonymous creator, Satoshi Nakamoto, designed the network with a capped supply just shy of 21 million BTC. But after accounting for coins that are lost forever, how many Bitcoins are actually accessible?
+
+How to Lose Bitcoin
+
+The theoretical limit on Bitcoin’s supply is 21 million coins. But the real supply of Bitcoin is much lower than this limit.
+
+Unlike cash in a bank account, when the private key or seed phrase for a Bitcoin wallet is lost, those coins are gone forever. An online banking or ATM pin can be reset because the bank has ultimate control of all accounts.
+
+Bitcoin is self-custodial. This means that if a user loses their coins, it is impossible to retrieve them. This is not the case if the coins are stored using a third-party custodian, like an exchange or other value-add service.
+
+Satoshi Nakamoto, the creator of Bitcoin, meant for it to be designed this way. They are believed to be the earliest BTC miner, contributing massively to the total amount of lost Bitcoins.
+
+Back in the early days of Bitcoin, before it had a price or liquid exchanges, it was an activity for hobbyists. People mined BTC on their personal computers as the difficulty was extremely low. The network was infantile, and some may have even deleted their private keys on purpose, thinking this “magic internet money” would never gain value.
+
+Tracking Real Supply
+
+CoinMetrics, a data firm covering the crypto space, ran the numbers to estimate the total amount of Bitcoin that has been locked away forever. To do this, the firm undertook a rigorous UTXO, or Unspent Transaction Outputs, analysis and looked at coins that have been dormant since July 2010.
+
+Their research concluded that as of November 2019, over 1.5 million Bitcoins have been effectively burnt. In the world of crypto, the term “burnt” is another of saying that tokens are lost forever and no longer contribute to a network’s contributing supply.
+
+Surprisingly, there were five factors that contributed to this number.
+
+Firstly, when Satoshi mined the first Bitcoin block, the first 50 BTC mined were never included in a UTXO set. That means these coins never existed, though the transaction for mining them was real.
+
+Second, there are two sets of identical digital signatures for four different transactions where a miner receives their block reward.
+
+At blocks 91,722 and 91,880 the signature was the same, erasing the reward given at block 91,772 as it came first. The same incident was replicated at blocks 91,812 and 91,842. One hundred Bitcoins were erased as a result of this bug.
+
+Third, there were two blocks at which miners didn’t claim their block reward and another where the miner didn’t claim their transaction fee reward. A total of 20.5 BTC was lost this way.
+
+Fourth, some amount of BTC was sent to burner addresses. All but one, which was for Counterparty, were bogus addresses, burning a total of 2,214 BTC.
+
+The final reason for lost Bitcoins is related to “zombie coins.” These are coins that haven’t been moved in nearly 10 years; they account for a majority of mined coins that are no longer a part of circulating supply. The only data point here is 1.496 million BTC that were mined by Satoshi and never touched.
+
+In fact, none of Satoshi’s addresses have ever shown any transaction activity.
+
+How Many Bitcoins Are There?
+
+Since 1.5 million Bitcoins are almost guaranteed to be lost, we can estimate today’s real supply with some degree of accuracy.
+
+In total, a maximum of 19.5 million Bitcoins can ever exist, despite claims of a total cap of 21 million.
+
+CoinGecko data shows that 18.294 Bitcoins have been mined so far. So the number of Bitcoins that exist today is just shy of 16.8 million.
+
+There are some other factors that come into play. For starters, we cannot accurately predict how many thousands, or millions, of Bitcoins have been lost in the last decade.
+
+Further, Bitcoins stolen from exchanges like Mt. Gox and Bitfinex have hardly been moved. The proprietors of the PlusToken Ponzi scheme are the exception, offloading chunks of their loot on Huobi.
+
+This estimation doesn’t offer a precise count for how many coins lost, but it helps establish the lower limit of total coins lost, as well as the upper limit for total supply.

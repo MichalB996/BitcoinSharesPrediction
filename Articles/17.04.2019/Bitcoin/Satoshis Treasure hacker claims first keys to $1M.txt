@@ -1,0 +1,35 @@
+DATE:  17.04.2019, 16:22:04
+TITLE: Satoshi’s Treasure hacker claims first keys to $1M Bitcoin prize in minutes
+URL:   https://thenextweb.com/hardfork/2019/04/17/satoshi-treasure-hunt-bitcoin-hacker/
+
+A million-dollar scavenger hunt for Bitcoin commenced just a few days ago, but it only took minutes for one ingenious hacker to complete the first stage without actually going anywhere.
+
+Satoshi’s Treasure is an alternate reality game urging players to work together to find private keys hidden in real-world locations. Clues are distributed periodically with a newsletter.
+
+Inspired by Ready Player One, the game features leaderboards to show which teams are closest to collecting the prize. There are 1,000 private key fragments in total, and the $1 million worth of Bitcoin BTC is unlocked once 400 have been found.
+
+This is very cyberpunk-chic
+
+The clues to the first three keys were distributed via Blockstream’s Bitcoin satellite on April 15. They were supposed to lead players to discover QR codes buried in locations around the world, like San Francisco, London, Uganda, China, and Australia.
+
+Instead of globe-trotting, player John Cantrell finished the first challenge by hacking it.
+
+He even published his method on GitHub to prove his success. “Just wrote up an explanation of how I obtained the first three key shards in a few minutes today,” he tweeted.
+
+Cantrell began by using a QR code found and uploaded by a fellow treasure hunter. As this was the first clue, it was relatively easy – scanning it would send the player to reveal the key with a passphrase included at the same location.
+
+“Now, we were supposed to wait until April 17 to get clues from the other cities for keys #2 and #3, but that wouldn’t stop me from digging around with all the new information we had,” wrote Cantrell. “All that time ‘playing’ notpron years ago was going to help me here.”
+
+The first key was basically a gift!
+
+Cantrell then checked the source code of Satoshi’s Treasure sites, only to discover the passwords for the next two keys, albeit encrypted.
+
+“After I saw this source code, I realized because the check for whether or not the passphrase was correct was done locally, I could brute force this using a dictionary attack,” he added. “I also assumed the passphrases for key #2 and key #3 would be English words.
+
+A Ruby script was used to crack the encryption almost automatically, which revealed the words required to collect the second and third keys a full day before the clues were scheduled to be released.
+
+Dovey Wan of Primitive Ventures, one of the firm behind Satoshi’s Treasure, wrote: “Yup, this is intended so we can test the level of crazy smartness of internet people. The faster it gets solved, the quicker difficulty level will go up.”
+
+For those keen to play Satoshi’s Treasure but can’t be bothered to leave their rooms, you can read Cantrell’s full walkthrough here.
+
+(Edit: This piece has been updated to clarify Primitive Ventures is one of the firms behind the quest, of which Dovey Wan is a founding partner. We apologize for the mistake.)

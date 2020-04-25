@@ -1,0 +1,37 @@
+DATE:  12.04.2019, 09:25:19
+TITLE: ‘Onerous’ FATF Recommendations Harmful for Crypto Transparency: Chainalysis
+URL:   https://www.coindesk.com/chainalysis-onerous-fatf-recommendations-harmful-for-crypto-transparency
+
+It’s unrealistic and bad for the crypto industry to expect exchanges to send know-your-customer (KYC) information to recipient platforms with every transaction.
+
+That’s the gist of a public comment letter filed this week by blockchain analysis firm Chainalysis, in response to a draft recommendation by the Financial Action Task Force (FATF), an intergovernmental organization dedicated to combating money laundering and other financial crimes.
+
+In the draft document, published in February, the FATF outlined a number of measures that national governments could adopt to more effectively supervise crypto transactions, and therefore prevent or mitigate money laundering risks.
+
+But in Chainalysis’ view, these measures may result in exchanges – or “virtual asset services providers” (VASPs) in FATF parlance – shutting down and decreased visibility into potentially illicit activity.
+
+A possibly controversial recommendation came in section 7(b) of the document, where the FATF said that “countries should ensure that originating VASPs obtain and hold required and accurate originator information and required beneficiary information on virtual asset transfers, submit the information to beneficiary VASPs … and make it available on request to appropriate authorities.”
+
+The FATF invited public comment on the section, describing the draft requirement as a preventative measure.
+
+There are a number of issues with this potential requirement, Chainalysis COO Jonathan Levin and global head of policy Jesse Spiro wrote on April 8. For one thing, the “beneficiary” of a transaction – the recipient of the funds – may not be another crypto exchange.
+
+“Virtual Assets are designed to provide a way to move value without the need to identify the participants in a transaction,” they noted, adding that funds may be moved into a personal wallet or another type of recipient unable to accept identifying information.
+
+Forcing this requirement onto exchanges may also result in these platforms shutting down, as there is no infrastructure in place to support this type of information transfer, the Chainalysis executives wrote.
+
+Moreover, it may be technically infeasible to change how blockchains operate to incorporate this type of transfer, they wrote, adding:
+
+“Forcing onerous investment and friction onto regulated VASPs, who are critical allies to law enforcement, could reduce their prevalence, drive activity to decentralized and peer-to-peer exchanges, and lead to further de-risking by financial institutions. Such measures would decrease the transparency that is currently available to law enforcement.”
+
+A better way?
+
+The transparency inherent in a blockchain does provide a “technical opportunity,” however, Levin and Spiro wrote. Exchanges can use data stored on a blockchain “to form an effective risk-based approach.”
+
+By storing KYC data themselves, exchanges can provide information on specific transactions or individuals to law enforcement, regulators and banks as needed to prevent any illicit activity, they argued.
+
+They noted that Chainalysis has participated in numerous investigations, using blockchain data to identify wallets and funds which may be involved in illegal activity.
+
+The company’s other recommendations included setting up automated “customer due diligence” programs able to “screen destinations for known illicit activity,” as well as have beneficiary exchanges look for similar issues from any exchanges sending funds over.
+
+If the FATF’s recommendations are adopted, they will go into effect as a global standard in June 2019. While the group did invite public comment on section 7(b), the comment period was closed as of April 11, and it is unclear whether Chainalysis’ response will be incorporated.

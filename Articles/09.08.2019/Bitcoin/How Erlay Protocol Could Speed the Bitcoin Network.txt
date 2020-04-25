@@ -1,0 +1,57 @@
+DATE:  09.08.2019, 17:27:45
+TITLE: How Erlay Protocol Could Speed the Bitcoin Network
+URL:   https://bitcoinmagazine.com/articles/how-the-new-erlay-protocol-could-speed-up-the-bitcoin-network
+
+Ring in the new bitcoin halving cycle the right way: with us!
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+Bitcoin users are more secure if they use full Bitcoin nodes, and the overall Bitcoin network is healthier if they do, too. To encourage this, resource requirements to run a full node should be kept low, including the bandwidth required.
+
+Erlay is a new proposal that could help reduce bandwidth requirements. It was developed by University of British Columbia researchers Gleb Naumenko, Alexandra Fedorova and Ivan Beschastnikh; Blockstream engineer Pieter Wuille; and independent Bitcoin Core contributor Gregory Maxwell.
+
+The proposal recommends an approach that will transmit transaction identifiers more efficiently, thereby reducing the number of messages sent between nodes, while still supporting the transmission of new transactions to all nodes.
+
+Here’s why that is important and how it works.
+
+The Problem
+
+When a new bitcoin transaction is broadcast, it must be sent to all nodes on Bitcoin’s peer-to-peer network. Technically, this happens in two steps. First, after receiving a transaction, a node sends a transaction identifier — the transaction ID — to all of the peers it’s connected with (except for the one it got the transaction from). All of these peers then check this transaction ID to see if they’ve already received that transaction from another peer. If not, they request the whole transaction from the node that sent the transaction ID. Then, the process repeats: This node sends the transaction ID to all of its peers.
+
+Because nodes share transaction IDs even with peers that have already been sent the transaction, there is a plethora of redundant messages being shared on the Bitcoin network. This redundancy consumes a lot of bandwidth. Notably, 50 percent of the bandwidth required to run a Bitcoin node is presently used for announcing transactions. Another 45 percent of bandwidth is needed for relaying the actual transaction body and 5 percent is needed for various other messages, like block header information. The Erlay research paper estimates that 44 percent of all traffic between Bitcoin nodes consists of redundant messages.
+
+Operating nodes that require a lot of bandwidth may not be affordable for many users and may pose an impediment for them to run full nodes.
+
+Connectivity and Risks
+
+A related problem is more subtle.
+
+Bitcoin’s security relies, in part, on the level of connectivity between nodes on the Bitcoin network. If this connectivity is too low — if nodes don’t connect with enough peers — it opens the door to “eclipse attacks.” These are attacks in which an attacker controls many IP addresses and uses these to connect to a particular Bitcoin node. If all that node sees are peers controlled by the same attacker, the attacker could essentially create an “alternative Bitcoin blockchain,” just for that node alone. This opens the door to a number of attacks.
+
+In their paper, Naumenko, Fedorova, Beschastnikh, Wuille and Maxwell argue that the current connectivity between Bitcoin network nodes is too low to ensure an adequate level of security on the cryptocurrency’s blockchain. A similar conclusion was drawn in a paper by researchers Ethan Heilman, Alison Kendler, Aviv Zohar and Sharon Goldberg from Boston University and Hebrew University/MSR Israel.
+
+The problem could be solved by increasing connectivity among Bitcoin nodes on the network. However, as it stands now, this would also significantly increase the bandwidth required by each node: Bandwidth usage currently increases linearly if nodes want to connect to more peers.
+
+A more efficient relay protocol would help.
+
+Enter Erlay
+
+To address the problems associated with Bitcoin’s current transaction relay protocol, Naumenko et al. have suggested using Erlay, a new type of transaction dissemination protocol. According to the research they’ve conducted, Erlay could substantially reduce the amount of bandwidth required (by about 40 percent) for maintaining current levels of connectivity between Bitcoin nodes.
+
+The Erlay protocol reduces the number of messages passed between Bitcoin nodes using a solution called “Minisketch,” which was previously proposed by Naumenko, Wuille and Maxwell. In addition to transaction IDs, Bitcoin nodes share “sketches” of transactions with one another.
+
+This is done in two phases. In the first phase, nodes will share new transaction IDs with their peers, as usual. However, they will select a maximum of eight peers to share it with — even if they have connections with more peers. In the second phase, nodes instead request a “sketch” from their peers.
+
+Such a sketch contains identifiers for all of the transactions that a node has accepted (since the last reconciliation), but in compact form. Using the sketches, a node can figure out which transactions it doesn’t have that its peer does have. Then, it can request only those transactions from those peers that don’t appear in their sketch. This approach consumes far less bandwidth than sharing all of the transaction IDs.
+
+As an additional benefit, the solution would, in many cases, offer more privacy. Because the transactions IDs are initially not shared with all connected nodes, it gets harder for “spy nodes” to monitor the network and trace where a particular transaction originated.
+
+It should be noted that one of the drawbacks to comparing different sketches and finding missing transactions is that it takes a relatively long time (around 2 seconds longer) for a transaction to find its way through the entire network. However, the Bitcoin network averages 10-minute block times, which suggests that this approach is worth the tradeoff, as it could substantially reduce the number of messages that are received by each node.
+
+Next Steps
+
+Naumenko intends to draft a Bitcoin Improvement Proposal for Erlay after application developers, software testers and researchers review the protocol’s specification and effectively approve it by not raising any objections. At present, the Erlay protocol is being reviewed by the Bitcoin community, and it might be integrated into the Bitcoin protocol in the foreseeable future.
+
+According to its specifications, the Erlay prototype consists of only 584 lines of code and does not include any non-compatible changes to the existing Bitcoin protocol.

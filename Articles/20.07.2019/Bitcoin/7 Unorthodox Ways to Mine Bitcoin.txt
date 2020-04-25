@@ -1,0 +1,59 @@
+DATE:  20.07.2019, 01:30:36
+TITLE: 7 Unorthodox Ways to Mine Bitcoin
+URL:   https://news.bitcoin.com/7-unorthodox-ways-to-mine-bitcoin/
+
+7 Unorthodox Ways to Mine Bitcoin
+
+Bitcoin isn’t crazy – in fact it might just be the soundest monetary system this generation has ever known. Some of the techniques miners have devised to extract it, however, are extremely unorthodox, ranging from the ingenious to the downright crazy. Here are seven of the strangest attempts at extracting bitcoin ever conjured.
+
+Also read: Bitcoin Mining Helps Oil Companies Reduce Carbon Footprint
+
+Bitcoin Mining Takes Many Forms
+
+The process of adding bitcoin transactions to a newly created block and propagating it to the network is known as mining. To create the next block, miners must solve a mathematical puzzle whose answer is a number ranging anywhere from 0 to 4,294,967,296. In exchange for performing this task, miners are rewarded the transaction fees included in that block, plus a reward that currently stands at 12.5 BTC, dropping to 6.25 BTC in 2020. That, in a nutshell, is bitcoin mining.
+
+Given the lucrative rewards at stake – the block reward alone is worth $130,000 at current prices – it is no surprise that there are so many miners clamoring to solve the math problem that grants them authority to publish the next block. Bitcoin mining is an arms race, math the process as rationally as possible, seeking to maximize your hashrate (the number of computations your miners can perform per second) while minimizing your fixed costs such as electricity. As the following examples show, however, not all miners are in it for monetary gain; some are more interested in pushing the limits of what is physically and practically possible.
+
+Method 1: With Waste Gas
+
+“Stop burning, start earning” is the slogan of Upstream Data, which provides mobile mining datacenters that can be installed at oil company facilities that need to vent gas. As news.Bitcoin.com reported, they “can bring in over 15 times more revenue than the market price of the fuel, while limiting carbon footprint.” Ignore the screeching environmentalists – Bitcoin is greener and cleaner than mainstream media will ever acknowledge.
+
+Introducing our newest #bitcoin mining product, the Ohmm® Mini! This datacenter was designed to be stackable in a 4' cube and is perfectly suited for any oil and gas wellsite. In the background you can see a flare stack that will soon be removed.😎 /1 pic.twitter.com/wlYO8mi38a — Upstream Data (@UpstreamDataInc) July 19, 2019
+
+Method 2: With a Moon Computer
+
+The Apollo Guidance Computer (AGC) was created in the 1960s to guide a U.S. rocket to the moon. It passed the test with flying colors, but in today’s fast-paced tech world, 16-bit computers no longer cut it. That didn’t stop one intrepid soul from attempting to mine bitcoin on an AGC. As he conceded, however, “Unfortunately, the computer is so slow that it would take about a million times the age of the universe to successfully mine a Bitcoin block.”
+
+Method 3: With Pencil and Paper
+
+The same guy who attempted to mine bitcoin with an Apollo computer previously tried to mine BTC by solving the mathematical problems by hand. Technically it worked, though as Ken Shirriff concluded, “One round of the algorithm takes 16 minutes, 45 seconds which works out to a hash rate of 0.67 hashes per day.” The Apollo Guidance Computer, in comparison, managed one hash every 10.3 seconds. Still, as a proof of concept, manual mining is pretty cool.
+
+Method 4: With a Nuclear Reactor
+
+Okay, so no one’s built a nuclear reactor for the sole purpose of mining bitcoin, although if they did, they might just be able to 51% attack the network. A single reactor power plant produces 5.1 TWh annually, around 10% of the Bitcoin network’s annual consumption. Due to their sheer might, nuclear reactors face an unusual problem: they actually produce too much energy. As news.Bitcoin.com previously reported, “Slamming on the brakes does not save any fuel; rather, energy literary ends up being wasted.” You know what’s always on the lookout for excess energy? Bitcoin.
+
+Method 5: With a Mosque
+
+A mosque might sound like a strange tool with which to mine bitcoin, but when that mosque is subsidized with free electricity, it becomes the most attractive mining location in the world. Despite reports of a government crackdown on the practice, mosque mining is alive and well in Iran. It’s not the only country whose entrepreneurs have capitalized on this loophole, either, with a Russian church also having been caught mining.
+
+Method 6: While Growing Tomatoes
+
+It’s no secret that cryptocurrency mining generates heat. Some enterprising individuals have found ways to repurpose that heat, turning a byproduct into a valuable commodity in its own right. In 2018, for example, Kamil Brejcha used excess heat from mining to grow ‘cryptomatoes’ in a greenhouse.
+
+Who would imagine that mining cryptocurrencies and agriculture can work together? The first batch of cryptomatoes is ready to be harvested. We are using the excess heat for the tomato greenhouse and it is working:-) pic.twitter.com/U7qqKTshqO — Kamil Brejcha (@KamilBrejcha) March 10, 2018
+
+Method 6: While Heating Your Home
+
+Harnessing the heat from crypto mining to warm your home is a more obvious application for the primary byproduct of bitcoin extraction. The colder the climate, the more you’ll appreciate the toasty glow of your miners in winter. In Siberia, miners have even constructed an underfloor heating system that repurposes the excess heat expelled.
+
+Method 7: While Making Rum
+
+Heating your home while cryptocurrency mining is all well and good, but true patricians use their miners to make rum. That’s what Avi Aisenberg did in 2017, using the heat to warm his rum barrels, creating a spicy spirit that he dubbed EtherRum.
+
+As “free speech money,” it’s not surprising that Bitcoin should attract free thinkers and free spirits in its droves. Their out of the box ideas can be seen in the multiple techniques devised for mining and in ever more efficient (and occasionally less efficient) ways. As the mining arms race intensifies, expect to see smarter solutions that derive greater hashrate at lower cost while further reducing Bitcoin’s environmental impact.
+
+What other unusual ways do you know of mining bitcoin? Let us know in the comments section below.
+
+Images courtesy of Shutterstock.
+
+Did you know you can verify any unconfirmed Bitcoin transaction with our Bitcoin Block Explorer tool? Simply complete a Bitcoin address search to view it on the blockchain. Plus, visit our Bitcoin Charts to see what’s happening in the industry.

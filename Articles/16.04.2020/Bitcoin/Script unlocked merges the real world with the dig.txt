@@ -1,0 +1,37 @@
+DATE:  16.04.2020, 13:51:43
+TITLE: Script unlocked merges the real world with the digital economy
+URL:   https://coingeek.com/script-unlocked-merges-the-real-world-with-the-digital-economy/
+
+We have been lied to. We were told that because Bitcoin “couldn’t do smart contracts” that we needed other coins like Ethereum and EOS in order to do so. Bitcoin as originally designed has the capability to execute stateful smart contracts—which begs the question, why do these other platforms exist?
+
+In a recent Medium post, Stas Trock detailed how real-world data can be leveraged to implement a stateful contract where payments and their amounts are determined based on weather conditions and the Bitcoin SV exchange rate.
+
+The key takeaway is that this contract is defined as ‘purely L1’ (Layer 1) which means that all contract details and subsequent actions reside directly on-chain. The implication is that the contract has the same security model as Bitcoin itself.
+
+Source: Bitcoinsv.io
+
+A Bitcoin is defined as a chain of digital signatures per the whitepaper. With script unlocked we can define a smart contract in the same way. A subsequent action or update to the contract must not only meet the conditions, but also contain a signature that validates on the ledger in order to spend the locked Bitcoins.
+
+Up until now, the primitive, now archaic P2PKH (pay to public key hash) transaction type has been widely used, due to the understanding of Bitcoin script up to this point being analogous to a monkey’s introduction to a tool.
+
+Caption: Shout out to Daniel Krawisz for his Homo Bitcoinus video
+
+While these transaction types are still useful, they now become ancillary to the rich feature set of the ledger.
+
+Pay to public key hash was just a hello world example — Team "@45" Winnaar (@TeamWinnaar) February 17, 2020
+
+Pre-requisite reading material for Stas’ article include a couple posts by sCrypt founder Xiaohui Liu on how we can leverage transaction data to record subsequent representations of state on-chain. These techniques have only become possible with the recent Genesis upgrade yet were possible from Bitcoin’s inception in January 2009.
+
+Due to this great misunderstanding an entire unnecessary ‘ecosystem’ has emerged from buzzwords and unfulfilled promises. The reader might have heard how some altcoin provides the potential for something like this:
+
+‘A decentralized oracle using Rabin signatures to cryptographically validate smart contracts’
+
+Ironically, Stas’ article concretely implements these overused buzzwords on the very chain we were told was incapable. An oracle simply collects the weather data and publishes it on-chain with a Rabin signature. Rabin signatures are chosen because they are computationally cheap to verify as opposed to ECDSA. This is done so outsiders can efficiently validate the oracle’s identity.
+
+The contract is a Weather derivative where the farmer pays out on recurrence, yet the counterparty covers the farmer’s loss if the weather recorded by the oracle is ‘extreme’ as defined in the terms of the contract in the initial Bitcoin transaction. The exchange rate is recorded as well in order to account for price volatility. Script allows for further edge cases to be accounted for such as contract violations and fines, please check out the article for the full details.
+
+This contract seems complex due to the lack of knowledge around Bitcoin script. However, just like the monkeys in the video above, we are just now beginning to understand its capabilities. Bitcoin script unlocked renders other chains obsolete, subsuming their promised use cases.
+
+What other use cases that predate Bitcoin can be implemented? The answer to this question is only bound by our creativity and exploration of the possibilities.
+
+New to Bitcoin? Check out CoinGeek’s Bitcoin for Beginners section, the ultimate resource guide to learn more about Bitcoin—as originally envisioned by Satoshi Nakamoto—and blockchain.

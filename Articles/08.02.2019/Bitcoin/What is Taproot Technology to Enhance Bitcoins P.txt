@@ -1,0 +1,57 @@
+DATE:  08.02.2019, 11:50:52
+TITLE: What is Taproot? Technology to Enhance Bitcoin’s Privacy
+URL:   https://blockonomi.com/bitcoin-taproot/
+
+The general perception of Bitcoin’s privacy has transitioned towards more emphasis on improving it as the market for privacy-oriented cryptocurrencies grows, and more attack vectors for deanonymizing users are unveiled. From Dandelion++ to Chaumian CoinJoins, numerous initiatives are underway to enhance the privacy assurances of the pseudonymous Bitcoin.
+
+In particular, one significant privacy boon for the legacy cryptocurrency, known as Taproot, is expected for inclusion into the protocol following the integration of Schnorr Signatures — which are required as a basis for its implementation.
+
+Originally proposed by Bitcoin developer and cryptographer Gregory Maxwell in January 2018, Taproot expands the smart contract capabilities of Bitcoin while preserving privacy by making standard transactions and more advanced transactions effectively indistinguishable.
+
+The upgrade coincides with several other proposed developments including Schnorr, Graftroot, and MAST — an improvement over P2SH. Some of Bitcoin’s top developers are currently working on a plan to integrate both Schnorr and Taproot as a combined protocol enhancement.
+
+P2SH and MAST
+
+Understanding Taproot requires first evaluating a few methods that underpin transactions in the Bitcoin network. Specifically, P2SH (known as pay to script hash) is where coins are locked in a Bitcoin contract containing scripts that define specific conditions that need to be met for the coins to be spent by the owner.
+
+For example, standard transactions require that a private key is produced to verify that the coins can be spent. However, more advanced transactions like multi-sig require that a certain threshold of a group sign a transaction before it can be sent. So, if Alice, Bob, and Charlie are part of a multi-sig party for spending X amount of bitcoins from an exchange fund, a multi-sig P2SH script could require that at least 2 of the 3 participants are required to sign the transaction for the outputs to be spent.
+
+The right to spend specific outputs can correspond to multiple P2SH scripting conditions, but only one needs to be met to authorize a spend.
+
+The conditions of these more advanced transactions are stored in the P2SH script as a hash on the blockchain. However, once the coins are spent, all of the conditions are revealed to the network, whether or not they were the conditions that were met and authorized the spending of the coins. For instance, if the multi-sig 2-of-3 condition is met before another P2SH script condition such as a time lock that also exists, then both the time lock and multi-sig scripts are revealed following the spending of the coins.
+
+This presents privacy problems as not all Bitcoin wallets contain functionality like multi-sig and time lock contracts. Thus, observers can deduce the originating type of wallet of a transaction by eliminating wallets that do not feature advanced P2SH scripting conditions. Numerous conditions can also lead to heavier transactions, reducing scalability.
+
+MAST was designed to improve P2SH by obfuscating the conditions of the script for a transaction. Standing for ‘Merklelized Abstract Syntax Tree,’ MAST obscures the script conditions of a transaction and only reveals the first condition that was met — which was responsible for the valid spent of the coins. MAST cleverly employs Merkle Trees to hash each individual script condition rather than hashing the entire set of conditions. In doing so, a Merkle path can authenticate that a valid condition was met without revealing the other scripting conditions.
+
+Back to the Alice, Bob, and Charlie example. If the P2SH contains both a 2-of-3 multi-sig condition and timelock condition then only the condition that is met first will be revealed. If Alice and Bob sign the transaction, an observer can verify that the 2-of-3 multi-sig condition was met, but they will not know that the P2SH also contained a timelock condition.
+
+Schnorr and Taproot
+
+The primary advantage of Schnorr signatures is their ability to aggregate transactions into a single transaction. Rather than inputs requiring individual signatures, the signatures of multiple transactions can be integrated into a transaction with a single, common signature.
+
+The striking benefit of aggregating signatures is storage savings within each block and subsequent better scalability of the network. However, when applying Schnorr signatures to multi-sig transactions, you allow for Taproot.
+
+By leveraging a trick called ‘threshold signatures’ when Schnorr is applied to multi-sig transactions, participants in the multi-sig can aggregate their signatures and public keys together to spend the coins like any standard transaction. Taproot is an innovation that bridges MAST with this concept where the participants can ‘tweak’ the threshold public key or threshold signature.
+
+What are Cryptographic Signatures?
+
+Essentially, they can prove the validity of a spend of a multi-sig transaction script condition without revealing within the broader Schnorr aggregated transaction that their transaction contained complex scripting conditions. As a result, an advanced (multi-sig) transaction can be hidden within an aggregated Schnorr signature as a regular transaction without sacrificing the Merkle path mapping of MAST.
+
+In addition, the transaction does not reveal that it contains a MAST structure.
+
+Schnorr, MAST, and Taproot are viewed as complementary innovations that lead to some fascinating — and more complex — capabilities of Bitcoin transactions.
+
+Bitcoin Core developer Anthony Towns proposed an idea several months later in July 2018 for ‘generalized taproot,’ which would reduce the amount of data required for the initial Taproot proposal. However, he notes:
+
+“As far as deployment goes, I think it makes sense to get an initial schnorr/taproot/mast deployment out first and add graft root/aggregation later. My feeling is there’s no great urgency for generalized taproot, so it would make sense to keep doing schnorr/taproot/mast for now, take time analyzing generalized taproot, and if it seems sane and useful, aim to enable it in a later phase, eg at the same time as graftroot/aggregation”
+
+Taproot is basically ready to be deployed but requires that Schnorr is implemented first or at least in conjunction with Taproot.
+
+Detailed proposals for Schnorr’s inclusion into the Bitcoin Core protocol are already available, however, there doesn’t seem to be a definitive timeline yet for its implementation. The general perception is that Schnorr, MAST, and Taproot will be implemented as a bundle of complementary updates to the protocol.
+
+Schnorr is a significant upgrade for Bitcoin, rivaling that of SegWit. Major updates come with contention and delays among the community, but support behind Schnorr is strong. Developers are working on testing and refining the technical implementation of the upgrade before announcing its final preparation.
+
+Bitcoin developers and the broader community have long been excited about the potential of Schnorr Signature’s integration into the protocol, and it appears that an official date for its inclusion is on the horizon for 2019. Taproot presents some intriguing privacy advantages as a complement to Schnorr and MAST, and the eventual addition of Graftroot even seeks to enhance Taproot by addressing some of its shortcomings in efficiency.
+
+Bitcoin’s efficiency and privacy have been a focus of the community for years, and meaningful strides have already been made with innovations like SegWit, Stonewall, and Chaumian CoinJoins. Many other proposals will undergo further development throughout 2019, and serve as some compelling improvements to the continually evolving Bitcoin network.

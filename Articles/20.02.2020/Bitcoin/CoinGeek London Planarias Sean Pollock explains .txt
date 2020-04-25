@@ -1,0 +1,33 @@
+DATE:  20.02.2020, 22:00:46
+TITLE: CoinGeek London: Planaria’s Sean Pollock explains the ‘read’ side of Bitcoin
+URL:   https://coingeek.com/coingeek-london-planarias-sean-pollock-explains-the-read-side-of-bitcoin/
+
+A lot of what comes out of Planaria, the mysterious Unwriter’s company, can seem a bit dense to those who don’t truly understand the coding side of Bitcoin. To help explain what the company has built, and what it aspires to achieve, Software Engineer Sean Pollock took the stage at CoinGeek London to talk about “Bitcoin Computing.”
+
+Pollock began by giving some of his own history. He began in the Bitcoin SV (BSV) world by building GearSV, a smart contract system for the blockchain. That was bought out by Planaria, and now Sean Pollock works with Unwriter. He said he’s now focused on backend infrastructure, scaling things out, and “really making sure things are reliable on the backend.”
+
+He then quickly described each of the services Planaria has built, and what it really means to the BSV world. This began with Bitfs, which allows any transaction that contains push data over 512 bytes to have its file scraped out, content type determined, listed in a file system and easily found again with a consistent URI schema, transaction hash, input/out index and script index. In laymen’s terms, it makes finding data on the blockchain much easier. “It makes everything very simple, he said. He noted that when the service gains elastic search, it will start to resemble Google Search.
+
+Next, he described Bitdb as the flexible query interface that most developers would be familiar with. It crawls historical blocks, listens to live transactions, and parses out to a Json format that can be queried.
+
+The natural evolution of Bitdb is Bitsocket. It does a very similar thing, but allows listening for transactions in real time. Developers can use it to plug in to their apps and allow for extremely powerful Bitcoin powered apps.
+
+Pollock then took a look at the layers that make up the Planaria network. At the bottom layer are the miners, but then on top of that are the Planaria nodes, communicating to each other as a P2P network, creating an API for other layers to plug into. On top of that are small Planarias, like Bitpic, Bitstagram, and other BSV apps that use the Planaria API. He explained that rather than being all distinct pieces, it becomes a beautiful network:
+
+“This is really the advantage of Bitcoin. It’s really about having all these applications that can share data across each other. It’s not about getting siloed off into your own BIP270, where you have to handle your own write interface, your own read interface.
+
+“Imagine if Facebook, Amazon, Google all had the same backend. That’s really what we’re building with Bitcoin.”
+
+"Imagine if Facebook, amazon, google all had the same back end, that is what we are building with BitcoinSV through Bitbus"@breadofsean, Software Engineer of Planaria Corp. Watch #CGLondon live stream here⬇️:https://t.co/g6NTpNPy1d pic.twitter.com/6WAtX90eie — CoinGeek (@RealCoinGeek) February 20, 2020
+
+Finally, he described Bitbus, which is Planaria’s way of allowing developers to synchronize with Planaria’s infrastructure and begin hosting their own application data on the Bitcoin network.
+
+Striking a much more casual appearance than some of the other presenters at CoinGeek London conference, Pollock contrasted the different coding scenes of London and New York. Whereas London has a sophisticated and professional development scene, he describes New York’s as scrappy. He expects London will help build a better third world, whereas New York will innovate in the first world.
+
+But despite their professional backgrounds, he sees both groups having common goals.
+
+“At the end of the day, it’s really simple,” Pollock said. “We need to improve the write interface, we need to improve the read interface. That’s all there is to it. Obviously at Planaria, we’re laser focused on the read, we have other companies doing amazing work on the write side. And I think this is extremely important, right? We don’t want companies trying to do everything, we want specialized, great services where developers can plug and play, and chose what’s best for them.”
+
+Finally, he challenged application developers to set more ambitious goals, and gave his personal test for the BSV world of coders. He believes that using JavaScript, the whole blockchain could be scraped, transform it into TXO, and saved in DB in less than 10 minutes. That’s a very ambitious goal compared to the current 24 hours that it takes. He challenged all developers to even try to do it in 60 minutes, and come contact Planaria when they can.
+
+New to Bitcoin? Check out CoinGeek’s Bitcoin for Beginners section, the ultimate resource guide to learn more about Bitcoin—as originally envisioned by Satoshi Nakamoto—and blockchain.

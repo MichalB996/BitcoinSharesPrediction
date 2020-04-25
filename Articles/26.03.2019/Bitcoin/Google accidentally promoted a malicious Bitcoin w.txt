@@ -1,0 +1,15 @@
+DATE:  26.03.2019, 15:58:54
+TITLE: Google accidentally promoted a malicious Bitcoin wallet on YouTube
+URL:   https://thenextweb.com/hardfork/2019/03/26/google-accidentally-promoted-a-malicious-bitcoin-wallet-on-youtube/
+
+Google-owned YouTube inadvertently advertized an illegitimate version of the Bitcoin BTC wallet Electrum. A Redditor unearthed the issue, noting how the malicious advert was disguised to resemble a real Electrum advertisement. “It even tells you to go the correct link (electrum.org) in the video but when you click on the advertisement it immediately starts downloading the malicious exe file,” the Redditor said. Image via u/mrsxeplatypus on Reddit The malicious advert would redirect unsuspecting users to elecktrum.org. The real address it should have directed users to is electrum.org. The scam uses a popular scamming method known as typosquatting, whereby a company’s or product’s original domain name is slightly altered to take users to an illicit website. In the Reddit post, the user said there was no obvious way to alert Google about the advert. Hard Fork reached out to Google to verify the advert’s existence.
+
+A representative for the company said: “Our teams have taken appropriate action against the ad you reported.”
+
+This is not the first time Electrum, which uses electrum.org as it’s primary website address, has been taken advantage of by scammers.
+
+In April last year, a scammer purchased a similar-sounding domain name and used it to mimic the company’s services. Eventually, Electrum took to Twitter to confirm it did not own electrum.com and explain it was likely a ‘bitcoin stealing malware.’
+
+Then, little over a month later, the impostor (Electrum Pro) shut down its website in what looked like an exit scam, but blamed Electrum – the real company – for ruining their reputation.
+
+Ultimately, scammers are going to scam, it’s what they do. But it’s up to you (and I!) to remain vigilant online.

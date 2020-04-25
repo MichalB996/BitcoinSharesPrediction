@@ -1,0 +1,89 @@
+DATE:  15.04.2020, 03:51:05
+TITLE: The pointlessness of private blockchains
+URL:   https://coingeek.com/the-pointlessness-of-private-blockchains/
+
+Companies have been told that they need private blockchains, that they cannot possibly use a public ledger for various reasons including:
+
+– Public blockchains cannot scale
+
+– Data cannot be public
+
+– Data cannot be stored encrypted on-chain
+
+– Data cannot be immutable
+
+– Some entity must be behind the ledger for support and a ‘throat to choke’
+
+– Why write to a public blockchain?
+
+The goal of this article is to debunk each of these and demonstrate how the benefits of using a public ledger are far greater than a private one could ever offer. Given that differences about the technical features have been covered ad nauseam, this article will focus more on the differences in incentives.
+
+‘Can’t scale’
+
+Bitcoin SV has already demonstrated that big blocks (mined up to 256MB) and high transaction throughput (800,000 transactions in a single block) are possible on a public ledger. While BTC and other altcoins have capped block sizes, Bitcoin SV’s is determined by supply and demand. BSV also has a robust scaling test network where companies can test their transactions output prior to deploying to the main network.
+
+World Record Block on BSV! (STN) 🚨🚨 5,449,866 Transactions in one block ! Block #14893, 000000000000963677cdb426b225062e75a68e946c1ac5d397b5f925ab8319bb – https://t.co/OXwDI0jTWR – BSV Explorer – STN https://t.co/EDyiuVwXjo — Global Bitcoin Watchdog 🇦🇺 🏴󠁧󠁢󠁷󠁬󠁳󠁿 (@BSV_Watchdog) January 25, 2020
+
+‘Data can’t be public’
+
+Which is more verifiable—a transaction published in a private ledger where a few, permissioned parties can verify, or one published on a public, immutable ledger where all can see?
+
+If some action is recorded publicly, one can be sure that it took place. Publishing in secret is prone to accounting fraud, and can easily be altered. A primary reason for shying away from a public ledger is accountability—most companies are frightened at the prospect of immutable records, as they may be hiding or changing records themselves. I brought up this possibility in a panel I spoke on at CoinGeek Seoul (timestamped link):
+
+Given the hype around private blockchains, one could argue that an incentive now exists to implement one and subsequently collude with the consortium to commit fraud, duping those outside by simply stating:
+
+“The data is correct because it’s on a blockchain!”
+
+A private blockchain is simply a permissioned database shared among the parties who have been granted access to it. The definition of a blockchain is a chain of hashes. Hashes of data and transactions prove existence of something at a certain time.
+
+When the time comes to audit this private ledger, how does the auditor know they are given the correct version of the ledger? What benefit do hashed blocks on top of each other if they cannot be publicly verified?
+
+Only a public ledger provides this and was explained in the Bitcoin whitepaper way back in October 2008.
+
+Data can’t be encrypted publicly’
+
+I understand the confusion around this one.
+
+What does one see?
+
+Do you see PII (personally identifiable information)?
+
+Who wrote this data?
+
+This is an encrypted EDI transaction between two parties, but unless one has the keys, they would never know that. This is a private transaction, yet still publicly verifiable.
+
+When under audit, imagine providing the auditor decryption keys and transaction IDs instead of SQL access to your databases, and siphoning time from your resources.
+
+Lastly, decryption does not happen on-chain. One must download the data first, decrypt it to be able to see it. This data is secure as long as our encryption algorithms are.
+
+‘Data can’t be immutable’
+
+This point goes back to fraud. When an error is made on any ledger, how does one correct it? Best practice dictate that bad entries be corrected via an addition, not a deletion!
+
+If a transaction is recorded, then it occurred. If a mistake was made, the protocols being used to write data need to be flexible enough to handle corrections.
+
+For example, the Metanet protocol on Bitcoin SV handles this scenario:
+
+This same logic applies on a public ledger. Immutability is a feature in this case, not a flaw.
+
+‘We need support or a throat to choke’
+
+Companies want an established business partner to assist them in implementing a private blockchain, for support or to blame when things potentially go wrong.
+
+They do not want colorful t-shirt wearing ‘geniuses’ or sock puppet crypto-anarchists on Twitter telling them “it’s decentralized!”
+
+While it is true that no one entity controls the public ledger, there are companies that have emerged to assist with questions and implementation. More information on Enterprise blockchain solutions can be found here.
+
+‘Why?’
+
+This is one of the best takedowns of private blockchains I have seen (timestamped link below):
+
+Shout out to Jack Liu!
+
+The reasons to put data on the public ledger are collaboration, interoperability and transparency. Many have been thinking too small when it comes to these applications.
+
+Privately stored data’s value potential is capped by those who have access to it. If unrelated parties can have access or simply granted access without red tape, that data can be interpreted, repurposed and referenced in ways that are only limited by the capabilities of the human mind.
+
+I conclude the article with this (timestamped link below):
+
+New to Bitcoin? Check out CoinGeek’s Bitcoin for Beginners section, the ultimate resource guide to learn more about Bitcoin—as originally envisioned by Satoshi Nakamoto—and blockchain.

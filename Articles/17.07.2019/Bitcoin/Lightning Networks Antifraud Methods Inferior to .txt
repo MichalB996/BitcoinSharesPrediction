@@ -1,0 +1,43 @@
+DATE:  17.07.2019, 19:58:38
+TITLE: Lightning Network's Antifraud Methods Inferior to Nakamoto Consensus, Research Shows
+URL:   https://news.bitcoin.com/lightning-networks-antifraud-methods-inferior-to-nakamoto-consensus-research-shows/
+
+Lightning Network's Antifraud Methods Inferior to Nakamoto Consensus, Research Shows
+
+The Lightning Network, the touted scaling solution for the BTC chain, has recently seen its capacity decrease significantly and the beta project is still best suited for a cliche of technically savvy users. Now according to an analysis by Bitmex Research, the Lightning Network’s nodes have taken 2.2 BTC in “justice transactions” even though the connections might not be dishonest.
+
+Also read: Looking Beyond the Lightning Network Hype: Everyday Users Experience Issues
+
+2.2 BTC Taken in Justice Scenarios on the Lightning Network
+
+It’s been well over 18 months and the Lightning Network is still in an experimental form, and one that has strayed away from Nakamoto Consensus. The project is intended to be a second layer solution for BTC payments and microtransactions, but the undertaking has been slow and filled with technical issues. Lightning started on Jan. 18, 2018, with around 60 nodes and it was highlighted to be very “experimental” and “in testing.” At that time, there was around 1.2 BTC held within the network and now there’s more than 940 BTC or $9.8 million, on July 15. A great majority of those funds stem from a node called Lnbig.com and some other big channels like Acinq, and Lightningpowerusers.com. On July 15, Bitmex Research examined the Lightning Network and studied how a mechanism called a “justice transaction” punishes alleged ‘dishonest’ parties. So far, justice transactions stemming from the Lightning Network have confiscated 2.2 BTC or a touch over $20,000.
+
+“We explain how to arbitrarily construct a “justice” scenario and present data on the prevalence of this type of transaction on the Bitcoin network,” The Bitmex Research report highlights. “We have potentially identified 241 justice transactions, representing 2.22 Bitcoin in value, since the Lightning Network launched at the end of 2017.”
+
+According to Bitmex Research, when a ‘thief’ attempts to pilfer BTC on the Lightning Network and they are caught, they lose the funds they tried to steal and the funds within the channel as well. Bitmex Research said while conducting the study, the team executed their own justice transactions. Moreover, a member of the company Lightning Labs developed a tool that can detect these types of justice transactions. In total, Bitmex did 5 test justice transactions, which means the software’s “justice” scenario may not be accurate when it comes to identifying dishonesty.
+
+“It is also possible that many of the 241 justice transactions do not indicate genuine dishonestly, for instance, it could be users testing the system, where the same user owns both lightning nodes in question,” the Lightning Network analysis explains. “For example Bitmex Research is responsible for 5 of the 241 justice transactions, when there was no victim, as Bitmex owned all the nodes and funds.”
+
+But Who Will Watch the Watchtowers?
+
+The report follows the recent discussion concerning the idea of watchtowers on the Lightning Network. Watchtowers is another system of nodes that will attempt to protect the Lightning Network users from fraud. Basically, watchtowers are Lightning Network nodes that operate with a distinct algorithm and are meant to stop Alice from stealing Bob’s funds by monitoring transactions and channel states. Being permissionless by design, anyone will be able to run a watchtower, like individuals and companies, but blockchain surveillance firms could use them as well.
+
+Because the Lightning Network (LN) does not use Nakamoto Consensus (the system that confirms onchain transactions), funds on the Lightning Network could essentially be double-spent by issuing a former channel state. So if your LN node is not online 100% time and you go offline for a couple of days, your funds could get stolen. Watchtowers could easily bring unwanted third parties into the LN design, but proponents say that anyone could subscribe to a group of watchtowers by running one themselves.
+
+The 940 BTC or $9.8 million is actually a decline in the Lightning Network’s capacity as it has been slowly dropping over the last few weeks. According to Blockstream developer Rusty Russell, the latest rise in price may be the reason why the capacity has declined while also highlighting the project is still in its infancy. “I hope this is an indication that people are remembering that Lightning is still beta,” Russell noted. “and [are] reducing capacity to control their risk profile as the bitcoin price rises.” The problem, however, took place during the height of the last price pump as onchain BTC fees skyrocketed upwards of $3-5 per transaction and the mempool (transaction queue) became backed up. LN proponents have said that high fees may push more people into using the LN system, but this hasn’t come to fruition yet.
+
+The controversial discussion concerning justice transactions made its way to social media and forums on Tuesday, which invoked criticism against the Lightning Network and the idea of using watchtowers. On the Reddit forum r/btc, the user known as u/Mobtwo condemned the justice transactions concept and said: “In other words, Lightning Network is not immutable — Who will be watching the watchtowers to make sure they are not in cahoots with the bad guys? And why does it have to be so complicated?” Professor of computer science, Jorge Stolfi wrote on Reddit that [justice transactions] could have been an accidental error like someone trying to close a channel with a backup copy of an LN wallet. “Or an LN wallet in a different computer, that does not have a record of the most recent payment through that channel,” Stolfi emphasized. Commenting further, Stolfi added:
+
+Note that there is no safe way to sync [Lightning Network] wallets — like there is, sort of, for ordinary bitcoin wallets. That’s because payments made through a channel are not stored anywhere, except on the two nodes connected by it.
+
+Will Lightning’s Topology Concerns, Centralized Hubs, and Routing Problems Be Addressed in the Next 18 Months? Skeptics Think Not
+
+Lightning has been criticized by many individuals and with a quick Google search, anyone can find lengthy studies about LN’s topology concerns, discussions about centralized hubs, and routing problems. Electron Cash developer Jonald Fyookball thinks liquidity is the Lightning Network’s biggest issue. For example, in order to get your payment to someone, every hop in the route has to have a channel open and ready with at least as much funds as you wanted to send, Fyookball explained. The blockchain engineer commented further and stated that the best-case scenario for LN liquidity would be mega superhubs like banks which wouldn’t be peer-to-peer anymore.
+
+“All [Lightning Network] nodes have to online all the time. So the user needs an always full bitcoin node plus a lightning node,” Fyookball said summing up his LN critique. “There are a bunch of other [LN] issues too, like [developers] don’t know how to actually solve distributed routing as it’s a known hard, unsolved problem in computer science. And even if LN worked great, it would take decades to onboard the world based on BTC’s low capacity.”
+
+What do you think about the Lightning Network’s justice transactions and watchtower concepts in order to combat against fraud? Do you think the Lightning Network will help BTC scale? Let us know what you think about this subject in the comments section below.
+
+Image credits: Shutterstock, Twitter, Bitmex Research, Bitcoin Visuals, fubar-bdhr and Pixabay.
+
+Verify and track bitcoin cash transactions on our BCH Block Explorer, the best of its kind anywhere in the world. Also, keep up with your holdings, BCH, and other coins, on our market charts at Markets.Bitcoin.com, another original and free service from Bitcoin.com.

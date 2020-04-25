@@ -1,0 +1,79 @@
+DATE:  22.05.2019, 16:48:42
+TITLE: How the Migration to Proof of Stake Consensus is Opening Up New Blockchains Potential
+URL:   https://www.inc.com/kenny-kline/how-migration-to-proof-of-stake-consensus-is-opening-up-new-blockchains-potential.html
+
+Move over, Proof of Work. Proof of Stake is the hottest new algorithm on the blockchain scene.
+
+Bitcoin's Proof of Work (PoW), the initial consensus algorithm that helped kickstart the broader cryptocurrency industry, is a sustainable and effective mechanism that's played a big role in making Bitcoin the flagship cryptocurrency it is today. But Proof of Stake (PoS), which is also an algorithm that validates transactions and achieves consensus, utilizes a significantly faster process.
+
+Because of this, a new generation of blockchains is emerging with Proof of Stake (PoS) or some kind of PoS variants at their core. And they're gunning to make blockchain technologies more readily available throughout the financial and enterprise sectors.
+
+Two current projects shed some light on the ongoing innovation with PoS and its potential impacts on the broader adoption of blockchains by users, enterprises, and financial institutions: namely, TomoChain and MetaHash. Let's take a closer look at the limitations of Proof of Work, the benefits of Proof of Stake, and how TomoChain and MetaHash are using PoS to unlock new frontiers in the world of blockchains.
+
+The Limitations of Proof of Work
+
+Proof of Work will always deserve credit for playing a major role in Bitcoin's early development. It helped solve what's called the 'Byzantine Generals Problem' in distributed computing by reconciling the challenge of how to converge on the same ledger between a network of anonymous, decentralized, and potentially malicious nodes.
+
+However, Bitcoin's PoW also comes with some well-documented shortfalls.
+
+For instance, PoW is not well-suited for supplying the foundation for network-intensive applications, because it's slow and cumbersome when coming to a consensus. For context, Bitcoin processes roughly 4 - 6 transactions per second (TPS). At peak capacity, Visa can handle upwards of 20,000 TPS.
+
+Because mainstream apps must be equipped to handle the high network demands of millions of users, blockchains using PoW are not an optimal choice for building applications. This explains why developers have sought a more scalable option for blockchains to run on in the form of PoS.
+
+The Benefits of Proof of Stake
+
+Bitcoin is generally based on a market of miners running iterations of computational algorithms geared to solve a lottery-like cryptographic puzzle. Proof of Stake operates differently. With PoS, the consensus of the network relies on 'validators' who 'stake' their tokens on the network to perform consensus that miners work on in Bitcoin and other PoW chains.
+
+Without the computational burden, PoS networks can process transactions at an order of magnitude higher than PoW -- conferring some of the advantages of blockchains without the pitfalls of their inefficiency.
+
+Bottom line? PoS has the potential to enable a new generation of enterprise and financial applications to be built on blockchains. This potential is sparking a wave of innovation in a race to build the new ecosystem of scalable and interoperable blockchains.
+
+A New Wave of Applications for Blockchains
+
+Recent forays by major cryptocurrency players into PoS networks are indicative of the excitement around PoS.
+
+For example, Coinbase -- the leading cryptocurrency exchange in the U.S. -- plunged headfirst into 'Staking as a Service,' where Coinbase Custody will offer staking support for PoS networks including Tezos and the recently launched Cosmos.
+
+And then there's TomoChain and MetaHash. Let's take a closer look at how these two companies are capitalizing on the enormous potential of Proof of Stake.
+
+TomoChain
+
+TomoChain is a scalable blockchain network designed with a variant of PoS, called Proof of Stake Voting (PoSV), that enables the network to have high performance and low latency.
+
+"With an average of 2,000 TPS, nearly zero fees, and 150 masternodes running with PoSV consensus, TomoChain is both a scalable and decentralized platform," says TomoChain CEO Long Vuong.
+
+The team is striving to attract financial entities and enterprises looking to build applications on the network. To that end, TomoChain provides resources for prospective companies regarding the technical specs of its network and offers tools such as its enterprise hub.
+
+"TomoX and TomoSwap are two products for the open finance ecosystem on TomoChain," says Nguyen Bui, director of marketing and partnership at TomoChain. "TomoX is a decentralized exchange protocol based on the TomoChain blockchain infrastructure that will be integrated into the core TomoChain blockchain consensus layer. TomoSwap will play as the transactional layer to allow assets on TomoChain to be converted seamlessly between end users and other applications."
+
+TomoChain is not stopping at financial entities. The company's Game Hub offers resources to developers looking to build gaming applications on the network, and it's even hosting its first International TomoChain Game Dappathon .
+
+All told, the company is leveraging PoS to make blockchains more usable and accessible across the board.
+
+MetaHash
+
+MetaHash is a next-generation blockchain network that takes a decidedly different approach than most PoS networks. The platform distinguishes itself in a few ways:
+
+MetaHash can perform at more than 50,000 TPS thanks to being based on four primary components, including its TraceChain and MetaGate.
+
+The network uses a multi-vote PoS consensus, where roughly two-thirds of nodes in the network vote on consensus.
+
+The platform uses its TraceChain to optimize routing of transactions while retaining the verifiability of blockchains. The data is much more compressed than a traditional blockchain (such as Bitcoin) and follows a 'micro-services oriented' architecture akin to the distributed systems of major tech companies today.
+
+"The bottleneck of speeding up blockchains is not their structure but the network topology," says Gleb Nikitin, co-founder and tech lead at MetaHash. "We have been experimenting with network architecture for over a year to reach the 3-second mark to confirm a transaction from the point a user sends a transaction till the recipient gets it."
+
+Confirmation speed is critical for any user-oriented service or IoT device. The higher the number of transactions that can flow through the system, the cheaper each individual transaction can get. In fact, Nikitin says, "Availability of inexpensive and fast transactions is what kept a lot of services from using blockchains before."
+
+MetaApps is the cloud service that enables developers to build and run enterprise-grade applications that were once unthinkable.
+
+"What's unique about MetaApps is that it can process any programming language, a vast improvement over the current paradigm in blockchain development," Nikitin says.
+
+The ability to process multiple languages makes MetaApps more accessible, and so does its structure. As MetaApps have direct access to the hardware, they can run in real time and perform the same actions as any web service. Such a structure brings the usefulness of decentralized applications to a new level.
+
+"The real true decentralized applications are the cryptocurrencies themselves," says Anton Agranovsky, co-founder and CBDO of MetaHash. "With MetaApps, we tried to mimic the way they are built but make it easier for developers to get access to people that wish to provide their hardware for their applications to run."
+
+Like TomoChain, MetaHash's approach is opening up new avenues for development and making blockchain technologies more accessible than ever before.
+
+MetaHash and TomoChain both suggest that as the blockchain industry progresses, a more diverse ecosystem of blockchains is sure to take shape. PoW is the ideal selection for Bitcoin and has so far proven to be the only sustainable consensus algorithm over the long-term. However, many projects are jostling for position in the race to onboard both financial institutions and enterprises to scalable blockchains. The migration to Proof of Stake has begun, and its potential to bring blockchains to the mainstream is already underway.
+
+The opinions expressed here by Inc.com columnists are their own, not those of Inc.com.

@@ -1,0 +1,56 @@
+DATE:  31.03.2020, 13:01:10
+TITLE: Plugging into C-Lightning: The Future of Lightning Plugins Is Bright
+URL:   https://bitcoinmagazine.com/articles/plugging-into-c-lightning-the-future-of-lightning-plugins-is-bright
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+Trying to navigate the different Lightning implementations can be a challenge. Although there were initially three implementations: c-lightning, eclair and lnd, more continue to come out of the woodwork all the time with ptarmigan, rust-lightning and Electrum the most recent to enter the fray.
+
+Often, it seems developers and aspiring developers choose to use or contribute to a particular implementation based on the language it is written in. Familiar with Scala? Choose eclair. Excited by the potential of Rust? Choose rust-lightning. However, there are other key considerations such as the aims, design philosophies, use cases and trade offs of the different implementations. In addition, just because an implementation is written in a certain language doesn’t necessarily mean that you are required to code in that language to contribute to the ecosystem around that implementation.
+
+The emerging contrasts between the lnd and rust-lightning implementations were explored on a panel at Breaking Bitcoin 2019 and in this Bitcoin Magazine article. Whilst lnd seeks to take the load off developers and provide ultimate functionality out of the box, rust-lightning seeks to offer ultimate flexibility with developers encouraged to bring their own components and slot them in.
+
+In contrast, c-lightning offers a third way. It maintains a robust and secure core that is designed to not be tweaked or replaced by the developer. Flexibility and additional functionality is available through the use of plugins that can be written by the developer in various languages such as Python or Go. The aim is for the c-lightning ecosystem to emerge as a testbed for experimenting with new cutting edge features, previously the terrain of other implementations such as lnd and eclair, without sacrificing the performance and robustness of the core.
+
+Plugins are subprocesses that are started by the main lightningd daemon. They work in cooperation with lightningd. Any plugins that are surplus to requirements do not need to be run. Some plugins do need certain hooks to be introduced into lightningd that will notify the plugins about internal events and/or alter the behavior of lightningd.
+
+The First C-Lightning Plugins
+
+Blockstream has a series of Medium blog posts to showcase some of the first plugins written by the c-lightning team. These include the “Summary” plugin which provides a summary of node status including satoshis onchain, what that amounts to in fiat terms, number of peers, number of channels, how balanced are they, etc.
+
+The “Probe” plugin determines whether there is a route to make a payment to a certain node in the network, returns the fee level required and indicates which channel(s) are preventing a successful payment. This can be used to prepare the groundwork for a future payment or merely to explore the topology of the network.
+
+The “Prometheus” plugin collects data on the performance of your node to provide visualizations and alerts. With all of these plugins you could choose to contribute to the plugin by adding a feature or building your own from scratch.
+
+Community Plugins
+
+In total there are 16 “community curated” plugins for c-lightning available at the time of writing. These include an autopilot plugin ported from a library built by Rene Pickhardt. Autopilots decide which nodes to open channels with on behalf of the user. The user needs to tell the autopilot the percentage of funds under their control, the number of channels to be opened and the minimum channel size. The autopilot also needs to be notified by lightningd when channels are opened and closed by remote parties. Building an effective autopilot is challenging as user preferences, such as maximizing the probability of a successful payment, can conflict with network health, such as the level of decentralization.
+
+There is also a rebalance plugin, which moves liquidity between the user’s channels to ensure there is sufficient incoming and outgoing liquidity; and an invoiceless payment plugin, which allows a user to make a payment without first receiving an invoice. When running c-lightning you can choose to turn on or off any combination of these plugins.
+
+As Lisa Neigut (@niftynei) said in her tweetstorm, c-lightning doesn’t provide “a standardized HTTP accessible interface out of the box nor an authentication scheme” for third-party app developers like lnd does. But community-built plugins offer the opportunity to build equivalents for c-lightning that exist in other implementations.
+
+Kristaps Kaupe has started a GitHub repo for plugins emulating some lnd commands. Other plugin authors worth highlighting are Richard Bondi, who has written a collection of plugins in Go, including a plugin to ban peers; fiatjaf, who has written a plugin implementing LN URL to help the payer interact with the payee; and Conor Scott, who has written a number of plugins in Python including a plugin to create channels with top capacity nodes. Finally, Justin Moon has built a proof-of-concept plugin to fund Lightning channels with hardware wallets.
+
+The Challenges of Plugins
+
+Although this plugin architecture seems to offer the best of both worlds, it does present some challenges and potential downsides. It is not clear at this stage whether the ultimate flexibility of rust-lightning will mean it is better suited for existing Bitcoin wallets seeking to integrate Lightning into their existing codebase.
+
+In addition, as the number of community plugins multiply and the value of Bitcoin relying on these plugins increases, security and curation are going to be critical. There will inevitably be duplication and overlap between plugins.
+
+Curation is challenging because it effectively recommends (unofficially, caveat emptor) which plugins should be used and which shouldn’t. Without curation, it becomes impossible for users and developers to get started quickly without examining all of the competing plugins. There is an argument that some languages (and some developers!) are better suited to writing security-critical software. However, the particularly dangerous JSON-RPC methods can only be installed with the developer option and are only intended for testing and debugging with the assistance of the c-lightning team. There is also guidance available on the dangers a plugin developer might incur when taking advantage of a particular hook that can change the default behavior of c-lightning.
+
+It is not the case that this approach creates a perfectly permissionless environment for developers, as some future plugins will still require additional hooks to be merged into the c-lightning codebase by the c-lightning team. For example, a hook to facilitate a watchtower plugin is in discussion at the time of writing. It is possible that some hooks won’t be merged due to security concerns or implementation details.
+
+It remains to be seen whether instances of c-lightning nodes running different sets of plugins cause compatibility issues between c-lightning nodes or with other implementations. It is already challenging to ensure compatibility between different implementations, assuming c-lightning nodes are all running the same release. Experimentation is important, though, and lessons from this experimentation will prove invaluable when finalizing the BOLT specifications for the Lightning protocol.
+
+London Bitcoin Devs
+
+The opportunity to build and play around with new plugins in a wide selection of different languages is drawing developers into building on top of c-lightning. Antoine Poinsot (@darosior) came to London to present at the London Bitcoin Devs meetup in March 2020. Poinsot is developing a plugin manager called Reckless which will offer a selection of plugins to the user and start the chosen plugins dynamically. He has also built an RPC command hook which allows a plugin to take over any RPC command and change it. This is potentially reckless and experimental as RPC commands are how users interact with lightningd. If RPC commands can be accepted, rejected or changed it opens up a number of use cases but also possibilities for users to lose their funds.
+
+This RPC command hook formed the basis of Rusty Russell’s most recent presentation at the online Boltathon 2. There is still a whole swathe of plugins that could be built from trampoline routing to HODL invoices, and Christian Decker expects “There’s already a plugin that does that” to become a meme. In that case, Decker and the c-lightning community may just have their work cut out curating this emerging jungle of plugins.
+
+Thanks to Antoine Poinsot and Christian Decker for their contributions to this article.
+

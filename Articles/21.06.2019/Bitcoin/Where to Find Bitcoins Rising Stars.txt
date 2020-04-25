@@ -1,0 +1,39 @@
+DATE:  21.06.2019, 21:00:16
+TITLE: Where to Find Bitcoin’s Rising Stars
+URL:   https://www.coindesk.com/where-to-find-the-rising-stars-of-bitcoins-developer-community
+
+Thirteen coders and academics gathered this week at Chaincode Labs in New York City for the bitcoin protocol residency program, in what organizers say is the most intensive and diverse cohort to date.
+
+It would be hard to overstate how impactful this quiet program is, as one of the few resources for independent developers in the bitcoin ecosystem.
+
+Members of the program’s prior three cohorts went on to create the lightning browser extension Joule as well as the nonprofit educational resource Bitcoin Optech. Matt Corallo, an alum of the 2016 residency, authored notable efficiency improvements such as FIBRE and the rust-lightning implementation, which makes it easier for users to build and interact with layers of the bitcoin network.
+
+“Having diverse funding sources for bitcoin protocol development is essential to maintain decentralization,” said Alex Morcos, co-founder of Chaincode Labs, which funds the program. “The good news is that more organizations fund open-source developers than ever before, including the MIT Digital Currency Initiative, Blockstream, DG Labs, Square, Xapo and others.”
+
+According to the residency organizer, Adam Jonas, this year’s 12-week program is the longest session to date. Out of 216 applicants from 39 countries, this fourth class will include eight developers completing the entire program. The other five participants, including a few academics who don’t write code, were only able to attend for roughly three weeks of seminars. The second portion of the residency, after these seminars, is focused on supporting residents as they build independent, shippable projects.
+
+A significant portion of the program’s reading materials and presentations will also be shared online through sites like GitHub, so that anyone can use them for studying at home.
+
+“It’s by far the longest [program] we’ve ever done,” Jonas said. “The whole idea is we’d like to make this residency available to people regardless of their circumstances. … We’ve just made sure that their costs are covered.”
+
+These stipends and flexible requirements, tailored to each participant’s needs, allowed people like lightning developer Jamal James to attend. As an entrepreneur and father of three, taking a whole summer off wouldn’t have been feasible. Yet he plans to apply learnings from the Chaincode seminars to his ongoing contributions to open source projects.
+
+“Many are learning on their own little by little, like myself. This residency expedites the ramp-up process substantially,” James told CoinDesk. “Many other companies use the bitcoin network for profit but do not contribute to its development progress.”
+
+Rising stars
+
+There’s no better place to look for up-and-coming bitcoin innovators than the kitchen of Chaincode Labs.
+
+Unlike many other crypto companies, there are no pool tables, bean bags, or motivational posters about the moon. It’s a simple, sunny office in midtown Manhattan where a handful of developers discuss bitcoin and then write code.
+
+“It is a privilege to learn with and from one another,” resident Amiti Uttarwar told CoinDesk.
+
+As a fresh-faced Coinbase engineer with just a few years of experience, Uttarwar offers a prime example of an applicant who gained entry to the program with a combination of grit and eagerness. So far, she’s taught herself about bitcoin by contributing to the Bitcoin Core GitHub in her spare time.
+
+“I’m very content to do things like seeing through abandoned [pull requests],” she told CoinDesk. “It’s something that I can help contribute and learn a lot from.”
+
+Uttarwar will be completing the whole summer program and submitting a final project. Speaking about the program’s open source ethos, focused on support rather than instruction, she said:
+
+“No one is telling me what to work on. That’s my question to answer and people here are supportive. They discuss what they think are valuable problems to solve, but at the end of the day it’s my own passion that I am here to follow and they’re creating space to encourage that.”
+
+Chaincode sign image via Chaincode Labs

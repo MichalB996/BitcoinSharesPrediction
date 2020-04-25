@@ -1,0 +1,155 @@
+DATE:  24.10.2019, 15:15:29
+TITLE: PODCAST: Caitlin Long on Bitcoin as Insurance Against Financial Collapse
+URL:   https://www.coindesk.com/podcast-caitlin-long-on-bitcoin-as-insurance-against-financial-collapse
+
+“To me, it’s an insurance against instability in the mainstream financial industry,” said Caitlin Long, one of the most experienced Wall Street professionals to defect to the crypto space.
+
+“I think about, ‘What’s the probability that the mainstream financial industry goes poof?'” she continued, adding:
+
+“That’s how I think about the asset allocation to bitcoin in my own portfolio. Specifically, what I mean by that is it’s the settlement system risk that’s the issue. I’m not talking about price risk. Obviously, bitcoin’s more volatile than most traditional financial assets, but bitcoin is less volatile from a systemic perspective than I think the traditional financial industry is.”
+
+Long spoke with CoinDesk for one of the inaugural episodes of Bitcoin Macro, a pop-up podcast featuring the speakers and themes of CoinDesk’s upcoming Invest: NYC conference on Tuesday, Nov. 12.
+
+Listen to the podcast here or read the whole transcript below.
+
+The last six months have seen a growing dialogue between the bitcoin industry and the larger global macro community. No longer written off as some ignorable niche, increasingly people are asking: Is bitcoin a macro asset? Is it a safe-haven asset? How will it perform in the next recession?
+
+After 20 years in corporate finance, Long began going to bitcoin meetups, eventually falling all the way down the rabbit hole and coming to provide a vital bridge for colleagues in both spaces. In particular, her leadership in Wyoming blazing a trail for pro-crypto, pro-innovation regulations serves as an example around the country and beyond.
+
+In this episode of Bitcoin Macro, Nolan Bauerle sat down with Long to discuss:
+
+Why she believes her early interest in bitcoin could have gotten her fired from Morgan Stanley.
+
+Why bitcoin is a macro asset, but only for a very small niche (and why it isn’t ready for mainstream institutions just yet).
+
+Why bitcoin isn’t likely to represent a safe haven asset in short-term blips – but could be powerful in the context of a major shock.
+
+Why more traditional financial institutions are dipping their toes in, but only through VC and other risk structures (not through self-custody).
+
+Why Wyoming is poised to do for the crypto industry what South Dakota did for the credit card industry.
+
+Emerging issues with bitcoin lending.
+
+Why the most interesting chart to Long is the bitcoin hashrate and the spread between household net worth and non-financial sector debt in the United States.
+
+Nolan Bauerle: Welcome to Bitcoin Macro, a pop-up podcast produced as part of CoinDesk’s Invest New York Conference in November. I’m your host, Nolan Bauerle. Both the podcast and the event explore the intersection of bitcoin and the global macroeconomy with perspectives from some of the leading thinkers in finance, crypto and beyond.
+
+For this podcast, we’re trying to do things a little bit differently, where we’re going to create a series of questions for each of our speakers to really capture one of our themes and to highlight some of the subjects that will be on stage in November. This year’s theme really is around bitcoin, how bitcoin is behaving in the world today given all of these circumstances that we’re seeing in the global economy. Today, I’m joined by Caitlin Long, one of the most famous Wall Street defectors, refugees, I’m not sure what to call it.
+
+Caitlin Long: Yep.
+
+Nolan Bauerle: But certainly one of the most famous names to first enter the industry. So Caitlin Long is now in Wyoming doing important work over there to create, I think, a jurisdictional arbitrage I suppose we could call it for everyone in America to know that there is at least going to be one state that has exercised its rights to welcome this new form of finance into its borders. So, Caitlin, welcome. Thank you.
+
+Caitlin Long: Thank you. It’s great to be here.
+
+Nolan Bauerle: Well, we’re really excited. I mean, I have this idea that you can kind of get a sense of the history of Bitcoin by the human capital that started to be attracted to this industry. So, of course, it was the cypherpunks to start because this had been their project for a long time. And then there was a political slant. A lot of, let’s say, libertarians or anarchocapitalists came along, and they were sort of generation two. The third generation, as far as I can tell that really jumped in two feet first, was Wall Street. It really was the first sort of non-sentimental group that joined. There wasn’t really a large end game other than this trades, this is interesting, this is a finite digital resource, we can do stuff with this. I’ve never quite understood where you fit in that. So when and how was it that you turned towards this?
+
+Caitlin Long: I think it was that second group. I found it through Austrian school economics circles even though I was working on Wall Street at the time. I kept my head down for fear of being fired at Bitcoin meetups and the like that I went to on my own time and dime after hours and on weekends. I learned a lot, but also just kept it very quiet that I was running a business at Morgan Stanley. I just didn’t want that to break into the press at the time. That probably would’ve gotten me fired.
+
+Nolan Bauerle: And a significant business at Morgan Stanley?
+
+Caitlin Long: Well, yeah, it’s a pension solutions group. I dealt with a lot of company plan sponsors of big pension funds, helped a lot of them settle, did big transactions for GM, and Verizon, and Bristol Myers Squibb, Motorola, et cetera. Through that, I got to really understand where the problems are in the mainstream financial system. I encountered them myself directly and figured out, not immediately… It took a little while for me to realize that this technology called blockchain was actually going to be the solution to a lot of those problems.
+
+Eventually, I popped my head up and the chief technology officer of Morgan Stanley called me because he saw me on a Bitcoin forum. That was about 2014, so almost five years ago or so, and started working together to vet all of the startups that we’re calling Morgan Stanley at the time. What was fascinating about it is he’s a huge skeptic, and it was really helpful to me to work with somebody like that because it pushed me to become a better person in my own arguments. So far, we’ve both been right. Bitcoin hasn’t died. It has become something. Institutions are coming into it, but he’s also been right that this was all a lot slower than I think many of us anticipated in the early days.
+
+Nolan Bauerle: Well, it sounds like the anti-fragility aspects of this technology that we love were added to your own understanding of it. So nothing wrong with being challenged and understanding how to solve other people’s problems when they become your own when you understand more of them, when people bring them up. So to jump in now to the questions, we’re really focused on how Bitcoin is behaving in today’s global economy. So the first question is, is Bitcoin a macro asset?
+
+Caitlin Long: Yes. But for a very small niche. It’s uncorrelated. It has obviously very high volatility. It’s not ready for prime time for big institutions just yet.
+
+Nolan Bauerle: So the way I’ve been trying to frame this is we’ve got sort of the main stage of global finance, or global economics, and all the changes that we’re seeing around us. So we’ve got this main stage. We’ve got people waiting in the wings to come onto the main stage and maybe some chorus singers in the background from the main part of the stage. Where would you put Bitcoin right now? Is it in the wings waiting to enter the main stage in global finance? Or is it a core singer who’s already on stage, but we don’t know what they’re going to do yet?
+
+Caitlin Long: Oh, it’s definitely waiting in the wings. There’s some very basic issues that I spotted as a former ERISA fiduciary. ERISA, as you may know, is the highest standard of care for institutional asset managers. ERISA fiduciaries have personal liability. I was personally sued as a fiduciary of Morgan Stanley’s pension fund, named personally in a lawsuit. When that’s your standard, you have to be very, very careful. Some of the basic things about Bitcoin need to be ironed out before it’s ready for a ERISA prime time. For example, what’s the exact legal status of the asset? Do I know I actually have clear legal title when I buy a Bitcoin? Obviously, if I have private keys, I know I possess it, but is a judge can recognize that?
+
+And then obviously all of the custody issues surrounding it as well. It’s not a security so there are a lot of folks, like Fidelity for example when it got into the custody business, did not pay homage to the phrase qualified custodian because only securities need to be held by a qualified custodian. But the reality is that the vast majority of investment managers are using custodians for everything. They’re not set up to self-custody assets, so custody is a huge part of what needs to get solved before we start getting ERISA-level investors into this asset class, which I think is coming but we’ve got a few steps to get there first.
+
+Nolan Bauerle: When you were talking about the ERISA aspect of it, I was unaware there was much skin in the game for a lot of people managing money on Wall Street. But apparently, this is an example of it.
+
+Caitlin Long: Oh yeah. ERISA’s a process statute. You have to ask the questions. It doesn’t hold you, the fiduciaries, liable for the outcome. What it does is hold them liable for having examined all of the options. It’s a process statute.
+
+Nolan Bauerle: Got it. Got it. Got it. Within the context of some of the more volatile countries that we see in the world today, so we’re even seeing that volatility come back to the renminbi with the recent devaluation. Is Bitcoin a safe-haven asset?
+
+Caitlin Long: I think so. Obviously, Cyprus is the example of that where you see a so-called left-tail event, you see a real run on the financial system. That’s the place where Bitcoin can really shine. I think that’s coming in multiple iterations, but we’re not there yet. We’ve just experienced the repo market meltdown related to the end of the third quarter for the big financial companies that have trouble funding themselves over the September 30th date. You know, Bitcoin actually traded down in the face of that. So it’s not exhibiting in the short-term for what is probably a minor blip that’s not going to be the big one, so to speak. Bitcoin isn’t trading as a safe-haven asset, but if we hit a big one, that’s when I think its day will really come.
+
+Nolan Bauerle: When more of this modern monetary theory sort of takes hold and even more mistakes are made, perhaps that’s the opportunity?
+
+Caitlin Long: Yeah, absolutely. To me, it’s an insurance against instability in the mainstream financial industry. I think about, “What’s the probability that the mainstream financial industry goes poof?” That’s how I think about the asset allocation to Bitcoin in my own portfolio. Specifically, what I mean by that is it’s the settlement system risk that’s the issue. I’m not talking about price risk. Obviously, Bitcoin’s more volatile than most traditional financial assets, but Bitcoin is less volatile from a systemic perspective than I think the traditional financial industry is.
+
+When we buy treasury bonds in our brokerage account, we don’t own the treasury bonds. We own an IOU from our broker-dealer. So it’s really the settlement risk that’s the issue, and that’s where I see there’s tremendous instability. The left-tail risk is higher than we all think it is in the traditional financial sector. The severity, if it goes bust, is also extraordinarily high. So when I compare that to Bitcoin where I can own my asset outright taking 20% price volatility as an insurance policy to me doesn’t feel like a bad trade-off at all.
+
+Nolan Bauerle: Especially when you look at the, let’s say there’s much more of this coming. We’ve seen Argentina recently, so there we’ve already seen Bitcoin behave as a safe-haven asset simply because the options were so limited. In the United States, we saw this sort of liquidity crunch already before the 2008 meltdown. When these same signs were coming forward in 2006, there was these similar liquidity crunches. People were not able to get the kind of liquidity they required and very similar things were going on.
+
+Of course, Satoshi Nakamoto, I’ve always believed that the Japanese pseudonym was really to have the kind of experience or authority to say to America that, “What happened in Japan is now on your shores.” So where do you see some of those? What I mean by that, what happened to Japan in the last decade, they really are now addicted to quantitative easing. They’re never going to get out of it. It doesn’t look like they’ve got their demographic crunch going on, and Abenomics are just going to be the thing there. So I’ve always had it in my mind that what we were really hearing from, through the pseudonym, Satoshi Nakamoto, was kind of a finger wag to say to America that, “You actually broke your monetary policy leavers. Their broken. You can’t use them anymore.” Do you see that continuing, and do you see Bitcoin being able to really thread the needle on this?
+
+Caitlin Long: Oh, yes. The system broke in 2008, and we’ve been band-aiding it ever since then. In fact, actually this repo episode we were just talking about is the fourth such episodes since 2008. Now, the vast majority of people didn’t even understand that because they’re not watching the plumbing of the financial system. But it’s very obvious that the plumbing in the financial system has been fundamentally broken since 2008, and the only reason that the system hasn’t hit a wall yet is because it’s been drugged with continued injections of liquidity, which is essentially just the central banks socializing losses, which is a problem because profits are privatized and losses are socialized in the traditional financial system. A lot of people have the right intuitive feel that that’s unfair, and it is.
+
+But I think that the challenge is that we don’t know when this is going to come to a head. I look at one really important data point, which is, “What’s the household net worth in the United States relative to the total amount of non-financial sector debt?” Right now, there’s a spread between the two of several trillion dollars. That tells me that basically there’s still balance sheet left in the United States for debt to still be piled onto the United States economy. That’s why we haven’t seen the financial system hit the wall yet. That’s why interest rates are still higher in the U.S. and they are in other countries. When you see negative interest rates, it means there’s no balance sheet left in that country. The only reason they haven’t totally hit the wall yet is because the financial system is global and so interconnected, and the U.S. is carrying the rest of the world. But that U.S. balance sheet is going to get used up at some point, and that’s likely when we see a regime change.
+
+Nolan Bauerle: When I think of Bitcoin’s behavior over the past few days, of course, this breaks the narrative a little bit. It’s always been expected that Bitcoin, given these circumstances, would just perform. We’ve got a lot of rumors of or whispers of a recession. The same idea, there’s a certain conviction that Bitcoin will behave well in a recession. In your opinion, what happens to Bitcoin in a recession given what we’ve seen in the past few days?
+
+Caitlin Long: I think it totally depends on the severity of the recession. If it’s just a blip… Like, we just talked about this is the fourth such repo episode, we didn’t see Bitcoin correlate to strong performance in the previous ones because frankly, only financial market participants who were paying attention and the issues in the money markets didn’t spill over into the mainstream economy. They are spilling into the mainstream economy now. But yet, as we start to see that this is the most severe such repo market episodes since 2008, will it come close to 2008? We don’t know yet. It’s not over at least in the short-term.
+
+We’re taping this on the Friday before quarter-end, before September 30th. It doesn’t look like you’re going to see a bank hit a wall before September 30th but to be clear, this was a pretty important, pretty painful episode. There was clearly a bank, or two, or more out there that wasn’t going to be able to fund themselves past the end of the third quarter without an emergency bailout from the Fed, which is exactly what happened. Banks are supposed to be well-capitalized, right? The Fed, just in June, came out and talked about the resilience of the financial system and let all the big U.S. banks buy back stock and pay dividends. Now, three months later, the Fed’s having to come to the rescue to inject cash into the system. It’s obvious to me that the banks are under-capitalized still. I’ve known that for years, but we’re just seeing yet another example playing that out.
+
+Nolan Bauerle: It is a funny image, the idea of these large banks basically asking for overdraft protections from their bank. You can imagine the scene, it looks pretty ridiculous.
+
+Caitlin Long: Yeah. Obviously, the Fed knows who it is. There are a lot of rumors in the marketplace, but at this point, the bank lived to fight another day and it doesn’t necessarily mean that it’s going to hit a wall at some point. But you can look at the stock prices, particularly of the big European banks, where interest rates are negative and have been for quite some time. It’s pretty obvious who some of the logical candidates are for funding problems. At some point, the balance sheet of the United States is not going to be able to carry the entire world on its shoulders.
+
+Nolan Bauerle: Mm-hmm (affirmative). Mm-hmm (affirmative). Yeah. That’s an original take. I haven’t heard that yet, but I see it the moment you mentioned it. Moving on to the next question, you’re somewhat removed I would say from Wall Street these days given that you’re committed to that wonderful project out in Wyoming. But I’m still curious if you’ve been able to pick up if the narrative around Bitcoin has changed within the main mainstream financial world over the last six months?
+
+Caitlin Long: Sure. I still talk to a lot of folks on Wall Street, very much in touch with friends over the years. The answer is yes, but it’s still folks who are dipping toes and getting off zero, as Pomp likes to say, are doing it in their venture portfolio allocation. This is high-risk stuff. This is not even any sort of significant allocation in portfolios. It’s just a small allocation within the venture allocation, which is typically not that big anyway. So we’re seeing toes dip into the water so far because of the timing of when some of those small pension funds got in that the returns have been amazing. But it’s still not a mainstream thing, and it’s all being done through VC structures. I’m not aware of any of the big pension funds that are directly buying in self-custody in Bitcoin. So far, that’s only been hedge funds, and it’s still not even that mainstream among hedge funds.
+
+Nolan Bauerle: That, to me, sounds a lot like the, let’s say, behavior of Bitcoin in mainstream financial world. Has there been any change in the way they might think about it? So that’s not even about the commitment of any capital allocation. But if they said, “Oh yeah, look, we saw this trade war between America and China erupt. Oh look, there was a lot of flow out of China in the OTC desks towards Bitcoin. Oh, I get it. That makes sense. There’s this a way to hedge the devaluation over there in capital controls.” Is there stuff like that that people have said, “Oh, it clicked”?
+
+Caitlin Long: No. But I’ll tell you what, they’re doing for the personal portfolio. Again, when you’re in a fiduciary asset management status, the asset managers don’t have personal liability like an ERISA fiduciary does but they’re fiduciary for their customer’s assets. It’s just not ready for prime time yet. I can’t underscore enough how those basic issues that I mentioned earlier, being able to know definitively that you got clear legal title to the asset. That sounds so basic, but to be honest, the vast majority of law all around the world doesn’t recognize digital assets and it doesn’t fit into the traditional categories of commercial law. Commercial law is what I refer to as the base layer of the legal system. It tells you what the rights and obligations of parties to a commercial transaction are, and it gives a judge a roadmap for handling disputes.
+
+Until you have that clarity, the vast majority of institutional investors just can’t touch it from a fiduciary perspective. This is why Wyoming has done something really important because we’ve clarified those things, and we’ve also set up a digital asset custody regime that respects how Bitcoin works rather than trying to force it into the status quo of custody, which is… I’ve had all kinds of problems with it in my pension business. We can talk about if you’re interested in hearing, but the gist is Wyoming’s actually solving these basic issues and it’s the only place within the United States.
+
+My personal bet, part of the reason I moved back here from the New York area this summer, is we’re going to end up in Wyoming what South Dakota is to the credit card industry. South Dakota grabbed the entire credit card industry away from New York State in the early 1980s because New York had a very low cap on its usury rates under New York law that it was not willing to change. South Dakota, when interest rates and short-term rates went to 21% in under the Volcker Fed, South Dakota said, “We’ll take our usury law cap off. Come out and head to South Dakota. You’re welcome here.” Forty years later, we’ve got in South Dakota, 16,000 jobs. That’s the same is going to be true in Wyoming if this plays out the way I hope and actually think it will. This is going to be the home of digital-asset custody.
+
+Nolan Bauerle: Yeah. When you mentioned that point about the law, what I find so strange is that the purpose of common law really is that people are free to contract. I’m free to say this thing has value, and you’re free to come up with a price. That’s all are just basic rights. It does become strange that this isn’t easily recognized. Even stranger still, when I was looking at some of the way the Chinese… I mean, I would never recommend anything about how the Chinese regime has dealt with Bitcoin. However, when it came to the OTC trades, they said something interesting. They said, “Look, this is property and a person is free to destroy their own property and do what they wish with their property.” They said, “Therefore, we cannot stop any OTC trading of a thing that we recognize as property.” It’s funny that of all places, China came up with probably the most common law interpretation of Bitcoin. I find that remarkable for the strangest reasons.
+
+Caitlin Long: Yeah, that’s interesting. I didn’t realize that, but Wyoming did something similar. It’s logical. This is property. But, how do you fit it into existing categories of property? Is it money? Is it a security? Is it something else? Is it a commodity? So the point is until you actually have mapped these assets, specifically Bitcoin, to exist in commercial law categories, you don’t know definitively in a dispute how it’s going to be treated. I’ll tell you, one of the biggest compliments that I got for the work we’re doing in Wyoming was from a big institutional investor who reached out and said, “We aren’t touching Bitcoin until we know definitively that we’re not going to end up in a lien mess.”
+
+The issue is that when people are lending Bitcoin, which, of course, is happening right and left now… We’ve got a number of coin-lending companies that are basically paying interest for people to deposit their Bitcoin. How are they doing that? Because, obviously, there’s no interest. But in the Bitcoin system, it’s because they’re lending it out for a spread on the other side. Right? So the issue is that there is a lien being created on that asset, and how do you know when you buy it that you’re buying it free and clear of any other liens because you can’t track the liens on the Bitcoin blockchain?
+
+In fact, in the OTC markets, the Coinbase coins that comes directly from the miners trade at a premium. I think there are two reasons for that. One is that they’re clear from an anti-money laundering and OFAC-type perspective and you know that they’ve never got to [inaudible 00:23:31] or a sanctioned country like North Korea for example. But I think the other one is this point that we’re talking about. No one likes to talk about it because it’s boring and it makes your head explode, but it’s a really important point.
+
+It gets back to this issue of, “How do I know I have clean title? How do I know that somebody’s not going to come back to me and say, ‘The coin lending company sold you that Bitcoin that was subject to a lien? It’s mine.'” A judge is going to look at that and they’re going to say, “Yeah, that lien was valid and you have to give it up.” This is why an institution cannot afford to take risks like this. Until they know they have a jurisdiction where it’s clear that they are able to take clean title… Believe it or not, there’s litigation in Wyoming already. There have been a couple of court cases. We’re starting to get some of the legal clarity, not just with the statute, but also the litigation in Wyoming that’s going to give institutional investors comfort to come in here.
+
+Nolan Bauerle: Yeah, I really never had considered the full depth of an obstacle that liens would have with all the lending. That is true.
+
+Caitlin Long: Oh, yeah.
+
+Nolan Bauerle: There’s large volumes, over a billion in 2018, the last time I saw a full-year resume of what had gone and I’m sure it’s more this year. So that’s an important part of the industry already. Interesting.
+
+Caitlin Long: The person who reached out to me was from a significant hedge fund, and this was five years ago. So they had identified this five years ago as an issue and stayed out of it for that reason.
+
+Nolan Bauerle: Wow. Wow. Interesting stuff.
+
+Caitlin Long: Yeah.
+
+Nolan Bauerle: Well, you brought us to our last question, a chart, or a data point, or a trend that illustrates your current belief in Bitcoin’s behavior in this market?
+
+Caitlin Long: Well, the highest correlation of Bitcoin price is to its hash rate, and we continue to see the hash power coming into the network. As long as that’s up and to the right, the general price trend for Bitcoin is going to continue to be up and to the right. Obviously, there are daily fluctuations, but that’s the chart that I pay the most attention to. At a macro level, if I could throw in one other, it’s the chart I referred to earlier which is the spread between household net worth and non-financial sector debt in the United States. As long as that stays positive, then interest rates are likely to continue to be above zero in the U.S. and we still have balance sheet to carry the rest of the world. But we’re adding another $2.5-3 trillion a year on financial sector debt in U.S. dollars, and we’re eating into that spread pretty rapidly.
+
+Nolan Bauerle: That is a large amount. Yeah, you bring up the hash rate and it certainly did a signal this week’s price dip. That really crashed on Monday. I noticed that and hadn’t really tied the two together in my mind yet. But thanks for doing that.
+
+Caitlin Long: It is fascinating though because that was not a withdrawal of hash rate. The way that that’s calculated is it’s probability-based in the sense that when you have a very long time to propagate a block, the hash rate looks like it’s crashing even though the hash power in the network hasn’t been withdrawn. That incident was entirely within the probability of Bitcoin. I haven’t seen an analysis of how many standard deviations around the 10-minutes average block appending time. But it was an unusual situation, but it was not a flaw in the Bitcoin network. It’s just one of those low probability but entirely foreseeable events.
+
+Nolan Bauerle: Like, what you’re saying is basically the hash rate was wrestling with the difficulty rate more than it had been over the last little while?
+
+Caitlin Long: Yeah. And I’m not the right person to–
+
+Nolan Bauerle: Therefore, propagating time’s a little higher.
+
+Caitlin Long: If propagation time was higher, yeah. I’m not the right person to explain it. Luckily, I was around some core developers who were talking about it. This wasn’t a cause for alarm, no question, but yet the press reported it as if it were. This was something that was entirely foreseeable. Bitcoin, as you know, is a probability-based system so when you get something that’s a several standard deviation event, you can’t say that that wasn’t foreseeable and you can’t say that that there are fundamental problems in the system. It’s going to happen periodically, and it has happened before. It just hasn’t happened with as many people looking at it as happened this week.
+
+Nolan Bauerle: Interesting stuff, Caitlin. Thanks a ton for your time. For all those listeners out there, you’re going to hear a lot more of this quality content coming from Caitlin and our other fine speakers in November in New York City at Invest. Thank you for your time.
+
+Caitlin Long: Thanks, Nolan.
+
+Nolan Bauerle: Thank you, Caitlin.
+
+Enjoyed this episode? I’d like to personally invite you to come to Invest New York in November. The event features not only the speaker you just heard but an array of other amazing thinkers. Visit coindesk.com and click Events, or simply follow the link in the description. Thanks for listening and see you in New York City.
+
+Image via CoinDesk archives

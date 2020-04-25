@@ -1,0 +1,56 @@
+DATE:  16.03.2020, 12:34:23
+TITLE: Bitcoin’s Ransomware Problem Won’t Go Away
+URL:   https://www.coindesk.com/bitcoins-ransomware-problem-wont-go-away
+
+J.P. Koning, a CoinDesk columnist, worked as an equity researcher at a Canadian brokerage firm and a financial writer at a large Canadian bank. He runs the popular Moneyness blog.
+
+Bitcoin-based ransomware attacks are an interesting phenomenon. But who cares? They’re tiny.
+
+That was pretty much my opinion about ransomware until a few months ago. I formed it after reading a paper in early 2018 that used blockchain analysis to measure the ransomware market. The authors concluded just $13 million in bitcoin (BTC) had been paid out in ransom from 2013 to 2017, a "relatively low” amount compared to the “hype surrounding the issue.”
+
+But headlines throughout 2018 and 2019 indicate this benign view may no longer be valid.
+
+Whereas early ransomware strains such as Locky asked for ransoms of just 0.5-1 bitcoins (~$500 at 2016 bitcoin prices), the size of a typical ransom demand has exploded. In May 2019, the cities of Riviera Beach and Lake City, both in Florida, paid $600,000 and $500,000 in ransom, respectively, to regain access to computer systems infected by ransomware newcomer Ryuk. Crippled by Doppolemayer in late 2019, a Canadian insurer paid $905,000 in ransom, much of which eventually made its way to Bitfinex.
+
+The range of institutions being hit has been expanding as well. Whereas the first wave of attacks was mainly focused on the consumer market, the new wave has targeted institutions corporations and governments. According to Armor, a security company, 72 U.S. school boards were hit by ransomware in 2019, or around 1,039 schools.
+
+What is ransomware? It is malicious software that takes control of a computer, say by encrypting files or threatening to publicly expose data. It only releases that control after receiving a ransom payment.
+
+Ransomware predates bitcoin. Ransom-A, a 2006 strain of ransomware, froze victims' computers and would only release them when $10.99 had been transferred by Western Union. Cryzip required $300 in ransom to be paid via e-gold, an early digital gold payment system. Another ransomware outbreak in 2011 impersonated law enforcement agencies such as the London Metropolitan Police or the Federal Bureau of Investigation and required payment via e-money or prepaid cards like MoneyPak, Ukash or PaySafeCard.
+
+All of these payment routes are relatively difficult to trace, which is why they were popular with extortionists. But they had weaknesses, too. Western Union requires at least some identification. Prepaid options like MoneyPak have dollar caps, which limits their ability to facilitate large ransom payments.
+
+Any payments network is subject to a calculus of legitimacy. Once the percentage of illicit transactions reaches a certain percentage, the system becomes stigmatized.
+
+Bitcoin has all sorts of advantages. Ransom payments can be any size, payments can never be frozen, and the network is global. And so ever since the 2013 appearance of Cryptolocker, the first strain of bitcoin ransomware, bitcoin has become the preferred payment method for ransomware operators.
+
+If the bitcoin ransom market was initially quite small until 2017, how much bigger has it become? In a recent RSA security conference, FBI agent Joel DeCapua suggested that between October 2013 and autumn of 2019, $144 million in bitcoin ransom payments had been paid.
+
+To arrive at this number, DeCapua recreated methods used in an earlier 2018 study by a team that included Google and Princeton researchers. This team traced a total of $16 million in bitcoin ransom payments between 2013 until August 2017. Their method relies on finding seed bitcoin addresses – addresses from which a ransom had been paid – and techniques like clustering to back out the total amount of ransom associated with each ransomware family.
+
+Assuming continuity between the earlier Google/Princeton study and the FBI's newer effort, around $128 million in bitcoin has been paid as ransom between August 2017 and the end of 2019. That's a big pick-up in ransom volume! DeCapua's presentation reveals that between February 2018 and October 2019 Ryuk alone accounted for $61 million in ransom.
+
+Ransomware proceed destinations. Source: The FBI, via RSA Conference
+
+Ransomware has become more sophisticated. Whereas early strains like Cryptolocker and Locky indiscriminately targeted computers for small amounts, Ryuk operators carefully select a specific target, usually large organizations like a city government or corporation. Once inside the victim's network, the hackers move laterally through the system to compromise as much data as possible. This allows them to extract massive ransom payments. According to Coveware, in the fourth quarter of 2019 the average ransom payment doubled to $84,116, up from $41,198 in the previous quarter.
+
+Why it matters
+
+Ransomware could have big effects on the bitcoin ecosystem.
+
+I'd suggest that any payments network is subject to a calculus of legitimacy. Once the percentage of illicit transactions reaches a certain percentage of total transactions, the system becomes stigmatized. A chill sets in. The public, politicians, law enforcement, and regulators begin to protest, and the system is either retired or its operators are forced to reform it.
+
+E-gold encountered this tipping point in 2007. The e-gold network had become a popular venue for selling compromised credit card numbers, and the FBI shut it down. Or take Western Union, which had become a popular way to run scams like law enforcement fraud or “wire money to get me out of jail” scams. Not only did Western Union have to implement new anti-fraud measures, but it had to pay a half billion dollar fine to the FTC.
+
+MoneyPak, owned by Green Dot Bank, has also brushed up against the legitimacy point. Due to the growing popularity of MoneyPak in telephone confidence scams, Green Dot's founder Steve Streit was called in front of the Senate's Committee on Aging in late-2014. Streit maintained that only $30 million out of $20 billion in value loaded in 2013 (just 0.25 percent) could be attributed to fraud. Nevertheless, Streit would choose to deactivate MoneyPak in 2015. When it was brought back online a year later, the system had been reformed. A new customer information process ensured that only KYC'ed users could receive MoneyPak funds.
+
+Gift cards have also been hitting up against the legitimacy point. Gift card scams caught the attention of attorney generals in Pennsylvania and New York. In 2018 they pressured Walmart, Best Buy, and Target into announcing measures to cut down on gift card scams including limiting card face values to $500.
+
+I have no idea if bitcoin is close to reaching a critical level in the calculus of legitimacy. But the usage of bitcoin by crooks who cripple schools and health care providers makes for terrible optics. If enough voters have been hurt by these attacks, that serves as fertile breeding ground for political and regulatory pushback.
+
+The recently proposed Crypto-Currency Act of 2020, for instance, calls for "the tracing of transactions" to be built into each cryptocurrency. In theory, tracing would help cut down on ransom attacks. But such a measure seems unlikely it could be implemented. Green Dot and Western Union are centralized and can be easily modified, but bitcoin is anarchic, which means that there is no easy way to force this sort of change.
+
+If ransomware has forced bitcoin over the legitimacy line, the pushback is likely to be felt at the infrastructure surrounding bitcoin, such as exchanges. Perhaps exchanges would be confined to sending or receiving funds from/to identified addresses. Or they may be prevented from receiving bitcoins from services that mix coins to obfuscate their transactional histories
+
+The other possibility is that as a shiny newcomer, bitcoin is exempt. When the topic of ransomware came up at the 2019 U.S. Conference of Mayors, 225 mayors resolved to avoid paying ransoms. Their anger was primarily directed at the hackers, not the payment mechanism. The same calculus that applies to other payments systems doesn’t seem to apply to bitcoin – for now at least.
+

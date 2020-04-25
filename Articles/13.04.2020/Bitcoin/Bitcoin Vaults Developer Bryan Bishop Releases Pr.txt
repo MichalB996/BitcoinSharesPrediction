@@ -1,0 +1,53 @@
+DATE:  13.04.2020, 16:15:52
+TITLE: Bitcoin Vaults: Developer Bryan Bishop Releases Prototype for Secure On-Chain Storage
+URL:   https://www.coindesk.com/bitcoin-vaults-developer-bryan-bishop-releases-prototype-for-secure-on-chain-storage
+
+"People are not good at securing their keys," said Bryan Bishop, a longtime bitcoin developer. "To the extent that we can write software better and secure [bitcoin] better, that's a win.
+
+As CoinDesk previously reported, the idea of a bitcoin vault has been around since 2016. The original proposal required a hard fork that core developers never implemented.
+
+But as of today, Bishop is rolling out a fork-free prototype on GitHub and sharing it out over the Bitcoin Core email list.
+
+The basic idea involves storing bitcoin (BTC) on-chain in a particularly secure manner that allows for recovery from security mistakes. The on-chain approach is part of what makes Bishop's vault distinct from a cold wallet.
+
+Cornell professor and Ava Labs founder Emin Gün Sirer was part of the team that proposed bitcoin vaults back in 2016. He told CoinDesk he's been watching Bishop's work closely.
+
+"It's fantastic to see vaults go from concept to reality," he told CoinDesk in an email. "We would like to see vaults become a standard feature on all cryptocurrencies, as they have the potential to avoid what are called 'Sorry For Your Loss (SFYL)' events."
+
+How it works
+
+The thing about a normal wallet is you only have your own security model to protect you. If someone gets your private key, you have no recourse.
+
+Vaults, as proposed by Bishop and others, offer a Plan B. If your security falters somehow, you have a clawback mechanism.
+
+Users of such vaults would effectively be deciding to limit the pace at which their bitcoin (BTC) could be released in the event of a breach. The stored bitcoin would be divided into a series of what Bishop is calling "shards." These shards could only release their bitcoin to a hot wallet one at a time at some pre-set interval.
+
+The proposal also calls for something called a watchtower which would monitor vaults. Any time it saw BTC move from a shard, it would likely notify the owner. If the attempt to transfer the bitcoin had not been authorized, the user could activate a pre-signed transaction that would move all the BTC to an off-chain cold wallet, before the bitcoin could unlock for use by the attacker.
+
+Under certain conditions, the watchtower might skip the notification step and simply initiate moving to the cold wallet anyway.
+
+"To operate this vault and everything that runs with it will require software at a minimum. This is not a manual procedure," Bishop said. It's not yet clear whether users would run their own watchtowers or if that will need to be something that's shared by users.
+
+Bryan Bishop in 2010. Source: jeanbaptisteparis / Flickr Creative Commons
+
+Here is one adversary vaults might help users defend against: themselves. This model of timed release could be useful, for example, for bitcoin holders to "pay themselves" at set intervals, while introducing self-imposed friction over their ability to spend profligately.
+
+"I want to make it clear that this is experimental, it's a prototype," Bishop said.
+
+It's worth noting Bishop's implementation has been written assuming that Bitcoin Improvement Proposal 119 will one day be adopted. It will work as is now, but if BIP 119 is adopted, "It makes some of the security a little bit tighter," Bishop said.
+
+Bishop is known these days as part of the team launching Avanti Bank in Wyoming, but this project is independent work. There are no immediate plans for Avanti, founded by blockchain advocate Caitlin Long, to adopt it.
+
+Related projects
+
+Meanwhile, Bishop is not the only person to work on vaults for bitcoin's existing codebase.
+
+Since proposing the design last year, Kevin Loaec of Chainsmiths took it and modified it into something "targetted at people (actually: companies) who need to move the funds often and relatively fast ... It's a whole other level than the 'multisig' used today by most," Loaec wrote to CoinDesk in an email.
+
+Chainsmiths calls the product Revault, and expects to raise money around it soon.
+
+Bob McElrath, formerly of Fidelity, is working on a similar implementation with several collaborators now, which he says will be described soon in academic papers. His description broadly applies to Bishop's work as well.
+
+"This kind of wallet is terribly complex," McElrath wrote, "having at least three distinct wallets: an 'active' wallet (used to send & receive), a 'vault' (timelocked storage), and a 'recovery' wallet (destination for funds in case of attack)."
+
+Ittay Eyal, a developer who was also part of the team that made the original vault proposal with Sirer, told CoinDesk, "We are actually in the process of developing a provably secure implementation of a vault for Ethereum in collaboration with Certora."

@@ -1,0 +1,109 @@
+DATE:  01.01.2019, 19:00:08
+TITLE: Bluewallet Lets You Send Bitcoin Lightning Payments from Your iPhone
+URL:   https://bitcoinist.com/bluewallet-bitcoin-wallet-lightning-ios/
+
+Reviews Bluewallet Lets You Send Bitcoin Lightning Payments from Your iPhone
+
+Bluewallet appears to be setting the bar for the next generation of Bitcoin wallets. Available for both Android and iOS, it is the first to integrate the Lightning Network (LN) for super-quick and “unfairly cheap” transactions.
+
+First Bitcoin Lightning Wallet on iOS
+
+It should be mentioned that this review is largely aimed at users who are either not tech-savvy enough or don’t have have the time or both (like me) to set up their own Lightning nodes.
+
+I’ve used a few iOS Bitcoin wallet apps over the years and all of these have their pros and cons. However, as far as simplicity, ease-of-use, and security are concerned, I can confidently say that Bluewallet is the best iOS Bitcoin wallet app I ever used.
+
+It combines the latest Bitcoin technology (SegWit, LN, Replace-by-fee etc.) with some nifty security features (plausible deniability) alongside the simplest user experience to date.
+
+Note: Bluewallet did not pay me for this review and never contacted me.
+
+I recently found out about this app, which was launched in early December, on Twitter. The wallet caught my attention since this is the first open-source Bitcoin wallet for iOS that supports Lightning Network so I decided to check it out.
+
+As far as I can tell, it is the first wallet that allows you to:
+
+Refill the LN wallet with an on-chain transaction without closing/opening a new one
+
+Backup (export) the LN wallet with a QR code/URL
+
+Use the same LN wallet across multiple devices
+
+It should also be mentioned that while you control the BTC wallet’s private keys, the LN part is custodial by default running Bluewallet’s LNHUB+LND. But, if you already have your own LND node, you can run LNHUB software yourself (it’s open-source) by entering your URL in the Lightning wallet settings.
+
+Not Many Options for iOS
+
+Just like many other people, my first ever Bitcoin wallet experience was with Blockchain wallet in 2014. It was one of the first Bitcoin wallets available for both Android and iOS mobile platforms.
+
+Currently, I’ve been using Edge wallet (formerly known as Airbitz) for the sole reasons that it is ‘secure’ (you control the private keys) and one of the few that supports SegWit (cheaper transactions) along with many altcoins like Monero and Ethereum.
+
+While I believe Edge is one of the best wallets available for iOS today, I miss the watch-only address feature that Blockchain wallet always had — so there were always tradeoffs.
+
+Watch-only addresses let you — as the name implies — only see the balance of your cold-storage wallets. So even if your Ledger Nano S is buried in a nuclear bunker, you could still safely monitor its balance from afar.
+
+However, security should be paramount to every Bitcoin user. Thus, controlling your own private keys is a must and since there weren’t a lot of options for iOS – Edge wallet it was. (I’ve also tried the popular BRD wallet but I wasn’t a fan).
+
+Blown Away By Simplicity
+
+Setting up a wallet in Bluewallet took less than 20 seconds and you have a choice between a regular HD (hierarchical deterministic) wallet or SegWit. You can also import an existing wallet using your seed.
+
+Done. Creating the Lightning wallet is just as quick.
+
+You then have an option to encrypt (recommended) your wallet’s privet keys with a single password. This makes the experience similar to signing up for a new Gmail account — which makes the entire process very easy and familiar, particularly for those new to Bitcoin.
+
+There’s also a genius feature against $5 wrench attacks called Plausible Deniability.
+
+Next, you’ll need some coin to play with. So refill your Bluewallet by sending an on-chain transaction with some BTC from another wallet. If you don’t have any — it’s possible to buy bitcoin (from Changelly) right from the Options menu.
+
+The whole interface is the cleanest and most intuitive I’ve used to date. The wallet also lets you set a custom transaction fee when sending bitcoin.
+
+Replace-by-fee is another useful feature. If you ever set a fee that is too low — you now have the option to set a higher fee (after you already clicked ‘send’) and speed up the transaction.
+
+Lightning Network Works But…
+
+So I sent about $4 to my new BTC wallet. About 20 minutes lates after all the confirmations (at least 2), I sent about a few bucks in bitcoin to ‘refill’ my new Lightning address.
+
+Bluewallet notes that your LN wallet is intended for day-to-day transactions because they’re faster and “unfairly cheap.”
+
+After about five confirmations, the LN wallet had satoshis in it and was ready to strike. However, since only one LN wallet can be set up in the app (for now), it was impossible for me to try sending sats back and forth within the app.
+
+So I told my friend to try it. Unfortunately, the LN wallet doesn’t yet support receiving (invoicing) lightning payments yet, so we were unable to send any Satoshis between each other.
+
+Luckily, I did manage to send an LN payment of six cents to read a full article on Yalls.org. This went through instantly and without a problem as clicking ‘check payment’ on Yalls immediately showed that the payment has been sent.
+
+A Glimpse into the Future of LN Payments
+
+Using this wallet gives a glimpse into the future of paying with Bitcoin as LN grows and all the software issues are ironed out. Once LN payments will become seamless, using it should become second nature as transactions are literally instant at almost zero cost.
+
+This should provide a great solution for merchants and in-store payments (e.g. Starbucks) as it eliminates the problem of having to wait for on-chain confirmations – a common criticism of using Bitcoin at brick-n-mortar locations.
+
+Moreover, legacy digital payments (credit cards, Venmo etc.) are already instant and ‘cheap’ for users so the breakthrough will not come from speed. However, LN is not only “unfairly cheap” but also allows sending less than a satoshi – the smallest unit in Bitcoin. This means users are already sending tiny fractions of a penny, as recently reported by Bitcoinist.
+
+Therefore, I believe, this technology will create new opportunities for online micro-payments and monetization of digital content, which could be a game-changer in the Information Age. In the meantime, however, this wallet will make it possible to ride a Lightning scooter.
+
+Or maybe a Lightning beer?
+
+Buying a beer on lightning! BitMEX Research wishes you a happy new year!#LightningNetwork pic.twitter.com/C0OuotfsB2 — BitMEX Research (@BitMEXResearch) December 31, 2018
+
+Shortfalls
+
+There are admittedly some shortfalls with Bluewallet. Though most of these gaps are expected to be filled later.
+
+For example, the biggest problem right now is the inability to receive LN payments and make withdrawals from the LN wallet back to the BTC wallet. Therefore, you should only test the LN wallet with a small sum since you will not be able to get the satoshis back to your on-chain Bitcoin wallet (for now).
+
+Software developer Irek Zielinski explains that upcoming versions of Bluewallet will support invoicing, which means bidirectional LN transactions.
+
+Next version should support creating of LN invoices (receiving LN payments). https://t.co/yHyaxvKoaz As LNHUB server is used for this purpose, most likely your wallet will be able to be off-line and still get the payment. LNHUB is open source, so you can run your own instance. — Irek Zielinski (@irek_zie) December 30, 2018
+
+Another issue is the lack of PIN or Touch-ID/Face-ID support. Though understandably, a lack of PIN code make it easier to use for the average joe, I’d like to at least have the option to set up a PIN code for accessing the app or some kind of 2-factor authentication for extra security.
+
+Other features in the pipeline include:
+
+Batch TX – the ability to pay multiple addresses with a single transaction, saving on fees and optimizing blockspace usage.
+
+MultiSig TX – enhanced security as each transaction requires M of N signatures (with keys stored on different physical devices with BlueWallet).
+
+Plugging in your Bitcoin Core node for “maximum sovereignty.”
+
+These additions should make Bluewallet, hand down, the best wallet for both iOS and Android users and Bitcoin businesses, in particular. In whole, this is a great wallet if you’re looking to have the latest security features, ease-of-use, Lightning payments, and tired of waiting for Samourai Wallet to be released for iOS.
+
+Have you tried Bluewallet? Share your experience below!
+
+Images courtesy of Shutterstock.

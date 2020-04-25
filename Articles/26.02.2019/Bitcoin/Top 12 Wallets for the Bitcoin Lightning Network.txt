@@ -1,0 +1,87 @@
+DATE:  26.02.2019, 00:05:53
+TITLE: Top 12 Wallets for the Bitcoin Lightning Network
+URL:   https://www.cryptoninjas.net/2019/02/25/top-12-wallets-for-the-bitcoin-lightning-network/
+
+The Lightning Network is allowing Bitcoin to finally fulfill the promise of P2P digital cash that can be transacted instantly for extremely low fees. While developers continue to add new features and make this protocol more robust, some are already making impressive software wallets that allow anyone to use Lightning’s features now.
+
+Bitrefill, a provider of bitcoin and cryptocurrency vouchers for travel, video games, restaurants, entertainment, and more, has curated a list of some of their favorite and easy-to-use Lightning wallets created by the industry’s most innovative teams.
+
+The list below is a great starting point for anyone new to the Lightning Network:
+
+Bitcoin Lightning Wallet (BLW)
+
+Available on Android
+
+BLW offers Android users one of the most powerful and well-supported Lightning apps. Users can both send and receive traditional Bitcoin payments as well as Lightning transactions. BLW is also fully-compatible with Bitrefill services like Thor!
+
+Eclair
+
+Available on Android
+
+Eclair was created by ACINQ, a leader in Bitcoin scalability. It advertises itself as the most popular Lightning wallet and offers Android users the ability to create traditional Bitcoin wallets. With frequent updates, Eclair has a lot to offer any crypto enthusiast.
+
+Zap
+
+Available on iOS, Windows, Mac, Linux
+
+Unlike Eclair, Zap is available on desktops as well as smartphones, featuring a simple and clear user interface that makes it easy to perform transactions on the Lightning Network.
+
+Tippin.me
+
+Web browser
+
+Custodial
+
+Tippin.me gives you a custodial wallet that can be easily accessed on the web. Bitcoiners are using it to tip Twitter users with Lightning Network technology and add Lightning tip buttons to their own websites.
+
+Bluewallet
+
+Available on iOS and Android
+
+Custodial
+
+Bluewallet was created to bring zero-configuration Lightning Network transactions to Android and iOS devices, and it has delivered. With an emphasis on the user interface, Bluewallet’s developers intended to make Bitcoin easily accessible for those new to cryptocurrencies.
+
+Breez
+
+Available on Android (iOS coming soon)
+
+Breez provides instantaneous Bitcoin payments using the Lightning Network, and is one of the first to implement Neutrino. As a non-custodial, open-source wallet, Breez puts emphasis on simple payments between friends, as well as merchant transactions using their NFC-based point-of-sale app.
+
+Wallet of Satoshi
+
+Available on iOS and Android
+
+Custodial
+
+Wallet of Satoshi includes features such as QR code compatibility to make Bitcoin transactions feel as convenient as traditional cash apps. A fully custodial wallet, Wallet of Satoshi is currently available for iOS and Android.
+
+Casa Node
+
+Available as hardware
+
+Unlike the other Lightning wallets on this list, Casa Node is a physical device that allows you to affordably run your own Bitcoin node. Casa Nodes are intended for use in offices and homes and provide a plug-and-play option for users interested in a personal node.
+
+Joule
+
+Available as a browser plugin
+
+Joule provides users with nodes that are accessible using common browsers including Google Chrome, Firefox, Opera, and Brave. As an open source program, its code can be extended and audited at any time.
+
+Shango
+
+Available on iOS and Android
+
+Available exclusively for mobile devices, Shango brands itself as the first Lightning-As-A-Service app. It allows users to launch an ISO-certified secure cloud node, run LND from their device, and control their own LND nodes.
+
+Spark
+
+Available on Android, Windows, Mac, Linux
+
+In addition to mobile applications and a desktop client, Spark can also be accessed through a web browser for added convenience. Spark uses c-lightning on the backend, and its customization features and simple set-up have helped it become one of the most popular Lightning wallets.
+
+Lightning Peach
+
+Available on iOS, Android, Windows, Mac, Linux
+
+Lightning Peach is currently the only Lightning wallet available on all popular desktop and mobile platforms. Some Bitcoiners feel the privacy in this wallet is questionable, but the BitFury team tried to address the concerns in this blog post.

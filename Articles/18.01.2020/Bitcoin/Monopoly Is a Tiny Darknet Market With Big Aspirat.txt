@@ -1,0 +1,45 @@
+DATE:  18.01.2020, 04:35:15
+TITLE: Monopoly Is a Tiny Darknet Market With Big Aspirations
+URL:   https://news.bitcoin.com/monopoly-is-a-tiny-darknet-market-with-big-aspirations/
+
+Monopoly Is a Tiny Darknet Market With Big Aspirations
+
+There’s a certain irony in the smallest market on the darknet being named Monopoly. With less than 150 listings, the monero-friendly Monopoly Market is anything but. What this tiny darknet market (DNM) lacks in size, however, it makes up for in spirit. The cypherpunk ethos permeates this nascent market where sovereign individuals can exercise their right to peacefully transact.
+
+Also read: White House Market Wants to Become the Darknet’s Toughest DNM
+
+Take a Chance on Monopoly
+
+Monero darknet markets are all the rage right now. While the XMR-oriented White House Market is going strong, Monopoly is playing little league for now, with a trade volume that’s unlikely to have law enforcement throwing all they got at it. Darknet markets lead a precarious existence, however, and all it takes is a takedown, exit scam, or prolonged DDoS of the competition for an unfancied DNM to be catapulted to the major league.
+
+Don’t write Monopoly off just yet, then, even if its listings are few, its vendors fewer still, and in its latest newsletter the site admin expressed frustration at the reticence of DNM users to choose monero over bitcoin. Acknowledging that BTC sales far exceed XMR on the darknet, the admin wrote “people just do not want to go to the effort of using monero … personal use buyers could not care less, so we have a decision to make. Do we forget our morals and why we created Monopoly to begin with and introduce bitcoin payments to boost sales and our revenue?”
+
+The answer to that has proven to be yes, but to assert that Monopoly has thereby abandoned its morals would be doing the site a disservice. All evidence suggests that this is a DNM committed to doing the right thing, namely safeguarding its vendors without inconveniencing its users. BTC is now a payment option, but XMR remains the default choice on Monopoly.
+
+Roll the Dice and Make a Monopoly Purchase
+
+To see how Monopoly compares to White House Market, as well as Empire and the numerous other DNMs out there, I gave it a spin. The first thing that strikes you about the market is the means by which you must access it: after finding the link on dark.fail, I was led to a splash page that instructs “Find the two highlighted pieces of text below … Simply join them together and insert .onion at the end to form your unique market link.” As security measures go, this one’s certainly innovative. Pretty soon, DNMs will be asking you to recite the complete works of Shakespeare backwards while standing on your head in the name of opsec and DDoS reduction. I balk at clicking past a cookie notice on the clearnet, but on the darknet, I’ll go the extra mile.
+
+Monopoly has taken a neat approach to providing rotating mirrors with a static page. I do not think the actor scraping mirrors and attacking them (Gustav?) will bother grabbing these mirrors. pic.twitter.com/x6piUktpFf — Caleb (@5auth) January 16, 2020
+
+“Welcome to Monopoly,” beams the homepage proper, “the first true walletless/userless experience intended to provably rid the ecosystem from malicious exit scams pulled by markets. Built by vendors, for consumers.” Any DNM can talk the talk, but at the end of the day, there’s still a degree of trust required to trade on it. I’m inclined to believe Monopoly though, not least because with 5% commission on its current sales, there’s little in its community chest with which to exit scam.
+
+A Pleasure to Play, a Pain to Pay
+
+In Barry Schwartz’ 2004 book “The Paradox of Choice,” the psychologist argues that eliminating excess consumer choice can reduce anxiety for shoppers. On Monopoly Market, there’s no such problem: with so few listings, it’s a case of pick your preferred shipping country and choose from a handful of options. I am okay with this, even though it would be nice to see a greater selection, for the site’s sake and for its users’. The vendors aren’t so ill served, at least, as most of them ply their trade on multiple DNMs.
+
+A lot of care has gone into creating Monopoly Market, which is more than just another DNM clone. The site loads quickly and its listings feature vendor badges and other info that helps buyers make an informed choice. This includes the amount of items in stock, the number of views per listing, and the number of open orders. There’s also a leaderboard showing the most popular vendors on the site. The coolest thing of all, though, is that you don’t need to create an account to place an order. That means no username, no password, and no trail of breadcrumbs leading back to your door.
+
+My only gripe with Monopoly come after paying for an item, having first encrypted my details using PGP in the usual manner. After 10 block confirmations, buyers are prompted to click a button confirming that payment was sent, and must enter the monero TXID and the TXKEY pertaining to the transaction. I have the former but not the latter because that information is not supplied in Cake, the monero light mobile wallet I used. Obtaining this calls for using the full monero desktop wallet. To solve the problem, I’m obliged to upload a screenshot of the wallet transaction and await a manual check. Monopoly does recommend using the full monero desktop wallet in its tutorial, but there’s no guarantee first-time users will see this before they buy, and moreover it doesn’t explain the perils of paying with a light wallet.
+
+May Monopoly and Its Kind Reign Supreme
+
+With a couple of kinks ironed out, Monopoly has the potential to become one of the best DNMs on the darknet when it comes to balancing opsec with convenience. Whatever the fate of the market, its accountless and depositless system is to be admired and emulated. We need more darknet markets that are willing to innovate and protect the privacy of their users. Because if there’s one thing that we’ve consistently learned over the past decade, it’s that when faced with a choice between convenience and security, web users will invariably pick the easy option. Enforced privacy should be the default when using darknet markets. White House and Monopoly Market aren’t perfect, but they’re a step in the right direction. May they and their kind thwart LE and live long.
+
+Do you think monero will gain ground over bitcoin on the darknet? Let us know in the comments section below.
+
+Disclaimer: This article is for informational purposes only. It is not an offer or solicitation of an offer to buy or sell, or a recommendation, endorsement, or sponsorship of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.
+
+Images courtesy of Shutterstock.
+
+Did you know you can verify any unconfirmed Bitcoin transaction with our Bitcoin Block Explorer tool? Simply complete a Bitcoin address search to view it on the blockchain. Plus, visit our Bitcoin Charts to see what’s happening in the industry.

@@ -1,0 +1,39 @@
+DATE:  19.11.2019, 23:30:26
+TITLE: Why Tokenized Projects Are Building on Bitcoin
+URL:   https://news.bitcoin.com/why-tokenized-projects-are-building-on-bitcoin/
+
+Why Tokenized Projects Are Building on Bitcoin
+
+Bitcoin is something you hodl. Ethereum is something you build on. At least that has long been the official narrative, with projects favoring dedicated smart contract networks over Bitcoin for spinning out dapps and second layer solutions. Like all crypto narratives, however, this one has started to shift, as projects reappraise the benefits of crafting censorship-resistant applications anchored to Bitcoin Core and Bitcoin Cash.
+
+Also read: Coinex Chain Launches Tokens Anchored to BTC and BCH
+
+Why Businesses Are Issuing Tokens on SLP
+
+Businesses of all kinds are issuing tokens on the Bitcoin Cash network using Simple Ledger Protocol. It essentially works as a simplified version of Ethereum’s ERC20 token standard, enabling anyone to create and issue a native token in a matter of minutes. Bitcoin Cash – like Bitcoin Core – is not a smart contract blockchain, and thus lacks Ethereum’s Turing completeness, which enables the creation of tokenized systems with complex logic programmed in. Most projects don’t need to issue a token with the sophistication of something like Maker’s dai, however: the ability to mint and issue tokens, anchored to the security of a robust proof-of-work chain, is enough.
+
+There are two main reasons why businesses have been building on Bitcoin Cash with SLP. The first is that they are already ideologically or pragmatically aligned with the network, possibly on account of its ultra-low fees and scalability. The other is that the shortcomings of traditional smart contract networks such as Ethereum and EOS have given them cause to seek sanctuary in BCH. Ethereum’s fees rose significantly this year, exacerbated by Tether’s takeover of the network following USDT’s migration to the ERC20 standard. Fears of creeping centralization on Ethereum, and the baked in centralization on EOS haven’t helped either network either. Projects now using Simple Ledger Protocol include an electric bike company and Sideshift.ai, which has created a BTC-anchored token on BCH.
+
+Why RSK Is Building on Bitcoin
+
+Over on BTC, second layer development work is kicking into gear, with RSK the most prominent company spearheading the Bitcoin building revival. CEO Diego Gutiérrez Zaldívar told news.Bitcoin.com that the company favored creating a smart contract infrastructure on top of Bitcoin due to the security guarantees and developmental certainty that it yields, explaining: “A two-way peg between Smart Bitcoin (RBTC) and BTC means users can access a fully smart contract-enabled environment that’s bolstered by the proof of work from miners that secure the Bitcoin blockchain through merged-mining. Bitcoin has proved it is here to stay, and we believe it will enable an internet of value ecosystem with a very bright future.”
+
+“Recently, IOV Labs, RSK and RIF OS have increased their global reach and have taken crucial steps to introduce Bitcoin and RSK Smart Contract technologies to a wider audience,” noted Zaldívar. “Through these steps, we expect to receive community and user feedback and to make the necessary adjustments for Bitcoin and RSK to reach more people.” While Bitcoin’s security model is unrivaled, convincing businesses to build upon a blockchain that is not synonymous with smart contracts requires education and demonstration of how this works in practice. To achieve this, RSK’s parent company IOV Labs has embarked on a whirlwind global outreach effort, onboarding companies in major territories along the way. This has included partnering with NXTP, a Latin America-based accelerator, investing in three blockchain projects – Vega, Multis, and Pocket Network – and acquiring social network Taringa.
+
+Why Other Blockchains Are Anchoring to Bitcoin
+
+Not every project is looking to issue dapps and middleware upon Bitcoin: some simply want to capitalize on its security and its neatly timestamped blocks, which can be used to anchor an array of other blockchains. Bitcoin serves as the fulcrum around which these chains revolve, effectively forming a Schelling point. Numerous projects have tapped into Bitcoin’s security in this manner over the years, most recently Veriblock.
+
+The project utilizes “proof-of-proof,” a meta-sounding consensus mechanism that encodes proof into BTC’s OP_ Return field. Veriblock promises to deliver Bitcoin-level security for new and established blockchains, reducing the risk of double spends and 51% attacks. As Veriblock explains, Bitcoin is “the golden standard of security” with “more than 40 times the thermos-equivalent computational power to the world’s fastest supercomputer.”
+
+The Ease of Building on Bitcoin
+
+The two Bitcoins – Core and Cash – have a number of advantages for projects seeking to build upon them, over and above security. The deep liquidity that BTC in particular enjoys, coupled with its broad adoption, places it at an advantage over smart contract networks such as Ethereum. Bitcoin Cash, meanwhile, is very developer-friendly, with Bitcoin.com’s developer portal providing a complete toolkit for the purpose of launching BCH-based applications.
+
+Outside of RSK’s ecosystem, most of the development work occurring with BTC currently revolves around Lightning Network (LN). Due to the complexity of LN, however, it is less developer-friendly than Bitcoin Cash as it stands. Once Lightning Network becomes production ready, it may spawn a cottage industry of LN-based apps (‘Lapps’) and BTC-powered financial solutions. Meanwhile, Bitcoin Core and Bitcoin Cash will remain an attractive proposition to projects enticed by the unrivaled security provided by proof-of-work.
+
+Do you think BTC and BCH can compete with smart contract blockchains such as Ethereum? Let us know in the comments section below.
+
+Images courtesy of Shutterstock.
+
+Did you know you can verify any unconfirmed Bitcoin transaction with our Bitcoin Block Explorer tool? Simply complete a Bitcoin address search to view it on the blockchain. Plus, visit our Bitcoin Charts to see what’s happening in the industry.

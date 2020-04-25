@@ -1,0 +1,21 @@
+DATE:  30.03.2020, 11:11:05
+TITLE: Bitcoin Core shifts to dark web to resist censorship
+URL:   https://decrypt.co/23936/bitcoin-core-shifts-to-dark-web-to-resist-censorship
+
+The Bitcoin Core website is now reachable through the dark web, according to a statement on March 27. It will provide a greater level of resistance against censorship.
+
+The Bitcoin Core website posts the latest updates to the open-source Bitcoin software. Bitcoin Core is maintained by a large group of developers.
+
+The darknet or dark web is a part of the Internet that's hidden from Google. Image: Shutterstock.
+
+After frequent requests, this site is now reachable as a Tor hidden service through an onion address,” the post stated, adding, “As well as adding another means of censorship resistance, a hidden service gives an alternative trust path that doesn’t rely on certificate authorities nor DNS infrastructure.”
+
+Certificate authorities check that websites are genuine while the DNS infrastructure is what connects IP addresses to domain names, such as “www.bitcoincore.org.” By making the site accessible via the dark web, it becomes less reliant on these technologies.
+
+The dark web is a segment of the Internet not indexed by traditional search engines. On the most basic level, this means that you can’t find or visit a dark web site unless you know its exact URL-address. The dark web can be accessed via the Tor browser.
+
+While the dark web is most commonly associated with illegal activities, such as buying and selling drugs, it can be used for legitimate reasons.
+
+In October 2019, the British Broadcasting Company (BBC) made its website available to Tor users last October by providing a “dark web copy.” This made its content available in Vietnam, China and Iran, where it was being censored.
+
+However, the dark web can be risky to use. As Decrypt reported last year, malicious actors have used the “onion” network to steal Bitcoin funds from unsuspecting users.

@@ -1,0 +1,45 @@
+DATE:  07.05.2019, 16:35:23
+TITLE: Schnorr Signatures Await Bitcoin Cash as the Next Upgrade Draws Near
+URL:   https://news.bitcoin.com/schnorr-signatures-await-bitcoin-cash-as-the-next-fork-draws-near/
+
+Schnorr Signatures Await Bitcoin Cash as the Next Upgrade Draws Near
+
+The Bitcoin Cash network is scheduled to fork on May 15 and the community has been steadily preparing for the next upgrade, which will entail the addition of Schnorr signatures and Segwit recovery exemption.
+
+Also read: A Look at Openbazaar’s Multi-Currency Wallet and Vendor Listings
+
+Bitcoin Cash Upgrade Time: May 15, 2019, Shortly After 12 pm
+
+Every six months the BCH chain upgrades the protocol in order to add new features that benefit scaling, privacy, and overall network performance. The upcoming hard fork scheduled for May 15 is a change that requires all participants to upgrade their software. The compatible full node implementations for the BCH fork next slated for next Wednesday include Bitcoin ABC 0.19.4, Bchd 0.14.2, Bitprim 0.19.0, and the Bitcoin Unlimited Cash Edition 1.6.0.0. There are two protocol features that will be added to the chain: Segwit recovery and the highly anticipated Schnorr signatures.
+
+The Upgrades: Segwit Recovery Exemption and the Benefits of Schnorr Signatures
+
+Segwit recovery is basically an add-on to the last protocol upgrade implementation of a new CLEANSTACK rule which made it impossible for miners to recover BCH from Segwit addresses. Essentially, after May 15 the upgrade will make an exemption for these unrecoverable coins and make them spendable. “This means that once the P2SH redeem script pre-image is revealed (for example by spending coins from the corresponding BTC address), any miner can take the coins,” explains the hard fork specifications on Github.
+
+The high profile feature being added to the chain which has garnered the most attention is the addition of Schnorr signatures. The digital signature scheme invented by Claus Schnorr will allow BCH users the ability to build cryptographic keys in extraordinary ways. For example, using Schnorr signatures in place of ECDSA signatures allows for future concepts like multisignature aggregation. To the layman, the concept basically reduces transaction size by utilizing an aggregated signature in contrast to using multiple signatures. Essentially, the grouping produces the same cryptographic proof which in turn will reduce blockchain storage and bandwidth. Another advantage Schnorr signatures can offer is privacy when users and developers combine one batched pubkey scheme with different protocols like OP_CHECKSIG and pay-to-public-key-hash (P2PKH) addresses.
+
+BCH developers have added the Schnorr signatures scheme as an optional replacement for traditional ECDSA signatures. The engineers will introduce Schnorr by using the same curve as ECDSA so regular users will not notice the upgrade as much as with prior forks, such as when the block size was raised. On the development side, however, Schnorr signatures only use 64 bytes which is lower than the typical 70-byte ECDSA signature. Basically, programmers who implement the upgraded feature can reduce transaction sizes by roughly 4%. But again, the switch from ECDSA to Schnorr is completely optional, but there are encouraging benefits of implementing the change. Besides a mixture of scaling and privacy, one attribute Schnorr will give to wallet platforms that use the protocol is replay protection. Other benefits of Schnorr that BCH developers will be able to utilize after May 15 include:
+
+Payment channels hidden as ordinary payments.
+
+Atomic swaps hidden as ordinary payments.
+
+Lightning-style payment channel networks too, if desired.
+
+Secure chains of unconfirmed transactions involving multiple parties (layer 2).
+
+Future Schnorr Related Upgrades Could Bolster Public Signature Aggregation, Reduce Blockchain Storage and Bandwidth by 25% and Design Complex Smart Contracts
+
+In the past, many cryptographers have recognized Schnorr for being a more polished scheme than ECDSA, but blockchain programmers could not use the concept because it was patented. Now that the patent has expired, BCH programmers can use Schnorr signatures and build a myriad of improvements going forward. After the May 15 fork, the new features will bring the very basics of Schnorr signatures at first which in turn will set the protocol up for future Schnorr related forks. For instance, further upgrades will be able to bolster public signature aggregation which could reduce blockchain storage and bandwidth by 20-25%. Another upgrade could help eliminate signature malleability so programmers can design complex smart contracts.
+
+As mentioned above, the fork will take place next Wednesday, shortly after 12:00 p.m. UTC on May 15 and the protocol will lock in at a certain block height. After that takes place, there will be another 11 blocks and the BCH chain will have executed the upgrade and rule changes will take effect. BCH fans will be able to watch the fork in real time on data websites like Coin Dance in order to see that the consensus rule changes have been implemented as planned.
+
+Moreover, existing wallets using ESDSA will be functioning in the same manner as before so regular users probably won’t notice much of a difference right away. Developers will find the feature appealing due to the 4% size decrease and the ability to build in new ways. There’s a wide variety of complex schemes that can be introduced in the future and the upgrade on May 15 will be the foundation for all types of innovative concepts.
+
+More information about the Bitcoin Cash development process and scheduled hard fork can be found here and here, and users can watch the countdown in real-time here.
+
+What do you think about the Bitcoin Cash hard fork scheduled for next Wednesday? Let us know what you think about this subject in the comments section below.
+
+Image credits: Shutterstock, Bitcoincash.org, Twitter, Coin Dance, Bitcoin.com, and Pixabay.
+
+Want to create your own secure cold storage paper wallet? Check our tools section.

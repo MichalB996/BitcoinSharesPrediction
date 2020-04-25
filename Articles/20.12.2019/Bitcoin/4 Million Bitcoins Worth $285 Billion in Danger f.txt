@@ -1,0 +1,33 @@
+DATE:  20.12.2019, 08:30:25
+TITLE: 4 Million Bitcoins Worth $28.5 Billion in Danger from Quantum Attacks
+URL:   https://bitcoinist.com/bitcoin-worth-usd-40-billion-vulnerable-to-quantum-attacks/
+
+Bitcoin 4 Million Bitcoins Worth $28.5 Billion in Danger from Quantum Attacks
+
+4 million BTC (about 19% of all Bitcoins) are potentially at risk from a quantum attack. The mentioned stash is worth over 28.5 billion USD at the current market value.
+
+The stories about bitcoin being at risk of being obliterated by quantum computing have been going around for a long time now. But they were especially enforced by Google’s recent announcement of its supercomputer achieving quantum supremacy. Naturally, many started wondering whether or not quantum computing truly represents a danger to BTC, and the topic is currently hotter than ever before.
+
+How Many Bitcoins Are in Danger?
+
+According to Deloitte researchers, all bitcoins located in ‘pay to public key’ (p2pk) addresses, as well as used p2pkh (pay to a public key hash) addresses are in danger. P2pk addresses were used for storing pretty much all BTC in the early days, including the coins mined by Bitcoin’s creator. Some estimates say that such addresses contain around 2 million BTC. In other words, these are the bitcoins that were mined directly and left to sit in a wallet for years.
+
+However, when p2pkh came around in 2010, it was preferred over p2pk, and most coins created in the last 10 years have been stored in these addresses. However, the number of bitcoins stored in such addresses is believed to be at around 2.5 million BTC.
+
+Researchers believe that people are not using or reusing p2pk addresses anymore, and that there are still 4 million BTC that remains vulnerable. In other words, this is the amount of BTC that can be impacted and endangered by quantum computing.
+
+Now, there was a lot of speculation about whether quantum computers will kill bitcoin, and the answer appears to be no. Or at least, not right away, as quantum computing has a lot more development to go through before it becomes a real threat to BTC. This has led to numerous conversations regarding how the crypto industry can prepare for the so-called ‘quantum supremacy‘.
+
+How can BTC be Protected from Quantum Computers?
+
+Simply put, p2pkh addresses that were not previously used for spending Bitcoin, should be perfectly safe. Their public keys were not revealed to the public, meaning that not even quantum computers can use them to derive a private key. All that people need to do is transfer their BTC to a new p2pkh address, and their funds should be perfectly safe.
+
+Of course, the problem is that a lot of people who have their bitcoins in vulnerable addresses cannot transfer their funds, as they may have lost their private keys. This means that the first user of quantum computing who might try to steal these coins might as well succeed in doing it, and create a great amount of wealth for themselves.
+
+However, there might be a way to prevent that as well, if the Bitcoin community came to a consensus to provide a certain period of time that would allow people to move their funds to safe addresses. Once that is done, all BTC from unsafe addresses would become unusable. This would be a drastic step, but it is the only way to prevent a quantum computer-misusing thief from getting extremely rich by stealing other people’s bitcoins.
+
+For the moment, bitcoin is still quite safe. BTC holders that worry about their coins being impacted could still secure themselves by sending the coins to a new p2pkh address. Of course, that would mean that they would have to repeat the process every time they reveal their public key. It is not a perfect solution, but it is the best one so far, although other solutions might emerge in years to come.
+
+Are you worried about your bitcoins being stolen through quantum computing? Let us know your thoughts on the topic in the comments below.
+
+Images via Shutterstock

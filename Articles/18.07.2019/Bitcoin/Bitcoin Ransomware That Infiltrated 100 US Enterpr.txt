@@ -1,0 +1,27 @@
+DATE:  18.07.2019, 18:00:00
+TITLE: Bitcoin Ransomware That Infiltrated 100 US Enterprises Spreads to China
+URL:   https://www.coindesk.com/bitcoin-ransomware-that-infiltrated-100-us-enterprises-spreads-to-china
+
+A ransomware virus that has successfully infiltrated more than 100 government and private enterprises in the U.S. and internationally has been detected in China, according to a recent Tencent Security report.
+
+Dubbed Ryuk, the pernicious code targets “logistics companies, technology companies and small municipalities” with high data value, demanding bounties upward of $5 million paid in bitcoin, according to the Federal Bureau of Investigation (FBI).
+
+In January, Ryuk was thought to be behind a hack of Tribune Publishing, affecting all of the media conglomerate’s outlets. In June, officials in Lake City, Florida paid out a $460,000 ransom after the city’s computer systems went dark. This was two weeks after Riviera Beach, Florida’s $600,000 hijacking.
+
+Ryuk is thought to be a modified version of the Hermes virus, which debuted in August 2018. It spreads through the usual botnet and spam methods, and infiltrates through undefended IP ports.
+
+Once installed, the malicious malware deletes all files related to the intrusion, and kills antivirus processes, thereby obscuring the infection vector. In one case, however, FBI agents found evidence Ryuk entered through a Remote Desktop Protocols brute force attack.
+
+The agency wrote in a Flash:
+
+“After the attacker has gained access to the victim network, additional network exploitation tools may be downloaded… once executed, Ryuk establishes persistence in the registry, injects into running processes, looks for network connected file systems, and begins encrypting files.”
+
+The virus also drops a “RyukReadMe” file that opens the blackmail letter on the victim’s internet browser. The html webpage lists only the two hacker’s email addresses in the upper left hand corner, the name of the virus in the center of the page, and the cryptic phrase “balance of shadow universe” in the bottom right corner.
+
+The FBI has been tracking the virus since 2018 and have noticed a number of modifications. It’s reported the Chinese variant simultaneously runs a 32-bit and 64-bit blackmail module, which may enable further evolution of the bug.
+
+It is has not been disclosed how many Chinese enterprises have been infected as of press time, or the total amount the hackers have ransomed.
+
+Tencent did not return a request for comment regarding this article.
+
+Hacker image via Shutterstock

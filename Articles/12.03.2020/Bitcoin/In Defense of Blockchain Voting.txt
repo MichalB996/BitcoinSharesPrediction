@@ -1,0 +1,59 @@
+DATE:  12.03.2020, 16:13:55
+TITLE: In Defense of Blockchain Voting
+URL:   https://www.coindesk.com/in-defense-of-blockchain-voting
+
+Gregory Magarshak is founder and CEO of Intercoin. Since 2011 he has built a decentralized social networking platform that has reached seven million users to date, and is working on tools to help bring power back into the hands of people and local communities.
+
+For every technology we use today, there was a time it was laughably inadequate as a replacement for what came before. For decades, chess engines were a mere curiosity, but now a smart phone can beat any grandmaster. The same is now true of voting technology.
+
+As we look back on the recent failures of apps to secure our elections, from failing in Iowa to a few days later leaking millions of voter records in Israel, we are reminded that technology, especially in the hands of smaller contractors, can be fallible, and lead to massive data leaks.
+
+Many people say we don’t need tech to secure our elections, that paper ballots have been good enough for centuries. But is that really true? George W Bush was elected U.S. president in 2000 not because he got more delegates in the end, but because the recount of paper ballots took so long the Supreme Court had to step in and make a decision. The Iraq War may have never happened if we didn’t use paper ballots. The recent coronavirus epidemic also raises health concerns about shared voting facilities versus using personal touchscreen devices.
+
+Crypto and “Byzantine Consensus” was supposed to finally secure our elections. But so far dominant blockchains like Bitcoin and Ethereum have not been scalable enough to handle millions of people paying, or voting, all at once.
+
+For every technology we use today, there was a time it was laughably inadequate as a replacement for what came before.
+
+But a new generation of open-source innovation and protocols like Intercoin, MaidSAFE and Holochain, is showing how to build provably secure, scalable infrastructure that can handle voting and economies at scale.
+
+These new protocols are not based around a monolithic blockchain and do not have a central bottleneck such as a “miner” or a “mining pool.” Instead, each entity (a coin, a file or group activity) is secured by a small subset of the whole network, called a “shard” or a “section.”
+
+Much of this technology is not new. In fact, it predates bitcoin. BitTorrent and other peer-to-peer file-sharing systems are based on a technique called Kademlia, developed in 2004. These kinds of sharded networks can scale indefinitely, their embarrassingly parallel architecture supporting a practically unlimited number of simultaneous transactions. The networks are not just peer-to-peer, but also have the ability to aggregate results, for voting and other community applications. And all of this is done without “layer 2” solutions, which are almost always centralized “cop-outs” from an otherwise trustless infrastructure.
+
+Central vulnerability
+
+Traditional networks are vulnerable because trust is concentrated in a single place – whether money, data or votes. This makes it economically attractive for both external and internal actors to try to subvert the guarantees we have come to rely on. John Dillinger didn’t waste his time robbing piggy banks. Brands won’t buy personal data from random sites with 20 users.
+
+A bitcoin wallet contains endlessly divisible balances (called “UTXOs” in bitcoin parlance). Because of this endless division, each full node must hold the entire history of every transaction just in case some of those balances may have come from fake transactions.
+
+An ethereum wallet contains token balances stored inside a smart contract on an Ethereum network. As more and more money is exchanged for this token, its total supply becomes very valuable and the smart contract becomes an attractive target for malicious actors. This is why it has been so hard to shard ethereum. If, for example, each smart contract was secured only by a few nodes, then at some point it could become economically attractive to attack this consensus, either to change some balances or just prevent further progress and kill the token. Either way, it is a bad outcome for the network.
+
+Intercoin wallets, on the other hand, hold coins, each one worth very little and watched by a small, effectively random group of nodes. Paying exact change is achieved by coins of denominations of 1/2, 1/4 and so on down, and interacting with “change bots” – accounts that exchange a coin for an equal amount of change. Coins on the MaidSAFE network (called “safecoins”) work similarly.
+
+Source: Shutterstock
+
+The key is, there is a natural limit on how much individual coins are worth. There are no UTXOs or Token Contracts worth $50 Million. To attack the consensus, an attacker would have to infiltrate and subvert most or all of the nodes in one particular shard (called a “section” in MaidSAFE), but all they would take over is one small coin. To gain any significant amount of value, they’d need to attack a proportional amount of the network. Each individual attack becomes more and more difficult as the network grows, let alone the combined attacks to net anything of value.
+
+This means large transactions must involve large transfers of coins, just as ransom and drug deals in movies are done with large suitcases of $100 bills, each one presumably not trivial to obtain. Thus, such networks are suited for smaller, everyday payments with proportional fees, rather than storing and transferring huge amounts of value for a fixed fee. Where bitcoin and ethereum help store value, Intercoin and Maidsafe enable the other side of money – a scalable means of exchange.
+
+Election Merkles
+
+So, how does that help us trust our elections to an app? The truth is, blockchain technology is not enough. You need to string together several solutions at once, including a way of distributing one token to each voter; Merkle trees (or hash trees) that record information sequentially and allow multi-person verification; include several independent vendors, so voters can check, from different “user agents”, their vote recorded on the Merkle tree; and private keys for every voter.
+
+The crypto community has already implemented much of this machinery to secure more valuable things than a single vote. Ethereum, for example, is built on a blockchain secured by many mutually distrusting parties. People may trust their favorite wallet client, but they will also verify using another wallet or a web based blockchain explorer such as Etherscan. The chances of all these entities colluding to steal someone’s tokens become smaller as more clients software is released and more miners secure the back-end network.
+
+Towards the bottom of the Merkle tree, on the level of individual precincts, individual results do not represent juicy targets to subvert. The payoff is small – 1 percent of an Iowa delegate, perhaps. By the time the results have been entered on higher levels of the tree, though, they have been checked by a growing pyramid of multiple distrusting parties on every lower level, and fixed in a way that by then is mathematically infeasible to reverse.
+
+Each individual voter would be able to record his or her Merkle branch, in order to check that their vote was recorded and counted correctly. At each level in the tree, mutually distrusting witnesses agreed that they came together and recorded a result correctly. With information being deleted at every step, no one can verify how someone else voted, unless that other person chooses to reveal their vote and Merkle branch. A system could even be constructed where voters can furnish confidential zero-knowledge proofs of how they voted, without the recipients being able to prove it to anyone else.
+
+In a way, Bitcoin and Ethereum are like MySpace and Friendster – the first iterations of a new industry that will tackle trustless computing in increasingly sophisticated things. Ethereum’s blockchain is monolithic, completely public and anyone can check anything. But if new technology will bring down the cost of running elections you can trust, then every organization large and small will want to do one. And they may not want everyone to know the results – they may want privacy inside the organization.
+
+Crypto can liberate people to form communities and get things done without needing to hand over massive amounts of trust and control to third parties.
+
+This set of requirements for privacy calls for additional innovations that are now starting to be implemented by the crypto community (here “crypto” is being used in its original sense, meaning cryptography), including group encryption, group signatures and end-to-end encryption where research is ongoing about how to efficiently perform mathematical operations on encrypted data without knowing the original values.
+
+We may never completely get away from having to trust some entity that tries to ensure each person isn’t using multiple identities to vote, but studies have shown this happens exceedingly rarely when people vote in person. As people are able to vote from their couch, away from prying eyes, we may come to rely more and more on “verified identity” services to solve this remaining security issue. Efforts to standardize and innovate in this area are ongoing and perhaps one day we will even be able to obviate this final need to trust third parties.
+
+But until then, projects like Intercoin, Holochain and MaidSAFE represent a way forward for decentralized crypto infrastructure to finally let us as a society engage in payments, voting, governance, and other scalable activities. Technology and crypto can liberate people to form communities and get things done without needing to hand over massive amounts of trust and control to third parties.
+
+For those interested, more information and technical details can be found here.

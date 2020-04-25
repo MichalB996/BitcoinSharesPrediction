@@ -1,0 +1,53 @@
+DATE:  06.02.2020, 16:00:11
+TITLE: Blockstack’s New Consensus Mechanism Creates New Use Case for Bitcoin
+URL:   https://www.coindesk.com/blockstack-nodes-will-be-paid-in-btc-not-stx-to-secure-the-network
+
+Blockstack is giving its long-term holders a new way to earn bitcoin.
+
+Announced Thursday, the decentralized-web startup is rolling out a consensus mechanism that essentially presents a fresh use case for the world's most popular cryptocurrency.
+
+When version 2.0 of Blockstack's Stacks blockchain comes out, miners on the network will need to post BTC to mine a block. That BTC will then get shared with nodes maintaining a copy of the ledger.
+
+"We accept bitcoin as the most secure blockchain in the world. We accept a world where this will continue to be the case," Blockstack CEO Muneeb Ali told CoinDesk in a phone call.
+
+The Stacks blockchain, which aims to put user data in the hands of users, is designed so apps can be built without central data storage. Apps can point to where to look for user data, and these pointers are stored on the Stacks blockchain. STX tokens are needed to participate in the chain.
+
+To prevent spamming, or Sybil, attacks, all cryptocurrencies require some cost for writing new blocks. Bitcoin did this first by essentially requiring miners to spend electricity to participate, with its Proof-of-Work (PoW) consensus mechanism. By requiring miners to buy bitcoin and turn that over to the network to participate, Blockstack thinks it has found an ample cost to help prevent malicious entries.
+
+How it works
+
+Called Proof-of-Transfer (or PoX in the new Blockstack white paper describing the mechanism), the new consensus protocol has two kinds of participants: miners and stackers.
+
+"PoX can help to solve a bootstrapping problem for new blockchains," the white paper states. “Participation rewards in a separate, potentially more stable, base cryptocurrency can be a better incentive for encouraging initial participation than offering participation rewards in a new cryptocurrency.”
+
+Miners write blocks and earn STX tokens in exchange for their BTC – at a rate of 500 STX per block. That BTC will be distributed among the stackers, who will be keeping a copy of the blockchain and also voting on which version of the chain miners should mine on.
+
+Blockstack distinguishes this new approach from Proof-of-Stake (PoS) because node participants don't have to put any of their assets at risk to participate, beyond the opportunity cost of agreeing to lock up their STX for some set amount of time.
+
+"Proof of Transfer is a proposed design that uses Bitcoin’s Proof of Work (PoW) to launch new blockchains that are anchored in Bitcoin’s security," Blockstack wrote in a blog post shared with CoinDesk in advance. "Further, PoX can give incentives to earn Bitcoin rewards to participants of such new blockchains. Such Bitcoin rewards were not possible before PoX. These rewards can potentially be used for use cases like consensus participation, ecosystem developer funds, incentives for specific players, etc."
+
+To serve as a stacker won't be cheap, though. It will take roughly $10,000 in STX to participate, Ali said, but like other chains with similar arrangements users won't need to actually have that much. They can delegate to a service that maintains the node, in exchange for agreeing to lock up STX in collaboration with the node operator.
+
+Tezos has this with its “bakers” and EOS has effectively turned staking eos to vote for validators into a money-making proposition as well, as we previously reported.
+
+What's new with PoX, though, is participants in the network locking up the native token don't earn the native token for doing so. They earn BTC.
+
+"I think the market and the entrepreneurs are starting to recognize that bitcoin is the strongest computing network in the world and therefore you can build things on top of it," Anthony Pompliano, partner at Morgan Creek Digital, told CoinDesk.
+
+But, given the rough outline of the proposal, Pompliano wasn't sure the bitcoin community would get behind it.
+
+What’s in it for miners?
+
+Mining the Stacks blockchain will be possible with a normal internet connection and computer, Ali said. Miners will just need to watch the price of STX and the price of BTC to assess whether continued participation fits their risk profile.
+
+"In our process of mining, the miners can model PoX mining as almost as an exchange," Ali said. This should have some sort of arbitrage advantage early on but if all goes well that difference should shrink as participation increases, he added.
+
+Miners’ income opportunities will also go up when Blockstack is ready to release its smart contract language, Clarity. Once miners activate it, they will start earning smart-contract fees. Ali argues Stacks may be attractive for developers looking to use smart contracts because they will be able to get extremely precise cost estimates for their code.
+
+Blockstack will not participate in mining. The current plan, Ali said, is that once 20 miners activate the new version of the software, Blockstack 2.0 will go live. Miners will continue to have the ultimate decision about upgrades on the network.
+
+The current version of Stacks operates atop bitcoin with the vision to eventually migrate out as its own PoW chain. This completely changes with version 2.0.
+
+"With this thing, we basically need to never migrate from bitcoin," Ali said.
+
+Update (Feb. 6, 18:29 UTC): The headline of this piece has been changed for accuracy.

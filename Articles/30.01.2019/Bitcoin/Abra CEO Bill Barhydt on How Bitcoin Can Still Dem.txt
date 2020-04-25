@@ -1,0 +1,149 @@
+DATE:  30.01.2019, 13:00:09
+TITLE: Abra CEO Bill Barhydt on How Bitcoin Can Still Democratize Finance
+URL:   https://breakermag.com/abra-ceo-bill-barhydt-on-how-bitcoin-can-still-democratize-finance/
+
+This story is part of BREAKER’s Social Good Week, a series looking at ways blockchain technology can engineer progress and help humanity.
+
+
+
+Bitcoin was supposed to help the unbanked. Almost since its inception, boosters have been claiming this new kind of stateless, borderless money holds the key to financial inclusion, that it can help billions of people plug into the global economy. With traditional financial institutions, under pressure from regulators, continuing to pull out of parts of the world deemed too high-risk to serve, it’s tempting to think that cryptocurrency is the answer. But its tantalizing promise has yet to be fulfilled.
+
+Bill Barhydt is working to make sure it will be. A former CIA cryptographer and early Netscape employee, Barhydt gave the first ever TED Talk on bitcoin, in 2012, when bitcoin was trading at only $4. Like many early enthusiasts, he saw right away the potential for cryptocurrency to provide the world’s poor with an alternative to Western Union and MoneyGram, while giving people of every income bracket a new kind of sound money, free from government interference. It took him several years more to hit on the right business model to make it happen.
+
+Barhydt is the CEO of Abra, a digital wallet provider that aspires to be a “global bank” for people who may not have any other bank account. Right now, though, it’s primarily an investment platform, having gone through several iterations that reflect the changing narrative of bitcoin itself, from digital cash and borderless payment method to speculative asset. Abra allows retail investors to buy, sell, and hold 30 different crypto assets and 50 national currencies. It has 500,000 users across more than 100 countries, according to Barhydt, and has processed close to $1 billion in transactions so far.
+
+But capitalizing on crypto mania is only the beginning. Using bitcoin smart contracts—agreements couched in, and executed by, computer code—Barhydt plans to launch credit services on the app later this year, on his way to doing even wilder things. I catch up with him by phone in mid-January, while he’s in Miami to attend the North American Bitcoin Conference. I want to know how an investment app can promote social good, what it will take to help immigrants more easily send money back home, and why Barhydt thinks the future of crypto may lie in collateralizing old-school assets.
+
+What did you do before Abra?
+
+I’ve been working in tech and financial services and payments for almost 30 years. I’ve done everything from working at the CIA as a cryptographer in secure messaging, to working at Goldman [Sachs] as a quantitative analyst in fixed income, to working on internet software at Netscape, and a lot of other stuff. It all led to Abra, including a lot of work in developing markets and mobile payments. Abra is the culmination of many decades of work to try to improve the banking system via software, the internet, and mobile.
+
+When we pitched our Series A investors, it was basically to build a global bank using crypto.
+
+You worked at the CIA?
+
+Oh, God, this was a long time ago—this was like late ’80s, maybe 30 years ago.
+
+So even before you got into financial services and payments, you were already involved in tech.
+
+Absolutely. My background is in computer science by education, but I’ve done a lot of work in banking, as well as financial cryptography, over the last 10 years.
+
+What was your initial concept for Abra, and what inspired it?
+
+I wanted to build a single, smartphone-based application that would allow consumers in every country in the world to access financial services. The same way you can use WhatsApp or Instagram to share multimedia messages with people in 150-plus countries, I wanted to do that for banking services—whether it was investing, payments and money transfer, or credit. There is no single smartphone app that allows you to do those things in every country in the world today. There are obviously reasons why that’s the case, but I believe all the pieces are now in place to change that.
+
+Tell me about Abra’s pivot away from borderless, frictionless money transfers to become an investment platform. What caused it?
+
+We’re definitely committed to the overall payments, money-transfer space, just as much as we are to credit and investing. We just decided that the complexity of launching a global network for money transfers with crypto was too much for a startup. It was going to cost us way more money than we had in the bank. It’s like launching Uber in 100 countries when you have to sign up drivers. That’s why Uber raises so much money. When we pitched our Series A investors, it was basically to build a global bank using crypto. It included lots of different services—some of which we’re going to launch this year. But we just didn’t know at the time the best way to bring the services to market. We realized that we could add value very quickly with this model, build out a global network, and then over time layer in services like money transfer [and] credit, which we’ll be launching later this year.
+
+Today, the process of sending money internationally is costly and opaque. Why is this so hard to do well?
+
+Money transfers have a couple of different [aspects]. There are remittances, but there’s also the middle-class consumer, bank-wire perspective, or domestic services like Venmo or WePay. Most people associate remittances with migrant workers sending money home. [That’s where] the recipient usually wants cash in hand, and doesn’t really care about the technology. Most people who receive remittances don’t actually know which service the sender used, because they just receive cash. That is highly problematic for launching a mobile-to-mobile service. The reality is, if the recipient of a money transfer to India from somebody working oil fields in Saudi Arabia wants cash, then storing cryptocurrency on a smartphone doesn’t really make a lot of sense. Nobody really knows how to deal with that last-mile problem of remittances as it relates to crypto, because the recipient has a very different expectation in their mind [than] the techies.
+
+What will it take to crack crypto remittances?
+
+We have some ideas on how to scale that solution and how to address that over time, but that’s not our focus right now. We just want to build out services that take advantage of this synthetic-asset platform in order to get, literally, millions of users in the system. Then, eventually we’ll be able to provide services to more bottom-of-the-pyramid markets, where things like remittances or low-cost microloans are really going to move the needle. First things first.
+
+What do you mean by “synthetic-asset platform”? Is “synthetic asset” just another term for crypto asset?
+
+It’s not a crypto asset; it’s a crypto-backed asset. If you store a dollar—or invest in Zcash or Monero—through Abra, what you’re actually doing is entering into a multi-signature bitcoin smart contract that uses bitcoin as collateral to peg the value of bitcoin to that other asset. But the consumer doesn’t have to understand that. It’s super easy from the consumer’s perspective, but very complex in terms of what’s going on behind the scenes.
+
+Nobody in Haiti says, "My problem is that I'm unbanked." Most people in Haiti don't know what the eff that word means.
+
+Does the consumer know he’s holding bitcoin in a smartphone wallet, or—
+
+They can know, via the terms of service, but they don’t need to know, and they don’t need to understand if they don’t want to. That would be like saying, “I’m at the counter at Walmart, and I want to know what happens when I swipe my credit card.”
+
+But if this is a crypto investment app, it must be for people who want exposure to these assets. Don’t they want to see the actual assets in their wallet?
+
+They do. They see their investment exposure to the asset. It’s an investing app. And it’s not just crypto assets; there are 30 crypto assets and 50 fiat assets [available], and you’re going to see more asset classes this year beyond fiat and crypto—all based on the same synthetic-asset model. So whether I’m investing in silver or Zcash or Mexican pesos, Abra works 100 percent the same way. And when I convert from pesos to XRP, or from XRP to Monero, or from Monero to Australian dollars, it all works the same way. It’s all a conversion of one bitcoin-based smart contract to another.
+
+And that model can be extended to accommodate new assets and services?
+
+The Abra model that I’m describing will work—using that same conversion of synthetic assets—whether it’s investing, payments and money transfer, or credit. We have users doing money transfer with Abra today, and the only difference between converting your dollars on the phone into Monero and sending money to somebody else is that the conversion of smart contracts happens on a different phone. In the investment use case, if I convert my dollars to Monero, it’s all happening in my Abra app. In the other use case, if I send dollars from my phone and [the money] lands as Zcash or euros on your phone, the conversion happens on your phone instead of on my phone.
+
+Does Abra take conversion fees?
+
+Yeah, we set the exchange rate between any two assets in the system, and we usually make a small spread on that conversion. That’s our revenue.
+
+You mentioned the cost and the difficulty of Uber growing its network. I recall your plan a year and a half ago was to build out a network of on-the-ground agents in different places to provide cash to recipients of crypto money transfers. Did you run into trouble?
+
+No, we actually did it. As a matter of fact, we have a running network in the Philippines. We simply stopped because we realized that the cost of deploying it—going beyond the tests that we were doing—was going to cost us $1 billion. And that didn’t make sense. Over time, we think we can build it out at much lower cost if we integrate it into other services. The cost of customer acquisition in the remittance space is incredibly high. The likes of Western Union, Xoom, [and] Remitly spend anywhere from $75 to $125 to acquire a customer in that space. Abra spends almost nothing on marketing today, because we’re adding value for people who want to use our app the way it is.
+
+Why is it so costly to acquire a remittance customer?
+
+It’s because there are 25 companies trying to acquire the same customers. When Xoom pioneered the online digital acquisition model for remittances, the cost of acquisition was very low. Then Western Union got into the digital business; so did MoneyGram, Remitly, and a whole bunch of other companies. So the cost went up 10X. At scale, a model like Abra’s, which is phone-to-phone, has a lower cost of acquisition because it’s more viral. But that’s going to work less in the remittance space than it will in the banking consumer space. Because if you’re going to use something like Abra to send a bank wire, you’re going to get the recipient to download Abra. They’re going to be incentivized by the fact that you’re sending a transaction which will result in more money in [their] wallet, since the cost of the transaction is close to zero. That makes the app kind of virally distributed. But in remittances, when the recipient is receiving cash, it’s very hard to create a viral model, because there is no tech on the receiving side. It’s a different business, with low stickiness and low loyalty and high acquisition costs. Whereas what Abra is doing has high loyalty, high stickiness, and very low cost of acquisition.
+
+Abra is billed on its website as “the simplest way to invest in cryptocurrencies.” Are you trying to compete with Coinbase and Binance?
+
+Since we launched the app into beta about a year ago as a very simple crypto wallet to buy, sell, hold, and exchange among crypto and fiat assets, that’s all we’ve been focused on. Now, we will be adding more asset classes to the app beyond fiat and crypto. I can’t say yet what those are, but they’re going to be coming very soon. Most of our users are non-trader retail investors. We don’t really compete with the exchanges, because most of our users aren’t really interested in using exchanges. They want a very simple retail consumer experience.
+
+I liken what we do to Travelex at the airport, as opposed to doing forex trading at Goldman Sachs. You go to the airport with your leftover euros, put them on the counter, and leave the counter with a bunch of dollars. You go to the Abra app with a bunch of dollars and leave the app with a bunch of ether or XRP, or any combination. It’s simple. I don’t know of any app in the world, besides Abra, that gives you 80 assets, all 80 of which can be exchanged for all 79 of the others, with a simple one-click retail experience.
+
+How many countries do you support now?
+
+We have users in way more than 100 countries. Abra is in the iOS and Android app stores in almost every country in the world. About 50 percent of our users use the app by depositing bitcoin as the basis for their trading, and about 50 percent use their bank account. That we have so many users depositing bitcoin gives us a long tail of users in different countries, because in a lot of places it’s easy for them to get access to bitcoin now.
+
+Almost since bitcoin was invented, people have been talking about how crypto could “bank the unbanked” and save the world’s poor from the high fees of Western Union and MoneyGram. But it still hasn’t happened in a big way. Can you explain why?
+
+This is a very complex question, but I think I know the answer. There are basically three key pillars to providing banking in developing markets. Nobody in Haiti says, “My problem is that I’m unbanked.” Most people in Haiti don’t know what the eff that word means. You go to Mexico, you go to the Philippines, you go to Indonesia—nobody says, “Oh, my God, if only I wasn’t unbanked.” Nobody cares about that, except maybe people with great intentions at NGOs.
+
+What people care about is, “Can I get credit in a pinch? Can I send or receive money at reasonably low cost? And can I invest? If I’m saving my family’s money, even if it’s only $50 a month, can I invest that money, or do I have to leave it under the mattress? And can I invest it in something other than my country’s failing currency?” In Venezuela or Argentina, if you’re older than 40 you’ve probably seen this rodeo 10 times: currencies failing and getting propped up, or failing and starting over. So all three of those models are relevant in developing markets.
+
+There are only 100,000 investment accounts in the entire country of Mexico for tens of millions of people. That's insane.
+
+Now, this is where crypto starts to get interesting. For two reasons. One is bitcoin’s ability to serve as hard money. But, and this is a big one, it’s only going to become useful for the average consumer in the short term—the next five years—if you can take that hard money and use it to collateralize other asset classes. Because the average consumer does not have the mental capacity right now to understand what a cryptocurrency means. It would be like explaining TCP/IP to your grandmother so that she can watch Netflix. It’s not going to happen. But if you can collateralize real-world assets using crypto, [without] introducing new third-party custodians, you’re onto something really interesting. Because now you can represent fiat currencies, stocks, bonds, commodities in a way that doesn’t require you to become a bank. That’s interesting. You’ve got a combination of hard money and regulatory arbitrage to solve real consumer problems. That’s what I think it’s going to take to break into developing markets.
+
+What do you mean by “regulatory arbitrage”?
+
+I mean that if you can actually have the keys to your funds on a smartphone, there is no third-party bank required to help you manage those funds. And if the app is developed correctly, I can do things with those crypto-collateralized assets—my cash, my stocks, my mutual funds—that I couldn’t do in Haiti today. According to my research, there are only 100,000 investment accounts in the entire country of Mexico for tens of millions of people. That’s insane. People just don’t trust, or don’t have access to, [those financial channels]. But they all use WhatsApp. So if you could give them an app that is as easy as WhatsApp—where they don’t have to trust the banks, they don’t have to trust the government, they can be in control, they can get access to U.S. or European markets for investing, they can receive money from their family in the U.S.—using this crypto-collateralized model that bypasses the banking system, the consumer all of a sudden is using bitcoin but doesn’t know it. That’s the key to success, in my opinion. So you have to understand not only how to take advantage of this new digital hard money, but also how to build services that hide its complexity from the average consumer. Whether they’re in Mexico or the Philippines or Indonesia, it makes no difference. The viability and demand for what I’m talking about is global.
+
+The complexity of your model seems counterintuitive. This is what it’s going to take to gain worldwide adoption?
+
+I think that’s what it’s going to take. Most people say, “Use bitcoin to do money transfer and the world will be great.” Well, obviously that’s a bunch of nonsense. It’s not happening. I can actually explain to you right now how to invest in stocks using bitcoin in a way that doesn’t require any banks or any regulated exchanges, and you wouldn’t do it—because it would be so complex, it would make your head spin. But if you could do it in a way that hid the complexity from the average consumer, and all they [knew] was “Oh, I just received pesos,” or “I just got a low-cost loan against the assets that I’m holding in the simple banking app on my Android phone,” then people would use it. I promise you.
+
+In this model, crypto becomes the bank. When you’re holding dollars, you’re actually holding crypto-collateralized dollars rather than dollars in a bank vault. Now, a crypto-collateralized dollar is a very complex instrument, but the consumer doesn’t have to understand it. They can just look at the app and see that it’s a dollar.
+
+And they can still send that dollar to someone and have that person receive it and spend it as a dollar?
+
+Exactly. The person who receives it would be receiving a crypto-collateralized dollar, but then he can use on-ramps and off-ramps that we’ll be providing over time to go to the store and spend that dollar.
+
+Or even potentially deposit it into a bank account?
+
+Exactly.
+
+I know you have large ambitions to benefit people all over the world. But when most people think of social good, crypto investment schemes aren’t the first thing that comes to mind.
+
+Nor should they be. The focus for us this year is: What is the next generation of assets that are really going to add huge value to the everyday average investor at global scale? That’s where I’m spending my time right now. We want to make credit services available to rural China and core parts of Central America as well as to [middle-class] people in the West.
+
+So you haven’t given up, then, on the idea of bitcoin—or any crypto—helping the unbanked?
+
+“Unbanked” is such a horrible term. It’s such a useless phrase. The services we’re [launching] are going to be very useful in developing markets that aren’t traditionally targeted by large retail banks. Whether [our users are] banked or unbanked, or people with a bank account that has a zero balance, doesn’t really matter to me. If you look at the markets that we’re interested in, with the services we’re launching this year, it’s going to be places like Mexico, the Philippines, Indonesia. It’s not going to be the very bottom of the pyramid, places that are literally relief and disaster zones. We’ll get there eventually. But I think that up-and-coming developing countries are the ones that are really going to take advantage of this.
+
+How has the crypto winter affected your business?
+
+This year, I think most of our revenue will not come from crypto trading; it will come from other asset classes that use crypto in the background, as a synthetic asset, but where people aren’t [explicitly] saying, “Oh, I want Zcash.” They’re going to be saying, “I want some real-world asset.”
+
+That leaves me particularly bullish on the future of crypto, because I think the single biggest opportunity to grow the crypto market—bar none—is not institutional investors coming in, it’s crypto collateralizing real-world assets to enable all kinds of banking services. Nobody seems to get that but Abra—and that drives me insane, to be honest. Think about this for a second. What we’re doing, we’re doing in 100 countries, all based upon bitcoin collateralizing assets. Now, there’s simply not enough bitcoin in the world to collateralize the assets that we are going to be collateralizing. What is that going to do to the price of crypto as a result?
+
+Collateralization of real-world assets is going to drive the demand [for crypto] through the roof.
+
+You think it will drive up the price?
+
+If I’m right, it has to. Every single transaction done in the Abra system is completely, 100-percent collateralized in bitcoin. And at the rate we’re scaling, there’s simply not enough bitcoin to collateralize all of those assets. But if the price of bitcoin were 100X higher, there would be more than enough.
+
+Because you’d simply use small fractions of each bitcoin?
+
+Exactly. You’d be able to divvy it up to a lot more people. But that won’t happen, in my opinion, simply because some investors arbitrarily decide it’s a great idea. Investors are going to decide it’s a great idea because collateralization of real-world assets is going to drive the demand through the roof.
+
+Interesting. And why have you chosen to use bitcoin smart contracts instead of Ethereum smart contracts?
+
+When we started Abra, bitcoin was really the only way to do this. Ethereum was basically a beta project. The market capitalization was very low, it wasn’t globally liquid, and a lot of the wallet implementations have had big security issues. Ethereum itself hasn’t had big security issues, but if you look at DAO and other complex wallets, they’ve had security issues. The scripting language of bitcoin can’t really do much, and that’s why it’s so secure. The liquidity of bitcoin, the security, the market cap—all those things together led us to the conclusion that it’s the right model for Abra. It does exactly what Abra needs. No more, no less.
+
+What is your five-year vision for Abra?
+
+My five-year vision is that Abra democratizes access to financial services for every consumer in the world. Whether it’s investing, payments and money transfer, or access to credit. By combining [smartphones] with a crypto-based platform, [you can] democratize true access to real financial services for everyone, not just for the wealthy.
+
+This interview has been edited and condensed. Photo courtesy Bill Barhydt.
+
+Get the BREAKERMAG newsletter, a weekly roundup of blockchain business and culture

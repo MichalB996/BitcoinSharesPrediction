@@ -1,0 +1,47 @@
+DATE:  04.09.2019, 12:15:15
+TITLE: Will We Realize Blockchain’s Promise of Decentralization?
+URL:   https://hbr.org/2019/09/will-we-realize-blockchains-promise-of-decentralization
+
+The promise of blockchain is decentralized governance. However, managers need to carefully consider two things. First, decentralized governance is not a necessary feature of blockchain; it needs to be enacted. Second, the benefits of decentralized governance may not always be worth the associated costs. Protocol developers may be able to work more effectively on their own or in small teams. As increasingly more businesses move core functions to blockchain the distinction between centralized and decentralized governance becomes increasingly important. There are many expected benefits from decentralization and those benefits may elude us if decentralization fails in practice.
+
+Yagi Studio/Getty Images
+
+Since its inception, blockchain has promised to make trusted third parties redundant. In practice, though, whether blockchain is actually decentralized depends on what is governed and how this governance is enacted. As more businesses explore blockchain this distinction becomes increasingly important. There are many expected benefits from decentralization and those benefits may elude us if decentralization fails in practice.
+
+How blockchain governance is enacted—what people do in practice—can differ considerably from how blockchain governance is envisioned—what people aspire to do. There is no one commonly agreed upon definition of blockchain, but according to one often used in the common discourse, a blockchain is a distributed ledger shared by multiple parties who can add transactions to the ledger. This implies that changes are reflected consistently for all parties. If reconciling contradictory ledgers is costly, this may be beneficial. Blockchain’s proponents expect it to be virtually immutable without being centralized, meaning that blockchain would not require a trusted third party that decides upon the ledger’s content. Bitcoin, the first blockchain implementation, has succeeded in allowing for digital payments without having to rely on any trusted third party.
+
+Such decentralization is expected to bring cost savings (through disintermediation), and empowerment to participants, since the parties using the blockchain do not need to trust a powerful third party to act in their best interest. But these benefits are realized only through decentralization. If decentralization fails to materialize, we return to the problems of power and trust. We can understand this contradiction by identifying the different ways Bitcoin– as a prototypical example of blockchain– is governed, both in its envisioned form and in practice.
+
+Four dimensions of Bitcoin governance
+
+Governing new transactions
+
+Millions of people use Bitcoin and anyone can submit a transaction. But in practice there are some elements of centralization. Users pay sometimes hefty transaction fees to encourage quicker validation of transactions. Consequently, users unwilling to pay high transaction fees may either choose to not transact at all or have to wait longer to get their transactions validated.
+
+Governing consensus
+
+New transactions need to be validated to become part of the blockchain. A consensus mechanism specifies how to get multiple nodes to agree on whether a transaction is valid and should be added to the blockchain. In Bitcoin, it is envisioned that anyone can validate and add transactions. Only one user is allowed to do so at a time. Users repetitively compete for this right by letting their computer look for an unknown number. Participation in this process, known as mining, is resource intensive and costly. The winners receive bitcoins in return.
+
+Consensus mechanisms allow for decentralizing the validation of transactions. They are crucial in arguments that the Bitcoin system could replace banks and function without trusted third parties safeguarding transaction ledgers.
+
+Despite envisioned decentralization, the high cost of mining has led to considerable centralization of consensus in practice. In order to share the risk of spending the resources but failing to win the competition, groups of miners form mining pools. This resulted in just a few mining pools validating most transactions. At the same time, mining pools charge miners for participation, with larger mining pools charging more. Therefore, they attract fewer miners and grow more slowly. It is unlikely that the environment would end up fully centralized with just one mining pool. So while in practice achieving consensus is more centralized than it was envisioned, a certain degree of decentralization is still retained.
+
+Governing updates
+
+Once the blockchain is operating, updates to the blockchain protocol may be needed or desirable. In Bitcoin, it is envisioned that anyone can develop and suggest protocol updates. In practice, however, these changes are typically proposed by only a handful of developers and the discussions are highly centralized, with a small number of commenters provide significantly more comments than the rest.
+
+Governing the design
+
+Before, before the blockchain starts operating at all, the blockchain protocol needs to be designed. This governance dimension differs from the other dimensions in two ways. One is that the design is enacted before the other three dimensions. Second is that there has been little debate on whether the initial design should be decentralized or centralized — which is surprising given the enthusiasm around decentralization in blockchain. In practice, the protocol development is typically highly centralized and coordinated. In the case of Bitcoin, the initial design was proposed by Satoshi Nakamoto, an unknown entity that could be an individual or a small group of people. This secrecy itself indicates that the process of developing the 2008 white paper could not have been very decentralized.
+
+Distinguishing between envisioned and enacted blockchain governance
+
+The Bitcoin example shows us how real-life blockchain governance can differ significantly from how it is envisioned. For transaction submission and validation, as well as protocol updates, enacted governance appears to be considerably more centralized than envisioned governance. Even if decentralization is envisioned, it may not materialize. We can see that in practice the dimensions that are design-related (protocol development and updates) tend to be marked by particularly centralized governance, while those that are related to the actual use of blockchain (transaction validation and submission) tend to be somewhat more decentralized.
+
+Since blockchain technologies debuted, we’ve learned that despite how they were envisioned, governance is often more centralized in practice since decision-making power is often costly to acquire and exercise. Expertise, reputation, time, or money can all be required to gain decision-making power. The higher these costs are, the fewer are the people who want to participate, which contributes to centralization in practice.
+
+Bitcoin is a permissionless blockchain. For permissioned blockchains such as IBM’s Hyperledger Fabric, which restrict who can propose protocol updates, validate transactions, and submit transactions blockchain governance is envisioned to be more centralized than for permissionless blockchains such as Bitcoin’s.
+
+Weighing the potential for decentralization
+
+The promise of blockchain is decentralized governance. However, managers need to carefully consider two things. First, decentralized governance is not a necessary feature of blockchain; it needs to be enacted. Second, the benefits of decentralized governance may not always be worth the associated costs. Protocol developers may be able to work more effectively on their own or in small teams. Even the decentralization of transaction validation may not always be superior, as Bitcoin’s slow and energy-intensive consensus mechanism demonstrates.

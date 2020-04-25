@@ -1,0 +1,33 @@
+DATE:  05.01.2020, 19:50:21
+TITLE: SLP Devs Publish Code Bounties With $2,500+ in Crypto Rewards
+URL:   https://news.bitcoin.com/slp-devs-publish-code-bounties-with-2500-in-crypto-rewards/
+
+SLP Devs Publish Code Bounties With $2,500+ in Crypto Rewards
+
+While a number of software developers work on the Simple Ledger Protocol (SLP) framework, SLP devs are still looking for other contributors to help foster the protocol’s ecosystem. In order to help bolster SLP development, the simpleledger.cash website has published requests for bounties worth a couple of thousand dollars in spice token and the stablecoin USDH.
+
+Also read: New SLP Telegram Bots Introduced to Bitcoin Cash Supporters
+
+Simple Ledger Protocol Bounties
+
+The SLP universe is growing fast and there were a lot of developments in 2019 including the first Simple Ledger Protocol developer meeting at the end of the year. A few days after the first SLP dev gathering, the official Twitter account tweeted a request for people to complete six different bounties that will help galvanize the project’s foundations. Two out of the six bounties are currently “in progress” and four of the projects are marked “open.” There is $2,500+ worth of honestcoin (USDH) available between five bounties and one project paying 500,000+ spice tokens as well.
+
+The first project is called “SLPB-1: Smart Contracts for SLP Minting” and it is paying 500+ USDH for the bounty’s completion. The task was created by BCH and SLP software engineer James Cramer and it involves building at least one or more smart-contracts that can provide extra security to token issuers. The work must also “allow token issuers to specify a maximum mintable supply cap for their token,” the bounty’s description notes. Because the initial bounty says 500 USDH, “subsequent bounties may expand upon this initial work.”
+
+Other bounties include performing integrity checks in slp-list library, create SWIG CMake targets for gs++ slp_validator, integrating the SLP Postage Protocol into the Electron Cash SLP Edition wallet, make SLPDB use ACID transactions, and optimize *InsertReplace operations in SLPDB. Each project’s link contains the requirements needed to complete the tasks as well as resources. For instance, the SLPB-1 bounty has a few specifications and assets covered in the bounty description including tools like SPEDN, the SLP Specification, Cashscript, and the Licho Last Will Covenant.
+
+SLP-SDK 4.14, BCH-js 2.1 and SLP Support for Bitcoincashj
+
+In addition to the bounties, software developer Chris Troutner published “slp-sdk v4.14.0, which fixes “a bug in tokenUtxoDetails().” Troutner also published a fix to a “rounding error bug that can corrupt SLP token sends” in bch-js v2.1.7, a Javascript npm library for creating BCH-centric web and mobile apps. Additionally, the BCH developer Pokkst announced on December 19 that he started work on implementing SLP support into his project bitcoincashj.
+
+“And here we have the first SLP transaction created and sent via bitcoincashj,” Pokkst tweeted. In addition to the development, BCH supporters have noted that SLP tokens saw record trading volume in December. Semyon Germanovich, the founder of the SLP exchange Cryptophyl, explained that December trade volumes on the exchange outpaced the last four months combined.
+
+“It’s amazing to see so many new users entering and learning about Simple Ledger tokens and Bitcoin Cash,” Germanovich said.
+
+What do you think about the SLP developer bounties? What do you think about software developers working on other projects within the SLP universe? Let us know what you think about these subjects in the comments section below.
+
+Disclaimer: This article is for informational purposes only. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any ideas, software, concepts, content, goods or services mentioned in this article.
+
+Image credits: Shutterstock, Wiki Commons, Simpleledger.cash website and blog, SLP Logo, Fair Use, and Pixabay.
+
+Did you know that Bitcoin.com’s BCH Block Explorer can query SLP token transactions? Check it today to search and find Simple Ledger Protocol token’s within the BCH network. Our Blockchain Explorer tool will allow you to view all previous BCH and BTC transactions as well.

@@ -1,0 +1,151 @@
+DATE:  02.12.2019, 14:08:39
+TITLE: How Easypaysy Could Create Bitcoin Accounts
+URL:   https://bitcoinmagazine.com/articles/bitcoin-need-accounts-one-developer-thinks-figured
+
+Ring in the new bitcoin halving cycle the right way: with us!
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+Bitcoin doesn’t use typical “accounts.” Instead, with each payment, the funds are sent to a unique “transaction output.” In such an output, the Bitcoin address can potentially be reused, in which case the address would act a bit like a Bitcoin account. Reusing addresses in this way, however, makes it trivial to link different coins and transactions to the same user, which is horrible for privacy. Bitcoin users are instead encouraged to generate a new address for each receiving payment.
+
+While a best practice for privacy, Spanish developer José Femenías Cañuelo believes this isn’t exactly user friendly.
+
+“We are somewhat used to Bitcoin payments the way they are, but it’s really an atrocity,” Cañuelo told Bitcoin Magazine. “It’s like using the internet without domain names, relying only on IP addresses — only worse, because crypto addresses are way longer, uglier and constantly changing.”
+
+To solve this issue, over the past year, the developer figured out how to bolt an account system on top of Bitcoin. Having extensively detailed the idea in a new white paper, Femenías is now proposing his Layer 2 protocol: Easypaysy.
+
+While preserving Bitcoin’s most valuable attributes — such as privacy and self-sovereignty (no need to rely on custodians) — the Spaniard believes his proposal would improve the Bitcoin user experience significantly: It would enable non-repudiation, recurring payments, and more.
+
+Easypaysy Bitcoin Accounts
+
+As a key property of Femenías’ proposal, Easypaysy would not depend on any outside source. Both setting up the account as well as using it all happens on the Bitcoin blockchain itself.
+
+This is possible because an account is created with a special transaction. This transaction has one input (the “sending” half of the transaction), which includes a two-of-two multisignature (multisig) address. This means that two public keys are revealed, signing the transaction. The transaction also has one output (the “receiving” half), which is an OP_RETURN output. In this case, the output doesn’t actually receive any funds; it just includes a little bit of data.
+
+The two public keys used in the input belong to the account owner who also created the transaction, and both keys serve a function. The first public key is called the “Identity key,” and it is essentially the account holder’s digital identity. Anyone who wants to communicate with him privately must use this public key to encrypt the messages. The second public key is called the “Value key,” and it is used to receive payments.
+
+There are two different public keys instead of one because the Value key is even more valuable than the Identity key: The latter is used for messages, the former for money. “The Identity key must be ‘online,’” Femenías explained. “That opens it up to vulnerabilities, in the same way that online wallets are more exposed than offline wallets. It may be wise to keep the Value key in cold storage, while the Identity key is more actively used to communicate.”
+
+The OP_RETURN text in the output, then, also serves a function. It is a small JSON document (a machine-readable data format) called the “Rendezvous descriptor.” This document contains information about the account. Specifically, it details which types of payments the account owner is willing to accept and how. (Indeed, Femenías’ proposal supports various types of payment; more on this later.)
+
+The two public keys and the Rendezvous descriptor are all the information the account needs to contain. When this special account-creation transaction is drafted, a fee is added (as such, the multisig address must have been minimally funded), and it is broadcasted to the Bitcoin network to be included in a block.
+
+Easypaysy Bitcoin Account IDs
+
+Now people need to be able to find the account.
+
+This is where Femenías slipped in one of the nifty tricks of his proposal. Once the transaction is included in a block, the account is automatically assigned an account ID, based on its place in the blockchain. Specifically, the account ID consists of the exact block that the transaction is included in, and the location of the transaction in that block. This is combined with a blockchain identifier and a checksum.
+
+Like so: blockchain@block.transaction/checksum.
+
+Let’s look at this step by step, with a random example.
+
+Say we’re using Bitcoin. The blockchain identifier, then, is “btc.”
+
+And let’s say the transaction is included in block 543,847. (This is a real Bitcoin block, mined in October 2018 — but that’s not important; we’re just making something up for now.)
+
+Let’s also say that the transaction is the 636th transaction in that block. (Again, this transaction actually exists, but we’re just making something up here; there’s no need to look up the actual transaction.)
+
+The checksum, lastly, is a cryptographic trick for extra security.
+
+“It is extracted by hashing three items,” Femenías said, “the hash of the block that includes the account, the Merkle root of that block, and the hash of the account transaction itself. Thus, if anyone tries to send you bad account data, you can easily detect it.”
+
+In our example, the checksum would be 577.
+
+So, the 636th transaction included in Bitcoin block number 543,847 would result in account ID: btc@543847.636/577. More specifically, this would be the “canonical ID,” as the block, transaction and checksum are shown in numbers.
+
+To make it even more practical, this canonical ID — btc@543847.636/577 — can also be expressed as a “mnemonic ID.” Leveraging the BIP 39 word format, used for Bitcoin wallet seeds, the numbers in the account ID can be converted into a couple of words (or combinations of words). This should be easier for humans to memorize.
+
+
+
+The numbers in the account ID of this example can be cut into three chunks.
+
+
+
+543847 = cancel-mind
+
+636 = exhibit
+
+577 = motion
+
+As such, the mnemonic ID from this example would be: btc@cancel-mind.exhibit/motion.
+
+Lastly, the Easypaysy white paper also proposes “Domain IDs,” which would depend on the Domain Name System (DNS). In short, such IDs would include an actual domain name, as well as a blockchain identifier and a checksum, and link it to an account ID through the DNS system. For example, a domain ID would look like this: btc@bitcoinmagazine.com/561.
+
+
+
+These types of IDs would rely on an external source (DNS) and would cost money and some effort to maintain. Femenías expects they’d probably only be interesting to commercial parties.
+
+Payments
+
+So we have an account and an account ID. Now, someone — let’s just call him “the payer” — wants to pay the owner of our account, who we’ll call “the payee.” The payer has the payee’s mnemonic ID, because the payee gave it to him. (The account ID, in whatever form, can simply be shared with anyone, like an email address or a phone number.)
+
+To make the payment, the first step for the payer is to convert the mnemonic ID back into the canonical ID. This step is trivial. Using the BIP 39 format, the payer simply converts the words in the mnemonic ID back into numbers, and ends up with the canonical ID: btc@543847.636/577.
+
+With the canonical ID, the payer can use the checksum to make sure that the block height and the transaction number match. This isn’t strictly necessary, but it serves as an extra check to make sure there were no typos in the account, or maybe to prevent someone from nefariously handing over a similar-looking account.
+
+Either way, the payer now knows where to find the account: It’s the 636th transaction in block 543,847. So he looks it up.
+
+This transaction then includes the Rendezvous descriptor: the JSON document in the OP_RETURN output. This Rendezvous descriptor specifies which types of payments the account is willing to receive and how. This can be all types supported by the protocol or any selection of them.
+
+Of the payment types that the payee accepts, the payer picks his favorite and makes the payment. Done.
+
+Payment Types
+
+So which payment types are possible? Femenías’ protocol includes four payment types.
+
+Type 0
+
+The first payment type — type 0 — is the simplest type but also the worst one for privacy. Type 0 payments are basically just payments to the Value key and, therefore, involve reusing the corresponding address, like many donation addresses do today. Femenías actually discourages this type, but he still wanted to include it in the protocol as an option for those who really want to use it.
+
+Type 1
+
+The second payment type — type 1 — requires interaction. For this type, the payer contacts the payee to ask for a new Bitcoin address. The Easypaysy protocol is flexible in how this contact is made; it can be by email, through a web page, in a chat app or by some other means.
+
+When the address is provided (let’s say through email), the payee also signs the address with his Identity key. This offers confirmation to the payer that the address is really the payee’s — and not an address belonging to a hacker that gained access to the payee’s email account, for example.
+
+Type 2
+
+The third payment type — type 2 — requires no interaction. Resembling tricks previously used for stealth addresses, type 2 payments let the payer generate a new Bitcoin address for the payee, from which the payee (and only the payee) can spend.
+
+To do this, the payer needs to generate a single-use public key pair. Using the private key of this key pair, in combination with the payee’s Value key, the payer generates a new public key and corresponding Bitcoin address. The payer sends the funds to this new address, and — importantly — adds the single-use public key to the same transaction as an OP_RETURN output.
+
+Interestingly, the payee can use this single-use public key in combination with his Value key to generate a new private key that corresponds with the new public key, and thus the corresponding Bitcoin address. In other words, if the payee learns of the single-use public key, he (and only he) can spend the funds from the new Bitcoin address.
+
+To learn of the single-use public key, the payee is either notified of the transaction by the payer, or the payee simply checks all new Bitcoin transactions with an OP_RETURN output. For each OP_RETURN output, he checks if it’s a public key that he can combine with his private Value key to spend the funds included in that transaction. This will often not be the case. But when it is the case, he knows he’s been paid.
+
+(To read how this works in a little more detail, see this article on stealth addresses and reusable payment codes.)
+
+Type 3
+
+The fourth payment type — type 3 — is similar to the second type. This time, however, OP_RETURN outputs must be prefaced with the identifier “EP.” This makes them easier to spot for the payee, but they do cost a little bit extra in fees for the payer.
+
+Benefits of Bitcoin Accounts
+
+As a Layer 2 proposal, Femenías’ account system would not require any changes to the Bitcoin protocol, nor would it need industry-wide consensus. Individual wallets can adopt the proposal tomorrow, and after that users could use it immediately.
+
+Femenías, of course, believes this would greatly benefit Bitcoin’s usability, opening up a whole new potential for the protocol.
+
+“Of these, non-repudiability is a big one,” Femenías said. “Let’s say you go to the Lamborghini dealer to buy your new ride. Once you agree on the price, the dealer shows you a QR code and tells you to send the payment to that address. So you do. But the day after, the dealer’s accountant tells you they are still waiting for the payment. How do you prove you paid? Because Bitcoin addresses are pseudonymous, you can’t prove you sent the money to the Lamborghini dealer.”
+
+With Femenías’ account system, this would no longer be a risk: The payer could always provide proof of payment to a specific account. For type 0 payments, this is obvious; the money was sent to the account’s publicly visible Value key. Type 1 payments are also easy to prove, as the provided Bitcoin address was signed with the payee’s Identity key. But even for Type 2 and 3 payments, the payer could prove that the payee was really paid: The single-use private key can cryptographically prove that the payee has all the information needed to identify the transaction as his and to compute the private key that lets him spend the funds.
+
+Another benefit is that Femenías’ account system would make recurring payments much more feasible: think of rent, subscriptions, or other periodic transactions to the same entity. Wallet software could be programmed to accept payment requests from a specific account, up to some maximum amount per period. (For example, the landlord’s account would be allowed to charge up to 0.1 bitcoin per month, if that’s the monthly rent.)
+
+Further, it would be much easier for merchants to return funds. This could be useful, for example, when someone makes a purchase, but the merchant later finds that the ordered product is out of stock. With an account system, the money can be returned to the customer easily, without needing to ask for a specific return address.
+
+Lastly, Femenías’ account system would, for the first time, offer Bitcoin users a blockchain identity.
+
+“This could, for example, mean that when you login to a website, you use your Easypaysy ID, and instead of asking for a password, the website challenges you to sign a message with your private key,” Femenías suggested. “Even if the website is hacked, you are always safe because they don’t store any passwords.”
+
+Downsides
+
+All that said, one of Femenías’ account system’s most powerful features, may also be its biggest drawback: It relies fully on the Bitcoin blockchain by embedding account data in it. Block space is scarce, however, and scalability is a challenge.
+
+To minimize this problem, Femenías in his white paper suggests that accounts could also be opened in bulk: One transaction could include hundreds or even thousands of accounts, for as many users. In this case, the OP_RETURN data would point to an outside source for all the account data, perhaps a website. The OP_RETURN would also include a Merkle root for all this account data, so the payer can check the account data against the Merkle root. While this solution would depend on an outside source (like a website), at least users could make sure the data isn’t tampered with.
+
+An alternative solution could be to use a different blockchain — such as Litecoin’s — to open accounts. In this case, an index number is added to the account referring to Litecoin, or whichever blockchain is used. While this solution would arguably be secure enough in the case of Litecoin, it does, of course, come with the obvious downside that Bitcoin users would come to rely on a different cryptocurrency, to a certain extent.
+
+For more information and details, see the Easypaysy white paper.

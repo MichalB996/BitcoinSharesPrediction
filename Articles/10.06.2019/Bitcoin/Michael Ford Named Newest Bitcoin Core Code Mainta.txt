@@ -1,0 +1,23 @@
+DATE:  10.06.2019, 23:30:31
+TITLE: Michael Ford Named Newest Bitcoin Core Code Maintainer
+URL:   https://www.coindesk.com/michael-ford-named-newest-bitcoin-core-code-maintainer
+
+Long-time Bitcoin Core contributor Michael Ford, who often goes by the handle “fanquake,” has been named the newest maintainer of the open-source software project.
+
+Ford will join the four other current Bitcoin Core maintainers — Wladimir van Der Laan, Jonas Schnelli, Marco Falke, and Samuel Dobson — in doing the “janitorial” work that keeps the most popular version of the bitcoin node software organized and moving forward.
+
+The decision was made at the last CoreDev meeting, an invite-only event which gathers many of the most active Bitcoin Core contributors a couple of times a year. As the developers are spread across the world and mostly chat online, this gives them some time to chat face-to-face.
+
+Ford was nominated, as described in a transcript under the Chatham House rule (which doesn’t put names to specific comments in the hopes of promoting freer discussion) written by contributor Bryan Bishop.
+
+Ford subsequently added his key to the “trusted keys list” file on GitHub, giving him the ability to merge in changes that have been finalized into the codebase.
+
+Ford said on GitHub:
+
+“I’ll gain merge access and will continue with all triage/repo management work. I’ll be focusing primarily on build system development with some guidance from [Cory Fields].”
+
+The title of a maintainer is sometimes conflated with being a leader of a project, which really isn’t what the role entails.
+
+Nevertheless, maintainers do play an important role (across all open source projects, no less). Once a code change has been reviewed sufficiently, maintainers help to guide the process and merge in code snippets that have been reviewed sufficiently.
+
+Code image via Shutterstock

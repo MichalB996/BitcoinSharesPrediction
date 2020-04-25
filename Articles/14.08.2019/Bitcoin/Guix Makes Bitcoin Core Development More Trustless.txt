@@ -1,0 +1,43 @@
+DATE:  14.08.2019, 14:51:32
+TITLE: Guix Makes Bitcoin Core Development More Trustless
+URL:   https://bitcoinmagazine.com/articles/guix-makes-bitcoin-core-development-trustless
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+Back in 2016, Bitcoin development became a model for the entire open-source community with the integration of Gitian building — a “computer within a computer” framework that let developers verify binary computer files in a more transparent way. But with the recent merging of Guix, which supports deterministic and bootstrappable Bitcoin Core builds, work on the protocol has become even more trustless.
+
+Though the process involved is rather sophisticated and mostly concerns developers, the two issues at stake involve trust and language — components of Bitcoin that matter to all of us. As any crash course in computer science will tell you, computers receive instructions in binaries (“ones” and “zeroes”), but humans must write in a programming language that’s logical and comprehensible to them. After the coding part is completed, the instructions need to be compiled into the kind of language that computers can understand. And when developers need to share the resulting binaries, there is a degree of trust that they must have in one another (unless the process involves extra steps for verification, which are time consuming).
+
+As a decentralized protocol, Bitcoin requires extra attention and caution. If there happens to be a slight third-party alteration (like a malevolent hacking, for example) in the binaries, which gets exchanged between developers, then the new version of the client may have bugs and side effects that lead to massive losses of funds. Unless a proper verification process is established, this issue can easily become a single point of failure.
+
+Gitian and Guix
+
+The idea that all developers would run the same code and compare binaries is unrealistic, as differences — even small differences — in variables such as system architecture, the operating system, and even compilation time may provide different results. Therefore, in order to tackle this issue, a pseudonymous developer who goes by the name of Dev Random created Gitian.
+
+As described by Bitcoin Magazine’s Aaron van Wirdum, Gitian is a “computer within a computer” which provides a virtual space where binaries can be compiled without variables. No matter which device or operating system is used for the process, the results are guaranteed to always be the same.
+
+However, the procedure is not sufficient for the needs of Bitcoin Core developers, as it relies too much on the Ubuntu operating system. This dependency in and of itself can become a point of failure, and the verification process requires more transparency and auditability.
+
+As Chaincode Labs engineer Carl Dong told Bitcoin Magazine, “The standardized environment depends heavily, and somewhat blindly, on Ubuntu. In fact, the way we constructed the environment was by downloading un-auditable, opaque binaries (in other words, ‘trusted binaries’) from Ubuntu, exposing us to third-party risk. One could imagine how an attacker can poison all Bitcoin Core release executables through an intrusion of Ubuntu’s infrastructure (or, perhaps simply by working there).”
+
+Dong is responsible for the introduction of Guix, a binary verification system which makes development more trustless and is set to completely replace Gitian.
+
+“Guix allows us to construct the environment in a way where we rely on a severely reduced set of trusted binaries,” he said. “Most of the environment is constructed by building from a tiny binary seed, and this building process is much more auditable.”
+
+Furthermore, the trust minimization implementation (which was merged into Bitcoin Core on July 12, 2019) aims to eliminate third-party risk. Dong considers it to be a simpler and less platform-specific approach to working on Bitcoin Core. In the future, Guix will also allow developers to build on different CPU architectures and produce reproducible executables across time. These features are essential for transparent and ethical development, and they will also make the exchange of binaries faster and more efficient.
+
+Admittedly, Dong has taken inspiration from the intentions and architecture of Gitian. Nonetheless, there is no room for both, and Guix is set to become the replacement.
+
+“My work on integrating Guix into Bitcoin Core certainly took inspiration from Gitian, but they don’t complement each other much,” Dong said. “I expect that once the cross-compilation support for OS X and Windows targets are finished, Gitian will be retired.”
+
+Guix and the Average Bitcoin User
+
+If Guix is a tool that’s created by developers and for their own exchange of compiled binaries, then why would the average user care? Well, it also eliminates the trust in the data downloaded for the Bitcoin Core client. Though the odds are pretty slim, malevolent third parties such as phishing websites may intervene during the process and, in the absence of a proper verification framework, steal your bitcoin. Guix follows precisely the “don’t trust, verify” philosophy which is deeply rooted in the Bitcoin culture.
+
+According to Dong, “Guix allows users to verify that the Bitcoin Core client they download corresponds exactly to the code that Bitcoin Core developers write. It mitigates attacks that target the way we turn our codebase into the client executables we release.”
+
+In spite of the clear focus on the needs of developers, Guix is also something that users may need and want to use if they choose to be cautious about the software that they run.
+
+At press time, Guix is only available for Ubuntu builds. However, Dong estimates that the Windows and Mac OS versions will be released “optimistically” by the end of 2019. In the true conservative spirit of Bitcoin, a “when it’s completed and thoroughly tested” clause is attached, so we shouldn’t hold our breath for deadlines when the clear priority is robustness.

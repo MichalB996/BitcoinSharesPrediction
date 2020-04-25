@@ -1,0 +1,58 @@
+DATE:  30.03.2020, 13:12:33
+TITLE: Hasu: USD Stablecoins Are Flying But Face Business Issues
+URL:   https://www.coindesk.com/usd-stablecoins-are-surging-but-zero-interest-rates-complicate-business-model
+
+CoinDesk columnist Hasu is a pseudonymous crypto researcher publishing analysis for Deribit Insights and his personal blog.
+
+“There are decades where nothing happens, and there are weeks when decades happen.” Vladimir Lenin - allegedly
+
+The last 30 days have been historic by any meaning of the word. The coronavirus is shaking up life as we know it, and has already caused unprecedented dislocations in both the traditional financial markets and the crypto market.
+
+In the center of this financial turmoil was the U.S. dollar, which saw a “flight to safety” from many different assets, including ones deemed “safe” by traditional investors. As I write this article, the S&P 500 is down 20 percent against the dollar in 2020, crude oil down 62 percent, the British pound down 9 percent, and both the Russian ruble and the Brazilian real are down 25 percent respectively.
+
+While the crypto markets have been insulated from the markets at large for a long time, this is no longer the case now that public blockchains have effectively become rails for the U.S. dollar in the form of dollar-backed stablecoins. Dollars on the blockchain represent the third largest asset in crypto after bitcoin (BTC) and ether (ETH) , ahead of XRP (XRP) and bitcoin cash (BCH). In terms of transactions volume, they are even encroaching on bitcoin itself:
+
+Source: Coin Metrics, via Mike Co
+
+And since they are backed by dollars, they are both affected by global changes in demand for the U.S. currency as well as the monetary policy of the Federal Reserve.
+
+Since bitcoin fell from its $9,000 range all the way below $4,000 before consolidating around $5,000 in mid March, stablecoins as a group have seen net inflows of around $2 billion, a 33 percent increase. This represents the largest surge in demand ever, in line with the dollar’s demand surge in traditional markets.
+
+Most of these inflows went to tether with +1.55 billion since the start of the year, but USDC and BUSD also gained +170m and +150m respectively.
+
+As demand increases, investors bid up the price of a token beyond one dollar. That creates an incentive for arbitrage firms to step up and introduce more supply into the system until the spread closes. To give an example, a firm could deposit $10 million with tether to buy $10 million USDT tokens – for exactly $1 apiece. Then it sells these tokens for slightly more than $1 and pockets the difference as profit.
+
+For the last month, USDT has consistently traded >$1 as a result of this increased demand, explaining the massive 1.55 billion inflows.
+
+Stablecoin market capitalization, via Coin Metrics
+
+Why do investors want USD stablecoins now more than ever? I believe there are three main reasons for this surge in interest.
+
+First, we have seen a flight to safety from risky crypto assets as the markets tumbled. I saw people who are bullish on cryptocurrency in the long-term divest for the short term as previously uncorrelated asset classes started to move down in lockstep.
+
+Second, there is big demand for USD from emerging market currencies that are weakening against the dollar, as described in the intro. Due to its offshore nature, USDT in particular has become one of the best ways to dollarize in places like China, Indonesia, Russia and Brazil.
+
+Finally, the physical reality of coronavirus quarantines and travel restrictions has made moving cash extremely hard for the time being, especially between countries. Dollars on the blockchain have some of the desirable properties of cash, especially in terms of permissionless access and privacy (if used correctly), and can act as a substitute – at least temporarily.
+
+Interest rates over time. Via TradingView
+
+While dollar-backed stablecoins increasingly turn into “eurodollars lite,” they are also subject to the monetary policy of the dollar. On March 15, the Federal Open Market Committee (FOMC) lowered the federal funds rate by 1 percent to 0 percent-0.25 percent to soften the upcoming recession caused by the coronavirus.
+
+This reduction actually has big effects on the business model of these stablecoin issuers. To understand why, we only need to look at how they make money. So far, there are two main ways.
+
+First, by investing their reserves (usually by lending it to commercial banks, or buying AAA-rated fixed income securities like U.S. government bonds). Going into 2020, the largest stablecoins held a collective $5.5 billion of customer funds. At an interest rate of 1.25 percent, these deposits could have generated up to $68.75 million in revenue for them.
+
+Even with revenue from interest drying up, I see a big future for dollar-backed stablecoins
+
+Because the fed fund rate affects all commercial interest rates, the issuers of coins like tether or USDC now stand to make significantly less money from interest going forward. If the rates become negative, which is the case in Europe and Japan, then they might even have to pay in order to deposit money, turning their business on its head.
+
+Due to the reduction in revenue, there are concerns that stablecoin operators could be pushed into riskier investments to pay the bills, for example corporate bonds. This dynamic could also explain why euro- or yen-backed stablecoins have never taken off.
+
+As a second revenue stream, some operators (like Tether) already charge a fee, currently 0.1 percent, on deposits and redemptions, while others (like USDC) don’t. We might also see stablecoins explore entirely new business models to meet the new zero-rates reality. USDC seems to push into the direction of becoming a defacto commercial bank by providing APIs for payments (including from fiat credit cards), wallets, marketplaces and business accounts.
+
+For now, it seems more likely that operators will try to build (and charge) adjacent businesses made possible by these stablecoins instead of passing on costs to retail users, e.g. via inflating the token supply relative to deposits as a form of usage tax, or implementing an additional transaction fee (PAX already does this for its gold-backed token.) The latter brings its own challenges, as users are incentivized to wrap the original tokens in a trustless contract and transact in the receipts instead (similar to WETH/ETH.) Centralized exchanges could once again be the kingmakers in this situation, as they can decide to support the wrapped tokens or not.
+
+Even with revenue from interest drying up, I see a big future for dollar-backed stablecoins, especially now that the opportunity cost for holding stablecoins has effectively gone to zero. We’ll probably see even larger inflows in the future, both from places with negative rates in their traditional bank accounts as well as emerging markets with currencies that rapidly lose their value against the dollar. As long as users value the service offered by stablecoins, I see good odds that operators can develop new and sustainable business models.
+
+Thanks to Su Zhu, Nic Carter and Mike Co for their contributions.
+

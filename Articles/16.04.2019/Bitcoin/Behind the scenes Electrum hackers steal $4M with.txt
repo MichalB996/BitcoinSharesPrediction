@@ -1,0 +1,75 @@
+DATE:  16.04.2019, 15:02:13
+TITLE: Behind the scenes: Electrum hackers steal $4M with Bitcoin phishing attacks
+URL:   https://thenextweb.com/hardfork/2019/04/16/behind-the-scenes-electrum-hackers-steal-4m-with-bitcoin-phishing-attacks/
+
+Electrum Bitcoin BTC wallet users have lost 771 BTC (approximately $4 million) since late December 2018, in an ongoing series of targeted phishing attacks.
+
+According to research released by Malwarebytes Labs, fraudsters were able to trick unsuspecting users into downloading a malicious version of the wallet by exploiting a weakness in the software.
+
+In February, the developers behind Electrum decided to exploit the same flaw in their own software to redirect users to download the latest patched version.
+
+Then, in March, things got worse and developers started exploiting another unknown vulnerability, essentially attacking vulnerable clients to keep them from connecting to bad nodes, which they referred to as a “counter attack.”
+
+After that, a botnet launched distributed denial of service (DDoS) attacks against Electrum servers to better target users with out-of-date, vulnerable wallets.
+
+Why did the attacks happen?
+
+Known as a “lightweight” Bitcoin wallet, Malwarebytes researchers explain Electrum implements a variation of a technique called ‘Simplified Payment Verification’ (SPV).
+
+This technique enables users to send and receive transactions without downloading a full copy of the Bitcoin blockchain (which amounts to hundreds of gigabytes in size).
+
+Instead, Electrum operates in a client/server configuration. The wallet, or client, is programmed by default to connect to a network of peers in order to verify that transactions are valid.
+
+While this has historically been a fairly secure method of transacting, attackers have taken advantage of the fact that anyone is allowed to operate a public Electrum peer.
+
+As the below graph evidences, there has been a significant increase in the number of peers active on the Electrum network:
+
+Malicious wallets
+
+In its findings, Malwarebytes refers to malicious Electrum wallets as “Variant 1,” and “Variant 2.” Research showed the actor(s) behind this specific campaign have been active for some time.
+
+With this in mind, the researchers say it’s plausible that other variations of this malware had been in existence prior to December 21, 2018.
+
+Variants 1 and 2 appear to be operated by different actors, based on several differences found in the malware.
+
+Variant 1 is unique in that the malware authors implemented a function to upload stolen wallet keys and seed data to a remote server. Efforts were also made to make sure this function was hidden by obfuscating the data exfiltration code inside a file not normally found in Electrum named “initmodules.py.”
+
+Additionally, any balance found in the wallet was sent to one of the several pre-programmed public addresses controlled by the scammers. In this instance, the selected destination address was dependent on the address format used by the infected users’ Electrum Wallet.
+
+Researchers found that Pay-to-PubkeyHash (P2PKH) addresses were the default method in use during setup, meaning users running default settings appear to be the most hit. This is evidenced by looking at the activity in each of the following addresses:
+
+Variant 1 total: 218.1527981 BTC, approximately $1,101,034 million
+
+Variant 2 attacked aggressively, which resulted in it stealing more Bitcoin than Variant 1, the researchers say.
+
+Instead of redirecting victims to a malicious Github site, Variant 2 hosted the malware through a domain that appeared similar to the legitimate Electrum download site.
+
+Fake website, basically a copy-cat of the legitimate one.
+
+The findings indicate that the attackers seemingly had a good grasp of Electrum and its code.
+
+For example, they disabled auto-updates, removed prompts for things such as “Yes I am sure”, and even took away the ability to perform Replace-by-fee (RBF) transactions – a function added to the Bitcoin code-base later on in development that would enable the creation of a double spend transaction. In this case, if you were aware about this functionality (and probably few are), you could reverse the stolen funds transfer by double-spending the input using a higher-fee.
+
+Variant 2 total: 398.5208 BTC, approximately $2,018,436 million
+
+So, where have all the coins gone?
+
+By analyzing the transactions on the blockchain, researchers have found that the funds stolen by Variant 1 have been broken down into smaller Bitcoin amounts.
+
+Specifically, 48.36 BTC ($244,001) is re-grouped mostly in to 3.5 BTC ($17,659) amounts followed by 1.9 BTC ($9,586) amounts.
+
+The researchers believe this pattern means it’s likely evidence of a money laundering technique known as “smurfing.”
+
+This is because deposits of $7,000 are less likely to trigger a CTR (currency transaction report) as this amount is under the specified $10,000 threshold.
+
+Future attacks?
+
+Overall, researchers at Malwarebytes ascertain that future attacks are likely.
+
+“Anyone keeping track of cryptocurrencies knows they’re in for a wild ride. Determined threat actors exploited a vulnerability in the most popular Bitcoin wallet to create a very clever phishing attack that was able to net them at least over 3 million dollars in only a few months,” they said in a blog post.
+
+When Electrum responded to protect unsuspecting victims from this theft, the criminals retaliated with sustained DDoS attacks. “There most likely was some animosity between the two parties, but as the botnet continues to disable legitimate Electrum nodes, rogue ones get promoted to continue the vicious cycle of pushing the fake update and rob more victims of their cryptocurrencies,” continued the researchers.
+
+Ultimately, people running their own Electrum servers can mitigate theses attacks in different ways, but are generally advised to update their wallet to the latest version (3.3.4) from the official repository and asked to remain vigilant in the way of more warning messages disguised as phishing attempts.
+
+Did you know? Hard Fork has its own stage at TNW2019, our tech conference in Amsterdam. Check it out. eToro will also be making an appearance there!

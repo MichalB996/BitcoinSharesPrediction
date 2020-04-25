@@ -1,0 +1,101 @@
+DATE:  21.11.2019, 23:44:59
+TITLE: Op Ed: HODLing Bitcoin? Cold Storage Is Worth the Extra Effort
+URL:   https://bitcoinmagazine.com/articles/op-ed-hodling-bitcoin-cold-storage-worth-extra-effort
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+Bitcoin’s popularity is growing among institutions and private investors alike as they better understand its value proposition as a store of value and as a means for censorship-resistant payments. As the value of bitcoin is progressing steadily to the status of digital gold, it also becomes a honeypot for hackers and attackers. Due to the digital nature of bitcoin, its security concerns are not well understood by most of its buyers.
+
+Over the years, millions of bitcoins have been lost due to poor and negligent management of Bitcoin private keys. Theoretically, this further increases the scarcity of bitcoin, since those bitcoins are inherently lost forever. However, we presume no one wants to contribute to bitcoin’s scarcity at their expense. Investors are seeking reliable and easy-to-use solutions to store their digital gold over a long span of years, without worrying they will get lost, hacked or stolen. That’s why, in this article, we will explore the concept of cold storage, an increasingly popular method to hold your bitcoins.
+
+What Is Cold Storage?
+
+Bitcoin cold storage is the term used to designate an operational security system intended for long-term and offline bitcoin holdings. Generally, it’s used for amounts with substantial value and is considered as the safest way to store bitcoins. The opposite of this kind of system are hot wallets where the funds are stored online and are constantly exposed to threats such as hacks.
+
+Plenty of solutions and products are emerging and thriving on the market for acquiring bitcoins, storing them and spending them. An individual may amass bitcoins for lots of different reasons. One may only be interested in it for its speculation aspect and be completely indifferent for its most popular ethos, such as privacy and sovereignty. No matter the reason, the investor that plans to hold onto their bitcoin stash for a relatively long period of time must consider more advanced solutions regarding their security.
+
+Custodial or Noncustodial Storage?
+
+At that point, the investor will face the choice of using custodial services or creating his own personalized solution. Many bitcoiners will be tempted to choose custodians to hold their coins on their behalf. Being used to bank accounts and centralized platforms to hold their cash and other investments, newcomers to bitcoin will naturally lean toward custodial solutions.
+
+However, this approach doesn’t respect one of the most famous adages in the Bitcoin world: “Be your own bank.” This expression, no matter how cool and inspirational it sounds, is somewhat difficult to follow. Turns out that being your own bank puts an enormous responsibility in the hands of the owner with regards to the security of their funds and their own personal security.
+
+Some properties of Bitcoin, such as censorship-resistance, privacy and sovereignty, are completely put aside when one chooses to employ custodial solutions. By giving the rights to your keys to a third party, you’re giving over full control of your coins. This is highly undesirable in a context of adversity.
+
+It also creates an enormous principal-agent problem. The custodian (the agent) overseeing the client’s funds, may be tempted to use the bitcoins in ways that wouldn’t benefit the client (the principal). Since the funds are held in one place, it also creates a big and possibly easier target for malicious actors to attack.
+
+Some companies are proposing in-between solutions, where the company is partly responsible for the user’s security and funds. This can be done with different multisignature schemes, where some of the keys necessary to access the bitcoins will be held by the company and others by the client. This type of security setup leaves more control to the user but still compromises the user privacy and sovereignty.
+
+So Why Use Bitcoin Cold Storage?
+
+If you’re interested in reaching the maximum possible security for your bitcoins without compromising on its core values, cold storage is the way to go. Once your funds are in cold storage mode, they can stay put for a very long time. Of equal importance, your keys remain entirely in your possession and control.
+
+Still, there are some trade-offs, primarily when it comes to the effort investors must invest if they are going to assume total control of their wealth safely and responsibly.
+
+Best Practices of Bitcoin Cold Storage
+
+There is a saying in the operational security world that must be understood by everyone undertaking a personal responsibility concerning their security setup: No solution is perfect! You can only strive to constantly refine your solution by understanding your needs and your limits. Cold storage also comes with a non-negligible cost, considering the hardware you will need to acquire and the time you will need to set aside to master the different techniques.
+
+If you need help to set it up, there are plenty of resources online and you can also try to meet some of your local Bitcoin community members to see if there are more suitable trusted experts that can guide you in the process. You must also remember that cold storage solutions are intended for long-term holdings, which means it can be a tedious and longer process to recuperate your bitcoins once you want to move them. Below are some core concepts of cold storage.
+
+Offline Key Storage
+
+Your private keys are the most important part of your setup. In a cold storage setup, your keys will always remain offline, that being part of the “cold” nature of your security setup. There are many potential risks regarding the theft of your keys when you generate them or store them on a computer that connects to the internet.
+
+Air-Gapped and Non-Backdoored Hardware
+
+Air-gapped computers can be called as such when they have never been connected to the internet or other networks that you don’t control. Once you dedicate a computer to being air gapped, it is important to quarantine it forever. This means that even when you’re done generating the keys for your cold storage the right way, you should never connect it to the internet ever again. Even if you wipe the device clean by deleting everything on it, some traces of data could remain on the computer and be accessed by a skilled hacker.
+
+Concerning the non-backdoored aspect, it can be much harder to respect in your setup since this type of hardware can be much more expensive. All regular computers have some type of hidden software that can access the computer without the owner’s permission, called backdoors.
+
+Over the years, there have been many scandals as customers learn that hardware manufacturers have been hiding these intrusive backdoors from their users. Often, they are hard to detect and almost no device is free from this security hole.
+
+Non-backdoored computers are generally harder to operate since users will need a certain degree of expertise in command-line operations and Linux operating systems. Forget your easy Windows or MacOS interfaces.
+
+Self-Generated Entropy
+
+Entropy can be interpreted as the level and quality of randomness used by the algorithms in a wallet to generate your private keys. Therefore, the better the entropy in a wallet, the harder it is for an attacker to break it. It is extremely hard to determine if the entropy used in a wallet isn’t flawed in one way or another, especially for nontechnical users who wouldn’t even think about that component.
+
+The level of randomness (entropy) employed depends on the quality of the algorithms used. If they are mediocre, it could be easy for a third party to derive the private key from the public address. Most cold storage solutions will invite the user to generate their own entropy with simpler, more understandable means. For example, some techniques consist of rolling high-grade, industrialized dice multiples times. That’s why the additional entropy option is an excellent security measure and allows the user to control their source of randomness.
+
+Software and Firmware Updates and Verification
+
+The software and firmware used in cold storage solutions are also critical components of your setup. Since you will be manipulating data that handles your bitcoins, it is crucial to use open-source software that can be scrutinized by the Bitcoin developer community. Whenever a certain technique is certified as safe by the wider community, you must verify the authenticity of the software you’re using before debuting your cold storage setup.
+
+You can verify the validity of each program by corroborating the associated cryptographic key with the official release of the developer team. If a malicious actor has implemented potentially harmful malware, the associated software hash will change, indicating that it was compromised during the verification process. In a cold storage situation, you should verify each one of the processes involved.
+
+New bugs and malfunctions are discovered regularly. They are often corrected rapidly by the developers, but users must always ensure they’re using the latest versions available for any software or firmware in their cold storage solution.
+
+Ideally, you should run two instances of the same system to be certain that all the data communicated through the processes gives back the same results. For example, if you input the same exact entropy in an offline wallet generator, and you’re given back two different private keys, this indicates that there is a problem. You will have to find the issue before proceeding with subsequent steps.
+
+Cold Storage Physical Environment
+
+When you are ready to begin your cold storage ceremony, you must be sure to deploy it in a completely isolated environment. These measures can seem extravagant, but they are crucial to remain secure. The best environment possible would be a closed, private room where you’re certain no other electronic devices are present, except the ones you use to generate your keys. Some attackers have been able to steal data from air-gapped computers through radio and electromagnetic waves. Even crazier techniques, such as the heat emitted by a computer, have been employed.
+
+We could write a book on all the different ways a hacker could steal data from your computer, so just to be safe, make sure to take Alexa or Siri out of the equation when creating your setup.
+
+Inheritance Planning
+
+No matter how secure your setup is, it is irrelevant if you carry your bitcoins with you to your grave. Each step of your cold storage solution must take into consideration your death or possible incapacitation. It’s a question of balancing out the security of your setup with its ease of recuperation by your designated heir. This is a more personal matter since the distribution of the information depends on the different degrees of trust the bitcoin holder will have with their entourage.
+
+Further reading: Till Death Do Us Fork: Planning for Cryptoasset Inheritance
+
+Challenges and Problems of Cold Storage
+
+This article is only an overview of the different threats one must take into consideration when thinking about implementing a cold storage solution. When it comes time to actually do it, the individual bitcoin investor will be faced with several hurdles and difficulties.
+
+This is especially true for the nontechnically savvy. Even experienced bitcoiners can be stressed when they’re manipulating large sums of bitcoin. Practicing numerous times before creating your real cold storage is the way to go. Most of the user experience and interfaces related to bitcoin cold storage solutions are, quite frankly, terrible. This is due to the fact that most of the software tools used are open-source, where user-friendliness isn’t a priority.
+
+Don’t become discouraged just yet. When one thinks about the pain and hassle of implementing their own cold storage solution, they just need to think about the pain associated with losing their bitcoins, knowing they could’ve protected them. This is especially true when/if the price of bitcoin goes to the moon — you’ll want to have peace of mind knowing your wealth is safe.
+
+The different solutions are getting better and easier, but they still require an extra step from the individual.
+
+For those who want to start to look into it, I suggest looking into the Glacier protocol, which has clear step-by-step instructions.
+
+Nontechnical friends should look out for trusted sources and technical helpers who can guide them in the process. Above all, be sure to do your own research before following any protocols or purchasing any devices.
+
+Stay cold, stay safe!
+
+This is an op ed contribution by Maciej Cepnik. Views expressed are his own and do not necessarily reflect those of Bitcoin Magazine or BTC Inc.

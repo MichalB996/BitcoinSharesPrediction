@@ -1,0 +1,39 @@
+DATE:  10.02.2019, 22:50:49
+TITLE: BCH Avalanche Transactions Show Finality Speeds 10x Faster Than Ethereum
+URL:   https://news.bitcoin.com/bch-avalanche-transactions-show-finality-speeds-10x-faster-than-ethereum/
+
+BCH Avalanche Transactions Show Finality Speeds 10x Faster Than Ethereum
+
+Over the last few weeks, Bitcoin Cash (BCH) developers and community members have been discussing a pre-consensus method called Avalanche. Now BCH proponents have begun to notice the protocol has been applied to the Bchd full node implementation and the proof of concept officially running on the BCH mainnet.
+
+Also read: Mt. Gox Creditors Neither Need nor Deserve This Kind of ‘Hero’
+
+The Benefits of Avalanche and PoW Running in Parallel
+
+The Avalanche proof-of-concept is a consensus algorithm that adds Byzantine fault tolerant proofs to a blockchain network so nodes can differentiate between two conflicting transactions. The protocol communicates with nodes in real time in order to bring consensus in a more efficient manner. This is because Avalanche queries the network of nodes and asks them to come to pre-consensus on which of the two conflicting transactions are preferred.
+
+People are often confused with Avalanche being applied to BCH because it’s also being used in a proof-of-stake (PoS) project designed by Cornell Professor Emin Gün Sirer. On the BCH chain, Avalanche is only being used for pre-consensus and runs parallel with the original proof-of-work consensus mechanism. A number of BCH developers and proponents believe Avalanche will make the BCH network far more robust.
+
+Avalanche discussions have increased over the last week since the protocol is now running on the main network. “Ok, the Avalanche proof of concept is officially running on mainnet,” explained Bchd developer Chris Pacia on Feb. 7. The programmer also left a link to the protocol’s Github repository which gives developers a gist of the Avalanche pre-consensus specification implemented in the Bchd branch.
+
+The Bchd version of Avalanche Github repository states:
+
+[The following specification] is not intended to be a final spec and is likely not compatible with the implementation being developed by Bitcoin ABC — The primary purpose is to give other developers something tangible to look at, think about, and discuss.
+
+Irreversible Transactions in Seconds
+
+In addition to the experimentation on the main BCH chain, Bchd developers have published an Avalanche transaction explorer as well. The speed at which BCH transactions are processed shows the transaction’s finality is typically 2-3 seconds or less. Essentially this means the transaction (tx) listed on the Avalanche explorer has reached a point at which it can no longer be reversed by a double spend, even though the tx is unconfirmed by miners.
+
+“If used this way, it would give Bitcoin Cash the equivalent of nearly instantaneous confirmations while improving mempool synchronization and reducing the financial incentive to 51% attack,” the Avalanche blockchain explorer details. “As you can see, at present most transactions become irreversible after just a couple seconds — To take this from proof-of-concept to an actual consensus rule will require lots of testing, experimentation, data collection, code review, and soft fork activation rules.”
+
+10x Faster Than ETH and Reorganization Protection
+
+Over the last few days, BCH supporters have also discussed how the transaction finality speeds have been 6-10x faster than the Ethereum network. “Transaction finalized in 1.559723305 seconds — That’s 10x faster than ETH — A serious game changer,” explained BCH developer and Bitbox founder Gabriel Cardona on Twitter. Bitcoin ABC developers have also been discussing Avalanche and the protocol is on the roadmap according to the BCH development statistics page on Coin Dance.
+
+In the past, Bitcoin ABC developer Amaury Sechet has said the protocol can make synchronization far more efficient. The ABC developer discussed the benefits of Avalanche at the Satoshi’s Vision Conference in Italy last October. There are more advantages explained in a post written by the ABC developer Mengerian, who says not only is transaction finality fast, but the Avalanche protocol “provides a good mechanism for post-consensus defense against blockchain reorganization attacks.” It seems that the proof-of-concept Avalanche is making headway within the BCH ecosystem and the results have been positive so far.
+
+What do you think about the Avalanche pre-consensus model? Let us know what you think about this subject in the comments section below.
+
+Image credits: Shutterstock, Avalanche Transaction Explorer, Bchd website, and Github.
+
+Verify and track bitcoin cash transactions on our BCH Block Explorer, the best of its kind anywhere in the world. Also, keep up with your holdings, BCH, and other coins, on our market charts at Satoshi’s Pulse, another original and free service from Bitcoin.com.

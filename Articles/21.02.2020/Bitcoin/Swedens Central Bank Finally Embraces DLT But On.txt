@@ -1,0 +1,47 @@
+DATE:  21.02.2020, 21:00:00
+TITLE: Sweden’s Central Bank Finally Embraces DLT, But Only in Simulation Mode
+URL:   https://www.coindesk.com/swedens-central-bank-finally-embraces-dlt-but-only-in-simulation-mode
+
+Sweden’s central bank will soon trial a blockchain-based digital currency – but it’s still in its very early stages, at best.
+
+Announced Thursday, Sveriges Riksbank’s e-krona pilot is the latest attempt at a central bank digital currency (CBDC) from an institution that for years fretted over basing any such project on distributed ledger technology (DLT).
+
+For now at least, the e-krona pilot is set to move forward on a limited basis. Built by Accenture and based on R3 Corda, Riksbank's digital currency trials will run as a simulation through February 2021, at which point Riksbank could extend the project for another six years.
+
+The pilot will not involve any banks or end-users; everything will be simulated within the central bank’s closed network. Accenture is still preparing the final system for testing, according to Riksbank's press office.
+
+This high-profile investigation of digital government money will “increase [Riksbank's] knowledge” of CBDCs, the bank said in a report. But it will also better Riksbank's understanding of DLT and "blockchain technology," two nearly synonymous tech solutions (in the bank's stated view) that it spent nearly three years arguing was too "immature" to use for the e-krona pilot.
+
+Forced into action by its citizens’ deep aversion to cash, Riksbank has been talking about developing a possible “e-krona” since at least November 2016. But it was never clear about what technology could power a Swedish digital currency.
+
+DLT has been an option since the project formally began in September 2017. But it was hardly the obvious choice for a bank that saw the “existing tried-and-tested” centralized technologies as perhaps more compelling.
+
+“From a purely technical point of view, we can see nothing at this point in time that would prevent an e-krona solution built around a central register,” Riksbank wrote in that first e-krona project report. “RIX, the Riksbank’s system for the transfer of funds in accounts, is, for example, built around a central register. An e-krona could in principle be constructed in a similar way.”
+
+Riksbank was not willing to take a leap on the still-developing tech back in 2017. It described DLT as weak, troublesome and untried in the report – “this is partly due to the technology being so new” – a still-uncharted solution to digital-currency-minded central bankers around the world.
+
+Riksbank appears to have concluded that Corda addresses its previous DLT concerns, the Feb. 20 report shows. Using bitcoin (BTC) as a DLT foil, Riksbank argues Corda consumes less energy and is more scalable while still preventing users from committing double-spending.
+
+The new system
+
+In the simulated system, the Riksbank's node will issue e-krona to participant nodes, banks. The banks will then distribute digital cash to end-users: consumers and merchants. Users will then hold the e-krona in digital wallets – on smartphones, wearable tech, cards – that make “peer-to-peer payments as easily as sending a text,” according to the most recent report.
+
+Accenture has mapped out the e-krona's conceptual architecture. Source: Accenture
+
+The system will also carry some of the permissioned features anathema to decentralization maximalists but integral to organized governance and central banks: Riksbank alone will have control over its private network and hold the sole power to add new participant nodes to that system.
+
+"Centralize it too far, and the exercise of creating [a CBDC] becomes rather pointless,” said Don Guo, CEO of brokerage tech provider Broctagon Fintech Group. “The founding principal of crypto was decentralization, so banks need to be careful that they don’t lose sight of the advantages that decentralization can provide, otherwise there will be no real benefit of using the new currencies over fiat.”
+
+The bank will not commit to launching an e-krona – in any form – just yet. That’s “ultimately a political decision,” Riksbank said in the report. But the yearlong pilot will illustrate how DLT e-krona “technical solution” might work in the country that long said it couldn’t.
+
+The pilot will also help Riksbank determine if, how, when and in what form it might issue digital money to the people of Sweden.
+
+More broadly, a focus on centralized thinking continues to circulate in the central banker community. For technical and philosophical reasons regarding governance and control, bankers hesitate to embrace DLT for CBDC, according to speakers at Friday's Conference on Central Bank Digital Currencies in Ukraine.
+
+That comes as banks actively test DLT across other aspects of their financial infrastructure. Even in October 2018, when Riksbank was issuing its second report on the e-krona, bankers in Canada, Singapore, Japan and the Eurozone were all looking into DLT for large interbank payments.
+
+Riksbank is more interested in developing a retail payments solution for Sweden; it wants a digital krona that consumers, not bankers, can use on the go. And though it spent years considering DLT as one solution among many, Riksbank's reports always left the door ajar.
+
+"Technological development continues apace," the 2018 report said. "The Project cannot therefore rule out a DLT solution becoming relevant in the longer term."
+
+Paddy Baker and Anna Baydakova contributed reporting.

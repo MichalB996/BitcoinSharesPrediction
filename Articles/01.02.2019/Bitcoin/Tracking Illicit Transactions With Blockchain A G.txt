@@ -1,0 +1,63 @@
+DATE:  01.02.2019, 22:05:33
+TITLE: Tracking Illicit Transactions With Blockchain: A Guide, Featuring Mueller
+URL:   https://www.bellingcat.com/resources/how-tos/2019/02/01/tracking-illicit-transactions-with-blockchain-a-guide-featuring-mueller/
+
+In recent years, cryptocurrencies such as Bitcoin have been used by terrorists to conduct funding campaigns, authoritarian governments to subvert its citizens’ human rights, and GRU agents to hack the Democratic National Committee as well as the Clinton campaign.
+
+Though many people utilize virtual currencies for legitimate purposes, the technology is an enticing tool for bad actors as it can be used to help circumvent sanctions and financial regulations as well as shield one’s identity when conducting transactions.
+
+Thankfully, such bad actors are not entirely anonymous, and here’s why:
+
+The blockchain, an open-source investigator’s dream, cuts down on anonymity with regard to cryptocurrency use. The blockchain is a decentralized public ledger that contains every transaction ever made for a particular cryptocurrency. And while privacy coins and tumbler services complicate this matter, as a general rule, Bitcoin still dominates mainstream usage and its transactions can be traced.
+
+In this article, I wish to provide a framework for OSINT investigators to track down transactions on the blockchain provided they have a particular address they want to look into or the date and amount of a transaction.
+
+What You’ll Need & What You’ll Do
+
+To follow along with this tutorial, the only tool you’ll need is a blockchain explorer. I prefer Blockchain.com’s Bitcoin Block Explorer.
+
+To start, let’s look at an example using the Mueller indictment of 12 Russian GRU agents from July 2018. If you look at page 22, you can see that on roughly February 1, 2016, exactly 0.026043 BTC were sent to an unknown address. This is enough information for us to find this exact transaction and perhaps discover more about what the GRU agents were purchasing and where they were purchasing it.
+
+First, let’s try to find transactions that occurred on February 1, 2016. To do this, we’ll need to break out our block explorer and input various block heights into a Bitcoin block explorer.
+
+Keep in mind that hundreds of millions of Bitcoin transactions have occurred since its conception in 2009 and that individual blocks can contain multiple transactions. So, finding a specific day’s transactions can be a bit of a guessing game at first.
+
+I usually try to start with high numbers when doing this type of work. For example, below is a screenshot of the 100,000th block on the BTC blockchain. This block was built on December 29, 2010 at 11:57:43. From there, we know we can probably up the block height significantly in order to get to transactions from 2016.
+
+In the interest of saving time, let’s say we keep on guessing block heights and try 400,000th which gets us to February 25, 2016. We now know we need to decrease the block height slightly more. Keep on inputting different block heights until you get to the first block made on February 1, 2016, which is block 396049.
+
+See video 1.
+
+Now that we are on the first block of February 1, 2016, we need to go through all of the transactions for the entire day until we find transactions that match-up with 0.026043 BTC.
+
+To do this, click the hash portion of block 396049 then Ctrl-F to see if any of the transactions on that block match up with 0.026043 BTC . If no transactions match up with that amount, go to the next block and check for the amount in that block. As you do this, document which transactions correspond to 0.026043 at all as there could be multiple “exact” amounts of Bitcoin sent.
+
+See video 2.
+
+As you keep on searching for related transactions, do not be alarmed when you reach block 396103. As you scroll to click on the next block, you may notice two options. This simply happens when two blocks are produced at similar times, producing an orphaned block. For this exercise, just click the first block link to continue. There is no need to go into further detail.
+
+Keep on checking each block for the amount until you have gotten to the first block of February 2, 2016. This may take awhile as there are many blocks made every hour.
+
+Eventually, you’ll have flagged two blocks from that day that have roughly the amount 0.026043 — block 396060 and block 396123. As you can see in the videos below, block 396123 has a transaction with exactly 0.026043 BTC, whereas block 396060 had a transaction for the amount of 0.02604322.
+
+See video 3.
+
+See video 4.
+
+Looking further into the transaction from block 396123, at 11:13:42, 1LQv8aKtQoiY5M5zkaG8RWL7LMwNzVaVqR sent two different amounts of BTC to two addresses — 0.026043 BTC to 1NZ4MSeYcDKFiPRt8h7VK6XMhShwzhCzCp and 4.54325747 BTC to 1AK79g9gpvZ8jn2C9MsWQpijMFA5JaTdqP (click to enlarge below image):
+
+Since 1LQv8aKtQoiY5M5zkaG8RWL7LMwNzVaVqR sent the exact amount to 1NZ4MSeYcDKFiPRt8h7VK6XMhShwzhCzCp, I think that this address is more likely to be connected to the Russian hackers than the other transaction in block 396060.
+
+To verify that this is the transaction referred to in the Mueller indictment, I repeated these same steps for January 31 and February 2 to make sure no other transactions resulted in the transfer of exactly 0.026043 BTC. As no others did, I feel very confident that the address 1LQv8aKtQoiY5M5zkaG8RWL7LMwNzVaVqR was used by the GRU agents in 2016.
+
+Now that we’ve walked through the steps needed to track down a Bitcoin addresses using a Bitcoin block explorer, let’s see if you all can replicate these steps to find another address associated with GRU agents from Mueller’s second indictment.
+
+Leave your answers in the comments below or tweet them to me at @bsmith_1853.
+
+February 5, 2019 Update
+
+After publishing this article last Friday, we’ve received an overwhelming number of responses of readers trying out this technique and offering alternatives. One was alternative from Tinfoil Snowman was particularly impressive:
+
+Essentially, Tinfoil Snowman has suggested that by utilizing Google indexing, you can simply find a transaction by googling the exact amount of BTC you are looking for, as well as the date in a YYYY-MM-DD format. By using this alternative, you can subvert a lot of the cumbersome processes outlined above. Below I’ve added an example of how to use this technique with Mueller’s first indictment:
+
+See video 5.

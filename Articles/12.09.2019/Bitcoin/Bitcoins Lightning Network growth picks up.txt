@@ -1,0 +1,17 @@
+DATE:  12.09.2019, 11:10:57
+TITLE: Bitcoin's Lightning Network growth picks up
+URL:   https://decrypt.co/9131/bitcoins-lightning-network-growth-picks-up
+
+Bitcoin's Lightning Network is growing again, with both the number of network nodes and payments channels on the rise over the last 30 days.
+
+At its core, the Lightning Network is a decentralized system for instant and high-volume Bitcoin micropayments—with payments as low as 1 satoshi (worth $ 0.0001) being able to instantly settle on the network. It's regarded as one of the key ways Bitcoin will be able to scale to support millions of payments and users per day.
+
+According to data site 1ml, the number of lighting nodes has increased by 3.5% to reach an all-time of 9,863–these are computers plugged into the network that help to keep it running.
+
+Payment channels are also seeing substantial growth on the Lighting Network. These are, in essence, connections between nodes that help bitcoins get from one person to another. The total number of channels is up over 16% to 36,271. Now, 60% of all nodes on the network have active payment channels.
+
+The growth of nodes with active channels is an especially positive development for the network–it demonstrates that people are not just setting up and running network nodes—but they are also opening and closing payment channels regularly. This helps the network to rout transactions and earns the node owner some fees for the transactions they process.
+
+It's not all good news, however, as the total number of Bitcoin locked-up in the network today stands at 828 BTC ($8.3 million). This number has been on a downtrend over the last 2 months when the total lock up reached a high of 945 BTC, worth $11.2 million in July.
+
+Will the network news have any effect?

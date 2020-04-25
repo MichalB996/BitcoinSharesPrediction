@@ -1,0 +1,21 @@
+DATE:  18.03.2020, 18:40:00
+TITLE: Crypto Synthetic Assets, Explained
+URL:   https://cointelegraph.com/explained/crypto-synthetic-assets-explained
+
+3. What kinds of crypto synthetic assets are there?
+
+Abra is a decentralized investment platform that allows users to use their cryptocurrency as collateral to create synthetic assets. Abra’s synthetic asset model leverages smart contracts enabled with Bitcoin (BTC) and Litecoin (LTC).
+
+In practice, if an investor wanted to buy Google stocks worth $1,000 through Abra, the firm would peg $1,000 of the user’s BTC against the price of Google’s stock. If Google goes up or down, the equivalent amount of BTC will be added or subtracted from the user’s contract.
+
+In the above example, the investor would essentially be taking a short position on BTC while taking a long position on Google, the hedged asset. Meanwhile, Abra would take a long position on BTC while shorting Google.
+
+Synthetix is an Ethereum-based platform that allows investors to mint and trade synthetic cryptocurrency on its peer-to-peer platform. This enables users to gain access to synthetic products that simultaneously give them exposure to non-cryptocurrency assets such as gold, USD and stocks. There is currently more than $69 million locked in synthetic derivative contracts.
+
+Synthetix currently has three decentralized apps: the Synthetic exchange, Mintr — which enables users to stake the platform’s native SNX token so they can earn fees and mint Synths — and a Dashboard that presents an overview of the entire Synthetix Network. The Synthetix team has built a multi-tier issuance platform, an exchange and a type of collateral, creating a market for cryptocurrency-backed synthetic assets. Synthetix allows users to issue various synthetic assets, including fiat, derivatives, cryptocurrencies and different asset classes. Examples could be Bitcoin, euro, USD, Tesla stocks, gold, etc.
+
+The user puts collateral, in the form of SNX tokens, in order to create these synthetic assets. Then the user would be able to swap or exchange one synthetic asset for another, repricing the collateral through an oracle without an intermediary.
+
+Universal Market Access is a decentralized platform for financial contracts that utilizes a “provably honest oracle mechanism” and smart contracts to empower users to create their own financial products.
+
+Essentially, UMA users can create financial products, using protocols such as ERC-20 to create tokenized derivatives that grant them exposure to real-world underlying assets similar to how traditional exchange-traded funds function.

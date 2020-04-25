@@ -1,0 +1,193 @@
+DATE:  05.03.2020, 22:30:06
+TITLE: Ethereum’s ProgPoW Debate Is About Much More Than Mining
+URL:   https://www.coindesk.com/ethereums-progpow-debate-is-about-much-more-than-mining
+
+What do we talk about when we talk about progressive proof-of-work (ProgPoW) on Ethereum?
+
+On the surface, ProgPoW is a proposed update to the mining algorithm of the world’s second-largest blockchain by market cap that would theoretically favor less well-resourced miners.
+
+At its core, though, ProgPoW has become a flashpoint for how Ethereum makes big decisions. The developers have effectively become the legislative body of the decentralized nation-state that is Ethereum. And if they make a decision that makes enough miners angry, it could split the chain (again).
+
+The ProgPoW debate reignited on Friday, Feb. 21 in the Ethereum Core Developers call when Ethereum Improvement Proposal (EIP) 1057 – the code change involving ProgPoW – moved forward, surprising many in the greater Ethereum world, such that Vitalik Buterin himself called it "ninja re-approved."
+
+ProgPoW could drive a split on Ethereum if it goes forward, potentially similar to what happened after the DAO hack in 2016, which led to the creation of ethereum classic (ETC). But ethereum (and its native currency, ETH) is worth vastly more now than it was then. Much more is at stake.
+
+The next big decision regarding ProgPoW will be made at the Ethereum Core Developers meeting on Friday at 14:00 UTC (those interested can watch it live on YouTube; we’ll be there). If the developers who preside over the blockchain decide to move ProgPoW forward, it won't happen for weeks, however.
+
+The current plan is to allocate a whole hour to ProgPoW, according to the final agenda for tomorrow's call, with spokespeople from both sides making their case.
+
+ProgPoW revisited
+
+The Ethereum ecosystem has been talking about ProgPoW for a long time. In January 2019 it looked close to happening and then fell apart. Least Authority, a cloud storage company founded by Zcash's Zooko Wilcox that has a sideline in security audits, was one of the auditors that found ProgPoW did what it billed itself as doing.
+
+Nevertheless, the proposal didn't move.
+
+Which brings us back to the core question: How does Ethereum make big decisions?
+
+Theoretically, Ethereum governance comes down to the miners. The people running mining rigs can run whatever code they want and when enough miners are on a given fork of Ethereum code, that's the official code.
+
+But here’s the catch: The code comes from the core developers, but the core developers have no power to force that code on miners. On the other hand, the miners are unlikely to ever be coordinated well enough to tell the developers what to do. So developers have all the writing power and miners have all the execution power.
+
+Except, there are many barely relevant blockchains out there that are mined and don't have much value. It takes more than mining to give a chain value. It takes adoption. So in that way, people – businesses and individuals using Ethereum to track intellectual property rights, raise funds in a distributed way and make piles of asset-backed loans – have the final say.
+
+Case in point: Ethereum Classic is the original chain of Ethereum and yet Ethereum dwarfs it in real value. That’s because the community voted with its feet and made Ethereum the “legitimate” chain after the two split in summer 2016.
+
+So it isn't really the miners who have final say, because they are only going to keep working on the chain that has value. And the people give it value. (Well, sort of the people. More on that below.)
+
+So who is really in charge of Ethereum? It's tough to say! Decision-making is quite distributed, and the question is whether or not that distribution has yielded stability or stasis.
+
+"I think this is more kind of a referendum on the Ethereum governance process," Spencer Noon, an investor at DTC Capital and a ProgPoW opponent, told CoinDesk. "Frankly, contentious issues like this, contentious anything, this is how you harden your governance. If it didn't happen with ProgPoW this would have come up with some other issue."
+
+From left to right: Ethereum Foundation staffers Vlad Zamfir, Hudson Jameson and Piper Merriam speaking on a panel at ETHDenver 2019. Source: CoinDesk archives
+
+How EIPs work
+
+Ethereum developers have a process for deciding what to add to the blockchain’s official codebase (for mining and other things as well). It’s called the "EIP process."
+
+Basically, the core developers decide by consensus whether or not to go forward with major and minor changes and then it becomes real when the miners implement it.
+
+Hudson Jameson, who serves as an interface between the core devs and all of Ethereum's many fans wrote on Reddit recently, "We rely on the core developers to be altruistic and listen to the community. I consider my role as a developer-community liaison who helps the protocol devs know what the community is thinking."
+
+Developers never really meant to get in the middle of the philosophical questions, and yet that's where they are. The EIP process as written on the Ethereum Foundation website actually addresses this:
+
+"The EIPs process and AllCoreDevs call were not designed to address contentious non-technical issues, but, due to the lack of other ways to address these, often end up entangled in them.”
+
+Eric Conner of Gnosis wrote an evaluation of the decision-making process and suggested there should be an official way of discussing these matters.
+
+To that end, Jameson told CoinDesk key stakeholders are working on an updated EIP process that will incorporate more kinds of input, which may enable more people to get heard.
+
+What is a fork and how does it happen?
+
+A fork happens when there's no consensus between miners about which chain to mine on a blockchain. Little forks happen all the time when two miners think they've both found a block, but pretty soon the network will coalesce around the work of one miner and the miner working on the other block will have just wasted some time.
+
+Too bad for the losing miner but also no big deal. That miner will quit and join everyone else. The world will not notice, because they will stop mining that forked chain. When miners don't coalesce around one chain, though, that becomes a contentious fork.
+
+Code updates can engender such forks.
+
+When a new set of code gets released, if some miners upgrade to it and some refuse to, the group that refuses will create a new copy of the chain. Now every wallet has become two wallets. Your private key will work in two places!
+
+Crypto has been through this tumult a bunch of times now, so all the big players know the drill. But still, it engenders unexpected work, vitriol, confused oracles (see DeFi below) and general market chaos.
+
+Is there any significant precedent for a minority of miners bringing users with them?
+
+Yes.
+
+Bitcoin had this brutal debate about "block size" which culminated in 2017. No need to go into it here, but it resulted in a fork that led to the creation of bitcoin cash (BCH). Not wanting to see two currencies, Coinbase, for example, did not acknowledge the bitcoin cash fork for several months.
+
+But other exchanges did acknowledge bitcoin cash, and while it never became "bitcoin" it did end up proving to have more value than many expected it would have, which left Coinbase users feeling as though they had been penalized for using Coinbase.
+
+So Coinbase eventually relented and listed BCH, which meant BTC users on the app got a nice airdrop by the time it showed up. So in that way, exchanges legitimize chain splits. So now you've got two chains! What does that matter? More on that below.
+
+Either way, there's discussion underway in terms of how to better reflect the various stakeholders' views in a given debate, especially a contentious one.
+
+Any choice that's made about the "officialness" of given discussion could limit voices, however, because some channels may not be active or might even be blocked in some parts of the world. What language is used to have official Ethereum conversation? What time are the discussions? These are all important questions for global software and decentralized governance.
+
+And, of course, increasing complexity is also going to implicitly advantage one constituency: the status quo. The more people get involved with overseeing any process the easier it becomes to just leave everything as it is.
+
+What is the point of the ProgPoW upgrade?
+
+Preventing centralization.
+
+Under Ethereum’s current Ethash algorithm, application-specific integrated circuit (ASICs) are very powerful, meaning they mine ETH at a lower price than graphics processing units (GPUs).
+
+Ethereum-specialized ASICs, which have been around since 2018, are very expensive. Deep-pocketed organizations are the ones most likely to run them, threatening a concentration of hash power that could lead to questions about the trustworthiness of the chain.
+
+Kristy-Leigh Minehan, a developer who specializes in software for hardware, is one of three developers who put together the ProgPoW code, and the only one not working pseudonymously. She spoke to CoinDesk and said there are several hacks against Ethash, several of which are also described in Least Authority's audit.
+
+Minehan is quick to point out the term "ASIC" isn't super helpful, because in a way every computing device is an ASIC of one kind or another. Minehan contends that software should be designed for the hardware you want to favor, not against hardware you don't like.
+
+ProgPoW is designed to use all the capabilities of GPUs, which are machines that can do several things (rather than Ethereum-specific ASICs, which can only mine ETH).
+
+Basically, Minehan wrote early in the debate, Ethereum can be more decentralized if it favors GPUs because GPU owners have options.
+
+Here's the reasoning: When there are many devices in the world that can do many different things (such as GPUs), that situation better decentralizes Ethereum because those machines can switch back and forth to contributing to the security of the network. They will contribute when their owners deem that it makes sense for them to do so. But they can also do other things with those devices. This is key.
+
+When the network starts to be dominated by big rigs that can only do one thing, there won't be this network that can switch in and out of working for Ethereum when and if it makes sense.
+
+The concern is that one day there could be enough Ethereum ASICs out there that people stop mining with GPUs, which would probably mean Ethereum would have a higher hash rate but fewer players, and it's the number of players that increases the security from the whims of centralization, not the hash rate.
+
+But aren't ASICs inevitable?
+
+Probably. Maybe?
+
+Minehan argues that the key difference here is that prior algorithms have not been designed with GPU hardware in mind, as mentioned above. ASICs gain efficiency by stripping things out.
+
+Is the ProgPoW update related to Eth 2.0?
+
+No. Definitely not.
+
+The heart and soul of the next generation of Ethereum is proof-of-stake (PoS) and ProgPoW is all about PoW.
+
+But when PoS kicks in, a PoW chain will still run as a shard, for at least a couple more years. Judging by the way everything else goes on Ethereum (especially as the chain becomes more valuable) a few more years could become "many more years."
+
+The first objection most opponents make to ProgPoW is that the imminence of Eth 2.0 mitigates the need. "That was the same excuse used in March 2018," Minehan told CoinDesk. "We cannot tie Eth 1.0 features to Eth 2.0 features. These are separate teams."
+
+Miners will continue to earn fresh ETH on the PoW chain as long as that shard runs, but then again, they won't be as powerful. So maybe centralization wouldn't matter as much?
+
+Unless it would. Don't you envy the core devs?
+
+But will Eth 2.0 ever actually happen?
+
+Probably. Last summer it was expected to go live this quarter, then it became July 2020 but who can say?
+
+Stakeholders get very touchy about this question when asked. Nothing ever comes out on time, after all, and that’s usually OK.
+
+"Here's where I think the real debate is, it's not miners versus dapps. It's really Eth 1.0 versus Eth 2.0," Minehan said.
+
+Why not just give GPU miners what they want in the meantime? What's the fear?
+
+Breaking DeFi.
+
+Decentralized finance is big. As we've previously reported, there's roughly $1 billion in crypto assets locked up in various DeFi projects. When there's a contentious fork, it creates two of everything, bringing us back to the two-chain question. Just as every ETH becomes two ETH on two chains, a hard fork would copy every smart contract (and the balances in them!) at the block where the fork happened. So, as an example, every loan on Compound would become two loans on two different chains.
+
+Two chains might really screw with oracles, the eyeballs on the network that help DeFi software know what to do. Oracle shenanigans were a problem very recently.
+
+The real issue, though, is for something like USDC, which promises one real dollar for each USDC ERC-20 token. What does it do when there are two chains with two copies of all those tokens?
+
+That said, Dragonfly Capital's Haseeb Qureshi wrote a post with crypto veteran Leland Lee arguing that Ethereum is now unforkable. The piece argues that big players in DeFi, especially MakerDAO, will have the power to pick the chain that has value after a fork.
+
+In other words, there will never really be a fork because companies like MakerDAO and Circle (which runs CENTRE with Coinbase, and CENTRE runs USDC) will always be able to say this is the real chain and that one isn't. In fact, MakerDAO can hit its emergency eject button on the unwanted chain’s copied smart contracts and force everything to liquidate. We’ll call this the distributed-ledger equivalent of taking your smart-contract ball and going home to the preferred chain.
+
+"If you imagine the movie version of this saga, the minority chain looks like an abandoned metropolis," Qureshi and Lee wrote.
+
+If one chain lives and the other pretty much dies, what's the harm?
+
+CoinDesk has to be honest here: That's not super clear.
+
+After all, if DeFi rallies to one chain and not the other, it's less likely that a company like Coinbase (to return to our example from bitcoin cash's split from bitcoin) would actually need to deal with the second chain.
+
+So there could be a contentious fork, but then it's possible that so few adherents would remain on the lesser fork that even they would abandon it.
+
+For what it's worth, Ethereum Classic has already considered ProgPoW and decided not to pursue it.
+
+Who wants ProgPoW anyway?
+
+This seems to be the split: The mining hash power on Ethereum voted overwhelmingly for ProgPoW but they aren't talking about it publicly much, other than these guys. Recently there have also been some proponents on GitHub, too.
+
+The entrepreneurs, who are vocal, do not want ProgPoW, because they fear the consequences of a contentious split. The EthHub podcast did a great job representing this view.
+
+Our own podcast, The Breakdown, also did a great analysis of the online conversation last week, concluding that Ethereum has entered a conservative era.
+
+OK, but which side is Vitalik on?
+
+For all intents and purposes, ethereum’s creator seems to be against it (though he hasn’t said definitively). He did, however, scold core developers for bringing the issue back, because the sudden return, he tweeted, "did *not* help make people trust the governance or feel safe.”
+
+The dispute seems to have taken the core developers somewhat by surprise.
+
+Ethereum’s hard fork coordinator, James Hancock, said on the Feb. 21 dev call, "I have not seen any evidence that there is an ideological [rift] or people willing to step up to actually have a network split and if I'm wrong about that I'll resign as hard fork coordinator.”
+
+Despite all the controversy, Hancock could still be right. None of the vocal opponents of ProgPoW are miners, and it takes miners to split the chain.
+
+Nevertheless, as of this writing, online sentiment seems to lean toward a Biden nomination... I mean ProgPoW stalling again. So Hancock was right but not in the way he meant.
+
+To wade even deeper into this topic, Jameson wrote a more detailed explainer focused on game-theoretical and technical elements. For his part, Jameson comes down against ProgPoW in the end.
+
+In sum
+
+To recap: If developers are Ethereum's reluctant legislators, then miners are its distributed, decentralized executive branch.
+
+Unlike in a real nation-state, Ethereum's executive arm can split itself and make a new chunk of land with copies of all the houses (wallets) and cities (smart contracts) that make this country great. They can do that at any time.
+
+The denizens of Ethereum can choose to simultaneously live on both virtual landmasses, too, but there's a decent chance that the leaders of the cities (entrepreneurs) are powerful enough in the DeFi era that they can persuade citizens to only live on one.
+
+It's fair to say, though, that most of these entrepreneurs would rather just not have to deal with it. CoinDesk will be on the call Friday and will report back as soon as it’s over.

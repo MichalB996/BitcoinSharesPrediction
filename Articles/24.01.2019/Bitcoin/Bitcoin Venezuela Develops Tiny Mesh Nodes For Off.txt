@@ -1,0 +1,31 @@
+DATE:  24.01.2019, 08:00:41
+TITLE: Bitcoin Venezuela Develops Tiny Mesh Nodes For Off-Grid Transactions
+URL:   https://bitcoinist.com/bitcoin-venezuela-mesh-network/
+
+Bitcoin Technology Bitcoin Venezuela Develops Tiny Mesh Nodes For Off-Grid Transactions
+
+Mesh networks mesh [sorry] very well with the libertarian ethos of Bitcoin, freeing users from the tyranny of state-regulated ISPs. Necessity being the mother of invention, Bitcoin Venezuela are developing a mesh node little larger than an SD card.
+
+A Hot Mesh
+
+Mesh networks are a hot topic right now. They are able to provide robust, secure connectivity in areas where it would otherwise be impossible. Bitcoinist recently reported on the experiments of a Kiwi Bitcoiner using GoTenna and Samourai Wallet to send offline transactions.
+
+But that’s all well and good in leafy New Zealand. The critical use-cases for mesh networks are to maintain communication in the aftermath of natural disasters. Or to circumvent government-enforced internet bans in Zimbabwe. Or to trade crypto in the hot mess that is the Bitcoin hot-spot of Venezuela.
+
+Another Fine Mesh
+
+So given the recent downtime of LocalBitcoins in Venezuela, it’s fortuitous that alternatives are being created. The Turpial mesh node device requires only a battery to enable anyone to send messages or Bitcoin transactions in the absence of internet or mobile signal.
+
+Of course, even a mesh network must eventually find some kind of access to transmit the information to the Bitcoin network.
+
+Mesh You Up
+
+Luckily, Bitcoin Venezuela also has that covered, with the larger Harpia device. This acts as a mesh node, can run a full Bitcoin and Lightning Network node, and connect to Blockstream Satellite. With one of these in the mesh, this means that transactions can be initiated and transmitted to the network without any reliance on local state infrastructure.
+
+Bitcoin Venezuela are looking for funding of $50k to pay for 3 months of developer time, in order to finalise and market-ready the devices. A $1k donation will bag you three of the Turpial nodes; enough to set up a mesh network in your living room.
+
+Exciting times ahead for the technology, as shared on Twitter by Blockstream CEO, Adam Back.
+
+What do you think about local mesh networks for transmitting Bitcoin transactions? Share below!
+
+Images courtesy of Shutterstock

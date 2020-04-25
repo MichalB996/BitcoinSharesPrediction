@@ -1,0 +1,39 @@
+DATE:  09.07.2019, 18:00:41
+TITLE: IRS Agents Propose Draconian Tactics to Investigate Bitcoin Users
+URL:   https://news.bitcoin.com/irs-agents-propose-draconian-tactics-to-investigate-bitcoin-users/
+
+IRS Agents Propose Draconian Tactics to Investigate Bitcoin Users
+
+A recently published U.S. Internal Revenue Service (IRS) slide describes alarming recommendations on how tax agents should deal with digital currency users who are not paying taxes. The slide recommends that agents question crypto users’ friends and family, comb through social media posts and issue subpoenas to make sure U.S. residents are paying taxes on their cryptocurrencies.
+
+Also Read: Node40 Executive Explains What to Expect When the IRS Issues Its New Crypto Policy
+
+IRS Proposes Extreme Tactics for Investigating Crypto Users
+
+An IRS slideshow created by James Daniels, IRS-CI cyber crimes program manager, describes some concerning methods IRS agents should use to crack down on crypto-using tax evaders. The slide follows the IRS’ recently announcing tax guidelines on cryptocurrencies, which will contain rules about the tax treatment of digital assets and forks. Even though the new tax guidelines haven’t been issued to the public, IRS agents who enforce the tax laws have have had no problems prosecuting bitcoin users for tax evasion. Agent Daniels’ recently published slide gives a lot of detail on how agents should combat crypto tax evaders by using a variety of investigation methods. Within the 181-page document, there are thorough descriptions of what a cryptocurrency is and chronicled paragraphs on assets like ripple (XRP) and bitcoin cash (BCH). The report discusses a myriad of digital currencies including BTC, XMR, BCH, XLM, XRP, and LTC. Daniels’ descriptive study even calls certain hardware wallet users “fanboys.”
+
+Toward the end of the report, the slideshow explains how agents can track a bitcoin address using a public block explorer. “Once a Bitcoin Address is identified, it can be looked up on a Bitcoin Blockchain Explorer to find information such as value, transaction times, transaction locations, which may help in corroborating information, identifying additional addresses, or assist in locating the subject,” the text expounds. “It can also be used to show if bitcoins were transferred after a seizure warrant was served, which is discussed below.” Additionally, the slides give a well-documented summary of bitcoin mixers and how they are used to obfuscate trails of transactions on a public ledger. If an IRS agent determines a tax-evading suspect, the slide recommends sending grand jury subpoenas to a variety of tech companies. The slideshow states:
+
+Issuance of a Grand Jury Subpoena should be considered for Apple, Google, and Microsoft for the Subject’s complete application download history.
+
+Investigating a Bitcoin User’s Financial Habits
+
+What’s more alarming is that Daniels’ slide advocates agents investigate the financial habits of individuals who are using crypto to evade taxes. This includes, but is not limited to, conducting interviews with “bank tellers, family, and friends of the subject (if feasible), and establishments the subject frequents that may accept bitcoins. [Investigating] Facebook, Twitter, and other social media outlets.” The IRS slide suggests searching the subject’s financial accounts, including bank, credit card, and Paypal records. “[Automated clearing house] ACHs and wire transfers should be identified to see if any of them are related to bitcoin,” Daniels’ slide suggests. The “Getting Information” section in the slide states:
+
+Transfers to and from a subject’s Paypal account should be analyzed in much the same way, verifying the parties involved with each transaction — Vendors who accept bitcoin, such as Amazon Payments, can also be considered for subpoena. However, this method may not reliably yield results.
+
+Further into the slides, the agent explains that if the subject in question does maintain a bitcoin balance, an attempt should be made to identify their bitcoin wallet and associated addresses. The IRS report emphasizes that a user could also have numerous crypto addresses. A person can be identified if they posted a public address on social media and the slide recommends searching “through posts by the subject on his Facebook page or Twitter account.” If the suspected tax evader uses a bitcoin wallet service, a subpoena for records could be issued to the wallet company to identify the subject’s bitcoin balance, addresses, and any identifying information. The IRS cybercrime agent also states that there are various blockchain surveillance companies available that can help with an investigation. Firms that offer distributed ledger monitoring services mentioned in the IRS slides include Chainalysis, Elliptic, and Ciphertrace.
+
+“This software could accurately trace the history of bitcoin payments and wallets — Moreover, it is able to map wallets into known “clusters”— that is, mapping addresses to known entities like Silk Road, Coinbase, and other large Bitcoin players,” the presentation explains.
+
+Slideshow Shows Agents Are Studying Cryptocurrency Technology Extensively
+
+The 181-page report is a daunting display of how IRS agents can invade a person’s private life in order to prosecute them for tax evasion. James Daniels’ slides also show that the IRS is well aware of bitcoin mixers, the use of Tor, and other transaction obfuscation methods. The study gives a detailed analysis of Bitmixer.io and explains that before the site closed down it mixed 65,000 BTC per month since 2014. “In addition to Bitmixer’s website on clearnet, the operation also had an official Tor mirror as well on the deep web,” the powerpoint presentation details. The slides also give step-by-step instructions for crypto beginners and explain how agents can easily sign up for Coinbase and other popular exchanges as well as a Bitcoin ATM walkthrough.
+
+People will likely be shocked by this display of law enforcement going to great lengths to obtain cryptocurrency information on specific people. Very few crypto users are actively taking steps to protect their privacy 100% of the time. Perhaps this slideshow will urge more people to use mixing applications like Cashshuffle, operate wallets using a VPN and make sure they keep addresses off the clearnet. The recent IRS announcement that virtual currency guidelines are on the way is all but meaningless when agents will investigate or prosecute you anyway if you don’t follow the criteria. Pay taxes or wind up in a cage.
+
+What do you think about the recent IRS cybercrimes slideshow on virtual currency use and tax evasion? Let us know what you think about this subject in the comments section below.
+
+Image credits: Shutterstock, IRS logo, Cybercrime IRS Slideshow, and Pixabay.
+
+Now live, Markets.Bitcoin.com: A comprehensive, real-time listing of the cryptocurrency market. View prices, charts, transaction volumes, and more for the top 500 cryptocurrencies trading today.

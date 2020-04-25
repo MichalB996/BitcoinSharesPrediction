@@ -1,0 +1,113 @@
+DATE:  10.05.2019, 18:34:43
+TITLE: Op Ed: Understanding the Latest FinCEN Guidance for Cryptocurrencies
+URL:   https://bitcoinmagazine.com/articles/op-ed-understanding-latest-fincen-guidance-cryptocurrencies
+
+Ring in the new bitcoin halving cycle the right way: with us!
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+On May 9, 2019, the Financial Crimes Enforcement Network (FinCEN), issued new “interpretive guidance” about how its regulations apply to businesses that conduct money transmissions in virtual currencies.
+
+In summary, a money services business (MSB) needs to register with FinCEN, (which is free and done through Form 107); get an AML compliance policy that specifies what KYC information will be collected (and aims to catch and prevent money laundering and terrorism); designate a compliance officer to monitor transactions and file suspicious activity reports for activity that looks suspicious and file currency transaction reports for transfers over $10,000; and adhere to record-keeping requirements. Crypto-to-crypto or crypto-to-fiat conversion is treated in the same way.
+
+According to the guidance, it appears the following would need to register as an MSB:
+
+Anyone exchanging or administering a token (called a convertible virtual currency, or CVC, in the guidance) who is not already regulated by the Commodity Futures Trading Commission (CFTC) or the U.S. Securities and Exchange Commission (SEC). This includes
+
+Peer-to-peer (LocalBitcoins/OTC) Custodial wallets (not your keys, not your coins) Crypto ATMs DAaps Mixers Crypto payment-processors DEX’s that don’t auto-execute and take custody in the middle of the trade ICO issuers who don’t register with the SEC Mining pool operators who host all the wallets on behalf of pool members
+
+Defining Key Concepts
+
+FinCEN made a point to note that the guidance only applies to business models “consisting of the same key facts and circumstances as the business models described herein. Therefore, a particular regulatory interpretation may not apply to a person if their business model contains fewer, additional, or different features described in this guidance.”
+
+In this context, an MSB is a person doing business (must be in the business of …) “wholly or in substantial part within the United States operating directly or indirectly as a money transmitter.”
+
+A “money transmitter” is a person that provides money transmission services or any other person engaged in the transfer of funds.
+
+Money transmission services include any type of funds being transmitted so long as they have some value — this includes any and all cryptocurrencies.
+
+Exemptions: The term “money services business” (and the FinCEN requirements accompanying it) does not include banks (they get the more cumbersome Office of the Comptroller of the Currency banking charter to deal with), a person registered with the SEC (for example, doing a Reg D raise if you filed Form D — Reg S seems to be borderline here because you don’t need to file any form to let the SEC know you are opting into their regulatory scheme) or the CFTC (which regulates bitcoin and, unofficially, the other proof-of-work coins).
+
+Money transmission may occur when a person not exempt from the MSB status uses any representation of currency of legal tender (government-backed money) associated with the purchase or sale of commodities, securities or futures contracts to engage in money transmission. For example, if you are operating in the consumer/utility token world where you believe the SEC doesn’t have jurisdiction and you accept USD and transmit a token, you need to register with FinCEN.
+
+General Application of BSA Regulation to Money Transmission
+
+Under the Bank Secrecy Act (BSA) a “person” is a legal person, which means it can be an individual or any type of company. The focus is primarily on your activities, not your business entity. Even one transaction can qualify as a money transmitter operating on a “transactional basis,” which includes a one-off transaction. As an example, thinking you are an exempt DAO won’t hold up if you are in the business of sending coins or cash that touch Americans.
+
+Exclusions from the definition of money transmitters
+
+Provides the delivery, communication or network access services used by a money transmitter to support money transmission services (software provider); Acts as a payment processor to facilitate the purchase of, or payment of a bill for, a good or service through a clearance and settlement system by agreement with the creditor or seller (integral service); Operates a clearance and settlement system or otherwise acts as an intermediary solely between BSA-regulated institutions (the bank already has your information); Physically transports currency (impossible for crypto but the ATM armored car service is not a MSB); Provides prepaid access (for example, closed loop gift cards); or Accepts or transmits funds for the sale of goods (for example, selling physical goods for bitcoin).
+
+An MSB must have a written AML program and register with FinCEN within 180 days of starting to engage in money transmission.
+
+If the money transmitter’s transactions are a transmittal of funds, the travel rule applies. As an example, if you send $3,000 or more, you have to send the receiving financial institution the transmitter’s name/account number/originating financial institution, amount of transfer and date.
+
+Application of BSA Regulations to Money Transmission Involving CVC
+
+In 2011, FinCEN issued the MSB Final Rule that included any type of CVC in the MSB analysis. (Saying “it’s not money, it’s crypto” doesn’t get you out of these requirements.)
+
+In 2013, FinCEN issued the 2013 VC Guidance which described what CVC is (it’s everything under the blockchain umbrella). That guidance initiated the terms “exchanger” (for example, when you turn fiat currency into bitcoin through Coinbase), “administrator” (any token created and put into circulation — when the administrator has the power to withdraw it from circulation. I believe POW coins can’t be taken out of circulation, but pre-mined or ERC-20 tokens can) and “user” (someone who buys bitcoin to purchase goods or services and uses it on their own behalf). A user was exempt from MSB registration.
+
+Guidance on Application of BSA Regulations to Common Business Models Involving the Transmission of CVC
+
+Peer-to-Peer: Services like LocalBitcoins or OTC trading, are still MSBs if the buyer or seller is advertising the services and/or making a profit from either crypto-to-crypto or fiat-to-crypto exchanges.
+
+CVC Wallets: A new four-factor test is created to determine if a wallet provider needs to register as an MSB: (a) who owns the value; (b) where the value is stored; (c) whether the owner interacts directly with the payment system where the CVC runs; and (d) whether the person acting as the intermediary has total independent control over the value.
+
+Hosted wallets are MSBs (“not your keys, not your coins” types of wallets).
+
+Unhosted wallets are not MSBs (like RPW, Blockchain.info, Greenwallet and Samourai).
+
+Multi-sig wallets may be MSBs depending on if they are hosted or unhosted.
+
+CVC Kiosks (Crypto ATMs): These are MSBs (under the “exchanger” category) if they take in fiat and give back crypto or vice versa. Regular bank ATMs are not (this is because a debit card is fully KYC compliant from the bank’s end).
+
+DApps: Because DApp users must pay fees to the DApp to run the software, and that fee is often in CVC, they accept and transmit value and they need to register as MSBs.
+
+Anonymity-Enhanced CVC Transactions: If it’s a transaction in a regular CVC but structured to conceal information that would normally be shown on a blockchain or denominated in a type of CVC that is engineered to prevent tracing on the blockchain (like Monero and Grin), the analysis remains the same. If it’s an administer or exchanger, it’s an MSB. There was a lengthy discussion about the application of the integral exemption, but FinCEN decided the mixing or privacy function in these transfers are not ancillary to the transaction, so the integral exemption does not apply.
+
+Anonymizing service providers that accept and transmit value in a way that is ostensibly designed to protect the privacy of the transmitter are providers of secure money transmission services and not eligible for the integral exemption.
+
+The integral exemption only applies to businesses where the core business is different from the money transmission itself, and the money transmission activity is necessary for the business to operate. For example, the integral exemption applies to situations like the refund of online purchases when the store mails you a gift card that can be redeemed for cash — which takes it out of the closed loop gift card exemption.
+
+Anonymizing service providers are MSBs because they have no other purpose such as protecting client information, and the mixing service is not an activity separate from the transmission itself because the only reason to protect privacy is in connection with the actual fund transmission.
+
+Therefore, a person who provides anonymizing services by accepting value from a customer and transmitting the same or another type of value to the recipient, in a way designed to mask the identity of the transmittor, is a money transmitter under FinCEN regulations.
+
+Anonymizing Software Providers: These are not MSBs because FinCEN exempts “those persons providing the delivery, communication, or network access services used by a money transmitter to support money transmission services.” The supplier of communications, hardware or software that is used in a money transmission, like anonymizing software, are engaged in trade and not money transmission.
+
+Privacy Coins: I think FinCEN got too far into the weeds, which might indicate a lack of understanding. It has conflated the actual coin with a “payment system” and went into an analysis of how “payment systems can change from centralized to decentralized” over time.
+
+Assuming the term “centralized or decentralized payment system” is talking about Monero or Grin, it then clarifies that if you are the administrator or exchanger, you are an MSB, if you are a user, you are not an MSB (the exact same analysis as any other CVC).
+
+There is an additional part saying the developer of the “decentralized CVC payment system” is a money transmitter if it engages as a business in the acceptance and transmission of value.
+
+Payment Processing Services Involving CVC Money Transmission: A financial intermediary that allows a merchant to accept CVC from customers in exchange for goods and services sold (like BitPay) are money transmitters and are not eligible for the normal payment processor exemption. That exemption only applies because typical payment processors before crypto were tied to banks, so the banks had all the KYC already.
+
+CVC Money Transmission Performed by Internet Casinos: If you can place bets with crypto and the company is not covered by the formal regulatory definition of casino, it is considered an exchanger the moment it pays out on a bet (probably directed at Augur).
+
+Specific Business Models Involving CVC Transactions That May Be Exempt from the Definition of Money Transmission
+
+Trading Platforms and DEXs: “Under FinCEN regulations, a person is exempt from money transmitter status if the person only provides the delivery, communication, or network access services used by a money transmitter to support the money transmission services.” So if you only provide a forum where buyers and sellers of CVC post their bids and offers (with or without auto-matching of counterparties), and the parties match through an outside venue (individual wallet or other wallet not hosted by the trading platform), the trading platform does not qualify as a money transmitter under FinCEN.
+
+If, when the match takes place, a trading platform purchases from the seller and sells to the buyer, it’s a CVC exchanger and thus falls under the definition of money transmitter.
+
+ICOs: In presales the exchange of money or CVC for the newly issued ICO token may take place at a later date, the future creation of the ICO token may take place through mining using a decentralized model (here, FinCEN sounds like it doesn’t know how ETH tokens are created and have inadvertently lumped in POW coins, although it later adds back the caveat that the administrator has to be able to redeem and permanently retire from circulation the new units of CVC, which is not possible on POW). Basically, if you create a token, sell it for another form of value, and have the ability to redeem it, you need to register as an MSB.
+
+FinCEN reviewed a second business model that I think it got confused again. It said, in the second business model, the ICO raises funds for a new project by selling an equity stake or debt instrument to early backers or hedges a previous investment in CVC through a derivative, such as a futures contract. To me, that’s not an ICO, that’s a Reg D, under the SEC’s purview. The funded project generally involves the creation of DApps.
+
+In brief, if regulated by the SEC or CFTC, FinCEN rules do not apply. Also, if the Integral test mentioned earlier applies, there may be a slim exemption for actual consumer or utility tokens. Resale on the secondary market in a peer-to-peer nature does not implicate the token purchaser (they are a user).
+
+DAap Devs: Not MSBs.
+
+DAap Users Conducting Financial Activities: The investor/owner/operator deploying the DAap to engage in money transmission denominated in the CVC is likely a money transmitter.
+
+Creators of CVCs and DAaps Conducting CVC Transactions: The creators of a CVC sometimes issue or “pre-mine” CVC units in advance and then distribute those units as payment for goods or services or repayment of obligations (such as amounts owed to project investors). Those are not MSBs. If they instead sell them for another CVC once the market is established, they may be an MSB.
+
+Mining Pools: When the leader of the pool distributes the CVC that was mined by the pool to the pool members, it is not a money transmission because those transfers are integral to the provision of services.
+
+When the leader or cloud miner hosts CVC wallets on behalf of the pool members, it will be considered an account-based money transmission, requiring MSB registration.
+
+This is an op ed by Sasha Hodder. Opinions expressed are her own and do not necessarily reflect those of Bitcoin Magazine or BTC Inc.

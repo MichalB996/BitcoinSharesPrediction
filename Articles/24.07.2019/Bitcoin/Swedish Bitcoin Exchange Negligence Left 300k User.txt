@@ -1,0 +1,67 @@
+DATE:  24.07.2019, 10:20:11
+TITLE: Swedish Bitcoin Exchange Negligence Left 300k Users at Risk
+URL:   https://blockpublisher.com/swedish-bitcoin-exchange-negligence-left-300k-users-at-risk/
+
+Another cryptocurrency exchange bites the dust, as the Swedish exchange QuickBit, confirmed in the press release of a security breach earlier on Monday, which resulted in compromised customer records. It is estimated that 300,000 users were left exposed and anyone online could view sensitive information like passwords and secret keys without any hurdle.
+
+QuickBit is a Sweden- based cryptocurrency exchange, a platform for trading cryptocurrency with the least amount of hassle and as efficiently as possible. The platform accepts payments via Visa and MasterCard for purchasing Bitcoin and Bitcoin Cash. It was listed on NGM Nordic MTF stock on July 11th with an initial market cap of SEK 207 million ($22m).
+
+The breach first was first came to light when the security aggregator Shodan, noted that the data base on the platform was wide open, leaving sensitive information unprotected. Later the exposed data was discovered by Comparitech, after which QuickBit was notified about the breach via email.
+
+Reportedly the security breach occurred during the delivery of a new third-party supplied system for customer screening. QuickBit confirmed that an outside contractor had left the data unprotected in an attempt of a security upgrade. By doing so, MongoDB database containing transaction records was made publicly available with no authentication required. The exchange provided further explanation in their press release, according to which:
+
+QuickBit has recently adopted a third-party system for supplementary security screening of customers. In connection with the delivery of this system, it has been on a server that has been visible outside QuickBits firewall for a few days, and thus accessible to the person who has the right tools.
+
+According to the platform, the third party will soon publish a public version of the incident report on its website, which will give users a thorough explanation of the unfortunate event. The press release revealed that during the delivery period, a database was exposed with information that included the names, addresses, e-mail addresses and truncated (incomplete) card information for about 2% of QuickBit’s customers.
+
+READ ALSO: $32 Million Japanese Crypto Exchange Hack – What We Know So Far
+
+However, many believe that the exchange platform is underplaying the casualties of the breach because according to Comparitech, more than 300,000 were left exposed and anyone online could view the contents without any hurdle. QuickBit’s database held 301,470 ‘events’ records. An event presumably refers to a transaction that has taken place via the platform. Reportedly the following information was leaked during the breach:
+
+Full name
+
+Full address
+
+Email address
+
+Gender
+
+Profile level (Gold, Silver, or Bronze)
+
+Date of birth
+
+Payment information (type of credit card used and first six and last four digits)
+
+Source currency and target currency (for example, USD to BTC)
+
+Transaction amount
+
+Yet QuickBit maintained that most of the crucial data was NOT compromised/affected in the security breach, which as follows:
+
+Passwords
+
+Social security numbers
+
+Complete account or credit card information
+
+Cryptocurrency or keys
+
+Financial transactions
+
+According to the platform, QuickBit was quick to immediately ensure the protection of all servers behind a firewall, thus preventing the possibility of similar incidents. It further added:
+
+We want to emphasize that the data that has been accessed cannot be used to harm either the company or its customers.
+
+However, Comparitech’s report suggests that in addition to the aforementioned compromised records, they also discovered 143 records, which contained sensitive credential information including merchants, secret keys, names, passwords, secret phrases, user IDs, and other information.
+
+READ ALSO: $5 Million Crypto Loss: Even the Most Advanced Crypto Exchange Suffered Hack
+
+The most concerning part of the security breach is those 143 records and the nature of information they held. And their compromise could potentially provide malicious parties with full access to the registered accounts. Which means that anyone with that information has the potential to take over the account and go through with transactions. They can also potentially view full payment information that can be used in credit card fraud.
+
+According to Comparitech, there is also the danger that ID and password combinations could be used to hack other accounts. The report suggests that 52% of users reuse passwords, making account takeover via credential stuffing a low-hanging fruit for cybercriminals.
+
+Furthermore, despite the fact that no crucial information was compromised, the little that was could pose future threats. Per the report, with the last four digits of a credit card coupled with detailed personal information, which was compromised, can be all it takes for criminals trick a wireless carrier that they are an account holder for your account.
+
+Last June, the South Korean crypto exchange Bithumb was the target of a security breach that affected around 31,000 exchange user accounts. According to latest reports, the platform has been prosecuted for its alleged failure to take adequate measures to protect personal information. Now QuickBit’s course of action will decide if it will face the same fate as that of Bithumb.
+
+READ ALSO: Korean War Turned Crypto: North Blamed for Crypto Exchange Hack

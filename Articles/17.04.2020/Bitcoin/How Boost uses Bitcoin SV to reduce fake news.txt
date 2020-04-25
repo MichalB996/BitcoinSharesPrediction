@@ -1,0 +1,79 @@
+DATE:  17.04.2020, 13:51:14
+TITLE: How Boost uses Bitcoin SV to reduce fake news
+URL:   https://coingeek.com/how-boost-uses-bitcoin-sv-to-reduce-fake-news/
+
+We all agree that fake news is a problem. However, there is no consensus on how to solve the problem. Some suggest a verified identity system for the internet; others hope for stricter regulation and harsher penalties.
+
+Bitcoin service provider Matterpool recently introduced “Boost POW” to reduce fake news by a completely different approach.
+
+Why a verified identity model or tougher penalties for fake news might not work
+
+A verified identity system for the internet sounds easier to implement than it is. People can still post or share fake news even with verified identities that do not allow for anonymous or pseudonymous activity on the internet. The main hassle with fake news is not anonymity or pseudonymity, as there are millions already sharing fake news with their true identity revealed.
+
+Who is to verify worldwide identities anyways? We do not live on a planet governed by one central authority. We face different jurisdictions, plenty of governments, not even the internet itself is freely accessible from all countries.
+
+Harder punishments for fake news will not effectively solve fake news for the same reasons as punishments for libel do not solve the problem of defamation. People who libel others already know it is against the law, yet they still do it. It is not about whether one pays this or that legal fee later on, and it is also not about whether one faces a year or three years in prison. People break laws in knowledge of penalties. The same is to be expected for any anti-fake news regulation, no matter how hard the penalties turn out to be.
+
+Who is to say what is fake or real news anyways? Again, we do not have a one-world jurisdiction. Do we want governments to decide what truth is? Do we want democratic consensus on truth via voting?
+
+All of these are political approaches to a non-political problem.
+
+Boost has another solution, driven by proof of work in Bitcoin SV
+
+According to the Boost POW whitepaper, there is a Bitcoin driven, economic incentive model to make use of which helps to reduce fake news.
+
+The idea is to add energy to information.
+
+Boost makes use of the handicap principle. The handicap principle states that it needs spent opportunity cost to signal over an adversarial channel. Proof of work in Bitcoin SV can be such a spent opportunity cost as stated in the Boost POW whitepaper:
+
+At any given time, proof-of-work is proportional to spent energy. Proof-of-work is an application of the Handicap Principle. Therefore, it can be used by Bitcoiners to find relevant information. In addition to finding the latest block header, Bitcoiners can use proof of work to direct one another to important information within a block.
+
+As described in the Boost POW whitepaper, Bitcoin users can purchase proof-of-work from Bitcoin SV transaction processors, attachable to their published content.
+
+By that, Bitcoin users can signal to the network that their information has value. They spend money “to boost” content by paying Bitcoin transaction processors for computational power.
+
+Dr. Craig Wright stated at the CC Forum London 2019 that: “Hash rate doesn’t secure the network. Miners validate transactions. They signal that they want to invest in the network using hash rate. It’s not the same thing.”
+
+Hash rate is a signal, and Boost essentially puts this signal into use to value information.
+
+How to “boost my content”?
+
+Independent on where your Bitcoin SV based information is published, you can “add energy” to it. For example, Boost itself has a content website.
+
+You click “Add Boost” and pay via Money Button to get “more energy” onto your published information. Done.
+
+Another example is Matterpool’s BitcoinFiles. Users can upload files to the Bitcoin SV blockchain via bitcoinfiles.org.
+
+Once uploaded, you can use Boost POW on that uploaded file to “signal” value to the network.
+
+We are safe to expect other Bitcoin SV driven apps and services such as Twetch to implement Boost POW for their users soon.
+
+How does Boost ensure fake news is reduced?
+
+Boost can be used to signal value for any information. That means fake news spreaders could also “push” their false information by paying Bitcoin SV transaction processors for computational power.
+
+However, there is an economic incentive not to boost fake news. Other than the political approaches mentioned above to solve the fake news problem, the economic solution works against fake news long term by requiring a higher cost to the person trying to spread it.
+
+Truth has a value for market participants (businesses and users). With true information, recipients can perform better decision-making. Better decision-making has value, so if you boost true information, recipients profit and get back to you for more accurate information.
+
+Lies, on the other hand, are not the same economically. Lies are false information, even market distortions, and misleading information hinders profitable decision-making. Recipients of incorrect information do not make a profit, so they will—long term—not reach out again to those who published the fake news.
+
+Boost POW’s economic incentive model for true information is simple
+
+Example 1: You publish true information about stock trading on social media and “add energy” to it by paying a Bitcoin SV transaction processor for its computational power. This signals to others that your information about the stock trading is valuable, at least to yourself, as you have just spent money signaling. Because your information is true, the recipients benefit from it.
+
+They can make better decisions concerning their stock trading. You lost money signaling via Bitcoin SV, but your true information has found its recipients, and the recipients make use of the true information. They come back to you for more valuable information. You have got a business going now.
+
+Example 2: You publish false information about stock trading and use Boost POW on that. This signals to others that your information is valuable, but it is not valuable because it is false information. So you lose money signaling, the recipients make bad decisions concerning their stock trading based on your false information and will not ever come back to you as a source of information. No business for you in the long run.
+
+In the long run, liars pay more using Boost POW than truth-tellers. With this Bitcoin SV driven incentive model for information, fake news can be reduced.
+
+Bitcoin SV transaction processors will offer a variety of services
+
+The whole idea behind Matterpool’s Boost shows that Bitcoin SV transaction processors will be busy providing an array of services to users. It is not just about “block reward mining” anymore, nor is it only about processing transactions.
+
+Bitcoin SV dedicated transaction processors will use their computational power in general to serve different purposes. Whatever the market demands. Boost is just an example of how transaction processors can profit besides the usual Bitcoin network processing.
+
+It is no coincidence that Bitcoin SV dedicated transaction processor TAAL Distributed Information Technologies Inc. recently published its strategic vision, including blockchain computation and blockchain cloud services. Matterpool itself is running a mining pool and seems to specialize in broader Bitcoin computational services too.
+
+New to Bitcoin? Check out CoinGeek’s Bitcoin for Beginners section, the ultimate resource guide to learn more about Bitcoin—as originally envisioned by Satoshi Nakamoto—and blockchain.

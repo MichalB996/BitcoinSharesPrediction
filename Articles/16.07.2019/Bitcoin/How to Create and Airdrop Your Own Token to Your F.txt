@@ -1,0 +1,47 @@
+DATE:  16.07.2019, 18:45:20
+TITLE: How to Create and Airdrop Your Own Token to Your Friends
+URL:   https://news.bitcoin.com/how-to-create-and-airdrop-your-own-token-to-your-friends/
+
+How to Create and Airdrop Your Own Token to Your Friends
+
+Roughly a year ago, the Simple Ledger Protocol (SLP) debuted on the Bitcoin Cash (BCH) network, giving anyone the ability to mint, store, receive, and send SLP tokens. Since then there’s been a ton of tokens created on the BCH network as the simplicity of the system outpaces tokens built on alternative chains like ERC20s and sending the tokens is far cheaper than most networks as well. The following walkthrough describes how to create SLP tokens and airdrop them to your friends and family in a short space of time.
+
+Also read: Bitcoin Cash Update: Multi-Party Escrow, Vitalik Suggests BCH as Data Layer for ETH
+
+Creating an SLP Token Using Memo.cash
+
+Over the last few months the Simple Ledger Protocol, a tokenization platform built on top of the Bitcoin Cash network, has grown very popular among BCH enthusiasts. The reason for this is due to how easy it is to create an SLP token in a matter of minutes. To show how simple it is to mint, store, and airdrop tokens using the SLP tokenization platform, we’ve created a guide on the two easiest ways to get started. After reading this post and performing a few test runs on either the Memo.cash or Electron Cash applications, you’ll be able to create SLP tokens faster than the Fed prints dollars.
+
+One of the quickest ways to mint a token on the BCH network using the SLP platform is through the application Memo.cash. You first need to sign up for Memo.cash and load the account with a small number of satoshis (nickel or dimes’ worth will do) because every action on Memo is basically created with a BCH transaction. If you already have a Memo account you can skip ahead, but if you don’t have an account you can quickly create one here.
+
+After the Memo account is created, the top right-hand side of the account page shows a Bitcoin symbol which leads to Memo’s native wallet. To fund the account, choose and copy the BCH address on the right-hand side of the page or simply scan the QR code. After the Memo account is created and funded, you can play around with Memo’s functionality or head directly to the memo.cash/token/create page. Again, your account needs to be funded with a small fraction of BCH in order to create a token using the Memo platform.
+
+The memo.cash/token/create page shows all the custom fields that can be customized before minting an SLP token. This includes the token’s ticker, name, decimal amount, custom URL, and the initial quantity. After deciding on the specifics of your new token, press “Create” and the new SLP token creation will be broadcast to the BCH network. Memo provides an SLP wallet so after you create a token, it will be stored in your account which can be found in the wallet section. After that step, you can do whatever you want with the new tokens and send them to people on a whim. There is one thing to remember when creating an SLP token on Memo.cash: everything is recorded onchain when you mint a token or send tokens to someone else from your Memo account. Of course, if you wanted you could create a throwaway account on Memo to build an SLP token in a private manner.
+
+Designing an SLP Token Using the Electron Cash Light Client
+
+Another way to create an SLP token is using the Electron Cash wallet SLP version. You can download the Electron Cash SLP 3.4.14 release here and the wallet is supported by Windows, Mac, and Linux operating systems. Electron Cash SLP allows you to create, mint, burn and send SLP tokens using the light-wallet implementation. After downloading the wallet, the software will ask you to create a new wallet or import existing funds into the platform. If this is your first time, create a new wallet and record the seed phrase on paper as you would normally do when creating a new wallet. After that step, just like Memo, you will need a small fraction of funds to start creating tokens and for sending them as well. So at the top of the Electron Cash wallet, choose one of your BCH addresses and send a fraction of BCH ($0.05-0.10 is plenty) to the address. Once the wallet is funded you can now create a token using the Electron Cash wallet in a matter of minutes.
+
+At the top of the wallet, there’s a tab on the right-hand side that says “Tokens” and you choose this tab to create an SLP token using the wallet. After selecting the “Tokens” tab at the bottom of the wallet, there’s a tab that says “Create New Token” which will bring you to the token creation window. The customizable fields in the creation window include an optional ticker symbol, token name, document URL or email, a document hash, decimal amount, token quantity and the ability to customize the SLP receiving address.
+
+The Electron Cash wallet has a few more functions as well, including the ability to upload a token document from the wallet itself, and you can also preview the customized settings before broadcasting the token’s genesis transaction to the network. The Electron Cash SLP version can also make it so your token is fixed or you can keep the baton open making minting more tokens possible in the future at any time. If you are comfortable with all the settings you chose, simply press “Create New Token” and Electron Cash will initiate the genesis creation transaction.
+
+Creating a token on the SLP tokenization platform is super easy and creating one is much faster than designing an Ethereum-based ERC20 token. There’s a number of wallets that support SLP tokens now as well including Badger Wallet, Electron Cash, Memo, Ifwallet, and Crescent Cash. Users can put even more time into creating a token and design something that might gain value like collectibles or coupon tokens. For instance, I created a set of coins called PKMN S1 which stands for Pokémon Series 1. The Pokémon collection isn’t quite finished, but can be viewed at this address.
+
+Each token is nondivisible and there is only one coin for each Pokémon character in the series. Each token is also tied to a unique URL that leads to the official Pokédex. In order to make sure my tokens are unique, I used one address for the genesis creation of PKMN S1. I also signed and verified a message that proves I own the address that is tethered to the Pokémon series. My idea is to one day airdrop these rare Pokémon characters to random people who share their SLP address online. So if you happen to randomly get a Pikachu, Bulbasaur, Charmander, or Squirtle sent to your wallet, you’ll know where it came from. If you want to airdrop your newly created tokens to your friends all you need is their SLP address.
+
+BCH Tokenization Using SLP Has Matured a Great Deal With Wallet Support and People Making a Variety of Tokens
+
+The BCH tokenization platform the Simple Ledger Protocol (SLP) has been gathering steam lately as many Bitcoin Cash proponents and businesses have been experimenting with the protocol. For instance, the most popular SLP tokens used today include Honk, Spice, the Official SLP Token, Honestcoin, and Dogecash. Then there’s the micronation of Liberland which created Merits which acts as Liberland community funding coin. The city of Dublin, Ohio is in the midst of creating a city-based token using the SLP platform and the coin will be used for city-wide discounts and rewards in Dublin.
+
+The Tokyo-based Alliance Cargo Direct minted the SLP-minted token ACD which is now traded on the Altilly exchange. The ACD token will be used at online and brick-and-mortar merchants from Japan, according to Alliance Cargo Direct, a subsidiary of ANA Holdings (ALNPF). Additionally, on June 12 the digital asset exchange Coinex announced the listing of a new SLP-based stablecoin USDH. Created by the Honestcoin.io team, USDH is fully regulated and backed 1-to-1 for U.S. dollars.
+
+Making a token isn’t hard and they are fun to send to friends and people learning about the Bitcoin Cash ecosystem. You can even follow the vast amount of SLP tokens created using the Simpleledger.info transaction explorer or other explorers like Bitcoin.com’s BCH Block Explorer. After experimenting with SLP you’ll be well versed in creating tokens on top of the Bitcoin Cash network in no time and who knows, maybe after airdropping your token it could become used widely or gain monetary value.
+
+What do you think about creating SLP tokens using either Memo.cash or the Electron Cash wallet? Let us know what you think about this subject in the comments section below.
+
+Disclaimer: This article is for informational purposes only. Readers should do their own due diligence before taking any actions related to the mentioned applications and services. Bitcoin.com and the author are not responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.
+
+Image credits: Shutterstock, Simple Ledger Protocol, Bitcoin.com, Jamie Redman, Memo.cash, the official Pokédex, Badger Wallet, Ifwallet, Crescent Cash, and Electron Cash.
+
+Enjoy the easiest way to buy Bitcoin online with us. Download your free Bitcoin wallet and head to our Purchase Bitcoin page where you can buy BCH and BTC securely with a credit card.

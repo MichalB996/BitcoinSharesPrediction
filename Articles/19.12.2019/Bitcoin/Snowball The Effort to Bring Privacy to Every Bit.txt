@@ -1,0 +1,57 @@
+DATE:  19.12.2019, 10:00:00
+TITLE: Snowball: The Effort to Bring Privacy to Every Bitcoin Wallet
+URL:   https://www.coindesk.com/snowball-the-effort-to-bring-privacy-to-every-bitcoin-wallet
+
+Developer Ben Woosley was watching the Hong Kong protesters when he saw something interesting: They were using Bluetooth technology to dodge the internet, allowing them to create a mesh network for organizing and messaging while avoiding intrusion.
+
+To create their mesh, the protestors used an app and software development kit, or SDK, called Bridgefy to bypass normal Internet connections. Woosley wondered about the implications of this decentralized, disconnected technology for bitcoin. The problem, he found, was that even though crypto was theoretically resistant to censorship, in practice it was easy to knock out the network by turning off the internet.
+
+To solve this, Woosley created a Bluetooth-based network, Snowball, to make it easier to make private bitcoin transactions, and based his technology on the concept of CoinJoins.
+
+CoinJoins?
+
+CoinJoins are one of the main bitcoin privacy technologies. They are used to scramble several transactions together to hide all parties' tracks. The Wasabi bitcoin wallet makes CoinJoins easy to use but, since CoinJoins are more difficult and expensive than normal bitcoin transactions, they only make up a small portion of the total bitcoin transactions despite having been around for years.
+
+Woosley wants to try to make privacy easier with a variant of CoinJoins called PayJoins.
+
+"That's the main element of the project, making PayJoins easy, where you don't need to need to know that they're occurring," he said.
+
+The goal is to get the technology to "snowball" ensuring that every transaction will at least have the option of traversing the mesh network if the internet is unavailable.
+
+How it works
+
+It all started in a blockchain hackathon in Wyoming. Woolsey was there because of a "fascination with cowboy culture." Woosley and fellow bitcoin developer Justin Moon teamed up for the multi-day event and explored what kind of product they wanted to make.
+
+"Bluetooth is the most commonly available wireless technology, in every phone. The ubiquity of Bluetooth makes it a good target for this," Woosley said.
+
+The pair considered other technologies but abandoned them after a bit of research. Another wireless technology, NFC, wasn't as widespread because it's only supported in Android smartphones. But once it has Bluetooth in a stable place, the team might try to work on making Snowball compatible with these other types of technologies, Woosley said.
+
+In the end, Woolsey and team used a tech called Pay to EndPoint or P2EP., a year-old idea for achieving bitcoin privacy. Instead of requiring a bunch of people to make a transaction at the same time, as is done with CoinJoins, the tech only requires the sender and the receiver to mix transactions.
+
+They chose to use P2EP because it improves security in two ways. First, users don't have to find another person trying to make a transaction at the same time. Second, it might be even more private than regular CoinJoins since it makes the fact that you're using a mixer to hide transaction history much less obvious.
+
+For developers like Woosley, it's important to make private transactions easier for a couple of reasons.
+
+"It's a property that impacts everyone. But it's a public good in a sense. As more people make private transactions, it increases the privacy of everyone else," he said.
+
+Plus, Woosley wants to "undermine Chainalysis people." Right now, it's not so hard to figure out what transactions are owned by which people by using "blockchain analysis," or looking through the history of bitcoin transactions to find patterns.
+
+Further, experts worry bitcoin's transparent transaction history could hurt its chances of becoming a serious currency. One crucial property of money is "fungibility," the idea that every coin is worth the same amount as every other coin.
+
+The risk with bitcoin is some coins could become tainted by a past crime and be rendered useless.
+
+"The coin might be associated with some event that happened a long time ago," Woosley said. "It's possible to scrutinize coins to see if it's gonna be spendable based on outside rules like what the government thinks. It undermines using bitcoin. It's a significant risk to any user."
+
+Hurdles to adoption
+
+However, it might not be so easy to make private bitcoin transactions simple. One big hurdle with P2EP, as well as Snowball, is that both the sender and the receiver need to adopt the technology in order to communicate.
+
+In addition, some experts question whether it's the best way forward for private bitcoin transactions. P2EP has been around for a year, but it hasn't gained much traction.
+
+"It's not hard to see why P2EP and PayJoin doesn't really see any adoption. Every implementation is limited. JoinMarket only for JoinMarket users, BustaPay only for merchants, Snowball only for smartphones," said Adam Fiscor, developer of Wasabi, a leading privacy-minded bitcoin wallet that uses normal CoinJoins. He went so far as to say privacy wallet Samourai's technology is for "idiots." He and Samourai were involved in a public spat earlier this year about the different approaches in privacy technologies they've taken.
+
+Woosley hopes Snowball will expand into a more pliable standard. He argues the key ingredient it has that other projects don't is they're trying to make it "effortless" for wallets to implement.
+
+As such, the team is looking for a developer to help build out an app that works for Android devices.
+
+Once they're done with that, they'll open "pull requests" to wallets to try to help them to adopt the changes. "The integration effort should be pretty modest," Woosley said. In all, his hope is that adoption to start with a flurry and roll into a storm.

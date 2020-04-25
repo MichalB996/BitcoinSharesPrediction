@@ -1,0 +1,83 @@
+DATE:  15.03.2020, 14:00:56
+TITLE: Wipe out! Why many BTC miners just got liquidated in China
+URL:   https://decrypt.co/22472/wipe-out-why-chinas-btc-miners-just-got-liquidated
+
+When I wrote about China’s pending BTC mining catastrophe last week, I didn't expect a real disaster to happen a few days later. But as Decrypt's readers know, crypto prices plummeted by more than 50%, and the real halving seemed to be the halving of bitcoin’s price, rather than the mining reward.
+
+Sill, most people don’t know that, during the crypto crash, nearly 40 types of mining rigs—including the legendary S9 that produced some 40% of BTC’s overall hashrate—also died last week. These machines were taken offline because the “halved” price made operating them unprofitable (You can see live mining revenue calculation based on mining rig types here).
+
+Though price is a major factor that determines whether to shut down mining rigs, there is another factor that contributed to the miners’ grief: the liquidation risk that comes from leveraged borrowing.
+
+This week’s da bing looks into the unhappy consequences of that in the mining sector. As we will see, many miners suffered from the misuse and misunderstanding of financial tools—while a few others profited from them.
+
+New financial services
+
+Independent miners and smaller mining farms began to use novel financial services only recently. In fact, it wasn’t until the end of 2019 that many third-party brokerages first popped up, claiming that they could help miners leverage their financial gains while mitigating their risks.
+
+How? The most common product they offered miners was loans that were used to buy mining equipment.
+
+When the price of bitcoin was low, miners could lend their freshly mined coins to brokers, especially to loan sharks, over-the-counter crypto trading desks and even VIP customer services from the top exchanges. (“VIP customer service” is popular among the exchanges that serve China partly because they are staffed by attractive women. They also front loans.)
+
+The thinking among the miners was that it made sense to effectively pawn their coins for cash now, wait for the price to go up as the halving approached, and then pay the loans back. In the meantime, the miners would get operating cash in fiat, which could be used to pay for electricity, daily expenses, and invest in the latest, more powerful rigs.
+
+The idea of borrowing cash to mine worked because it perfectly solved the miners’ cash-flow problems, while still allowing them to profit from the nearly certain BTC bullrun on the horizon.
+
+R.I.P S9
+
+It seemed like a perfect plan—except when it failed: Last week, prices dropped so far, so fast that many miners reached a liquidation point. That happened when their brokers had to sell the collateralized coins to prevent further bleeding, which caused the market to go down even more. In that case, miners had to shut down their farms because they had neither the cash, nor the coin, to operate their businesses.
+
+We can’t say with certainty how many miners went bust, but insiders tell them the wreckage was severe. The phenomenon is known as “miner capitulation.” When small mining farms close down and sell their BTC all at once, it causes an even stronger sell pressure in a bearish market.
+
+The smarter miners avoided putting themselves in an overly leveraged position. With a more sophisticated understanding of finance, or a more rational outlook of token prices, those miners managed to mitigate their losses and even profited from the downturn.
+
+“There are two types of miners who have survived the recent bloodbath,” Shixing Mao told me in an email. Mao is CEO and co-founder of Cobo Wallet and F2Pool, one of the largest BTC mining pools in the world, and goes by the nickname 神鱼, which he translates into English as "DiscusFish." “The first type are those who bought the right financial derivatives, such as futures and put options. (An example is Bitmain’s put option offer coupled with the sales of its S17+). And the second type are those who hold onto their cash.”
+
+Miners who can purchase futures contracts or put options can effectively hedge a price drop. But buying financial derivatives requires much deeper financial knowledge than borrowing on margin. Not every miner is capable of operating complicated financial products. In addition, since the whole market was betting on a potential bull run from the BTC halving, rarely can we find anyone who wants to short the market. Even miners who might be inclined to take a short position can often be convinced to do the opposite by brokers who make them offers seemingly too good to refuse.
+
+In Chinese, the word “crisis 危机” is composed of two characters “危,” which means “danger,” and “机,” which means “opportunity.” The phrase perfectly explains the opportunity that exists in the bear market for people who have cash on hand. They can pick up mining rigs at dirt cheap prices from vendors such as Bitmain, which now have to radically drop their prices.
+
+“We’ve seen mining companies selling their machines for cheap because as mining farms close down, few are demanding new machines. They have to slash the price down to get their own cash flow going,” Mao pointed out.
+
+If the price continues to drop, we could see more miners—big and small—being washed out, either because they failed to manage risk or they ignored the downside due to their irrational exuberance in advance of a halving-fueled bull run.
+
+No one tracks precisely how many miners were affected. But Mao and others think the number was significant and that the current bloodbath will have far-reaching consequences.
+
+“We might see a weakened and less secure network from the current downturn, and the possibility of 51% attack,” Mao told me. His rationale was that as mining becomes less profitable, fewer miners will remain in the network, contributing to a diminished hashrate. That would make it cheaper to conduct a 51% attack.
+
+If there’s an expensive lesson coming out of the current market, it could be that mining, like any other market, only rewards those who understand that the game is risky.
+
+Top 3 other things that happened:
+
+#1. China might establish its DCEP as its post-outbreak “recovery fund”
+
+Now that China has declared victory against covid-19, economic recovery has become its paramount task. During a study group organized by the Party on Digital Economic infrastructure establishment, many experts claimed that China’s plan for a digital currency, DCEP, should be accelerated—and distributed to the country as a special fund to stimulate the country’s economy post outbreak.
+
+Experts reasoned that the government could increase its investment and purchasing budget, and DCEP’s traceability would be especially helpful to allocate funding.
+
+Separately, President Xi also emphasized during a study group session that “China should make blockchain a core breakthrough of China’s domestic innovation.”
+
+I guess as China’s economy warms up again, so will all the blockchain propaganda.
+
+#2: More “blockchain-related firms” filed for IPOs in China
+
+According to media site 8btc, 8 Chinese companies associated with blockchain have filed for IPOs within the last month. The article predicted that we might see more blockchain use cases as a result of new tech companies entering the space.
+
+While the number looks promising, a close examination of these companies’ business models revealed, yet again, that they aren’t necessarily blockchain related. In filings, “blockchain” turned up along with all the other buzzwords, such as cloud, smart city, AI and IoT. Old habit dies hard.
+
+In reality, many companies don’t have actual blockchain use cases, but use cases that could be on the blockchain. For example, both Hengshi and Longshine Technology are contractors of China’s state grid corporation. None of their offerings is blockchain related, and it’s unknown whether future solutions could be on-the-chain. Yet both companies have been able to raise money because of their supposed intent to deploy the much sought after, novel technology.
+
+#3: PlusToken: the latest chapter
+
+Ever since I joined a PlusToken Wechat group, reading their daily chat has been an entertaining activity. After a few months of mostly silence, the group has been particularly active these past few days. Three interesting topics emerged.
+
+First, there’s an increasing patriotic sentiment in the group. Members seem to link the opening of PT Net ( Plustoken’s mainnet) as a way to contribute positively to China’s economic growth, especially amid the current economic crisis. The logic is that Plus Token is a form of digital currency. And since the government encourages DCEP, the Plus Token should be considered as a positive force in pushing DCEP to the public.
+
+Second, the launch of a new PT Exchange, which according to a “teacher” is a decentralized OTC exchange, has gotten everyone excited. It’s not clear how the Exchange would function but it seems like a hodgepodge of every crypto jargon in one sentence.
+
+Last, some communications and documents are also written in Korean. South Korea is a major market for Plus Token but given that the propaganda is on Wechat, we can only speculate that the language choice is a way to dodge Wechat’s censorship.
+
+Do you know?
+
+The big “winners” in the covid-19 outbreak were delivery services, telemedicine, online streaming, and social networking. Wecan also now add “enterprise communication” in the form of DingTalk. It was the second most downloaded application from China’s Apple store in February, data showed.
+
+DingTalk, which is kind of like Slack, was developed by Alibaba, where employees already love and hate it. Due to the outbreak, many schools adopted the software and gave it a massive boost. This is another story of how Alibaba, and other Chinese e-commerce giants, reinvent themselves from crisis. In danger, there is opportunity: 危机

@@ -1,0 +1,25 @@
+DATE:  19.03.2020, 13:16:39
+TITLE: Storj’s Decentralized Cloud Storage Service ‘Tardigrade’ Goes Live
+URL:   https://www.coindesk.com/storjs-decentralized-cloud-storage-service-tardigrade-goes-live
+
+Decentralized storage provider Storj Labs says its blockchain-based cloud service is now available for businesses and individuals to securely store files and documents.
+
+With the formal launch announced Tuesday, users are now able to begin migrating and backing up data onto the Tardigrade Decentralized Cloud Storage Service – named after the famously hard to destroy microorganisms.
+
+The open-source network, which currently has 19 petabytes (19 million gigabytes) of available capacity, is hosted on thousands of nodes run by individuals and partners based all around the world. There are currently about 3,000 users on the platform.
+
+“Decentralization benefits the cloud in many ways, and our first customers are already seeing how it improves security, privacy, and resiliency, while also lowering costs,” said Ben Golub, Storj Labs executive chairman, who joined the company from Docker back in early 2018.
+
+When a file is uploaded, it is encrypted and then split into 80 fragments distributed on separate nodes. To hedge against the possibility an individual node could become compromised or experience an outage, users only need 29 pieces to fully reconstruct a file.
+
+Speaking to CoinDesk, Storj's co-founder and chief strategy officer, Shawn Wilkinson, said the firm starts "at about half the price" of centralized cloud storage providers" such as Amazon Web Services (AWS). There are also no bandwidth caps, meaning users can store as much data as they like on the platform.
+
+Based in Atlanta, Storj raised $3 million in seed funding from Google Ventures, Qualcomm Ventures and Techstars in 2017 when it decided to pivot towards becoming an enterprise storage system. The protocol launched in private alpha at the end of 2018.
+
+The platform migrated its storage service from bitcoin to ethereum back in 2017. Wilkinson said the company has no further plans to move protocols. "Ethereum allows us to affordably send thousands of transactions to thousands of Storage Node Operators each month," he said.
+
+See also: Decentralized Storage Startup Storj to End Token Conversion Program
+
+Users already on the data storage management protocols, Kafkaesque, Fluree and CNCTED, as well as identity solution Verif-y – all Storj launch partners who helped beta test Tardigrade – will be able to access decentralized storage through a connector linking the platforms together
+
+Designed to be fully compatible with developers familiar with the Amazon S3 protocol, Tardigrade can also be used for engineers building storage solutions in other languages including Python, Go and Android.

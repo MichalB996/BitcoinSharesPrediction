@@ -1,0 +1,19 @@
+DATE:  21.02.2020, 17:26:54
+TITLE: One tenth of Bitcoin Lightning Network nodes hold 80% of its Bitcoin
+URL:   https://decrypt.co/20221/one-tenth-of-bitcoin-lightning-network-nodes-hold-80-of-its-bitcoins
+
+Bitcoin’s Lightning Network is supposed to be a step on the road to decentralization. But in a paper published earlier this month, researchers argued that the Lightning Network is moving away from the decentralized ideology the original Bitcoin network was based upon. In fact, 10% of the nodes on the network hold 80% of the Bitcoin.
+
+The Bitcoin Lightning Network is supposed to speed up and cheapen transactions on the Bitcoin blockchain. It does this by handling Bitcoin transactions without verifying them on the blockchain first, and processing multiple transactions at once. A so-called “second layer” payment protocol, it sits atop the Bitcoin blockchain—which was created from the ground up with decentralization as its goal.
+
+The Lightning Network’s centralization problem
+
+The researchers, in an academic paper titled “Lightning Network: a second path towards centralization of the Bitcoin economy,” claim that the Lightning Network is failing to adhere to the principles of decentralization.
+
+Authors Christian Decker, Jian-Hong Lin, Kevin Primicerio, Tiziano Squartini, and Claudio Tessone argue that the network is “evolving towards an increasingly centralised architecture.” They wrote that, “Despite the huge activity characterising the BLN, the Bitcoin distribution is very unequal.”
+
+Using the Gini coefficient, where a score of 1 marks complete inequality, and 0 a completely distributed network, the researchers found that the average Gini coefficient across the entire history of the network was 0.88, and that 10% of the nodes hold 80% of the Bitcoin at stake. And 50% of the nodes hold 99% of the funds, across the entire period they studied the network: January 14, 2018, to July 13, 2019.
+
+The cost of all this? “Fewer entities would become able to validate the new blocks that are appended to the Blockchain,” they wrote, meaning, and “centralisation in the validation process would make the system less resilient, i.e. more prone to faults and attacks.”
+
+All hope is not lost, however, according to one of the authors, Christian Decker, who also works as a Lightning engineer at crypto company Blockstream. “The current increase in centralization in the #LightningNetwork is likely temporary,” he tweeted last week, adding that he and other engineers are working to make it easier for operators to build redundancies into the network.

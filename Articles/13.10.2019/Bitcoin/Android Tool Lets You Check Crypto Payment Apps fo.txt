@@ -1,0 +1,37 @@
+DATE:  13.10.2019, 20:48:37
+TITLE: Android Tool Lets You Check Crypto Payment Apps for Double-Spends
+URL:   https://news.bitcoin.com/android-tool-lets-you-check-crypto-payment-apps-for-double-spends/
+
+Android Tool Lets You Check Crypto Payment Apps for Double-Spends
+
+The risk of double-spending has traditionally been a major obstacle to creating and fully using digital money. A flaw of this kind would be detrimental to the credibility of any system claiming to provide universal solutions to the financial needs of our era. Whoever created Bitcoin elegantly solved the difficult task, but a growing ecosystem of related products and services comes with new threats and resurrects the challenge. It isn’t Bitcoin’s fault, but the danger is nevertheless present and a solution is needed.
+
+Also read: Ukraine in a Rush to Legalize Cryptocurrencies Under Zelensky
+
+Paynoway Tests Cryptocurrency Payment Applications
+
+Developers have been working to protect you from some of the risks associated with products that expand the usability and utility of decentralized cryptocurrencies. The creators of a mobile application called Paynoway insist “double-spending is no longer a theoretical possibility but a practical reality.” They are offering software that allows you to verify transactions made through third party apps.
+
+Most of the end-user applications widely available today leave their users vulnerable to being defrauded via double-spend attacks, the developers point out. “Paynoway is a tool that you can use to test the applications that you, or your business, depend on to accept on-chain cryptocurrency payments,” the team behind the app explains.
+
+The tool has been developed specifically for Android-based devices and is currently available for free download in the Google Play store. The version that can be installed right now is the app’s initial release. According to the description, the application is still in development but users have been invited to try it and provide feedback.
+
+In its Github repository, Paynoway is described as a mobile app for testing payment systems against double-spend attacks. The program allows users to provide the details of a cryptocurrency transaction and check if it involves double-spending.
+
+Paynoway produces reports about the tested transactions listed with their IDs as well as resolutions corresponding to each individual transfer of digital funds. The type of a transaction is determined as a “payment” or a “double-spend,” and its status is marked as “confirmed” or “invalid” respectively.
+
+Understanding Double-Spends With Crypto
+
+Double-spending in the context of Bitcoin may occur when a user attempts to make more than one transaction with the same amount of money. And since this involves digital files that are generally easier to duplicate, someone may be tempted to try and pay more than once with the same bitcoin.
+
+In peer-to-peer transfers, a user can attempt to broadcast two transactions, both of which will go into the unconfirmed transactions pool. But when these transactions are taken out and put into the blockchain they are checked for their validity and the second one won’t get confirmed.
+
+When both transactions are validated simultaneously, two branches of the blockchain occur and a race between them begins. The first transaction to be confirmed in a block wins over the other. The more confirmations a transaction receives, the safer it is to consider complete.
+
+Crypto payment applications provide businesses and individual users with much needed faster transfers which may involve accepting transactions with fewer or even zero confirmations. However, it’s not always guaranteed that a wallet, for example, will be able to detect both the original payment and a double-spend. And that’s where apps such as Paynoway can be useful.
+
+Do you think we are going to see more applications like Paynoway in the future? Tell us in the comments section below.
+
+Images courtesy of Shutterstock.
+
+How could our Bitcoin Block Explorer tool help you? Use the handy Bitcoin address search bar to track down transactions on both the BCH and BTC blockchain and, for even more industry insights, visit our in-depth Bitcoin Charts.

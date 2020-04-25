@@ -1,0 +1,41 @@
+DATE:  27.03.2020, 11:45:22
+TITLE: Deep Dive: Why New Hacking Technology Has Made Application Fraud More Difficult To Fight
+URL:   https://www.pymnts.com/fraud-prevention/2020/deep-dive-why-new-hacking-technology-application-fraud/
+
+By
+
+The financial industry is particularly vulnerable to digital fraud.
+
+Untold trillions of dollars cycle between financial institutions (FIs) and customers around the world every day, and bad actors are eager to snatch some of those funds for themselves.
+
+Application fraud, which sees cybercriminals submitting financial product applications to banks with no intention of paying them back, is among the most popular techniques. Some studies estimate that up to 10 percent of banks’ bad debts — loans issued with little hope of recouping — is the result of application fraud, and each fraudulent credit application costs FIs $1,000 on average.
+
+These attacks have grown more sophisticated as technology advances, and fraudsters are furthering their schemes with synthetic identity fraud, or scams in which bad actors invent new identities specifically for criminal purposes. Banks are also becoming more able to counter these attacks, however, and are now using tools enhanced by artificial intelligence (AI) and machine learning (ML) to stop them.
+
+Defining Application Fraud
+
+Application fraud takes one of two forms: first- or third-party.
+
+First-party is the most common variant and sees fraudsters applying for loans or credit cards using their own details. They then take all the credit they possibly can after approval and convert it to cash by writing high-value checks or maxing out their credit cards. The bad actors then cut off all contact with the bank, preventing it from recouping its losses.
+
+First-party fraud seems difficult to perpetrate because loan applications typically require identity verification with Social Security numbers, which enable banks to track down loan applicants who go off the grid. Many FIs’ loan applications can now be completed, approved and disbursed all within one day, however, placing higher emphasis on speed and convenience than authentication, which makes FIs particularly vulnerable.
+
+Fraudsters employing third-party fraud apply for loans with stolen or fabricated identities. Such schemes are much harder to detect than first-party scams because serial appliers will use fresh identities each time. This type of fraud is typically only noticed when victims contact their FIs after having noticed unusual activity in their credit histories. Competent fraudsters will be long gone at this point, forcing financial establishments to eat their losses.
+
+Some studies have found that up to 40 percent of application fraud falls into the third-party fraud category. Synthetic identities have made it harder to spot because bad actors create new identities as opposed to stealing them from existing individuals. They incorporate disparate elements of real identities so they look more realistic, too, such as a Social Security number from one victim and the address of another.
+
+Synthetic identity application fraud leaves no identity theft victim for banks to contact, making it difficult to recognize the deceit until it is too late. One 2016 study found that up to 20 percent of all credit losses — $6 billion — were the result of third-party fraud.
+
+Synthetic identities may have made criminals more adept at conducting application schemes, but FIs have access to advanced anti-fraud methods that can help them stop bad actors in their tracks.
+
+Preventing Application Fraud
+
+Banks are leveraging various techniques to identify and stop application fraud before criminals make off with fresh credit cards or loans. Ironclad authentication procedures have emerged that can verify applicants’ identities and weed out both stolen or synthetic identities as well as applicants with shady histories that could signify first-party fraud.
+
+Many available tools help banks verify applicants’ account ownership by asking them about account details or submitting micro-deposits and checking whether the funds show up — sending funds to fake accounts results in error messages. FIs also use knowledge-based authentication (KBA), which involves quizzing applicants on credit history details that only they would know. Credit reports contain a trove of knowledge that can be used for KBA, including average mortgage payments, car license plate numbers and salary information.
+
+Tools like these are often inefficient, however, especially for online lenders that handle thousands of applications every day. Many FIs are thus relying on AI or ML tools to automate authentication. These processes analyze multiple data points in each application — including past account activity, cross-account linkage and metadata — to determine fraud risks.
+
+AI and ML are especially adept at identifying synthetic fraud because traditional warning signs, like credit risk, can be unreliable for such schemes. Bad actors develop these identities over years and develop FICO scores and financial histories, but they often have miniscule inconsistencies, including errors that would be unnoticeable to human analysts but are dead giveaways to AI-powered platforms. ML can even detect fraudsters without being told the data points for which it should look, identifying potential fraudsters at the point of account approval and eschewing the need for extensive training periods.
+
+The best application fraud defenses rely on multilayered approaches that leverage both authentication and ML. No type of fraud can be stopped entirely, but enough defenses can bring it from an industry-wide menace to just an occasional nuisance — and save banks and their customers millions of dollars in the process.

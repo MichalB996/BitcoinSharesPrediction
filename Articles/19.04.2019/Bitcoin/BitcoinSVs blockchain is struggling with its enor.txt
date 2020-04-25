@@ -1,0 +1,61 @@
+DATE:  19.04.2019, 13:49:19
+TITLE: BitcoinSV’s blockchain is struggling with its enormous 128MB blocks
+URL:   https://thenextweb.com/hardfork/2019/04/19/bitcoinsv-reorg-blockchain-orphan-enormous/
+
+The Bitcoin Satoshi Vision (BitcoinSV) blockchain has suffered a series of “block re-oganizations,” putting the integrity of its network in question.
+
+“On 18th April 2019, our Bitcoin Cash SV [sic] node experienced two block re-organizations. First, a three block re-organization, followed by a six block re-organization,” tweeted BitMEX Research, the analysis arm of digital asset exchange BitMEX.
+
+Block re-organizations occur when cryptocurrency miners are forced to “orphan” blocks after they’ve been mined. This can happen when the network is too slow to “propagate” blocks effectively, and bigger blocks (like the ones featured by BitcoinSV) are especially susceptible to orphaning.
+
+Reorg diagram courtesy of BitMEX
+
+The last time this occurred was in November 2018, when two blocks – one 16MB and another 13MB in size – were orphaned for being too large. At the time, BitMEX researchers also blamed bad network connectivity.
+
+This makes for three BitcoinSV block re-organizations in six months.
+
+Bigger blocks could be left behind by the longest chain
+
+BitcoinSV is a fork of Bitcoin Cash (which is a fork of Bitcoin). It raised Bitcoin Cash‘s block size limit from 32MB to 128MB. Bitcoin‘s block size limit is still 1MB.
+
+Whiteblock CEO Zak Cole told Hard Fork that when blocks become too large, they take much longer to be processed by the network than smaller ones.
+
+“The longer it takes to propagate throughout the network, the higher the likelihood of it becoming an orphan,” Cole said. “The larger the object, the more likely it will be that it isn’t transported in its entirety and will likely have to be rebroadcast.”
+
+BitcoinSV uses Proof-of-Work to come to consensus over which transactions (and blocks) to trust. Miners essentially present their own versions of the BitcoinSV blockchain for validation.
+
+The network accepts the “longest chain” of blocks as the most legitimate record of transactions, but imagine a miner mines a relatively large block and presents it to the network for validation.
+
+Now, at the same time, another miner shares a smaller block, but their transactions are written to the blockchain first. In this scenario, the second miner has effectively stolen the first miner’s intended spot in the trustworthy “longest chain.”
+
+The miner with the bigger block is stuck with no place to put it. They’re forced to “orphan” the block, and the transactions inside of it are effectively cancelled. This means the block was mined, but not included in the blockchain.
+
+This could be a dream scenario for 51% attackers
+
+While this might seem like a system working as intended, regular block orphaning could have major consequences. Cole explained to Hard Fork that devastating fork events can occur when different versions of blockchains meet with conflicting block histories.
+
+“When a significant portion of nodes receive ‘Version A’ of the chain and then a similarly significant portion of nodes receive ‘Version B,’ everything will go to hell,” Cole told Hard Fork. “If blocks are too large to propagate throughout BitcoinSV’s mining pools effectively, they’re all going to be deadlocked for a period of time.”
+
+Note: there is no ‘next block,’ which means there’s been a reorg
+
+These scenarios present conditions which significantly increase the likelihood of ‘double-spends.’ These attacks involve spending cryptocurrency with intent to reverse the transactions by assuming 51 percent (or more) of the network’s total computing power with a “51-percent attack.”
+
+The thing is, orphaned blocks ‘distract’ network participants from working with the ‘correct chain.’ Having multiple active versions of a blockchain makes for less computing power dedicated to the longest version of the blockchain.
+
+This means an attacker might not even need to control 51 percent of a network’s hash power to double-spend, they could actually find success with much less.
+
+“Large portions of the available network hashing rate is going to waste, which lowers the total overall security of the network.” warned Cole. “As the orphan count rises, it lowers the total amount of hashing power needed to engage in a ’51-percent attack.'”
+
+OK – but is this an attack?
+
+A number of cryptocurrency services have recently removed support for BitcoinSV, after Craig Wright and his proponents launched legal action against prominent community members – one of which is a pseudonymous Twitter space-cat.
+
+It’s still unclear whether BitcoinSV’s recently orphaned blocks were malicious. Cole says re-organizations aren’t necessarily indicative of an attack, but given the current climate, he doesn’t rule out this scenario.
+
+BitcoinSV indeed boasts a tiny fraction of Bitcoin’s hash power, but Cole warns fixing high orphan rates isn’t simply a matter of recruiting more miners to the network.
+
+“[BitcoinSV’s] block sizes are massive. I’d say it’s not an attack, but it’s definitely a possibility if someone were clever enough to know how to exploit the suboptimal performance,” said Cole.
+
+“It’s not so much to do with hashing power as it large block times, large block sizes, and a suboptimal P2P [peer-to-peer] networking stack,” he added.
+
+Hard Fork reached out to nChain, the firm behind BitcoinSV’s software, to ask about this unusual activity. Unfortunately, no BitcoinSV reps were immediately available for comment. We’ll update this piece accordingly should we hear back.

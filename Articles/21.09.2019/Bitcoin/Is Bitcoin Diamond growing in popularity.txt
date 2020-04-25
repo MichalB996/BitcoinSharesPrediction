@@ -1,0 +1,57 @@
+DATE:  21.09.2019, 08:00:44
+TITLE: Is Bitcoin Diamond growing in popularity?
+URL:   https://finance.yahoo.com/news/bitcoin-diamond-growing-popularity-080044214.html
+
+Bitcoin Diamond (BCD) is a late-2017 implementation of the Bitcoin protocol that offers a larger supply, bigger block size, and an alternative consensus algorithm (targeting GPUs).
+
+According to the Bitcoin Diamond website, there are two main problems that have arisen following the increased popularity and usage of Bitcoin:
+
+Slow transaction confirmations (it takes about 10 minutes for a transaction to be confirmed) High threshold for new members (making transaction speed a priority)
+
+Bitcoin Diamond aims to solve these problems with the use of bigger blocks and a faster consensus algorithm.
+
+The project is quick to reiterate that it is not directly competing with Bitcoin, as according to its website, “Bitcoin Diamond is fork of the Bitcoin blockchain with upgraded technology while preserving the original features of Bitcoin”.
+
+In fact, these key differences could help the project take off as its purpose is complementary to Bitcoin.
+
+Bitcoin (BTC) vs Bitcoin Diamond (BCD)
+
+To fully understand how Bitcoin Diamond differs from Bitcoin, one needs to understand the “computer science trilemma“. The idea is that we always need to sacrifice either security or decentralisation to increase the speed/quickness of a system.
+
+In essence, Bitcoin Diamond sacrifices security to improve the speed of transactions. The coin is a lot easier to mine as the hardware is much cheaper than Bitcoin ASIC miners.
+
+
+
+Bitcoin Diamond Bitcoin Bitcoin Cash Max supply 210 million 21 million 21 million Distribution Mining, claiming Mining Mining, claiming Mining algorithm Optimised X13 (GPU/ASIC) SHA256 (ASIC) SHA256 (ASIC) Block time 10 minutes 10 minutes 10 minutes Maximum block size 8MB (16-32MB) 1 MB (2-4MB) 8MB (N/A) Difficulty adjustment Two weeks Two weeks Two weeks + EDA Max TX per day ~4.8 million ~1.2 million ~4.8 million Segwit Yes Yes No Replay protection Yes N/A Yes Lightning Network Yes Yes No
+
+The supply has been increased tenfold from the original Bitcoin supply, and the maximum block size, with Segwit adoption, can grow up to 32MB. This therefore increases the number of transactions that can go into a block. The project is also Lightning compatible and is developing its functionality to allow for quick P2P payments.
+
+Bitcoin Diamond’s adoption
+
+Can’t access certain products from your country? Bitcoin Diamond can give you access to a wide range of products from top online markets. pic.twitter.com/zL4WnMSCvg — Bitcoin Diamond[BCD] (@BitcoinDiamond_) September 15, 2019
+
+
+
+
+
+Bitcoin Diamond’s network seems to be growing quite fast. On the project’s online marketplace, you are able to find goods ranging from electronics to food items. Clearly there is demand on both sides which might help more people to join the crypto space, especially since the project is targeting people who have issues purchasing products globally, such as unbanked individuals.
+
+If you visit the BCD Bazaar, you can find products from vendors like Sony, Samsung, or Microsoft among other widely known companies. In addition, Bitcoin Diamond offers worldwide shipping for free – another attractive feature for buyers.
+
+In terms of development, the team has two main implementations on GitHub and is seemingly currently working on the GO version of Bitcoin Diamond. According to the main implementation, we can see no commits or updates since April 2019. If you then visit the new GoLang implementation, you can see the graph below.
+
+View photos
+
+The team has been working since May on the new implementation which targets a whole new developer community, focused on web-based reactive programming languages. Could we see new apps being built over the Bitcoin Diamond ecosystem in the future?
+
+I’m pretty sure that’s the goal of the team by diversifying the number of implementations available for developers.
+
+Bitcoin Diamond seems to be focusing on growing its userbase by offering attractive options to both vendors (low fees, fast payments) and buyers (worldwide free shipping, global brands).
+
+Bitcoin’s Diamond price
+
+View photos
+
+Even though adoption seems to be taking off, the price of BCD hasn’t responded in kind.
+
+Story continues

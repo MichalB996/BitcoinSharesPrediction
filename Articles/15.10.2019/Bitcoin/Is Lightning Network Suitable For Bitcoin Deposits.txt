@@ -1,0 +1,33 @@
+DATE:  15.10.2019, 15:30:14
+TITLE: Is Lightning Network Suitable For Bitcoin Deposits, Withdrawals?
+URL:   https://bitcoinist.com/lightning-network-for-bitcoin-deposits-withdrawals/
+
+Bitcoin Technology Is Lightning Network Suitable For Bitcoin Deposits, Withdrawals?
+
+A Twitter poll by bitcoin evangelist Pierre Rochard discussed whether the Lightning Network is a suitable tool for BTC transactions on crypto exchanges.
+
+Poll Signals to Lightning Network Curiosity
+
+Should Bitcoin exchanges enable Lightning deposits and withdrawals? — Pierre Rochard (@pierre_rochard) October 14, 2019
+
+Proponents of LN believe it would be a good fit for crypto exchanges.
+
+Lately, exchanges have become extremely skeptical of inbound transactions, especially after a series of partial spending or 51% attacks affecting coins based on their core technology. It is not unusual for bitcoin exchanges to require as much as 100 node confirmations for networks that have fallen prey to double-spending. The most notorious cases include Bitcoin Gold (BTG), as well as Ethereum Classic (ETC).
+
+On-chain bitcoin transactions are hardly threatened by attacks, and exchanges only require a few confirmations when processing a deposit/withdrawal. But the Lightning Network is still experimental and may lead to unexpected consequences.
+
+LN still has a relatively small capacity in comparison to exchanges, which trade millions of bitcoins each day. The entire lightning network capacity is still pegged at 818 BTC.
+
+Microtransactions to Boost BTC Adoption
+
+LN is viewed as an opportunity to allow Satoshi transactions with zero fees and no time lag, to drive popularization for BTC micropayments. Exchanges function on a higher tier, often having a relatively high minimum threshold, or adding extra fees for the smallest on-chain transactions.
+
+Adding the Lightning Network would then allow small-scale clients to move funds with ease. But so far, not one of the leading exchanges has seriously looked at implementing the technology.
+
+Comments also included the possibility for veiled sending, as LN nodes are still pseudonymous and do not track their users. Currently, large-scale coin movements trigger whale-watching bots, which signal big fund movements. However, it is also uncertain if large-scale whales would be ready to entrust their funds to a network of voluntary peers. Loss of coins is still possible and may have happened before a recent bug was discovered and disabled.
+
+The bitcoin network works out on-chain transactions close to $1 billion every day. The LN only managed to process $6,536, or around 0.784 BTC in the past 24 hours, as the real-life usage remains small.
+
+What do you think about the potential of Bitcoin’s Lightning Network? Share your thoughts in the comments section below!
+
+Images via Bitcoinist Media Library, Twitter: @pierre_rochard, @LNstats

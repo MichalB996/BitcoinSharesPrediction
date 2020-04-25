@@ -1,0 +1,41 @@
+DATE:  21.03.2019, 00:00:13
+TITLE: Borderless From Block Collider Is a High-Speed DEX That Unites 5 Blockchains
+URL:   https://news.bitcoin.com/borderless-from-block-collider-is-a-high-speed-dex-that-unites-5-blockchains/
+
+Borderless From Block Collider Is a High-Speed DEX That Unites 5 Blockchains
+
+Borderless isn’t like other decentralized exchanges (DEXs). For one thing, it comes with its own blockchain – or rather the Block Collider chain comes with its own DEX. Throw in the ability to perform cross-chain transfers, block times that are 3x faster than Ethereum and no limits on order size, and Borderless would appear to be markedly different from the competition. News.Bitcoin.com was given a walkthrough of the new DEX, which is due to go live in the next few weeks.
+
+Also read: Nash Is a Decentralized Exchange for Cross-Chain Trading With Fiat Integration
+
+Welcome to the Multiverse
+
+To understand Borderless, it’s necessary to know a little about Block Collider. The project, whose ICO hit its $7M cap in minutes last April (with over $500M pledged) is now operational, with its Multiverse block explorer showing the network’s current state of play. In addition to the shooting stars that occasionally whizz across the screen, there’s a few other peculiarities to the Block Collider network and its Multiverse explorer, whose defining feature is its interoperability. 2019 will see a string of blockchain projects come onstream that promise to eliminate the “walled garden” effect that renders networks incapable of communicating with one another. Cosmos, Polkadot and Block Collider are leading the movement for cross-chain play.
+
+Block Collider’s solution is to create a blockchain whose mining algorithm consumes blocks from other blockchains as part of its mining computational challenge. Its website explains: “Miners who submit a bad block as their proof of work will be rejected by other miners and won’t get the block reward. As the difficulty rises, the same incentive framework that strengthens the Bitcoin blockchain will reinforce alignment with miners of the Block Collider.” The project has launched with five blockchains initially – BTC, ETH, WAVES, LISK and NEO – with an unnamed sixth to be added later. Block Collider essentially enables smart contracts on separate networks to talk to one another, which has a number of significant applications, not least when it comes to decentralized token trading.
+
+How Borderless Works
+
+Borderless by Block Collider is a high-speed DEX that strives for a higher degree of decentralization than, say, Binance DEX. That’s because Borderless doesn’t have validators or centralized oracles to act as gatekeepers. Binance DEX, in comparison, has 11 validators all controlled by the exchange itself. Borderless, which is weeks away from full public release, enables cross-chain transfers between Bitcoin Core, Ethereum, NEO, Lisk, and Waves, has a simple UI that’s easy to use, and no restrictions on order size or trading volume.
+
+News.Bitcoin.com caught up with Block Collider co-founder Arjun Raj Jain to learn more about how Borderless works and observe a platform walkthrough. “You simply download the application for either Windows, Mac or Unix,” began Jain. “Then you upload your wallet, but nothing is being stored or sent to a centralized server. When you are uploading your wallet, what you’re doing is just encrypting it locally, so that anytime you then submit a transaction, you don’t have to type in your private key.” Like Nash, Borderless creates a mnemonic phrase upon setup that can be used for wallet recovery.
+
+Visually, Borderless looks much like a conventional exchange, with an order book that displays buy and sell orders and market depth. There are some additional settings that are unique to Borderless, however, such as the ability to set the maximum amount of collateral for the trade, which is denominated in NRG, the native currency used to reward miners; the project also has a second currency, emblems.
+
+“Emblems allow miners to increase their block size, hence earn more energy, the more emblems that they hold,” said Jain. “So you can think of it as a hedge against your decaying hardware. And it also serves the purpose of the whole debate that Bitcoin maximalists have on what the block size should be, right? So instead of having a fixed size, we thought it would be a lot more interesting to instead have a dynamic block size that is controlled by emblems.”
+
+A Blockchain to Control Blockchains
+
+To verify the state of each blockchain within the Block Collider network, without reliance on some sort of central entity to oversee matters, Jain explained, “we actually bake that into the proof of work algorithm that the miners are doing where anytime any of the underlying blockchains issues a block, the task of the miners is basically to find a hash that is closest to that. This permits you to be the miner that can release that block, so it’s kind of the same brute force mechanism that Bitcoin miners have to do for proof of work to find a hash that ends in a certain amount of zeros.” He continued:
+
+So by combining a proof of work, and then having this capacity to also verify the state of each blockchain, you now have a completely decentralized mechanism to actually know the state of all these blockchains out there.
+
+Jain then proceeded to run through the process of placing an order on Borderless exchange, describing settings such as specifying the minimum order fill amount, which could be set at, for example, half of the total order. It’s also possible to specify the amount of time the order should be live for. Should it fail to fill in that time, it will auto cancel and the NRG will be returned to the trader. Borderless is now available to download and trial in safe mode, so users can familiarize themselves with the system, ahead of the exchange going live for trading. When it does, Borderless will face competition from several other DEXs due to launch soon including Binance DEX and Nash, which was also previewed this week by news.Bitcoin.com.
+
+What are your thoughts on Block Collider’s new DEX and the other decentralized exchanges on the verge of launching? Let us know in the comments section below.
+
+Images courtesy of Shutterstock.
+
+Disclaimer: Bitcoin.com does not endorse nor support this product/service.
+
+Readers should do their own due diligence before taking any actions related to the mentioned company or any of its affiliates or services. Bitcoin.com is not responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

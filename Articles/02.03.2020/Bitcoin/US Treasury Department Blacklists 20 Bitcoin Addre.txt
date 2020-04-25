@@ -1,0 +1,81 @@
+DATE:  02.03.2020, 17:23:59
+TITLE: US Treasury Department Blacklists 20 Bitcoin Addresses Tied to Alleged North Korean Hackers
+URL:   https://www.coindesk.com/us-treasury-department-blacklists-20-bitcoin-addresses-tied-to-alleged-north-korean-hackers
+
+The U.S. Treasury Department's Office of Foreign Asset Control has added 20 new bitcoin (BTC) addresses associated with two individuals to its list of sanctioned individuals.
+
+According to an update to OFAC's "Specially Designated Nationals" (SDN) list, Jiadong Li and Yinyin Tian are accused of being linked to the Lazarus Group, a cybercrime group possibly affiliated with the North Korean government.
+
+The group has been accused of stealing more than half a billion dollars in crypto as far back as 2018, when cybersecurity vendor Group-IB claimed it had targeted 14 different exchange in two years. Monday's action specifically stems from the hack of an unnamed exchange in April 2018, according to a press release by the Treasury Department.
+
+According to a grand jury indictment unsealed Monday and flagged by George Washington University's Seamus Hughes, the two are charged with conspiracy to launder monetary instruments and operating an unlicensed money transmission business.
+
+A separate in rem forfeiture document unsealed Monday shows the U.S. government is trying to seize the crypto held in 113 different addresses, alleging that the two defendants (who are explicitly named on page 21) laundered "a bulk of the stolen BTC."
+
+According to the forfeiture document, a total of $234 million in crypto was actually stolen, including bitcoin, ether (ETH), zcash (ZEC), dogecoin (DOGE), XRP (XRP), litecoin (LTC) and ethereum classic (ETC).
+
+Most of the proceeds from the hack were laundered through the use of "peel chains," a term the U.S. government is using to describe the act of sending crypto from one address to another, with some portion of the funds moving to a different address than the bulk in each transaction.
+
+The litecoin was not properly laundered, and appears to remain at the address it was sent to.
+
+The defendants sold some of the crypto to U.S. customers and used a U.S.-based exchange for some transactions, according to the forfeiture document. A South Korean exchange is also implicated in the document.
+
+A U.S. Department of Justice (DOJ) press release added further information, saying some of the laundered funds allegedly helped North Korean actors continue hacking campaigns against other financial industry participants. The release also alleged that North Korean co-conspirators are connected to "the theft of approximately $48.5 million" in crypto from a South Korean exchange.
+
+While the DOJ does not name the exchange which was hacked, South Korea-based Upbit reported the loss of roughly $49 million in ether on Nov. 27, 2019.
+
+The agency listed 12 addresses associated with Jiadong Li:
+
+XBT 1EfMVkxQQuZfBdocpJu6RUsCJvenQWbQyE
+
+XBT 17UVSMegvrzfobKC82dHXpZLtLcqzW9stF
+
+XBT 39eboeqYNFe2VoLC3mUGx4dh6GNhLB3D2q
+
+XBT 39fhoB2DohisGBbHvvfmkdPdShT75CNHdX
+
+XBT 3E6rY4dSCDW6y2bzJNwrjvTtdmMQjB6yeh
+
+XBT 3EeR8FbcPbkcGj77D6ttneJxmsr3Nu7KGV
+
+XBT 3HQRveQzPifZorZLDXHernc5zjoZax8U9f
+
+XBT 3JXKQ81JzBqVbB8VHdV9Jtd7auWokkdPgY
+
+XBT 3KHfXU24Bt3YD5Ef4J7uNp2buCuhrxfGen
+
+XBT 3LbDu1rUXHNyiz4i8eb3KwkSSBMf7C583D
+
+XBT 3MN8nYo1tt5hLxMwMbxDkXWd7Xu522hb9P
+
+XBT 3N6WeZ6i34taX8Ditser6LKWBcXmt2XXL4
+
+OFAC listed eight addresses affiliated with Yinyin Tian:
+
+XBT 134r8iHv69xdT6p5qVKTsHrcUEuBVZAYak
+
+XBT 15YK647qtoZQDzNrvY6HJL6QwXduLHfT28
+
+XBT 1PfwHNxUnkpfkK9MKjMqzR3Xq3KCtq9u17
+
+XBT 14kqryJUxM3a7aEi117KX9hoLUw592WsMR
+
+XBT 1F2Gdug9ib9NQMhKMGGJczzMk5SuENoqrp
+
+XBT 3F2sZ4jbhvDKQdGbHYPC6ZxFXEau2m5Lqj
+
+XBT 1AXUTu9y3H8w4wYx4BjyFWgRhZKDhmcMrn
+
+XBT 1Hn9ErTCPRP6j5UDBeuXPGuq5RtRjFJxJQ
+
+While thousands of bitcoin appear to have flowed through the listed addresses, the majority appeared to hold no bitcoin as of press time.
+
+Monday's move is the third time OFAC has listed cryptocurrency addresses on its sanctions list. In 2018, the agency tied bitcoin addresses to a pair of Iranian nationals it accused of facilitating financial transactions related to ransomware. Last year, the agency also listed a litecoin address and additional bitcoin addresses affiliated with three Chinese nationals it charged with violating money laundering and drug smuggling laws.
+
+According to the Treasury Department's press release, "North Korea's malicious cyber activity is a key revenue generator" for the nation. The country uses peer-to-peer marketplaces and exchanges with "negligible" know-your-customer controls, and crypto stolen by the nation can be used in a variety of ways.
+
+"Given the illicit finance risk that cryptocurrency and other digital assets pose, in June 2019 the Financial Action Task Force (FATF) amended its standards to require all countries to regulate and supervise such service providers, including exchangers, and to mitigate against such risks when engaging in cryptocurrency transactions," the press release said. "The United States is particularly concerned about platforms that provide anonymous payment and storage functionality without transaction monitoring, suspicious activity reporting, or customer due diligence, among other obligations."
+
+OFAC also deleted a number of Russian entities linked to the Independent Petroleum Company from its sanctions list in Monday's action.
+
+UPDATE (Marc 2, 22:45 UTC): This article has been updated with additional information, including the U.S. government's forfeiture claim against 113 crypto addresses and the U.S. Department of Justice's press release.

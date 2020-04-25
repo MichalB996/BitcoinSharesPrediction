@@ -1,0 +1,31 @@
+DATE:  01.04.2019, 16:22:14
+TITLE: Broken Phone? Don't Sweat It — Restore a Bitcoin Wallet in Minutes
+URL:   https://news.bitcoin.com/broken-phone-dont-sweat-it-restore-a-bitcoin-wallet-in-minutes/
+
+Broken Phone? Don't Sweat It — Restore a Bitcoin Wallet in Minutes
+
+With bitcoin ownership, it’s very important to back up your mnemonic seed phrase in order to restore your funds in case of an emergency. For instance, a device holding a wallet can be broken, get lost or stolen and the backup is the only way to retrieve the funds after these mishaps. The following is an explainer on how to restore a bitcoin mobile phone wallet onto a fresh device using a mnemonic seed phrase.
+
+Also read: Bitcoin Ownership: Your Private Keys to Financial Sovereignty
+
+Backing Up Private Keys Using a Mnemonic Seed
+
+Most wallets use a mnemonic seed phrase to back up the private key associated with it. You might find it strange at first having to write down a sequence of random words in a list, but those words represent the private key that can access your funds if the wallet is damaged, lost or stolen. The Bitcoin.com Wallet is a perfect example of a mobile light client that allows you to store bitcoin core (BTC) and bitcoin cash (BCH) in a noncustodial manner via a 12-word mnemonic seed phrase.
+
+A mnemonic seed is basically a list of words which, when combined in the correct order, reveal a secret key. After launching the Bitcoin.com Wallet and loading it up with some BCH, you’ll notice the wallet provides a message that the seed needs to be backed up. You’ll see the words “Wallet not backed up” and can click the banner in order to back up the 12-word seed phrase at that point. The wallet will display a screen that asks if you are alone and encourages you to write the phrase down, instead of writing it electronically or taking a screenshot. After the phrase is displayed, write it down and the wallet will ask you to confirm the 12 words on the next screen. When the phrase is confirmed, the Bitcoin.com Wallet will remove the “Wallet not backed up” warning.
+
+Restoring Funds Using the Bitcoin.com Wallet
+
+A few weeks after holding BCH on your noncustodial Bitcoin.com Wallet, you drop your phone and the device refuses to turn on. Knowing that you have a few BCH on the wallet, you might start to worry, but there’s no need to panic since you can still access those funds. The first thing you need to do is access another phone or device that supports the Bitcoin.com Wallet, which is available for Android, iOS, Windows, Mac OS, and Linux. Every one of these programs can fully restore the funds into a freshly installed wallet in a matter of minutes.
+
+After downloading the new wallet, the program will ask if you want to start a new wallet or “Import wallet.” Select the latter option to restore funds. From here, you can type the 12 words you wrote down when you first created the wallet and then press the Import tab. The light client will sometimes take a few minutes to restore the funds into the new wallet so just be patient. After importing your mnemonic seed phrase into another device using compatible wallet software, you’ll see your BCH in your wallet, just as it appeared on your previous device.
+
+If the restoration process doesn’t work at first, there is a possibility the words were typed wrong and it can’t hurt to try multiple times if you get stuck. This is why it is very important to cross check the seed phrase when you first write it down, because the correct order and spelling are extremely important. Additionally, 12-word seed phrases can be imported into different wallets as long as they use the same derivation path. This standard assures cryptocurrency owners that they can still restore funds if the wallet company ever went out of business or stopped providing updates to their software. After restoring a wallet, you should always consider moving the restored cryptocurrency to a new address just in case someone gains access to the old device.
+
+Accidents can happen and people have lost a lot of bitcoin over the last 10 years. Not long ago, digital forensics analysis firm Chainalysis reported that 23 percent or 3.8 million BTC is already lost. However, cryptocurrency enthusiasts can protect themselves from loss by playing it smart and protecting their assets by recording their mnemonic seed phrase securely. You can also practice these restoration steps with small fractions of BCH or BTC with the Bitcoin.com Wallet and learn more about importing and exporting private keys here.
+
+Have you ever restored a bitcoin wallet using a mnemonic seed phrase? Let us know your experience with wallet restoration using a seed phrase in the comments section below.
+
+Image credits: Shutterstock, Bitcoin.com, and Pixabay.
+
+Now live, Satoshi Pulse. A comprehensive, real-time listing of the cryptocurrency market. View prices, charts, transaction volumes, and more for the top 500 cryptocurrencies trading today.

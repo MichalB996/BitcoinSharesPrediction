@@ -1,0 +1,59 @@
+DATE:  24.02.2020, 22:33:27
+TITLE: Bitcoin Coin Mixers in Legal Crosshairs
+URL:   https://cryptobriefing.com/bitcoin-coin-mixers-legal-crosshairs/
+
+Analysis Bitcoin Coin Mixers in Legal Crosshairs by Paul de Havilland
+
+The legal standing around coin mixing
+
+Share this article
+
+Coin mixing has always been useful for those trying to protect their private Bitcoin and crypto activity. However, recent regulatory action calls its legality into question.
+
+That depends on whether they are custodial or non-custodial. Using either type of mixer does come with some risk. The recent arrest in the U.S. of Larry Harmon from Ohio has cast the issue of coin mixing back into the spotlight.
+
+What is Coin Mixing?
+
+Coin mixing is a privacy-enhancing technology for cryptocurrency users. Privacy coins aside, most cryptocurrencies, including Bitcoin, are pseudonymous and easily traceable on the blockchain in their transactions. Crypto-sleuthing firm Chainalysis has turned crypto transaction tracking into a very profitable business by selling its services to law enforcement agencies.
+
+Coin mixers or tumblers allow users to split their funds into small parts and rewire them through thousands of microtransactions, sometimes into and out of a comingled pool, to a new address, thereby making it difficult for anyone to follow the cryptocurrency.
+
+Mixing is a service that tends to appeal to two kinds of people: criminals seeking to hide ill-gotten gains or avoid taxes and people who want to protect their right to privacy. Depending on how the mixers work has a significant bearing on their legal standing.
+
+Custodial Vs. Non-Custodial Mixing Services
+
+In filings before the United States District Court for the District of Columbia, the U.S. Department of Justice charged that Harmon:
+
+“… owned and operated a money transmitting and money laundering business called Helix. Helix was a service linked to and affiliated with Grams, HARMON’s Darknet search engine, and the two services were sometimes referred to collectively as Grams-Helix. Helix offered an Internet-based service that… enabled customers, for a fee, to send bitcoins to designated recipients in a manner which was designed to conceal and obfuscate the source or owner of the bitcoins. This type of service is commonly referred to as a bitcoin ‘mixer’ or ‘tumbler.’”
+
+The DOJ’s charges focus heavily on the intent of Helix to help users conceal the ownership of Bitcoin generated through darknet activities. The department alleged Helix had links to Grams and AlphaBay, both darknet sites. The intended users, the argument was, were individuals conducting illegal e-commerce operations. Helix, and its creator, then, intended to help users conceal ill-gotten funds from law enforcement.
+
+Justice Department Assistant Attorney-General Brian Benczkowski described Helix as a “darknet-based cryptocurrency tumbler” and issued a statement that the “indictment underscores that seeking to obscure virtual currency transactions in this way is a crime.” Harmon has been charged with money laundering conspiracy, operating an unlicensed money transmitting business, and conducting money transmission without a D.C. license.
+
+Last year, European authorities seized Bestmixer, with Europol claiming most of the funds that passed through the mixing service “had a criminal origin or destination, probably to conceal and launder criminal flows of money.”
+
+Helix and Bestmixer were both custodial mixers and both accused of facilitating the laundering of criminally obtained funds. What are the implications for non-custodial mixing services?
+
+Non-Custodial Mixing Software
+
+Non-custodial Bitcoin mixing software services like CoinJoin or Wasabi Wallet never take custody of user funds. They are operated by, and at the will of, users alone. But do the software developers have anything to fear for providing the software in the first place?
+
+FinCEN, the Financial Crimes Enforcement Network, a bureau of the United States Department of the Treasury, has seemingly clear guidance on what might be inferred as a distinction between custodial and non-custodial mixers.
+
+Section 4.5.1. of FinCEN Guidance in relation to convertible virtual currencies classifies “providers of anonymizing services” such as mixers as money transmitters under FinCEN regulations. The act of concealing the source of the funds is not, in itself, substantial enough to worsen that characterization.
+
+Money transmitters need to be licensed, unless exempted by factual circumstances such as where the act of transmitting funds is secondary to the business being offered or a necessary component of the operation of an entirely different service. Anonymizing the source and beneficiary of the funds has no bearing on the legal status of custodial mixing services. Mixing is transmitting and that requires a license.
+
+But Section 4.5.1(a) provides an important distinction between offering mixing services and developing software designed to perform mixing services:
+
+“An anonymizing software provider is not a money transmitter. FinCEN regulations exempt from the definition of money transmitter those persons providing ‘the delivery, communication, or network access services used by a money transmitter to support money transmission services.’”
+
+Internet service providers, hardware manufacturers, and software developers all fall into this categorization because they are not in the business of transmitting money, but of providing internet services, IT hardware, and software.
+
+Users and Concealers
+
+Users of mixing services, however, need to be more vigilant. They are liable, according to FinCEN guidance, of being found to be intending to conceal the identities of funds or are, in fact, operating as transmitters. Transmitters need licenses. Concealing the identity of a sender or receiver of funds is a breach of the Funds Travel Rule if conducted by a registered financial institution.
+
+While non-custodial wallet developers are not in breach of any legal obligation, those who use their software could be. The concern for those using mixing services is that in both the Harmon and Bestmixer cases, the enforcement actions were premised on the intent to conceal dirty Bitcoin.
+
+Perfectly valid privacy-based grounds for mixing cryptocurrencies risk being swept up in the zealous delivery of law enforcement. Even if the primary purpose of this software is to protect people’s identities, there may be a tendency for law enforcement to assume these coins were ill-gained.

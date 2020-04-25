@@ -1,0 +1,31 @@
+DATE:  27.04.2019, 12:03:16
+TITLE: How to Create a Bitcoin Cash Wallet With Cashaddress
+URL:   https://news.bitcoin.com/how-to-create-a-bitcoin-cash-wallet-with-cashaddress/
+
+How to Create a Bitcoin Cash Wallet With Cashaddress
+
+Setting up a bitcoin cash wallet is one of the first steps to getting involved in the world of peer-to-peer electronic cash. And while there are many established wallet providers that support BCH, you can use the Cashaddress platform to create a bitcoin cash wallet all by yourself.
+
+Also read: Smartphone Wallpaper Lets You Track the Price of Your Favorite Coins
+
+Generate Random BCH Public Address and Private Key
+
+Cashaddress.org is a free and open source Javascript bitcoin cash wallet generator which lets you create several types of BCH wallets – single, paper, bulk, vanity, and split wallet – and it’s available in multiple languages. Your BCH address is generated when you type random characters into a textbox or simply move your mouse around in your browser.
+
+The website provides you with a public bitcoin cash address, which you can share with others who want or need to send you BCH, and a private key that has to remain secret. They are also represented as QR codes. After funds have been added to your wallet you can always check your balance with a block explorer.
+
+Bitcoin Cash Block Explorer is a free and easy to use tool developed by Bitcoin.com. After submitting your public address in the search bar, you’ll receive information about your current balance, number of transactions, total received and total spent in BCH and in U.S. dollars. You can also see the legacy and SLP addresses corresponding to your cash address and check your SLP balances if you have any tokens.
+
+To protect their Cashaddress wallets, users must print or record both the address and the key, while also making a backup copy of the latter and storing it safely. Note that clicking “Generate New Address” will create a new public address with its private key, so make sure you have saved the ones you want to use.
+
+There’s an option to create a paper BCH wallet as well. The dedicated page allows you to generate multiple addresses and BIP38 password encrypted wallets. You can also use Bitcoin.com’s Paper Wallet tool to print your wallet and find out more about the benefits of paper wallets.
+
+In Cashaddress’s Wallet Details section you can have your private key encoded in different formats. The platform shows your bitcoin cash key in the most popular ones – WIF, WIFC, HEX, and B64. The website also provides instructions on how to create a truly random BCH private key using dice and how to find the bitcoin cash address associated with your B6 key.
+
+Have you used similar platforms to create your own bitcoin cash wallet? Let us know in the comments section below.
+
+Disclaimer: Readers should do their own due diligence before taking any actions related to third party companies or any of their affiliates or services. Bitcoin.com is not responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any third party content, goods or services mentioned in this article.
+
+Images courtesy of Shutterstock, Crypto Bubbles, Cashaddress.org.
+
+Do you need a reliable Bitcoin mobile wallet to send, receive, and store your coins? Download one for free from us and then head to our Purchase Bitcoin page where you can quickly buy BCH and BTC with a credit card.

@@ -1,0 +1,33 @@
+DATE:  27.01.2020, 14:37:34
+TITLE: Bitcoin Gold hit by 51% attacks, $72K in cryptocurrency double-spent
+URL:   https://thenextweb.com/hardfork/2020/01/27/bitcoin-gold-51-percent-attack-blockchain-reorg-cryptocurrency-binance-exchange/
+
+Malicious cryptocurrency miners took control of Bitcoin BTC Gold‘s blockchain recently to double-spend $72,000 worth of BTG.
+
+Bad actors assumed a majority of the network‘s processing power (hash rate) to re-organize the blockchain twice between Thursday and Friday last week: the first netted attackers 1,900 BTG ($19,000), and the second roughly 5,267 BTG ($53,000).
+
+Cryptocurrency developer James Lovejoy estimates the miners spent just $1,200 to perform each of the attacks, based on prices from hash rate marketplace NiceHash.
+
+This marks the second and third times Bitcoin Gold has suffered such incidents in two years.
+
+Double-spenders like to target cryptocurrency exchanges
+
+Any entity that controls more than 51 percent of a blockchain‘s hash rate can decide what version of the blockchain is accepted (or rejected) by the network.
+
+These scenarios also allow for ‘double-spending,’ attacks that initiate a transaction with intent to quickly reverse it by ‘re-organizing’ the blockchain, so that they can spend their original cryptocurrency again.
+
+Evidence of double-spending, courtesy of GitHub
+
+What results is a third party accepting the original transaction and the network returns the cryptocurrency spent to the attacker, essentially allowing their funds to be used twice — hence the name ‘double-spending.‘
+
+With Bitcoin, a transaction is generally deemed legitimate once found six blocks deep in the blockchain. These particular 51-percent attackers performed re-organizations up to 16 blocks deep, seemingly in a bid to trick exchanges like Binance into paying out BTG destined to be double-spent.
+
+“We note that at the time of the attack, on Binance deposits of BTG were credited to one’s account for trading after six confirmations, and were available for withdrawals after twelve confirmations,” said Lovejoy. “A fourteen or fifteen block reorg would thus evade both of Binance‘s escrow periods.”
+
+He then provided a screenshot showing that Binance had since increased their BTG withdrawal requirement to 20 confirmations.
+
+Hard Fork has reached out to the exchange to learn more about its response to the incident and will update this piece should we hear back.
+
+Two years ago, cryptocurrency exchange Bittrex chose to delist BTG after 51-percent attackers successfully double-spent $18 million worth of the cryptocurrency in a similar fashion.
+
+Ethereum Classic also suffered a $1.1 million double-spend attack in January last year.

@@ -1,0 +1,37 @@
+DATE:  18.12.2019, 19:45:29
+TITLE: Video Shows How Easy It Is to Double Spend BTC Using RBF
+URL:   https://news.bitcoin.com/video-shows-how-easy-it-is-to-double-spend-btc-using-rbf/
+
+Video Shows How Easy It Is to Double Spend BTC Using RBF
+
+On December 18, the web portal Bitcoinbch.com published an informal notice explaining that merchants accepting BTC should switch to BCH because of “dangerous flaws” found in the BTC software. The problem is tied to slow confirmation times tethered to a BTC-based protocol called Replace-by-Fee (RBF), which gives individuals the opportunity to double spend on merchants. Bitcoinbch.com CEO Hayden Otto performed double spends on merchants in Australia to demonstrate how easy it was to execute in the wild.
+
+Also read: Plustoken Cash-Outs Could Be Behind BTC Price Drop, Says Report
+
+Bitcoinbch.com Urges Merchants to Switch to Bitcoin Cash Because of Serious Flaws Found With Bitcoin Core’s Replace-by-Fee
+
+Hayden Otto, Bitcoinbch.com CEO and BCH proponent from North Queensland, Australia published a video demonstration on how easy it is to double spend BTC after purchasing products from merchants. Otto released the video and published a blog post warning retailers about the double spend vulnerability and urged them to switch to the Bitcoin Cash (BCH) network as soon as possible.
+
+“It’s been obvious for years now that Bitcoin Core (BTC) no longer functions as intended as a peer-to-peer electronic cash system,” Otto’s video detailed. Otto notes that Bitcoin Core developers added a protocol called Replace-by-Fee (RBF), basically allowing people to double spend BTC transactions. The Bitcoinbch.com CEO said that a person can essentially purchase goods and walk away with them and then send the money back to themselves.
+
+“This is so easy to do, in fact, that the minimum requirement for double spending a merchant [with BTC] is a free app from the App Store,” Otto stressed during the film. “Despite this massive security flaw, there are over 200 businesses across Australia that we know of actively accepting bitcoin core as a payment method.”
+
+In order to educate people on how dangerous accepting BTC can be, Otto went to a few Australian BTC-accepting merchants and performed a double spend after purchasing items. Otto also emphasized that after the experiment was over, he returned all the funds to the merchant and he doesn’t condone people’s attempts to double spend BTC. For the test, Otto simply downloaded an Electrum wallet for Android and he set up two wallets in the application.
+
+He sent a transaction with the RBF-enabled wallet and then sent another transaction with a wallet with RBF disabled. After purchasing goods from the merchant, Otto walked away with the merchandise and performed a double spend with the other wallet he created. “This means the funds have disappeared from the merchant’s wallet, but you still have the goods and services,” Otto remarked after completing the double spend.
+
+With Added Mempool Congestion, BTC Transactions Can Be Reversed Days Later
+
+After showing how easy it is to do with any mobile phone, Otto then did the experiment in a controlled environment using a desktop computer. He did the exact same steps by using two wallets with one RBF enabled and the other disabled. Otto double spent $10 worth of BTC using the payment processor Travelbybit, which is the same point-of-sale (PoS) system used by the 200 BTC accepting merchants in Australia.
+
+Again, Otto successfully double spent $10 using the BTC network and Travelbit’s records marked the invoice as paid. In addition to the easiness, when the BTC network is congested the problem gets even worse. “Standard off-the-shelf wallets can purchase goods and trivially reverse the transaction upon leaving the store,” Bitcoinbch.com’s notice highlights. “Worse, the flaws are sensitive to congestion allowing customers to reliably reverse BTC transactions several hours or even days after purchase in some cases.” The Bitcoin Cash network does not have the Replace-by-Fee (RBF) protocol implemented as it was removed on August 1, 2017.
+
+“Merchants should immediately cease accepting Bitcoin and switch to Bitcoin Cash,” advised Otto. “Australian merchants are able to field a payment experience built around Bitcoin Cash that is superior to that of even the best fiat systems because Bitcoin Cash was designed precisely for this role,” he added.
+
+If you want to see just how easy it was for Otto to double spend BTC in the wild check out the video in its entirety below.
+
+What do you think about the vulnerabilities tied to using the Replace-by-Fee (RBF) protocol baked into Bitcoin Core (BTC)? Let us know what you think about this subject in the comments section below.
+
+Image credits: Shutterstock, Youtube, and Bitcoinbch.com.
+
+Did you know you can verify any unconfirmed Bitcoin transaction with our Bitcoin Block Explorer tool? Simply complete a Bitcoin address search to view it on the blockchain. Plus, visit our Bitcoin Charts to see what’s happening in the industry.

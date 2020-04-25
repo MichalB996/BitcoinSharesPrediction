@@ -1,0 +1,75 @@
+DATE:  13.02.2019, 18:03:26
+TITLE: How to Short Bitcoin – A Guide to Shorting BTC in 2019
+URL:   https://blokt.com/guides/how-to-short-bitcoin-a-guide-to-shorting-btc-in-2019
+
+Bitcoin is extremely volatile, moving both up and down in price. In this guide, we show you how to profit from falling prices by shorting BTC.
+
+We’ve all heard the terms ‘HODL’ (Hold On for Dear Life) and ‘BTD’ (Buy The Dip), but shorting is a is much less discussed strategy in the cryptocurrency world. In this article, we’ll provide a guide on how to short Bitcoin, so you can have a chance of being profitable when the next bear market hits.
+
+Breaking Down Shorting
+
+Essentially, shorting is the practice of betting on the price of an asset declining in price. In contrast, to ‘go long’ on an asset, or in other words expecting an asset to appreciate in price, is fairly easy. For a long position, you buy Bitcoin and hold it, or open a long position on a futures exchange like BitMEX.
+
+Conversely, going short traditionally requires a more convoluted process, which is best explained in the context of traditional finance.
+
+Traditional Markets – Shorting Stocks Explained
+
+In the stock market, shorting involves getting your broker to borrow shares and sell them immediately. The shares are repurchased when the trader wishes to close the position.
+
+If the price goes down, the client who is shorting will profit from the difference between the price when they borrowed and the price at which they bought back.
+
+However, if the price appreciates in that time, then the shorting trader suffers a loss. Shorts are usually entered into with leverage, a concept we explain here, which magnifies potential losses.
+
+Following the same method, it is also possible to short cryptocurrencies. Given the likelihood of market declines, like the one that took place in 2018, many professional traders have utilized Bitcoin shorting as a trading strategy.
+
+How to Short Bitcoin and Cryptocurrencies
+
+The main way shorting is completed in the cryptocurrency market is through ‘derivative contracts.’ A derivative contract is a financial contract whose price is determined by an underlying instrument. For example, the most traded derivative in cryptocurrencies is a contract which tracks the price of Bitcoin against the USD.
+
+It is important to note that when you buy a derivative, it doesn’t mean you own the underlying asset. It simply means that you are exposed to the price. Derivatives also allow traders to apply more advanced strategies that they cannot apply when they buy the actual asset.
+
+Derivatives enable the ability for traders to apply leverage. Leverage essentially means that the potential return on a trade is increased by using borrowed funds. However, this also increases the risk. Let’s look at an example to contextualize shorting Bitcoin via a derivative contract.
+
+Bitcoin Trading Example – Underlying Asset vs. Derivatives
+
+Imagine that Bitcoin is trading at $1,000 and you have $1,000 to invest. By buying the underlying asset, you can purchase 1 Bitcoin. If the price of Bitcoin increases by 10%, the amount you invested increases in value by 10%. On the other hand, if the price of Bitcoin decreases by 10%, your investment has also depreciated 10%.
+
+There is also the fact that you own the actual Bitcoin, which is a significant consideration for many.
+
+Let’s say the same scenario is playing out, but you have decided to use a derivatives contract as opposed to investing in actual Bitcoin. The derivative contract allows you to apply 10x leverage.
+
+This means you can use the $1000 to buy a contract which is similar to owning 10 Bitcoin at a total value of $10,000. You have $1000 of your own equity in the position and $9000 which is essentially borrowed from the exchange.
+
+If the price of Bitcoin increases 10%, the total value is worth $11,000, and there is a 100% return on the initial investment as opposed to the 10% return in the scenario where you buy the underlying asset.
+
+However, if the price of Bitcoin decreases to a point where the value of the equity is approaching zero, the exchange will liquidate the position, and the trader will suffer a 100% loss.
+
+When buying Bitcoin, you will always own it even if the price goes down. With derivative contracts, it’s commonplace for different exchanges to liquidate positions if they are leveraged, and the price goes down to a point where the initial equity the trader has put in has almost diminished.
+
+When entering positions, exchanges will typically clarify what price the position will be liquidated at. The twitter account “BitmexRekt” records liquidations taking place on the most popular cryptocurrency derivatives exchange BitMEX.
+
+The same mechanism applies when taking short positions. Traders are essentially borrowing funds to take a short position. However, it is also possible for short positions to be taken without applying any leverage.
+
+What Are the Main Places to Trade Derivatives in Cryptocurrencies?
+
+Some exchanges focus solely on providing cryptocurrency derivatives. The most popular by a large extent is BitMEX. Unfortunately, BitMEX cannot be used by those in the United States as access is restricted.
+
+The flagship contract pair on BitMEX is the XBTUSD perpetual swap, which is essentially a derivative that never expires and closely tracks the price of Bitcoin against USD. Traders can apply up to 100x leverage on the product, meaning that owning 1 Bitcoin will allow traders to open a position with a value of 100 Bitcoin.
+
+However, this also means that if the Bitcoin position moves less than 1% in the wrong direction, the position will be liquidated. Another thing to note about trading on BitMEX is it only deals with Bitcoin. Users deposit Bitcoin, and if they speculate accurately, their balance of Bitcoin will build. If they speculate incorrectly, their balance of Bitcoin will diminish.
+
+EMX offers a platform that allows traders to trade derivatives using not only Bitcoin but other major cryptocurrencies. You can trade not only Bitcoin futures, but also traditional markets such as forex, commodities, and equities, allowing you to diversify your portfolio extensively.
+
+Deribit is the closest competitor to BitMEX and also operates solely with Bitcoin.
+
+Fiat Exchanges That Offer Derivatives
+
+Some fiat to cryptocurrency exchanges have also been providing derivatives products. OKEx, a subsidiary to OKCoin, offers derivatives with contracts that offer up to 20x leverage. Japanese headquartered exchange BitFlyer also have their own derivatives exchange, called BitFlyer Lightning.
+
+Kraken has also recently announced a nine-figure acquisition which will serve to add derivatives trading to their platform; which will include enabling Bitcoin shorting. Kraken will be the first major cryptocurrency exchange that operates in the Euro and USD markets to provide derivatives trading.
+
+Conclusion
+
+Shorting Bitcoin can be a great way to keep a portfolio in profit in a period of market decline. However, beginners should make sure to keep the risks of derivatives and leverage trading in mind and take steps to research which exchanges are the best for shorting Bitcoin.
+
+References

@@ -1,0 +1,51 @@
+DATE:  18.01.2019, 10:49:52
+TITLE: Bitcoin SV News: BSV is Prioritizing Scaling, Security, Secure-Instant Transactions, and Stability
+URL:   https://www.investinblockchain.com/bitcoin-sv-prioritizing-scaling-security-secure-instant-transactions/
+
+Bitcoin SV News: BSV is Prioritizing Scaling, Security, Secure-Instant Transactions, and Stability
+
+Bitcoin SV, at just 2 months old, is already pulling away from Bitcoin Cash’s shadow with big plans ahead in 2019.
+
+According to Steve Shadders, the Technical Director of nChain and primary backer and proponent of BSV, the BSV cryptocurrency has a lot going for it as we head into the new year.
+
+Shadders was recently featured on the Bitstocks Crypto Podcast, where he talked to Daniel Arakelian, the CTO of Bitstocks about the 4 pillars or the 4S of the Bitcoin SV project.
+
+With great enthusiasm, Shadders spelled out the 4S as scaling, security, secure-instant transactions, and stability.
+
+Bitcoin SV: Stability and Scaling
+
+Regarding the scaling problem of blockchains, the nChain director stressed that increasing the stability of a blockchain will vastly increase its ability to scale because there will be less focus on less irrelevant protocol changes. He stated that this is what has allowed nChain to focus on scaling.
+
+Applying this concept to Bitcoin SV, Shadders said:
+
+The scaling work is probably part of the reason why the Bitcoin SV project came into existence. We were somewhat frustrated with the pace of work that was going on.
+
+Bitcoin SV: Security
+
+Shadders said that in addition to stability and scaling, security is a big part of the agenda at nChain as well. He stated that every piece of code goes through its own specific checks to ensure it’s ready for the public.
+
+Bug bounty programs are a big part of the security process at BSV as they ensure that the the team finds any bugs in the code and thus alter the process to prevent any mistakes.
+
+As a proponent of Bitcoin SV, Shadders said that nChain can do a lot more internal work with Bitcoin SV’s security while sticking to the consensus rules via a Proof-of-Concept (PoC) development in the terranode project. This project involves an external agent to be paired with a node to handle the peer-to-peer work on its behalf.
+
+Further expanding on this concept, Shadders spoke about Bitcoind, a program that implements the Bitcoin protocol for remote procedure call (RPC) use:
+
+If this external agent can sit there and handle the multi-threaded paths of peer-to-peer networking and then just feed transactions out of the Bitcoin node on a single connection, then the collective machine that you’ve got with these two components becomes an awful lot more performance (oriented).
+
+According to Shadders, nChain is currently working with the Bitcoind program but he believes it is a slower path to success and they are currently working on other things as well.
+
+He also stated that nChain is examining the component break up of Bitcoin SV so they can implement the best security features.
+
+Bitcoin SV: Secure-Instant Transactions
+
+One of the most notable mentions in the podcast is on Bitcoin SV’s plans to support a merchant API (Application Programming Interface) in 2019. Shadders noted that this will be an important development as it would allow merchants to receive instant assurances of transactions as well as the associated fees.
+
+Shadders stated:
+
+Once you’ve got to the point where you know exactly what the transaction fee is by 99.9 percent of the miners, you can get a fairly high level of assurance before you even broadcast the transaction.
+
+Furthermore, back to the terranode project, Shadders said that it has the potential to increase the rate of transactions for Bitcoin SV. This is because Bitcoin SV has meager transaction space, and the terranode project involves an external agent to take on the peer-to-peer work on Bitcoin SV’s behalf.
+
+Shadders did not confirm any more details on the eventual API, but noted that it is in the works for 2019.
+
+What do you think of Bitcoin SV’s approach to development? Will Bitcoin SV prove to be a more secure, efficient, faster, and all around better blockchain then Bitcoin Cash and Bitcoin? Let us know what you think in the comment section below.

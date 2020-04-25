@@ -1,0 +1,42 @@
+DATE:  19.04.2019, 18:00:20
+TITLE: First ‘Trustless’ P2P Bitcoin Derivatives Transaction Made By Blockstream
+URL:   https://bitcoinist.com/first-trustless-p2p-bitcoin-derivatives-transaction-made-by-blockstream/
+
+Bitcoin First ‘Trustless’ P2P Bitcoin Derivatives Transaction Made By Blockstream
+
+Blockstream has announced the success of a “trustless” Bitcoin forward contract transaction with Crypto Garage. The Bitcoin infrastructure developer says the news marks a watershed moment in the actualization of decentralized trading and settlement infrastructure for BTC derivatives.
+
+Details of the Transaction
+
+In a blog post published by Blockstream on Friday (April 19, 2019), the company said it successfully carried out a peer-to-peer (P2P) Bitcoin forward contract with Crypto Garage.
+
+Forward contracts (forwards) are private agreements between two entities – buyer and seller, that allows the purchase and sale of an asset based on an agreed-upon future set price. Unlike futures contracts, forwards do not require a third-party intermediary.
+
+Both parties began the trade on Tuesday (April 9, 2019) with each participant declaring collateral of 0.16 BTC each. Based on the terms of the contract, which stipulated settlement within the hour after midnight on April 16, both parties concluded the contract at a price of $5,032.
+
+The test BTC forward contract used the price displayed on the ICE Cryptocurrency Data Feed. Blockstream says it earned about $230 on its bet to go short on BTC.
+
+P2P Bitcoin Derivatives Trading
+
+For Blockstream the success of this transaction indicates the possibility of creating a platform for ‘trustless’ BTC derivates trading. Presently, Bitcoin futures trading occurs on centralized platforms like BitMEX and the CME.
+
+Blockstream argues that the partial-collateralization of futures contracts opens is a double-edged sword that opens up the possibility of huge losses.
+
+Back in 2018, Bitcoinist reported on OKEx having to perform a $9 million clawback to cover losses from an over-leveraged $416 million BTC futures bet that went wrong.
+
+Instead, Blockstream argues that the trustless nature of Bitcoin forwards will eliminate any counterparty risks. All each party has to do is post their maximum profit and loss exposure with the trusted price oracle doing the rest.
+
+However, some online commentators have criticized the ‘trustless’ label put on the product by Blockstream. This is because bitcoin forwards are actually based on the use of a “trusted price feed.”
+
+Blockstream nonchalantly slapping the word "trustless" on completely trust-dependent things is probably one of the most surefire strategies to seem like a total scam-company I can think of. congratsyouplayedyourself.gif https://t.co/b0bB1FTww1 — Eric Wall (@ercwl) April 19, 2019
+
+Possible Future Liquid Bitcoin Implementation
+
+According to the blog post, the BTC forwards contract settlement took place on the Bitcoin blockchain. The company says there are plans to take the settlement process off-chain, via its Liquid Network.
+
+Both Blockstream and Crypto Garage already have a prior partnership which saw the launch of the SETTLENET suite.
+
+Will P2P Bitcoin forwards significantly reduce counterparty risks associated with BTC derivates trading? Let us know your thoughts in the comments below.
+
+Images via Twitter (@ercwl), Shutterstock
+

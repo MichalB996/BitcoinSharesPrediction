@@ -1,0 +1,53 @@
+DATE:  21.02.2019, 13:10:54
+TITLE: QuadrigaCX Has Sent All Its Bitcoin and Ether to ‘Big Four’ Auditor EY
+URL:   https://www.coindesk.com/quadrigacx-has-sent-all-its-remaining-crypto-to-big-four-auditor-ey
+
+QuadrigaCX’s online wallets for bitcoin, ethereum and other cryptocurrencies have nearly been emptied and the funds sent to the failed cryptocurrency exchange’s court-appointed monitor, Ernst & Young (EY).
+
+In its second report on the case, published Thursday, EY confirmed that, as expected, it had taken control of the funds by transferring the crypto from QuadrigaCX’s accounts to the professional services firm’s own cold wallet, stored offline.
+
+“On February 14, 2019, after testing the transfer arrangements, the Applicants successfully transferred the following cryptocurrency to the Monitor,” EY said.
+
+In total, 51 bitcoin (roughly $185,500 at that time), 951 ether ($116,000), 33 bitcoin cash, 2,000 bitcoin gold, and 822 litecoin were transferred.
+
+“The Monitor will hold the cryptocurrency in cold storage pending further order of the Court,” the report added.
+
+Even before the report, blockchain watchers suspected these transfers had taken place since they observed amounts of bitcoin and ether matching the balances EY had previously said it found in the exchange’s wallets leaving addresses identified earlier as belonging to the Canadian exchange in transactions on the public ledger. The addresses that received the bitcoin and ether were freshly created, another hint that EY had taken control of the funds.
+
+Test transactions
+
+Each of the QuadrigaCX wallets appears to have sent a test transaction before transferring over the bulk of its funds on Feb. 14, analysis of public blockchain data reveals.
+
+For example, the ethereum address that was listed in the court filing as the exchange’s hot wallet for that cryptocurrency first sent 0.01 ETH to EY’s wallet, before sending a further 960 ETH two hours later.
+
+Similarly, the group of bitcoin addresses that eagle-eyed blockchain watchers had previously identified as belonging to QuadrigaCX sent 0.01 BTC to the monitor. Two hours later, another 52.6 BTC were sent to this new address that saw no other transactions.
+
+Some of those sending addresses were earlier involved in a costly blunder: the accidental transfer of 104 BTC ($500,000 CAD) on Feb. 6 to QuadrigaCX’s cold wallets, which the company claims are inaccessible because only its late founder, Gerald Cotten, controlled the private keys.
+
+In its report Thursday, EY addressed this transfer, saying it “occurred due to a platform setting error by the Applicants that resulted in bitcoin being automatically transferred to the Quadriga cold wallets.”
+
+Further, EY says it has looked at the cold wallets, and “confirmed … that the Quadriga cold wallets continue to hold approximately 104 bitcoins as of the date of the Second Report.”
+
+Now, after that six-figure mistake and the subsequent intentional transfer of 52 BTC to a new address, the hot wallet group is holding altogether less than 0.5 BTC.
+
+Fiat holdings
+
+EY’s report also provided updates on its quest to secure the exchange’s fiat holdings as well, noting that there are three main sources: Costodian, a payment processor that held some $25 million CAD in bank drafts, another set of bank drafts in possession of Stewart McKelvey totaling $5.8 million CAD and various amounts held by other third-party processors.
+
+Costodian, which is owned and operated by Jose Reyes, who also owns and operates another processor named Billerfy, has so far transferred some $20 million CAD to EY, but is holding onto another $5 million CAD and $70,000 USD which it claims belong to Reyes.
+
+The processor is also looking to recoup $778,000 CAD that it says Quadriga owes it in processing fees.
+
+Until these funds can be transferred to EY, “the Applicants currently have no accessible funds to fund the CCAA proceedings, other than the interim financing provided by [Jennifer] Robertson which will be exhausted in the near term,” the report said.
+
+In safer hands
+
+QuadrigaCX, previously the largest Canadian cryptocurrency exchange, went offline in January, following prolonged issues with banking, stalled customer withdrawals and the reported death of its founder and CEO Gerald Cotten in December.
+
+The Supreme Court of Nova Scotia then granted QuadrigaCX creditor protection, issuing a 30-day stay of proceedings.
+
+Cotten’s widow Jennifer Robertson said in her affidavit to the court that he had single-handedly managed transfers between the exchange’s wallets and that after his death the access to cold wallets was lost.
+
+Even before the 104-bitcoin mishap, Nova Scotia Supreme Court judge Michael Wood suggested that the hot wallet funds be sent to the safety of new cold wallets maintained by EY.
+
+EY image via Shutterstock.

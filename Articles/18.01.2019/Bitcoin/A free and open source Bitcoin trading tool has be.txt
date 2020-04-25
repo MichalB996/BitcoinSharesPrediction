@@ -1,0 +1,55 @@
+DATE:  18.01.2019, 13:00:30
+TITLE: A free and open source Bitcoin trading tool has been developed by two students
+URL:   https://coinrivet.com/a-free-and-open-source-bitcoin-trading-tool-has-been-developed-by-two-students/
+
+A free and open source Bitcoin trading tool has been developed for use on the Bitstamp exchange by two university students.
+
+The impressive tool is called BitVision and can be run directly in the user’s terminal, with trades executed through the exchange’s API.
+
+After downloading and running the application, all users need to do is request an exchange trading API through Bitstamp before they can start experimenting with the software’s automated trading engine and dashboard.
+
+Announced on Reddit
+
+Chief architect for the project and Illinois math major Jonathan Shobrook announced the project on the r/Bitcoin subreddit. His post managed to attract over 1,300 upvotes. In the Reddit submission, he made particular reference to the fact the project was FOSS (free and open source).
+
+From looking at the project on GitHub, the trading tool looks to have been solely developed by Jonathan Shobrook and Aaron Lichtman. Between them, these two full-time students have managed to build out a very impressive proof of concept, to say the very least.
+
+What is it?
+
+The BitVision tool is a real-time charting and trading dashboard that can be used with the Bitstamp exchange.
+
+The main feature of the tool is “an automated trading bot that uses machine learning to forecast price movements and place risk-adjusted daily trades.”
+
+Impressively, and unlike other systems, there’s also no need for a user to host a server to run the program (through a third-party website). The open source software works entirely in the user’s terminal.
+
+Computer science major Aaron Lichtman said: “Users also only need to login [through the exchange API] in order to make a trade. If you only want to try the dashboard facility, then no login is even required.”
+
+How it works
+
+On the GitHub read me page for the tool, it says that the command-line interface is built on the Blessed.js library. The BitVision architecture revolves around a local directory of JSON files.
+
+When a user triggers an event (like placing an order or refreshing the charts), a child process is initiated to execute the appropriate action in the users terminal.
+
+Services are organised into three modules: the retriever, the trader, and the automated trading engine.
+
+Automated trading engine
+
+The automated trading engine uses “a machine learning system that attempts to predict the sign of the next-day change in Bitcoin price and place trades accordingly.”
+
+The trading engine is trained on a feature set of historical candlestick data, technical indicators, and blockchain data. When the engine is toggled on, the bot can place a risk-adjusted buy or sell order depending on the prediction.
+
+For the engine to make its decision, the bot makes use of a number of technical trading indicators. The indicators were chosen to help reduce the noise in candlestick data and may reveal price patterns for the model to learn from.
+
+The indicators used look into price momentum, volatility, trends, and whether the cryptocurrency is overbought or oversold.
+
+It takes into account popular TA tools such as rate of change ratio (ROCR), average true range (ATR), on-balance volume (OBV), triple exponential moving average (TRIX), momentum (MOM), average directional index (ADR), Williams %R (WILLR), relative strength index (RSI), moving average convergence divergence (MACD) and, last but not least, exponential moving average (EMA).
+
+Still requires more backtesting
+
+When Shobrook was asked what the current profitability was like for the tool, he answered that the “trading engine hasn’t been backtested yet, but the accuracy of the model in predicting price movements has been tested.”
+
+As a final word of caution, the students did mention that “the trading engine is a proof of concept, not something you should trust to make money.”
+
+Reminiscent of Satoshi
+
+It clearly looks like the two students have put a great deal of effort into the design and execution of the BitVision tool. In recent times, we have seen so many heavily funded crypto projects launch in the space (all competing to create hype and make profits), so seeing two bright students come together to build and release a free and open source tool to the community is refreshing, and seems very reminiscent of the grassroots, open source movement that Satoshi started himself all those years ago.

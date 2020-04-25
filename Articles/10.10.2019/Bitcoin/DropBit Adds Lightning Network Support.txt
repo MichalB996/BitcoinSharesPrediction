@@ -1,0 +1,29 @@
+DATE:  10.10.2019, 16:00:39
+TITLE: DropBit Adds Lightning Network Support
+URL:   https://bitcoinmagazine.com/articles/dropbit-adds-lightning-network-support
+
+Ring in the new bitcoin halving cycle the right way: with us!
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+DropBit, a bitcoin wallet and payment service provided by CoinNinja, allows you to send bitcoin to people who don’t own any. Now, it’s using Lightning Network to beef up its self-stylized role as the Venmo for bitcoin.
+
+Revealed exclusively to Bitcoin Magazine ahead of a public announcement, the DropBit app has built out its own integration for the Lightning Network. As part of the app’s 3.0 update, this Lightning Network compatibility will allow users to send Lightning payments to folks who aren’t using the secondary network yet (or Bitcoin at all). DropBit will roll out the new integration on a case-by-case basis with its beta program in the coming months.
+
+How It Works
+
+To bring the Lightning Network to its service, DropBit opens up a channel for user B and deposits the funds user A sent them into the channel. As in the case of on-chain bitcoin drops on the app, once the new user verifies their information, they can claim their bitcoin.
+
+“The DropBit wallet is about sending frequent, smaller Bitcoin transactions in the easiest way possible,” Kyle Stalzer, head of product at CoinNinja, told Bitcoin Magazine. “You don’t need a long abstract wallet address — you simply need someone’s phone number or Twitter handle to send — even if the recipient has never owned bitcoin previously.”
+
+With Lightning, DropBit will have more flexibility to accommodate low-fee micro-payments.
+
+“Adding Lightning Network support makes these small sends more economically viable,” Stalzer said. “You can send bitcoin for next to no fee with Lightning, a critical piece on the value proposition of using bitcoin as a transactional currency.”
+
+When you send someone bitcoin on DropBit, they’ll receive an alert regarding your payment and, once they sign up for the service, the payment will automatically be deposited into their wallet once it is activated.
+
+With the 3.0 release, DropBit is now SegWit-enabled. It also modified its seed phrase scheme.
+
+While DropBit’s Lightning Wallet isn’t available for use just yet, you’ll be able to see the UI and UX in this release. DropBit will begin by unlocking the Lightning Network features for select participants in a beta program before taking it fully public (you can tweet at them on Twitter if you’d like to test it out).

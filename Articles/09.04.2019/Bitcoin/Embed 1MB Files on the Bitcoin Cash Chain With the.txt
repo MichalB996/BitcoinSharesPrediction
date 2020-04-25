@@ -1,0 +1,35 @@
+DATE:  09.04.2019, 02:15:05
+TITLE: Embed 1MB Files on the Bitcoin Cash Chain With the Blockupload Platform
+URL:   https://news.bitcoin.com/embed-1mb-files-on-the-bitcoin-cash-chain-with-the-blockupload-platform/
+
+Embed 1MB Files on the Bitcoin Cash Chain With the Blockupload Platform
+
+The software developer known as Deswurstes revealed last week a new project he’s been working on that allowed people to upload files up to 1MB in size to the Bitcoin Cash (BCH) testnet. On April 7, Deswurstes launched the first BCH mainnet version of Blockupload, a desktop platform that allows people to embed larger files into the blockchain without the need for the Interplanetary File System (IPFS).
+
+Also read: Uyen T Nguyen: The Powerful Young Woman Behind the Alleged ‘Satoshi Affair’
+
+Blockupload Allows for 1MB Uploads Embedded Into the Bitcoin Cash Chain
+
+The developer known as Deswurstes or Mcccs has announced a new project he’s been working on over the last eight months called Blockupload. The platform uses a BCH Op_Return transaction and P2SH in order to allow individuals to upload files to BCH up to 1MB in size. The upload size is higher than the Bitcoin Files project allows, which is roughly a max of 5kb or less, but when using IPFS Bitcoin Files can upload much larger files. Deswurstes says his project doesn’t need IPFS and the open source repository on Github explains that Blockupload is a “user-friendly tool to upload your files to the BCH chain.”
+
+“Last week I’ve introduced Blockupload so people could upload files to the BCH Testnet chain,” Deswurstes detailed on Sunday. “This week I’ve changed it so that we can show the power of on-chain scaling by making it work on the real Bitcoin Cash.”
+
+In order to give our readers some insight into this new project, news.Bitcoin.com tested Blockupload Sunday afternoon. The platform is fairly intuitive and users simply choose a file of up to 1MB in size to upload and Blockupload will tell them how much it costs to embed the file. Users must check the disclosure tab, however, which explains that the uploader understands files should not infringe copyright law and cannot contain classified information. All of the content added to the BCH chain is solely the uploader’s responsibility, the website details.
+
+After choosing a file (a rare Pepe GIF) that was 899KB in size to test the app’s features, the platform generated an invoice address after “Continue” was pressed. In order to upload the Pepe GIF, the invoice asked for 0.04BCH or roughly $15 to embed it into the chain. Once the transaction is paid, the platform gives the user a window to add a change address during the end of the process as well. Following the change address output, Blockupload gives the user a hash so anyone can download the specific file after it’s broadcasted.
+
+‘All Mimsy Were the Borogoves’: The Debate Over Uploading Arbitrary Data
+
+Because $15 is pretty expensive to add an animated Pepe GIF to the chain, a text file was uploaded instead. Blockupload provides users with a notepad-like window so they can type or copy and paste any text they want into the upload window. The Blockupload platform will then convert the writing into a .txt file. Uploading a text file is significantly cheaper than embedding a larger file as the price to upload the Jabberwocky poem is only around 0.0002BCH or 6 cents.
+
+The Jabberwocky poem is a very short nonsensical piece of writing by Lewis Carroll, the author of Alice in Wonderland. The poem’s text can be found in this specific BCH address and the hash from that address can be used to download its .txt file using Blockupload. In the address’ output section where the poem is located, the Op_Return can be seen in the UTXO data.
+
+On social media forums like Reddit’s r/btc, the platform was welcomed by some but not by others. Some BCH fans expressed the opinion that using IPFS is a better and far cheaper alternative. The cost to use Bitcoin Files is a good example compared to the cost of a 1MB upload on Blockupload, which is currently around $15. BCH developer Jonathan Toomim explained that the Sia protocol would be even more appropriate to use than IPFS. Meanwhile, other people thought the idea was great for anti-censorship and one person emphasized that right now the biggest threat on the web is censorship with scary regulations like EU’s Articles 11 and 13. Essentially, they believe that individuals and organizations will pay for immutability if the web becomes far more censored in the future.
+
+What do you think about Blockupload? Do you think uploading large files is a cool idea or do you think it is unnecessary? Let us know what you think about this project in the comments section below.
+
+Disclaimer: Bitcoin.com does not endorse this product/service. Review editorials are intended for informational purposes only. This is the first release of this particular software and early versions can often be buggy. Readers should do their own due diligence before taking any actions related to the mentioned company or any of its affiliates or services. Bitcoin.com or the author is not responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.
+
+Image credits: Shutterstock and Blockupload.io
+
+At Bitcoin.com there’s a bunch of free helpful services. For instance, have you seen our Tools page? You can even look up the exchange rate for a transaction in the past. Or calculate the value of your current holdings. Or create a paper wallet. And much more.

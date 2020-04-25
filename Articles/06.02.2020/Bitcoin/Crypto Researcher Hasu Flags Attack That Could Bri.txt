@@ -1,0 +1,31 @@
+DATE:  06.02.2020, 15:30:08
+TITLE: Crypto Researcher Hasu Flags Attack That Could Bring ‘Purge’-Style Mayhem to Bitcoin
+URL:   https://www.coindesk.com/crypto-researcher-hasu-flags-attack-that-could-bring-purge-style-mayhem-to-bitcoin
+
+Pseudonymous researcher Hasu has discovered a new twist on a well-known potential attack on the bitcoin network.
+
+The researcher posted a description of the attack, which he named "Purge" after the B-movie franchise, to the bitcoin developer email list last week. It's a variation on the so-called sabotage attack, in which malicious miners try to wreak havoc on bitcoin for the sake of wreaking havoc, rather than for profit.
+
+“Purge attacks probably don’t constitute a bigger risk than other known forms of sabotage attacks, but seem like an interesting spin," he wrote.
+
+In the dystopia of the "Purge" films, the U.S. government legalizes all crime for one night every year to unleash a sort of national catharsis. Hasu said he chose the name "because the attacker doesn’t (primarily) steal money himself, he makes theft legal in the network for a short period of time."
+
+In short, the attack opens the possibility that in very particular circumstances some users could spend their bitcoins more than once, something the unique technology behind bitcoin is supposed to prevent.
+
+To be clear: The scenario is hypothetical, like many others bitcoin researchers have identified in their efforts to steel the network against real-world sabotage attempts. Anticipating the danger is a first step toward preventing or at least mitigating it.
+
+Undermining trust
+
+In order to execute a purge attack, a rogue miner would replace an already accepted block with an empty one, pushing transactions that were previously seen as final back into the "mempool," which is like a waitlist for transactions. Then, anyone who sent a transaction during that time can spend the same coin twice.
+
+The new type of sabotage could be used to "undermine trust in bitcoin's assurances," such as the assurance that transactions are after a time "final," meaning irreversible. "Possible attackers could include nation-states hostile to bitcoin as well as terrorist organizations," Hasu added.
+
+Further, Purge is different from other sabotage attacks because the users who are suddenly allowed to double-spend could get incentive to go along with the attack.
+
+"Because Purge gives normal users a way to benefit from the attack, the attacker hopes that it will be harder to coordinate a response quickly because whoever benefited from the attack has an incentive to defend the attack chain," Hasu told CoinDesk.
+
+But while Purge is a new idea, it’s not necessarily worse than other known attacks. Hasu also points to a couple of lines of defense: One, the risk to the attacker of losing block rewards, which are expensive to win and could decline in value if the attack shakes confidence in bitcoin; and two, the “strength of bitcoin’s pre-coordination.”
+
+
+
+The full report (on bitcoin futures exchange Deribit's blog) dives into much more detail.

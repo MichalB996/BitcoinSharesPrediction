@@ -1,0 +1,27 @@
+DATE:  13.02.2020, 15:28:04
+TITLE: Here’s How to Inspect Bitcoin’s Next (Likely) Major Upgrade Yourself
+URL:   https://www.coindesk.com/heres-how-to-inspect-bitcoins-next-likely-major-upgrade-yourself
+
+As the bitcoin community gears up for its next likely major code upgrade, students of the cryptocurrency have an opportunity to inspect the changes themselves, with help from core developers.
+
+The weekly Bitcoin Core review club has started guiding users through the proposed Taproot/Schnorr code, designed to improve privacy and scalability and boost smart-contract usage for the largest crypto by market cap.
+
+Bitcoin's (BTC) code is open-source, so anyone can scan proposed changes. Reviewing code is one of the best ways new contributors can dip their toes into the complex world of making improvements to bitcoin at the base layer.
+
+But few people are familiar with the process, which can be tricky to learn from scratch. Developer John Newbery started the weekly club last year in an effort to teach more developers to review proposed changes to bitcoin's code.
+
+The club meets Wednesdays on the old-school chatting service Internet Relay Chat (IRC). A host usually starts the meeting with a description of a change, then lurkers jump in with questions to get a better idea of how the code works and the motivation behind it.
+
+Newbery has been contributing to Bitcoin Core – the basic version of the bitcoin software from which other customized implementations are derived – since 2016.
+
+This week's inaugural Taproot/Schnoor chat covered "some small changes to script [execution]" from two "pull requests" (PRs). PRs are proposed changes that aren't quite ready to be added to bitcoin.
+
+Once a PR is submitted, developers will look over it, to approve, reject, or leave feedback so the change can make it to the next step.
+
+The changes discussed this week were "small, non-behavior-changing modifications to script execution," according to club notes. They touch an important piece called "consensus code," which are the rules that all bitcoin nodes need to follow to prevent the network from splitting into two.
+
+"Generally, for consensus code,the 'if it ain’t broke, don’t fix it' rule prevails," the review club notes explain. But in this case the changes might be warranted because it "simplifies the changes for Taproot significantly."
+
+For those who are new to the process, it might not be easy to make a judgment about the quality of the code. But it could be a springboard to diving into the code further.
+
+The club website does not say what pieces of the Taproot/Schnorr code will be covered next. The timetable for the upgrade itself is uncertain; some hope it will get done by the end of the year, but others call that overly optimistic.

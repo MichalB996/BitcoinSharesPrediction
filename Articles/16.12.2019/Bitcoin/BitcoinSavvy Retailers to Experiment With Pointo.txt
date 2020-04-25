@@ -1,0 +1,31 @@
+DATE:  16.12.2019, 17:35:54
+TITLE: Bitcoin-Savvy Retailers to Experiment With Point-of-Sale Lightning App in 2020
+URL:   https://www.coindesk.com/bitcoin-savvy-retailers-to-experiment-with-point-of-sale-lightning-app-in-2020
+
+It’s easy to see why litecoin creator Charlie Lee just invested an undisclosed amount in the lightning-friendly bitcoin wallet startup Breez: CEO Roy Sheinfeld is a hustler. Sheinfeld responds to messages 24/7 and executes just as quickly.
+
+Since the mobile wallet app launched in June, Breez integrated with shopping and payment apps like Fold, MoonPay and Bitrefill, just to name a few. According to company data shared with CoinDesk, Breez’s ready-made lightning setup facilitated 4,273 transactions in October alone. That claim might be hard to swallow if whispers of Breez weren’t omnipresent among startups experimenting with bitcoin scaling solutions.
+
+Now Sheinfeld’s eight-man team is looking to help launch a point-of-sale app, powered on the back-end by the trading firm Iterative Capital's software library called Escher, in early 2020. Some retailers are already testing the beta version of Breez's app.
+
+“We did a test run around a month and a half ago and it worked beautifully,” said Perrin Ehlinger, owner of the video game store Station Retro in Alabama. “I’m hoping to get it integrated into the store by the end of December.”
+
+Ehlinger said the process is shockingly easy compared to other self-custodied options for merchants. His small business can’t handle bitcoin’s volatility and on-chain fees, so the wallet itemizes purchases made with the Lightning Network’s signature low fees.
+
+“I just get a statement every morning for what the lightning transactions were and make a quick bank transfer to the store’s account,” Ehlinger said. “It’s almost quicker than the credit card machine.”
+
+Iterative Capital’s managing partner, Chris Dannen, said this product will offer a fiat on-ramp, via the banking network Zelle, as well. Plus, he added, the trading firm is working with Silicon Valley startup Lightning Labs to improve the network's user experience via a service called Lightning Loop.
+
+“You don’t have to manage channels or any of that. You can settle the invoice with one task-flow,” Dannen said. “We can do a round-trip process with bitcoin – buy, sell, settle – in four seconds.”
+
+Sheinfeld said they will start a pilot this month in Israel, where bureaucracy is discarded faster than bad hummus, as they build out Escher’s on-ramps for American banks. Of course, anyone who prefers to use self-custodied bitcoin can also do so with Breez.
+
+“We expect to generate serious revenue in one to two years as the network grows,” Sheinfeld said, referencing adjacent plans to facilitate a channel management marketplace where a variety of providers handle routing on the backend, for a small fee.
+
+For those beyond the American banking system, Breez offers FastBitcoins vouchers that users can redeem for bitcoin that goes straight to the lightning wallet. According to FastBitcoins managing director Danny Brewster, over the last six months, this startup alone facilitated lightning payments worth more than 11 bitcoin ($78,210 at current prices).
+
+“Most point-of-sale payments are driven by meetups that occur in retail locations where our services are available,” Brewster said, adding it will take at least a decade to determine if this scaling solution actually works. “The lightning network is still extremely new. But with more and more people building better infrastructure around it, the user experience is only going to (hopefully) improve.”
+
+Perhaps that’s why some lightning fans are predicting more merchants will experiment with crypto payments in 2020, when Escher will be compatible with most lightning wallets. Plus, Brewster said the British grocer Nisa will join the roster of FastBitcoins merchants in 2020.
+
+“Bitcoin needs to move. It needs to become a currency in order for people to trust it more,” said Ehlinger, the Alabama game store owner. “I hope this encourages people to spend their bitcoin that they otherwise would not.”

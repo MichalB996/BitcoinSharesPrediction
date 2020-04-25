@@ -1,0 +1,37 @@
+DATE:  16.12.2019, 10:00:32
+TITLE: ‘DNA-of-Things’ Technology Can Store Bitcoin Passwords in Everyday Objects
+URL:   https://news.bitcoin.com/dna-of-things-technology-can-store-bitcoin-passwords-in-everyday-objects/
+
+‘DNA-of-Things’ Technology Can Store Bitcoin Passwords in Everyday Objects
+
+Talk of bitcoin passwords being encoded and stored in synthetic DNA is not new, but in a recent development scientists have announced that DNA-encoded information can now be stored in everyday objects such as eye glasses or a shirt button, instead of a vial or test tube.
+
+Also Read: Cryptosteel Capsule Will Keep Your Wallet Seed Safe and Out of Sight
+
+From Test Tube to Silica Beads
+
+Bitcoin seed phrases and other private information can now be stored in the clothes you wear, or any number of other inconspicuous, everyday objects. While previous reports have detailed the process for encoding data via synthetic DNA, and storage in a test tube, a new study entitled “A DNA-of-things storage architecture to create materials with embedded memory” claims that the code can now be embedded within everyday objects. The authors state:
+
+We devised a ‘DNA-of-things’ (DoT) storage architecture to produce materials with immutable memory … DNA molecules record the data, and these molecules are then encapsulated in nanometer silica beads, which are fused into various materials that are used to print or cast objects in any shape.
+
+The process conceptually is straightforward. As DNA consists of four bases, adenine (A), guanine (G), cytosine (C) and thymine (T), an algorithm can be used to convert digital information of ones and zeroes into sequences of these DNA bases called oligos. The researchers first detail how they were able to encode a “Stanford Bunny” with information needed to reproduce itself, loosely mimicking biology. The ‘bunny’ is a common 3D test model used in computer graphics. “First we compressed the binary stereolithography (stl) file of the bunny from 100kB to 45kB. Next, we used DNA Fountain [encoding protocol] to encode the file in 12,000 DNA oligo-nucleotides (oligos),” the paper states.
+
+The oligos are encapsulated in microscopic beads and then placed in a filament, which is used as material for the 3D printing of an object. After the object is created, the data can be extracted and decoded. Due to the high redundancy of the information contained in the object, the researchers note that “we can tolerate a dropout of even 80% of the DNA oligos and still correctly decode the file.”
+
+What This Could Mean for Bitcoin
+
+“Let’s say that someone is thinking that you’re trying to take information out from a facility or from a border, and they capture you and screen all your electronic devices,” the head author of the study, Yang Erlich, recently related to vice.com. The report suggests that steganography might be a useful application of the technology. If this process can be made affordable for the average person, current discussion and debate about data encryption could be taken to a whole new level. The report emphasizes:
+
+The DoT architecture … enables a wide range of everyday objects, from a keychain to a bottle lid, to be turned into concealed storage devices that can secretly carry data.
+
+Perhaps even more compelling for privacy advocates is the difficulty bad actors would face in attempting to extract embedded info. As the report notes, not only would an invasive party first have to confirm which, if any, physical objects on one’s person contained embedded data (there’s no visible way to know), but they would then have to extract that data using the same technology and protocols which encoded it. Just imagine the lines at customs.
+
+Still Too Expensive
+
+The DNA-of-things study finally details how the scientists embedded a Youtube video into a pair of glasses. Erlich noted to Vice that beyond international espionage, the tech could have applications in security and medicine, and “Good people need to hide information, so why not give them more options?” As it stands, the process is still very expensive, with just the production of the rabbit’s DNA sequence alone setting the team back $2,500. That notwithstanding, at the rate tech is moving, cryptocurrency lovers might find themselves wearing crypto specs and drinking their morning coffee from a seed-phrase-infused mug before they can say ‘oligo.’
+
+What are your thoughts on ‘DNA-of-things’ and its potential applications for crypto? Let us know in the comments section below.
+
+Images courtesy of Shutterstock, fair use.
+
+Did you know you can buy and sell BCH privately using our noncustodial, peer-to-peer Local Bitcoin Cash trading platform? The local.Bitcoin.com marketplace has thousands of participants from all around the world trading BCH right now. And if you need a bitcoin wallet to securely store your coins, you can download one from us here.

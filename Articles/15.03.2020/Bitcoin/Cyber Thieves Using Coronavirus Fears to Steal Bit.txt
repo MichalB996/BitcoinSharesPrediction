@@ -1,0 +1,29 @@
+DATE:  15.03.2020, 17:30:00
+TITLE: Cyber Thieves Using Coronavirus Fears to Steal Bitcoin (BTC) and Cryptocurrency
+URL:   https://dailyhodl.com/2020/03/15/cyber-thieves-using-coronavirus-fears-to-steal-bitcoin-btc-and-cryptocurrency/
+
+‏‏‎
+
+According to DomainTools senior security engineer Tarik Saleh, the number of coronavirus-themed domain registrations increased following reports of the first cases of COVID-19, and many of these are allegedly scams.
+
+One particular platform, coronavirusapp[.]site, is prompting users to install an Android application for real-time updates on the pandemic. Instead, the app comes bundled with a ransomware aptly called “CovidLock”.
+
+CovidLock asks for permission to access the lock screen. It then employs a technique known as screen-lock attack, which holds the phone hostage by blocking user access.
+
+The ransomware threatens to erase contacts, pictures and videos on the infected device, as well as leak the victim’s social media account information and wipe all phone data unless a ransom of $100 is paid in Bitcoin within 48 hours.
+
+Saleh says phones running on the latest Android versions should be fine if the user set a password to unlock the screen.
+
+“Since Android Nougat has rolled out, there is protection in place against this type of attack. However, it only works if you have set a password. If you haven’t set a password on your phone to unlock the screen, you’re still vulnerable to the CovidLock ransomware.”
+
+DomainTools researchers say they’ve already reverse-engineered the decryption key and plan to share it publicly. They are also monitoring the transactions in the Bitcoin wallet used by the ransomware.
+
+Check Latest News Headlines
+
+
+
+Disclaimer: Opinions expressed at The Daily Hodl are not investment advice. Investors should do their due diligence before making any high-risk investments in Bitcoin, cryptocurrency or digital assets. Please be advised that your transfers and trades are at your own risk, and any loses you may incur are your responsibility. The Daily Hodl does not recommend the buying or selling of any cryptocurrencies or digital assets, nor is The Daily Hodl an investment advisor. Please note that The Daily Hodl participates in affiliate marketing.
+
+Featured Image: Shutterstock/ Immersion Imagery
+
+‏‏‎

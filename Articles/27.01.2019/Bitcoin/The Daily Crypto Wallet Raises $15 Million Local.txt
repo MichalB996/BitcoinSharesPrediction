@@ -1,0 +1,41 @@
+DATE:  27.01.2019, 10:05:52
+TITLE: The Daily: Crypto Wallet Raises $15 Million, Localbitcoins Suffers Vulnerability
+URL:   https://news.bitcoin.com/the-daily-crypto-wallet-raises-15-million-localbitcoins-suffers-vulnerability/
+
+The Daily: Crypto Wallet Raises $15 Million, Localbitcoins Suffers Vulnerability
+
+In today’s edition of The Daily we feature another recent example of venture capital infusion into the cryptocurrency space as Japan’s SBI invests in the BRD wallet. We also cover a recent security vulnerability that was detected on the P2P exchange Localbitcoins, and a new AML/KYC compliance solution for stablecoins.
+
+
+
+Also Read: Galaxy Digital Is Raising $250M to Help Firms Survive Crypto Winter
+
+Crypto Wallet Raises $15 Million
+
+Cryptocurrency mobile wallet BRD (formally Bread Wallet) has announced it has raised $15 million in a Series B financing round to accelerate international expansion and scale its technology platform. The funding came from SBI Crypto Investment, a wholly owned subsidiary of Japanese conglomerate SBI Holdings. The new funds are meant to enable BRD to grow its product and engineering teams as well as to expand its operation in Japan and across Asia.
+
+“SBI Group’s investment in BRD allows us to firmly cement ourselves in the Asian market,” said Adam Traidman, CEO of BRD. “It shows incredible support for the foundation that we have built in North America and reinforces our proven ability to scale the success we have achieved in the past 4 years. The new investment will ensure our long-term global growth, and we are incredibly excited about collaborating with SBI as a strategic investor and business partner to make that happen.”
+
+BRD also announced the availability of cryptocurrency purchases using SEPA transfers for the European market through a partnership with payment provider Coinify. This will enable users to purchase bitcoin in the 34 countries across the SEPA region using bank accounts. “BRD has blazed the trail as a decentralised financial platform and we are excited to be the selected partner for their European launch,” said Rikke Staer, Chief Commercial Officer of Coinify. “They have been one of the pioneers of the virtual currency industry, and it is a pleasure to be chosen to power their SEPA trades.”
+
+Localbitcoins Suffers Vulnerability
+
+Peer-to-peer trading platform Localbitcoins has notified users that on Jan. 26, at approximately 10:00 UTC, the exchange’s team has detected a security vulnerability. The notification explained that “an unauthorised source was able to access and send transactions from a number of affected accounts.”
+
+Outgoing transactions were temporarily disabled by Localbitcoins while the team investigated the case, and they were re-enabled after a number of measures to address the issue and secure the accounts were taken. “We were able to identify the problem, which was related to a feature powered by a third party software, and stop the attack. At the moment, we are determining the correct number of users affected – so far six cases have been confirmed. For security reasons, the forum feature has been disabled until further notice.” The team also added some security guidance for users: “Your Localbitcoins accounts are currently safe to log in and use – we encourage you to enable two-factor authentication, if you have not yet.”
+
+The announcement by the exchange came after a user complained on Reddit about a phishing attack on the forum.
+
+Chainalysis Goes After Stablecoins
+
+Digital surveillance company Chainalysis has announced the launch of Know Your Transaction (KYT) for stablecoins, an anti-money laundering (AML) compliance solution for monitoring stablecoin transactions from issuance to redemption. The developers say that stablecoin issuers can integrate with the tool via an API to begin monitoring large volumes of activity and identify high risk transactions on an on-going basis. The service is also said to help issuers understand the risk profile of each stablecoin holder and filter them by level of risk exposure to identify those that require the most immediate attention.
+
+“Chainalysis exists to build trust in cryptocurrencies among institutions and users,” said Chainalysis COO Jonathan Levin. “The repeated knock against cryptocurrency is its volatility, and trust in stablecoins could lead the way to increased commercial use. Chainalysis KYT for stablecoins further supports this vision by raising the bar for accountability and providing compliance teams with the technology they need to meet AML requirements.”
+
+The company says that the service is now available for a number of ERC-20 stablecoins, and will become available for additional tokens in the coming months.
+
+What do you think about today’s news tidbits? Share your thoughts in the comments section below.
+
+Images courtesy of Shutterstock.
+
+Verify and track bitcoin cash transactions on our BCH Block Explorer, the best of its kind anywhere in the world. Also, keep up with your holdings, BCH and other coins, on our market charts at Satoshi’s Pulse, another original and free service from Bitcoin.com.

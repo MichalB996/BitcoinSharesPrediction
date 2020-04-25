@@ -1,0 +1,23 @@
+DATE:  12.03.2020, 21:35:27
+TITLE: Coinbase launches Bitcoin batching amid market selloff
+URL:   https://decrypt.co/22270/coinbase-launches-bitcoin-batching-amid-market-selloff
+
+The price of Bitcoin plunged again this morning, as coronavirus fears spread across the United States. Total market capitalization for all cryptocurrencies has been slashed by more than a quarter—and continues to tumble.
+
+But that didn’t stop leading US crypto exchange Coinbase from announcing a new feature on its platform: the long-awaited “Bitcoin transaction batching.”
+
+The company said the feature will lower network fees for users and free up space on the Bitcoin blockchain. “This enables the network to increase transaction throughput, and helps to increase scalability,” the company said in a blog.
+
+Bitcoin transaction batching works by packaging transactions into one block, instead of a single transaction taking up a block all to itself. “A single transaction that fulfills multiple user send requests occupies less space in each block than each being processed individually,” the company said. “Put another way: the whole is less than the sum of the parts when it comes to Bitcoin transactions,” Coinbase added.
+
+In the blog post, Coinbase referenced how transaction fees at one point were around $30, probably a nod to when fees were high in 2017. Nonetheless, it also acknowledged in the same post that similar fees are today around 30 cents. So is it all too little too late?
+
+Some Bitcoiners thought so, and expressed their criticism of Coinbase for waiting so long to launch the feature:
+
+Last year, and the year before that, Coinbase CEO Brian Armstrong said that batching was soon coming to the service after users had complained about fees. Meanwhile, competitors such as San Francisco-based exchange Kraken and and wallet providers like Samourai launched batching features years ago.
+
+Not everyone, though, is a fan of batching transactions, especially those concerned with the potential downsides with regard to privacy.
+
+Despite the announcement, some people have pointed out there might be some privacy downsides to batching transactions. In a blog post in 2017, Bitcoin.org contributor David A Harding noted that batched transactions on Kraken allow others on blockchain explorers to see the addresses of everyone who was paid out as part of a batch.
+
+“You don’t know who those recipients are, but you do know they received bitcoins from Kraken the same as you,” Harding wrote.

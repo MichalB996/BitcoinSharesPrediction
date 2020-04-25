@@ -1,0 +1,49 @@
+DATE:  27.10.2019, 16:47:50
+TITLE: Towards a Scalable, Efficient Cryptocurrency: Bitcoin’s New Low-Energy Competitor
+URL:   https://singularityhub.com/2019/10/27/towards-a-scalable-efficient-cryptocurrency-bitcoins-new-low-energy-competitor/
+
+The idea behind Bitcoin—creating a decentralized currency that allows for secure peer-to-peer transactions without the use of banks—may well be a good one. But it’s not working out in practice. The cryptocurrency has generated far more hype and wild investment speculation than practical use.
+
+The energy consumption required to continue this speculative bubble is tremendous. Maintaining the Bitcoin network currently consumes more electricity than entire nations like Switzerland. This is due to the proof-of-work requirement to secure the blockchain: huge amounts of computer hardware, endlessly churning away at cracking an essentially pointless mathematical problem. And it’s happening at a time when we need to conserve energy and reduce CO2 emissions to avert climate change, not to mention when 1.1 billion people have no access to electricity at all.
+
+What’s truly perverse is that this vast computational effort is intentionally wasted: as Emin Gun Sirer pointed out, if the proof-of-work was used on something useful, such as running computational models for science, it might set some expectation for the value of Bitcoin based on how much people value the work it can do.
+
+Byzantine Reliable Broadcast
+
+It doesn’t have to be this way. Indeed, a new paper from Swiss researchers titled Scalable Byzantine Reliable Broadcast is one of many that show the way towards more efficient, scalable, and effective cryptocurrencies.
+
+Blockchain aims to create a secure, unhackable record of transactions by essentially distributing its ledger of all transactions to everyone who uses it. Adding new data to the blockchain requires proof of work—cracking those cryptographic algorithms. This is intended to make it impossible for anyone to disrupt the blockchain by adding incorrect data. Essentially, this requirement does away with the need for a trusted third party like Visa, Paypal, or the banking system which keeps a single, indisputable record of transactions.
+
+The problem of ensuring that a distributed system of information remains invulnerable to some malicious users who aim to disrupt it is called the Byzantine General’s problem, from which the paper takes its name, using the analogy of army generals attempting to coordinate an attack while a traitor in their midst sends out misleading information.
+
+But the new paper argues that you can prevent anyone from cheating in the distributed system without needing total consensus on behalf of everyone using the blockchain for every transaction.
+
+Trust Goes Viral
+
+Instead of using one ledger maintained by every user, the new algorithm essentially works like a virus (or a viral meme). When a user makes a transaction, a small group of additional users is passed information about that transaction. They then pass this information to another small group of users. The information spreads out exponentially, quickly reaching billions of users.
+
+Then, instead of consulting a single ledger, transactions are verified by a random sample of users. If the random sample is large enough, you can ensure that malicious hacks which disrupt the system will be unlikely enough so as to occur less than once in 13.6 billion years, approximately the age of the universe, according to the researchers.
+
+The classic concern is that a bad actor might try to spend the same bitcoin twice by altering the ledger to remove evidence of earlier transactions.
+
+Professor Rachid Guerraoui, who co-authored the paper, explained this alternative approach to Innovation Toronto:
+
+“If a malicious player wants to make a payment, for example, this system would not allow anyone to accept money from that player until a randomly chosen sample has confirmed the player has not sent money to anyone else; otherwise, the payment will not be accepted,” he explains. “Basically, we’re saying that you only need to exchange information with a sample of players to implement a cryptocurrency.”
+
+Embedded in this is an “innocent-until-proven-guilty” assumption: users are trusted unless the transactions they’re attempting contradict the random sample of information that’s spread through the group. As soon as any malicious behavior is detected from a user, the rest are instructed to ignore any information that originated with that user.
+
+Scaling Up the Rumor-Mill
+
+The work has been well-received, obtaining best paper award from the International Symposium on Distributed Computing, one of the prominent conferences in the field. Highly theoretical, the paper is filled with mathematical proofs that detail how the system will work. This gives hope that the team may have cracked the Byzantine General’s problem in a way that doesn’t require costly number-crunching or consensus, but the approach will need to be thoroughly tested and implemented to ensure that it does work in practice.
+
+Talking to IEEE Spectrum, Guerraoui said, “We now have major sponsorship from the EU to try and implement this on a large scale. We want to make it open source for anyone to download and use [so they can see for themselves] that it is robust.”
+
+Time will also tell if the new system is adopted widely. Bitcoin has received attention principally for its fluctuating price and the speculative bubble surrounding cryptocurrencies; few practical transactions are carried out today using Bitcoin. Yet it has its defenders—many of whom are highly invested in its continued use and value—and new technologies may well be drowned out in the mix, even when they are arguably superior. For all the hype, Bitcoin can still only process a tiny fraction of the transactions that Visa does per second.
+
+Solving the energy consumption and scaling problems will be crucial if Bitcoin, or any other cryptocurrency for that matter, is ever to fulfill its dream of replacing existing payment methods. There are currently only 300,000 Bitcoin transactions a day, compared to 150 million processed by Visa. But each Bitcoin transaction currently accounts for 213 megawatt hours of electricity consumption.
+
+If this continued to scale, then Bitcoin would use more electricity than the entire world does today if it replaced Visa, with all the environmental and energy availability impacts this would entail. Defenders of Bitcoin would argue that it is growing more efficient over time, and could be powered renewably. But if Professor Guerraoui is correct that transactions under the new system would consume as much energy as sending an email, then it will be hard for the laborious, proof-of-work-based blockchain to compete.
+
+We can’t afford to embed any more inefficient technologies in our global system. The blockchain may yet be a transformative force for good—but it needs to get smarter.
+
+Image Credit: Image by Darwin Laganzon from Pixabay

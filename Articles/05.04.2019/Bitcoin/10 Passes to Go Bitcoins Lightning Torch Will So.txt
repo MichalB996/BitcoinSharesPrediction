@@ -1,0 +1,71 @@
+DATE:  05.04.2019, 12:00:51
+TITLE: 10 Passes to Go: Bitcoin’s Lightning Torch Will Soon Burn Out
+URL:   https://www.coindesk.com/10-passes-to-go-bitcoins-lightning-torch-will-soon-burn-out
+
+Bitcoin’s lightning torch will soon burn out, putting an end to a global payments experiment that has seen participation from hundreds of recipients, from tech luminaries like Twitter CEO Jack Dorsey to users in countries cut off from parts of the world by economic sanctions.
+
+Users taking part in the venture have been showing the power of lightning’s tech by passing a payment from one person to the next, adding a few cents worth of bitcoin with each step. The so-called “torch” has burned through at least 54 countries so far, showcasing its cross-border prowess.
+
+But because of a hard-coded transaction limit of about $170 at time of press (it’s officially 4.29 million satoshis), there’s a limit on how much bitcoin can be sent across a lightning channel at once. As such, users will only be able to pass the torch less than a dozen more times before it hits that limit.
+
+Once the torch payment hits the limit (which was put into place for safety reasons) people can no longer add 30 cents or so to the torch with each pass, as was the lightning torch tradition.
+
+Of course, it’s impossible to say what exactly what will happen to the torch until it dies out. Will the torch die out? Or, will someone simply start a new one?
+
+The pseudonymous Hodlonaut, who started the lightning torch on a whim, has been counting down the remaining spots on Twitter (now down to 10), telling CoinDesk that he is not planning to start up a second torch.
+
+When asked whether they’re planning to start another torch as this one dies out, Hodlonaut responded: “I don’t think so. Maybe something else ;)”
+
+Global experiment
+
+The possible end to the lightning torch raises what might be an obvious question: what are the key takeaways?
+
+Participants argue that, for better or worse, the lightning torch has shown that the technology is unstoppable, as it crossed into more than 50 countries with ease. If one country implements policies that are unfair, bitcoin can bypass this, because payments can’t be stopped by any one person or entity.
+
+In addition to passing through so many countries, that the torch was sent to Iran seemed to vindicate this view. Iranian bitcoin user Ziya Sadr tried to receive the torch, but some torch bearers were too scared to pass it to him due to U.S. sanctions potentially making it illegal to do so. But, when an unknown user from Wales passed Sadr the torch, it seemed to secure the view that bitcoin’s lightning is borderless.
+
+Sadr agrees with these sentiments. “Bitcoin and lightning are truly censorship resistant and people manifested this too during this very public and bold experiment!” he told CoinDesk, adding:
+
+“Bitcoin is borderless and it will not conform to state-backed sanctions and national politics.”
+
+According to bitcoin enthusiast and entrepreneur Akin Ferdinandez, the experiment “showed clearly that the world is actually just one place, and with the right tools it’s possible to traverse national borders and reach everyone as if there were no barriers between anyone.”
+
+“The torch entering and leaving Iran unimpeded is all the proof you need to show this is true. People really can get along if given the chance,” Ferdinandez told CoinDesk.
+
+Hodlonaut also pointed out some of the lesser-known facts of the experiment. For example, a group of Venezuelans received the torch while the country was roiling amid a power outage. With no electricity, they powered their lightning node with a motorcycle battery.
+
+Ferdinandez, who carried the torch last week, thinks it shows that even when a technology is early on, it can do good.
+
+“It also shows once again that a small number of people can have a hugely significant global impact in a short amount of time if their thinking is right and they have the focus and skills to execute in software,” Ferdinandez (who also goes by the moniker Beautyon) told CoinDesk, adding:
+
+“The lesson here is, ‘Do not underestimate bitcoin’.”
+
+Lightning limitations
+
+But while the experiment shows the latent promise of the technology, it also shows how unready it is, Charlie Lee, creator of litecoin, argued to CoinDesk.
+
+“I think the torch shows [that] using lightning by running one’s own node and lightning is still not easy enough. Most torch holders end up using a custodial solution, which is not ideal,” Lee told CoinDesk.
+
+“Custodial” wallets like Bluewallet have recently sprung up. Lightning users, including those who have participated in the lightning torch, have flocked to them because they make lightning easier to use. They don’t need to set up their own lightning node, a time-consuming process that requires a lot of hard drive space, for instance.
+
+While this sounds great, it’s “not ideal” as Lee put it, because custodial wallets have full control of users funds — a characteristic that sort of defeats the purpose of bitcoin as a digital currency that users are intended to have complete control over.
+
+“We still have lots of work to do to make lightning easy to use,” Lee said.
+
+This technological immaturity is embedded in the very reason the lightning torch is near its end, about to reach its transaction limit. The limit is there for a reason, as it’s one of the features put in place by developers to keep users safe since lightning is still a budding technology susceptible to bugs.
+
+Accidental altruism
+
+Another outcome of the experiment is it has unexpectedly turned into a crowd sourced charity project.
+
+Once the torch hits the transaction limit, Hodlonaut and the community plans to donate the torch to the non-profit Bitcoin Venezuela, dedicated to spreading the word about bitcoin as a currency alternative in the economically troubled country.
+
+Hodlonaut tweeted:
+
+“[These] guys really deserve all the support we can give them. They will receive the #LNTrustChain torch, but that only amounts to around $170.”
+
+To expand the donation effort to not only just the few who get to carry the lightning torch, Hodlonaut started a parallel donation effort on Tallycoin, a fundraising platform accepting solely bitcoin and lightning payments.
+
+Without a transaction limit to worry about, the fundraiser has snowballed much more money than the torch, attracting has attracted 235 donations totaling 0.38672 bitcoin, worth about $1,553 at time of press.
+
+Torch image via Shutterstock

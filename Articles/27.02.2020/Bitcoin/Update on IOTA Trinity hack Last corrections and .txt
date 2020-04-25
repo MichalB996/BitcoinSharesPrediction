@@ -1,0 +1,21 @@
+DATE:  27.02.2020, 15:40:25
+TITLE: Update on IOTA Trinity hack: Last corrections and external audit
+URL:   https://www.crypto-news-flash.com/update-on-iota-trinity-hack-last-corrections-and-external-audit/
+
+In a new status update, the IOTA Foundation commented on the progress of the migration tool and stated that it was handed over to an external auditor yesterday.
+
+Users of the Trinity wallet are urged to consider whether they need to use the migration tool to prevent the theft of their IOTA tokens.
+
+While the criticism in the crypto community is getting louder with every day that the Tangle stands still, there are also positive things to report. Presumably, as announced, the IOTA Foundation will be able to keep its schedule and deliver the migration tool for the affected IOTA Trinity wallet users by the end of this week. At least this can be deduced from a recent report on the Status website.
+
+The announcement states that the migration tool was delivered to an external auditor yesterday. In addition, the IOTA Foundation is busy with the final tests and last corrections:
+
+The Seed Migration Tool was sent to a technical audit yesterday. We have received feedback and are implementing the requested changes. Meanwhile we have been performing internal and external user acceptance testing. The response has been very positive. We are now implementing final fixes and carrying out final testing.
+
+For all Trinity Wallet users this means that they should carefully consider whether they have used the IOTA wallet in the period from 17 December 2019 to 17 February 2020. If so, the question is which version was used. Only versions 1.2.0, 1.2.1 and 1.2.2 are secure and do not require the use of the migration tool. In case of doubt, however, it should always be used to be on the safe side. The following overview provides a detailed decision-making guide.
+
+The migration tool ensures that wallet users can switch to a new, secure seed. If both the legitimate owner of the seed and the hacker want to create a new one for the old one, a KYC process is triggered. This is to prevent further theft.
+
+It is important to know that there is a fairly short migration phase of only seven days. On the 10th day after the release of the tool, the IOTA network with the new seeds (via a snapshot) will resume operation.
+
+Follow us on Facebook and Twitter and don’t miss any hot news anymore! Do you like our price indices?

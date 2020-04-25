@@ -1,0 +1,67 @@
+DATE:  03.01.2019, 19:00:16
+TITLE: Proof of Keys Explained: Bitcoin’s First Planned ‘Bank Run’ Is Today
+URL:   https://www.coindesk.com/proof-of-keys-bitcoin-bank-run
+
+Do your bitcoins really exist?
+
+The answer might seem like an obvious “yes,” but the brewing “Proof of Keys” movement, launching today, argues the answer is not so clear.
+
+How in control a person is of their coins depends on where and how the bitcoin is stored. So participants will be taking their money out of third-party bitcoin services, moving it to accounts only they themselves control.
+
+“We’re going to withdraw all our bitcoin from any third party services just to prove that they’re there,” said Trace Mayer, Proof of Keys leader and bitcoin podcast host, in a video announcing the project, adding:
+
+”It’s on the blockchain or it didn’t happen.”
+
+As described by Mayer, the motivation is simple. Many bitcoiners leave their bitcoins on exchanges. This is risky, as millions (er, billions) of dollars have been stolen from exchanges by way of hacks over the years. Not to mention, it means users don’t really have full control over their money — a fact many might not realize.
+
+The movement debuts on the 10th anniversary of bitcoin’s first-ever block, the day bitcoin’s anonymous creator turned his or her theory into a living, breathing digital currency.
+
+Proof of Keys has been compared to a “bank run,” where a flood of people withdraw their money from a bank, worried that the institution is going under. But unlike old-fashioned runs, this one is pre-planned and deliberate.
+
+If enough people pull their money off exchanges, advocates argue, it’ll expose, and perhaps topple, the ones that are operating like fractional-reserve banks (i.e. keeping only a sliver of depositors’ cash on hand and available for withdrawal).
+
+Big names such as former Symbiont president Caitlin Long, smart contract pioneer Nick Szabo, Coinbase CTO Balaji S. Srinivasan, and CoinKite CEO Rodolfo Novak have all etched the Proof of Keys symbol prominently in their Twitter profiles. Even bitcoin companies like Shapeshift and Casa have thrown their support behind the effort.
+
+Taking control
+
+So, what do participants have to do? Not much or a lot, depending on the user’s point of view.
+
+The first task is for users to take control of their private keys. While bitcoin is “trustless,” most users hand their bitcoin to a third party who takes care of it for them. The risk is, if this service is hacked (or goes down for another reason), all their bitcoins are lost.
+
+“Proof of Keys” advocates argue users need to move their private keys to a device, such as a secure hardware wallet, where they actually have full control of their money.
+
+The second job for users is to spin up what’s known as a bitcoin “full node,” which keeps a history of every transaction ever made on bitcoin, as well as the rules binding the global network together. That way they can validate which transactions are following the rules, without relying on anyone else. (Developers have drawn up zillions of guides for setting this up. It’s possible to purchase nodes that work out-of-the-box as well.)
+
+If this sounds like a mouthful, some users have already done it, posting their results to Twitter. And advocates argue the learning experience (however time-consuming) is worth it.
+
+“Learning how to do this will teach you about private keys and monetary sovereignty,” tweeted Srinivasan.
+
+Mayer takes this a bit further.
+
+“Anyone who doesn’t want you to hold your own private keys — they’re your monetary enemy. They don’t want you to be free and independent with your money,” Mayer adds. “That’s just the way it is.”
+
+But participating users need to be careful.
+
+“There is some legitimate concern that some people will withdraw their funds from exchanges without knowing how to store them properly” pseudonymous bitcoin subreddit moderator Bashco wrote, posting a few tips for a safe transition.
+
+War cry vs. camaraderie
+
+You might be wondering, how much of an impact will this day have?
+
+One confusing aspect is that while today is the official “Proof of Keys” day, not everyone is participating on the same day. Some users have been taking control of their keys leading up to today, posting their results on social media.
+
+Further, it will be pretty difficult to track how much of the community shifts over, Mayer argued to CoinDesk: “Really, it is an intensely personal type of activity which will be hard to measure.”
+
+But, the way some users talk — calling Proof of Keys “bitcoin’s independence day” and a “monetary sovereignty war-cry” — it sounds as if the end goal is for all cryptocurrency users to suddenly move their keys to a device they control and spin up full nodes on fancy hardware device, making bitcoin exchanges all but obsolete.
+
+But Mayer is expecting the result to be less subversive – and more of a bonding experience.
+
+“I think most companies and individuals will operate normally with no significant interruptions, the bitcoin network will be strengthened in its decentralization properties, and many individuals and the community will have a sense of accomplishment and camaraderie,” Mayer told CoinDesk.
+
+And other Proof of Keys advocates admit that many users cherish convenience, not necessarily having the time or enthusiasm to store their bitcoins securely and spin up a full node.
+
+As one reddit user put it:
+
+“If it helps even a handful of newcomers or veterans set up their own wallet and start to understand how their assets are stored, great. I’m just not expecting some big thing to happen.”
+
+Image via CryptoScamHub Twitter

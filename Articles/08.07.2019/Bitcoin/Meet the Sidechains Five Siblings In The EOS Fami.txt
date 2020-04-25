@@ -1,0 +1,63 @@
+DATE:  08.07.2019, 19:13:10
+TITLE: Meet the Sidechains: Five Siblings In The EOS Family
+URL:   https://cryptobriefing.com/meet-sidechains-five-eos-family/
+
+Business Meet the Sidechains: Five Siblings In The EOS Family by Mike Dalton
+
+Meet the relatives you didn't know EOS had.
+
+Share this article
+
+EOS is just over a year old, but it has rapidly risen to prominence as one of the leading platforms for developing distributed applications. Unlike proof-of-work blockchains like Ethereum, EOS has a slightly different model: the system relies on 21 high-powered block producers to drive its network, providing maximum efficiency and performance speed.
+
+Despite the success of EOS’s model, some parts of the EOS community have their own ideas about how the platform should work. As a result, several complementary projects have sprung up around the EOS mainnet. These are usually referred to as “sidechains” or “sisterchains,”* and each runs a modified version of Block.one’s EOSIO software.
+
+Here are a few of EOS’ most significant relatives.
+
+Telos: A Sister chain For App Developers
+
+Telos aims to make life easier for app developers. One of their goals is to stabilize fees and eliminate account creation costs. This solution was introduced in response to EOS’s RAM market, which can make participation in the network prohibitively expensive. Though Telos’ goals are noble, the main EOS network EOS itself has already mitigated some of these concerns with features such as vRAM and REX.
+
+Telos also intends to distribute voting power. On EOS, wealthy coinholders have accumulated a lot of voting power, allowing a small number of wallets to set the course for the entire network. To prevent this from happening, Telos limited the number of TLOS tokens that its EOS Genesis Snapshot accounts could hold to 40,000 tokens. This is intended to make Telos’ block producer elections more fair and decentralized.
+
+Telos is quite successful for an EOS sidechain. It went live in December 2018, and since then, the TLOS token has managed to rank among the 200 largest cryptocurrencies by market cap.
+
+Telos has also achieved moderate adoption: as of March, 40 projects have committed to developing their applications on Telos. Most recently, Telos awarded a grant to the decentralized email platform Dmail.
+
+WAX: A Platform For Game Asset Trading
+
+The Worldwide Asset Exchange, or WAX, is a blockchain-based game asset trading platform. Essentially, WAX handles the exchange of virtual goods like in-game items and character skins. The project launched its EOSIO-based mainnet in June, making it a fairly new member of the EOS family. But WAX is already quite successful: the WAX token is currently one of the ninety largest cryptocurrencies.
+
+But, unlike most other sidechains, WAX was not simply designed to confront existing EOS problems. It was an independent project before it launched its own EOS sidechain, and it still relies heavily on features from other projects, such as Ethereum’s ERC-20 token standard. So although WAX is quite successful, it is not as closely related to EOS as other projects are.
+
+Worbli: A Sidechain For Enterprise and Finance
+
+Worbli is an EOS sidechain that intends to provide services for enterprise users and financial institutions. Worbli is highly centralized, even moreso than EOS itself. Whereas EOS allows users to vote for block producers, Worbli picks its block producers by hand. Worbli also maintains strict regulatory compliance: all of its account owners and block producers must undergo KYC/AML background checks.
+
+Worbli has not been terribly successful in terms of market cap: its token is among the 2300 largest cryptocurrencies. However, Worbli is noteworthy for being one of the earliest EOS sidechains. The project has also formed some interesting partnerships: in December, Worbli partnered with InterBlockchain on interoperability, and this July, it partnered with dCart to explore blockchain-based digital collectibles.
+
+Boscore: A Sidechain For Businesses
+
+Boscore is an EOS sidechain with a focus on business applications. Just like EOS, it is designed to be a platform for DApp construction. Boscore is also focused on solving “real world problems,” and it puts a large emphasis on interblockchain communication. For example, Boscore can handle Bitcoin and Ethereum tokens, which ensures that its app developers can work with some of the most important blockchains.
+
+Boscore aims to provide a few other features as well. For one thing, it intends to provide higher transaction speeds than EOS, and it also offers more plugins than EOS does. Boscore has also done away with EOS’s controversial arbitration body (ECAF) in favor of light governance. Boscore is, however, extremely minor in market terms: it only ranks among the 4400 largest tokens by market cap.
+
+EOSForce: A Sidechain With New Governance
+
+EOSForce is a Chinese-based EOS sidechain, and it primarily makes changes to EOS’s default governance model. The EOS mainnet allows vote splitting, allowing coinholders to vote for multiple block producers with each token they hold. EOSForce, however, only allows coinholders to vote for one block producer with each token. This is one way of preventing vote collusion between block producers.
+
+EOSForce also issues token rewards to users who vote for block producers – a feature that is found on other blockchains with vote delegation, like Tezos and Cosmos, but not EOS itself.
+
+These are just a few of the many governance changes that EOSForce has introduced. EOSForce also performed a mainnet upgrade quite recently, which took place on July 1st 2019 and improved the sidechain’s performance and interoperability features. But despite its ambitions, EOSForce is another low market cap project: its token is roughly the 4000th largest cryptocurrency on the market.
+
+How Do Sidechains Affect EOS?
+
+It is important to consider these sidechains in the context of EOS itself. Even though they are not official EOS projects, most sidechains maintain a close relationship with the EOS ecosystem. EOS block producers frequently serve as block producers on sidechains. The reverse is true as well: many sidechain groups serve as EOS block producers – or at least, they serve as candidate block producers.
+
+But there are limits to what this alliance can accomplish. Very few EOS sidechains have achieved anything close to the amount of success that EOS has seen. Furthermore, EOS developers are working on many of the problems that sidechains are trying to solve, such as resource costs and voting distribution. The end result is that many sidechains may become redundant in the future.
+
+Nevertheless, EOS sidechains do provide direct benefits to EOS itself. As Aurora EOS has explained, sidechains provide horizontal scalability, meaning that they offload some of the transactions and activity that EOS would otherwise have to handle. Of course, this requires the participation of developers and block producers – but, overall, sidechains are useful additions to the EOS ecosystem.
+
+This article has been corrected to reflect details of the Telos token distribution.
+
+On terminology: the term “sidechain” often describes parallel chains that use the EOS token for resource allocation, while the term “sister chain” specifically refers to paralell chains that use their own token for resource allocation. In practice, many block producers and community members use the terms interchangeably.

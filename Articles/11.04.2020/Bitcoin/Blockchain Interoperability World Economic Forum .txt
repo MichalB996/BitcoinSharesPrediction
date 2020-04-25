@@ -1,0 +1,39 @@
+DATE:  11.04.2020, 10:32:55
+TITLE: Blockchain Interoperability: World Economic Forum Releases Paper Explaining Importance of Effective Communication Between DLT Networks
+URL:   https://www.crowdfundinsider.com/2020/04/160011-blockchain-interoperability-world-economic-forum-releases-paper-explaining-importance-of-effective-communication-between-dlt-networks/
+
+During the past few years, blockchain or distributed ledger technology (DLT) has been adopted by a large number of companies from several major industries. There are currently hundreds of different DLT platforms being operated across the globe.
+
+Most of these blockchain-enabled networks are unable to effectively and efficiently communicate (or share data) with each other. The World Economic Forum (WEF) recently noted that the present level of blockchain interoperability is far too low for developing robust enterprise-grade applications.
+
+The WEF has released a whitepaper that specifically covers the challenges associated with implementing DLT interoperability. The organization notes that the paper is part of an extensive research project that looks into the feasibility of blockchain-based solutions for supply chain management.
+
+Authored in collaboration with leading professional services firm Deloitte, WEF’s whitepaper emphasizes the need for blockchain interoperability. It covers the extent to which current DLT platforms are able to communicate with each other.
+
+The paper points out that the DLT interoperability challenge has mainly been addressed in the context of public blockchain networks. Private (permissioned) DLT chains have been ignored for the most part, the paper argues.
+
+The WEF states that the majority of existing interoperability solutions tend to focus on the Bitcoin (BTC) and Ethereum (ETH) blockchains, which are the world’s largest DLT platforms.
+
+There’s not much meaningful interoperability development work going on otherwise (for other blockchains), the paper reveals.
+
+The WEF noted:
+
+“In public blockchains, interoperability has been in development for many years – for instance, cross-chain, sidechains, proxy tokens, etc. However, a bigger challenge and, at the same time, a much bigger opportunity exists given interoperability among enterprise-grade permissioned blockchains.”
+
+The organization said that the present level of interoperability for inter-blockchain communication is not suitable for enterprise use.
+
+The report from the WEF and Deloitte confirmed that a number of DLT networks and technology companies have been trying to deal with interoperability challenges. These include crypto industry initiatives like Cosmos and Polkadot.
+
+The WEF clarified that both Cosmos and Polkadot are only focused on relay interoperability systems, which have been developed primarily for private or permissionless DLT networks.
+
+The report added that “none has succeeded in creating interoperability for blockchain platforms other than Bitcoin and Ethereum.”
+
+The WEF noted that Hedera Hashgraph’s DLT platform, called the Hedera Consensus Service, which went live in February of this year, seems to be “promising” for enabling blockchain interoperability.
+
+The World Economic Forum noted that Hedera @Hashgraph 's DLT platform, called the Hedera Consensus Service, which went live in February of this year, seems to be “promising” for enabling blockchain interoperability Click to Tweet
+
+The WEF explained that the platform could potentially introduce a cheap and efficient ordering service that would work with any Hyperledger Fabric compatible network.
+
+The organization also assessed DLT interoperability research and development work conducted by Microsoft. The report revealed that the tech giant is the only major industry participant to have developed blockchain interoperability software so far. This, as companies like IBM, SAP, and Oracle have yet to introduce these types of solutions.
+
+The WEF pointed out that Microsoft had teamed up with Nasdaq to implement a software solution for the Nasdaq Financial Framework, which allows users to launch independent DLT networks through a single, unified interface.

@@ -1,0 +1,22 @@
+DATE:  23.08.2019, 21:08:15
+TITLE: Video: Carl Dong on Guix and Bitcoin Development
+URL:   https://bitcoinmagazine.com/articles/video-interview-carl-dong-on-guix-and-bitcoin-development
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+Chaincode Labs engineer Carl Dong is one of the most prolific and promising Bitcoin developers today. In the beginning of his career, he made significant contributions to the 21dotco protocol (which turned into Earn.com). Subsequently, he joined Blockstream and is doing perpetual work on Andrew Poelstra’s Rust Bitcoin implementation. But Dong truly came into his own when he joined Chaincode Labs and started addressing the issues that he identified during his formative years.
+
+Most recently, Dong has made extra efforts to make Bitcoin Core development more trustless. His initiative resulted in the merging of Guix, a tool that will replace Gitian and is essential to eliminating extra verifications or blind trust from the process of exchanging compiled code (binaries).
+
+In this exclusive Bitcoin Magazine video interview, Dong talks about the inspiration that he used in the process of coding Guix, the quick completion time for the project and many of the issues concerning Bitcoin development. He presents several other projects he is working on and explains some complicated concepts in a way that even newbies can understand.
+
+The Chaincode Labs engineer also makes the case for why constant development in Bitcoin is required by appealing to the events and dynamics that Satoshi himself could not predict. While one school of thought emphasizes the Gospel-like nature of Satoshi’s code and writings, Dong is among those who emphasize the necessity of small tweaks and updates, which simultaneously maintain compatibility with previous versions and bring new improvements.
+
+When asked about the one element that gets him most excited about Bitcoin, Dong points to its longevity and robustness, which lay the foundations of sound money. As he puts it, “Bitcoin is the money that lasts,” and the fact that such a complex network is able to thrive and expand speaks volumes.
+
+Dong also provides practical advice to aspiring Bitcoin developers, and he suggests that newcomers should definitely spend time understanding the philosophy of the project before they propose any changes. Bitcoin development is very conservative, requiring intensive testing, and only a few of the Bitcoin Improvement Proposals get merged into Bitcoin Core. New coders are advised to put extra time into thinking about why some apparently obsolete or inefficient pillars exist and what kind of damage any small changes can make.
+
+Last but not least, Dong makes the distinction between proposals and implementations. Since Satoshi himself had to prove that his white paper could be put into practice, developers should also test their ideas with code. In Dong’s experience, even the best theoretical proposals can turn out to be impractical, and it’s essential for both the proponent and the rest of the community to try concepts before advocating for them.
+

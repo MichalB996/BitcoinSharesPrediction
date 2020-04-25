@@ -1,0 +1,47 @@
+DATE:  26.02.2020, 16:00:02
+TITLE: Compound Extends DeFi Ethos to Itself, Launches Governance Token
+URL:   https://www.coindesk.com/compound-extends-defi-ethos-to-itself-launches-governance-token
+
+Decentralized finance (DeFi) platform Compound is going ahead and decentralizing itself.
+
+"My personal belief is that nobody would use bitcoin if it was run by the ‘Bitcoin Corporation,’” Robert Leshner, Compound’s founder, told CoinDesk in a phone call. “Its power comes from the fact that nobody truly controls it.”
+
+In that spirit, Compound is launching the testnet of its experimental governance platform today, complete with a trial version of its COMP governance token.
+
+Launched in late 2018, Compound has held steady as a top-three DeFi dapp on ethereum basically as long as DeFi Pulse has been tracking such things. (MakerDAO always sits at number one, while Compound and Synthetix bounce back and forth between two and three.)
+
+Compound currently offers lending in eight different assets (such as wrapped-BTC, ETH and ZRX) and accounts for about 15 percent of all the ETH locked up in DeFi, lately hovering at around a billion dollars.
+
+Community members who feel it should incorporate other assets will now have a much better chance to get their way, because updates will be a matter for users to decide (or COMP token holders, anyway).
+
+"This has pretty much always been our plan," Leshner said. "We're one of the few companies that are pioneering the idea of continuous and progressive decentralization."
+
+The company is going to tokenize the dapp, but it is not doing it to raise more money. Instead, its staff, founders and investors will get a share of the tokens and another share will be distributed on ethereum using a logic the company is not yet revealing. Once that's done, token holders will run Compound, not the company.
+
+It should be noted, of course, that while the company itself won't technically hold tokens, the people with the biggest investment in how it has been run so far will have a lot of sway. At first there will be a large concentration of the tokens in the hands of people closest to the company.
+
+This fits into the vision Leshner described of decentralizing but doing so gradually, on purpose.
+
+"Compound is more like a financial application and infrastructure layer than a blockchain. The accessibility of proposing changes to it is going to be much much more accessible," Leshner said.
+
+From here, Compound will focus on building services that run on Compound, much like the company Hadoop does with big-data software.
+
+"We expect that the company will spend more time looking to develop services on top of the Compound protocol [rather than ethereum]," Leshner said.
+
+How it works
+
+Anyone will be able to propose changes to Compound, but they won't go to a vote unless 1 percent of the total token supply backs the measure. This could sound like a large amount but delegation is feasible. So someone wouldn't need to own 1 percent of the supply to indicate that amount of support. They would just need to be able to rally that many tokens behind them to move a concept.
+
+Leshner called the 1 percent rule an anti-spam measure. Meanwhile, quorum (the minimum number of votes in play needed to make a change go into effect) will be 4 percent to start.
+
+Once votes start they will run for three days. Then the code change won't kick in for another two days, just to give users of Compound time to close out their positions if they think the change is against their interests (also known as "rage quit" in crypto-governance circles).
+
+According to a Medium post on the new governance model:
+
+"The entire governance codebase is available on Github, and has been audited by OpenZeppelin; an additional security audit is in progress, and will be released shortly. You can request testnet COMP from our team in Discord – just ask nicely!"
+
+When the governance system first goes live, it will only be in the hands of Compound's supporters and team. Once everything proves to be working, the firm will do a token distribution to the public, who will then be able to participate.
+
+The hope is that more people involved will enable the app to expand more quickly but also to do so in a safe way, in part by getting more people involved.
+
+"By rolling out governance it kind of allows much more creativity and community improvement than we could develop on our own," Leshner said.

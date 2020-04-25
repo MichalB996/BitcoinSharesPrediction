@@ -1,0 +1,47 @@
+DATE:  26.02.2020, 09:45:13
+TITLE: In 2017 bitcoin network consumed 5 TWh of energy, in 2018 – 29 TWh, in 2019 – 43 TWh
+URL:   https://www.crypto-reporter.com/news/bitcoin-network-energy-consumption-11841/
+
+Electricity consumed by bitcoin network has been constantly and noticeably increasing. During the past years the consumption reached such big a scale, that it can be compared to electricity consumption of some countries, according to BlockchainAnalytics.pro research.
+
+The world’s first cryptocurrency is steadily becoming more popular and expensive every year. This motivates more individuals and companies to enter the mining business to earn a bitcoin share.
+
+More miners, more efficient equipment
+
+To validate a block of transactions and receive a reward, miners compete with each other by solving a deliberately complicated mathematical task, or puzzle. Those miners who own more computing power (hashrate) have more chances to win the competition. This incentivizes miners to buy more powerful equipment that consumes more electricity.
+
+At the same time, mining equipment efficiency is constantly improving, and with time less electricity is required to produce the same hashrate. This factor allows to slow down the increasing demand for electricity.
+
+For example, in 2016 Bitmain, world’s largest manufacturer of mining equipment, launched the legendary Antminer S9, which consumed 100 watts to produce one terahash per second, or 100 W/TH/s. The best modification of Antminer S15, released in 2018, consumed 57 W/TH/s. Currently, the most efficient Antminer S17 consumes only 40 W/TH/s.
+
+It is assumed that the market competition compels manufacturers to keep up with each other in developing more efficient hardware. If some manufacturer brings next-generation chips to market, other manufacturers start to produce chips with the same characteristics at about the same time.
+
+On the other hand, new miners are joining the network, thus increasing the hashrate. So the demand for electricity continues to grow. Also, it can be noticed later that the electricity consumption chart is similar to that of hashrate chart.
+
+Calculations
+
+The incremental volume of electricity consumption is calculated by multiplying newly added hashrate by the best mining efficiency available at that moment.
+
+The sum of incremental volumes represents cumulative amount of electricity consumed by bitcoin network. The metric is expressed in terawatt-hours (TWh). To get annualized volume in terawatt-hours we multiply the consumption by 24 hours and 365 days.
+
+A 100-day moving average was applied to hashrate to make the final result less dependent on the short-term hashrate fluctuations.
+
+Assumptions, used in this study, are very conservative. It means that the results are in the lower limit of the range of possible volumes, and the actual electricity consumption can be higher.
+
+A detailed explanation is provided here: https://www.blockchainanalytics.pro/btc/electricity-consumption/
+
+Results
+
+Currently, annualized electricity consumption in bitcoin network is 57 TWh. To help readers get an idea of how much electricity the bitcoin network consumes, a comparison with some countries is provided alongside.
+
+Portugal consumes 49 TWh per year, Romania – 50 TWh, Czech Republic – 59 TWh.
+
+Some more numbers for comparison:
+
+In 2017 the bitcoin network consumed almost 5 TWh . For example, Jamaica consumes slightly more than 3 TWh per year
+
+the bitcoin network consumed almost . For example, Jamaica consumes slightly more than 3 TWh per year In 2018 the bitcoin network consumed almost 29 TWh . It’s just about Nigeria’s yearly consumption
+
+the bitcoin network consumed almost . It’s just about Nigeria’s yearly consumption In 2019 the bitcoin network consumed 43 TWh. Slightly more than New Zealand’s annual needs
+
+According to conservative estimates, the bitcoin network will consume more than 70 TWh in 2020. This is on a par with Chile, a country with 18 million population.

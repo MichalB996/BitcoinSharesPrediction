@@ -1,0 +1,37 @@
+DATE:  27.08.2019, 21:36:41
+TITLE: RADAR Unveils Lightning Network App Store
+URL:   https://bitcoinmagazine.com/articles/radar-continuing-push-into-bitcoin-unveils-lightning-app-store
+
+Ring in the new bitcoin halving cycle the right way: with us!
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+RADAR, a cryptocurrency company known for its RELAY wallet-to-wallet ERC20 token trading, is now building tools for Bitcoin’s Lightning Network.
+
+The Homepage of the Lightning Network
+
+Founded in 2017, RADAR’s primary focus has been on Ethereum, but in 2019, the somewhat-under-the-radar company came out of the woodwork with its latest product suite, ION. Branded as the “homepage of the Lightning Network,” ION acts as a central access point to practically anything Lightning. This newcomer to the Bitcoin space is expanding its offerings with a newly launched Lightning app (LApp) store, which aggregates popular Lightning wallets, services and other applications for users on RADAR ION’s website. Featured applications currently include Fold’s Lightning Pizza, Bitrefill’s Thor services and the Y’alls blogging platform.
+
+Branching out from Ethereum to Bitcoin, ION is RADAR’s second product. Its inspiration, according to Beatrice Leung, the company’s product lead, came from researching the “pain points” of Lightning’s distributed model. The idea was to create a hub for all of the Lightning Network’s working parts and provide a primary point for users to access all of these services, software and applications.
+
+“We launched ION in January [2019] with basic onboarding guides and limited developer tools,” Leung said. “Immediately, our users started requesting help getting connected to Lightning applications and Lightning applications requesting to be added to our guides.”
+
+Its repository features guides and download links to popular self-custody wallets like Zap, Breeze, Lightning, Eclair and custodial wallets like BlueWallet and Wallet of Satoshi. It also includes links to Twitter’s Tippin.me extension and Pierre Rochard’s Lighting node launcher. There’s a step-by-step guide for connecting to ION’s Lightning node for payment routing, links to community resources (Like Reddit, Slack, a Lightning developer mailing list, etc.) and an entire page devoted to developer tools.
+
+Leveraging LApps
+
+The fresh-out-of-the-box app store is the latest installment in ION’s one-stop suite of Lightning services. When using ION’s LApp portal, users can leverage a connection to ION’s Lightning node to route payments to any application listed on the store. As Leung put it, “[t]his decreases the hassle of managing multiple channels and save[s] time and on-chain transaction fees.” The service is not custodial and doesn’t levy any additional fees from the user.
+
+Leung told us that RADAR had in mind the user interfaces of “the app stores we’re familiar with on our computers and phones” when designing its own, aiming to make it “simple, intuitive, and well-curated.”
+
+From it, users can access Bitrefill’s Lightning-powered gift card exchange, receive sats back on Lightning purchases on Fold and blog through Y’alls. There are also portals to Microlancer, a Lightning-powered gig economy app; a few Lightning gambling sites and Satoshi’s Games; a temporary phone number generator for receiving SMS messages (one text costs 500 sats); a Lightning paywall generator; and a data feed API, which offers stats-for-sats on data involving the crypto market and, interestingly, the National Football League and National Basketball Association.
+
+There are more novel LApps still, namely the Block Clock, a real-life display board whose message users can change by sending a Lightning payment, and Pollo Feed, a long-standing application that lets you send Lightning payments to feed a coop of chickens (which, if poultry voyeurism is your vice, you can then watch eat on the LApp’s live feed of the coop).
+
+Currently featuring 17 LApps, ION is open to applications for additions to its store’s lineup, the team told Bitcoin Magazine, adding that each LApp’s developers are verified and the LApps themselves tested before they are featured on the store. Before listing a LApp, ION opens a payment channel with its provider to make connecting to these applications easier for users.
+
+While the company says that it isn’t quite pivoting away from Ethereum, it does see the Lightning Network as “a promising frontier” for future exploration and development. ION, which launched in 2019, has piggybacked on the growth that the Lightning Network has enjoyed. For its part, it will continue to build tools like its app store in a bid to drive users to the network.
+
+“The Lightning Network has doubled in size in 2019, and we’ve seen tremendous growth firsthand with ION,” Leung concluded. “We’ve hosted multiple hackathons and events, and continue to see usership increase across all our tooling. The recent launch of the app store is merely the beginning; expect additional features and products from the ION team this year that will continue to foster network adoption.”

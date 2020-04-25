@@ -1,0 +1,45 @@
+DATE:  14.09.2019, 11:00:40
+TITLE: A DIY Bitcoin hardware wallet for $110? This developer explains how
+URL:   https://decrypt.co/9141/a-diy-bitcoin-hardware-wallet-for-110-this-developer-explains-how
+
+Justin Moon, founder and instructor at Bitcoin workshop BUIDL Bootcamp, has created a do-it-yourself Bitcoin hardware wallet—that can be bought in parts for $110. The device, currently called the BitBoy, can send and receive bitcoins.
+
+On top of the basics, it has two security features that make it stand out from other Bitcoin hardware wallets. It is stateless, which helps protect the device from losing funds, and it uses a QR-code-based, air-gapped feature to help keep it safe from hacks (more on those later). And these two features, combined with its low price and low barrier to entry, sent Crypto Twitter into a frenzy.
+
+Moon posted a video—which has been watched more than 60,000 times—that showcases the retro-looking device and how it works. We caught up with the Austin-based instructor to find out more.
+
+Moon told Decrypt that he only got into Bitcoin last summer and decided to create the BitBoy as a fun teaching project.
+
+“Building a hardware wallet is a fantastic way to learn about Bitcoin private keys,” he said.
+
+The instructor added that having a homemade option helps to achieve true self-sovereignty, since pre-packaged software could be bugged or hijacked during the supply-chain process. Instead, buying bog-standard computing equipment, such as computer chips, and building them into a hardware wallet should help to keep thieves at bay.
+
+But the project wasn’t a one-man job. Moon said that Stepan Snigirev of Bitcoin hardware platform CryptoAdvance helped him compile some of the devices' libraries and that he also repurposed some code from Jimmy Song's recent Programming Bitcoin book.
+
+As a result, BitBoy is a device that doesn’t behave like typical Bitcoin hardware wallets. It doesn’t store users’ private keys (passwords that allow the user to spend their bitcoins)–it’s a device for signing Bitcoin transactions, when the user wants to send some bitcoins. This helps the device stay more secure.
+
+Traditionally, to create a Bitcoin transaction you will typically need to be connected to the internet. To complete the transaction, you need your private key, but if the device is connected to the internet, you’re at risk of exposing your private key, and therefore all your bitcoins, to the internet. BitBoy keeps this part of a transaction offline.
+
+The internet-connected device sends the transaction (yet to be signed) to the device. The device signs it and sends it back. Then the signed transaction is broadcast online to the Bitcoin network. In short, it allows you to spend your bitcoins while minimizing the risk of exposing your private keys to the world.
+
+The Bitcoin wallet’s main features
+
+The bootstrapped hardware wallet has two main features that make it stand out from the crowd.
+
+First, it is stateless. This means the device wipes any data it has processed whenever it is shut down, deleting all memory of the user’s private keys. As a result, the user has to type their private key in each time they use the BitBoy.
+
+While this sounds like a serious pain point, it makes a lot of sense. While the device isn’t connected to the internet, it will be running a few simple programs and will interact with a device that is connected to the internet. Therefore, while slight, there is still a risk that it could be compromised. By being stateless, it helps to keep the user’s bitcoins safe.
+
+Second, it uses QR codes to interact with the device connected to the internet. This creates an air-gap between the two devices, making the whole process much harder to infiltrate (try hacking air). It’s actually the same process the SafePal S1 crypto wallet uses—which we found really straightforward.
+
+Alternatives, such as using USB cords, are riskier, according to Moon. “There are many published attacks where, for instance, power consumption leaks private keys or a malicious USB cord installs malware,” he said, adding, “Air-gapped QR codes are much better—they are a data-only communication channel.”
+
+What’s impressive about BitBoy is that it achieves both of these, while keeping to a tight budget.
+
+What’s next for the wallet?
+
+Moon is now working on a complimentary desktop application to be able to safely do multisig bitcoin transactions. A multisig transaction is where two or more keys are used to sign a Bitcoin transactions. These can be held by one person or multiple people and are often used for security reasons.
+
+Moon added, “I realized this toy could actually be useful in a multisig setup—that it wouldn't take much work to be one of the three best multisig wallets in the world.”
+
+But whether this would introduce any security risks is yet to be seen.

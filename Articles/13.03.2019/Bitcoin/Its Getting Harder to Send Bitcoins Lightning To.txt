@@ -1,0 +1,65 @@
+DATE:  13.03.2019, 08:00:36
+TITLE: It’s Getting Harder to Send Bitcoin’s Lightning Torch – Here’s Why
+URL:   https://www.coindesk.com/its-getting-harder-to-send-bitcoins-lightning-torch-heres-why
+
+An experiment pushing the boundaries of crypto payments, bitcoin’s “Lightning Torch” has so far grown from a transaction worth a couple dollars to a global game whose users have included Twitter CEO Jack Dorsey and LinkedIn founder Reid Hoffman.
+
+But in the process of passing the Lightning Torch from one person to another, each recipient adding value each time, users have brought to light a lesser-known problem with the lightning network itself.
+
+The problem is that when some users try to retrieve the torch, they find out they can’t.
+
+“#LNTrustChain was designed as a social experiment – but due to overwhelming success, it turned into a stress test of channel liquidity,” tweeted pseudonymous bitcoin enthusiast “BTChap” alongside a “that escalated quickly” GIF.
+
+This problem goes to the foundations of the lightning network: channels. To use lightning, you need to put money into a channel with another person. Some of the money sits on your side of the channel and some on the other side. Or all of it might be on your side or vice versa.
+
+But say you’re looking for money for your services. Or, in this example, you want the Lightning Torch. You need to have some money on the other side of the channel – called “incoming liquidity” that your counterparty can then push to you. The problem is that “liquidity” isn’t necessarily going to be there.
+
+“This concept is still not widely known and I think some people with big enough channels failed to receive the torch due to missing ‘incoming’ liquidity,” said “Stadicus,” a lightning developer known for putting together a popular guide for setting up bitcoin and lightning nodes on hobbyist computers.
+
+It all sounds a bit odd and confusing, but the idea is that all these nitty-gritty details wouldn’t be visible to the end-user once the network has more liquidity.
+
+Educating effect
+
+Still, that isn’t changing the fact that today, the Lightning Torch is becoming too large for the network now that it contains $150.
+
+“Since the torch [has] became larger and larger, the number of channels providing sufficient liquidity became smaller and smaller,” BTCChap told CoinDesk.
+
+You can think of it in terms of a famous quote from sci-fi writer Arthur C. Clarke: “Any sufficiently advanced technology is indistinguishable from magic.”
+
+Lightning isn’t quite at the “magic” stage yet. The inner-workings and springs are popping out all over the place. As such, some users have had to do a little extra work to pass on the torch. Some have split up their lightning payments into batches to get the full payment over to the person, Linux and lightning developer Rusty Russell told CoinDesk.
+
+Then, going off of what Stadicus said earlier, some users need incoming capacity in order to accept payments. Some users have gone to recently-launched lightning products, such as Bitrefill’s Thor, to tackle this problem.
+
+Stadicus, when he ran into problems retrieving the torch (in the torch’s very early days), got help from a friend on Twitter.
+
+“I just set up my Lightning node a day before and the one incoming channel I had was big enough, but not well connected. So @meeDamian opened a channel to me and pushed the torch directly with that single bitcoin transaction to my lightning node,” Stadicus said.
+
+But after that the payment was smooth.
+
+“Coming back to your question about the liquidity, I think that it had quite an educating effect, also on the current limitations of the lightning network, and unfortunately pushed many people to custodial wallets like [Blue Walet], as this takes care of these kind of kinks,” Stadicus told CoinDesk.
+
+That said, the creator of the torch, the pseudonymous “Hodlonaut,” is less certain it’s had such a big impact.
+
+“Generally my impression is that most passes of the torch have worked with little issue, and that the slower pace of the torch is more due to other reasons,” Hodlonaut said.
+
+“All in all [it’s] a fun stress test for the lighting network, especially in routing payments bigger than just a few cents,” Stadicus added.
+
+A possible solution
+
+Even long-time Bitcoin Core contributor Pieter Wuille joked about the liquidity “problem,” though in a tongue-in-cheek way, implying that fiat money doesn’t have the same abilities as lightning.
+
+In this way, some developers argue it’s expected that a network so small and new would have liquidity issues and that it will get easier as more money enters the network. Others think it could continue to be a problem in the long-term.
+
+On the other hand, technologists argue that the lightning network isn’t exactly suited for larger payments anyway. Users can continue might continue to use regular, on-chain bitcoin transactions for that.
+
+But developers are also working on technology that they hope will help with the problem – at least a little bit.
+
+Right now, there are limits to lightning. Say you have three lightning “channels” open, each carrying 1,000 satoshis. You want to get 2,000 satoshi to someone. The technology so far won’t let you join two of your 1,000-satoshi channels together to form a 2000-satoshi payment. This limitation makes it much less practical to make larger payments over the lightning network.
+
+But next-generation solutions like Atomic Multi-Path Payments (AMP) are in the works, and they’ve been added to the 1.1 specification roadmap, in part, because they’ve been highlighted by the Lightning Torch.
+
+Russell concluded:
+
+“[The torch] does show that AMP is definitely something we need already.”
+
+Flare image via Shutterstock

@@ -1,0 +1,31 @@
+DATE:  23.08.2019, 08:20:28
+TITLE: Amazon Cloud Outage Caused Major Issues at Some Crypto Exchanges
+URL:   https://www.coindesk.com/amazon-cloud-outage-causing-major-issues-at-some-crypto-exchanges
+
+Problems with Amazon’s cloud service, AWS, are disrupting services at some cryptocurrency exchanges on Friday.
+
+The Binance exchange is seeing problems internationally, according to its CEO Changpeng “CZ” Zhao, who tweeted:
+
+It’s causing some 500 error messages on APIs and affecting some withdrawal processing — CZ Binance (@cz_binance) August 23, 2019
+
+The KuCoin cypto exchange is also saying there are problems with its AWS Tokyo-hosted services.
+
+The firm states on its website:
+
+“Due to the overheating of part of our chassis in the machine room we deployed in AWS, Tokyo, part of our services might become unavailable. The engineering operation team is currently deploying relevant resources of high availability across regions to deal with any possible emergencies that might happen. Some services might be effected during the deployment.”
+
+Founding partner at Primitive Ventures Dovey Wan has tweeted that a number of Asian exchanges are affected and the AWS issues are producing erratic market data.
+
+“Many Asian exchanges see price instability (and trades were able to execute, yes you can buy extremely cheap Bitcoin if you had limit orders there),” she wrote.
+
+She also tweeted a screen grab, apparently of order book data from an unnamed exchange that suggests traders have been able to buy 45 bitcoin for less than $1 (in the tether stablecoin, USDT). The price of bitcoin at time of writing should be around $10,190, according to CoinDesk’s global average price index.
+
+
+
+In a similar instance, some users were able to execute trades on bitcoin for as low as $0.32, based on CITEX exchange’s order book (see long green candle on image below). The candle appears backed by high volumes as orders were presumably triggered by the super-low price.
+
+AWS’ status page indeed indicates that there are problems at its Tokyo facility. The firm says it has found the root cause and the situation is starting to return to normal.
+
+CoinDesk has reached out to confirm the reports of bitcoin purchases at sub-$1 levels and will update this article if more information is received.
+
+AWS image via Shutterstock

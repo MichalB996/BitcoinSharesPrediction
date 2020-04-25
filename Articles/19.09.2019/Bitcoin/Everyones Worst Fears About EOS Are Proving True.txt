@@ -1,0 +1,229 @@
+DATE:  19.09.2019, 08:00:54
+TITLE: Everyone’s Worst Fears About EOS Are Proving True
+URL:   https://www.coindesk.com/everyones-worst-fears-about-eos-are-proving-true
+
+The Takeaway:
+
+EOS is the world’s seventh-largest blockchain by market cap, with a value topping $3 billion since February 2019.
+
+However, the project has long been plagued by fears that its structure was too centralized, and now the lion’s share of entities that govern the chain are in China, prompting fears of state intervention.
+
+EOS contributors devoted to building decentralized apps (dapps) and development tools for the blockchain are losing clout – and making little or no money from contributing to the health of the ecosystem. One of them publicly disavowed the blockchain earlier this month, citing the excessive power of the largest EOS token holders.
+
+Block.One, the company that launched the code behind EOS following a $4.1 billion ICO, is the largest token holder. Critics say it could easily redefine governance on the chain but has yet to take action.
+
+In early September, one of the small companies that helped to get the EOS blockchain off the ground called it quits.
+
+EOS Tribe, which participated in the launch of the first EOS chain, announced on Steemit that it was stepping away from EOS as a block producer (BP) candidate, focusing on other blockchains and other implementations of the EOSIO software.
+
+EOS Tribe’s Eugene Luzgin wrote in the post:
+
+“We at EOS Tribe have never participated in the game of vote trading and stayed true to our principles, and hence while we leave EOS as Block Producer, we are also free to speak truth and give warnings to the rest.”
+
+Which, as they say, is a lot to unpack.
+
+Luzgin left, in short, because he said it is no longer possible to earn funds for maintaining the blockchain without support from major EOS whales, the colloquial term for those with very large token holdings. Those whales are overwhelmingly supporting BPs located in China. There are 21 BPs at any time who establish consensus on the chain, make governance decisions and earn substantial rewards.
+
+This has become a widespread point of concern among longtime participants in the EOS community, for reasons that include centralization and threatened censorship-resistance, according to an investigation by CoinDesk.
+
+The BPs that Luzgin believes have the strongest technical proficiency have overwhelmingly been relegated to lower-tier rewards or no rewards at all.
+
+“They effectively have a brain-drain now,” Luzgin told CoinDesk in an interview.
+
+He’s not alone in his concerns, though it might be easy to dismiss doubters’ complaints as a simple East-West divide – two EOS constituencies that literally speak different languages failing to build a consensus about the protocol.
+
+There is no proverbial smoking gun showing that the present configuration of BPs is bad for the $3.8 billion blockchain, but there is a mountain of evidence bolstering the case for concern.
+
+DPoS in action
+
+EOS is the world’s seventh-largest blockchain by market cap as of this writing. It went live in June 2018, after a yearlong initial coin offering (ICO) that raised $4.1 billion in crypto for Block.One and a tumultuous process following the release of EOSIO software, the code that powers EOS and its forks.
+
+The chief feature of EOS was always its most controversial: EOS uses a consensus model called delegated proof-of-stake (DPoS), where higher throughput is achieved by decreasing the number of nodes that participate in consensus.
+
+Before EOS launched, the configuration was widely panned by crypto investors as too centralized. Blockchain Capital’s Spencer Bogart shared an opinion held by many in April 2018 when he wrote that blockchains that compromise on permissionless-ness “will end up as less efficient varieties of today’s centralized platforms.”
+
+DPoS can take many forms, but on EOS, 21 nodes have all the power over the chain. These 21 nodes are chosen by token holders, who stake EOS coins in a vote for up to 30 BPs. The ones with the most votes serve in the top 21, and the vote is effectively continuous. That means BPs can move in and out of the top 21 at almost any time.
+
+As of this writing, a majority of the BPs indicate their locations as within China. Sources tell CoinDesk that multiple others are also located in China despite outward appearances.
+
+CoinDesk surveyed all the top BPs as of Sept. 6, with questions about what they viewed their role on the blockchain to be and how they were supporting its users. Six sent back detailed answers. CoinDesk found no way to contact three others.
+
+To produce blocks
+
+The top 21 earn significant revenue, and another roughly 50 (this number is not fixed) earn meaningful revenue as standby BPs, both sharing a portion of the 1 percent annual inflation of EOS tokens.
+
+With EOS Tribe’s departure, Aaron Cox of Greymass, a BP candidate, told CoinDesk:
+
+“I can’t help but think that’s the new trend. This downward spiral (which ultimately is just a race to the bottom) isn’t a good situation to be in, as rent seekers continue to take over. And if it continues will probably become more dire as more of us are cut off.”
+
+Many BPs that were once often seen in the top 21 now no longer even qualify for rewards as standby BPs, including BP candidates such as EOSSphere, ShEOS, EOSAmsterdam, EOS Detroit, EOS Dublin and EOS Venezuela.
+
+Greg Simpson built EDNA, which is designed to enable users to monetize their genetic information, with the original EOS in mind. EDNA is a decentralized application (or dapp) running on the software Block.One created.
+
+But these days he’s hedging by using EOS and its two main forks, Telos and Worbli, because of uncertainty about EOS due to what he perceives as inadequate governance.
+
+Still, he’s not ready to give up yet. This has been a rapidly changing space.
+
+“It wasn’t this space three months ago. And it won’t be the same space three months from now,” Simpson said. “Really no one can project out what it’s gonna look like in a year.”
+
+Either way, EOS has not proved to be the high throughput chain beloved by enterprise clients that its progenitors touted it to be. Mainly, it has become a chain for running gambling dapps.
+
+Luzgin lamented developers who have put all their creativity into EOS moving down into standby BP or even unpaid status. He pointed to companies like Bitfinex and Huobi who are participating in its consensus.
+
+“EOS is a just a side gig for them. It’s just extra revenue,” Luzgin said, comparing the exchanges to companies that are all-in on the blockchain’s potential. “That view is very different. They aren’t really participating in the community.”
+
+Huobi and Bitfinex were among a handful of BPs that never replied to CoinDesk’s inquiries.
+
+Outsider history
+
+EOS has faced skepticism from the broader crypto world from the start. Shortly after EOS launched, crypto scions looked askance again when the leading BPs moved to right a wrong.
+
+Among their first collective acts, BPs froze seven accounts that had been shown to hold stolen tokens (tokens attained by tricking users during the migration of assets from ethereum – upon which Block.One ran the token sale – to the actual EOS blockchain).
+
+The decision to freeze those accounts presaged the controversy the blockchain is facing now, because the top BPs did so without any kind of agreed-upon governance process. A “constitution” had been drafted, but it had not passed a referendum of EOS users.
+
+It was never entirely clear where legitimacy originated from on EOS, but when the chain started, 15 percent of the tokens needed to be staked for a vote in order for it to launch. So that 15 percent figure became the consensus figure for giving a governance document legitimacy, but it never happened.
+
+That consensus was documented as a rule in a draft constitution that never got ratified.
+
+One of the BPs at the time, EOS New York, wrote after the vote to freeze the seven accounts about its ambivalence in freezing funds without any legitimized authority to do so.
+
+The organization’s statement read:
+
+“As a community, it should be our top priority to develop the mechanisms that are capable of polling the token-holder community and obtaining the on-chain consensus required to move issues, like the Constitution, forward.”
+
+EOS New York was one of the original 21 BPs at the chain’s launch.
+
+Eventually, EOS would jettison the whole idea of a constitution for governing the chain. Dissatisfaction in the community around governance would grow, which brings us to today.
+
+Brock Pierce, an early member of the Block.One team and still an active member of the EOS community, would make waves in June 2019 with a speech at the Tulip Conference when he suggested that EOS is now governed by a “Chinese oligarchy.”
+
+And while it’s true that a majority, if not a supermajority, of BPs right now are based in China, Cox of Greymass insists that the concern is not specifically about China itself. He told CoinDesk:
+
+“The threat itself in this centralization is due to shifting regulations and potential risks they may pose. If the BPs for EOS were 90 percent in India, Brazil, or any other country – the same concerns would still be valid in regards to centralization.”
+
+In his post, EOS Tribe’s Luzgin noted that shortly after EOS launched it started to see BP candidates joining the top 21 who hadn’t participated in the launching of the chain at all, propelled there by supportive votes from whales. By the summer’s end, Block.One, still the largest holder of EOS, started to make noise about voting its stake in favor of the teams it deemed the most technically proficient.
+
+Block.One holds so many tokens that it could all but handpick the top 21 BPs (or at least exclude any BP that did not get its nod). Yet more than a year later, it still has not cast its first vote.
+
+Shortly after the Tulip Conference, Block.One CEO Brendan Blumer wrote a post on the main EOS Telegram channel, where he addressed a number of issues without getting very specific. On voting, he wrote:
+
+“EOS governance is tricky and is not something we’ve chosen to ignore, but have been waiting for the right time to get involved, and in a way that upholds and furthers aligns and decentralizes the community.”
+
+Today, here’s what EOS governance has settled on: At any time, any decision can be made if 15 of the 21 BPs move to support it. It doesn’t matter if in the next set of blocks those BPs change dramatically. To reduce the prior decision, that new set of BPs would need to establish a new supermajority of BPs.
+
+There is a system in place to run a vote across all EOS holders, but now, according to EOS New York, referenda are simply a way of gauging the interest of holders.
+
+Dapp disappointment
+
+One of the complaints that members of the community often make about the current crop of BPs is that they don’t prioritize building new dapps that will attract other users to the blockchain.
+
+The theory had been that BPs would use inflation rewards to fund new tools, code improvements and dapps to improve the ecosystem. One of the first consequences of EOS’s failure to agree upon a shared decision-making process was the burning of approximately $167 million in the EOS savings account that had been designated for the worker proposal system.
+
+As previously reported, the proposal system had been a way to fund dapp development on EOS (as well as community functions, lobbying costs and security audits), but without a way to agree on how to distribute the funds, they just accumulated, diluting the market cap to no purpose.
+
+So, all 34 million EOS got burnt on May 8, 2019 – with potential funding for thousands of new applications going with it.
+
+Broader changes were already underway as that decision was finalized, though. In February, EOS New York proposed an EOS User Agreement (EUA). In April, the EUA was ratified by 15 of the 21 BPs at the time, according to a spokesperson for EOS New York, who took a role shepherding it through.
+
+What’s notable about the EUA is what it doesn’t address: in particular, vote-buying. The interim constitution explicitly forbids vote-buying but the EUA is silent on the topic.
+
+There had always been a concern that EOS BPs could protect their lucrative position on the network by sharing block rewards. A top BP can earn about 900 EOS a day, which works out to over $1 million per year at current prices.
+
+Said Greymass’s Cox:
+
+“EOS was one of the few DPoS blockchains where [vote-buying] wasn’t happening until earlier this year with the introduction of the EUA. Many (maybe the majority?) other DPoS blockchain operate under this model, some even with it baked right into their protocols.”
+
+In an email to CoinDesk, Newdex, a decentralized exchange on EOS, explained how its affiliated company, Newpool, spends its block rewards.
+
+“More than 90 percent of the pool rewards will be given to token holders, that incentivizes token holders to hold EOS tokens for long and also increase their participation in the community,” a spokesperson for the company told CoinDesk.
+
+Another highly rated BP, Big One, also welcomes participants to stake votes for the blockchain and profit for doing so. Infinity Stones invites staking on any number of protocols, including EOS.
+
+“The thing about vote-buying is that at this point there’s technically nothing against the ‘rules’ about it,” Cox said. “There’s not much value-add happening in this new market dynamic, just the shuffling of meaningless inflation.”
+
+Whatever anyone thinks morally about the optics of vote-buying, the consequence is this: BPs engaging in vote-buying invest in ensuring their leadership positions and not in the actual ecosystem. That’s what frustrates those who want to see EOS grow.
+
+EOS Tribe’s Luzgin calls it the difference between “builders” and “miners.” Builders, he argues, want block rewards to fund larger contributions. Miners want the block rewards. The latter strategy has been rapidly gaining ground.
+
+Vote-buying to guarantee block rewards raises a philosophical question: Is it appropriate to expect BPs to spend part of their resources on new tools and dapps?
+
+Where is it written that that’s an obligation of BPs? The answer: It’s not.
+
+There was a consensus among those who participated in the launch of the blockchain that a BP should be reinvesting in EOS. In fact, the thinking then was that a company could earn votes from community members for their BP candidacy by building good, widely used tools. That strategy hasn’t held up.
+
+And not everyone agrees that it should even be an expectation. One BP, EOS Wiki, responded to a question about what the company had done to help create new dapps in a statement delivered via Telegram:
+
+“We would not answer this question although we are incubating dapp/app. All is because this is not a ‘legal duty’ of being a block producer, please read the EUA.”
+
+Performance consequences
+
+Some sources hint that there have been bad signs for the fundamental performance of the blockchain. Others say everything is mostly fine.
+
+“We see top BPs missing not just blocks but whole rounds,” Luzgin told us. “They are supposed to produce 12 blocks. They miss all 12.”
+
+Here’s what CoinDesk has been able to discern: One of the BPs that Greymass and EOS Tribe still pointed to as a builder of useful things on the network and one that still mostly manages to stay in the top 21, Attic Lab, out of Ukraine, was able to point to one particular metric where it stands out.
+
+Aloha EOS has tracked a benchmark test for BPs since the very early days, and Attic Lab has consistently scored the highest on those measurements. Aloha EOS scores the benchmark by asking each BP to run a calculation and timing it. Recently, Big.One, the second-most-backed BP, and the BPs run by two exchanges (Bitfinex and Huobi) have scored the lowest.
+
+Another way that dapp developers see EOS as losing ground is in the area of application program interfaces (APIs). APIs make it easier for apps to query the state of the chain and push transactions. The most robust APIs allow a dapp to query the full history of EOS. Since the blockchain is generating thousands of transactions, this is an expensive service to offer.
+
+Cox argued:
+
+“BPs should be providing API access since they are the ones building the actual blocks, and providing direct access to their internal networks (through APIs) gives users a direct path to submit transactions.”
+
+On Sept. 6, 11 BPs were currently providing some kind of API at that time, according to Cox. There are different APIs and different levels of quality of APIs, too. Cox said that many dapps have told his company that its is the fastest, this despite the fact that Greymass is, lately, a standby and not a full BP.
+
+“Subjectively, it feels wrong that the lower-ranked BPs are the one shouldering this cost,” he wrote, while also noting that a good API requires hardware and skill to run, such that even well-funded BPs may not be equipped to run one.
+
+“As the blockchain grows, it will be harder to catch up,” EOS Tribe’s Luzgin said, because it’s such a gigantic amount of data.
+
+On Sept. 13, EOS Nation’s BP scanner only showed two entities providing full-history APIs.
+
+EDNA’s Simpson told CoinDesk that the unreliability of some BPs required EDNA to revise its code so it checked more than one API, for when some weren’t operational or when blocks were dropped.
+
+And it is worth noting that there are other services a BP can provide that can also benefit the community that don’t fit neatly into these buckets.
+
+For example, CertiK, a security company, noted that it provides security services to the network rather than APIs. Newdex said it directed votes to BPs providing useful services in order to help them earn funds.
+
+Meet.One has been providing news about EOS in Chinese languages for that audience, contributing code updates, new developer tools and funding meetups in China.
+
+Still, most of the leading BPs simply didn’t reply to CoinDesk’s questions about the current controversy around the blockchain’s leadership. This controversy is well-trod ground within EOS and its many, many Telegram channels.
+
+Those who believe the blockchain needs to advance await some kind of resolution. EDNA’s Simpson assessed the current crop of BPs, held in place by large positions taken by a relatively small number of users, and asked:
+
+“What is it that’s driving the vote? It’s certainly not innovation. It’s not production. It’s not making the blockchain more useable.”
+
+What’s being done
+
+Maybe EOS is fine. Maybe it’s in trouble. Either way, it’s worth casual investors knowing that a cadre of adherents to the protocol since the early days are growing concerned.
+
+At this stage, there is no one prevailing cause for concern about EOS. It is a blockchain seeing a large amount of use, but it also has not yet attained the status of a blockchain that attracts major companies looking for a highly secure database with high throughput. That’s what its strongest adherents had hoped it would become.
+
+“Block.One kind of screwed up royally because they could have used their leverage to steer in the right direction, but they chose not to do it,” Luzgin said.
+
+Perhaps most tellingly, Block.One itself has yet to launch (or really say anything more about) the service it announced in June with a glitzy and expensive rollout, Voice, its completely de-anonymized Facebook competitor. Block.One said the service would be built on the public EOS blockchain.
+
+Lumi Wallet recently compiled a comprehensive list of reform proposals floated by different parts of the community, assessing the pros and cons of each approach.
+
+Lumi CEO Diana Furman told CoinDesk:
+
+“I was convinced that change is needed by the very fact of the discussion – we have been following the EOS community for long, and everyone, from ordinary users to the main figures of Block.One, has been discussing this topic. If there is a discussion, it means something needs to be done.”
+
+Meanwhile, whole other chains have expressed their preferences for change by forking the blockchain and opening new instances of the EOSIO software. The two most notable implementations are Telos and Worbli.
+
+Telos has added a number of innovations that ensure potential BPs are actually ready to serve, but its most notable reform was made in its genesis block, where Telos capped every account’s token holdings at 40,000, thereby curtailing the power of whales on the network.
+
+Worbli was created with financial regulation and certain consumer protections (such as account recovery) built in, with a focus on the financial industry.
+
+Meanwhile, the broader community is waiting on Block.One to make any kind of move at all. Some have pushed it to turn a portion of its tokens over to a proxy, permitting users to deploy them as they saw fit, even to just enforce a rotation of BPs.
+
+“Any centralized blockchain will be looked down on,” Luzgin said. “I really like the technology behind it. … [It’s the] governance that’s screwing it now.”
+
+Block.One did not comment to CoinDesk as of press time.
+
+Cox summed up the situation this way, expressing a wary sentiment shared by many who have remained involved with the EOS blockchain:
+
+“Evidence is hard to come by in concrete examples of damage, and even as to why any of this is a bad thing. I do at this point think we are just seeing the tip of the iceberg though.”
+
+Image: Block.One CEO Brendan Blumer at the launch event for Voice, June 2019, via Block.One

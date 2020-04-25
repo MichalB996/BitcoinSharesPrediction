@@ -1,0 +1,55 @@
+DATE:  12.01.2019, 00:10:14
+TITLE: A Look at Some of the 'Next Generation' Bitcoin Mining Rigs Available Today
+URL:   https://news.bitcoin.com/a-look-at-some-of-the-next-generation-mining-rigs-available-today/
+
+A Look at Some of the 'Next Generation' Bitcoin Mining Rigs Available Today
+
+Over the last year, cryptocurrencies have lost a lot of value yet bitcoin miners continue to process transactions and earn block rewards. A bunch of new mining rigs were announced in 2018 that packed some serious hashrate. As the new year begins, some of the top devices that process between 28-76 trillion hashes per second (TH/s) can be now be purchased from ASIC manufacturers and third party vendors.
+
+Also Read: Nick Szabo: Central Banks May Turn to Cryptocurrency Reserves Over Gold
+
+The Top SHA-256 Mining Rigs of 2019
+
+Last year there was a ton of new mining rig announcements. Many of the new devices announced claimed to have next generation 10 nanometer (nm) and 7nm semiconductors produced by famous chip foundries like Samsung and the Taiwan Semiconductor Manufacturing Company (TSMC). Other machines purported to offer more efficiency, quieter sound, and some of the mining rigs offered a water cooling system as well. Some new releases didn’t fare so well, like when the Japanese manufacturer GMO Group announced it “will no longer develop, manufacture, and sell mining machines.” Then there was the controversial Halong Mining, a startup that was supposed to be the new up and coming manufacturer in the crypto industry. The firm was accused of rebranding Innosilicon miners and the company’s website says people who want new machines need to subscribe to a waiting list.
+
+Then, towards the end of the year, a slew of other mining manufacturers, some of which have been reputable companies for years, announced new machines as well. Now that some of the next generation devices are available to the general public, through either the manufacturer or a trusted vendor, these machines will likely boost the network hashrate significantly. What follows is a preview of the top four mining machines that process large amounts of raw terahash and can be purchased today.
+
+Ebang Ebit E11++
+
+Last September news.Bitcoin.com reported on the China-based Ebang Communication announcing its Ebit Miner E-11 series that claimed to boast hashrate speeds between 30-44 trillion hashes per second (TH/s). Right now according to data from Asicminervalue.com, the E11++ miner is the most profitable SHA-256 miner (BCH & BTC) on the market, pulling in $1.12 per day with current bitcoin prices. When the new series was announced last year, the rigs were not available to the general public at the time but the devices can be purchased today directly from the manufacturer.
+
+The E11++ miner is $2,024 and the next batch of E11 series units will be delivered by March 2019. The machines boast a DW1228 10nm chip with an ideal hashrate of around 44 TH/s. Moreover, both the E11+ and the E11++ machines’ electrical consumption pull about 1980-2035W from the wall. So far the miner has consistently been the top machine in the world as far as earning daily profits since it was announced, but that may not be the case in March. The company’s two lower tier machines that process 30-37 TH/s are currently sold out.
+
+Asicminer 8 Nano
+
+The Asicminer 8 Nano is another rig that mines the SHA-256 algorithm at 44 trillion hashes per second. However, the difference between the 8nm equipped miner and Ebang’s E11++ is that the latter consumes about 2100W of power. Because of this difference, the Asicminer 8 Nano processes 44 TH/s but currently takes in around $0.75 per day in profit. The Asicminer company claims the machine boasts 189 8nm custom AM0813 chips and processes roughly “16384 hash cores on a single die.”
+
+The 8 Nano is cheaper than the Ebang device, at $1,790 per unit, but is way bigger than the average machine manufactured today. The 8 Nano weighs about 60 pounds and measures approximately 500 x 500 x 235mm in size. The machine’s fans also radiate a neon red glow and the device features a noiseless water cooling system. Customers can purchase machines today and the website states there are only 48 machines left at present. Because the miner was released last October, units have shipped to some customers and there are various 8 Nano reviews on Youtube and other forums.
+
+Innosilicon Terminator 3 (T3)
+
+Innosilicon has done well over the last year with its mining rigs powered by Samsung’s low power 10nm semiconductor technology. The Terminator 3 model, otherwise known as the T3, can be purchased as well and the first batch of shipments should be delivered by the end of January. The T3 specifications say the machine will mine at 43 TH/s with a power consumption of 2100W, giving the machine a profit of around $0.58 a day at current prices.
+
+The T3 is more expensive than the 8 Nano and the E11++ as it is currently selling for $2,279 per unit. The first batch of T3s are limited, the company’s website explains, and the limited second batch won’t be delivered until March. Delivery times are “first pay, first served,” Innosilicon emphasizes and all products are also “Asic Boost enabled with a proper license.”
+
+Bitmain Antminer S15
+
+The latest Bitmain Antminer product offers customers a maximum hashrate of 28 TH/s with a power consumption of 1596W. The S15 costs $1,249 per unit and the first batch of rigs are shipping between Jan. 11-20. The miner features two types of mining modes and is equipped with Bitmain’s custom 7nm chip. Like the Asicminer 8 Nano, the S15 doesn’t look like the average miner as it employs a parallel fan design to improve heat dissipation efficiency.
+
+Currently, according to data stemming from Asicminervalue.com, with current BTC and BCH prices, the S15 is profiting by $0.15 per day. Bitmain is also selling a lower tier S15 that produces 1 terahash less at 27 TH/s and will save the customer $45 in comparison to the 28 TH/s model. Bitmain says that customers utilizing the S15’s next generation 7nm chips and custom semiconductor packaging technology coupled with the new heat dissipation mechanism miners will save on electricity costs.
+
+Asicminer 8 Nano Pro
+
+The Asicminer manufacturer also has a machine called the 8 Nano Pro that claims to produce a whopping 76 trillion hashes per second. The mega-device pulls roughly 4000W from the wall and costs $11,600 per unit. Furthermore, customers must buy a minimum of five units per order. Still, at current bitcoin prices, the Asicminer units with 8nm custom AM0813 chips still scrapes by with $0.13 per day in profit. Again, like the company’s previous model, the 76 TH/s machine is huge at 500 x 1000 x 240mm and weighs about 150 pounds. The 8 Nano Pro also has a noiseless water cooling system, which has a noise level of about 48 decibels. However, unlike the firm’s 44 TH/s machine, the 76 MH/s Pro version doesn’t seem like it has done well as there are no resellers online or reviews on this specific device.
+
+Bitcoin Mining Facilities Hurting for Profits May Try to Leverage Next-Generation Machines
+
+So far, both the BTC and BCH networks which utilize the SHA-256 algorithm have seen significant drops in overall hashrate. The current Bitcoin Core (BTC) network hashrate is roughly 40 exahash per second (EH/s), while Bitcoin Cash (BCH) miners have around 1.5 EH/s today. Moreover, many of the older machines that produce far fewer hashes per second are in the red these days and are seeing significant daily losses at current market prices. Even the Ebang, Bitmain, and Innosilicon lower tier models that have been recently announced in the last three months are not profiting at all due to the depressed prices across crypto markets. New mining machines might give large facilities and even smaller miners enough edge to stay in the game, though, if they can get these products on time.
+
+What do you think about the top mining rigs in 2019? Let us know what you think about this subject in the comments section below.
+
+Disclaimer: Bitcoin.com does not endorse these mining products or services. Readers should do their own due diligence before taking any actions related to the mentioned mining company or any of its affiliates or services. Bitcoin.com and the author are not responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article. This editorial is for informational purposes only.
+
+Images via Shutterstock, Ebang, Asicminer, Innosilicon, and Bitmain.
+
+Need to calculate your bitcoin holdings? Check our tools section.

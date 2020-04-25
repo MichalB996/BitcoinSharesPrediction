@@ -1,0 +1,48 @@
+DATE:  10.03.2020, 16:30:00
+TITLE: Lex Sokolin: We Don't Need Libra, We Need A New System
+URL:   https://www.coindesk.com/libra-facebook-a-defi-all-we-decentralized-finance-defi-payment-rails
+
+Lex Sokolin, a CoinDesk columnist, is Global Fintech co-head at ConsenSys, a Brooklyn, N.Y.-based blockchain software company. The following is adapted from his Future of Finance newsletter.
+
+As I write this, Facebook is worth about $500 billion in market capitalization. The other members of the Libra Association (and the 1,500 other organizations interested in connecting to it) are probably worth another few $ trillion. Ethereum, on the other hand, is only about $20 billion in value. And yet, there are profound reasons why we should be paying attention not to regulatory movement around Libra, but to decentralized finance brewing on the open source network.
+
+The key mainstream piece of news is that Libra's approach to building its currency and payments network is likely to change as a result of governmental pressure. What started out as a desire to build a multi-currency portfolio of dollars, euros and other Facebook-selected moneys ended up running into the wall of sovereign opposition. While bitcoin (BTC) faces a similar wall, it is permissionless and therefore too squiggly to shut down. Not so with Facebook. We know exactly where its shareholders and operators are. As a result, we observe that you cannot create a new money without a new nation (e.g., Anon or 4chan nation). And if you live within another nation subject to its laws (e.g., the U.S.), well, you are subject to its laws.
+
+There continues to be a deep confusion about (1) an asset itself and (2) the operating infrastructure on which it travels. These are two entirely different propositions, and the difference cannot be hand-waved away. The nature of holding some investment and the exposure it gives you to the investment class is very different from the software on which it runs. The dollar and sterling may go up and down in value relative to each other – but that doesn't have much implication for the quality of the venue on which the trading occurs. Facebook was trying to do the former activity – re-build the actual dollar in a regulated, controlled environment.
+
+Facebook was trying to...rebuild the actual dollar in a regulated, controlled environment. Instead, it should be rebuilding the payment rails.
+
+Instead, it should be rebuilding the payment rails, which is why it is no surprise the Libra Association quitters are the companies that make payment rails: Stripe, PayPal, Visa and MasterCard. Those players are probably open to channeling new units of value across their super highways, but they shouldn't want to build competing ones. Once it becomes clear that the new unit of value ain't happening, what's the point of eating your own tail?
+
+Astute JPMorgan report
+
+JPMorgan recently published a fantastic equity-research style report on 2020 blockchain. There are a few connected, worthwhile points on the idea of cryptocurrency as an asset class worth referencing. First, if you are building the money itself, you are in the finance business and are taking economic exposure. That means, for example, that global yield curves become a problem. If 33 percent of global debt has negative interest rates, it might be hard for you to earn net interest income to sustain operations, which in turn may require customers to pay transaction fees on transfers, which gets you back to the existing banking/payments system already in place. To fix the math, you would need to build out a real capital markets business, which has at-scale liquidity networks, counterparties that can provide credit, and the buy-in of all the central banks in the system. That's a tough one for Facebook today.
+
+Source: Digital Assets Data
+
+Another conclusion I found compelling is the ongoing discussion about the diversification usefulness of digital assets. On the one hand, many people still hold the view that bitcoin is an apocalypse hedge and should go up when the entire world burns down. Hoard the digital gold next to your video game guns! However, the track record on this claim is not particularly clear as of yet, and correlations tend to creep up with global markets as shocks become more systemic. For example, bitcoin correlation with the S&P 500 and Gold both approached 30 percent at one point in 2019.
+
+The JPMorgan takeaway is that crypto assets can be country fragility hedges rather than general hedges. In advanced nations, they represent novel and different idiosyncratic risks related to technology adoption curves, internet meme virality, and the mood of Federal Reserve and other officials. But nations with challenged economic and financial infrastructure offer clearer proof points for economic improvement.
+
+Which gets me back to the core point: Stop thinking about the asset, and start thinking about its gears and engines.
+
+DeFi is a bigger revolution, potentially
+
+While the political responses to Libra are shifting influence and technology approaches, Ethereum is where the experiment is already happening. It boasts 88 million unique addresses (i.e., accounts), over 40 million smart contract calls in February (i.e., a request to/from a software), and nearly a million smart contracts created in the same month (see more growth statistics about it here.) An increasing amount of capital is being used as collateral – "locked" in the parlance of the industry – to power new financial machines.
+
+Via ConsenSys Codefi
+
+Further, the two charts here (above and below) show you the user growth, evolution, and interconnectedness between an emerging blockchain-based financial software industry (i.e., DeFi) between 2018 and 2020. Digital currency is collateralized on the right, invested across lending products in the middle, and then sent to multiple trading and derivative exchanges on the left.
+
+Via ConsenSys Codefi
+
+There is growth in the number of service providers, their specialization, and their users. There is also growth in the connection between these services, and the economic activity between them. This is both a strength and weakness. Systemic risk comes from too much interdependence. But so do network effects and a community.
+
+As more activity from real world economies is able to shift to public blockchains, this snapshot could be the seed from which the financial machine emerges. Of course, that transition is a massive assumption, and to date much of the economic activity of the digital world remains digital and aloof. However, there is evidence of movement.
+
+As you research these issues more deeply and think about the new software providers, do not treat them as investment managers, creating streams of return. The mistake would be to evaluate the investment quality of some particular subscale network token as unattractive and miss the bigger picture. You might spend too much time thinking about the Ethereum token, and not about its ability to power an asset allocation software like TokenSets (social trading) or PieDAO (roboadviser). To that end, the visualizations below give you the directionally correct comparison of a technology enabler, rather than the asset itself.
+
+The stunning thing about each of these offerings is not just that they are targeting a familiar use-case. Of course they are! Human nature does not change. Rather, it is that they target these use-cases while running on a common software infrastructure, being interoperable, and open source.
+
+To repeat – we are a stone's throw away from the global financial industry running on a common software infrastructure across asset classes, being natively interoperable and open source. Sounds good to me!
+

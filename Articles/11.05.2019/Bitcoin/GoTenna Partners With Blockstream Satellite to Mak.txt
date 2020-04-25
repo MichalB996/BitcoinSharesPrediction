@@ -1,0 +1,27 @@
+DATE:  11.05.2019, 19:57:02
+TITLE: GoTenna Partners With Blockstream Satellite to Make Using Bitcoin Without an Internet Connection Simpler
+URL:   https://www.coindesk.com/gotenna-partners-with-blockstream-satellite-to-make-using-bitcoin-without-an-internet-connection-simpler
+
+Sending bitcoin transactions without an internet connection just got a little bit easier.
+
+Announced at the Magical Crypto Conference on Saturday in New York City, Blockstream Satellite and goTenna are integrating their technologies to make it easier to send bitcoin transactions with technology used to onboard people without direct internet connections.
+
+Blockstream Satellite is a network of satellites deployed so that people across most of the planet can download a bitcoin full node, the most secure portal to the bitcoin network, even without an internet connection. That is, as long as they have a satellite receiver with Blockstream Satellite’s specific software installed.
+
+goTenna is a startup exploring technology that allows users to connect with others without the internet — to send text messages to others, for example. Instead, they have formed their own “mesh network” for sending messages. The limitation is that a user needs to connect to someone close-by, within a mile, to send a transaction.
+
+As of late last year, the goTenna device also connects to their bitcoin wallet on an Android phone that users can put bitcoin in and then use to send bitcoin transactions without an internet connection – as long as they’re able to connect to another goTenna user that has an internet connection.
+
+goTenna explained in a statement:
+
+“What this means for users is that they will be able to receive blockchain data via a satellite and send signed bitcoin transactions out via the goTenna Mesh network without a direct internet connection.”
+
+“The goTenna app is that it lets you send signed bitcoin transactions over our mesh network. If you’re local provider is censoring you or your connection is down for some reason, maybe due to a natural disaster, you can still get it to the internet,” said goTenna decentralized applications engineer Richard Myers in an interview with CoinDesk, adding that it also provides a more private way of sending bitcoin transactions.
+
+This integration is part of a larger effort to make it easier for people to send offline transactions if they need to. It also makes Blockstream Satellite, which perhaps sounds more like a sci-fi project than a thing that will actually help people, a bit more useful.
+
+“The need for this technology might not be in New York City, but other parts of the world. It could be useful there instead of centralized internet providers,” said Myers, adding that right now, users can send transactions with Blockstream Satellite using other technologies, such as high-frequency radio, but these technologies generally requires “more specialized knowledge.”
+
+This technology gives users one other option that Myers argues is easier. “It lowers the bar for who can do this kind of wizardry,” he said.
+
+Image via goTenna

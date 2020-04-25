@@ -1,0 +1,65 @@
+DATE:  17.03.2020, 12:00:00
+TITLE: The Bitcoin Mixing Case at the Center of the Fight for Transaction Privacy
+URL:   https://bitcoinmagazine.com/articles/the-bitcoin-mixing-case-at-the-center-of-the-fight-for-transaction-privacy
+
+Ring in the new bitcoin halving cycle the right way: with us!
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+A court case is underway in the United States that could become a watermark decision for Bitcoin transaction privacy and compliance law.
+
+Larry Harmon of Ohio — who, incidentally, owns the Coin Ninja media site — was recently charged and arrested for money laundering some 350,000 bitcoin (roughly $300 million at the time of the indictment) through his custodial mixing service, Helix. Harmon’s service catered to dark web market participants, particularly sellers, and he associated this service with Grams, his dark web search engine. Authorities may have sniffed Harmon out following the forced closure of AlphaBay in July 2017. At the time, AlphaBay was one of the most popular black markets on the web and the source of Harmon’s business.
+
+“The sole purpose of Harmon’s operation was to conceal criminal transactions from law enforcement on the Darknet, and because of our growing expertise in this area, he could not make good on that promise,” Don Fort, the chief of the IRS Criminal Investigation unit, said in a press release. “Working in tandem with other sites, he sought to be the ‘go-to’ money launderer on the Darknet, but our investigators once again played the role of criminal disrupters, unraveling the interlinked web from one tentacle to another.”
+
+Mix at Your Own Risk
+
+Harmon’s legal defense is staking the claim that this case, ultimately, is an affront to online privacy. At its core, this case is about bitcoin’s fungibility — or whether or not each coin is indistinguishable from another. Bitcoin’s lack of fungibility from a technical perspective is a bedrock of the ongoing privacy debate surrounding the cryptocurrency.
+
+For Harmon’s case, the issue of legal fungibility is coming to the fore.
+
+“The District Judge (after a pretty substantial fight) overruled the Magistrate Judge and granted Larry release on bond conditions. So, it’s a glimmer of hope for the Harmon family — but the Government has seized all their properties and assets so they still need all the financial support the bitcoin community can muster. If the Government’s theory of the case is successful, it is the beginning of the end of cryptocurrency fungibility. The Government has made it clear that they conflate privacy with illegality,” Harmon’s attorney, Charles Flood, told us.
+
+The problem is, there’s not much conflating that needs to be done in Harmon’s case. His mixer — which required its users to relinquish their private keys so funds could be shuffled — was used with the explicit purpose of obfuscating illicit funds. Thus, honest, privacy-savvy Bitcoin users should have nothing to worry about legally, so long as they have nothing to hide, Jesse Spiro, head of policy at Chainalysis, told Bitcoin Magazine.
+
+But to Flood’s point, if an honest Bitcoiner winds up with coins that were involved in mixing illicit funds, those bitcoin could be tainted. Fungibility, then, could be very much at legal risk with this case — especially considering the compliance trend has prioritized marking such “dirty” coins.
+
+“Honest, privacy-focused users shouldn’t have a problem because this shows law enforcement is focused on individuals who are using mixers to cover up criminal activity,” Spiro said. “The risk is that with mixers, honest people may unknowingly mix their funds with illicit funds, which may raise flags across the ecosystem considering the increase in compliance controls. Most of our customers consider mixers to be high risk, and as a result if they see their clients using them, it will trigger increased scrutiny and compliance measures.”
+
+Compliance Ramped Up
+
+Consequently, these “compliance controls” and “compliance measures” take root in Chainalysis’s own software and other blockchain analytics companies like it. These companies sell transaction querying software to exchanges, regulators and other officials with the ostensible aim of keeping tabs on illegal activity.
+
+But Spiro’s comment betrays the consequence of this surveillance: Honest users can get caught in the crossfire.
+
+That is precisely the worry at Samourai Wallet, according to their representative, who sees the case as an affront to online privacy and, depending on the outcome, an excuse to ramp up efforts.
+
+“Regardless of the outcome of the investigation, the pro-compliance trends within the industry are very concerning,” they told Bitcoin Magazine. “The compliance companies have recently solidified their place and authority in the space and appear to be driving pro-KYC compliance policies and narratives. We expect this trend to continue but encourage users to push back by never opting into custodial or KYC services.”
+
+Another wallet that provides CoinJoin services, Wasabi, declined to provide comment on the case.
+
+A Custodial vs Non-Custodial Distinction
+
+The anonymous Samourai representative believes this case won’t impact the wallet’s functions, which include a noncustodial CoinJoining service called Whirlpool. Helix was a custodial service (Harmon had to procure private keys from users in order to mix their funds), so his hustle has been treated under the law as a money transmitter. Samourai, on the other hand, “never takes possession of the coins and is not subject to the money transmitter issues that are being applied to Helix,” the representative said.
+
+“Where Helix took possession of the coins on behalf of users, Whirlpool is merely a protocol that allows for the exchange of information between users, with the end user always retaining possession of their coins,” they continued. They also said that the team has not seen a trend of third parties targeting mixed transactions, [nor have they] received reports of flagged Whirlpool deposits into centralized exchanges.
+
+To break this down further: With Helix, the funds are simply “mixed” and each user receives someone else’s coins in the process; with CoinJoins, each user batches his/her own bitcoin into a transaction with many other participants and, at the end, receives the same bitcoin back after it has been obfuscated using the service.
+
+Still, technicalities aside, Spiro is not convinced that this argument would hold up in a court of law. The U.S. Treasury’s criminal task force, the Financial Crimes Enforcement Network (FinCEN), wouldn’t discriminate between custodial services like Helix and noncustodial services like Samourai or Wasabi. If your software has run-ins with illegal activity, you could be subject to enforcement, Spiro put it.
+
+“FinCEN doesn’t make a distinction between something like Helix or something like Wasabi or CoinJoin, and this could be seen as a warning shot to all mixers and tumblers. It means that 1) they need to register with FinCEN, and 2) if they can’t keep bad actors from exploiting their services, they will be subject to law enforcement action,” he told Bitcoin Magazine.
+
+This may be frustrating to Bitcoiners who understand that the CoinJoin services Samourai and Wasabi provide are — in the words of Samourai’s representative — “a fundamentally different proposition than what Helix was offering.”
+
+Same Song, Different Dance?
+
+Still, it remains to be seen whether or not this argument would hold up in court. With the creeping hands of compliance slowly closing over the cryptocurrency industry, though, transaction privacy is becoming increasingly compromised at the hands of authority and legacy financial regulations. Chainalysis’s software is becoming more sophisticated as well; as Spiro put it, it’s “very possible,” if “fairly labor intensive, to deanonymize coins that have been cleaned through a wallet like Wasabi or Samourai.” With enforcement ramping up and transaction analysis tools finding their way into the hands of exchanges and regulators, the war on Bitcoin transaction privacy is likely just beginning.
+
+It will be fought in the courts, and we won’t know the ramifications for sure until more legal action takes place. After all, this is the first case in which a custodial/centralized mixer has been implicated in illegal activity as a money services business (FinCEn made it clear this would be the case in May of 2019).
+
+The next question, then, is this: Will the “good guys” like Samourai and Wasabi be in hot water as regulators pay more acute attention? Spiro says it’s hard to say, but as the question looms, he believes more regulation will come to address it down the road.
+
+“We anticipate further regulation will be introduced that will limit the viability and accessibility of those services to the ecosystem, regardless of whether they are custodial, centralized services or not. It’s hard to speculate what would happen if the operators of decentralized services were brought to court.”

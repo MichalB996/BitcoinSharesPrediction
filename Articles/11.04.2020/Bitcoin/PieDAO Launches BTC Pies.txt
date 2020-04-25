@@ -1,0 +1,53 @@
+DATE:  11.04.2020, 19:06:21
+TITLE: PieDAO Launches BTC++ Pies
+URL:   https://defirate.com/piedao-btc/
+
+As we continue to explore the depths of DeFi liquidity providers, we’ve seen a number of novel solutions looking to bring Bitcoin to Ethereum to unlock additional lending and trading avenues for the world’s most valuable cryptocurrency.
+
+A few weeks back, we covered PieDAO – a new project granting anyone the ability to create a tokenized portfolio allocation, including exposure to both crypto & traditional assets (via synthetic assets). These tokenized portfolio allocations are called “Pies” and today, we saw the launch of the first official BTC Pies.
+
+BTC++
+
+What’s unique about BTC Pie’s is that it combines a number of different Ethereum-based version of Bitcoin to essentially mitigate the risk of any one asset suffering from illiquidity or malicious activity. BTC++ is a tradable token, meaning it’s somewhat similar to TokenSets in the sense that it is an ERC20 token comprised of a number of underlying assets. With this, users could theoretically lend Bitcoin at higher rates due to knowledge that is backed by a more diverse range of assets. In practice, BTC++ Pies currently consist of:
+
+25% wBTC (Wrapped BTC)
+
+25% sBTC (Synthetix BTC)
+
+25% pBTC (Provable BTC)
+
+25% imBTC (Tokelon DEX BTC)
+
+In tandem with the upcoming launch of tBTC from Keep Network, it’s likely that the BTC Pie will continue to be molded and diversified over the course of the coming months.
+
+How Does It Work?
+
+Thanks to the Balancer protocol, Pies can be evenly allocated and rebalanced regardless of which asset is used, effectively providing liquidity providers with passive income in the form of trading fees.
+
+Alexintosh, the founder of PieDAO, added context to the uniqueness of BTC++ stating:
+
+You can trade assets in the pool (Multidimensional AMM)
+
+You can buy and hold (BTC++ is a token)
+
+You get paid for providing liquidity (trade fees from AMM shared to LPs)
+
+The community seems to be responding quite well to this approach with prominent members signalling their support of PieDAO. This sentiment was also echoed, stating that PieDAO is a great way to diversify the risk of holding Bitcoin on Ethereum in what some are calling a “Super Bridge”.
+
+1/ @PieDAO_DeFi is my first crypto investment in years, since @0xProject and @AragonProject. Every day the financial system fails us in a yet novel way. DeFi is finally getting to the point where we can replicate traditional financial instruments and create new ones. https://t.co/2ri2Nsyrba — Stefano ₿ernardi 🌲 (@stefanobernardi) April 10, 2020
+
+Why Should I Care?
+
+Tying this together with larger industry trends, this story is crucial in the development of two different narratives:
+
+Democratized liquidity provisions across a variety of Ethereum-based assets in a permissionless fashion
+
+Bridging the gaps between BTC and ETH to create an extensive DeFi landscape.
+
+The former is relevant in the sense that it’s never been easier to find passive income opportunities for your capital that largely mitigate trust thanks to third parties and distributed governance in the form of DAOs.
+
+The second is paramount in the growth potential for DeFi at large. Instead of focusing on any one approach to bring BTC to DeFi, it’s more important to look at the bigger picture of the expanded opportunities that can arise from Bitcoin being able to leverage a web of smart contracts and DeFi comparability.
+
+In summary, projects like PieDAO show that despite a global pandemic, DeFi continues to innovate.
+
+Over the course of the next few weeks, we’ll be keeping a close eye on the project, which you can too by following their official Twitter.

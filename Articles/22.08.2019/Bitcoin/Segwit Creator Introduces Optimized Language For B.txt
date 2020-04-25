@@ -1,0 +1,37 @@
+DATE:  22.08.2019, 13:00:52
+TITLE: Segwit Creator Introduces Optimized Language For Bitcoin Smart Contracts
+URL:   https://bitcoinist.com/segwit-creator-introduces-optimized-language-for-bitcoin-smart-contracts/
+
+Bitcoin Segwit Creator Introduces Optimized Language For Bitcoin Smart Contracts
+
+Bitcoin Core developer, Peiter Wuille, has introduced a new programming language called Miniscript, to simplify smart-contract development for Bitcoin. One of the most prolific and respected Core-developers, Wuille is responsible for the creation and implementation of Segregated Witness (SegWit).
+
+
+
+‘Miniscript’ Is Like An Enhanced ‘Script’ For Bitcoin
+
+Miniscript is built on top of the existing Script language for Bitcoin smart contracts and aims to optimise it. Script allows the specification of certain conditions which must be met in order for bitcoin to be spent. This could be a time-limit, before which coins are locked in, or the requirement of multiple signatures to verify a transaction.
+
+However, Script becomes unwieldy when required to perform various kinds of static analysis, generic signing, and compilation of policies. According to Wuille’s documentation, Miniscript functions are a representation for scripts that makes these sort of operations possible.
+
+Reducing Barriers Between Pieces Of Software
+
+Wuille tweeted an example of how policies can be combined:
+
+Imagine a company wants to protect its cold storage funds using a 2-of-3 multisig policy with 3 executives. One of the executives however has a nice 2FA/multisig/timelock based setup on his own. Why can’t that entire setup be one of the multisig “participants”?
+
+With Miniscript, the executive’s two factor authentication (2FA) could seamlessly work with the cold storage requirements. A script could compute the composite sig required and still be able to sign as a participant in the multisig.
+
+Future Implementation Into Bitcoin Core
+
+Wuille stated that he would work into incorporating parts of Miniscript into Bitcoin core if there is a desire for this amongst developers. However as published, it has already undergone extensive testing against actual Bitcoin consensus rules.
+
+Wuille says that ideally, it would be included run many pieces of wallet technology, and his co-developers have been working on a Rust library for it.
+
+Wuille is a high-profile figure in the Bitcoin community, and earlier this year participated in the Lightning Torch relay.
+
+What do you think of the new optimized smart contract language? Add your thoughts below!
+
+
+
+Images via Shutterstock

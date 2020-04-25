@@ -1,0 +1,31 @@
+DATE:  02.09.2019, 20:48:26
+TITLE: Can Bitcoin Survive “China Mining Pool Attack” Without ChainLocks?
+URL:   https://dashnews.org/can-bitcoin-survive-china-mining-pool-attack-without-chainlocks/
+
+Bitcoin may be vulnerable to an attack on mining pools based in China despite a decentralized enough hashpower, giving credence to technology like Dash’s ChainLocks even for large hashrate coins.
+
+According to a 2018 research paper titled The Looming Threat of China: An Analysis of Chinese Influence on Bitcoin by researchers Ben Kaiser, Mireya Jurado, and Alex Ledger, the present state of Bitcoin mining may present significant issues to the decentralization, censorship resistance, and the very viability of the Bitcoin network due to the geographical distribution of hashpower’s heavy concentration in Chinese jurisdictions:
+
+“The system is designed so that anyone can contribute by devoting some computing power to mining, but over the last several years, Bitcoin mining has become heavily centralized due to advances in specialized hardware that render commodity hardware obsolete. As a result, miners have congregated into mining pools: consortia of miners who work together and share profits. As of June 2018, over 80% of Bitcoin mining is performed by six mining pools, and five of those six pools are managed by individuals or organizations located in China.”
+
+The paper concludes that not only is Bitcoin mining heavily centered in China, but that the Chinese government has both the means and the motivation to single-handedly execute any number of attacks against the network:
+
+“We conclude that China has mature capabilities and strong motives for performing a variety of attacks against Bitcoin.”
+
+Bitcoin and similar cryptocurrencies operate on proof-of-work mining, where different specialized machines process transactions and secure the network by competing to solve complex mathematical puzzles, and are compensated by receiving part of the new coins created, as well as by transaction fees. If no single entity controls the majority of the network’s mining hashpower, or processing power directed at the network, it is considered secure against attack. However, even in a case where the majority of mining power is distributed among several physical entities, if those entities are able to be effectively targeted by a single actor, then the chain can become compromised nonetheless. Even though mining is often carried out by a large number of independent actors, due to the nature of mining reward distribution, miners have the incentive to concentrate into large mining pools. If those pools are located in an area where they are subject to compromise, this represents a credible threat against the entire network.
+
+Jurisdictional geography could pose a security threat despite high hashpower
+
+A historical analysis of Bitcoin mining pools concluded that a significant majority of hashpower was located in Chinese pools. Analyzing the latest data from Coin.Dance, China-based Bitcoin mining pools BTC.com, F2Pool, AntPool, Huobi, Poolin, BTC.top, ViaBTC, and Bixin, altogether make up approximately 76.39% of Bitcoin’s total hashpower today. This indicates that, if able to be effectively implemented, a geographical-based attack could severely compromise the entire Bitcoin network due to its high concentration of hashpower in China.
+
+Far from being Bitcoin exclusive, this distribution issue affects other proof-of-work cryptocurrencies as well, such as Dash. According to latest data pulled from CryptoID, Dash mining pools AntPool, Discus Fish/F2Pool, Poolin, and ViaBTC together make up just about 51% of the network’s total hashrate, all located in China. This distribution could prove problematic for a cryptocurrency reliant 100% on proof-of-work, which Dash was before this year prior to the implementation of ChainLocks.
+
+ChainLocks dual consensus mechanism significantly diffuses risk of geography-based attacks
+
+Thanks to a new innovation by Dash, however, this geography-based mining attack vector may not apply. Since the implementation of ChainLocks, the Dash masternode network of incentivized collateralized nodes now plays a part in securing the network, locking in the chain so that future reorganizations are not possible. According to cryptocurrency educator Andreas Antonopoulos, this essentially makes 51% attacks impossible without expending considerable cost to compromise the masternode network:
+
+“[ChainLocks] is a novel and interesting way to do a hybrid proof-of-work/proof-of-stake system, and yes, it will make 51% attacks much harder on that particular chain. In fact, if you want to do a 51% attack, you actually have to do a 60% attack where you either compromise the code running on the masternodes, or you put enough stake, which probably wouldn’t be possible, to run 60% of the masternodes yourself. I think at current rates that would be like $300 million, so that’s not feasible.”
+
+While masternodes are dependent on operators possessing control over 1,000 units of Dash and can theoretically be privately located anywhere in the world, the nodes themselves are often hosted on servers with known geographic locations. However, according to data from BlockChair, a significant portion of these nodes, over 50%, are located in European countries, with North America coming in a close second with about 25%. Because of the mining distribution of the network, this means that in order to disrupt the Dash network an attacker would need theoretically to both compromise Chinese mining pools as well disrupt server infrastructure across several different European and North American nations, requiring a global collusion between superpowers frequently at odds over policy priorities. Additionally, masternode collateral owners can shut down and restart nodes under alternative hosting infrastructure located in other geographical hosting locations, rendering even a coordinated masternode network disruption only temporary. This makes the Dash model significantly harder to attack than most other competing cryptocurrency projects, possibly including Bitcoin.
+
+Note! Dash node statistics may be partially inaccurate due to the discrepancy in the recorded number of total nodes (4,402) and the known total number of masternodes alone (4,930)

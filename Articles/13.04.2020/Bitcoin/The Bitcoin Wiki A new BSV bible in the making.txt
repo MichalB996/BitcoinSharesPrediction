@@ -1,0 +1,49 @@
+DATE:  13.04.2020, 03:51:57
+TITLE: The Bitcoin Wiki: A new BSV bible in the making
+URL:   https://coingeek.com/the-bitcoin-wiki-a-new-bsv-bible-in-the-making/
+
+If you want to learn about Bitcoin SV technology, where do you start? One of the best places must surely be the Bitcoin SV Wiki, a new venture from the Bitcoin Association. The wiki is an authoritative source for anyone trying to educate themselves about—to take a few random examples—pushdata opcodes, Merkle trees, directed acyclic graph (DAG) or that old favourite, the Byzantine Generals Problem.
+
+Like any good wiki, this one is not set in stone (to coin a phrase), but evolves and welcomes contributions, which are recorded on its Recent Changes page. The wiki is still being written, so users will have to forgive finding the occasional Under Construction page.
+
+I asked Brendan Lee, training and development manager at the Bitcoin Association, to explain how the wiki was created, and what he hopes it will achieve.
+
+What is the purpose of the wiki?
+
+Brendan Lee: The wiki is intended to act as a knowledge repository on the core technologies of Bitcoin. The documents cover many technical aspects of Bitcoin from the structure of a transaction to the economic incentives at play and how they drive the network to ‘self assemble’ as it does.
+
+The information is targeted at developers, entrepreneurs, academics and anyone who seeks to gain a better understanding of Bitcoin. We have tried at all times to ensure that information is clear, concise and most of all correct. Many pages are quite limited in scope and this is mostly because we wanted to ensure we had the basics correct. Wikis are dynamic in nature, so people can expect to see it added to and improved over time.
+
+How did you write it?
+
+Brendan Lee: It was very much a collaborative effort. The team at nChain gave their time to meetings and the task of editing and reviewing some 87 pages before the recent CoinGeek London conference, with more coming soon.
+
+It started out with a chapter-like structure but quickly changed to a less rigid format, of descriptive text with keywords linked to pages covering topics more in depth. Around half of the pages were migrated from the BTC Core wiki and then overhauled. Around half were written from scratch. Any pages migrated acknowledge the original authors so as to abide by the creative commons license the Bitcoin Core wiki is written under.
+
+Every effort was made to ensure that after each page is created or migrated/edited it was reviewed by a number of appropriate experts before being released. Many of the pages have substantive improvements thanks to the multiple edit cycles that occurred from different reviewers. The feedback has been excellent so far, and corrections from the public have been limited to just three minor items which is somewhat reassuring.
+
+Did you learn anything in the process?
+
+Brendan Lee: Absolutely. Having such extensive access to the nChain Brains Trust allows you to follow the rabbit holes all the way down. A lot of the time it was also finding the right words to explain things.
+
+Since going through this process, I have come away with a lot more clarity on how to explain the core concepts of the Bitcoin ledger and blockchain, and how they are separate things built and used by different people. Users write to and read from the ledger. It is miners who take what we write and use it to build the blockchain. In this way, it’s important to change our messaging to show both makers and users that their interface will be with the ledger, not the blockchain. The ledger may reference the blockchain but this is just proof of existence for information being displayed. Users will create on the ledger, manage on the ledger, share through the ledger. They should never have to care about the blockchain except to know that it’s how the ledger works.
+
+Who did you have in mind as your readers, and do you have any tips about how you think they can get the most from it?
+
+Brendan Lee: Really this is for anyone who wants to learn more about Bitcoin. We have had some great feedback from developers who are finding it useful but we are also working on a curriculum for the Bitcoin Association that uses the wiki as source material so there will soon be students and more coming to see what’s there. Ultimately I’d like to think it can become something of an ultimate repository linking information seekers to the deepest aspects of Bitcoin knowledge.
+
+While we now have a good starting point with in-depth information across many aspects of the Bitcoin system, this will be an ongoing project for many years. Even so, I already think it is likely one of the most comprehensive and useful Bitcoin resources available—with information you’d normally need to dig for in obscure 2012 web forums professionally explained and reviewed.
+
+As for tips, I would say just go through the front page and click on the first link you want to follow. If you get lost you can always click back to the main page and dive back in from there.
+
+What’s special about it being a wiki, as opposed to just text on a website?
+
+Brendan Lee: A wiki is a very dynamic platform. It allows a group of people to very rapidly assemble a free-flow knowledge base without the need to build websites. The editing process is very fast and I’m an engineer so I think the look is perfectly good for the nature of the material (sorry web designers, I know it gives you a tic!). The layout of the website with multiple links from page to page forming a type of web structure is perfect for adaptation to the Metanet and I look forward to seeing it migrated there at some point in future.
+
+Anything else you think would be worth mentioning?
+
+Brendan Lee: Yes actually, I’d like to ask anyone who’s using the wiki to let us know if there is information you think is missing or which could be improved, corrected or added to in any other manner. You can contact me at @coinstorageguru <- my DMs are open.
+
+With many thanks to Brendan for his answers, written, as he says while he’s “holed up in Toowong” – a neighbourhood of Brisbane, Australia.
+
+New to Bitcoin? Check out CoinGeek’s Bitcoin for Beginners section, the ultimate resource guide to learn more about Bitcoin—as originally envisioned by Satoshi Nakamoto—and blockchain.

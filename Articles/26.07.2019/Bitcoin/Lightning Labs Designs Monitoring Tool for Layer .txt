@@ -1,0 +1,25 @@
+DATE:  26.07.2019, 12:20:18
+TITLE: Lightning Labs Designs Monitoring Tool for ‘Layer 2’ Bitcoin Network
+URL:   https://www.coindesk.com/lightning-labs-designs-monitoring-tool-for-layer-2-bitcoin-network
+
+The lightning network, seen as the future of bitcoin payments, is now a bit easier to monitor.
+
+This Wednesday, Lightning Labs released a new network analysis tool dubbed “Lndmon” that bitcoin lightning network users can use to pull up data about the state of their node and the rest of the network. The offering features colorful graphs illustrating different aspects of the network, such as network fees or the “channels” a user has opened to send lightning payments.
+
+This is useful for users running “lightning nodes,” which users need to set up in order to use the network in the most secure way. Lndmon gives users a more tangible look into what’s going on with their nodes, whether the user is a running a routing node and looking to make a little money or a bitcoin enthusiast who just want to know more about their node and the rest of the network.
+
+The announcement blog post written by Lightning Labs software engineer Valentine Wallace, who led the project, explains:
+
+“As the network has grown over the past year, we’ve noticed gaps in its observability and the need for an easy-to-use tool for routing node operators to manage their nodes.”
+
+There have even been instances when the tool might have even prevented problems with the network, Wallace argues in the blog post: “This year, lack of such a suitable tool caused certain problems in the peer-to-peer network to remain undiscovered until they became harmful.”
+
+As such, Wallace thinks Lndmon can “help prevent problems by enabling users to monitor trends and take preventative action.”
+
+But it isn’t just for detecting problems. By looking at the graphs, users can take a better look at the history of their payments, or potentially use it to figure out how to pay the lowest fees when sending payments.
+
+The tool is supposed to be easy to use, at least for developers. Once a user has their node up and running, it just takes a couple of extra steps to get their own Lndmon dashboard up and running.
+
+Lightning Labs has plans to extend the tool further, such as supporting more lightning network data and allowing users to set up notifications when something happens they would like to know about.
+
+Lightning Labs CEO Elizabeth Stark via CoinDesk archives

@@ -1,0 +1,33 @@
+DATE:  01.04.2020, 14:05:27
+TITLE: Thousands of Microsoft Servers Infected by Crypto-Mining Botnet Since 2018, Says Report
+URL:   https://finance.yahoo.com/news/thousands-microsoft-servers-infected-crypto-140527775.html
+
+A malicious botnet has been targeting Microsoft SQL database servers to mine cryptocurrency for two years, according to a new report.
+
+Guardicore Labs said Wednesday that in the last several weeks alone, the hackers had managed to infect close to 2,000 to 3,000 servers daily. As reported by Hacker News, the botnet has been dubbed “Vollgar” after the vollar cryptocurrency it mines alongside monero (XMR), and its “vulgar” way of operating.
+
+The attack brute-forces passwords in order to access servers with poor security. Once in, it executes configuration changes allowing the hackers to run malicious commands and download malware binaries.
+
+Related: Bitcoin News Roundup for April 1, 2020
+
+Entities across health care, aviation, IT, telecoms and education in China, India, South Korea, Turkey and the U.S. have all been affected, according to the report.
+
+Also read: Alleged Mastermind of Sex Abuse Chatrooms Hid Payments With Privacy Coin Monero
+
+The network of compromised computers was used to host all of the attackers infrastructure, with its primary command-and-control server based in China, according to Guardicore. That itself had been compromised by multiple attackers, the firm added.
+
+To help companies find out if their servers have been infected by this attack, Guardicore has released a script on GitHub.
+
+Related: AT&T Files for Dismissal in $24M Phone Hack Case, Claims Crypto Exec Didn’t Read Terms
+
+In other security news, ZDNet reported earlier this week that QR codes – now ubiquitous across the bitcoin industry as a mean of making it easier to make bitcoin payments – have become another attack vector.
+
+The shockingly simple attack saw malicious actors provide a purported service allowing people to create a QR code for payments to their bitcoin addresses. However, the address inserted was the attacker’s own.
+
+Harry Denley, director of security at MyCrypto, discovered the scheme hosted on nine websites. According to the report, some $45,000 in bitcoin (BTC) has been stolen in the last month.
+
+See also: Bitcoin’s Ransomware Problem Won’t Go Away
+
+For the record, it’s advisable to avoid these sites at all costs: bitcoin-barcode-generator.com, bitcoinaddresstoqrcode.com, bitcoins-qr-code.com, btc-to-qr.com, create, bitcoin-qr-code.com, free-bitcoin-qr-codes.com, freebitcoinqrcodes.com, qr-code-bitcoin.com and qrcodebtc.com
+
+Related Stories

@@ -1,0 +1,37 @@
+DATE:  02.06.2019, 10:30:15
+TITLE: Maxwell, Wuille Co-Author Proposal for a Big Boost to Bitcoin’s Bandwidth
+URL:   https://www.coindesk.com/maxwell-wuille-co-author-proposal-for-a-big-boost-to-bitcoins-bandwidth
+
+A newly-proposed relay protocol could reduce the “transaction bandwidth” used up by bitcoin nodes by up to 75%.
+
+Called Erlay, the proposed protocol alters the way transactions are relayed so that they use significantly less bandwidth, an important resource for the nodes that make up the network. The authors include The University of British Columbia researcher Gleb Naumenko as well as two bitcoin development heavy-weights: Greg Maxwell and Pieter Wuille.
+
+The way bitcoin works is that nodes across the world tie together to form a network. Under the hood, once a transaction is broadcast, it ripples through this vast network of hardware.
+
+Erlay changes up how the announcement of these transactions is performed. As Naumenko described in a bitcoin dev email announcing the new proposal:
+
+“The main idea is that instead of announcing every transaction to every peer, announcements are only sent directly over a small number of connections (only 8 outgoing ones). Further relay is achieved by periodically running a set reconciliation protocol over every connection between the sets of withheld announcements in both directions.”
+
+The results, according to Naumenko: “We save half of the bandwidth a node consumes, allow increasing connectivity almost for free, and, as a side effect, better withstand timing attacks. If outbound peer count were increased to 32, Erlay saves around 75% overall bandwidth compared to the current protocol.”
+
+One important result of this new protocol, the researchers argue, is that by reducing how much bandwidth this process takes, nodes can increase the number of connections they hold with other nodes.
+
+Eclipse attack
+
+As low-level and technical as it sounds, it’s important research, particularly as it relates to the security of the network itself.
+
+The security of bitcoin depends at least partly on connections between nodes. This new protocol could make room for more connections, and the more connected a node is, the more “hardened” it is against network attacks.
+
+Naumenko described one such attack to CoinDesk: “The most trivial example is Eclipse attack, when a target node gets isolated from the longest chain, because all its connections are established with an attacker. In this case, an attacker, for example, can make a target node believe that they paid that target node (show shorter chain with that [transaction] in), without actually submitting transactions to the longest chain.”
+
+How this attack could impact bitcoin is described in more detail in a 2015 research paper.
+
+So, if the protocol is so important for the security of bitcoin, what’s next? Will it be added to Bitcoin Core, the most-popular software implementation of bitcoin?
+
+“A couple weeks ago I chatted with several Bitcoin Core contributors and the feedback was generally positive, although they requested more experiments. Now, as those experiments are added, I would give more time for everybody to familiarize themselves with new technical bits,” Naumenko told CoinDesk.
+
+As a rule, new technology isn’t added to bitcoin unless the most active contributors to the software, as well as the wider ecosystem that actually operates the nodes (and, unlike miners, don’t receive any kind of built-in subsidy or compensation), agrees with it.
+
+“We received positive signals from the community, which encourages us to continue working on the implementation,” he added. If the community continues to like it, then: “The protocol should become part of one of the future major releases (hopefully, the next one).”
+
+Fiber optics image via Shutterstock

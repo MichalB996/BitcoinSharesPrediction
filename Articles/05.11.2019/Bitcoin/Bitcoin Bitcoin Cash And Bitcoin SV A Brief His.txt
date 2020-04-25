@@ -1,0 +1,61 @@
+DATE:  05.11.2019, 23:48:35
+TITLE: Bitcoin, Bitcoin Cash, And Bitcoin SV: A Brief History For Crypto Dummies
+URL:   https://cryptobriefing.com/bitcoin-cash-sv-brief-history-crypto-dummies/
+
+Education Bitcoin, Bitcoin Cash, And Bitcoin SV: A Brief History For Crypto Dummies by Darren Kleine
+
+Why are there so many Bitcoins?
+
+Share this article
+
+With Bitmain’s return to the limelight and Craig Wright’s appearances in continuing legal drama, old Bitcoin rivalries have been flaring up again lately: Bitcoin and its forked brethren, Bitcoin Cash and Bitcoin SV.
+
+For those new to cryptocurrency, the fierce disagreements between these camps may be difficult to understand. What caused all the vitriol and hard feelings that continue to linger between these communities?
+
+This conflict stems all the way back to the original whitepaper vision of Bitcoin, conceived by the enigmatic Satoshi Nakamoto, whose identity is still unknown (Yes, unknown).
+
+Satoshi envisioned a peer-to-peer electronic cash that, through the powers of decentralization and trustless transaction of value, would avoid the corruption and manipulation that was so prevalent at the time of the 2008 economic collapse. And that has since resulted in the appearance of ‘quantitative easing’ policies around the world, which have been identified as potential sources of rampant inflation, as they are entirely based on the concept of printing ever-greater quantities of money.
+
+This is the heart of the conflict. The original vision of Bitcoin as a solution to the problems of corruption, centralization, and manipulation was at stake in the minds of many on all sides of the issue.
+
+Bitcoin. It’s Always Bitcoin.
+
+Bitcoin, in its attempts to scale and be useful as an efficient means of transaction, came up against a wall in 2017. Bitcoin, critics feared, had become too popular for its own good. It risked not being able to handle a surge in popularity, which could result in congested mempools and inordinately high fees. Of course, these fears were warranted, as Bitcoin did indeed struggle under the pressure of its new-found popularity later that year.
+
+As the Bitcoin network labored to keep up with extreme demand, some tried to spin the perception of Bitcoin as more of a store of value. Money could be stored safely in Bitcoin, like a digital vault, only to be drawn from in times when one wishes to withdraw a larger sum. Activities like buying a $2 coffee would simply be impractical since the transaction fee would cost more than the coffee itself and it might take hours to complete the transaction. “Lighter” coins like Litecoin, for example, could serve the needs of transacting value more efficiently and cheaply, at least until the Bitcoin network had successfully scaled to handle the increase in demand. Many balked at this idea as it violated the original vision of a peer-to-peer electronic cash, which necessitates the key characteristic of cheap and easy portability.
+
+In anticipation of this scalability problem, developers proposed solutions. One idea was to increase the size of each block. The advantage of this solution was that all transactions would remain ‘on-chain’, as in, they would not be offloaded to another mechanism that would require some degree of trust (at least in the minds of some in the community). This is a key element of the original vision of Satoshi’s design, according to ‘on-chain’ proponents.
+
+Some resisted this bigger-block idea due to the concern that it would cause a greater degree of centralization. Operating a node and thus verifying transactions would be reserved to a select few, due to the increased memory demands of maintaining an entire blockchain with larger blocks. The concept of resisting centralization was yet another element of Satoshi’s original vision, and it was difficult to reconcile this conflict with an “on-chain” solution.
+
+Another proposed solution was entitled “SegWit” (or Segregated Witness); a solution that would reduce the demands on the Bitcoin chain by segregating transaction signatures. This solution greatly increased the transaction capabilities of Bitcoin in terms of speed and throughput, but only really started to shine once it began to be adopted on a broader basis. SegWit also enabled more possibilities of second-layer solutions and smart contracts pegged to the Bitcoin network.
+
+And this is where things got really dicey. As SegWit was successfully implemented via a User-Activated-Soft-Fork (UASF), a backup blockchain was kept aside via hard fork, just in case there were problems. This “backup” is now essentially the Bitcoin Cash blockchain. This non-SegWit “contingency plan” was, in itself, a controversial decision that raised the eyebrows of many in the Bitcoin community, offering the opportunity for SegWit opponents to jump ship from the anticipated upgrades.
+
+The soon to come block-size increase, however, came up against a major roadblock of disagreement. Two camps emerged; some supportive of the block-size increase and others wishing to stick with SegWit, off-chain upgrades, and the smaller block-size. Proponents of the bigger block solution resisted the concept of reliance on second-layer solutions and off-chain networks that, in their perspective, took away from the original vision of the Bitcoin protocol. By depending on layers that could theoretically require trust in a way that the original Bitcoin blockchain did not, as it was fully trustless, big-block proponents were very unhappy with this suggested solution. A great debate and passionate arguments ensued in anticipation of the controversial “upgrade”.
+
+And Then There Were Two…
+
+Thus, the great forking of Bitcoin took place. It’s true, forks of Bitcoin had taken place in the past, but none were of this scale in terms of community division, and no previous forks had sparked so much controversy.
+
+Now, two Bitcoin blockchains existed with a great deal of volatile disagreement over which was the true embodiment of Satoshi’s vision: Bitcoin, or “Bitcoin Core”, as some in the big-block camp like to call it, and the newly-dubbed Bitcoin Cash, proponents of whom identified this new coin as the “true” Bitcoin.
+
+On the flip side, those who stood by the SegWit-enabled Bitcoin blockchain sometimes derisively referred to Bitcoin Cash as Bcash, in order to diminish its connection with the original nomenclature. This naming debate persists to this day and can often be seen in angry and dismissive Twitter and Reddit snipes between disagreeing parties.
+
+There was some uncertainty on which version of Bitcoin would retain the “Bitcoin” name on exchanges, the SegWit-enabled blockchain eventually triumphed, while “Bitcoin Cash” received its own BCH ticker (as BCC was taken by BitConnect). All Bitcoin wallets received the forked Bitcoin Cash at a 1:1 ratio.
+
+Confusion Persists
+
+Many notable Bitcoin community members were in the big-block camp, which resulted in a messy divorce. The r/btc subreddit, created in late 2016 to escape the perceived censorship of big-blockers, has become an almost entirely Bitcoin Cash-focused subreddit since the fork. The @Bitcoin handle on Twitter was fully supporting Bitcoin Cash, though the account abruptly and mysteriously abandoned it recently.
+
+Bitcoin.com, owned by chief BCH proponent Roger Ver is a Bitcoin Cash website, while Bitcoin.org is centered on BTC. The failure to change monikers is a manifestation of the community’s adamant belief that Bitcoin Cash is the “real” Bitcoin, which only adds fuel to the fire due its perceived deceitful nature.
+
+Add to the mix the further fragmentation of the Bitcoin Cash network, with the forking of Bitcoin Cash itself into two blockchains last year. One chain remained as the Bitcoin Cash fork and the other was dubbed Bitcoin SV, or Satoshi Vision. Not satisfied with the Bitcoin Cash solution, this further fork aimed to take Bitcoin way back to its original design, with the addition of greater capacity to handle enormous blocks in order to maintain a purely “on-chain” network with high throughput. After millions were spent in a highly centralized hash war for supremacy, Bitcoin SV (BSV) failed to see the same degree of success or adoption amongst crypto users and traders.
+
+Since those early days in the existence of the Bitcoin Cash network, the influence of Bitcoin itself has grown much more dominant, whilst Bitcoin Cash has faded somewhat in significance and usage. This is partly due to the fact that Bitcoin retains a massively dominant edge in hashing power, with far greater network security and transactional usage than the Bitcoin Cash network. Even Dogecoin — originally a joke currency — has seen more action and has more active addresses than Bitcoin Cash. Bitcoin’s SegWit solution has successfully reduced transaction costs and mempool loads, and its fee revenue vastly outscales its rivals.
+
+Security Suffers
+
+While Bitcoin Cash has remained cheaper in terms of transaction fees, it has not succeeded in overcoming the more expensive Bitcoin network, which results in much lower security. For example, the cost of a 51% attack for a single hour against Bitcoin Cash would amount to only $72,000, whereas the same attack against Bitcoin would cost around $550,000. Bitcoin SV is even more vulnerable, with much lower hashrates than the Bitcoin and Bitcoin Cash networks. This makes the problem of double-spending a far greater concern using Bitcoin Cash or SV than it is with the Bitcoin network, requiring more confirmations before being assured of the legitimacy of transactions. While the Bitcoin Cash blockchain has been successfully re-organized by just a couple miners and has recently seen a single miner threatening to take control of the entire network with 51% of hashing power, the same attack on Bitcoin would be impossible.
+
+As institutions continue to enter the fray, Bitcoin will exert its dominance, while rivals like Bitcoin Cash and Bitcoin SV struggle to achieve anywhere near the same degree of respect and utility in the larger community. The vastly lower amount of transactions on BCH has rendered the block size increase completely irrelevant, and the lower price means that network security is lacking. With competitors offering little else, Bitcoin appears destined to remain the dominant network. In the end, it seems that you get what you pay for.

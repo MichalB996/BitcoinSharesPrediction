@@ -1,0 +1,45 @@
+DATE:  22.08.2019, 20:04:31
+TITLE: How to Create Non-Fungible Assets and Collectible Tokens With Bitcoin Cash
+URL:   https://news.bitcoin.com/how-to-create-non-fungible-assets-and-collectible-tokens-with-bitcoin-cash/
+
+How to Create Non-Fungible Assets and Collectible Tokens With Bitcoin Cash
+
+On August 21, James Cramer, the developer behind the Simple Ledger Protocol (SLP), announced the launch of the Electron Cash SLP version 3.5. The latest release allows people to create a new type of SLP token called NFT1, a non-fungible token that can be grouped together by a single ID. The advanced form of SLP token creation allows people to use the system to create unique assets like gaming items, collectibles, and digital media rights.
+
+Also read: Social Network Memo Adds Decentralized SLP Token Exchange
+
+How to Create an NFT1 Type SLP Token Using the Electron Cash Wallet
+
+The Simple Ledger Protocol (SLP) is celebrating its first anniversary. Since then there’s been a token explosion as thousands of unique coins have been created using the SLP system. The majority of SLP tokens have been a ‘type1’ token which defines a common list of rules for SLP-based tokens to follow within the larger Bitcoin Cash ecosystem. At the end of June, SLP engineers James Cramer and Jonald Fyookball published a new specification by extending the SLP token type 1 standard. The new type of token is called NFT1 which allows people to create non-fungible tokens that are grouped together by a single ID. The documentation on Github explains that having the ability to group non-fungible tokens (NFTs) in a provable manner opens many doors. Similarly to the ERC721 protocol, NFT1s can extend token creation to things like rare collectibles, digital media rights, raffles, tickets, and blockchain extensible games.
+
+Just like our prior SLP reviews in the past, news.Bitcoin.com has tested the new NFT1 standard using the Electron Cash SLP wallet. The following walkthrough was written to provide an insight into the basics of NFT1 creation. The first thing you need to do is download the latest SLP Electron Cash wallet version 3.5, as any wallet below this release will not mint NFT1s. The download takes less than a minute, depending on internet speeds, as the program takes about 30MB of space. The Electron Cash SLP 3.5 release is available for Linux, MacOS, and Windows. Electron Cash (EC) patrons will notice the newly released SLP version has the same logo as the EC wallet with Cashshuffle, except it’s green rather than blue.
+
+After the download is complete, you need to open the program and create a new wallet or import existing funds into the wallet if it’s your first time using the EC program. If you were already using an older version of EC then your existing wallet’s history will be available in the new version after the upgrade completes. If it’s the first time you are creating an SLP token, you need to know that a small fraction of BCH is needed to act as ‘gas’ for the new token’s genesis transaction and further sending.
+
+🥳 Happy 1 Year Anniversary SLP!🚀 Electron Cash SLP 3.5, was just released and it has some really exciting features. Just take a look for yourself.👓https://t.co/c0YOjgNFi7 1/4 — Simple Ledger (@SimpleLedger) August 21, 2019
+
+The Parent Toilet Paper Token and Subsequent Children 2PLY and 1PLY
+
+Once there’s a small fraction of BCH in the wallet, you can then proceed to customize a new SLP NFT1 type token. After the wallet is open, simply press the “SLP tokens” tab and at the bottom of the window you will see another tab that says “Create new token.” Pressing this will open a new window, which allows you to create your first custom NFT1 type token. The first thing I did was create a token with an NFT1 parent called “Toilet Paper Token – Ultra Soft” with a ticker called TPT.
+
+A parent token allows for the creation of non-fungible tokens called children, which essentially means the parent’s token ID keeps them all together as a family. My Toilet Paper Token – Ultra Soft is the token parent and I created 2,000 of them tethered to a URL called papertoilet.com. After the parent is created in order to create an NFT1 child, you need to spend a quantity greater than 0 parent NFT1 in a new genesis transaction. From here, simply right-click the parent token and select “Create new NFT.”
+
+Doing this will create subsequent children NFTs that will be tethered to the same group ID as the parent token. So with my 2,000 TPT example (2,000 is the number of sheets in most ultra-soft rolls), I created two children called 2PLY and 1PLY. The EC wallet will require you to spend a fraction greater than 0 parent NFT1 by creating a genesis transaction for you and after that completes you can proceed to create subsequent children. Children don’t have to have the same name or same ticker, and can have a different document or URL upload tied to them as well.
+
+As long as the group ID is the same for child tokens as they are for the parents, you or anyone with a block explorer can tell they are related by the group ID. Of course, the creation of the 2,000 TPT, 2PLY, and 1PLY shows the very basics of how to work with the new SLP token standard. Blockchain explorers like Bitcoin.com’s BCH Block Explorer and the transaction explorer Simpleledger.info can verify whether the token is a type 1 SLP token or an NFT1 parent or child.
+
+Nonfungible Sets of Grouped Tokens Open the Doors to a Whole New Environment
+
+Anyone can take the NFT1 SLP token concepts further by attaching digitized assets like images or game items to these unique types of nonfungible tokens. Similarly to the Rare Pepe card game created by Counterparty or the Crypto Kitties project on Ethereum, people can use the new NFT1 standard for a slew of fun and rare collectibles. Currently, due to the nascent stages of NFT1s created in this manner, creators will need to be aware of wallets that only have the SLP send feature. If a wallet doesn’t ensure that the tokens spent are using the same token type field, then spending a child with a client like this could result in burning non-fungible tokens unintentionally. This means third party wallets will have to meet these requirements in order to be compatible with NFT1 type tokens. It may not be an issue for a game like an environment where the tokens are meant to stay within the platform, but the NFT1 ecosystem can be far more robust with wallets that support NFT1s.
+
+Creating an NFT1 SLP token really doesn’t take much time at all and is just as quick as creating standard type 1 SLP coins. Developers will have to figure out ways to tie metadata (SVG images, GIFs, extensible game code) in order to build truly unique things with these tokens. SLP developers are already in the midst of discussing the best way to tether images to tokens. However, the NFT1 tokens don’t even need to be visually aesthetic, as NFT1s can also represent numbered data like raffles, lotteries, digital rights, and event tickets as well.
+
+Moreover, the new EC SLP version 3.5 has faster token validation with an SLP graph search. “Graph Search can be enabled through a new Tokens tab in the network dialog,” SLP engineer James Cramer explained during the new wallet launch. “This new module downloads validation sets in large batches from SLPDB, instead of crawling back towards Genesis blindly making many network requests.” Additionally, thanks to EC developer Calin Culianu, there’s a new parallelized SLP validator that runs a new thread for each token ID. “Both speed and stability of token validation were improved thanks to Calin,” Cramer concluded.
+
+The BCH community was pleased with the new release and the sky’s the limit for ideas that can stem from these types of non-fungible, grouped tokens. The project’s announcement was welcomed on Twitter and Reddit and the token explorer Simpleledger.info shows that BCH participants are already creating unique NFT1s on the chain. It will be interesting to see what transpires from this new token standard in time.
+
+What do you think about the newly released Electron Cash SLP 3.5 version and the ability to create NFT1s with ease? Let us know what you think about this subject in the comments section below.
+
+Image credits: Shutterstock, Simple Ledger Protocol, Bitcoin.com’s Blockchain Explorer, Rarepepewallet.com, and the Electron Cash Wallet.
+
+Do you want to dig deeper into Bitcoin Cash and the Simple Ledger Protocol Universe? Head to our Blockchain Explorer to view specific BCH and SLP transactions, addresses, and blocks.

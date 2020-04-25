@@ -1,0 +1,45 @@
+DATE:  07.09.2019, 14:49:35
+TITLE: Bitcoin Cash-Powered File Storage Concept Sparks Interest and Debate
+URL:   https://news.bitcoin.com/bitcoin-cash-powered-file-storage-concept-sparks-interest-and-debate/
+
+Bitcoin Cash-Powered File Storage Concept Sparks Interest and Debate
+
+Bitcoin Cash (BCH) proponents were introduced to a new project called the Cashweb protocol on Friday. The blockchain file sharing scheme allows people to store and load arbitrary data to the BCH chain. While the new protocol still has “a long way to go,” the developer decided to share his creation with the BCH community and show off the protocol’s possibilities. Even though a few people thought the project was “awesome,” the Cashweb conversation turned into a debate about whether or not data should be stored onchain in this manner.
+
+Also Read: Venezuelans Fighting Economic Hardship Discover Crypto’s True Potential
+
+Cashweb: Immutable File Storage and Retrieval — Powered by Bitcoin Cash
+
+The Reddit user u/kentjhall presented a demonstration of “a summer pet project” he created called Cashweb. The Cashweb protocol allows people to tether arbitrary data to the Bitcoin Cash blockchain in a permissionless manner. The website cashweb.cash is interesting because everything on the website is stored and loaded from the BCH chain. “Everything down to the font,” the website’s creator emphasized. The web page is informative and gives a few examples of how the protocol works. Essentially the web page itself and the examples shown are a demo for the Cashweb framework, which “enables public, decentralized, immutable file storage and retrieval—powered by Bitcoin Cash.”
+
+“Every asset on this page has been stored on the blockchain amongst hundreds of transactions, each of which is verifiably cemented across thousands of Bitcoin Cash nodes,” the website explains. “For example, you may have important court documents to immortalize on the Bitcoin Cash blockchain.”
+
+The creator says that as long as the Bitcoin Cash network exists, any document can be accessed by a unique identifier. There are four types of Cashweb IDs: TXID – as just seen, Nametag ID – a name may be claimed under the Cashweb protocol as a “Nametag,” Nametag Version ID – any versioned Nametag will have numerous revisions stored on the blockchain and a Path ID – the storage/querying of directories to organize file references. Cashweb’s web page discloses that the page is loaded from a directory index referencing all its assets and the Path ID is how an individual can query a specific path of a directory index. All four examples can be viewed on the web page so people can get a better understanding of how the protocol works.
+
+The developer also revealed that there are two code libraries for utilizing the Cashweb protocol: cashgettools for getting, and cashsendtools for sending. “Anyone can run a cashserver or implement cashgettools; the software is all completely free, and completely open source under the permissive MIT license,” the website explains. The documentation further adds:
+
+You don’t really need a cashserver to serve you; you can do it yourself. The cashgettools library allows for interfacing with existing public BitDB HTTP endpoints as well, so there’s already an element of decentralization.
+
+A Comparison to Bitcoin Files and the File Storage Debate
+
+The project’s creator also compared Cashweb to the censorship-resistant file sharing software Bitcoin Files. The platform allows anyone to tether files of 5kb or less to the BCH blockchain. If the person wants to upload a larger file, then Bitcoin Files offers a connection to the Inter-Planetary File System (IPFS). The Cashweb developer said that it took “nearly eight seconds to download the 1.7MB mario.png (under my WiFi conditions)” using Bitcoin Files. But using the Cashweb framework and a BitDB endpoint, the process was considerably faster. “We send the downloaded mario.png back to the blockchain via cashsend, this time under the CashWeb protocol, and proceed to re-download the file via cashget, set to query from Bitcoin.com’s blazing fast BitDB endpoint (thanks Roger),” the cashweb.cash page details. “Under the same conditions, this retrieval takes just over 0.25 seconds—that’s 32x faster.”
+
+The introduction to Cashweb was a popular topic on the r/btc Reddit forum Friday as concepts that allow people to tie arbitrary data to the BCH chain is often met with a mixed response. “There are a lot of people in the BCH community that see zero value in storing non-financial data on the blockchain, I am not one of those people,” one Redditor opined. “Your project is friggin’ awesome and I hope you’re able to keep building on it.”
+
+CashWeb enables public, decentralized, immutable file storage and retrieval—powered by #BitcoinCash Great work kentjhall!https://t.co/dCIH0RSTm4 — Gabriel Cardona (@cgcardona) September 6, 2019
+
+Other people were less enthused about the Cashweb project and disclosed their opinions about the concept. One person asked the creator why he chose BCH as a database server for distributed file sharing. The commenter further asked why he didn’t choose to use IPFS or choose to utilize the BSV chain instead. The Cashweb creator said that someone else also mentioned using the BSV chain for file sharing, but he decided to run with the BCH protocol and community.
+
+“My view is that I am showing off a suite of tools and a protocol, not selling anyone on a final product,” the Cashweb developer insisted. “As such, these tools could be applied to any number of current blockchains, including SV — anyone can do what they like with this Cashweb — but I choose to develop/demo on BCH because I think it’s such a great community.” He further responded by stating:
+
+IPFS is a different beast entirely to my understanding, and may be better suited to this goal, but I personally think it’s just too new. Bitcoin as a technology is proven and reliably immutable, so I wanted to build Cashweb on top of that. At the end of the day, the community will decide—if this project isn’t useful/warranted, it simply won’t be used. That’s the beauty of a permissionless system.
+
+Overall, most BCH supporters were pleased with the project development, and the debate is always tossed around any time someone creates a file sharing program on top of the BCH chain. Some supporters believe file sharing is a distraction to the pursuit of global adoption and pure peer-to-peer electronic cash. However, there are many people who believe that the use cases tied to the BCH chain are permissionless by nature and as long as people and organizations pay the network fees they should never be censored. At the end of the day, the BCH community of global participants will decide if the network can handle every financial transaction worldwide and include immutable data applications as well. For now, the idea of blockchain file sharing is still very young and fresh in the minds of crypto enthusiasts and it’s hard to tell what the outcome will be going forward.
+
+What do you think about the Cashweb platform? What do you think about the Bitcoin Cash blockchain being used to store and load arbitrary data? Do you think that BCH should only concentrate on the electronic cash aspect or do you think file storage ideas will continue to blossom? Let us know what you think about this subject in the comments section below.
+
+Disclaimer: Readers should do their own due diligence before taking any actions related to the mentioned websites and projects associated with this article. Bitcoin.com or the author is not responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content or services mentioned in this article. This editorial review is for informational purposes only.
+
+Image credits: Shutterstock, Pixabay, and cashweb.cash.
+
+How could our Bitcoin Block Explorer tool help you? Use the handy Bitcoin address search bar to track down transactions on both the BCH and BTC blockchain and, for even more industry insights, visit our in-depth Bitcoin Charts.

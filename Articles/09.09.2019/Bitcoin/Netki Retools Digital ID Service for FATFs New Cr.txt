@@ -1,0 +1,37 @@
+DATE:  09.09.2019, 13:00:52
+TITLE: Netki Retools Digital ID Service for FATF’s New Crypto ‘Travel Rule’
+URL:   https://www.coindesk.com/netki-retools-digital-id-service-for-fatfs-new-crypto-travel-rule
+
+Netki has upgraded its digital identity service to help cryptocurrency firms meet tough new international standards for combating money laundering.
+
+Announced Monday, the upgrade to TransactID adds two new features: The ability to break down certificates of a user’s identity into smaller pieces of personally identifiable information (PII); and the ability for senders and receivers of money to request PII from each other.
+
+“Before, there was, like, one large, atomic transaction where each side shared all of the information about each other with each other,” Justin Newton, CEO of Netki, told CoinDesk. “Now the protocol allows for more of a conversation where each side can request and share individual pieces of identity information with each other.”
+
+The change comes in response to recommendations released in June by the Financial Action Task Force (FATF), an intergovernmental body devoted to fighting money laundering and terrorism financing. They require “virtual asset service providers” (VASPs), including crypto exchanges, to pass information about their customers to one another when transferring funds between firms so law enforcement has an information trail.
+
+While FATF standards aren’t binding, its 37 member countries are expected to put them into practice through regulation or legislation, and the organization gave them 12 months to do so.
+
+Indeed, even before the FATF guidance dropped, the U.S. Treasury’s Financial Crimes Enforcement Network (FinCEN), stated that the “travel rule” already applied to crypto exchanges, just as it long has for other financial institutions.
+
+TransactID was originally designed primarily with the U.S. in mind, but now that FATF has applied the travel rule to crypto, Netki has made the product customizable to account for differences in how countries interpret the guidance.
+
+For example, the Swiss regulator FINMA last month extended this requirement to transactions between regulated exchanges and unregulated, personal wallets, going further than other countries that only applied it to exchange-to-exchange transfers.
+
+FinCEN crackdown?
+
+Even in the U.S., Netki claims there’s now a stronger impetus to comply. “Recently, the U.S. FinCEN agency has begun enforcement actions against VASPs who are not in compliance,” it said in a press release. (FinCEN has not announced any crypto-related enforcement actions since April.)
+
+“There have been a couple of meetings that I’ve been at that were around the FATF guidance and travel rule where lawyers from the top firms representing companies in this space have said that they have multiple clients that are undergoing FinCEN enforcement actions related to the Travel Rule,” Newton said.
+
+TransactID uses open-source standards that encrypt peer-to-peer exchange of identity information between parties before transacting. Netki claims its technology can do this while maintaining the integrity of the blockchain on which transactions take place.
+
+Specifically, TransactID uses X.509 certificates, a standard commonly used for validating ownership of websites, to exchange identity information. Netki says it picked the decades-old standard because it’s widely recognized by governmental and regulatory agencies as a legally valid form of identification.
+
+Since the certificates are used in Netki’s solution to identify the sender and receiver in a transaction, VASPs don’t need to establish a relationship with either party, the company says.
+
+For companies that use Netki for their know-your-customer (KYC) process, certificates cost around $1 per user or less, Newton said.
+
+The service is also built on the Bitcoin Improvement Proposal (BIP) 75, developed by Netki and wallet provider Breadwallet in 2016. BIP 75 is a peer-to-peer protocol, based on open standards, available for anyone to use and compatible with custodial and non-custodial wallets.
+
+Netki CEO Justin Newton image via CoinDesk archives.

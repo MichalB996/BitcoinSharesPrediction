@@ -1,0 +1,39 @@
+DATE:  08.05.2019, 16:48:09
+TITLE: Blockchain Researchers Mock Craig Wright's Unsealed Bitcoin Address List
+URL:   https://news.bitcoin.com/blockchain-researchers-mock-craig-wrights-unsealed-bitcoin-address-list/
+
+Blockchain Researchers Mock Craig Wright's Unsealed Bitcoin Address List
+
+The ongoing lawsuit between the relatives of Dave Kleiman and Craig Wright continues to unfold as a filing has been unsealed that shows a list of addresses tied to the first 70 bitcoin blocks Wright claims to have mined. However, not long after the redacted list was unsealed, researchers at Wizsec Security studied the addresses and are convinced his list is merely a “lazy copy-paste from the blockchain, without any cryptographic signatures to support his claims of ownership.”
+
+Also read: Uyen T Nguyen: The Powerful Young Woman Behind the Alleged ‘Satoshi Affair’
+
+Bitcoin Security Specialists Wizsec Discuss the Recently Unsealed Bitcoin Address List From the Kleiman v. Wright Lawsuit
+
+The self-proclaimed Satoshi, Craig Wright, is being sued by the Kleiman family on behalf of the now deceased Dave Kleiman and his estate. The lawsuit accuses Wright of fraud and theft of “over $11 billion worth of bitcoins and intellectual property from the estate of Dave Kleiman and W&K shortly after Dave’s 2013 death.” Last week the court ordered Wright to disclose bitcoin addresses that belonged to him before December 2013. The Florida Magistrate overseeing the lawsuit, Judge Bruce Reinhart, signed the order and gave Wright a few days to produce the list.
+
+Since then a list of addresses that were once filed in an obscure fashion was unsealed and Wright claims to have mined the first 70 bitcoin blocks starting from the Genesis block. After the redacted list was unsealed, the researchers at Wizsec decided to study the addresses and wrote a blog post about the recently disclosed file. Wizsec claims that Wright simply copied and pasted the addresses from the first 70 blocks and asserted the addresses belonged to him without any cryptographic proof.
+
+In Wright’s latest unsealed motion in regard to the list of public addresses his legal council writes:
+
+Dr. Wright knows that he mined the first 70 blocks on the blockchain. Because the public addresses associated with blocks are publicly available, Dr. Wright is able to identify the public addresses associated with the first 70 blocks on the blockchain and provides those public addresses below.
+
+Memorizing Alphanumeric Identifiers
+
+Wizsec says the motion begs the belief that the self-proclaimed inventor acts as if he is “ignorant about the fundamentals of his invention.” “Perhaps Wright thinks that being a bitcoin miner means pointing at bitcoins and yelling ‘Mine,’” the researchers jokingly remarked. In the document, Wright’s filing continues to assert that he did not keep track of which Bitcoin blocks he mined and that he does not know any of the other Bitcoin public addresses. The motion further states that the self-styled Satoshi does not have a complete list of the public addresses that he owned as of any date.
+
+“To create such a list would be unduly burdensome,” Wright’s attorneys insisted. “A bitcoin public address is an identifier of 26-35 alphanumeric characters. Such addresses are not intended to be memorized and remembered for a period of nearly a decade.”
+
+Blockchain Developer Says Wright’s Address List Includes Block 64 — A Block That Was Not Mined Using the Same Software as Satoshi
+
+Wizsec researchers note that it is absurd for the motion filing to suggest that the way people store and manage bitcoin keys is to memorize them and remember them. “That’s what wallets are for, precisely so you never forget or lose your keys,” Wizsec concluded. In addition to Wizsec’s report, Bitcoin Cash developer Mark Lundeberg detailed that Wright’s filing of addresses includes block 64, a block that was definitely not mined using the same software as Satoshi’s blocks according to Sergio Lerner’s Patoshi analysis. “Why?” Lundeberg asks. “Presumably he just grabbed the list of first unspent blocks (except block 9) — The list cut off crudely at 70 since block 78 was spent — But block 64 is special too, oopsie.” The BCH developer continued the discussion in response to a post about the Wizsec research on Reddit and further stated:
+
+It’s interesting to note here that Craig’s list includes the block 64 address which falls well outside of the Patoshi extranonce pattern. (Patoshi would have had extranonce 160; the coinbase has extranonce 6 instead) Also of note is that Craig only lists 70 addresses — likely he wanted to avoid listing 80 or more addresses as that would have included block 78 which is the first spent coinbase besides satoshi’s block 9, i.e., it would have opened the possibility for someone to contest.
+
+Wright’s attorney states that its client transferred ownership of all his bitcoins into a blind trust back in 2011. Moreover, they insist that Wright is not a trustee nor a beneficiary of the blind trust and he doesn’t know the public addresses associated with the trust. “Thus Dr. Wright does not know and cannot provide any other public addresses,” the filing states. Over the last few years, Wright has provided similar types of evidence to try and convince the greater crypto community he is Satoshi. So far he hasn’t provided the community with any cryptographic proof that can actually tie him to the Satoshi monicker. So the recent unsealed list of once redacted addresses is no different than Wright’s prior and unsubstantiated claims. Blockchain engineers and security researchers like Wizsec believe listing the first 70 publicly known blocks is completely meaningless without providing true cryptographic evidence of ownership.
+
+What do you think about the latest submission stemming from the Kleiman v. Wright docket? Let us know what you think about this subject in the comments section below.
+
+Image credits: Shutterstock, and Pixabay.
+
+Did you know Bitcoin.com will soon be launching a peer-to-peer trading platform called Local Bitcoin Cash? The service will allow for direct exchange with people trading BCH all around the world. At Bitcoin.com we’re excited and it’s coming soon! If you want to stay notified for when the hottest new trading platform launches – Sign up here today!

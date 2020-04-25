@@ -1,0 +1,23 @@
+DATE:  16.01.2019, 10:15:00
+TITLE: BBC News website spoofed by Bitcoin scammers
+URL:   https://thenextweb.com/hardfork/2019/01/16/bbc-news-website-spoofed-by-bitcoin-scammers/
+
+Scammers have found a new way to use seemingly legitimate BBC News websites to mine Bitcoin.
+
+The scam, identified by researchers, was first discovered in the first week of January.
+
+Scammers created what appeared to be a legitimate email containing a “Display Message” button, which rerouted users to an affiliate website tasked with generating Bitcoin BTC based on page views.
+
+According to My Online Security, the “Display Message” was not visible for Outlook clients, while Mac users found themselves sent to fake login pages as opposed to the fake BBC News sites.
+
+It’s not uncommon for malicious actors to resort to spoofing in a bid to gain access to users’ login credentials or mine cryptocurrencies such as Bitcoin on the down-low.
+
+Often, scammers use the ‘typosquatting’ technique – they misspell the names of legitimate websites to fool users. In other instances, they add words to the original site address, keeping the format but changing the destination.
+
+Researchers revealed that the BBC email scam used the second method, redirecting readers to https://business-news.bbc-1.site/landers/bbc-business-news/#forward.
+
+The site may have looked legitimate to the untrained eye, but a closer look revealed that all articles and links referred to Bitcoin.
+
+Scammers also leverage other smart techniques to fool unsuspecting users, often tricking them into believing they are opening a legitimate email sent by a familiar contact.
+
+It’s not known how many people were affected but Cloudfare, which hosted the fake website, set up a scam alert page once it was notified by users.

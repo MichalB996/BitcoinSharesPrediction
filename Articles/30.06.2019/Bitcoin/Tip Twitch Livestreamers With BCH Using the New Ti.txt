@@ -1,0 +1,35 @@
+DATE:  30.06.2019, 17:12:13
+TITLE: Tip Twitch Livestreamers With BCH Using the New Tipbitcoin.cash App
+URL:   https://news.bitcoin.com/tip-twitch-livestreamers-with-bch-using-the-new-tipbitcoin-cash-app/
+
+Tip Twitch Livestreamers With BCH Using the New Tipbitcoin.cash App
+
+Last week the pseudonymous developer who created the Crescent Cash wallet, Pokkst, announced the launch of a new tipping service called Tipbitcoin.cash. The tool gives anyone the ability to tip their favorite streamer on Twitch using bitcoin cash.
+
+Also Read: Iranians Defy Warning and Share Pictures of Bitcoin Mining in Mosque
+
+Meet the Bitcoin Cash Tipping App for Twitch — Tipbitcoin.cash
+
+Twitch, the live streaming video platform operated by Twitch Interactive, is an extremely popular website that has 2.2 million broadcasters monthly and 15 million daily active users. Recently Pokkst, the creator of Crescent Cash and Bchgallery, introduced a new app called Tipbitcoin.cash. The platform is a bitcoin cash (BCH) tipping service for livestreamers and it allows anyone to easily tether it to their Twitch account. On June 24 Pokkst announced: “Hey everyone, I’m excited to announce Tipbitcoin.cash is now available — Tipbitcoin.cash is a non-custodial bitcoin cash tipping service for livestreamers.” Pokkst also revealed that the tipping service does not take any fee and the only fees you will encounter are BCH network fees.
+
+If you already have a Twitch account, you can use it to log in to download Streamlabs alerts. If you don’t have a Twitch account you can register and then download Streamlabs OBS. The startup Streamlabs integrated with Twitch last year when it gave users the ability to send tips through a user’s Coinbase account. Streamlabs offered Twitch tipping with BCH, ETH, LTC, and BTC with no additional fees. At the time, Streamlabs executive Tom Maneri told the public: “It’s time to give one of your Lambos a wash, because all Streamlabs broadcasters can now accept cryptocurrency tips.”
+
+After connecting with Streamlabs, the next thing to do is set up a tip page which is created when you first log in. Next, you will need to add an xPub (or extended public key) to tether your wallet to the platform. Every BCH address generates an extended public key and it contains information about the public key and chaincode for key derivation purposes. Using the xPub does not give anyone access to your private keys and Tipbitcoin.cash is noncustodial because it is tethered in this fashion. You can easily find an extended public key for one of your addresses in the Bitcoin.com Wallet, Crescent Cash, and Electron Cash.
+
+From here you are pretty much set up and can donate to other Twitch streamers or your Tipbitcoin.cash page. You can also change your profile settings which include changing your extended public key, writing a small bio and toggling the donation alert settings. Tipbitcoin.cash allows you to add an image, GIF or sound link and a minimum donation for alerts in USD. Right now the application only supports Twitch and originally Pokkst was going to add other platforms but decided he couldn’t for privacy reasons. “After further research, Youtube and Facebook would both reveal either full name or email address as the display name — So for now I will not be adding Youtube/Facebook/Mixer support, just Twitch,” Pokkst told BCH supporters on Reddit.
+
+Tipbitcoin.cash Sees More Than 100 Tips Dispersed so Far and Twitch.tv Brings Bitcoin Payments Back via Bitpay
+
+There are over two dozen streamers signed up for Tipbitcoin.cash and you can view a list of users by pressing the streamers tab. There are people like Pokkst, Host Fat, Bchcain, Foxplaysofficial, and Kaeptnkronk on the list and well-known BCH proponent and streamer Collin Enstad. On June 27, Enstad host of Collin’ It Like It Is, a “no bullshit crypto show,” published a video on how to use the bitcoin cash tipping application. So far Pokkst reports that over 100 tips have been dispensed using Tipbitcoin.cash.
+
+Pokkst’s tipping application follows Twitch.tv silently reintroducing bitcoin core (BTC) and bitcoin cash (BCH) payment for purchased items on the web portal, after the company’s previous decision to remove bitcoin payments on December 6, 2017, “due to high fees and volatility in the value of Bitcoin.” Now the company has added support once again and has chosen to use Bitpay to process BCH or BTC payments.
+
+It’s not very obvious at first glance that Twitch.tv supports crypto payments until you continue to press the “more payment options” tab. After pressing two more payment tabs, users can then finally see the option to pay using the Bitpay service. Between the recently added Bitpay support, Streamlabs, and the new Tipbitcoin.cash application, Twitch has a lot more crypto-related features than most video services. Check out Collin Enstad’s video below to learn more about using the newly launched Tipbitcoin.cash application.
+
+What do you think about the bitcoin cash (BCH) tipping app Tipbitcoin.cash? Let us know what you think about this subject in the comments section below.
+
+Disclaimer: This editorial is intended for informational purposes only. Readers should do their own due diligence before taking any actions related to the mentioned company or any of its affiliates or services. Bitcoin.com or the author is not responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.
+
+Image credits: Shutterstock, Twitch.tv, Tipbitcoin.cash, and Twitter.
+
+Want to create your own secure cold storage paper wallet? Check our tools section. You can also enjoy the easiest way to buy Bitcoin online with us. Download your free Bitcoin wallet and head to our Purchase Bitcoin page where you can buy BCH and BTC securely.

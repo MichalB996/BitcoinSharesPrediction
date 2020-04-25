@@ -1,0 +1,33 @@
+DATE:  31.12.2019, 00:56:32
+TITLE: Debate Ensues After 68% of BCH Hashrate Mined by Stealth Miners
+URL:   https://news.bitcoin.com/debate-ensues-after-68-of-bch-hashrate-mined-by-stealth-miners/
+
+Debate Ensues After 68% of BCH Hashrate Mined by Stealth Miners
+
+2019 was known for the growing trend of stealth miners mining on the BTC and BCH network. On Dec. 30, data shows that 68% of the Bitcoin Cash network’s hashrate is being mined by mystery miners. As the year comes to an end, the large number of unknown BCH hashrate has attracted scrutiny.
+
+Also Read: Ethereum Proponent Virgil Griffith Deemed a Flight Risk, Judge Denies Bail
+
+68% of the BCH Hashrate Was Recently Processed by Unknown Miners
+
+On Monday, a post on the Reddit forum r/btc explained that “untrusted hash is at nearly 70%.” The r/btc thread detailed that on Dec. 30, statistics indicate that roughly 68% of the overall BCH hashrate is being processed by miners not willing to disclose their identity. When a known mining pool finds a block, in the coinbase there’s usually a message which identifies who mined the block. However, in 2019 both SHA-256 networks BTC and BCH saw a significant increase in mystery miners processing the chains. In January, two research reports noticed the increasing trend of unknown miners as Coin Metrics and Diar both published findings on the subject. At the time, Diar’s report said that unknown miners could be “concerning” and just because the miner does not disclose its identity, it doesn’t mean the hash is not from a known pool. Coin Metrics wrote that the analytics firm also noticed a resurgence of mystery miners during the start of 2019.
+
+A few weeks before the Bitcoin Cash upgrade that took place on Nov. 15, BCH proponents discovered 44% of the BCH hashrate was processed by unknown miners. At the time, speculators assumed the stealth hash belonged to roughly 3-4 different pools. The reason for the theory is because there are unique messages in the block’s coinbase for each unknown mining entity. Today, there are a few coinbase messages that read: “d B ^//bf Oe?D 5F” and another pool uses this message: “^//KFy{Ʊ!+.” Besides clues like the different coinbase messages, no one truly knows who is behind the unknown BCH hashrate. During the discussion on r/btc, a few individuals took issue with calling the unknown miners “untrusted.” “‘Untrusted hash’… isn’t that how it’s supposed to be?” a person asked on the Reddit forum and also left a quote from Satoshi’s white paper that said:
+
+We have proposed a system for electronic transactions without relying on trust.
+
+Are Stealth Miners Untrustworthy?
+
+The Reddit user dubbed ‘Lovelyday,’ the BCH supporter who wrote the original post, responded to the critique for using the term “untrusted.” “Sure, the ‘ideal’ situation in Bitcoin would be if every miner were unknown, and Bitcoins were so valuable that there’d be absolute incentive for the majority of the hash to protect the Bitcoin that observes the economic model laid out in the white paper,” Lovelyday said. “Comparing against where we are today… we are a little ways off, with historical precedent for hashpower actually trying to destroy Bitcoin Cash — That’s why I used the term ‘untrusted’ as a blanket term for the unidentified hashrate that is > 50% — We can’t trust them, neither should we,” the Redditor added. Lovelyday further stated:
+
+Should we trust the identified hashrate? Probably not much more, but at least we can compare their actions to their stated intentions, and hold them to account by switching to pools that act in ways we prefer.
+
+A few other BCH supporters disagreed and stressed that the Nov. 15, 2018 hash war that created BSV was the perfect example. “A 51% attack would be extraordinarily expensive to sustain on a network as large as BCH — And it wouldn’t work because of all the miners that support us,” another individual commented on the thread. In addition to the stealth miners processing hash on the BCH network, a growing number of unknown miners are mining BTC and BSV as well. At the time of writing, BTC hashrate distribution shows 26% of the hashpower is being processed by unknown pools and there’s 30% on the BSV network today.
+
+What do you think about the resurgence of unknown miners taking away the dominance of known mining pools? Let us know what you think about this subject in the comments section below.
+
+Disclaimer: This article is for informational purposes only. It is not an offer or solicitation of an offer to buy or sell, or a recommendation, endorsement, or sponsorship of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any ideas, concepts, content, goods or services mentioned in this article.
+
+Image credits: Shutterstock, Pixabay, Blockchain.com, Wiki Commons, and Coin Dance.
+
+Want to create your own secure cold storage paper wallet? Check our tools section. You can also enjoy the easiest way to buy Bitcoin online with us. Download your free Bitcoin wallet and head to our Purchase Bitcoin page where you can buy BCH and BTC securely.

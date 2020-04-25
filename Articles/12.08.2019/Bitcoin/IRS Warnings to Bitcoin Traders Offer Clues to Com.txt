@@ -1,0 +1,113 @@
+DATE:  12.08.2019, 08:00:39
+TITLE: IRS Warnings to Bitcoin Traders Offer Clues to Coming Tax Guidance
+URL:   https://www.coindesk.com/irs-warning-letters-to-crypto-traders-hint-at-whats-in-coming-guidance
+
+The Takeaway:
+
+The IRS’ recent warning letters to 10,000 traders offer hints at what its forthcoming guidance on crypto taxes might say.
+
+While the letters are not guidance, the tea leaves indicate the IRS might be changing its required methods for calculating the value of crypto holdings and the forms and schedules for reporting them.
+
+Major questions remain unresolved, including how hard forks and airdrops should be treated.
+
+As U.S. cryptocurrency users eagerly await tax guidance from the Internal Revenue Service (IRS), they can find hints of what may come in the agency’s recent warning letters.
+
+The tax collector said earlier this year that its first guidance on crypto since 2014 is coming, but it’s not clear what information will be provided or when it will be published. (IRS Commissioner Charles Rettig said at the end of May that guidance could come “within the next 30 days,” but that loose deadline passed.)
+
+Yet the three form letters, sent last month by the IRS to more than 10,000 crypto traders, asked taxpayers to verify that they filed their taxes due on crypto gains and losses correctly, or amend their tax filings (one under penalty of perjury). And reading between the lines, the letters suggest changes in the agency’s approach to the asset class when compared to past public statements.
+
+Take, for example, how the three new letters instruct traders to calculate the fair market value of cryptocurrency holdings.
+
+The letters tell traders to look at the exact date and time they conducted a transaction, diverging from its guidance from 2014, which said to apply “the exchange rate, in a reasonable manner that is consistently applied.”
+
+As an illustration, say you bought 5 bitcoin on April 10, 2015. The 2014 guidance says to pick a price at some point during the day and use that to calculate fair market value. Bitcoin opened at a price of $243.69, fell as low as $232.77 and closed at $236.07, according to CoinMarketCap. Any of these prices could work, as long as all calculations for all taxes were consistent.
+
+The recent letters instead direct you to look at the exact time you bought the 5 bitcoin and use the price at that time to calculate the value.
+
+That’s more sensible, in the view of James Foust, a senior research fellow at industry advocacy group Coin Center.
+
+“If someone has multiple transactions over the course of a day and there’s significant volatility it doesn’t make sense to apply the same daily exchange rate, and also it could result in some weird outcomes,” Foust said.
+
+However, this may pose an issue for traders who now have to find this information, said Sean Ryan, chief technology officer and co-founder at crypto tax software provider Node40.
+
+He noted that the letters call for taxes on transactions conducted between 2013 and 2017, adding:
+
+“Now they say date and time and that does matter because we know that virtual currencies fluctuate minute-to-minute, trade-to-trade. So by saying it’s no longer susceptible to ‘date accurate’ and has to be ‘date and time accurate’ it throws a wrench in the system because they have to go back and find that [information].”
+
+Different forms and schedules
+
+The letters also diverge from past efforts to collect information about crypto traders.
+
+The IRS has previously asked exchanges to generate 1099-K forms for customers, which are usually used for payment settlement organizations, Foust noted, meaning merchants receiving revenue through a particular income stream.
+
+“That’s not helpful for paying taxes because the overwhelming majority of [customers] are not receiving payments on exchanges, they’re buying digital currencies,” he said. It could also lead to confusion with buys and sells. Foust explained:
+
+“Say you buy for $10,000 and sold for $9,000, the IRS would see that as you received a payment for $9,000, not a $1,000 loss.”
+
+“It’s not super-clear why the IRS … decided to get the exchanges to use the 1099-K form to report this customer information but that’s sort of the world that we’re in right now,” Foust added.
+
+The exchanges generating the 1099-K forms would provide them to both the taxpayer and the IRS, but the information included “is almost never going to be correct,” Ryan said.
+
+By specifying a different schedule, and therefore different form, in one of the letters, the IRS is essentially saying that the correct form is actually the 1099-B, he said.
+
+According to Ryan, one of the schedules listed in one of the letters is Schedule D, which is for reporting gains and losses from capital assets.
+
+The letter itself notes that “if you sold, exchanged, or disposed of virtual currency (e.g. Bitcoin, Ether), or used it to pay for goods or services, you have engaged in a reportable transaction.”
+
+The information that needs to be reported would be listed in form 8949, which in turn would normally derive its data from the 1099-B, Ryan said.
+
+Foust added that if an exchange were to provide a 1099-B, “you often don’t have to [fill out] form 8949 at all because the 1099-B is supposed to give you all that information.”
+
+Like with the 1099-K, exchanges would also provide that information to the IRS.
+
+Left hand, meet right hand
+
+Foust noted that the IRS’s letters are not actual guidance, but still, “it’s nice guidance to get.”
+
+“It’s the kind of thing you would hope would come in the form of guidance and not in the form of educational letters sent to a few thousand taxpayers and [everyone else] has to read the tea leaves,” he added.
+
+Lisa Zarlenga, a partner at law firm Steptoe & Johnson who focuses on taxes and related issues, said it is likely that the IRS group developing new guidance is not coordinating with whichever team wrote the letters. Any new guidance will have to pass through several layers of approval, including the U.S. Treasury Department (which the IRS falls under).
+
+Any individual who received a letter likely did so because the IRS has evidence that they made cryptocurrency trades, she said.
+
+“Some people are complaining, ‘well you haven’t issued guidance, therefore, you shouldn’t be enforcing,’” she said. “These letters are saying ‘if you use virtual currency and you made a gain from it you should be reporting.’”
+
+The IRS did not respond to a request for comment by press time.
+
+Zarlenga said the letters may not be inconsistent with past guidance. In her view, the IRS is most likely just looking for individuals who did not report any gains or losses from crypto transactions, despite having conducted them.
+
+“I don’t think this indicates a change in their position at all. I think these letters are getting at basic reporting on gains and losses in the use of cryptocurrency,” she said.
+
+By and large, last month’s letters aren’t even “treading new ground,” Zarlenga said. Taxpayers need to be able to indicate when they bought a cryptocurrency, when they sold it, how much it cost when they bought it and how much it cost when they sold, the letters said.
+
+The U.S. is in good company trying to collect taxes from its crypto-trading residents. The U.K.’s HM Revenue and Customs recently asked crypto exchanges to provide information about their customers, including transaction history, while the Australian Tax Organization announced in April it would collect data to help ensure residents paid the appropriate amount of tax.
+
+All three countries are members of the J5, a multinational collaboration between tax agencies to combat money laundering and other illicit behavior. Cryptocurrencies are one stated focus for the group.
+
+Still unanswered
+
+Since its first (and so far only) official guidance on crypto taxes in 2014, the IRS has offered glimpses as to how taxpayers can file returns through other actions, such as its requests for information from exchanges like Coinbase.
+
+However, even last month’s warning letters leave some of the largest questions around paying taxes on crypto unanswered, Foust said.
+
+“We’re sort of in an unfortunate situation right now because the IRS hasn’t provided substantive guidance on how people are supposed to report their virtual currency transactions and calculate what their tax burden is,” he said.
+
+The implications, he added, are:
+
+“People are being put in a position where they’re being asked to certify in one of those letters certify under penalty of perjury that they’ve [abided by] rules that haven’t been published yet.”
+
+The most obvious question revolves around forks, or events that create a new cryptocurrency available to holders of an old one, Ryan said.
+
+“The IRS has been completely silent on ‘now is that income? You just doubled your quantity, not your value, your quantity,’” he said. “If they’re going to consider that income they have to tell you how to assign cost basis because there’s no trading history.”
+
+In his view, forks should not be considered income.
+
+Likewise, the tax treatment of airdrops, or giveaways of a cryptocurrency to spur adoption, remains an open question.
+
+Depending on the circumstances, a taxpayer may or may not be able to opt in to receiving tokens through an airdrop.
+
+If a wallet provider or other service automatically airdrops tokens to all users, Ryan said, that should not be considered income.
+
+On the other hand, he said, “if you opt in to an airdrop I think you should report that as income.”
+
+IRS image via Shutterstock

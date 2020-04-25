@@ -1,0 +1,33 @@
+DATE:  26.02.2020, 02:00:59
+TITLE: 90% of Bitcoins on the Lightning Network Could be Lost to Attackers Following Current Lightening Implementation, Research says.
+URL:   https://bitcoinerx.com/bitcoin/90-of-bitcoins-on-the-lightning-network-could-be-lost-to-attackers-following-current-lightening-implementation-research-says/
+
+In a paper published on the 16th of February, two researchers at the Hebrew University of Jerusalem, Ayelet Mizrahi, and Aviv Zohar have revealed weaknesses and possible solutions to the current lightening implementation on the Bitcoin network.
+
+Their detailed research paper – Congestion Attacks in Payments Implementation Channel networks – was developed from a fundamental idea raised in a git issue on Basics of Lightning Technology in May 2017. The attack which loads channels on the lightning network with requests that remain unresolved until they expire can give attackers access to 640 BTC when they spend just 0.25 BTC. Congestion attacks paralyses multiple payment network channels for several days.
+
+The attacks exploit a certain mechanism – Hash time-locked contracts (HTLCs) that makes payment channel networks like the Bitcoin lightning network possible. The current Bitcoin lightning network is a collection of channels funded by a node, say Alice, or two nodes, such as Alice and Bob.
+
+The funds are locked into an output that is accessible by participants in the channel. The channel reallocates funds between participants when nodes transfer funds between themselves by exchanging a signed transaction message.
+
+HTLCs promise nodes that they can receive payments by providing a signed transaction message within a specific time defined by the chain height. As soon as an intermediate node on a transaction path posts a signed transaction image to the blockchain, the transaction is completed and irreversible.
+
+Such transactions are first relayed from the recipient of funds Alice, down to the sender Bob. The number of HTLCs increases with the number of payments on a channel. This limits the number of possible HTLCs altogether.
+
+A critical problem the authors mentioned in their article was HTLCs timeouts. A dishonest node may not send a signed transaction image before the set time limit, in which case, the HTLCs expires sending an update failure message to the channel.
+
+Nodes set a limit – locktime_max – to the maximum timeout in the form of failure message cltv_expiry_delta they are able to tolerate. With the current min_cltv_expiry_delta which is around 40 to 144 blocks, nodes set the locktime_max to 2016 or two weeks, making the attack effective.
+
+In the first instance of the attack, the researchers used a greedy algorithm targeting high liquidity channels under 20 hops locktime_max delay. The algorithm partitioned the channels on the network into groups that can be paralyzed for a set time defined by τmin. The test algorithm also excelled at selecting high capacity routes, and directions with lower cltv_expiry_deltas. By doing this, the algorithm paralyzed more channels simultaneously.
+
+Using this method, the researchers showed that they could lock 90% of the network by locking 1044 channels. The authors showed that the locktime_max of 2016 agreed upon at the 2018 BOLT lightning developers meeting made their attack easier. They effectively locked 650 BTC of the 860 BTC available on the Bitcoin lightning network spending just 0.25 BTC.
+
+In a second instance, they disconnected a node from the lightning network for an extended period of time by connecting to a high liquidity victim node and steadily paralyzing adjacent channels. They did this by initiating a payment using a route that connects to a victim and moves through a target channel back and forth before coming back to the attacker. By doing this, the attacker’s channel is not maxed out but it sends multiple payment requests to the target channels until they reach their channel limit defined by max_concurrent_htlcs.
+
+The authors also proposed following solutions to the attacks in their paper: enforcing fast HTLC resolution, reducing route length, Setting the number of max concurrent payments based on trust level, Loop Avoidance, and a last solution, non-refundable fees for HTLC setup, which may not serve as a great deterrent to future attacks altogether.
+
+Bitcoin relies on the lightning network to solve scalability problems and improve efficiency. We may see quicker responses and updates to this effect in no time. It is good news for the Bitcoin network, however, that these lapses were not discovered by some ruthless hackers, but great scientific minds happy to work for the good of humanity, and the blockchain.
+
+Anderson Ezie is a cryptocurrency researcher and writer. He has four years of experience writing about technology and cryptocurrency and currently serves as an Adviser for the Metaprediction.com project. A text stylist and grammar stickler he loves good writing and correct grammar. If you are looking for him, but can’t find him, then you haven’t checked Vitalik.ca. Connect with Anderson Ezie:
+
+Images courtesy of Pixabay, Ayelet Mizrahi and Aviv Zohar

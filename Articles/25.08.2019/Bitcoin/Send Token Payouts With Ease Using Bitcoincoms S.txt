@@ -1,0 +1,37 @@
+DATE:  25.08.2019, 00:10:51
+TITLE: Send Token Payouts With Ease Using Bitcoin.com's SLP Dividend Calculator
+URL:   https://news.bitcoin.com/send-token-payouts-with-ease-using-bitcoin-coms-slp-dividend-calculator/
+
+Send Token Payouts With Ease Using Bitcoin.com's SLP Dividend Calculator
+
+On August 23, Bitcoin.com released a new application called the SLP Dividend Calculator. The new platform allows users to build a transaction to make dividend payments to any Simple Ledger Protocol (SLP) token holder.
+
+Also read: How to Create Non-Fungible Assets and Collectible Tokens With Bitcoin Cash
+
+Testing the New SLP Dividend Calculator From Bitcoin.com
+
+Over the last year, SLP tokens have been extremely popular among BCH proponents, and so far supporters have made thousands of unique coins on the BCH chain. As time has progressed, the SLP ecosystem has matured a great deal and there are many third-party solutions supporting the token infrastructure. This week, Bitcoin.com added a new platform to our Tools.Bitcoin.com portal called the SLP Dividend Calculator. The application provides users with the ability to make grouped dividend payments to specific SLP token holders. For instance, if you distributed fractions of an SLP token to a group of three people, then you could enter the token’s ID and send funds to all three holders at a specific point in time. With the ability to pay BCH dividend payments to SLP token holders, the new tool opens the door to all kinds of real-world use cases.
+
+After the new tool was released, I decided to test the service in order to highlight just how easy it is to use the new Bitcoin.com SLP Dividend Calculator. I tested the app with my cousin, Andrew Brow, because back in June I sent him some custom SLP tokens called “Andy Coin (ABC)” just to show him how simple it is to create tokens. At the time I created 21 million ABC coins and sent 10 million to my cousin’s Badger wallet. Last night I opened up the SLP Dividend Calculator and pasted the token’s unique ID number into the first window.
+
+Sent an SLP dividend payment flawlessly just now. Sent the funds and paid the unique payment code that said "Paying 0.003176 #BCH to holders of SLP Token ID…" It paid perfectly splitting the funds between addresses, confirming in 1 block. Was also a Schnorr transaction. 👏 pic.twitter.com/CnpIpjrB2g — Jamie Redman (@jamieCrypto) August 24, 2019
+
+Then I decided to pay $1 to the Andy Coin token holders, which means it will be split in half between both of us, because we are both ABC token holders. The SLP Dividend Calculator can pay a lot more than just two addresses, but for this test two was enough. After making sure the SLP token ID and the number of funds I wanted to send were correct, I decided to make the funds available at the last confirmed block height. You can also choose to broadcast it as is in the latest mempool state or you can choose a custom block height as well.
+
+The service gives you two choices after the customization is complete: you can either press the button “Start over” or “Build the transaction.” After I chose to build the transaction, the application showed me exactly what would happen after I paid the unique payment invoice. The SLP balances were scanned at block height 597121 and I sent a dividend payment of 0.003176 BCH, which would be paid to the token holders of the Andy Coin token ID number. The platform also told me that two addresses would receive a BCH dividend payment after I paid the QR invoice code through Pay.Bitcoin.com. Any wallet that supports invoices, like the Bitcoin.com Wallet, can pay the invoice by copying the URI scheme or scanning the QR code. I used the Electron Cash wallet to pay the invoice, because I had some available funds in the wallet and I wanted to see exactly how the transaction was built and executed from the client perspective.
+
+Opening the Door to a Decentralized Stock Market, Trust Payments and Bearer Bonds
+
+After paying the invoice, the transaction broadcasted and my cousin Andrew and I were both sent $0.50 in BCH each. The transactions confirmed in the following block and the entire test can be seen on Bitcoin.com’s Block Explorer or Simpleledger.info as well. The tool could be used for a variety of interesting dividend payment ideas. For instance, Bitcoin.com’s executive chairman, Roger Ver, recently sent BCH dividend payments to Cashgames.Bitcoin.com Dividend Test Token (CGT) holders for being Cashgames.Bitcoin.com patrons.
+
+A person with four children could create four separate non-fungible (NFT1) tokens with the kids’ names attached to them and call them Trust Tokens. After a specific block height, the Trust Tokens can be sent a BCH dividend payment in order to leave an inheritance to the children. Or a business could have people invest in the company by initiating an initial coin offering (ICO) and token holders could reap the profits in the form of dividend payments over time.
+
+The sky’s the limit when it comes to the variety of concepts that can derive from people using the Bitcoin.com SLP Dividend Calculator. Since the application was launched, a bunch of BCH supporters have tested the platform to send funds to certain token holders. “Fantastic,” one BCH enthusiast wrote on the Reddit forum r/btc. “[This] gives us decentralized stock market… dead easy to use.”
+
+“Holy crap the new SLP dividend tool is awesome. Just played around with it and sent all holders of the MIS token their share of .01 BCH just to test it out,” another BCH user said on Twitter. “This is magic internet money for reals.” If you have created SLP tokens you can try sending a dividend payment to token holders by using the SLP Dividend Calculator. The process takes less than two minutes to complete and you don’t need to be a tech wiz to use the new tool. Check out the platform at Tools.Bitcoin.com and send your first BCH dividend payment today.
+
+What do you think about the new SLP Dividend Calculator? Let us know what you think about this new tool and concept in the comments section below.
+
+Image credits: Shutterstock, Electron Cash, SLP Dividend Calculator, Pixabay, Bitcoin.com’s Block Explorer and Wiki Commons.
+
+Do you need to track down a Bitcoin transaction? With our Block Explorer tool, you can search by transaction ID, address, or block hash to find specific details. You can also search for SLP token transactions on the Bitcoin.com Block Explorer as well.

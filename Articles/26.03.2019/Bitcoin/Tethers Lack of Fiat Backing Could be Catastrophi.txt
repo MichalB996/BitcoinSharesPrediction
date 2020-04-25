@@ -1,0 +1,67 @@
+DATE:  26.03.2019, 07:42:28
+TITLE: Tether’s Lack of Fiat Backing Could be Catastrophic for Bitcoin, Analyzing USDT’s Troubling Terms of Service
+URL:   https://cryptoslate.com/tethers-lack-of-fiat-backing-could-be-catastrophic-for-bitcoin-analyzing-usdts-troubling-terms-of-service/
+
+Tether, the market-leading stablecoin in both market capitalization and controversy, made changes to its legal terms of service that indicate that USDT is not fully backed one-to-one by US dollar reserves. Instead, the new terms suggest that USDT is backed by other assets including loans made to third parties, calling into question the soundness of Tether’s reserves.
+
+Cryptocurrency Markets Dependent on Tether?
+
+Tether and its associated exchange Bitfinex have been the subjects of immense controversy. Tether underpins billions of dollars worth of value in the cryptocurrency markets through its widely used stablecoin USDT—and if Tether is providing loans, the amount could be even higher.
+
+Yet, despite the importance of Tether in the cryptocurrency markets, the company has refused to undergo audits or clearly disclose its banking relationships. The lack of transparency has companies doubting the company’s claims of USDT’s “one-to-one” backing with US dollars.
+
+These concerns have culminated in the US Department of Justice (DOJ) having launched a criminal probe into the company. Allegedly, the DOJ is focused on potential Bitcoin price manipulation through the use of Tether on Bitfinex.
+
+The company isn’t operating in isolation, either. There is strong competition from other more transparent alternatives. Users may end up voting with their dollars by using USD Coin (USDC), TrueUSD (TUSD), Paxos Standard Token (PAX), or even Dai (DAI) instead of USDT.
+
+For a full primer on the controversy surrounding Tether, read: Tether’s Billion Dollar Reserves May Not Equate to ‘One-to-One Backing’ or ‘No Misconduct.’
+
+Tether’s Troubling Changes to Its Terms of Service
+
+On Feb. 26th, 2019, Tether made a number of changes to its legal terms of service that call into question USDT’s fiat backing. Below is an excerpt transposing Tether’s Nov. 27th, 2018, terms of service with its new terms:
+
+Breaking Down the Definitions
+
+To understand the implications of the above passage, it is important to first read Tether’s newly included definition of “Reserves”:
+
+“‘Reserves’ means traditional currency and cash equivalents and, from time to time, may include other assets and receivables from loans made by Tether to third parties, which may include affiliated entities. [emphasis added]”
+
+The new definition of Reserves states that USDT may include other assets outside of fiat and cash equivalents (Treasury bills and other money market instruments). Therefore, the new definition suggests that Tether can back its stablecoin with other assets on its balance sheet, even loans made to other corporations.
+
+Meanwhile, Tether’s definition of “Fiat” means:
+
+“The money or currency of any country or jurisdiction that is: 1. designated as legal tender; and, circulated, customarily used, and accepted as a medium of exchange in the country or jurisdiction of issuance.”
+
+Tether goes even further to elaborate on the limited guarantees around redemptions and withdrawals around USDT:
+
+“Tether reserves the right to delay the redemption or withdrawal of Tether Tokens if such delay is necessitated by the illiquidity or unavailability or loss of any Reserves held by Tether to back the Tether Tokens, and Tether reserves the right to redeem Tether Tokens by in-kind redemptions of securities and other assets held in Reserves. Tether makes no representation or warranties about whether Tether Tokens that may be traded on Site may be traded on the Site at any point in the future, if at all. [emphasis added]”
+
+This is highly concerning for USDT holders because if one of Tether’s debtors were to default on a loan, or if Tether itself were to become insolvent, then holders of USDT may only be entitled to illiquid—or even worthless—assets.
+
+Tether’s Loose Issuance Criteria?
+
+Tether’s changes to the above passage also raise concerns about the company’s issuance criteria for USDT. As defined by Tether, USDT is backed by “Fiat” and other potentially dubious assets. However, the company is able to issue Tether on the receipt of “money,” which is undefined by the company.
+
+Since Fiat is defined as legal government tender, the implications of accepting “money” could suggest the company is open to accepting other assets outside of US dollars, further calling into question the soundness of the reserves backing USDT.
+
+Tether Not Responsible for USDT Holder Losses
+
+The final additions made to the terms of service that rouse concern are new liability waivers. Tether has more conclusively stated that it is not responsible for losses endured by USDT holders, even if those losses arguably stem from Tether’s actions:
+
+“Tether assumes no liability or responsibility for and shall have no liability or responsibility for any claim… or any and all other commercial losses (collectively, referred to herein as “Losses”) directly or indirectly arising out of or related to… loss of value of Tether Tokens or the Reserves backing such Tether Tokens resulting from failure or insolvency of any bank, depository, custodian, borrower, or payment processor holding or processing the assets backing Tether Tokens, or from the theft of such assets, or from freezes, seizures, or other legal process asserted by a Government. [emphasis added]”
+
+Based on the above addition, Tether is not responsible for losses resulting from a hack, government seizure, or insolvency from any associated financial institution, directly or indirectly. As such, this gives Tether substantial leeway in passing-on company losses to USDT holders.
+
+Loss of Confidence in USDT Could be Devastating for Bitcoin
+
+Not only are USDT holders offered limited protections in cases where the company fails or endures losses, if investors were merely to lose confidence in USDT it could result in losses for Bitcoin and cryptocurrency markets more broadly. As stated by CEO of Strix Leviathan, Jesse Proudman:
+
+“The biggest risk Tether poses to the broader crypto currency ecosystem has less to do with its financial insolvency and everything to do with the trust of market participants. Redemption of USDT today is already difficult or near impossible for most retail users. Tether is worth $1 because it’s generally agreed upon that it’s worth $1, not because it can be redeemed for that dollar. Should that faith vanish, the repercussions would be material, widespread and volatile.”
+
+At the moment, Tether underpins, at a minimum, $2 billion in assets in the cryptocurrency markets through USDT. If loans and other instruments are taken into consideration, the amount of crypto market capitalization related to Tether could be even higher.
+
+If market participants lose faith in USDT, this $2 billion in USDT could have a much larger impact than the figure might suggest; as a function of liquidity, an overall market capitalization of $100 billion does not equate to $100 billion in cash available to purchase all outstanding cryptocurrency. As a result, the unavailability of $2 billion in USDT could have a much larger impact beyond $2 billion on total market capitalization—which could lead to market-wide losses.
+
+There is also evidence that Tether and Bitfinex may have engaged in bitcoin price manipulation, further exacerbating impact on price. Simply put, if Tether holders lose faith in the value of USDT it could be catastrophic. With that in mind, it’s important for investors in the cryptocurrency markets to protect themselves by hedging against this risk accordingly.
+
+Credit to @intel_jakal for bringing attention to the Tether terms of service revisions.

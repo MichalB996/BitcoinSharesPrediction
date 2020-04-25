@@ -1,0 +1,41 @@
+DATE:  13.11.2019, 22:15:35
+TITLE: Developer Demos Smart Card That Produces Bitcoin Cash Signatures
+URL:   https://news.bitcoin.com/developer-demos-smart-card-that-produces-bitcoin-cash-signatures/
+
+Developer Demos Smart Card That Produces Bitcoin Cash Signatures
+
+Software engineer Tobias Ruck has revealed a project he’s been working on that allows a smart card to produce valid BCH signatures. Ruck tweeted about his experiment to the crypto community and Bitcoin Cash proponents showed their excitement about the future of offline payments.
+
+Also read: Walk Like Nakamoto: 7 Anonymous Personalities in the Crypto Space
+
+Harnessing Offline Bitcoin Cash Payments
+
+For quite some time the developer Tobias Ruck has been experimenting and developing concepts that help bolster the BCH ecosystem. News.Bitcoin.com reported on Ruck last year when the programmer demonstrated how an onchain game of chess is possible. After the opcode OP_Checkdatasig was implemented to the BCH chain, Ruck designed a chess game with the new feature. This spring, as the Simple Ledger Protocol matured, Ruck unveiled an onchain SLP token auction console. More recently, Ruck published a video about a new transaction version for the BCH chain called Nimbus. According to Ruck’s demonstration, the transaction version could unleash sophisticated smart contract potential on the BCH network. Moreover, it’s possible a cryptocurrency stablecoin like Dai could be created on the BCH network. Throughout the video, Ruck stresses several times that the Nimbus concept required a rule-set protocol change.
+
+During the second week of October, Ruck showed the community he was experimenting with protocols that facilitate offline transactions. That week the programmer published another demo that showcased a bitcoin cash wallet tool called be.cash. Essentially, the concept provides individuals with the ability to send and sign a transaction without internet service. Then on November 11, the programmer tweeted that he developed “a smart card that produces valid Bitcoin Cash signatures.”
+
+“Who would love to pay with a card — to a phone? Tap took less than a second. Imagine trying to set up shop accepting cards and all you need to do is install an app on your phone,” Ruck stated. The software engineer emphasized that his concept was “still very much unpolished. I still have to make the app build and send the transactions, but once finished — it‘s going to be huge — When scaled up, smart cards could literally be $1 each,” he added.
+
+HOLY SATOSHI! 😱😱
+
+I did it! A smart card that produces valid #BitcoinCash signatures.
+
+Who would love to pay with a card—to a phone??
+
+Tap took less than a second!👟👏 Imagine trying to set up shop accepting cards and all you need to do is install an app on your phone. 💪 pic.twitter.com/ielKlcPvDA — Tobias Ruck (@TobiasRuck) November 11, 2019
+
+The Quest for Instantaneous, Offline, and Frictionless Transactions
+
+Ruck’s announcement was celebrated on Twitter, gathering a lot of comments and over 400 likes. On November 11, the front page of the Reddit forum r/btc was also scattered with threads about the smart card that could produce valid BCH signatures. “Use case extends far past payments — How about transparent access records? To doors, to accounts, to events, to anything,” blockchain developer Chris Troutner wrote in response to Ruck’s tweet. “Pay attention to the community that values utility the most,” Bitcoin ABC developer Amaury Sechet tweeted.
+
+Cointext CTO and founder Vin Armani stressed on Twitter that all of the great concepts being produced these days are due to great innovation tethered to the features at the protocol level. “The latest and greatest innovations in BCH are all possible because new capabilities have been added into the protocol, before we developers needed them,” Armani said while re-tweeting Ruck’s smart card demo. “That’s a signal of good decision-making.” Armani added:
+
+This is a brand new way of doing transactions. Something totally novel. For technical details, please check out Tobias Ruck’s further demos/documentation at be.cash.
+
+BCH developers working on the protocol level have been working relentlessly to bolster the Bitcoin Cash roadmap. Third-party application programmers have also been working with the BCH blockchain and Simple Ledger Protocol day and night creating new and innovative ideas. While some of the concepts never materialize, the concepts can still be left on the shelf for another software engineer to try. For many BCH proponents, zero-confirmation transactions and offline transactions have been a holy grail of sorts. The quest continues because users want payments to be as fast as handing someone cash or the few seconds it takes to swipe a credit card. Ruck’s latest smart card concept may help further this goal.
+
+What do you think about the smart card concept that produces valid BCH signatures? Do you think Ruck’s idea is innovative? Let us know what you think about this subject in the comments section below.
+
+Image credits: Shutterstock, Pixabay, Indiana Jones, Fair Use, Wiki Commons, and Twitter.
+
+Are you a Bitcoin developer? You can create your own Bitcoin Cash app with the Bitbox and Badger Wallet SDKs, get started with BCH tokens through the SLP SDK, and build your knowledge base with our Bitcoin Cash developer guides.

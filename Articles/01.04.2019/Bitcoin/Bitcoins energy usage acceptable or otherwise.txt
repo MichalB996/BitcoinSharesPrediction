@@ -1,0 +1,59 @@
+DATE:  01.04.2019, 16:08:57
+TITLE: Bitcoin’s energy usage: acceptable or otherwise?
+URL:   https://sociable.co/technology/bitcoins-energy-usage-acceptable-otherwise/
+
+Last Thursday, The Economist claimed that Bitcoin was unlikely to progress, expressing a number of concerns – prominent amongst them, energy usage. But does Bitcoin’s energy consumption really make it into a white elephant?
+
+The article points out:
+
+“[Bitcoin] mining, essentially a self-adjusting lottery in which participants compete to buy tickets, is energy-hungry. At the height of the boom it was thought to consume as much electricity as Ireland (these days, it merely consumes as much as Romania).”
+
+What Constitutes Bitcoin’s Appetite for Electricity
+
+Bitcoin relies upon a consensus mechanism – a fault tolerant system that is used on blockchain networks to ensure that network data remains true. The Bitcoin blockchain records transactions dynamically on an ongoing basis. In order to agree on the actual status of the network, the proof of work (PoW) consensus algorithm is utilized.
+
+Most of the first generation of cryptocurrencies were based on PoW. The nature of this consensus mechanism is such that it requires major energy inputs to fuel the mining process. Miners compete to complete PoW-based mathematical equations resulting in the ‘winner’ (being random) going on to confirm transactions on the network.
+
+As the computing power on the network increases, the level of computational difficulty increases proportionately. This all results in an ever increasing requirement for improved computing power and the massive energy requirement that goes with it.
+
+Read More: Venezuela starts to regulate Bitcoin as trading volume hits all-time high
+
+Younger projects have identified the difficulty that Bitcoin has experienced with PoW in terms of energy requirement and scalability. With that, they have opted for less intensive consensus mechanisms. However, despite the energy usage, PoW makes Bitcoin by far the strongest cryptocurrency in terms of security.
+
+What’s the Nature of That Energy Usage?
+
+It appears that the views of researchers at the University of Hawaii align with the sentiment expressed in The Economist article. The researchers published a paper in Nature last October titled “ Bitcoin emissions alone could push global warming above 2°C ”.
+
+They estimate Bitcoin’s annual carbon output at 69 million tons. They claim that Bitcoin is a “power-hungry” cryptocurrency and go on to hypothesize that it alone could be responsible for pushing global warming upwards significantly by 2033.
+
+Throughout 2018, a similar view was expressed in the media. Forbes asserted such a view last May. There has been no shortage of citations that demonstrate that viewpoint. This has been particularly the case amongst those who see no value in the overall Bitcoin proposition generally. And it’s here that the equity of such a perspective may be coming unstuck.
+
+Read More: Bitcoin accepted for public transport across 37 cities in Argentina
+
+Taking that Forbes article as a case in point, contributor Frances Coppola suggests that Bitcoin advocates claim that mining only uses surplus electricity and that this is incorrect if applied to “parts of the U.S.”
+
+The crypto community is a broad church. No doubt there’s someone somewhere that claims that Bitcoin mining only uses surplus electricity. Yet, there is no direct reference as evidence of such a claim from any authoritive source.
+
+I’ve cited two such commentaries on the issue – but there are many more in the same vein. It’s my view that the core problem at the heart of those discussions is a belief that the Bitcoin network adds no value. If that is the starting point, it’s unlikely that the conclusions arrived at will ever be objective.
+
+A Move Towards Stranded, Surplus & Renewable Power
+
+Cryptocurrency and its mining component is a nascent industry that Is a long way from reaching maturity. The wonderful thing with new energy-intensive technologies is that they veer towards efficiency. To that end, on Friday Bitmain – one of the world’s largest producers of crypto mining equipment – announced the introduction of its latest generation of mining chip. The Antminer 17 series achieves a 29% improvement in energy efficiency by comparison with the previous series.
+
+In the Bitcoin mining game, extracting that last drop of savings in terms of energy requirement effects the bottom line. With that, there’s a need for the discussion to center upon where power is produced rather than how much the Bitcoin network requires. Are there Bitcoin mining farms that are powered by dirty coal? Definitely.
+
+However, there has been considerable movement towards the use of renewable power, surplus power and stranded power. In testament to that, earlier this month it came to light that Bitmain plan on deploying 200,000 units of their own mining equipment inventory (with a value of $80 million) to mining farms in south-west China in order to benefit from cheap hydro-electric power.
+
+Bitcoin mining farms have been established in Quebec, Canada – where cheap hydro-electric power is bountiful. The same has happened in Iceland where excess hydro and geo-thermal based power can be exploited. On occasion, there have been instances of local needs competing with Bitcoin miners for available power. However, if the appropriate regulations are put in place, this doesn’t have to be an issue.
+
+In addition to areas with excess, renewable power, there are regions with stranded power potential. These are locations that are not even on the grid – and there would otherwise be no need to bring a facility online there as there is no local need to serve. In these instances, projects are being established solely for the purpose of Bitcoin mining – with the funding being provided from sources within the crypto industry.
+
+Last year, private equity company Brookstone Partners announced that it was putting $150 million in place to develop a 900 megawatt windfarm in the Sahara desert. The project demonstrates a prime example of stranded renewable power which can be utilized for the purpose of Bitcoin mining.
+
+In many power-generating plants, power is wasted due to the processes used or as it simply is in excess of what is required at times. This applies to fossil-fuel based generation as well as renewables. According to Reuters , 12% of total wind power generation in China was wasted in 2017.
+
+An innovative approach has been taken on an oil field in Canada recently, with Bitcoin being mined with energy that would ordinarily be wasted. As part of the process of extracting petroleum, natural gas is often ‘flared’ off. In an effort at greater efficiency, the field operator has placed bitcoin mining equipment on site and is using the natural gas as a power source.
+
+The conversation needs to change to a consideration of a need to demand power producers to provide industry with clean power.
+
+Added to that, proactive regulation can guide the industry and ensure that only renewable power is accessed in locations where local people will not be impacted in terms of their power needs being met.

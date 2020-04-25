@@ -1,0 +1,49 @@
+DATE:  01.07.2019, 12:57:32
+TITLE: The answer to forecasting Bitcoin may lie in artificial intelligence
+URL:   https://theconversation.com/the-answer-to-forecasting-bitcoin-may-lie-in-artificial-intelligence-119152
+
+As Bitcoin tries to regain some of the lustre it held in late 2017 when it nearly reached US$20,000 in value, investors are still questioning how to predict such a volatile currency.
+
+As a cryptocurrency, there is no physical form that gives Bitcoin value, so it is impossible to perform traditional fundamental analysis of the currency. Consequently, many investors track the so-called technical trading indicators (geometric patterns constructed from historical prices and trading volumes) in order to understand and predict Bitcoin’s future movement.
+
+Some researchers have found success with large complicated models. But these sometimes have hundreds of variables (or predictors) and it is difficult to determine key factors or test the replicability of such approaches. It’s also hard to understand what factors really drive Bitcoin fluctuations on the market.
+
+For over 20 years, I have been researching the applications of AI in finance. At the Lang School of Business and Economics at the University of Guelph, my co-author and former graduate student Robert Adcock and I created an artificial neural network (ANN) model to test the predictability of Bitcoin prices.
+
+Predicting fluctuations
+
+We used technical indicators called moving averages as predictors. Moving averages are constructed by averaging prices over a period of time (e.g. 50 or 200 days) and plotting them as a line along with the prices. The rationale for using moving averages is that if the price of Bitcoin today becomes greater or lower than the average price over the past 50 or 200 days, traders could expect the emergence of an upward or downward trend.
+
+If Bitcoin is unpredictable, then our model is not expected to beat the random walk model — essentially, it is no better than guessing.
+
+However, our model provided some very interesting results regarding Bitcoin’s predictability over time and during bouts of unusual volatility.
+
+Kiichiro Sato/AP Photo
+
+Artificial intelligence forecasts
+
+Using daily observations from 2011-2018, we created an ANN with three predictors: returns, 50-day buy-sell signal and 200-day buy-sell signal.
+
+We also tested an ANN model that included the Chicago Board Options Exchange Volatility Index (VIX) to see if stock market volatility had any noticeable effect on Bitcoin movements. The VIX is an index providing theoretical 30-day market expectations as based on the S&P 500 Index. Higher values of VIX indicate that the market will make a large swing.
+
+Artificial neural networks operate in a similar way to the basic functioning of the human brain. Our model takes predictors, or inputs, and outputs (the daily price change of Bitcoin) and attempts to learn a pattern from all the data. It continues to test its patterns until it reaches an optimal point where further testing is redundant. These advanced models form the backbone of many AI learning programs that are used in business and engineering.
+
+By combining Bitcoin technical analysis and neural networks, we hoped that the ANN would find a pattern among the data that allowed us to more accurately predict future returns.
+
+Non-traditional investors
+
+Our ANN model did indeed succeed in reducing the prediction error of the random walk by about five to 10 per cent over the full observation period. These forecast improvements are statistically significant, indicating that predicting Bitcoin prices on a daily basis is no longer guesswork. Our results show that Bitcoin is unaffected by how the stock market changes, which suggests that traditional market investors and investors in Bitcoin are two distinct groups.
+
+We also separated the data into four subsamples of similar time frames to further zoom in on market inefficiencies. Our ANN’s predictive performance improved further within these subsamples.
+
+One subsample, running from October 2014 to June 2016, provided the best results of the study. The isolated 200-day signal model outperformed the random walk by 43.55 per cent. We noted that this subsample had low volatility compared to the other three subsamples and was the steadiest period of data we observed. In essence, greater market volatility makes learning data patterns and training of the ANN model more difficult.
+
+Along with price accuracy, we also observed how often our ANN models correctly predicted whether prices would increase or decrease. Our main comprehensive model over the entire 2011-2018 period had nearly 63 per cent prediction accuracy. Put differently, Bitcoin trading with our model would be on average more profitable than placing random buy and sell orders that have a 50 per cent chance of making a profit.
+
+Speculation and predictive bubbles
+
+Compared to other predictive models, our ANN provided the most accurate and reliable predictive method for Bitcoin. We concluded that the historical evolution of daily Bitcoin prices followed predictive trends (or bubbles) that potentially arise from the speculative nature of cryptocurrency trading.
+
+Read more: How low will Bitcoin now go? The history of price bubbles provides some clues
+
+We believe that the future of forecasting Bitcoin — and perhaps investing in general — lies in the abilities of artificial intelligence and artificial neural networks. While people may argue over the merits of Bitcoin as a currency, we can at least appreciate it as a fascinating — and now easier-to-predict — commodity.

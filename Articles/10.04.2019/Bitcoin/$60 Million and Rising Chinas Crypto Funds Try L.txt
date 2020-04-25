@@ -1,0 +1,105 @@
+DATE:  10.04.2019, 08:00:51
+TITLE: $60 Million and Rising: China’s Crypto Funds Try Lending to Beat Bear Market
+URL:   https://www.coindesk.com/60-million-and-rising-chinas-crypto-funds-try-lending-to-beat-bear-market
+
+The Takeaway:
+
+Crypto investment firms in China have turned to lending for a steady revenue stream to get through the bear market, including Bixin Capital, FBG Capital and Dong Zhao’s DGroup.
+
+Each of these firms currently holds about $15 million worth of outstanding loans originated over the last five months.
+
+Although most of these lenders don’t directly deal with Chinese yuan, they see borrowing demand domestically from retail investors, trading desks and cryptocurrency miners.
+
+Several cryptocurrency investment firms and funds in China have turned to lending for a steady revenue stream to get through the bear market.
+
+These new crypto lenders include such notable names as Bixin Capital, FBG Capital and DGroup, founded by Dong Zhao, who made a name by operating one of the longest-running over-the-counter (OTC) trading desks in China. Along with a startup called Babelbank, these investors have originated a combined $60 million worth of loans over the last five months, denominated in cryptocurrencies or, in one firm’s case, Chinese yuan.
+
+The demand, they say, comes mostly domestically, from retail investors, hedge fund traders, and perhaps most unexpectedly, cryptocurrency miners.
+
+“The demand for personal crypto loans doesn’t fluctuate that much regardless of market conditions,” said Xi Wang, head of financial markets at Bixin Capital. “So, in a bearish market, making profits from lending assets is relatively a much [more] stable bet.”
+
+Bixin Capital launched its crypto lending business in November 2018 since activities on the investment side had slowed down, letting customers borrow bitcoin (BTC), ether, EOS, litecoin and tether (USDT) from its own reserve.
+
+For the loans, the firm requires borrowers to put up one of the five supported assets as collateral, and charges an annualized interest rate of about seven percent.
+
+Currently, it has an outstanding loan volume of around $10 million worth of the U.S dollar-pegged USDT, on which it is earning steady interest of “several BTC” per month, Wang said.
+
+Similarly, Vincent Zhou, founder of FBG Capital, also said while his firm has long been involved in crypto loans, it didn’t formally launch a lending unit mid-2018, and now has about $15 million worth of cryptocurrencies as loan receivables.
+
+Bixin, which started as a wallet and mining pool service in 2014, established Bixin Capital in 2017 to invest in cryptocurrency projects entirely with its own capital, without limited partners.
+
+As such, lending is a different kind of investment than Bixin is used to, Wang acknowledged, telling CoinDesk:
+
+“In a way, you can say it’s like a role shift, from investment banking and private equity to commercial banking.”
+
+However, in one respect, this is much unlike bank lending.
+
+Collateral, collateral, collateral
+
+What makes crypto lending different from conventional bank loans is that the only risk control is strict enforcement of collateral requirements and forced liquidation, both Zhou and Wang said.
+
+Wang added:
+
+“It’s a must. Conventional bank loans are based on your education, credit scores, jobs, properties, etc. We don’t evaluate any of these. That’s why our risk control must be completely on collateral.”
+
+For instance, he explained, for Bixin, depending on what crypto serves as collateral, the collateral rate could range between 70 to 75 percent. So if a customer can put up $100 worth of BTC as collateral, they can borrow about $70 worth in USDT.
+
+In the case above, if the price of the BTC decreases to around $78, causing the collateral rate to go above the threshold of 95 percent, borrowers must either put in additional BTC to lower the rate, or Bixin will force-liquidate the held bitcoin at the current price.
+
+Both Wang and Zhou said while their firms essentially play the role of a crypto bank, they are staying away from dealing with Chinese yuan.
+
+Zhou told CoinDesk:
+
+“There are lots of issues with lending Chinese yuan. One is that when we collect debts in fiat currency, it’s difficult for us to ensure that money is clean.”
+
+Wang echoed that sentiment, adding that when Chinese yuan is involved in this context, it could lead to inquiries from law enforcement and could result in bank accounts being suspended.
+
+But this vacuum presented an opportunity for Dong Zhao’s DGroup, which is operating its own crypto lending platform called RenRenbit.
+
+Rather than acting as a lender itself, the firm serves as a consumer-to-consumer advertising platform to allow customers to borrow either Chinese yuan or crypto assets from third-party investors on the platform, with other types of assets held by RenRenbit as collateral.
+
+Wei Wang, chief technology officer at RenRenbit, said in an interview that four months after the platform went live in November, it has facilitated $15 million to $20 million of loans, 60 percent of which are currently outstanding. And notably, that loan volume came from the pockets of just around 200 investors on its platform.
+
+He added that prospective borrowers have the option to set a limit of the annualized interest that they will be charged, usually from 8 percent to 12 percent, and investors decide whether they want to lend the money.
+
+Similarly, RenRenbit enforces a collateral rate that ranges from 65 percent to 85 percent, depending on what assets are pledged as collateral. The rate can be higher if the collateral is a more stable asset such as USDT, than say, bitcoin, Wang added.
+
+And the company makes money by charging a 20 percent commission out of the profits or interest investors collect on each loan, he said. It has also rolled out automatic crypto investment plans to attract more newbies, through which investors deposit Chinese yuan regularly to the platform, which is then converted to various crypto assets based on different portfolio strategies.
+
+Who’s borrowing?
+
+Stepping back, cryptocurrency lending appears to be gaining traction outside China as well.
+
+For instance, Galaxy Digital, the cryptocurrency fund backed by billionaire investor Michael Novogratz, is aiming to raise a fund of $250 million for lending.
+
+BlockFi, a crypto lender backed by Galaxy Digital, also claimed it gathered $25 million of bitcoin and ether deposits from investors in two weeks, promising an annualized six percent interest. It’s lending out those assets and charges institutional borrowers annual interest of 4.5 percent.
+
+It’s easy to see why lending – along with staking of cryptocurrencies such as Tezos – is appealing right now, since these activities generate a return at a time when crypto prices have been in a slump (this week’s rally notwithstanding). But who is borrowing these assets, and why?
+
+Bixin’s Wang said while the firm doesn’t require borrowers to disclose how they intend to use the loans (since its risk control solely relies on collateral), a significant portion of the demand comes from cryptocurrency miners in China who’d rather borrow USDT and liquidate that into Chinese yuan via OTC desks to pay for their electricity bills.
+
+He explained:
+
+“In a bearish market, miners are reluctant to liquidate their mining results when the price of bitcoin is at the lower end. When you’ve seen bitcoin was once traded at $20,000, you’d feel that’s a huge opportunity cost.”
+
+Indeed, Beijing-based Babelbank, which started off as a crypto bank startup last September, said over 90 percent of its current $27 million outstanding loans are made to cryptocurrency miners in China, who are gearing up their capacity ahead of the water-abundant summer in the country.
+
+Del Wang, co-founder of BabelBank, which raised $2 million in seed and angel rounds from ZhenFund, Lightspeed Partners and NEO Capital, told CoinDesk:
+
+“As long as the ratio of electricity costs over mining results is lower than our collateral rate, a miner may never need to sell any bitcoin to pay utility bills – they borrow. And when a loan’s term matures, they just borrow another loan (to pay for previous loans).”
+
+For miner borrowers, that’s simply a bet, hoping that bitcoin’s price will be higher in the coming months, reaching a point at which they are willing to sell.
+
+The price for having that optionality of not paying mining costs out of their own pockets is they need to pay an annualized 8 percent to 12 percent in interest.
+
+And aside from crypto miners, Bixin’s Wang said OTC and hedge fund traders in China are also strong forces in borrowing bitcoin, with USDT as collateral, so that they can build up basic trading positions without owning a more volatile asset.
+
+“More interestingly, some are even borrowing USDT with bitcoin as collateral and then invest in China’s stock markets,” Wang said.
+
+The SSE Composite Index, which is a market index of all stocks traded on the Shanghai Stock Exchange, has notably increased by nearly 30% this year.
+
+This may present a dilemma of sorts for investors. Referring to the rally in yuan-denominated stocks, known in China as A-shares, Wang concluded:
+
+“They certainly didn’t want to miss out on the opportunities in A-shares. But then, what if bitcoin can even outperform the stock markets?”
+
+Bitcoin and Chinese yuan image via Shutterstock

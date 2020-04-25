@@ -1,0 +1,81 @@
+DATE:  31.03.2020, 19:50:10
+TITLE: Bitcoin’s Lightning Becomes Latest Protocol to Court Publishers With Micropayments
+URL:   https://finance.yahoo.com/news/bitcoin-lightning-becomes-latest-protocol-195010548.html
+
+The trouble with bitcoin payments these days may be a lack of spenders, not spending opportunities.
+
+On Monday, the Silicon Valley bitcoin startup Lightning Labs announced a new standards proposal that makes it easier for companies to automate small bitcoin (BTC) payments, like ongoing subscriptions.
+
+“We are using this product for our Loop service, it’s already in production,” Lightning Labs engineer Oliver Gugger said of the standards proposal called LSAT. “It’s not all the way there. We’ve just proposed the protocol.”
+
+Related: Online Black Markets’ Bitcoin Revenues Take a Hit Amid Pandemic
+
+LSAT, an open-source feature, is already being used to serve real customers by the startup Tieron, which offers time-stamping services. Gugger acknowledged this and said he hopes Lightning Labs will help establish an industry-standard across different services, from client-facing options like crypto paywalls to backend functions like recordkeeping.
+
+Read more: Grasping Lightning: Mapping the Key Players in Bitcoin’s Next Phase
+
+“We lead by example and hope all these different, fragmented protocols that are already out there can become compatible with each other,” Gugger said, emphasizing such standards could ease the way for companies outside the space looking to accept bitcoin payments. The question of what types of services Lightning Labs would enable is still unclear, due in part to the fact current demand is primarily research at crypto startups.
+
+Seeking users
+
+It remains to be seen how, or if, demand will manifest. It’s already possible to integrate crypto payment processing into an established publishing platform in a proprietary way.
+
+Related: Cannabis Shops Are Using Zap’s Lightning App During Coronavirus Cash Crunch
+
+Tieron engineer Buck Perley made a related open-source Lightning tool with LSAT, Boltwall. This could theoretically be used to create a bitcoin paywall for content. But no one has asked for this use case yet, Perley said. Instead, most of Tieron’s clients ask for the startup’s time-stamping product, Chainpoint, which utilizes the Lightning functionality.
+
+Story continues
+
+“You couldn’t really say Chainpoint is a customer, but there was demand for this kind of tool. And Boltwall made it easier for us to implement an LSAT/Lightning-enabled paywall,” Perley said. “I also have a personal belief that the subscription model so many platforms are trying to fall back on is not sustainable in the long run. Having a couple dozen subscriptions across many different kinds of content distribution platforms just feels problematic to me.”
+
+Read more: Lightning Labs Raises $10M Series A to Be the ‘Visa’ of Bitcoin
+
+There are free software tools and paid services available for any site that wants to accept bitcoin for digital content, which the Lightning Network experiment Yalls has been for more than two years. Yet so far only a few outlets, such as Forbes, are experimenting with cryptocurrency payments.
+
+CoinDesk itself experimented with crypto tips nearly four years ago. Currently, there are 47,025 publishers that can indirectly receive Brave’s Basic Attention Tokens (BAT), according to unofficial data site BATGrowth. The Brave option is by far the widely used to date. Still, for CoinDesk at least, it’s attracted a mere pittance.
+
+As of January 2020, CoinDesk readers have contributed 19,213 in BAT tips, currently worth less than $3,000, according to CoinDesk Managing Director Jacob Donnelly. It should be noted that CoinDesk hasn’t completed the steps with Uphold (Brave’s wallet provider) to verify corporate identity, he said, so these funds are not under CoinDesk’s control.
+
+Experimental paywalls
+
+Although they remain niche, a handful of adjacent projects are experimenting with crypto-powered paywalls without LSAT.
+
+Forbes, for example, accepts ether (ETH) for an ad-free reader experience, utilizing subscription services from the crypto startup Unlock. Independent reporter Camila Russo also uses Unlock to accept dai stablecoin payments for her newsletter about Ethereum. Russo said “hundreds” of subscribers, roughly 40 percent of her paid readership, use this option. Even among Ethereum fans, most prefer to pay with a credit or debit card.
+
+“I’m still using Substack to publish my content,” Russo said. “[Unlock] doesn’t provide the actual infrastructure to publish the content, so the value proposition with Substack and Patreon is a little different for now.”
+
+So far, experiments for crypto payments like the ConsenSys spoke Civil aren’t sustainable based on subscriptions alone. (Civil CEO Matthew Iles said the startup isn’t ready yet to publish results from their experiments.) Other crypto payment tools have struggled to garner buy-in from the media industry itself.
+
+Read more: ConsenSys-Backed Civil Tries Again on Newsroom Token Launch
+
+For example, the anonymous European engineer behind MicroPay said he took the Lightning tool offline for compliance reasons after just one day. It would download content from behind a paywall and send a PDF in exchange for a few cents worth of bitcoin to the engineer’s personal node. Now he’s exploring ways to get outlets to use it to address the audience demand to “read two to three articles max a month” without registering for a full subscription and submitting personal information.
+
+“MicroPay can be used for other things as well, not just paywalls,” he said. “Any service which asks for micropayments can go through.”
+
+Early days
+
+The reason such tools haven’t found product-market fit yet is all about getting the outlets onboard.
+
+As Unlock CEO Julien Genestoux said, outlets want readers’ emails and personal details because they want to send newsletters, sell tickets to events and find other ways to engage with audiences.
+
+“I just want to say the [crypto] wallet in my browser is my identity,” Genestoux said. “Think of a paywall as a membership. … When I transfer [the Unlock non-fungible token] to someone, now they’re a member. I’m not anymore.”
+
+That type of fluid membership is difficult for traditional outlets to monetize. Plus, offering outlets a tool to accept currencies that few people actually want to spend hasn’t inspired much enthusiasm from publishers. Some publishers are also concerned about any extra compliance hurdles accepting crypto might cause, Genestoux said.
+
+On the other hand, niche publishers such as Hard Times CEO Matt Saincome are curious about currency-agnostic options. His online satire outlet uses Coil, an in-browser app made by former Ripple CTO Stefan Thomas. Users can load up their Coil accounts with a few dollars worth of credit, using cryptocurrency or credit cards, then read Hard Times content without ads and eventually gain access to exclusive content.
+
+Read more: Ripple to Give Away 1 Billion XRP in Massive Bid to Fund Online Content
+
+“I’m actually changing the direction of my business to be more geared towards it,” Saincome said. “It’s great because I don’t have to disrupt my ad revenue in order to try this. … Even if they [users] are paying in XRP, I can get U.S. dollars.”
+
+Saincome said Coil isn’t a significant revenue stream yet, but he expects that to change as cryptocurrency gains more mainstream adoption.
+
+“I wish I was a YouTuber right when YouTube was starting. That’s how I feel about Coil,” he said.
+
+On the other hand, some crypto fans are striking out on their own rather than looking to serve publishers.
+
+For example, BSV-focused developer Brad Jasper has roughly 100 user accounts on his closed beta blogging platform that went live in January, Bit.sv. He said at least 1,000 more crypto fans are on the waiting list. Although Bit.sv only pays creators in BSV, the platform can accept bitcoin, litecoin (LTC) or ether as well.
+
+“Imagine if you could move banks with just a few clicks. That’s what it will look like to move between these providers,” Jasper said, explaining how content creators could become more independent with blockchain platforms instead of sites like Tumblr or Medium. “I think the venture capital [media model] is dead.”
+
+Related Stories

@@ -1,0 +1,157 @@
+DATE:  06.02.2019, 08:31:32
+TITLE: OTC Crypto Market - at a glance
+URL:   https://www.finextra.com/blogposting/16628/otc-crypto-market---at-a-glance
+
+Over the Counter (OTC) cryptocurrency trading is becoming increasingly popular across the globe. Here’s how it works, who the major players are, and its general pros and cons.
+
+OTC market size
+
+In April 2018, Bloomberg reported that the daily OTC market was anywhere between $250 million and $30 billion per day. This is compared to around $15 billion per day on crypto exchanges.
+
+The volumes being reported vary wildly. Bravecoin.com reported in April that the daily OTC volumes were three times the size of exchanges2. TABB Group estimated the OTC market to be valued at $12 billion per day, whilst Digital Asset Research quoted $250 million.
+
+What is generally agreed is that daily OTC volumes for cryptocurrency are much larger than exchange-traded volume, but given the market’s opaqueness it’s impossible to be entirely sure. Further confusing things are claims that crypto exchanges have been artificially inflating their disclosed volumes.
+
+Why use an OTC broker (and not a crypto exchange)?
+
+• Lack of liquidity - Crypto exchanges have low liquidity in their order books. OTC desks are good for pushing through large trade orders searching for market liquidity.
+
+• Price protection, Anonymity - OTC is good for moving large orders which avoids impacting the price, e.g. 1,000 BTC. Order depth will not show up like it does on an exchange.
+
+• No fiat onramp - few crypto exchanges have a fiat onramp (though Binance is working on it and already have some solutions in place in Asia).
+
+• Avoid price ‘slippage’ - price slippage occurs on exchanges when the executed price is different to the expected price.
+
+• Avoid prohibitive crypto exchange limits - The majority of crypto exchanges have prohibitive trading limits. For example, Coinbase limits purchases to $25,000 per day. Kraken only lets you withdraw $2,500 per day and $20,000 per month. Circle imposes withdrawal limit of $3,000 per week.
+
+Who are the main buyers and sellers?
+
+At the moment, the main buyers are hedge funds and the main sellers are miners. In Oct 2018, it was reported in Reddit Rumours that hedge funds were buying large volumes from miners.
+
+
+
+The main participants trading crypto OTC are:
+
+• Hedge funds, smaller asset managers, family offices (buyers).
+
+• Miners (sellers).
+
+• Regulated broker-dealers (on account).
+
+• Crypto exchange OTC desks (on account).
+
+Which geographies are driving the majority of OTC trading?
+
+• Asia
+
+• North America
+
+It was reported in October 2018 that 33 percent of Cumberland Mining’s OTC trades were processed during Asian hours, suggesting that large miners such as Bitmain’s Antpool and BTC.com are regularly liquidating Bitcoin generated from their mining operations.
+
+OTC trading types explained
+
+• Dealer, Trader - trade with their own money, or ‘on behalf of’ someone through their own account.
+
+• Brokers - an intermediary who finds buyers and sellers.
+
+• Exchange OTC desks - crypto exchanges who run OTC desks (servicing clients who don’t want to trade on exchange).
+
+How are the buyers and sellers finding each other?
+
+• Through private, public and broker specific chatrooms:
+
+- Broker hosted secure chat rooms.
+
+- IRC chatrooms #bitcoin-otc.
+
+- Skype chatrooms (hosted by Cumberland).
+
+- Telegram, even LinkedIn (according to Forbes) - six figure trades are common.
+
+• Through OTC Brokers
+
+- iTBit OTC.
+
+- HiveEx OTC.
+
+How is the off-exchange market executing?
+
+• Through OTC brokers like Octagon Strategy, Genesis Trading and Circle.
+
+• SFOX also offer advanced software for price discovery and price execution. For example, they can enable top of all order book execution across exchanges, and weight average execution.
+
+• The majority of brokers execute based on Request for Quote (RFQ) an
+
+‘Fill or Kill’ (FOK).
+
+What are the problems with OTC?
+
+• Settlement risk - there is no guarantee the asset will be delivered, or cash will be paid. Coin transfer often happens much faster than the wire payment transfer (often by several hours).
+
+• No custody solution - most OTC brokers don’t provide a custody solution (or provide a very limited service), which can increase settlement and operational risk.
+
+• Multi-jurisdictional KYC issues - dealing with countries with poor.
+
+
+
+KYC regulations can be a deal breaker
+
+• If you execute through an OTC broker you need, for example, to deliver the BTC to the broker. There is no guarantee the brokers client will pay.
+
+• The larger the order the greater the risk of default with multiple counterparties.
+
+• OTC crypto is missing the monitoring and surveillance tools of traditional trading systems.
+
+
+
+Is emerging software solving these problems?
+
+• Fiat onramps are being built.
+
+• Fidelity, the world’s fifth largest asset manager, is going to start storing and trading crypto to be sourced from OTC markets for institutional investors.
+
+• Software needs to replicate settlement, clearing and risk management systems.
+
+• OTCXN - building a multi-custodian solution with a clearing and settlement mechanism that connects Liquidity providers. Creating a Layer 2 network sitting above the public ledger.
+
+• OTCXN - partnering with Kingdom Trust and Prime Trust (both registered and qualified Custodians with the SEC).
+
+• Caspian - recently raised $20 mill through an ICO. Wants to build a single user interface that connects to major exchanges. Partnering with BC2C.
+
+Case study: Enigma Securities
+
+The process around negotiating a price for an OTC transaction can vary depending on a number of factors, including your counterparty’s preference, the leverage each party has in the negotiation, and the size of the transaction. All OTC transactions begin by finding a counterparty for the trade. Once that relationship has been established and trust gained (usually by being a ‘qualified’ counterparty), the liquidity-seeking party (the buyer in this case) will signal their intent to trade by communicating the size of the trade and the asking price. The selling counterparty will then respond with its own offer price for the trade, often in the form of a percent below a leading exchange’s best asking price. This is to entice the buyer away from purchasing on exchange.
+
+Many miners of Bitcoin are well known to offer large discounts to sell large orders quickly. It is rumored that HUT 8, a Canadian miner, mines anywhere between 3-5,000 Bitcoin a trimester and sells in this way. Once a price is set and the transaction is confirmed, fiat funds will be transferred to the counterparties bank account or an escrow bank account held by a third party. If executing through a broker both counterparties will be required some form of diligence checks such as KYC/AML and ensure they are complying to local laws and regulations (if cross-border). The seller of Bitcoin will transfer the digital assets straight to the buyer’s digital wallet or an escrow digital wallet held by a third party.
+
+In the case of Enigma Securities, the buyer of Bitcoin will transfer fiat currency to a regulated custodian in New York and the seller of Bitcoin will transfer the digital asset to the digital wallet of the same regulated custodian in New York. Once both sides of the trade are received by the regulated custodian they can be released to the respective counterparties.
+
+According to Enigma Securities:
+
+• There will always be demand for OTC trading but expect the market to shrink as the exchange market matures and consolidates.
+
+• The OTC market will continue to be the preferred path for miners to liquidate in the foreseeable future.
+
+• Most institutions already have OTC desks and infrastructure so expect this market segment to become even more competitive.
+
+Conclusion:
+
+• The OTC market will always have a role to play where a) the market is illiquid, or b) the buyer/seller has a large order and they don’t want to move the market price unfavorably.
+
+Further reading
+
+1. Uncharted Bitcoin OTC Markets Gear Up For Institutional Inflows,
+
+Forbes, October 2018
+
+2. How to Buy Large Amounts of Bitcoin Through the OTC Market,
+
+December 2014
+
+3. Institutional Investors Increasingly Using OTC to Avoid Crypto
+
+Exchange Limits, October 2018
+
+4. Report: Institutions Stocking Up on Cryptocurrency Behind
+
+Closed Doors, October 2018.

@@ -1,0 +1,29 @@
+DATE:  03.05.2019, 23:50:30
+TITLE: Alternative Bitcoin Cash Full Node Bchd Now Includes Public API
+URL:   https://news.bitcoin.com/alternative-bitcoin-cash-full-node-bchd-now-includes-public-api/
+
+Alternative Bitcoin Cash Full Node Bchd Now Includes Public API
+
+On May 3, the developers behind the Bchd project, a Bitcoin Cash full node implementation written in Go (golang), announced the release of a public application programming interface (API). The latest API feature shipped with the new version 0.14.3 offers an out-of-the-box solution that the Bchd developers say “just works.”
+
+Also read: Indian Supreme Court Postpones Crypto Case at Government’s Request
+
+Bchd Developers Announce Public API
+
+This week, Bchd developers announced the gRPC API for the alternative full node bitcoin cash implementation written in Go (golang). The Bchd project already provided users with a high powered and reliable server with features like “fast sync mode” which allows the client’s initial chain sync to download in record time. The node also already included attributes like BIP113, 157, 158, and an adjustable block size cap. With the new public API, Bchd developers reported that it makes Bchd one of the top indexing blockchain servers for BCH. The programmers remarked that other full nodes like Bitcoin Core, ABC, and Unlimited only utilize enough data needed to maintain a local wallet. Because of this, blockchain engineers have to rely on indexing servers like Bitpay’s Insight which require more software on top of the full node.
+
+There are other nuisances involved with alternative methods like Electrum’s stratum API and the heavy C dependency when developers use Libbitcoin. The gRPC scheme Bchd uses will make it much easier for blockchain engineers to have better indexing experiences and a reliable RPC framework that was created by Google.
+
+“With bchd Bitcoin Cash developers have an out-of-the-box solution that just works — You simply download the binary and run it — That’s it,” the Bchd programmers explained.
+
+Bitcoin Cash Community Excited to See More Development Progress
+
+The Bitcoin Cash community was thrilled to hear the latest announcement from the Bchd team. “Hell yeah, can’t wait to play around with this,” one commenter on the Reddit forum r/btc stated. Another asked the Bchd maintainer and Openbazaar developer Chris Pacia what the public API meant in layman’s terms. “It’s easier than all existing solutions for developers to interact with the blockchain — So maybe you’ll see some apps built with it,” Pacia responded. Pacia detailed that the gRPC can also handle push notifications or connections and disconnections that can be streamed to the client. “The transaction endpoint offers a variety of filters you can use to filter transactions,” the developer added.
+
+BCH developer and Bitbox creator Gabriel Cardona also added to the discussion and revealed that he’s been discussing gRPC integration for the Bitbox stack. There are lots of benefits to the gRPC like working with any language as opposed to solely using Javascript. Another benefit is how developers won’t have to deal with hand-crafted JSON call objects as all requests and responses are strongly typed and code-generated, the Bchd programmers noted. “No more second-guessing the meaning of error code as gRPC status codes are a canonical way of representing issues in APIs,” the Bchd programmers further mentioned. Over the last few months, there’s been a lot of BCH development and the latest gRPC addition to the alternative Bchd full node can help strengthen BCH infrastructure even more.
+
+What do you think about the Bchd public API release on version 0.14.3? Let us know what you think about this subject in the comments section below.
+
+Image credits:
+
+Are you feeling lucky? Visit our official Bitcoin casino where you can play BCH slots, BCH poker, and many more BCH games. Every game has a progressive Bitcoin Cash jackpot to be won!

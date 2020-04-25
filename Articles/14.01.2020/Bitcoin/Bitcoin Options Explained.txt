@@ -1,0 +1,35 @@
+DATE:  14.01.2020, 13:35:00
+TITLE: Bitcoin Options, Explained
+URL:   https://cointelegraph.com/explained/bitcoin-options-explained
+
+2. Option basics: Buying and writing, calls and puts
+
+Options contracts come in two forms: call and put options. Call options give the buyer the option to purchase an underlying asset at a given strike price, while a put option gives the buyer the option to sell an underlying asset at a given strike price.
+
+Calls and puts provide the basic levers for writers and buyers of options to speculate and/or hedge their portfolio. At the most basic level, the buyer of a call profits when the underlying asset price is greater than the strike price, and the buyer of a put profits when the underlying price is less than the strike price. But let’s take a deeper look at how each contract functions for each market participant:
+
+The Long Call –– POV: Buying a call option, Sentiment: Bullish
+
+A trader who buys a call option believes the underlying asset’s price is going to increase. While traders could simply buy the asset outright, they then have direct exposure to the asset’s price risk up to its entire principal –– this is especially risky with a volatile asset class. When buying a call, however, the risk is capped at the premium paid to purchase the option. The potential profit, however, is determined by the amount the spot price is over the strike price plus the premium. For example, if the strike price is $100 and the premium paid is $10, then a spot price of $120 would lead to a profit of $10.
+
+Source: https://commons.wikimedia.org/w/index.php?curid=6406406
+
+The Short Put –– POV: Writing a Put Option, Sentiment: Bullish
+
+Another option for traders who believe an asset price will increase is to write/sell a put option. When selling a put option, traders agree to buy the underlying asset at the strike price if the buyers choose to exercise their right to sell. If the spot price of the asset is greater than the strike price, buyers will choose not to sell, and the option writer will profit from the premium.
+
+Source: https://commons.wikimedia.org/w/index.php?curid=6406498
+
+The Long Put –– POV: Buying a Put Option, Sentiment: Bearish
+
+If traders are bearish on the asset in question, they may choose to buy a put option, giving them the option to sell at the strike price, as opposed to shorting the stock. Similarly to the Long Call above, this limits the risk of loss to the premium paid for the option. When buying a put option, buyers will profit if the spot price is below the strike price by greater than the premium paid. For example, if the strike price is $100, and the premium paid was $10, then a spot price of $90 will break even, and anything lower will profit.
+
+Source: https://commons.wikimedia.org/w/index.php?curid=6406492
+
+The Short Call –– POV: Writing a Call Option, Sentiment: Bearish
+
+The other option for traders predicting a decrease in price is to write/sell a call option. When writing a call option, traders agree to sell the underlying asset at the strike price if buyers exercise their right to buy. Similar to the Short Put above, this strategy aims to collect the premium on the option, while buyers choose not to exercise their option; this occurs when the spot price is lower than the strike price. If the spot price is higher than the strike price, the writer of the call will have to sell the asset at a discount.
+
+This strategy is commonly used as part of a covered call strategy, as explained below.
+
+Source: https://commons.wikimedia.org/w/index.php?curid=6406496

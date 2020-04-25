@@ -1,0 +1,37 @@
+DATE:  18.12.2019, 14:27:45
+TITLE: Do Bitcoin Transactions Need Six Confirmations?
+URL:   https://bitcoinmagazine.com/articles/mathematics-research-suggests-six-confirmations-arent-really-needed-bitcoin-transactions
+
+Ring in the new bitcoin halving cycle the right way: with us!
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+In a recent research paper, European mathematicians Cyril Grunspan and Ricardo Pérez-Marco demonstrated through calculus and game theory that, thanks to the robust network security and relatively high BTC price, small bitcoin transactions may not need the six confirmations typically required by merchants and exchanges.
+
+Published on the computer science and cryptography section of Cornell University’s arXiv library, the paper takes on the calculations of Satoshi Nakamoto, as presented in subchapter 11 of the Bitcoin white paper.
+
+“Our new paper combines two main previous results,” Pérez-Marco told Bitcoin Magazine. “The first one is the exact computation of the probability of success [of a double spend attack] (“Double spend races,” 2017) and the second one takes into account the exact model for profitability that we developed for analyzing selfish mining strategies (“On profitability of selfish mining,” 2018).”
+
+In a nutshell, this new research paper asks: “How profitable is it to double-spend a transaction and how many network confirmations are really enough to financially incentivise honest mining?”
+
+When Double Spending Isn’t Worth It
+
+According to the findings presented, a potential attacker who owns 1 percent of the total hash rate would have to spend at least 50 coinbases (currently 625 BTC and 312.5 after the 2020 halving) in order to revert a single confirmation. To revert two confirmations, the cost would be 1,666 coinbases, according to the research.
+
+“What we compare is the profitability of the double spend and honest mining,” Pérez-Marco explained. “For a small transaction, any major miner with high hashrate has no interest in engaging into a minor double spend. And in the case of small miners who possess less than 1 percent of the hashrate, only a big amount can justify a double spend from the profitability point of view. For example, with a 1 percent hashrate, and only 1 confirmation requested, the minimal amount to double spend is more than 49 coinbases, that is currently more than 612 BTC.”
+
+After taking into account multiple scenarios and doing all of the calculations involved, Grunspan and Pérez-Marco reached the conclusion that, after two network confirmations, it’s more profitable to mine honestly than to double spend. This game theory conclusion is applicable even in cases where the value of the transaction equals the coinbase.
+
+From Theory to Practice?
+
+While the research includes interesting findings which explain the costs of double spends in multiple scenarios, its real-world impact still remains to be seen. The habit of waiting for six confirmations is inherited directly from Nakamoto but is not set in stone. Every sovereign participant in the Bitcoin network is free to lower the threshold to two or three confirmations if they wish.
+
+“Six confirmations is not a protocol rule, but just a common and customary request made by the transaction recipient,” concluded Pérez-Marco. “Satoshi carried out a good estimate of the probability of success, but didn’t have a good theory of profitability at hand in order to go further.”
+
+However, it seems unlikely that exchanges and businesses would lower the security threshold to achieve slightly more convenience and this mathematical study is yet to receive community scrutiny and thorough academic peer review.
+
+If and when it is vetted by the wider community, it may be that a large segment agrees to consider bitcoin transactions definitive after one or two confirmations. However, such a change may also attract the attention of economically irrational actors who don’t mind burning part of their wealth just to destroy the credibility of Bitcoin.
+
+In any case, the research paper provides an interesting analysis of one of Bitcoin’s most critical practices and may very well motivate us all to think about it differently.

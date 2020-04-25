@@ -1,0 +1,43 @@
+DATE:  10.02.2020, 17:00:18
+TITLE: Bitcoin SV Nodes Crash Hard Following Genesis ‘Downgrade’
+URL:   https://bitcoinist.com/bitcoin-sv-nodes-crash-following-genesis-downgrade/
+
+Altcoins Bitcoin SV Nodes Crash Hard Following Genesis ‘Downgrade’
+
+Following the Bitcoin SV ‘Genesis’ Hard Fork on Feb 4th, the number of nodes on the network has reduced dramatically. In a tweet this morning, Arthur van Pelt of Dragon Industries claimed that there were only around 250 nodes still servicing the network.
+
+
+
+Nodes Don’t Follow Fork
+
+Referring to the hard fork as the ‘BSV Genesis downgrade’, van Pelt explained that following the fork, 80-85 nodes seemed to have started a new chain of their own. Another 30 or so nodes had also been left behind in the process. This left only around 250 nodes actively securing the network, of 636 nodes a year ago.
+
+Hypothesising on why this ‘split’ may have occurred, van Pelt suggested that:
+
+It appears to me that those 85 (new chain) + 30 (didn’t downgrade either) are a mixture of inaccessible cloud nodes, ghost nodes, lazy/uninterested owners, etc. as no group has come forward to claim the second chain.
+
+A commenter pointed out that running non-mining nodes would be a challenge with so many potential transactions and large blocks. The reduction in decentralization caused by this was considered to be unlikely to concern those in control of BSV, with one commenter joking that the end goal was to have one node controlled by Calvin Ayres.
+
+Fair Value For Bitcoin SV
+
+Van Pelt then compares this with BTC nodes, using a figure of 100,000 based on a Bitcoinist article from last May. Calculating the ‘fair’ value of BSV based on ratio of nodes, van Pelt questions whether:
+
+it make[s] sense to set a fair value of BSV on 250/100,000 x $9,850 = $24.63?
+
+He concludes that it probably does, making the current BSV price of $343, rather high considering.
+
+Genesis ‘Downgrade’
+
+The BSV Genesis hard fork was so called because it rolled back the protocol to the initial Bitcoin version first released by Satoshi Nakamoto in 2009. This is also why van Pelt refers to it as a ‘downgrade’.
+
+This also removes all block-cap sizes which have been implemented since, so the previous 2GB block limit which applied to the BSV network no longer applies. Not that blocks were anywhere close to reaching this limit anyway, despite evidence that a large amount of BSV volume is heavily manipulated.
+
+Genesis is intended to be the last major BSV network update and has been “locked-in irrevocably” according to a message from the developers in the first post-fork block of transactions.
+
+So let’s hope they don’t need to change anything else then, eh?
+
+What do you make of the latest decline in Bitcoin SV nodes? Add your thoughts below!
+
+
+
+Images via Shutterstock

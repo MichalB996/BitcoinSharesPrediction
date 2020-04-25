@@ -1,0 +1,31 @@
+DATE:  05.08.2019, 23:42:54
+TITLE: Hackers continue laundering 7,000 Bitcoin from the Binance hack
+URL:   https://cryptoslate.com/hackers-laundering-7000-bitcoin-binance-hack/
+
+The hackers who stole 7,000 BTC from Binance continue to layer funds in an attempt to launder and obfuscate the Bitcoin’s connection to the hack. Read the latest report on the movement of these coins from analytics firm Coinfirm.
+
+In May, the world’s largest cryptocurrency exchange experienced its first major security breach, with hackers making away with 7,000 Bitcoin, now valued at over $82 million. Binance fully covered losses from the hack through its “SAFU” fund.
+
+Following the hack, major exchanges reacted by blacklisting the stolen funds. Coinbase, Poloniex, Kraken, and Huobi would freeze the funds should hackers directly deposit them into accounts on the exchanges. To circumvent these controls, the hackers have continued to move the funds in an elaborate chain of transactions to obfuscate their connection to the hack.
+
+Grant Blaisdell—the co-founder and CMO of Coinfirm, a blockchain analytics firm that provides services for anti-money laundering (AML) and know your customer (KYC) compliance—provided the following information on the movement of the funds directly to CryptoSlate:
+
+Small amounts of BTC were sent to six exchanges in the following amounts, likely to test whether they would be detected and frozen:
+
+Kraken: 5.9851 BTC
+
+Huobi: 0.1259 BTC
+
+BitX.co (Luno): 0.2987 BTC
+
+BTC-Alpha: 0.0439 BTC
+
+CoinGate: 0.0089 BTC
+
+BitPay: 0.0009 BTC
+
+CryptoSlate reached out to the exchanges that received these illicit deposits for comment and has yet to receive responses.
+
+However, the largest recipient of funds has been ChipMixer, a Bitcoin tumbler that mixes hundreds of transactions together to conceal the origin of funds. At least 6.4634 BTC, worth approximately $76,000 at time of publication, was sent to mixer addresses.
+
+Given that many smaller exchanges are in unregulated jurisdictions, it seems unlikely that these funds will have trouble making their way to fiat and other difficult to trace cryptocurrencies such as Monero and Zcash.

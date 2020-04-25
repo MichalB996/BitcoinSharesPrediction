@@ -1,0 +1,25 @@
+DATE:  10.07.2019, 16:01:00
+TITLE: Apollo Guidance Computer Restored, Used to Mine Bitcoin
+URL:   https://www.extremetech.com/computing/294784-apollo-guidance-computer-restored-used-to-mine-bitcoin
+
+This site may earn affiliate commissions from the links on this page. Terms of use
+
+Some people change the world with technology. Some people use technology to change the world. And some people find ways to mine Bitcoin on really, really, really old computers.
+
+Ancient Computer Restorer and obvious Bitcoin programming enthusiast Ken Shirriff has turned this into something of a habit, having previously worked out how to perform Bitcoin mining on an ancient IBM 1401 and even worked out a method of performing BTC hashing with pencil and paper. Now, he’s taken on a new challenge — performing BTC calculations with an Apollo Guidance Computer.
+
+There’s a cultural meme that makes the rounds about how the Apollo astronauts flew to the Moon using less computing power than you’d typically find in a modern smartphone/smartwatch/NSA spy chip implanted in your brain. This is true, as far as it goes. What it leaves out is that the AGC was actually a marvelous feat of engineering, packing as much horsepower in its enclosure as a typical home machine from a full decade later. It was the first integrated circuit computer, with a 16-bit word length (15 data bits, 1 parity bit) and a specialized read-only memory circuit that stored software in what was known as core rope memory. The AGC contained 2,048 words of erasable magnetic core memory and 36 kilowords of read-only core memory, with a cycle time of 11.72 microseconds. The AGC also had a numeric display and keyboard (known as the DSKY, for display-and-keyboard) and had four 16-bit registers.
+
+The AGC wasn’t particularly fast for its time; it was optimized for weight and size as opposed to sheer speed. But as Shirriff has painstakingly discovered, it mines Bitcoins with a lot of careful massaging. As he writes:
+
+The AGC, like most computers of the 1960s, used magnetic core memory, storing each bit in a tiny magnetized ferrite ring. Since core memory was fairly bulky, the AGC had just 2K words (approximately 4K bytes) of RAM. The AGC’s addressing scheme made things more complicated since you could only access 256 words unless you used an inconvenient bank switching mechanism. The problem is that the SHA-256 algorithm uses eight (32-bit) hash values, a 64-word message table, and 8 words of intermediate values. These three arrays alone used up 240 AGC words, leaving about 16 words for everything else (temporary values, subroutine return addresses, loop counters, pointers, etc.) I managed to get everything to fit in one bank by reusing these 16 words for multiple purposes, but I spent a lot of time debugging problems when a variable clobbered a location still in use.
+
+You can see a video of the actual AGC running a Bitcoin program below:
+
+This is a technical accomplishment, but it’s certainly not a practical one. At the AGC’s top speed, it could handle 1 hash every 10.3 seconds. This beats Shirriff’s pen-and-paper method (0.67 hashes per day) and an IBM punch-card computer (80 seconds per hash) but isn’t as fast as the Xerox Alto (1.5 hashes per second). At that rate, it would take longer than the lifetime of the universe to mine a single Bitcoin, which makes this an impractical method of, well, pretty much anything.
+
+It is, however, a pretty interesting demonstration of computer horsepower from an entirely different era.
+
+Feature image via Wikipedia. Image is in the public domain.
+
+Now Read:

@@ -1,0 +1,83 @@
+DATE:  07.04.2020, 07:51:36
+TITLE: Bitcoin SV continues to innovate despite the pandemic
+URL:   https://coingeek.com/bitcoin-sv-continues-to-innovate-despite-the-pandemic/
+
+While most of the world are mostly stuck in their homes on government directed shelter-in-place orders, innovation continues to happen within the Bitcoin SV ecosystem.
+
+A flurry of new features were released for established applications including a controversial and mysterious service that have people questioning its value in the market.
+
+Twetch features
+
+The serial memers have been very busy over the past month, coming out with several new useful additions to their platform.
+
+Introducing Twetch /Pay 💸 Send and receive money instantly on Twetch Try it for yourself! 👉 https://t.co/4ykVIc25PE pic.twitter.com/SifAEwozTf — Twetch ✪ (@twetchapp) March 26, 2020
+
+You can now pay people on Twetch simply by typing a command-line like ‘/pay’ phrase in your Twetch followed by a user tag. Personally, I like to see this not only because it is useful, but it is provable and public.
+
+Tagging users already pays the tagged user 1/10th of a cent, the pay command adds the specified dollar amount to the tag output. Since Twetches are on-chain, users can validate someone was paid or not. Moreover, the public nature of the pay command demonstrates to all users on the platform a signal indicating who is paying for what.
+
+Markets are emerging from this feature where users are earning Bitcoin SV in unconventional ways such as bread shops, game shows, bounties, meetings and of course memes:
+
+Caption: That’s right – u/9999 earned $218 for a meme about the company 21e8 (Source: Twetch)
+
+Read API
+
+Twetch announced the read portion of their SDK, enabling developers to build their own custom Twetch clients. This development tool can be used to build filtered Twetch websites for specific topics such as sports, chat rooms, music playlists and ‘whatever else’.
+
+Source: Twetch
+
+Lastly, Twetch released an Advanced search. This is much welcome since robust content searching tools for the ledger have not yet been built. And of course because #capitalism, one must pay to unlock the feature:
+
+Source: Twetch
+
+Source: Twetch
+
+Baemail
+
+The creator of Baemail, widely known as Deggen has been hard at work during the lockdown. He released Google Chrome plug-in so that your ‘Before Anything Else’ mail can even be prioritized over your Gmail.
+
+Thanks Google!
+
+Source: Twetch
+
+Transitioning into the more controversial releases, Deggen has also added the ability to allocate SHA-256 Proof-of-work to a Baemail:
+
+Source: Twetch
+
+I label this feature as controversial because many in the space are questioning whether allocating PoW towards content is feasible.
+
+Caption: Baemail user questions why he would Boost a Baemail (Source: Baemail support Telegram)
+
+The idea here is to allocate something that cannot be faked or taken back as the energy is spent. When voting with money, collusion and back door deals are possible. This nuance is being hotly debated at the moment. In the end, like with most services – the market will decide if there is a place for it or not.
+
+BoostPOW
+
+BoostPOW launched this week on top of the newest Bitcoin SV mining entity MatterPool:
+
+Source: Twetch
+
+Likes and upvotes for posts on Twitter and Reddit are cheap and have almost no cost. Content on those platforms are susceptible to brigading, trolling and astroturfing.
+
+The consequences of these easily gamed systems are arguably the primary reason so many argue about which Bitcoin is ‘the real Bitcoin’.
+
+BoostPOW is a protocol that seeks to solve the ‘fake news’ problem by creating a market to allocate SHA-256 Bitcoin mining towards content.
+
+Imagine upvoting your post on Reddit not with a sock puppets’ click of the mouse or a bot but an ASIC miner.
+
+Allocating hash towards content is incentivized by the buyer creating a locking script with some amount of Bitcoin, and the first miner to find the solution to unlock the script claims the bounty.
+
+The protocol also supports buyers to create direct contracts with miners by locking the script with the miners’ public key hash. Check out the whitepaper on-chain here.
+
+Conclusion
+
+The economies all around the world have been negatively impacted due to the coronavirus situation. As the reported cases and deaths rise, government’s overreactions and inflationary stimulus do not seem to bode well for the global economy.
+
+With that stated, those who work from home and manage to stay motivated can innovate. I ask:
+
+Who else in the world is innovating right now?
+
+We see that those in the Bitcoin SV space are. While most established companies are begging their government to bail them out because of their absurd debt levels and casino-style failed stock market gambles, many talented individuals are trying to build the digital economy of the future in their living rooms.
+
+Now, more than ever, is the time to build.
+
+New to Bitcoin? Check out CoinGeek’s Bitcoin for Beginners section, the ultimate resource guide to learn more about Bitcoin—as originally envisioned by Satoshi Nakamoto—and blockchain.

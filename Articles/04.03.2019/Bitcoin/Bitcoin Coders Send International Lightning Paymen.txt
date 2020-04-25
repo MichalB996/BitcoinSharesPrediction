@@ -1,0 +1,31 @@
+DATE:  04.03.2019, 21:15:41
+TITLE: Bitcoin Coders Send International Lightning Payment Over Ham Radio
+URL:   https://www.coindesk.com/bitcoin-coders-send-international-lightning-payment-over-ham-radio
+
+In what appears to be a first-of-its-kind transaction, two developers working in separate countries have successfully sent a bitcoin lightning payment over radio waves.
+
+Organized over Twitter this past weekend, the transaction was sent by Rodolfo Novak, co-founder of bitcoin hardware startup CoinKite, to developer and Bloomberg columnist Elaine Ou. The completed payment effectively moved real bitcoin from Toronto, Canada, to San Francisco, California.
+
+While radio technology is most commonly used for broadcasting music or talk radio, it’s actually capable of much more than that. As the two developers showcased, radio can also be used to boost the resilience of the bitcoin network.
+
+“Bitcoin is making ham radio cool again!” Ou tweeted after sending the transaction to Novak, referencing “ham radio,” the use of radio by hobbyists who fiddle with radio technology.
+
+
+
+Image via Rodolfo Novak on Twitter.
+
+But sending bitcoin over radio isn’t just fun. Some researchers argue it actually has a necessary use case.
+
+In fact, the idea itself is the brainchild of Nick Szabo, inventor of the smart contract. Ou and Szabo presented the idea in 2017 at the Scaling Bitcoin conference in San Francisco, arguing at the time that it could help bitcoin build resistance to partition attacks researchers argue could potentially be used to attack the network.
+
+The idea is that, while the internet can potentially be censored, it’s not the only form of technology that can be used to send data from one part of the world to another, “in case China decides to censor bitcoin via the Great Firewall, or places like North Korea where there is no internet at all,” as Ou put it in an email to CoinDesk.
+
+Technology infrastructure startup Blockstream licensed satellites that beam bitcoin to users around the world for similar reasons. Still, there are limits to the concept.
+
+“It was a fun demo, but obviously unrealistic because we coordinated everything online before sending the radio signals,” Ou acknowledged.
+
+She continued:
+
+“The equipment is currently the hard part: You need a radio that supports these frequencies. The cheapest way is with a software-defined radio, which is about $200 for something that can transmit low-power signals, or thousands for a high-power transmitter.”
+
+Old radio image via Shutterstock

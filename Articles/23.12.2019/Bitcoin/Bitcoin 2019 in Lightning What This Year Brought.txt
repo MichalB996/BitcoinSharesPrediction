@@ -1,0 +1,131 @@
+DATE:  23.12.2019, 13:00:42
+TITLE: Bitcoin 2019 in Lightning: What This Year Brought
+URL:   https://bitcoinmagazine.com/articles/bitcoins-2019-lightning-year-brought-us-part-2
+
+Ring in the new bitcoin halving cycle the right way: with us!
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+Read Part 1 of our series, Bitcoin’s 2019 in Tech: What This Year Brought Us, here.
+
+Even as we entered 2019 in a bear market, the receding bitcoin price was matched by a rising tide of excitement for and development on Bitcoin’s second layer payment protocol, the Lightning Network. Over the course of the year, we saw payment routing improvements, the introduction of mobile wallets, a flush of liquidity into the network and the emergence of Lightning fiat ramps.
+
+Oh yeah, and we also watched as a Lightning payment bounced around the globe over 275 times via Bitcoin Twitter, all started by an anonymous astronautical tomcat (this was one of many community developments that encapsulated the teeming excitement around the new technology).
+
+Here are our highlights for the Lightning Network in 2019.
+
+Wallets
+
+A dozen or so new Lightning wallets proliferated in 2019, overwhelmingly for mobile devices.
+
+One of the most anticipated, Lightning Lab’s Lightning Wallet for iOS and Android, was one of the first to make use of Neutrino, a lightweight client that fetches data block-by-block so users can run a noncustodial Lightning wallet without having to run a full Bitcoin node. In its company is Zap, which also leverages Neutrino and launched a desktop and a mobile version this year, and Breez, the first Neutrino mobile wallet that is only available on iOS.
+
+All of the above were released in the summer and run on LND, Lightning’ Lab’s implementation of the technology. For its own implementation, French Lightning development company ACINQ released Phoenix as 2019 was winding down. The Android-only mobile wallet runs a full, lightweight Lightning node on your device.
+
+We’d be remiss if we didn’t mention Tippin.me and the late Bottle Pay. Though Tippin.me technically launched in December 2018, the browser-based custodial wallet became a hit on Bitcoin Twitter in 2019 for sending and receiving tips. Bottle Pay launched halfway through the year and also became a favorite for social network micropayments before it shut its doors in response to new AML regulations.
+
+More than just a tipping app, Bottle Pay was an extremely user-friendly web wallet. It’s in a class of custodial wallets like Wallet of Satoshi, another from the Lightning Class of 2019, that prioritizes convenience and a slick UX over self-sovereignty.
+
+On-Ramps
+
+Plenty of wallets proliferated in 2018, too, but none that offered options to purchase bitcoin on Lightning with fiat. In 2019, this is now a possibility thanks to a few new options.
+
+Two of these come from existing wallets, Sparkswap and Zap. Coincidentally, these onomatopoeic wallet providers both had the same idea: to integrate their products with a buy option. Sparkswap’s desktop wallet was the first to offer this using atomic swaps; a user sends an ACH bank transfer to Sparkswap, and then it executes an atomic swap to transfer bitcoin from on-chain into the user’s Lightning wallet.
+
+Zap’s Olympus, which is actually still in development so it’s not available yet, does something similar, except it uses what are called Turbo channels to “push” a Lightning channel to a user after they pay for the channel.
+
+“If you want, you can buy bitcoin inside of Zap with a bank account, debit card, Zelle, whatever — and it will give you the bitcoins, from purchase to spending on Lightning, in less than five seconds,” Zap founder Jack Mallers told Bitcoin Magazine in September 2019.
+
+Lightning also got its first major exchange integration this year. In partnership with Bitrefill, Bitfinex opened its coffers to Lightning bitcoin deposits and withdrawals in the final month of the year. Like trading regular bitcoin on a custodial exchange, Lightning Network balances are represented as IOUs, but they are paid out to a Lightning wallet upon withdrawal.
+
+It’s not a fiat gateway, but you can also buy “Thor” channels on Bitrefill for bitcoin. Like with Zap’s delivery method for Olympus, Thor channels are pushed to the user upon purchase, and Thor Turbo channels are instantly delivered without waiting for on-chain confirmations to lock the bitcoin into the payment channel. An added bonus: You can purchase these channels with cryptocurrency from your Coinbase account.
+
+As these options continue to develop, they’ll be looking to solve one of Lightning’s many UX problems: in this case, on-boarding.
+
+Channel Management, Routing and Payments
+
+As some teams look to enable smoother onboarding, others are focusing on making channel management, routing and payments frictionless.
+
+One of these channel management tools hopes to give users the option of moving bitcoin in and out of payment channels without closing them. When Lightning first came out, channel management was cumbersome in part because, if you wanted to lock more sats in a channel (or take a few out), you’d have to close it and open an entirely new one.
+
+Lightning Loop opens this closed loop, so to speak. Using submarine swaps, the protocol by Lightning Lab’s Alex Bosworth and Bryan Vu allows its users to move bitcoin in and out of channels without having to close the channels and broadcast their state onto the blockchain. This saves time, money and technical headaches.
+
+“The vision for Lightning Loop is to allow users to securely move funds in and out of the Lightning Network using non-custodial Bitcoin contracts,” Bosworth and Vu wrote in a blog post. “With Loop, users, businesses, and routing node operators are able to keep Lightning channels open indefinitely, making the network more efficient, more stable, and cheaper to use.”
+
+Currently, many wallets use a variation of Lightning Loop to the same effect.
+
+Lightning Loop makes lubricating channels with fresh liquidity easier, thereby relieving problems with inbound/outbound capacity. There’s also the problem of payment routing, something another new feature, atomic multipart payments (also simply known as “multipart payments”), is trying to solve.
+
+This trick allows users to split a single payment into multiple payments; instead of piping one payment down a single payment channel, it can now be sent through several.
+
+“This greatly reduces the headache of managing how many channels to open, and how to allocate funds to them, since you can now simply combine them as and when necessary,” Christian Decker of Blockstream wrote in a blog post.
+
+Lastly, courtesy of Lightning Labs CTO Olaoluwa Osuntokun, sending Lightning payments is getting easier. Currently, you’d have to receive an invoice for a specific saoshi amount to send a Lightning payment, but Sphinx Send promises users “the ability to send a payment to a destination without first needing to have an invoice,” according to Osuntokun. The feature is available now on LND but requires a user-activated update to install. It has yet to be introduced in a major LND release.
+
+Watchtowers
+
+This development gets its own section, partly because it’s cool and also because it doesn’t really fit into any of the other categories.
+
+Channel closing is perhaps the chief attack vector of the Lightning Network; that is to say, your bitcoin are only really vulnerable in a Lightning Network payment channel when the channel is closing. This vulnerability is largely subject to human error: If you’re not paying attention when a channel closes, the party on the other side of it may try to swindle you by broadcasting an older version of the channel’s transaction history, thereby claiming coins that aren’t theirs.
+
+To protect you from rogue peers, Watchtowers monitor channels and their states so that you don’t have to. These towers can act as an extra set of eyes and, in the case that one party is cheated in a channel closing, they have the ability to seize the contingent funds and return them to the honest party.
+
+LApps
+
+Lightning Applications (or LApps) are like the cocky, reckless younger sibling of Ethereum-based DApps.
+
+Shortly after the Lightning Network’s release, developers tinkering with Lightning began releasing LApps, either as side projects or full-time gigs, to test Lightning’s use cases.
+
+Technically, Tippin.me and Bottle Pay count as LApps, but they’ve already lapped up the limelight. So we’ll focus on a few others, like Pollo Feed, the only place on the internet where you can use bitcoin to feed chickens (seriously, you pay a Lightning invoice and some chickens in Rhode Island are fed on a live stream right before your eyes).
+
+Another fun (and more relevant) application is LNCast, a Lightning-native alternative to Twitch that allows its users to accept micropayments (Marty Bent’s “Tales From the Crypt” is featured, for example).
+
+Turns out Lightning might be a fit for monetizing others in the media landscape, too — particularly video game players. 2019 delivered the first Lightning-powered video games. One notable examples is Satoshi’s Games, a hub for various titles (like the Super Mario clone Super Bro and the Agar.io copycat Lightning Agar) that convert in-game points into satoshis. In a similar vein, the Ledger of Szabo, developed by Neon District games, is a Legend of Zelda-inspired game that gives its players the option to purchase characters and gear with Lightning.
+
+Then there’s Lightnite, a battle royale that includes satoshis as loot and has Lightning-purchasable gear, as well (Fortnite fever has gripped the international video gaming conscience, so this was probably inevitable). The game is currently in closed beta, but it will go live officially some time in 2020.
+
+Most of these examples stick to Lightning’s core use case of payments, but a couple of other LApps push the boundaries into a new territory: messaging.
+
+Thanks to a recent software update, Lightning now supports more reliable and complex messaging, and two projects, Whatsat and Sphinx Chat, are leveraging this to power encrypted messaging with Lightning. Both utilize what are known as type-length-values (TLVs) to attach extraneous data (in this case, a message) to a Lightning payment. These messages can be routed through the network for very little cost.
+
+Whatsat, developed by Lightning Lab’s Joost Jager in his free time, can also use rejected payments for free messages directly between users. Jager believes that if the UX is smoothed out, it could offer an attractive alternative to existing encrypted messaging apps.
+
+“It isn’t said that a Lightning-based messenger can’t eventually match the ease of use of existing services,” Jager explained in November 2019. “There surely is a ton of work to do, but I wouldn’t say it is impossible. At the moment, people generally have no problem with existing messaging services … but that is today. The future may be different. Perhaps the existing messaging services change their business model, perhaps some scandal happens in which huge amounts of metadata are leaked.”
+
+Whatsat is an open-source stack that Jager hopes others will develop further, while Sphinx Chat is in private beta currently, with a release slated for 2020.
+
+Community Developments
+
+Accompanying these technical and structural advancements aside was a surge of interest in Lightning from the community.
+
+This is best exemplified, perhaps, by the passing of the Lightning Torch, a Lightning Network payment chain that began as an experiment by the pseudonymous Bitcoiner Hodlonaut. The payment began as a fun little science project when the Bitcoiner, depicted online as an astronautical cat in space, sent 100,000 sats to a random stranger on Twitter. This person was incentivized to add 100,000 sats and pass it to another person, and so on and so forth.
+
+292 hops later, and the payment had been to every continent save Antarctica and 56 countries in total. Other anonymous accounts (like this one dude named FartFace) and even Twitter’s co-founder Jack Dorsey (yes, seriously) passed the Torch, and the final 4.2 million satoshi balance was donated to Bitcoin Venezuela.
+
+“A lot of people have been onboarded to Lightning. Personally, this is the most community feeling I’ve felt with bitcoin for a long time. There are so many people out there who are willing to educate each other and help people,” Hodlonaut told Bitcoin Magazine in November 2019, expressing that lightning is important for community morale in times of a bear market.
+
+Indeed, the Lightning torch blazed forth in the first month of the new year, at a time when bitcoin was treading at a yearly low of roughly $3,500. The Torch’s Prometheus, Hodlonaut, instantly became Bitcoin Twitter’s defacto mascot, and his creation gave the community something to rally behind and set the tone for what would be a spirited year for Lightning’s technical and communal development.
+
+Lightning Lab’s Lightning Network Conference could rightly be the capstone for this growth. Hosted in October 2019 and organized by Fulmo, in collaboration with Lightning Labs, Blockstream and ACINQ, the event was a first of its kind — a Bitcoin conference with a single agenda: the Lightning Network.
+
+Developers, enthusiasts and professionals from around the industry gathered in Berlin for three days of hackathons, Lightning-enabled activities and high-level discussions on the future of the network and the features that are driving us toward this future.
+
+Lightning’s Future: What’s on the RADAR
+
+After 2,100 words, there’s still more to consider in how far the Lightning Network came in 2019.
+
+In its own reflection on the state of the Lightning Network in 2019, RADAR ION, a company that builds Lightning services and products, honed in on trends, statistics and notable weak points in Lightning’s design that may give us a look at how Lightning will (or needs to) develop going forward. RADAR was kind enough to share a draft of its article prior to publication, so here are a few noteworthy findings from its research.
+
+RADAR surveyed 25 companies to compile some of its data. Eight of these consider themselves wallets, and collectively these wallets have processed over 260,000 payments for 31,000-plus users (this figure is higher because some companies declined to share this information).
+
+Roughly $30 million has been raised between the 26 companies, 16 of which are raising capital from external sources.
+
+When asked what they believe to be Lightning’s primary threat, 45 percent of the companies answered with “complex user experience.” The next most popular answer was “regulatory” uncertainty at 12 percent, followed by “bad actors” at 8 percent.
+
+The report ends on a positive note, noting that Lightning is becoming more functional by the update and is progressing toward finding clear market fits and use cases. With all that 2019 brought, it’s hard to argue that the often clunky experience of paying through the Lightning Network didn’t get a few face lifts. New wallets offer cleaner UX, sometimes without sacrificing custody, and plenty of protocol improvements are streamlining routing, channel management and invoicing.
+
+Some of these features won’t see widespread adoption until 2020 when they are included in a major release, nor will other improvements (like Trampoline payments) that have yet to enter testing. As improvements continue to make their way into the stack, Lightning promises to become more powerful, particularly as the groundwork that has been laid in the past two years takes effect.
+
+So, looking forward to the new year, perhaps 2019 was the year that Lightning struck and 2020 will be the year we hear the boom.

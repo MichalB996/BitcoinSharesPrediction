@@ -1,0 +1,39 @@
+DATE:  05.04.2019, 01:09:09
+TITLE: Decentralized Networks Aren’t as Censorship-Resistant as You Think
+URL:   https://news.bitcoin.com/decentralized-networks-arent-as-censorship-resistant-as-you-think/
+
+Decentralized Networks Aren’t as Censorship-Resistant as You Think
+
+Censorship resistance is a much-touted attribute of decentralized networks. They allow anyone to permanently store anything onchain without seeking permission. While this is technically true, the reality, for many supposedly decentralized blockchains, is anything but. As the fate of controversial dapps has shown, even decentralized app stores aren’t immune from censorship and deplatforming.
+
+Also read: How to Create and Send Cryptocurrency Invoices
+
+Decentralized Networks Aren’t Immune to Deplatforming
+
+Somesing is a karaoke app that’s popular in South Korea. The k-pop app, which is currently available on the Google Play store, is poised to be complemented by a Somesing dapp. Once readied, this decentralized app will be browsable on the likes of Dappradar and State of the Dapps. Essentially the Coinmarketcap of dapps, these sites track metrics such as daily average users, developer activity, and onchain transaction value. As an inoffensive karaoke app, Somesing is unlikely to test the limits of what’s acceptable to host on a blockchain. Other dapps, however, have run into trouble.
+
+On Tron and EOS, the most popular dapps are overwhelmingly for gambling. Tronvegas, Tronbet, and Eosbet have over 100,000 weekly transactions apiece and impressive onchain volume; Tronbet alone has witnessed $350K pass through it in the past seven days, during the course of over 460,000 transactions, while Coincodex records Tronvegas as having close to 3,500 daily users. Betting is big business in dapp land, thanks to the permissionless networks the apps are hosted on, which enables anyone to play, regardless of location or age.
+
+For the architects of blockchain networks that have witnessed significant dapp adoption, the boom in gambling presents a problem. Poker EOS wasn’t the sort of dapp that EOS overseers Block.one envisaged as the killer use case for their zero-fee network. Indeed, gambling dapps receive scarcely a mention from EOS ambassadors, who would rather not draw attention to the blockchain’s most popular use case to date. Tron that has taken this approach to new levels, moving to censor dapps that don’t meet with approval.
+
+Tron Teams Up With Japanese Government to Enforce Censorship
+
+Irony appears alien to the architects of many decentralized networks, who are prone to announcing partnership agreements at the drop of a hat. The latest deal closed by Tron, however, has elevated this juxtaposition to bizarre new heights. Tron has confirmed it will be “collaborating” with the Japanese government to prevent gambling dapps from being accessible within the Pacific island territory. The Tron Foundation has encouraged blocking gambling dapp users with Japanese IP addresses.
+
+Just because something can be stored onchain doesn’t mean it can be accessed.
+
+The inability of a few Japanese citizens to access some mediocre dapps might not seem like a big deal. But the decision strikes at the heart of the immutability and censorship resistance that blockchains are supposed to possess. If a few troublesome dapps can be blocked at a government’s request, where next? As David Morris observes, “If the Tron Foundation is capable of ‘discouraging’ illegal uses of the Tron network in specific jurisdictions, you can bet many governments will want help ‘discouraging’ piracy over the [Tron-owned] BitTorrent network.”
+
+Deplatforming Can Take Many Forms
+
+Conventional mobile apps listed on the Play and iOS stores are at the mercy of Google and Apple respectively. These giants enforce strict rules, and can permaban apps deemed to be in contravention at a moment’s notice. Dapps, in comparison, are not reliant upon a centralized entity to host and feature them: their backend code runs on a decentralized peer-to-peer network. Nevertheless, just because something can be stored onchain doesn’t mean it can be accessed.
+
+Without conventional web platforms to serve as the front end, the onchain data stored by dapps might as well not exist. Dapp stores drive significant traffic to decentralized apps, including the one built into the latest Android version of the Opera browser. Take a browse through the dapps that grace the Opera store, however, and you’ll find one category to be conspicuously absent – gambling.
+
+Dapps don’t need to be deleted from the distributed web to effectively disappear: they just need to be deplatformed or omitted by the curators of dapp stores, who are themselves subject to the law. Storing a dapp onchain is one thing. Getting it into the hands of the people is quite another.
+
+What are your thoughts on the Tron Foundation enforcing censorship in Japan? Let us know in the comments section below.
+
+Images courtesy of Shutterstock.
+
+Need to calculate your bitcoin holdings? Check our tools section.

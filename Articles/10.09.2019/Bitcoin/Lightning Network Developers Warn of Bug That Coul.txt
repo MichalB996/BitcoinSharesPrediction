@@ -1,0 +1,33 @@
+DATE:  10.09.2019, 21:15:04
+TITLE: Lightning Network Developers Warn of Bug That Could Cause Loss of Bitcoin
+URL:   https://www.coindesk.com/lightning-network-developers-warn-of-bug-that-could-cause-loss-of-bitcoin
+
+Developers have disclosed a security hole in various versions of bitcoin’s Lightning Network software that could cause users to lose money if not updated.
+
+The bug was first made public on Aug. 30 by bitcoin and Lighting developer Rusty Russel and confirmed Tuesday afternoon by Olaoluwa Osuntokun, CTO of startup Lightning Labs.
+
+It’s unclear how much bitcoin, if any, was lost, or how many users were affected.
+
+Multiple Lightning node versions are vulnerable and should be updated immediately, Osuntokun warned a developer mailing list, adding:
+
+“We’ve confirmed instances of the CVE being exploited in the wild.”
+
+An experimental layer-two solution, Lightning aims to allow nearly costless transactions, making bitcoin feasible for mundane transactions such as coffee purchases.
+
+But the bug shows the technology still has problems like any code-based financial product.
+
+“Security issues have been found in various lightning projects which could cause loss of funds,” Russel said in the original posting. “Full details will be released in 4 weeks (2019-09-27), please upgrade well before then.”
+
+Osuntokun emphasized that lightning is still in its infancy.
+
+“We’d also like to remind the community that we still have limits in place on the network to mitigate widespread funds loss,” he wrote, “and please keep that in mind when putting funds onto the network at this early stage.”
+
+Lightning Labs continued the warning on Twitter, reminding users that it’s still possible to lose funds on the network.
+
+This is also a great time to remind folks that we have limits in place to mitigate widespread funds loss at this early stage. There will be bugs. Don’t put more money on Lightning than you’re willing to lose! — Lightning Labs⚡️ (@lightning) September 10, 2019
+
+
+
+Versions affected include all LND releases 0.70 and below, C-Lightning 0.70 and below, and éclair 0.3 and below.
+
+Olaoluwa Osuntokun image via CoinDesk archive

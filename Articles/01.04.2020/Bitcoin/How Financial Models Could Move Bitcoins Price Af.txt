@@ -1,0 +1,33 @@
+DATE:  01.04.2020, 14:00:00
+TITLE: How Financial Models Could Move Bitcoin's Price After Halving
+URL:   https://www.coindesk.com/how-financial-models-could-move-bitcoins-price-after-the-halving
+
+Tobias Huber is a researcher at ETH Zurich. His work investigates financial bubbles, the future of money and how to accelerate innovation.
+
+Every four years, the Bitcoin protocol halves the block reward that miners receive when they contribute a so-called “block” of transactions to the blockchain. Currently, the reward is 12.5 bitcoins per block. The next halving will occur, soon, in May 2020.
+
+Built into the protocol to control bitcoin’s (BTC) inflation, the previous halvings have coincided with massive rallies. After the first halving, which occurred in November 2012, bitcoin’s price increased from $12 to more than $650. After the second halving in July 2016, the price accelerated to almost $20,000 in late-2017.
+
+While it’s, of course, uncertain whether the next halving will accelerate prices, the halvings seemed to have driven bitcoin’s previous hype cycles. Naturally, the next halving has generated an intense debate whether it’s already priced in or not.
+
+A popular model that’s often evoked in these debates is the Stock-to-Flow model. It models the price of bitcoin based on the so-called “stock-to-flow ratio,” which, initially, was used to value gold and other raw materials. By relating the “stock” – i.e., the quantity issued – to the “flow” – i.e., the annual issued quantity – the model derives a prediction of a bitcoin price post-halving of $55,000 to $100,000 (which would correspond to a market cap of more than $1 trillion).
+
+Unsurprisingly, the stock-to-flow model has attracted quite some attention after it was published in March 2019. Various attempts to falsify the model have been launched, and for bitcoin maximalists, it was another boost to their hyper-bullishness.
+
+Now, according to the Efficient Market Hypothesis (EMH), prices are just incorporating new information. It assumes the market is sufficiently fast and responsive to converge on an equilibrium price that correctly reflects all external, or so-called exogenous information. All market-internal, or endogenous processes, in turn, are already reflected in prices. In this view, only exogenous inputs – for instance, an exchange hack, a central bank announcement, or a geopolitical event – can change investors’ anticipations and prices. Consequently, extreme events, such as bubbles or crashes, result simply from exogenous news that hasn't been factored into prices yet.
+
+For proponents of the EMH, bitcoin’s supply schedule – which is encoded into the protocol and known since the inception of the network – constitutes endogenous information and should, accordingly, already be priced-in. And, most likely, most sophisticated market participants, such as market makers, have done so. But this doesn’t mean, the halving is fully priced-in.
+
+Financial modeling is not a hard science like physics. The models don’t just faithfully reproduce markets; they actively transform them.
+
+There’s robust evidence that prices move too much compared with what one would expect from the EMH. Research shows only a small fraction of price movements can be explained by relevant news releases. Such findings suggest that price dynamics are mostly driven by endogenous positive feedback mechanisms between investors’ anticipations and prices – a phenomenon George Soros has described as “market reflexivity.”
+
+In my opinion, irrespectively of whether the stock-to-flow model is valid or not, whether one believes in the EMH or expects an epic rally that will trigger hyperbitcoinization, what’s often under-appreciated in these debates is the fundamentally reflexive nature of financial markets.
+
+Markets, and especially bitcoin, are reflexive phenomena. There’s a positive feedback mechanism between expectations and prices: expectations affect prices, which, in turn, influence traders or investors’ expectations and behavior. It’s this self-reinforcing positive feedback loop that’s also at the core of speculative bubbles and market crashes.
+
+Because of these reflexive dynamics, models can shape financial markets. Historically, there have been a few cases where a model re-oriented the market it’s supposed to model. The famous Black-Scholes options pricing model, for example, resulted in increased conformity between option price patterns and the model. That is, until the 1987 crash broke its validity. Similarly, current short-volatility strategies – which use volatility both as an input for risk-taking and a source of return – have a transformative effect on equity markets, as they result in a systemic suppression of volatility.
+
+Financial modeling is not a hard science like physics. The models don’t just faithfully reproduce markets; they actively transform them. They become what the famous sociologist Robert K. Merton called self-fulfilling prophecies. (Ironically, Merton was the father of Robert C. Merton whose infamous hedge fund Long-Term Capital Management became itself a self- fulfilling prophecy of financial doom.)
+
+So, bitcoin’s halving, or the predictions of models such as the stock-to-flow model, could themselves become self-fulfilling prophecies. This could result in a self-validating feedback loop of upward price acceleration. This isn’t to say that it will happen. But if enough investors and traders start to believe in them, the model and the reality might indeed start to converge.

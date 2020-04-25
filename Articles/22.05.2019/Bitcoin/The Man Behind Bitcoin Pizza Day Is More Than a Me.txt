@@ -1,0 +1,79 @@
+DATE:  22.05.2019, 07:44:05
+TITLE: The Man Behind Bitcoin Pizza Day Is More Than a Meme: He’s a Mining Pioneer
+URL:   https://bitcoinmagazine.com/articles/the-man-behind-bitcoin-pizza-day-is-more-than-a-meme-hes-a-mining-pioneer
+
+Ring in the new bitcoin halving cycle the right way: with us!
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+Bitcoin was barely a year old and trading for less than a penny. Excitement for the world’s first cryptocurrency was still largely bottled up in the infant hobbyist forum Bitcointalk, itself barely half a year old. Here, OGs effervescent with enthusiasm compared notes on economic philosophy, technical knowledge and the new cryptographic beast that Satoshi Nakamoto created. Satoshi himself was still active on the forum, too, as the earliest adopters shared their visions for the future of money.
+
+Though, if that future was going to be realized, something was still missing: No one had ever spent bitcoin on anything. Darknet markets wouldn’t exist for a few years and the only transactions users facilitated (besides peer-to-peer ones on the network) were done in cash.
+
+Perhaps this is why Laszlo Hanyecz decided it was time to make history. On May 18, 2010, the Bitcoin Core contributor asked fellow enthusiasts on Bitcointalk if someone would “make [two large] pizzas yourself and bring it to my house or order it for me from a delivery place.” He offered 10,000 BTC for the service and, though it took four days, he got his wish.
+
+One prescient user cautioned that 10,000 bitcoin was “quite a bit” — around $41 at the time. And, of course, “quite a bit” sounds like an absurd understatement today; seven years later, at bitcoin’s all-time high, that sum would be worth $200,000,000.
+
+To Hanyecz, who told Bitcoin Magazine that he spent something near 100,000 BTC on pizza that year, the purchase was just another drop in the bucket.
+
+“We would just give people bitcoin on the forum,” he said — sometimes 100, sometimes 1,000 BTC at a time.
+
+“I wanted to do the pizza thing because to me it was free pizza,” Hanyecz explained. “I mean, I coded this thing and mined bitcoin and I felt like I was winning the internet that day. I got pizza for contributing to an open-source project. Usually hobbies are a time sink and money sink, and in this case, my hobby bought me dinner.”
+
+Not Just “That Pizza Guy”
+
+The May 22, 2010, transaction would be etched in stone, as much for the symbolic significance of the purchase as for the gaffe that Hanyecz spent the future-equivalent of Kanye West’s net worth on two large Papa John’s pizzas.
+
+But there’s more to Hanyecz’s story than this transaction, even though the legendary pizza purchase has overshadowed his other achievements in the Bitcoin space. The developer is doing just fine despite the purchase, actually, mainly because of his other (and vastly more important) contribution to Bitcoin’s development: GPU mining.
+
+Before revolutionizing mining, the software engineer, who was introduced to Bitcoin in late 2009, was a member of its first class of contributors. As he humbly put it, Hanyecz “had been working on [bitcoin], fixing bugs and things like that.” His “minor” contributions include building and deploying the first macOS Bitcoin Core release.
+
+They also include revamping the landscape of mining. Hanyecz first introduced the community to GPU mining in May 2010, which he saw as simply contributing to something that was very much still an experiment and not yet a movement.
+
+“On [Bitcointalk] at the time, there weren’t really any users,” he recalled. “There were 50 people, maybe 100. It was a lot different then. It was like, ‘Hey, do you want to contribute to an open source project?’ It wasn’t ‘Hey, do you want money to change the world?’”
+
+At that time, the only bitcoin mining was done on the backs of CPUs — the processors that make personal computers tick. No one had contrived of a more efficient way to produce hashes. As he set out to improve this efficiency, Hanyecz admitted that he didn’t fully comprehend “how fast the [mining] difficulty adjusted” (because no one had created a miner powerful enough to truly test this mechanism). Still, he stewed over a way to produce more hashes more quickly in the hope of extracting more value from the network.
+
+This is what led him to devise a mining code using GPUs. Graphics cards, as they are commonly called, animate our computer screens with color and, well, graphics. Hanyecz deduced that these pieces of hardware could do more computation at once than a CPU and so “fit well with trying to brute force hashes” to mine blocks.
+
+“GPUs, what they’re good at, is they can do a lot of things in parallel, but they have to be very simple things and it has to be the same thing,” he explained. “So, you can add 10 to a thousand different numbers at the same time. Whereas a general, regular CPU is much more flexible. It can do a lot of things, but it has to do these one at a time. The mining problem lent itself perfectly to GPUs.”
+
+His discovery was lucrative. It gave him a tenfold increase in hashpower — and this using a 2010 Macbook!
+
+But his discovery didn’t go over so well with crypto’s progenitor. Satoshi was always a bit “at arm’s length” in those days, Hanyecz said, but after he shared the GPU mining code with the creator, Satoshi made his opinion known that he thought it was too advanced for Bitcoin’s stage of development.
+
+“A big attraction to new users is that anyone with a computer can generate some free coins,” Satoshi wrote in an email to Hanyecz. “GPUs would prematurely limit the incentive to only those with high-end GPU hardware. It's inevitable that GPU compute clusters will eventually hog all the generated coins, but I don't want to hasten that day.”
+
+“That’s when I was like, ‘Man, I feel like I crapped up your project. Sorry, dude,’” Hanyecz told Bitcoin Magazine with a laugh. “He was concerned that some people might be discouraged because they can’t mine a block with a CPU. So, I stopped advertising it after that.”
+
+Even though he tried to pull the plug, Hanyecz’s invention began to propagate, opening up a Pandora’s box of hashrate on the network. Soon after he debuted the code on Bitcointalk, other users repurposed it to create standalone versions for Windows, Mac and Linux. Hanyecz released the seminal code as a patch into Bitcoin Core’s source code “because that was the easiest way to hack it in,” he said. These new versions, though, were separated from Bitcoin Core entirely and existed as their own clients.
+
+The cat was out of the bag, and Hanyecz no longer had the competitive edge he was looking for when he coded the new mining method.
+
+“I thought that having more processing power would secure the network. But I didn’t understand that I should have kept it to myself. It would have made more sense to be greedy,” he joked.
+
+Life After Pizza
+
+Despite misconceptions that Hanyecz eschewed Bitcoin following the pizza transaction, he’s still around. He just isn’t active in Bitcoin’s development anymore.
+
+“I’m just another bitcoiner,” says the man who changed the mining landscape indelibly.
+
+Bewilderingly, nearly 10 years later, that same man is hardly recognized for this contribution. Instead, most people know Laszlo Hanyecz for the historic pizza transaction, an industry meme that dwarfs the more groundbreaking work he delivered in Bitcoin’s stumbling infancy. This might be a consequence of his invention coming at a time when Bitcoin’s following was no more than a few hundred enthusiasts. Or perhaps it’s that the shock value of his purchase, in the age of clickbait, outweighs the technical achievements on his cypherpunk résumé.
+
+Hanyecz, when asked if he ever tires of people asking him about the purchase, says that he sees it differently.
+
+“I think it’s funny when people look at it that way,” he explained. “I think it’s one of those things where it’s a good catchy thing to get people’s attention. But I think anyone who gets genuinely interested [in Bitcoin] understands. It’s the same thing as, oh, let me go back in the past and buy Apple stock.
+
+“At the time it was Monopoly money. Nobody cared — people would just give you some, so I didn’t figure I needed to be greedy with it.”
+
+The father of GPU mining seems to approach the infamous pizza purchase, and questions surrounding it, the same way he approaches Bitcoin: with good-humored aplomb, rather than bitter regret. In fact, he doesn’t see it as a loss at all; he sees it as a win.
+
+“A trade happens because both parties think they’re getting a good deal,” he said. “I felt like I was beating the internet, getting free food. I was like, ‘Man, I got these GPUs linked together, now I’m going to mine twice as fast. I’m just going to be eating free food; I’ll never have to buy food again.’”
+
+Hanyecz has maintained this upbeat outlook even as bitcoin has catapulted past all-time high after all-time high throughout the years. This is probably because his treatment of Bitcoin hasn’t changed since he first joined the open-source community in 2010. To him, it’s still a hobby, not a career.
+
+“Honestly, I just kinda stay out of it because there’s so much buzz,” he said. “I don’t want that kind of attention, and I certainly don’t want people thinking I’m Satoshi … I just figure it’s better to keep it as a hobby. I have a regular job. I don’t do Bitcoin full time. I don’t want it to be a professional thing that I’m on the hook for. I’m glad that I was involved to the extent that I was.”
+
+We’re glad he was, as well. After all, he gave us Bitcoin Core for MacOS and GPU mining — oh, and all the pizza memes, too. They may not be as significant or impressive as Hanyecz’s other contributions, but they do make every May 22 for this community memorable (and delicious).

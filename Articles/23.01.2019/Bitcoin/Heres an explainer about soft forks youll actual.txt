@@ -1,0 +1,47 @@
+DATE:  23.01.2019, 09:59:19
+TITLE: Here’s an explainer about soft forks you’ll actually understand
+URL:   https://thenextweb.com/hardfork/2019/01/23/heres-an-explainer-about-soft-forks-youll-actually-understand/
+
+Welcome to Hard Fork Basics, a collection of tips, tricks, guides, and advice to keep you up to date in the cryptocurrency and blockchain world.
+
+If you’ve been following cryptocurrencies and blockchain technology in recent months, you will have come across a lot of debate about ‘forks’.
+
+In programming terms, a fork is a word used to describe a technical event that takes place when participants on a network must agree on a set of common rules.
+
+Forks can be hard or soft. In this article, Hard Fork is going to take a look at what soft forks are, and how they work.
+
+Understanding blockchain
+
+First thing first: within the context of a decentralized, peer-to-peer network such as Bitcoin, a blockchain is an immutable, permanent, ledger used to record transactions.
+
+Bitcoin’s decentralized nature means participants in the network have to agree to a common set of rules in order to validate transactions and achieve consensus.
+
+The blockchain is maintained by a network of cooperative communicating nodes, which operate Bitcoin’s software. Nodes can validate transactions, add them to their copy of the blockchain, and broadcast these additions to other nodes.
+
+So, what the fork?
+
+As I mentioned, a fork is a software change which creates two different versions of a blockchain with a shared history.
+
+If the networks is split permanently, this paves the way for the creation of two different cryptocurrencies (aka Bitcoin and Bitcoin Cash).
+
+In the past, forks have been used to add new features or functionality to a blockchain, and to reverse the effects of hacking or bugs. They’ve also been floated as a potential solution to Bitcoin’s scalability problem.
+
+Soft fork
+
+A soft fork happens when the software protocol is changed, making previous blocks or transactions invalid.
+
+Old nodes will continue to recognize new blocks as valid. In this instance, the software change is backward-compatible.
+
+Think of a soft fork in the same way you would a change in a street’s speed limit.
+
+Imagine a street has a minimum speed limit of 30m/h. The local transport authority ups it to 40m/h. Those usually traveling at 30m/h need to speed up to comply with the new regulation, or otherwise risk being fined. However, if most drivers disagree with the increase and stick to traveling at 30m/h, the authorities may abandon the increase all-together and enable drivers to carry on as they were.
+
+Soft forks are easier to implement than hard forks because they only require a majority of participants to upgrade the software. Similarly to the speed limit analogy, the majority of nodes must upgrade; otherwise, the soft fork fails, and the original chain carries on unchanged.
+
+When the majority of miners upgrade to establish new rules, this is known as a miner-activated soft fork (MASF). If full nodes coordinate to do the same, with support from miners, we call this a user-activated soft fork (UASF).
+
+A soft fork is essentially a cosmetic change: it modifies or adds functions without actually tampering with the structure of the blockchain itself. However, soft forks cannot be reversed without a hard fork.
+
+Soft forks are arguably the preferred option to upgrade Bitcoin’s blockchain because it’s believed they represent a lower risk of splitting the network.
+
+P2SH, put in motion to alter Bitcoin’s address formatting; and BIP 66, which sought to improve signature validation, are two examples of successful soft forks which have taken place in recent years.

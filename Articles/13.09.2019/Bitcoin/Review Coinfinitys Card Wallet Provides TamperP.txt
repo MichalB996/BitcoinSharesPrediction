@@ -1,0 +1,45 @@
+DATE:  13.09.2019, 10:02:31
+TITLE: Review: Coinfinity’s Card Wallet Provides Tamper-Proof Cold Storage
+URL:   https://news.bitcoin.com/review-coinfinitys-card-wallet-provides-tamper-proof-cold-storage/
+
+Review: Coinfinity’s Card Wallet Provides Tamper-Proof Cold Storage
+
+Outside of exchanges, few cryptocurrency industries are as prosperous as custody. At this stage in Bitcoin’s lifespan, trading crypto and storing crypto appear to be the most popular use cases for crypto – in that order. As a result, a thriving aftermarket for crypto storage solutions has sprung up, both custodial and non-custodial, hot and cold, online and offline. Card Wallet from Coinfinity is the latest product to enter the fray, providing a secure way for storing BTC and ETH offline.
+
+Also read: Developer Reveals Token Reward Platform Fueled by Bitcoin Cash
+
+Cold Storage Is Hot Right Now
+
+As the dangers of storing funds online in custodial wallets and exchanges have been emphasized through a plethora of hacks and exit scams, the cold storage business has boomed. From hardware wallets resembling fancy thumb drives to devices disguised as calculators and credit cards, the range of ways to self-custody digital assets seems endless. The simply named Card Wallet by Coinfinity does exactly what it sounds like. On the surface, this plastic card looks like an extremely low-tech way to store bitcoin core or ether, but its unprepossessing exterior is deceptive. Peer a little closer at the credit card-shaped wallet and you’ll notice some interesting details.
+
+There are all kinds of anti-counterfeiting measures at play on the Card Wallet’s service, including microprinting and continuous color gradient techniques, giving it a look more akin to cash. The banknote-based design makes sense once you learn that Coinfinity – Austria’s first Bitcoin company – developed this device in conjunction with the Austrian State Printing House. They’re best known for printing passports, a skill they’ve refined over the course of 200 years, and thus know a thing or two about anti-counterfeiting.
+
+Forgery-Proof Crypto Storage
+
+The notion of forgery sounds strange in a crypto context. After all, bitcoins are impossible to falsify. The reason why the Austrian State Printing House has gone to town on the anti-forgery techniques they’ve used is to prevent fake cards from entering circulation and to provide guarantees that the private key, which was generated offline, remains offline. The private key for the cryptocurrency address printed on the card is concealed beneath a hologram on the back. It’s accompanied by a warning not to scratch this area – not even a little, just to test it – as to do so would be to risk the security of your funds. The Card Wallet is basically a modern version of the Casascius physical bitcoins that have become collector’s items today.
+
+The code printed beneath the Card Wallet’s seal can be thought of as Schrödinger’s key: until the moment it is observed through scratching off the protective covering, it effectively doesn’t exist. The manufacturer has no record of it. As a result, you can send funds to the address printed on the front of the card, but you can’t retrieve them until you reveal that seal, and doing so will essentially penalize you to the tune of the $67 the Card Wallet retails for. Think of it as an extremely high BTC network fee, and use it as an incentive not to dip into the funds stored on the card, save for an emergency.
+
+Of course, technically nothing is stored on the card: it simply holds the secret code needed to send the bitcoin from the address in which it is currently locked on the BTC network to a new address on the network. To all intents and purposes, though, Card Wallet might as well physically hold those coins, since without it to hand, you’ll never be able to move those coins again.
+
+Testing the Card Wallet
+
+Unlike a hardware wallet, there’s nothing to power up or plug in here, but that doesn’t mean that testing the Card Wallet is an entirely analog experience. There is, after all, the QR code printed on the wallet, which, when scanned, reads the BTC address printed along the center. In testing, I scan the code using the Bitcoin.com Wallet and am prompted to select the amount of BTC I wish to send. When I drag the slider, the funds are released and that’s it: the first satoshis prepare to wing their way to my Card Wallet.
+
+When the time comes to move or sell that bitcoin, I will remove the security seal and import the private key that’s revealed underneath into a noncustodial wallet such as Electrum. In theory, you could continue to use the wallet address securely, even with the seal scratched off, provided you destroyed the exposed private key. There would be little advantage to doing so, however, and it makes sense to view the wallet as compromised once the key has been revealed.
+
+On the reverse of the card, there’s another QR code that can be scanned, marked Chainlockcode (CLC). This requires installation of a dedicated mobile app, which will display the balance of the card – and of any other Card Wallets you wish to integrate into it – allowing you to manage all your cards within one app without revealing their private keys. Most people are unlikely to need this, since typing the wallet address into a block explorer achieves the same result, but if you’re a serial Card Wallet collector, it might prove useful
+
+Alternative Cold Storage Solutions
+
+While Coinfinity doesn’t support BCH at this time, bitcoin cash holders have the option of generating their own paper wallets, which can be printed at home. This theoretically provides the same security guarantees, and with the wallet folded and sealed correctly, it is effectively tamper-proof, albeit without the same allure as Card Wallet’s impressive shiny hologram. Cold storing cryptocurrency isn’t about showing off, however, and the winning wallet is the one that keeps your funds the safest.
+
+Some bitcoiners will balk at paying $67, in the Card Wallet, for a cold storage solution they could roughly replicate at home for the cost of a sheet of printer paper. Others will appreciate the imperviousness of the Coinfinity card, its convenient credit card shape, and its superior tamper-proof seal. As such, its value is really in the eyes of the beholder. For the same price you could pick up a basic hardware wallet, which will allow you to send, receive, and store a range of cryptocurrencies. That said, there’s something magical about the seal on the Coinfinity that challenges you not to sully it, but rather to sporadically send funds to it, building up your nest egg over time.
+
+What are your thoughts on Coinfinity’s Card Wallet – would you use it? Let us know in the comments section below.
+
+Disclaimer: Bitcoin.com does not endorse or support claims made by any parties in this article. None of the information in this article is intended as investment advice, as an offer or solicitation of an offer to buy or sell, or as a recommendation, endorsement, or sponsorship of any products, services, or companies. Neither Bitcoin.com nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.
+
+Images courtesy of Shutterstock.
+
+Do you need a reliable bitcoin mobile wallet to send, receive, and store your coins? Download one for free from us and then head to our Purchase Bitcoin page where you can quickly buy bitcoin with a credit card.

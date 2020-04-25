@@ -1,0 +1,27 @@
+DATE:  17.12.2019, 14:05:00
+TITLE: Bitcoin ransomware peddlers are publicly shaming victims for not paying
+URL:   https://thenextweb.com/hardfork/2019/12/17/bitcoin-ransomware-criminals-threaten-identify-victims-not-paying/
+
+Bitcoin-hungry ransomware attackers are reportedly threatening to expose victims who fail to pay the requested ransom.
+
+According to KrebsOnSecurity, one particular ransomware group has created a public site identifying companies that decided to quietly rebuild their operations instead of coughing up the requested ransom payment.
+
+The report says that criminals behind the Maze Ransomware — credited with the Pensacola Cyberattack, which saw hackers demand a $1 million ransom — have listed the company names and corresponding websites for eight victims that refused to pay up.
+
+The website is publicly available and the disclosed information includes the date of the attack, stolen Microsoft Office, text, and PDF files. Hackers have also disclosed IP addresses and machine names of the infected servers.
+
+“Represented here companies don’t wish to cooperate with us, and trying to hide our successful attack on their resources,” the site reads in broken English. “Wait for their databases and private papers here. Follow the news!”
+
+KrebsOnSecurity says it was able to confirm that at least one of the companies listed recently succumbed to Maze ransomware and that the attack hasn’t been disclosed publicly.
+
+Dark web post showing how the gang behind Sodinokibi/rEvil ransomware is readying to reveal victims. Image: BleepingComputer.
+
+The news comes after criminals responsible for spreading Sodinokibi ransomware, which has been causing widespread chaos in recent months, revealed their plans to begin using stolen files and data as leverage to get victims to pay up.
+
+Although cybersecurity experts and law enforcement often advise victims to refrain from meeting the ransom demands, it’s worth noting that Sodinokibi has proved lucrative to date.
+
+As previously reported by Hard Fork, a hacker who distributed this particular strand made the equivalent of $287,499 in Bitcoin in just 72 hours.
+
+Additionally, researchers have also found that Sodinokibi has over 40 active affiliates and its creators often get between $700 and $1,500 from every payment.
+
+The ongoing threat posed by ransomware is such that the city of New Orleans recently declared a state of emergency.

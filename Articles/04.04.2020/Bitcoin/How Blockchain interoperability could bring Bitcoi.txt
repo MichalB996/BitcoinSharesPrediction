@@ -1,0 +1,57 @@
+DATE:  04.04.2020, 14:16:50
+TITLE: How Blockchain interoperability could bring Bitcoin to DeFi
+URL:   https://decrypt.co/24314/blockchain-interoperability-bitcoin-decentralized-finance
+
+Blockchain interoperability—having different blockchains talk to one another—is quickly becoming possible. That could help bring Bitcoin to decentralized finance.
+
+In a candid tweet last month, Ethereum co-founder Vitalik Buterin called out the lack of compatibility between Ethereum and Bitcoin. “It's embarrassing that we still can't easily move between the two largest crypto ecosystems trustlessly,” he said.
+
+Buterin’s call for compatibility between blockchains is already being answered, developers working on the matter told Decrypt. Take Cosmos’s Inter-Blockchain Communication protocol; Komodo; or Ren, a Singaporean company that’s bringing Bitcoin to Ethereum’s DeFi space. Vitalik: your wish is coming true.
+
+What is Inter-Blockchain Compatibility?
+
+Inter-blockchain communication is, quite simply, technology that lets blockchains speak to one another. As it stands, it’s not possible to use Bitcoin in an Ethereum smart contract because they’re part of two different blockchains. It’s like trying to run Windows programs on macOS—it just doesn’t work.
+
+This limits the crypto industry. Because blockchains can’t communicate with other blockchains, Bitcoin developers are condemned to working with software that’s purpose-built for the Bitcoin blockchain; it’s the same for Ethereum, blockchain’s other major ecosystem. That’s a big problem: those networks are huge, and billions of dollars worth of crypto-assets move across them each day. That they can’t speak to each other limits their potential.
+
+Protocols that facilitate inter-blockchain compatibility get around this. They let blockchains interoperate; with these protocols, it’s possible for, say, the Bitcoin blockchain to talk to another blockchain, like Ethereum.
+
+One of the most famous is the Inter-Blockchain Communication protocol. It was created by Jae Kwon in 2014, and it powers the Cosmos ecosystem—an collection of interoperable dapps. There are others, like the Polkadot project, an ecosystem of interoperable blockchain networks; and Komodo, which lets users swap assets from different blockchains.
+
+Another, Ren, works a little differently, but the principle is the same—to let blockchains speak to each other in a trustless and decentralized way. “It's about taking an asset from one chain, handing it over to this network and then that will give you authority to mint a representation of that asset on some other chain,” Ren co-founder and CTO Loong Wang told Decrypt. Ren has raised $34 million, according to Crunchbase.
+
+Why is blockchain interoperability important?
+
+There are several big players in the blockchain interoperability space. But why does the technology matter? Wang said that any decentralized finance protocol “that’s trying to tap into large amounts of liquidity, or needs large amounts of liquidity to work,” would benefit from the technology.
+
+For instance, lending protocols on Ethereum often use ETH as a collateral. But that means that when there’s a flash crash of the ETH price, “everything goes down with it,” said Wang. Of course, cryptocurrencies are highly correlated, “but as we mature, we're going to need to start getting access to other cross-chain assets,” he said. Bringing Bitcoin in as a collateral would be useful due to its “huge market cap,” said Wang.
+
+Bringing Bitcoin to DeFi wouldn’t just make crypto-backed protocols more stable, Michael Burgess, COO of Ren, told Decrypt, but also expands what’s possible for the space. “One of the most common questions in this space is, ‘When can I start earning interest on my Bitcoin without a centralized party in between?’”. Blockchain interoperability makes that possible. And it’s not just limited to Bitcoin: “You can bring any assets to any chain,” added Wang.
+
+“The next thing is the ability to trade Bitcoin without any intermediaries.” Loong Wang
+
+“I think the next thing is the ability to trade Bitcoin without any intermediaries; without having to, get permission from some centralized entity, or give up custody of your Bitcoin,” said Wang. His team built an example of this at ETH Denver, where his system let you send Bitcoin into the MakerDAO system and collateralize a position for its crypto-backed stablecoin, DAI, and get DAI back in return (currently, MakerDAO doesn’t support Bitcoin).
+
+For Komodo CTO Kadan Stadelmann, the single blockchain architecture model is “inefficient and outdated.” His company’s blockchain interoperability technology started with a vision for a decentralized exchange that “connects all the blockchains,” he told Decrypt.
+
+This was accomplished through fully-automated atomic swaps, a way to exchange crypto between different blockchains. The technology isn’t exclusive to Komodo: developer Sergio Demían Lerner, now co-founder and chief scientist at RSK LAbs, was among the first to pitch a fully fledged description of the technology back in 2012.
+
+“Komodo takes the data [from] the Ethereum interface and translates whatever is not being understood by the native Bitcoin protocol,” Stadelmann said, “so these two different blockchains can interact with each other.”
+
+The end of 51% attacks
+
+Stadelmann told Decrypt of another use not mentioned by Ren: creators of new blockchains can use the hashing power of Bitcoin to secure their networks. Blockchains can be overpowered by 51% attacks, in which anyone holding over 51% of the hashing power on a proof-of-work chain can overrule everyone else and manipulate the network however they want; they could even credit themselves with free tokens.
+
+New blockchains are particularly vulnerable to such attacks because they might not have enough miners. But securing the blockchain with the hashing power of Bitcoin using Komodo’s special smart contracts, Stadelmann said, makes them “technically immune against 51% attacks.”
+
+Komodo’s system would store block hashes from the weaker blockchain on the Bitcoin blockchain at regular intervals, he explained. From then on, the weaker blockchain would use that stored information as a “checkpoint” to validate its own blockchain.
+
+This gives users of these blockchains peace of mind, Stadelmann said. “A hacker or a malicious actor would have to hack the Bitcoin protocol first, and afterwards the Komodo protocol, to attack their blockchain,” he said. And if people stop using the Bitcoin protocol, developers of new blockchains could instead tie their network to the strongest blockchain du jour.
+
+What next for blockchain interoperability?
+
+Blockchain interoperability is a fast-evolving space, but there’s no clear market winner just yet. Both Ren and Komodo told Decrypt that they want to be the standard for the technology.
+
+Stadelmann doesn’t hide his ambitions for Komodo; he wants to see it “provide an industry standard in this segment that can be used by literally all other blockchain platforms and protocols.” Wang’s vision for Ren, meanwhile, would see it complement more specialized ecosystems, like Cosmos.
+
+The dust is far from settled; indeed, it’s barely been kicked up. Ren isn’t even out yet; its testnet launched in the back half of 2019, and its mainnet will launch in the near future. Other market entrants are still in the early stages of showing the market what’s possible. If they don’t, Vitalik Buterin will be sure to let them know.

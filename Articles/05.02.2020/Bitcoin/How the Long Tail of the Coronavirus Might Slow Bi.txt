@@ -1,0 +1,91 @@
+DATE:  05.02.2020, 19:10:13
+TITLE: How the Long Tail of the Coronavirus Might Slow Bitcoin’s Hash Power Growth
+URL:   https://www.coindesk.com/how-the-long-tail-of-the-coronavirus-might-slow-bitcoins-hash-power-growth
+
+The coronavirus outbreak in China may impose a longer-term impact on the bitcoin network’s mining activity at a time when an estimated 65 percent of its computing power is located there.
+
+While Chinese miner manufacturers see rising demand for new equipment ahead of bitcoin’s scheduled halving in May, they estimate the disease may limit growth in bitcoin mining power if the situation isn’t resolved in the near future because it is difficult to expand or build new machines, according to Kevin Shao, general manager of Canaan Creative's blockchain arm.
+
+Shao told CoinDesk that while there is little doubt miners can maintain the current level of computing power, there is a shortage of new mining machines.
+
+So far, almost every bitcoin miner maker in China – Bitmain, Canaan, MicroBT and InnoSilicon – faces delays in production and delivery. Bitmain and Canaan, the world’s top two miner makers by market share, have published notices saying the delay of after-sale services until Feb. 10.
+
+Customers want new, top-of-the-line mining models to expand existing mining facilities and replace older machines in anticipation of the bitcoin halving, currently expected to occur sometime in May 2020.
+
+“One of the most affected businesses is our mining machine production,” Abe Yang, chief operating officer at PandaMiner, told CoinDesk.
+
+Founded in 2013, the Shenzhen-based firm makes mining machines and provides computing power services with nine mining farms.
+
+“Not only us, most miner makers have been affected by the outbreak since their factories are based in cities like Dongguan and Shenzhen in Guangdong province,” Yang said. “During the extended vacation until Feb.10, almost all the production will be halted.”
+
+Meanwhile, the lockdown of the city of Wuhan has had a more direct impact on InnoSilicon, whose headquarters is located in the outbreak’s epicenter.
+
+“The delay currently has not affected our businesses that much since the extension [of the holiday break] will only be several days,” Shao said. “However, the impact could be much more significant if the outbreak continues for a longer period of time.”
+
+According to data from BTC.com, bitcoin’s mining difficulty – a measure of how hard it is to compete for mining rewards on the bitcoin network – posted 6.57 percent and 7.08 percent growth on Jan. 2 and Jan. 15, respectively.
+
+The growth rate dropped to 4.67 percent on Jan. 28 and is estimated to decline to 3 percent in about three days. Bitcoin’s mining difficulty adjusts itself about every 14 days – it goes up or down in positive correlation to whether there are more or less participants racing on the network.
+
+“The coronavirus outbreak timespan overlaps with bitcoin’s halving event. The dual factors are apparently affecting the maintenance of mining equipment as well as the delivery of new miners,” Wang Xin, marketing director of WhatsMiner maker MicroBT said in an interview. “As such, the recovery of bitcoin’s hash rate growth will be delayed.”
+
+Rising demand
+
+Hash power has more than doubled from around 50 EH/s compared to the same period of last year as bitcoin’s market price climbed over $9,000, according to Shao.
+
+“Second-hand miners [mostly older models like Bitmain’s AntMiner S9] that are aiming at a faster payback period, now have a larger risk as they enter a shutdown period ahead of the halving, compared to more powerful new models [like WhatsMiner M20 or AntMiner S17],” said MicroBT’s Wang.
+
+Based on f2pool’s profitability index, models like the most widely used AntMiner S9 would have a 30 percent gross margin at bitcoin’s current price with an electricity cost of $0.05 per kWh.
+
+However, a lower number of new miners could be good news for those that have already invested in mining equipment with facilities up and running.
+
+Existing miners could see more steady mining rewards because there wouldn’t be more competitors to enter the market due to the lack of new mining machines, Canaan’s Shao said.
+
+But he added that one way the outbreak would affect existing miners is that many mining machine providers might not be able to offer timely post-sale services to fix malfunctioned devices.
+
+Logistics issues
+
+Wang said assembly factories have delayed their return-to-business schedule, citing the Chinese government's extension of the Lunar New Year. Businesses in the country have been ordered shut until at least Feb. 10.
+
+This is not a crypto-specific issue either. Reuters reported Monday iPhone sales may take a hit because of the coronavirus, if the health emergency can not be contained in the near future.
+
+Shao said one of his company’s concerns is slowing logistics, adding, “while we can make all the plans to prepare for the outbreak on our part, logistics is something we can’t control.”
+
+Local infrastructure now prioritizes distributing necessities and supplies to those who are affected by the virus over less important deliveries, Shao said.
+
+Therefore, some of the customers who pre-ordered miners might not be able to receive the machines on time, and it will take longer to deliver new orders if the outbreak continues, Shao said.
+
+Even if employees all return to work, they cannot assemble miners unless their suppliers provide the necessary parts.
+
+“If the supplies can not be delivered on time, miner makers are not going to be able to assemble the production,” Shao said.
+
+One way companies can take advantage of their inventory is to run the machines themselves to offer computing power to their clients without selling the actual machines, Yang said. This assumes they have the necessary parts to complete assembling miners.
+
+“However, the service is not sustainable if the outbreak continues because we would eventually reach full capacity without new machines, creating a shortage in computing power,” Yang said.
+
+Mining farms
+
+Mining farms remain unaffected for the moment, but existing quarantine controls and the possibility of an extended outbreak may soon take a toll.
+
+Yang said PandaMiner is able to maintain operations for its existing farms, but there will be significant delays in constructing new farms.
+
+Two-thirds of the company’s employees did not go home for the Chinese New Year, and have instead been working at the mining sites. However, for those who did go home it will take weeks to return to work, Yang said.
+
+Many cities now require a two-week quarantine for people coming back from other areas before letting them go back to work, he said.
+
+For example, the Xinjiang autonomous region, an area that hosts a significant portion of mining farms due to its cheap electricity, has implemented strict policies to quarantine not only those coming back from the Hubei province, where Wuhan is located, but also any other province or region, Yang said.
+
+“We asked our employees to come back to Xinjiang as early as possible so that they can start the two-week quarantine and go back to work,” Yang said, noting policies may vary among different areas in China.
+
+The company’s mining farm in Guizhou is subject to a stricter policy. “We are allowed to let our employees work on site and can only keep a few people to maintain the operation,” he said.
+
+Sichuan province, which controls over 50 percent of bitcoin’s hashrate, also requires the two-week quarantine, according to Yang.
+
+The lack of on-site staff has already negatively impacted the management of mining farms, Yang said.
+
+Employees are responsible for ensuring mining machines are connected to the Internet and have a consistent supply of power. The employees would also need to fix broken circuit boards and other hardware to maintain operations, Yang said.
+
+“We usually have at least 10 people on staff to maintain a mining farm,” Yang said. “With much fewer employees, it is hard for us to keep as many machines running as before.”
+
+According to Yang, in some extreme cases where the local government prohibits all employees from working on site, companies need to negotiate with the government to leave two or three people on duty.
+
+Wolfie Zhao contributed reporting.

@@ -1,0 +1,45 @@
+DATE:  01.04.2020, 08:00:00
+TITLE: GitHub Is Burying Bitcoin Code Inside an Arctic Mountain to Ride Out the Next 1,000 Years
+URL:   https://www.coindesk.com/github-is-burying-bitcoin-code-inside-an-arctic-mountain-to-ride-out-the-next-1000-years
+
+An icy mountain in Norway’s Svalbard – an all but inhabitable Arctic archipelago covered in glaciers and inhabited by polar bears – is an unlikely safe haven for cryptocurrency code, let alone a pillar of modern-day civilization.
+
+But it's here, 250 meters underground in a forsaken coal mine, that GitHub has chosen to store reams of open-source code. That includes Bitcoin Core, by far the most popular code implementation of bitcoin's underlying infrastructure and one of the most used repositories on GitHub.
+
+As a part of an archiving program for safeguarding an important part of technological history, a "snapshot" of all this code will be copied onto film reels and stored in a steel container, all done in an effort to keep the data alive and unscathed for 1,000 years.
+
+The team is currently getting this data ready. The official deposit into the mountain is planned for late April, a GitHub spokesperson told CoinDesk.
+
+But, while Bitcoin Core is featured, most cryptocurrency projects stored on GitHub will also be included, including bitcoin's forward-looking Lightning Network, and the code behind other cryptocurrencies, such as ethereum and dogecoin.
+
+Organizations like the non-profit digital library Internet Archive and the future-looking cultural non-profit Long Now Foundation are backing the effort, and historians, anthropologists and other scientists are advising it.
+
+Bitcoin and Ethereum coders are fans of the initiative. "The more backups the merrier," as ethereum developer Ligi put it to CoinDesk.
+
+"I think it's likely that at some point in the future the electronic record will be lost. It's all pretty fragile. Preserving some things on hard copy could definitely help avoid a hole in history," said Wladimir van der Laan, lead maintainer of Bitcoin Core.
+
+The archive potentially provides a way for people up to 1,000 years from now to figure out what on earth cryptocurrency was or how it evolved – if it manages to last a millennium.
+
+"In one sense, this is a fascinating section of financial history that we should preserve for future study," Avanti Chief Technology Officer and Bitcoin Core contributor Bryan Bishop said.
+
+History's limits
+
+While archiving cryptocurrency code could plug historical holes for historians, there are limits to what storing this information will enable.
+
+Van der Laan pointed out that, from a software engineer's perspective, the code might not make much sense to coders hundreds of years from now.
+
+"As a developer, I do find the idea of a future historian trying to puzzle together our (what goes for) civilization from reams of clever hacks, spaghetti code and context-specific source code kind of amusing," van der Laan said.
+
+Jason Teutsch, the founder of Ethereum infrastructure project Truebit and a computer science researcher, argued similarly: Explanations of the code should sit alongside the raw material.
+
+"The social, economic, regulatory and academic records depicting motivations and resources for code development may ultimately become more important than the code itself," he said.
+
+As a part of the program, GitHub will store a guide to using the archive for those in a future time, including descriptions of "most significant" repositories to provide clearer context.
+
+As a developer who hosts a wiki for futurist technological ideas, Avanti’s Bishop is looking to preserve information even further into the future. In fact, Bishop is awaiting a patent for a way to store information inside of DNA. He notes that the genetic instructions guiding an organism's growth can preserve information for hundreds of thousands of years.
+
+And while this project could help preserve some history, Bishop argues there's plenty of other important information out there that should be stored in a similar fashion.
+
+"Beyond GitHub, I think they need to seriously consider archiving Sci-Hub, which has over 70 million scientific articles," Bishop said. “It's one of the great feats of human intellect and progress, and it needs to be preserved.”
+
+UPDATE (April. 9 02:09 UTC): This article has been updated to clarify that GitHub is storing some supplementary material along with the code.

@@ -1,0 +1,53 @@
+DATE:  02.12.2019, 10:00:00
+TITLE: A Plan to Decentralize Bitcoin Mining Again Is Gaining Ground
+URL:   https://www.coindesk.com/a-plan-to-decentralize-bitcoin-mining-again-is-gaining-ground
+
+Braiins, the company behind one of the largest bitcoin mining pools, recently released a code spec that could be promising for decentralized mining.
+
+The spec, Stratum V2, could significantly change how bitcoin mining functions and would add security and efficiency to mining pools, the entities that organize miners spread across the world.
+
+Although it aims to improve bitcoin mining pools in a number of ways, the primary benefit comes from a component that reduces one of the most pressing problems in bitcoin: mining pool centralization.
+
+"If this protocol does everything it promises, 'mining centralization' as an argument will be completely dead," bitcoin developer and educator Jimmy Song said.
+
+Meanwhile, Square bitcoin developer Matt Corallo, one of the designers of the protocol, wrote in a recent Reddit AMA: "This is huge for mining centralization. Instead of being focused on the centralization of pools (which is the world we're in today), we can focus on the centralization of actual miners [and] farm owners!"
+
+Last year, Corallo revealed BetterHash, a plan to combat the centralization problem in mining pools. Now Braiins and Corallo are pooling their work to build one protocol that fixes a number of current mining pool issues.
+
+Silver bullet?
+
+Mining has long been a difficult proposition for individual miners. In the early days to bitcoin, miners from around the world began connecting to so-called mining pools to earn a more consistent paycheck. All of the miners worked in tandem and when one member of the pool got lucky, the thinking went, the entire pool benefited.
+
+In time, weighted mining pools emerged as a safer, more profitable way of mining by taking in all of the bitcoin earned by their miners and redistributing them based on mining power contributed. Unfortunately, according to recent data from Blockchain.info, only three mining pools control over 50% of bitcoin's mining power, thereby centralizing the mining power in a few hands.
+
+Source: Source: https://www.blockchain.com/en/pools
+
+This is a problem. When one of the miners in a mining pool wins a block and rakes in the 12.5 bitcoin reward, the mining pool decides which transactions go into that block. Bitcoin experts worry that these centralized entities could use this power to censor transactions they don't like.
+
+To prevent this, Stratum V2 supports "job negotiation" modeled off of Corallo's BetterHash. This changes the relationship between the miner and the mining pool. Instead of mining pools deciding what transactions go into blocks, miners decide which ones to include.
+
+"[If] there are cases of transaction censorship in the future, we have a security measure in the protocol that miners can use to circumvent the censorship," Capek said.
+
+This also means that miners, not mining pools, will be able to vote on protocol upgrades to bitcoin if Stratum V2 is adopted by mining pools.
+
+"With the job negotiation protocol, miners can also choose their block header version field. This allows them freedom in any potential voting via BIP8/BIP9 style mechanism," Capek said.
+
+All that said, Capek stressed that the new specification is not necessarily a "silver bullet" for mining centralization. He pointed out that the mining pools that want to censor bitcoin transactions could simply opt-out of adopting the protocol.
+
+"At the same time it's important to mention that a pool that would 'intentionally' perform such censorship would not allow its users to negotiate their jobs," he said.
+
+Meanwhile, Luke Dashjr, veteran bitcoin coder, argued on Twitter that there are other aspects of mining centralization that still need to be addressed. For example, the fact that only a handful of companies produce mining hardware, the computers made specifically for producing bitcoin, is also a grave threat to decentralization.
+
+Thwarting attacks
+
+Decentralization isn't the only draw in Stratum V2. Mining pools will have an incentive to adopt the new protocol because it will save them money and prevent attacks that could cause them to lose rewards. First, it makes transferring data back and forth more efficient. It could also make stealing mining pool hash power much harder.
+
+"Last but not least, we have addressed the security aspects by allowing fully encrypted and authenticated communication using the current state of the art technology called 'Noise Protocol Framework,'" Capek said.
+
+This peer-reviewed technique is the same technology used by the mobile messenger WhatsApp and bitcoin's lightning network.
+
+Braiins is still finalizing a few features in the specification, such as deciding which encryption algorithm to use for hiding data from snoops, Capek said. But a version is available to test and most of the Stratum V2 specification draft is now up for review.
+
+Capek expects it to take at least 12 months for mining pools to adopt the protocol.
+
+"Getting everybody on board is a matter of realizing the benefits on the security and efficiency side, which in turn leads to saving some operational costs," he said.

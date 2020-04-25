@@ -1,0 +1,49 @@
+DATE:  16.12.2019, 17:00:01
+TITLE: Bitcoin Cash releases smart contract and privacy upgrades
+URL:   https://finance.yahoo.com/news/bitcoin-cash-releases-smart-contract-170001645.html
+
+Last weekend, Richard Heart and Roger Ver had a really interesting conversation about Bitcoin Cash and the overall state of cryptocurrency.
+
+Much to my interest, Tai Zen, a crypto trader that I personally follow, also released a brand new interview with Mr Ver. They discussed how Bitcoin Cash works compared to Bitcoin and new features the project is implementing.
+
+The two interviews are worth a watch if you want to learn a thing or two about how Bitcoin “used to be”, how the space has grown, and some hurdles crypto still needs to overcome to achieve major adoption.
+
+You may also want to check out my interview with Roger Ver during Q1 2019, where we talked about the early days of Bitcoin, how adoption is being furthered, and the impact smart contracts will have on the Bitcoin Cash ecosystem.
+
+My goal today is to discuss how Bitcoin Cash is evolving. I will aim to go in-depth on the two most important features BCH is currently implementing: smart contract functionality and privacy through non-optional coin mixing.
+
+In my opinion, these features could take BCH to a whole new level as P2P digital cash, a goal Roger has been chasing since he joined the market in early 2011.
+
+Bitcoin Cash improving smart contracts
+
+At the time of writing, there are two major ways to implement smart contracts on Bitcoin Cash.
+
+The first and most widely discussed in the media is CashScript. Essentially, CashScript is a high-level language that allows you to write Cash Contracts in a straightforward and familiar way.
+
+CashScript uses a script compiler, much like Ethereum’s Solidity, that allows users to basically write functions and compile them into bytecode in order to add data to a block in a transaction.
+
+The goal of smart contracts on the Bitcoin Cash network is to improve the network’s functionality by allowing users to add additional logic to a transaction – ‘if this, then that’.
+
+Another Bitcoin Cash smart contract implementation is Wormhole. Based on the Omni Layer protocol, Wormhole Cash makes it possible to issue tokens on BCH.
+
+By using Wormhole, it is possible to issue tokens as well as create NFTs, much like with the ERC-721 and ERC-777 standards. As described in the whitepaper:
+
+“To enable function similar to that of the ERC-20 protocol, which enjoys great popularity on the Ethereum network with the OP_GROUP solution, the consensus rule of BCH has to be altered.”
+
+Bitcoin Cash adding privacy
+
+Another key aspect discussed by Roger Ver is the fact BCH is adding a pretty useful privacy feature: coin mixing.
+
+The best part, however, is that the new privacy functionality will be standard on btc.com wallets. This means instead of having to choose to use a coin mixer, the feature will be “forced” upon users.
+
+Essentially, BCH will use a different approach than Bitcoin. For example, some wallets like Samurai give users the possibility to mix coins before sending. However, if you do not opt in, the coin mixer won’t be used.
+
+In regards to the Bitcoin Cash approach, I think it does make more sense.
+
+By standardising coin mixing, most transactions will get mixed. Since coin mixers depend on network effects (the more users, the higher the privacy), by making mixing mandatory (unless you opt out), we can argue more users will effectively mix their coins before executing a transaction.
+
+Since enhanced privacy increases censorship resistance, I argue this is a great improvement.
+
+I sincerely hope more wallets adopt similar strategies in order to protect users’ privacy.
+
+The post Bitcoin Cash releases smart contract and privacy upgrades appeared first on Coin Rivet.

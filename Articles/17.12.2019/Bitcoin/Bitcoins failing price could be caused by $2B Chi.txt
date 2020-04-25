@@ -1,0 +1,65 @@
+DATE:  17.12.2019, 14:32:40
+TITLE: Bitcoin’s failing price could be caused by $2B Chinese Ponzi scheme dumping its crypto
+URL:   https://thenextweb.com/hardfork/2019/12/17/bitcoin-cryptocurrency-price-dump-ponzi-scheme-plustoken/
+
+Bitcoin‘s price could be held down by scammers seeking to liquidate at least $2 billion worth of cryptocurrency belonging to one of the largest ever Ponzi schemes, PlusToken.
+
+That’s according to blockchain firm Chainalysis, which says it’s tracked roughly 45,000 BTC ($302 million) and 800,000 ETH ($102 million) sent from PlusToken’s operational wallets to individual addresses owned by the scammers themselves.
+
+The firm noted — almost ominously — that 20,000 BTC (worth over $134 million) is still waiting to be dumped.
+
+“Given this analysis and the effects we’ve observed so far, liquidations of large amounts of illicitly obtained funds are likely to drive down the price of cryptocurrencies,” it said.
+
+PlusToken, the Chinese BitConnect
+
+Much like other Bitcoin-fueled Ponzis, the PlusToken scam swindled investors out of their cryptocurrency by promising high returns.
+
+All buyers had to do was acquire the PLUS cryptocurrency with Bitcoin BTC and Ether, and they’d purportedly generate lucrative profits from exchange dividends, mining income, and referral bonuses automatically.
+
+Chainalysis also noted that several Chinese exchanges listed PLUS, and its price hit a peak of $350 as it gathered investments from millions of people. Readers familiar with the BitConnect con are likely feeling a strong sense of deja vu right about now.
+
+In total, the PlusToken Ponzi is believed to have amassed 180,000 BTC, 6,400,000 ETH, 110,000 USDT, and 53 OMG from its victims. These amounts equate to roughly $2 billion.
+
+This is a map of how PlusToken launders its Bitcoin, from Chainalysis
+
+“While we tracked $2 billion worth of various cryptocurrencies that victims sent to the PlusToken scammers, some of that money was paid out to early investors, presumably to maintain the illusion of high returns while PlusToken presented itself as a legitimate company,” said the firm.
+
+“Nonetheless, we’ve tracked roughly 800,000 ETH [$102 million] and 45,000 BTC [$302 million] we can definitively say the scammers transferred to their own addresses to launder,” it added.
+
+OTC brokers specializing in laundering cryptocurrency
+
+Chainalysis reckons PlusToken goons have so far successfully laundered a $185 million chunk of that Bitcoin through over-the-counter (OTC) cryptocurrency brokers, particularly those that have significantly lower KYC requirements than exchanges themselves.
+
+Such brokers reportedly then sell PlusToken’s Bitcoin in batches via crypto exchange Huobi. It’s these dumping OTC sellers, Chainalysis posit, that could be keeping the price of Bitcoin down.
+
+The firm noted PlusToken perps have also cashed out least 10,000 ETH ($1.3 million), while 790,000 ETH ($101 million) sits entirely untouched in a single wallet.
+
+Following the ready-to-launder ETH was easier than tracking the Bitcoin, confirmed Chainalysis. Approximately 25,000 BTC ($168 million) has already been cashed out, but the remainder is reportedly spread across more than 8,700 addresses.
+
+Following Bitcoin after its been mixed looks pretty tricky. Diagram courtesy of Chainalysis
+
+Analysts determined that the scammers have transferred that Bitcoin more than 24,000 times, leveraging more than 71,000 different addresses. “That’s not even counting cash outs or transfers to off-ramps such as exchanges,” they said.
+
+Many of those transactions were reportedly conducted using cryptocurrency “mixers” such as Wasabi Wallet, which use technology called CoinJoin that jumbles similar amounts of Bitcoin together to render tracking funds more difficult.
+
+Prove these dumps affect Bitcoin price, please
+
+Chainalysis’ hypothesis rests on two things. Firstly, these dodgy OTC traders would receive Bitcoin from PlusToken wallets and then exchange it for Tether. This would cause an uptick in on-chain Bitcoin volume, followed by an uptick in trade volume.
+
+The firm detected both these upticks.
+
+If PlusToken dumps are truly affecting Bitcoin’s price, the cryptocurrency should fall soon after those occurances, as large amounts of BTC sold would cause its value to drop.
+
+According to Chainalysis, this also happened. “As we hypothesized, spikes in on-chain flow to OTC brokers correlate with drops in Bitcoin’s price,” it said.
+
+Courtesy of Chainalysis
+
+“Above, we see that PlusToken wallets sent a steady flow of Bitcoin starting in mid-April and spiking just before the arrests in late June,” said Chainalysis. “After that, we see no movement until a few spikes in August, before transfers spike again and remain high throughout September. Then, we see a few more spikes in October.”
+
+However, the firm made it clear that while it does indeed conclude that PlusToken cashouts correlate with drops in Bitcoin‘s price, correlation doesn’t exactly mean causation.
+
+What Chainalysis does say is that PlusToken dumping causes increased volatility in Bitcoin’s value, as well as correlates significantly with Bitcoin price drops.
+
+“Keep in mind that PlusToken cashouts are just one of many potential influences on Bitcoin’s price. Media stories, concerted market manipulation efforts, algorithmic trading errors, or any number of other factors may have contributed to volatility as well,” said the firm. “But none of those components on their own provides a compelling explanation for the large spike in volatility in the time period we studied absent the influence of PlusToken.”
+
+Curiously, six individuals connected to PlusToken were arrested earlier this year. This would mean that there’s at least one perp still on the loose.

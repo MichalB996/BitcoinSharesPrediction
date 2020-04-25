@@ -1,0 +1,31 @@
+DATE:  17.05.2019, 18:12:35
+TITLE: 20-Year-Old Cryptographic Puzzle Is Solved and Stamped in the Bitcoin Cash Blockchain
+URL:   https://news.bitcoin.com/20-year-old-cryptographic-puzzle-is-solved-and-stamped-in-the-bitcoin-cash-blockchain/
+
+20-Year-Old Cryptographic Puzzle Is Solved and Stamped in the Bitcoin Cash Blockchain
+
+A fiendishly tricky puzzle that has baffled cryptographers for two decades has been solved, and the proof preserved on the BCH and BTC blockchains. The feat, which was achieved 15 years earlier than the puzzle’s architects had anticipated, was commemorated with another premature reveal – the opening of a special time capsule.
+
+Also read: ‘Craig Is a Liar’ – Early Adopter Proves Ownership of Bitcoin Address Claimed by Craig Wright
+
+Moore’s Law Estimated This Puzzle Would Take 35 Years to Solve
+
+In April 1999, cryptographers at the Massachusetts Institute of Technology (MIT) conceived a puzzle that was expected to take 35 years to solve. Last month, however, self-taught programmer Bernard Fabrot revealed that he had cracked it. The Belgian spent three and a half years working on the conundrum. As MIT’s Computer Science & Artificial Intelligence Lab explained:
+
+The puzzle essentially involves doing roughly 80 trillion successive squarings of a starting number, and was specifically designed to foil anyone trying to solve it more quickly by using parallel computing.
+
+Shortly after Fabrot cracked the puzzle, Simon Peffers, a former engineer at Intel, published his own proof. Reflecting on the remarkable achievement, MIT professor Ron Rivest said “There have been hardware and software advances beyond what I predicted in 1999. The puzzle’s fundamental challenge of doing roughly 80 trillion squarings remains unbroken, but the resources required to do a single squaring have been reduced by much more than I predicted.”
+
+Time Capsule Cracked Open Early
+
+When the puzzle was conceived in 1999, it was promised that if a correct solution was uncovered earlier than predicted, MIT would open a time capsule designed by architect Frank Gehry which contained historical artifacts from luminaries such as Tim Berners-Lee, Ethernet co-inventor Bob Metcalfe, and Bill Gates. On May 15, at a special ceremony, the capsule was duly opened.
+
+The event was attended by puzzle creator Ron Rivest as well as by the teams who solved it: Bernard Fabrot from Belgium, and Simon Peffers, Justin Drake, Jeromy Johnson, and Erdinc Ozturk, who finished their own proof three weeks later. Fabrot’s proof was stamped and indelibly stored on the Bitcoin Cash blockchain in an OP_RETURN field on April 20 and also on the BTC blockchain five days later, after mining pool Antpool added a congratulatory message to the Coinbase data for block 573138.
+
+MIT, meanwhile, has plenty more time capsules littered about its campus for unearthing at a future date. One, buried under an 18-ton magnet, will be retrieved “in the coming months as the Institute prepares to break ground on the new College of Computing building there.”
+
+What are your thoughts on the early solution to this puzzle being discovered, and proof being stored on the BCH blockchain? Let us know in the comments section below.
+
+Images courtesy of Shutterstock.
+
+Did you know you can verify any unconfirmed Bitcoin transaction with our Bitcoin Block Explorer tool? Simply complete a Bitcoin address search to view it on the blockchain. Plus, visit our Bitcoin Charts to see what’s happening in the industry.

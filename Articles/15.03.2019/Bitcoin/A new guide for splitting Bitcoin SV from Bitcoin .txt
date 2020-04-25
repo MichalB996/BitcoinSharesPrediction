@@ -1,0 +1,27 @@
+DATE:  15.03.2019, 14:22:54
+TITLE: A new guide for splitting Bitcoin SV from Bitcoin Cash with ElectrumSV
+URL:   https://coingeek.com/a-new-guide-for-splitting-bitcoin-sv-from-bitcoin-cash-with-electrumsv/
+
+If you have some Bitcoin Cash (BCHABC) stored away in an Electron Cash wallet, and you’ve been wondering how you can split those coins to get your Bitcoin SV (BSV), there’s good news. The kind people over at the Bitcoin SV Node team at nChain have written a guide to do just that.
+
+The guide was created by the fine folks at nChain, led by Steve Shadders, Director of Solutions and Engineering at nChain. While making the guide, they worked with the ElecrumSV team and suggested some user experience design tips which might be coming in the near future.
+
+For your convenience, we provide a summary of the steps involve in splitting a coin, but if you want a more thorough walkthrough, we recommend checking out the original guide.
+
+First, you’ll need to make sure you have the latest version of the ElectrumSV wallet. You can find it on their website for your operating system.
+
+Now, don’t open your Electron Cash wallet with ElectrumSV. You might corrupt the wallet, and that would be bad. Instead, make sure they are in the standard location for Electrum SV wallets by copying them over. The ElectrumSV wallet will tell you it’s found your Electron Cash wallet if it doesn’t find an existing ElectrumSV wallet. That will do the job.
+
+If you already have an ElectrumSV wallet, you won’t get this copying option when you open the app. Instead, you’ll see an option to “Import…” your Electron Cash wallet. That’s what you’ll want to do.
+
+In the case that ElectrumSV doesn’t find a BCHABC wallet, it won’t give you that “Import…” option.
+
+Once your BCHABC wallet is copied or imported, you have to split the coins. Select the wallet you copied or imported in from the previous steps with the “Choose” button. Then click on the “Coin Splitting” tab.
+
+This tab will give you a rundown of how the splitting process works. It’s worth reading to understand how the process works, but the steps you’ll need to follow are pretty simple. Click the “Split” button, and then provide your password if your wallet was set with one.
+
+Once the splitting process is over, you’ll see a transactions log in the “History” tab. You’re BSV will now be in the ElectrumSV wallet, minus the small fee required for splitting, and your BCHABC will be in the original Electrum Cash wallet.
+
+That’s all it takes. Once you’ve followed all these steps, you’re ready to use your newly split Bitcoin SV.
+
+New to Bitcoin? Check out CoinGeek’s Bitcoin for Beginners section, the ultimate resource guide to learn more about Bitcoin—as originally envisioned by Satoshi Nakamoto—and blockchain.

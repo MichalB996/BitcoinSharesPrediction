@@ -1,0 +1,81 @@
+DATE:  16.01.2019, 12:30:27
+TITLE: Genesis, BitGo Team Up to Ease Crypto Trading for Institutions
+URL:   https://www.coindesk.com/genesis-trading-bitgo-team-up-ease-crypto-trading-institutions
+
+Cryptocurrency custodian BitGo and over-the-counter (OTC) specialist Genesis Global Trading have teamed up on a service designed to make Wall Street feel more comfortable dipping a toe in the market.
+
+Announced today, the tie-up means institutional investors storing digital assets with BitGo can use Genesis’ platform to execute trades at the speed they are accustomed to in the traditional financial markets.
+
+For example, if a client holds 100 bitcoin in their BitGo cold storage wallet, they can get a quote via Genesis and sell those bitcoins immediately. The moment the client agrees on the trade, BitGo locks up the 100 bitcoin and holds them to give to Genesis, which initiates a U.S. dollar bank wire to BitGo.
+
+Once the wire goes through, the bitcoin transfer is settled on BitGo’s books, without anyone having to take the coins out of storage – which can take 24 hours or more – and without the transaction having to be recorded on the public ledger.
+
+Michael Moro, CEO, Genesis Trading, explained:
+
+“Because we have a BitGo Trust wallet ourselves, the coins are actually never leaving the BitGo system, just going from client to Bitgo to Genesis without ever being exposed to hot wallets and public blockchains.”
+
+In addition to solving the time-lag cold storage issue, the BitGo/Genesis solution also aims to address the counterparty and settlement risk associated with some OTC crypto trading – what BitGo CEO Mike Belshe calls the “who goes first” problem.
+
+In such scenarios, a buyer agrees to a price with a counterparty, who asks for the cash to be sent and then they will send millions of dollars worth of bitcoin. In Belshe’s view, this is just “crazy.”
+
+“Nobody does this with any other asset class. Nobody wants to just wire someone that kind of money,” he said.
+
+By expanding from pure custody into clearing and settlement, BitGo can show what is possible with crypto, Belshe added. “We can actually do real-time settlement; we can use digital tokens for dollars and we can use them for digital tokens that you trade. We can do swaps with zero counterparty risk.”
+
+Yet BitGo is far from alone among custodians in moving in this direction.
+
+Lightning for institutions
+
+Indeed, the Genesis announcement follows a similar partnership unveiled late last year between BitGo’s rival custodian Kingdom Trust and trading firm OTCXN.
+
+“The OTCXN platform is essentially a private blockchain where people go to make trades,” said Matt Jennings, CEO of Kingdom Trust (using the term “blockchain” figuratively). “We verify through that platform that the assets exist here, so you have a regulated entity verifying the assets are in cold storage.”
+
+More recently, OTCXN signed up Nevada-based qualified custodian and crypto specialist Prime Trust, setting up the possibility of connecting different cold storage providers.
+
+OTCXN CEO Rosario Ingargiola told CoinDesk he is also in the process of hooking up its blockchain and tokenizing infrastructure with a handful of top tier exchanges.
+
+“It’s an extension of cold storage wallet and legacy account infrastructure. Every custodian on our network has a unique set of asset ledgers. Kingdom Trust and Prime Trust, for example, each have a unique dollar and bitcoin ledger per firm,” said Ingargiola, adding:
+
+“You never have a public ledger transaction. It’s kind of like the lightning network in that respect – except it works.”
+
+Again, to be clear he did not literally mean a new protocol like bitcoin’s lightning network, just that OTCXN’s network allows for the type of speed and scale associated with industrial-sized algorithmic trading.
+
+“The beauty of that is you can truly support high-frequency trading (HFT) in any digital asset using this paradigm,” Ingargiola said. “I think this is absolutely necessary to scale this market to the level where liquidity needs to be to get institutional investors and pension funds.”
+
+Other institutional crypto platforms are thinking along similar lines as well, including Fidelity Digital Assets (FDAS), the custodian and brokerage soon to be launched by U.S. financial services powerhouse Fidelity Investments.
+
+In an interview with CoinDesk late last year, Tom Jessop, head of FDAS, said that once it has a critical mass of clients whose orders it can match with each other, rather than using outside liquidity providers, it won’t have to move coins out of storage as much.
+
+“If we’re able to cross two client orders, it’s effectively just a book transfer on our books and records,” said Jessop. “If we’re trading with an external counterparty, it involves the movement of assets. We can do both [external and internal transfers]. There is probably an efficiency benefit in the former case, where we can effect transactions between customers….It creates a little bit of attractiveness on the platform.”
+
+Matt Johnson, co-founder of Digital Asset Custody Company, said he also looks forward to a point where speed to settlement is no longer an issue, from a cold storage perspective.
+
+“We can go from cold storage to cold storage and there never needs to be another hot wallet. Everybody can throw away their hot wallets for institutional custody,” he said.
+
+A role for stablecoins
+
+Yet in the long term, Moro of Genesis said his preference would be using existing infrastructure and potentially leveraging stablecoins – cryptocurrencies designed to maintain parity with fiat – rather than holding out for adoption onto a layer 2 system.
+
+For instance, this could work if Genesis and BitGo agreed to use a stablecoin as a medium of exchange, taking U.S. dollars out the equation. Rather than sending a bank wire to the BitGo customer selling their 100 bitcoin, as is the current plan, they would receive 100 bitcoin worth of a stablecoin in this scenario, said Moro.
+
+Alternatively, BitGo could do a conversion out of the stablecoin and into dollars, he said. “That way, if a transaction happens on a weekend or on a holiday or overnight, we can still settle because we are not beholden to the bank hours.”
+
+However, David Mercer, CEO of LMAX Exchange Group, that operates institutional crypto exchange LMAX Digital, said any such nuance of approach pales into insignificance next to the fundamental missing piece, which is a big bank coming in and being a trusted anchor for fiat/crypto trading.
+
+Mercer’s firm also offers custody and instant ledger entries between trading counterparties without having to move coins. But he said this part isn’t really the problem; where the fiat comes in is the part that’s lacking, said Mercer.
+
+“The coins bit is easy,” he said. “But the bulk of trading today still happens fiat versus coin. And fiat has to enter the system somehow. At the moment, clients have to use – I don’t want to be too critical of them – banks without a very big balance sheet.”
+
+Unfortunately, the HSBCs and JPMorgans of the world don’t want to touch digital businesses yet. But it is a “yet,” believes Mercer, who said he is in talks with banks in the U.K. regarding this, adding:
+
+“When that happens, all of sudden when you will get the institutional money, the asset managers and pension funds, confident enough to park their money with an AA-rated or AAA-rated bank and trade.”
+
+Yet Moro stated that asking banks to settle trades in crypto time, i.e. 24/7, 365 days a year, remains a big hurdle. Returning to the potential of stablecoins, he said a consortium of banks getting together and issuing their own stablecoin would be an optimal (and, he thinks, likely) solution.
+
+“This would allow for existing banking guys to get involved. I think the creation/redemption process could be automated,” Moro said, concluding:
+
+“The crypto community will have questions about it being centralized and still relying on the old financial system. But to be honest, that’s a stablecoin that will be worth a dollar.”
+
+UPDATE (January 16 14:30 UTC): An earlier version of the headline for this article overstated the impact of the BitGo-Genesis service. It will result in faster trading, but not the nanosecond-fast definition of “high-frequency trading.”
+
+BitGo CEO Mike Belshe via CoinDesk archives

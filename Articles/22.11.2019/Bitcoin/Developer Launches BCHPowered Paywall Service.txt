@@ -1,0 +1,33 @@
+DATE:  22.11.2019, 00:00:23
+TITLE: Developer Launches BCH-Powered Paywall Service
+URL:   https://news.bitcoin.com/developer-launches-bch-powered-paywall-service/
+
+Developer Launches BCH-Powered Paywall Service
+
+On Thursday, software developer Alex Winter announced the launch of Satoshiwall.cash, a noncustodial bitcoin cash-powered paywall service. The new platform allows anyone to create a customized paywall that uses BCH for payments so people can monetize their work online.
+
+Also read: Crypto Swapping App Sideshift AI Drops Access Code Requirement
+
+Satoshiwall.cash
+
+If you are an avid news reader there’s a good chance you’ve run into a paywall that restricts you from accessing content unless you pay or sign up for a subscription. Paywalls have been used on the internet for quite some time, but it wasn’t until 2010 that a large number of popular online newspapers started using the paywall system. On November 21, programmer Alex Winter introduced a new platform that lets anyone create a paywall that pays out in bitcoin cash (BCH).
+
+“I’m thrilled to finally release Satoshiwall.cash, the first fully non-custodial bitcoin paywall — Monetize anything,” Winter tweeted. He showed a small demonstration video of the first BCH paywall Winter created for the announcement called “Hello world.” In order to access Winter’s paywall, you need to pay 0.00500000 BCH, or 500,000 satoshis, to unlock the content.
+
+Satoshiwall.cash is also account-less, which means there are no registrations, no logins, no deplatforming, and no KYC. The application works with any BCH wallet but the website recommends using Electron Cash or Badger wallet. A wallet is needed so you can generate an address for receiving payments with Satoshiwall.cash. If you want to use the platform, simply press the “Create a paywall now” button to get started. In order to show our readers how to use Satoshiwall.cash, I created a new paywall called “News.Bitcoin.com Test Paywall.” I then copied and pasted a sentence from Satoshi’s Bitcoin whitepaper and also left a hyperlink to the document in the body of my message. After submitting all of my customizations, the website said:
+
+Nice — You just created a paywall. Only you can see the content, as long as you don’t close the browser tab — You can now share the link with others.
+
+Monetizing Content With a Paywall Coupled With a Peer-to-Peer Electronic Cash System
+
+The process only took a couple of minutes and the website immediately provides you with the paywall’s link so it can be shared on the web. I set my test paywall for 2,000 satoshis; the lowest that can be set is 1,000 satoshis. According to Satoshiwall.cash, the service also takes “10% of the price or at least 1,000 satoshis.” Press “Copy link” at the bottom left corner of the screen and the BCH-powered paywall link will be copied to your device’s clipboard.
+
+If you are a bit more technical and want to use Satoshiwall.cash’s application programming interface (API) you can access the Satoshiwall API. This way, instead of just sharing a link on Reddit or Twitter, you can add the paywall to an existing website. Anyone can also browse the list of Satoshiwall paywalls recently created by the platform’s users. On Reddit, Winter’s new BCH paywall platform was well received by avid BCH supporters who frequent the forum. “Please let me know about any issues you’re having,” Winter told members of the community on the r/btc subreddit. On Twitter, members of the BCH community gave Winter feedback as well and the software developer responded to the initial assessments of the Satoshiwall platform.
+
+What do you think about the new BCH-powered paywall platform Satoshiwall.cash? Let us know what you think about this application in the comments section below.
+
+Disclaimer: This article is for informational purposes only. It is not an offer, solicitation or a recommendation, endorsement, or sponsorship of any products, websites, software, services, or companies mentioned. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.
+
+Image credits: Shutterstock and Satoshiwall.cash.
+
+Do you want to dig deeper into Bitcoin? Explore past and present cryptocurrency prices through our Bitcoin Markets tool and head to our Blockchain Explorer to view specific transactions, addresses, and blocks.

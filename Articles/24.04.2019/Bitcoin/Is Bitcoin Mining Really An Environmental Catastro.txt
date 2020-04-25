@@ -1,0 +1,91 @@
+DATE:  24.04.2019, 16:40:56
+TITLE: Is Bitcoin Mining Really An Environmental Catastrophe?
+URL:   https://cryptobriefing.com/bitcoin-mining-environmental-catastrophe/
+
+Analysis Is Bitcoin Mining Really An Environmental Catastrophe? by Zach Wheeler
+
+If Bitcoin has no value, it's a total waste. If it does...
+
+Share this article
+
+We’ve seen the screaming headlines: Bitcoin uses more electricity than Ireland! Bitcoin is an environmental terrorist! Bitcoin will use more energy than the whole wide world by next year! (Yes, really… Newsweek actually published that.)
+
+The mainstream media have been promoting a narrative that Bitcoin, and more specifically the Proof of Work (PoW) algorithm, is wasteful and bad for the environment. The Guardian actually published an article comparing Bitcoin to the oil industry – which is a bit rich, since Bitcoin executives aren’t running our environmental policies, so far as I know.
+
+It’s no secret that Bitcoin uses a lot of energy, but energy is needed for network security because PoW makes it expensive for miners to participate. This pay-to-play model ensures malicious actors are deterred, by making it too expensive to attack the network: thus maintaining the integrity of all transactions.
+
+However, the narrative that “Bitcoin is wasteful” is overblown. You can use stats and metrics and compare them to the wrong variables to prove many different narratives… for example, did you know that ice cream causes drowning? Yeah: as more ice cream is eaten, we also see more drownings occur in North America. Time to ban ice cream? (Of course, this is ridiculous. It’s the difference between correlation and causation.)
+
+Correlation, causation… lies, damned lies, and statistics. Cherry-picking is easy to do when the amount of accessible data is so overwhelming. But that doesn’t mean that as rational people, we can’t sift through to find some actual truths.
+
+Interpreting PoW Correctly
+
+Here are 4 reasons why we are not properly assessing the efficiency of Bitcoin and PoW:
+
+The way we create energy is wasteful
+
+Energy itself can come from natural sources, such as sun and water, but we choose to extract 80% of the energy used in the world from unsustainable resources in the form of fossil fuels.
+
+Let’s put this into more familiar terms and compare two American homes: House A uses 900 kilowatt hours (kWh) of energy a month and House B uses 3000 kWh of energy a month, but House B gets 95% of their energy from solar panels. Which house is more “wasteful”?
+
+The point here is that any energy coming from fossil fuels is wasteful, and we should be changing the “wastefulness” discussion to ask more productive questions, such as “how can we use clean energy to reduce Bitcoin’s environmental footprint?”
+
+Strategies such as China’s proposed solar station seem like good ideas…
+
+—-
+
+2. We’re comparing Bitcoin’s energy use to the wrong industries
+
+Bitcoin using more energy than an entire (albeit small) country is a sensationalist headline and it definitely attracts the attention of your grandmother on Facebook, but why are we comparing a monetary system to a country?
+
+Here is how much other money costs annually, according to Dan Held of ZeroBlock:
+
+Gold Mining: $105B
+
+Paper Currency and Minting: $28B
+
+Banking: $1,870B
+
+Bitcoin Mining: $4.5B
+
+Bitcoin mining costs a fraction of the amount when compared to these other money sources, but it’s also important to note that its cost-to-market-cap ratio is much higher.
+
+Bitcoin doesn’t look as favorable in that light, but it’s still an improvement; it is unlikely that the costs to secure Bitcoin will scale as quickly as gold mining due to the complexity of Bitcoin’s difficulty adjustment.
+
+—-
+
+3. Critics are using the wrong metrics
+
+One article, published by The Independent in the UK, went as far as to say Bitcoin could kill the planet if it continues on the same trajectory of energy usage…
+
+Most of this “propaganda” has come from Alex De Vries’ work; he’s an analyst at PricewaterhouseCoopers in the Netherlands. Oddly, De Vries is also the founder at Digiconomist, which is where his work is published as though it were an official press release – from himself.
+
+In this article, he suggests that climate change will require more coal-fired plants in China to supplement certain hydro-powered stations, so they can service the growing demands of Bitcoin… which is quite the adventure in predicting the future. Moreover, his claims about the inefficiencies of Bitcoin mining have been thoroughly debunked, repeatedly.
+
+Bitcoin uses energy per block rather than per transaction.
+
+The number of transactions in a block is ever-increasing due to batching, SegWit and Lightning.
+
+Bitcoin is trending towards becoming a settlement network, meaning each block will have more economic value than it does right now.
+
+A respected researcher named LaurentMT has noted that Bitcoin’s PoW is becoming more efficient over time when you relate cost to the value being secured in the network. This ratio is much more important than the total security cost of the network.
+
+—
+
+4. Everything requires energy…
+
+One reason why critics can say Bitcoin is wasteful at the current point in time is because Bitcoin is not yet replacing any other industry. It’s indubitably a net addition to the total energy production of the world right now, and as such, if it serves no valuable purpose, its critics have a right to their view that it is wasteful.
+
+Most rational observers agree that roads are good for society. But roads require trucks, and gas, and pipelines – well, you get the picture.
+
+We’re not complaining about roads.
+
+So if there is a genuine argument to be made for Bitcoin’s wastefulness, it is that Bitcoin has no value to our society.
+
+While that’s a topic for another day, the point is: if Bitcoin has use, then it will require energy of some kind. Hopefully, less of it, and more environmentally-friendly than today’s production (another statement that can be applied to almost any industry).
+
+But for now we’re going to have to wait.
+
+And while we wait, at least we have a few counterpoints at the dinner table when a relative brings up the fact that “they don’t like Bitcoin because it’s wasteful”.
+
+Tell them to finish their sprouts, it took energy to produce those.

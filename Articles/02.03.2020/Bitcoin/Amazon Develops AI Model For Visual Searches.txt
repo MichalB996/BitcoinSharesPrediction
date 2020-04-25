@@ -1,0 +1,19 @@
+DATE:  02.03.2020, 23:09:36
+TITLE: Amazon Develops AI Model For Visual Searches
+URL:   https://www.pymnts.com/amazon/2020/amazon-develops-ai-model-for-visual-product-searches/
+
+Amazon has announced it has a new artificial intelligence (AI) model that helps convert text to images to aid in searching for products, according to a blog post by the company.
+
+“Generative adversarial networks (GANs), which were first introduced in 2014, have proven remarkably successful at generating synthetic images. A GAN consists of two networks, one that tries to produce convincing fakes, and one that tries to distinguish fakes from real examples. The two networks are trained together, and the competition between them can converge quickly on a useful generative model,” the post said.
+
+Someone who was searching for “women’s black pants” could type that in to get an image, but then when they added more words, like “capri” or “petite,” new images would show up as well as old ones.
+
+“The ability to retain old visual features while adding new ones is one of the novelties of our system,” the blog post said. “The other is a color model that yields images whose colors better match the textual inputs.”
+
+Amazon tested its own model against four different systems that use a popular text-to-image GAN called StackGAN.
+
+“We used two metrics that are common in studies of image-generating GANs, inception score and Fréchet inception distance,” the post said. “On different image attributes, our model’s inception scores were between 22 percent and 100 percent higher than those of the best-performing baselines, while its Fréchet inception distance was 81 percent lower. (Lower is better.)”
+
+Amazon said its model is a modification of StackGAN, which will produce an image in two parts. First, there’s a low-resolution image that’s generated directly from the text, and then a second image “upsamples” the first to create a high-res version that has more texture and more natural coloration.
+
+“We add another component to this model: a long short-term memory, or LSTM. LSTMs are neural networks that process sequential inputs in order. The output (corresponds) to a given input factors in both the inputs and the outputs that preceded it,” Amazon said. “Training an LSTM together with a GAN in an adversarial setting enables our network to refine images as successive words are added to the text inputs. Because an LSTM is an example of a recurrent neural network, we call our system ReStGAN, for recurrent StackGAN.”

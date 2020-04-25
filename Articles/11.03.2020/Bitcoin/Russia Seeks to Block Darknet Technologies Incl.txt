@@ -1,0 +1,47 @@
+DATE:  11.03.2020, 19:55:07
+TITLE: Russia Seeks to Block ‘Darknet’ Technologies, Including Telegram’s Blockchain
+URL:   https://www.coindesk.com/russia-seeks-to-block-darknet-technologies-including-telegrams-blockchain
+
+A Russian government agency has requested contractor bids to find ways to block censorship-resistant internet technologies, like mesh networks. The list includes messaging app company Telegram’s yet-to-be-launched blockchain.
+
+The call for bids was published on March 3 by the General Radio Frequency Center, the agency controlling the use of radio frequencies in Russia, and first reported by the Russian-language cryptocurrency news outlet Forklog.
+
+According to the notice, the agency is looking for research on what technologies can be used to access restricted content, including content deemed extremist, beyond traditional internet protocols.
+
+The research should point at ways to block access to such tech, the agency told would-be contractors.
+
+The list of such technologies in the document includes mesh networks, internet of things (IoT) protocols and protocols allowing anonymous browsing, including Invisible Internet Project (I2P), The Onion Router (TOR), Freenet, Zeronet, anoNet – and one blockchain, the Telegram Open Network (TON).
+
+Such technologies are “used to build anonymous Darknet networks,” according to the agency. Bitcoin (BTC) isn't mentioned, nor any other cryptocurrencies.
+
+
+
+'Unblockable'
+
+It’s not clear how the list was formed. TON could have been included because the blockchain network Telegram has been building is designed to support applications for peer-to-peer networks (TON P2P Network), website hosting (TON DNS) and anonymity (TON Proxy).
+
+According to the TON white paper, such a system, once launched in full, would allow browsing beyond the restrictions imposed by state actors on the service providers. “User network anonymity can be easily preserved by means of TON Proxy, and all services will be effectively unblockable,” the white paper said.
+
+Even as Telegram is currently mired in a legal battle with the U.S. Securities and Exchange Commission (SEC), which is seeking to halt TON’s launch, there are signs the company keeps rolling out the components of the future network. Last week, Telegram published instructions for registering websites using TON DNS.
+
+The General Radio Frequency Center did not respond to CoinDesk’s request for comment by press time.
+
+Telegram has a history of confronting Russia’s authorities, which have tried to control the app or shut it down. In 2017, Russia’s counterintelligence agency, the Federal Security Service (FSB), demanded Telegram share the encryption key for its flagship messenger app. Telegram lost in court trying to fight that requirement but refused to hand over the keys anyway.
+
+Since the summer of 2017, Roscomnadzor, the General Radio Frequency Center's supervising agency, has been trying to block Telegram in Russia but failed. Telegram used a technique called domain fronting, hiding its traffic behind other services’ domains.
+
+As a result, while chasing Telegram, Roscomnadzor kept misfiring, blocking multiple other websites but not Telegram and provoking the anger of internet users and a wave of memes.
+
+Iron Curtain games
+
+As for the future TON network, according to Mitja Goroshevsky, the CTO of TON Labs, the startup working on tools for TON developers, blocking TON would be even a trickier task.
+
+“Even if there is an 'Iron Curtain' and all the communication channels with the outside world are blocked, chances to block it are around 5 percent,“ Goroshevsky said, pointing out that even during the Cold War people tuned into U.S. radio stations including Voice of America or Radio Liberty using home transistors.
+
+“It’s gonna be just a new disgrace for Roscomnadzor,” he said.
+
+And to interfere with the network itself, no less than 30 percent of all validators would have to be compromised, and most validators will most likely be located outside of Russia, Goroshevsky said.
+
+The reason being, in Russia, there are no big cloud service providers like Google or Amazon, plus the risk of arbitrary blocking discourages validators from relying on Russia-based servers, he said.
+
+In the meantime, Russia recently tested a mechanism for unplugging its segment of the internet from the rest of the world, following a law calling for a “sovereign Runet" similar to China's Great Firewall.

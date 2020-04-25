@@ -1,0 +1,17 @@
+DATE:  08.07.2019, 11:35:31
+TITLE: Komodo releases public beta of AtomicDEX for iOS and Android
+URL:   https://www.cryptoninjas.net/2019/07/08/komodo-releases-public-beta-of-atomicdex-for-ios-and-android/
+
+Komodo, the blockchain technology ecosystem, has announced the release of the public beta version of AtomicDEX for iOS and Android. The purpose of the release is general bug hunting and further optimizations to the atomic swap backend.
+
+AtomicDEX is powered by AtomicAPI, an open framework with a shared liquidity pool to build a decentralized exchange with the future in mind. AtomicAPI is available in beta to wallet providers, exchanges, blockchain projects with a token, and developers interested in building white-label DEX products.
+
+The AtomicDEX protocol features:
+
+AtomicDEX is also a wallet that is compatible with most protocols, such as BTC/ETH/ERC
+
+AtomicDEX uses libtorrent protocol to connect users who have agreed upon a trade.
+
+Once a match is found the trade settlements happen through a cross-chain atomic swap
+
+The final version of AtomicDEX will be released after comprehensive beta testing and a rigorous third-party security audit. Those interested in beta testing can now signup.

@@ -1,0 +1,96 @@
+DATE:  04.02.2020, 13:00:00
+TITLE: Keep Your Bitcoin Safe by Making Security a Habit Keep Your Bitcoin Safe by Making Security a Habit
+URL:   https://bitcoinmagazine.com/articles/keep-your-bitcoin-safe-by-making-security-a-habit
+
+Ring in the new bitcoin halving cycle the right way: with us!
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+When considering how to keep your bitcoin safe, most users think about the hard stuff like buying a hardware wallet, using complicated passphrases, buying bulletproof safes and backing up seed words on steel … but most users ignore the easy stuff because it doesn’t seem to be linked to your coins. Unfortunately, it’s ignoring the easy stuff that causes the most loss. The biggest threat to personally owned coins is the threat of impersonation and the dozens of ways attackers use impersonation to steal funds.
+
+
+
+The most complicated passphrase and the most secure hardware wallet won’t stop you from sending your own coins to the attacker yourself.
+
+Protecting your own accounts from impersonation can have an “infectious” quality for your friends and coworkers. When my accounts are secure, my friends are safer because my accounts can’t be used as a springboard to attack them. Since impersonation is the most successful method of attack, I’ve found that training employees to keep themselves secure actually helps keep the company secure too.
+
+When looking at all of the successful thefts (from both businesses and individuals), there are two common root causes: bad security habits and/or insecure configuration of accounts.
+
+This means that the most successful defense you can mount is to both adopt secure habits and secure your account configurations.
+
+Let’s dive in!
+
+Secure Habits
+
+Strong Authentication
+
+The single most effective habit you can adopt is what we call “Strong Authentication” or StrongAuth. Put plainly, StrongAuth is the act of making sure you are talking to the person you think you are.
+
+There are many situations where this is helpful. These include
+
+Sending money
+
+Altering someone’s access
+
+Discussing confidential information
+
+We use the acronym MAC to remember when we need to use StrongAuth: Money, Access and Confidential information.
+
+Mapping this habit to our personal lives, let’s take the example of receiving a message from your sister saying she needs you to send money for any reason. Before you send it, you should make sure you’re really talking to your sister! So how do you do that reliably?
+
+In Person: The easiest form of StrongAuth is talking to your sister in person. If the situation can wait until you see her, you’ll have 100 percent confidence you’re sending that money to the right place. Sometimes, however, you can’t wait. Video/Audio Call: The next best way to perform StrongAuth is to have a video+audio call with them where you simultaneously see and hear them. In 2020, there is no shortage of video messaging apps, and if you are able to see your sister and hear her on video asking for the money, you will know you’re sending it to the right person. There are other ways to perform StrongAuth too that involve prearranged secret phrases, GPG keys, digital message signatures, or other more complicated methods, (but those require a lot more work to set up and require differing sets of assumptions, so we’ll skip them for this article).
+
+So many thefts could have been prevented if the participants exercised this simple habit. As my chief engineer puts it: “It’s better to spend 15 seconds double-checking than to send 15 million dollars to the wrong person!” Although the amounts may be different for individuals than businesses, the theory is the same.
+
+Password Hygiene
+
+Another secure habit to adopt is using a password manager for all of your passwords. Password managers are unicorns in the security world. Most of the time, if you want to increase security, it comes at the cost of annoying extra steps that take more time or effort. Password managers, however, simultaneously increase your security while taking LESS time AND effort. With one click, your username and password is automatically entered into your app/website and you are logged in effortlessly. No other measure increases both security and convenience together.
+
+Here are some tips for using password managers:
+
+Use your password manager to generate completely unguessable passwords with one click. Since you never need to type it yourself, you can maximize the length and complexity for the service. For example, ShapeShift supports a maximum of 128 character passwords, so setting a 128 character password will maximize the security of this account.
+
+Never reuse a password. This is as easy as one-click with a password manager using the “generate password” feature.
+
+Never use a password algorithm. I’ve seen people choose a simple password (i.e., “a1b2c3!”) and tack it onto the end of the site they’re visiting for passwords like “googlea1b2c3!” or “facebooka1b2c3!”. The problem with this is, once I get one of your passwords, I get them all! A password manager makes password algorithms unnecessary — which is good because password algorithms are not secure!
+
+Secure Configurations
+
+The next thing you can do to protect yourself against the most common attacks is to change the settings on your various accounts. As has been widely reported over the last few years, the most successful attack against individuals is “SIM swapping” or “number porting.” This is when an attacker calls your cell phone carrier and impersonates you, telling them you have a new phone and SIM card. Then they arrange for your phone number to be reassociated with the attacker’s cell phone.
+
+This attack is always followed by using the Account Recovery feature of your email account. Once they have control of your inbox, they go after all the crypto exchange accounts you have by clicking “I Forgot my Password” on each one. Account recovery uses email by default, so if your attacker controls your email, they control every account you have linked to that email address.
+
+Unfortunately, there’s not much we can do to stop attackers from swapping your SIM because the carriers themselves simply don’t protect our accounts. However, there is something we can do to prevent attackers from inflicting harm after taking over your cell number.
+
+Lock Down Your Recovery Options
+
+Most accounts have the ability to specify recovery cell phone numbers, recovery email addresses or recovery questions so that you have a way to get into the account if you forget the password. These recovery options are the easiest way for attackers to hack their way into your account.
+
+Here’s some advice for locking down recovery options:
+
+Remove all cell phone numbers. If there is no phone number attached to the account, then SIM swapping can’t be used to take over the account. Remove all recovery emails OR lock down the recovery email account. A chain is as strong as its weakest link, and if wife@gmail.com is locked down but specifies husband@gmail.com as a recovery account, husband@gmail.com should have equal security.
+
+Unfortunately, some accounts don’t let you remove cell phone numbers, making it impossible to secure these accounts reliably.
+
+Enable Multi-Factor Authentication (MFA or 2FA)
+
+If an account offers Timed One-Time Passwords (TOTPs) as a 2FA method, use it! Google Authenticator or Authy are the most common apps for TOTPs and they’re easy to use on phones. Enabling 2FA on all of your accounts will enhance the security and help keep attackers out.
+
+Just beware: TOTPs should not be stored in your password manager alongside your passwords: Storing these beside your passwords turns the 2FA into 1FA. Keep these separate, or if you want to get advanced, put your TOTPs into a Yubikey instead of into your phone.
+
+Buy (and Use) a Yubikey
+
+This one device allows you to secure many things in many different ways. It’s a more secure replacement for Google Authenticator (via Yubico Authenticator), it stores your SSH keys for servers (via the GPG module), and — when configured correctly — can act as a physical key for your accounts and laptops (via U2F and PIV). When a Yubikey is properly configured, even if a hacker cracks your password, he will still be locked out.
+
+There are far too many features that would each take lengthy articles to explain, so be prepared to put time into learning how to maximize the use of your Yubikey if you choose to buy one.
+
+Keep Your Bitcoin Safe: Bringing It All Together
+
+Security is more than just the tools you use. It is a mindset. It’s a habit. It’s a constant effort to remain vigilant because, while you and I need sleep every night, an attacker’s scripts continue to attack 24 hours a day, seven days a week without a holiday.
+
+Locking down your recovery options, enabling 2FA and adopting secure habits with strong auth and password managers will thwart most things in an attacker’s bag of tricks and send them looking for an easier target to rob.
+
+This is an op ed by Michael Perklin, the Chief Information Security Officer of ShapeShift. Views expressed are his own and do not necessarily reflect those of Bitcoin Magazine or BTC Inc.
+

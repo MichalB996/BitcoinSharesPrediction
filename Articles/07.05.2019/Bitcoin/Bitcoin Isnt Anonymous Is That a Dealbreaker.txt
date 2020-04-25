@@ -1,0 +1,57 @@
+DATE:  07.05.2019, 12:30:17
+TITLE: Bitcoin Isn't Anonymous. Is That a Dealbreaker?
+URL:   https://reason.com/2019/05/07/bitcoin-isnt-anonymous-is-that-a-dealbreaker/
+
+Bitcoin is great. It allowed distributed online value transfer for the first time. No longer do people need to rely on a trusted third party—which can be pressured, corrupt, or incompetent—to move money on the internet. Better yet, that money is hard money, and it cannot be opportunistically inflated to the detriment of holders.
+
+But impressive as it is, bitcoin isn't perfect, and it's not magic. It's a technology, and every technology needs to make engineering trade-offs.
+
+One of the trade-offs that bitcoin needed to make was between decentralized consensus and anonymity.
+
+Bitcoin's core innovation was to replace a trusted central payment processor—like a bank or credit card company—with a decentralized network of computers. This was not easy to do. The distributed computers needed some way to verify how much money people had and make a record of each transaction. This is called a consensus mechanism.
+
+The bitcoin network attains consensus through what is called a proof of work function. Each transaction is time-stamped and linked together in the public ledger called the blockchain. The blockchain allows everyone to agree on who owns what coins, and where they should go.
+
+This was a brilliant hack. It overcame two longstanding problems in computer science called the Byzantine General's problem and the double spending problem. And it has worked incredibly well, spawning a host of digital currency projects inspired by these breakthroughs.
+
+But this breakthrough came with a trade-off. The blockchain ledger that allows for distributed consensus is radically transparent. Transactions made on the bitcoin blockchain are recorded and visible to everyone for all time. There are no do-overs. And it's possible to trace where and how bitcoin users acquire and spend their funds.
+
+It is true that you can create as many wallets—kind of like an email address for sending and receiving bitcoins—as you want. If one address is linked to your identity, you can simply generate a new one and try to keep it anonymous.
+
+And there are tools to conceal bitcoin transactions.
+
+One of them is called a CoinJoin, and it's a way to combine a bunch of different transactions into a single output that conceals senders and recipients. CoinJoins have been around for a while, but they've found new popularity since the privacy-focused Wasabi Wallet integrated it for ease of use. Still, they are not standard on the bitcoin protocol. And CoinJoins still leave a trail, obfuscated though it may be, on the blockchain.
+
+This might not seem like a huge deal. Most people mostly abide by the law, so they don't worry about their public transaction history. In fact, some people think blockchain surveillance is a socially good thing, since it helps authorities nab their targets. (They might sing a different tune if they were on the outs under a repressive state.)
+
+But bitcoin's radical transparency could be a problem for even the goodiest of two-shoes.
+
+The problem is that bitcoins can be tainted by a previous owner's activities. Let's say someone uses bitcoins to commit a crime—let's say it's something victimless, like gambling. The deed is done, and they shuttle their filthy lucre through an offline transaction to hide their tracks.
+
+Eventually, those coins end up in the hands of a completely unrelated party. He receives them legitimately, and wants to send them to a third-party operated exchange. Imagine his shock when the exchange refuses his funds, telling him they have been blacklisted. The authorities have traced the blockchain and determined he has hot loot. He might even have to turn over his bitcoins.
+
+This is an illustration of bitcoin's possible fungibility problems. A fungible currency can be exchanged one to one with no differentiating aspects. An ounce of gold is an ounce of gold, no matter where it came from. Because bitcoins can be traced, and possibly blacklisted, people worry that it may not be truly fungible. Tainted coins may be worth less than "clean" ones, because they are less saleable, which means that 1 BTC does not always equal 1 BTC.
+
+Though there have been isolated cases, so far this does not seem to be a huge problem. But the growing blockchain analytics industry does not help matters. These companies sell services to governments and business for the explicit purpose of blockchain surveillance. For instance, Coinbase, the world's largest Bitcoin broker, recently acquired the blockchain analytics firm Neutrino, which was associated with the government malware vendor Hacking Team. This may help cryptocurrency businesses remain compliant. But it could hurt overall network fungibility.
+
+Importantly, this could even affect users who do not interface with third party providers at all. They likely interact with people who do, so their coins could be less valuable in the overall bitcoin economy.
+
+It could also affect people who undertake privacy-preserving measures like CoinJoins, since exchanges could blacklist such coins for "looking suspicious." Developers are working on a technique to make privacy-preserving transactions indistinguishable from normal transactions, called Schnorr signatures. But while it may muddy the waters a bit, it does not "break the trail of crumbs" that could taint a coin, nor would it erase established blockchain history.
+
+It is clear that fungibility could be a problem for Bitcoin. It is unclear exactly how it will be handled.
+
+Perhaps bitcoin developers and service providers can build in better privacy features, like CoinJoins and Schnorr signatures. Second layer technologies like the Lightning network can also help.
+
+Improving what we already have is an attractive option. Bitcoin is a known quantity, and very secure. It has both the Lindy and network effects on its side. But the problem of how to deal with existing "taintable" coins is a tricky one.
+
+Maybe explicitly privacy-preserving cryptocurrencies will gain in popularity. They borrow the techniques developed by bitcoin and enhance them with built-in privacy measures.
+
+One example is Monero, which does not track transactions on a public blockchain by default like bitcoin does. It uses techniques called "ring signatures," "confidential transactions," and "stealth addresses" to conceal transaction data. Monero is distributed, just like bitcoin, but it validates transactions in a way that does not require radical transparency.
+
+Importantly, there are ways to audit the network and verify that people have the coins they say they have without divulging any specific information about identity or amounts. But Monero auditing is less straightforward than on the bitcoin network, and could present its own downsides. Plus, it's fairly new, and could prove less robust than bitcoin.
+
+There may be ways to enjoy Monero-style privacy techniques without needing to implement them on the underlying bitcoin protocol. This is the promise of a conceptual framework called "sidechains," which is a way to peg and transfer assets among different blockchains. This is an attractive idea, but sidechain deployments are still in the early days.
+
+If Satoshi Nakamoto knew then what we know now, maybe he would have integrated Monero-like features into the bitcoin protocol from the start. (Or maybe not.) But these techniques were only developed after observing and learning from the bitcoin project. We can't redo history.
+
+Bitcoin is not going away, and it has allowed remarkable arrangements that were not possible before. When it was created, it was the closest thing to a fully permissionless digital cash system we had. New privacy developments can make cryptocurrencies like bitcoin even more fungible. It's something that bitcoin users should think carefully about.

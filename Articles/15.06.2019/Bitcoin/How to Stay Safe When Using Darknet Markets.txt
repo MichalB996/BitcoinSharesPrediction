@@ -1,0 +1,49 @@
+DATE:  15.06.2019, 00:05:12
+TITLE: How to Stay Safe When Using Darknet Markets
+URL:   https://news.bitcoin.com/how-to-stay-safe-when-using-darknet-markets/
+
+How to Stay Safe When Using Darknet Markets
+
+If you’re planning to visit a darknet market, you’re either keen to window shop or keen to sample the wares. Whatever your reasons for stopping by, that’s your business and no one else’s. Unfortunately, not everyone shares those civilized ideals. To keep those spoilsports at bay, here’s how to browse darknet markets (DNMs) without leaving a trace.
+
+Also read: New SLP Token Allows You to Transact in BTC But With BCH Fees
+
+Step 1: Don’t Sweat It
+
+If your interest in darknet market extends to becoming a vendor, this guide isn’t for you. For one thing, you should already know this stuff, and for another, you should be following more rigorous opsec. If you’re a casual DNM shopper, however, and aren’t ordering your goods by the pound or kilo, don’t sweat it. The powers that be don’t have the time or resources to pester every single DNM customer. Even when entire marketplaces get compromised, exposing the details of thousands of users who were too lazy to encrypt their comms, it’s rare that anything comes of it.
+
+If you’re a persistent DNM shopper and the postal service takes note of fragrant packages winging their way to your door, you might receive a ‘love letter’ from the police warning you to cease your activities, or even a knock at the door. Should that occur, don’t be cowed as the feds are unlikely to press charges. Even LE seem to begrudgingly concede that prosecuting victimless misdemeanors is a pointless exercise. Remember, most of this stuff will be made legal within our lifetime. It’s only a crime for a limited time.
+
+Step 2: Configure Tor Correctly
+
+To access the darknet, you’ll need the Tor web browser. It can be downloaded for desktop or for Android. Alternatively, use the Brave or Dissenter browsers, which give the ability to open a Tor window, directly connecting you to the onion router where the world’s finest darknet markets are awaiting your perusal. The Tor Project website contains guides on protecting your privacy when using the darknet. Tor browser will automatically block plugins such as Flash, Realplayer, and Quicktime, which can be manipulated into revealing your IP address, and comes with pro-privacy plugins HTTPS Everywhere and No Script. When configured correctly, Tor will mask your IP address, but it remains your responsibility not to dox yourself by doing dumb stuff on the darknet. Tor’s an internet relay – not a cloak of anonymity and immunity.
+
+Step 3: Double Check Your Onion Domains
+
+Given that the average onion domain reads something like “7aj5bhidezdbb4ov” (that’s Empire market at the time of publication), it’s easy for a fat finger or phishing link to send you one character astray to a lookalike site that will keep your crypto and despatch the square root of zero to your door. Due to the takedown of darknet news site Deepdotweb earlier this year, there aren’t many reliable clearnet DNM guides left. Dark.fail has done an admirable job lately, but reliance on a single point of failure is risky. Double check all links with those shared by DNM admins on onion forum Dread.
+
+Step 4: Keep It Fresh
+
+Cryptocurrency wallet addresses are like nicknames: they don’t cost a penny and you’re free to use as many as you like. As such, there’s no excuse for recycling handles. Use a unique username and password for every DNM you join – that means a nickname you haven’t previously used anywhere else for anything. The annals of darknet criminology are filled with preventable tales of nickname reuse. Just ask Ross “Frosty” Ulbricht.
+
+Similarly, when you’re sending funds to or from a DNM, create a new wallet address each time. If your crypto wallet app doesn’t let you create a new address, delete it and install one that does. For more tips on how to stay safe on the darknet, check out this week’s Humans of Bitcoin podcast, around the 15-minute mark, in which I discuss the perils of address and nickname reuse with host Matt Aaron.
+
+Step 5: Know Your Vendor
+
+When you log in to a darknet market for the first time, you’re greeted by a cornucopia of beguiling wares begging for your bitcoin. It’s like a magical Willie Wonka tuckshop for grownups. Before you start popping pills into your shopping cart, however, take a close look at the vendor you’re buying from. You wouldn’t make a $300 purchase from an Ebay vendor with zero feedback. It’s the same on the darknet. Most vendors are legit, and have no intention of scamming their customers, but don’t trust – verify by checking their feedback. Bear in mind that a vendor with 100 four-star ratings is significantly more trustworthy than a vendor with five stars and three sales.
+
+Step 6: Always Encrypt
+
+The first time you try to use PGP (also known as GPG), it’ll take you 15 minutes to install and successfully encrypt your first message to your darknet vendor. The second time will take you five minutes, the third time 60 seconds, and the fourth time you’ll be embarrassed at the thought of having ever communicated bareback on the darknet without PGP. News.Bitcoin.com plans to publish a comprehensive guide to PGP in the near future, but till then, your search engine is your friend. Don’t rely on darknet markets to encrypt on your behalf by ticking the request box upon submitting your order. If the site’s servers get infiltrated by law enforcement, your conversations will be exposed.
+
+There’s another benefit to being au fait with PGP, incidentally: when a vendor begins selling on a new marketplace, as commonly happens, given the short lifespan of DNMs, sharing their public key shows that they are the same entity, and effectively allows them to import the goodwill they’ve accrued elsewhere.
+
+Freedom Thrives on the Darknet
+
+Browsing the darknet is one of the most pleasurable things you can do on the web. It’s an internet free of popups, autoplay ads, cookies opt-ins, trigger warnings, snowflakes, thought police and killjoys. It’s everything the clearnet used to be, with the added bonus that you can buy just about anything with cryptocurrencies such as BTC, BCH, LTC, and XMR. You don’t have to nurse a penchant for the sort of goods the darknet is synonymous with to fire up your Tor browser – you simply need to appreciate the sense of freedom that comes from browsing the web unencumbered. Darknet is love. Darknet is life.
+
+What’s your favorite darknet market? Let us know in the comments section below.
+
+Images courtesy of Shutterstock, and Pixabay.
+
+Disclaimer: Readers should do their own due diligence before taking any actions related to third-party companies, darknet markets, or any of their affiliates or services. Bitcoin.com is not responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any third party content, goods or services mentioned in this article.

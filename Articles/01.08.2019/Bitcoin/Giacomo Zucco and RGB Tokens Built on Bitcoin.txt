@@ -1,0 +1,35 @@
+DATE:  01.08.2019, 18:12:01
+TITLE: Giacomo Zucco and RGB Tokens Built on Bitcoin
+URL:   https://bitcoinmagazine.com/articles/video-interview-giacomo-zucco-rgb-tokens-built-bitcoin
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+Contrary to the Bitcoin maximalist standards which he used to help establish himself, BHB Network co-founder Giacomo Zucco is working on tokenized assets. Called the RGB Project, his latest project is built on top of Bitcoin’s Lightning Network. It makes use of previous research in colored coins and is meant to provide a more robust alternative to Ethereum’s ERC20 standard.
+
+In this exclusive, hour-long interview with Bitcoin Magazine, Zucco talks about the events which led to the reemergence of tokenization on Bitcoin, the people involved in development and some technical innovations which enable “scams” to have greater scalability and security.
+
+The Impetus for RGB
+
+Zucco’s ethical considerations behind RGB are purely libertarian and he regards tokenized assets as an in-demand phenomenon whose quality of supply can be technically superior. Though Zucco acknowledges that bad actors can make use of the technology, he is also certain about several legitimate use cases. They include Bitfinex (which might use colored coins for Tether) and rare collectibles.
+
+The innovation of the RGB project makes use of Peter Todd’s client-side validation model, which is meant to take the weight off of miners’ shoulders and create a two-way framework where participants settle transactions themselves in a secure way. Todd talked about his client-side validation approach during the “Scaling Bitcoin” event which took place in Milan back in 2016.
+
+In Zucco’s simplified explanation, the principle works like this: “When I want to send you a bitcoin, I will sign the transaction, I will give the transaction only to you, you will be the only one verifying, and then we’ll take a commitment to this transaction and that I will give only the commitment to miners. Miners will basically build a blockchain of commitments, but without the actual validation part. That will be only left to you. And when you want to send the assets to somebody else, you will pass your signature, plus my signature, plus the previous signature, and so on.” It’s also worth noting that Satoshi himself contemplated something similar back in 2010.
+
+The RGB team also consists of Blockstream engineer Alekos Filini (who developed the prototype of the token implementation), Chainside co-founder Federico Tenga and developer Isidoro Ghezzi. It’s also worth mentioning that the underlying concepts aren’t new, but the way in which they get mixed and added on top of Lightning will eventually create something unique.
+
+Zucco first presented these ideas during the Building on Bitcoin 2018 conference, and even at that time he made some humorous preemptive excuses about the potentially scammy purpose of the Layer 3 tokens. So far, RGB has received a positive reception, and its investors include Fulgur Ventures, Bitrefill, Chainside, InBitcoin and Bitfinex.
+
+The Story of RGB and How It Works
+
+Sometime in 2018, a client of the BHB Network asked for a review of an upcoming ERC20 token project. The team of analysts concluded that the idea was a terrible one in terms of scalability and security. Zucco went on to conclude that if people want to do tokenization, they might as well rely on the robustness of Bitcoin’s blockchain.
+
+However, if token assets are to be built on top of Bitcoin, then they must take into account the limitations of the base layer and try not to abuse the otherwise precious block space. Luckily, Lightning offers all of the qualities required for such a third-layer protocol to get developed and fulfill the scalability and security criteria. And with the use of Peter Todd’s client-side validation, the client fulfills the requirements for lightness. Correspondingly, instead of asking every participant to validate all transfers of asset ownership, only the anti-double spending features shall receive validation. The closing of the single-use seal is to be taken into consideration, as opposed to the actual content of the cryptographic proof.
+
+According to Zucco, “There are two interesting ideas about client-side validation. The first is the one that Peter [Todd] proposed for Bitcoin, but we will probably not see it being implemented in the next decade. Maybe that we’ll have a client-side validation sidechain just for testing, but Bitcoin will remain with the global consensus architecture.
+
+“And the second idea that clicked when we discussed with Peter is basically this: What is the main problem of the client-side validation model? The main problem is basically that you have to be online while I pass you the proof directly. I’m not broadcasting the proof for everybody to keep it in the blockchain forever, which is a waste of space. If I’m sending the proof to you, then you have to be online to receive a peer-to-peer transaction and also back that up in a way that is not just a common BIP32 seed. With BIP32 you can’t claim your client-side asset possession because you need a backup of everything that I am passing you, which includes all the previous proofs. The same limitations of Peter Todd’s model are the same that we find in the Lightning Network.”
+
+As a way of taking ideas from previous tokenization attempts, the team has consulted the work of Counterparty (used for Rare Pepe collectible cards, for example), Omni (used for Tether) and other Colored Coins implementations (including Color Spark, CoinPrism and ChromaWay). Ultimately, the research seeks to answer the question: “How can they be moved on top of the Lightning Network?”
+
+For more technical details and jokes about selling out or conducting anti-maximalist research, watch the video interview. It contains many more details that will help you better understand what it is that drives Giacomo Zucco himself to help create tokenization on Bitcoin.

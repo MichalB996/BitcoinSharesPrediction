@@ -1,0 +1,53 @@
+DATE:  01.01.2019, 10:00:15
+TITLE: This Bitcoin Price Indicator Adjusts For Lost and Unmoved Coins
+URL:   https://bitcoinist.com/bitcoin-price-indicator-lost-unmoved-coins/
+
+News This Bitcoin Price Indicator Adjusts For Lost and Unmoved Coins
+
+Castle Island Venture’s Nic Carter, with the help of Blockchain.info’s Antoine Le Calvez, presented the concept of “Realized Value” for Bitcoin price at the Riga Baltic Honeybadger 2018 conference. The point was further elaborated upon in a Medium post by Murad Mahmudov and David Puell.
+
+Bitcoin’s Realized Value Ratio
+
+The Realized Value ratio is calculated by dividing the daily market value by realized value on a daily basis. It calculates the aggregated value of UTXOs priced on their value when they were last moved.
+
+If 10,000 BTC haven’t moved from their wallet since 2011, for example, they are valued at the price at that time rather than current valuations. Something like this cuts considerably BTC’s market cap. Realized Value adjusts for lost coins and coins that are not being moved.
+
+By aggregating the UTXOs and assigning them a price based on the BTC/USD market price 00 at the time when the UTXOs were last moved. Realized Value differentiates itself from Market Capitalization, which is determined when you multiply the latest available BTC spot price on exchanges by the number of bitcoins mined to date.
+
+“Realized cap seems to suggest the final layer of people’s cumulative cost basis and, in recent history, the ultimate line of “center of mass” where 2017 strong buyers remain unrattled by short-term uncertainty,” writes David Puell and Murad Mahmudov.
+
+Realized value helps account for lost, unused, unclaimed coins from the total value circulation, and as an indicator of the sum of the price levels where long-term holders bought Bitcoin. When the Market-Value-to-Realized-Value (MVRV) ratio is calculated by dividing market value by realized value on a daily basis, two historical thresholds, one representing overvaluation and another representing undervaluation, become clear.
+
+“Just as the upper levels of MVRV suggest the climax of euphoria, overshooting it’s ‘fair’ value at the peaks, price action as discovered at exchanges tends to undershoot beyond BTC’s ‘real value at the bottoms,” write the authors.
+
+Looking back at the past two Bitcoin bear cycles, we can say without a doubt that both occasions proved to be the most opportune periods to accumulate bitcoins.
+
+Over an extended period on a log chart, realized value of Bitcoin resembles a stepwise function thanks to near-vertical moves northward during the hottest months of a bull market and prolonged times of horizontal flatness.
+
+“[E]ach flatness level could be roughly interpreted as Bitcoin’s newfound stable fair value threshold,” they write.
+
+The traditional market cap, however, is more sharply pronounced by the emotion of the crowds, namely excessive euphoria when market value sharply diverges upwards away from realized value, and, conversely, excessive fear when the market value drops below realized value for a multi-month period.
+
+The authors anticipate market value to fall below realized value on a mid-term basis, “which in turn would establish a structural gap between them, to be filled after an accumulation period of potentially as long as several months.” They add some caveats to their new indicator.
+
+“Going forward, as market cap decreases in volatility, we believe that the upper threshold of MVRV might not prove as reliable — as market cap overextends less and less above realized cap as time progresses,” they state.
+
+However, we expect the lower threshold to remain useful to detect Bitcoin’s undervaluation in multi-month periods ripe for accumulation. This is to say that the saving power and the speculative power of Bitcoin will become, increasingly more and more, very closely intertwined.
+
+MVRV Shortfalls
+
+There are also some shortcomings, the authors admit. “MVRV ratio only provides a long-term perspective of Bitcoin price market cycles — specifically, to apply Wyckoffian terminology, distribution and accumulation phases,” the authors write. When using MVRV, they recommend comparing it with other fundamental and technical tools and use it for multi-yearly analyses.
+
+They also note that realized cap may decline in black-swan events when even strong hands lose confidence in BTC. “For this reason, we recommend assessing the market value and realized value both as a ratio and separately.”
+
+Mahmudov and Puell argue that there are speculators during periods of irrational exuberance and “hodlers” who acclimate to market uncertainty over time.
+
+We believe that both market concepts and participants are crucial for Bitcoin’s game theory and price action, since the booms seem to expand the network via an exuberant viral gossip mechanism that broadcasts the existence of Bitcoin to the world population; while the busts, in the long run, seem to reward individuals who chose to delay short-term financial gratification in the search for sound money.
+
+“This very dichotomy, in our opinion, also explains the relevance and effectiveness of MVRV ratio. Network value, to go back to Willy Woo’s terminology, is to us both market value and realized value,” they add.
+
+Realized Value actually surpassed Market Capitalization on November 30 when Realized Value reached $83 billion with Market Cap at $75 billion.
+
+Can MVRV track interactions between market actors to better determine value? What do you think?
+
+Images courtesy of Shutterstock

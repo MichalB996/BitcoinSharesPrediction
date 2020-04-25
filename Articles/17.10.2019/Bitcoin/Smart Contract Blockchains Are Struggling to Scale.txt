@@ -1,0 +1,49 @@
+DATE:  17.10.2019, 12:30:28
+TITLE: Smart Contract Blockchains Are Struggling to Scale
+URL:   https://news.bitcoin.com/smart-contract-blockchains-are-struggling-to-scale/
+
+Smart Contract Blockchains Are Struggling to Scale
+
+Second generation blockchains were presented as being faster, cheaper, and more scalable than Bitcoin. Third generation chains (basically anything that came after Ethereum) promised even greater optimizations. In the event, these networks have run into the same difficulties as Bitcoin, with competition for scarce resources leading to mounting costs and congestion. To tackle these problems, an array of scaling solutions has been proffered – some of which could also benefit UTXO blockchains such as BCH and BTC.
+
+Also read: 80% of Crypto Trade Volume Tracked by Blockchain Surveillance
+
+The Great Scaling Debate
+
+At the annual Ethereum developers’ conference in Osaka last week, most of the talks were about scaling. So was a good chunk of the informal talk between delegates, many of whom have grave concerns about Ethereum’s ability to meet growing network demand. Eth 2.0, the much-vaunted upgrade that will involve a transition from PoW to PoS, is still years away, with many Devcon attendees conceding that it may never happen. This impasse has prompted rival smart contract chains such as Qtum to position themselves as more scalable alternatives.
+
+Over on EOS, there are similar problems stacking up. Unlike Ethereum, EOS isn’t really gunning for the decentralized finance crown, but it does share one thing in common: growing demand for finite resources. On Ethereum, those resources manifest as block space which pushes up gas prices. On EOS, it takes the form of computational resources: RAM (virtual storage) and CPU, which is the amount of time a block producer will allocate to transactions from a particular account.
+
+Rising and erratic computational costs on EOS have forced developers to seek scaling solutions of their own. The architecture of blockchains such as Bitcoin, EOS, and Ethereum differs substantially, but this much holds true: onchain resources are limited and there is an open market competing for space. Just as your car moves more slowly and is less fuel efficient during rush hour, at peak times on crypto networks, your transaction is likely to be slower and more expensive. Fixing this problem calls for some out the blocks thinking.
+
+Virtual CPU and Offchain Transactions
+
+For EOS, scaling salvation has come courtesy of Liquidapps, whose vRAM product has now been complemented by a vCPU counterpart. This approach involves taking these precious resources off-chain to a separate network of nodes that perform the computation at low cost, before broadcasting the verification to the EOS main chain. Although currently being provisioned on EOS, the same technology can be applied to Ethereum, or even to Bitcoin Cash, for developers seeking to create decentralized applications that require access to cheap storage.
+
+For Ethereum, the scaling solution presented as the likeliest to succeed is Plasma, which can handle hundreds of transactions per second, and now supports smart contracts. As co-founder Jinglan Wang puts it, defi projects saying they don’t need Ethereum scaling solutions right now is like a New Yorker saying they don’t need a Metrocard in rush hour. Plasma is a layer two solution, whose BTC analogue is Lightning Network.
+
+Dapp Developers Must Choose Wisely
+
+Developers pondering the best network on which to launch decentralized applications have some tough choices.
+
+Ethereum has a large ecosystem of users, devs, and companies, but it’s running near capacity, and network fees have been rising for months. Scaling solutions such as Matic can help.
+
+EOS provides free transactions at the point of access, making it more consumer-friendly, but popular dapps risk landing their developers with rising computational costs. Secondary solutions such as vRAM can mitigate this however.
+
+Qtum has just undergone its first hard fork, adding a new EVM that’s enhanced its smart contract capabilities, while retaining the UTXO model first pioneered on Bitcoin. It’s basically Ethereum without the scaling problems, albeit with a smaller ecosystem at this point in time.
+
+Horizontal vs Vertical Scaling
+
+Taking transactions offchain, be it to a sidechain or layer two, is not without compromises. Generally speaking, there is a reduction in decentralization and in transaction finality. The architects of these solutions stress that a micropayment doesn’t need the same level of security and trustlessness as a $1 billion BTC transaction. Gaming and gambling dapps, for instance, are fine to use a product like Liquidapps’ vRAM for offchain storage, or Plasma for low-cost transactions.
+
+To return to the traffic analogy, side streets can be used to skirt the traffic snarling up the freeway, but they’re not designed to support 16-wheelers. Blockchain scaling solutions can therefore be more accurately described as scaling options: choices that will be suitable for some projects, and unacceptable to others.
+
+Vertical scaling is the process of increasing throughput by increasing block or node capacity. It’s the approach taken by Bitcoin Cash, for instance. The solution to Bitcoin blocks becoming full, its proponents argue, is simply to add a couple more lanes to the highway. It’s a simple approach, but one that has proven very effective so far. Horizontal scaling entails taking as much of the load off the main chain as possible, pushing it out to third party solutions that add extensibility.
+
+Despite the millions of dollars and tens of thousands of hours poured into blockchain scaling, the truth is, we still don’t know which solutions will prevail. Bigger blocks; more sidechains; building up the stack; developing horizontally. Through trial and error, discourse and debate, a path will be found to make blockchains ready for the mass adoption that all crypto advocates see as inevitable. In the here and now, though, the architects of so-called next-generation blockchains are learning a lesson that bitcoiners learned long ago: onchain, there’s no such thing as infinite scalability.
+
+Which blockchain scaling solutions do you believe have the best chance of success? Let us know in the comments section below.
+
+Images courtesy of Shutterstock.
+
+Did you know you can verify any unconfirmed Bitcoin transaction with our Bitcoin Block Explorer tool? Simply complete a Bitcoin address search to view it on the blockchain. Plus, visit our Bitcoin Charts to see what’s happening in the industry.

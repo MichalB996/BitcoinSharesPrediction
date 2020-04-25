@@ -1,0 +1,49 @@
+DATE:  21.01.2020, 01:30:38
+TITLE: Bitcoin Cash Gets Significant Privacy Boost With Cashfusion Alpha Launch
+URL:   https://news.bitcoin.com/bitcoin-cash-gets-significant-privacy-boost-with-cashfusion-alpha-launch/
+
+Bitcoin Cash Gets Significant Privacy Boost With Cashfusion Alpha Launch
+
+On January 17, the BCH developer known as Acidsploit announced the launch of the highly anticipated Cashfusion alpha. Interested parties can reach out to the Cashfusion developers via the team’s Telegram group to become an alpha tester. The news of the launch excited the BCH community a great deal, as it means a significant privacy tool is coming to the Bitcoin Cash environment.
+
+Also read: How to Create Custom SLP Tokens With the Bitcoin.com Mint
+
+Bitcoin Cash Is Becoming More Fungible
+
+During the last few months, there’s been a lot of chatter about the Cashshuffle protocol and the newest privacy-preserving concept Cashfusion. Since the inception of the original Cashshuffle project which launched on March 27, 2019, there’s been over 200,000 BCH shuffled. According to @Acidsploit’s data, that’s a total of 42,446 shuffles to date and daily recorded volumes show shuffling really picks up on the weekends. The developer’s Cashshuffle site also shows the number of Cashfusion transactions, and there are now 1,322 fusions at the time of publication. Cashshuffle leverages the Coinjoin concept, but there are still a few ways shufflers can leak data about their original addresses when they do things like spend change or consolidate funds.
+
+Recently, former lead Bitcoin Core developer Gavin Andresen wrote about the issues with consolidating coins and spending change after using the Coinjoin-styled ethereum wallet Tornado.cash. Cashfusion, however, goes beyond the traditional Coinjoin idea because developers claim Cashfusion-based Coinjoin transactions can be done without the equal amount requirement. Electron Cash developer Jonald Fyookball published a paper about the combinatoric math in Cashfusion. A quote in Fyookball’s paper from software developer Mark Lundeberg states:
+
+In Cashfusion, we have opted to abandon the equal-amount concept altogether. While this is at first glance no different than the old naive schemes, mathematical analysis shows it in fact becomes highly private by simply increasing the numbers of inputs and outputs. For example, with hundreds of inputs and outputs, it is not just computationally impractical to iterate through all partitions, but even with infinite computing power, one would find a large number of valid partitions.
+
+The Bitcoin Privacy Game-Changer Cashfusion Is Here
+
+Additionally, the privacy-centric Wasabi wallet developer recently complimented the Cashfusion project and said that if the math works it could benefit Bitcoin privacy significantly. “I am not convinced if this is true, but if it is, it’s a game-changer in Bitcoin privacy,” the Wasabi engineer tweeted. Then on January 17, after the Cashfusion developers teased the early software would be available soon, Acidsploit announced the Cashfusion alpha launch via the read.cash blog.
+
+“The alpha version has been polished enough so that it can be used by power users to get an initial feel of the tool and to test the protocol for stability and robustness,” Acidsploit’s announcement revealed. “We are actively looking for more people to test,” he added. Interested people who want to test the early version of Cashfusion can do so by reaching out to the Cashfusion developers via the team’s Telegram chat group.
+
+The developer also noted that the current alpha Cashfusion client leverages the following features:
+
+Enable/Disable Cashfusion
+
+Integrated TOR client
+
+Monitor status
+
+Coin target setting (number of coins, size of coins, random fraction)
+
+Multi queueing
+
+Self Fusion (temporary for better liquidity during testing)
+
+The developer remarked that there are other features coming that are scheduled in the Cashfusion roadmap like the ability to track fused coins to determine the level of privacy. Two options for “smart coin choosers” are coming, such as avoiding the combination of tainted and non-tainted coins as much as possible and choosing properly fused coins when doing payments. Lastly, the engineer detailed the Cashfusion developers want to add a limiter on perpetual fusing. “When you join a Cashfusion (CF) transaction, you specify the inputs you want to join with and the outputs you expect,” the developer’s post notes. “When the transaction is built, you are asked to sign it [and] the client verifies that the CF transaction contains the inputs and outputs you specified. If that is not the case, your client will not sign the transaction and it will fail.” Acidsploit further stressed:
+
+Cashfusion transactions are atomic, meaning when something goes wrong for a participant for whatever reason, the CF transaction will fail as a whole.
+
+Throughout crypto forums and social media, the Cashfusion launch announcement was welcomed with open arms, as the protocol could benefit bitcoin cash fungibility a great deal. Bitcoin.com Executive Chairman Roger Ver excitedly wrote “Privacy on Bitcoin Cash” and was asked if the protocol would be implemented in a future version of the Bitcoin.com Wallet. “Absolutely,” Ver responded, while other BCH supporters discussed the importance of the alpha release. “Enhanced privacy and fungibility are the cornerstones of making BCH truly peer to peer cash, a place BTC never got to, and never will as it spirals into institutionalized custodial fed-chains,” one user wrote on Reddit. In addition to the launch announcement, Acidsploit’s read.cash post also has a step-by-step guide on how to use Cashfusion by utilizing the Electron Cash wallet.
+
+What do you think about the Cashfusion alpha being released and added privacy coming to the Bitcoin Cash network? Let us know what you think about this topic in the comments section below.
+
+Image credits: Shutterstock, Acidsploit, read.cash, Acidsploit’s stats pages, and
+
+Did you know you can buy and sell BCH privately using our noncustodial, peer-to-peer Local Bitcoin Cash trading platform? The local.Bitcoin.com marketplace has thousands of participants from all around the world trading BCH right now. And if you need a bitcoin wallet to securely store your coins, you can download one from us here.

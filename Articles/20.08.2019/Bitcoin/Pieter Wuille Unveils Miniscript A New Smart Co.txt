@@ -1,0 +1,37 @@
+DATE:  20.08.2019, 14:30:18
+TITLE: Pieter Wuille Unveils ‘Miniscript,’ A New Smart Contract Language for Bitcoin
+URL:   https://www.coindesk.com/pieter-wuille-unveils-miniscript-a-new-smart-contract-language-for-bitcoin
+
+Smart contracts could soon get a boost in bitcoin as prominent programmer Pieter Wuille has unveiled a new coding language designed specifically for their use.
+
+Posted to the bitcoin developer mailing list Monday, the ‘Miniscript’ language aims to make it easier for programmers to write up “smart contracts” or conditions for spending bitcoins. Programmers Wuille, Andrew Poelstra and Sanket Sanjalkar have been working on the code for roughly a year, Wuille said.
+
+Although it’s been shared around behind the scenes, Wuille said he is now posting it to the email list because it’s now it’s reached “a stage where I’d like to get it some more attention.”
+
+Backing up a bit, “Script” is the smart contracting language in bitcoin, which allows users to specify certain conditions need to be met before the bitcoin can be spent. Say, funds are locked up until a certain time before they can be spent. Or, two people need to sign off on a transaction before the money can be moved, a concept called “multi-sig.”
+
+This programmability is novel when it comes to digital money, since before bitcoin, it wasn’t possible to implement such rules without trusting a bank or a similar type of intermediary in the middle.
+
+“Miniscript,” on the other hand, builds on top of this programming language, improving on it in several ways. One is it’s a bit easier to look at and reason about, as Wuille argued with an example that “that permits A to take the coins at any time, and B after [one] day.”
+
+This are how these rules are implemented in bitcoin’s Script:
+
+Then, the same thing in Minscript:
+
+or_d(c:pk(A),and_v(vc:pk_h(B),older(144)))
+
+Miniscript builds on top of Script, able to “compile” to bitcoin’s native language.
+
+The new language is getting applause from developers in the community. Blockstream lightning engineer Rusty Russell, for example, tweeted: “This will be one of those, ‘How the hell did we do it before this?!’ technologies. Unsexy and vital.”
+
+There are many potential use cases, such as making it easier to implement such complex scripts in wallet, as Eric Lombrozo tweeted. Or, as bitcoin educator Jimmy Song described, it could even be used for underpinning the lightning network.
+
+Thinking about it in the wider context of blockchain languages, Song commented that the smart contract language differs from ethereum’s Solidity language, because while ethereum makes it possible to write many more types of smart contracts, Miniscript actually reduces the possibilities.
+
+Song argues this is better because it reduces the “complexity” and “attack surface.”
+
+Included in this release are two working implementations, in the programming languages C++ and Rust, which Wuille called a “work in progress,” adding:
+
+“Through large scale randomized tests we have confidence that the language design and associated witnesses are compatible with the existing consensus and standardness rules.”
+
+Wuille image via CoinDesk archives

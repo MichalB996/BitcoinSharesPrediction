@@ -1,0 +1,39 @@
+DATE:  09.01.2019, 01:10:11
+TITLE: Review: Wasabi’s Privacy-Focused BTC Wallet Aims to Make Bitcoin Fungible Again
+URL:   https://news.bitcoin.com/review-wasabis-privacy-focused-btc-wallet-aims-to-make-bitcoin-fungible-again/
+
+Review: Wasabi’s Privacy-Focused BTC Wallet Aims to Make Bitcoin Fungible Again
+
+Privacy is relative, but by many people’s reckoning, bitcoin could use greater anonymity. The Bitcoin Core protocol hasn’t changed much over the past decade, but the tools used to forensically inspect it have. In a bid to reclaim some of that eroding privacy, a number of fungibility-enhancing tools have been released by open source developers. Wasabi’s desktop BTC wallet incorporates a number of these to good effect.
+
+Also read: Report Claims Central Banks Are Cautious About Issuing Their Own Digital Currencies
+
+A Little Wasabi to Heat up the Privacy Battle
+
+Pseudonymity isn’t easy in an age of enhanced surveillance, increased KYC/AML checks, and ever-improving forensics tools. It also isn’t helped by poor opsec practices, such as recycling wallet addresses due to laziness. Wasabi Wallet makes it easier for privacy-minded bitcoiners to protect their identity while still benefiting from the superior security, liquidity, and adoption that the BTC network holds over other cryptocurrencies.
+
+In a Reddit AMA on Jan. 7, Wasabi co-founder “nopara73” spoke cogently about the importance of privacy and of its need to operate at “the highest layer, which directly interacts with the user.” Espousing the mantra that “anonymity loves company,” Wasabi utilizes Chaumian Coinjoin, making it the first BTC wallet to trial the coin-shuffling tech. In addition, the non-custodial wallet incorporates a number of other features, including Tor connection, that are designed to keep users cognizant of the importance of privacy and the steps they can take to heighten this.
+
+A Wasabi Wallet Walkthrough
+
+While available for Mac, Windows, and Linux, Wasabi does not offer a mobile wallet – and as “nopara73” acknowledged in his AMA, it’s unlikely to get one anytime soon. For technical and fungible reasons, Wasabi Wallet is bech32 only, which should only present a problem when receiving funds from an exchange that has yet to adopt this address format. If you’re using Wasabi, however, you’re probably not the sort to be loading your wallet with funds sent from a centralized exchange.
+
+Despite the slew of advanced features that Wasabi packs, the wallet is no harder to operate than any other desktop client. The interface is easy to grasp, the onscreen prompts are intuitive, and the setup process is no more convoluted than that of any other desktop BTC wallet such as Electrum. After noting down your 12-word seed, you’ll be given the option of importing an existing wallet or creating a new one. I went for the former option and, after creating a bech32 address, sent some bitcoin there for test purposes.
+
+One neat thing about Wasabi is that it rates the privacy level of each transaction; in this case my test send scored poorly due to reuse of the sending address. It is little touches like this which help to subtly reinforce the many ways in which bitcoiners can enhance their privacy and increase the fungibility of their coins.
+
+Enhanced Privacy for Those Who Need It
+
+For users interested in optimizing their privacy when using Wasabi, the project’s Reddit page is a good place to start. Popular posts include video tutorials on anonymizing bitcoins with the aid of the open source wallet. It’s fair to say that many of Wasabi’s earliest adopters have been privacy advocates, libertarians, and anyone else with a distaste for the insidious KYC that’s enshrouded the cryptocurrency landscape.
+
+Each time you prepare to receive funds into your Wasabi wallet, you’re forced to create a new address to give to the sender. Then, when it comes to sending funds from Wasabi, there’s the option of selecting which of your multiple addresses you wish to despatch coins from. Alternatively, you can queue your BTC in Coinjoin, where it will be masked through mixing it with other transactions. The more users who queue their coins, the greater the anonymity enjoyed by everyone, so there’s an incentive for mass participation.
+
+Wasabi won’t be for everyone or for every instance of sending or receiving bitcoin. As a wallet for hodling, however, and for periodically sending or receiving BTC, it acquits itself very well. After using Wasabi for a few days you’ll be more mindful of the various ways in which privacy can be increased. Should you then return to using your regular bitcoin wallet, don’t be surprised if you feel naked, deprived of the comforting cloak of Wasabi’s transaction obfuscation tools. Wasabi Wallet isn’t the last word in bitcoin privacy, but it’s a solid start. Expect to be hearing a lot more about this non-custodial wallet in 2019.
+
+Have you tried Wasabi and if so what was your experience of using it? Let us know in the comments section below.
+
+Images courtesy of Shutterstock and Wasabi.
+
+Disclaimer: Bitcoin.com does not endorse nor support this product/service.
+
+Readers should do their own due diligence before taking any actions related to the mentioned company or any of its affiliates or services. Bitcoin.com is not responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

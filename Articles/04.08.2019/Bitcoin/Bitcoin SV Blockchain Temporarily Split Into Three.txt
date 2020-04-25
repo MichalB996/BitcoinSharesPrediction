@@ -1,0 +1,39 @@
+DATE:  04.08.2019, 21:00:53
+TITLE: Bitcoin SV Blockchain Temporarily Split Into Three
+URL:   https://bitcoinist.com/bitcoin-sv-blockchain-temporarily-split-into-three/
+
+ASIC miners Bitcoin SV Blockchain Temporarily Split Into Three
+
+Bitcoin SV experienced a serious network split on Saturday after a massive 210 MB block was mined on the network, temporarily splitting the network into three different chains.
+
+Big Block Blues
+
+On July 24th, the BSV network underwent a scheduled network upgrade with the intent to raise the blocksize from 128 MB to 2 GB. A whopping 19% failed to follow last months upgrade, while another 17% had their nodes crash when receiving the 210 MB block.
+
+Some popular BSV services such as coin.dance and MoneyButton got stuck at the 210 MB block, unable to keep up with the rest of the network. Ryan X Charles, CEO of MoneyButton and a devout SV supporter, talked about his issues running an SV node on the MoneyButton blog
+
+Yesterday, Money Button went down because our Bitcoin SV node ran out of memory and crashed during a stress test. The node ran out of memory because we were using an underpowered instance. We have upgraded the instance to be sufficient for the largest block sizes that are currently possible. Money Button was back online after about three hours of downtime.
+
+Our new instance will cost thousands of dollars per month to operate. As blocks continue to get larger and we have to upgrade the instance many times, this cost will balloon.
+
+Bitcoin SV’s main selling point is their unrealistic blocksize limit, however, that is proving to be much more of an attack vector than a feature. For example, this chain split alone resulted in nearly 300 Petahashes/second dropping off the network. The network is now back to just around 1,200 Ph/s.
+
+The network has, for the most part, gotten itself back in consensus since the split. Coin.dance is now back following the SV chain and no one is mining the legacy chain, leaving it to die.
+
+The victims of this network error were those small miners that were unable to keep up with the absurd blocksizes. It is very likely they spent a large chunk of time and hashpower mining the old chain, only to have those blocks orphaned in favor of the longer chain.
+
+Bitcoin SV, unlike many other crypto-currencies, is extremely centralized in terms of hash rate. One company, Coingeek, owns or indirectly controls the mining pools Coingeek, SVPool, and Mempool.com. Together, those pools make up over half the Bitcoin SV hashrate. When the massive block hit nodes around the world, Coingeek forced the network to keep following their chain with their control of the network.
+
+There’s nearly no genuine economic activity happening on the BSV chain, but if something similar were to happen on a chain like BTC, BCH, or ETH, things would have been much messier.
+
+Safe Scaling
+
+In the future, it will be possible to run a node capable of handling 210+MB blocks on mid-range hardware. Block propagation technology such as Graphene can reduce the block transmission size by around 99.6%. Developers like Johnathon Toomim have successfully tested 3,000 tx/s running on a modified version of Bitcoin ABC. In the meantime, there needs to be a reasonable cap on the blocksize limit to avoid that potential attack vector. Otherwise, a malicious actor could very easily send out a block that would
+
+This is the exact reason for BTC’s reluctance to increase the blocksize. They’re worried the network could fragment if blocks that are too large are mined, hence the focus on off-chain solutions. SV’s mindset is bigger is better, no exceptions. BCH is taking more of a middle of the road approach, increasing the blocksize when it’s safe to do so based on software optimization and hardware improvements.
+
+The cryptocurrency community hasn’t really seen a three-way chain split before, but it more than likely won’t be the last. With SV’s new 2 GB cap, we could see gigabyte blocks or even bigger in the coming months. If and when we see blocks that big, we may even see a chain split more than three ways.
+
+What do you think about Bitcoin SV’s current issues? Do they have a future in the space? Should Bitcoin increase their blocksize at all? Let us know your thoughts in the comments down below!
+
+Images via Shutterstock

@@ -1,0 +1,39 @@
+DATE:  17.03.2019, 16:58:45
+TITLE: Bitcoin Cash Developers Launch Privacy-Preserving Light Client Neutrino
+URL:   https://news.bitcoin.com/bitcoin-cash-developers-launch-privacy-preserving-light-client-neutrino/
+
+Bitcoin Cash Developers Launch Privacy-Preserving Light Client Neutrino
+
+The developers behind the Bitcoin Cash (BCH) full node Bchd have announced the beta release of the lightweight client Neutrino which is now available for Android phones. The Neutrino protocol is not only exceptionally fast, but the client is considered a privacy-preserving light wallet because it uses a concept called client-side filtering.
+
+Also read: New Tasking Platform Lazyfox.io Rewards Users With Bitcoin Cash
+
+Bchd Light Client Neutrino Launches Beta App for Android Users
+
+On March 16, Chris Pacia and the Bchd full node developers announced the launch of Neutrino. The light client is now available for download in the Google Play store but the wallet is still in beta. BCH fans knew the wallet was coming, because on Feb. 29 Pacia gave his Twitter followers a sneak preview of it in action. The programmer also discussed the initial development prior to the video demo in a blog post on Nov. 19. Neutrino uses the Simplified Payment Verification (SPV) and allows users to store coins in a noncustodial fashion.
+
+“Neutrino is the most technologically advanced cryptocurrency wallet to date,” reads the Neutrino description on the Google Play store. “Whereas all other wallets leak information about your transactions to third parties, Neutrino uses a new technique called client-side filtering to obfuscate your transaction downloads to better preserve your privacy.”
+
+SPV wallets have been around for a long time (BIP0037) and not all of them are the same. Clients like BRD and Electron Cash call specific servers that validate transactions and they also allow users to connect to a custom node. BTC developers Jim Posen and Laolu “Roasbeef” Osuntokun introduced BIPs 157/158 which established the concept of client-side filtering for the Lightning Network.
+
+‘Better Preserve Your Privacy’
+
+The developers of the full node Bchd client written in Golang decided to utilize the client-side Neutrino wallet which is completely unrelated to Lightning. Moreover, other wallets can utilize the Neutrino protocol if they desire in order to bolster the SPV experience.
+
+“The way [client-side filtering] works is full nodes create a filter for each block in the chain — You can think of a filter as an ultra-compact representation of all of the transactions in the block — The nodes store these filters on disk along with the block,” the Bchd developers expounded while introducing the Neutrino development.
+
+The programmers further enumerated:
+
+SPV wallets using Neutrino sync the full chain of headers like a normal SPV wallet, but they also download the filter for each block.
+
+At the moment on the Google Play store, the application’s specifications state that the wallet is still in beta development and “may be unstable.” Users should probably test and experiment with Neutrino with a small fraction of funds and wait for a stable version release to use the wallet regularly. BCH supporters seem pleased with the Neutrino launch and have expressed this sentiment on social media and forums after the launch. BCH supporter “Wecx” downloaded the software and tweeted that he appreciated the client-side filtering aspects of the wallet.
+
+“I download the bitcoin cash advanced SPV Neutrino wallet on my phone and connected it to my Bchd node — The default is advanced SPV mode — Neutrino uses a new technique called client-side filtering to obfuscate your transaction downloads to better preserve your privacy,” Wecx remarked on March 16.
+
+What do you think about the Neutrino light client and the client-side filtering technique? Let us know what you think about this subject in the comments below.
+
+Disclaimer: Readers should do their own due diligence before taking any actions related to the mentioned companies or any of its affiliates or services. Bitcoin.com and the author are not responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article. This editorial is for informational purposes only.
+
+Image credits: Shutterstock, Pixabay, Google Play, and Neutrino
+
+Need to calculate your bitcoin holdings? Check our tools section.

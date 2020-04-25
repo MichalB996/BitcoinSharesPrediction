@@ -1,0 +1,91 @@
+DATE:  16.11.2019, 10:00:21
+TITLE: Crypto Derivatives: A Corner of the Market or the Market Itself?
+URL:   https://www.coindesk.com/crypto-derivatives-a-corner-of-the-market-or-the-market-itself
+
+Emmanuel Goh is co-founder & CEO of skew. – a financial technology startup headquartered in London since 2018. These opinions are his and do not necessarily reflect the view of CoinDesk.
+
+The following article originally appeared in Institutional Crypto by CoinDesk, a weekly newsletter focused on institutional investment in crypto assets. Sign up for free here.
+
+The race is on.
+
+One business day before the much-awaited ICE/Bakkt launch, the CME announced it would be listing bitcoin options in Q1 2020. ICE returned the favor by announcing it would also be launching options contracts but in December this year.
+
+Why are two of the largest exchanges in the world competing so openly for a space that was considered, until recently, as secondary by most industry insiders?
+
+Trending
+
+Almost every week, a new player is announcing its intention to enter the increasingly crowded crypto futures market. Most recently crypto behemoths Binance and Bitfinex launched their own futures products, with varying degrees of success.
+
+This optimism wasn’t always there. The rise of Hong-Kong based BitMEX – home to the most liquid bitcoin contract globally – was for a long time met with skepticism by industry leaders, who dismissed the product as only serving gambling addicts with the use of high leverage.
+
+The crypto futures market really took off in 2018. Volumes increased by a factor of ten compared to 2017 levels – a year widely seen as the peak of the crypto market. Bitcoin futures and other perpetual swap instruments are now trading, on average, 10x more volume than the underlying bitcoin spot market according to data compiled by skew and Bitwise.
+
+(Source: skew.com)
+
+In hindsight, it is relatively simple to explain why. As the market entered a prolonged downturn starting in 2018, market participants looked for ways to profit from, or at least hedge against, the falling prices. The growth in futures markets came from that need to short the market.
+
+The market evolved rapidly from very little two years ago. In Q4 2017, the Financial Times published, in a well-researched article, how shorting the stock of chipmaker Nvidia – the products of which were very popular with cryptocurrency miners – could be one of the most convenient ways to get short exposure to cryptocurrencies.
+
+A crypto anomaly? Not really…
+
+Traditional markets also experienced a “derivatives moment” in response to increased volatility in the market. The seventies were a period of incredible financial turbulence as Richard Nixon abolished the Bretton Woods system in 1971, moving to a fiat monetary system, and allowing all currencies to float. The world subsequently went through the first oil shock in October 1973, sending the price of black gold skyrocketing in what was previously a quiet market.
+
+A few months prior, in 1973, in a (not so) curious twist of events, Fischer Black and Myron Scholes found a simple analytical formula to price options, which won the 1997 Nobel Prize two decades later. The conjunction of those two events is widely seen as having started a glory period in derivatives products across all asset classes.
+
+It wasn’t just a fad. The Office of the Comptroller of the Currency in Washington estimates banks currently have exposure to more than $200 trillion notional of derivatives. Derivatives have gradually become the place where the majority of interested parties are coming to trade – across all markets.
+
+“We will tame Bitcoin” – Emeritus CME chairman Leo Melamed
+
+Should we believe the prediction from the legendary futures trader?
+
+There has been a consensus view that bitcoin is too volatile to be a medium of exchange – triggering a wave of “stable coin” projects in 2017 and 2018. The inelastic supply function of bitcoin is, by construction, indifferent to demand or supply shocks – making all the adjustment occurring through price and creating volatility as a result. Good logic, but not necessarily true in practice. For instance, this argument is also valid for gold, which is one of the lowest volatility assets around, with an average daily move of 0.6% in 2019 according to data obtained from the Federal Reserve of Saint Louis.
+
+There are a number of factors that contribute to an asset’s volatility. One of them is its market structure. Academics have extensively researched the impact of developing derivatives markets on the volatility of underlying assets and have overwhelmingly concluded that derivatives help to stabilize prices.
+
+This is particularly true for options, as flows are usually dominated by call overwriting (selling calls to overlay an underlying position) as investors are looking to generate extra yield. The income fund launched by LA-based Wave Financial is a first step in that direction within the crypto markets.
+
+Bitcoin’s volatility will decrease structurally as those markets keep growing.
+
+Natural selection
+
+Derivatives rhyme with leverage, which essentially allows you to do more with less. That’s great, but only to a certain extent. As Warren Buffet famously said, derivatives are financial weapons of mass destruction and require careful risk management.
+
+Regulators have as a result been working on curbing the use of leverage globally. In May 2019, Japan’s FSA asked bitFlyer to reduce leverage for its perpetual swap product. The UK FCA is taking even more drastic action by planning to ban the offering of crypto derivatives to retail investors. The regulator also asks retail brokers to warn their customers of the risks of investing using derivatives products, across all asset classes.
+
+“CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. 72% of retail investor accounts lose money when trading CFDs with this provider.” – Welcome message on a popular retail brokerage platform
+
+If 72% of investors lose money trading CFDs on low volatility underlyings, what could go wrong trading 100x levered products on the infamously volatile bitcoin?
+
+It is likely that, over time, regulators or simply Darwinism will increasingly put the derivatives market in the hands of professionals.
+
+Not only about volumes
+
+Most participants – including us at skew. – spend probably too much time worrying about volumes. Derivatives volumes are mostly a function of leverage. When Japan’s FSA asked bitFlyer to reduce the maximum available leverage from 15x to 4x on the 28th of May, its volumes declined overnight by at least 50%.
+
+(Source: skew.com)
+
+Derivatives are zero-sum contracts between two counterparties. Traders and investors have to maintain collateral against those open positions. Leading venue BitMEX asks for a minimum maintenance margin of 0.5% and a minimum initial margin of 1%. The CME on the other hand asks for 37% of initial margin. That means if you would like to open a $1 million long position on BitMEX, you can post as little as $10,000 in collateral versus at least $370,000 at CME.
+
+The total $ amount of bitcoin futures contracts opened – called open interest – at CME currently stands at $150 million contract in comparison with $1.1 billion at BitMEX. Because of margin requirements it is likely there is a similar amount of money “working” to trade Bitcoin derivatives at CME and BitMEX despite the later trading 10x more volumes. The “herd” might be closer than people think.
+
+This is a great setup for the offshore exchanges which are able to make significantly more money from the same amount of capital as they collect their fees from the volumes traded.
+
+An increasingly central question: what is the price of bitcoin?
+
+Victims of their own success, derivatives venues were hit in 2019 with a first-world problem.
+
+As trading occurs on margin, derivatives exchanges have been careful to design a spot price index derived from the price of what were, initially, much larger physical exchanges. The index is used to settle the contracts at expiry, and decide when to initiate margin calls. It was a smart way of preventing manipulation of the then not-so-liquid crypto derivatives contracts.
+
+However, as the derivatives market has grown exponentially, we have now entered a period where the underlying physical exchanges are much smaller than the derivatives exchanges – only 10% of total volumes in aggregate. It has become tempting to try to manipulate the less liquid underlying exchanges to yield some profits trading the derivatives.
+
+This was most visible earlier this year in May when a relatively small-size order on physical exchange Bitstamp triggered a wave of liquidations at BitMEX and took the entire market down.
+
+Exchanges seem to have been increasingly aware of the problem and have been attempting to strengthen their indices – sometimes with unfortunate consequences, as with a recent miscalculation at Deribit costing the exchange $1.3 million.
+
+“There’s a whole ocean of oil under our feet! No one can get at it except for me!” – There Will be Blood’s Daniel Plainview
+
+With the CBOE officially out, expect the competition between CME and ICE to be heating up in 2020 as the two exchanges roll out their options offering.
+
+It would be particularly encouraging to see corporate hedging flows taking off, led by mining companies and supported by physically delivered and options contracts. The Mexican government is said to have spent $1 billion on put options this year to hedge its 2020 oi production. Still some way to go for crypto derivatives.
+
+Men working the floor at the Chicago Board of Trade, 1949. Image by Stanley Kubrick via Wikimedia Commons.

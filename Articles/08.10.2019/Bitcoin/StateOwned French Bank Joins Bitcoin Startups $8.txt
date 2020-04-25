@@ -1,0 +1,63 @@
+DATE:  08.10.2019, 16:00:28
+TITLE: State-Owned French Bank Joins Bitcoin Startup’s $8 Million Series A
+URL:   https://www.coindesk.com/state-owned-french-bank-joins-bitcoin-startups-8-million-series-a
+
+“We’re convinced that bitcoin is becoming more and more obvious.”
+
+That’s not typically what one might expect to hear from a veteran banker at a public institution. But Veronique Jacq of the partially state-owned French investment bank Bpifrance told CoinDesk bitcoin is becoming a staple of the global economy.
+
+That’s why Bpifrance just made its first investment in a crypto startup, because the bank wants to play an active role in building bitcoin’s infrastructure.
+
+The lightning-focused startup ACINQ raised an $8 million Series A led by Idinvest Partners, with the participation of Serena and Bpifrance. Idinvest Partners managing director Nicolas Debock told CoinDesk this round was also his firm’s first investment in a bitcoin company.
+
+“As we continue to look at bitcoin companies, we think that second-layer opportunities are a big one and it’s definitely something we’ll be looking into more,” Debock said, adding:
+
+“If you’re building for the digital economy … you need to build a strong and safe infrastructure. What I really like [about ACINQ] is they are not rushing to launch a product that isn’t ready.”
+
+From Debock’s perspective, earlier waves of investment in the bitcoin economy revolved around mining companies, then exchanges and wallet providers. But traditional firms, like Idinvest, were wary of the “timing game” required to make significant returns on projects that are still subject to the erratic whims of an immature market and an opaque regulatory climate.
+
+By contrast, he said, investing in companies with a long-term focus on the application layer offers a more palatable opportunity.
+
+“If lightning lives up to its promise, it’s going to relay a lot of transactions,” Debock said. “When you relay a lot of transactions there are always ways to make money.”
+
+Jacq agreed that although ACINQ’s business model is still unclear, she sees it as one of the leading startups focused on the lightning network protocol.
+
+“The lightning network will be where high volumes of transactions could develop in the future, so we wanted to be there, with the infrastructure that will enable these transactions,” she said.
+
+In a press statement, Serena partner Kamel Zeroual echoed his peers, explaining why a government bank would want to invest in developing layers of the bitcoin ecosystem:
+
+“In a context of currency wars and negative interest rates, Bitcoin’s value proposition – a free, independent currency with an issuance policy set in its protocol – is impossible to ignore. All that it needs to achieve its goals is a sound, usable scalability solution.”
+
+Dark horse
+
+This Series A brings ACINQ’s total funding up to $10 million, CEO Pierre-Marie Padiou told CoinDesk, and will be used to grow the six-man team up to a dozen employees over the next year.
+
+“We’re very picky about the people we hire … because it’s very hard to find people with the right skills,” Padiou told CoinDesk. “We are looking for people but … we will take however long it takes.”
+
+Stepping back, ACINQ has long been the quietest pillar of the lightning startup trinity, with much of the community development spearheaded by Lightning Labs and Blockstream, both in Silicon Valley. Yet ACINQ has its own lightning implementation, Eclair, in addition to the Eclair mobile wallet, and Strike, an application program interface (API) for lightning, which Padiou compared to the merchant payment processing provider Stripe. He also said the Eclair lightning wallet has garnered 15,000 downloads via Google Play since it launched in 2018.
+
+To date, ACINQ operates the largest capacity lightning node on the network, supporting over 1,000 channels. Blockstream engineer Rusty Russell told CoinDesk he thinks such diverse implementations benefit end-users since it’s unclear how the network will evolve.
+
+“I started working on Bitcoin because of a previous Open Source project which made my career: Linux. And the one thing we learned from that journey is that we’re not going where we think we’re going,” Russell said, adding:
+
+“Since we don’t know where we’re going, the more experimentation the merrier. … From my vantage point [ACINQ is] helping with the standards process. They’re absolutely equal partners. Their style is less flashy, but they are going to continue to be a major player in the space and I expect great things to come.”
+
+Mobile and approachable
+
+As for ACINQ, Padiou said his startup is focused on mobile devices and payments.
+
+“It’s important because maybe the protocol is the same but we have different views on what we want to optimize more,” he said. “It allows anyone to build software that fits their needs.”
+
+Idinvest’s Debock said institutions can view lightning as a “broader application” of bitcoin’s potential, a space ripe for more traditional equity deals.
+
+As such, ACINQ engineer Bastien Teinturier told CoinDesk that courting investors beyond crypto circles can benefit the entire industry.
+
+“Bpifrance investing is an even bigger shift: public institutions are acknowledging the importance of this technology and its future relevance,” he said. “They aren’t trying to shut it down, they aren’t ignoring it either, they want to understand it and potentially work with it.”
+
+Although Teinturier expressed gratitude for the public outreach done by the teams at Blockstream and Lightning Labs – like running community Slack channels, live demonstrations and conferences – his smaller team prefers to minimize its media exposure for the near future.
+
+“We want to be able to offer a great UX for private, reliable, instant payments, that even your grandmother could use,” Teinturier said, adding:
+
+“We’re not there yet and we want to make sure we can deliver on that promise before we spend time communicating about it.”
+
+ACINQ CEO Pierre-Marie Padiou image via YouTube

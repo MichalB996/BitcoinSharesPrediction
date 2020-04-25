@@ -1,0 +1,33 @@
+DATE:  26.01.2020, 21:30:04
+TITLE: Bitcoin, Crypto UTXO Analysis Reveals Critical Onchain Insights
+URL:   https://bitcoinist.com/bitcoin-crypto-utxo-analysis-reveals-critical-insights/
+
+Bitcoin Bitcoin, Crypto UTXO Analysis Reveals Critical Onchain Insights
+
+Jesus Rodriguez, of Into the Block, recently published some really interesting data on the UTXO sets of Bitcoin and other leading public blockchains. The data gives excellent insight to the actual way coins are being held and moved around by cryptocurrency users.
+
+Analysts Leverage UTXOs to Quantify Onchain Data
+
+UTXOs are Unspent Transaction Outputs. The easiest way to understand UTXOs is to imagine a cryptocurrency token as a 5 dollar bill. If you buy a soft drink for 2 dollars and spend your 5 dollar bill, you should receive 3 dollars in change. You no longer have the 5 dollar bill, the 2 dollars you gave to the soft drink vendor is your input, and now the UTXO of the vendor. Your change is your Unspent Transaction Output or UTXO of 3 dollars. A blockchain simply keeps track of who has access to which UTXOs.
+
+Be aware that not all cryptocurrencies or blockchains use this UTXO model, but many do, as this was the mechanism chosen by Satoshi for Bitcoin, and many blockchains are based upon or forked directly from Bitcoin’s codebase. Other blockchains like Ethereum, use an accounts-based system similar to your checking account at your local bank.
+
+Jesus Rodriguez analyzed the UTXO sets of several of the most popular public blockchains like Bitcoin, Litecoin, Dash and Bitcoin Cash. The information he discovered uses metrics like UTXO age, UTXOs spent and UTXOs created to provide an insider’s view of the behavior of cryptocurrency users.
+
+UTXO analysis is invaluable to those who desire to find patterns and trends in blockchain usage. This kind of information could give traders an insight into market fluctuations and other information that could give them an edge. UTXOs offer a unique way to look at cryptocurrencies that simply can’t be done with other assets.
+
+Bitcoin Hodl Waves and Other Blockchain Curiosities
+
+One of the original UTXO studies was Unchained Capital’s Hodl Wave analysis, which calculated the “age” of a specific Bitcoin UTXO. This means when it was last used in a transaction, not the age it was created through mining. Unchained Capital found that there have been several “Hodl Waves”. A Hodl Wave is an epoch when many accumulated Bitcoin and put them into cold storage. There have 3-4 such mass accumulations with a large amount of UTXOs which have not moved since. Data shows that these hodlers are still accumulating more Bitcoin.
+
+Jesus’ research also demonstrates these Hodl Waves, with his findings showing that 4 million Bitcoins haven’t moved in the last 5 years, in contrast with about a half a million Bitcoin that move every seven days or so. This kind of data could show the difference in the behavior of traders and savers. This same Hodl Wave data shows similar findings for Dash, even with its wild movements in price, the pattern holds true.
+
+One of the more interesting findings from the IntoTheBlock research is the creation of new UTXOs and price fluctuations. In the data for Litecoin, the data showed the number and volume of UTXOs created over a set period of time. This metric was highly correlated to price movements and gave data on real transactions as opposed to just transfers.
+
+The UTXOs spent metric is similar to the UTXOs created metric but shows the amount of spending taking place and provides a trend indicator of the balanced composition of the network. Jesus’ research analyzed the last 3 months of data for the Bitcoin network.
+
+UTXO analysis is a very unique way to analyze public blockchain data by studying the nuts and bolts of the blockchain’s immutable ledger to gain insights not normally available for other investments. This kind of information will play a huge part for traders and investors who want to know about the trends actually happening in real life with blockchain participants. It remains to be seen how Coinjoin and other methods to foil blockchain analysis will impact this kind of research.
+
+What do you think about IntoTheBlock’s UTXO analysis of bitcoin and other cryptos? Let us know in the comments!
+
+Image via Shutterstock

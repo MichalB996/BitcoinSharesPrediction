@@ -1,0 +1,43 @@
+DATE:  10.04.2019, 16:33:00
+TITLE: Elliptic traces bitcoin to hunt dark web criminals for the FBI
+URL:   https://www.techworld.com/security/elliptic-traces-bitcoin-transactions-hunt-dark-web-criminals-for-fbi-3694935/
+
+Laurie is a staff writer for IDG titles including Techworld, Computerworld UK and CIO UK. She studied psychology followed by a Masters in Journalism, and has since worked in marketing and as a freelance consumer insight writer. Her particular interests include consumer tech, startup tech culture and how technology is shaping society.
+
+According to Elliptic, a cryptocurrency tracking company that works with law enforcement agencies such as the FBI and the CIA, the dark web is increasing 50 percent year on year. Although not all activities that take place in this internet underworld are illegal, those such as terrorism, drug trafficking, extortion, circulating child sexual abuse material and money laundering do account for a persistent proportion.
+
+Bitcoin is renowned for being anonymous, but Elliptic exploits this partial misconception. “Actually, you transact through a bitcoin address, and if you can make a link between the address and a real-world entity, it means that you can look at a list of bitcoin blockchain transactions to build a picture of who is using the cryptocurrency,” says Tom Robinson, co-founder and chief scientist at Elliptic. It’s using this data to build a bridge between cryptocurrency addresses and real-world entities that constitutes the core of Elliptic's business.
+
+The London-based company examines data to track where cryptocurrency has come from and where it’s heading to. “Has it come from a dark marketplace or ransomware wallet? Or has it come from legitimate tools like an exchange or a wallet service?” explains Robinson.
+
+But where does this data reside? One tool in Elliptic's arsenal is web-scraping, which involves scanning both the clear web and the dark web for publicly available information which includes mention of cryptocurrency addresses. Sometimes the context in which they occur can be enough to link them to a 'real-world entity', AKA a human criminal.
+
+For example, a service like an exchange that requires users to register details will hold personal information about those who have transacted on the site.
+
+The company also draws on court documentation. “If somebody has been convicted of criminal activity relating to cryptocurrency, there'll be some of those cryptocurrency addresses used in the documentation around the prosecution,” says Robinson.
+
+Once an address is discovered through web-scraping or court documentation, Elliptic can dive into the dark web itself: "We can engage in transactions with illicit services by, for example, opening an account on an exchange service or a dark marketplace to understand some of the addresses that they’re using." They can seek to interact with addresses found in their prior research.
+
+A team of analysts continually scour the dark web to understand the ways in which criminals are using cryptocurrency and gather information. They’ll attempt to identify both risky and non-risky actors within a given cryptocurrency to build up a full picture of all the transactors.
+
+“The details of every transaction in bitcoin is listed in bitcoin's blockchain," says Robsinson. "What you don't have there though, is any concept of real-world identity and we're just adding that layer on top of bitcoin. Once you have that on top, it's very transparent who is transacting with who.”
+
+Exchanges use Elliptic's software for compliance purposes - they don’t want to be laundering the proceeds of crime so they use the software to screen all transactions. “If one of their customers deposits bitcoin, they want to know whether that has come straight from a dark marketplace,” says Robinson.
+
+The company's research a few years ago indicates the proportion of illegal transactions was in the low single digits of all bitcoin transactions. However, as cryptocurrency becomes increasingly regulated and more uses emerge, the overall proportion of transactions related to criminal activity are going down. “However, I still think that cryptocurrencies are increasingly being used by criminal actors for the selling of the goods and services on the dark-web," says Robinson. "That's still there and it's growing.”
+
+Elliptic uses various machine learning techniques to predict the probability that a given cryptocurrency address belongs to a certain actor. A dark marketplace will be doing thousands of transactions through thousands of addresses, meaning it’s difficult to collect all of the addresses within a given dark market. Instead, Elliptic looks at addresses that they know belong to those markets and can then use machine learning to discover other addresses and transactions that belong to the same dark market.
+
+The company also encompasses a forensic and investigative services strand that is more geared towards law enforcement agencies. Whereas an exchange will simply be scanning multitudes of transactions and looking for bad actors, law enforcement take a different approach. “What they want is to look in detail at one transaction or one address and look at that activity and try to trace it the funds into and out of it,” says Robinson. For this purpose, Elliptic offers a graphical transaction explorer, which is used mostly by law enforcement agencies.
+
+For example, in the case of a large-scale ransomware attack where the attacker is demanding ransom in bitcoin, investigators will use this software to trace where the ransom payments ends up.
+
+“Ideally, they’re looking for some kind of regulated exchange, they can then go to that exchange and ask them which of their customers received those funds," says Robinson. "So that provides a good lead to identify who is behind the ransomware.”
+
+Although the cases it's worked on with the FBI and CIA are confidential, the company was instrumental in a couple of UK cases: one involving a Portsmouth-based dark web ecstasy dealer, and the other a man importing arms to the UK.
+
+Illegal activities facilitated in bitcoin might be growing in number, but is the landscape evolving? "It’s changing all the time," says Robinson. "It used to be dominated by dark marketplaces, and in the past couple of years, the amount of ransomware has increased.
+
+"We’re now seeing a lot of sellers selling stolen credit card information in cryptocurrency is increasingly common, as well as emerging things like cryptojacking, where your computer is hijacked by malware that mines cryptocurrency on behalf of the attackers."
+
+Robinson says that at present, Elliptic is mostly targeting and discovering cybercriminals, rather than real-world criminals who are choosing to transact in crypto. “However, there is evidence that drug cartels are beginning to transfer the proceeds of crime through cryptocurrency.”

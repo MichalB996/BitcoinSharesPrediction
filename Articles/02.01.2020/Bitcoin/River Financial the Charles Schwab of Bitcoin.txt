@@ -1,0 +1,67 @@
+DATE:  02.01.2020, 20:37:04
+TITLE: River Financial, the Charles Schwab of Bitcoin
+URL:   https://bitcoinmagazine.com/articles/river-financial-wants-bitcoiners-charles-schwab
+
+Ring in the new bitcoin halving cycle the right way: with us!
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+Ever since he read the Denationalization of Money by Friedrich Hayek in college, Alex Leishman, the co-founder and CEO of River Financial, had been on the search for an alternative currency. The aerospace engineer major turned amateur Austrian economist wanted to build a financial institution around this yet-to-be-found, nongovernment-issued money.
+
+Leishman thought the banking-free option explored in Hayek’s work would manifest in the form of a multi-commodity-backed currency. It wasn’t until he discovered bitcoin in 2013, through a web development course on Coursera taught by Balaji S. Srinivasan, that he realized this currency wouldn’t be backed by gold, oil or any other commodity — in fact, the monetary revolution he had been looking for wouldn’t be backed by anything but code.
+
+“This fulfilled the prophecy that Hayek (and other economists) had foretold,” Leishman explained to Bitcoin Magazine. “There are predictions by both Hayek and [American economist Milton] Friedman that a non-national money would come around one day, and I realized that [bitcoin] was what this was.”
+
+Soon after, he moved to San Francisco in hopes of working on bitcoin full-time. Between stints at Airbnb and grad-school work at Stanford University (where he served under Professor Dan Boneh as an assistant for one of the first Bitcoin collegiate courses in the world), he landed a job at crypto fund Polychain Capital. Ten months later, he finally began down the road toward building the financial ideal that Hayek’s work had so firmly inculcated into his mind.
+
+He embarked on this undertaking with his co-founder and cousin Andrew Benson, and River Financial was born. By the end of 2019, the company would employ a lean team of 10 full-time employees and ship its product: What its CEO heralds as a “bitcoin financial institution.”
+
+Not an Exchange
+
+The distinction between a “bitcoin financial institution” and an exchange, as Leishman said in our conversation, cannot be overstated.
+
+Part of what inspired him to start River Financial was a clear gap in market services. He was waiting for an established exchange or bitcoin company to begin offering the services and infrastructure he believes were necessary for nurturing Bitcoin’s budding economy.
+
+Then shitcoins happened.
+
+“I thought that a company like Coinbase was going to build this bitcoin financial institution,” Leishman said. “But in the bubble of 2017, I realized when Coinbase and others started adding these new assets and chasing these new shining things, that they weren’t going to build what I thought they were and what I thought should exist. I felt like now was the time to do this.”
+
+So he began doing it in February 2019 and River landed its first hire one month later. The rest of the year would be a mad dash to wrangle investment capital, hire out staff and jump through the burning hoops of bureaucracy in multiple states to receive a money-transmitter license from regulators.
+
+So far, the Silicon Valley-based newcomer is only available to customers in California, Texas, Wyoming, Maryland, Massachuesettes, Wisconsin, Pennsylvania and Montana, but its founder hopes that in the “not-too-distant future” it will be cleared to operate in most states. Its fees are just a hair less than Coinbase’s (though Leishman hopes to lower them further if it’s sustainable) and all purchases are made using ACH bank transfer.
+
+A screenshot of River’s UI, courtesy of the company.
+
+River’s goal is to offer what Leishman called a “brokerage-like experience” with Bitcoin’s latest bleeding-edge technologies. Fee-saving SegWit transactions, for instance, are operable out of the gate and so, too, are Lightning Network transactions — River’s also already thinking ahead about how to integrate Taproot, an upgrade that will boost Bitcoin’s smart contract capabilities.
+
+In addition to the latest technical features that Bitcoin has to offer, River provides financial tools missing from most mainstream exchanges, like performance reporting. This offers clients insights into their unrealized and realized gains and losses for a taxation period; it even breaks each buy order into individual tax slots, and you can choose which slot you want to sell upon cashing out to optimize for tax purposes.
+
+The Charles Schwab of Bitcoin
+
+Tools, as well as incorporation of things like the Lightning Network (which just received its first exchange integration at the end of 2019), are markedly missing from the vast majority of cryptocurrency exchanges. But for something that is dressing itself up to be the Charles Schwab of bitcoin, River is changing that.
+
+“We’re going to do things differently than what the current companies are doing,” Leishman said. “They’re focused on going broad across trading. The hypothesis for our company is that bitcoin is going to continue to grow as a money and a store of value. We’re building this company around financial services, assuming bitcoin is going to be used as money.”
+
+Leishman added that he believes the broad trading strategy adopted by industry goliaths like Coinbase and Binance were profitable during the ICO craze but aren’t “going to push the needle to move our monetary system to the next level.”
+
+Moving the needle, then, doesn’t just mean doing things differently than the rest of the financial world but doing them differently than other liquidity providers in bitcoin, too.
+
+Some of this difference is found on the surface level, with the range of services River provides and the experience it offers compared to competitors. But it also lies in the inner workings of the business — what the clients don’t see.
+
+Infrastructurally, for instance, this means self-hosting its own servers instead of running its operations through the cloud. All of River’s data, from user information to hot wallet keys, are housed in servers located in an undisclosed “2,000 pound vault in a datacenter,” Leishman said. Only a handful of employees have access to this data, so this mitigates the counterparty risk involved in spinning up a server through Amazon Web Services or Azure. Unlike the latter, which may obstruct the ability to pinpoint internal intrusions into the server, River always has tabs on who enters and exits its data repository.
+
+“From a business standpoint, we can’t build a sound business on a security foundation of sand,” as Leishman put it. “If we’re running a world-class bitcoin financial institution, we can’t in good conscience have our users’ data and their key material sitting in these cloud services that we don’t fully control.”
+
+What Does a Bitcoin Financial Institution Look Like?
+
+All of these pieces contribute to the picture of what Leishman envisioned in college: a financial institution for a non-national monetary system. This is why he pushes back against identifying River as an exchange. It’s not a place to trade bitcoin or altcoins; it’s a place to buy bitcoin and leverage a “suite of consumer financial services for individuals and institutions around bitcoin,” Leishman said.
+
+For individuals, this means the base brokerage services and custody services if they aren’t comfortable holding keys themselves. In the future, Leishman hopes, this may also take the form of providing payment services, where users can spend bitcoin on the Lightning Network through a “pseudo-custodial method” where River provides routing and liquidity but the user maintains control of their keys in their Lightning wallet.
+
+For institutions, River will look to offer business accounts that let them save with bitcoin and also pay their employees in it with automated payroll. Deposit insurance is also high up on River’s to-do list, and it aspires to offer bitcoin lending services down the road, as well.
+
+The to-do list, which first-and-foremost includes expanding to new states, is long and ambitious. But less than a year ago, River was still confined to the however-many lines of code Leishman had logged to set the company’s cornerstone. The confidence and drive behind the ambition to usher in a new era of bitcoin financial services is perhaps best represented in the crisp and assured assertion of its founder.
+
+“We’re built for the long term,” he said.

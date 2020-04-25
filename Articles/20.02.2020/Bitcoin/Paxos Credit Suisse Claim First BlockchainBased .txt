@@ -1,0 +1,29 @@
+DATE:  20.02.2020, 14:00:00
+TITLE: Paxos, Credit Suisse Claim First Blockchain-Based Settlement of US Equities
+URL:   https://www.coindesk.com/paxos-credit-suisse-claim-first-blockchain-based-settlement-of-us-equities
+
+New York-regulated crypto startup Paxos, in conjunction with Credit Suisse and Nomura-owned broker-dealer Instinet, has claimed bragging rights for the first live blockchain-based settlement of U.S. equities.
+
+Announced Wednesday, the Paxos Settlement Service has gone live, allowing for the simultaneous exchange of cash and a select number of U.S.-listed securities on Paxos’ own private version of ethereum.
+
+Last year, Paxos Trust Company announced the pilot, involving Credit Suisse and Société Générale, would be given the green light from the U.S. Securities and Exchange Commission (SEC) in the form of a coveted no-action letter.
+
+“We spent years studying the groundwork to get the pilot running,” said Paxos Director of Securities Product Melayna Ingram. “Now it’s live and settling stock. We are calling it a pilot because we are approved to do this under a limited number of participants and volume and a limited list of securities that are permitted.”
+
+The current pilot phase can run for 24 months and is limited to seven participants handling 100,000 trades per day. Société Générale is expected to be integrated and live by the end of this quarter, said Ingram.
+
+It’s also the first time since the formation of the Depository Trust & Clearing Corporation (DTCC) that U.S. equities are settling in an automated manner in an outside system.
+
+"This launch is remarkable on a number of fronts," said Luke Mauro, global head of operations for Instinet Holdings. "Instinet has always been a proponent of new technologies and efficiencies, as well as alternatives. We're pleased to be a part of these 'firsts'."
+
+Most of the innovation in U.S. equities over the past two decades has been in trade execution and trading market venues, said Ingram. “The back office has largely stayed the same, running on mainframe codebases and involving a complex system of reconciliation, which is out of step with new technology.”
+
+Building on this, Paxos said it will apply to the SEC in 2020 to become a fully registered clearing agency. Only seven such licenses exist in the U.S., and attaining one means Paxos can offer the new blockchain service to all broker-dealers to settle U.S.-listed equities.
+
+Under the hood, Paxos is using a private blockchain network that is its own fork of the ethereum codebase, as opposed to using another enterprise ethereum client like Quorum, BlockApps or Besu.
+
+Cash has to be held in Paxos custody accounts for delivery versus payment (DvP) and settlement finality to happen. The process essentially tokenizes the cash on reserve in the same way Paxos handles its PAX stablecoin.
+
+“There's never any one-way settlement risk that our participants are having against each other. So they are able to then remove cash and get intraday liquidity from the cash that they received from settlement,” said Ingram.
+
+Emmanuel Aidoo, head of digital asset markets at Credit Suisse, said in a statement: “Paxos Settlement Service introduces blockchain technology that’s compliant with regulations and allows us to take important strides towards evolving market structure and unlocking capital that is tied up in legacy settlement processes.”

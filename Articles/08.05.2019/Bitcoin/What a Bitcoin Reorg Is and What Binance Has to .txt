@@ -1,0 +1,59 @@
+DATE:  08.05.2019, 19:41:33
+TITLE: What a Bitcoin ‘Reorg’ Is and What Binance Has to Do With It
+URL:   https://www.coindesk.com/what-a-bitcoin-reorg-is-and-what-binance-has-to-do-with-it
+
+What started with a single tweet quickly turned into an escalating debate Wednesday when the CEO of one of the world’s largest cryptocurrency exchanges appeared to entertain the idea of encouraging revisions to the bitcoin blockchain.
+
+Following Wednesday’s revelation that crypto exchange Binance was robbed of 7,000 BTC (worth about $40 million), a proposal was floated to conduct a transaction “reorg” on the bitcoin blockchain, sparking a fiery debate and community uproar.
+
+The idea was suggested a few hours after the world’s largest crypto exchange by volume was hacked when developer Jeremy Rubin, who has worked on bitcoin and Stellar’s core code, tweeted to the founder and CEO of Binance:
+
+“[Changpeng Zhao] if you reveal your private keys for the hacked coins… you can decentralized-ly at zero cost to you coordinate a reorg to undo the theft.”
+
+Rubin essentially suggested that by getting a majority of miners onboard, the transaction history could be adjusted so that the funds are instead broken up and sent to them instead. This “reorganization” would come at some cost, but it would prevent the 7,000 BTC from staying in the hands of the hackers. Further, it wouldn’t have constituted a pure rollback, or a reversal of the transaction history writ-large.
+
+The idea was subsequently raised during an ask-me-anything session held by Binance CEO Changpeng Zhao, sparking a round of speculation that ended with Zhao ultimately dismissing the idea.
+
+As the tweet caught attention, the conversation quickly boiled over given the topic of discussion – there have been very few changes to the bitcoin blockchain’s transaction history in its 10 years of operation, as doing so has been reserved for dire emergencies in which there may be critical consensus failures.
+
+“To clarify, the proposal by [Rubin] and [James Prestwich] is to construct a [transaction] that would keep all other transactions and just distribute the hacker coins to miners,” tweeted Zhou. “It’s not: a rollback of any transaction, nor is it reverting funds back to Binance.”
+
+The proposal caused an uproar on social media. As developer Udi Wertheimer tweeted in response:
+
+“The idea that this rollback of days would even be practical at all for anyone involved is insane. A day of mining costs 1800 BTC. Rolling back four days costs more than the hack itself.”
+
+Others seemed to agree that the sheer financial incentives for such a feat would simply be infeasible.
+
+“The losses are still at a minimum [7,250] BTC,” wrote developer Jimmy Song about rough costs for Binance to sufficiently incentivize miners to rewrite part of the transaction history of the bitcoin network.
+
+At the same time, infeasibility and impossibility are two separate matters. When explaining why Binance would ultimately not be pursuing a chain reorganization or “reorg” as suggested by Rubin, Zhou listed four separate reasons none of which had anything to do with the monetary cost.
+
+“1. We may damage credibility of BTC. 2. We may cause a split in both the bitcoin network and community…3. The hackers did demonstrate certain weak points in our design and user confusion that was not obvious before. 4. While it was a very expensive lesson for us, it is nevertheless a lesson,” listed Zhou on Twitter.
+
+Zhou’s reasoning highlighted a key concern many have voiced in the past when it comes to blockchain immutability not just on bitcoin but all proof-of-work (PoW) blockchains.
+
+A thought experiment?
+
+“If you bribe 51 percent of the miners, they will change the ledger for you. [This] tells you just how little irreversibility there is in PoW coins,” tweeted Cornell University professor and researcher in blockchain consensus protocols Emin Gün Sirer.
+
+A 51% attack on the blockchain network is not a new attack vector for PoW blockchains. However, as highlighted by Gün Sirer, it’s also not really an attack vector. On very special instances, the majority of self-interested miners on PoW blockchains have voluntarily agreed to alter a transaction history to undo critical situations.
+
+While the situation isn’t entirely the same, in the past, blockchain networks have seen their histories altered in the wake of critical moments. This happened on the ethereum blockchain back in 2016 when over $60 million worth of coins were siphoned off from the now-defunct smart contract The DAO. It also happened on the vericoin blockchain back in 2014 after $8 million worth of coins were hacked.
+
+While controversial, both decisions were supported by the primary developer community who launched system-wide upgrades or hard forks to enable otherwise infeasible amendments to the blockchain transaction history.
+
+Yet those choices weren’t without their repercussions; the resulting ethereum fork resulted in two distinct chains, ethereum and ethereum classic, respectively.
+
+A resounding no
+
+Still, many in the bitcoin community took to social media to deride the idea as both infeasible as well against the philosophical underpinnings of the technology.
+
+In Binance’s particular case, prominent members of the bitcoin community point out that bitcoin being the world’s largest blockchain is a particularly unique case with a reputation to uphold.
+
+“Talk of forking or reorganizing the blockchain is close to heresy,” tweeted billionaire bitcoin investor Michael Novogratz. “When the ethereum community did it the project was like 5 months old. A baby. Bitcoin now has $100bn market cap and is a legitimate store of wealth.”
+
+It would also be unfair according to Adam Back – CEO of bitcoin development startup Blockstream – given that the latest Binance hack is nowhere near as severe as previous hacks suffered on the bitcoin blockchain.
+
+“A Bitcoin reorg is just not happening, and I doubt any Bitcoin industry, miners nor developers considered it either. Recall 2014 $473mil, 2016 bitfinex hack $72mil, 2019 binance $40mil etc. #NotHappening,” tweeted Back.
+
+Binance image via Shutterstock

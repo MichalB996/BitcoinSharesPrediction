@@ -1,0 +1,35 @@
+DATE:  29.11.2019, 13:45:54
+TITLE: Photonics Bitcoin Mining Tech Aims to 'Democratize' Energy Use
+URL:   https://news.bitcoin.com/photonics-bitcoin-mining-tech-aims-to-democratize-energy-use/
+
+Photonics Bitcoin Mining Tech Aims to 'Democratize' Energy Use
+
+Three researchers have published a paper at Cornell University’s arxiv.org proposing a system called Optical Proof of Work (OPOW) to potentially be employed in Bitcoin mining. According to the paper, “heavy reliance on electricity has created scalability issues, environmental concerns, and systemic risks.” The authors state that silicon photonics could be used to shift mining costs away from energy-intensive to hardware-based costs, lowering the economic and environmental impact, adding greater security, and “democratizing” mining.
+
+Also Read: Canadian Company Commissions 3 Bitcoin Mining Units to Restart Oil Well
+
+Optical Proof of Work
+
+The system proposed by authors Michael Dubrovsky, Marshall Ball, and Bogdan Penkovsky is described as “a novel POW algorithm, Optical Proof of Work (OPOW), to eliminate energy as the primary cost of mining. Proposed algorithm imposes economic difficulty on the miners, however, the cost is concentrated in hardware (capital expense-CAPEX) rather than electricity (operating expenses-OPEX).” In other words, the paper’s proposal is that photonics could potentially enable much more energy efficient mining, which might have a number of effects on the industry.
+
+The “Optical Proof of Work” paper states that “Rapid growth and improvement in silicon photonics over the last two decades has led to the commercialization of silicon photonic co-processors (integrated circuits that use photons instead of electrons to perform specialized computing tasks) for low-energy deep learning. OPOW is optimized for this technology such that miners are incentivized to use specialized, energy-efficient photonics for computation.”
+
+Many questions remain as to the proposed implementation, however, centering on the economic realities of market competition and economies of scale, as well as changes at the algorithm level which would need to take place. Also, although the proposal is to make mining hardware much more specialized and difficult to acquire, unique from system to system (to disincentivize risks like 51% attacks), footnotes in the paper admit there could be exceptions. “Although not impossible, a coordinated effort to rent on the order of half of the hardware on a network would be difficult to hide and owners of hardware have an incentive not to rent to attackers, as the hardware is likely to lose value if the network is attacked.”
+
+Dubrovsky’s Thoughts on the Proposal
+
+Michael Dubrovsky, Co-Founder of Powx, and one of the three researchers behind the paper, shared some insights regarding the project with news.Bitcoin.com via email, detailing: “Our first live implementation will be with a partner network that will start using OPOW Q1- Q2 2020. We’re hoping to see broader adoption (eventually Bitcoin) after the first implementation proves the concept.” When asked about how photonics might affect competition in the industry, and whether large mining operations wouldn’t simply use their current energy capacity to power even more miners, he replied:
+
+It’s a bit counterintuitive. The additional [hardware] miners will buy with their energy savings will add some marginal energy use but if the hardware is ultra-energy efficient, you still get a huge energy savings.
+
+“There’s a section on this in the whitepaper but we go into it in more detail in our upcoming academic paper,” Dubrovsky elaborated. “We will release V1 in a few months. Heavyhash is not that complicated so it doesn’t require a massive library of code. We’ll also publish chip design files for our prototypes.”
+
+The paper describes heavyhash as a custom hash function and states: “In its simplest form, OPOW is the Hashcash algorithm with our custom hash function, Heavyhash, designed specifically to run efficiently on optical accelerators while preserving all POW-necessary cryptographic security properties.”
+
+Some commenters on Dobrovsky’s Twitter post on the subject voiced concern with a proposed changeover which, in the researcher’s words, would be a soft fork to the existing protocol. It’s clear that both protocol-level and economic doubts remain, including questions regarding the totally new field of competition that would presumably be created for the best photonic chip, hardware, etc. Whether or not mining could ever be democratized in the sense of helping “the little guy” remains to be seen, and only the future will tell if photonics can indeed bring about significant change in the bitcoin mining industry.
+
+Do you think photonics has potential to change the bitcoin mining industry? Let us know in the comments section below.
+
+Images credits: Shutterstock, fair use.
+
+Want to create your own secure cold storage paper wallet? Check our tools section. You can also enjoy the easiest way to buy Bitcoin online with us. Download your free Bitcoin wallet and head to our Purchase Bitcoin page where you can buy BCH and BTC securely.

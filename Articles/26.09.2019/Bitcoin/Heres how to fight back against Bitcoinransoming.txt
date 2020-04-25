@@ -1,0 +1,37 @@
+DATE:  26.09.2019, 10:08:23
+TITLE: Here’s how to fight back against Bitcoin-ransoming malware
+URL:   https://thenextweb.com/hardfork/2019/09/26/heres-how-to-fight-back-against-bitcoin-ransoming-malware-ransomware/
+
+Losing your data sucks. It sucks even more when someone uses ransomware to maliciously encrypt your files and demands Bitcoin BTC to ensure its safe return. But don’t worry, because there are things you can do to get one over on the cyberbaddies.
+
+Software company Emsisoft has recently released a free decryption tool for prevalent Bitcoin extorting ransomware, called WannaCryFake.
+
+According to Emsisoft’s security researchers, WannaCryFake is a strain of the infamous WannaCry ransomware that began spreading around the world back in 2017, infecting big corporations including hospitals, banks, and telecom companies.
+
+WannaCryFake is a strain of ransomware that uses AES-256 to encrypt a victim’s files.
+
+If you’ve identified that your system has been infected with the WannaCryFake malware, you might be able to use Emsisoft’s free tool to regain access to your files. Though, “under no circumstances should you make contact with the hackers,” the company says.
+
+It’s a pretty simple process too. Firstly, ensure you’ve removed the malware from your system, and then download Emsisoft’s decryptor.
+
+Run the decryptor and ensure the hard drives/storage devices that have been encrypted are selected and click the decrypt button.
+
+Decryptor tool interface
+
+While decryption tools can help you recover lost files, they don’t work all the time and sometimes experts just end up paying the hackers. Emisosft told Hard Fork that its decryptor has been 100 percent effective so far, based on reports of its use.
+
+If off-the-shelf decryptors don’t work for you, there are other things you can try.
+
+Emsisoft, along with a host of other security organizations, is part of the “No More Ransom” project, a collaboration between law enforcement agencies and cybersecurity firms to help victims hit back at ransomware.
+
+On the “No More Ransom” website you can seek more help from experts. Here, you can upload a couple of encrypted files and more details about the ransomware attack and the project will direct you to a solution, if one exists.
+
+That said, perhaps the best method is to protect yourself against malware in the first place and ensure you make regular backups of your data.
+
+If you’re unlucky and have been hit by Bitcoin-ransoming malware, you can download Emsisoft’s decrypto here.
+
+Sadly, Bitcoin-ransoming malware is quite prevalent. One strain of malware, Ryuk, managed to earn hackers more than $3 million in Bitcoin over the first five months of the year. It’s about time we put a stop to this, in any capacity we can.
+
+Come say hi to the Hard Fork team at our blockchain event. On October 15-17 in Amsterdam, hear from top experts as they discuss the industry’s future.
+
+Update September 26, 2019, 1345UTC: Emisoft replied to Hard Fork’s request for comment. The article has been updated to reflect this.

@@ -1,0 +1,41 @@
+DATE:  08.04.2020, 06:58:43
+TITLE: TAAL announces components of strategic vision including the launch of Miner ID and M/API
+URL:   https://coingeek.com/taal-announces-components-of-strategic-vision-including-the-launch-of-miner-id-and-m-api/
+
+VANCOUVER, April 7, 2020 /CNW/ – TAAL Distributed Information Technologies Inc. (CSE:TAAL | FWB:9SQ | OTCQB:SQRMF) (“TAAL“) provides an update on its 5-year technology roadmap and on the launch of two new components.
+
+On April 2, 2020, TAAL announced it had filed a patent application for a blockchain computing device (the “Device“) https://webfiles.thecse.com/sedar_filings/00036887/2004021816432817.pdf .
+
+This initiative is part of TAAL’s strategic vision, full details of which will be released in the coming months. Several pillars of the strategic vision include:
+
+Transaction processing, using M/API, bulk volume contracts, dynamic rates and client tiering;
+
+Managed services for blockchain computer hosting, hash contracts and “TAALPool”, a public blockchain computing pool;
+
+Services and pilot projects stemming from the filed patent application related to the Device;
+
+Blockchain cloud services, and
+
+Internet of Things (IoT) agents and services.
+
+TAAL has been improving its block processing infrastructure and streamlining systems in preparation for scaling of operations. TAAL intends to publicly mark all blocks written to the Bitcoin SV blockchain, both its own and those of its clients under managed services agreements, as “TAAL” with its “Miner ID” signature.
+
+Computing power in a proof-of-work system is the key component of the security model of a public permissionless blockchain, such as Bitcoin SV, as it indicates the amount of capital expended to support the infrastructure of the network. The amount of capital-at-risk or deployed resources acts as a strong deterrent against acting dishonestly in a decentralized system. Miner ID is a method implemented on Bitcoin SV as a way for transaction processors to be able to provably identify themselves and build a reputation of trust among the public and clients. By signing all the blocks with a company’s public key, it allows anyone to provably show the blocks that a block builder creates on the blockchain, enhancing auditability and reporting. TAAL emphasizes that Miner ID is currently only implemented on the Bitcoin SV platform.
+
+As announced by the Bitcoin SV node team on April 3, 2020, TAAL also confirms the implementation on the bitcoinsv.io website (found here: https://bitcoinsv.io/2020/04/03/miner-id-and-merchant-api-beta-release/) of its beta implementation of M/API, a merchant/miner API. The beta implementation M/API is expected to allow for the public to send transactions directly to TAAL to be processed, query for real-time transaction processing fee rates and confirm the status of a transaction, allowing for further growth and innovation of the Bitcoin SV development ecosystem, as well as build the foundation for the SPV node network, whose 0-confirmation transactional security is based on direct block builder interaction, allowing for tighter integration of applications with transaction processors and for future fixed rate transaction processing in fiat currency. TAAL has this week made its beta M/API endpoints available to its partners and clients.
+
+Jerry Chan, CEO
+
+About TAAL Distributed Information Technologies Inc.
+
+TAAL Distributed Information Technologies Inc. (CSE:TAAL) delivers value-added blockchain services, providing professional-grade, highly scalable blockchain infrastructure and transactional platforms to support businesses building solutions and applications upon the Bitcoin SV platform, and developing, operating, and managing distributed computing systems for enterprise users.
+
+The CSE accepts no responsibility for the adequacy or accuracy of this release.
+
+CAUTIONARY STATEMENT REGARDING FORWARD-LOOKING INFORMATION: This news release includes “forward-looking information” as defined under applicable Canadian securities legislation. Forward‐looking information and statements include, but are not limited to, disclosure regarding possible events, that are based on assumptions about future economic conditions and courses of action, statements with respect to the anticipated benefits, if any, effects, performance, capabilities or importance to TAAL or otherwise of, including with respect to the effects on, and of the capabilities of, the Bitcoin SV blockchain and the blockchain industry, statements with respect to TAAL’s 5-year technology roadmap (including TAAL’s ability to scale operations), the anticipated benefits to TAAL, if any, of the Device (including the pillars thereof) and of the beta implementation of M/API (including its effect on the Bitcoin SV development ecosystem or otherwise), statements with respect to TAAL’s block processing infrastructure and systems and statements with respect to TAAL’s intentions with respect to the “Miner ID” signature and, in certain cases, can be identified by the use of words such as “expects”, or variations of such words and phrases or statements that certain actions, events or results “may” or “will”, or the negative forms of any of these words and other similar expressions.
+
+Forward-looking information is necessarily based upon a number of estimates and assumptions that, while considered reasonable, are subject to known and unknown risks, uncertainties, and other factors which may cause the actual results and future events to differ materially from those expressed or implied by such forward-looking information. Such factors include, but are not limited to: general business, economic, competitive, political and social uncertainties, uncertain and volatile equity and capital markets, lack of available capital, future demand for Bitcoin SV and other digital assets and risks related to information processing using those platforms, integration issues, personnel and staffing requirements and technological change and obsolescence. Actual results and future events and actions could differ materially from those anticipated in such forward looking information. Accordingly, readers should not place undue reliance on forward looking information. All forward looking information in this news release is made as of the date hereof and qualified by these cautionary statements and those in our continuous disclosure filings available on SEDAR at www.sedar.com. TAAL disclaims any intention or obligation to update or revise such forward-looking information, whether as a result of new information, future events or otherwise, except as required by law.
+
+SOURCE Taal Distributed Information Technologies Inc.
+
+New to Bitcoin? Check out CoinGeek’s Bitcoin for Beginners section, the ultimate resource guide to learn more about Bitcoin—as originally envisioned by Satoshi Nakamoto—and blockchain.

@@ -1,0 +1,33 @@
+DATE:  17.10.2019, 11:00:18
+TITLE: Bitcoin (BTC) Miners Throw Out “Stale” Block
+URL:   https://bitcoinist.com/bitcoin-btc-miners-throw-out-stale-block/
+
+Bitcoin Bitcoin (BTC) Miners Throw Out “Stale” Block
+
+The Bitcoin network created a rare event – a block discovery happening by two pools at the same time. In theory, such an event could be the root of a hard fork.
+
+Highly Competitive Miners Co-Discovered a Block
+
+Bitcoin (BTC) did not go through a hard fork, but produced a rare event where two pools discovered the right block header at the same time. In the end, one of the pools won the block, and started to propagate it among nodes. The block production was an anomaly, but was resolved by the network rules.
+
+Bitcoin appears to have experienced a stale block around an hour ago. A block mined by Antpool went stale, while https://t.co/yVUGGpNyuP appears to have won the race There are 2 distinct blocks at height 599,587https://t.co/xqsaWOCBbT pic.twitter.com/UydO916w74 — BitMEX Research (@BitMEXResearch) October 16, 2019
+
+The Bitcoin network usually does not produce rogue blocks, unless a hard fork is intended. But according to analysts, such an event happens every few months.
+
+Bitcoin Rarely Produces “Uncle” Blocks
+
+Because the Bitcoin difficulty is so high, it is improbable that two blocks discover a block header number at the same time. But this is not an unusual event for Ethereum (ETH), where there are regular instances of “uncle” blocks. Those blocks are discovered, but not propagated, and receive a partial reward.
+
+The dispute on which block would propagate happened between Antpool and BTC.com, two of the most influential pools currently. BTC.com and Antpool are close competitors, discovering almost the same amount of blocks in the past day. In general, leading pools have a close competition on block discovery, as they grow their hashrate to grab some of the last 12.5 BTC block rewards.
+
+The recent event with a double block discovery follows another recent anomaly – an unusually slow block. Even at this level of difficulty, blocks arrive every 10 minutes, as scheduled. But on October 1, a block took over an hour for miners to discover its header number.
+
+This underlines the fact that mining includes a chance element. Despite nonce testing optimizations, and a high hashrate, sometimes solving the puzzle to find a block header would be difficult.
+
+The Bitcoin network so far has not gone through reorgs or inadvertent hard forks. Smaller networks, such as Bitcoin SV (BSV), have experienced more shakedowns and anomalies. Bitcoin Cash (BCH) has also seen mining anomalies, mostly because pools would flock to the network during periods of low difficulty, to produce one-minute blocks. But if mining was unprofitable, miners left, and blocks took an hour to produce.
+
+Each Bitcoin block is propagated through 9,301 currently available nodes. The number of nodes fluctuates by a few hundred, but in the past two years keeps close to 9,000 nodes available, often with 10,000 nodes accessible.
+
+What do you think about Bitcoin mining anomalies? Share your thoughts in the comments section below!
+
+Images via Shutterstock, Twitter @BitMEXresearch

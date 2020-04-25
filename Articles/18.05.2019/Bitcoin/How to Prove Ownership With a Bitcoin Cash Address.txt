@@ -1,0 +1,41 @@
+DATE:  18.05.2019, 14:58:40
+TITLE: How to Prove Ownership With a Bitcoin Cash Address and Digital Signature
+URL:   https://news.bitcoin.com/how-to-prove-ownership-with-a-bitcoin-cash-address-and-digital-signature/
+
+How to Prove Ownership With a Bitcoin Cash Address and Digital Signature
+
+Bitcoin is an amazing form of money and the technology Satoshi created has incredible potential. However, most people don’t realize that the blockchain not only allows for a great medium of exchange, but it also provides the means for creating notarized proofs. The following walkthrough aims to show anyone how to prove they own a bitcoin cash address as long as they are the owner of the private key.
+
+Also Read: Putting an End to the Bitcoin Store of Value Fallacy
+
+The Bitcoin Cash Blockchain and Notarized Proof
+
+The decentralized cryptocurrency bitcoin cash (BCH) not only provides people with the means of permissionless exchange with extremely low fees, but it also can help verify the owner of a specific BCH address. It also means that notarized proofs can be managed on the BCH blockchain, but today for simplicity sake we’re just going to deal with proving ownership of a specific BCH address, as long as you possess a private key.
+
+With a private key, an owner can create a message like “I own this address,” show the public address, and provide a valid signature which essentially proves ownership of the address. In order to get started and test a public address, download the latest version of Electron Cash. The light client is a reliable BCH wallet that comes with a tool that allows you to sign messages and prove address ownership. There are also other cryptocurrency wallets that provide signing and verifying tools as well.
+
+After downloading Electron Cash, open it on your desktop and create a new wallet. Following the new creation of a BCH wallet, navigate to the top of the screen and find the Tools section and from there select the Sign/verify message. At this point, you will see a pop-up window that provides three sections and at first, you will provide just the message and a valid BCH address to complete the signing process.
+
+From here simply press sign and the wallet will provide a long alphanumeric string and you can copy and paste this signature. If your Electron Cash wallet uses a password, the software will prompt you to enter it before signing the message. Now the combination of these three things will allow you to verify the message and the signature. Another person cannot sign with the address unless they hold the private key and if its password protected it’s even harder to steal.
+
+Verify the Integrity of the Digital Signature
+
+Close the pop-up window after you have copied the message, address, and the alphanumeric string (signature). You can then open the Sign/verify message window again, but this time just press the verify tab, after entering the same exact text (message – public address – signature) into the three sections. You can then press verify and if all the information is correct, the wallet software will validate the integrity of the message and ownership of the address.
+
+Moreover, other people can verify the integrity of the message and signature as well with different types of wallets and alternative software. So after you’ve created a unique message, you can give it to friends, family or to anyone in the world and show them the notarized proof. Remember, all the person needs to provide a notarized message proving ownership of a specific BCH address is:
+
+The Message
+
+The BCH address
+
+The Signature — (a long alphanumeric string much longer than an address), a signature tied to an address cannot be completed without private key ownership.
+
+This method of proving ownership can come in handy for many reasons because only the person with a private key associated with the signature can prove they own the BCH address. Proof of ownership helps bolster things like proving existence with a message and notarizing certain data and making it impossible to forge. Back in 2017, Wikileaks founder Julian Assange used a message on the BTC chain to prove existence and that he was still alive.
+
+In fact, the person behind the Satoshi Nakamoto monicker could prove he/she is Bitcoin’s creator by providing a legitimate message and signature tied to one of Nakamoto’s known addresses. The private key associated with the signature makes it so no one can create a signed message with your address on your behalf without that key. Learning to sign and verify with a bitcoin cash address is easy and only takes a few minutes to understand the basics.
+
+What do you think about signing and verifying a message with a BCH address? Let us know what you think about this subject in the comments section below.
+
+Image credits: Shutterstock, Electron Cash, Jamie Redman, and Pixabay.
+
+Enjoy the easiest way to buy Bitcoin online with us. Download your free Bitcoin wallet and head to our Purchase Bitcoin page where you can buy BCH and BTC securely.

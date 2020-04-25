@@ -1,0 +1,55 @@
+DATE:  06.02.2019, 12:37:37
+TITLE: Abra lets you magically buy stock with Bitcoin… but it’s crazy complex
+URL:   https://thenextweb.com/hardfork/2019/02/06/abra-buy-stocks-bitcoin-etfs/
+
+Cryptocurrency exchange and wallet service provider Abra has just announced the launch of a new way to invest in traditional stocks, commodities, indexes, and ETFs using Bitcoin. BTC Only it’s not as simple as it sounds.
+
+In what it’s claiming is a world first, Abra is adding new investment features to its app that will allow investors in over 155 countries to invest in 50 traditional stocks.
+
+Before you go thinking this is something groundbreaking, consider that it’s a world first on the basis that it’s being offered on a global scale, and because Abra offers more cryptocurrencies and fiat currencies than any comparable app.
+
+With Abra’s new features investors will be able to buy fractions of shares in the likes of Facebook, Apple, Amazon, Google. Or buy shares of ETFs like Vanguard Growth, and indexes like the Russell 2000, all using Bitcoin of course.
+
+
+
+Investments can start from $5 worth of Bitcoin and there are zero trading fees for the rest of 2019 if you sign up to early access.
+
+It might sound simple enough, but it’ll help to know how Abra is doing this before you even consider looking at making stock investments.
+
+If you were wondering how Abra makes money doing this, it charges a spread when cryptocurrencies are exchanged. This is effectively a fee based on the difference between the lowest and the highest selling prices of a given asset at the time of trading.
+
+What’s going on?
+
+Abra is offering these investments through using what it calls “synthetic currency.” Strap yourselves in, because this is about to get confusing.
+
+When you put money into the Abra app, your dollars are immediately converted into Bitcoin, only the app will continue to display that your account has dollars sitting in it.
+
+If the price of Bitcoin goes down, your balance will still display the amount of dollars you invested. Abra makes sure of this by hedging your investment in a wonderfully complex and unexplainable way, but I’ll give it a shot.
+
+Basically, the Bitcoin equivalent of the dollars in an Abra account are borrowed from a broker, sold on to another broker for dollars, and that amount is held in an escrow account. That amount will match the money in your Abra wallet.
+
+If the value of Bitcoin goes down – remember your Abra wallet’s dollars are actually backed by Bitcoin – Abra will add the Bitcoin required to maintain your balance. If you want to withdraw your dollars, Abra will buy the required amount of BTC using the dollars that were initially placed in escrow, to ensure you get all your money back.
+
+As the value of BTC is now lower than when you bought it, your original investment (that was matched in escrow) can buy back the required amount to ensure your original dollars can be withdrawn from your account.
+
+I thought we were supposed to be making cryptocurrency simpler?
+
+Using Abra to invest in stocks
+
+A similar thing happens when you use Abra’s new functionality to invest in stocks too.
+
+Let’s pretend that you decide to invest $1,000 in Apple shares, Abra will place $1,000 worth of Bitcoin pegged against the price of the Apple shares. “As the price of Apple goes up or down versus the dollar, Bitcoin will be added to or subtracted from your contract,” an Abra spokesperson told Hard Fork.
+
+“When you decide to close the contract and sell the Apple investment, the value of the shares will be [reflected] in Bitcoin in your wallet,” they added.
+
+Despite the complexity of what’s going on underneath, profits and losses are dictated simply by whether a share appreciates or depreciates in value. How much profit you make or lose will depend on the specific investment you make.
+
+From a user experience point-of-view, it’s very simple. You put money in, chose something you want to invest in, and wait to see what happens. Hopefully you’ll make a profit.
+
+
+
+In reality, what Abra is offering feels more like what trading apps like BUX or Plus500 provide. It should be noted that most users who invest using these apps lose out. In some cases, investors have lost thousands of times what they originally invested.
+
+While Abra might be taking on the headache of translating complex trading instruments into a simple, easy to understand app which could theoretically benefit users and open a previously hidden world to many people, it’s not without its risks.
+
+This is not trading advice. As with any financial instrument do your own research and consult a registered, independent financial advisor before parting with any money.

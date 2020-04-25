@@ -1,0 +1,15 @@
+DATE:  25.02.2020, 20:23:20
+TITLE: Lightning Dead Man’s Switch Can Be Used to Pass on Bitcoin after Death – Crypto.IQ
+URL:   https://cryptoiq.co/lightning-dead-mans-switch-can-be-used-to-pass-on-bitcoin-after-death/
+
+Bitcoin (BTC) is so decentralized that if someone dies then their Bitcoin (BTC) could be lost forever, unless proper measures are taken to pass the Bitcoin (BTC) on to their inheritors. A decentralized way of sending Bitcoin (BTC) after death is a dead man’s switch which uses the Lightning Network.
+
+Lightning Labs infrastructure engineer Joost Jager has been building a dead man’s switch which uses Lightning Messaging. Essentially, a Bitcoin (BTC) HODLER would set up a service where they have to click a button periodically, such as once per week or once per year, and when they click this button it confirms that they are alive.
+
+However, once they do not click the button it confirms that they are dead, and then a Lightning message is sent to the inheritors with a secret, such as a private key, seed phrase, or where to find the private key/seed, and then the inheritors can redeem the Bitcoin (BTC).
+
+The advantage of this is that the Bitcoin (BTC) never has to go through a trusted 3rd party, and will go directly from the dead Bitcoin (BTC) HODLER to the inheritors.
+
+Further, Joost is focusing on making the Lightning dead man’s switch anonymous for both the sender and the receiver, and also is integrating a way for the sender to figure out if the dead man’s switch is still working properly and holds the secret.
+
+Ultimately, Joost thinks that even better Bitcoin (BTC) dead man’s switches could be developed, and he is just putting this idea out there to inspire other developers to create the best possible dead man’s switch.

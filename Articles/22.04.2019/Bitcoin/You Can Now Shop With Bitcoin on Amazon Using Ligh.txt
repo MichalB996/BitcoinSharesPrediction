@@ -1,0 +1,29 @@
+DATE:  22.04.2019, 13:00:50
+TITLE: You Can Now Shop With Bitcoin on Amazon Using Lightning
+URL:   https://www.coindesk.com/you-can-now-shop-with-bitcoin-on-amazon-using-lightning
+
+Bitcoin spenders can now use the lightning network to shop at e-commerce sites like Amazon.
+
+Crypto payment processing startup Moon announced today that any lightning-enabled wallet can now also be used through Moon’s browser extension. Before this lightning feature, roughly 250 beta users already used Moon to spend crypto on e-commerce sites by connecting the browser extension to exchange accounts like Coinbase.
+
+Moon CEO Ken Kruger told CoinDesk:
+
+“[The extension] will pop up a QR code and it will have the lightning invoice, which you could also copy and paste if you can’t use the QR code for some reason, and you’ll be able to pay with your favorite lightning wallet.”
+
+To be clear, Amazon itself never touches bitcoin. Kruger declined to specify which traditional financial institutions are helping convert the bitcoin to fiat on the backend so that Amazon merchants actually receive fiat currency for their wares. However, Kruger added that by 2020 the lightning-enabled feature should work on almost any e-commerce site, regardless of whether that platform accepts bitcoin directly.
+
+“There’s no direct merchant integration,” Kruger said, clarifying that Moon also manages payment channels and merely offers a simple interface for sending payments.
+
+“We’re integrating with the Visa and Mastercard networks and we get a cut of the interchange fees that merchants pay every time they receive a credit card transaction,” he said.
+
+Moon was founded in New York last year and grew to a staff of three people with just $100,000 invested by the Entrepreneurs Roundtable Accelerator. The accelerator’s managing director, Murat Aktihanoglu, told CoinDesk he sees Moon as one of the “anchor” crypto businesses with lucrative potential over the next five years.
+
+“We invested in Moon as a long-term portfolio company,” Aktihanoglu said.
+
+In the meantime, Kruger said his startup is looking to raise a Series A in 2019 and continue learning from user behavior.
+
+“There’s a lot of opportunities to help solve some of those usability problems and getting people onto the lightning network, increasing adoption in that way,” Kruger said. “We’re going to engage with other folks in the lightning community to see what people are doing, what they’re working on and if there are any significant gaps. We’d love to step in and help whenever possible.”
+
+UPDATE (April 22, 14:10 UTC): The extension’s lightning network functionality is still being reviewed by the Chrome Web Store and is now anticipated to launch on Wednesday, according to Moon.
+
+Moon team image courtesy of the company: (from left) Kemel McKenzie, Ken Kruger and Khurram Kalim

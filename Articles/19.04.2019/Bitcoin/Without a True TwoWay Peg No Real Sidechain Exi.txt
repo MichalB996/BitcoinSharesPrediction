@@ -1,0 +1,43 @@
+DATE:  19.04.2019, 18:15:31
+TITLE: Without a True Two-Way Peg No 'Real' Sidechain Exists, Says Drivechain Creator
+URL:   https://news.bitcoin.com/without-a-true-two-way-peg-no-real-sidechain-exists-says-drivechain-creator/
+
+Without a True Two-Way Peg No 'Real' Sidechain Exists, Says Drivechain Creator
+
+On April 17, the founder of the Drivechain project, Paul Sztorc, published a new blog post concerning the validity of today’s so-called ‘production sidechains.’ Sztorc has declared on multiple occasions that true sidechain technology hasn’t been invented yet and even Blockstream’s Liquid protocol, dubbed “the first production sidechain,” in a critical sense is not a ‘real’ sidechain.
+
+Also read: Statistics Show Bitcoin Cash Is a Strong Contender After Crypto Winter
+
+Paul Sztorc Questions the Validity of the Supposed ‘First Production Sidechain’
+
+Over the last year, there’s been a lot of discussion concerning sidechain technology and the conversation intensified when Blockstream released its Liquid protocol. The project is considered to be a sidechain that’s interoperable with the BTC network, but since the day it was launched has been criticized for its method of consensus called ‘federated distribution.’ Critics believe the federated distribution model is not really ‘peer to peer’ as it relies on a large group of exchanges and fancy multi-signature technology in order to provide trust.
+
+Because of the injected orthogonal trust Blockstream created, Liquid critics believe there’s nothing new or exciting to a consortium of exchanges acting as the custodians for an entire sidechain system. Paul Sztorc is a critic of Liquid and he’s also the creator of an alternative sidechain project called Drivechain. On Wednesday, Sztorc wrote a blog post that questions the validity of Liquid being a ‘real’ sidechain, adding that a recent quote from Blockstream developer Greg Maxwell solidifies his argument.
+
+“Blockstream markets Liquid as ‘the first production sidechain,’” Sztorc details, sharing multiple links where this statement is highlighted on the web. “But I think that something in that phrase has to be false. Either Liquid isn’t a sidechain; or else (if sidechain is redefined) then Liquid isn’t ‘the first’ of that thing.”
+
+The reason Sztorc feels Liquid is not really a sidechain is because a two-way peg is a fundamental feature of sidechain technology and since Liquid never invented a two-way peg technique, Sztorc has “never seen it as a real sidechain.” One key factor that shows Liquid’s lack of this feature is the fact that Liquid does not enable the ability for third parties to develop a permissionless sidechain.
+
+Sztorc’s paper explains that an individual couldn’t create a sidechain token similar to Bitcoin Cash and Rootstock cannot use Liquid to create an Ethereum clone. Moreover, the Drivechain developer says that the technology used in Liquid is old tech that’s been on the go for years. For instance, multi-signature has been used for thousands of years, Sztorc’s blog post highlights, and not only that, but multi-sig has been applied to BTC since 2012. Additionally, the researcher notes that other features found in Liquid have also been used in the past by other projects. Sztorc’s post continues:
+
+I struggle to understand the claim “first production sidechain” — On one hand, it suggests novelty and innovation. But the reality is that Liquid is not particularly novel (even if there is a lot of engineering behind it).
+
+Liquid Does Not Use a ‘True’ Two-Way Peg so in a Critical Sense It’s Not a ‘Real’ Sidechain
+
+In addition to Sztorc’s critique, his argument is bolstered by Greg Maxwell’s own words. Sztorc underlines a specific quote made by Maxwell during a presentation on the subject of sidechains. “We describe this mechanism called a federated peg, that is a sort of step-in alternative to the true two-way peg mechanism, that works without any changes at all in the hosting network,” Maxwell stated during the presentation. In Sztorc’s opinion, Maxwell’s words make it “crystal clear” that the federated peg is “undesirable.” It seems the federated model was the easiest way for Blockstream to produce the interoperable chain design but Liquid is still forced to add a second layer of trust that’s provided by a group of ‘trusted’ exchanges. The “not your keys, not your bitcoin” adage underscores the idea that Liquid’s model and others like it look no different than custodial solutions with some clever multi-signature technology.
+
+“The only reason [a federated peg] is used, is because of a lack of “native support” for “true two-way peg” technology,” Sztorc’s paper concludes. “Since the Fed Peg is an alternative to a “true” two-way peg, then what is it? A non-true two-way peg — a false two-way peg — So, Liquid does not use a “true” two-way peg and in that critical sense is not a “real” sidechain.”
+
+Drivechain Development
+
+The Drivechain (DC) developer and a group of other blockchain engineers have been steadily developing the DC project and recently released Drive Net 22. A key difference between DC and a federated method is the project uses the trust model that already resides within the bitcoin network — mining consensus. Sztorc and other DC proponents believe that blind merge miners acting as custodians would be the least problematic solution. One way to look at it is with every block mined, merge miners vote on the sound state of the secondary chain.
+
+This contrasts sharply with a federated two-way peg model that some believe is no different than EOS or XRP. DC supporters think that Drivechain would alleviate threats to the main chain by lessening the need for hard forks and altcoins. Hashrate would essentially remain consistent and there would be less fear of miners leaving the main chain. Moreover, the main chain could essentially scale to handle the entire globe and be able to experiment with new features without affecting the main chain.
+
+Critics think that Liquid, on the other hand, cannot offer these features of experimental sidechains and the business model seems to be more focused on speedy transfers between exchanges, wrapped assets, and purported confidential transactions. Even so, the company seems hellbent on providing this type of interoperable chain, even though engineers have told them the security model may encounter issues in the future. The fact is, federated pegged funds can most definitely be breached if any members of the federation are compromised. If, for instance, ‘X=7’ keys are attacked then funds can be stolen which makes a group of ‘trusted functionaries’ no different than the current banking system used today.
+
+What do you think about Sztorc’s criticism of Liquid? Do you think Liquid is a real sidechain? Let us know what you think about this project in the comments section below.
+
+Image credits: Shutterstock, and Twitter.
+
+At news.Bitcoin.com all comments containing links are automatically held up for moderation in the Disqus system. That means an editor has to take a look at the comment to approve it. This is due to the many, repetitive, spam and scam links people post under our articles. We do not censor any comment content based on politics or personal opinions. So, please be patient. Your comment will be published.

@@ -1,0 +1,79 @@
+DATE:  22.08.2019, 17:15:58
+TITLE: Two cryptos Weiss claims are better than Bitcoin
+URL:   https://decrypt.co/8647/weiss-better-than-bitcoin
+
+Bitcoin’s share of the market has never been bigger, but cryptocurrency ratings company Weiss Ratings claims there are at least two cryptocurrencies that it finds much more exciting.
+
+In its regular mail out, the Weiss team is hawking a video, “3 Cryptos Better Than Bitcoin.” But you need to be a subscriber to actually find out what they are. Decrypt brazenly asked them to spill the beans.
+
+Juan Villaverde, who leads the Weiss Ratings team of analysts and computer programmers, began with a qualifying statement: “Our position is that there are several distributed ledgers (“coins”) that have more advanced technology than bitcoin’s. However, that may not necessarily make them better than bitcoin overall.”
+
+So, perhaps, not better after all?
+
+Villaverde went on to explain that the company’s ratings look at four major areas— technology, adoption, risk and reward in order to establish a rating. And, while Bitcoin leads in terms of adoption, currently other distributed ledgers merit higher technology scores. Those two projects are Fantom, a distributed ledger platform based on DAG—Directed Acyclic Graph—technology (which is also used by IOTA and Hedera Hashgraph) and Cardano, a smart-contract platform that aspires to be a new and improved version of Ethereum.
+
+Here’s a deeper dive into the sea of tech that Weiss navigated in order to reach its decision about why, on the technological front at least, they trump Bitcoin.
+
+Fantom
+
+Fantom, says Villaverde, “is pioneering a novel way to reach consensus in a distributed network.” To further elucidate, he pointed us to the company’s recent review of the cryptocurrency it sent out to paid subscribers.
+
+Weiss claims that the project is “blazing a new trail that could substantially change the way distributed ledgers are built in the future,” and many features it already incorporates are only now starting to be researched by major competitors such as Ethereum or EOS.
+
+Fantom is a proof-of-stake blockchain, employing a Practical byzantine-fault-tolerant-derived (pBFT) consensus mechanism, an optimization of the original solution. (For more on pBFT, see here.)
+
+According to its review, what particularly impresses Weiss about Fantom are two factors connected with this technology.
+
+The first is “finality in transactions.” With cryptos like Bitcoin, while the likelihood that a transaction will be reversed is small, “no transaction is ever irreversibly final,” says the Weiss review. By contrast, once Fantom approves a transaction, it's final and irreversible.
+
+Secondly, Fantom makes it possible to perform multiple simultaneous transactions, whereas on conventional blockchains like Bitcoin, only one new block can be written at a time. This, explains the Weiss review, creates a bottleneck.
+
+“On Fantom, multiple new transactions can be written simultaneously by multiple validators. This gives it the potential for formidable processing speed,” says the review, while also allowing for increased decentralization and therefore better security.
+
+Fantom is also built to easily handle Ethereum-style smart contracts, “but without any of the bottlenecks and other limitations that have famously plagued Ethereum,” adds the review.
+
+In essence, the Fantom protocol allows—and even encourages—validators to produce as many blocks they can, as fast as they can. The only real limit is the volume of transactions submitted by users on the network.
+
+But while multiple blocks are formed, “signed” with the amount of Fantom’s native tokens (FTM) that the validator holds, and information shared, the only transaction information shared by all network participants is contained in Fantom’s so-called “Main Chain.” It’s comprised of so-called “super-blocks” (termed “Atropos”) that are signed by two-thirds of the FTM (the holdings of those “signing” must amount to at least two thirds of the total currency held) that's been staked in the Fantom system.
+
+It’s this feature, in particular, that Weiss believes “creates the potential for a breakthrough competitive advantage: It allows the network to execute different processes in parallel. It opens the door to division of labor. And it makes it possible for certain groups of validators to specialize in processing different types of transactions.”
+
+Weiss points out that the technology, while promising much, is still largely experimental, which means that roadblocks and limitations are, as yet, hard to spot. But it adds that the team are offering rewards to anyone who can hack the system, to bring flaws to the surface prior to the launch of the Mainnet.
+
+However, there is one area where the project is vulnerable, says the review: low adoption, and a correspondingly low market cap, which increases its vulnerability to attack.
+
+Cardano
+
+“Cardano, has always impressed us with the high quality of all the elements that contribute to a robust Proof-of-Stake blockchain-based ledger,” Villaverde told Decrypt.
+
+Weiss provided us with its review of the project. Cardano, it says, is “one of the most complex of all the cryptos.” But, “what most sets it apart from the crowd is the way developers are going about building it out.”
+
+The Cardano team, according to the review, avoid hype; submit serious conference papers and get them peer-reviewed; upload detailed videos on how each new feature is to be implemented, clearly disclosing any challenges, and provide an ETA for actual deployment on the live network.
+
+This attention to detail, and getting things right before putting them live, is welcomed by Weiss as becoming of a platform that “aspires to provide critical infrastructure to the global financial system.” It’s in sharp contrast to the fast-and-loose mentality of most of the crypto industry, says the review.
+
+Virtually everything about Cardano is of much higher quality than other cryptocurrencies, and that includes the top-level mathematicians, engineers, and computer scientists working on the project, says the review “No other crypto we know of comes close to marshalling the same level of brain power.”
+
+Weiss believes the Cardano team have taken the original delegated Proof-of-Stake concept and improved it.
+
+For instance on Cardano and unlike EOS, voting is incentivized and rewarded with newly minted cryptocurrency. Participants can also pool their stakes to run a validator and then split the profits proportionately among themselves.
+
+The review also contends that Cardano has improved on Ethereum-style smart contracts by completely separating them from the ledger's all-important “settlement layer.” This, it says, means the system is simpler and more robust and “almost crash-proof.”
+
+The ratings agency points out that it has only seen preliminary information on the project’s governance, “but what we’ve seen looks encouraging,” it adds, with positives including staged voting and guaranteed secrecy.
+
+The modular design of the protocol is also praised, with advantages that include freedom for developers to innovate securely.
+
+But, naturally, such high standards have a flip side, and the review highlights three of Cardano’s current challenges: usage is low—the ledger presently runs a mere 3,000 transactions per day; a speed of only 250 transactions per second makes Cardano "one of the slower Proof-of-Stake ledgers” and the network is centralized—the founding company, for now, controls all the nodes, so it can’t really even call itself a distributed ledger.
+
+Weiss also highlights Cardano’s poor price performance but insists that its token, ADA “still holds its head above average. And with improving prices, could merit an upgrade in the near future—a testament to the technology and development team.”
+
+Where’s number three?
+
+The eagle-eyed will have spotted that the Weiss video is titled “3 Cryptos Better Than Bitcoin,” so what’s the third? We’re not sure, as Weiss plans to release that information to paid subscribers first.
+
+One currency we’re certain it’s not is Nano. The rating agency’s less than complimentary review of the project recently caused it to come under fire from the Nano community (Weiss published a post with its response.)
+
+In that light, Villaverde’s qualifying remarks, before he answered our question, would seem perfectly sensible.
+
+This article was updated to clarify the section about delegated Proof-of-Stake.

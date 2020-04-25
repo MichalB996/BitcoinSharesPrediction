@@ -1,0 +1,69 @@
+DATE:  21.01.2020, 18:00:32
+TITLE: Bitcoin technology: What's coming in 2020?
+URL:   https://coinrivet.com/bitcoin-technology-whats-coming-in-2020/
+
+Bitcoin has been accused many times in the recent past of lacking innovation and quality developers working on its core protocol.
+
+However, if you look at what’s going on under the hood, you’ll see a great deal of exciting new features have been added over the last few years, with even more scheduled for this year.
+
+For example, last year, blockchain technology company Blockstream released Miniscript, a new scripting compiler for Bitcoin that aims to improve its programmability without compromising security.
+
+Recent technology proposals include Schnorr signatures (a new signature scheme), MAST (a brand new Merkle tree data structure), and Taproot, which offers a way to allow all participants to agree on an outcome and sign off on a settlement transaction.
+
+These three developments alone would greatly improve Bitcoin’s fungibility and privacy-preserving functions.
+
+In this article, I will discuss how these technologies work and what we can expect from Bitcoin after they have been implemented.
+
+MAST
+
+MAST, or Merkelised Abstract Syntax Trees, provides the ability to lock BTC using P2SH in different scripts all linked to the same Merkle tree.
+
+This technology was developed by Blockstream developers Russell O’Connor, Peter Wuille, and Peter Todd.
+
+P2SH, or Pay to Script Hash, simply lays out a path to create an address which contains a script. You lock up your BTC in a script (output) that can be unlocked by the right key (hash).
+
+A script is nothing more than a list of instructions recorded with each transaction that describe how a peer may unlock those Bitcoins.
+
+A Merkle tree is essentially how Bitcoin’s data structure technology has been designed. It is a mathematical structure that hashes different sets of data into a single hash.
+
+MAST is essentially P2SH combined with Merkle tree technology.
+
+With MAST, the same set of Bitcoins (one input) can then be linked to many scripts containing different conditions for unlocking those Bitcoins.
+
+Essentially, MAST extends Bitcoin’s smart contract flexibility, improves scalability, and increases privacy.
+
+Taproot
+
+Taproot creates signature outputs which contain instructions about what happens when conditions are met.
+
+Essentially, Taproot technology adds similar smart contract-like functionality within the Bitcoin network. Users can add logic to transactions through scripts that are outputted as simple payment transactions.
+
+Taproot is best used with the P2SH functionality as it reveals only the part of the script you’re going to use under the assumption that you’re going to split your script into a collection of disjunctive statements.
+
+It allows for the signees to only reveal a log scale number of branches. This gives users considerably more privacy and increases scalability as no extra storing requirements are needed.
+
+Taproot technology works to make Bitcoin transactions look exactly the same on any blockchain explorer, making it impossible to tell the difference between transactions and therefore boosting Bitcoin’s privacy considerably.
+
+As you can imagine, Taproot makes use of Schnorr signatures by aggregating a number of signatures into a single signature. It is therefore the perfect link between Schnorr signatures and MAST, as explained by Greg Maxwell, the developer behind Taproot.
+
+If you’re not familiar with Schnorr signatures, let me explain why this new signature aggregation scheme is so exciting.
+
+Schnorr signatures
+
+Schnorr is a new signature aggregation scheme that uses Bitcoin’s technology in a quite spectacular way.
+
+In order to combine all the transaction inputs’ signatures into one, we don’t need a multisignature scheme, but rather an aggregate signature scheme.
+
+The distinction is simply that in an aggregate signature scheme, each signer has their own message rather than one message shared by all.
+
+Schnorr signatures do not release any information about the inputs when a verifier looks at the signature key. Therefore, a transaction output would look like a regular address to all outside viewers.
+
+The only people capable of unlocking scripts within the address would be the owners of the private keys.
+
+With Schnorr signatures and signature aggregation technology, it becomes possible to create smart contract functionality.
+
+Logic that contains “if this/then that” can be linked to the signature spending conditions.
+
+Finally, Schnorr signatures are easily verifiable and offer a greater degree of robustness, correctness, and flexibility when compared to traditional ECDSA signatures.
+
+Will these new features be added to Bitcoin via soft forks throughout 2020 and 2021? Let’s hope so.

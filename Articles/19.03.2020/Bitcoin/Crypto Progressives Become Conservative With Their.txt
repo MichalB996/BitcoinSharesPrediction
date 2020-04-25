@@ -1,0 +1,60 @@
+DATE:  19.03.2020, 09:00:00
+TITLE: Crypto Progressives Become Conservative With Their Own Chains
+URL:   https://www.coindesk.com/crypto-progressives-become-conservative-with-their-own-chains
+
+CoinDesk columnist Nic Carter is partner at Castle Island Ventures, a public blockchain-focused venture fund based in Cambridge, Mass. He is also the cofounder of Coin Metrics, a blockchain analytics startup.
+
+Most burgeoning crypto enthusiasts go through a phase in life where they think to themselves: “Bitcoin is neat, but it would be so much better if it could just do x and y?” At this point, they either decide to hop aboard a new blockchain project (typically seeking to own a larger fraction of the supply than the share of bitcoin they own), or they reject the notion and stick with bitcoin.
+
+I’ll call this former group (it could be better) "crypto progressives." Like political progressives, they are interested in making changes to society, unsatisfied with the status quo.
+
+Crypto progressives often wonder why Bitcoiners are interested only in bitcoin (BTC), given that so many apparently technically superior alternatives exist. How could they possibly ignore a dizzying buffet of alternatives? The crypto progressive sometimes accuse Bitcoiners of falling prey to the endowment effect, of refusing to budge because of their established stake in the Bitcoin system. And indeed, there are significant transaction costs involved with taking one’s bitcoin wealth and embracing a new blockchain. But this is not the chief reason for rejecting alternatives.
+
+Bitcoiners tend to resent the accusation that their adherence to a sole project is merely contingent – a historical coincidence which they clung to out of habit. When pressed, they typically refer to one of two main justifications:
+
+1. Bitcoin is the sole instantiation of a set of political and economic conditions for a successful monetary project. In a sense, Bitcoin fulfilled requirements it may have already had for a successful monetary alternative, and it was only in 2009 that these requirements were met.
+
+2. Monetary goods rely on network effects by design; once a market leader is established, efforts at fragmentation are counterproductive.
+
+I tend to think the first set of arguments is persuasive on its own. Bitcoin prides certain important qualities that other alternatives jettison, and is genuinely unique in this way. This is not to say that other protocols are without merit but they generally opt for different tradeoffs, tending to prioritize innovation over institutional stability. Some of bitcoin’s underlying principles include:
+
+A strong regard for property rights, manifesting itself in a predefined monetary schedule with no discretion, a commitment to cheap validation, easily concealable information as keys to one’s assets and the minimization of Cantillon insiders – i.e. people who can monetize their proximity to the money spigot.
+
+A development philosophy that stresses the opt-in nature of significant change. Hard forks are de-emphasized and soft forks encouraged. This allows the protocol to resist arbitrary change and protects the asset from expropriation, especially in a covert manner.
+
+A "governance" regime in which power is divided among developers, miners and economic node operators, with no group having sole discretion over changes.
+
+Fairness in issuance and an absence of seigniorage (more precisely, a free market for seigniorage, meaning that miner margins are generally slim), enabled by Proof-of-Work.
+
+There’s other ways to describe the economic and political nature of bitcoin, but I would posit these as the most important. If you think values are important in the design of a monetary system, you are a Bitcoiner out of deliberate choice, not contingency. But there’s an even more persuasive argument to be made against mutinous alternatives. It is the logical incoherence of crypto progressivism.
+
+
+
+Crypto progressivism
+
+This is the idea that, if you replace a monetary standard and propose your own, you have no reasonable grounds to defend against someone else’s rebellion over your standard, and their campaign to replace it with their own. And so, if you commit to the permanent revolution, you end up with a recursive situation where no stable monetary standard is ever selected.
+
+Hal Finney was perhaps one of the first Bitcoiners to ever make this point. In a comment on Bitcointalk in 2011, he pithily explained the issue with crypto progressivism:
+
+Hal Finney on Bitcointalk.
+
+“Any successful replacement of the Bitcoin blockchain will forever undermine the credibility of any successor. How is an investor to know that it won’t happen again?
+
+Rebooting now may benefit a few thousand early adopters. What happens when hundreds of millions use Bitcoin 2? They’ll be just as jealous and envious of you as you are of others. Given the precedent you want to set, how will you argue against yet another reboot?”
+
+Interestingly, Hal was responding to a thread (written in May 2011, when the price of bitcoin was about $8) suggesting the stash of coins Satoshi Nakamoto and others mined early in 2009 constituted a "tax" on late adopters, and agitating for a relaunch of bitcoin.
+
+Hal understood that if one’s objection to bitcoin was the empowerment of early adopters this would be a problem for all other would-be replacements. Interestingly, the circumstances of bitcoin’s birth were rather favorable as far as distribution is concerned. Satoshi appears to not have claimed his million or so coins. Many cheaply acquired coins from that era are lost. And due to the lack of a pre-mine and the presence of PoW, everyone who earned coins had to pay market price for them (either at an exchange or with electricity).
+
+It’s an inescapable reality that the rise of any novel monetary system – which entails demonetizing an existing Store-of-Value asset in favor of a new one, as has happened countless times in history – will benefit those earliest to make the switch.
+
+This is the case, for example, in dollarization events, when it is those who are earliest to desert the local currency that benefit from favorable exchange rates, to the detriment of their laggard peers. So monetary transitions involve wealth redistribution by their very nature. So far, we have not devised a means to take a snapshot of the distribution of wealth and replicate it in a new monetary medium. The more pressing questions to me are: how frequently should we churn monetary systems? And how much better must a successor be, to justify replacing an established one?
+
+Those who style themselves crypto progressives when rejecting the orthodoxy almost inevitably become crypto conservatives as they settle on a system they like.
+
+The example of Ethereum is telling. Ethereum initially competed with Bitcoin on features such as a more expressive base layer, theoretically cheaper transactions, greater throughput, and a commitment to rapid innovation. But when other blockchains like EOS came about and took these ideas to their extreme (by compromising on validation costs, EOS offers more block space than Ethereum), most Ethereans did not desert their blockchain in favor of the newcomer. Even though they had justified their initial rejection of bitcoin with recourse to the exact same language that EOS fans were now using to renounce Ethereum, they for the most part held firm, making reference to the growing network effects in the Ethereum infrastructure that had been built so far. And this was a reasonable retort! From a societal perspective, it is costly to upend an established system every few years.
+
+So, those who style themselves crypto progressives when rejecting the orthodoxy almost inevitably become crypto-conservatives as they settle on a system they like. Therein lies the paradox. Now I am not suggesting that novel alternative blockchains that explore the tradeoff space are illegitimate. Rather, their proponents should admit that they are simply positing a different set of values to those espoused by established blockchains, rather than blandly touting their improved feature-set and assuming that users will make the switch.
+
+Monetary systems are fraught and political by their very nature, and coaxing users away is a matter of convincing them to upend an established institution that they have come to trust. The permanent revolution gets tiresome. Most people eventually want to settle down and cultivate their own garden.
+

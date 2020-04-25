@@ -1,0 +1,109 @@
+DATE:  04.03.2020, 09:51:50
+TITLE: How Bitcoin SV will control the new data economy
+URL:   https://coingeek.com/how-bitcoin-sv-will-control-the-new-data-economy/
+
+The use of data on Bitcoin will not only be a technical decision, it will be an economic decision. The new disruptive use cases that will arise opens up new markets for users and businesses looking to utilize the benefits of storing and retrieving data on the blockchain.
+
+To have such an ambitious goal to disrupt every single industry by aiming to have every bit of data on chain, it is important to know that the value of storing data on the blockchain is derived from using one single global ledger like how there is only one internet. Having information on multiple ledgers not only makes this data fragmented, but it also destroys the economic security model that incentives miners to earn a profit which keeps the network secure.
+
+This is also the driving factor in keeping the costs predictably low, and continuously dropping as the ledger grows in transactional throughput and density.
+
+Which version of Bitcoin can handle being the entire new economy of data?
+
+Here are the technological metrics of the following three Bitcoin blockchains that share the same genesis block and proof of work mining algorithm required by miners to secure the network.
+
+BTC BCH BSV Hashing function SHA-256 SHA-256 SHA-256 Blocksize 1 megabyte 32 megabytes Unlimited OP_RETURN data capacity 0.08 KB
+
+(80 bytes) 0.22 KB
+
+(222 bytes) 100KB
+
+(100000 bytes) Tx/second maximum capability 7 160 10000+ Average daily transactions (February 2020) 325,502 43,892 588,384 Average daily transaction fee (February 2020) 0.68 USD
+
+(0.00007883 BTC) 0.0046 USD
+
+(0.00001463 BCH) 0.00054 USD
+
+(0.00000243 BSV) Median daily transaction fees (February 2020) 0.31 USD
+
+(0.000036 BTC) 0.00088 USD
+
+(0.0000027 BCH) 0.00024 USD
+
+(0.00000109 BSV)
+
+Bitcoin SV (BSV) wins not only in all technical capabilities, but judging by the metrics from the most recent month of February it shows that it is the most frequently used and remains the cheapest by far.
+
+This chart shows the trajectory of scaling Bitcoin has been on since its inception in January 2009. BTC Core did not continue to increase the block size which lead to stagnation and now averages a daily block size of 800KB. In August 2017, BCH emerged to preserve the protocol, has also failed and stagnated averaging 100KB per block. This is due to their inability to know how to scale, which has led to their developers becoming central planners by ruling data use cases to be spam.
+
+Since its emergence, Bitcoin SV has seen unprecedented upwards trajectory of growth in just over 12 months and now has a daily average block size of 1600KB and the size is rapidly increasing.
+
+Now that BSV has restored the protocol and removed the limits, work is being done on Teranode to prepare to scale towards terabyte sized blocks and beyond.
+
+BSV is no longer competing with other blockchains for capturing data on-chain and has sets its sights on disrupting all the existing business models in the world today.
+
+Let’s take a look at the possibilities that can arise from having data stored on chain.
+
+Immutable, secure and serverless data storage forever
+
+Cloud based storage services were the next logical transition to move away from physical based storage servers, but they both still share similar limitations, liabilities and risks associated with loss, theft by hackers or having alteration of data.
+
+From startups to large organizations, they will no longer need to worry about the liability that comes from storage costs of customer’s data and all the upkeep that is involved with ensuring this is secure. This becomes an enormous overhead even for established companies, and a huge barrier for entry for those looking to get off the ground. Organizations can now outsource this capability to the blockchain, which is safely encrypted without a central point of failure, and will save a lot of costs in the process.
+
+Data can be securely recorded onto the blockchain whilst remaining decentralized, encrypted and timestamped. The information cannot be altered and is distributed and continually reconciled amongst nodes on the network.
+
+Think about any file that you want to exist on the ledger for the next 100, or even 1,000 years.
+
+There will be a cost for doing so, but that cost will be the peace of mind of having it timestamped and immutability stored on the blockchain forever.
+
+This can also influence human behaviour of what we choose to put on-chain as we will be digitally signing the transactions of what we decide to store forever on the ledger which makes us more accountable. This completely changes the landscape of digital artifacts that will be available for future centuries to come, therefore propelling the trajectory of humanity towards light as the blockchain will continue to evolve into a truth machine.
+
+No more alteration of history or records. No need to worry about hackers taking down information. No need to be concerned if a company goes bust and you lose all your valuable data with them.
+
+As the entire blockchain continues to grow in size, this also opens up a new market for specialized mining nodes who can provide a service to host these large files and charge fees for the immutability and retrievability of this data. The beauty of the free market is that competition and continuous price discovery will determine what the fees should be between consumers and businesses.
+
+Privacy, ownership and monetization of personal data
+
+Large entities like Google, Amazon and Facebook know a lot about you and not only sell that information away, but use that information against you to sell you more and profit from third parties like advertisers in the process.
+
+This valuable information has a price, and up until now there has been no way to be able to securely have control of your own information. Now that your personalized data can be stored in an encrypted manner on the blockchain where you own the private keys, you are no longer the product. If you choose you can sell your personal information, or segments of this information and companies will no doubt be happy to pay you for this information directly because as it has shown today that it is extremely valuable to them and they are paying corporations for your information already.
+
+Ownership of your data also means easy interoperability between different applications and services. If the company you have chosen to use as a portal to Bitcoin goes down or you no longer wish to use their services, as you own your private keys then you will be able to move to a competing company seamlessly. Whether it is social media platforms, storage services or any other media related service. This incentives companies to compete to build the best applications and services for their customers.
+
+New business models that will disrupt the giants of today
+
+Cloud services, content delivery networks, website hosting, streaming services, social media, advertising, search engines, electronic data interchange (EDI), identity management, the list goes on. As is such the power of Bitcoin that it will disrupt all of these industries and existing enterprises will have to adapt if they want to compete with new entrepreneurs who have already decided to leverage the technological capabilities and economic models that Bitcoin provides.
+
+Microtransactions for internet usage that could be as little as a fraction of a cent, measured in pay per click, pay per use, or pay per seconds viewed that will go directly to content providers will be the way moving forward.
+
+Companies who offer these services will still be able to earn microtransactions for providing these services, however the existing advertisement model where the user is the product will be gone. At volume, all parties will be enriched in wealth, time and most importantly be provided with a higher quality experience in the process.
+
+Metanet is the successor to the internet
+
+The Metanet seeks to disrupt the failures of the internet today and create an alternative version which is a value-based and incentivized worldwide internet of data.
+
+It will provide new ways to distribute information between users and enable new e-commerce business models that are not possible today as it has the capability of performing microtransactions. This can allow users to earn instant micropayments based off clicks, time or for adding value in any way.
+
+The ambition and enormity of this use case where every single digital interaction can be a transaction that is recorded on the BSV blockchain can only be possible with a technology that has unbounded scaling limits, can handle the amount of transactional throughput required transactions per second, is scalable and remains extremely low cost.
+
+Patents tie all of this together for enterprises to focus on building
+
+The final piece to the puzzle to be able protect the Bitcoin protocol against copying competitors will play an important role in providing peace of mind for those entrepreneurs looking to commit to building their businesses with a long-term view in mind.
+
+nChain has built an impressive number of blockchain patents over the past few years working silently in the background. With approximately 200 patents already granted and 800 applications pending, nChain are intending to use the largest blockchain patent portfolio amounted by any entity to solely benefit the BSV ecosystem.
+
+“By the time my current list finishes, the 1450 papers that I have already lodged, the company will end up with around 6000 patents.” – Dr. Craig S. Wright
+
+This is important for anyone looking to build an enterprise level application as they will want to remain regulatory compliant and to not be impacted by any future infringements that will disrupt their business.
+
+The definition of what a microtransaction is will continue to evolve
+
+With over half a million transactions in the month of February 2020, the median transaction fee was 1/40th of a cent. With Teranode being worked on by the team at nChain, with the ambitious goal to have the capacity of handling millions of transactions per second.
+
+The more Bitcoin scales, the more transactional volume that is recorded on the ledger, the cheaper it gets for everyone. The costs of microtransactions will continue to decrease providing more granularity that will open up a plethora of new use cases for data that our minds cannot comprehend or conceive yet.
+
+The creative entrepreneurs of the world will be provided incredible opportunities that have not been possible before. And all of us as users will have complete control of our data again.
+
+Bitcoin SV will control the new data economy. No such technology has ever existed like it before. It is only possible because of the economic incentives to make all of this a reality have already been baked into the protocol.
+
+New to Bitcoin? Check out CoinGeek’s Bitcoin for Beginners section, the ultimate resource guide to learn more about Bitcoin—as originally envisioned by Satoshi Nakamoto—and blockchain.

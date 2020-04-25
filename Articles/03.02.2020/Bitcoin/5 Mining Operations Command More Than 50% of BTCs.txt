@@ -1,0 +1,35 @@
+DATE:  03.02.2020, 22:35:11
+TITLE: 5 Mining Operations Command More Than 50% of BTC's Network Hashrate
+URL:   https://news.bitcoin.com/5-mining-50-btc-hashrate/
+
+5 Mining Operations Command More Than 50% of BTC's Network Hashrate
+
+The cryptocurrency community has been discussing mining centralization after a report was published that disclosed five mining operations command more than 50% of the BTC hashrate. At the time of publication, between F2pool, Poolin, Btc.com, and Antpool, the pools are hashing more than 59% of the BTC network hashrate.
+
+Also read: Bitcoin Verde’s New Project Aims to Promote Bitcoin Cash Node Diversity
+
+Data-Driven Report Says BTC Hashrate Distribution Is Centralized
+
+On January 31, researchers from the firm Tokenanalyst published a report entitled “Centralisation in Bitcoin Mining: A Data-Driven Investigation” which covers the BTC hashrate distribution in 2020. The latest Tokenanalyst study stresses that BTC is decentralized and a trustless system, but researchers believe hashrate distribution is quite centralized.
+
+“In 2020, bitcoin has also become a highly centralised system that places an increasing amount of trust in a small number of large entities,” the report notes. Not only is the mining landscape “dominated by a small number of entities,” but Tokenanalyst also thinks “a few large crypto exchanges” dominate the industry as well. Tokenanalyst analyzed 276,000 distinct addresses that have received coinbase rewards and they “meticulously” QA’d their metrics and found 148,000 miner addresses “across the whole history of the bitcoin blockchain.”
+
+“Of these 148k labeled addresses only 6.3k have ever received a coinbase reward,” the report details. “The other addresses are used by miners for other purposes, such as internal routing and change wallets to facilitate payments to mining pool participants.” The report continued by adding:
+
+Of the 276k addresses that ever received coinbase rewards, 270k are unlabeled, and of these, 225k addresses (81.5% of the total) were only ever used once. Of the 6.3K labeled addresses that received block rewards, just 517 addresses received block rewards on more than 1 occasion (0.2% of the total). However, these 517 addresses are responsible for receiving a vast proportion of the block rewards in recent years.
+
+The Stratum Protocol and Joining Smaller, Independent Pools
+
+Tokenanalyst researchers detailed that the firm Bitdeer, a company that sells customers hashrate, leverages the five unique pools to do so. Currently, Bitdeer utilizes the top five mining operations hashing on the BTC network — Antpool, Btc.com, Btc.top, F2pool, and Viabtc. “On 27th January 2020 these 5 mining entities controlled 49.9% of the hashrate of the bitcoin network,” the study reveals. “Collaborating and cooperating would allow involved mining pools to hedge against risk — the risk of a single mining facility going offline, the risk of customers switching between pools, the risk of energy price fluctuations in particular regions,” the Tokenanalyst researchers insist.
+
+A few BTC supporters are not too concerned with the current mining pool distribution situation and they believe the network will work itself out. There have been discussions of fixing the problem with a mining protocol called Stratum v2 as well, which allows software users to choose which BTC transactions get mined.
+
+Tokenanalyst believes the “original model of bitcoin mining was to have a large number of independent miners which would make it all but impossible to attack the network by reversing bitcoin transactions.” So the researchers are telling the public to research the number of pools within the industry and to search for independent mining operations.
+
+“Do your research before you connect your hardware to a pool, or pay for a hashrate plan on a particular pool,” Tokenanalyst’s report concludes. “Joining a more independent mining pool or a pool with a smaller proportion of the hash rate will help ensure the integrity of the network.”
+
+What do you think about Tokenanalyst’s report that covers BTC hashrate distribution and dominant mining operations? Do you think it is concerning or do you think the network will work itself out over the long run? Let us know what you think about this subject in the comments section below.
+
+Image credits: Shutterstock, Blockchain.com, Stratum website, Tokenanalyst, Fair Use, Wiki Commons, and Pixabay.
+
+Did you know you can earn BTC and BCH through Bitcoin Mining? If you already own hardware, connect it to our powerful Bitcoin mining pool. If not, you can easily get started through one of our flexible Bitcoin cloud mining contracts.

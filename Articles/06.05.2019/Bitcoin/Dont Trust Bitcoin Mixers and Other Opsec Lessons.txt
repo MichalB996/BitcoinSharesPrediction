@@ -1,0 +1,47 @@
+DATE:  06.05.2019, 15:05:22
+TITLE: Don’t Trust Bitcoin Mixers and Other Opsec Lessons From the Darknet
+URL:   https://news.bitcoin.com/dont-trust-bitcoin-mixers-and-other-opsec-lessons-from-the-darknet/
+
+Don’t Trust Bitcoin Mixers and Other Opsec Lessons From the Darknet
+
+When darknet markets are shut down these days, the arrests don’t generate much fanfare. There’s a day of press at best, and then the media moves on to bigger stories, leaving the fate of the DNM operators unreported as their case grinds through the courts. This is a shame, as the indictments for the accused reveal valuable insights into how law enforcement caught their quarry, providing opsec lessons that every bitcoiner should take to heart.
+
+Also read: Europol Claims New Scalps – Chaos as Darknet Markets are Downed
+
+Opsec Lives and Dies on the Darknet
+
+You don’t have to be operating a multi-billion-dollar darknet market (DNM) to require privacy. Maintaining anonymity, or at least pseudonymity, when operating online is an aspiration that everyone should harbor, cryptocurrency users especially. Even if you’ve no desire to launder cash or sell copious quantities of cocaine for crypto, there’s a plethora of reasons to hide your online activities.
+
+If you’re wondering how much data you leak simply by sending or receiving cryptocurrency, or transacting on a darknet marketplace, last week’s Wall Street Market (WSM) indictments provide the perfect case study. Buried in these criminal complaints are opsec lessons that should give everyone pause for thought, whether you’re the next Dread Pirate Roberts or simply a staunch libertarian who wants to be left the hell alone.
+
+Lesson 1: Don’t Trust Bitcoin Mixers
+
+According to the United States of America v. Tibo Lousee, Klaus-Martin Frost, and Jonathan Kalla, aka the three Germans charged with operating Wall Street Market, “The United States Postal Inspection Service learned, through its analysis of blockchain transactions and information gleaned from the proprietary software described above, that the funds from Wallet 2 were first transferred to Wallet 1, and then “mixed” by a commercial service … through thorough analysis, the United States Postal Inspection Service was able to “de-mix” the flow of transactions.”
+
+Centrally operated BTC mixers of the sort referenced here include Mixertumbler, Bestmixer.io, Blender.io, Bitcoinfog, and Gramshelix. There is no means of knowing which mixer the authorities succeeded in deanonymizing – which they achieved on no less than three occasions – but as one recent article on mixers notes:
+
+Centralized database systems’ server logs can easily be accessed by anyone (hackers and other malicious individuals or groups, law enforcement etc). Even though bitcoin mixers often claim not to store transaction details for more than 24 hours, this still poses an unknown risk of being found out.
+
+This doesn’t mean you should avoid using mixing services – they are still a good privacy preservation tool. However, it would be foolish to stake your freedom on the irreversibility of a mixing service, and inadvisable to rely on a centrally operated service which could be compromised. Use a decentralized peer-to-peer mixing service instead like Coinjoin for BTC, or Cashshuffle for BCH. These services can’t guarantee your funds can’t be traced back to their source, but they are at least free of backdoors.
+
+Lesson 2: Configure Your VPN Carefully
+
+The WSM three were all technically proficient, with two holding down day jobs in IT – Lousee was a computer programmer. Despite these skills, VPN leaks appear to have been a contributor to their downfall.
+
+As the complaint reads, “the WSM administrators accessed the WSM infrastructure primarily through the use of two VPN service providers. The BKA [German federal police] determined that one of the administrators … used VPN Provider #1. Based on the BKA’s analysis of the WSM server infrastructure, the BKA noticed that on occasion, VPN Provider #1 connection would cease, but because that specific administrator continued to access the WSM infrastructure, that administrator’s access exposed the true IP address of the administrator. The BKA then investigated the true IP address.”
+
+Lesson 3: Don’t Recycle Identities
+
+One of the ways in which Dread Pirate Roberts was busted was through reusing the nickname “frosty” which tied his Silk Road identity to his real life persona. Six years on from that hard lesson in opsec and DNM operators aren’t any wiser. One of the WSM trio, Frost, used the same PGP public key on Wall Street Market as he had used previously on Hansa Market, making it easy for his BTC transactions on the latter DNM to be associated with other wallet transactions he’d made for services in his real name. As the complaint notes, a “PGP public key, in the context of darknet investigations, is likely a unique identifier to an individual.”
+
+In addition to recycling PGP keys and wallet addresses, one of the accused, Lousee, is believed to have used the handle “coder420” to access the WSM test server. This was subsequently correlated to “Pictures of LOUSEE consuming marijuana” and “Numerous references to “420,” including a license plate of LOUSEE’s vehicle and a sign on a bedroom wall with “420.””
+
+A separate criminal complaint against WSM moderator “MED3L1N” reveals a string of similar errors, with recycled usernames, passwords, and duplications making it possible for LE to identify their suspect with little more than some diligent internet detective work. For instance, in one public profile, the accused, Marcos Annibale, is pictured alongside a bookshelf with “Gomorra,” written by Roberto Saviano, visible in the background. MED3L1N later recommended the same book in a thread on WSM.
+
+The thousands of hours law enforcement pours into tracking down darknet market operators is is an affront to those who see the war on drugs as an assault on personal sovereignty and a gross intrusion into citizens’ private lives. It is not time wasted, however. Whatever your take on darknet market prosecutions, we should be grateful for the intensive pen testing these investigations entail. Through piecing together the clues found in criminal complaints and reading between the redacted lines, we can learn better ways to protect our privacy and preserve our right to transact anonymously.
+
+What are your thoughts on the war on drugs and the authorities’ attempts to close down DNMs? Let us know in the comments section below.
+
+Images courtesy of Shutterstock.
+
+Did you know you can verify any unconfirmed Bitcoin transaction with our Bitcoin Block Explorer tool? Simply complete a Bitcoin address search to view it on the blockchain. Plus, visit our Bitcoin Charts to see what’s happening in the industry.

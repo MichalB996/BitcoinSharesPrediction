@@ -1,0 +1,61 @@
+DATE:  13.03.2020, 15:01:24
+TITLE: Bitcoin Shopping Gets a Boost From Social Distancing
+URL:   https://www.coindesk.com/bitcoin-shopping-gets-a-boost-from-social-distancing
+
+As fear of the coronavirus drives many to stay indoors, causing widespread disruption to the larger economy, some digital sectors are counting it as a boon.
+
+State-imposed quarantines, decisions to socially distance, and policies set to work-from-home, has led to surges in screen time use and online shopping. Earlier this week, major outlets like Walmart and Amazon said they were struggling to keep up with demand from “panic buyers,” reported CNBC.
+
+This increase in preparedness buying is spreading to the crypto sector as well, leading to unprecedented growth for a number of crypto payment processors.
+
+Lolli, a bitcoin rewards application, reports a doubling in sales “from retailers supplying food and essentials such as Safeway and Vitacost,” Aubrey Strobel, the company’s head of communications, said in a direct message.
+
+“The majority of Lolli's merchants are online. As a result, our sales have dramatically increased over the last couple of weeks as a reaction to the pandemic,” she said. “We expect to see this continue over the next several weeks as people transition to a remote work schedule and prepare for COVID-19.”
+
+Safeway, one of Lolli’s partners, operates 894 locations across 17 states including California and Washington, which are developing epicenters for the virus. Lolli, which rewards online customers in satoshis, also has arrangements with restaurant delivery applications Postmates and Caviar, as well as PetSmart, which offers a pet food delivery service.
+
+Strike by Zap, a lightning implementation currently running in beta, nearly shut down after its payments increased beyond expectation. Jack Mallers, Zap CEO, said the wallet “crushed its all-time-highs last week,” after processing over a bitcoin’s worth of transactions.
+
+It’s a rally all over, from Latin America to South Korea.
+
+Mallers said the startup, which launched in late-January, expected to settle about a bitcoin worth of transactions per month.
+
+“We were not prepared to do this much volume. I had to make emergency phone calls to our trading counterparties to make sure the app wouldn’t crash,” Mallers said.
+
+Strike works by converting and settling bitcoin payments on behalf of merchants, so retail outlets never have to “touch” the asset. This means Strike is “inherently short bitcoin” for every payment made through the app. Using live trading algorithms to keep its exposure flat, Mallers set automatic borrowing limits with its OTC desks to cover these short positions, which when exceeded would block users from completing their transactions.
+
+“These are people stocking up, buying gift cards to Walmart and CVS,” Mallers said. He added that the uptick is “contextually related to Coronavirus beyond [market] volatility.”
+
+“When bitcoin volatility is to the upside, maybe people increase their spending – people generating wealth have a tendency to spend it – but the reverse is usually not the case,” he said.
+
+Fold, another crypto payments startup with lightning integrations, has experienced inventory issues since February, Will Reeves, Fold CEO, said. “Most of the activity has been focused on prepping,” he said, with many users stocking up on first aid and other supplies on sites like Amazon, Lowes, and Cabela's.
+
+He added, “some users have mentioned that the contactless nature of Fold payments versus contaminated physical cash and credit cards has made them feel safer for the first time.”
+
+ZenGo, a Tel Aviv-based wallet startup with customers in 70 countries, has also seen record volumes of people buying crypto and using it for remittance, according to chief executive Oriel Ohayon.
+
+The increase in users “started early this week,” he said. However, Ohayon isn’t positive this is caused by the coronavirus or is part of a growth trend that began in January.
+
+See also: Mass Surveillance Threatens Personal Privacy Amid Coronavirus
+
+Still, transactions using the non-custodial wallet surged 300 percent week-over-week, Ohayon said. “We do not know where and how funds are sent, but we have a sense via support [tickets] and others that people use it to store bitcoin and send remittances.”
+
+“It’s a rally all over, from South Latin America to South Korea,” Ohayon said. “I think there is a global pattern here.”
+
+Sergej Kotliar, CEO of Bitrefill, another popular non-custodial payments channel, said, “it's very hard for us to notice a trend [in panic buying,] especially with any scientific level of evidence.”
+
+Other crypto payment rails may also be seeing a boost, though their privacy protecting and distributed attributes make it impossible to determine. Such as Mallers’s other lightning implementation, Zap, which is unable to track transactions.
+
+“A bigger impact to us than people sitting home is the volatility in the bitcoin price,” Kotiar said. A drop in bitcoin price historically leads to a temporary increase in transactions. Though, Kotiar said, if prices remain depressed – after that initial surge in transactions – use of the app will level off.
+
+“People spend significantly less on purchases when bitcoin is low,” he said.
+
+Likewise, BTCPay, a payments processor touted for its secure, private, and censorship-resistant features has likely seen a burst of user activity, but its founders are unable to confirm.
+
+“BTCPay is self-hosted software and we don't collect data on users or their transactions,” Pavlenex, a pseudonymous BTCPay contributor, said.
+
+While a boon to her startup, Lolli communications director Strobel reminds users, “no one knows how long this pandemic will last and what the micro and macro effects will be.”
+
+But “the principles of bitcoin still remain true,” she said. “Nothing about bitcoin has changed.”
+
+Note: this story has been updated with additional comment from Will Reeves at Fold.

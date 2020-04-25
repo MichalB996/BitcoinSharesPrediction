@@ -1,0 +1,21 @@
+DATE:  02.09.2019, 14:20:12
+TITLE: Bitcoin hash rate just broke all previous records
+URL:   https://decrypt.co/8860/bitcoins-hash-rate-reaches-highs-of-84-quintillion-hashes-per-second
+
+Bitcoin’s hash rate surpassed 80 quintillion hashes per second on Friday, continuing the upward trend that started in December as Bitcoin’s price began to rise. That means that the amount of computing power dedicated to “hashing” verified transactions is at an all-time high.
+
+When Bitcoins are mined, transactions have to be verified, or “hashed”, before they’re added to the blockchain. The hash rate is an estimated number of hashes the Bitcoin network is performing per second.
+
+On Friday, the hash rate reached an all-time high: 84 quintillion hashes per second. The increase of hash rates coincides with the price of Bitcoin, which has been rising this year. Bitcoin’s price is currently $9,844, up from the low $3,000s in December.
+
+The rising hash rate also means that the network is more secure and less susceptible to 51-percent attacks. The more computationally intensive puzzles that are being calculated at the same time, the more miners you’d need to launch an attack.
+
+Bitcoin’s network is designed to adjust its mining difficulty around every two weeks. The more computers are mining bitcoin, the harder the puzzles are to solve. Accordingly, puzzles get easier to solve the fewer miners there are.
+
+So it’s reasonable to assume that the hash rate rise could also be related to an increase of dedicated mining equipment, much of it from China–where the majority of bitcoin mining takes place. Prices of miners have reportedly doubled in price in China to meet rising demand caused by the increase in price.
+
+The surge also coincides with China’s rainy season. Rain is used by the hydropower plants that power the crypto-mining farms in China’s mountainous regions. China’s rainy season is set to end in September, though apparently the season was delayed a month this year.
+
+The rise in Bitcoin’s hash rate doesn’t make the network any quicker, though, since block confirmations still take around 10 minutes.
+
+Bitcoin’s hash rate is far greater than Ethereum’s, which reached a hash rate of 295 trillion hashed per second on August 9 last year. Ethereum’s hash rate hasn’t reached those highs since hash rates slumped in November 2018, currently sitting at 176 trillion hashes per second. Tsk.

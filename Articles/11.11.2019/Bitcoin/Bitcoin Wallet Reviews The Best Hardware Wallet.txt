@@ -1,0 +1,113 @@
+DATE:  11.11.2019, 13:00:02
+TITLE: Bitcoin Wallet Reviews: The Best Hardware Wallet
+URL:   https://bitcoinmagazine.com/articles/bitcoin-wallet-reviews-whats-the-best-hardware-wallet-on-the-market
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+This is the first article in a three-part series that examines five of the most popular Bitcoin hardware wallets. By request, samples were provided by some of the companies for review purposes.
+
+Hardware wallets are small and portable devices which empower users to manage the keys to their bitcoin in a way that combines security with convenience. Essentially, they serve as an extra layer of protection which stands against malevolent attacks that may happen on infected computers.
+
+Further Reading: What Are Bitcoin Wallets
+
+If you’re HODLing your bitcoin, then you can resort to cheaper and more convenient cold storage options (like a computer that never gets connected to the internet, a USB flash drive, a paper wallet, some form of bearer item or even a plaque of metal). However, if your needs extend to trading or making payments with bitcoin, then hardware wallets are essential to sign transactions in a safe environment that hackers won’t be able to access remotely.
+
+It’s also possible to use your hardware wallet as a cold storage solution (you only connect it to your computer once to move your bitcoin keys onto it, and then store it in a safe environment). This way, you benefit from the advantage of on-device, private-key generation and greatly reduce risk by removing the likeliness of attacks via phishing, viruses, malware and spyware.
+
+Security experts are known to destroy the devices that they use to generate random passwords and private keys, as their processing units are mathematically more likely to replicate the result than another computer with similar specifications. Correspondingly, hardware wallets should be as personal as your toothbrush: Get them new and in the kind of packaging which guarantees their untampered nature, use them while they’re still safe and then avoid passing them on to a second owner. Coldcard, one of the manufacturers presented in this review, goes as far as adding a “SHOOT THIS” marker on their products’ circuit boards for emergencies where privacy and security must be saved.
+
+This review aims to scrutinize and compare five of the most popular and secure hardware wallet solutions: Trezor Model T, Ledger Nano X, ShapeShift’s KeepKey, Shift Cryptosecurity’s bitcoin-only BitBox02 and Coinkite’s Coldcard Mk3. They have been chosen on the grounds of their reputation in the field and the recommendation provided by the Bitcoin.org experts, and they all offer interesting and distinct features that will be detailed throughout the review. As a way of maintaining the balance and comparative objectivity of the process, only the latest models will be taken into consideration — while some devices are more common and popular, it’s only fair to talk about the most recent product from each manufacturer.
+
+Criteria for analysis include
+
+Physical safety (including resemblance with a common household object, sturdiness and connectivity); User interface (including simplicity of use, multi-platform software and unique features); Security (including the public record of hacks, auditability of hardware/software, availability of Bitcoin-only versions for reduced attack surface, the ability to generate unlimited BTC addresses on the same device for greater privacy and full SegWit support for other integrations).
+
+1. The Physical Safety of Hardware Wallets
+
+The first installment in this review will focus exclusively on the physical safety of hardware wallets. Beyond being devices with strong cryptographic encryption, hardware wallets are objects that require sturdiness, connectivity and, ideally, the ability to remain unnoticed in a drawer full of electronics. Security in hardware wallets isn’t just about the software but also the ability to pass border checks without raising suspicions and dropping your device on hard surfaces without causing serious damage.
+
+Also, having a fairly common method for connecting your device to a computer or phone is essential for trust minimization and security: Not having to trust a proprietary format for cables and having the opportunity to buy a cheap generic product from any convenience store where computer peripherals are sold is likewise important.
+
+For power users, paper wallets and metal plates may prove to be a superior alternative — but for millions of causal holders and investors, it’s important to have a simple and comprehensive security model.
+
+1a. The Outer Appearance of the Hardware Wallets
+
+Each of the criteria enumerated above has been scrutinized with the purpose of identifying the best form factor and most secure build. A consensus about the visual similarities for the hardware wallets reviewed is that the Trezor Model T looks like a car key remote, the Ledger Nano X and the BitBox02 have the appearance of USB flash drives, the KeepKey resembles an external hard drive (at least when it’s unplugged and the screen is switched off) and the Coldcard can be easily confused with a pocket calculator.
+
+Coinkite’s Coldcard
+
+The Appearance of the Ledger Nano X
+
+However, of all five products, the Ledger Nano X (like its predecessor, the Nano S) is ideal for those who want to conceal what the device is. If you don’t want people to know that you own a hardware wallet when you pass an airport check or when burglars potentially break into your house, then you should go for the most common-looking product — and the Ledger hardware wallets resemble fairly cheap and mundane USB flash drives.
+
+The Appearance of the BitBox02
+
+The BitBox02 is easily concealed as well, but its sleek, compact and futuristic design (which includes a visible LCD screen) may give away its special nature. Compared to the Ledger, it’s harder to confuse with a USB flash drive (though, to ShiftCrypto’s merit, the BitBox has a male connector which is more faithful to the design of storage devices). For concealing purposes, the original BitBox01 is superior thanks to its basic design.
+
+Shift Cryptosecurity’s BitBox02
+
+The Appearance of the Trezor Model T
+
+The Trezor may fool some as a remote key for an automobile, though closer inspection will reveal pretty obvious physical differences. And if you’re known to take the bus, rather than drive a car, you’re not going to fool anybody.
+
+The Appearance of the Coldcard Mk3
+
+Conversely, the Coldcard wallet’s calculator-like design may be inconspicuous at first, but the impractically small screen and the lack of math operation buttons (the “Okay” tick and the “X” could be replaced by a plus and a minus, for instance) are clear clues that it serves a different purpose. Has anyone ever seen a calculator that can display only three to four digits and looks more like a validation machine? It’s unlikely that airport security officers from an authoritarian country would be fooled by the design.
+
+The Appearance of the KeepKey
+
+Last but not least, the KeepKey has the most unusual shape and size. When switched off, it might look like an external power bank or hard drive of sorts. However, the large and shiny LCD screen indicates that there might be something special about the device — and this is bad for security. The overall design is excellent for everyday usability and the hardware wallet itself is very sturdy. Nonetheless, it’s unlikely for a KeepKey to remain unnoticed when you’re crossing borders or when your house gets robbed.
+
+So, in a situation where you don’t want anyone to know that you own a hardware wallet, just carry a Ledger and a couple of similar-looking USB flash drives with redundant data. Also, it would be wise to scratch off the logo. But then again, paper wallets, brain wallets and metal plates are more suitable for such scenarios.
+
+1b. The Physical Sturdiness of Hardware Wallets
+
+Ideally, hardware wallets should have great durability to withstand physical shocks. If you’re travelling and need the kind of device that you can simply throw into your bag and never worry about possibly breaking, then you should take a close look at the build quality and materials used.
+
+Thankfully, all products presented in this review are rugged and have worked without any issues after being dropped on the floor. However, the intention was not to see how quickly they break, so the rest of the analysis will take into account the materials being used — under the assumption that metal enclosures are sturdier than plastic cases.
+
+The Physical Sturdiness of the Trezor Model T
+
+The Trezor Model T, just like every other hardware wallet made by the Czech company, is small, solid and well built. If anything, Trezor understands the importance of high-quality materials very well, as one of the products in its store is made of aluminum (but costs six times as much as the Model T). In support of those who bought the regular, plastic-made items, the company offers silicone and leather protection cases. Yet, assuming that no extra accessory comes with the Trezor, its score for sturdiness is 7 out of 10.
+
+Trezor Model T
+
+The Physical Sturdiness of the Ledger Nano X
+
+The Ledger Nano X is sturdier thanks to its included steel cover. As long as the device is properly folded, the screen is protected and the core components are bound to take less damage during physical impacts. It’s definitely not the best-built device in the test, but for its small size for form factor and design, it holds its merits for delivering a sturdy enclosure. For its construction, the Ledger Nano X scores a 9 out of 10.
+
+The Physical Sturdiness of the KeepKey
+
+Conversely, the KeepKey is built like a tank and has a bulky form that should help it withstand physical shocks. If dropped on a hard surface or trampled under foot, it’s the most likely product in this test to resist permanent damage to its body. However, the same can’t be said for its large screen which can be easily cracked, thus deeming the device unusable. The combination of plastic and metal offers ruggedness and the rectangular power bank-like shape makes it robust, but it’s the touchscreen display which may act as a point of failure. Nonetheless, the high-quality materials give it a 9 out of 10 score.
+
+The ShapeShift KeepKey
+
+The Physical Sturdiness of the Coldcard Mk3
+
+The Coldcard wallet is a very peculiar product in this category, as it’s designed for emergency cases in which immediate destruction is required. As noted above, the transparent plastic case hides a dedicated security chip which is labelled as “SHOOT THIS.” This way, people who fear that their funds and privacy can be stolen will be able to remove a physical point of failure. However, this is bad news for overall durability and sturdiness — but then again, the power users who go for the Coldcard understand very well the security risks and create lots of backups. Coinkite’s product gets a 6 out of 10 rating for durability, with the caveat that the product is designed to take into account some emergencies for which the competitors aren’t built.
+
+1c. The Connectivity of Hardware Wallets
+
+There are three reasons why connectivity matters: First of all, it’s essential to be able to use a cheap and common cable to connect to your hardware wallet. Secondly, Ledger manufactures its devices with Bluetooth connectivity to increase connectivity, while the others are more focused on reducing the attack surface. Thirdly, if you want to make offline backups on an external SD card without ever connecting to a computer, then you need a dedicated port and an implementation of BIP 174.
+
+The Connectivity of the Trezor Model T
+
+As the Czech company’s premium product, the Trezor Model T features a USB-C connector and will soon receive a microSD card upgrade for local and offline data backups. Likewise, ShapeShift’s KeepKey keeps connectivity to a bare minimum by only including a female USB port.
+
+The Connectivity of the Ledger Nano X
+
+The Ledger Nano X takes the most interesting approach, as it includes Bluetooth connectivity to accompany the industry standard USB-C port. The idea of using remote access for mobile devices is definitely novel, and the fact that the internal secure element requires an on-device validation all of the time means that hackers can’t spend any coins unless they also get physical access to a Ledger. As demonstrated by the Wallet.Fail team during the 35C3 event in December 2018, almost every hardware wallet is vulnerable when hackers get a hold of a device — so it’s always better to have a lower attack surface.
+
+The Ledger Nano X
+
+The Connectivity of the BitBox02 and Coldcard Mk3
+
+Unlike the current state of the Trezor Model T, the BitBox02 and Coldcard Mk3 already offer on-device backups via microSD cards. This feature is useful because you can have your seed phrase stored offline on a very common item that can easily be kept in a drawer among other electronics. The main difference between these two hardware wallets is that the BitBox02 has a male USB-C connector, which means that it can be plugged directly into computers and mobile phones — and if they use the older USB-A formats, then there are fairly inexpensive, male-female adapter cables that can be bought in most computer stores. The Coldcard is more conventional, as it features a female USB-C connector just like the Ledger, the Trezor and the KeepKey, and therefore requires a more common male-male cable.
+
+Depending on your needs and expectations, these five devices may offer you everything you’re looking for. If you don’t want to carry extra cables, want to have quick backups on your microSD card and prefer the fancy USB flash drive aesthetics, then the BitBox02 is your best bet. The Coldcard offers a more minimalistic experience and grants you the same convenience for backing up your seed phrase on an SD card.
+
+If you want the same functionality of the Ledger Nano S, but with the convenience of Bluetooth for your mobile phone, then the Nano X is exactly what you need. If you trust Trezor thanks to its long-time pioneering involvement in the space and can wait until its encrypted backups get launched, then you can’t go wrong with the Model T.
+
+The Connectivity of the KeepKey
+
+The only product which falls short in terms of connectivity is the KeepKey, but it’s also the oldest design in this test and probably requires an update.

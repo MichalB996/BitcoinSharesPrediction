@@ -1,0 +1,27 @@
+DATE:  17.01.2019, 17:01:46
+TITLE: Bitcoin Cash has failed to make use of its 8MB block size, analysts say
+URL:   https://thenextweb.com/hardfork/2019/01/17/bitcoin-cash-block-size/
+
+In 2017, a veritable civil war was fought between camps of Bitcoin believers: those who sought to keep its “block size” at 1MB, and those who wanted to increase it.
+
+Those looking for bigger blocks found themselves rallying behind a then-new cryptocurrency – a “hard fork” of Bitcoin called Bitcoin Cash (BCH) – whose premise rested on re-creating Bitcoin to mine 8MB blocks.
+
+The idea was (and still is) that larger blocks technically allow for more transactions to be confirmed at once, as you can fit more of them into a single block. This supposedly makes a blockchain more efficient.
+
+As it turns out, Bitcoin Cash has never, ever, mined a block that is 8MB in size, reports cryptocurrency research group LongHash.
+
+In fact, over the past 500 days, Bitcoin blocks have been 30 times bigger than BCH blocks, on average.
+
+Remember: the big stink made by Bitcoin Cash was that Bitcoin‘s blocks are simply too small.
+
+According to LongHash, the average block size of Bitcoin Cash BCH has been 171KB since its inception in August 2017. This represents just 2.1 percent of BCH’s limit (8MB).
+
+“There has only been one day so far where BCH blocks have been more than half full. On January 15, 2018, one year ago today, BCH blocks averaged 59 [percent] of their total capacity,” declared LongHash.
+
+When comparing activity between the two blockchains over the past month, things look even more grim for BCH.
+
+Indeed, in the last 30 days, the average size of BCH blocks was 34KB. That’s just 3.7 percent of the average size of Bitcoin‘s blocks, which was found to be 923KB.
+
+LongHash noted this ratio is actually analogous to their market caps – BCH’s is currently just 3.6 percent of Bitcoin‘s.
+
+“Some will claim that it’s a positive sign that BCH blocks are not near their capacity, but others will point to the lack of interest in BCH as concerning,” the analysts concluded.

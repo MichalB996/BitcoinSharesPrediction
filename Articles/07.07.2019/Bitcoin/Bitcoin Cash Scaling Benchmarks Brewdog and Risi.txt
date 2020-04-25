@@ -1,0 +1,77 @@
+DATE:  07.07.2019, 10:30:48
+TITLE: Bitcoin Cash Scaling Benchmarks, Brewdog, and Rising Transaction Volume
+URL:   https://news.bitcoin.com/bitcoin-cash-scaling-benchmarks-brewdog-and-rising-transaction-volume/
+
+Bitcoin Cash Scaling Benchmarks, Brewdog, and Rising Transaction Volume
+
+While Bitcoin Cash supporters keep bolstering adoption, development and community projects have continued to flourish. Over the last week, there’s been lots going on within the Bitcoin Cash (BCH) environment with companies implementing BCH support, new applications, and various announcements.
+
+Also Read: Over 22,000 Traders Have Now Signed up to Local.Bitcoin.com
+
+The Bitcoin Cash (BCH) ecosystem has seen a lot of action throughout the first two quarters of 2019. This week is not much different as there’s been an abundance of developments within the space. BCH markets are holding steady today and much like the rest of the cryptoconomy there’s been some consolidation. At the time of writing, bitcoin cash commands the fifth largest market valuation and each coin has been hovering between $405-420. BCH is the sixth most traded coin on Saturday, July 6. The decentralized digital asset has around $1.4 billion worth of global trade volume and a market cap of around $7.2 billion.
+
+The First Exchange-Traded Product Tracking the Performance of Bitcoin Cash
+
+This week the fintech firm Amun AG announced that it had listed the first Bitcoin Cash exchange-traded product (ETP) on the Switzerland-based principal stock exchange Six. According to the announcement, Amun’s BCH ETP is fully collateralized and the product is denominated in USD. On the Six trading exchange, the ETP’s ticker will be called ABCH and the BCH community seemed excited about the announcement. “This is huge,” one person commented on the Reddit forum r/btc. “Now there is a new option to invest in bitcoin cash (BCH) with an exchange-traded product in one of the most advanced markets in the world,” explained the Twitter account @Bitcoin on Friday.
+
+Bitcoin Cash Can Now Be Used to Invest in Scottish Craft Beer Company Brewdog
+
+On Thursday, Scottish craft beer brewery Brewdog revealed that the public can invest in the company using multiple denominations of crypto. Brewdog’s crowdfunding project, “Equity for Punks,” now accepts bitcoin core (BTC), bitcoin cash (BCH), omisego (OMG), qtum (QTUM), augur (REP), 0x (ZRX), bitcoin SV (BSV), ether (ETH), litecoin (LTC), and ripple (XRP). Essentially Equity for Punks allows investors to purchase a stake in the company and allows them to become shareholders. According to Brewdog, there were 114,000 investors before they opened up the crowdfunding to cryptocurrency users.
+
+“You can now become a card-carrying Brewdog Equity Punk using cryptocurrency,” explained the company’s announcement. “This is the natural next step for us as a business. James and Martin started Brewdog to be an alternative to the status quo; to challenge perceptions and revolutionise their industry — The developers, miners, and users of cryptocurrency are exactly the same.”
+
+Handlekrypto Launches in Sweden
+
+The sister company of Keys4coins, a startup called Handlekrypto, has launched in Sweden. Now residents from Sweden can visit Handlekrypto.se to purchase BCH in seconds with SEK using a bank card or Swish. There is no registration required and visitors looking to purchase BCH can verify themselves instantly with a BankID.
+
+https://t.co/P1sm0akuqc launches in Sweden! Purchase Bitcoin #BTC, Bitcoin Cash #BCH and Ethereum #ETH in seconds from Sweden with BankID and pay in SEK with bank card or Swish — HandleKrypto (@HandleKrypto) June 30, 2019
+
+At the moment Handlekrypto provides bitcoin cash (BCH), bitcoin core (BTC) and ethereum (ETH). The website also has a cryptocurrency conversion application that allows users to swap between hundreds of digital assets. The Handlekrypto service has a website for international visitors, the UK, Norway, and the latest in Sweden.
+
+3,000 Transactions Per Second in BCH Benchmark Stress Test
+
+Software developer and miner Jonathan Toomim published a video on July 2 which shows how he built a benchmark to measure the performance of the Bitcoin Cash reference client Bitcoin ABC. Toomim’s test generated 672,000 transactions and mined them into blocks in roughly a nine-minute time frame. The results equate to more than 3,000 BCH transactions per second on his desktop computer. Toomim is well known for his Xthinner project and the developer said he plans to work on Xthinner so it can “propagate blocks before performing full transaction validation (and after only doing data integrity/merkle root+PoW checks).” “Testing block propagation was the original motivation for building this test apparatus,” Toomim explained. The software engineer continued:
+
+I also intend to set up a networked version of this test with four 40-core computers, using the Linux netem module to inject artificial latency and packet loss. Again, this is primarily and initially to be used as a testbed for optimizing block propagation.
+
+Dementia Society of America Now Accepts Bitcoin Cash
+
+On July 4 the Dementia Society of America revealed they now accept cryptocurrency donations. The organization is a nonprofit that provides individuals and families impacted by dementia with education, local resources, and life enrichment. “We recognize caregivers and innovators, and raise hope by supporting relevant research to discover cures, causes, and meaningful interventions,” explains the Dementia Society’s website.
+
+Dementia Society of America Begins Accepting Five Cryptocurrencies https://t.co/VxCUdwZC2P — Dementia Society (@DementiaOrg) July 4, 2019
+
+Now the charitable organization accepts donations in bitcoin core (BTC), ethereum (ETH), litecoin (LTC), bitcoin cash (BCH) and Circle’s USD stablecoin (USDC). Founder and Volunteer President Kevin Jameson explained that he wants the “crypto community to know that we support innovative mediums of exchange.” Jameson stated:
+
+More than 2,000 years ago, we traded salt and gold for our labors – as we were worth our weight in it – today, its bits and bytes, and since our Society’s origins just over 5 years ago, we’ve understood that there is always lasting value to human kindness, no matter the currency.
+
+Bitcoin Cash Network Becomes the Second Most Valuable Chain
+
+On July 2 the founder of Ryan Research, Peter Ryan, explained in a recent research analysis hosted on Coinspice.io that Bitcoin Cash recently became the second most valuable chain according to transaction volume or the total amount of value transacted through the blockchain. “While Bitcoin Cash might be fifth by market cap, its transaction volume is now 2nd,” explained Ryan’s analysis. “Around mid-May, that volume started to really take off and exceeded $2 billion per day — Other notable cryptocurrencies like ETH, LTC, and XRP are well below these new milestones.”
+
+In fact over the last six months when comparing bitcoin core (BTC) and bitcoin cash (BCH) transaction volume there’s been a slight downturn, but in April both networks showed positive growth. After that, however, BCH began to outpace BTC in growth drastically, Ryan detailed. The researcher added:
+
+In May, BCH saw 185% month-over-month growth in transaction volume while BTC only grew by 56%. BCH came close to a third of the volume of BTC in May only to settle in July at about a quarter.
+
+Local US Government in Ohio Plans to Use SLP Token to Incentivize Positive Behavior
+
+This week BCH supporters heard about the local government of Dublin, Ohio planning to use a Simple Ledger Protocol (SLP) token for a citywide reward system. On July 1, the CEO of the BCH implementation Bitcoin Verde revealed the news and explained the SLP token will be used throughout the city. Green told news.Bitcoin.com that the token’s goal is to provide three functions in Dublin: digital identity, electronic polling system, and a token of value.
+
+For the past 6+ mo we have been working on a project for @DublinOhio The project's goal was to provide 3 functions for people of #DublinOhio 1. A digital identity
+
+2. An electronic polling system
+
+3. A token of value You can read more about it here: https://t.co/Qndks63lLw — Software Verde (@SoftwareVerde) July 1, 2019
+
+“The Dublin token is intended to be a reward and barter system for Dublin’s citizens — to incentivize positive behavior,” explained the Bitcoin Verde founder, who also told the BCH community that the team “investigated other blockchain and token implementations, but ultimately decided Bitcoin Cash’s scaling solution to be superior than other alternatives, and viewed the thriving developer community to be an important pillar to the platform’s longevity.”
+
+Twitch.tv Acceptance, Brave Browser, and Tipbitcoin.cash
+
+There’s been so much happening within the Bitcoin Cash ecosystem and BCH supporters have been discussing the variety of developments fervently. The latest live streaming Bitcoin Cash tipping platform Tipbitcoin.cash has been seeing a lot of action on the Twitch.tv platform. Moreover, Twitch.tv re-added the ability to pay for services and items on the website using bitcoin cash (BCH) or bitcoin core (BTC) through Bitpay. In another exciting development, Brendan Eich, the CEO of the Brave browser, revealed on Twitter that BCH will soon be supported. “BCH and other funding choices coming to Brave [version] 0.68,” Eich declared. With BCH enthusiasts, developers and companies pushing for quality crypto services and mainstream adoption, the latest slew of announcements should augment their optimism.
+
+What do you think about all the developments within the Bitcoin Cash ecosystem? Let us know what you think in the comments section below.
+
+Disclaimer: This editorial is intended for informational purposes only. Readers should do their own due diligence before taking any actions related to the mentioned companies or any of their affiliates or services. Bitcoin.com or the author is not responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.
+
+Image credits: Shutterstock, Ryan Research, Handlekrypto, and Pixabay.
+
+Want to create your own secure cold storage paper wallet? Check our tools section. You can also enjoy the easiest way to buy Bitcoin online with us. Download your free Bitcoin wallet and head to our Purchase Bitcoin page where you can buy BCH and BTC securely.

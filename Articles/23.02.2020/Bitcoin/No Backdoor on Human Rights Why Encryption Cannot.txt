@@ -1,0 +1,67 @@
+DATE:  23.02.2020, 09:30:30
+TITLE: No Backdoor on Human Rights: Why Encryption Cannot Be Compromised
+URL:   https://news.bitcoin.com/no-backdoor-on-human-rights-why-encryption-cannot-be-compromised/
+
+No Backdoor on Human Rights: Why Encryption Cannot Be Compromised
+
+In April 2019, the UK issued an Online Harms White Paper to announce its campaign to rein in “harmful speech” on social media sites such as Facebook and TikTok. The public consultation period has ended and a full consultation response is expected in Spring 2020. (Initial Consultation Response here.) Legislation to criminalize freedom of speech will follow quickly.
+
+Also read: Cryptocurrency Is Agorism in Action
+
+
+
+The Death of Free Speech
+
+“The United Kingdom has become the first Western nation to move ahead with large-scale censorship of the internet … Boris Johnson has unveiled rules that will punish internet companies with fines, and even imprisonment, if they fail to protect users from “harmful and illegal content.” Couched in language that suggests this is being done to protect children from pedophiles and vulnerable people from cyberbullying, the proposals will place a massive burden on small companies. Further, they will ultimately make it impossible for those not of the pervasive politically correct ideology to produce and share content.” —Mark Angelides, “Britain allows the internet to be censored, a warning for the U.S.”
+
+The bill’s exact language is not known, but its thrust is clear. Internet companies with user-generated content will need to enforce anti-harm rules in order to avoid fines, imprisonment, or their sites being blocked. Home Secretary Priti Patel explained, “It is incumbent on tech firms to balance issues of privacy and technological advances with child protection.”
+
+The main target of attack is end-to-end encrypted (E2EE) messages that can be read only by a sender and a recipient by using unique cryptographic keys as decoders. Third parties cannot access the content. E2EE is the most effective privacy tool that is both easy to use and available to everyone, often for free. To comply with UK law, however, companies will need to eschew encryption or to install “backdoors”—portals that allow someone to enter a system in an undetected manner.
+
+Angelides’s warning to the U.S. is timely because Congress is considering a similar measure: the EARN It Act. Again, the Act’s justification is to protect children and to thwart evil-doers. After all, who else needs encryption? According to the United Nations, everyone.
+
+Encryption Is a Human Right
+
+In 2015, the UN issued a report on encryption and anonymity in the context of human rights. The report found encryption to be key to the right of privacy. In turn, privacy enabled freedom of speech through which people could explore “basic aspects of their identity,” including religion and sexuality. The report’s author David Kaye cautioned against using backdoors because of the “unprecedented capacity” of authorities, companies, criminals, and the malicious to attack people’s ability to share information safely. Kaye acknowledged the alleged need of law enforcement to read encrypted messages but on a “case-by-case” basis rather than blanket approach.
+
+This a long-held position for the UN. In 2016, Zeid Ra’ad Al Hussein, UN High Commissioner for Human Rights, published a warning entitled “Apple-FBI case could have serious global ramifications for human rights.” Zeid cautioned:
+
+Encryption tools are widely used around the world, including by human rights defenders, civil society, journalists, whistle-blowers and political dissidents facing persecution and harassment… Encryption and anonymity are needed as enablers of both freedom of expression and opinion, and the right to privacy. It is neither fanciful nor an exaggeration to say that, without encryption tools, lives may be endangered. In the worst cases, a Government’s ability to break into its citizens’ phones may lead to the persecution of individuals who are simply exercising their fundamental human rights.
+
+Amnesty International agrees. A 2016 article, “Encryption: A Matter of Human Rights,” argued, “Forcing companies to provide ‘backdoors’ to the encryption deployed … constitutes a significant interference with users’ rights to privacy and freedom of expression. Given that such measures indiscriminately affect all users’ online privacy by undermining the security of their electronic communications and private data, Amnesty International believes they are inherently disproportionate, and thus impermissible under international human rights law.”
+
+Why, then, are states rushing to crack open encryption? Because information is power. It is a prerequisite to demanding money and imposing social control. For decades, surveillance functioned from the shadows but now it openly demands access to people’s thoughts and lives. Who else but evil-doers would say “no?”
+
+The EARN It Act
+
+U.S. Attorney General William Barr has been loud in his demand that law enforcement be able to access encrypted communications—usually through a backdoor. Barr wants this access even when there is no cybersecurity risk or alleged crime. He may soon get what he wants so badly.
+
+The EARN It Act—Eliminating Abusive and Rampant Negligent of Interactive Technologies Act—would establish “a National Commission on Online Child Exploitation Prevention” to be headed by Barr, who has the authority to overrule it to become a one-man power. As well as “child exploitation prevention,” the Act asserts a vague mandate —“and for other purposes.” This is a blank check, with only the elimination of election misinformation being specifically mentioned. Republican Lindsey Graham and Democratic Richard Blumenthal are pushing the measure in the Senate on a bipartisan basis.
+
+The draft bill does not mention encryption, but it requires tech companies to assist law enforcement in identifying, reporting, and removing or preserving evidence about child exploitation … and “for other purposes.” E2EE would make it impossible for those companies to provide such assistance.
+
+The EARN It Act would de facto prohibit the E2EE offered by services such as WhatsApp; it would short circuit Facebook’s plans to encrypt its messaging apps; companies like Apple would be in legal jeopardy if they refused to insert backdoors in their software and devices.
+
+Setting a Dangerous Legal Precedent
+
+Legal jeopardy is the Act’s enforcement mechanism. A non-compliant tech company would lose Section 230 immunity in both civil and criminal courts for child exploitation and for as-yet-unspecified offenses that occur on its site or over its platform. The free-speech champion Electronic Frontier Foundation (EFF) explained the significance of Section 230 of the Communications Decency Act; it is “the most important law protecting free speech online.” The protection is based on distinguishing between a platform and a publisher. Section 230 states, “No provider or user of an interactive computer service [platform] shall be treated as the publisher or speaker of any information provided by another information content provider.”
+
+A platform provides services, tools, and products with which users create their own content; it bears no more legal responsibility for this content than a phone company does for the conversations that flow over it. By contrast, a publisher edits or otherwise controls content, which makes it legally liable.
+
+EFF continued, “Section 230 enforces the common-sense principle that if you say something illegal online, you should be the one held responsible, not the website or platform where you said it (with some important exceptions) … Without it, social media as we know it today wouldn’t exist … And it doesn’t just protect tech platforms either: if you’ve ever forwarded an email, thank Section 230 that you could do that without inviting legal risk on yourself.”
+
+EARN It not only strips immunity from non-compliant companies, it also weakens the standard by which they can be sued. It is now necessary for a plaintiff to prove that a company knew an offense was occurring in order to sue; EARN It would require a plaintiff only to show that the company acted “recklessly.” In a keynote address at the 2019 International Conference on Cyber Security, A.G. Barr defined E2EE as inherently irresponsible. “The costs of irresponsible encryption that blocks legitimate law enforcement access is ultimately measured in a mounting number of victims — men, women, and children who are the victims of crimes — crimes that could have been prevented if law enforcement had been given lawful access to encrypted evidence.” To Barr, the mere presence of backdoor-free E2EE constitutes recklessness.
+
+The targets of EARN It seem to be the internet giants that have aroused bipartisan rage. At a recent Senate Judiciary Committee hearing entitled “Encryption and Lawful Access: Evaluating Benefits and Risks to Public Safety and Privacy,” Apple and Facebook were attacked for using warrant-proof encryption that prevented authorities from investigating “terrorism, organized crime and child sexual exploitation.” Internet giants might not be the main victims of EARN It, however.
+
+EFF explained, “Undermining Section 230 does far more to hurt new startups than to hurt Facebook and Google. 2018’s poorly-named Allow States and Victims to Fight Online Sex Trafficking Act (FOSTA)—the only major change to Section 230 since it passed in 1996—was endorsed by nearly every major Internet company. One consequence of FOSTA was the closure of a number of online dating services, a niche that Facebook set about filling just weeks after the law passed.” The legal need to screen or filter content placed smaller companies at a competitive disadvantage with the likes of Google.
+
+Conclusion
+
+Unfortunately, an ongoing backlash against Big Tech may propel EARN It through Congress. Moreover, Congress undoubtedly wants to have better control over social media before the 2020 elections. The EARN It Act will arrive with a cry of “Save our children!” But its impact will be to stifle freedom of speech across the spectrum, to hobble small businesses, and to make all users more vulnerable to criminals, including agents of the state.
+
+Op-ed disclaimer: This is an Op-ed article. The opinions expressed in this article are the author’s own. Bitcoin.com is not responsible for or liable for any content, accuracy or quality within the Op-ed article. Readers should do their own due diligence before taking any actions related to the content. Bitcoin.com is not responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any information in this Op-ed article.
+
+Images courtesy of Shutterstock.
+
+Did you know you can verify any unconfirmed Bitcoin transaction with our Bitcoin Block Explorer tool? Simply complete a Bitcoin address search to view it on the blockchain. Plus, visit our Bitcoin Charts to see what’s happening in the industry.

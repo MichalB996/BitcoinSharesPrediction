@@ -1,0 +1,49 @@
+DATE:  13.02.2019, 12:20:18
+TITLE: Why storing your Bitcoin private keys on Google Drive is a terrible idea
+URL:   https://thenextweb.com/hardfork/2019/02/13/coinbase-cryptocurrency-google-icloud/
+
+You expect to find questionnable advice about storing your Bitcoin BTC on the internet, but you never expect it to come from one of the world’s leading cryptocurrency exchange desks. Well, Coinbase is here to prove that nothing is impossible.
+
+The exchange is rolling out a new backup service that encourages users to keep an encrypted copy of their private keys to their personal cloud storage accounts, like Google Drive and iCloud.
+
+“This new feature provides a safeguard for users, helping them avoid losing their funds if they lose their device or misplace their private keys,” Coinbase wrote in a blog post.
+
+The announcement immediately drew the ridicule of the Twitterverse, with tons of cryptocurrency pointing out why storing your private keys on the cloud is a bad idea:
+
+This is a terrible idea and encrypting with a user chosen password is even worse. Most people cannot choose/remember strong passwords and generally reuse passwords. pic.twitter.com/uezbhz1Rfe — DJ Booth (@djbooth007) February 12, 2019
+
+Lol nothing says decentralization like putting your private keys on a centralized server 👍🏻 — TAT3AN (@TAT3AN) February 12, 2019
+
+I would urge coinbase to use their technology for backup of private keys instead of offloading the risk to third parties who are not equipt with the same level of sophistication — Ibelite (@Ibelite) February 12, 2019
+
+@coinbase is also creating a dangerous precedent. Not only the idea defies elementary cybersecurity, it also comes against of the most important aspect of #crypto: self-sovereignty. So beware, @coinbase, #cryptocurrency users are well educated and always vigilant. — LiL Whale ⚡ (@lilcryptowhale) February 12, 2019
+
+For the record, Coinbase says the feature is completely optional. But it sure seems the exchange will be actively encouraging users to rely on it.
+
+“When you update your Coinbase Wallet app to the latest version in the next few days, you will start to receive notifications to backup your private key to the cloud,” the company wrote in the announcement.
+
+Why storing your Bitcoin on the cloud is bad idea
+
+So is everyone right to grill Coinbase about encouraging users to trust cloud services with their private keys? History says so.
+
+Remember “The Fappening” – the series of celebrity nude pic leaks? Well, it turns out hackers got hold of these photos by breaching their iCloud accounts. The same scenario could easily unfold in the case of private keys.
+
+Back in 2017, a hacking collective had gotten hold of the credentials of millions of compromised iCloud accounts. The kicker? There are over 6,474,030,172 accounts with compromised credentials across the internet, according to HaveIBeenPwned.
+
+What makes you think yours is one of those?
+
+True, Coinbase‘s backup feature requires protecting your private keys with an additional password, but here is the issue: people tend to reuse the same password more often than they should.
+
+Even if your credentials haven’t been compromised, research has shown that most people struggle (or don’t care enough) to use secure passwords. Indeed, even IT professionals tend to engage in bad security practices, like reusing the same password across various services.
+
+It could be worse
+
+This is not an argument you want to make when discussing security, but in all fairness – there are worse ways to store your private keys.
+
+While more technical cryptocurrency holders (and anyone with a modicum of common sense) advise against it, the average internet user tends to store their private keys in the most hassle-free way possible: this is why cloud services have surfaced as such a popular “solution” (and why custodial wallets exist).
+
+And let’s be honest, most people who keep their private keys on the cloud rarely bother to encrypt them. I know I didn’t, and I know at least a dozen more people I’ve spoken with who didn’t either. We simply copy-pasted our private keys, and uploaded them to the cloud.
+
+From that standpoint, the new backup feature does indeed provide extra safety to Coinbase users, especially considering that the copy is encrypted.
+
+Still though, you always want to store your private keys in the most secure way possible – and contrary to what Coinbase encourages, cloud storage services aren’t that.

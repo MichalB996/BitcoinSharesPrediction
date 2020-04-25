@@ -1,0 +1,49 @@
+DATE:  07.05.2019, 08:00:21
+TITLE: Alibaba’s Ant Financial Backs $10 Million Round for Blockchain Privacy Startup
+URL:   https://www.coindesk.com/alibabas-ant-financial-backs-10-million-round-for-blockchain-privacy-startup
+
+QEDIT, a developer of privacy technology for enterprise blockchains, has closed a $10 million Series A round from investors including Ant Financial, the payments affiliate of Chinese e-commerce giant Alibaba.
+
+QEDIT will also be exploring collaboration with Ant Financial which will combine enterprise blockchains with zero-knowledge proofs, the firm announced on Tuesday. Other high-profile partnerships applying QEDIT’s ZKPs include software giant VMWare and RGAX, a subsidiary of Reinsurance Group of America.
+
+QEDIT’s investment round was led by MizMaa Ventures, with participation from Ant Financial and RGAX as well as Meron Capital, Collider Ventures, Jovono and Target Global. QEDIT has received a total of $14 million in funding to date, comprising the A round, a previous $3 million seed round and $1 million in grants.
+
+Geoff Jiang, a vice president and the general manager of Ant Financial’s technology and business innovation group, said in a statement:
+
+“Ant Financial shares a common vision with QEDIT to protect data privacy and security. Robust privacy measures are critical to the ongoing development of the wider finance sector. Together with QEDIT, Ant Financial is committed to providing such capabilities as part of our blockchain services.”
+
+Jonathan Rouach, CEO and co-founder of QEDIT, said the ZKP schemes his Tel Aviv-based company builds are compatible with most varieties of enterprise blockchain, and this has led to the company gaining traction in Asia.
+
+Rouach told CoinDesk:
+
+“We have been getting our product out to large providers in Asia and one of them is Ant Financial, the largest fintech in the world. So our product is compatible with the Ant Financial blockchain offering.”
+
+He pointed out that Ant Financial has launched production blockchain efforts and is very familiar with the need for privacy when moving assets around. (The company, formerly known as Alipay, has applied blockchain to remittances between Hong Kong and the Phillippines and tracking the provenance of rice grown in China.)
+
+“We hear about it less in the West, but there is a lot of progress happening between companies and countries in East Asia,” he added.
+
+Parallel performance
+
+Stepping back, zero knowledge schemes provide a way of proving possession of a secret without revealing the secret itself. Many have tried to apply this technology to restore privacy on blockchains, which in their default state err on the side of broadcasting data.
+
+For instance, QEDIT has demonstrated on the public ethereum blockchain how to prove an individual falls within a certain tax bracket without access to the fundamental data, Rouach said. A later proof of concept (PoC) with BNP Paribas around collateral management for trade finance prevented fraud which can occur when a trader uses the same collateral to get financing twice from two different banks.
+
+“The banks have no way of knowing whether collateral has already been accounted towards other finance because the banks cannot collaborate on private information,” Rouach said. “We worked out a mechanism on a blockchain where the banks can check collateral has only been used once without having to share client information.”
+
+Outlining how QEDIT’s zero knowledge tech could be used by the likes of Ant Financial and VMware, Rouach said when a network operates across multiple cloud environments, ZKP solutions allow cloud deployment of blockchain without revealing any sensitive information outside of your chosen cloud provider.
+
+“We are increasingly seeing industries employing enterprise blockchain as their collaboration backbone, where competitors are joining the same network. Our integration to enterprise blockchain stacks from Ant Financial and VMware lets clients pick a Blockchain-as-a-Service provider and have QEDIT’s privacy layer solution included by default,” he said.
+
+When applied to the insurance industry, ZKPs help fight claim fraud, where claimants have been able to exploit information asymmetries between insurers to make more than one claim on the same loss or event (insurers have been unable to combat this due to restrictions over data-sharing between one another), Rouach said.
+
+“Using ZKPs, insurers can prove an event took place without revealing the underlying secure information. QEDIT enables reliable use of each insurer’s claim event data without handing over the data itself to anyone, thus making claim fraud impossible,” he said.
+
+A practical impediment when it comes to using ZKPs is the amount of computation these proving schemes can consume, which can hamper a blockchain’s performance. Like many of the projects in the space, QEDIT is working hard on solving scaling and performance challenges around zero-knowledge schemes.
+
+To this end, Rouach and his team have devised a scaling mechanism called “proof chaining” which can generate proofs in parallel. “This lets us take a proof and cut it into smaller pieces and then parallelize those pieces on different machines and to do this in a way that scales,” he said.
+
+In addition to making the technology more practical, QEDIT backs efforts to standardize ZKPs so they can be sold to the enterprise world, said Rouche, concluding:
+
+This is what will move blockchain from a test PoC to actually deployable network; it’s what allows competitors to be part of the same network without having to rely on some central authority.”
+
+Yuan image via Shutterstock

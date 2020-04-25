@@ -1,0 +1,61 @@
+DATE:  25.10.2019, 13:41:26
+TITLE: Nopara73 on Wasabi Wallet and Bitcoin Privacy
+URL:   https://bitcoinmagazine.com/articles/nopara73-on-wasabi-wallet-and-the-quest-for-bitcoin-privacy
+
+Ring in the new bitcoin halving cycle the right way: with us!
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+During the second day of the 2019 edition of the Transylvania Crypto Conference, Wasabi Wallet lead developer nopara73 presented his research in the field of Bitcoin CoinJoins and his expectations for the future of privacy. Wasabi Wallet, which started as a collaboration with Blockstream engineer Matthew Haywood and was first developed under the codename “Hidden Wallet,” is one of the most popular privacy-friendly solutions in the Bitcoin space and is often regarded as the standard for transaction obfuscation.
+
+In recognition for its breakthroughs in privacy, Wasabi Wallet was awarded 10 BTC by Bitcoin Core developer Greg Maxwell in a special bounty dedicated to CoinJoins.
+
+How Wasabi Wallet Was Created and Why It’s Great for Bitcoin Newbies
+
+As nopara73 confessed during an exclusive Bitcoin Magazine interview, he hadn’t always wanted to make the great effort of starting his own project. In the beginning, he simply wanted to contribute to the existing JoinMarket CoinJoin implementation by bringing some improvements.
+
+“First, I wanted to work on JoinMarket and I fell through the privacy rabbit hole,” he said.
+
+Early experimentation with TumbleBit, disillusionment with the existing privacy solutions and self-imposed perfectionism drove nopara73 to start working on Wasabi. In some regards, the development and research in the field of privacy-friendly wallets was so premature that the Hungarian Bitcoiner had to build his own libraries from scratch.
+
+“I had to write my own Tor library and my own http protocol implementation because there weren’t any around,” he said.
+
+According to nopara73, Wasabi is a great wallet for newbies because it automatically prevents address reuse and it also teaches important lessons about UTXOs. Furthermore, there are privacy benefits even for those who don’t use CoinJoins: Tor routing, the use of BIP157/158 for Neutrino and local storage of transaction data.
+
+“CoinJoins are just one part of Wasabi’s privacy,” said nopara73. “Broadcasting transactions should be made in a private way and information about your transactions should be stored locally.”
+
+Before moving on to address the future of Wasabi Wallet, the Hungarian Bitcoiner jokingly praised the mixing quality of Coinbase and other big exchanges that allow on-platform transfers between users without generating on-chain transactions. The fact that users can deposit certain coins and withdraw others is very much akin to the CoinJoins — however, the know-your-customer (KYC) aspect makes it less convenient and terrible for individual privacy.
+
+“The funny thing about Coinbase is that it actually gives you a perfect blockchain-level privacy because it’s a large bitcoin mixer,” nopara73 said. “They are spying on you and they are not hiding this from you, so you expose your privacy to Coinbase, but actually mix your coins. You have to know your trade-offs.”
+
+At the Transylvania Crypto Conference in Cluj, Romania, nopara73 presented some of his plans for Wasabi Wallet.
+
+The Future of Wasabi Wallet
+
+When addressing the future of the project, nopara73 distinguishes between two dimensions: the technical one and the personal one. In terms of major technical innovations, there are plans to integrate Lightning Network features for more complex mixes. It’s also worth noting that there are no plans for Wasabi to support Blockstream’s federated sidechain, Liquid.
+
+“Liquid is not planned for Wasabi,” said nopara73. “We want to stick with Bitcoin. Lightning is planned but at a later date due to protocol-level changes that require stabilization.”
+
+Nopara73 is in the middle of the process to step down as CTO and code maintainer of the Wasabi Wallet project. This measure is meant to eliminate himself as a single point of failure while also increasing the number of active contributors.
+
+However, this doesn’t mean that nopara73 will stop working on Wasabi. On the contrary, he’s planning to make speed optimizations for the wallet for a “snappier” experience.
+
+“There is one thing that I’m working on right now — making the wallet snappier, faster,” he said. “It’s a different Bitcoin wallet which does more transactions than the average one. So we need to optimize it more in order to be faster, as handling thousands or millions of keys can be quite computation-intensive.”
+
+Speed isn’t nopara73’s only concern. He also wants to build a bridge between Wasabi Wallet and Bitcoin Core. Running a full node is essential for user privacy and transaction certainty, and the plan for Wasabi is to make the wallet automatically switch from Neutrino to Bitcoin Core as soon as the block synchronization process is complete.
+
+“I think I’m gonna start working on Bitcoin Core integration, so you can imagine it in a way where you go to the ‘Settings’ menu, tick a box and then start using your full node. This way, you will be using a light wallet only until Bitcoin Core is fully synchronized,” he added.
+
+The Wasabi Wallet creator also revealed that the improvements can go beyond speed, user experience and integrations. According to him, “After these basics, we are moving on to privacy research because we can optimize CoinJoins quite a lot.”
+
+Wasabi Wallet makes Bitcoin privacy more accessible for everyone, and its CoinJoins are responsible for making some privacy altcoins redundant.
+
+On The Upcoming Bitcoin Privacy Wars
+
+According to nopara73, a privacy debate in Bitcoin, on the topic of adding confidential transactions or other ways of obfuscating transaction amounts, has the potential to become much more divisive and nastier than the scaling debate of 2016 and 2017. A single leak by a blockchain analysis company, revealing the amounts of BTC that some key figures hold, has the potential to ignite the so-called “privacy wars” by pointing out the necessity of stricter privacy measures.
+
+However, nopara73 is somewhat optimistic and thinks that the destructive prophecy won’t be fulfilled.
+
+“I think we would see even more blood during this hypothetical debate, but I don’t think it would happen,” he said.

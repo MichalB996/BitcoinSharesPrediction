@@ -1,0 +1,51 @@
+DATE:  29.08.2019, 12:11:33
+TITLE: How Market Makers Inject Liquidity Into the Cryptoconomy
+URL:   https://news.bitcoin.com/how-market-makers-inject-liquidity-into-the-cryptoconomy/
+
+How Market Makers Inject Liquidity Into the Cryptoconomy
+
+Market makers have a reputation that is entirely disproportionate to what they do. Despite what half of crypto Twitter would have you believe, MMs, as they are colloquially known, are a neutral force when used correctly. But should tokenized projects be routinely deploying these tools on crypto exchanges, and what are the long-term ramifications of manufacturing buy and sell orders?
+
+Also read: ERC20 Tether Transactions Flip Their Omni Equivalent
+
+From Drip-Fed to Full Faucet: Running the Liquidity Spectrum
+
+Liquidity is all relative. While bitcoin’s liquidity trumps the rest of the crypto market combined, the depth of the order book still varies greatly from exchange to exchange. A 5 BTC sell order can be absorbed without blinking on Binance, but attempt the same on Trade Satoshi (24-hour volume: $15K) and you’ll be rekt by slippage. Ensuring sufficient liquidity across multiple exchanges where their token is listed is a tough ask for crypto projects, who are increasingly being expected to solve this problem unilaterally.
+
+To address this challenge, many projects have now turned to market makers. Omisego, for instance, joined the ranks of market made projects when it partnered with Algoz earlier this month. The liquidity provider, which has previously supplied market making on behalf of Cardano for its ADA token, promises its clients the following outcomes:
+
+Minimize trading spreads
+
+Increase order book depth
+
+Reduce market manipulation
+
+Attract greater volumes
+
+The latter provision ought to arrive naturally as a consequence of the former objectives: traders are naturally drawn to markets with deeper liquidity, which allow for arbitrage opportunities, and for exiting profitable positions through limit orders executed at close to spot price.
+
+More liquidity equals greater awareness, which leads to greater adoption. At least that’s the theory. The jury’s still out on whether market makers incentivize genuine usage of crypto assets for the role outlined in their respective whitepapers many moons ago. Hypothetically, though, that ought to be the case, with the increased liquidity making the token attractive to a broader spectrum of buyers.
+
+The Case for Market Makers
+
+Imagine a business wants to acquire a load of OMG tokens to deploy on the P2P financial network. Despite having an average daily trading volume of $30 million, the majority of the 185 exchanges where OMG is listed couldn’t fulfill an order of greater than a few thousand dollars’ worth at a time. Anything greater, and the entire order book would move by 10% or more. Market makers can’t generally inject liquidity into highly illiquid markets, but they can top up the top 20 or so exchanges with which they’re integrated, providing a convenient way for users to enter and exit positions with the minimum of movement.
+
+Crypto projects look for market making services at every stage of their lifecycle, but are particularly keen upon receiving their first exchange listing, when there can be pressure to meet strict liquidity requirements. In an ideal world, there would be no need for market makers: people would buy and sell tokens as required to other people, creating a highly efficient market with enough counterparties to absorb all of the orders and ensure a tight spread. In practice, markets are never that efficient, hence the need for market makers to keep things moving efficiently.
+
+Order Book Replication and Other Services
+
+Liquidity provision can take a number of forms. Aside from conventional market making, some companies will provide order book replication, in which the order books from multiple exchanges are aggregated to deepen liquidity and tighten spreads. This can be used to direct liquidity towards a particular exchange, or to ensure that liquidity is uniform across multiple exchanges. The key difference, compared to market making, is that there are no additional bids being placed: all that’s happening is the existing liquidity is being utilized to its full potential. Other services include spot execution and optimal trade execution, in which the market making provider will endeavor to shift a significant amount of crypto assets while minimizing market disruption.
+
+If you’ve ever gone to place a bid on an exchange and another user has placed a miniscule order a few cents higher, odds are you were beaten by a bot. What’s more, there’s a good chance that bot was placed there by the project whose very token you were trying to buy. That said, traders are also known to deploy bots to play the difference between the bids and asks in liquid markets such as BTC. It’s a highly competitive game, and thus the profit margins are slight, but with enough volume, capturing the difference between bids and asks can start to add up. Market makers do the same job, the only difference being they’ve no obligation to profit: break even is good enough.
+
+The Invisible Hand That Guides the Crypto Market
+
+The “invisible hand,” coined by Adam Smith in 1759, describes the unobservable market force that shapes the supply and demand of goods in a free market. Imagine those goods as digital assets and the market as the exchanges that dominate the cryptosphere, and you’ve got a pretty good description of market makers. Despite being virtually imperceptible, they exist on the orderbook of every major exchange, absorbing the differential between maker and taker through fulfilling orders on both sides.
+
+When a market maker is working well, the average trader should scarcely be aware of it. Only the flurry of small bids and asks should give a clue as to its existence. Despite what Telegram trading groups may lead you to believe, market makers won’t pump your bags or send your IEO tokens to the moon – but they will provide liquidity, allowing you to enter and exit positions with minimal slippage. In the early days of bitcoin, the notion of market makers to artificially match demand would have seemed absurd. Today, like so many other crypto exchange services, market makers are woven into its tapestry.
+
+What are your thoughts on market makers? Let us know in the comments section below.
+
+Images courtesy of Shutterstock.
+
+Did you know you can verify any unconfirmed Bitcoin transaction with our Bitcoin Block Explorer tool? Simply complete a Bitcoin address search to view it on the blockchain. Plus, visit our Bitcoin Charts to see what’s happening in the industry.

@@ -1,0 +1,29 @@
+DATE:  07.06.2019, 19:44:48
+TITLE: Electron Cash Users Can Now Send Bitcoin Cash to Mobile Phones
+URL:   https://news.bitcoin.com/electron-cash-users-can-now-send-bitcoin-cash-to-mobile-phones/
+
+Electron Cash Users Can Now Send Bitcoin Cash to Mobile Phones
+
+The developers behind the Bitcoin-Cash-based Electron Cash light client have added a slew of new features to the latest 4.0.6 version. Now Electron Cash users can send bitcoin cash to mobile phones via the Cointext service. In addition to this new functionality, the Cashshuffle implementation within the wallet now permits up to 99.9999 BCH per shuffle, instead of the default 50 BCH the platform previously allowed.
+
+Also read: Bitcoin.com’s Local Bitcoin Cash Marketplace Is Now Open for Trading
+
+Developers Add Cointext Functionality to the Latest Electron Cash Release
+
+The Electron Cash wallet is a light client that offers Bitcoin Cash (BCH) users a bunch of versatility and privacy. The wallet was the first to introduce a noncustodial solution for Simple Ledger Protocol (SLP) tokens and Electron Cash (EC) users can create SLP tokens with a specific SLP version of EC. The light client also introduced the privacy-enhancing Cashshuffle protocol to the platform and BCH supporters who utilize EC can shuffle their bitcoin cash for added transaction obfuscation. On June 6, the developers upped the ante once again by adding various improvements to Electron Cash version 4.0.6. The first addition has excited the BCH community as the latest EC version gives users the ability to send BCH to mobile phones via Cointext.
+
+Roughly three weeks ago the BCH-based and open source Android wallet Crescent Cash also added the ability to send coin through Cointext. This means that with EC implementing the Cointext feature, BCH users now have a few noncustodial solutions to choose from if they want to utilize this feature. After the latest EC 4.0.6 version release the Youtube channel Bitcoin Out Loud published a video that shows how EC users can send BCH to any mobile phone. BCH supporters were thrilled to hear the news and discussed the topic on the Reddit forum r/btc.
+
+“Amazing work everyone — This is why BCH has a future,” one person remarked on the forum. “So many epic projects are happening here while ‘other’ projects are stagnating.”
+
+Cashshuffle Shuffle Limit Extended to 99.9 BCH
+
+Essentially, in order to use the Cointext option with EC simply enter ‘cointext: ANY_PHONE_NUMBER’ (e.g cointext:12125551234) in the send tab. There’s also a new transaction dialog feature that allows you to get accurate fees, input addresses and input amounts for any transaction in the wallet. Another notable improvement that should add more liquidity to the Cashshuffle protocol is the raised default shuffle limit to 99.9999 BCH. The former version of EC had a Cashshuffle default limit set to 50 BCH and now a great number of coins can be shuffled at once.
+
+Electron Cash is so far the only wallet that has implemented the Cashshuffle protocol but since the release of the Cashshuffle library and statements from other wallet curators, that will change in the near future. People utilizing the EC wallet to shuffle coins have completed 10,422 shuffles since the official Cashshuffle launch on March 27, 2019. So far, 51,295 BCH or $21 million at current bitcoin cash prices has been shuffled. The latest Cointext implementation offered by the Electron Cash wallet also follows Cointext and Anypay’s recent remittance solution announced on June 3. Bitcoin cash payment processors, supporters and now infrastructure providers who develop wallets are finding great value in providing individuals with the ability to send BCH to any phone with SMS messaging capabilities.
+
+What do you think about EC adding Cointext abilities and the latest Cashshuffle limit increase for shuffling coins? Let us know what you think about this subject in the comments section below.
+
+Image credits: Shutterstock, Twitter, Electron Cash, Acidsploit’s stat page, and Pixabay.
+
+Want to create your own secure cold storage paper wallet? Check our tools section. You can also enjoy the easiest way to buy Bitcoin online with us. Download your free Bitcoin wallet and head to our Purchase Bitcoin page where you can buy BCH and BTC securely.

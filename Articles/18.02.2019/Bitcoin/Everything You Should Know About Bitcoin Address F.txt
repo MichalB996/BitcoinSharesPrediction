@@ -1,0 +1,37 @@
+DATE:  18.02.2019, 20:15:23
+TITLE: Everything You Should Know About Bitcoin Address Formats
+URL:   https://news.bitcoin.com/everything-you-should-know-about-bitcoin-address-formats/
+
+Everything You Should Know About Bitcoin Address Formats
+
+A wallet address, comprising a string of 26-35 alphanumeric characters, is all it takes to send and receive bitcoin. Any bitcoin address can be used to transfer cryptocurrency to any other address on the network, provided the sender’s wallet software supports that address type. With multiple address formats to choose from, and wallet providers and exchanges only supporting certain address types, it pays to familiarize yourself with the differences.
+
+Also read: Bitcoin Cash-Focused Ifwallet Implements Cash Accounts Name System
+
+Address Formats Are the Internet Protocol of Bitcoin
+
+Just as there are multiple versions of the Internet Protocol, such as IPv4 and IPv6, there are multiple bitcoin address formats. Most of the time, these don’t come into conflict with one another, with transactions zipping seamlessly across the network between custodial and non-custodial wallets. There are three Bitcoin Core address formats to choose from, P2PKH, P2SH, and bech32, with only a handful of service providers supporting all of them. There’s a good chance your preferred wallet or exchange doesn’t support at least one of these formats, with bech32 the likeliest to be omitted.
+
+Learning the pros, cons and quirks of each address format will enable you to choose a compatible bitcoin wallet, exchange or platform. It will also furnish you with a deeper knowledge of Bitcoin’s inner workings, and reveal the trade-offs that come with each format in terms of security, flexibility and functionality.
+
+P2PKH or Legacy Address Format
+
+If your bitcoin address starts with a 1, you’re using a P2PKH or legacy address, for example 1BvBMSEYstWetqTFn5Au4m4GFg7xJaNVN2. This was Bitcoin’s original address format and it still works faithfully to this day. P2PKH, incidentally, stands for Pay-to-Pubkey Hash i.e pay to a hash of the recipient’s public key. Legacy addresses are not segwit compatible, but you can still send BTC from a P2PKH address to a segwit address without any problems. The average fee when sending from a P2PKH address is likely to be higher than when sending from a segwit address, however, because legacy address transactions are larger in size.
+
+P2SH Address Format
+
+P2SH addresses are structured similarly to P2PKH, but start with a 3 instead of a 1, for example 3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy. P2SH, which stands for pay to script hash, enables more elaborate functionality than legacy addresses. The P2SH script function is most commonly used for multisig addresses which can specify, for example, that multiple digital signatures are required to authorize the transaction. This address format is also used to enable non-native segwit transactions using a process known as P2WPKH-in-P2SH. The average person sending and receiving coins doesn’t need to concern themselves with the more complex functionality that the P2SH format can bestow: all that matters is that this address type is widely supported and can be used to send funds to both P2PKH and bech32 addresses.
+
+Bech32 Address Format
+
+Bech32 addresses look distinctly different from the P2-style addresses. Each one starts with “bc1” and is longer than a legacy or P2SH address on account of this prefix. Bech32 is the native segwit address format, and is supported by the majority of software and hardware wallets, but a minority of exchanges. Ledger and Keepkey wallets currently don’t support bech32, for instance, and while most exchanges enable sending funds to bech32 addresses, they don’t enable users to receive them with this format. At present, less than 1 percent of BTC is stored in bech32 addresses, although this number is increasing slowly.
+
+Bitcoin Cash Address Formats
+
+Bitcoin Cash addresses can follow either the legacy format (which starts with a 1) or more commonly the Cash Address (Cash Addr) format. It’s based on bech32 and starts with ‘q’ or ‘bitcoincash:q’. BCH wallets can support both formats, with tools enabling users to switch between Cash Addr and legacy formats. The primary reason for using the Cash Addr format is to distinguish BCH from BTC and thereby prevent funds being sent to the wrong address.
+
+Which BTC and BCH address formats do you most commonly use? Let us know in the comments section below.
+
+Images courtesy of Shutterstock and P2sh.info.
+
+Need to calculate your bitcoin holdings? Check our tools section.

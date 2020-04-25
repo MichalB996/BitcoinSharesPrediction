@@ -1,0 +1,33 @@
+DATE:  02.04.2019, 00:02:32
+TITLE: Bitcoin Dev Demos the First Lightning-Enabled Bitcoin ATM
+URL:   https://bitcoinmagazine.com/articles/bitcoin-dev-demos-first-lightning-enabled-bitcoin-atm
+
+Ring in the new bitcoin halving cycle the right way: with us!
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+At the Bitcoin Association of Hong Kong’s Lightning Hack Day on March 31, 2019, Bitcoin developer Felix Weis presented a successful demonstration of his Lightning-enabled plugin for a Bitcoin ATM.
+
+Weis, who identifies himself on Twitter as a “bitcoin traveler and freelance developer,” demonstrated a Lightning-driven withdrawal using a 20 Hong Kong dollar (HKD) bill and a mobile bitcoin wallet on his cell phone.
+
+The software plugin was built in Java over the course of the hackathon weekend.
+
+How Does It Work?
+
+During the demonstration, Weis’s ATM — for which he designed the Lightning-enabled software but not the physical machine — offered the option to receive bitcoin either on-chain (requiring a roughly 10-minute confirmation time) and then prompted Weis to scan his Lightning invoice. During the demonstration, Weis pointed out that the maximum withdrawal limit is 20 HKD, roughly $2.55 USD or 0.00061893 BTC. Leo Weese, who organized the hackathon, was able to make a similar withdrawal.
+
+Most Bitcoin ATMs that exist today do not execute as quickly as Weis’s modified one did in the video, not because they don’t utilize Lightning but because they often require some form of know-your-customer (KYC) compliance that delays the process by requiring users to visit a website and provide their personal information as they would on a custodial exchange.
+
+A Different Kind of Bitcoin ATM
+
+A Lightning-enabled Bitcoin ATM as demonstrated by Weis could provide several key advantages over its predecessors. With the average Bitcoin ATM, customers looking to withdraw a typical amount of bitcoin will need to wait at least a few minutes before receiving it, over which the value of the withdrawn amount might fluctuate slightly.
+
+While this may not significantly affect a customer’s purchasing power, a Lightning-enabled Bitcoin ATM offers a significant advantage in this department due to its near-instantaneous payment delivery. Lightning enables bitcoin micropayments and, coupled with the rapid speed of a Lighting transaction, a Lightning-enabled ATM allows for satoshi-level invoice precision. In other words, customers can withdraw a precise amount as close to the fiat conversion rate as possible and receive it in essentially real time.
+
+As Weis told Bitcoin Magazine, one “major benefit of the Lightning Network” integration on Bitcoin ATMs would be instant withdrawals on two-way machines. This contrasts with on-chain transactions which “can take from minutes to hours if the customer (unknowingly) chose a low mining fee.”
+
+Still, there are a few speed bumps in the way of bringing Lightning to every Bitcoin ATM. Weis told Bitcoin Magazine that, in order for this to be implemented in other ATMs, ATM operators will have to run their own Lightning nodes and make sure they have enough in- and outbound liquidity. In addition, he said that the current software does not accommodate instantaneous withdrawals but that he hopes to code this functionality “very soon.”
+
+Weis said that his plugin is compatible with any General Bytes Bitcoin ATM in Hong Kong, a hardware and software company that produces Bitcoin-related products.

@@ -1,0 +1,57 @@
+DATE:  24.08.2019, 20:51:55
+TITLE: Is Lightning Network the Most Optimum Bitcoin Scaling Solution?
+URL:   https://bitcoinist.com/is-lightning-network-the-most-optimum-bitcoin-scaling-solution/
+
+Bitcoin Technology Is Lightning Network the Most Optimum Bitcoin Scaling Solution?
+
+The Lightning Network has been subject to controversy since it’s rise to prominence in 2016. Championed as BTC’s solution to scaling, thousands of people in the Bitcoin community voiced their opinions on how it wouldn’t work. Now, nearly a year and a half later, it is still receiving criticism regarding its centralization, routing issues, and poor user experience.
+
+The Lighting What?
+
+If you already understand how the LN works, I suggest skipping to the next section.
+
+During the Bitcoin scaling debate in 2016/2017, the lightning network and other layer-two solutions were considered the best path forward for the network, instead of a minor blocksize increase. The Lightning Network uses routed payment channel technology, something that even Satoshi discussed back in the day.
+
+Instead of broadcasting transactions to the whole network, two users can send money back and forth between each other without ever touching the blockchain. Using cryptography and a hefty helping of game theory, the idea is to be able to pay anyone in the world even if you don’t have a channel directly with them.
+
+Let’s just start with payment channels first. For example, let’s say Alice and Bob want to transact. They each fund their payment channel with 1 BTC. This “funding” just goes into a special type of address. Think of it like beads on a string, they both have an equal number of beads on each of their respective sides. If Alice wants to pay Bob, she can just slide a bead over to his side.
+
+In reality, those “beads” are signed transactions. Both parties sign the transaction, but they don’t broadcast it. If either party wants to end the channel and withdraw their money, they can simply broadcast the last signed transaction and the balances are settled on the blockchain. So Alice can send Bob 0.1, Bob can send back 0.2, back and forth until one party no longer wishes to keep the channel active.
+
+Now, let’s bring Carol in the mix. He sold some goods to Alice, but he does not have a channel with Alice. However, he does have a funded channel with Bob! Using some cool cryptography, Alice can send money to Bob who will, in turn, slide some beads over to Carol. This is done in a trustless, safe way and every party can verify the outcome.
+
+From there, you can think along the lines of six degrees of separation. Every node should be able to route a payment to every other node, provided a path is available.
+
+Economics of the Lightning Network
+
+The idea is that every node will have some passive income, as a routing node can charge a small fee to route the transaction. These fees can be extremely low, even sub-satoshi amounts.
+
+According to BitcoinVisuals.com, there are just under 10,000 currently operating LN nodes. The network’s capacity, or the number of bitcoins currently locked in LN nodes, is roughly 850 bitcoin, or around $9M. That number has been dropping in recent months, coming down from a high of almost 1100 bitcoin in April of this year.
+
+While that sounds like a high number, keep in mind that only 0.0047% of all the Bitcoins in existence today.
+
+On top of this, a single organization known as LNBig.com controls around $5M of the $9M on the LN currently. With over 1800 payment channels between nodes, they are the biggest entity on the LN by a long shot.
+
+On Reddit, LNBig talked about their fee structure and their outlook for the future of the LN
+
+I have 200-300 transactions through all nodes a day, rarely 600 when. On commissions, I earn 5,000-10,000 sats per day. It’s $0.4-$0.8. It’s $20 in month maximum…. At the opening of the channels (closing-opening again) i spent, probably, more than one thousand dollars. Therefore, no earnings now
+
+That $20 of income for $5M locked up. In other words, that’s a $48 yearly return per million dollars locked in the network. With the cost of opening and closing channels at $1,000, not to mention the hardware needed to run all those nodes, it seems as the whole LNBig operation has been a purely charitable venture.
+
+In the Reddit thread, LNBig also said that they had started closing unused/unresponsive channels a few months ago. In turn, the capacity of the network dropped by over 200 BTC.
+
+Will the LN Work?
+
+Despite the network growing massively in the first half of 2019, the number of channels and network capacity continues to drop.
+
+Ethereum founder Vitalik Buterin tweeted about layer two technology, speaking specifically about Ethereum’s own version of the LN known as Plasma.
+
+I have been getting more and more pessimistic about off-chain-data L2s over time. @VladZamfir is right; they're just hard to build, require too much application-layer reasoning about incentives, and hard to generalize. — Vitalik Non-giver of Ether (@VitalikButerin) August 21, 2019
+
+Despite some proponents claiming it works fine right now, some serious development work is needed if the LN is ever going to live up to some of its promises. Things like having to keep your wallet online 24/7, not being able to receive money until you’ve sent money, or losing all your money in the event of a computer crash has made people understandably cautious about using the LN.
+
+New technology like splicing atomic multi-pathways and others may be able to dig LN out of the hole its currently in. But as of now, a year and a half after the first release of a Lightning Network implementation, things aren’t looking great Bitcoin’s second layer.
+
+What do you think about the Lightning Network? Will Bitcoin need a different scaling strategy, or will LN end up working out? Let us know your thoughts in the comments below!
+
+Images Courtesy of Bitcoinist Media Library, BitcoinVisuals, Twitter: @VitalikButerin

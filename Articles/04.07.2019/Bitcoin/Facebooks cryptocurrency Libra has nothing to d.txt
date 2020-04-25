@@ -1,0 +1,47 @@
+DATE:  04.07.2019, 22:15:27
+TITLE: Facebook’s ‘cryptocurrency’ Libra has nothing to do with Bitcoin
+URL:   https://venturebeat.com/2019/07/04/facebooks-cryptocurrency-libra-has-nothing-to-do-with-bitcoin/
+
+By now, you’ve probably caught wind of Facebook’s freshly-unveiled cryptocurrency, Libra. The news captured international media attention and has dominated headlines for more than two weeks since the official announcement. But if this is the first time hearing of it, welcome to the future where data wasn’t enough and now Facebook wants to control monetary policy, too.
+
+Those of us immersed in the Bitcoin realm have known that Facebook has been working on a cryptocurrency for some time, but it wasn’t until June 18 that we got to see exactly what it would look like. For many of us in this industry, it was more or less what we expected; namely, it’s not really a cryptocurrency and offers none of the benefits of the Bitcoin brand.
+
+What is a cryptocurrency?
+
+Bitcoin, the world’s first cryptocurrency best known in pop culture for its wild price swings, is called a cryptocurrency because it employs encryption to process transactions and transfer value. This end-to-end encryption makes transactions highly secure (nigh unbreakable) and irreversible. These transactions are recorded on what is called the blockchain. This technology, the backbone of the Bitcoin network, acts like a digital ledger that keeps an immutable and constantly up-to-date record of all account balances on the network and makes sure no one cheats the system to spend coins they don’t have.
+
+The Bitcoin network’s (capital B) key features are immutability, security, permissionlessness, and decentralization — all transactions are final, the network is effectively impossible to compromise, anyone can use it as freely as the internet itself, and no central entity (like a government or bank) controls it. The network’s currency, bitcoin (lower case b), is scarce and censorship-resistant. Only 21 million bitcoin will ever exist, and the currency is as impractical to police or ban as the internet.
+
+As an endogenous currency for the internet, Bitcoin is also global. Sending bitcoin from Nashville to, say, Seoul, South Korea could take as little as a few minutes depending on the transaction fee the sender sets. By contrast, a bank wire could take as long as a week.
+
+Why Libra fails the test
+
+To grasp the implications of Libra in the wider world of cryptocurrencies, of which there are thousands, it’s vital to understand how Bitcoin operates and why its users see value in a decentralized, non-national monetary system. By highlighting how Bitcoin works alongside Libra, it’s clear that the two have about as much in common as the Federal Reserve’s monetary policy does with gold mining — or a corporate powerhouse does with an employee-owned company.
+
+For example, unlike Bitcoin, which is an open system, Libra is closed and will be highly gatekept. Facebook announced the currency in partnership with 27 other major corporations, firms, and non-profits, including Visa, Mastercard, Spotify, Lyft, Uber and Ebay. These Founding Members make up the Libra Association, which will be in charge of processing transactions for the network and maintaining its version of the blockchain. By the coin’s tentative launch in 2020, the project hopes to expand to roughly 100 members.
+
+This means a mere 100 servers, also known as nodes, will maintain the network. By contrast, Bitcoin features something near 11,000 nodes on a global scale to verify and broadcast transactions to the rest of the network. These “full nodes,” as we call them in the industry, are accompanied by “mining nodes,” which provide computing power to order transactions into blockchain and secure the network from attacks. They receive transaction fees and freshly-minted bitcoin from the network as a reward for this service; this coin minting process, which releases freshly mined coins at a set inflation schedule (right now, roughly 2% per annum), is how the network manages a monetary policy without a centralized entity. Together, these nodes construct the decentralized framework that makes Bitcoin so sturdy; if you were to take down or compromise one of these nodes, the network would still be secure because thousands of others are still running the code to support the network.
+
+In no way will Libra be decentralized or offer the protections Bitcoin features by design. With Bitcoin, anyone can run a full or mining node, but with Libra, each Founding Member had to commit a minimum $10 million to have the privilege of joining the network. In the future, any other entity wishing to join the Libra Association will have to pay a similar or perhaps even heftier sum.
+
+So what does running a node entitle these members? Well, besides becoming a sentinel of an entirely new monetary system, they will also receive transaction rewards and dividends from the Libra Reserve. This reserve will include a basket of government-backed assets, such as national currencies, bonds, and securities, whose interest will pay out in dividends to Association Members proportional to their stake in the Libra network.
+
+Sound like a familiar model? If the federation of members, who have the monetary control to issue or redeem Libra coins for national currencies to authorized brokers, didn’t give it away, then the Libra Reserve should drive it home: The Libra Association is basically a corporation-run central bank not unlike the Federal Reserve. Its bank reserves will give the coin a stable value, likely a buck per coin, and each coin will be issued/loaned against this reserve and redeemable by it.
+
+This is yet another major departure from Bitcoin, which isn’t backed by any asset other than itself. Some argue that this means bitcoin has no intrinsic value, and the Libra project explicitly states in its whitepaper that the Libra currency is backed by government-issued assets to inject it with “real” value. But as any Bitcoin proponent will tell you, bitcoin’s nature as a monetary network divorced from state interests is exactly why it is valuable; unlike government issued currency, which can be subject to reckless issuance/inflation and centralized control, bitcoin, like gold, is finite and disrupted in a decentralized manner.
+
+Because Bitcoin it is decentralized, there’s no central authority to control monetary policy or police user activity. No one on the network can block you from participating, no one can keep you from transacting, and no one can freeze your funds. You are the captain of your wallet, the master of your coins.
+
+A centralized network like Libra, however, loses all of these features we associate with cryptocurrencies. The Association will be able to blacklist users they don’t want to service, they will be able to rollback transactions they don’t like, and like a bank, they will have total access to all your financial information: who you paid, when you paid, why you paid, and how much you paid. Given Facebook’s reputation for mismanaging user data and its flippant approach to privacy, an understandable concern from the community and even lawmakers has been, “Can we trust Facebook with our money and its related data?”
+
+Hijacking the crypto narrative
+
+If Libra isn’t quashed by regulators before it launches, the market will decide where to place its trust and whether it will value convenience over privacy and financial self-sovereignty. Libra has waxed poetic about creating an inclusive, border-transcending monetary system that will serve both the the world’s unbanked and the economically privileged alike. Facebook took a page right out of Bitcoin’s playbook with this one, because this is exactly the impact Bitcoin’s pseudonymous creator(s), Satoshi Nakamoto, heralded upon its launch in 2009: a parallel monetary system that exists outside of the traditional framework and that is borderless, free for anyone to join, and is extremely difficult for governments to censor. With Bitcoin, you are your own bank.
+
+Libra has hijacked this narrative without offering any of the features that the narrative was built on. It is highly centralized, can bar people from using it as a means of exchange, and will make it very easy for governments to trace transactions and to disenfranchise users they don’t want on the network. With Libra, you’re not the bank; it is. It’s a glorified IOU for the dollar and other national currencies masquerading as a cryptocurrency whose “blockchain” will likely resemble something more akin to a cloud database than the real thing.
+
+As such, its main competitor, ironically, is the banking industry. With Libra, Facebook and friends have opened up a new monetary front. For the first time since the Wildcat Banking of the 1800s, the Austrian ideal for privately-issued currency competition is yet again a possibility. With Libra, people now have an additional option alongside the state’s monopoly over currency issuance.
+
+If you’re using Libra, the new boss is the same as the old boss; they just work in the corporate offices of Silicon Valley instead of the member banks of the Federal Reserve.
+
+Colin Harper is an associate editor and staff writer for Bitcoin Magazine. You can find him on Twitter @AsILayHodling.

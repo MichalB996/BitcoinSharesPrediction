@@ -1,0 +1,13 @@
+DATE:  21.01.2020, 17:50:22
+TITLE: Square Crypto Is Creating a ‘Lightning Development Kit’ for Bitcoin Wallets
+URL:   https://www.coindesk.com/square-crypto-is-creating-a-lightning-development-kit-for-bitcoin-wallets
+
+Square Crypto, the payment company's bitcoin-focused wing, is building a "Lightning Development Kit" for wallet and app developers to more easily build on the layer-2 solution.
+
+Announced Tuesday, the new kit includes an API, language tools, demo apps and other features to help developers integrate support for Lightning payments into their own wallets. Existing bitcoin wallets will also be able to support Lightning through the new kit, rather than requiring companies to build a separate wallet.
+
+The tools will help developers create better user experiences, a Medium post explained.
+
+"For bitcoin to become a widely used global currency – one that can’t be stopped, tampered with or rigged in anyone’s favor – improvements to bitcoin’s UX, security, privacy, and scaling are required," the group said.
+
+The post indicated the kit is still being built out and did not provide a timeline for release, but said "today's Lightning infrastructure is incomplete without features like these."

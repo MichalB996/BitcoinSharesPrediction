@@ -1,0 +1,31 @@
+DATE:  19.05.2019, 11:30:23
+TITLE: Bitcoin History Part 13: The First Mining Pool
+URL:   https://news.bitcoin.com/bitcoin-history-part-13-the-first-mining-pool/
+
+Bitcoin History Part 13: The First Mining Pool
+
+The notion that anyone could solo mine bitcoin – on a CPU no less – seems positively quaint today. But in 2010, this method wasn’t just possible – it was the norm. With an exponentially lower hashrate, less competition and a 50 bitcoin block reward, there was enough pie for everyone to get a bite. But some miners didn’t just want a bite – they wanted a whole slice, and to achieve that, they decided to join forces and pool their hashpower. And thus “cooperative mining” was born.
+
+Also read: Bitcoin History Part 12: When No One Wanted Your BTC
+
+Bitcoin’s Pool Birth
+
+If Bitcoin is a revolution, it is one which contains a series of micro-revolutions. In late 2010, Bitcoin was to experience its first industrial revolution when a few miners agreed to combine their hashing power. In that moment, history was made, and in the years to come, so was a lot of money. Not everyone was enamored with the idea, though, when it was first floated by Slush on November 27, 2010. “Once people started to use GPU enabled computers for mining, mining became very hard for other people,” he explained. “I’m on bitcoin for few weeks and didn’t find block yet (I’m mining on three CPUs). When many people have slow CPUs and they mining separately, each of them compete among themselves AND against rich GPU bastards ;-).” He continued:
+
+I have an idea: Join poor CPU miners to one cluster and increase their chance to find a block!
+
+Slush added: “Advantages? When you have poor standalone computer, you need to wait many weeks or even months for finding full 50BTC reward. When you join cluster like this, you will constantly receive small amount of bitcoins every day or week (depends on full cluster performance) … I think it is extremely important for bitcoin economy to diversify mining across whole network and not leave mining on few lucky guys with fast GPUs.”
+
+Skeptics Were Skeptical But the Believers Believed
+
+Reaction to Slush’s bold proposal was mixed. Some bought into the idea, while others were distinctly unimpressed. “Isn’t cooperative mining a form of communism?” responded one Bitcointalk user. “I think it’s useless and much harder to do than one might think.” “This is fundamentally flawed,” snapped another pooled mining opponent.
+
+Slush remained undaunted, though, and within three weeks of his proposal, “cooperative mining,” as it was then known, began. Slush Pool was compatible with Jeff Garzik’s bitcoin CPU miner at launch as well as a couple of early GPU miners. “There is already ~600000khash/s [600 MH/s] of power and more will come tomorrow,” proclaimed Slush. He wasn’t wrong.
+
+Today, Slush’s cooperative mining Bitcointalk thread has grown to 1,148 pages, and Slush Pool, which currently captures 9.3% of the BTC network hashrate, has also grown spectacularly. Since 2010, it’s mined over 1 million BTC and now boasts 8,500 miners and a hash rate of more than 5 EH/s – an increase of 8.4 billion X in nine years.
+
+Bitcoin History is a multipart series from news.Bitcoin.com charting pivotal moments in the evolution of the world’s first and finest cryptocurrency. Read part 12 here.
+
+Images courtesy of Shutterstock and Blockchain.com
+
+Did you know you can earn BTC and BCH through Bitcoin Mining? If you already own hardware, connect it to our powerful Bitcoin mining pool. If not, you can easily get started through one of our flexible Bitcoin cloud mining contracts.

@@ -1,0 +1,17 @@
+DATE:  12.04.2020, 08:00:30
+TITLE: After Bitcoin’s halving event will its network security model require tweaking?
+URL:   https://eng.ambcrypto.com/after-bitcoins-halving-event-will-its-network-security-model-require-tweaking/
+
+One of the key features of cryptocurrencies like Bitcoin that are based on a blockchain has to do with its immutable nature. Bitcoin’s proof of work network model, while not the best scalable solution, has cemented itself a robust and secure form of registering transactions. In such an ecosystem, transaction fees, the available hash rate, profitability, etc. tie into its larger security narrative and play an integral role in thwarting possibilities like a 51 percent attack on the network.
+
+In a recent episode of the Chain Reaction podcast, Dan Held, Director of Business Development for Kraken Digital, highlighted issues pertaining to the Bitcoin security model along with the role of transaction fees in the ecosystem. In the next 30-days Bitcoin will undergo its third block reward halving and this may have security implications according to Held. He pointed out that,
+
+“The big picture is Bitcoin security, whether the security model stand up to attackers in the long run. And a core component of that is looking at the block reward, which is comprised of the block subsidy and transaction fees. And examining if transaction fees will replace the block subsidy in a meaningful manner and it meaningful enough to ensure security for the network.”
+
+He highlighted that when it comes to Bitcoin and cryptocurrencies in general, users will always migrate towards blockchains that are more secure. He added, “People will naturally gravitate towards a blockchain that has that highest amount of security. There’s a lot of costs involved when you transact via block space. When we look at Bitcoins specifically, and the transaction sort of elasticity on Bitcoin’s block space, when people transact on Bitcoin’s block space, what fees are they willing to pay.”
+
+Interestingly, according to network data from coin metrics, transaction fees for Bitcoin over time has been on the rise. Held also elaborated on how much fees people are willing to pay as transaction fees for Bitcoin by comparing what users pay as similar fees for other stores of value assets. He concluded,
+
+” Bitcoin actually is a phenomenally better asset than these other ones. I mean, with real estate, not only do you have these transaction fees, but the asset you own isn’t fungible, it’s got maintenance costs and it’s a very illiquid market. So in fact, you could claim that users would be willing to pay even higher amounts and transaction fees.”
+
+A few days ago, Bitcoin fork coin, Bitcoin Cash underwent its first-ever halving. What was alarming about the event was that BCH saw a collective drop in its hash rate and profitability leaving ample room for its network security to be compromised. As Bitcoin too will witness a block reward halving, miner incentives will drop and is likely to become more dependent on transaction fees when it comes to validating transactions on the blockchain.

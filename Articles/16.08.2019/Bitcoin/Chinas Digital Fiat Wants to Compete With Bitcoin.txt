@@ -1,0 +1,95 @@
+DATE:  16.08.2019, 14:40:09
+TITLE: China’s Digital Fiat Wants to Compete With Bitcoin – But It’s Not a Crypto
+URL:   https://www.coindesk.com/is-chinas-digital-fiat-a-cryptocurrency-heres-what-we-know
+
+The Takeaway:
+
+A review of over 50 patent applications submitted by the People’s Bank of China shows t he design of its central bank digital currency will only resemble a cryptocurrency in limited ways.
+
+he design of its central bank digital currency will only resemble a cryptocurrency in limited ways. A senior official at the central bank said the effort will be helpful to “restrain public’s demands for crypto assets and to strengthen the country’s sovereign currency.”
+
+Far from emulating the decentralized aspects of ether and bitcoin, the official emphasized the issuance of the central bank’s digital currency will stick to a centralized management model.
+
+China may be about to launch a fiat digital currency, but in all likelihood, it will only resemble a cryptocurrency on the surface.
+
+And it probably won’t use a blockchain. While inspired to some degree by bitcoin and the like, the effort is explicitly framed as a strategy to beat them back.
+
+The project was thrust into the spotlight last weekend when a senior official from the People’s Bank of China (PBoC) said at a closed-door conference that the country’s central bank digital currency (CBDC) is ready to launch.
+
+In his speech, widely covered in the press, Changchun Mu, deputy director at the PBoC’s payments division, notably said:
+
+“Since last year, the staff at the Digital Currency Research Lab have been working 996 to develop the system. We can say the CBDC is now ready to launch at one’s call.”
+
+(996 is a phrase commonly used in the Chinese tech startup scene, referring to working from 9 a.m. to 9 p.m., six days a week.)
+
+The CBDC aims to replace M0, meaning cash in circulation, via a two-tier system: the central bank issues the digital yuan only to commercial banks, who will further issue it to the public, Mu said. This approach is perhaps unsurprising since Yao Qian, the former chief of the research lab, hinted at this design in an op-ed published in CoinDesk in 2017.
+
+However, one comment from Mu that got overlooked by many is that he believes “the two-tier issuance system will be helpful to restrain the public’s demands for crypto assets and strengthen the country’s sovereign currency.”
+
+Mu did not elaborate on how everyday users would interact with this proposed mechanism or to what extent the CBDC really employs distributed ledger technology. And it remains unclear when the central bank plans to test and roll it out or, upon its launch, whether it will be optional or mandatory for Chinese consumers.
+
+But dozens of patent applications submitted by the research lab to China’s State Intellectual Property Office reviewed by CoinDesk offer a window into the PBoC’s thinking on how the system may function and its similarities and (more importantly) differences with crypto.
+
+Crypto-inspired
+
+The PBoC’s Digital Currency Research Lab was formally launched in the summer of 2017 and spearheaded by Yao Qian, although Mu indicated the work has been ongoing for five years. Yao left the position for a different agency around October 2018.
+
+To date, the lab has filed more than 50 patent applications, all either invented or co-invented by Yao, and about 20 of those focus on design specifications of a so-called digital currency wallet.
+
+Each document covers a specific technology feature of the proposed system, ranging from how to apply for and create a wallet, how to transfer money to and from saving accounts, how a peer-to-peer transaction is verified, etc.
+
+The goal is to build a wallet to store digitized yuan that is unlike the electronic wallets of any bank or third-party payments application. Those wallets, one patent document says, are “merely an extension of assets held in custody at a bank account.” As such, the approach borrows the idea from bitcoin of a peer-to-peer transaction system where users possess private keys to control the asset.
+
+One patent application, entitled “a method and system for enquiring digital currency transaction information” filed on Dec. 28, 2017, describes a digital currency wallet that aims to bridge the gap between existing electronic wallets and “private quasi-digital currency wallets, like that of bitcoin.”
+
+The former is not an independent wallet, which may incur security issues, and the latter, while allowing users to personally possess their assets, does so in an anonymous way with transactions of that can’t be reversed, the document further states.
+
+Another patent application added:
+
+“The emergence of digital currency is an inevitable trend. So far, privately issued digital currency bears the features of anonymity and volatility. Central banks must take their impacts on the payments, monetary systems and financial stability seriously. As such, it’s inevitable for central banks to push for digitized fiat currencies to optimize their circulation.”
+
+KYC-ed digital yuan
+
+And one crucial way to optimize such circulation appears to be stripping the anonymity feature of cryptocurrencies and including a know-your-customer (KYC) process required by other payment methods.
+
+So far, physical cash is arguably the only form of fiat money inside China that can remain anonymous, compared to bank wire or third-party methods offered by companies like Alibaba or WeChat – both requiring real-name verification authenticated by users’ IDs and banking information.
+
+“Existing M0 (banknotes and coins) are subject to counterfeit and money laundering risks. … The [CBDC] system should follow the existing rules about anti-money laundering and anti-terrorism financing imposed on cash, and should report to the PBoC on large amounts and suspicious transactions,” Mu emphasized during his speech.
+
+His note echoes the design specifications entailed by various patent applications for the proposed peer-to-peer digital currency wallets.
+
+For example, the patent application on how to apply and create digital wallets filed on Dec. 28, 2017 stated that the system lets users apply through their banks and the creation of such digital currency wallets will be registered at the issuance organization.
+
+Another document detailing how to redeem the CBDC from saving accounts filed on June 26, 2017 explained that after a user sends a request to withdraw money from their saving accounts – similar to withdrawing from an ATM, except now it’s not cash but in a p2p wallet – the corresponding issuers will need to verify a user’s ID before granting the redemption.
+
+And after that, when a user initiates a payment transaction from the independent digital wallet, a third party will verify who is sending how much to whom.
+
+A third document detailing this method states:
+
+“A sender would authorize a payment deduction request to a receiver’s digital currency wallet. The receiver would verify such request, which will then be sent to the CBDC issuance registration system. The payment will complete after the verification of such request [by the system].”
+
+In addition, another document specifies a system that aims to customize a tracking solution to make the CBDC traceable even across multiple owners and layers.
+
+All of this, of course, is a far cry from bitcoin, where there is no central authority, anyone can download software and create a wallet without presenting ID, and payments can be made without any middleman’s permission.
+
+Decentralized no more?
+
+Another open question is to what degree the PBoC’s digital currency system may include the features of blockchain, if at all.
+
+One of the earliest patent documents filed more than two years ago detailed that the central bank did at one point explore the idea of using a distributed network to manage nodes for verifying transactions.
+
+“This technology would empower smart contracts on a blockchain infrastructure to dynamically manage nodes in the network to ensure they share and transact the same data with security and scalability,” the doc stated.
+
+Mu’s speech also alluded to this approach but added that the strategy has indeed changed over the years. At the very beginning, the research lab did build a prototype completely on blockchain infrastructure but later encountered the issue of scalability, he said, adding:
+
+“Since we are using digital fiat currency to replace M0, to reach a retail-level adoption, the first issue that we can’t bypass is the demand for high-volume transactions.”
+
+Mu used the example of a shopping holiday popular among young people in China to show how blockchains aren’t suitable for mass adoption:
+
+“Our payments network during last year’s Singles’ Day sale at its peak handled 92,771 transactions per second. In comparison, bitcoin and ethereum handles seven and 10 to 20 transactions per second, respectively. [Facebook’s] Libra, based on its recently released white paper, is 1,000 transactions per second. For a country as big as China, it’s impossible to achieve high scalability by purely relying on blockchain. As such, we have decided to remain technologically neutral and do not necessarily rely on one fixed technological path.”
+
+He concluded in his speech that although crypto assets have the natural feature of decentralization, the PBoC’s Digital Currency, under the two-tier system, must stick to a centralized management model.
+
+“Only designated organizations can operate the redemption and needs to be centrally managed to prevent over-issuance and to ensure the central bank’s management position,” he said.
+
+Yuan image via Shutterstock

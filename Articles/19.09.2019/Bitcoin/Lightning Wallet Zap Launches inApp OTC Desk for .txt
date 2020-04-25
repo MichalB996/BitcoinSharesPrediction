@@ -1,0 +1,55 @@
+DATE:  19.09.2019, 17:00:07
+TITLE: Lightning Wallet Zap Launches in-App OTC Desk for Bitcoin Buyers
+URL:   https://www.coindesk.com/lightning-wallet-zap-launches-in-app-otc-desk-for-bitcoin-buyers
+
+Wallet developer Jack Mallers, the founder of Zap Solutions, wants to improve the Lightning Network’s user experience.
+
+To achieve that goal, Zap is launching a dollar-denominated bitcoin buying feature inside its lightning-friendly mobile and desktop wallet. Zap is kicking off the feature with an invitation-only beta release in late September.
+
+“We’ve architected the [wallet] codebase so that we can release a version that doesn’t include know-your-customer information,” Mallers told CoinDesk. “The KYC stuff is only pulled in when you want to buy or sell bitcoin. You download [Zap], link it to your debit card. KYC is just email, name and address. Then buy bitcoin, sent to you via lightning, that’s almost instantly spendable.”
+
+To be clear, this feature isn’t mandatory and anonymous users will still be able to connect the wallet to their own remote nodes via Tor. But for prospective buyers, Mallers managed to make this option without becoming an exchange by operating a backend over-the-counter desk that buys the bitcoin from exchanges on wallet users’ behalf and then places it directly to the users’ personal custody.
+
+“Zap acts as a gateway, it can absorb the order and execute on any of the exchanges,” Mallers said, referring to both the system and open-source code. “If anyone comes up with a cooler wallet they should be able to follow this regulatory framework. … It should be trivial to copy and paste what I did into their own wallet.”
+
+Mallers said he is currently applying for a money transmitter license in each state and planning to go global in 2020. (As a first step, Zap Solutions registered as a money services business with the U.S. Treasury’s Financial Crimes Enforcement Network on Sept. 19, according to a public filing.)
+
+“Our licensing allows us to serve any user group between small consumer orders to large institutional orders,” he added.
+
+Beyond the American market, a Palestinian bitcoin user in Ramallah, who asked to remain anonymous, told CoinDesk that he is currently translating Arabic tutorials for the wallet.
+
+“The banking system is trash over here. You can’t open a bank account unless you already have a job,” the Palestinian Zap user said. “Also, if you deposit or receive more than $4,000, you get a call from the authorities asking you to explain why. I have a sister over in the U.S. and I want to send her $100 for the holidays but it costs $20 with MoneyGram.”
+
+Like most Palestinian users, this Zap contributor can’t use traditional exchanges because such platforms don’t work with Palestinian banks. He said it’s hard to use decentralized exchanges, or DEXs, and grassroots networks because the West Bank’s bitcoin market liquidity is so limited that traders can charge high premiums.
+
+“Zap and lightning will help us save on bitcoin fees,” he added, speaking about the wallet’s “huge” utility for Palestinians
+
+Future growth
+
+Future initiatives for Zap include efforts to expand functionality even further.
+
+Mallers said that Zap is working with the payment processor BTCPay Server to eventually allow merchants indirectly to convert bitcoin payments to other currencies if they choose.
+
+“One of the biggest issues with Lightning is there is nowhere to use it,” Mallers said. “Zap has many merchant partnerships in the pipeline that will be announced as we roll out.”
+
+The anonymous Ramallah-based Zap user said that any online merchants could be a boon for Palestinian users.
+
+“Every day I see people line up for someone with a credit card from Israeli banks to shop because most sites don’t accept Palestinian cards,” he said. “[With bitcoin] they don’t have to deal with Palestinian banks with bad customer service, and also can avoid censorship by the Israelis.”
+
+Going global with merchant support will take time. Since the hassle of opening lightning channels is often a hurdle for bitcoin newcomers, the Zap support team will manage channels for now.
+
+To accommodate that ambitious plan, Mallers is expanding his self-funded startup from a staff of five to roughly a dozen people by the end of 2019. Plus, Zap is partnering with industry incumbents like the financial services firm CMT Digital, in order to tackle both legal and technical hurdles.
+
+CMT Digital CEO Colleen Sullivan told CoinDesk:
+
+“CMT Digital and Zap are cooperating to determine the fiat on-ramps for the Zap wallet. We believe that making the purchase of bitcoin easily and instantly accessible directly through the Zap wallet will help accelerate growth of the Lightning Network. This will, in turn, help with scalability of the Bitcoin protocol by allowing for additional capabilities and use cases.”
+
+Zap is hardly the only company that allows users to purchase bitcoin using the lighting network. For example, the lightning-centric exchange startup Sparkswap facilitates such purchases with self-custody via its desktop app.
+
+Zap, however, does have a unique business model that doesn’t rely on transaction fees for retail users. In part, this is made possible by support from Mallers’ parents, Bill and Brooke, the legendary “Bitcoin Mom” who runs a bitcoin-friendly cannabis dispensary in Colorado. As such, Zap won’t need to prioritize transaction fees for retail users, or other standard monetization ploys, any time soon.
+
+“As a family, we are extremely proud to bring the first regulated fiat-to-lightning ramps to bitcoin,” Mallers said.
+
+Brady Dale contributed reporting.
+
+Image: Jack Mallers speaks at Bitcoin 2019 in San Francisco, via Jack Mallers

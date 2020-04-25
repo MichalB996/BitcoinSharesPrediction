@@ -1,0 +1,27 @@
+DATE:  01.03.2019, 02:25:50
+TITLE: Bitcoin History Part 10: The 184 Billion BTC Bug
+URL:   https://news.bitcoin.com/bitcoin-history-part-10-the-184-billion-btc-bug/
+
+Bitcoin History Part 10: The 184 Billion BTC Bug
+
+There was something unusual about Bitcoin block 74638. It was Core developer Jeff Garzik who first spotted it, commenting on the “quite strange” transaction outputs, which stood at 92233720368.54 BTC apiece. That wasn’t meant to happen. Within an hour, another forum user had started a thread titled “overflow bug serious” in which he implored “We need a fix asap.” It was Aug. 15, 2010, and Bitcoin had just encountered its biggest bug yet.
+
+Also read: Bitcoin History Part 9: Mt. Gox Is Born
+
+Bitcoin Encounters a Very Big Bug
+
+Bitcoin had already endured at least four major bugs or vulnerabilities prior to the integer overflow bug that led to 184 billion BTC being created out of thin air. The Bitcoin wiki lists 40 bugs of varying degrees of severity, with the most recent discovered in February 2019. CVE-2010-5139, however, was unlike anything the Bitcoin community had ever encountered in 2010 — or has seen since.
+
+The bug that Garzik, among others, uncovered in block 74638 was Bitcoin’s first inflation bug. Given that the cryptocurrency’s total supply is meant to be capped at 21 million, the addition of 184 billion coins was a major problem to put it mildly. An integer overflow had caused a negative total transaction value. As Bitcointalk forum user Ifm explained:
+
+Normally the inputs are equal to the outputs of a transaction. The exception is when there is a ‘fee’ charged for the transaction. The net allows anyone to voluntarily pay any amout for a fee. So when the sum was negative the difference from the input looked like a fee. It slipped thru all the checks.
+
+An unknown attacker had discovered the bug and used it to generate a ridiculously high number of bitcoins. Had they set their sights on a more modest total, it is possible their exploit might have lain undiscovered for longer than the 90 minutes it took for the scheme to be spotted. Once discovered, it was inevitable that a patch would be rushed through, and so it came to pass. Within two hours of Common Vulnerability and Exposure 2010-5139 striking, Core developers Gavin Andresen and Satoshi Nakamoto were on the case, and the 184 billion BTC transaction was purged from block 74638.
+
+“Once more than 50% of the node power is upgraded and the good chain overtakes the bad, the 0.3.10 nodes will make it hard for any bad transactions to get any confirmations,” reassured Satoshi. Bitcoin’s creator took a bug of this magnitude seriously, and posted more than a dozen times in the thread devoted to its discovery and eradication. Within five months of the incident, Satoshi would leave the community he founded for good. In his wake, he left a cryptocurrency that would prove strong enough to survive the next eight years and beyond.
+
+Bitcoin History is a multipart series from news.Bitcoin.com charting pivotal moments in the evolution of the world’s first and finest cryptocurrency. Read part nine here.
+
+Images courtesy of Shutterstock.
+
+Need to calculate your bitcoin holdings? Check our tools section.

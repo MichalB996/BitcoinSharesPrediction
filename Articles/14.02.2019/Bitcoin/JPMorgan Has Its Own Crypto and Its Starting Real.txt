@@ -1,0 +1,61 @@
+DATE:  14.02.2019, 12:00:35
+TITLE: JPMorgan Has Its Own Crypto and It’s Starting Real-World Trials
+URL:   https://www.coindesk.com/jpmorgan-moving-its-in-house-crypto-to-real-world-trials-report
+
+While its CEO, Jamie Dimon, is notorious for his critical comments on bitcoin, investment bank JPMorgan is preparing for a future where blockchain is a key part of financial infrastructure with its own cryptocurrency.
+
+Called JPM Coin, the token has been developed by engineers at the bank, according to a report from CNBC on Thursday, and is moving to real-world trials in “a few months”
+
+For the effort, JPM Coin will be used to settle a small portion of its transactions between clients of its wholesale payments business in real time, CNBC says. The bank moves over $6 trillion daily as part of that business, it adds.
+
+Speaking to the news source, Umar Farooq, JPMorgan’s blockchain lead, posited three main use cases for the bank token, including replacing wire transfers for international payments by large corporate clients and cutting settlement times from days to just moments.
+
+It could also be used to provide instant settlement for securities issuance, as well as to replace U.S. dollars held internationally by subsidiaries of major corporations using JPMorgan’s treasury services.
+
+“Money sloshes back and forth all over the world in a large enterprise,” Farooq said. “Is there a way to ensure that a subsidiary can represent cash on the balance sheet without having to actually wire it to the unit? That way, they can consolidate their money and probably get better rates for it.”
+
+Eventually, JPM Coin could be used for mobile payments, he added.
+
+“Pretty much every big corporation is our client, and most of the major banks in the world are, too,” Farooq concluded. So, even just using the token among JPMorgan clients “shouldn’t hold us back.”
+
+Not just Quorum
+
+According to an FAQ released by JPMorgan later Thursday, JPM Coin will initially run on top of Quorum, the private version of ethereum the bank developed in conjunction with EthLab – but not exclusively.
+
+“The JPM Coin will be issued on Quorum Blockchain and subsequently extended to other platforms. JPM Coin will be operable on all standard Blockchain networks,” the FAQ says.
+
+Further, JPM Coin won’t just be used to represent greenbacks.
+
+“Over time, JPM Coin will be extended to other major currencies. The product and technology capabilities are currency agnostic,” according to the FAQ.
+
+Reading between the lines, the document suggests that JPMorgan is open to offering a cash-on-ledger service to other permissioned enterprise blockchains.
+
+For example, it contrasts JPM Coin not only with open-access cryptocurrencies but with other stablecoins, such as the USDC coin created by Circle, where “only exchange customers can mint (buy with US$) or redeem (sell for US$) stablecoins but anyone can own or trade them.”
+
+JPM Coin , on the other hand, is “permissioned (i.e., enterprise grade secure blockchain solutions built by J.P. Morgan and/or partners),” the FAQ says (emphasis added here).
+
+To drive home the point about limited access, it adds: “Only institutional customers passing J.P. Morgan KYC can transact with these coins.”
+
+Nevertheless, JPM Coin will function similarly to other stablecoins, in the sense that real-world cash will be deposited at the bank in exchange for the token, which can then be transferred via a distributed ledger (although, to be clear, only a permissioned one). The recipient can then redeem the token for cash from JPMorgan.
+
+Other projects
+
+The bank is also running a blockchain payments trial launched in conjunction with Australia’s ANZ and the Royal Bank of Canada. As reported, the three banks set up the project in October 2017, aiming to slash both the time and costs required for interbank payments using traditional methods.
+
+Called the Interbank Information Network (IIN), the platform is also built on Quorum – which itself may eventually be spun off into its own enterprise.
+
+The bank’s FAQ released Thursday goes out of its way to say that IIN will be unaffected by JPM Coin.
+
+“IIN transfers information, not payments, between correspondent banks. The JPM Coin, representing fiat currency, is designed to instantaneously transfer value,” the document says.
+
+Last April, JPMorgan also partnered with National Bank of Canada and other major firms to trial Quorum with a debt issuance worth $150 million.
+
+The trial mirrored a $150 million offering the same day by the National Bank of Canada of a one-year floating-rate Yankee certificate of deposit.
+
+While working on its own token, JPMorgan recently said that cryptocurrencies would only have value in a dystopian economy.
+
+CEO Jamie Dimon notably also declared bitcoin a “fraud” in 2017, adding, “It’s worse than tulip bulbs. It won’t end well. Someone is going to get killed.”
+
+UPDATE (14, February 14:30 UTC): This article has been updated with additional information released by JPMorgan.
+
+JPMorgan image via Shutterstock

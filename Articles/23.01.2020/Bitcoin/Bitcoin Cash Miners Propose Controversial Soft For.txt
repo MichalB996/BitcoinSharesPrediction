@@ -1,0 +1,33 @@
+DATE:  23.01.2020, 12:30:24
+TITLE: Bitcoin Cash Miners Propose Controversial Soft Fork for Zcash-Style Development Fund
+URL:   https://www.coindesk.com/bitcoin-cash-miners-propose-controversial-soft-fork-for-zcash-style-development-fund
+
+A group of bitcoin cash miners is preparing a soft fork to redirect some of the block rewards into a new zcash-style development fund.
+
+In a Medium post Wednesday, Jiang Zhuoer, CEO of mining pool BTC.TOP, said that a group of some of the largest bitcoin cash mining pools were preparing to soft fork the network to implement a "short-term donation plan" that would cut block rewards by 12.5 percent in order to fund network development.
+
+"Investment in software and commons is crucial to secure a bright future for Bitcoin Cash," the post reads, arguing that neglect can have a "damaging" effect on the network. "We can avoid these problems by providing an adequate level of stable funding, allowing Bitcoin Cash to thrive and succeed."
+
+Signed by Jihan Wu of Antpool/BTC.com, Roger Ver from Bitcoin.com and ViaBTC's Haipo Yang, Zhuoer's post argues there are "significant problems" with the current funding mechanism. Donations are made on a voluntary basis, making it difficult to finance long-term projects and giving corporate donors "an undue influence" over developers.
+
+Many community members, Zhuoer writes, don't currently contribute anything at all, creating a "tragedy of the commons" situation where the self-interest of individuals is contrary to the common good of the network. It may be controversial, but redirecting block rewards is "undoubtedly a far better solution" than the current funding system, the post reads.
+
+Many of the same miners included in the post had previously pushed to introduce a "development tax" during a CoinGeek BCH conference back in 2018. A report by crypto investment firm Electric Capital found bitcoin cash lost more than 30 percent of its developers between December 2018 and June 2019, the largest drop of any major blockchain network.
+
+Because bitcoin cash uses the same SHA-256 hash algorithm as bitcoin, most of the block reward costs will, according to the post, be carried by the dominant bitcoin miners, who constitute approximately 97 percent of the hash ecosystem. Assuming bitcoin cash stays at around $300, Zhuoer calculates the new mechanism could raise more than $6 million in six months.
+
+"It's a clever proposal, with good intent," tweeted Emin Gun Sirer, adding that a marginally lower hashrate for steady developer funding was a good trade-off as "empirically more attacks have been due to underfunded devs than to malicious hashrate."
+
+But the proposal is not without controversy. Zhuoer's post says BCH blocks that don't follow the soft fork "will be orphaned," meaning they won't be accepted by the five mining pools and risk not receiving any block reward whatsoever.
+
+Funds will also be directed into an unnamed "Hong Kong corporation" that will coordinate and pay for network development. It's not certain whether this new corporation will pay third-party developers or if it will do most of the work itself, like the Electric Coin Company (ECC) on zcash.
+
+In an ask-me-anything (AMA) Reddit session Thursday, Zhuoer clarified that miners would "ensure the transparency and effective use of all funds" by the Hong Kong corporation. Antpool's Wu added in the same AMA that many of the details for how the corporation would be governed and how development projects would be prioritized were still "under discussion."
+
+"There are many underspecified aspects to the proposal," Sirer said. "Specifically, who will manage the collected funds and how will they be distributed?" That the proposal was sprung on members of the BCH community "was terrible PR and community management," he continued, while the threat of orphaning dissenting blocks risks alienating much of the mining community.
+
+It's also disputed whether the five mining pools will be able to force the community to accept their soft fork. At press time, the signatories had a combined BCH hashrate of just under 28 percent, way below the required majority needed to push the soft fork through by themselves.
+
+Credit: Coin Dance
+
+"They can't enforce this coercive soft fork unless they come up with a lot more hashrate. And it would likely lead to many forks," tweeted Charlie Lee, creator of litecoin. "Adding such a centralizing feature in this coercive manner sets such a bad precedent."

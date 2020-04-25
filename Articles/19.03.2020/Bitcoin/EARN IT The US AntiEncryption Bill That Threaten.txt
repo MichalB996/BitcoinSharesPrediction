@@ -1,0 +1,76 @@
+DATE:  19.03.2020, 17:49:29
+TITLE: EARN IT: The US Anti-Encryption Bill That Threatens Private Speech Online
+URL:   https://bitcoinmagazine.com/articles/earn-it-the-us-anti-encryption-bill-that-threatens-private-speech-online
+
+Ring in the new bitcoin halving cycle the right way: with us!
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+There’s a new bill in the works to fight against child sexual abuse material (CSAM) and other risky services on the internet — but it could come at a cost to online privacy.
+
+Eliminating Abusive or Rampant Neglect of Interactive Technologies (EARN IT) was proposed by the Senate Judiciary Committee and sponsored by senators from both sides of the aisle such as Lindsey Graham (R-SC) and Richard Blumenthal (D-CT). The bill is also supported by the National Center for Missing and Exploited Children and the National Center on Sexual Exploitation.
+
+However, this bill is problematic for both freedom of speech and privacy online according to Riana Pfefferkorn, associate director of Surveillance and Cybersecurity at the Center for Internet and Society.
+
+“This bill is trying to convert your anger at Big Tech into law enforcement’s long-desired dream of banning strong encryption,” argued Pfefferkorn in a blog post. Pfefferkorn’s detailed explanation says EARN IT appears less like a legitimate way to prevent the spread of child exploitation content and more like a covert attempt to ban end-to-end encryption, without having to ban it outright.
+
+At the end of January 2020, a draft of the proposal was leaked and met with similar apprehension not only by Big tech juggernauts (Facebook, Google, etc.) but also their sometimes opposing counterparts, freedom of speech advocates.
+
+“We’re concerned the EARN IT Act may be used to roll back encryption, which protects everyone’s safety from hackers and criminals, and may limit the ability of American companies to provide the private and secure services that people expect,” Facebook spokesperson Thomas Richards said in a statement to the Washington Post.
+
+Clearly, the issue could not be more sensitive. Patrick A. Trueman, president and CEO of the National Center on Sexual Exploitation, recently voiced this opinion, apparently advocating for EARN IT.
+
+“Right now, Big Tech has no incentive to prevent predators from grooming, recruiting, and trafficking children online and as a result countless children have fallen victim to child abusers on platforms like Instagram, Snapchat, and TikTok,” said Trueman.
+
+Section 230: The Most Important Law Protecting Freedom of Speech Online
+
+While everyone who has publicly condemned EARN IT has also stated a universal commitment to child safety online and in the real world, many say the bill’s far-reaching approach to content moderation could do more harm than good by essentially eliminating private conversations across the internet, particularly on social media platforms and messaging apps.
+
+To fully comprehend what EARN IT proposes, one needs to understand the importance of two bills passed in the ’90s. These laid the groundwork for how privacy and free speech are supposed to operate for U.S. citizens.
+
+First, Section 230 of the Communications Decency Act (CDA), passed in 1996, allows for the continued development of the internet as a free market and universal good for free speech. Section 230 says that online platforms or providers of interactive computer services mostly cannot be held responsible for the things their users say or do on their platforms. It uses the term “mostly” instead of “always” because platforms are still liable for exceptions that violate intellectual and federal criminal law. Essentially, this means if someone is defamed for being a fraud, that person can sue their defamer, but they cannot sue the platform for providing the space for free speech.
+
+Second, the Communications Assistance for Law Enforcement Act (CALEA), passed in 1994, requires telecom providers to make their networks “wiretappable” for law enforcement. However, it also ensured a “carve-out” for encrypted messages and information services where websites, email, social media, messaging apps and cloud storage fall out of CALEA’s jurisdiction.
+
+The purpose of these carve-outs was to reach a compromise between the competing interests of network security providers, privacy advocates, civil liberties, technological growth and law enforcement. In combination, Section 230 and CALEA prevent regulation from suffocating growth and development of the U.S. information economy.
+
+Weakening Protections
+
+Since the ’90s, more regulation has passed to undo Section 230. “Section 230 has been amended since it was passed: SESTA/FOSTA, enacted in 2018, pierces providers’ immunity from civil and state-law claims about sex trafficking,” wrote Pfefferkorn. SESTA/FOSTA is currently being challenged in federal court being unconstitutional and doing more harm than good.
+
+There is also already a regulatory reporting scheme for online providers combatting CSAM. Also, Section 230 does not keep federal prosecutors from holding providers accountable for CSAM on their services.
+
+While the current reporting scheme’s success is questionable, there is reasonable evidence to believe that EARN IT is an attempt to regulate communication on the internet more broadly.
+
+“The so-called EARN IT bill will strip Section 230 protections away from any website that doesn’t follow a list of ‘best practices,’ meaning those sites can be sued into bankruptcy,” writes Joe Mullin, a policy analyst with the Electronic Freedom Foundation.
+
+Mullin is referring to how EARN IT would target CSAM. It proposes to do this by creating a federal commission to develop a list of best practices for preventing CSAM that online platform providers would have to follow or else lose their immunity under Section 230 — meaning they could be sued into bankruptcy. This commission would largely be made up of law enforcement and allied groups such as the National Center for Missing and Exploited Children (NCMEC).
+
+According to Mullin, “The ‘best practices’ list will be created by a government commission, headed by Attorney General Barr, who has made it very clear he would like to ban encryption and guarantee law enforcement ‘legal access’ to any digital message.”
+
+Although the word “encryption” does not appear anywhere in the EARN IT bill, Mullin is suspicious of how the federal commission might design best practices. For instance, in an earlier draft of the bill, the NCMEC Vice-President stated that online services should be made to screen all messages using screening technology approved by themselves and law enforcement, report what they find in messages to the NCMEC and be held legally responsible for the content of the messages sent by others.
+
+In short, the commission could quietly give backdoor access to all U.S. hosted information services, undoing encrypted messages altogether.
+
+Centralized Control and “Techlash”
+
+Mullin, Pfefferkorn and other outspoken critics of EARN IT all agree that the bill’s proposed execution is opening the door for the elimination of encryption: the fact that it is never explicitly addressed is especially concerning..
+
+According to Mullin, it’s also possible that the current draft of EARN IT will be amended to undo the damage it could do to online privacy. “Could be as straightforward as putting a clause in[,] saying the bill doesn’t apply to encryption,” he writes.
+
+However, until some amendment occurs, critics are wary of a federal commission consisting of fewer than twenty people, according to the latest reports, who would be making large-scale privacy and security decisions for the entire U.S. population.
+
+Such a potentially big power grab would seem a bit ridiculous, but Pfefferkorn also acknowledged that EARN IT rides on a wave of resentment or “techlash” the U.S. population has begun to harbor against many internet-based companies. This animosity is directed toward both U.S. tech juggernauts, whose business models run off of surveillance capitalism and online free speech platforms which, for the average person, can feel like the “concentrated font of human venality every time we open our phones,” according to Pfefferkorn.
+
+Private Messaging: A Prerequisite to Democracy
+
+In general, free speech on social media platforms is already a nuanced and complicated topic. Even under Section 230, social media platforms can still censor content when they deem it inappropriate internally. For example, Twitter has a keyword blacklist and the protocol for how it works can change on a dime.
+
+For Nozomi Hayase, social psychologist and writer, surveillance of encrypted messaging is a movement toward forfeiting democracy. By Hayase’s reasoning, privacy is a prerequisite for a kind of solitude that allows people to think and act independently and is, therefore, essential to a functioning democratic society.
+
+“Democracy requires sovereign individuals who are able to communicate with one another freely. This freedom comes with great responsibility,” said Hayase, who recognized EARN IT as the newest installment of a dangerous trend toward online censorship. “If we really want to have a truly democratic society, we have to accept the fact that it is the duty of each person to develop his or her own moral capacity to determine what is right and wrong, instead of depending on an external authority to tell us what we should or should not do.”
+
+Currently, EARN IT has been referred to the Senate Judiciary Committee. Citizens can contact their congressmen directly or take action through the Electronic Frontier Foundation’s website.
+

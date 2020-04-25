@@ -1,0 +1,55 @@
+DATE:  27.03.2019, 14:35:20
+TITLE: BitMEX claims you can earn 1% a year for Bitcoin staked in the Lightning Network
+URL:   https://coinrivet.com/bitmex-claims-you-can-earn-1-a-year-for-bitcoin-staked-in-the-lightning-network/
+
+Based on the latest research into “fee routing economics” on the Lightning Network from BitMEX, the exchange has claimed that network participants could earn a 1% yearly investment yield based on BTC staked in the “outbound channel balance” of a Lightning Network node.
+
+The team states that “fee income is maximised with a routing fee of around 0.1 basis points” that is situated in the “0.005% to 0.0015% fee rate bucket” for nodes routing payments via its outbound channels.
+
+BitMEX Research were able to earn an annualised investment return of almost 1% (on our outbound channel balance), based on the most profitable fee bucket, by running a Lightning node. pic.twitter.com/ph2xzBBP7t — BitMEX Research (@BitMEXResearch) March 27, 2019
+
+The team also said that “the highest annualised investment return achieved in the experiment was 2.75%, whilst the highest fee bucket investment return was almost 1%.”
+
+How does liquidity work?
+
+The research explained: “In order to provide liquidity for routing payments and to earn fee income, Lightning node operators need to lock up capital (Bitcoin) inside payment channels.
+
+“Inbound liquidity are funds inside the node’s payment channels which can be used to receive incoming payments. These funds are owned by other participants in the Lightning Network, and if the payment channels are closed, then funds will not return to the node operator.”
+
+On the other hand, outbound capacity (or balance) would represent the opposite process to create the mesh network required for facilitating instant and near fee-less transactions of Bitcoin.
+
+How to make your node profitable
+
+BitMEX said that to balance inbound/outbound capacity, node operators may need to:
+
+Adjust both fee rates and the base fee, monitor the impact of the adjustments, and calibrate for the optimal income maximising settings
+
+Analyse the network and look for poorly connected Lightning nodes with high payment demand, such as a new merchant
+
+Analyse the fee market, not just for the network as a whole, but the high demand low capacity routes you are targeting
+
+Constantly monitor and rebalance your channels to ensure there is sufficient two-way liquidity
+
+Implement a custom backup solution for the latest channel states to protect funds in the event that the node machine crashes
+
+The exchange said that “currently there are no automated systems capable of doing the above functions”, but there may be the possibility for specialist businesses “to be set up to provide liquidity for the Lightning Network”.
+
+However, BitMEX did also mention that “the investment returns for Lightning Network liquidity providers do not yet look compelling with the network in its formative stages, but we do see potential merit in this business model.”
+
+A new incentive with Loop?
+
+Last week, Coin Rivet brought you the story of how Lightning Labs had released the alpha version of Loop. The software provides a non-custodial way to receive funds through an on-chain settlement with the “Loop Out” function.
+
+This ‘loop out’ and back into BTC or fiat could cause an incentive for a channel rebalance from the node with exiting capacity. This type of event could then mean an opportunity exists for the creation of a highway in the network where a pair of well-connected Lightning node operators could channel and collect fees on a multitude of payments across the emerging Layer-2 scaling solution for Bitcoin transactions.
+
+It can scale
+
+BitMEX concluded by claiming: “The Lightning Network can easily scale to many multiples of Bitcoin’s current on-chain transaction volume without encountering any economic fee market cycles or issues, all based purely on hobbyist liquidity providers.”
+
+If you look at the rise of other recent decentralised projects that very much started with ‘hobbyist’ status, you can see that this can be a good baseline for long-term success.
+
+For example, the running of full nodes on Ethereum could be seen as baseline infrastructure to enable the creation and widespread use of the ERC-20 standard for tokens. This can therefore also be seen as a market that was built initially on ‘hobbyist’ infrastructure, investment, and liquidity.
+
+An economic reward of a couple of percent a year is probably in line with the ‘real’ rates set by central banks across the world at the moment. Much has been said about how the economics of transactions on the Lightning Network could help it become in essence a ‘Proof-of-Stake’ style scaling solution for the Layer-1 Bitcoin protocol.
+
+As long as the stake is BTC and the method is via a hyperconnected mesh network of satoshis being thrown around (with privacy built in), that network is OK with me.

@@ -1,0 +1,37 @@
+DATE:  01.03.2019, 23:25:25
+TITLE: Business Owner's Seething Critique of the Lightning Network Goes Viral
+URL:   https://news.bitcoin.com/business-owners-seething-critique-of-the-lightning-network-goes-viral/
+
+Business Owner's Seething Critique of the Lightning Network Goes Viral
+
+A business owner who runs a media company in Australia and pays employees remotely in the Philippines has given his honest opinion on what it’s like to use the Lightning Network (LN). Jason Smith’s experience of attempting to use LN for payments was filled with frustration. He reports that the fundamental structure of the offchain solution is riddled with problems.
+
+Also Read: Report: Lightning Network Still Way off Being Ready for Commercial Use
+
+Australian Business Owner: ‘I Want to Pay Employees With Bitcoin — But There’s a Problem’
+
+Over the last few years, people have been arguing relentlessly about the Bitcoin scaling debate and proposed solutions. One of the most controversial solutions for BTC’s transaction congestion and rising fees is an offchain mechanism called the Lightning Network. LN has been heralded by many BTC proponents even when it has been criticized for UX unfriendliness, centralization, and routing issues as they believe it is still a work in progress.
+
+Much of the criticism directed towards the LN solution has been because merchants find it difficult to use as connections fail or expire quite often and funds need to be locked into channels. On Feb. 28, business owner Jason Smith explained to his Twitter followers that he runs a media company from Australia and pays people in the Philippines to help with back end programming. Smith detailed that he used BTC to pay them, but in 2017 fees got ridiculously high and he had to “completely write off the idea” of paying his staff with bitcoin during that time.
+
+He then tried to utilize the LN to facilitate payments by using a custodial LN application and Pierre Rochard’s node launcher. After purchasing some stickers with LN he thought the solution might work, but after winning some money on a betting site he hit a snag when he couldn’t withdraw the money. This is because he needed incoming channels connected to his node with funds on the other side.
+
+“I eventually managed to find a service that would open up channels back to me, (for a fee), and was able to receive money again — Then I started trying to close some channels to get money back out of lightning — God what a hassle,” Smith explained. He continued:
+
+Now I’m told some of the Lightning problems will be solved with certain developments but I assure you, the fundamental structure of lightning doesn’t suit me at all for my business — I want to pay my staff each month — Businesses can’t leave money tied up in Lightning channels.
+
+‘Lighting Is Not Easy to Use, Which Any Scaling Solution Needs to Be’
+
+Smith also complained about BTC proponents who actually want high fees in order to drive the adoption of LN higher and showed his frustration for commentary like “bitcoin isn’t for poor people.”
+
+Of course, LN supporters didn’t care for the criticism and claimed that the system would evolve. Lightning Network Labs executive Elizabeth Stark explained that it amazes her that “people think something won’t evolve.” Stark compared Smith’s issues with people using computers back in the 70s. LN supporter ‘Whale Panda’ felt like emphasizing that Smith was “spreading a whole lot of misinformation” and added that the LN is great for small payments and for everything else there are onchain transactions. He further stated that when onchain fees rise again, liquidity will come to LN, but Smith explained to Whale Panda that his post wasn’t about liquidity.
+
+The Australian business operator said he believes one of two things will happen with BTC: everyone is forced to use custodial services or BTC will adopt bigger blocks. “If we go custodial, the game is fucked but if we get big blocks, we can actually use this thing,” Smith remarked. By and large, the statement caused a meaningful discussion about using the LN as a solution to high network fees. Smith says the LN is difficult for the average merchant and consumer and he’s taking a break until something gives.
+
+“I also run bitcoin training seminars about bitcoin and I won’t be running anymore until I can actually see where this thing is heading — This high fee bullshit makes the network unusable for normal people, and lightning is not easy to use, which any scaling solution needs to be,” Smith concluded.
+
+What do you think about Smith’s experiences with the Lightning Network? Do you think LN will evolve enough to help support scaling in the future? Let us know in the comments section below.
+
+Image credits: Shutterstock, Pixabay, and Twitter.
+
+Verify and track bitcoin cash transactions on our BCH Block Explorer, the best of its kind anywhere in the world. Also, keep up with your holdings, BCH, and other coins, on our market charts at Satoshi’s Pulse, another original and free service from Bitcoin.com.

@@ -1,0 +1,11 @@
+DATE:  12.04.2020, 02:00:00
+TITLE: $100k To Crack A Bitcoin Wallet
+URL:   https://hackaday.com/2020/04/11/100k-to-crack-a-bitcoin-wallet/
+
+When Bitcoin peaked a few years ago, with single coins reaching around $18,000 USD, heartbreaking stories began circulating about people who had tens or hundreds of coins they mined in the early days when coins were worth just a few dollars or cents. Since then, they owners of these coins had lost the private key, or simply thrown away the drive or computer the coins were on. It’s next to impossible to recover this key in most situations, but for the right amount of money it can sometimes be done.
+
+About 20 years ago, [Mike] was working as a cryptography expert and developed a number of interesting algorithms for breaking various forms of encryption, one of which involved .zip files with poor entropy. A Bitcoin owner stumbled across the paper that [Mike] wrote and realized that it could be a method for recovering his lost key from 2016. [Mike] said it would take a GPU farm and $100,000 USD, but when the owner paid the seemingly enormous price [Mike] was able to recover around $300,000 worth of Bitcoin.
+
+While this might not be financially feasible for you if you have a USB stick with a single coin on it you mined as a curiosity in 2010, the cryptography that is discussed in the blog entry is the real story here. We never know where the solutions to our problems are going to come from, like a random .zip file exploitation from two decades ago, but we can be sure that in the future it will be much easier to crack these keys.
+
+Thanks to [Darmstatium] for the tip!

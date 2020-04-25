@@ -1,0 +1,19 @@
+DATE:  12.04.2020, 17:00:41
+TITLE: Is Bitcoin walking a tightrope between scalability and centralization?
+URL:   https://eng.ambcrypto.com/is-bitcoin-walking-a-tightrope-between-scalability-and-centralization/
+
+For Bitcoin, one of the biggest challenges it seems to face with regard to its vision of becoming a widely used currency is in terms of its issues surrounding scalability. While Bitcoin’s proof of work consensus algorithm is extremely important from the immutability standpoint, it fails to keep up in terms of its transaction speeds when competing with other forms of payments. This debate has also positioned Bitcoin to be more suited as a store of value asset and not as a medium of exchange.
+
+Bram Cohen, BitTorrent Creator and Founder of the Chia Network, in the latest episode of the Untold Stories podcast, highlighted Bitcoin’s scalability challenges, the tradeoffs it has to make and the role of transaction fees within the king coin’s ecosystem. He noted that on-chain scaling revolves around making the blockchain bigger, he added,
+
+“When you say on-chain scaling, all this really means is – let’s make the blockchain bigger. And this has the very obvious tradeoff that it becomes very expensive to run a full node if you just make the blockchain bigger and this has some pretty severe centralization tradeoffs.”
+
+Drawing parallels between the Bitcoin and the second-largest cryptocurrency – Ethereum, Cohen observed that “Ethereum only really supports like double the transaction rate of Bitcoin does and it’s already like falling over and there are hardly any full nodes running.” He added that even if the “bad-engineering” in Ethereum is discounted there are still quite a few tradeoffs made in the network.
+
+Cohen also highlighted the role of transaction fees within the Bitcoin network and whether or not it can have a beneficial impact on the transactions being processed. He said,
+
+“With Bitcoin, the attitude that the Bitcoin core devs are taking is – If blocks are full then what should happen is fees should go up and people who want their transactions to go through quicker should pay more, and people who are willing to wait a little bit or wait an unknown amount of time will pay less.”
+
+In the past year, Bitcoin has seen a steady dip in terms of its transactions per second according to network data provided by Glassnode. This coupled with the fact that in comparison to fork coin – Bitcoin Cash, it is currently over 130X more expensive to transact on Bitcoin. These factors combined once again test Bitcoin’s scalability woes and question the king coin’s possibility of establishing itself as a medium of exchange in the future.
+
+With regard to Bitcoin’s transactions, Cohen highlighted,

@@ -1,0 +1,41 @@
+DATE:  12.12.2019, 15:00:00
+TITLE: Bitcoiners Are Building a Sidechain Version of Ethereum’s MakerDAO
+URL:   https://www.coindesk.com/bitcoiners-are-building-a-sidechain-version-of-ethereums-makerdao
+
+The bitcoin community may soon have its own version of ethereum’s flagship decentralized finance (DeFi) platform.
+
+Money on Chain, a startup currently in the process of moving to Uruguay and converting into a nonprofit trust, just launched a DeFi platform based on the bitcoin sidechain Rootstock (RSK). The transition to a trust mimics MakerDAO’s Maker Foundation, which oversees the governance of a loan system with $330 million worth of “locked-in” crypto collateral.
+
+While other projects like the Cross-Chain Working Group are exploring ways to wrap bitcoin in ethereum-based tokens for DeFi use, or offer centralized services for taking DAI loans with bitcoin collateral, this RSK model wants to use an open-source protocol inspired by bitcoin.
+
+“We are going to allow other projects to build the DeFi ecosystem on top of bitcoin,” said Money on Chain co-founder Max Cajurzaa. “We are going to launch lending products on top of Money on Chain, but the ecosystem will evolve. Exactly the same as what happened with MakerDAO on ethereum.”
+
+Diego Gutierrez Zaldivar, RSK co-founder and CEO of IOVLabs, said his team is already in talks with MakerDAO to explore bridges between that ethereum-based platform and this new sidechain project.
+
+To be clear, the RSK project isn’t “based on bitcoin,” it’s more bitcoin-adjacent. The RSK sidechain branches off from the bitcoin blockchain and issues bitcoin IOUs, harnessing the power produced by bitcoin miners but using a separate federation to manage the sidechain.
+
+Zaldivar said there are still 15 projects in the RSK federation, down from 25 founding members in 2016, though he declined to specify names. If these federation members turn off their servers, with their built-in nodes, the public RSK protocol will not be able to swap bitcoin IOUs for real bitcoin. However, assuming that scenario doesn’t occur, the RSK DeFi model offers a bridge for locking up bitcoin and redistributing risk.
+
+“It’s most important that we can use bitcoin as collateral,” Cajurzaa said.
+
+Tokens galore
+
+Like MakerDAO, the Money on Chain ecosystem involves many tokens.
+
+There’s Dollar on Chain (DoC), the dollar-pegged, bitcoin-backed token inspired by DAI; BitPRO (BPRO), which can be used for “passive income” by representing bitcoin fees collected from system users; and Money on Chain tokens (MoC), which are basically voting tokens akin to the Maker Foundation’s MKR.
+
+Cajurzaa declined to specify who the investors are that already hold these governance tokens. Instead, he noted that there will be a more accessible MoC token sale in 2020, with details to be announced in the coming months. In the meantime, Money on Chain is kicking off the DeFi system with DoC and BPRO tokens.
+
+“When you mint DoC you can say you are selling your bitcoin for DoC, because you are not getting the same amount of bitcoin back. That will depend on the exchange rate,” Cajurzaa said. “In the case of BPRO, that could be considered a loan … but on top of DoC you can also have people lending it to other people, to make trades, for example.”
+
+He added the goal of issuing fiat-pegged stablecoins, with more Latin American currency tokens to follow DoC, is to make cryptocurrency easier for businesses to accept regardless of bitcoin’s volatility. For example, the startup dexFreight will work with DoC.
+
+DexFreight co-founder Hector Hernandez said, “a stablecoin collateralized with bitcoin will enable us to continue building DeFI solutions for the supply chain and will ultimately be a critical driver of mass adoption.”
+
+Unlike the MakerDAO system, where people lock up collateral with a smart contract and expect to get it back, in the RSK system, people expect to get as much bitcoin back as their new tokens can purchase. That might mean even more bitcoin if they trade tokens advantageously, Zaldivar said.
+
+Much like the DeFi project Uniswap, the Money on Chain portal to the protocol geo-blocks jurisdictions with compliance issues, including the United States, India, China and Egypt. After all, issuing a token advertised as offering “passive income” from a specific system operated by these entities might run afoul of securities regulations in North America.
+
+In part, Zaldivar said, starting with these geographic limitations are fine because this system was designed for Latin Americans, by Latin Americans.
+
+“We want this system to serve the needs of people who aren’t being served by the traditional financial system in Latin America,” Zaldivar said.

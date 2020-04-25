@@ -1,0 +1,35 @@
+DATE:  07.04.2020, 06:51:00
+TITLE: Miner ID and Merchant API bring Bitcoin SV closer towards global P2P cash system
+URL:   https://coingeek.com/miner-id-and-merchant-api-bring-bitcoin-sv-closer-towards-global-p2p-cash-system/
+
+The Bitcoin SV network has taken another giant leap forward towards becoming the peer-to-peer electronic cash system outlined by Satoshi Nakamoto. This latest advancement comes courtesy of the April 3rd launch of new tools for transaction processors and merchants.
+
+The tools, announced on April 3, are part of the Bitcoin SV community’s initiative to grow enterprise adoptions and instant transactions. The two projects, Miner ID and Merchant API, have now been released into public beta. These projects had previously been in private beta testing and are now entering a new public review process in the form of an RFC release.
+
+Anyone who’s interested can find technical information on each project on GitHub. If you are wondering why these new developments are meaningful, consider the following.
+
+APIs enable two software entities to talk to each other and exchange data in a standardized format. The Merchant API provides necessary services that will allow consumer applications and wallet developers to use the Bitcoin network more efficiently. They don’t have to start from scratch to build an app that tries to do everything. APIs are vital tools for businesses that shortens the onboarding process into the Bitcoin SV network.
+
+The first iteration of the Bitcoin SV Merchant API includes features such as fee discovery and direct transaction submissions. Fee discovery allows parties the ability to know in advance the fee levels required from miners to guarantee the needed service level when creating transactions. This service will lay the foundation for a dynamic and floating real-time fee market to grow.
+
+Direct transaction submissions allow users to avoid the outer layers of the Bitcoin network and submit transactions directly to miners. These services mitigate many of the propagation issues that spring up in environments where node policies are dynamically and competitively shifting. Overall, the new Merchant ID features allow for user-based fee policies that enable different fee structures for different use cases. Variable fee structures are critical for enterprises to control costs.
+
+For Miner IDs, this mechanism enables transaction processors to build their corporate reputation as they mature into service companies. They can take ownership of their identity backed by their verifiable proof of work and past actions. This indicator helps internal and external stakeholders assess the probability of future behaviors by transaction processors. Some initial applications for Miner ID include:
+
+• Service advertising for Merchant API REST endpoints.
+
+• Provision of identities for signing Merchant API responses.
+
+During the RFC phase, the standards for both Merchant API and Miner ID will go through the Bitcoin Association’ Technical Standards Committee (TSC) process once it is up and running. For the sake of expediency, the proposed standards are now available for public review on GitHub. Developers have asked that all feedback be directed through the GitHub issue system for the respective standard repositories using the draft specifications found here.
+
+For support or general discussion of both standards and reference implementations, developers encourage those interested in the subject to join the following Telegram group.
+
+Bitcoin SV developers are far from finished as further features are still being planned for both services. For example, work has already begun on phases 2 and 3 of Merchant API with developers intending to add the following features:
+
+• Enabling callbacks for Merkle proofs and double-spend notifications.
+
+• Aggregator service that can act as an intermediary between merchant and many miners to provide fee aggregations services and dedicated distribution of transactions where required.
+
+The developers supporting the Bitcoin SV blockchain realize that by unlocking the full potential of Bitcoin, a new set of challenges has arisen. The Bitcoin ecosystem needs a new set of tools that lower the barrier for onboarding while staying true to and taking total advantage of the unique features of the protocol. Large blocks processing tens of thousands of transactions per second for enterprise customers is the future of the Bitcoin blockchain. This future that Satoshi envisioned is finally right around the corner thanks to advances like these.
+
+New to Bitcoin? Check out CoinGeek’s Bitcoin for Beginners section, the ultimate resource guide to learn more about Bitcoin—as originally envisioned by Satoshi Nakamoto—and blockchain.

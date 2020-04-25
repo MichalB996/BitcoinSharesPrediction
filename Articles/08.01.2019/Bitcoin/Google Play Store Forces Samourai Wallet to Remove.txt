@@ -1,0 +1,45 @@
+DATE:  08.01.2019, 08:35:50
+TITLE: Google Play Store Forces Samourai Wallet to Remove Security Features
+URL:   https://news.bitcoin.com/google-play-store-samourai-wallet-security-features/
+
+Google Play Store Forces Samourai Wallet to Remove Security Features
+
+Samourai Wallet has announced that, due to the Google Play Store’s “new extremely restrictive policies,” a number of security features are being removed from the wallet. The developers have applied for an exemption to the new rules, but Google has rejected their request.
+
+Also read: Indian Supreme Court Moves Crypto Hearing, Community Calls for Positive Regulations
+
+Google’s New Policies
+
+Developers of privacy-enhanced mobile BTC wallet Samourai announced on Monday that they have been forced to disable a number of security features due to the Google Play Store’s new policies. They wrote:
+
+It is with great sadness that we are disabling the following features within Samourai Wallet as of version 0.99.04 – which will be released tomorrow – due to new extremely restrictive policies Google has decided to introduce in their effort to become more of a ‘walled garden’ experience.
+
+Samourai detailed that they applied for an exemption to the new rules. The self-proclaimed privacy activists explained to Google that “removing such functionality would cause users who rely on those features to be less secure and more exposed.” However, the tech giant still rejected their application.
+
+The developers noted that Google does not care about any of the security benefits the wallet offers, adding:
+
+Samourai Wallet would have been removed from the Google Play Store had we not complied with this dictate.
+
+Three Hardcore Security Features Gone
+
+The three soon-to-be missing features have been part of Samourai Wallet since its first release in 2015. They are optional settings that are turned off by default. According to the developers, “To this day no other wallet has enabled these types of features, and now it is very likely no other wallet will, thanks to the heavy hand of Google.”
+
+Another feature to be disabled is Stealth Mode which gives users a way to hide their wallet app from attackers who have physical access to their smartphones. Enabling the feature requires granting the app access to make undetected outgoing calls. The developers tweeted on Monday:
+
+Many users in South America who use this feature are now at risk, thanks to @Googleplay
+
+The last feature Google has a problem with is Remote SMS Commands which “allows users who lost their device to remotely erase their bitcoin wallet to prevent further loss of their bitcoin stash,” the wallet developers described. “@Googleplay has killed that as well.”
+
+Bypassing Google’s Restrictions
+
+Meanwhile, they expect to resume offering all features “via alternative distribution methods such as direct download and F-Droid in the coming months.” F-Droid, the most popular alternative Android app marketplace, has fewer restrictions than the Google Play Store but its install process can be too complicated for some users. Samourai developers further wrote:
+
+In the coming months we will expand our distribution model to include self-hosted APK [Android install package file] downloads and inclusion in the open source F-Droid app store. These versions will all include the Stealth Mode, Remote SMS, and SIM Switch Defense features.
+
+In the meantime, Samourai developers have advised users to disable stealth mode prior to updating to the new version.
+
+What do you think of Google’s new policies which force Samourai Wallet to remove these security features? Let us know in the comments section below.
+
+Images courtesy of Shutterstock, Twitter, and Samourai Wallet.
+
+Need to calculate your bitcoin holdings? Check our tools section.

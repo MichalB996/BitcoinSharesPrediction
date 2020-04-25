@@ -1,0 +1,63 @@
+DATE:  18.04.2019, 15:55:24
+TITLE: Bitcoin Fees Jump to Nearly 1-Year Highs – But Why?
+URL:   https://www.coindesk.com/bitcoin-fees-jump-to-nearly-1-year-highs-but-why
+
+The average fees required to send a bitcoin transaction are up again.
+
+After hovering steadily around the $0.50 mark over the last six months, data shows average fees hit their highest level in nearly a year in early April, according to data from Bitinfocharts. Since then, averages fees have swelled to around $1 to $2, a move that coincided with bitcoin’s price “break out” earlier this month.
+
+Graph via Bitinfocharts.com
+
+Bitcoin fees are required because there’s limited room in every block added to the bitcoin blockchain – a feature most blockchains face in order to fulfill its goal of giving users control over their money.
+
+When the blockchain gets more popular, a user needs to compete with all the other people trying to get their transaction through. As such, a user needs to spend a bit more money on the fee to incentivize the miners securing the network to push through a transaction faster by prioritizing theirs over others.
+
+What might be contributing this time around? As bitcoin blocks fill up with transactions, fees increase. And indeed, the number of transactions waiting in the mempool saw a sharp spike earlier this month.
+
+As such, sources painted rising fees an inevitability, especially if interest in bitcoin continues to increase.
+
+Seoul bitcoin meetup founder Ruben Somsen, who’s been outspoken about fees, told CoinDesk:
+
+“As long as more people become interested in bitcoin, fees will inevitably rise.”
+
+Inevitable fees
+
+To an extent, this is simply how bitcoin works.
+
+There’s limited space for transactions in the bitcoin blockchain. This is necessary to keep the bitcoin blockchain small enough so that as many people as possible can download all this data to run what’s known as a “full node,” the most secure way of using bitcoin as it gives users the ability to verify each and every transaction.
+
+Even with a limited block size, it takes roughly 200 GB to store the full bitcoin blockchain, the size of a small laptop.
+
+“Just like bitcoin is limited to 21 million, block space is limited to roughly 15 transactions per second (4MB block weight per 10 minutes),” Somsen said.
+
+He added that this limit explains why fees can seemingly jump overnight.
+
+“Users should be aware fees can rise abruptly, particularly because the difference between full and non-full blocks is like night and day. When blocks aren’t full, space is practically given away for free. Once they get full, users will have to outbid each other for it,” he said.
+
+And while the recent spike in fees is notable, it’s important to note that average fees today are much (much) less than a couple of years ago, showing how high fees can go when hype drives new people to start using bitcoin.
+
+Graph via Bitcoinfees.info
+
+Some cryptocurrencies, such as bitcoin cash, have tried to get around this hurdle by increasing the block size. And indeed, transaction fees are much lower for those using the blockchain.
+
+But bitcoin developers argue this approach makes it more difficult to run full nodes, threatening the security of the network and the ability of individuals to truly provide checks and balances on the network.
+
+Meanwhile, since the blockchain is smaller and has less computing power behind it, it’s less secure, as it’s less costly for someone to double-spend a transaction, thus corrupting the blockchain’s integrity.
+
+“The concern I hear the most is ‘How can we get the world to use bitcoin without cheap fees?’ This question reveals a misunderstanding between the fundamental limitations of the system and the desired outcome. As much as we’d all like infinitely scaled blockchains with cheap fees, today this is unfortunately not possible,” Somsen argued.
+
+When lightning strikes
+
+Advocates are hopeful that in the long run, though, fees will be reduced by a new technology that’s in the works: the lightning network.
+
+Today, the technology is still in beta (though that’s not stopping thousands of enthusiastic bitcoiners from using it anyway). As the technology advances, advocates hope that it will become the main way of making payments on the network (or at least small payments).
+
+Lightning still has fees, but right now they’re very low. To get a transaction sent across the network, lightning fees are a fraction of what bitcoin fees are.
+
+“Theoretically as it becomes more pricey to get a transaction included in the blockchain, user behavior will adopt to either make their transaction use more efficient or switch to other off-chain methods of transacting such as using lightning or something else,” Chaincode co-founder Alex Morcos told CoinDesk.
+
+And other upcoming technologies could help, too. Segregated witness (SegWit), enacted in 2017, has helped to a degree by carving out more space in the blockchain, and pushing down fees a bit. Other technologies, such as Schnorr, could help as well.
+
+But some experts guess that even lightning fees will eventually increase as well. Like that growing on-chain transactions will push up lightning fees as well. Obviously, only time will tell.
+
+Bitcoin coins image via Shutterstock

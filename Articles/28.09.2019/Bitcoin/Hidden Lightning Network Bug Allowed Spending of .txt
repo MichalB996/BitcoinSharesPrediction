@@ -1,0 +1,35 @@
+DATE:  28.09.2019, 10:00:40
+TITLE: Hidden Lightning Network Bug Allowed Spending of 'Fake' Bitcoins
+URL:   https://news.bitcoin.com/hidden-lightning-network-bug-allowed-spending-of-fake-bitcoins/
+
+Hidden Lightning Network Bug Allowed Spending of 'Fake' Bitcoins
+
+A bug discovered in the Lightning Network in June, which allowed lightning bitcoins not backed by actual bitcoins to be spent, has officially been addressed in a new dev full disclosure report released on Friday. The problem has reportedly been remedied, but the security oversight casts doubts on an already heavily scrutinized protocol, and whether a proper release of LN anytime soon is actually feasible.
+
+Also Read: Traders Bemoan New Localbitcoins Identity Requirements
+
+Lightning Bug in June
+
+On June 27, developer Rusty Russell discovered the security flaw while running tests on the network. As the bug was not independently discovered by malicious entities, it is unlikely that major damage was done, although conclusive evidence did show that at least one exploitation of the bug did occur “in the wild” on September 7. A quiet fix was made and the issue was revealed in August after most users had upgraded, culminating in the September 27 release of the full disclosure report.
+
+The report states:
+
+A lightning node accepting a channel must check that the funding transaction output does indeed open the channel proposed. Otherwise an attacker can claim to open a channel but either not pay to the peer, or not pay the full amount … Implementations did not always do this check.
+
+Listed implementations which were vulnerable were c-lightning v.0.7.0 and below, lnd v.0.7.0 and below, and eclair v.0.3.0 and below. Some implementations only checked for partial data necessary to confirm the authenticity of the transaction. According to the report “It did NOT, however, require the receiver to actually check that the transaction is the one promised by the funder: both the amount and the actual scriptpubkey.”
+
+All systems seem to be back on track now, the bug report detailing that the discovery, for all the trouble it caused, “did provide an opportunity to test communications and methods of upgrade across the entire lightning ecosystem.”
+
+Skepticism Remains
+
+While this security flaw was dealt with relatively efficiently, and no network is beyond critique, many in the crypto space still take issue with the layer two payment protocol for various reasons. Addressing this most recent report on Twitter, Bitcoin Unlimited’s Peter Rizun wrote:
+
+Many people pointed out how LN channel balances were claims on real bitcoins, and not actually real bitcoins themselves, and that problems like this would surface. LN proponents retorted that it was impossible for channel balances to be unbacked. LN proponents were wrong. 2/2 — Peter R. Rizun (@PeterRizun) September 27, 2019
+
+Still others are critical of the trust that is required to use the network, and the necessity of remaining online, as it is ultimately an off-chain solution requiring intermediaries who are also online at the same time, and who have enough funds available to move a user’s desired transaction along. Controversial ideas like watchtowers have not helped folks take a shine to LN, either, owing to the potential they hold for surveillance bodies like police and governments to establish undue influence, and stifle liquidity. For those relatively new to LN and some of the potential obstacles it presents, Rizun has also posted an easy-to-understand illustrated video here. Should Lightning ever emerge from its experimental stage, then the market can have a good, full go at it. Trouble is, some are still wondering if that elusive day will ever come.
+
+What are your thoughts on the Lightning Network? Let us know in the comments section below.
+
+Image credits: Shutterstock.
+
+Did you know you can also buy Bitcoin Cash online with us? Download your free Bitcoin wallet and head to our Purchase Bitcoin page where you can buy BCH and BTC securely.

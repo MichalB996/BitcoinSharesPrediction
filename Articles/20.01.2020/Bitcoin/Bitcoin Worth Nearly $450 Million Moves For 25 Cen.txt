@@ -1,0 +1,41 @@
+DATE:  20.01.2020, 11:00:22
+TITLE: Bitcoin Worth Nearly $450 Million Moves For 25 Cents
+URL:   https://bitcoinist.com/bitcoin-worth-nearly-450-million-moved-for-25-cents/
+
+Bitcoin Bitcoin Worth Nearly $450 Million Moves For 25 Cents
+
+Bitcoin showed just how inexpensive it can be as a tool for transferring value this morning. A 51,511 BTC transaction, worth almost $450 million, was sent for a fee of under 25 cents.
+
+
+
+Half a Ten Millionth of a Percent
+
+The transaction was included in block 613644, and a total amount of 51,511.81741968 was moved. At the time the block was mined, the bitcoin price was $8680.51, meaning $447.15 million of value was transferred.
+
+The fees for the transaction were pegged at 0.0000268 BTC, or just 23.26 cents. This gives an astonishing fee rate of just 0.00000005%.
+
+Bitcoin Fees Could Have Been Even Less
+
+According to the Blockstream block explorer, the fee level could have been even lower.
+
+This transaction saved 30% on fees by upgrading to SegWit and could save 16% more by fully upgrading to native SegWit-Bech32
+
+Of course, with fees already this low, what’s an extra 16%? Western Union and PayPal must be choking on their biscuits.
+
+It seems likely that the transaction was a self-transfer, and the bitcoin didn’t actually change hands. This is because the payment was an exact amount and didn’t contain any ‘change’. The most common reason for this is through use of the ‘send maximum amount’ feature in a wallet, to transfer funds to a new wallet, exchange account, or similar.
+
+Fee Rates Not Available For Average Investors
+
+Sadly, percentage rates like this are only available when transferring whale-sized amounts of bitcoin. Although a 25 cent fee makes a still very respectable percentage rate of 0.25% when transferring just $100.
+
+However this still puts micro-transactions out of reach. Nobody wants to pay a 25 cent fee on a transaction of 50 cents.
+
+The layer-two Lightning Network solution has long promised to reduce fees to the point where micro-payments are a feasible option.
+
+2019 saw a large growth in LN nodes and capacity, and even a Lightning-specific conference in Berlin in October. However, it is still officially classed as experimental, and not recommended for larger bitcoin transactions.
+
+Are you shocked by the super low Bitcoin transaction fees? Add your thoughts below!
+
+
+
+Images via Shutterstock

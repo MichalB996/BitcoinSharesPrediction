@@ -1,0 +1,37 @@
+DATE:  13.11.2019, 14:00:42
+TITLE: Bitcoin’s Difficulty Falls As Miners Capitulate; Will They Survive the Halving?
+URL:   https://www.ccn.com/bitcoin-difficulty-falls-miners-capitulate/
+
+On Nov. 8, bitcoin’s mining difficulty fell for the first time in 2019, but what does this mean for the industry going forward?
+
+On Monday, bitcoin’s mining difficulty adjusted itself down by 7%, making it easier for miners to solve algorithms, and thus mine blocks. As to why this occurred, it appears to be in conjunction with bitcoin’s recent price drop. Mining difficulty is set to reconfigure itself every 2016 blocks, or roughly every two weeks. Difficulty modulates based on how long it took for miners to discover the previous 2016 blocks. If it takes longer than two weeks, the difficulty is tuned down, and vice versa.
+
+The Rain in China Falls Mostly on Bitcoin Mining Firms
+
+Dovey Wan, founder of primal ventures, suggested that the difficulty alteration may have been due to the end of the rainy season in China.
+
+Indeed, bitcoin’s hashrate recently dipped to around 90 exahashes per second (EH/s) from a previous high of 100 EH/s. China – known for both bitcoin mining, and its cheap electricity which supplements the former – has been witnessing a gradual end to its rainy season. This, for Dovey and many others, is one of the prime reasons for the falling hashrate.
+
+China’s southwestern provinces, such as Sichuan, boast some of the cheapest electricity tariffs in the country, sometimes falling as low as $0.02 per kWh. During the rainy season, these regions harness the power of mother nature, utilizing hydroelectricity plants to produce a surplus of energy. This has drawn power-hungry mining firms looking for cheap rates. Though, with the relative drought setting in, miners are forced to pack up shop and head elsewhere.
+
+Ultimately though, bitcoin’s recent price drop has contributed the most to the difficulty adjustment. Typically, miners stop operations due to unsustainable price levels. As they do, the total contributed power within the bitcoin network (i.e., hashrate) declines. This is registered by the network, which adjusts the difficulty in order to re-incentivize miners. With bitcoin’s recent lackluster price action and a steady increase in hashrate, it’s no surprise miners are capitulating.
+
+What About the Bitcoin Halving?
+
+If this is the state of mining following a dry spell in China, then things don’t bode too well for the bitcoin halving.
+
+Bitcoin’s creator(s) Satoshi Nakamoto instilled this protocol through autonomous monetary policy, known as the bitcoin halving. Every 210,000 blocks, or approximately four years, bitcoin’s mining reward halves. This ensures that the circulating supply is kept under control, quelling any threat of hyperinflation.
+
+As a result, the reward for mining is cut in half. Come May 2020, the reward for mining will go from 12.5 to 6.25 BTC per block. While this ensures the longevity of the network, it will ultimately price out miners who will become instantly unsustainable. That is, unless, bitcoin can manage to meet everyone’s lofty price expectations.
+
+Supply and Demand
+
+It’s all about supply and demand. This is one of the main reasons bitcoin is anticipated to rise following the halving. It’s simple: Reduced supply from the production halving will (hopefully) increase demand, resulting (again, hopefully) in a price increase as a consequence.
+
+Scores of people have speculated on this occurrence. One analyst known as Plan B uses a model known as stock to flow to explain.
+
+The stock to flow model, or SF, is essentially a measure of asset scarcity based on the annual production and inflation. The higher the SF, the more valuable the asset is deemed. Gold, for example, holds an SF of 58, bitcoin an SF of 25. Once the halving hits, bitcoin’s SF will double, bringing it close to gold at around 50.
+
+Nevertheless, if the worst does happen and bitcoin doesn’t deliver, not all is lost. In the event that halving prices miners out, we’ll likely see a short term reduction in hashrate. Once the mining difficulty algorithm registers this, it’ll adjust right down, incentivizing miners to jump back in.
+
+So, it seems regardless of what is thrown at it, the bitcoin protocol will prevail.

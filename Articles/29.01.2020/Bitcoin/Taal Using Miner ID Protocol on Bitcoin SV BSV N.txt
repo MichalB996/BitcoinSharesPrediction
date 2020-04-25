@@ -1,0 +1,45 @@
+DATE:  29.01.2020, 13:00:00
+TITLE: Taal Using Miner ID Protocol on Bitcoin SV (BSV) Network to Support Future of Bitcoin Mining Specialization.
+URL:   https://www.globenewswire.com/news-release/2020/01/29/1976739/0/en/Taal-Using-Miner-ID-Protocol-on-Bitcoin-SV-BSV-Network-to-Support-Future-of-Bitcoin-Mining-Specialization.html
+
+VANCOUVER, British Columbia, Jan. 29, 2020 (GLOBE NEWSWIRE) -- TAAL Distributed Information Technologies Inc. (CSE: TAAL) (“TAAL”) has implemented the Miner ID protocol offered on the Bitcoin SV (BSV) network, and on December 20, 2019 and December 24, 2019, at block height 614551 (as reported on: https://whatsonchain.com/block-height/614551 ), began identifying blocks on the Bitcoin SV blockchain mined by the Company and its fleets under management as TAAL.com. TAAL is using Minder ID as part of its efforts to lead business innovation and professionalizing of the Bitcoin mining industry.
+
+
+
+Miner ID
+
+Miner ID is an optional protocol for enabling users to identify and securely transact with mining nodes on the BSV network.
+
+Miners validating and confirming blocks on the Bitcoin SV (BSV) network can now be identified by a unique and custom descriptor (i.e. TAAL.com) that is cryptographically verifiable. A small amount of data (known as the “Coinbase Document”) is embedded into a transaction by the miner and stored on the blockchain when a miner wins a block and adds it to the blockchain.
+
+Miner ID is important as it standardizes the identification descriptions listed on commonly referenced Block Explorer websites and secures the information within the Coinbase Document from alteration using proof of work and public key cryptography. Additional data within the Coinbase Document also contains information such as identification and contact details for the miner, this enables efficiencies in connecting to applications and services for fee discovery (i.e. merchant API server), which is essential for offering specialized mining services at a contracted rate to BSV application operators.
+
+Miner ID is another step in the Bitcoin SV (BSV) ecosystem’s mission to professionalize the Bitcoin industry. It is a feature provided by the Bitcoin SV (BSV) Node team (which manages the software implementation for the Bitcoin SV (BSV) protocol) and it is not available in the node software implementations for the competing Bitcoin Core (BTC) and Bitcoin Cash (BCH) blockchains.
+
+Establishing Reputation
+
+With Miner ID applied to blocks mined to the Bitcoin SV (BSV) blockchain it is possible to verify and provide transparency on the performance of miners based on number of blocks mined and computing power applied.
+
+At a time when the Bitcoin static block reward subsidy is soon halving (from 12.5 coins to 6.25 coin in April 2020 for Bitcoin SV (BSV) and Bitcoin Cash BCH, and likewise in May 2020 for Bitcoin Core BTC) and operating costs are constant, miners are developing specialized mining services and contractual arrangements to provide new revenue streams based on earning more transaction fees for greater volumes and more types of data transactions on the blockchain.
+
+The reputation of a miner will greatly impact the adoption of such new specialty services and fee contracts offered by miners. Miner ID provides a mechanism for miners to develop a verifiable public reputation about their performance on the Bitcoin SV (BSV) network. Because of BSV’s massive scaling and microtransactions capabilities, BSV applications are generating large volumes of transactions and have begun entering into specially negotiated transaction fee agreements directly with miners. Miner ID will also allow BSV application providers (or even a regulator) to verify a miner’s true performance against contractual service level agreements and thus enhance confidence amongst all participants of the network.
+
+The availability of Miner ID on the Bitcoin SV (BSV) network is another reason why TAAL believes Bitcoin SV (BSV) has the best roadmap to sustain long-term profitability for Bitcoin miners.
+
+Blocks identified as TAAL.com
+
+Starting on December 24, 2019, at block height 614551 (as reported on: https://whatsonchain.com/block-height/614551 ) TAAL started identifying blocks mined by the company’s owned fleet and for blocks mined by third party customer fleets contracted under its managed service offering. TAAL only receives block reward subsidies and transaction fees for blocks mined by its machines under its direct ownership. Please note managed services offering and licencing of Taal Orchestrator are separate revenue channels outside of block rewards and transaction fees.
+
+About TAAL Distributed Information Technologies Inc.
+
+TAAL is a Canadian based technology company engaged, through its subsidiaries, in the business of developing and operating and managing cloud computing data infrastructure and system technology to support global blockchain applications related to Bitcoin SV (BSV), Bitcoin Core and other associated SHA‐256 derived digital assets.
+
+For further information contact:
+
+Angela Holowaychuk
+
+President and Chief Executive Officer
+
+Telephone: +1 800‐371‐2809
+
+CAUTIONARY STATEMENT REGARDING FORWARD-LOOKING INFORMATION: This news release includes "forward-looking information" as defined under applicable Canadian securities legislation. Forward‐looking information and statements include, but are not limited to, disclosure regarding possible events, that are based on assumptions about future economic conditions and courses of action statements with respect to the anticipated benefits, if any, effects, performance, capabilities or importance of the Miner ID protocol (including the professionalism and mechanics thereof), statements with respect to development by miners of specialized mining services and contractual arrangements (and the anticipated effects thereof), statements with respect to factors relating to the anticipated adoption of specialty services and fee contracts offered by miners, statements with respect to the transaction volume and transaction fee agreements relating to BSV applications and statements with respect to the Bitcoin SV (BSV) network and its ability, if at all, to sustain long-term profitability for Bitcoin miners., and, in certain cases, can be identified by the use of words such as "expects", or variations of such words and phrases or statements that certain actions, events or results "may" or "will", or the negative forms of any of these words and other similar expressions. Forward-looking information is necessarily based upon a number of estimates and assumptions that, while considered reasonable, are subject to known and unknown risks, uncertainties, and other factors which may cause the actual results and future events to differ materially from those expressed or implied by such forward-looking information. Such factors include, but are not limited to: general business, economic, competitive, political and social uncertainties, uncertain and volatile equity and capital markets, lack of available capital, future demand for Bitcoin SV, Bitcoin Core and other digital assets and risks related to the mining thereof, integration issues, personnel and staffing requirements and technological change and obsolescence. Actual results and future events and actions could differ materially from those anticipated in such forward looking information. Accordingly, readers should not place undue reliance on forward-looking information. All forward looking information in this news release is made as of the date hereof and qualified by these cautionary statements and those in our continuous disclosure filings available on SEDAR at www.sedar.com. Taal disclaims any intention or obligation to update or revise such forward-looking information, whether as a result of new information, future events or otherwise, except as required by law.

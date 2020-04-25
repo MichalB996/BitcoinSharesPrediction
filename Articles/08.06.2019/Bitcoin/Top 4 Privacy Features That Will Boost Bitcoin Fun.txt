@@ -1,0 +1,53 @@
+DATE:  08.06.2019, 00:00:11
+TITLE: Top 4 Privacy Features That Will Boost Bitcoin Fungibility
+URL:   https://bitcoinist.com/top-4-privacy-features-that-will-boost-bitcoin-fungibility/
+
+Bitcoin Technology Top 4 Privacy Features That Will Boost Bitcoin Fungibility
+
+Bitcoin privacy is expected to improve with a few key proposals that are currently being worked on by Core developers. Let’s take a look at the most interesting ones.
+
+Privacy Means Better Bitcoin Fungibility
+
+For the vast majority of Bitcoiners, major forks aside, Bitcoin seems fairly solid and unchanging. But it is actually in a constant cycle of evolution, through an ongoing series of proposals for improvement.
+
+One key aspect of the Bitcoin network, which is down for some improvement is privacy. Sure, bitcoin transactions are pseudonymous, but as we see time and time again, that doesn’t make them anonymous. Privacy is also an important factor in fungibility – a key feature of good money.
+
+Fungible money means any individual unit of bitcoin are essentially interchangeable, and each of its parts is indistinguishable from another part. So let’s looks at some of the current proposals:
+
+Taproot and Schnorr
+
+Whilst Taproot and Schnorr may sound like the name of a hipster-run organic craft beer brewery, they are actually two new Bitcoin privacy-enhancing proposals. They actually come packaged with a third little friend, MAST.
+
+They all relate to increasing the privacy level of signatures. In particular, they work to hide information about multi-sig use and conditions from the public eye.
+
+Obviously, it all gets very technical, but the benefits of these upgrades to privacy would be great.
+
+Dandelion
+
+Continuing the bizarre-proposal-names convention comes Dandelion. This privacy-enhancing upgrade was proposed a year ago.
+
+It addresses the very first step in transferring bitcoin. Broadcasting a transaction out onto the network. This is actually a point of risk. An observant node can often pinpoint the originating IP address of the transaction, and hence the likely owner.
+
+[Dandelion] boasts the most optimal non-encryption, privacy guarantees for broadcasting a transaction. Even in the presence of a widely connected supernode, that is closely monitoring the Peer-to-peer network.
+
+Bulletproofs
+
+Bulletproofs (now that name kinda makes sense), are another privacy-based proposal from last year.
+
+The proposal takes the form of a zero-knowledge proof, to maintain the anonymity of a transaction amount. It builds on the ‘Confidential Transactions’ proposal, but more on that later. It differs through not requiring a trusted setup.
+
+[Correction : “There is no trusted setup required for *pre-Bulletproofs* Confidential Transactions. In other words, there has never been a requirement for a trusted setup for Confidential Transactions,” explained Blockstream’s Daniel Williams to Bitcoinist.]
+
+A zero-knowledge proof is a technique by which one party (the prover) can prove to another party (the verifier) that she knows a value x, without conveying any information apart from the fact that she knows the value x.
+
+Bitcoin: Confidential Transactions
+
+Finally, a name that does what it says on the tin. Confidential Transactions was originally the product of Adam Back in 2013. It was the first attempt at a proposal to hide transaction amounts from any parties other than the sender and receiver.
+
+Unfortunately, it did require a trusted setup. Hence Bulletproofs.
+
+As we can see, improvements can take a long time to be implemented, but that can be a good thing. After all, not all proposals will be universally accepted. But it’s good to know that there are people working to make Bitcoin even better.
+
+Which Bitcoin improvement proposals are you most excited about? Share your thoughts below!
+
+Images via Shutterstock

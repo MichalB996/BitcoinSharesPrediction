@@ -1,0 +1,27 @@
+DATE:  13.05.2019, 17:00:42
+TITLE: Tor Makes Launching Bitcoin Lightning Nodes Easier for Users, Casa Finds
+URL:   https://www.coindesk.com/tor-makes-launching-bitcoin-lightning-nodes-easier-for-users-casa-finds
+
+The privacy-minded network Tor helps users to leapfrog one of the trickier aspects of setting up a bitcoin and lightning node, according to bitcoin startup Casa.
+
+Casa CTO Jameson Lopp addressed this point during a talk at CoinDesk’s Consensus 2019 conference, where he discussed what Casa has learned about its product – a plug-and-play bitcoin and lightning node that aims to make it easier for users to run the software.
+
+People often funnel their node network traffic through the Tor network to improve privacy, as the network shields the IP address of the node (which can show where it is located). Tor’s usefulness in this scenario is interesting because, in addition to this, such an approach helps users blast through some of the thorny networking hurdles that come with setting up a node.
+
+As Lopp stated:
+
+“With Tor, we were able to punch through all these networking issues.”
+
+Casa added Tor support back in April. While it may sound contradictory, one of the biggest issues when setting up a Casa full node (which Lopp said takes up a “significant portion” of staff support time) is making sure that other nodes can see it on the network. To do so, users need to set up “port forwarding.”
+
+In theory, this should be a simple process. A user just plugs in the port number the node is running on into their router’s port forwarding website. But users have all sorts of problems, Lopp said, since there are “hundreds of thousands” of different routers with different settings, and some are easier to set up than others.
+
+Casa has tried a “universal plug and play” setting to help with this issue, but Lopp said it “works in like less than 50 percent of cases,” whereas Tor just routes around the problem altogether.
+
+There is one negative aspect to using Tor, however.
+
+“The only downside is you have to get a Tor browser,” Lopp said, which he admitted is not the easiest process. But between using Tor and trying to deal with a router’s port forwarding configuration, Lopp believes the choice is obvious.
+
+“It’s easier to do that than going through all this networking complexity,” he said.
+
+Jameson Lopp image by Alyssa Hertig for CoinDesk

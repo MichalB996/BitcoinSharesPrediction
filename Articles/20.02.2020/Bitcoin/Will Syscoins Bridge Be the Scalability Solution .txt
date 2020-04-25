@@ -1,0 +1,41 @@
+DATE:  20.02.2020, 14:33:53
+TITLE: Will Syscoin’s Bridge Be the Scalability Solution Ethereum Developers Are Looking For?
+URL:   https://www.newsbtc.com/2020/02/20/will-syscoins-bridge-be-the-scalability-solution-ethereum-developers-are-looking-for/
+
+Earlier this month, several of Ethereum’s core developers, including Vitalik Buterin himself, participated in an AMA on Reddit. Apparently, after five years of discussion, delays, and disappointment, the hotly anticipated ETH 2.0 upgrade could finally land as soon as July.
+
+But don’t get too excited just yet. Developer Justin Drake was apparently “95% confident” that it would land this year. At least, phase 0 will (hopefully) land this year, with two more phases to follow after that. Meaning, the full implementation of ETH 2.0 could still be quite a few years away.
+
+Anyone who’s been patiently waiting for a bigger, better and faster Ethereum can be forgiven for having doubts at this point. Of course, upgrading a platform on this scale is always going to be a marathon rather than a sprint. But for developers seeing their dApp throughput choked every time the network experiences high traffic, knowing a solution could be years away is of little comfort. Nearly six years since the genesis block, transaction speeds still lag at a measly 15 per second.
+
+Under Pressure
+
+It’s becoming increasingly evident that the scalability issue is escalating. In September last year, Tether trades alone hogged 50% of total network traffic, leading to some users reporting that their transactions were taking hours or even days.
+
+Crypto appears to be undergoing a prolonged bull run, there’ll be even more demand for Tether from the trading community, putting Ethereum under yet more pressure and pushing up gas fees to boot. There’s a real risk that developers will end up migrating to other platforms, even if it means leaving Ethereum’s diverse range of dApps behind.
+
+Now, Syscoin has launched an interoperability bridge, introducing a realistic workaround to Ethereum’s scalability woes. The Syscoin Bridge enables devs to continue running their dApps on Ethereum, but at higher speed and with lower transaction costs than the network itself can manage.
+
+Introducing the Syscoin Bridge
+
+Syscoin has been around since 2014, originally launched as a fork of Bitcoin, and still merge-mined with Bitcoin to this day. In fact, Therefore, around 25% of Bitcoin’s hash rate dedicated to merge-mining Syscoin tokens, making it a secure-than-most platform.
+
+However, in development terms, Syscoin has come a long way from its Bitcoin roots. The project launched the fourth version of its platform last year, and has introduced an additional processing layer known as Z-DAG – an abbreviation of zero-confirmation directed acyclic graph. The Z-DAG operates as an instant settlement layer, organizing and settling transactions. Transactions are then written to the blockchain and undergo a final confirmation in the second layer, which uses PoW.
+
+Using this dual-layer structure means Syscoin can achieve transaction speeds of up to 60,000 per second. This performance has also been independently verified by testing platform Whiteblock.
+
+The Syscoin Bridge introduces a two-way path between the Ethereum blockchain and the Syscoin network. A developer can use the bridge to push their ERC-20 token into the Syscoin network, where it can benefit from the Z-DAG’s high throughput and low transaction fees.
+
+When a token crosses, it goes through a burn-and-mint process to enable it to operate in the respective network. This mechanism keeps the token supply constant regardless of how many times the token migrates back and forth between blockchains.
+
+Incentivizing Bridge Agents
+
+Bridge transactions are overseen by nodes called Agents. An agent is responsible for aggregating bridge transactions into “superblocks” and validating them. Agents regularly transmit blocks to the Ethereum blockchain as a proof of the transactions that have taken place. They’re incentivized for their efforts with a reward valued at 0.01% of the value of the transactions within each superblock.
+
+There’s also an incentive mechanism in place to deter bad actors. Each Agent stakes 3 ETH and has the right to challenge any other Agent if they believe they’ve wrongly validated any given superblock.
+
+If the challenge is successful, the challenger wins the 3 staked ETH from the Agent who was wrong. If it’s unsuccessful, the Agent who validated the block wins 3 ETH from the challenger. In this way, a challenger has to be reasonably confident that their challenge will be a success, or they’ll be penalized.
+
+The Syscoin Bridge was only launched in January, so it’s too early to tell if it really will prove to be a viable workaround for Ethereum’s scalability issues. Furthermore, given that the Bridge relies on Agents that operate independently of Syscoin’s own merge-mining with Bitcoin, it may take some time for the solution to become fully decentralized.
+
+Nevertheless, on balance, it seems that the Syscoin Bridge offers an immediate and elegantly simple solution to Ethereum scalability than the much-vaunted ETH 2.0 upgrade. Over the rest of 2020, it’s ultimately in the hands of developers whether they choose to adopt the Bridge as a workaround, or sit tight in the hope that ETH 2.0 lives up to its promise when it finally materializes.

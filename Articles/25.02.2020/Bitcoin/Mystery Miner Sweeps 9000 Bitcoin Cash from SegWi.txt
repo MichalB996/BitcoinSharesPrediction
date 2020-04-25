@@ -1,0 +1,29 @@
+DATE:  25.02.2020, 18:00:31
+TITLE: Mystery Miner Sweeps 9,000 Bitcoin Cash from SegWit Addresses
+URL:   https://bitcoinist.com/unknown-miner-sweeps-9000-bitcoin-cash-from-segwit-addresses/
+
+Bitcoin Cash Mystery Miner Sweeps 9,000 Bitcoin Cash from SegWit Addresses
+
+Over the course of two years, an unknown mining entity managed to sweep addresses for lost Bitcoin Cash (BCH), taking the coins as their own instead of returning them to owners.
+
+Lost Coins Grew Since 2017 Bitcoin Cash Hard Fork
+
+Bitcoin Cash (BCH) stepped into a problem soon after its launch in August 2017. Due to address format similarities, over the years, BCH users mistakenly sent out coins to SegWit addresses, which are not supported on the Bitcoin Cash network. Over the years, the possibility to send coins was not fixed, and up to 18,000 BCH was sent mistakenly. Mistaken transactions picked up in 2018 and 2019, due to the relative novelty of SegWit addresses.
+
+The newest data from Coinmetrics shows that known pools through their coin recovery programs managed to claw back about half of the coins and return them to the owners. But one “unknown” miner managed to mine enough blocks to sweep about 9,000 BCH. Jameson Lopp, Bitcoin supporter, tweeted on the so-called “BCH jackpot”:
+
+An unknown miner has swept up nearly 9,000 BCH that were mistakenly sent to SegWit addresses (which are only redeemable on Bitcoin.) Over $3M as of today. H/T @khannib @coinometrics https://t.co/wrBGhYOa3o pic.twitter.com/Xug5e6fLq1 — Jameson Lopp (@lopp) February 25, 2020
+
+Coinmetrics tracked the problem from its initial days, when the lost coins were in the hundreds. Miners like BTC.com even opened a form for small claims, though the service was only temporary. Later, the pool decided to discontinue recoveries for smaller sums, setting a minimum of 10 BCH recovery fee for a minimum recovery of 100 BCH.
+
+51% Attack in May 2019 Prevented “Unknown” Miner from Coin Clawback
+
+So far, BTC.com and BTC.top are the biggest movers of lost coins. But an “Unknown” miner has a total score of 8,763.16 coins so far, with the potential to gain more. At this point, not all recoverable coins are known, and more can be discovered. The condition to gain access to the coins is to be a miner, or contact a miner willing to include a non-standard script transaction which will be propagated. Regular users cannot send the required type of transaction to the blockchain.
+
+At one point, BTC.com and BTC.top managed to forestall another attempt to claim lost coins, by actually performing a unified 51% attack on the Bitcoin Cash blockchain. This stopped the propagation of the transactions mined by “Unknown”, orphaning a specially prepared block that would have given the miner access to the lost BCH.
+
+BCH changed its address format toward the end of 2018, and the number of misplaced coins decreased significantly since April 2019. Mistaken transactions can be avoided by sending a small test amount of coins to see if the address is viable and no mistake has been made. The search for lost coins continues, and owners may find it more difficult to organize the clawback of small-scale transactions.
+
+What do you think about the claiming of lost BCH through targeted block mining? Share your thoughts in the comments section below!
+
+Images via Shutterstock, Twitter @lopp

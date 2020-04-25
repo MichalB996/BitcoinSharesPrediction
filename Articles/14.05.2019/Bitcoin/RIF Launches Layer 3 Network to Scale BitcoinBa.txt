@@ -1,0 +1,33 @@
+DATE:  14.05.2019, 14:00:53
+TITLE: RIF Launches ‘Layer 3’ Network to Scale Bitcoin-Based Smart Contracts, Tokens
+URL:   https://www.coindesk.com/rif-launches-layer-3-network-to-scale-bitcoin-based-smart-contracts-tokens
+
+RIF Labs, which developed the RSK Network for ethereum-like tokens and smart contracts on top of bitcoin’s blockchain, has launched a “third-layer solution” to help scale this technology.
+
+After more than a year in the works, the Lumino project is now officially live, RIF said Tuesday. The Gibraltar-based firm, parent of the startup RSK Labs, claims Lumino can handle up to 5,000 transactions per second (tps).
+
+While that may pale in comparison to the 65,000 tps the Visa network is capable of processing (according to the payments giant’s latest annual report), it’s still an improvement over bitcoin’s transaction throughput, which rarely cracks two digits.
+
+Conceptually, Lumino is similar to bitcoin’s lightning network, in that it allows parties to transact off-chain, in so-called state channels, until one party decides to record their balance on the blockchain for final settlement.
+
+However, in addition to bitcoin, Lumino can also scale transaction volume for the tokens running on the RSK Network, RIF said. There are about a dozen such tokens currently, according to the RSK block explorer.
+
+That network, launched in early 2018, is itself a so-called sidechain, or ledger that runs in parallel to the main bitcoin blockchain. An asset can be locked up on the main chain and then traded on the sidechain, and vice versa. This allows for complex things like smart-contract creation and token issuance to occur on the sidechain without burdening the bitcoin network.
+
+Off-chain scaling
+
+RSK Labs said in May 2018 that the sidechain, also known as Rootstock, could process 100 transactions per second, but even then recognized that this was not sufficient for mass adoption. Hence its work, already underway at the time, on Lumino.
+
+“While the RSK Network added smart contract capabilities and on-chain scaling improvements on top of the bitcoin network, it is not enough to achieve transaction processing levels on par with those offered by major payment processors around the world,” RIF said in a press release Tuesday.
+
+Trying to scale purely on-chain will create problems down the line, the company added, “as every record saved on the blockchain needs to be saved forever. It is going to become increasingly difficult to maintain and validate multi-terabyte blockchains in the coming years.” (As of this writing, the bitcoin blockchain is over 216,000 megabytes big, or 0.216 terabytes, according to Blockchain.com data.)
+
+
+
+By contrast, Lumino offers “near-instant processing capabilities and network transaction costs at a fraction of a cent,” RIF claimed.
+
+Still, Sergio Lerner, head of research and innovation at RIF Labs, was careful to describe the new network as only “the first step towards a scalable network infrastructure.”
+
+Lumino also integrates with the previously launched RIF Name Service, allowing participants to create aliases when opening state channels and sending payments, instead of the usual cat-walked-on-the-keyboard alphanumeric strings that can bewilder non-technical users.
+
+Sergio Lerner image via CoinDesk archives

@@ -1,0 +1,75 @@
+DATE:  24.11.2019, 16:16:25
+TITLE: What’s New in the Bitcoin Core 0.19.0 Release
+URL:   https://bitcoinmagazine.com/articles/bitcoin-core-0-19-0-released-heres-whats-new
+
+Ring in the new bitcoin halving cycle the right way: with us!
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+Today, November 24, 2019, marks the official release of Bitcoin Core 0.19.0, the 19th major release of Bitcoin’s original software client launched by Satoshi Nakamoto almost 11 years ago and still the dominant Bitcoin implementation on the network today. (Though due to an issue that came to light in a late stage of the Bitcoin Core 0.19.0 release process, the version released for download is actually 0.19.0.1.) Overseen by Bitcoin Core lead maintainer Wladimir van der Laan, this latest major release was developed by over a hundred contributors over a span of about six months.
+
+The result of 550 merged pull requests, Bitcoin Core 0.19.0 includes a range of performance improvements, modernizations and bug fixes, as well as other changes.
+
+Here’s an overview of some of these changes.
+
+Bech32 Addresses by Default in the GUI
+
+The “bech32” address format (BIP 173) had already been introduced in Bitcoin Core 0.16.0, released in early 2018, but is now for the first time set as the default option in the Bitcoin Core wallet Graphical User Interface (GUI).
+
+Bech32 addresses are the addresses starting with “bc1” (as opposed to addresses starting with a 1 or a 3.) These addresses are also a bit longer, but use fewer different characters than the current address format, as there is no longer a distinction between lowercase and capital letters. (This reduces the potential for human mistakes, for example, when an address is read out loud.) Bech32 addresses are also designed to limit mistakes caused by typos.
+
+Additionally, bech32 offers benefits in the context of SegWit. Some wallets that offer SegWit — including the Bitcoin Core wallet by default up until now — do so by “wrapping” it into P2SH outputs (with addresses starting with a “3”). To spend bitcoin from such an address, users must reveal a piece of code — the “redeem script” — to show that the bitcoin were really locked up in a SegWit output. With the new bech32 addresses, this step can be skipped, which means that spending from a SegWit output will require a little less data to be transmitted over the Bitcoin network and included in the blockchain. This makes transactions from a bech32 output even cheaper than SegWit transactions from a P2SH output.
+
+Since not all bitcoin wallets support sending to bech32 addresses yet, Bitcoin Core 0.19.0 users will still be able to optionally generate a PS2H receiving address instead, through a toggle in the GUI.
+
+Two Block-Only Outbound Connections Extra by Default
+
+Bitcoin nodes connect to several other Bitcoin nodes, together forming the peer-to-peer network. Over this network, the nodes share blocks, transactions and some additional transaction data.
+
+But the peer-to-peer network can be subject to attacks, such as “partitioning attacks.” If an attacker controls a large enough number of Bitcoin nodes, it can potentially “cut off” certain parts of the Bitcoin network (or even specific nodes) by intercepting all traffic to it. The partitioned part of the network could then, for example, be fooled into accepting a minority chain — not the longest chain — as valid, which could, in turn, open the door to double-spend attacks.
+
+A partitioning attack is countered if a node in the partitioned part of the network has even just one connection to an honest node on the main network. It would then receive and relay all transactions and blocks and would reject the minority chain in favor of the majority chain.
+
+One way to realize this, and to make partitioning attacks harder to pull off, is to have nodes establish more connections to one another. More connections do come with more memory and bandwidth requirements, however; there is a trade-off.
+
+Bitcoin Core 0.19.0 increases the default for outgoing connections by two, but — cleverly — these two extra connections are only used to relay blocks — they do not relay transactions or additional transaction data. This increases the added bandwidth requirements minimally, while still making partitioning attacks harder to pull off successfully.
+
+Bloom Filters Deprecated
+
+Bitcoin Core is a full node implementation, which means that it downloads and verifies all Bitcoin blocks. While this is optimally secure, it doesn’t make it very well suited for low-resource computing devices, like mobile phones. Mobile wallets (as well as some desktop wallets) are, therefore, usually “light clients”: these only download transactions and (parts of) blocks that concern them specifically.
+
+One way to do this is with Bloom Filters, used by a couple of wallets today. In short, Bloom Filters are a cryptographic trick used by light clients to request relevant data from more or less random full nodes on the network. Unfortunately, however, it has become clear over the years that Bloom Filters are rather privacy-unfriendly: They essentially reveal all of their addresses to the full node. On top of that, supporting Bloom Filter requests does come at a cost in CPU and disk space for full nodes — with no direct benefit for the full node itself.
+
+For the latter reason in particular, Bitcoin Core 0.19.0 no longer supports Bloom Filter requests by default. Users can still switch the default to support Bloom Filters if they so choose.
+
+It’s also worth noting that the Bitcoin network as a whole will almost certainly continue to support Bloom Filters for years to come, even if no one switches their defaults, simply because older Bitcoin Core nodes typically continue to be in use for years after new versions have been released.
+
+More Support for Compact Client-Side Block Filtering
+
+An alternative to Bloom Filters is a newer solution called “compact client-side block filtering” (BIP 158). Compact client-side block filtering essentially turns the Bloom Filter trick on its head. Instead of light wallets creating filters to send to full nodes, full nodes create filters for each block. Light clients can then use these filters to figure out if transactions relevant to them may have happened in a block. If so, the light wallet will fetch the whole block and pick any relevant transaction data out of it.
+
+Bitcoin Core 0.19.0 continues to move toward supporting compact client-side block filtering. Bitcoin Core nodes could already create the filters locally, but Bitcoin Core 0.19.0 users can now also make them available through a remote procedure call (RPC), for applications running on top of the node (like a wallet).
+
+The filters are not yet available over the peer-to-peer network, however. This means that a Bitcoin Core 0.19.0 node will not automatically send filters to other Bitcoin users’ wallets. This feature could be added to a future Bitcoin Core release — or Bitcoin Core 0.19.0 users could opt to offer the feature through a custom application running on top of their Bitcoin Core node.
+
+Payment Protocol Support Disabled From GUI
+
+The Payment Protocol (BIP 70) was designed several years ago to improve Bitcoin’s payment experience. On top of the regular payment as broadcasted to the Bitcoin network, a user and a merchant would communicate additional details about a payment, such as a human-readable destination address (the name of the merchant) and a refund address in case something went wrong with the purchase.
+
+While Bitcoin Core integrated the Payment Protocol in its GUI, the standard was never widely adopted. Instead, most wallets still use the more basic URI scheme (BIP 21) to receive payments: The clickable link or scannable QR-code format that, for example, communicates the payment address and amount. (The only notable exception today is payment processor BitPay, which does not support the URI scheme but uses a modified version of BIP 70.)
+
+Perhaps more importantly than the lack of adoption, the BIP 70 payments protocol has been suffering a number of security and privacy vulnerabilities over the years. Some wallets have, therefore, actively rejected to implement the protocol. Bitcoin Core, too, had been planning to deprecate BIP 70 for some time, as maintenance of it wasn’t considered worth the effort — but BitPay’s adoption of it stalled this process.
+
+In Bitcoin Core 0.19.0, BIP 70 has been removed from the GUI by default after all. Bitcoin Core 0.19.0 users would have to compile their node with a special configuration to still make use of the feature.
+
+Other…
+
+Besides the changes mentioned above, Bitcoin Core 0.19.0 comes with a long list of smaller improvements and modernizations.
+
+It’s now possible to start a pruned node immediately from setup, for example, which lets users with little disk space easily start up a new Bitcoin node. Bitcoin Core 0.19.0 also includes new features for the Partially Signed Bitcoin Transactions (PSBT) protocol, which is useful for multisignature and CoinJoin transactions. Likewise, there are several improvements in the domain of wallet descriptors, which is particularly useful for programmers working on Bitcoin applications. Bitcoin Core 0.19.0 nodes will also accept and relay transactions that use a future SegWit version to ensure that upcoming upgrades will proceed smoothly.
+
+For a more extensive list of upgrades, also see the Bitcoin Core 0.19.0.1 release notes.
+
+Thanks to Sjors Provoost for feedback on this article.

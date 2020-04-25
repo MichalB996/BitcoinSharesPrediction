@@ -1,0 +1,27 @@
+DATE:  05.05.2019, 19:19:32
+TITLE: Bitcoin’s Lightning Comes to Apple Smartwatches With New App
+URL:   https://www.coindesk.com/bitcoins-lightning-comes-to-apple-smartwatches-with-new-app
+
+You can now receive bitcoin’s experimental lightning payments with a few taps of an Apple smartwatch.
+
+Launched Sunday by Bluewallet, one of the more popular lightning network wallets, their new app for Apple Watches allows users to receive bitcoin over its new, risky (but nonetheless promising) payment technology: lightning. Transactors can use the smartwatch app to generate a QR code — a square-shaped barcode — that someone else can then scan with their smartphone to send over a payment.
+
+Bluewallet tweeted a sneak peek of the app weeks ago. But as of today, it’s officially downloadable from the iTunes store.
+
+Product and UX engineer Nuno Coelho framed the app as an experiment, telling CoinDesk:
+
+“It’s a small experiment we’re doing to put wallets on the watch. The first releases will be simple, allowing you to receive lightning payments.”
+
+Why might someone want to receive lightning transactions via a smart watch? you might ask. Smart watches aren’t as popular as smartphones, but many use them for the convenience of tracking health and viewing phone notifications without actually pulling out the phone.
+
+Bluewallet, to that end, is testing to see if users might like to use them for bitcoin payments as well.
+
+“Sometimes the convenience of just [receiving bitcoin] with two taps from your wrist can be a relevant user experience, specially on the go or if you need to be fast,” Coehlo said, adding it might be useful if you’re buying bitcoin from someone, but “don’t feel comfortable” taking out your phone, you could just use the watch instead.
+
+But Coehlo stresses that this is an experiment, since lightning technology itself is still very experimental, and they’re not sure how many users will actually want to use the app.
+
+“If feedback is good, we’ll spend more time on the project,” he told CoinDesk. “It’s a very early stage industry so we’re trying to figure out how to build this stuff properly.”
+
+Bluewallet, helmed by a team of three developers, is also working on other features to expand the wallet. “We would also like to move from being a third-party service, minimizing trust. That’s our most important goal at the moment,” Coehlo said.
+
+Image via Bluewallet

@@ -1,0 +1,63 @@
+DATE:  19.01.2019, 10:00:22
+TITLE: Opinion: Stop Trying To Build a Better Bitcoin
+URL:   https://bitcoinist.com/unit-e-better-bitcoin/
+
+Op-Ed Opinion: Stop Trying To Build a Better Bitcoin
+
+A team of professors from top US universities have come together to create a new globally scalable decentralized payments system. But with Bitcoin already proving to work as intended for ten years running, would a ‘better Bitcoin’ even stand a chance?
+
+MIT and Standford Professors Developing Unit-E
+
+The professors formed a non-profit foundation based in Switzerland, called Distributed Technologies Research, backed by Credit Suisse and Pantera Capital.
+
+Unit-e, the cryptocurrency it aims to launch later this year, will process up to 10,000 transactions per second (tps). This compares to the roughly 7 tps for Bitcoin and a 1,700 tps that Visa processes on average.
+
+To achieve such speeds, DTR, examined every aspect of blockchain technology and tried to improve on it. The result should be almost unrecognizable from current cryptocurrencies, with ‘innovation’ across consensus, sharding, payment channels, security, and incentives.
+
+DTR’s vision for a research manifesto, “Decentralized Payment Systems: Principles and Design,” introduces the Unit-e architecture, and will be available as a book.
+
+Interestingly, there were zero results for anything related to nodes and mining in the press release despite all the talk about being able to scale better than Bitcoin. What’s more, Visa can actually process up to 45,000 tps, or over four times more than promised by Unit-e.
+
+So if we’re talking about payment capacity and speed here, Unit-e already seems like a non-starter compared to Visa, which is instant and already ubiquitously adopted.
+
+Beating Bitcoin Won’t Be Easy, If Not Impossible
+
+Even harder will be launching a new base layer protocol into today’s competitive cryptocurrency market. First, Bitcoin’s ten-year lead as a world-recognizable brand and overall first-mover advantage can’t simply be replicated overnight.
+
+Its network is comprised of not only an impressive hash rate but also hundreds of skilled volunteer developers, thousands of peer nodes, and millions of users.
+
+This gives Bitcoin a Schelling point advantage towards mass adoption and its unmatched 99.98 percent uptime over the past decade provides a strong argument for the Lindy Effect.
+
+It is undoubtedly the most battle-tested blockchain today. It has weathered social engineering attacks, forks, corporate takeover attempts, government bans, media mud-slinging etc. It has simply shrugged off the hundreds of obituaries from the likes of Paul Krugman, Warren Buffet, Jamie Dimon etc. and keeps chugging on.
+
+Bitcoin has demonstrated to be an anti-fragile beast, only growing stronger from the disorder and perceived chaos of not having any leadership.
+
+Does Unit-E Stand a Chance?
+
+Firstly, one must find the necessary support from the community, to ensure a decentralized ecosystem of miners and nodes. DTR says it’s committed to growing the research group and developer community, with ongoing support and funding. But this isn’t an easy task.
+
+Riccardo Spagni, a leading Monero developer, says:
+
+I don’t envy anyone trying to fairly launch a base protocol nowadays. It’s hard to impossible, and that’s why I strongly advocate for new protocols launching as merge-mined sidechains instead.
+
+But even if the product is proved to be technologically superior, this is no guarantee of success. History is littered with examples of better technologies that fell by the wayside after failing to achieve mass adoption.
+
+Sony’s BluRay saw off the better specced HD-DVD by virtue of coming with every new PS3. Whilst back in the 70s, the company’s higher quality BetaMax lost out to VHS, despite being first to market.
+
+Is There Any Need?
+
+Unit-e is far from the first cryptocurrency to address the transaction speed or any other, limitations of Bitcoin. Ever since Bitcoin was launch, people have launched coins which are faster, more fungible, more private, more [insert your own favorite quality here] etc.
+
+Just last week, a company called Devvio were exhibiting at CES, claiming the ability to process over 8 million global, public transactions per second, on-chain. They also claimed better privacy than Zcash, stability than Tether, and smart contracts than Ethereum.
+
+Sure, these claims sound great on paper. But succeeding in the real world is something else entirely.
+
+Bitcoin isn’t a static technology either. Sidechains and second layer protocols are being developed like Lightning Network (with millions of tps) for scaling while harnessing Bitcoin’s network effect.
+
+So is DTR already too late to the table?
+
+Certainly, their connection to academia may give them an edge in some regard. But ultimately, specs like transactions per second are secondary to Bitcoin’s main strength as a proven neutral and permissionless monetary network on which so many applications can be built.
+
+Can academia produce a real competitor to Bitcoin or is it too late? Share your thoughts below!
+
+Images courtesy of Shutterstock

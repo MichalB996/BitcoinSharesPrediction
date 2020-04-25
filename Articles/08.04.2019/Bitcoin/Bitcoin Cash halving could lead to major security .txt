@@ -1,0 +1,21 @@
+DATE:  08.04.2019, 10:06:33
+TITLE: Bitcoin Cash halving could lead to major security flaws
+URL:   https://coingeek.com/bitcoin-cash-halving-could-lead-to-major-security-flaws/
+
+Bitcoin Cash (BCHABC) is going to go through a mandatory halving next year and there might be some trouble on the horizon. A cryptocurrency analysis company has been studying the zeros and ones of the blockchain’s code and has identified some flaws that could cause some serious issues once the halving is complete.
+
+According to Long Hash, BCHABC began by issuing a higher number of tokens during its early phases. This was done to make mining BCHABC more profitable than mining Bitcoin Core (BTC) in an effort to attract more miners and, to allow the system to work, a different difficulty adjustment algorithm (DAA) was used. This DAA increased the monetary base more quickly than what had been seen in BTC and created a rapid and sharp decline in the hashrate of BTC as miners began to transition to BCHABC.
+
+It’s because of this DAA that there’s potential for disaster. When the BCHABC halving occurs, the overall block reward is going to be reduced. The lower payout will reportedly influence miners to lower their hashing power, which will compromise the blockchain’s security and offer fewer rewards.
+
+When BTC went through the failed SegWit2X experiment in 2017, it became obvious that miners will go where their incentives are greatest. With the halving, the security strength of the BCHABC network could be strained as miners look to, once again, determine how best to allocate their resources to maximize returns. The BCHABC network has remained more or less unsecured due to the sharing of its SHA-256 hashing power on other crypto networks, and this could become an even bigger concern following the halving.
+
+Long Hash explains, “Since Bitcoin Cash had a higher issuance rate during its earliest days of existence, the network is on pace to reach its first halving over a month before Bitcoin’s next halving.
+
+“To be clear, the block subsidy is only part of the overall block reward, with the rest of it coming by way of transaction fees.
+
+“All things being equal (transaction fees, price, etc), a lower block subsidy should lead to a decline in security because the decreased value of the block reward lowers the incentive for miners to use their hashing power to secure the network.”
+
+The blockchain firm concludes by asserting, “In other words, the halving could just make an existing problem worse. If someone were to attack the Bitcoin Cash network, next year may turn out to be the perfect time to do it, depending on where the Bitcoin Cash network is relative to Bitcoin at that time.”
+
+New to Bitcoin? Check out CoinGeek’s Bitcoin for Beginners section, the ultimate resource guide to learn more about Bitcoin—as originally envisioned by Satoshi Nakamoto—and blockchain.

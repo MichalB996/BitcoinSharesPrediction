@@ -1,0 +1,41 @@
+DATE:  18.01.2019, 02:00:59
+TITLE: Back Up Over 10K in Past 3 Months
+URL:   https://bitcoinist.com/bitcoin-nodes-10k-reachable/
+
+News Bitcoin Node Count Stabilizes – Back Up Over 10K in Past 3 Months
+
+The Bitcoin network continues to rebound from recent activity slumps, its total node count reaching 65,000 with reachable nodes totalling over 10,000.
+
+Technical ‘BUIDLout’ Continues
+
+Data from Earn.com (formerly 21.co) and Bitcoin developer Luke-jr’s own monitoring resource confirm the growth, which has lately centered on Germany, now contributing almost 19 percent of nodes.
+
+Specifically, there were 64,768 Bitcoin Core nodes at press time January 16, equating to 99.02 percent of the total.
+
+In terms of distribution, 2490 reachable nodes were in the US, followed by 1927 in Germany. France, the third-largest node hub, was still significantly behind the two leaders with 660 reachable nodes.
+
+China had just 409 nodes, nonetheless giving it fifth place in the rankings, while Japan, despite its burgeoning Bitcoin consumer economy, came in tenth with 246.
+
+Reachable nodes reached a peak of 12,500 in November 2017 during the run-up to Bitcoin’s all-time price high around $20,000. Since then, a pullback took over in the first half of last year, node numbers subsequently hovering around 9000.
+
+That performance results in an overall 11 percent decline through 2018, with this year conversely seeing an approximately 2 percent rise.
+
+The figures remain estimates. As technical sources note the exact number of Bitcoin nodes ultimately remains a mystery due to some being undetectable.
+
+2019: Rise of the Nodes?
+
+Nevertheless, one possible reason for the reversal of last year’s trend of decreasing full nodes is new products such as the Lightning Network’s Nodl and Casa Node, which are making it easier for regular people to run a full node out-of-the-box.
+
+But why should individuals run a full node? According to Bitcoin wiki, it is the most trustless way to use the Bitcoin network, not to mention making the entire network more robust via decentralization.
+
+Running a full node as your wallet is the only way to know for sure that none of bitcoin’s rules have been broken. Rules like no coins were spent not belonging to the owner, that no coins were spent twice, that no inflation happens outside of the schedule and that all the rules needed to make the system work are followed. All other kinds of wallet involve trusting a third party server.
+
+At the same time, new users of the Casa Node, for example, may not always be reflected in monitoring sites like Bitnodes.
+
+“Casa Node owners have the option to make their node accessible by others – this would render them visible on bitnodes,” the company’s content strategist, Blake Neuman, told Bitcoinist.
+
+If this is switched on and a user’s port forwarding settings allow it, they can pass information out to incoming nodes. On the other hand, they also have the option to only be receiving information from the network by switching the setting off.
+
+What do you think about Bitcoin’s node count and hashrate? Let us know in the comments below!
+
+Images courtesy of Shutterstock, Blockchain.info, bitnodes.earn.com

@@ -1,0 +1,69 @@
+DATE:  14.04.2020, 03:51:44
+TITLE: Internet media has become like old media—but with Bitcoin, there’s hope
+URL:   https://coingeek.com/internet-media-has-become-like-old-media-but-with-bitcoin-theres-hope/
+
+Ever get the feeling that online media is looking more and more like “traditional” media every year? Its once-rich variety of content and opinions is narrowing. That video or article you enjoyed a year ago has mysteriously vanished. The most popular social media figures are always trying to sell you something. The most commercially-viable content is promoted to everyone, while more niche topics and “controversial” opinions can be hard to find. The internet has changed since 1993, but can Bitcoin services change it for the better again?
+
+Account verification, de-monetization, shadowbanning, deplatforming—these terms were unfamiliar to most of us a decade ago, but these days they’re commonplace. The more familiar term “censorship” could apply, but the internet permits more subtle forms of approval and disapproval. While platforms will delete accounts and content outright in some cases, there’s plenty of material that’s permitted to exist, but not become popular.
+
+Internet should be about deciding for ourselves, making our own content
+
+We’re not saying there is anything inherently wrong with corporate sponsorship, marketing or advertising. As for account-deletion and censorship, users themselves have contributed to the problem with trolling, scams, dogpiling with multiple sock-puppet accounts, and disinformation (deliberate or unintended).
+
+But most users enjoyed the free marketplace of ideas the early internet offered. It allowed us to become better informed, to discover new topics, and find others with similar interests even if they were on the other side of the world. We discovered unexpected things we had in common, and new points we disagreed on. Ideas both benevolent and malevolent emerged from the shadows and into the spotlight.
+
+There will still be gatekeepers and curators, but we should have the ability to choose them for ourselves too. But if the information isn’t available to assess, no-one is able to assess it. Hiding misinformation doesn’t correct the error with facts, and history has proven that suppressing opinions doesn’t make them go away. As for commercial viability and marketability, the internet provides the means for the market to decide that, so it should be allowed to.
+
+The internet provides the medium to make all content available, and Bitcoin provides the technology to pay for it. Content creators shouldn’t need to wait for a corporation or benefactor if they can produce the work themselves, and sell it directly to their audience.
+
+Existing Bitcoin media platforms
+
+So with all that in mind, let’s take a look at a few of the services that exist already, and a few up-and-comers. Their models differ—some will store content completely on-chain, others will use Bitcoin more as a payment/discoverability platform. But what they share is the notion that the market should decide what content gets seen, and what becomes popular.
+
+We’ve looked at several of the existing platforms before. There are platforms where you can earn Bitcoin for social posts and memes like Twetch and Weiblock, and for longer-form writing such as Bit.sv and Yours.org.
+
+Streamanity sidesteps the mainstream/advertising model for online video with a pay-per-view one. Creators can set their own price and share income between teams.
+
+Nicky Nu (aka “The Bitcoin Tramp”) said he’d deliberately avoided the most popular platforms for his video channels, and “as a result I have made Bitcoin from proof of work a la the white paper using a platform called Streamanity.”
+
+We have refused to use youtube from the start. As a result I have made bitcoin from proof of work a la the white paper using a platform called streamanity. — The Bitcoin Tramp AKA Nicky Nu (@TheBitcoinTramp) April 9, 2020
+
+These platforms all make use of micropayments—something Bitcoin was always supposed to excel at. In a curious parallel to the internet, this was part of Bitcoin’s original appeal before older ways of thinking began to flex their muscles, and the promise was forgotten. With the original protocol now restored on BSV, the idea of a new online content economy is returning.
+
+Criticisms of these platforms include: (a) they don’t offer the traffic or discoverability of mainstream platforms like Twitter or YouTube, (b) their interfaces aren’t as feature-rich, and (c) the content there is very BSV-centric. However these need only be temporary problems, and it’s hard to imagine them starting out any other way. Twetch in particular has seen a greater variety of discussion topics as more users come on board. New features and functionality are added iteratively, making them more familiar and easier to use.
+
+Projects in development: BLARE SV and MyMovies
+
+But Bitcoin can do a lot more than just duplicate and replace existing services (which, given everything we mentioned above, need that duplication anyway). So we checked out a couple of media projects currently in development that you should expect to see within the year.
+
+BLARE SV is a multimedia platform for creators of all kinds, though it will probably appeal most to video-makers and musicians. The project is currently looking for beta-testers for its earliest release, later this year.
+
+Co-founder Shem Booth-Spain is a musician and the host of the BSV Channel discussion shows on YouTube, who was ironically himself “de-platformed” from that site mid-livestream recently. Though popular, his account access was remove in the middle of a livestream—something he hopes was an oversight, given YouTube’s recent announcement it could potentially auto-remove content that didn’t break its Terms of Service.
+
+BLARE isn’t designed to combat that problem per se, though. As Booth-Spain put it, it’s there mainly to offer content creators a better deal for their work. Speaking to CoinGeek, he said:
+
+“The way I see it is, it’s the longevity of the art. For me as an artist it means a lot to know my work is going to be there forever.”
+
+“Since the internet came along and it monetized everything, artists thought it was the best thing ever, but everyone started giving their stuff away for free, the market collapsed and their content became devalued.”
+
+“Now have we become a centralized, siloed internet… same gatekeepers, same group of popular, promoted artists becoming rich.”
+
+Then there’s movies. Technology hardware has allowed independent filmmakers to produce movies near-equal in quality to Hollywood’s output, but funding for production, distribution and promotion is something the big studios still do best.
+
+MyMovies, co-founded by filmmaker Ted Rivera, wants to change that. The platform, which he said is built and ready to go, has features both for viewers and producers—utilizing Bitcoin to fund and develop movie projects, and to pay for the finished product.
+
+Viewers will be able to watch movies and pay in micropayments per second watched—for feature-length movies and shorter clips. This model, which no-one had been able to try on such a scale before Bitcoin was restored, relies on negotiations with transaction processors (miners) to handle the transactions, and with wallet services like HandCash Connect to make the transactions seamless. (This is similar to the way Twetch integrates with RelayONE now.)
+
+You License your own [email protected]: The decision includes $128 million in punitive damages against Fox executives for "intentional fraud and malice." They denied them profits by licensing the show to Fox's TV division and to Hulu for below-market rates https://t.co/Y4Zj40NkaL — Ted Rivera (@movieseals) October 14, 2019
+
+Rivera said he’s also built a system for filmmakers to crowdfund their projects, using Bitcoin’s tokenization features. Producers could present their ideas to the public, giving fans a far greater say in what movies get made. Even during the production process, filmmakers can use MyMovies to connect, interact and make deals, as well as offering portions of the finished product to fans and backers.
+
+We have the technology
+
+Conceptually, none of the services mentioned in this article are radical ideas. They’re simply attempting to fulfil promises that have existed for years. That the internet has reverted to older media paradigms of gatekeeping, message-control and powerbrokers picking winners is a product of both technological and political limitations. Not least of these is lack of feasible funding and payment models: all e-commerce still relies on credit cards and bank accounts, which existed before the internet and remain clunky despite numerous attempts to shoehorn them into online spaces.
+
+If you’re asking why no one has built such services before, then you understand why Bitcoin is important—and why using Bitcoin as it was originally intended, as BSV, is essential.
+
+The internet gave users a greater share of the power to distribute content and decide what they did and didn’t want to see. Yet it never provided properly the payment and economic structures to make it last. Bitcoin SV is at last handing that power to the users, something that could see a new creative renaissance.
+
+New to Bitcoin? Check out CoinGeek’s Bitcoin for Beginners section, the ultimate resource guide to learn more about Bitcoin—as originally envisioned by Satoshi Nakamoto—and blockchain.

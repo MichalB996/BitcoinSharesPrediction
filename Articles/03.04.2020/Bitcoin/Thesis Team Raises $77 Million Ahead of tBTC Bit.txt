@@ -1,0 +1,37 @@
+DATE:  03.04.2020, 15:41:10
+TITLE: Thesis Team Raises $7.7 Million Ahead of tBTC “Bitcoin on Ethereum” Launch
+URL:   https://blockonomi.com/tbtc-bitcoin-ethereum-launch/
+
+A new and promising version of bitcoin is coming to Ethereum’s growing decentralized finance ecosystem, and the team building it is pushing full steam ahead upon securing fresh funding.
+
+On Thursday, April 2nd, Thesis — the crypto venture studio guiding the Keep network, which will power the coming bitcoin-pegged tBTC Ethereum token — announced it closed its second fundraising round to the tune of $7.7 million. The first came in 2018, when the firm raised $12 million from the likes of Andreessen Horowitz and Polychain Capital.
+
+Notably, this new round was led by major cryptoeconomy fund Paradigm, which is spearheaded by Coinbase co-founder Fred Ehrsam, and also had participation from other industry heavyweights like Fenbushi Capital and Collaborative Funds.
+
+“Building a bridge that allows Bitcoin to interact with DeFi makes a lot of sense, and tBTC is a credible attempt to do exactly that,” Ehrsam said.
+
+That “credible attempt” just got even more credible then, as a considerable portion of Thesis’s new war chest is set to go to funding tBTC development efforts. This is significant since both tBTC and the Keep protocol that underpins the novel token effort are slated to launch as early as later this month, so showtime is nearing.
+
+The Rise of tBTC
+
+Back in February, Thesis founder and chief executive officer Matt Luongo revealed tBTC — which is set to be trustless — had been launched on Ethereum’s Ropsten testnet.
+
+The news made waves because the advancement brought the prospect of a trustless version of bitcoin built atop Ethereum closer than ever. There are a handful of other bitcoin-pegged ERC20 token projects besides tBTC, but most of them have non-trivial trust implications. The bitcoin that back the Wrapped Bitcoin (WBTC) token are custodied by BitGo, for instance, whereas tBTC will non-custodial.
+
+This non-custodial design is powered by technology called threshold signatures, which allows users to effectively deposit bitcoin to thereafter receive the minting of an equal sum of tBTC. This will all be done in decentralized fashion, with no middlemen needed.
+
+The arrival of tBTC is thus significant because it marks the arrival of a trustless version of bitcoin in Ethereum’s promising DeFi sector, meaning more people will now be able to put their bitcoin to use on Ethereum in decentralized lending projects and beyond. It makes both bitcoin and Ethereum more useful, in other words.
+
+Moreover, tBTC will also be notable because its redemption process is facilitated by Ethereum smart contracts and not a centralized company. This will allow for the integrity of tBTC’s supply to be readily verifiable, as the token project’s specification explains:
+
+“The goal of tBTC is the creation an ERC-20 token that maintains the most important property of Bitcoin — its status as “hard money” […] The ability to trade scrip for its backing deposit freely is what distinguishes a backed currency from fiat money. The supply of tBTC is always backed by an equal number of reserved BTC. This means for every token in circulation, 1 BTC has been removed from circulation.”
+
+Now Open Sourced
+
+Another thing that sets tBTC apart from the competition is its trustless signing implementation via the Keep codebase was just open sourced last month, which is unprecedented.
+
+“Keep’s complete open-sourcing makes tBTC the first and only BTC bridge with an open source permissionless signing implementation,” Thesis’s engineering lead Antonio Salazar Cardozo said at the time.
+
+That open sourcing marked a good step forward in general, as it demonstrates the project’s commitment to transparency and gives other DeFi builders the ability to advance new tech toward new ends.
+
+There is plenty of room for multiple bitcoin-pegged tokens atop Ethereum, to be sure. But tBTC, its tech, and its builders seem to have what it takes to be made for the long haul and non-trivial adoption.

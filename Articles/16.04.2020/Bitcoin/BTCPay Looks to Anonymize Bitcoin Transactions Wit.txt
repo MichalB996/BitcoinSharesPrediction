@@ -1,0 +1,57 @@
+DATE:  16.04.2020, 17:47:52
+TITLE: BTCPay Looks to Anonymize Bitcoin Transactions With PayJoin Integration
+URL:   https://www.coindesk.com/btcpay-looks-to-anonymize-bitcoin-transactions-with-payjoin-integration
+
+BTCPay, a popular open source tool for accepting bitcoin payments, is turning to PayJoin for preserving the privacy of those transactions.
+
+PayJoin (also called P2EP) is a relatively new way to send private transactions in bitcoin and may offer better privacy than current popular alternatives such as CoinJoin. Having BTCPay on board gives PayJoin a major boost in recognition that could translate into broader use of the privacy technology by other firms.
+
+BTCPay developer Andrew Camilleri told CoinDesk the company plans to release an "initial" version of the P2EP privacy feature built into BTCPay on Thursday. He and BTCPay lead developer Nicholas Dorier have been the main contributors to the code.
+
+Open source BTCPay is used by a range of merchants as a way of accepting bitcoin and lightning payments.
+
+"Our mission is financial sovereignty for everyone and PayJoin is a great tool to help break blockchain analysis heuristics and achieve that. Since BTCPay is so widely used, it should help jumpstart usage," Camilleri told CoinDesk.
+
+Read more: This App Tracks the Impact of Your Donation to Combat Coronavirus
+
+The work has been sponsored by Blockstream for the past several months to help Camilleri focus on the PayJoin changes.
+
+"We're hoping to improve the privacy and fungibility of bitcoin by accelerating the adoption of P2EP. If enough wallets and businesses support P2EP, it could provide the critical mass needed to achieve widespread financial privacy," said Blockstream Chief Strategy Officer Samson Mow.
+
+Not as private
+
+CoinJoin is the main privacy tool used these days, in part because it is used by wallets Wasabi and Samourai, making it much easier for people to use.
+
+CoinJoin allows multiple people to mix their bitcoin transactions together, making it less obvious who owns which bitcoin. While it helps users to maintain their privacy, one of the main issues is it's easy to see when a bunch of users have done a CoinJoin simply by looking at the blockchain.
+
+Bitcoin researcher Paul Sztorc likened the technology to "wearing a ski mask to an indoor mall."
+
+The main benefit of PayJoin's ConJoin implementation, on the other hand, is that once done, the transactions look the same as other transactions on the Bitcoin blockchain.
+
+So instead of many senders mixing their transactions, only the sender and receiver mix a transaction.
+
+Ultimately we need to make a choice on what kind of world we want to live in, one where there is financial privacy or one where there isn’t.
+
+It "breaks blockchain analysis heuristics," Camilleri said. Blockchain analytics companies are able to glean certain transaction criteria to guess (often correctly) if bitcoins belong to the same owner, or to see if the transaction was a part of a CoinJoin.
+
+"Bitcoin's our chance for a logical and fair form of money. Companies that offer services that enable others to discriminate are essentially destroying that chance," Camilleri said.
+
+One disadvantage, however, is both the sender and receiver have to support PayJoin.
+
+"Merchant payment processor support for P2EP made perfect sense. P2EP requires the sender and receiver to both be online. If you're sending, you're naturally online, and merchants have to be online all the time," Mow said.
+
+What's next
+
+PayJoin has been around since 2018, but not a lot of services have added support for it yet. Both the sender and receiver need to support the standard, but most wallets don't support it right now.
+
+"The current active implementations only allow you to do PayJoins between the same wallets, which is a bit too restrictive for widespread usage. There's nothing stopping any wallet or service from adding support for a universal PayJoin protocol now," Camilleri said.
+
+This is one problem the project Snowball is trying to solve by creating code allowing for PayJoin transactions that can be easily added to any bitcoin wallet. The developers behind it plan to eventually open "pull requests" with suggested code to popular bitcoin wallets, to help get the ball rolling by encouraging them to adopt the privacy feature, and making it as easy as possible to do so.
+
+Read more: Solana Blockchain Adds Korean Stablecoin Terra for Better Payments
+
+Blockstream plans to further spur adoption of PayJoin. For now, it is working on adding PayJoin support to the bitcoin wallet Blockstream Green.
+
+"The next interesting step would be for an exchange to support P2EP. Ultimately we need to make a choice on what kind of world we want to live in, one where there is financial privacy or one where there isn't," Mow said.
+
+"Money needs to be private and fungible in order for it to be a 'good' money," he added. "With bitcoin, every transaction is open for anyone to see, so we still have a lot of work to do to get it there. Without privacy and fungibility, money can be used as a tool for oppression or financial surveillance. Bitcoin is the future of money and the future of money shouldn’t be Orwellian."

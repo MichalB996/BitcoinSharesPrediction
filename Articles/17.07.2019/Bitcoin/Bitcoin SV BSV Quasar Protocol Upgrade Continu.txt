@@ -1,0 +1,21 @@
+DATE:  17.07.2019, 12:00:00
+TITLE: Bitcoin SV (BSV) 'Quasar' Protocol Upgrade Continues Massive Blockchain Scaling, Lifting Default Block Cap to 2GB
+URL:   https://finance.yahoo.com/news/bitcoin-sv-bsv-quasar-protocol-120000566.html
+
+LONDON, July 17, 2019 /PRNewswire/ -- On 24 July 2019, the Bitcoin SV (BSV) network will undergo a key protocol upgrade focused on scaling. The "Quasar" upgrade lifts the default block size "hard cap" on BSV from its current 128MB to 2GB (2000 MB). Although the default maximum block size will be 2GB, initially, a significant portion of miner hash rate will manually set their hard cap to a lower (but still very robust) level of 512MB – far higher than any other competing Bitcoin project.
+
+Bitcoin SV Logo More
+
+The Quasar upgrade represents a key step in BSV's journey to unlock the massive on-chain scaling power that was always possible with Bitcoin, and enable BSV to become the global enterprise blockchain. BSV can already handle 300+ transactions per second comfortably; this capacity is continually being expanded and is expected to cross 1000+ transactions per second in the coming months after the Quasar network upgrade. This level of capacity can compete with VISA payment network capacity and also supports enterprise applications.
+
+BSV is the only coin with a blockchain that significantly scales (now), has robust utility (now), and is committed to a set-in-stone protocol for developers to build on (return to original Bitcoin protocol to be completed by February 2020). BSV is also the only coin that adheres to the original Bitcoin white paper. In short, BSV is Bitcoin.
+
+Bitcoin Association Founding President Jimmy Nguyen comments on how the Quasar upgrade helps Bitcoin miners: "Miners need to be aware that massive scaling is critical for their profitability – especially after the next block reward halving in May 2020 which reduces the block reward subsidy from 12.5 to 6.25 coins, and then again in 2024 when the subsidy is reduced to 3.125 coins, and again every several years after. For mining to remain profitable, miners need to earn more in transaction fees from each block to compensate for the lower block reward subsidy. This is only possible on BSV. During a 21 May 2019 test on the BSV Scaling Test Network, a 1.42GB block was mined – which resulted for the first time in transaction fees which were more than the 12.5 coin block reward subsidy. This is how Bitcoin's economic model is meant to work, and this is what Satoshi always envisioned to ensure miners remain profitable."
+
+The BSV network will upgrade to Quasar on 24 July 2019 at approximately 13:00 G.M.T. Mining nodes and blockchain listeners are encouraged to immediately update their BSV software, in advance of the network upgrade. (Miners write to the blockchain. In contrast, "blockchain listeners" are businesses and individuals who run an instance of Bitcoin SV – such as exchanges and wallet operators - but are not involved in mining and thus do not write to the blockchain.)
+
+A more detailed announcement of the Quasar upgrade is available here, with specific recommendations for miners and blockchain listeners. Source code for the Quasar upgrade will be available on the BitcoinSV.io website at: https://download.bitcoinsv.io/bitcoinsv/0.2.1/.
+
+Steve Shadders, nChain's Chief Technology Officer and Technical Director of the Bitcoin SV Node team previews what is coming next: "With the Quasar upgrade, Bitcoin is beginning a cultural transition as miners start learning it is their role to manage block sizes based upon market forces and their own economic incentives, rather than leaving block size to be arbitrarily dictated by protocol developers. In February 2020, the BSV network will take another step in this transition with its 'Genesis' upgrade – in which the Bitcoin SV Node team will completely remove the default hard cap (or more accurately, the default hard cap will be infinite). This will open the door to infinite scaling of the BSV network, and foster the new Bitcoin culture where miners are responsible for block size."
+
+Story continues

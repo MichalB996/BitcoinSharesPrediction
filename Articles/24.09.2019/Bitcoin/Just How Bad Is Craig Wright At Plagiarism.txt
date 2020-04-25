@@ -1,0 +1,53 @@
+DATE:  24.09.2019, 14:00:18
+TITLE: Just How Bad Is Craig Wright At Plagiarism?
+URL:   https://bitcoinist.com/just-how-bad-is-craig-wright-at-plagiarism/
+
+Bitcoin Just How Bad Is Craig Wright At Plagiarism?
+
+In his bid to be recognised as Satoshi Nakamoto, Craig Wright has attempted a wide variety of ploys. In fact, almost everything short of moving Satoshi’s coins or signing a message with his private key. You know, the thing that would actually prove it.
+
+
+
+Unfortunately he doesn’t seem to be very good at any of the things he has tried. Or at least he has been repeatedly called out on his deceptions. From repeated forgery of documents and messages, to embarrassment in multiple court cases, Wright’s every move is scrutinised.
+
+Never more so than in a recent article taking a ‘deep dive’ into one of his numerous plagiarised papers. So just how bad at plagiarism can the man be?
+
+Very Very Very Very Bad
+
+Okay, so we already know the answer, but let’s start with any potential good aspects to his plagiarism. The article refers to a paper titled ‘A Proof of Turing Completeness in Bitcoin Script’.
+
+The paper was recently presented at a conference and has been published, so obviously the conference organisers/publisher were either fooled by the plagiarism or didn’t care… which I guess is a plus for Wright?
+
+The paper contains the entirety (in slightly reworded form) of a 1964 paper by Corrado Böhm, plus some brief additions linking it to Bitcoin Script. This would seem to be a good way to plagiarise, as you don’t run the risk of being completely wrong. Also, Böhm is dead, the original paper is not copyrighted, nor is it available in full online.
+
+Also, Wright (obviously) does not cite Böhm’s paper in his own paper, but he does cite all of Böhm’s original citations… which is a nice move. So far so good.
+
+Actually Worse Than That
+
+The problem, of course, is that when Böhm wrote the original paper in 1964, Bitcoin Script wasn’t a thing. The paper in fact describes how a particular class of Turing machine is universal.
+
+The reason that Craig Wright would like to prove that Bitcoin Script is Turing complete, is to save face from an earlier incident in 2015. Back then he tried to claim that Bitcoin was Turing complete, which it wasn’t and still isn’t.
+
+Neither is Bitcoin Script, as, at minimum, a Turing complete language must be able to enter an infinite loop.
+
+But Wright isn’t going to let a minor detail like that stop him from proving that it is.
+
+Now Add Transcribing Errors And You’re Almost There
+
+One of Wright’s signature moves is to introduce errors that weren’t in the original when he is copying it. Perhaps this is his genius twist, to avoid accusations of plagiarism by simply saying, “But my version says something entirely different and incorrect!”
+
+The article details many (but not all) of these. They include mis-copying equations, replacing a capital ‘I’ with a figure ‘1’, and confusing upper and lower-case letters.
+
+He also manages to change ‘left shifts’ into ‘left ships’, ‘all Turing machines’ into ‘altering machines’, and garbles some of the text beyond all recognition and meaning.
+
+It’s almost as though he doesn’t take his plagiarism very seriously, although according to Wright himself:
+
+Plagiarism is more serious than most people think. It is a criminal breach of both the copyright act and is also a criminal fraud.
+
+Perhaps Wright also plagiarised this quote, but in rewording, has placed ‘both’ four words later than it should have been? Either way, the dude must clearly love spending time in court.
+
+How shocked are you by Craig Wright’s plagiarism? Let us know your thoughts in the comment section below!
+
+
+
+Images via Shutterstock

@@ -1,0 +1,31 @@
+DATE:  18.10.2019, 18:35:16
+TITLE: Ethereum Name Service Adds Infrastructure for Multi-Currency Support
+URL:   https://news.bitcoin.com/ethereum-name-service-adds-infrastructure-for-multi-currency-support/
+
+Ethereum Name Service Adds Infrastructure for Multi-Currency Support
+
+On October 16, the Ethereum Name Service (ENS) announced multi-currency support and integration with 15 platforms and wallets. The fusion will provide users with the ability to use a single ENS name across a wide spectrum of crypto applications alongside leveraging a variety of digital assets.
+
+Also read: Honestnode Founder Discusses the First Stablecoin Built on Bitcoin Cash
+
+15 Wallets and Platforms Pledge to Support the Ethereum Name Service
+
+Anyone who has used a cryptocurrency like bitcoin cash (BCH) or ethereum (ETH) knows that long alphanumeric addresses can be awkward, especially to newcomers. The Ethereum Name Service attempts to solve this issue by providing a decentralized method of using simple, human-readable names. So users who use ENS don’t have to rely on long addresses and anyone can use names like “alice.mywallet.eth.” In order to send ‘Alice’ funds, you simply use the ENS name with a compatible wallet.
+
+ENS is already supported by well known platforms such as Opera Touch, Pandax, Cipher, Myetherwallet, Metamask, and Argent. On Wednesday, ENS detailed that 15 more wallets and applications will be supporting the ENS infrastructure. With a total of 24 platforms, multi-coin support will be available as well for a large number of digital assets. ENS representative Brantly Millegan said that the first version of multi-currency support will integrate with ETC, ETH, BTC, and LTC. However, the manager UI will be expanded for other assets like bitcoin cash (BCH).
+
+The 15 new additions implementing ENS support include the Bitcoin.com Wallet, Atomic Wallet, Coinbase Wallet, Opera, Imtoken, Dcent, Trustwallet, Portis, Haven, Squarelink, and Coin Request. Apart from the new client support, ENS is going beyond .ETH namespace names Millegan noted. “We still plan on expanding the namespace available for use on ENS by integrating the DNS namespace. For example, the Ethereum Foundation owns the DNS name “ethereum.org”; with our system, they could also have an ENS record for “ethereum.org” (notethereum.eth, which is a separate name). In this way, the Ethereum Foundation could use “ethereum.org” both for their normal website (using DNS) and for receiving cryptocurrency payments (using ENS).” Millegan added:
+
+This already works for .XYZ names, as well as in a special way for names on .LUXE, .KRED, and .ART. And soon we will be rolling out this functionality to all DNSSEC-enabled DNS TLDs, which includes all the major ones.
+
+Infrastructure and Governance for the Distributed Web
+
+With multi-coin progression and the integration with major DNS namespace names, the ENS team believes the project is key in creating a powerful decentralized web. Millegan stressed that ENS and IPFS are accessible in Opera and the Metamask extension. He further highlighted that Ethdns with .LINK can be an answer to the Tor .onion address naming problem. “Support for voluntary personal Whois data has a project underway for serving traditional DNS records,” Millegan said.
+
+The nonprofit hopes the project will bolster a censorship-resistant system for the internet’s name system. Further multiple wallets pledging to support ENS will help spread human-readable addresses as well. The team behind ENS thinks that with all the prior crypto-namespace attempts in the past with projects like Namecoin, “ENS operates in a distributed fashion for both its infrastructure and governance.” Other wallets and platform developers can integrate ENS support as resources are available like the EIP for ENS multi-coin support and the Github repository. Check out the Devcon5 video demo below showing off multi-coin support for ENS at the event in Osaka, Japan.
+
+What do you think about ENS being supported by 15 more wallets including Bitcoin.com, Coinbase, and the decentralized marketplace Haven? Let us know what you think about this subject in the comments section below.
+
+Image credits: Shutterstock, Ethereum Name Service, Bitcoin.com Wallet, and Pixabay.
+
+Do you want to keep an eye on moving cryptocurrency prices? Visit our Bitcoin Markets tool to get real-time price updates, and head over to our Blockchain Explorer tool to view all previous BCH and BTC transactions.

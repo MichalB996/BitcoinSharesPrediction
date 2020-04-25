@@ -1,0 +1,17 @@
+DATE:  25.04.2019, 11:17:07
+TITLE: Amazon Shoppers Can Now Pay with Bitcoin on the Platform
+URL:   https://securityboulevard.com/2019/04/amazon-shoppers-can-now-pay-with-bitcoin-on-the-platform/
+
+Bitcoin payments are now an option on Amazon, and other ecommerce platforms will accept them by 2020 thanks to a startup, a browser extension and the lightning network, writes Coindesk.
+
+Bitcoin processes only 7 transactions per second, while Visa handles about 24,000, but the lightning network is a payment protocol that helps improve the cryptocurrency’s scalability and processing times. It “adds another layer to Bitcoin’s blockchain and enables users to create payment channels between any two parties on that extra layer,” Cointelegraph explains.
+
+Moon is a crypto payment startup founded last year that created a browser extension to connect to the crypto-wallet. The interface is currently with 250 beta users and is under review by the Chrome Web Store.
+
+“[The extension] will pop up a QR code and it will have the lightning invoice, which you could also copy and paste if you can’t use the QR code for some reason, and you’ll be able to pay with your favorite lightning wallet,” said Moon CEO Ken Kruger.
+
+Kruger explained Amazon does not handle bitcoin, but gave no specifics on how the digital currency is converted or by which institution it is processed. The fact is the merchant received flat currency, not cryptocurrency.
+
+“There’s no direct merchant integration,” he said. “We’re integrating with the Visa and Mastercard networks and we get a cut of the interchange fees that merchants pay every time they receive a credit card transaction.”
+
+*** This is a Security Bloggers Network syndicated blog from HOTforSecurity authored by Luana Pascu. Read the original post at: https://hotforsecurity.bitdefender.com/blog/amazon-shoppers-can-now-pay-with-bitcoin-on-the-platform-21102.html

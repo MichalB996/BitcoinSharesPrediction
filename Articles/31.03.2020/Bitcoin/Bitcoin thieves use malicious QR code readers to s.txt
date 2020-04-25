@@ -1,0 +1,27 @@
+DATE:  31.03.2020, 07:39:29
+TITLE: Bitcoin thieves use malicious QR code readers to steal $45,000 this month
+URL:   https://securityboulevard.com/2020/03/bitcoin-thieves-use-malicious-qr-code-readers-to-steal-45000-this-month/
+
+Payments in cryptocurrency are not limited to extortionists who provide you their Bitcoin (BTC) wallets in their ‘contact info’.
+
+Adapting to the growing popularity, merchants around the world have added payment options that accept bitcoin or other types of cryptocurrency.
+
+Last week, security researcher Harry Denley, exposed nine websites advertising fake Bitcoin-to-QR code generators:
+
+• bitcoin-barcode-generator[.]com • bitcoinaddresstoqrcode[.]com • bitcoins-qr-code[.]com • btc-to-qr[.]com • create-bitcoin-qr-code[.]com • free-bitcoin-qr-codes[.]com • freebitcoinqrcodes[.]com • qr-code-bitcoin[.]com • qrcodebtc[.]com
+
+All BTC to QR Code websites have an identical interface and claim that, if you enter your Bitcoin address, the QR code will be instantly generated. “A super practical way to get a scannable code to send Bitcoin transactions” – or an easy way for cyber thieves to make a quick buck.
+
+The programs that should convert your actual Bitcoin address into a QR code for easier fund transfers, actually generate a QR code corresponding to five different bitcoin wallets of the perp, the investigation reveals.
+
+So far, the fake QR code generators have managed to scam victims out of 7 BTC ($45,000). What makes the hoax so puzzling is that cryptocurrency users have the ability to generate a QR code through their wallet, however, they opted to rely on bogus online code generators instead. Since this functionality can be found in both virtual cryptocurrency wallets and some exchange points, it’s recommended to stay away from these online tools and websites — they do nothing but steal your funds.
+
+Interestingly enough, the above websites are hosted on three separate servers, anchoring an additional 450 suspicious websites boasting keywords such as COVID-19, cryptocurrencies and Gmail.
+
+While most of the discovered domains are offline, some point to bitcoin transaction accelerators that vow to speed up your bitcoin transfers if you pay 0.001 BTC (6 USD). Four of the domains are listed below:
+
+• bitcoin-transaction-accelerator[.]com • transaction-accelerator[.]com • bitcoin-tx-transaction-accelerator[.]com • viabtc-transaction-accelerator[.]com
+
+The bitcoin addresses of these accelerators have gathered over 15 BTC so far, which rounds up to $100,000.
+
+*** This is a Security Bloggers Network syndicated blog from HOTforSecurity authored by Alina Bizga. Read the original post at: https://hotforsecurity.bitdefender.com/blog/bitcoin-thieves-use-malicious-qr-code-readers-to-steal-45000-this-month-22778.html

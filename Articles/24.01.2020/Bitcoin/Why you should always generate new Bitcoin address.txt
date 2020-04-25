@@ -1,0 +1,29 @@
+DATE:  24.01.2020, 14:23:46
+TITLE: Why you should always generate new Bitcoin addresses
+URL:   https://decrypt.co/17589/why-you-should-always-generate-new-bitcoin-addresses
+
+Did you know you can use a different address for every Bitcoin transaction you receive? It's an important and often underlooked part of how Bitcoin is supposed to work. And it’s key for staying private online.
+
+Using the same Bitcoin address for all transactions sounds great. It’s easy to keep track of and you can pass it to other people when they want to send you money. Which is simple. But, it also makes you easier to track. And with blockchain analytics companies watching your moves over the blockchain, you shouldn’t take anything for granted.
+
+Bitcoin addresses are long strings of alphanumeric characters that are destinations for receiving Bitcoin. A private key—basically a password—can be used to spend Bitcoin.
+
+But, you don’t need to use the same address each time you receive Bitcoin.
+
+Are you making sure that your Bitcoin transactions are safe enough? Image: Shutterstock.
+
+In order to create a new address, you need to be running your own Bitcoin node or using a non-custodial wallet, like Electrum. Custodial wallets, like Coinbase, will manage your addresses and keys on your behalf.
+
+With non-custodial wallets, it can be easy to set up new addresses. You just click a button to generate a new address and show that to the person who wants to send you some Bitcoin. Simple.
+
+“Creating a new account on the blockchain requires very little effort—far less than creating a new bank account or even a Facebook account. It involves fancy math (cryptography) but it doesn't require any personal information like a phone number or physical mailing address,” MyCrypto CEO Taylor Monahan told Decrypt.
+
+There are two advantages to doing so. First, it makes it harder for blockchain analytics companies to track how you are spending your money.
+
+Second, once an address has been used, it is slightly easier to hack. Currently, even if it is a bit easier to hack, it would still take millions of years with the current computers we have to do so. But, if there was a weakness found with the current algorithm used to secure Bitcoin addresses—then the address would be significantly easier to break into. A more detailed discussion can be found here.
+
+Monahan points out that—despite reports that Bitcoin is anonymous—it is actually more transparent than other means of payment, such as cash.
+
+“Lastly, it's worth noting that while Bitcoin appears to be anonymous on the surface, it's far more traceable than many other types of currency, including cash, used today by legitimate and illegitimate organizations,” she said, adding, “The blockchain is public and forever and it only takes one slip-up for you to be unmasked publicly and forever too.”
+
+While this sounds like staying under the radar is all but impossible, Bitcoin inventor Satoshi Nakamoto seems to have mastered it.

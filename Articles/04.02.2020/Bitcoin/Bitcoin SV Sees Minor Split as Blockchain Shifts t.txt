@@ -1,0 +1,35 @@
+DATE:  04.02.2020, 13:16:02
+TITLE: Bitcoin SV Sees Minor Split as Blockchain Shifts to ‘Genesis’ Upgrade
+URL:   https://www.coindesk.com/bitcoin-sv-sees-minor-split-as-blockchain-shifts-to-genesis-upgrade
+
+Bitcoin SV (for Satoshi's Vision) has hard forked with apparently just one minor issue, taking its blockchain back to the first "Genesis" iteration of the bitcoin protocol.
+
+The BSV network upgraded at approximately 02:00 UTC Tuesday, implementing Genesis rules that bring about "the full restoration of Satoshis Bitcoin protocol." Jimmy Nguyen, president of the Bitcoin Association and bitcoin SV advocate, tweeted, adding the "historic moment" had been confirmed at block 620539.
+
+By rolling out the original bitcoin protocol first released by Satoshi Nakamoto in 2009, the Genesis fork removes the default hard cap for block sizes, reportedly removing limits for transaction capacity and increasing on-chain scalability.
+
+Doing away with the hard cap allows businesses to build "large-scale applications" on BSV, the project said Tuesday. A change in the bitcoin scripting language, they add, will enable the protocol to perform functions – like smart contracts – and potentially allow the project to compete with blockchain projects such as ethereum.
+
+Genesis is designed to be the last significant update on the BSV blockchain; the implementation has been "locked-in irrevocably," according to an on-chain message in the first post-fork transaction from the BSV developer team. An unchanging base protocol saves developers and companies from having to undergo frequent technical changes, the team says.
+
+'Inadvertent' split
+
+BitMEX Research tweeted there were still "a significant number of nodes [that] have not upgraded for the hardfork and are stuck on the pre-hardfork block," an hour or so after the Genesis implementation.
+
+Initially there appeared to be no signs of a chain split – where a blockchain splinters into multiple active versions – but BitMEX research reported just a few hours later the pre-Genesis chain had been "extended by one block."
+
+A BSV spokesperson confirmed to CoinDesk the split had been caused by one miner – "which in the scheme of things is very good" – the Bitcoin Association was trying to contact.
+
+Nguyen said this was not a "persistent chain split" but what appeared to be a miner "who did not update their software to Genesis." None of the mining pools so far contacted by the association had been responsible for the "inadvertent block," he added.
+
+"A single block inadvertently mined on the wrong chain will not be extended - just the way Nakamoto consensus is supposed to work as described in the Bitcoin white paper. Nodes consider the longest chain as valid and extend that branch," Nguyen said.
+
+BSV has been at the center of controversy since it forked from bitcoin cash in November 2018. One of its main proponents, Craig Wright, has claimed to be bitcoin's inventor Satoshi Nakamoto since 2016; many industry figures have disagreed with his claims, however.
+
+Further, the cryptocurrency's proponents commonly hold the belief that BSV is the true bitcoin.
+
+"Bitcoin can finally be Bitcoin again and the miners can continue to write the Chronicle of everything," stated the on-chain post-fork message.
+
+Emotions still run high on this issue. For instance, after announcing Monday that Twitter added a bitcoin emoji to its platform, billionaire and BSV advocate Calvin Ayre tweeted founder Jack Dorsey he is backing the "wrong side."
+
+"BTC is not Bitcoin and with the lawsuits that I know are coming related to this issue, this year. Your putting your finger on the scale on the wrong side of facts is not going to end well for Twitter," Ayre wrote.

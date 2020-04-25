@@ -1,0 +1,35 @@
+DATE:  03.01.2020, 11:03:27
+TITLE: Ticker Tool Uses the BCH Blockchain to Provide Reliable Rate Data
+URL:   https://news.bitcoin.com/ticker-tool-uses-the-bch-blockchain-to-provide-reliable-rate-data/
+
+Ticker Tool Uses the BCH Blockchain to Provide Reliable Rate Data
+
+Instantly verifiable, unhackable and forever retrievable are some of the key features of information stored on a blockchain. These are also the characteristics that traders of various assets, commodities and currencies would appreciate when it comes to the price data they are using. The team behind the Blitz Ticker project have decided that’s exactly what they need, too.
+
+Also read: Skrill Now Lets You Swap BTC for BCH
+
+Blitz Ticker Offers Current Price Data for Cryptocurrencies
+
+Blitz Tickdata is a platform that aims to become the world’s first rate publisher on blockchain. It tracks crypto, forex, and bullion prices and distributes rates each second onto a P2P network. The service has been operating in testing mode for some time and Blitz has promised its users a beta version but they already have plenty of information available on their website.
+
+The ticker tool provides current and historical data about the price of bitcoin core in U.S. dollars and the rates of other leading cryptocurrencies against BTC, including bitcoin cash (BCH), ethereum (ETH), ripple (XRP), and litecoin (LTC). You can explore rates for a specific period by setting a start and end date and also get daily, weekly and monthly charts through the quick select function.
+
+The task of saving all this information on a blockchain involves a lot of crypto transactions. Blitz have chosen the bitcoin cash (BCH) network to record their timestamped price rates. Transferring BCH is almost instantaneous and often costs less than a U.S. cent which is an advantage over other cryptocurrencies. The low transaction fees on the BCH network have played a role in selecting the blockchain that can do the job for the project.
+
+Rates Encoded Into Bitcoin Cash Transactions
+
+The real-time rate data is thus encoded into BCH transactions and propagated throughout the world, the team notes. That allows Blitz Ticker to maintain a truly decentralized rate publishing system that’s always available to traders and other users. A documentation page explains how the data can be used in other applications as well.
+
+Blitz Ticker uses addresses that map to a separate set of symbols and the rate data is stored in the format OP_RETURN OP_PUSHDATA [TIMESTAMP] OP_PUSHDATA [DATA]. The timestamp is 32bit Unix Time. The document further details how to query data from the platform and provides instructions on how to take advantage of its other features.
+
+The rate publishing tool has been developed by Blitz which unites professionals with extensive experience in both cryptocurrency and traditional finance markets, including the trading of digital assets, mining hardware and hashrate. The company states that its mission is to help entrepreneurs, family funds and private individuals grow and preserve their crypto assets.
+
+Besides Tickdata, Blitz has also created and maintains a network of miners, traders, crypto investors, banks, exchanges, and brokers. They are involved in over-the-counter (OTC) trading with clients and partners in Beijing, Hong Kong and Tokyo. The network offers investment opportunities in three major sectors: mining, exchange and trading. A private fund set up by Blitz is targeting accredited investors ready to invest $100,000 or more in cryptocurrencies.
+
+What do you think about the Blitz Ticker platform using the Bitcoin Cash blockchain? Share your thoughts about it in the comments section below.
+
+Disclaimer: This article is for informational purposes only. It is not an offer or solicitation of an offer to buy or sell, or a recommendation, endorsement, or sponsorship of any third party products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.
+
+Images courtesy of Shutterstock, fair use.
+
+Do you want to dig deeper into Bitcoin? Explore past and present cryptocurrency prices through our Bitcoin Markets tool and head to our Blockchain Explorer to view specific transactions, addresses, and blocks.

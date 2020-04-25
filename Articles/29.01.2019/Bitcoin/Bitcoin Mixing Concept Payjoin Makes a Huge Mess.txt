@@ -1,0 +1,35 @@
+DATE:  29.01.2019, 00:03:25
+TITLE: Bitcoin Mixing Concept Payjoin Makes a 'Huge Mess' for Blockchain Surveillance
+URL:   https://news.bitcoin.com/bitcoin-mixing-concept-payjoin-makes-a-huge-mess-for-blockchain-surveillance/
+
+Bitcoin Mixing Concept Payjoin Makes a 'Huge Mess' for Blockchain Surveillance
+
+On Jan. 24, Adam Gibson, author of Waxwing’s Joinmarket blog, wrote about an interesting Coinjoin concept called Payjoin. The protocol further obfuscates the ownership of UTXO inputs during a Coinjoin transaction mixing cycle. According to Gibson, the Payjoin technique is “another nail in the coffin of blockchain analysis.”
+
+Also read: Mystery Bitcoin Miners Are Altering Mining Pool Dominance
+
+Payjoin Bitcoin UTXO Mixing Method Improves Coinjoin’s Privacy Technique
+
+Over the past few years, blockchain analysis has kicked into high gear as law enforcement and governments have begun heavily funding companies that offer this service. On the opposite side of the spectrum, cryptocurrency privacy advocates have been building applications that make bitcoins more fungible. One way of adding privacy to bitcoin core (BTC) and bitcoin cash (BCH) transactions is a method called Coinjoin. The practice combines multiple payments from multiple entities into a single transaction. This technique makes it difficult for blockchain analysts to find each derivation point and the identity of the spenders. The Joinmarket project uses the Coinjoin method and allows users to mix their coins and keep control over their private keys throughout the process. The application also incentivizes people to add liquidity to the market by providing users with the ability to charge fees. However, Gibson notes that a traditional Coinjoin transaction is susceptible to looking different to typical unmixed transaction.
+
+This is because a Coinjoin uses precise and multiple equal-value outputs, which essentially showcases an anonymity set. Repeated mixing rounds create a much larger anonymity set, but they are still noticeable by a trained blockchain analyst. Essentially the Payjoin concept allows Bob to create an “obfuscation of ownership of the inputs without it looking different from an ordinary payment” with his customer Alice. Gibson’s research details that he’s not entirely sure who came up with the Payjoin idea, but he’s seen it mentioned in a blog post written by Matthew Haywood last summer and a Bitcoin Improvement Proposal (BIP) published by developer Ryan Havar.
+
+Payjoin’s Four Advantages
+
+Gibson’s study also emphasizes that there are four fundamental advantages to the Payjoin concept. The first is hiding the payment amount and Gibson states that blockchain analysts see this as “a huge mess.” Advantage two is breaking heuristics and doing so without flagging that breakage has occurred. “This is enormously important, even if the breakage of the assumption of common input ownership on its own seems rather trivial (especially if Payjoin is used by only a few people), with only two counterparties in each transaction,” Gibson remarked.
+
+The next benefit is Unspent Transaction Output (UTXO) sanitation and Payjoin bolsters this action by making each payment that comes in consume the UTXO of the last payment. The last advantage is hiding out in a large crowd, which basically makes anonymity sets “indistinguishable from ordinary payments.”
+
+“Let’s say 5% of payments used this method — The point is that nobody will know which 5% of payments are Payjoin — That is a great achievement because it means that all payments, including ones that don’t use Payjoin, gain a privacy advantage,” explains Gibson’s post.
+
+The author conceded:
+
+This is another nail in the coffin of blockchain analysis — If 5% of us do this, it will not be safe to assume that a totally ordinary looking payment is not a Coinjoin.
+
+Gibson explains that right now there are only two services providing this type of Coinjoin solution: Samourai Wallet’s Stowaway, and Joinmarket 0.5.2 which was just released. Gibson has published a demonstration of Payjoin in his prior blog post and notes that while helpful in a peer-to-peer fashion, both Stowaway and Joinmarket are not ready for large scale merchant automation.
+
+What do you think about the Payjoin concept? What projects do you see improving cryptocurrency fungibility? Let us know what you think about this subject in the comments section below.
+
+Image credits: Shutterstock, Waxwing’s blog, en.bitcoin.it/wiki/Coinjoin, and Pixabay.
+
+Want to create your own secure cold storage paper wallet? Check our tools section.

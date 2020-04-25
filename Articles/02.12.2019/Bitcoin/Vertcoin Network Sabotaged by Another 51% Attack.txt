@@ -1,0 +1,31 @@
+DATE:  02.12.2019, 16:40:07
+TITLE: Vertcoin Network Sabotaged by Another 51% Attack
+URL:   https://news.bitcoin.com/vertcoin-network-sabotaged-by-another-51-attack/
+
+Vertcoin Network Sabotaged by Another 51% Attack
+
+The Vertcoin (VTC) blockchain was 51% attacked on Sunday, December 1, which saw 603 VTC blocks replaced by 553 blocks from the attacker. This is the second time the ASIC resistant Vertcoin chain was ambushed, as the network suffered a 300-block reorg a year ago.
+
+Also read: Cryptocurrency Projects Aiming to be ‘ASIC Resistant’ Have Little Success
+
+Vertcoin 51% Attacked Again
+
+Vertcoin, a fork of the Bitcoin protocol, is an alternative cryptocurrency that’s been around since January 2014. The community and developers behind the project believe VTC is different because it claims to be ASIC resistant. However, throughout October and December 2018, the Vertcoin network dealt with a series of 51% attacks and a number of blockchain reorganizations (reorg).
+
+A 51% attack is when a single entity (miner) takes more than 50% of the network’s hashpower, allowing them to reorg blocks and double spend coins. The 300-block reorg on Vertcoin last year cost more than $100,000 from double spends. The situation invoked VTC developers to change its proof-of-work algorithm to another algorithm called Lyra2rev3. Less than a year later on December 1, 2019, the Vertcoin chain suffered another 51% attack. James Lovejoy, Vertcoin’s lead developer, explained the situation:
+
+On Sunday, 1 December 2019 15:19:47 GMT 603 blocks were removed from the VTC main chain and replaced by 553 attacker blocks. We note that 600 blocks is the current confirmation requirement for VTC on Bittrex. There were 5 double-spent outputs in which ~ 125 VTC (~$29) was redirected. Each of the double-spent outputs are coinbase outputs owned by the attacker and it is unknown to whom the coins were originally sent before being swept to an attacker address after the reorg.
+
+Cloud-Mining Service Nicehash Blamed Again
+
+Similarly to last year’s attack, the captured hashrate was blamed on Nicehash. The company sells hashpower to individuals and acts as a hashpower broker marketplace that connects sellers and miners. Lovejoy remarked that he noticed on November 30 “a large upswing in hashrate rental prices for Lyra2rev3 on Nicehash.” “This was combined with workers connected to Nicehash’s stratum server being sent work for unknown (non-public) Vertcoin blocks,” Lovejoy added. Last year’s attack was blamed on Nicehash too when observers said “there’s too much hashrate for rent at too low a price, resulting in zero capex and low opex to do attacks.” Despite being ASIC resistant, cloud-mining services are now able to offer customers significant portions of CPU and GPU-based hashrates.
+
+Resisting mining centralization has been a huge concern for a variety of blockchains and the Monero (XMR) network has had its share of grievances as well. Last year XMR saw multiple forks as developers tried to bolster ASIC resistance. In May 2018, the Bitcoin Gold (BTG) project suffered a 51% attack and lost $18 million in one fell swoop. A large portion of the BTG double spends from the attack was stolen from Bittrex, eventually causing the U.S. exchange to delist BTG.
+
+With Sunday’s Vertcoin attack, Lovejoy emphasized that “it is possible that Bittrex was the original target.” However, the double spends were aborted because Bittrex had their wallet disabled. “It is also possible that no double spend was ever intended, and the attack was a proof of concept or sabotage attack,” Lovejoy added. Lovejoy said the post-attack analysis of the Nicehash order book at the time of the attack had shown “a large upswing in hashrate rental price” from both U.S. and EU markets. But after the attack, the rental price subsided, Lovejoy stressed, returning to the baseline market equilibrium.
+
+What do you think about Vertcoin getting attacked again? Why do you think attacks like these happen? Let us know what you think about this subject in the comments section below.
+
+Image credits: Shutterstock, Vertcoin logo, and Lovejoy’s Github gist.
+
+Did you know you can buy and sell BCH privately using our noncustodial, peer-to-peer Local Bitcoin Cash trading platform? The local.Bitcoin.com marketplace has thousands of participants from all around the world trading BCH right now. And if you need a bitcoin wallet to securely store your coins, you can download one from us here.

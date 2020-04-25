@@ -1,0 +1,35 @@
+DATE:  17.03.2020, 23:47:22
+TITLE: Devs Debate Using USDC for Collateral After DAI Stablecoin Faces Liquidity Issues
+URL:   https://news.bitcoin.com/makerdao-devs-debate-usdc-dai-liquidity-issues/
+
+Devs Debate Using USDC for Collateral After DAI Stablecoin Faces Liquidity Issues
+
+Since March 12, the Makerdao community has been struggling with the stablecoin DAI which has been over $4 million undercollaterized since the crypto market carnage started. On March 18, the developers plan to auction newly minted maker (MKR) tokens in order to remove the outstanding debt. However, the auction might not be enough and the Makerdao community is debating on adding the stablecoin USDC as collateral.
+
+Also read: ETH Price Strains Defi Collateral Loans as ‘Black Swan’ Event Strikes Makerdao
+
+Makerdao Community Debates Adding USDC for Collateral
+
+The price of ethereum (ETH) has lost more than 40% in fiat value during the last week. News.Bitcoin.com reported on how the decentralized finance (defi) community watched Makerdao’s significant issues which resulted in over $4 million in DAI undercollateralized. Because the project uses ethereum (ETH) as collateral, the combined effects of the price of ETH falling and oracle discrepancies hurt the project’s collateralized loans.
+
+To tackle the issues, Makerdao developers revealed they would be auctioning newly issued MKR to remove the debts incurred by the market bloodbath. The auctioning of new MKR is described in the project’s whitepaper as a method that can be used to stave off undercollateralized positions. However, in the eyes of a few MKR leaders, the auction to mitigate DAI liquidity risk in an uncertain market might not be enough. According to a recently published community forum post, the team is debating whether they should use the stablecoin USDC as collateral. Basically a stablecoin to make sure the other stablecoin holds its peg.
+
+“Given the ongoing liquidity risk of DAI in an uncertain market, both the community and members of the Maker Foundation have been making noise in the official chat about onboarding USDC as collateral as an emergency measure to help mitigate this liquidity risk,” explains a post written by the MKR forum user Longforwisdom. “Naturally this would need to be confirmed by governance, and go through an executive vote, but at this stage, the Foundation is making the technical preparations to make this possible.”
+
+‘A Band-Aid to a Deeper Underlying Liquidity Problem’
+
+Longforwisdom also lists a number of pros and cons that would apply to the project if they leveraged USDC for collateral. A few positive examples include helping to “create DAI liquidity and push the DAI peg back towards $1,” that would “[allow] vault holders to close their vaults without eating the loss,” and it could bolster “FLIP [and] FLOP auctions.” Negatives to adding USDC would be things like “reducing the ‘purity’ of DAI,” “[it] comes with regulatory risk,” and a “‘blacklist’ risk” as well. If Makerdao was to add USDC they would need to address the stability fee, liquidation ratio, debt ceiling, and possibly getting away without using oracles, Longforwisdom underscored. “I think it’s a good idea to add USDC as collateral, to enable liquidity to be added to the market for emergencies,” the forum user Jiecart responded. “Currently DAI is trading >1.07, there’s a lot of demand for DAI liquidity.”
+
+“To me, it sounds like a band-aid to a deeper underlying liquidity problem which ought to be solved with careful consideration,” MKR community member Aeno wrote. The Makerdao supporter added:
+
+As to the USDC proposal itself, there are new economical risk that can sneak in with such a solution and mixing it with an otherwise decentralized system … Lastly, I echo the sentiment that I am in this project for its pure decentralized nature and would not want to see it becoming inter-mixed with USDC. If it were, I would rather just want to stick with USDC altogether.
+
+At the time of publication, single collateral DAI is struggling to keep balance and is showing liquidity issues. The price per DAI is around $1.03 per token right now and the stablecoin has been fluctuating wildly since March 12. Sometimes a DAI can be less than $1 and other times it will trade for a few cents above like it is today. If the price of ethereum drops even further then the millions worth of ETH currently held in collateral will be liquidated. Meanwhile, the stablecoin USDC has seen significant growth since the crypto market dipped last Thursday.
+
+What do you think about the Makerdao community members discussing whether or not they want to include the stablecoin USDC as collateral? Let us know what you think about this subject in the comments section below.
+
+Disclaimer: This article is for informational purposes only. It is not an offer or solicitation of an offer to buy or sell, or a recommendation, endorsement, or sponsorship of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article. Cryptocurrency prices referenced in this article were recorded on Tuesday, March 17, 2020.
+
+Image credits: Shutterstock, coinmarketcap.com, Markets.Bitcoin.com, Fair Use, Wiki Commons, Makerdao Logo, DAI logo, and Pixabay.
+
+Do you want to maximize your Bitcoin Mining potential? Plug your own hardware into the world’s most profitable Bitcoin mining pool or get started without having to own hardware through one of our competitive Bitcoin cloud mining contracts.

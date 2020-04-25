@@ -1,0 +1,31 @@
+DATE:  28.03.2019, 21:30:55
+TITLE: New Bitcoinpython Node Is 100X Faster Than Previous Python Libraries
+URL:   https://news.bitcoin.com/new-bitcoinpython-node-is-100x-faster-than-previous-python-libraries/
+
+New Bitcoinpython Node Is 100X Faster Than Previous Python Libraries
+
+On March 27, Bitcoin Cash (BCH) fans were introduced to a new BCH full node written in the Python programming language. The project, known as Bitcoinpython, is a modern BCH library whose creator claims it to be the fastest available Python implementation with 100X the speed of its closest competitor.
+
+Also read: Menu.cash Allows Diners to Create Table-Specific Orders and Pay With BCH
+
+Bitcoinpython: A Fast Bitcoin Cash Full Node Written in Python
+
+Over the last year, there’s been an assortment of alternative BCH full node clients released using a variety of different programming languages. On Wednesday, software developer Corentin Mercier announced the launch of Bitcoinpython on Twitter and explained that it was the “fastest and easiest Python library” to date. Python is a general purpose programming language created in 1991 that’s well known for its ease of use. Mercier’s Bitcoinpython documentation explains that the Python nodes for BCH were “pretty bleak” and prior releases had unfriendly APIs and lacked a significant amount of testing and specifications. The developer revealed that he forked the Bitcoinpython code from a library that stemmed from programmer Ofek Lev and he also used Teran Mc Kinney’s Bitcash library upgrade.
+
+The Bitcoinpython documentation explains there to be five benefits to the library which includes a robust API, compliance with all BCH improvement protocols, availability for all major platforms, extensive documentation and of course speed – Mercier believes the client is 100X faster than the closest library. “Bitcoinpython is Python’s fastest Bitcoin Cash library and was designed from the beginning to feel intuitive, be effortless to use, and have a readable source code,” the project’s introductory documentation states.
+
+Alternative Clients Bring More Blockchain Compatibility
+
+The project’s code is open source and available on a Github repository, which describes what the Python written node supports. The specs detail that the node features cold storage keys, 25 different fiat currencies, exchange rate API with optional caching, deterministic signatures, optimal transaction fees, compressed public keys, and it offers standard P2PKH transactions. Bitcoinpython also provides multiple representations of private keys which include WIF, PEM, and DER. Mercier also gives credit to Bjarne Magnussen for his Segwit code for BIP143 support as well.
+
+The Bitcoinpython release follows the BCH nodes written in Golang and Rust a few months ago. Most of the nodes used today are written in C++, the codebase Satoshi originally used in 2009. The two dominant nodes within the BCH network consist of ABC (54.4%) and Unlimited (44%). However, since the launch of the Bchd client and the Neutrino wallet, there are roughly eight Bchd nodes in the pack. People like to develop nodes in languages like Golang, Node.js, and Python because a lot of developers enjoy how easy these languages are to learn. Moreover, there are a lot of web applications using friendly coding languages and with wider language communication it could end up making them blockchain compatible.
+
+Mercier is a big fan of building cryptocurrency applications and has developed other projects like Blurry.cash, a blurry photo site that lets you pay BCH to reveal a clear picture, and a bitcoin vending machine product called Bsnack. Bitcoinpython is another addition to the developer’s portfolio and demonstrates his passion for creating solid use cases for cryptocurrencies.
+
+What do you think about the Bitcoinpython full node software? Let us know what you think about this project in the comments section below.
+
+Disclaimer: Readers should do their own due diligence before taking any actions related to the mentioned companies or any of its affiliates or services. Bitcoin.com and the author are not responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article. This editorial is for informational purposes only.
+
+Image credits: Shutterstock, Bitcoinpython, and Twitter.
+
+Verify and track bitcoin cash transactions on our BCH Block Explorer, the best of its kind anywhere in the world. Also, keep up with your holdings, BCH, and other coins, on our market charts at Satoshi’s Pulse, another original and free service from Bitcoin.com.

@@ -1,0 +1,49 @@
+DATE:  19.09.2019, 17:22:59
+TITLE: Zap Olympus a Fiat to Lightning Network On-Ramp
+URL:   https://bitcoinmagazine.com/articles/zaps-olympus-features-fiat-to-lightning-on-ramp-with-direct-wallet-deposits
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+Zap wallet will soon let you buy bitcoin in the app and deposit the sats directly into your Lightning wallet after each buy.
+
+“If you want, you can buy bitcoin inside of Zap with a bank account, debit card, Zelle, whatever — and it will give you the bitcoins, from purchase to spending on Lightning, in less than five seconds,” Zap founder Jack Mallers told Bitcoin Magazine.
+
+Mallers said he and his team have been working on the feature, aptly dubbed Olympus, for about a year. It’s similar in function to SparkSwap’s desktop application, which also allows for direct-to-Lightning wallet buys, though in technical structure, Zap’s “a little bit more complex,” according to Mallers. His wallet uses something called Turbo channels to settle the transactions. And, more notably, Zap’s iteration can be integrated by other Bitcoin companies and service providers as well.
+
+Third-party integration would mean more liquidity, for both Zap’s service and the Lightning Network as a whole. The idea, Mallers told us, is to weave a sturdy web of liquidity by creating an easy access point for onboarding users onto Lightning. He doesn’t want people to have to wait for well-entrenched services like Coinbase or BitPay to integrate the secondary network for users to have a convenient on-ramp to use the technology.
+
+“This is really designed to get some of the licensing and regulatory relationships and advanced exchange infrastructure for Lightning into the hands of the good guys,” he told us, adding that Zap’s endgame is to get Lightning into the hands of millions of new, less-technically tolerant users. “Zap has this ambition of getting a million Lightning nodes running on individual devices all around the world. Lightning doesn’t have a mainstream track yet, and I want to be able to tell no-coiners to download Zap, enter a debit card and get the Lightning payment instantly.”
+
+Cash for Sats
+
+Mallers stressed that Olympus is a completely opt-in “standalone service.” He made this distinction because the buying option will require a degree of KYC (name, email and home address), though Zap’s wallet will still be KYC-free for baseline Lightning functionality, he assured.
+
+The service promises noncustodial, instantly delivered purchases of bitcoin directly into a user’s Zap wallet by way of a special technical workaround called Turbo channels. Bitrefill was the first to leverage this tech with its Thor Turbo channels. Through Bitrefill, users can purchase a channel with bitcoin, a few alts, their Coinbase account or with their Bitrefill balance. Mallers said that Zap’s solution is the first to allow direct bank-to-bitcoin cash trades for Turbo channels; additionally, the team had to adapt the concept, originally coded in the eclair Lightning language, for the more popular LND implementation.
+
+This pioneering channel creation mechanism allows users to spend purchased funds in their Lightning wallet immediately without waiting for the transaction that funded their wallet to be confirmed on chain. (When you set up a Lightning wallet, you first have to make a “funding transaction” to create a payment channel with another party, and traditionally, you need to wait for this funding transaction to be confirmed on the blockchain to start transacting on Lightning).
+
+Turbo foregoes the need for immediate onchain validation. It works like this: If you were buying sats from Zap, the wallet provider creates a channel for you and “pushes” bitcoin to you in the channel. So, if you bought 10,000 sats through the app, Zap creates the payment channel and “pushes” the 10,000 sats to your side of the channel in exchange for cash. This creates instant liquidity on your end of the channel, and the funds can be spent immediately.
+
+“Previously, the user story read like this: take fiat, buy bitcoin, wait until you’re allowed to withdraw, withdraw and wait for confirmations, deposit bitcoin onto the Lightning Network, open channels, wait for more confirmations, scan QR code. Not anymore,” Mallers said in a blog post announcing Olympus.
+
+As with Bitrefill’s Thor service, when you use Olympus, you’re actually buying a turbo channel from Zap that is preloaded with sats, “which is basically a more complicated way of saying that you’re buying bitcoin on Lightning,” Mallers said. As such, the service requires “a certain level of trust,” because Zap acts as a central hub of liquidity (though this isn’t much different from Lightning wallets and other services offering their nodes as routing hubs and setting up bidirectional payment channels for their users).
+
+There’s also the trade-off of not waiting for on-chain confirmations to begin transacting, though Mallers said that users can choose to “wait for the channels to reach however many confirmations they like.” Zap may also offer alternative modes of delivery, such as regular Lightning invoices or, in the case that the buyer wants on-chain settlement, submarine swaps.
+
+Global Liquidity and Massive Adoption
+
+Zap is tapping into a Chicago liquidity provider — and by proxy, a network of some of the industry’s top exchanges — to supply Olympus with a steady pipeline of bitcoin.
+
+Mallers’ aspiration is that Olympus will expand well beyond Zap’s influence to other Bitcoin services. Chief among these, he says, the wallet’s been working with Square’s Cash App and BTC PayServer to spur Lightning adoption among merchants. This follows fresh news that Cash App has allocated a grant to fund future BTC PayServer development. The capital pledge is a welcome windfall for the payment processor, as it has subsisted on purely open-source development and funding throughout its two-year lifespan.
+
+If all goes as planned, Zap, Cash App and BTC PayServer synergizing their services could set the stage for a breakthrough in Lightning merchant adoption. A common hangup for processing Lightning payments for vendors has been converting to fiat to mediate bitcoin’s volatility. Currently, no solutions exist to offer a reliable on-/off-ramp from Lightning to fiat, though if Mallers’ vision comes to fruition, Zap’s new product may have finally produced a solution.
+
+And this doesn’t stop at Cash App. Other Lightning wallets, exchanges and Bitcoin services can integrate Zap’s solution without even running their own node to provide channel liquidity. Zap’s got the sats; all they need to do is open a channel with Zap’s node and support the LND version of Turbo, which Mallers’ plans to open source over the coming weeks.
+
+“Everyone building on Lightning should be able to leverage the infrastructure work we’ve done to get here. So, Olympus will be available to any external app, product, business, etc. to use,” Mallers wrote in the post.
+
+For now, the service will be available as a closed beta, for which you can register here. Mallers hopes to open it to the public in the coming months, but he wants to ride out a recently discovered bug in Lightning’s software before injecting more liquidity onto the network. Once enough Lightning developers give the all clear, he’ll take it out of beta. To start, Olympus is only available in the U.S., though Zap hopes to expand to other countries in the near future.
+
+He also plans on upping channel limits to accommodate wumbo channels (yes, that means very big channels) which could hold up to 1 BTC, but for now, Zap’s turbo channels will play within the boundaries of accepted channel limits (about 0.04 to 0.05 BTC).

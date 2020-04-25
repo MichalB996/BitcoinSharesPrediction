@@ -1,0 +1,79 @@
+DATE:  22.12.2019, 10:35:00
+TITLE: Hanukkah Reflections on My Year of Toying With Bitcoin
+URL:   https://www.coindesk.com/hanukkah-reflections-on-my-year-of-toying-with-bitcoin
+
+‘Tis the season for introspection. And this year, my thoughts are on bitcoin.
+
+As Jewish people around the world celebrate Hanukkah this week, inspired by the ancient miracle that a sacred flame lasted for eight days although the oil supply was dangerously low, I’m pondering how the hell I’ll keep experimenting with this technology without burning the metaphorical candle at both ends.
+
+I spent 2019 trying a variety of products and services to test how easy it is to actually use cryptocurrency. I ran a Casa bitcoin-lightning node, used decentralized exchanges (DEXs), moved bitcoin from mobile apps to a hardware wallet (a Ledger) then transacted straight from the hardware wallet.
+
+Beyond just running the node, I used the Casa device to send invoices for a small product (a poetry book) to learn more about the challenges independent merchants might face. Lastly, I set up a BTCPay store, which is the stage of this experiment I’ll end the year on.
+
+And after a year of educational tinkering what is my takeaway?
+
+It’s this: There’s no way this technology is ready for prime time.
+
+The most common refrain used to deflect from the technology’s obvious shortcomings is that it’s still “too early” to build for usability. Precisely because I agree it is still very early, here are some lessons I’ve learned about money fellow bitcoiners might want to keep in mind before evangelizing “to the moon” to the masses any time soon.
+
+1. Bitcoin’s usability relies on social capital
+
+Let’s start with what it took to sell a few poetry books using a bitcoin node.
+
+There was an issue with my router, which I am terrible at describing other than saying something had to be configured with a “port” of sorts although the general internet connection worked fine. I clicked all the buttons.
+
+If I didn’t have experienced engineers in my Rolodex of sources, I wouldn’t have gotten past that first hurdle. I called up two of the smartest engineers I know. We opened up the raw code and shared screens so they could see. They cursed vigorously, assuring me I was doing everything right according to the Casa tutorial blog. We updated the node with a wee bit of manual configuration and they graciously opened up a channel to me. (Lightning access doesn’t automatically offer two-way liquidity.)
+
+Seasoned bitcoiners are generally able to find workarounds to overcome technical challenges (hardware wallet malfunction or incompatibility, incorrect updates, etc.). To be fair, the devices listed above are those I got to work (mostly) on my own. (I tried a few others and failed, which I won’t list because this isn’t a grouchy Yelp review.)
+
+However, most command-line-only mountain men with their own custom setups don’t realize how fickle some products are at this stage. If you actually rely on bitcoin for business, many non-custodial products and services are so experimental you need tech support to operate them reliably. Why go the service-provider route at all with bitcoin? Be your own bank, remember?
+
+Venmo works great. So does Stripe. Bitcoin needs to offer something different. (It does, of course. It might allow you to choose who you trust and what you trust them with, like bouncing a message across a mesh network, but we’ll get to that later.)
+
+2. Failure to transact
+
+Some people are surely using bitcoin today to improve their financial self-sovereignty. The idea that anyone could do so, however, is laughable.
+
+Even when the wallet-node-DEX setup was working smoothly, just a few of my (relatively tech-savvy) customers could find their transaction data with blockchain explorers. Bitcoin is only transparent to people with the skills to read this data. Without that knowledge, there is no benefit added by the public ledger. (There may even be risks associated with this ledger.)
+
+For the time being, I’d recommend any non-developer consider private consulting with an engineer (or membership to a startup service like Casa’s) as part of a crypto product’s price. That means you better expect to earn a pretty penny from bitcoiners as consumers (or savings liquidators) to make this worth it.
+
+The trouble is, bitcoiners rarely want to spend their crypto. Herein lies the essential dilemma of bitcoin: It can’t be money without payments, it is seen as too valuable to spend (unless you are facing censorship) and official payment systems require compliance.
+
+Some of the sharpest engineers I know in places like Iran still struggle to use bitcoin because there aren’t enough people to transact with. Skills alone don’t solve their legal problems. They also need a robust network of parties, both at home and abroad, who aren’t subject to the same compliance risks and government woes that caused their isolation in the first place.
+
+3. Money is never trustless
+
+Sanctions aside, all of these experiments reminded me of what it was like to get money in India during demonetization. Much like some token traders these days, when I was backpacking across India in 2016 my daily commerce relied on arbitrage. In short, social networks still control liquidity, whether it’s bitcoin or paper rupees.
+
+I was at a camel festival in Rajasthan the first time I heard about demonetization. Indian businesses wouldn’t accept my bills any more.
+
+Instead, travelers were told to exchange them for new bills at the sole local bank. But the government didn’t print enough new bills to cover the limited allotment each person was allowed per day (under $70).
+
+When security guards came out with sticks to close the empty bank, the sunburnt and thirsty crowd grew rowdy. One guard grabbed a protester next to me by the face and shoved him to the ground.
+
+So I turned to the black market. In the next town, a middle-aged man with a moustache and a mobile-phone shop had a secret stash of new rupees. He would swap dollars at a steep premium, despite the best efforts of a teenage boy from a nearby village who haggled in the local language on my behalf, for a small fee.
+
+Sometimes even my dollars didn’t entice the currency dealer. This is the same issue Iranian bitcoiners face. Your currency is only valuable to people who believe they can also spend it in turn.
+
+Like some bitcoiners in Venezuela who use cryptocurrency to get dollars today, foreigners turned to arbitrage during demonetization in India. Some businesses in 2016 charged foreigners less in euros than in dollars (with new rupees getting the lowest price of all), so we swapped among ourselves and developed relationships with business owners who would extend us short-term credit. Some banks and ATMs only had cash once a week. Premiums might fluctuate based on rumors of cash shipments on the horizon.
+
+I started obsessively asking people how they managed their finances. Demonetization broke down stigmas around such topics, especially considering I was a petite traveler who could hardly bench press a housecat. From Pushkar to Varanasi and down south past Mumbai, most Indians told me they pooled their families’ wealth together with a single elder at the helm.
+
+This echoes what is going on today in Lebanon and Iraq. In fact, the Indian outlet Economic Times referred to bitcoin as the “new hawala,” an ancient brokerage system often used for remittances. This social system almost resembles a mesh network.
+
+Even in 2019, family networks are still the most popular financial networks. My bitcoin experiments got easier when I started treating cryptocurrency like black market rupees. It wasn’t about going trustless as much as it was compartmentalizing trust across a network of social ties.
+
+Who could I trust to get me to the next step of my bitcoin experiment? They’d probably be exposed to my security setup if they helped circumnavigate some technical problems, but not others. Where was there opportunity for safe arbitrage?
+
+Book buyers often trusted me with personal information, too, which I could have connected to their wallet addresses or online aliases if I was nefarious. How does one lawfully and privately get a book to a buyer living in rural Latin America? Can bitcoin really connect people to the global economy, including but not limited to digital products? If so, that process requires trust on both ends.
+
+Conclusions, for now
+
+None of this is to say bitcoin isn’t a global currency. The technology is already being used in this way. Transacting with wallets, especially European book-buyers, was the easiest part of my experiments.
+
+Can cryptocurrency be used in a self-sovereign way, with minimal personal risks, to connect people who don’t already have access to safer, more robust financial products?
+
+That I can’t say yet. It may depend on who burns the midnight oil in these early days, before prime time hits. Perhaps bitcoiners will be able to overcome the social challenges of money: compliance, access, liquidity, usability. By comparison, the technical shortcomings are almost trivial.
+
+In 2020, I hope more people will try to transact outside their established networks and see what challenges they face in deliberately applying trust rather than eliminating it. Can we trust in the bitcoin network? This crazy idea should have failed long ago. Yet, for over a decade bitcoin has already proven to be the experiment that flickers but never goes dark, almost like a candle.

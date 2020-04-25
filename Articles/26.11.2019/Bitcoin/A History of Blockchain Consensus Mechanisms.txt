@@ -1,0 +1,65 @@
+DATE:  26.11.2019, 00:30:37
+TITLE: A History of Blockchain Consensus Mechanisms
+URL:   https://news.bitcoin.com/a-history-of-blockchain-consensus-mechanisms/
+
+A History of Blockchain Consensus Mechanisms
+
+The consensus mechanism is a critical blockchain component, providing a non-partisan means of establishing agreement as to the network’s current state. But ever since Bitcoin emerged in 2008, its original consensus mechanism – Proof of Work (PoW) – has been emulated and iterated, paving the way for a series of alternative algorithms with their own unique characteristics.
+
+Also read: Libra Testnet Fails to Impress as New Legislation Looms
+
+From Proof of Work to Proof of Everything
+
+Given Bitcoin’s success, it’s no surprise that its protocol should have attracted imitators, some of whom have sought to refine it, and others to overhaul it entirely. Nevertheless, it’s ironic that there is a lack of, well, consensus when it comes to consensus mechanisms. Which option constitutes the most stable and efficient solution? It depends on who you ask. To understand the major differences between some of the main algorithms, let’s take a closer look at them in turn.
+
+Proof of Work was the original consensus mechanism used by Bitcoin and latterly implemented on the likes of Ethereum, Litecoin, and Dogecoin. PoW involves performing thousands of calculations per second to find the solution to a mathematical problem that is hard to solve but easy to verify. The Proof of Work system incentivizes miners by rewarding them with coins for each new block found.
+
+Although it remains an extremely fair and secure consensus mechanism, PoW has been criticized over the years. Much has been made, for its example, of its high energy and resource requirements: the computational power needed for miners to solve complex mathematical puzzles ahead of their peers is huge. Critics lose sight of the fact that this is a feature and not a bug: the difficulty of cheating Proof of Work is what makes it so robust, and why the Bitcoin network is so valuable. Even the most well funded adversary would struggle to obtain the hashpower necessary to control the network and double spend coins.
+
+Proof of Stake & Delegated Proof of Stake
+
+Marketed as the more environmentally-friendly option, Proof of Stake makes mining new blocks easier for holders of greater amounts of the native cryptocurrency. The logic is clear: if you hold more tokens, you have the highest stake in the network’s long-term success. Proof of Stake is set to power the upcoming Ethereum 2.0 upgrade, scheduled to go live during the first quarter of 2020, all going well. As with PoW, though, PoS is not without its critics. Some argue that affluent coin holders are more likely to mint blocks, leading to centralization, while others express alarm at the new attack vectors it introduces, including sybil attacks.
+
+Delegated Proof of Stake (DPoS) is different again, with users able to stake coins to democratically “elect” delegates tasked with producing blocks on the network and maintaining consensus rules. If these trusted witnesses fail in their duties, they can be voted out just like politicians. Conceived by Dan Larimer in 2014 and implemented on EOS, Tron, Bitshares and others, the DPoS algorithm is able to process more transactions per second (TPS) than its forebears – however there are downsides. Although the protocol is less energy-consumptive, it tends towards centralization, since decisions lay in the hands of a small core of holders.
+
+Proof of History
+
+Proof of History (PoH) is the creation of Solana, a high throughput blockchain that was initiated in 2018 and secured a $20M funding round led by Multicoin Capital. Although not technically a consensus mechanism, Proof of History plays a critical role in enabling network participants to reach consensus on time by using a Verifiable Delay Function, thereby avoiding “the longest chain” rule. While PoH serves as the network’s clock, TowerBFT is its watchtower, tasked with preventing malicious actors from cheating the time parameters. Any validator that votes for a certain block must wait for the next block to be produced, receiving confirmation from the Proof of History that “time has passed” before being entitled to vote again.
+
+With Solana, Proof of Stake determines the network rules, which are enforced with the aid of PoH, TBFT, and validators. Although Solana is intent on using PoH alongside proof of stake in its native blockchain, Proof of History has broader applications. It can be deployed on Proof of Work chains, for example, to enhance the accuracy of the existing consensus mechanism.
+
+Proof of Authority
+
+Proof of Authority (PoA) is a consensus mechanism that enables faster transactional throughput at the expense of decentralization trade-offs. With Proof of Authority, approved validators are tasked with verifying blocks. Because PoA is reputation-based, validators have incentives to act ethically and avoid having their reputation tarnished, which could result in them being replaced.
+
+Ethereum Express is one project using Proof of Authority, and claims to have achieved 1,000 transactions per block and a network capacity of 200 transactions per second (TPS) in tests involving Mining Express and a gambling company whose business model requires a high volume of onchain transactions. Ethereum Express is aiming to woo businesses deterred from building on Ethereum due to bottlenecks that have prevented it from scaling.
+
+Proof of Burn
+
+The brainchild of Iain Stewart, the Proof of Burn mechanism encourages users to burn – or make permanently unavailable – mined coins. In return, they are granted the right to add blocks in proportion to the coins that have been destroyed. The idea is that users burning their cryptocurrency are exhibiting a long-term commitment to the coin by being willing to accept a short-term loss. In other words, to invest. PoB is often dubbed PoW without the energy waste, with no high-grade mining hardware or computational resources required.
+
+Practical Byzantine Fault-Tolerance
+
+Yet another consensus mechanism that builds upon the foundations laid down by Proof of Work is the PBFT model. Of course, in application it is completely different – and believe it or not, the concept itself predates PoW by a good decade. Conceived in the late 90s to militate against the risk of malicious nodes undermining the network, the risk of centralization with PBFT is low (no mining pools like PoW, no colluding major stakeholders like PoS) and trust is entirely decoupled from asset ownership. A PBFT system operates on the principle that the maximum number of malicious nodes must not be greater than or equal to one-third of all nodes in the system. As the number of nodes increases, the system becomes more secure. Variants of PBFT are currently utilized by Hyperledger, Stellar and Ripple among others.
+
+No Easy Option
+
+Of course, the aforementioned mechanisms are not the only ones available. We can look to Proof of Identity, Proof of Elapsed Time and Proof of Importance, all of which have been deployed on various blockchains. To one degree or another, each endeavors to solve flaws in systems such as PoS or PoW.
+
+Proof of Elapsed Time, for example, determines mining rights and block winners according to a fair lottery system. In this protocol, every single node is equally likely to win. It was invented in 2016 by Intel, the Silicon Valley chip manufacturer, and is often used on permissioned blockchain networks.
+
+The Eternal PoW vs PoS Debate
+
+All of the consensus mechanisms described here, aside from Proof of Work, are designed for Proof of Stake. Some, such as Proof of History, can also be applied to PoW, but it too is primarily for PoS. As such, the debate over which methodology is best essentially comes down to PoW vs the PoS family. Because everyone has a dog in the fight, so to speak, the PoW and PoS camps are diametrically opposed.
+
+This phenomenon is best seen in the acrimony over Ethereum’s long-running plans to transition to a PoW/PoS hybrid model. “The PoW based-protocol is the most proven and successful model so far,” insists Dr. Long Fan, the founder of Conflux. “After all, what blockchain provides fundamentally is trust. Security and decentralization are the key to building trust in the beginning. PoS has many problems in terms of security and decentralization.”
+
+Bittorrent creator Bram Cohen is in agreement. In a tweetstorm on November 24, he took aim at Vitalik Buterin’s plans for Ethereum and asserted that “Proof of stake continues to be a bad idea. It starts with a fundamentally weakened security model and runs into a whole host of deep technical issues on top of that.” Cohen, it should be noted, has his own cryptocurrency project to push, Chia, which uses yet another algorithm, Proof of Space, which relies on validators demonstrating that they have spare disk space.
+
+Getting blockchain validators to reach consensus is relatively simple compared to getting their supporters to agree on which consensus mechanism is best.
+
+Do you think any consensus mechanism has improved on Proof of Work? Let us know in the comments section below.
+
+Images courtesy of Shutterstock.
+
+Did you know you can verify any unconfirmed Bitcoin transaction with our Bitcoin Block Explorer tool? Simply complete a Bitcoin address search to view it on the blockchain. Plus, visit our Bitcoin Charts to see what’s happening in the industry.

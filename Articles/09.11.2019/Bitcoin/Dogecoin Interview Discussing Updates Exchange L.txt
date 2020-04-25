@@ -1,0 +1,49 @@
+DATE:  09.11.2019, 16:59:01
+TITLE: Dogecoin Interview: Discussing Updates, Exchange Listings, and Future Plans With DOGE Core Devs
+URL:   https://blokt.com/interview/dogecoin-interview-discussing-updates-exchange-listings-and-future-plans-with-doge-core-devs
+
+Dogecoin currently stands as the 28th largest cryptocurrency with a market cap of about $324 million. In 2019, this popular digital currency has enjoyed new listings on various exchanges, such as Binance and Binance US, and had support for it added to multiple wallets and other platforms.
+
+I reached out to two Dogecoin core developers, Ross Nicoll and Max Keller, to get their insights on the latest developments occurring in the Doge ecosystem, including details on the upcoming updates. Here’s how the interview went:
+
+Could you tell me about the Dogecoin update 1.14.1 that is ready to go out?
+
+It’s actually now Dogecoin 1.14.2 it looks like, which is a bit awkward. So we’ve found two bugs in 1.14.0 post-release, the first meant that merged mining doesn’t work, so miners couldn’t upgrade (this is fixed in 1.14.1) and the second is a miscalculation in transaction fees, which 1.14.2 is anticipated to contain a fix for.
+
+1.14.1 is actually already available as source, so miners can upgrade by compiling it themselves, we’ve just had issues building binaries, and it looks like we’ll skip a binary release for 1.14.1.
+
+Could you tell me about the upcoming 1.17 Dogecoin update?
+
+For the most part, we’re remaining compatible with Bitcoin releases, so 1.17 simply brings us up to date with Bitcoin Core 0.17.2. We have talked about Segwit being enabled in an upcoming release, to enable Lightning with Dogecoin, but given our relatively limited time to work on the project, we’re just focusing on maintenance releases right now to keep everything stable.
+
+One change I personally want to introduce is to require merged mining, rather than it being optional. This is required in order to support Segwit, as we use the version bits for merged mining data, and Segwit uses those same bits. By requiring merged mining always, we no longer require this extra information.
+
+Is the Doge/Ethereum bridge still in development?
+
+Sadly it’s on pause at the moment, as far as I am aware. It was being developed by a completely separate team, for a bounty put up in Ether, and with the drop in the price in Ether, they do not consider it financially viable to continue right now.
+
+When will the Doge/Ethereum bridge be complete?
+
+I’m hoping we’ll see that change or a new team bid for the bounty at some point, but we don’t have a date right now.
+
+Dogecoin was listed on Binance this year, do you see a Coinbase listing on the horizon?
+
+We’ve gone through the Coinbase listing documents, and they require a lot of structure we don’t have, so at the moment, it’s not on our roadmap. It’s an unfortunate situation that despite cryptocurrencies being designed to be decentralized, being an actually decentralized project seems to confuse a lot of companies in the space.
+
+That said, it would be great to see Dogecoin listed, and if we can help Coinbase with this, I’d love to hear from them. Obviously, Dogecoin is in the Coinbase Wallet app, and I’m hoping that’s a good sign.
+
+Dogecoin has a fixed inflation rate of 5.256 billion newly created coins each year. What are your thoughts on this, as many cryptocurrencies are promoted as being deflationary?
+
+I know there’s a vocal group that dislikes this, but to me, this is fundamentally core to Dogecoin. I think many people miss that we’re not founders, and Dogecoin had no pre-mine, so the current developers have had no better opportunity than anyone else to stockpile. What I mean is if we were in this to make money, it would be much easier to work on a cryptocurrency that already has a profit model, than try reinventing Dogecoin.
+
+Jackson Palmer recently handed over ownership of http://dogecoin.com, what are the plans for the website?
+
+We’re currently establishing guidelines and common goals after Jackson’s departure, so I can only really talk for myself right now, but there’s a lot of common questions I’d like to address. The economy generally (but especially the lack of cap), who the team is and why we’re involved are probably the biggest areas I want to tackle.
+
+Are there any other exciting future plans for Dogecoin you can share with us?
+
+I’m really excited that we’ll be putting more information out, does that count? We’re engaging more with exchanges and promoting ourselves as a more professionally managed cryptocurrency, as well as hopefully better setting expectations on what Dogecoin is intended for. We really want to be a good currency; not a get rich quick scheme.
+
+What might we see happen in the Dogecoin ecosystem over the next 12 months?
+
+As Max put it, if we could tell you what’s happening 12 months from now, we’d be retired on a beach somewhere drinking cocktails. We’ll just have to see how things go 🙂

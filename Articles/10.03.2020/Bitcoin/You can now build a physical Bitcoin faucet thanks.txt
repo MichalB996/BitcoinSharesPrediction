@@ -1,0 +1,27 @@
+DATE:  10.03.2020, 13:09:44
+TITLE: You can now build a physical Bitcoin faucet thanks to GitHub
+URL:   https://decrypt.co/21921/bitcoin-faucet-github-designs-rewards-3d-printing
+
+Looking to build upon the awareness-raising intentions of the original Bitcoin faucet, one GitHub user has designed a physical Bitcoin rewards system that you can build yourself.
+
+Bitcoin faucets traditionally involved websites rewarding users in Bitcoin for undertaking simple tasks such as completing a CAPTCHA. These novel schemes were initially designed to incentivize and spread awareness of BTC.
+
+The concept was originally devised in 2014, by early Bitcoin contributor Gavin Andresen. Known simply as 'The Bitcoin Faucet,' Andresen's Bitcoin-centric brainchild paid out an extensive 5 BTC per person ($40,500 at press time). Nowadays, the reward has scaled with inflation, typically paying out a comparatively diminutive satoshi—or a hundredth of a millionth BTC—per person.
+
+Up until recently, these rewards systems were mostly confined to apps and websites. However, thanks to the innovation of one GitHub user dubbed Tbruno25, you can now create your own physical Bitcoin faucet.
+
+The Bitcoin faucet in action.
+
+The set up requires a fairly simplistic array of components, including a Raspberry Pi, a camera module, and a 2.8″ touch LCD screen—oh, and a 3d printer. That's because Tbruno25 includes designs for a sleek 3D printed stand, adding a certain flair to the finished product.
+
+Using the faucet is relatively painless. Simply tap on the screen, and scan your Bitcoin wallet's QR code via the device's camera. Several seconds later, the faucet will show it's own QR code, scan that, and the device will share the transaction details depicting your freshly deposited satoshis.
+
+The first physical Bitcoin faucet
+
+Though the most recent, and—thanks to the 3d-printed case, the most stylish—this isn't the first attempt at a physical Bitcoin faucet. Shortly after Adressen unveiled his designs in 2014, a physical faucet was spotted at the Art Basel museum in Miami.
+
+The world's first physical Bitcoin faucet appeared at Art Basel in Miami in 2014.
+
+Created by Bitcoin ATM operator BitStop, the faucet was installed in the Art Basel as a method of tipping the curated artists.
+
+According to a 2014 Reddit thread, the faucet sent around $1 to a user's BTC wallet. In turn, this was used to tip artists whose work included a QR code representing a Bitcoin wallet.

@@ -1,0 +1,53 @@
+DATE:  18.01.2019, 13:45:11
+TITLE: The Bitcoin Cash Mining Death Spiral Scenario
+URL:   https://coinjournal.net/the-bitcoin-cash-mining-death-spiral-scenario/
+
+The concept of a bitcoin mining death spiral has been around for many years. The basic idea is a large number of bitcoin miners may stop mining at nearly the same time because their activity is no longer profitable. Due to the way the Bitcoin protocol works, this would theoretically grind the network to a halt. Faith in the Bitcoin network would then collapse, meaning the price would also fall, which would lead to even more miners leaving the network. These two feedback mechanisms would then build off each other as the price continued to spiral towards zero.
+
+There are a variety of issues with this theory, and you can read about them in last month’s post debunking this argument.
+
+One interesting aspect of the FUD around a bitcoin mining death spiral is that it was promoted by supporters of the Bitcoin Cash (Bitcash) altcoin a few months after its launch. The idea was Bitcash (BCH) was going to attract so many miners away from Bitcoin that it would cause this once-theoretical death spiral scenario to take place in the real world.
+
+This mining death spiral never came to pass, but now there are indications that Bitcash may face a different type of mining death spiral in 2019.
+
+A Lesson from the 51% Attack on Ethereum Classic
+
+Recently, Litecoin creator Charlie Lee discussed 51% attacks with Laura Shin on her Unconfirmed podcast due to the double-spends on the Ethereum Classic network from earlier this month. One of the key points Lee discussed during this interview was that it’s important to not be a minority coin for a specific hashing algorithm.
+
+Crypto asset networks that use proof-of-work (PoW) as their mechanism for achieving consensus on transaction ordering choose a specific algorithm for the mining process. ASIC mining hardware is built for these algorithms in mind, not necessarily a specific coin. This means the hardware can be used on multiple networks that use the same hashing algorithm.
+
+The danger here is that some crypto asset networks are much larger than others, which puts the smaller ones in danger. This was evident with the recent attacks on the Ethereum Classic network. While Ethereum and Ethereum Classic use the same hashing algorithm, the Ethereum Classic network only has around 5% of the Ethereum network’s level of computing power, according to BitInfoCharts.
+
+“Being the dominant coin in the mining algorithm is important because the miners that own the mining machines will not attack a coin and kill their goose that lays the golden egg,” explained Lee in his recent chat with Shin. “If you attack Litecoin — if you have 51% of all Scrypt ASICs and use it to attack Litecoin and you kill Litecoin, then you basically make all your mining hardware useless because it can’t really make much money from mining something else.”
+
+Ethereum miners are able to attack the Ethereum Classic chain without too much worry because they’ll still be able to mine the Ethereum chain once the attack is over. In other words, miners can always fall back on the dominant chain. This skews the incentives associated with PoW-based crypto asset networks.
+
+“The idea behind Nakamoto Consensus is miners will not have incentives to attack the coin because it will destroy their investment,” added Lee in his conversation with Shin. “They’ll make more money just mining normally, but that breaks down when your coin is like 5% or 2% of the [total hashrate for a particular algorithm] and you can just rent it out easily. Then there are incentives to attack that coin.”
+
+How Can Bitcoin Cash Be Seen as Secure?
+
+With all of this in mind, let’s take a look at the Bitcash network in relation to the Bitcoin network. Both of these networks use the SHA-256 hashing algorithm, which means the minority chain could be in trouble.
+
+Currently, Bitcash’s network hashrate is a little less than 4% the size of Bitcoin’s, which means the difference here is even larger than what’s seen with the Ethereum and Ethereum Classic networks.
+
+As a side note, Bitcash also has less hashpower than some other SHA-256-based crypto assets such as Namecoin and Unobtanium due to these networks’ use of merged mining.
+
+So, the Bitcash mining death spiral scenario is one where faith in the reliability of the network falls as more people realize it is not secure and susceptible to the same sorts of double-spending attacks that have been seen more frequently on a variety of other altcoin networks over the past year or two. As people lose faith in Bitcash, the price should fall, which should lower the network’s share of the total SHA-256 hashrate further. This then has a cascading effect with further drops in price and hashrate.
+
+For those who think the Bitcoin and Bitcash networks are filled with benevolent miners, it should be remembered that GBMiners once held around 5% of the Bitcoin network hashrate. GBMiners was owned and operated by Amit Bhardwaj, who last year was arrested for operating a Ponzi scheme that CoinJournal first reported on in January 2017.
+
+5% of Bitcoin’s network hashrate today would be more than enough to conduct a 51% attack on the Bitcash network. What would Bhardwaj decide to do with that computing power if he were in control of it today?
+
+But Does Any of This Matter?
+
+There are a few potential issues with the Bitcash mining death spiral theory.
+
+For one, previously executed 51% attacks do not appear to have harmed the targeted networks in terms of price all that much. For example, Ethereum Classic is still in the top 20 crypto assets listed by current market cap, according to Messari’s OnChainFX.
+
+Additionally, the Bitcash network is unique in that it has a number of ideologically-driven miners willing to support the network. For example, there were entitites willing to mine on the Bitcash network at a loss in order to defend it against a possible attack from Bitcoin SV-supporting miners back in November.
+
+Additionally, Bitcoin ABC, which is a full node software client for the Bitcash network, released an update that included the use of checkpoints back in November. These basically ensure that large reorganizations like what was recently seen on the Ethereum Classic network are ignored by upgraded nodes; however, according to BitMEX Research, it’s unclear if this change will turn out to be a net positive.
+
+It’s also much more difficult to obtain hashing power for an attack on a SHA-256-based crypto asset network. In the case of Ethereum Classic and many other altcoins, the hashpower can simply be rented from a service like Nicehash.
+
+Even with these counterpoints in mind, it’s still clear that the security of the Bitcash network is questionable due to Bitcoin’s dominance of the SHA-256 hashing algorithm. This is not to say the Bitcash mining death spiral scenario will play out in 2019, but the possibility of it occurring certainly exists.

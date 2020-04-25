@@ -1,0 +1,43 @@
+DATE:  24.05.2019, 21:17:18
+TITLE: Bitcoin Cash Miners Undo Attacker’s Transactions With ‘51% Attack’
+URL:   https://www.coindesk.com/bitcoin-cash-miners-undo-attackers-transactions-with-51-attack
+
+Two bitcoin cash (BCH) mining pools recently carried out what is known as a 51 percent attack on the blockchain in an apparent effort to reverse another miner’s transactions.
+
+The move is tied to the bitcoin cash network hard fork that occurred on May 15. The two mining pools — BTC.com and BTC.top — carried out the move in order to stop the unknown miner from taking coins that they weren’t supposed to have access to in the wake of the code change. That day, an attacker took advantage of a bug unrelated to the upgrade (and subsequently patched) that caused the network to split and for miners to mine empty blocks for a brief time.
+
+In the context of cryptocurrencies like bitcoin cash, a 51 percent attack involves an entity or group controlling a majority of the hash rate which thereby allows them to execute several things they aren’t normally allowed to do, such as attempting to rewrite the network’s transaction history.
+
+It’s long been a controversial topic and other cryptocurrencies have suffered similar attacks due to a decline in their hash rates.
+
+At one point BTC.top did alone control more than 50% of the power. But BTC.com and BTC.top they were able to join together to reverse the blocks of transactions. According to stats site Coin.Dance, the two mining pools currently have combined 44% of bitcoin cash hashing power.
+
+The interesting part of this particular attack on bitcoin cash, though, is that it was arguably executed in an attempt to do something ostensibly good for the community, not to reward the attackers or to take the funds for themselves.
+
+But not everyone in the bitcoin cash community agrees. As one bitcoin cash developer, going by the moniker Kiarahpromises, put it in an article from May 17:
+
+“To coordinate a reorg to revert unknown’s transactions. This is a 51% attack. The absolutely worst attack possible. It’s there in the whitepaper. What about (miner and developer) decentralized and uncensorable cash? Only when convenient?”
+
+Anatomy of an attack
+
+The inner details of the mining pools’ attack (as well as the attack that prompted the attack) are complicated.
+
+“Since the original split in 2017, there has been a significant number of coins accidentally sent to ‘anyone can spend’ addresses (due to [transaction] compatibility of sigs, but no #SegWit on #BCH), or possibly they’ve been replayed from #Bitcoin onto the #BCH network,” bitcoin podcast host Guy Swann said, explaining the situation on Twitter.
+
+But once one code change was removed during bitcoin cash’s May 15 hard fork, these coins were suddenly spendable “basically handing the coins to miners,” he added.
+
+The unknown miner attacker decided to try to take the coins. That’s when BTC.top and BTC.com swooped in to reverse those transactions.
+
+“When the unknown miner tried to take the coins themselves, [BTC.top and BTC.com] saw & immediately decided to re-organize and remove these [transactions], in favor of their own [transactions], spending the same P2SH coins, [and] many others,” Swann went on.
+
+But some bitcoin cash users argue this was the right thing to do.
+
+“This is a very unfortunate situation, but it is also what proof of work actually is. The miners in this case did choose to drop prohashes block and from what I heard, it is because they deemed a transaction within it to have been invalid,” responded active bitcoin cash supporter Jonathan Silverblood.
+
+Still, others think that this is a bad sign for bitcoin cash, arguing that the event demonstrates that the cryptocurrency is too centralized.
+
+Yet the thread of a 51 percent attack is a concern shared across proof-of-work crypto networks (and as mentioned above, some blockchains have been left exposed due to falling hash rates). For example, half of bitcoin’s current hashing power is divided among just three mining pools according to stats website Blockchain.
+
+Mining software image via Shutterstock
+
+This article has been updated for clarity.

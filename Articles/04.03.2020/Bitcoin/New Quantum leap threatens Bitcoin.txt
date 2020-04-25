@@ -1,0 +1,21 @@
+DATE:  04.03.2020, 17:16:44
+TITLE: New Quantum leap threatens Bitcoin
+URL:   https://decrypt.co/21235/new-quantum-leap-threatens-bitcoin
+
+Honeywell, a multi-national technologies conglomerate and one of the earliest movers in the computing industry has announced that it will release the world's most powerful quantum computer in the coming months.
+
+The new quantum computer will have a quantum volume of at least 64. Quantum Volume (QV) is a term used to describe the relative power of quantum computers compared to previous models. The metric takes into consideration a variety of different parameters, including the number of quantum bits (qubits) the machine has, in addition to gate error rates, among other things.
+
+Honeywell's new machine is a bigger beast than the previous record-holder—Google's 54-qubit Sycamore processor, unveiled last October.
+
+Honeywell credits its recent achievement to longer-lasting trapped ion qubits, made possible by what the firm describes as its trapped-ion, quantum charge-coupled device architecture.
+
+An encryption breaking machine
+
+One of the major ways in which quantum computers differ from traditional computers used for everyday tasks is the way they process information. By wielding the laws of quantum mechanics to process data, quantum computers are able to solve particular mathematical problems that traditional computers would struggle with, such as identifying huge prime numbers and simulating complex molecules.
+
+There are some concerns that quantum computers like Honeywell's new machine could, at some point, possess the quantum chops necessary to crack strong encryption techniques like SHA-256, the hash function used to secure the Bitcoin blockchain.
+
+If Bitcoin's encryption algorithm were ever cracked, the attacker would be able to rework the Bitcoin blockchain to his/her will, including potentially rewriting previously established blocks and reversing transactions.
+
+However, it appears these concerns can be forestalled for the next decade or so, as current research indicates it will still take around 10 years for quantum computers to scale to a point where they could successfully attack cryptographically secured blockchains. And that's if they can even scale at all.

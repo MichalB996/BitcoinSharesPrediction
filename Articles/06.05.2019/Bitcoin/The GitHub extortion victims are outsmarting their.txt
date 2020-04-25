@@ -1,0 +1,33 @@
+DATE:  06.05.2019, 10:29:52
+TITLE: The GitHub extortion victims are outsmarting their Bitcoin scammers
+URL:   https://thenextweb.com/hardfork/2019/05/06/github-bitcoin-extortion-unsuccessful/
+
+Blackmailers have been wiping GitHub repositories and withholding code to extort Bitcoin BTC from their victims. Over 390 respos have been affected, but so far, the attackers haven’t made enough to even buy a coffee.
+
+The Bitcoin address the scammers list in their ransom note has received only one payment on May 3, and that was for just 0.00052525BTC ($2.95 at the time of writing).
+
+Extortionist’s Bitcoin address
+
+According to Bleeping Computer, the scammers are believed to have gained access to a number of code repositories – including GitHub, GitLab, and Bitbucket – by using account credentials leaked from a third-party repository management service.
+
+The attackers have gone on to wipe the code and commit history from the repos, leaving behind just one file which contains the ransom note.
+
+Credit: Bleeping Computer GitHub extortionist ransom note
+
+The blackmailers are demanding 0.1BTC ($560 at the time of writing) from their victims, promising to restore the stolen repository when they receive the ransom. Though one GitLab user has found that the code isn’t really deleted, and has managed to recover their repository.
+
+While it’s possible that hackers generated a new address for each ransom note, this address has been used by attackers on GitHub and GitLab. It’s also received over 35 reports on Bitcoin Abuse.
+
+It seems that none of the owners of the 390 affected repos have fallen for the attacker’s extortion attempts so far.
+
+Judging by the ransom fees the hackers have gathered so far, it seems programmers aren’t the best people to target with silly extortion scams.
+
+The latest in Bitcoin extortion scams
+
+Online extortion scams in which attackers demand Bitcoin as a ransom are nothing new. One of the most prevalent attacks is the Bitcoin sextortion scam.
+
+In this con, attackers claim to have hacked their victim’s webcams which they used to film them enjoying some “personal time.” They threaten to release the footage unless the victim pays a Bitcoin ransom. Hard Fork reported in February that the blackmailers had earned over $332,000 using this scam.
+
+Thankfully though, on this occasion GitHub users are a savvy to the scammer‘s shady tactics.
+
+Did you know? Hard Fork has its own stage at TNW2019, our tech conference in Amsterdam. Check it out.

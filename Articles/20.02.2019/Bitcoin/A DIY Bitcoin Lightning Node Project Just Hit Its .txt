@@ -1,0 +1,29 @@
+DATE:  20.02.2019, 22:35:32
+TITLE: A DIY Bitcoin Lightning Node Project Just Hit Its 1.0 Milestone
+URL:   https://www.coindesk.com/a-diy-bitcoin-lightning-node-project-just-hit-its-1-0-milestone
+
+A project aiming to empower people to build nodes that can send and route payments on bitcoin’s in-development lightning network has officially released version 1.0 of its code.
+
+Announced this week, RaspiBlitz has published finalized instructions for building a lightning node on a tiny hobbyist computer called a raspberry pi. Often used for custom tech projects, the raspberry pi toolkit aims to enable the creation of nodes that can send and secure small bitcoin payments in a trustless way.
+
+Setting it apart from other lightning nodes, its final form is equipped with a LCD screen and software that boots up a colorful interface (showing a ASCII lightning symbol and the node’s public key). As such, the finished product arguably gives a more visual window into what’s going on with their lightning node.
+
+Project lead Christian Rootzoll told CoinDesk:
+
+“In general, the version 1.0 signals that I see the RaspiBlitz package is ready to be shared with friends and colleagues for its intended purpose: To set up a bitcoin and lightning node during a workshop, which takes about 3 hours, or as a do-it-yourself (DIY) project over the weekend when you order the parts from Amazon.”
+
+In total, the equipment, including a raspberry pi and memory, costs roughly $100. Some users have even been placing the pis in DIY 3D-printed cases, making the device look like a futuristic terminal.
+
+Image via CryptoCloaks
+
+A lot of lightning users already use RaspiBlitz since it’s the cheapest option for running a bitcoin node, with hackers carving out a corner dedicated to putting them together at the NYC lightning “hackday” last fall.
+
+The raspberry pi device has long been used to power the bitcoin nodes that store full copies of the bitcoin blockchain, making the small computers a vital part of bitcoin’s infrastructure.
+
+Still, Rootzoll admits that “plug-and-play” nodes like Casa are much easier to set up if less technical users want to give lightning a try. Though the disadvantage is they’re more costly at $300.
+
+He concluded:
+
+“For now if you like to have a little hands on and searching for a cheap starting point to become part of the lightning network – the RaspiBlitz project is the choice by a lot of people. And now with version 1.0 the package is ready to be spread across the world.”
+
+RaspiBlitz image via Christian Rootzoll

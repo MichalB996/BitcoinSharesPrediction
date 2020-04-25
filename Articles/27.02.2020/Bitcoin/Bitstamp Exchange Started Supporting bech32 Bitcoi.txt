@@ -1,0 +1,15 @@
+DATE:  27.02.2020, 22:31:08
+TITLE: Bitstamp Exchange Started Supporting bech32 Bitcoin addresses
+URL:   https://bitcoinik.com/bitstamp-exchange-started-supporting-bech32-bitcoin-addresses/
+
+The world’s oldest bitcoin exchange Bitstamp announced to start supporting bech32 format bitcoin addresses on their exchange platform, reported on 27 February 2020.
+
+According to the report, Bitstamp added the full support for SegWit bech32 bitcoin transfers where all the users are now allowed to withdraw their Bitcoin to SegWit bech32 addresses as well as can also generate the new bitcoin deposit addresses in the bech32 format.
+
+Users are allowed to choose between older legacy address format and newly SegWit bech32 address format according to their own wish on the bitcoin deposit page of Bitstamp but the exchange wanted to encourage users to use new bech32 address format as it saves fees or makes transaction confirmation fast, and also more secure as well.
+
+The SegWit bech32 bitcoin address always starts with “bc1” where letters are not case sensitive.
+
+The bech32 address also has a great feature automatic address format checking by which it checks the validity of an address where it protects users from sending bitcoin to an invalid address.
+
+This week, cryptocurrency exchange and service provider Coinbase now allows it’s wallet users to send Bitcoin (BTC) to human-readable addresses (like your name or username) instead of long traditional addresses.

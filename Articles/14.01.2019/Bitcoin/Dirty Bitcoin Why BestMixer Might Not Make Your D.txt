@@ -1,0 +1,49 @@
+DATE:  14.01.2019, 19:11:49
+TITLE: Dirty Bitcoin: Why BestMixer Might Not Make Your Day
+URL:   https://cryptobriefing.com/dirty-btc-bestmixer-make-your-day/
+
+Analysis Dirty Bitcoin: Why BestMixer Might Not Make Your Day by Paddy Baker
+
+Share this article
+
+Your crypto wallet could contain laundered coins, says a firm specializing in cryptocurrency security. BestMixer, a bitcoin tumbler site that provides untraceable cryptocurrency, may have tainted a significant number of wallets by gifting them small amounts of Bitcoin (BTC) – a technique known as ‘crypto dusting.’
+
+In an email-based promotional campaign that began in late October of last year, BestMixer sent small amounts of BTC to wallet addresses, along with a message promoting the tumbler service.
+
+Although the amount sent was often minuscule – between 666 and 888 satoshis – security firm CipherTrace fears it may nonetheless cause severe regulatory issues for the sector. The owners of otherwise-compliant bitcoin wallets, including exchanges and custodial services, could have transacted – without knowledge or consent- with an alleged money launderer.
+
+David Jevans, CipherTrace’s CEO, explained that addresses dealing with sites like BestMixer will likely attract unwanted attention from financial regulators.
+
+Jevans says that not everyone using a tumbler site will have questionable motives, but the presence of illicit transaction outputs could act as a red flag. From a law enforcement perspective, there’s no getting around the fact that “[Wallet] addresses received funds from a known money laundering service”, he said in a call with Crypto Briefing. This can make it difficult to pass legally-mandated AML checks imposed by responsible services.
+
+Tumbler services: The bane of AML
+
+It used to be difficult to trace transactions on a distributed ledger, in which the lack of KYC/AML control made it hard to link an individual to a wallet address. This made it an ideal payments solution for illicit activities. Sites like Silk Road, an online marketplace for controlled substances, became popular largely on the perception that bitcoin is untraceable.
+
+But this is no longer the case. Many popular crypto exchanges began introducing KYC/AML checks for new accounts, enabling crypto tracking services to develop tools and techniques to link wallet addresses to actual identities. Chainalysis, which tracks activity on Bitcoin and Bitcoin Cash (BCH), works closely with authorities, to build profiles based on transaction history.
+
+Excluding privacy coins, cryptocurrency is no longer an anonymous payments solution. Sites like BestMixer enable transactions to remain private by swapping out selected funds with others, making it difficult to track money trails.
+
+In the case of BestMixer, funds are sourced from three separate pools. Depending on the level of privacy required, users can have their funds mixed with those of other users or from the ‘Gamma pool’, the company’s own private reserves.
+
+Funds can be mingled quickly on BestMixer, normally no longer than it takes to receive confirmation on the network. The company also offers a time delay which makes it difficult for blockchain analysts to track and back-trace transactions. Based in the Caribbean island of Curaçao, BestMixer also has the advantage of lax regulations, in a country which the US State Department considers a haven for money laundering.
+
+BestMixer
+
+There has been a push in recent months for crypto services to become more compliant. CipherTrace estimates that around 85% of all crypto exchanges now have some form of checks in place.
+
+This choice is often made under regulatory pressure, and it hasn’t always been good for business. ShapeShift, a coin converter and trading platform, added KYC checks back in September. The company admitted a few days ago that the move led many of their API partners to move elsewhere: “We expected it, but still, it stung both financially and psychologically,” Shapeshift’s Founder and CEO, Erik Voorhees, wrote in an official blog post last week.
+
+There is still a high demand for tumbler services. Jevans explains that setting up something like BestMixer can be relatively straightforward, requiring little more than a laptop. Most typically charge users a 3-5% commission to mix coins. With minimal overheads, this can be a lucrative business.
+
+No solution yet for crypto dusting
+
+There is currently very little users can do to prevent their crypto from being dusted with tainted digital assets. Jevans compares the problem to junk email: future wallets, like inboxes, should be able to automatically filter out transactions from addresses linked to dubious sources or known offenders.
+
+This, Jevans says, should be a priority. The sector has made some important steps towards establishing proper regulatory checks, but it could be for naught if regulators can’t distinguish bad actors from legitimate addresses.
+
+“”Actions matter,” Jevans says. “The more the sector embraces AML, the more the industry will be supported. If they don’t, then crypto will always remain a fringe activity.”
+
+The author is invested in digital assets, including BTC which is mentioned in this article.
+
+Join the conversation on Telegram and Twitter

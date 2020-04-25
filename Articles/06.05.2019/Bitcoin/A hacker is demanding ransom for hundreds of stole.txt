@@ -1,0 +1,13 @@
+DATE:  06.05.2019, 12:59:37
+TITLE: A hacker is demanding ransom for hundreds of stolen Git code repositories
+URL:   https://www.theverge.com/2019/5/6/18531222/hacker-data-theft-ransom-stolen-git-code-bitcoin
+
+Late last week, a hacker stole data from hundreds of Git code repositories and is holding it all for ransom on their servers, threatening to release code to the public if affected owners don’t pay up. GitHub, Bitbucket, and GitLab users who reported that their code had disappeared found the following ransom note in its place:
+
+“To recover your lost code and avoid leaking it: Send us 0.1 Bitcoin (BTC) to our Bitcoin address ES14c7qLb5CYhLMUekctxLgc1FV2Ti9DA and contact us by Email at admin@gitsbackup.com with your Git login and a Proof of Payment. If you are unsure if we have your data, contact us and we will send you a proof. Your code is downloaded and backed up on our servers. If we dont receive your payment in the next 10 Days, we will make your code public or use them otherwise.”
+
+When the ransom note first appeared on Friday, it stated that owners have 10 days to pay 0.1 bitcoin, which is currently about $565. Even though time is winding down until May 13th, there may be a recourse for retrieving your data without paying. Contacting the support line for your service may be helpful in the short and long term, as these companies are always working to address the vulnerabilities through which the hacker found a way in.
+
+If contacting support hasn’t worked out for you yet, ZDNet also points out that a StackExchange user has a few tips on recovering stolen data, though it may be retrieved in a mangled state.
+
+The hacker supposedly combed through the internet for Git config files, then extracted credentials listed in plain text to gain access. The lesson? Don’t store your passwords in plain text. Even the accounts with seemingly hack-proof passwords were at risk. Kathy Wang, GitLab’s director of security, insisted in a statement to ZDNet that users can protect themselves against future attacks like this one by using password management tools locked down with two-factor authentication.

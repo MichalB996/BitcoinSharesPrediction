@@ -1,0 +1,25 @@
+DATE:  21.03.2020, 15:15:29
+TITLE: $2,000,000,000 in Bitcoin (BTC) and Crypto Trading Volume Hits Coinbase During Market Mayhem
+URL:   https://dailyhodl.com/2020/03/21/2000000000-in-bitcoin-btc-and-crypto-trading-volume-hit-coinbase-during-market-mayhem/
+
+‏‏‎
+
+Bitcoin’s incredibly volatile price action last week triggered a huge trading volume spike and record traffic on the crypto exchange Coinbase.
+
+In a 24-hour period between Thursday and Friday, as the price of the top cryptocurrency plunged from around $7,500 to as low as $4,121, the US-based exchange says trading volume topped $2 billion.
+
+CEO Brian Armstrong says months of preparation and improvements have made the exchange far more resilient to major market events and surges in demand.
+
+“Over the last couple years, we’ve invested heavily in increasing reliability and scalability of our systems. This included increasing the redundancy and throughput of our exchange, expanding the capacity of our core products, and improving our internal processes and responses when things go wrong.
+
+This hard work contributed to our stability last week while many platforms, in both crypto and traditional equities, struggled with the increased volume. We set new peak traffic records–50% higher than our previous peak–across a number of our internal systems.”
+
+The San Francisco exchange has also launched batched Bitcoin transactions to reduce demand on the Bitcoin blockchain.
+
+Previously, Coinbase processed a single transaction whenever a user sent BTC. With batched transactions, Coinbase packages multiple send requests into a single transaction before broadcasting it to the Bitcoin network.
+
+‏‏‎
+
+A batch transaction consisting of numerous customer send requests reduces stress on the network by taking up less space in each block when compared to processing sends individually.
+
+According to Coinbase, the new feature has the potential to save users more than 50% on network fees.

@@ -1,0 +1,33 @@
+DATE:  11.03.2020, 14:21:00
+TITLE: Crypto Lending, Explained
+URL:   https://cointelegraph.com/explained/crypto-lending-explained
+
+5. Crypto lending use cases — From beginner to expert
+
+Perhaps the best way to understand how these platforms and markets work is to run through the various ways in which users can participate in them, starting from the most basic and progressing to the most advanced.
+
+Single-platform, single-asset lending
+
+This is the most basic and most commonly used aspect of crypto-lending markets: lending. It’s helpful to check rates across platforms using a tracker like CoinMarketCap’s interest rate tool to find the best returns for the asset you wish to lend. In general, decentralized platforms tend to see high stablecoin interest rates (7%–15%) and lower rates for crypto assets like ETH and BTC (0%–1%), while centralized platforms offer more favorable rates for those crypto assets (2%–6%).
+
+Non-taxable dollar denominated liquidity
+
+For crypto hodlers, there may be a sizable portion of wealth in their portfolio, but selling that crypto when they need cash triggers a taxable event. While this is not tax advice and you should consult a tax consultant for your specific needs, using your crypto as collateral to receive a dollar-pegged loan can be a great way for hodlers to gain liquidity to cover expenses while not losing investment exposure or needing to pay taxes on your gains.
+
+Rate arbitrage
+
+Once again looking at CoinMarketCap, we can see opportunities for interest rate arbitrage, in which you borrow an asset from one platform and lend the asset on another. For instance, at the time of writing, you could borrow ETH on Aave for a 0.55% variable rate and lend on Crypto.com for 6.0%, netting a 5.45% annual ETH profit. This does come with a number of risks, however, as Aave’s variable rate shifts with the market and Crypto.com could shift its rate, potentially eliminating your gains.
+
+Another interesting option here is supplied by CoinLoan, one of the only platforms available that gives you the option to specify lending/borrowing terms on your loan, such as the asset, duration and interest rate. CoinLoan also allows for crypto–crypto borrowing, which opens up additional possibilities over the more standard crypto–stablecoin options offered by other centralized players. This increased customization could be a great way to ensure that your interest rate arbitrage operates more predictably, though CoinLoan does also offer an interest account that provides a simple, no-hassle user experience to earn up to 10.5% on your assets. It also stores your assets in certified, insured and SEC-approved custodians and have their own liquidation system to ensure all parties are protected.
+
+Margin trading/leverage
+
+The rise of crypto lending has also led to the ease of access to leverage, without having to go through a centralized exchange. A user can gain leverage by essentially taking out a loan, purchasing additional collateral and increasing their loan amount on a loop until the limit is reached. This acts as a “long” investment on whatever collateral you’ve chosen. For example, if I use ETH as collateral and sell my loaned, dollar-pegged stablecoin for more ETH, and the price of ETH rises, I still only have to pay back the original dollar amount — even though the ETH has increased in value. This allows me to capture additional profit. Platforms like dYdX make this simple and build it directly into their user interface, allowing you to go either long or short on up to 5x leverage. This is obviously a higher risk strategy, and if the price of ETH moves the wrong way, your collateral might be liquidated to protect lenders.
+
+Flash loans
+
+Flash loans have gained significant attention lately after their usage in the bZx DeFi hack. These flash loans are a financial innovation enabled only through properties of decentralized finance and have a number of interesting use cases. With a flash loan, the user can borrow up to the full amount of free liquidity on a lending protocol, use that loan to execute other operations, and then pay back the loan at the end of the full transaction. If the borrower is unable to repay the full amount, none of the transactions will execute. This is enabled by the database principal of atomicity, in which one failed operation in a series will cause the entire operation to fail. Flash loans can be used for arbitrage opportunities or to shift collateral on a platform like Maker or Compound. To execute a flash loan does require some technical knowledge and ability to compose atomic transactions.
+
+Liquidations
+
+For the even more technically savvy, there is the opportunity to act as a liquidator in the DeFi ecosystem. Liquidators run bots that identify loans that have fallen under the required collateralization ratio and liquidate that collateral to pay back the lender, earning a fee for their services. This is a competitive arena, but there are sizable profits to be made here.

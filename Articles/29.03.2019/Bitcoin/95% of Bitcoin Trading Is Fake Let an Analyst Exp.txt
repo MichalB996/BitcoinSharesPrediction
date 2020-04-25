@@ -1,0 +1,75 @@
+DATE:  29.03.2019, 13:11:29
+TITLE: 95% of Bitcoin Trading Is Fake? Let an Analyst Explain
+URL:   https://breakermag.com/ninety-five-percent-of-bitcoin-trading-is-fake-let-an-analyst-explain/
+
+Matt Hougan is global head of research for Bitwise Asset Management, a San Francisco company that manages four crypto index funds. Bitwise has filed an application with the SEC for a bitcoin exchange-traded fund (ETF), several of which have previously been rejected by the regulator. Nothing particularly novel there, except that its filing included perhaps the most comprehensive analysis of bitcoin trading ever assembled (it runs to 226 pages). Among the conclusions of the report was this startling factoid: across 81 exchanges that Bitwise analyzed, 95 percent of trading appeared to be fake (or, in technical parlance, “non-economic wash trading”).
+
+
+
+To some this points to bitcoin’s fundamental untrustworthiness. To others, including SEC Commissioner Hester Peirce, the report has a more positive message. Five percent of bitcoin trading (or $273 million in daily volume) is real, transparent, and well-organized, on par with the trading of any comparable financial asset. At an NYU event this week, Peirce called the analysis evidence that bitcoin trading occurs in “effective, well-functioning markets,” possibly pointing to a more optimistic outlook for future ETF applications. (In rejecting ETFs previously, the SEC said it lacked the ability to look inside bitcoin markets, thereby potentially putting investors at risk.) We caught up with Hougan to discuss Bitwise’s findings, how it conducted the study, and to talk about the way ahead for ETFs.
+
+Hougan
+
+Your analysis has generated a lot of press and public comment. What do you think of that attention?
+
+We’ve got an amazing response from the ecosystem. We’ve already seen aggregators changing their practices in the data they report and we feel really good about that.
+
+
+
+The headline of 95 percent fake trading volume is shocking to anyone who hasn’t followed closely crypto exchanges.
+
+It is a shocking headline. It’s interesting to walk into a regulator and say in your first sentence that 95 percent of the volume is fake. And in the second sentence we say we’d like you to approve our ETF which tracks bitcoin. From a lay person’s perspective, that’s a confusing juxtaposition. But the reality for those inside the industry is there’s been rumors and a general understanding that a large amount volume is fake for a long time. This is the first time someone has combed through data to prove it systemically, to quantify it.
+
+Only ten exchanges have actual volume.
+
+The real news from your study is not the fake volume, right?
+
+The real news is that if you ignore the echo chambers of fake numbers, the real market is very healthy. One fact is that 95 percent of the volume is fake. The countervailing fact is that the real market is extraordinarily efficient and well developed.
+
+
+
+What did you find that makes you believe the market is healthy?
+
+There’s a near perfect arbitrage in the real bitcoin market. For example, bitcoin trades on Coinbase with a spread of only one penny. That’s a penny on a $4,000 asset. That’s tighter than the spreads for the SPDR Gold Shares ETF (GLD) and the SPDR S&P 500 ETF (SPY), as well as for crude oil futures and S&P 500 futures. Those are all extraordinarily tight markets. It’s just also the case that the real market for bitcoin fits right in line with those kinds of markets.
+
+
+
+That’s the opposite of the common public perception of the market as being disorderly and inefficient.
+
+Right. That’s not true. That’s a perception that’s based on bad data. Once you look at the real data, it’s exceptionally efficient and more of it takes place in the United States and more of it is on markets that have some degree of regulation.
+
+
+
+Get the BREAKERMAG newsletter, a weekly roundup of blockchain business and culture.
+
+Did that message get lost in the reporting of this?
+
+It’s going to take time [to filter through]. We’re not naïve. We knew the headline would be that 95 percent of the market is fake. But as you read through the second day stories that came out, there was a growing appreciation for the real market that is left over after tossing out the fake trading. A large number of people don’t want to get involved with this market because they don’t trust it. And they don’t trust it because the data they’re seeing is wrong. So, we’re aware that the industry has to go through a process where we discard all the noise and the excesses and get to the real market. That journey can be painful. But ultimately it will get us in the right place.
+
+
+
+For what it’s worth, you’re seeing the same thing in other areas of crypto. There were a lot of excesses and bad behavior in the ICO market in 2017 and 2018 and now that market has died down. The SEC is doing enforcement actions against many projects and that market is cleaning up. I think the same thing is happening now in data and we were lucky to be a catalyst for part of that.
+
+
+
+Some of the data reporting has changed since your study went public. What exactly has changed?
+
+CoinMarketCap [which tracks market capitalizations] came up with a notice they are going to be adding new measures to their website. There’s also a new data aggregator called OpenMarketCap that aggregates the volume on our ten exchanges we identified as reporting real trading volumes. OnChainFx is another great website that also shifted to our ten exchanges for their trading data. So, it’s been a pretty immediate response and it’s all been very, very positive.
+
+
+
+What tests did you apply to separate the wheat of real trading from the chaff of fake trading?
+
+One good example is volume spike analysis. That’s a fancy way of saying that the bitcoin market and all the bitcoin exchanges really represent one market. If you look at real exchanges with real volume, the amount of volume on each exchange spikes at about the same time. If there’s news that affects bitcoin, there will be more volume traded on Coinbase, more volume traded on Kraken and more volume traded on Binance—all at the same time. And if you line up the volume numbers on the real exchanges, that’s exactly what you see. If you look at the exchanges we believe are faking data, you don’t see that at all. You see random distributions of data. They don’t react to any market conditions.
+
+"It just doesn’t make sense. And that’s because the volume they are reporting is not real."
+
+Another test we applied is what we call the trade size histogram. People are more likely to trade in whole bitcoin than fractions of bitcoin. On real exchanges, there is more volume at 1.0 bitcoin than at 1.1 bitcoin or 0.9 bitcoin. If you look at the volumes that are being faked, they don’t spike around whole bitcoin numbers.
+
+
+
+You can also do a gut check test to the trading data. Coinbase Pro, a reputable exchange, trades $27 million in bitcoin a day. As I noted earlier, its median spread is one penny. By comparison, CoinBene, the largest reported exchange when we did this review, claimed to have $480 million in volume every day which is 17 or 18 times the volume at Coinbase. And CoinBene’s median spread was over $15. An exchange like CoinBene with larger volume should have a tighter spread and not one that is 1,500 times larger. It just doesn’t make sense. And that’s because the volume they are reporting is not real.
+
+
+
+I think the world may have sensed that what we found may have been the reality regarding bitcoin trading. But having the data to back it up, to quantify it and specify it—people seemed pleased by it.

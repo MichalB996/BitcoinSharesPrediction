@@ -1,0 +1,67 @@
+DATE:  08.03.2020, 21:30:20
+TITLE: Industry Execs Claim Freshly Minted 'Virgin Bitcoins' Fetch 20% Premium
+URL:   https://news.bitcoin.com/industry-execs-freshly-minted-virgin-bitcoins/
+
+Industry Execs Claim Freshly Minted 'Virgin Bitcoins' Fetch 20% Premium
+
+A few blockchain surveillance companies like Cyphertrace have recently published reports on criminal activities tied to bitcoin usage and the studies mentioned the topic of “virgin bitcoins.” According to industry executives, freshly minted bitcoins with no transaction history can sell for a 10-20% premium compared to coins sold on the open market. Even though the subject of ‘clean’ and ‘tainted’ bitcoins is debatable, the following editorial is a look at why virgin bitcoins might be sought after and why institutional investors and even criminals want to acquire bitcoins with no onchain history.
+
+Also read: There’s No Such Thing as Tainted Bitcoins
+
+What Are ‘Virgin Bitcoins?’
+
+Bitcoin transactions are not anonymous and the blockchain provides the world with a record of every transaction that takes place when people send or receive the digital asset. It doesn’t mean that people cannot obfuscate their transaction data by using Tor, VPNs, and mixers like Cashfusion. But most people are unaware of such tools and their transactions can be traced all the way back to the coin’s creation. Freshly minted bitcoins are captured by miners hashing away at the network in hopes they acquire a new block. When a miner finds a block, the mining operation or pool is rewarded 12.5 coins per block. The coinbase reward of 12.5 bitcoins is comprised of coins that have never been transacted, as they are brand new and untouched. Cryptocurrency enthusiasts have called these new coins “virgin bitcoins” and there are claims that institutional investors will pay a 10-20% premium to get their hands on untouched crypto.
+
+In June 2019, the CEO of Babel Finance, Flex Yang, discussed the subject of virgin bitcoins with reporter Shiraz Jagati. Yang explained during the interview that virgin bitcoins were essentially tokens with no transaction history and this can be quite valuable to certain entities. Yang noted that virgin bitcoin buyers stem from the U.S. and other regions with stricter regulations. The sellers, of course, derive from mostly Chinese miners mining bitcoins on the mainland in areas like Sichuan. “Buyers may be pursuing these coins because of their novelty as well as the perceived ease-of-compliance in regulatory uncertainty. In truth, virgin bitcoin might not benefit family funds or intuitions/individuals making the purchase,” Yang stressed. The Babel Finance founder highlighted:
+
+There is clearly more confidence in virgin (or white) coins and they continue to fetch high premiums as a result.
+
+Jagati not only spoke with Yang but also conversed with Dave Jevans, the CEO of the blockchain surveillance firm Ciphertrace about the subject of virgin bitcoins. Jevans explained that coins that have traversed the darknet (dark tx) can render a coin unclean. Not only are institutions searching for virgin bitcoins, but criminal entities find untouched coins valuable because they mask assets acquired illegally.
+
+“Dark tx histories also impede the fungibility of the btc if these tokens have a lower value,” Jevans said in July. “This a big concern for hedge funds that are concerned that their entire fund could be tainted by a few bad tokens. While this is less likely to affect those holding small amounts, larger traders could potentially, and unwittingly, hold larger amounts of stolen assets, lowering the value of their investment pool through association.”
+
+The Babel Finance founder Flex Yang also wrote a comprehensive opinion editorial on the subject of virgin bitcoins. Yang noted that stricter regulations might create even more demand for so-called ‘clean’ bitcoins.
+
+TIL: Virgin Bitcoin 👉Bitcoin that is freshly mined 👉Institutional investors and large buyers prefer Virgin Bitcoins as they do not have any risk of shady past. I think it'll be seen as a status symbol in the future if you're a hodler of Virgin Bitcoins #btc #bitcoin — Nischal (WazirX) ⚡️ (@NischalShetty) July 20, 2019
+
+Black, Gray, White, Virgin, and Sanitized Bitcoins
+
+Four months ago on the Reddit forum r/btc, one user explained that he feels the same way as Yang and he expects all types of subjective valuations will be applied to certain bitcoins. The Redditor believes that at first, the concept of virgin bitcoins might sound like “snake oil,” but in the future, blockchain forensics companies will probably classify UTXOs into several categories. The Redditor u/rattie_ok also wrote a draft of what the classifications might look like to firms like Ciphertrace and Chainalysis. He said:
+
+2% of all bitcoins: Black – located on, or several hops away from, a known darknet/blacklisted address. These could be spent in black markets only. Exchanges and banks would immediately freeze these coins at deposit, and open an investigation with authorities.
+
+– located on, or several hops away from, a known darknet/blacklisted address. These could be spent in black markets only. Exchanges and banks would immediately freeze these coins at deposit, and open an investigation with authorities. 40% of all bitcoins: Gray – coins of untraceable origin, assumed to be mixed. Extreme KYC/KCOYC/AML vetting will be required to trade or sell these coins in the “normal” world. Legally operating merchants in some countries would need to ID you before accepting payment.
+
+– coins of untraceable origin, assumed to be mixed. Extreme KYC/KCOYC/AML vetting will be required to trade or sell these coins in the “normal” world. Legally operating merchants in some countries would need to ID you before accepting payment. 55% of all Bitcoins: White – coins with a fully traceable origin, right from the moment they were mined or bought from a KYC/AML exchange. In the distant future, owning whitelisted coins would allow nation-states to practice “legal ownership” laws by forcing miners to accept only transactions signed by a trusted (central) bank. You’d be able to reverse an illegal tx, same way you can now reverse a Visa or Paypal transaction.
+
+– coins with a fully traceable origin, right from the moment they were mined or bought from a KYC/AML exchange. In the distant future, owning whitelisted coins would allow nation-states to practice “legal ownership” laws by forcing miners to accept only transactions signed by a trusted (central) bank. You’d be able to reverse an illegal tx, same way you can now reverse a Visa or Paypal transaction. 3% of all bitcoins: Virgin – coins with zero transactions. These would be used as collectibles or as monetary reserves in case bitcoin replaces physical gold.
+
+After understanding why institutions and even criminal entities would want virgin bitcoins, people might wonder why an investor like Tim Draper would purchase 30,000 Silk Road BTC when they were used in many darknet transactions. However, those coins acquired in the United States Marshals’ auction are now considered “sanitized” by government agents. They can be considered sanitized because the once ‘tainted’ coins passed through the hands of the government and therefore the history of that event is 100% evident on the BTC blockchain. However, the concept of tainted coins might only derive from blockchain forensic firms and law enforcement, as news.Bitcoin.com’s Kai Sedgwick points out in his recent oped “There’s No Such Thing as Tainted Bitcoins.”
+
+“The reality, however, is far different, for ‘taint’ is solely in the eyes of the beholder – and most beholders aren’t Chainalysis,” Sedgwick stressed.
+
+Is the Concept of Virgin Bitcoins a Myth?
+
+On December 2, 2019, Coin Metrics founder Nic Carter tweeted about a recently published “On the Brink” podcast with the cofounder of CMS Holdings, Dan Matuszewski. Before he started CMS, Matuszewski was the head at Circle Financial’s over-the-counter (OTC) desk Circle Trade. During the episode, Matuszewski discussed the virgin coin market and he said while he worked at Circle Trade he never saw such trends.
+
+The podcast host asked Matuszewski if he ever saw virgin coins sold for a premium. “No, if that happens I’ve never seen it,” Matuszewski said. “People have pitched it to us and I’m like ‘absolutely not’ and I’ve never seen anyone come to us trying to buy them,” he added. “I’ve never seen a demand-side — people who don’t know what they are talking about sometimes asked about [virgin coins] — but it was never pitched in a frame as in ‘I only want to buy these and I’m willing to pay more.”
+
+For a while now, people have debated the existence of the virgin bitcoin market and whether people actually pay a premium for coins that haven’t transacted. If there is a market for virgin bitcoins someone might wonder where they could obtain coins with no history behind them. Tainted coins are not the only types of crypto that might carry numismatic value, as there’s all types of nostalgia that make some bitcoins worth more than others in the eyes of the beholder.
+
+In Order to Obtain Virgin Bitcoins, You’ll Need a Direct Connection With a Miner
+
+In order to acquire freshly issued coinbase rewards, a person or organization would need to be partnered with a mining operation that collects these rewards directly. The connection between the buyer and the miner has to be more direct than simply signing up for a pool that distributes fractions of digital currency to all its participating members.
+
+Get ready by smart regulators considering only virgin Bitcoins mined in US/Canada and EU be accepted into ETF to comply with AML laws and stop China and or Russian minted coins to not be sold to American investors https://t.co/PqE9ZYt6RI — Frank Holmes (@bulldogholmes) August 24, 2018
+
+Miners also get the fees associated with transactions in addition to the 12.5 bitcoin reward and they are often used for distribution. Just because you are a cloud mining participant or a member of a pool, the pool owner probably won’t give you or other participants the freshly minted coin. In fact, data from the analytical website bytetree.com shows that months before the upcoming BTC and BCH halvings, rewards have been hoarded. This trend can be seen on a chart that shows generated coins and the first time they are spent onchain.
+
+Despite the fact that Matuszewski never witnessed the virgin bitcoin trend during his tenure at Circle Trade, it doesn’t mean the demand for untouched coins doesn’t exist. Ciphertrace and Babel Finance CEOs and a few other members of the crypto industry believe that virgin coins have greater numismatic value. There are even trading platforms like Vertex.market that claim that they can obtain virgin bitcoins for customers if they desire. Some people also believe that a regulated exchange-traded fund (ETF) in the U.S. will need virgin bitcoins to comply with AML laws.
+
+What do you think about the subject of virgin bitcoins? Do you think that there’s a significant demand for coins that haven’t transacted or do you think it’s a myth? Let us know what you think about this subject in the comments section below.
+
+Disclaimer: This article is for informational purposes only. It is not an offer or solicitation of an offer to buy or sell, or a recommendation, endorsement, or sponsorship of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.
+
+Image credits: Shutterstock, Coindesk, Fair Use, Wiki Commons, Bitcoin.com, bytetree.com, Twitter, Reddit, and Pixabay.
+
+Want to create your own secure cold storage paper wallet? Check our tools section. You can also enjoy the easiest way to buy Bitcoin online with us. Download your free Bitcoin wallet and head to our Purchase Bitcoin page where you can buy BCH and BTC securely. Did you also know you can earn BTC and BCH through Bitcoin Mining? If you already own hardware, connect it to our powerful Bitcoin mining pool. If not, you can easily get started through one of our flexible Bitcoin cloud mining contracts.

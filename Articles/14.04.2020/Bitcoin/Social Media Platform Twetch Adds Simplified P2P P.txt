@@ -1,0 +1,17 @@
+DATE:  14.04.2020, 09:01:42
+TITLE: Social Media Platform Twetch Adds Simplified P2P Payments
+URL:   https://theblockchainland.com/2020/04/14/social-media-twetch-simplified-p2p-payments/
+
+Blockchain-based social media platform Twetch follows a model of monetizing content creation for users and peer-to-peer (P2P) rewards. Twetch uses the Bitcoin SV blockchain and has revealed a new feature – P2P Bitcoin SV (BSV) cryptocurrency payments that can be transacted by simply entering a command line of text.
+
+Twetch is currently in development and in private beta mode which launched in May 2019, but interested users can request an invite to join the platform. It’s a social media platform similar to Twitter, but users will pay to post their content and receive payments for likes and followers.
+
+As per CoinGeek, at the time of its writing, creating a new text-only post or comment will cost $0.02. A post with an image will cost $0.07. Fees are paid through a quick process and by connecting to the “Money Button” wallet. Content creators can recoup their costs and earn money as post likes cost $0.10 with $0.09 going to the content creator, replies earn the content creator $0.01. Posts that go “viral” on the platform stand a chance of receiving the content creator a decent reward.
+
+The idea follows one of blockchain’s promises, removing third parties on the internet and allowing instead content creators and data owners to earn money directly for their efforts. Twetch has the usual browse and search functions, as well as user profiles where you can see how much they’ve earned.
+
+Each post on Twetch is written to the Bitcoin SV blockchain and users can review the transaction ID and network block of each post. Bitcoin SV, Bitcoin Satoshi’s Vision, emerged from the hard fork of Bitcoin Cash (BCH) in November 2018 and is led by Craig Wright. The project aims to follow the original emphasis of Bitcoin and Wright has a vision for a “metanet,” a blockchain version of the internet where all activity is recorded via blockchain.
+
+Twetch says writing data and content to its blockchain offers users full control. CEO and founder Josh Petty, as per CoinTelegraph, describes the platform as “an interface to publish and view information on Bitcoin [SV].” He also says the platform helps in the fight against fake news by disincentivizing the use of bots in social media.
+
+The new Twetch feature allows users to send BSV within its application using the command line ‘/pay’, combined with a user’s tag and the value of the transfer. Twetch has also added a “read API,” to its software development kit (SDK) published on Github which allows developers to create customized Twetch clients.

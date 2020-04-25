@@ -1,0 +1,29 @@
+DATE:  19.05.2019, 21:45:15
+TITLE: Bitcoin Cash Devs Publish the First 3 of 3 Multi-Sig Schnorr Transaction
+URL:   https://news.bitcoin.com/bitcoin-cash-devs-publish-the-first-3-of-3-multi-sig-schnorr-transaction/
+
+Bitcoin Cash Devs Publish the First 3 of 3 Multi-Sig Schnorr Transaction
+
+On May 15, the Bitcoin Cash network successfully upgraded by implementing Schnorr signatures, after which a few developers processed some basic Schnorr signatures. Then, on Saturday, May 18, software developers Chris Pacia, Mark Lundeberg, and Checksum0 performed the first multi-sig Schnorr signature on BCH and sent the funds to Freeross.org.
+
+Also Read: After Trillions Printed Under QE, Politicians Now Say Deficits Don’t Matter
+
+A Multi-Sig Schnorr Transaction With a P2PKH Output
+
+This weekend, Openbazaar and Bchd full node developer Chris Pacia announced the first 3 of 3 multi-signature in a Pays To PubKey Hash (P2PKH) output. Developers Checksum0 and Mark Lundeberg helped process the transaction and the funds were sent to the Ross Ulbricht defense fund. “Mark Lundeberg, Chris Pacia and I made the first Schnorr multi-signature in history — The transaction is a donation to Free Ross — Proof will be published shortly,” explained Checksum before the transaction confirmed. Then, sure enough, the multi-sig transaction published to the chain and contained an opreturn message which read:
+
+BCH is about giving people the freedom to make their own choices, to pursue their own happiness, however they individually see fit.
+
+Privacy-Enhancing Transactions
+
+As of block 582680, the BCH chain had implemented the new Schnorr signature features, bringing the very basics of Schnorr to the table. With the help of another future Schnorr related upgrade, BCH developers will be able to implement public signature aggregation and complex sign-to-contract concepts. Public signature aggregation could bolster scaling immensely and more trivial smart contract ideas like Graftroot and Taproot could increase BCH privacy a great deal. However, there are still pretty cool applications that can happen today like hidden payment channels and atomic swaps. This includes the 3 of 3 multi-signature P2PKH output performed by the three developers. In another instance, Mark Lundeberg showed a Schnorr signature transaction on Twitter that highlighted Schnorr’s privacy-enhancing attributes.
+
+“A Schnorr-signed transaction — Was it a secret payment channel closure?” Lundeberg asked on Twitter. “Did hundred parties sign to make it happen? Did a secret atomic swap occur? Or did I just send coins to myself in a boring txn? You will never find out.”
+
+The BCH community was thrilled to hear the news about the Schnorr multi-sig transaction sent to Freeross.org. Well-known BCH proponent Emergent Reasons said: “More privacy for the win — Nice one.” “I thank BCH for taking steps to restore my individual economic liberty and financial privacy,” another supporter remarked. It’s only been four days and developers have already processed basic Schnorr sigs and the 3 of 3 multi-sig transaction as well. BCH developers will be testing a few different types of Schnorr signatures coupled with other mechanisms in future to further private transactions and create unique transaction types.
+
+What do you think about the first multi-sig transaction using Schnorr signatures on the BCH chain? Let us know what you think about this subject in the comments section below.
+
+Image credits: Shutterstock, Twitter, and Bitcoin.com’s Blockchain Explorer.
+
+Want to create your own secure cold storage paper wallet? Check our tools section. You can also enjoy the easiest way to buy Bitcoin online with us. Download your free Bitcoin wallet and head to our Purchase Bitcoin page where you can buy BCH and BTC securely.

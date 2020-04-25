@@ -1,0 +1,145 @@
+DATE:  13.01.2020, 18:47:22
+TITLE: CashFusion and Unequal CoinJoin Transaction Amount
+URL:   https://bitcoinmagazine.com/articles/do-coinjoins-really-require-equal-transaction-amounts-for-privacy-part-one-cashfusion
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+Although Satoshi Nakamoto’s white paper suggests that privacy was a design goal of the Bitcoin protocol, blockchain analysis can often break users’ privacy. This is a problem. Bitcoin users might not necessarily want the world to know where they spend their money, what they earn or how much they own, while businesses may not want to leak transaction details to competitors — to name some examples.
+
+But there are solutions to regain privacy, like CoinJoin. Some of the most popular mixing solutions available today use this trick, including Wasabi Wallet (which leverages ZeroLink) and Samourai Wallet (which leverages Whirlpool). In both cases, users chop their coins into equal amounts to mix them with each other. Using equal amounts is considered a crucial step for the mix to be effective.
+
+However, a new mixing protocol called CashFusion, in development for the Bitcoin Cash network, challenges this assumption. The developers behind the protocol claim that CashFusion offers privacy through CoinJoins without the requirement to only mix equal amounts. If true, this might drastically change how we think about privacy in Bitcoin as well.
+
+If true…
+
+CoinJoin
+
+Let’s start at the beginning. (Or skip this part if you know what CoinJoin is.)
+
+A typical bitcoin transaction has one or several inputs (basically the addresses coins are sent from) and one or several outputs (basically the addresses coins are sent to). If a transaction has more than one input, it’s usually because the sender used several chunks of his coins (UTXOs) to get to the required amount. If a transaction has more than one output, it’s usually because several people are being paid at once (a batched transaction) and/or the payer is sending money back to one of his own addresses as change (because the chunks didn’t add up to the exact right amount; this is often the case).
+
+Unfortunately, a typical transaction as outlined here reveals a lot. For example, it’s easy to conclude that all input addresses belong to the same person, which allows for address clustering. The transaction also shows from which addresses to which addresses coins are moving, revealing a trail of coins over the blockchain. There can be more (subtle) hints, and all are bad for privacy.
+
+A potential solution to this problem, first proposed by Bitcoin Core contributor Gregory Maxwell in 2013, is called CoinJoin. The idea behind CoinJoin is simple: Several independent transactions are merged into one big transaction. So if two transactions have two inputs and two outputs each, this is combined into a single transaction that has four inputs and four outputs. This at least breaks the assumption that all input addresses belong to the same person and could help break the trail of coins as well.
+
+Why Equal Amounts
+
+It is usually assumed that the privacy gains of CoinJoin as described above would be limited, however. In many cases, the amounts sent in the inputs and the amounts received in the outputs can be puzzled together, to rediscover which individual transactions went into the combined CoinJoin transaction.
+
+For example, let’s take two transactions, one from Alice to Carol and one from Bob to Dave. Alice has two chunks of coins worth 2.3 and 1.4 bitcoin, and she wants to pay Carol 3.2 bitcoin. Bob has chunks of 3 and 2 bitcoin, and wants to pay Dave 4 bitcoin.
+
+Simplified, these transactions look like so:
+
+2.3 + 1.4 = 3.2 + 0.5
+
+and
+
+3 + 2 = 4 + 1
+
+(The 0.5 BTC and 1 BTC outputs are change.)
+
+Merged together, the CoinJoin transaction would look like so:
+
+3 + 2.3 + 2 + 1.4 = 4 + 3.2 + 1 + 0.5
+
+Although the transactions were merged, it’s trivial to rediscover which inputs paid which outputs, and, therefore, also which inputs can be matched together as belonging to the same sender. Assuming you know that there are two payers, the amounts can be puzzled together with only one potential configuration: the original transactions.
+
+For this reason, popular mixing solutions like ZeroLink and Whirlpool are limited to mixing equal amounts. No matter what amounts are put into a mix as inputs, the mixed outputs are indistinguishable from one another, which means that any participant could have received any fixed-size chunk of coin.
+
+If the fixed amounts are set at 1 BTC, Alice, Bob, Carol and Dave’s CoinJoin would look like so:
+
+3 + 2.3 + 2 + 1.4 = 1 + 1 + 1 + 1 +1 + 1 + 1 + 1 + 0.5 + 0.2
+
+This is a big improvement, since any of the chunks of 1 could be puzzled back together into either of the two original transactions. It’s not clear which of the 1 BTCs belong to Alice, Bob, Carol or Dave, or even to which pair.
+
+
+
+However, it’s still not perfect, because there are unequal outputs left. These outputs, exactly because they don’t have equal amounts, can still be linked to specific inputs: Alice’s. This also means that Alice’s inputs can be linked to each other. And if, after several mixes, someone combines the unequal outputs in a next transaction, that hurts privacy, too: it links the different chunks to the same person. Moreover, if the unequal outputs are later used in combination with the fixed-amount outputs, these leaks could ruin the initial mixing process itself.
+
+CashFusion
+
+CashFusion, a project by Bitcoin Cash developers Mark Lundeberg and Jonald Fyookball, set out to deal with the “leftover” outputs problem. They initially created this as an addition to CashShuffle, which is an implementation of CoinShuffle for Bitcoin Cash, and mixes equal amounts. The somewhat surprising potential of CashFusion could also mean that it becomes its own standalone mixing protocol, however.
+
+To understand this potential, let’s look at another set of transactions. Let’s say Alice wants to pay Carol 4 coins, and she has two UTXOs worth 2 and 3 coins. Meanwhile, Bob wants to pay Dave 9 coins, and he has two UTXOs worth 7 and 8 coins.
+
+Simplified, these transactions look like so:
+
+3 + 2 = 4 + 1
+
+and
+
+8 + 7 = 9 + 6
+
+Merged together, the CoinJoin transaction would look like so:
+
+8 + 7 + 3 + 2 = 9 + 6 + 4 + 1
+
+Now, from this CoinJoin transaction, it’s possible to puzzle together the original two transactions, of course. However, even if you know that there are two payers, several other combinations are possible as well.
+
+For example:
+
+8 + 2 = 9 + 1
+
+and
+
+7 + 3 = 6 + 4
+
+Or:
+
+8 + 2 = 6 + 4
+
+and
+
+7 + 3 = 9 + 1
+
+
+
+Or:
+
+7 + 2 = 9
+
+and
+
+8 + 3 = 6 + 4 + 1
+
+Or:
+
+7 = 6 + 1
+
+and
+
+8 + 3 + 2 = 9 + 4
+
+For the sake of simplicity, this example only used round numbers. This makes more potential configurations possible but will actually not reflect reality very often. On the flipside, this simplified example only used two original transactions. In reality, a CoinJoin could consist of dozens or even hundreds of original transactions. So while simplified, this simplification both helps and harms the potential of creating multiple configurations.
+
+CashFusion is built around the theory, derived from the field of Combinatorics, that a large enough CoinJoin transaction will often (if not always) offer several different solutions to the puzzle, even when realistic amounts are used. And that, as more inputs and outputs are included, more potential configurations can be derived from it. (This should be especially true if the amounts are in the same ballpark — like 1 BCH — which CashFusion users are encouraged to do for the sake of their own privacy.)
+
+As there are more potential solutions to the puzzle, a blockchain analyst will have a harder time figuring out which solution was the original configuration. This should break the trail of coins and make it harder to link inputs together. As such, it should offer privacy.
+
+To improve this potential, CashFusion includes an extra trick to make it even harder to puzzle together the original configuration: It lets users semi-randomly chop up their outputs into several smaller outputs. So instead of Alice paying Carol one output of 4 coins, Alice could, for example, send Carol outputs of 3 and 1 coin. Bob, instead of paying one output of 9 coins, could send Dave outputs of 5, 3 and 1 coin.
+
+Meanwhile, users are encouraged to provide several inputs as well, perhaps from previous mixes. This allows them to consolidate their smaller chunks into a bigger chunk, without that being obvious on the blockchain. (Alice would, for example, provide inputs of 2 + 2 + 1; Bob would provide inputs of 6 + 5 + 4.) Indeed, consolidating the unequal leftover chunks into bigger outputs was the original idea and serves as the origin of the protocol’s name: CashFusion.
+
+But Does the Assumption Hold Up?
+
+To disappoint you if you read this far looking for a final conclusion: This article will not provide a definitive answer to the question whether CashFusion’s assumptions hold up or not, or to what extent. It seems there isn’t a definitive answer yet. The proposal has gone through relatively little peer review so far, and while the developers behind CashFusion believe their solution offers sufficient privacy, others appear a bit more skeptical.
+
+On the face of it, CashFusion’s approach seems misguided, as earlier unequal amount mixing schemes like Blockchain’s SharedCoin were broken years ago. But the crucial difference, Lundeberg and Fyookball now believe, is that a CashFusion transaction would include more inputs and outputs than a SharedCoin transaction did. Similar to other nonintuitive mathematical quirks like the birthday problem, the number of potential configurations grows exponentially for each added input and output, solving the problem SharedCoin had — though Lundeberg agrees better math proofs will be necessary to properly confirm this.
+
+The CashFusion description itself does include what Lundeberg self-admittedly considers “napkin math,” of which a slightly more advanced version was also published by him on Reddit. These estimates suggest that even with only 10 participants, each providing 10 inputs to be consolidated into one output (for a total of 100 inputs and 10 outputs), the number of possible configurations would, on average, be in the range of 100 quintillion. (That’s a one with twenty zeroes, or 10^20.) Even just computing all of these possibilities would take quite a bit of time — nevermind correctly reestablishing the original transactions.
+
+At the time of writing this article, more research is ongoing; Fyookball recently published his own analysis in this blog post. For now, Lundeberg, Fyookball and others are at least sufficiently convinced of the CashFusion protocol to want to deploy it. An alpha client of the CashFusion software is available for testing; a full release is expected within months.
+
+But others aren’t as convinced. A critique of the proposal is that — even if the 10^20 number (roughly) holds up — not every output of a CashFusion CoinJoin will be equally likely to have come from every input. In other words, while some participants may gain significant privacy, others could gain much less privacy from the same mix. And for any individual user, it’d be difficult to tell whether they are the ones gaining much privacy or not. (This critique and other critiques can be found in this recent bitcoin-dev email thread.)
+
+By contrast, equal-amount mixing offers similar privacy to all participants and results in a maximum number of possible configurations. In a way, equal-amount mixes result in a “perfect” CashFusion CoinJoin and is, therefore, strictly better — if the unequal change problem is ignored.
+
+Still, even if CashFusion would never completely replace equal-amount mixing, it might just help solve the unequal-change issue, as originally intended…
+
+Author’s note: There is a bit more to the CashFusion proposal, like how the CoinJoin transaction is constructed. There are also several more subtle risks and trade-offs when it comes to privacy, like how users handle their coins before and after the mix. For simplicity and readability, this article focuses only on the central and arguably most interesting idea behind CashFusion: unequal-amount mixing.
+
+Thanks to Mark Lundeberg for information and feedback.
+
+Part two of this article will cover another non-equal amount mixing technique called Knapsack.

@@ -1,0 +1,47 @@
+DATE:  17.02.2019, 14:21:22
+TITLE: How to Outwit Blockchain Analysis and Conceal Your Coins
+URL:   https://news.bitcoin.com/how-to-outwit-blockchain-analysis-and-conceal-your-coins/
+
+How to Outwit Blockchain Analysis and Conceal Your Coins
+
+How do you convert bitcoin that’s associated with your identity into coins with no connection to your name? In an era of enhanced blockchain forensics tools, passing your coins through a few addresses and hoping for the best won’t cut it. Reclaiming your right to privacy and to own bitcoin anonymously calls for a smarter and more systematic approach.
+
+Also read: These Exchanges Allow You to Trade Cryptocurrencies Without Knowing You
+
+Conceal Your Coins and Keep Your Privacy
+
+If you’ve got cryptocurrency associated with your name or pseudonym, you might want to remedy that. There are legitimate reasons for doing so, including restoring financial privacy and obfuscating your holdings from friend and foe. With cryptocurrency exchanges increasingly deploying forensics tools from the likes of Chainalysis, you needn’t have done anything wrong to come into possession of “tainted” coins. If coins in your wallet can be mapped back to previous illegal activity, you could find your custodial account frozen or attract scrutiny from law enforcement.
+
+Bitcoins are meant to be fungible, but the creeping concept of taint, thanks to powerful blockchain forensics tools, has eroded this to the extent where freshly mined bitcoins attract a premium because there’s no history associated with them. As Jameson Lopp observed:
+
+There are several surveillance companies now that track funds and apply “taint analysis” to them to tell services how likely it is that funds are from an “illegitimate” source. Of course, these are generally probabilistic educated guesses and can result in innocent users getting caught up in an algorithm’s dragnet. These tools have clearly resulted in many Bitcoin users being deplatformed from various services because they were deemed to be risky customers.
+
+Given the difficulty of purchasing or earning bitcoin anonymously, your only option is often to obfuscate ownership or origin of the funds after the fact. For example, if you’ve purchased bitcoin on an exchange and wish to send it to cold storage in a hardware wallet, there are steps you can take to make it harder for forensics firms to form a connection.
+
+Throw It Through a Mixer
+
+Bitcoin mixers, also known as tumblers, combine inputs from multiple senders which are pooled via a single address and then distributed before being split and sent on to the recipients. Services such as Bestmixer and Bitblender will mask the source of a transaction, but tumblers require trust that the service isn’t a honeypot that’s being used to funnel and track users. Moreover, exchanges such as Coinbase have been known to freeze customer deposits that emanated from a mixer on suspicion of criminality.
+
+Just as using PGP may cause the NSA to take a heightened interest in your online activity, despite encryption being perfectly legal, the same holds true of mixers. They’re useful for obfuscating bitcoin transactions, but shouldn’t be the final hop before you send coins on to their final destination.
+
+Added Anonymity Techniques
+
+Regardless of whether you choose to use a mixer, there are additional steps you should take to mask your transactions and outwit those forensics firms. One of the simplest but most effective ways is by using a service such as Electrum to create a new bitcoin wallet. Send your coins to this address, then connect to the web using the Tor browser, create a new wallet and then send the coins on to this new address. For added privacy, you can repeat this step, sending coins between multiple wallets, while changing the transaction amount and delay between sending each time. This process might seem arduous, and it won’t be practical for everyday use, but for occasions when you want to put some distance between coin source and coin destination, it’s a valuable exercise.
+
+Exchange Your Coins
+
+Cryptocurrency exchanges are generally regarded as enemies of privacy, but they can also be its abettors. Choose an exchange that doesn’t enforce KYC and you can use its hot and cold wallets to effectively serve as a mixer. Better still, trade your bitcoins for altcoins, withdraw them, and then deposit these coins and reverse the process and you’ll throw even the keenest of blockchain analysts off the scent. Non-custodial coin exchangers that don’t require KYC are also good for this purpose. Some people use bitcoin gambling sites to further mix their coins and take receipt of fresh ones.
+
+Choose a Privacy-Conscious Wallet
+
+A final step, for purveyors of fungible bitcoins – or the only step for those who don’t wish to meddle with mixers and coin changers – is to use a privacy-friendly wallet like Wasabi. As previously detailed by news.Bitcoin.com, “you can queue your BTC in Coinjoin, where it will be masked through mixing it with other transactions.” The video below shows how to anonymize bitcoins using Wasabi.
+
+Better bitcoin privacy tools are on their way, but in the meantime, there’s a lot that you can do to keep blockchain forensics services guessing. The more people who mix, tumble, obfuscate and otherwise mask their transactions, the greater the privacy gain for everyone. Reclaiming your financial privacy, even when using pseudonymous cryptocurrency, requires effort. The benefits of owning unseizable, untraceable digital currency, however, make it all worthwhile.
+
+What other techniques do you recommend for increasing privacy and thwarting blockchain forensics? Let us know in the comments section below.
+
+Images courtesy of Shutterstock.
+
+Disclaimer: Bitcoin.com does not endorse nor support these products/services.
+
+Readers should do their own due diligence before taking any actions related to the mentioned companies or any of their affiliates or services. Bitcoin.com is not responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

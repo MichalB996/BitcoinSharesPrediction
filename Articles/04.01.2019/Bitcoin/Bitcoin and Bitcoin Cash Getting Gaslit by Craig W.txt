@@ -1,0 +1,65 @@
+DATE:  04.01.2019, 02:25:46
+TITLE: Bitcoin and Bitcoin Cash Getting Gaslit by Craig Wright and Calvin Ayre?
+URL:   https://cryptoslate.com/bitcoin-and-bitcoin-cash-getting-gaslit-by-craig-wright-and-calvin-ayre/
+
+The two masterminds behind Bitcoin S.V. are once again changing the narrative around Bitcoin; Craig Wright and Calvin Ayre claim that Bitcoin Satoshi’s Vision is the one and only ‘true’ version of Bitcoin.
+
+Craig Wright and Calvin Ayre are former Bitcoin Cash (BCH) loyalists that split from the cryptocurrency to form their own coin, Bitcoin Satoshi’s Vision (BSV). In a fashion similar to Bitcoin Cash’s fork with Bitcoin, the disagreements between Craig Wright and Roger Ver culminated in a bloody split. The Bitcoin ABC version of Bitcoin Cash remained BCH, and Wright’s fork became BSV.
+
+No True Bitcoin
+
+BSV has adopted a ‘no true Scotsman’ stance to its rhetoric. On his own news portal, CoinGeek, Calvin Ayre claims:
+
+“Bitcoin Satoshi Vision (BSV) is today the only Bitcoin implementation that follows Satoshi Nakamoto’s original whitepaper for Peer to Peer Electronic Cash. Bitcoin BSV is the only major public blockchain that maintains the original vision for Bitcoin as fast, frictionless, electronic cash.”
+
+Such a narrative is similar to the one Roger Ver has constructed around Bitcoin Cash, who alleges that BCH is the ‘true’ version of Bitcoin that Satoshi Nakamoto had intended, and that BCH is “the version of Bitcoin that has the most Bitcoin-ness about it.”
+
+Calvin Ayre has echoed these claims, and added that there is an army of people looking to thwart his and Wright’s attempt to build a scalable version of Bitcoin:
+
+“All the anti-scaling forces who were in the Bitcoin world have carved themselves away from Bitcoin and have their own altcoin (inaccurately still using the Bitcoin name unfortunately) which no longer has the original Bitcoin economic model.”
+
+In a double-take of BCH’s strategy, Ayre claims that all other versions of Bitcoin are inaccurately using the name, and have failed to stay true to the original mission of “peer-to-peer electronic cash.”
+
+According to Ayre, there is a legion of anti-scaling forces that exist looking to thwart Bitcoin’s ability to effectively scale for global adoption. All the development that goes towards “unnecessarily complex side chains or second layer solutions,” such as the Lightning Network, is allegedly a wasted effort.
+
+Craig Wright has echoed those opinions. His development company nChain, the company which performs most of the software development for Bitcoin S.V., works closely with Ayre’s mining and media conglomerate CoinGeek.
+
+In a comment directly on this article on CryptoSlate’s Twitter, Wright had the following to say:
+
+“No. It [S.V.] always was [Bitcoin]. Bitcoin does not change Others deviate… and are not bitcoin. [sic]”
+
+At the heart of BSV coalition’s argument is once again what caused Bitcoin Cash to split from Bitcoin Core—the block size limit.
+
+The Block Size Debate
+
+Originally, the block size limit for Bitcoin Core was 1 MB, meaning that no more than 1 MB of transaction data could get processed every 10 or so minutes.
+
+Proponents of big blocks say that larger block sizes would increase transaction throughput manyfold, and that such a solution would allow Bitcoin to scale without off-chain solutions.
+
+Opponents of big blocks say that the hard fork needed to implement big blocks could be catastrophic to Bitcoin and that such an upgrade exposes the Bitcoin network to attacks and higher levels of centralization.
+
+These concerns have some merit. Larger blocks make Bitcoin nodes harder to operate. Currently, to run a node with Bitcoin’s current block size of 2 MB, it requires a download of 200 GB of data to acquire a copy of BItcoin’s entire ledger. This figure increases with each new block added to the blockchain. Meanwhile, The number of Bitcoin nodes has remained steady between 6,000 and 12,000 nodes in 2018.
+
+An increase in block sizes would drastically impact the size of the ledger, consequently making running a node more difficult. This may result in fewer nodes and a higher level of centralization.
+
+On November of 2015, Bitcoin Core’s block limit was increased from 1 MB to 2 MB. This was further increased to 2-4 MB without a hard fork through Segregated Witness (SegWit), which activated August of 2017. However, continued disagreements within the community resulted in Bitcoin Cash’s formation in August of 2017, which increased the block size to 32 MB.
+
+Bitcoin S.V. Quadruples BCH’s Block Size
+
+Now, Bitcoin S.V. wants to pull a ‘Bitcoin Cash’ on its predecessor. In November of 2018, the Wright and Ayre et. al. split from BCH and increased the block size to a whopping 128 MB, with plans to scale as high as 1 TB blocks. Ayre and others have hailed the increase as a panacea to Bitcoin’s scaling woes:
+
+“All of the anti-scaling forces have insisted that they need side chains or bastardized changes to Bitcoin’s original protocol because on-chain scaling using Bitcoin’s original plan was somehow dangerous or impossible? We knew all along that this was a bold faced lie and we are happy to put our money where our mouth is and prove it. [sic]”
+
+Ayre goes on to say that Bitcoin S.V. is the cryptocurrency that will liberate Bitcoin from the “dictatorial protocol developer teams” who control the canonical blockchain.
+
+Yet, it’s uncertain how much merit these scaling claims have. Over 2018, Bitcoin Cash’s median block size seldom exceeded 2 MB, and for the vast majority of the time resided below 100 KB, making its 32 MB block size limit largely redundant. An increase from 32 MB to 128 MB could be even more useless.
+
+Which Bitcoin is the ‘Real’ Bitcoin?
+
+Now, the question boils down to which version of Bitcoin is the ‘true’ version. Peculiar enough, all of them, and none of them.
+
+All versions of the software, including BTC, BCH, and BSV, have deviated away from Satoshi Nakamoto’s original code, from a purist’s point of view. These deviations are expected as the technology matures and improves.
+
+Yet, all versions of Bitcoin have made claims to the brand. And, each of them has similarities to the original by the very nature of forking a blockchain. As such, the debate of which version is the one ‘true’ version is neverending, hinging on which definitions and criteria people decide to use to make the determination.
+
+Ultimately, the ‘real’ version of Bitcoin is the one people find utility in and use. If that’s BTC, BCH, or BSV is largely irrelevant. Each iteration has different pros and cons that people evaluate differently—whether BSV is the ‘true’ version of Bitcoin is up to the community.

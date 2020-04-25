@@ -1,0 +1,45 @@
+DATE:  04.01.2019, 22:00:54
+TITLE: ‘How to Use Bitcoin Anonymously’ Article Gets Banned on Medium
+URL:   https://bitcoinist.com/how-to-use-bitcoin-anonymously-ban-medium/
+
+Online Privacy ‘How to Use Bitcoin Anonymously’ Article Gets Banned on Medium
+
+Publishing platform, Medium, has allegedly jumped on the censorship “ban-wagon”, after suspending an account which posted a Bitcoin anonymity guide. Whilst Medium has not confirmed the reason, several Twitter users have claimed previous account suspensions based on crypto-related content.
+
+Storm In A Teacup
+
+So what can have incurred the wrath of Medium so much that they felt it necessary to wield the ban-hammer? Fortunately, the author reposted the article elsewhere, so we can read it and find out. Even more, fortunately, I’m going to paraphrase it, so you don’t need to bother reading it yourself.
+
+The article has the disclaimer that you may not agree with it, so are welcome to read something else instead. If only Medium allowed us the same freedom of choice to read it in the first place, eh?
+
+Let’s begin…
+
+Privacy is a fundamental human right, although government agencies are increasingly trying to curtail this in the name of security. Because some people use bitcoin for nefarious reasons, they want to monitor all use… but only for your own protection, of course.
+
+So how can we eschew their benevolent intentions and secure our own privacy?
+
+Keeping Your Privates Private
+
+The article recommends always using cash for buying in/out and never using a service that requires AML/KYC. These regulations just tie your physical identity to your Bitcoin address and do little to prevent money laundering. In fact, as confirmed by Bitcoinist on a regular basis, the vast majority of money-laundering occurs through banks.
+
+The guide also stresses that the same Bitcoin address should never be used more than once.
+
+Reusing [Bitcoin] addresses is the virtual version of spreading an STD
+
+Whilst this is an amusing metaphor, it’s hardly contentious, and pretty much standard advice. Oh, and as we’re giving good advice; don’t use wallets with Bloom filters, and do use an anonymity network or VPN.
+
+Medium Jumps on the ‘Ban-Wagon’?
+
+We then move on to the methods used to compromise your privacy, namely Bitcoin forensic analysis, and heuristics. Heuristics are essentially assumptions that are not perfectly correct, but good enough to use, in this case for identification and tracking.
+
+As these are just guesses, there are ways that we can make them unreliable, and minimize the risk. One of these that the article goes into in a great deal of detail is coin-mixing. It recommends staying away from centralized mixing services and gives some suggestions as to alternative CoinJoins.
+
+The guide sits somewhere between basic good advice and perhaps slight overcaution for most users. However, there is little in terms of content that could be considered contentious, or worthy of a suspension.
+
+This being said, the links in the article do all seem to hit pages with endless loading loops. Even typing in the website address to get to the homepage (or any page other than the re-posted article) suffers the same fate.
+
+It is possible that these ‘questionable’ links could have caused a suspension, and it is not recommended to click any of them. Nevertheless, there seems to be a growing trend towards de-platforming by PayPal, Patreon etc. and it would be sad if Medium was also taking this path.
+
+What other methods can you share for increasing Bitcoin privacy? Share them below!
+
+Images courtesy of Shutterstock

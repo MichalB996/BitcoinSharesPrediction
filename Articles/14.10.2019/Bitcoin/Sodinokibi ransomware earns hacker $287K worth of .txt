@@ -1,0 +1,39 @@
+DATE:  14.10.2019, 14:00:57
+TITLE: Sodinokibi ransomware earns hacker $287K worth of Bitcoin in 3 days
+URL:   https://thenextweb.com/hardfork/2019/10/14/sodinokibi-ransomware-earns-hacker-287k-worth-of-bitcoin-in-3-days/
+
+Criminals who distributed the Sodinokibi ransomware threat earned a huge payday from victims who paid the requested Bitcoin ransom.
+
+According to researchers at McAfee, who tracked down several posts published on underground forums, one particular distributor made the equivalent of $287,499 in Bitcoin in just 72 hours.
+
+Researchers found that Sodinokibi has more than 40 active affiliates and that its creators typically get between $700 and $1,500 from every payment.
+
+Additionally, blockchain analysis unearthed several transactions from affiliates to a wallet that contained $4.5 million worth of Bitcoin.
+
+Some of this money was used to purchase illicit goods and services on the dark web, on marketplaces such as Hydra Market.
+
+Image showing the analysis conducted by the researchers to track the Bitcoin BTC payments made by victims.
+
+“Although it might look like spaghetti, once you dive in, very interesting patterns can be discovered. We see victims paying to their assigned wallets; from there it takes an average of two to three transactions before it goes to an ‘affiliate’ or ‘distribution’ wallet,” the researchers explain.
+
+“From that wallet we see the split happening as the moniker ‘UNKN’ mentioned in his forum post we started this article with. The 60 or 70 percent stays with the affiliate and the remaining 40/30 percent is forwarded in multiple transactions towards the actors behind Sodinokibi,” they add.
+
+How does Sodinokibi work?
+
+Unleashed in April this year, Sodinokibi, otherwise known as REvil, is a serious threat.
+
+Initially, the ransomware was seen propagating itself in the wild by exploiting a vulnerability in Oracle’s WebLogic server.
+
+Similarly to other strains of ransomware, Sodinokibi is a Ransomware-as-a-Service (RaaS), which sees a group of people maintain the code and another group, known as affiliates, spread the ransomware.
+
+Ransomware has increasingly made headlines in recent years after several high-profile attacks. Just last week, The Next Web reported on how healthcare providers were facing an unprecedented level of social engineering-driven malware threats.
+
+In fact, several hospitals in the US recently gave in to attackers’ demands and paid the requested ransom, most likely in cryptocurrency.
+
+Although it’s not uncommon for organizations to cough up the funds in order to avoid prolonged disruption, sometimes attacks backfire.
+
+Last week we saw how a ransomware victim who paid Bitcoin to unlock his files took vengeance on his attackers, by hacking them right back.
+
+“We do understand that there are situations in which [company] executives decide to pay the ransom but, by doing that, we keep this business model alive and also fund other criminal markets,” said McAfee‘s researchers.
+
+Want more Hard Fork? Join us in Amsterdam on October 15-17 to discuss blockchain and cryptocurrency with leading experts.

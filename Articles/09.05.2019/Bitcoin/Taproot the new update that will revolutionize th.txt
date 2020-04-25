@@ -1,0 +1,59 @@
+DATE:  09.05.2019, 10:59:05
+TITLE: Taproot, the new update that will revolutionize the Bitcoin blockchain
+URL:   https://cryptoslate.com/taproot-the-new-update-that-will-revolutionize-the-bitcoin-blockchain/
+
+One of the most anticipated updates to Bitcoin’s scripting capabilities, Taproot, could soon see a roll-out on the Bitcoin network. First proposed in 2018, the update would expand the network’s smart contract flexibility and offer unprecedented privacy, enabling even the most complex smart contracts to be virtually indistinguishable from regular transactions.
+
+Solving the problem of complex smart contracts
+
+Despite being the first and most ambitious blockchain projects ever created, Bitcoin has been heavily criticized for its lack of scalability and inability to solve the privacy problems that arise with complex smart contracts.
+
+Bitcoin developers have been working hard for almost a decade to solve these problems and an almost perfect solution to the network’s scripting problems is on the horizon. While several high-profile projects have already been proposed, the most promising one is Taproot.
+
+First proposed back in January 2018 by Gregory Maxwell, a Bitcoin Core contributor and former CTO of Blockstream, Taproot is aimed at expanding Bitcoin’s smart contract flexibility. Apart from offering unprecedented flexibility when it comes to smart contract signatures, Taproot would also allow for more privacy when it comes to transactions.
+
+Such a major innovation is only possible due to Segregated Witness which introduced script versioning, an extension to the Bitcoin protocol that allows new cryptographic signature algorithms to be implemented on the network.
+
+How does Taproot work
+
+To understand how Taproot works, we must go back to the basics of all bitcoin transactions—scripts. Script is a few lines of code embedded in a transaction that goes on a blockchain—it defines how the coins in the transactions can be spent.
+
+Before the coins in the transaction can be spent, a few things need to happen—ownership of the coins must be proven through a signature, a specific block height or date needs to be reached in case of timelocks, or a certain number of private keys out of a set need to provide signatures for the transaction. Any and all of these conditions can be combined to create a very complex smart contract.
+
+The conditions of the smart contract, or scripts, are only visible to the new owner of the coins thanks to pay-to-script hash (P2SH). This enables only a hash of the script, or a seemingly random set of numbers, to be included in the blockchain. However, when the coins are spent, the whole script is ultimately revealed. This means that all of the conditions of the transaction, including those that weren’t met, are revealed to the blockchain.
+
+While pretty straightforward, this process is extremely data heavy and does very little when it comes to protecting the privacy of those transacting on the blockchain.
+
+One of the solutions to this problem is the Merkelized Abstract Syntax Tree or MAST. The proposition is based on Merkle trees, an old, compact data structure that would allow all the different conditions of the transaction to be individually hashed. All of these conditions would be included in a Merkle tree, which would then produce a single hash that would lock the coins, called the Merkle root.
+
+If any data in the Merkle tree is revealed to the blockchain, it could be easily verified by using the Merkle root and additional data in the tree called the Merkle path. However, most other data included in the Merkle tree would remain hashed and hidden.
+
+MAST goes a step further in ensuring privacy and data efficiency, as it only reveals the condition of the transaction that was met.
+
+The Schnorr soft fork protocol upgrade could bring Taproot to life
+
+Pieter Wuille, the CEO of Blockstream and a prominent blockchain developer, explained that Taproot is built directly on MAST and the Merkle branches. In his GitHub proposition, he explained that Taproot would allow almost any smart contract construction to include a condition that enables all participants to agree on an outcome. The participants can cooperate and sign off on a settlement transaction together. This would result in space savings and an increase in scripting privacy at spending time, Wuille noted.
+
+While it does have immense potential on its own, the true power of Taproot only shines through when combined with Schnorr. The innovative signature scheme is currently in development to be deployed as a soft fork and is one of the most anticipated upgrades to the Bitcoin network.
+
+Named after its inventor Claus-Peter Schnorr, the signature scheme is a set of mathematical rules that connect the private key, public key and signature of a transaction together. Schnorr is widely regarded as the best signature scheme in the crypto industry—Wuille acknowledged that it offers an unbeatable level of correctness while not suffering from malleability.
+
+Apart from that, Schnorr signatures are extremely fast to verify, which means faster transaction confirmations and ultimately faster transaction times. However, what makes the biggest difference is its integrated multi-signature support.
+
+Not only can several signatures in the same transaction be combined into one, but both public keys and signatures can be combined into “threshold public keys” and “threshold signatures.” This represents a huge move when it comes to blockchain privacy, as multisig transactions would be virtually indistinguishable from regular transactions.
+
+Where it gets complicated
+
+Most developers are more interested in the signature scheme’s more complex implementations. What Schnorr can do is use data to change both the private and the public key. The change, or tweak, could be as simple as multiplying the two keys by two.
+
+The “ private key x 2” and the “public key x 2” would correspond, and the “ private key x 2” could sign messages that could be verified with the “public key x 2.”
+
+The newly created keys would look like any other pair and it would be impossible to tell if the original keys were tweaked.
+
+On its own, Taproot always includes a condition called the “cooperative close”—all participants in a transaction can cooperate to spend the funds. By utilizing Schnorr signatures, the cooperative close would look like a regular peer-to-peer transaction. This is done by adding together the public keys of all participants in the transactions to create the “threshold public key.” A “threshold signature,” combination of all participants’ signatures, corresponds to this threshold public key and allows the funds to be spent.
+
+However, Schnorr also enables the funds in a transaction to be spent in non-cooperative outcomes. The alternative ways in which the funds can be spent are combined into a different script, which is when hashed and used to tweak the threshold public key. The combination of the threshold public key and script corresponds to the same combination of the threshold signature and script.
+
+The complex structure of such a smart contract enables maximum privacy—the threshold public key x script would look just like a regular public key, etc. Only in a rare occasion where a cooperative close of a transaction proves impossible is the blockchain aware that the public key was, in fact, tweaked.
+
+This protocol upgrade could have a significant impact on the entire Bitcoin network—reduced block sizes would mean faster transactions and reduced transaction fees, making Schnorr the go-to option for everyone on the blockchain.

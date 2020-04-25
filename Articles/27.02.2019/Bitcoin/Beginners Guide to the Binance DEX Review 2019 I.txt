@@ -1,0 +1,175 @@
+DATE:  27.02.2019, 14:35:06
+TITLE: Beginner's Guide to the Binance DEX Review 2019: Is it Safe?
+URL:   https://blockonomi.com/binance-dex-review/
+
+Binance is one of the major success stories of the entire cryptocurrency space and continues to grow at an unrelenting pace. After recently establishing a permanent base in Malta, the leading cryptocurrency exchange has also expanded into Africa with Binance Uganda, and launched a fiat to crypto platform called Binance Jersey.
+
+The team have now released their Decentralized Exchange (DEX) platform on testnet, that will allow users to trade cryptocurrencies while retaining full custody of their own funds. Despite initial concerns regarding just how decentralized the exchange is, Binance continues to set the pace with regards to exchange services and the Binance ecosystem includes a token launch platform and incubator for blockchain projects, multiple education and research portals, an OTC trading desk, and the Trust Wallet mobile application.
+
+Visit Binance DEX
+
+Binance DEX Overview
+
+Binance DEX is an extension of the main Binance.com exchange and provides cryptocurrency traders with further options after the exchange recently launched Binance Uganda and Binance Jersey.
+
+On February 20, 2019, Binance announced the release of their testnet for Binance DEX, which acts as a decentralized order-matching engine based upon Binance Chain technology. In order to create Binance DEX, the team behind the exchange created a new blockchain and peer-to-peer distributed system which sees matching take place within the blockchain nodes with all transactions being recorded on-chain, which helps to maintain a complete, auditable ledger of activity, and allows users to exchange the digital assets issued and listed on the DEX.
+
+As a result of the creation of Binance Chain, Binance Coin (BNB) will cease to be an ERC20 token, and will migrate to Binance Chain and become the new blockchain’s native asset.
+
+Key Features
+
+Functionality – Binance DEX utilises a web-based trading platform, and uses a similar UI to Binance.com. It also incorporates TradingView charts which contain a full range of technical indicators. Furthermore, the platform allows users to create wallets and hold their own private keys, and the DEX also supports alternative software and hardware wallets, and integrates with the Trust Wallet and the Ledger Nano S.
+
+– Binance DEX utilises a web-based trading platform, and uses a similar UI to Binance.com. It also incorporates TradingView charts which contain a full range of technical indicators. Furthermore, the platform allows users to create wallets and hold their own private keys, and the DEX also supports alternative software and hardware wallets, and integrates with the Trust Wallet and the Ledger Nano S. Technology – The exchange relies on the core Binance Chain technology and has one-second block times with near-instant transaction finality. As a result, Binance DEX can support similar trading volumes as Binance.com, although it uses a different matching engine. Binance DEX uses periodic auction to match all available orders, and as the match happens at the same time for all orders with the same price in every auction, it does away with the concept of Makers and Takers.
+
+– The exchange relies on the core Binance Chain technology and has one-second block times with near-instant transaction finality. As a result, Binance DEX can support similar trading volumes as Binance.com, although it uses a different matching engine. Binance DEX uses periodic auction to match all available orders, and as the match happens at the same time for all orders with the same price in every auction, it does away with the concept of Makers and Takers. Security – The platform doesn’t take custody of funds, and traders maintain control of their private keys. Binance Chain uses a Byzantine Fault Tolerance (BFT) and Proof of Stake (PoS) based consensus mechanism that involves a series of qualified validators, and employs a number of anti front running mechanisms to maintain treading integrity.
+
+– The platform doesn’t take custody of funds, and traders maintain control of their private keys. Binance Chain uses a Byzantine Fault Tolerance (BFT) and Proof of Stake (PoS) based consensus mechanism that involves a series of qualified validators, and employs a number of anti front running mechanisms to maintain treading integrity. Customer Support –As a decentralized exchange, Binance DEX is available traders in a wide range of countries, and the team provide a high level of support compared to other competing DEXs. They have provided a Github page and an FAQ section that address a number of key issues. There is also a Forum and the team maintain a Telegram group and Twitter.
+
+How to Get Started on Binance DEX
+
+Despite being on testnet, traders can create a wallet and begin exchanging tokens on Binance DEX testnet, here’s how.
+
+1) Create a Wallet
+
+Head to the official site https://testnet.binance.org/ and click on one of the “Create Wallet” icon.
+
+When you create a wallet on Binance, you are provided with three alternative methods of accessing your wallet, the different formats include:
+
+Keystore File + Password
+
+Mnemonic Phrase
+
+Private Key
+
+Binance requires all users to use the Keystore file + password; and choose between the mnemonic phrase or private key as a secondary method.
+
+In order to create and download your Keystore file, you must enter a password of at least eight characters in length which includes an upper case letter, a symbol, and a number.
+
+From here you will be shown your mnemonic phrase.
+
+You are advised to write down the 24 word sequence and keep it somewhere secret and safe. You will also be given the option to view your private key and you may also want to write it down and store it offline.
+
+Once you confirm that you have recorded the Keystore and private key details, you are ready to unlock your wallet and trade on Binance DEX.
+
+2) Unlock your Wallet
+
+Before placing any trades, you will need to unlock your wallet and this can be done by clicking on any of the relevant tabs.
+
+You may choose one of the three formats, and upload your Keystore file and enter your password, enter your 24 word mnemonic phrase, or enter your private key. However, the last two methods are best used for restoring a lost Keystore file or password.
+
+Binance DEX also allows users to access funds protected by a Ledger Nano S hardware wallet and it’s necessary to connect a Ledger, enter the PIN code and open the Binance Chain app (after downloading it from the Ledger Live manager).
+
+3) Add Funds to Your Testnet Account
+
+In order to add testnet funds to your account, you’ll need to access the testnet faucet and log in to your Binance account.
+
+From here you can enter your testnet address and click on the “+ Add Address” button, you also have the option to send testnet funds to multiple testnet accounts, and when you are ready, press “Submit”.
+
+The 200 testnet BNB funds will be sent soon afterwards, and you can find them in the Transactions section on the DEX. You can also check the process by going to the Binance Chain Explorer and entering your testnet address. Once receipt has been confirmed, you can use these funds on the Binance DEX.
+
+Finally, in order to obtain the 200 BNB testnet funds, you must have a Binance account that retains a minimum of 1 BNB. The 1 BNB will remain in your account and can be withdrawn or traded after requesting testnet BNB for the Binance Chain. The 1 BNB requirement is being used as an anti-spam measure.
+
+How to Trade on Binance DEX
+
+From here you can begin to place trades on the DEX and navigate your way around the interface which will be familiar to you if you have used the main exchange before.
+
+You can start by locating your preferred trading pairs from the box at the top left of the screen.
+
+You can also track the trading volume and trade history from the same section underneath.
+
+After selecting your desired trading pair, you can place a Limit order, the DEX currently only supports these types of orders and the team advise newer traders to go through their tutorial on how to use limit orders.
+
+Information on your Open Orders, Order and Trade History and Balances can be found on the bottom left-hand side of the interface.
+
+When you have completed your trading activity you can click on the user icon at the top right of the screen and hit “Sign Out”.
+
+Supported Cryptocurrencies
+
+Binance DEX supports approximately 25 digital currencies, although these are currently only testnet tokens In addition, there is no support for inter-chain transfers meaning that you will not be able to transfer coins between Binance Chain and other chains directly after the mainnet launch. However, this may take place in the near future with Binance.com acting as a bridge, and currently, to trade tokens between Binance Chain and other chains such as Bitcoin or Ethereum “Pegged Tokens” are issued on Binance Chain in order to facilitate the trading process.
+
+For example, on the Binance DEX testnet, BTC.B is a token that is pegged to the value of the real BTC running on Bitcoin network. BTC.B runs on Binance Chain, and cannot be directly transferred, deposited, or withdrawn to the Bitcoin network. The same is also true for currencies such as ETH.B, XRP.B, LTC.B, NEO.B, and USDT.B.
+
+The team at Binance outline that there will be two main ways for these pegged tokens to be deposited or withdrawn after the mainnet launch. These include:
+
+Via interoperability among different chains using Atomic Swaps and users may have to deposit onto and withdraw from Binance Chain to improve speeds.
+
+Via Binance.com, here when you withdraw BTC.B or Bitcoin (BTC) from a Binance.com account, you would have a choice to withdraw it as either real BTC or the Binance Chain BTC.B, and this will be true for other coins.
+
+In addition, the creation of Binance Chain will see Binance Coin (BNB) cease to be an ERC20 token, and migrate to Binance Chain and become the new blockchain’s native asset once the mainnet launches. Traders will be able to issue, send and receive new tokens on the blockchain, and also propose new trading pairs to list.
+
+Binance DEX Fees
+
+Fees on the DEX are subject to periodical review and adjustment, after an agreement is reached amongst the validators via a proposal-vote procedure. Currently:
+
+Trade fee is calculated based on trade notional value, while fees for other transactions are fixed.
+
+It is free to send a new GTE order, cancel a partially filled order, or expire a partially filled order.
+
+Non-Trade related transactions would be charged with a fee when the transactions happen, and can only be paid in BNB. The transaction will be rejected if the address does not have enough BNB.
+
+Trade-related transactions are charged with a fee when an order is filled, or cancelled/expired/IOC-expired with no fills. The BNB fee structure is used when the balance is sufficient, if not, the non-BNB fee structure is used.
+
+If the whole order value and free balance for the receiving asset are not enough to pay the fee, then the entirety of the receiving asset and its residual balance would be charged.
+
+As a result, we are still unsure of the exact fees but they are shared among the block producers/validators in order to help maintain the network, pay for network usage and to prevent abuse and attack. However, new orders are exempt from fees to encourage usage while larger trades would be charged more for their benefits from the liquidity provided in the network. Order Expire and Cancel are also charged with a fee if they fail to provide any liquidity. Also, fees can be paid in any asset, but the network would charge BNB first and apply a discount if the address has BNB balance.
+
+Is Binance DEX Safe?
+
+
+
+Decentralized exchanges by nature are designed to be more resilient than centralized exchanges and Binance already has a good reputation when it comes to its safety protocols and track record of resisting hacks. The non custodial nature of the DEX means that there is no central authority that stores users’ funds meaning that there is no honey pot to attract malicious actors. However, hackers have been known to target DEXs with DNS attacks which redirect users to phishing sites that they control. Users then unlock their wallets on these look-alike sites and allow the hackers to gain access to their passwords and private keys.
+
+However, the team behind the DEX provide a good amount of information on general best practices that users should employ and also elaborate on the trading and match spec as well as the anti front running mechanisms they employ.
+
+They are also set to outline their Disaster Recovery and Emergency protocols for various emergency cases and users are advised to revisit the link as the team should be updating the page soon.
+
+Binance Chain uses a Byzantine Fault Tolerance (BFT) and Proof of Stake (PoS) based consensus mechanism to produce blocks among a series of qualified Validators. This is similar to the structures utilized by platforms such as EOS and NEO. However, this has led to some criticism for blockchain purists who see both EOS and NEO as highly centralised and state that due to having a limited number of nodes Binance’s latest offering is not truly a DEX. This resulted in Binance CEO Changpeng Zhao tweeting that the exchange is more of a non custodial operation.
+
+There are currently thought to be up to 11 nodes securing the network with Binance retaining full control of operation, the Github also doesn’t contain any source code and while this may prove problematic to blockchain purists, it shouldn’t cause any issues with regards to the safety of users’ funds, and this approach will account for the speed and processing capabilities of the exchange.
+
+Is Binance DEX Suitable for Beginners?
+
+On the one hand, decentralized exchanges are more complex to understand and use than their centralized counterparts and as a result, Binance DEX will have a sharper learning curve for new entrants to the market. However, Binance provides a number of resources aimed at educating the greater community and maintains an Academy and Forum that help users to keep up with developments.
+
+In addition, as Binance DEX is currently operating on testnet, it may represent the perfect opportunity for newer traders to get involved and learn how to create wallets, safely store their private data, and to trade using a non custodial exchange. By using the test fund faucet, traders can receive 200 testnet BNB and play around with various trading strategies.
+
+However, it’s important to remember that the Binance Chain testnet is only to be used for testing and users can experiment with the various features that accompany Binance DEX. The tokens on the testnet are strictly testing tokens, and retain zero monetary or any other benefits, and Binance Chain testnet funds do not equate to Binance Chain mainnet funds or Binance.com account funds.
+
+Most importantly, users are reminded not to send any real mainnet tokens to the Binance testnet. At this stage, any BTC, ETH, or BNB transferred will unrecoverable and lost forever, the DEX can only be used by acquiring testnet BNB and using these funds to trade the pegged tokens on the DEX such as BTC.B and ETH.B.
+
+Users are also reminded that should they lose or misplace their private key for their address, it cannot be retrieved by any other party. Binance Chain and supported wallets do not record, or transfer out your private key and each user takes full responsibility of their private key, Keystore file, and password protection.
+
+Binance DEX Pros & Cons
+
+Pros:
+
+Good Reputation
+
+Familiar Interface and UI
+
+Users Retain Control of their Funds
+
+Users can Test Trading Strategies
+
+Low Fees
+
+Cons:
+
+No Live Trading
+
+Higher Learning Curve
+
+Not Fully Decentralized
+
+No Direct Cross Chain Transfer Solution on Mainnet
+
+Conclusion
+
+The team at Binance have kept to their word and produced a decentralized version of their exchange as promised. For more experienced traders, this allows them to interface with a familiar and trusted platform while staying in control of their funds. The UI and TradingView charts allow traders to engage in more complex strategies based on a comprehensive variety of technical indicators. As the DEX is still in its testnet stage, the jury is still out as to just how well the team have been able to address the liquidity and speed issues that plague other DEXs.
+
+However, this launch presents new users with a unique opportunity to get to know how DEXs work. By using the testnet faucet to receive 200 testnet BNB tokens, anyone can create a wallet and begin test trading on the DEX and learn how to place limit orders and follow a range of technical indicators. As a result, this may be a great time to use the DEX before it eventually goes live and opens up for trading real mainnet tokens.
+
+Once this happens, the community will be more concerned with performance capabilities, and how the team choose to solve the issues around direct cross chain transfers. Safety will also be a major priority with users being in charge of their own security, the community will also keep an eye on the progress being made with regards to decentralizing the node network. Despite these issues, Binance DEX is a non custodial platform being provided by a well established name in the space and provides a good opportunity for traders of various levels to get accustomed with the platform while it is still on testnet.
+
+Visit Binance DEX

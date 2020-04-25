@@ -1,0 +1,25 @@
+DATE:  11.11.2019, 14:41:31
+TITLE: C++ creator hates that Bitcoin was written in the language he made
+URL:   https://thenextweb.com/hardfork/2019/11/11/bitcoin-programming-language-cryptocurrency-bjarne-stroustrup/
+
+C++ creator Bjarne Stroustrup doesn’t like that Bitcoin BTC was written in his programming language, at all.
+
+In a recent podcast interview, Stroustrup took a moment to explain how he felt about programmers using C++ for such a wide variety of applications.
+
+Mostly, it was pretty reasonable. He likened releasing C++ to building a tool, in that he can’t control how it’s going to be used.
+
+“You try to improve the tool by looking at how it’s being used, and when people cut their fingers off, and try and stop that from happening. But really, you have no control over how something is used,” said Stroustrup.
+
+Then, he mentioned Bitcoin, which Satoshi Nakamoto wrote in C++.
+
+“So, I’m very happy and proud of some of the things [that] C++ is being used [for], and some of the things I wish people wouldn’t do. Bitcoin mining being my favorite example, [it] uses as much energy as Switzerland and mostly serves criminals,” he added.
+
+Indeed, the debate around Bitcoin‘s energy consumption is real. Mining Bitcoin means using large amounts of electricity to solve a complex maths puzzle that’s rewarded with digital currency.
+
+Typically, miners immediately sell Bitcoin they generate to cover their costs. Whether you consider this a worthwhile endeavour really comes down to how much you value censorship-resistant money, which seems to go over Stroustrup’s head, at least currently.
+
+However, Bitcoin “mostly” facilitating criminal activity, while unproven, is ultimately a function of that censorship resistance.
+
+Sure, it’d be nice if Stroustrup was proud of the fact that Nakamoto built Bitcoin using his magnum opus.
+
+But, if he’s stuck worrying about Bitcoin’s energy usage matching a country of just 8 million people, convincing him otherwise is probably a lost cause, however brilliant C++ may be.

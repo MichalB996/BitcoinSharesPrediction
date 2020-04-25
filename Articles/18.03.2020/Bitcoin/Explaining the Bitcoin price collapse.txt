@@ -1,0 +1,33 @@
+DATE:  18.03.2020, 17:31:48
+TITLE: Explaining the Bitcoin price collapse
+URL:   https://decrypt.co/22816/explaining-the-bitcoin-price-collapse
+
+Two back-to-back crashes cut Bitcoin's price in half last week. The driving force for the drop was the collapsing economy as a result of the coronavirus pandemic. But, crypto investment firm Multicapital explains what amplified the price crash.
+
+Fundamentally, the firm points the finger at cryptocurrency's flimsy market structure. Had it remained intact, say the researchers, Bitcoin would not have submitted so readily.
+
+"The Bitcoin and Ethereum networks—in their current forms—cannot operate at global scale," Kyle Samani, managing partner at Multicoin Capital, said, "During times of crisis, they become so congested that arbitrageurs cannot keep prices in line across venues, causing massive dislocations on individual exchanges."
+
+What this means is that, because the Bitcoin network can get overwhelmed during moments of high usage, this can make it hard to move Bitcoin between exchanges. As a result, you get silos of trading venues—with small liquidity pools—resulting in wild fluctuations of price.
+
+"As the prices between exchanges deviated, arbitrageurs literally could not deposit BTC on BitMEX to bring prices in line even if they wanted to try to catch the falling knife," Samani said.
+
+Bitcoin futures exchange BitMEX was one of the key trading silos. As Decrypt reported, $750 million in long positions—traders betting the price of Bitcoin would go up—were liquidated in one day, when the prices dropped.
+
+During the crash, BitMEX suffered a DDoS attack and went down for maintenance. And this may have saved the day.
+
+“At one point, there were only ~$20M of bids left on the entire BitMEX order book and over $200M of long positions to liquidate. This means the price of BTC could have briefly crashed to $0 had BitMEX not gone down for ‘maintenance,’” Samani wrote, adding, “Given BitMEX’s central position in the crypto market structure, this price move could have propagated through to all the other BTC trading venues.”
+
+With the price on BitMEX falling and its large effect on price discovery, this led to the prices dropping lower.
+
+The effect of Bitcoin miners
+
+Bitcoin miners were also affected by the price. When the price dropped, miners turned off their machines. This sudden drop in hash rate—computing power mining new Bitcoin—resulted in new blocks taking longer.
+
+"Some miners shut down their rigs after the first leg down. A lot more did during the second leg down," Samani said.
+
+This made it ever harder to send crypto between exchanges, making the silos more pronounced—and the drop even worse.
+
+"The biggest take away from this is that crypto market infrastructure is still immature. There is a lot of room to improve along many dimensions, and therefore a lot of investable opportunities," he said.
+
+That is, if the investors didn’t lose half their funds in the last week.

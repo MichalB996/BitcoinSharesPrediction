@@ -1,0 +1,53 @@
+DATE:  26.07.2019, 18:27:51
+TITLE: Alias Addresses: The Latest Name In Ethereum Usability?
+URL:   https://cryptobriefing.com/alias-addresses-name-in-ethereum-usability/
+
+Analysis Alias Addresses: The Latest Name In Ethereum Usability? by Mike Dalton
+
+An address by another name.....would be much easier to spell.
+
+Share this article
+
+The Ethereum Name Service (ENS) is one of Ethereum’s most important usability features. By default, Ethereum addresses appear as garbled text. By substituting that text for human-readable names, ENS makes it easier to interact with the blockchain.
+
+Right now, ENS names are primarily being used as addresses for Ethereum transactons, like an email address for your wallet. However, there are other uses: ENS addresses can also direct Ethereum users to decentralized web content. All of the possibilities are laid out here.
+
+So far, the Ethereum Name Service has gained a lot of traction: Brave and Opera are gradually adding native support, and the Metamask browser already offers extensive support for ENS. However, not everyone is satisfied: Alias, a new proposal for Ethereum addresses, aims to render ENS obsolete.
+
+Here’s what they’re planning.
+
+How Alias Works, and Why It’s Different
+
+Alias primarily changes the way in which the parts of a human-readable Ethereum address are ordered. ENS is patterned on the Domain Name System (DNS), the online registry which links numerical IP addresses with easy-to-remember URLs.
+
+In DNS, more specific parts of an address come before more general parts of the address (leaf➞root). This can cause headaches, because non-DNS parts of a URL run in the opposite direction (root➞leaf). For example:
+
+Alias, by contrast, uses an order that is primarily root➞leaf, which breaks away from the ENS and DNS model (though Alias still uses the @ symbol to indicate leaf➞root ordering). This makes Alias human-readable, but it also enhances machine readability – Loredana Cirstea, lead developer, has explained this in much more detail on Medium.
+
+It is easy to see why this is more intuitive: most file systems follow the root➞leaf format. Offline indexes follow the same rule—just turn to the index of any non-fiction book. There are exceptions, of course: street addresses follow leaf➞root ordering, but internal consistency and clear demarcation is the important thing.
+
+What Are the Advantages?
+
+Alias claims to have one important advantage over ENS. Alias addresses can point to content within an Ethereum smart contract – not just “resources external to smart contracts content, such as Ethereum addresses, IPFS/Swarm references,” Cirstea explained. (Edit: disputed– see below). This is because Alias relies on dType, an earlier proposal from the same team.
+
+“Alias only provides DNS-like redirection and human-readable names for dType types and data instances inside smart contracts,” Cirstea explained to Crypto Briefing. “Alias is more flexible due to the data modeling structure provided by dType – it can support the current ENS types and more.”
+
+Basically, dType provides an on-chain type registry, which allows types created within a smart contract to be standardized across different projects. This enhances cross-project interoperability within Ethereum, and it makes it easier to look up blockchain data via block explorers and development tools.
+
+However, ENS has objected to Cirstea’s characterization, saying that it downplays the versatility of ENS addresses. “This is incorrect,” an ENS spokesperson told Crypto Briefing by email. “ENS uses a flexible system of resolvers that make it possible for anyone to define new resources to be referenced by a name, meaning it’s easy to achieve this with ENS as well.” The objection appears to be substantiated by ENS’ developer guide.
+
+DType also makes “name squatting” much more difficult. Squatting on dType types would be extremely expensive due to the large number of possible variants – gas fees alone would be prohibitive, Cirstea suggests. Dtype’s governance and voting system will also ensure that new dType types don’t occupy common English words.
+
+Is Alias Really Better?
+
+Cirstea believes that Alias renders ENS obsolete, though many argue that Alias is overly ambitious. ENS is, after all, still dominant, and it is gaining support fast. Even if Alias really is more intuitive and flexible, the Alias proposal itself still needs to be accepted through Ethereum’s standard EIP process.
+
+In order to get a boost, Alias may need to partner with other projects, but Cirstea has suggested that this could be a problem.
+
+“It would be great if ENS would collaborate,” she posted last week in a Reddit discussion, “but the initial signal is to the contrary.”
+
+Cirstea expects a testnet prototype for Alias to be available within four months “if it gains traction,” and she is also posting demo videos to YouTube in the meantime. This week’s demo shows Alias’ powerful browsing capabilities and address resolution potential in action.
+
+Regardless of Alias’ fate, most Ethereum users probably won’t notice such a quiet battle. Even ENS itself is far from universal. Despite its ambitions to become omnipresent on Ethereum, it is still a fairly niche tool. Achieving true prominence is a challenge for almost all blockchain name efforts, no matter how much promise they hold.
+
+Edit: This article has been edited after publication to include statements from ENS, regarding the purported limitations of the Ethereum Name Service.

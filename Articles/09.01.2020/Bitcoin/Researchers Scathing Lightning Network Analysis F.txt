@@ -1,0 +1,31 @@
+DATE:  09.01.2020, 16:00:33
+TITLE: Researcher's Scathing Lightning Network Analysis Finds Flaws
+URL:   https://news.bitcoin.com/researchers-scathing-lightning-network-analysis-finds-flaws/
+
+Researcher's Scathing Lightning Network Analysis Finds Flaws
+
+On January 7, digital preservation researcher David Rosenthal published an overview of BTC’s Lightning Network (LN) which claims LN infrastructure isn’t decentralized and privacy-preservation is a myth. Rosenthal’s analysis found significant flaws with the LN fee system and the editorial insists “in order for Lightning Network to provide privacy, it must be massively over-capitalized.”
+
+Also read: Here’s What Happens When You Use Lightning Network for the First Time
+
+Digital Preservation Researcher David Rosenthal Investigates Lightning Network
+
+The controversial scaling solution called the Lightning Network has a bunch of fans and a slew of detractors as well. A number of people think that a second layer is required to scale BTC to the masses, while other individuals wholeheartedly believe layer one (onchain transactions) should be sufficient. Since 2015, the scaling debate over this subject has continued relentlessly and despite a variety of reports disclosing LN vulnerabilities, BTC supporters remain confident the solution will succeed.
+
+On Tuesday, digital preservation analyst David Rosenthal published his thoughts on the LN scaling solution. Rosenthal’s “DSHR’s Blog” has been publishing reports on technology and digital preservation since 2007. Rosenthal notes in his recent piece that crypto and blockchain discussions often involve theories that are hoped to be realized in practice. LN advocates claim that the system will enhance decentralization and anonymity. Rosenthal asserts that the LN system doesn’t work and that it’s not really decentralized. Moreover, the researcher highlights that “transaction fees [are] woefully inadequate to cover the costs of running a node.” Rosenthal cites a paper written by a Hungarian team of researchers called “A Cryptoeconomic Traffic Analysis of Bitcoin’s Lightning Network.”
+
+“As usual, Bitcoin enthusiasts are taken in by the hype,” Rosenthal writes. “[The Hungarian researchers] built a simulation and calibrated it against the public information they could find about the Lightning Network. Experiments they ran using their simulation led them to conclude that the “negligible fees” are massively subsidized by the large Lightning nodes.” Rosenthal adds that most transactions pay roughly 10% of the cost of their routing, which could potentially work in a different context. The researcher adds:
+
+This greater than Uber level of subsidy could make business sense only in the context of investing in a future monopoly capable of massively raising prices. But prices are capped by transaction fees on the Bitcoin blockchain, making it impossible.
+
+The Elephant in the Room: Routing Issues
+
+Rosenthal’s post also highlights the Hungarian researchers’ simulation, which shows out of 7,000 transactions per day, one third fail. “This is not a practical payment system,” the author emphasized. The paper also mentions the often cited routing problem and in Rosenthal’s opinion, LN’s dynamic routing is an “exceptionally difficult computational problem.” Additionally, the post details that the Cryptoeconomic Traffic Analysis paper draws attention to LN’s routing issues. “Even in theory, the combination of source and onion routing provides a fairly weak version of privacy,” Rosenthal remarked.
+
+“In other words, in order for Lightning Network to provide privacy, it must be massively over-capitalized,” Rosenthal’s post concludes. “If fees are high enough that running a router node is economically rational, privacy cannot be provided because the additional hops needed would both be too expensive and would increase the already high probability of transaction failure.”
+
+What do you think about David Rosenthal’s analysis of the Lightning Network? Let us know what you think about this subject in the comments section below.
+
+Image credits: Shutterstock, Pixabay, Wiki Commons, Research paper 1, Research paper 2, and Fair Use.
+
+Did you know you can verify any unconfirmed Bitcoin transaction with our Bitcoin Block Explorer tool? Simply complete a Bitcoin address search to view it on the blockchain. Plus, visit our Bitcoin Charts to see what’s happening in the industry.

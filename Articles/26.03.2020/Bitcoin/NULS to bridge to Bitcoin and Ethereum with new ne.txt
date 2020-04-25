@@ -1,0 +1,21 @@
+DATE:  26.03.2020, 13:00:23
+TITLE: NULS to bridge to Bitcoin and Ethereum with new network
+URL:   https://decrypt.co/23592/nuls-bridge-bitcoin-ethereum-new-network
+
+NULS, an open-source adaptive blockchain, wants to leave its isolation from the rest of the blockchain ecosystem and create bridges to other networks—and perhaps one day between them. The first step is connecting NULS to Bitcoin and Ethereum.
+
+That vision is laid out in a whitepaper the NULS Technical Community released on Thursday. The whitepaper details a new network called Nerve, a cross-chain solution for making NULS interoperable with Bitcoin, Ethereum, and other networks.
+
+The NULS network runs on “a democratized staking system” that mixes delegated proof of stake with a credit rating. The proposed Nerve Network sits atop the NULS protocol, allowing users to transfer major cryptocurrencies, including BTC, ETH, and ERC20 tokens, to the NULS blockchain. The company hopes the network will compete with Cosmos and Polkadot, two other cross-chain solutions in development.
+
+While the protocol doesn't bridge Bitcoin and Ethereum in quite the way Ethereum founder Vitalik Buterin pined for earlier this week, Berzeck, the pseudonymous developer of NULS, conceded to Decrypt that “it is a step in this direction.”
+
+Clarified Berzeck: “The protocol doesn’t directly bridge Bitcoin and Ethereum; it instead allows the NULS blockchain to bridge into Bitcoin and Ethereum, respectively.” Though, he added, “We could definitely explore ways to have NULS act as an intermediary between these blockchains and broker transactions.”
+
+To make cross-chain transactions possible, Berzeck said the Nerve Network will use a native token called “NVT” to transfer value between networks. “Essentially, Nerve Network will operate like an autonomous virtual broker with masternodes that can dock blockchains and digest their transactions,” he said. “Nerve will then translate that function and value to the NULS blockchain,” effectively making them interoperable.
+
+
+
+Berzeck noted that this could enable microtransactions with specialized blockchains. “With cross-chain functionality, developers won’t have to worry about maintaining a singular network with limited scale,” he said. “Instead, several concurrent blockchains could run independently (one for games, one for supply chain, etc.) and NULS could act as a terminal for disparate functions to become more collaborative and autonomous.”
+
+For now, however, with the blueprints laid out, the NULS community is ready to build an interconnected future for blockchains.

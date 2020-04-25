@@ -1,0 +1,37 @@
+DATE:  29.10.2019, 22:00:36
+TITLE: Coinkite Open Sources the Coldcard Hardware Wallet
+URL:   https://bitcoinmagazine.com/articles/coinkite-publishes-everything-you-need-to-build-your-own-coldcard-wallet
+
+Ring in the new bitcoin halving cycle the right way: with us!
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+In a blog post published on October 25, 2019, Coinkite released all of the information needed for users to build their own versions of its hardware wallet, the Coldcard. The post contains the complete circuit diagram of the device, accompanied by a list of off-the-shelf parts that can be purchased to start the DIY project.
+
+The firmware of the Coldcard wallet has always been open source as a way of guaranteeing both transparency (if the code is publicly available, then anyone can see that the bitcoin held in a Coldcard are secure) and potential for future improvements via community feedback (if anyone can contribute through messages or pull request submissions, then improvements can be made).
+
+“We encourage advanced users to make a unit themselves and publish their findings, it’s one of the best methods to verify our code/hardware,” Coinkite CEO Rodolfo Novak told Bitcoin Magazine.
+
+Security and Financial Implications for Coldcard Wallet
+
+The decision to release a veritable instruction manual for building a Coldcard from scratch marks a major shift in the field of hardware wallet research and development. However, it also generates risks from a financial point of view.
+
+Previously, Trezor used the same approach with the One hardware wallet, publishing a complete development kit with step-by-step instructions. Consequently, manufacturers from across the world created new products on the backbone of the original — even Coldcard borrowed software elements from the Trezor GitHub.
+
+But in Novak’s view, the decision to publish the circuit boards and required parts is not detrimental to business for two reasons: Firstly, security researchers could already figure out the design thanks to Coldcard’s simplicity and secondly, DIY enthusiasts don’t get the same economies of scale for parts pricing (which could mean that producing a Coldcard by yourself can cost more than purchasing one from Coinkite).
+
+Furthermore, he pointed to the power of branding and the trust regular users have in Coinkite as a Bitcoin security company.
+
+“People buy trust — they trust our security expertise, supply chain control, design, setup and all that comes with that,” Novak said.
+
+The hardware schematic and bill of materials are clearly aimed at enthusiasts who can do soldering on electronic boards and are able to follow complex instructions for building and wiring hardware. So, it’s unlikely that regular users will build their own Coldcard wallets rather than buy them from the manufacturer.
+
+Coinkite Tests Security and Good Engineering
+
+Nonetheless, more advanced users from parts of the world where bitcoin is criminalized can simply follow the instructions and improve their asset security. It’s also possible for business-minded engineers to produce hardware wallets and sell them in places where Coinkite doesn’t ship or faces restrictions.
+
+Also, for Novak, the whole process is a true test of security and good engineering, since open sourcing is a bona fide act of issuing a challenge for security experts.
+
+“It is great to see the level of interest for Coldcard,” he said. “As the security level of other competing products was a frustration for me, the turn of events also proved to me that the market is just as frustrated and willing to look into improved devices. We are happy that we can make Bitcoin security available to everyone.”

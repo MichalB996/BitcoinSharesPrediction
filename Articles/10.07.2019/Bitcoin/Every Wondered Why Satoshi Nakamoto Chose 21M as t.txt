@@ -1,0 +1,43 @@
+DATE:  10.07.2019, 07:06:04
+TITLE: Every Wondered Why Satoshi Nakamoto Chose 21M as the Limit for Bitcoin?
+URL:   https://www.coinspeaker.com/satoshi-nakamoto-21-million-bitcoin/
+
+As we inch closer to the next Bitcoin halving, it’s necessary to think about the specific design of the coin as done by Satoshi Nakamoto. Specifically, why was 21 Million the set figure for Bitcoin mining?
+
+Bitcoin was the first fully decentralized digital asset to hit the market. Created a decade ago by Satoshi Nakamoto, it’s currently the world’s biggest cryptocurrency with a market cap of $219 billion and almost 70% dominance at writing time.
+
+Satoshi put a lot of thought and work into creating Bitcoin but a decade later, there are still two unknowns about this journey. Firstly, no one knows who Satoshi Nakamoto really is. Whether the name belongs to one person, male or female or if it’s a moniker for a group of developers is unknown.
+
+Also, Satoshi set design for Bitcoin, limiting its production to 21 million. In other words, there will never be more than 21 million Bitcoins produced except something changes. This leads us to the second unknown – no one really knows why a 21 million limit was set.
+
+Bitcoin’s Fixed Supply
+
+It’s pretty easy to understand why there is a finite supply set for Bitcoin as it helps prevent inflation. Bitcoin is mined as block rewards for the miners and is set to halve after every 210,000 blocks which happens over a four-year period. Currently, miners earn 12.5 Bitcoins per block and by May 2020, it will be reduced to 6.25. This is a commendable way to control the arbitrary supply of the asset but still doesn’t explain why exactly the “21 million” figure was chosen.
+
+Satoshi Wanted Similarities Between Bitcoin and Fiat
+
+There is one pointer to the figure as seen in a correspondence between Nakamoto and Mike Hearn, a software developer. According to the email, Satoshi says the design for the “number of coins and distribution schedule was an educated guess” and also a “difficult choice.”
+
+Basically, Satoshi tries to explain a desire for some similarity between Bitcoin and Fiat currencies even though the difficulty of that due to possible changes to both currencies in the future was also considered. However, regardless of the intended similarity, Satoshi believed that adoption could drive Bitcoin to be worth a lot more per unit.
+
+The above, on some level, explains a little about what Nakamoto had in mind especially with regards to fixing a limit but the real thought or calculation that resulted in 21 million is still a little lost on the cryptosphere.
+
+The Community Weighs In
+
+Over the last few years, there have been a lot of guesses as to the 21 million figure and whether there’s a real meaning or calculation that birthed it. Some have offered mathematical explanations while some others have expressed more random thoughts.
+
+Allen Ewart, a fintech founder and editor posited that “21 million” might be deeper than it looks. For him, “the number 21 is considered to be a creative spirit.”
+
+There are some others who think it’s unnecessary to try figuring out what brought about the exact figure. To them, the main point to be made here is the fact that it’s fixed and the exact number, whether 21 million or 210 million is therefore ultimately irrelevant.
+
+Perhaps the most intriguing explanation is a mathematical one offered by a member of the StackExchange forum. According to the post, the number of blocks per cycle can be gotten by multiplying 6 (blocks produced every hour) by 24 (hours in a day) by 365 (number of days in a year) and then by 4 (number of years in a cycle.) This gives 210,240 which is then rounded down to 210,000.
+
+Furthermore, addition of all the block rewards from inception – 50+25+12.5+6.25+3.125 gives 96.875 which is rounded up to 100.
+
+Further multiplication of both numbers (210,000×100) is 210 million.
+
+However, it’s important to note that this explanation was created after Satoshi already set the 21 million figure and the maths only satisfies the figure but doesn’t really answer the question.
+
+Maybe one day Satoshi Nakamoto will reveal their true identity (-ies) and then we can ask all the puzzling questions. But until then, all we have is conjecture and the correspondence that calls it “an educated guess.”
+
+Author: Tolu Ajiboye Tolu is a cryptocurrency and blockchain enthusiast based in Lagos. He likes to demystify crypto stories to the bare basics so that anyone anywhere can understand without too much background knowledge. When he's not neck-deep in crypto stories, Tolu enjoys music, loves to sing and is an avid movie lover.

@@ -1,0 +1,43 @@
+DATE:  19.09.2019, 16:59:55
+TITLE: Video: Francis Pouliot on Liquid Network
+URL:   https://bitcoinmagazine.com/articles/video-interview-francis-pouliot-on-liquid-network-bitcoin-privacy
+
+Ring in the new bitcoin halving cycle the right way: with us!
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+On the first day of the 2019 Baltic Honeybadger conference, prominent bitcoiner and Bull Bitcoin CEO Francis Pouliot spoke with Bitcoin Magazine just a few hours after Bull Bitcoin announced it would be joining Blockstream’s Liquid sidechain federation.
+
+“The first step for Liquid’s integration is to accept L-BTC payments,” said an exuberant Pouliot within the first two minutes of the interview.
+
+Essentially, every purchase of BTC on the exchange will allow users to opt into transferring L-BTC instead, which can enable lower fees for traders and the opportunity to perform confidential transactions.
+
+“We don’t know where Bitcoin is heading, right? We don’t know if the solution for scaling is going to be the Lightning Network, the Liquid Network, or something else. And I’m pretty curious to find out. I want to know what the market wants.” — Francis Pouliot
+
+Bull Bitcoin as a Liquid Member and L-CAD
+
+As a result of this partnership, Bull Bitcoin will become a full member of the Liquid federation. This means that the Canadian exchange will have the power to peg out and peg in L-BTC without relying on any third party that is endowed with these prerogatives. In technical terms, this also means that Bull Bitcoin’s backend Cyphernode will receive upgrades that can be found in Blockstream’s Elements, its sidechain developer network.
+
+Another major announcement for the Canadian exchange involves the listing of a Liquid asset that is based on the Canadian dollar (CAD). The new cryptographic asset differs from fiat-backed stablecoins due to its exclusive exchangeability for BTC. Through L-CAD, Bull Bitcoin’s existing gift card system can be improved to offer more freedom to those who make the purchase.
+
+In discussing his reasons for joining the Liquid network, Pouliot highlights a balance between self-interest and altruism: On the one hand, the fact that transactions get moved to a sidechain is beneficial in terms of Bitcoin’s block space and network fees; on the other hand, a secondary layer is a great money saver when time is crucial and the resulting fees on the Bitcoin network would become too high. Through Blockstream’s federated sidechain, the fundamentals of the Bitcoin network are preserved, while actors who require faster, cheaper and more confidential settlements can simply move their operations to Liquid.
+
+The Bull Bitcoin CEO also makes it clear that the Lightning Network doesn’t serve exchanges yet, as the amounts that can be traded are still low. In contrast, the more centralized federation of Liquid members should be more efficient in moving large amounts of money.
+
+“Our business model is dependent on the success of Bitcoin,” said Pouliot, reaffirming his allegiance to the cause of Bitcoin.
+
+Bull Bitcoin, Privacy and CoinJoin
+
+Even though Bull Bitcoin is an exchange with integrated KYC measures, which has to comply with Canadian laws, Pouliot points to a prioritization of privacy in relation to intrusive third parties.
+
+“It is the right of the user to decide whether or not his financial transactions are given to third parties,” says the CEO, as a way of justifying the exchange’s use of CoinJoin by default.
+
+This layer of privacy should protect users from all sorts of malevolent attackers such as hackers and chain analysis investigators. If remaining anonymous in relation to the government is not possible, then at least private actors should be kept away from sensitive financial data.
+
+According to Pouliot, a large percentage of users opt in for the native SegWit bech32 deposit address, which automatically sends bitcoin through a CoinJoin. This reflects a great demand for privacy and a quick response to innovation in the Bitcoin space. Pouliot suggests that the legacy deposit addresses will be removed sometime in 2020, in order to guarantee a greater amount of privacy for all users.
+
+Pouliot also sends out a warning to competing exchanges that the lack of CoinJoin implementation is dangerous for the confidentiality of their operations. Having a simple deposit address is harmful for all parties involved, as a simple dust attack can help experts reverse engineer every operation taking place, thus revealing a lot of sensitive data.
+
+“I have never seen a single regulation which forces an exchange to do chain analysis,” he said. “What I have seen is exchanges that want to please the banks. People will have to adapt to us and this is the mentality that we see at Bull Bitcoin: We’re gonna do things our way and I believe that we do the best practice, and it’s up to other people to other follow or convince us that there is a better practice. So far, nobody has been able to convince me that doing CoinJoins is a bad idea.”

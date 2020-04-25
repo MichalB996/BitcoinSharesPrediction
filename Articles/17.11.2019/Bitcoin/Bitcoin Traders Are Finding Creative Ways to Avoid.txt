@@ -1,0 +1,33 @@
+DATE:  17.11.2019, 00:15:19
+TITLE: Bitcoin Traders Are Finding Creative Ways to Avoid KYC
+URL:   https://news.bitcoin.com/bitcoin-traders-are-finding-creative-ways-to-avoid-kyc/
+
+Bitcoin Traders Are Finding Creative Ways to Avoid KYC
+
+Cryptocurrency traders on Bisq are using Revolut to buy and sell bitcoin without the need for KYC/AML. The decentralized, peer-to-peer marketplace allows anyone to buy or sell cryptocurrency via a range of payment processors and traditional banking services. With Localbitcoins now a twisted nightmare of KYC, privacy-conscious traders have few platforms to which they can turn. But in Bisq, they appear to have found a solution of sorts.
+
+Also read: The Bank of Google Wants Your Spending Data
+
+Trading Bitcoin Without the Awkward Questions
+
+Unlike services such as Localbitcoins or buy.Bitcoin.com which work in-browser, Bisq requires users to first download the application before buying and selling crypto, with Windows, Mac and Linux systems all supported. A popular method of purchasing BTC on Bisq (formerly Bitsquare) is with Revolut, with many users opting for the virtual banking service on account of its speed and convenience. Although quick and easy at the initial point of use, there are potential pitfalls to relying on Revolut.
+
+As early as last year, Bisq issued a warning regarding the service and its suitability for avoiding unwanted attention. As the Bisq twitter account stated: “Payment methods based on traditional finance systems are going to require KYC at some level, sooner or later. Revolut is not special in this regard.”
+
+It’s not just KYC/AML which poses problems either: a number of users have complained that after repeated transactions on Bisq, Revolut has suspended their accounts, leading to weeks of uncertainty and added complications. Revolut itself, it should be noted, requires KYC in order to obtain an account, and is not an anonymous or pseudonymous service.
+
+most obvious with revolut, there are countless reports of accounts being blocked following a bisq transaction. Our guess is the messages in the transactions doesn't seem normal (who would send some random string as a message?) and some accounts take weeks to get unblocked — nodl (@nodl_it) March 27, 2019
+
+A Little Privacy Please
+
+Since the onboarding process at centralized exchanges and the obligatory intrusion of KYC remains a bone of contention for many, bitcoiners continue to seek out dependable decentralized alternatives. The development team behind Bisq describe it as “pure P2P infrastructure” built on the Tor network and using local wallets with no custodial accounts. Bisq does not require the user to provide a name, email ID, or verification, so it ticks all the boxes for anyone who takes their privacy seriously. The decentralized exchange also offers a large number of fiat currencies with which users can onboard including the US dollar, Canadian dollar, Australian dollar, Euro, British pound and Russian rouble. That said, for all its benefits, there are still limitations to using the decentralized exchange, including higher spot prices, which means the platform won’t suit everyone.
+
+Perhaps one of the bigger issues at this time is liquidity, although Bisq is hardly the only decentralized exchange that has struggled in this regard. Trade volumes remain relatively low and the amount of bitcoin a new user can purchase is initially limited to just 0.01 BTC. This increases over time, with accounts maturing after 60 days, but some payment methods retain restrictions in any case. Bank-based payments are limited to 0.25 BTC for instance, while Perfectmoney and Alipay allow purchases of 1 BTC. It’s clear that Bisq are extremely safety conscious and mistrust many of the most popular fiat payment processors, especially those that offer chargeback facilities. Part of their efforts to mitigate ongoing risks include a deposit and arbitration system which adds another layer of security for traders.
+
+Options for traders who have tired of Localbitcoins.com and its kowtowing to onerous compliance regulations are thin on the ground, but there is an outlet for bitcoin cash proponents. Local.Bitcoin.com enables anonymous P2P transactions, providing a private way to buy and sell bitcoin cash. Between it and Bisq, there is at least a mechanism for exercising one’s right to purchase cryptocurrency without enduring the data-breach-waiting-to-happen that is KYC.
+
+What other pro-privacy exchanges do you recommend? Let us know in the comments section below.
+
+Images courtesy of Shutterstock.
+
+Did you know you can verify any unconfirmed Bitcoin transaction with our Bitcoin Block Explorer tool? Simply complete a Bitcoin address search to view it on the blockchain. Plus, visit our Bitcoin Charts to see what’s happening in the industry.

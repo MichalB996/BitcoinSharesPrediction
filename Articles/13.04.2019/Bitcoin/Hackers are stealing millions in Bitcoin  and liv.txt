@@ -1,0 +1,81 @@
+DATE:  13.04.2019, 18:43:36
+TITLE: Hackers are stealing millions in Bitcoin — and living like big shots
+URL:   https://nypost.com/2019/04/13/hackers-are-stealing-millions-in-bitcoin-and-living-like-big-shots/
+
+At 1:30 on a Sunday afternoon in January 2018, Michael Terpin was on his laptop, prepping for a conference in Las Vegas. His iPhone buzzed with an incoming message. Google was notifying him that his email passcode had been changed.
+
+Terpin hadn’t changed it.
+
+Fearing he’d been hacked, the 62-year-old tech entrepreneur checked a second phone, an old Blackberry, to see if it had been compromised. The Blackberry was crippled, ­unable to go online or receive calls.
+
+Within 10 minutes, Terpin contacted AT&T to demand that his Blackberry account be shut down. It was a race against time to stop a group of cyber-bandits. The group’s goal? To steal millions of dollars in virtual cash that Terpin, a pioneer in the field of cryptocurrency, had amassed and stashed online.
+
+Within 30 or so minutes, as Terpin frantically searched through some 50 crypto accounts to confirm they were secure, the thieves struck gold on one that he had yet to check. “An asset worth $23.8 million, accrued over about two years, was taken from me,” Terpin told The Post. “Now it’s gone.”
+
+Terpin was the victim of a cutting-edge scam known as SIM swapping. Tech-smart thieves managed to swap Terpin’s digital identity remotely from the SIM card that controlled his Blackberry to a blank SIM card in one of their phones.
+
+Usually, the scam victimizes those who own Bitcoin and other cryptocurrency. Difficult to tax or trace, crypto has become the payment of choice for kidnappers, drug dealers, smugglers and gamblers. Virtual cash has also seized the imagination of technocrats and investors: Since 2010, a single Bitcoin has gone from being worth less than 1 cent to $5,300.
+
+Crypto’s signature qualities appeal to privacy advocates and thieves alike. Theft, said Brian Krebs, owner of the cyber-news site KrebsOnSecurity, is “irreversible.” What you lose, he said, you can’t get back.
+
+Over the past 15 months, more than $50 million in cryptocurrency has been stolen from accounts like Terpin’s. He kept a portion of his virtual cash in a digital vault called a “native wallet,” which required a string of 12 random words to unlock. The hackers were able to cobble the code together once they hijacked his phone and wormed into his email — both of which were shockingly easy to do.
+
+“It begins with finding a target and his wireless carrier,” Terpin said. As he alleged in a court document, an employee in a Norwich, Connecticut, AT&T store had been induced to “port over my wireless number to an ­imposter with a new SIM card.”
+
+One of the thieves then contacted Google and claimed to have forgotten his Gmail code. As is standard, Google texted a recovery code to the phone number on file — in this case, Terpin’s Blackberry, which the thieves now controlled.
+
+They changed the code, freezing Terpin out. A cadre of confederates, communicating in an online chat room, ransacked Terpin’s ­email, finding clues that led to everything from his Skype account to private databases containing personal information.
+
+Seconds after breaking into Terpin’s wallet, the crew transferred $23.8 million into an online account they controlled. Forty-eight hours later, said Terpin, the thieves had laundered the crypto and presumably divvied up their haul.
+
+“Your phone goes dead and theirs is alive,” Terpin said. “Then they own you.”
+
+One of Terpin’s key suspects in that multimillion-dollar takedown, according to a lawsuit he filed, is ­21-year-old Nicholas Truglia.
+
+Truglia, who grew up in New Jersey, was, at the time of the hit, a registered student at Baruch College. (Late last year, weeks prior to his arrest, he told The Post he was on “a leave of absence from Harvard.”) Either way, he hardly lived like an undergrad.
+
+His apartment in the Sky building overlooking the Hudson rented for $6,000 a month and a visitor named Chris David said Truglia piled stacks of $100 bills on a credenza. As David, a private jet broker in his 20s, reported in a court document, “Nick told me that [the] bundle contained over $100,000. At the same time, Nick showed me two thumb drives. One had over $40 million cash value of various cryptos.”
+
+In the same document, David claimed Truglia told him he made his fortune by stealing crypto, which explained his $100,000 Rolex. One night, in a crowded lounge, David stated in a court document, “[Truglia] said, ‘Chris, I have more money than all the people here ­tonight.’ ”
+
+Experts believe the crypto bandits’ crime spree is rooted in video games. Teens playing “Call of Duty” communicated via a social site called Discord, setting up private chat groups that keep out predators and parents alike.
+
+Several years ago, cool social media handles became hot commodities, said Erin West, a cyber-savvy deputy district attorney in Santa Clara County, Calif. “Gamers figured out that they could hack into people’s accounts to get these handles and sell them for big bucks on a website,” she said.
+
+They deployed the SIM swapping technique, perfecting it as they focused on taking over Twitter and Instagram accounts just as they would one day commandeer online wallets. The most popular social media names were the so-called OG handles — A or @evil or ) — so simple, they had to have been staked as soon as social media took off. Goofy as it sounds, these sales were no joke: @t sold for $40,000 in crypto.
+
+Sometime around 2016, cyber-account crackers upped their game and began pillaging digital fortunes. Technologically, it was an easy leap. “My guess is that someone was hacking for names and stumbled upon crypto in the process,” an investigator who works these cases told The Post. “My theory is that the person took it, had a big score, and crypto became the thing to concentrate on.”
+
+The kids’ lives blew up. One crypto bandit spent $250,000 on a McLaren automobile, and Truglia talked about buying his own jet, as David related in a court document. They were, the investigator said, “living like rappers in music videos.”
+
+But for Truglia, at least, money didn’t bring happiness. “Stole 24 million [but] can’t stay away from drugs,” he tweeted ­after the Terpin heist, according to court documents Terpin filed. “Stole 24 million dollars and still don’t have my s–t straight.”
+
+According to David, Truglia scammed his own father out of $15,000, “took delight in cheating people” and “beat his small dog, hitting him with his hand and a broom handle” — a charge Truglia denied to The Post. ­“Nobody can get me in trouble,” he was allegedly recorded saying. “Nobody can put me in jail. I would bet my life on it, actually.”
+
+The scams began to unravel in March 2018, after a Cupertino, California, executive named Mitch Liu lost $10,000 in cryptocurrency.
+
+Though it was a relatively small sum, law enforcers at the Regional Enforcement Allied Computer Team (REACT), an investigative unit in Silicon Valley, were intrigued.
+
+“We didn’t know how bad guys could convince a carrier to switch over a phone number,” said Samy Tarazi, a sergeant at the Santa Clara County Sheriff’s office and a task-force supervisor with REACT. “We started following the [number] and realized that contact with the email service had to connect to a cell tower somewhere.”
+
+In Liu’s case, messages went from zipping around the Bay Area to pinging back and forth from a cell tower in Boston. But the area encompassed dozens of city blocks. “From there,” said Tarazi, “we found the IMEI [International Mobile Equipment Identity] number of the phone that AT&T had switched the SIM card [information] to.”
+
+Every phone has a unique IMEI number just as every car has a unique VIN number. Most every online business records the number when it has contact with a customer. “We took the IMEI number used in the crime and cross-referenced it with Apple and Google,” Tarazi said. “We found it associated with an email account used by Joel Ortiz,” then 18 and a school valedictorian. “We wanted to see where it would go, got the contents of his [email] account and, basically, we had his life.” In other words, they did to the hacker what hackers did to their marks.
+
+Tarazi and his team discovered that Ortiz lived with his mother in a modest Boston home, about a mile and a half from Harvard. Through Ortiz’s braggy posts, investigators tracked him. “He was taking helicopter tours around Las Vegas, partying at fancy nightclubs in LA, staying at … mansions in the Hollywood Hills,” Tarazi recalled.
+
+‘He was taking helicopter tours around Las Vegas, partying at fancy nightclubs in LA, staying at … mansions in the Hollywood Hills.’
+
+When Ortiz posted about plans to attend an EDM festival in Belgium, REACT decided to move in. They busted him at Los Angeles International Airport. He was easy to spot, dressed head-to-toe in Gucci. By the time Tarazi and his team finished interrogating Ortiz, the straight-A student was in tears, said the investigator.
+
+Ortiz copped a plea of 10 years in prison for stealing what Tarazi believes to be $5 million to $15 million in cryptocurrency. Since the start of 2018, five crypto bandits — all ages 18 to 26 — have been arrested, said Tarazi, who believes dozens more remain at large.
+
+Truglia is the latest to be brought down. REACT, working with the Manhattan District Attorney’s Office, arrested him in a raid at his Manhattan digs last November. He was charged with stealing $1 million in crypto from a Bay Area retiree.
+
+Terpin, who reported his theft to federal investigators, is suing both Truglia and AT&T. He’s going after the phone company for negligence and other claims to the tune of $224 million. “I am trying to get AT&T to change things,” Terpin said. “And I want criminals brought to justice.”
+
+A representative for AT&T responded, “Mr. Terpin is wrong, and we have asked the court to dismiss his complaint.”
+
+Truglia’s lawyer did not respond to requests for comment.
+
+As for what lies ahead, Tarazi says he’s aware that the bandits now know his tracking methods. “They adapt, we adapt,” Tarazi said. “For the scam to work, though, someone still has to give up his location. And we’re on top of that.”

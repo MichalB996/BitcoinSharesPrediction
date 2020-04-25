@@ -1,0 +1,25 @@
+DATE:  14.03.2019, 15:30:11
+TITLE: Bitfury Integration to Bring Bitcoin Lightning Payments to More Merchants
+URL:   https://www.coindesk.com/bitfury-hadepay-team-up-to-bring-faster-bitcoin-payments-to-merchants
+
+The Bitfury Group has partnered with business payments processor HadePay to bring lightning network-based bitcoin payments to merchants in the U.S., Canada and the EU.
+
+Bitfury announced Thursday that it has integrated its web-based lightning network Peach Merchant API (application programming interface) with HadePay’s platform, allowing businesses to accept payments over the lightning network and “improving the efficiency and lowering the costs” of bitcoin transactions.
+
+After payment is made, merchants can “immediately” convert bitcoins into another currency through HadePay’s platform, Bitfury said.
+
+“By bringing the Lightning Network to HadePay’s payment processing platform, we are making it easier for businesses across the United States to accept bitcoin payments,” said Pavel Prikhodko, head of Lightning Peach, Bitfury’s team of lightning network developers.
+
+Bitcoin payments via HadePay are now available in all 50 U.S. states, Bitfury added.
+
+HadePay runs on a hybrid model, processing both fiat and blockchain payments. The platform can also be used by merchants around the world to accept payments through PayPal, Apple Pay, Square and more.
+
+HadePay CEO and founder Brian Nichols said:
+
+“Bitcoin has always been a good low-cost alternative to fiat payments, but with this integration Bitcoin payments are now equally convenient as our fiat payment processing services, thereby paving the way for mass adoption in commerce.”
+
+It’s worth noting that the lightning network, a second-layer scalability protocol that operates on top of the bitcoin blockchain, is still a beta project (several projects, actually) with some risks attached to its use. Its several iterations continue to develop and see support from the community, however.
+
+Some big name firms and individuals have been supporting the technology in an ongoing experiment known as the Lightning Torch, with financial services giant Fidelity Investments, LinkedIn co-founder Reid Hoffman and Twitter and Square CEO Jack Dorsey all recently taking part.
+
+Bitfury image via CoinDesk archives

@@ -1,0 +1,35 @@
+DATE:  07.10.2019, 19:16:18
+TITLE: 4 Noncustodial Bitcoin Cash-Powered Payment Button Generators
+URL:   https://news.bitcoin.com/4-noncustodial-bitcoin-cash-powered-payment-button-generators/
+
+4 Noncustodial Bitcoin Cash-Powered Payment Button Generators
+
+Bitcoin cash development is popping, whether it’s from engineers programming infrastructure or developers creating third-party resources. One innovative concept is the use of embeddable payment buttons that allow people to tip and donate using BCH payments. Just recently, a new BCH-based payment button was released called Donatebutton.cash, which gives anyone the ability to accept online donations in bitcoin cash.
+
+Also Read: McAfee to Launch Decentralized Token Exchange With No Restrictions
+
+Donatebutton.cash: A Simple Bitcoin Cash Donation Button Generator
+
+BCH fans were recently introduced to a new payment button website called donatebutton.cash, which gives anyone the ability to donate and tip bitcoin cash to content creators, services, and websites. Donatebutton.cash is “a simple Bitcoin Cash donation button generator with instant visual feedback on payments,” explains the developer’s open source repository. After the payment button was announced, BCH supporters welcomed the idea on Reddit and social media. “All the developments happening with BCH are great to see, so many active developers out there — No matter how big or small every bit counts,” an individual remarked on the Donate Button announcement post.
+
+Using the Donate Button is fairly self explanatory as the webpage asks for a BCH public address and a customizable but optional label for the button. Simply pastе the public address in the window on the left and customize the button label with a 10-character word and press “generate.” After the generate tab is pressed, the Donate Button website will show you a preview of the button along with the HTML or iframe code that lets you embed the button on a web page. This means people who visit your web page can donate and tip bitcoin cash to your website. Any content creator or other types of services can be rewarded by simply clicking the button. The button opens up a small window with a QR code attached and you can also choose to copy and paste the address as well. “Easily accept online donations via Bitcoin Cash, the peer-to-peer electronic cash system,” the Donate Button’s website details.
+
+Badger and Gateway’s BCH Payment Buttons
+
+The donatebutton.cash platform is not the only BCH payment button available, as there are three other buttons that content creators can utilize. Bitcoin.com offers the Badger Button, an extension of the Badger Wallet, which allows people to create a payment button on any website. The Badger Button code and demos can be found at the developer.Bitcoin.com portal, alongside a slew of other resources and BCH-centric SDKs. Badger Buttons have some unique features like the ability to open the desktop version of Badger to make a payment. Moreover, the Badger Button also allows you to create a Simple Ledger Protocol (SLP) token button, so you can accept donations and tips in any SLP token. A demo page of a BCH-powered Badger Button can be seen here and the SLP-fueled demonstration button can be viewed here.
+
+There’s the Gateway payment button option as well. The Gateway platform became well known after the BCH blockchain split in November, which saw the Money Button developer follow the BSV chain. Gateway is led by Ty Everett and other contributors, and the application is a unique BCH payment processor, but Gateway also offers documentation on how to create a payment button.
+
+“Paybutton by Gateway is far more than its name suggests — It provides a powerful and seamless way to integrate highly customizable payment processing features into any number of websites, mobile apps, point-of-sale systems and even IoT devices — The use-cases and possibilities for Paybutton are almost endless,” the Gateway button specifications web page explains.
+
+Host a BCH Payment Button With Paybutton.cash
+
+Lastly, there’s the paybutton.cash, a BCH-centric payment button developed by Soupernerd. The project has the same name as the Gateway product, but Soupernerd’s application has been in the pre-release beta stage for quite some time. The open source code base is hosted on github.io, and similarly to the aforementioned button projects, anyone can host a paybutton on their site with just a snippet of code. Despite being in beta, the project can still be used to host a button and publications like Coinspice.io utilize Soupernerd’s button application.
+
+Hosting a payment button with any of these platforms is a fairly intuitive process and people can have a button up and running in a matter of minutes. Bitcoin cash is a fast, reliable cryptocurrency with extremely low network fees that’s perfectly suited for micropayments on the web. Payment buttons make the micropayment revolution a reality by showcasing a real-world use case that rewards content creators, services, and websites.
+
+What do you think about the four different bitcoin cash-fueled payment buttons? Let us know what you think about this subject in the comments section below.
+
+Image credits: Shutterstock, paybutton.cash, gateway.cash, donatebutton.cash, developer.Bitcoin.com, Coinspice.io, and Pixabay.
+
+You can now purchase Bitcoin without visiting a cryptocurrency exchange. Buy BTC and BCH directly from our trusted seller and, if you need a Bitcoin wallet to securely store it, you can download one from us here.

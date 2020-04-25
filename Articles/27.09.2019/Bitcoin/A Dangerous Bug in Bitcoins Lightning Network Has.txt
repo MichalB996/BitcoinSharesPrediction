@@ -1,0 +1,27 @@
+DATE:  27.09.2019, 18:45:08
+TITLE: A Dangerous Bug in Bitcoin’s Lightning Network Has Been Fixed
+URL:   https://www.coindesk.com/a-dangerous-bug-in-bitcoins-lightning-network-has-been-fixed
+
+A popular payments network running atop the bitcoin blockchain suffered from a long-standing code vulnerability – one where attackers could drain users’ of their money.
+
+While initially flagged to the public on Aug. 30 by bitcoin developer Rusty Russell, the full disclosure detailing how this vulnerability could be exploited by an attacker was released Friday.
+
+“An attacker can claim to open a [lighting payments] channel but either not pay to the peer, or not pay the full amount,” Russell wrote in the full disclosure.
+
+The lightning network is a Layer 2 payments protocol enabling ultra-fast and nearly costless transactions atop the bitcoin blockchain. In order for users to send transactions across the lightning network, they must open what are called “payments channels” to send and receive funds from other lightning users.
+
+Without the proper checks, an attacker could pretend to open a new payments channel and send fake transactions. Being duped, an honest user could then send back real money to the attacker not knowing the previous transactions had been completely artificial. It’s unclear how many users fell victim to such attacks.
+
+Already, all major lightning software clients have been upgraded to fix this vulnerability, according to Russell.
+
+When asked why it took three months for the vulnerability to be disclosed to users, Pierre-Marie Padiou – the CEO of a company maintaining one of the three most popular lightning implementations – said developers had to err on the side of caution.
+
+“The problem with this vulnerability is that once you know about it, it seems so obvious,” said Padiou. “Three months is not a long time. It’s a pretty short time because you have to give users the amount of time needed to update. … A lot of users don’t do it.”
+
+Lightning developers, he added, did not want to risk revealing the vulnerability until absolutely sure no users were at risk.
+
+“There are always problems. Even on the bitcoin protocol, there have been bugs,” Padiou said, adding:
+
+“There will always be bugs. What matters the most is how to handle this in the best way to protect users.”
+
+Acinq software developer Bastien Teinturier image via Twitter

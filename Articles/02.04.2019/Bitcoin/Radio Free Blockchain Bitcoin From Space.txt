@@ -1,0 +1,23 @@
+DATE:  02.04.2019, 14:00:12
+TITLE: Radio Free Blockchain: Bitcoin From Space
+URL:   https://hackaday.com/2019/04/02/radio-free-blockchain-bitcoin-from-space/
+
+Cryptocurrencies: love them, hate them, or be baffled by them, but don’t think you can escape them. That’s the way it seems these days at least, with news media filled with breathless stories about Bitcoin and the other cryptocurrencies, and everyone from Amazon to content creators on YouTube now accepting the digital currency for payments. And now, almost everyone on the planet is literally bathed in Bitcoin, or at least the distributed ledger that makes it work, thanks to a new network that streams the Bitcoin blockchain over a constellation of geosynchronous satellites.
+
+Blockchain Everywhere
+
+Ardent supporters of Bitcoin often tout the robustness of the underlying network as one of the many advantages of cryptocurrencies: being built on the Internet, itself a decentralized network originally designed to provide connectivity in times of crisis, they provide a means of exchange independent from central authorities and resistant to any sort of capital controls that might be enacted by them.
+
+But the comeback to those arguments is obvious: since Bitcoin relies on the Internet, a government intent on clamping down on the use of cryptocurrencies could simply turn off the Internet, at least theoretically. And even absent an authoritarian dystopia situation, Internet access is still far from universal. There are many places in the world where access is limited, at best, and often expensive, especially for the proof-of-work (PoW) transactions needed to mine Bitcoin. This necessarily limits the Bitcoin network mainly to the developed world.
+
+Blockstream, a company set up in 2014 by crypto-hacker Adam Back, aims to change that. They announced in 2017 the launch of Blockstream Satellite, a one-way broadcast of blockchain data over four commercial geosynchronous satellites. At the time of the system’s launch, about two-thirds of the landmass of the globe was covered by blockchain broadcasts from on high. As of early 2019, a fifth satellite brought the Asia-Pacific region online, giving access to almost the entire globe. Also added in the 2019 release was an API that allows users to send files to the entire network.
+
+It’s important to note that Blockstream Satellite is a one-way system, at least for now. It only allows users to receive blockchain broadcasts; if a user wants to participate in a Bitcoin transaction, there still needs to be some sort of connection to the Internet. This would seem to bring us back to the original problem in terms of universality of Bitcoin, and in some ways it does, but Blockstream points out that there are low-impact ways to access the Bitcoin network. For example, a Bitcoin wallet on a smartphone could be connected to a satellite node, which could then, in turn, participate in a local mesh network to bring Bitcoin to a small village or isolated community.
+
+Roll Your Own
+
+The hardware needed to set up a Blockstream Satellite node is surprisingly simple, and will be familiar to any SDR hacker. A detailed GitHub page documents the entire setup, which centers around a small satellite dish and low-noise block downconverter (LNB) of the type used for direct-access satellite TV. Because the satellites are geosynchronous, no complex tracking mechanisms are required; once the dish is aimed using the usual tools, the fun can begin. The LNB is connected to a cheap SDR dongle, and the software stack includes apps like GNURadio and GrOsmoSDR. Once a node is running and properly aligned, blockchain transfers are taken care of by BitcoinFIBER. Several hackers have documented their Blockstream satellite setups, too.
+
+Again, this setup is just for receiving blockchain broadcasts, and an Internet connection of some sort is required to exchange Bitcoin. But it still provides a path to Bitcoin use in areas that currently have no other way into the Internet. It also enables Bitcoin mining operations for those with expensive Internet connections, since the blockchain stream is received free over the air.
+
+Perhaps this all means we’ll someday see solar-powered Bitcoin mining operations quietly hashing away at some remote location with nothing but a small satellite dish connecting them to the network. But to Blockstream and to cryptocurrency devotees, that’s not the point. To them, this is about strengthening the core feature of crypto: freedom from any central authority’s control of currency.

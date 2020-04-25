@@ -1,0 +1,29 @@
+DATE:  05.06.2019, 08:00:46
+TITLE: Lightning Co-Creator Releases Code for Bitcoin Scaling Concept
+URL:   https://www.coindesk.com/lightning-network-pioneer-releases-new-code-for-bitcoin-scaling-concept
+
+Tadge Dryja, who co-authored the original paper underpinning bitcoin’s experimental lightning payments network, has released a new research paper outlining a proposed scaling solution that he’s been working on for the past year.
+
+Released Monday, Utreexo would make the part of bitcoin full nodes called the “state” (also known as the “UTXO set”) smaller and easier to run with the help of cryptographic proofs. Though the idea has been around since before CoinDesk first covered the idea in January, this paper describes the idea in greater technical detail.
+
+Dryja is known for being one of the most prominent technologists behind the “lightning” idea, that bitcoin can scale significantly if transactions are pushed to a second layer. Several groups of developers are working to implement the technology for bitcoin payments, though it’s still experimental and not completely safe to use.
+
+Utreexo has a similar motivation, which boils down to making bitcoin full nodes easier to run. Though they take some computing resources to set up, they’re the most secure way of using bitcoin, without needing to trust a middleman to verify that transactions on the network are real.
+
+“As the number of users of the system increases, the UTXO set grows, and the resource cost of running a node increases. This has led to a progressively smaller proportion of users running their own node as more users rely on light clients or on [third] party nodes to inform them of the state of the network,” the paper explains.
+
+As such, the paper outlines a way that nodes could use cryptographic proofs to store less data without compromising on security. “Nodes using the accumulator need only store a logarithmically sized representation of the UTXO set, greatly reducing storage space and disk seek times,” the paper states.
+
+The paper also reveals the results of simulations Dryja has run showing the benefits of the scheme.
+
+”Since January I’ve implemented more code and made the code public on GitHub, and gotten performance numbers for bitcoin mainnet download sizes,” he told CoinDesk.
+
+Though, looking at these numbers, there is a small catch: although the storage requirements decrease overall, the proofs data increases the network bandwidth load.
+
+“In our simulations of downloading Bitcoin’s blockchain up to early 2019 with 500MB of RAM allocated for caching, the proofs only add approximately 25% to the amount otherwise downloaded,” the paper explains.
+
+If other developers want to take a look and pick it apart for themselves, Dryja told CoinDesk he released the code as open source so developers can test out the idea.
+
+“It’s not integrated into a wallet yet, which will still take some time, but the library is there for people to try out,” he remarked.
+
+Image via CoinDesk archives

@@ -1,0 +1,49 @@
+DATE:  01.08.2019, 08:00:47
+TITLE: ‘Building’ Bitcoin’s Software Just Got a Bit More Trustless
+URL:   https://www.coindesk.com/building-bitcoins-software-just-got-a-bit-more-trustless
+
+Like it or not, there’s a bit of trust involved in the process of setting up, or “compiling,” the software at the heart of bitcoin – but a recent code change could help.
+
+Featuring container software Guix, code was recently merged into the most popular bitcoin implementation, Bitcoin Core, meaning it’s now ready for real users to try out. The change could help to limit trust in code downloaded from operating system Ubuntu during the building process.
+
+“It’s been quite a journey, but #Guix support for deterministic, bootstrappable Bitcoin Core builds has landed in master,” the main developer behind the project, Carl Dong, tweeted last month.
+
+For this building process, there are already some protections built in. When downloading Bitcoin Core from Bitcoin.org, many developers use a process called Gitian to make so-called “reproducible” builds, which allows developers to double check that the binaries being distributed to them are the correct version that they want to be downloading – not a replica with a secret backdoor built into the software, say, to steal bitcoins.
+
+But Dong claims that’s not enough in terms of security of the building process, as he detailed in a presentation on the topic at the conference Breaking Bitcoin in Amsterdam.
+
+Through this Gitian process, the code is turned into something a computer would understand. Through that, users might not notice they are downloading code from the operating system Ubuntu, and effectively trusting them.
+
+Dong told CoinDesk:
+
+“Currently, Ubuntu (or whoever gains access to Ubuntu’s signing keys) influences both the availability and security of Bitcoin Core’s release binaries. In the long term, placing trust in un-auditable, opaque binary downloads from third parties like Ubuntu seems like a recipe for disaster.”
+
+Disillusioned no more
+
+Because of this, when going through the whole “reproducible builds” shebang a few years ago, Dong told CoinDesk he became “disillusioned” with bitcoin’s build process.
+
+He found that he wasn’t the only one, and once he joined Chaincode Labs, a hub for bitcoin protocol development in New York City, the project took flight, getting help from Bitcoin Core contributors Russ Yanofsky and Cory Fields, among other active contributors to the Bitcoin Core software.
+
+He decided ultimately that the solution was to minimize the trust in these binaries as much as possible. And to make it easier to track where exactly these binaries are coming from.
+
+“When we use Guix to build our toolchain we can audit how each tool in our toolchain was built and easily bootstrap them from a minimal set of trusted binaries,” Dong said in his Breaking Bitcoin talk.
+
+That’s not to say it eradicates trust completely, Dong said, “unfortunately it is a somewhat infeasible task to remove trusted third parties from the build process completely,” but, he argued, it sure helps.
+
+“What we do achieve is much better auditability of our third-party provided toolchain. This project’s use of Guix allows us to have unprecedented visibility into what our set of trusted binaries is, and how we derive Bitcoin Core’s build environment from it,” he went on.
+
+What’s next
+
+For now, this change is available to users of the Linux operating system. Dong and others are in the process of making the change work for Windows and Mac users as well.
+
+“This was a big first step, and should be a good alternative to Gitian building. Lots of Guix related improvements already in the pipeline. I’m optimistic it’ll play a role in the 0.19.0 release,” tweeted Bitcoin Core contributor Michael Ford who was recently named a maintainer of the software.
+
+Not to mention, Dong has plans to make these builds reproducible across time.
+
+“If this works, it means that future Bitcoin Core developers will be able to build previous Bitcoin Core versions and produce binaries that are bit-for-bit identical to when they were released. This reproducibility-across-time allows us to recreate the exact behavior of previous versions, which is valuable for testing and debugging purposes,” he said.
+
+And, although it’s a rather technical change that might sound arcane, developers are praising Dong for his work in making bitcoin more secure.
+
+“Innovation like this is often invisible to the consumer and investment communities, but is unquestionably the reason why bitcoin is so far ahead,” tweeted Sia co-founder and lead developer David Vorick.
+
+Bitcoin developer Cory Fields via CoinDesk archives

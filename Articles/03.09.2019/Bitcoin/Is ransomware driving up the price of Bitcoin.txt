@@ -1,0 +1,85 @@
+DATE:  03.09.2019, 13:26:16
+TITLE: Is ransomware driving up the price of Bitcoin?
+URL:   https://securityboulevard.com/2019/09/is-ransomware-driving-up-the-price-of-bitcoin/
+
+Cybercriminals may be partially responsible for driving up the price of Bitcoin.
+
+It’s no secret that Bitcoin and other cryptocurrencies have had an enabling effect on cybercrime. Now, we believe the inverse may also be true – that cybercrime, and ransomware in particular, is helping stimulate the cryptocurrency economy and inflating the value of Bitcoin.
+
+Bitcoin: a key part of the ransomware model
+
+Bitcoin has proven to be a tempestuous creature, climbing to an all-time high value of almost $20,000 in December 2017, dropping to below $3,500 in January 2019 and bouncing back to around the $10,000 mark today.
+
+While there are many factors behind these extreme fluctuations, we believe ransomware may be fueling the growth of Bitcoin.
+
+Ransomware is a type of malware that encrypts a victim’s files. To regain access to the files, the victim has to pay a ransom, the cost of which can range from a few hundred dollars for home users, to hundreds of thousands of dollars for major corporations and public entities.
+
+The ransom is usually paid in cryptocurrency, and that cryptocurrency is usually Bitcoin. Bitcoin accounted for about 98 percent of ransomware payments made in the first quarter of 2019, according to figures from ransomware recovery specialists Coveware. As a result, Bitcoin has become an inextricable part of the ransomware model.
+
+There are a few reasons why Bitcoin has become the de facto currency of ransomware:
+
+Accessibility: Bitcoin can be easily purchased via an exchange using a credit card, debit card or bank transfer. Accessibility and ease of use make it more likely for victims to pay the ransom. Verifiable: Bitcoin transactions are publicly documented in the blockchain, which allows cybercriminals to verify that a payment has been made. Anonymity: Bitcoin isn’t the most private cryptocurrency, but mixer and tumbler services allow criminals to essentially launder ransom payments and keep their identities hidden.
+
+The higher the demand, the higher the value
+
+Security experts and law enforcement agencies generally advise against paying the ransom. Not only is there no guarantee that an organization will be able to successfully retrieve its files after paying, but it also perpetuates the ransomware cycle. Paying the ransom proves to cybercriminals that ransomware attacks are profitable, which may incentivize more attacks in the future.
+
+Despite these recommendations, as many as 45 percent of organizations that are hit with ransomware choose to pay the ransom. To pay the ransom, companies need to acquire Bitcoin, which increases demand. And, according to the guiding principles of basic economics, the more market demand there is for Bitcoin, the higher its value will be.
+
+“We know that speculation and investment drives a lot of the Bitcoin market,” says Edward Cartwright, Professor of Economics at De Montfort University, Leicester, UK. “We also know that prices and activity are self-reinforcing – an increase in price or media attention attracts additional funds.
+
+Ransom payments – even those associated with the most profitable ransomware attacks – only account for a very small proportion of Bitcoin’s daily trading volume, which regularly exceeds $10 billion. However, as Cartwright explains, even small price increases can potentially trigger much larger price spikes.
+
+“It is entirely plausible that an increase in price, however slight, could generate a self-fulfilling prophecy of higher prices. This can happen in any asset market but seems particularly likely in Bitcoin where speculation and volatility are that much higher.”
+
+Essentially this means that even small increases in demand can have a knock-on effect that may cause the price of Bitcoin to rise. By forcing companies to buy Bitcoin in order to make a payment, ransomware may increase demand for Bitcoin and contribute to the cryptocurrency’s trading volume. Speculators may perceive this activity as signs of growth and choose to invest in Bitcoin, which increases prices and demand, and adds more momentum to the snowball effect.
+
+The following chart shows this theory in action:
+
+On the morning of 12 May 2017, one Bitcoin was worth $1846. Over the next few days, the world witnessed one of the worst ransomware attacks to date: WannaCry. A ransomware strain that propagated through an exploit created by the United States National Security Agency, WannaCry affected more than 200,000 computers across 150 countries and caused billions in damages. Just two weeks later, one Bitcoin was worth $2446.
+
+According to Cartwright, algorithmic trading may be adding to the issue. Algorithmic trading is a method of using mathematical models to automate financial transactions. When certain conditions are met, the computer program carries out a process according to a set of pre-defined rules at a rate far faster than is humanly possible. As a very basic example, a trader could use algorithmic trading to automatically purchase Bitcoin when the price dips below a certain threshold.
+
+“If news of ransomware increases demand for bitcoin then it makes sense to build this into a bitcoin strategy (whether human or algorithmic),” says Cartwright. “Then, ransomware in the news would automatically lead to an increase in bitcoin price. It is not clear this is the case at the moment but it is a definite possibility.”
+
+Of course, it’s not just ransom payments that drive demand for Bitcoin. In fact, the influence of ransom payments on the price of Bitcoin may be relatively modest when compared to the impact of stockpiling.
+
+Stockpiling could contribute to Bitcoin growth
+
+For companies, the main financial burden of ransomware isn’t the ransom payment – it’s the downtime. Ransomware can have a major impact on day-to-day business activities and can result in lost revenue and business opportunities. According to a Datto survey of more than 2,400 managed service providers, the average ransom attack costs businesses $46,800 in downtime. That’s more than 10 times the average ransom demand of $4,300.
+
+To mitigate these costs and reduce disruption, many companies have resorted to purchasing an emergency hoard of Bitcoins.
+
+“As ransomware demands increase due to attacks moving from individuals to the more wealthy organizations, the managers of businesses and service providers hoard Bitcoins (the ransomware extorters’ currency of choice) to ensure their business and service continuity in case of attack,” says David S. Wall, Professor of Criminology at the University of Leeds, UK.
+
+In the event the organization is hit with ransomware, business leaders can simply pay the ransom straight away and resume normal operations as quickly as possible. As many as 73 percent of chief information security officers say they have a stockpile of cryptocurrency to pay cybercriminals in case of a ransomware attack or data breach. Of this group, almost 8 in 10 (79 percent) say their companies have made payments to cybercriminals.
+
+Back in 2017, Kirill Tatarinov, CEO of Citrix Systems, and Jim Cramer, former hedge fund manager and host of CNBC’s Mad Money, speculated that this behavior could potentially increase demand for cryptocurrencies and drive up the price of Bitcoin. Since then, a number of ransomware events have coincided with Bitcoin price increases, adding further weight to the theory.
+
+At the beginning of May 2019, one Bitcoin was worth $5350. Over the next few months, the media was saturated with stories of ransomware attacks on cities and public entities across the United States.
+
+On May 7, hackers used a strain of the RobbinHood ransomware to infect 10,000 computers belonging to the Baltimore government and threatened to delete the data unless the city handed over $75,000 in Bitcoin. In June, a series of ransomware attacks in Florida resulted in cybercriminals making more than $1 million in illegal profits. In August, an unusual coordinated ransomware campaign affected the computer systems of 22 towns across Texas.
+
+Over this period, the value of Bitcoin rose and receded, but with a significant upward trend. As of September 2nd, Bitcoin is now worth $9,758.
+
+Wall agrees that hoarding may be a contributing factor.
+
+“Increased hoarding along with the fact that Bitcoin is still generally young and regarded more as a commodity (rather than a full trading currency) causes its value to inflate, which, combined with the cryptocurrencies’ relative ease and anonymity plus the knowledge that the ransom will usually be paid, makes Bitcoin and ransomware even more attractive and encouraging to ransomware offenders,” says Wall.
+
+It seems likely that companies will need even larger stockpiles in the months ahead as ransomware distributors demand increasingly extravagant ransoms. According to Coveware, the average ransom payment increased by 184 percent between Q1 and Q2 of 2019 thanks to new ransomware strains such as Ryuk and Sodinokibi, which have recently been used in high-profile attacks on large enterprises.
+
+Conclusion
+
+As Bitcoin goes up in price, ransomware groups get richer. Extortion remains the primary goal of ransomware, but it’s possible that cybercrime groups are starting to see ransomware attacks as a way of inflating the value of their holdings. The operators behind the GandCrab ransomware, for instance, claim to have generated more than $2 billion in ransom payments. With such a large portfolio, even a tiny uptick in Bitcoin prices can result in dramatic financial gains.
+
+It’s difficult to say for certain whether ransomware is responsible for the recent Bitcoin price increases, but multiple indicators suggest it may be a contributing factor. Ransom payments, cryptocurrency stockpiling and algorithmic trading may be increasing demand for Bitcoin, which in turn may be inflating the price.
+
+Please note that this article is not intended to be a detailed analysis. The cryptocurrency economy is not Emsisoft’s area of expertise, but we hope that it serves as food for thought and, perhaps, a starting point for further research.
+
+Acknowledgment
+
+We’d like to thank Professor Cartwright of De Montfort University and Professor Wall of the University of Leeds for their insights. The professors are both members of the EMPHASIS Ransomware Project, a cross-disciplinary research project across six universities that is exploring why ransomware is so effective as a crime and why so many are people falling victim to it. Like Emsisoft, EMPHASIS is a partner in the No More Ransom Project, an initiative designed to help victims of ransomware retrieve their data without paying the criminals.
+
+The post Is ransomware driving up the price of Bitcoin? appeared first on Emsisoft | Security Blog.
+
+*** This is a Security Bloggers Network syndicated blog from Emsisoft | Security Blog authored by Jareth. Read the original post at: https://blog.emsisoft.com/en/33977/is-ransomware-driving-up-the-price-of-bitcoin/

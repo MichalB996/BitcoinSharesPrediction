@@ -1,0 +1,119 @@
+DATE:  26.02.2020, 17:34:30
+TITLE: CoinDesk Explains SIM Jacking or "SIM Hacks"
+URL:   https://www.coindesk.com/coindesk-explains-sim-jacking
+
+Today we're breaking down SIM card attacks in a way even your grandpa can understand, presented in both audio and full-text format.
+
+In the pantheon of crypto hacks, “SIM jacking” is one of the worst. The hack, which is less a hack and more social engineering, is basically a form of identity theft, with the attacker swapping a victim's SIM card remotely, usually with the help of your cell-phone carrier, and then breaking into that victim's email, crypto, bank accounts, basically all the stuff you definitely don’t want someone to break into. And the consequences can be dire, it’s also netted attackers tens of millions in loot over the past few years.
+
+It's audacious but it’s also preventable, with a little awareness.
+
+In this episode of CoinDesk Explains, CoinDesk editors Adam B. Levine and John Biggs explain the attack, what it could mean for you, how it works and what you can do to prevent it in a way that even John could understand. Special thanks to security guru Ralph Echemendia for the advice in today's podcast.
+
+Transcript
+
+Adam: In the pantheon of crypto hacks, “SIM jacking” is one of the worst. The hack, which is less a hack and more social engineering, is basically a form of identity theft, with the attacker swapping a victim's SIM card remotely, usually with the help of your cell-phone carrier, and then breaking into your email, crypto, bank accounts, basically all the stuff you definitely don’t want someone to break into. It's audacious but it’s also preventable with a little awareness. And the consequences can be dire, it’s also netted attackers tens of millions in loot over the past few years.
+
+John: Welcome to CoinDesk Explains, an occasional series from the Markets Daily team where we break down and explore the complex world of Blockchains and Cryptocurrencies like Bitcoin. I’m John Biggs...
+
+Adam: ...and I’m Adam B. Levine. In today’s tightly connected world it always sucks to lose your phone, but when you add “your money” to that sentence it’s even more painful.
+
+So this time we’re talking about how some people have lost their phones [and], with the help of some clever social engineering, sometimes tens of millions of dollars along with it.
+
+Adam: So John, you experienced this firsthand, right?
+
+John: Absolutely. Back in 2017 some jackass swapped their SIM card with mine, I guess by calling T-Mobile and pretending to be me. They were like, “Hello, this is John Biggs, I upgraded my phone or something and need you to transfer service to my new phone.” Now, clearly this was not me calling, but T-Mobile must have believed them and made it happen.
+
+AND NOW A DRAMATIC RE-ENACTMENT, FEATURING JOHN BIGGS AS THE PHONE COMPANY REP AND ADAM B. LEVINE AS THE FAKE JOHN BIGGS.
+
+John: Thanks for calling your phone company, how can I help you today?
+
+Adam: Hi, yeah, I’m John Biggs and I need you to activate my new SIM card.
+
+
+
+John: I’m happy to help you with that. Can you verify your account with your Social Security number, your blood type and your shoe size?
+
+Adam: Actually no, I’m in a big hurry and just need you to help me out.
+
+John: I’m sorry sir, I can’t help you if you can’t verify your account.
+
+Adam: Darn, OK, I’ll call back later.
+
+TWO HOURS LATER
+
+John: Hello, this is another rep from your phone company. How can I help you?
+
+Adam: Hi, I’m John Biggs and need you to activate my new phone.
+
+John: Can you verify your account?
+
+Adam: Nope.
+
+John: That’s fine, let me make that change now.
+
+END
+
+John: It’s pretty much that easy. The real trick is that if you don’t succeed with the first rep, you can call back basically an unlimited number of times until your phone company support slips up, forgets security protocol and agrees to make the change. And these guys are really clever, with like crying baby sounds in the background and stuff.
+
+Adam: That’s the social engineering part. Nobody is actually hacking or attacking your phone itself, they’re taking advantage of the fact that T-Mobile support wants to help you, or at least not get yelled at by you too much. So when somebody calls up and pretends to be you, they can wind up helping someone trying to steal from you instead. So what happened?
+
+John: Yeah, my carrier bought it alright, and helped them out by activating their new phone with my current number. That, in turn, shut off network services to my phone and, moments later, allowed the hacker to change most of my Gmail passwords, my Facebook password and to text on my behalf.
+
+Adam: Ok, so now they have your cell phone, they get your phone calls, they get your text messages and you don’t. But how does that get them the ability to change all those passwords?
+
+
+
+John: Just about every service out there from Gmail to Facebook to Coinbase to BYNANCE are concerned that you’re not going to do a good job of managing your passwords. So they did something even more insecure by adding two-factor authentication via text message. A lot of companies have stopped this, but it’s still a huge hole.
+
+Adam: So when your phone became their phone, now they were the ones who could reset your password.
+
+John: That’s right. All of the two-factor notifications went, by default, to my phone number, which was now their phone number, so I received none of the notifications and in about two minutes I was locked out of my digital life.
+
+Adam: Ouch.
+
+John: Yeah… I noticed all of this at about 10 p.m. and I was lucky. I knew what was happening and called T-Mobile. By 10:30 p.m. I reset my old SIM and began the process of changing all of my passwords and hardening my two-factor accounts and T-Mobile account.
+
+Adam: Did they get anything?
+
+John: So, this is a funny story. A week before I was talking to someone in crypto on Facebook. I forget what about. So a few days after that I got a message from that guy on Facebook Messenger saying, “Hey, I’m in a really bad financial situation and I can’t get to my crypto. Can you send me six bitcoin right and I’ll send you eight tomorrow?”
+
+And I’m like “Huh, that sounds like a good deal!”
+
+Adam: Did you send the bitcoin?
+
+John: Luckily, no, but that was the MO. When I was locked out of my accounts, the hackers pretended to be me and asked my friends to send them bitcoin. One of them texted one of my friends and said, “If I don’t get this crypto right now they’ll pull the plug on my dad at the hospital.” They had figured out my dad was sick. And the crypto friend was like “Uh, yeah, that’s not how hospitals work.”
+
+Adam: That’s awful.
+
+There was also the case of Nicholas Truglia, a 21-year-old New Yorker who hijacked multiple phones and actually stole millions of dollars. According to court documents, Truglia is alleged to have stolen from his father and even a dead man.
+
+Most notably, Truglia got Michael Terpin, a cryptocurrency investor. He used one of these socially engineered SIM swaps with Terpin’s phone to steal $24 million in crypto, which led to Terpin opening a $200 million lawsuit against his cell phone provider, AT&T.
+
+John: How much did this guy have? According to court documents, he had a number of Trezors. “One had over $40 million in cash value of various cryptos, and the other one had over $20 million cash value of various cryptos.” It’s nuts.
+
+Adam: So how do you fight back?
+
+John: My buddy Ralph, CEO of Seguru and Oliver Stone’s tech guy, has some ideas. I talked to him today about protecting yourself from SIM hacks.
+
+Adam: So two-factor everything, but not with text messages.
+
+
+
+John: Definitely. Never depend on your phone for security. It’s just too dangerous. Always use non-SMS-based 2-factor control.
+
+Adam: Have you gotten hacked recently?
+
+
+
+Zohn: <SUDDENLY DIALING IN FROM A TELEPHONE> Not that I can tell.
+
+
+
+Adam: Wait, are you calling from your phone?
+
+
+
+Zohn: Yeah… Trust me, Adam. Trust me. By the way, Adam, can I borrow two bitcoin until tomorrow? I’ll pay you back three bitcoin in the morning.
+
+<THE SOUND OF FAILURE>

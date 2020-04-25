@@ -1,0 +1,33 @@
+DATE:  16.01.2019, 11:02:32
+TITLE: An introduction to Bitcoin and cryptocurrency mining pools
+URL:   https://thenextweb.com/hardfork/2019/01/16/bitcoin-cryptocurrency-mining-pools/
+
+Welcome to Hard Fork Basics, a collection of tips, tricks, guides, and advice to keep you up to date in the cryptocurrency and blockchain world.
+
+When Satoshi Nakamoto published the Bitcoin whitepaper, the concept of mining was pretty simple. Due to the relatively low level of complexity of Bitcoin‘s proof-of-work algorithm, at the time, mining could be done using a laptop.
+
+However, as Bitcoin BTC became more popular, it required greater levels of computing power to successfully mine the cryptocurrency. Hobbyist small-time miners are put at a distinct disadvantage as they have to compete with large corporations with far more processing power. But mining pools might offer a solution, let’s take a look at what they’re all about.
+
+What is are mining pools?
+
+On the surface, mining pools are a very simple concept. Like a lottery pool, where players pool their money together to play the lottery and split any winnings based on the initial investment, mining pools don’t pool investment, but pool processing power and computer resources.
+
+If you were to mine solo, it might take you weeks, months even, to earn a reward for a successfully mined block. If you join a mining pool, you might start making a return in much less time, but you will only get a fraction of the reward you’d receive if you were mining solo. It’s really a game of probability, have fewer high value rewards, or more frequent low value rewards.
+
+What’s going on beneath the surface?
+
+As the previous analogy might have implied, there is a certain amount of organization and coordination required to make mining pools work. The mining pool operator decides how work is divided up, it verifies the work done, and then decides who should get paid what when rewards come in.
+
+Of course, the mining pool operator doesn’t do this work for free either. The operator will take a cut of any rewards, so while you might stand more chance of making a regular income from mining in a pool, your reward will be diminished.
+
+The main problem with mining pools
+
+As you should probably know by now, Bitcoin is all about decentralization. That’s decentralization of computing power, decentralization of miners, decentralization of records, decentralization of politics, you get the point.
+
+However, mining pools are centralized by their nature. They pool resources into one coordinated group, and in some cases even run centralized nodes that are vulnerable to denial-of-service (DOS) attacks. If your pool is affected by a DOS attack, you won’t be able to mine any cryptocurrency unless the pool comes back online or you leave and join another. When you mine solo, you aren’t exposed to these risks as you’re directly connected to the Bitcoin network.
+
+Also, if one single mining pool managed to gain over 51-percent of the Bitcoin network’s hash power, it could use that power for a 51% attack and start double spending cryptocurrency.
+
+It’s a bit of a dilemma. On one hand, you might be financially motivated to join a mining pool, but on the other, ideologically opposed to supporting a group that could obtain too much power. That’s not decentralization after all.
+
+There are a whole host of mining pools you could join and they all work slightly differently. But fundamentally, they all operate around the basic principles of finding work, dividing up the work, and sharing rewards based on work done.

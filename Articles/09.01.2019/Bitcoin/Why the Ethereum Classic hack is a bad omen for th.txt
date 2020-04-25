@@ -1,0 +1,41 @@
+DATE:  09.01.2019, 08:47:29
+TITLE: Why the Ethereum Classic hack is a bad omen for the blockchain
+URL:   https://www.theverge.com/2019/1/9/18174407/ethereum-classic-hack-51-percent-attack-double-spend-crypto
+
+On Saturday, the Coinbase security team noticed something troubling. Someone had made a deep reorganization in the distributed ledger for Ethereum Classic, a smaller spinoff from the Ethereum coin. The attackers had pulled off the cryptocurrency equivalent of writing a bad check. The initial fraud reported by Coinbase on Monday was $460,000, but in the days that followed, the total amount rose to over $1 million, spread over 15 different transactions.
+
+Coinbase told The Verge that no wallets controlled by the company or its customers were involved. The company’s security team only detected the attack because, as security engineer Mark Nesbitt told The Verge, “whether or not it was directed at us, it could have been.” The company severed its connection with the Ethereum Classic blockchain in the wake of the attack; it’s still the connection when be restored.
+
+Cryptocurrency wallets get hacked all the time, but this hack was different, striking at the blockchain itself. The attackers were able to rewrite the supposedly permanent ledger of transactions, something that should be impossible. Cryptocurrency developers have known attacks like this were possible for a long time, but they’ve only recently become something exchanges have to defend against. That raises hard questions about the future of the blockchain, particularly for smaller coins.
+
+WHAT JUST HAPPENED?
+
+In the most basic terms, the attackers disrupted Ethereum Classic in order to spend the same money twice. They sold Ethereum Classic coins for cash, then rewrote the blockchain so that they came away with both the cash and the coins. In a conventional payment system, it’s up to banks and other central enforcers to stop double spending, but there’s no such figure in cryptocurrency. Instead, transactions are enforced through a distributed ledger, produced collectively by currency miners.
+
+“Somebody can always show up out of the blue with more computational power than everyone else.”
+
+But if miners work together, there’s a way to write transactions out of that ledger. All they have to do is split the blockchain at the right moment, and only build on versions of the chain that don’t include the unwanted transaction. All they need is enough mining power to overwhelm the rest of the mining pool — hence, 51 percent. It’s a fundamental weakness in the way cryptocurrencies work, acknowledged since the earliest writing on cryptocurrency. Bitcoin and its siblings all rely on a critical mass of what Satoshi called “honest miners.”
+
+In this case, the 51 percent attack was used to execute a double-spend: writing a bad check and then muscling it out of the ledger. But that’s not the only bad thing you can do once you’re in control. In a paper last year, NYU cryptographer Joseph Bonneau raised concerns about majority attackers wreaking havoc on a coin’s ledger to crater the price and fulfill a short position, something he called a “Goldfinger attack.”
+
+Attacks like this have hit a string of smaller currencies in the past year, double-spending a total of $20 million in 2018, but Ethereum Classic is the most prominent victim so far. With so many competing cryptocurrencies, Bonneau says it’s simply too easy to overwhelm a smaller coin. “Somebody can always show up out of the blue with more computational power than everyone else,” he told The Verge. “The question is, do we see a trend where these attacks are being mounted against bigger and bigger coins?”
+
+AS COINS GET WEAKER, ATTACKS GET EASIER
+
+The attacks are particularly tempting because cryptocurrency prices have plummeted over the last six months. As prices drop, currency mining becomes less lucrative, which makes cheaper and easier to rent out the quantity of computing power you’d need to take over a coin. It’s even easier when you can repurpose mining hardware from a major coin, like ETH (mainline Ethereum), to take over a smaller one, like ETC (Ethereum Classic).
+
+“The feasibility of a 51 percent attack is dependent solely on the availability and cost of mining equipment,” Cornell cryptographer Emin Gün Sirer told The Verge. As that equipment gets cheaper and more available, the attacks become more common. “Bear markets also cause hashpower to be turned off,” Sirer continued, “which then can be rented and used for attacks.”
+
+At the same time, the price drop makes cryptocurrencies like ETC easier to mine. At the time of the hack, the difficulty of mining a block of ETC was roughly half of its September peak, which means you need a lot less mining hardware to get to 51 percent than you would have four months ago. The result is a perfect storm for attackers, who can rent idle mining resources to take over whichever coin is weakest at the moment.
+
+A BLEAK FUTURE FOR SMALL COINS
+
+None of this is likely to affect Bitcoin, which has a large enough mining pool to resist most 51 percent attacks and a chip-specific protocol that makes it less amenable to repurposed equipment. But smaller coins are inherently vulnerable, and the risk is only increasing.
+
+For Nicholas Weaver, UC Berkeley ISCI professor and Bitcoin skeptic, it comes down to a question of how fast miners are burning through electricity. As Weaver puts it, it’s “a nice illustration of how proof-of-waste schemes cannot be both efficient and secure.” The more it costs to mine a block, the more expensive it is to outspend the honest miners for long to reverse a transaction. Electricity prices vary from miner to miner, but Weaver estimates that the Bitcoin network currently runs through about $300,000 in electricity each hour, while the smaller Ethereum network runs at roughly $100,000 per hour. For Weaver, any coin much smaller than that is at risk of a 51 percent attack. Ethereum Classic clocks in at roughly $5,000 per hour.
+
+“Any coin not burning $100,000 per hour should probably be considered insecure in the face of attackers, and should not be supported by any exchange,” Weaver said. “That Coinbase supported a coin that has just $5,000 per hour of protection is negligence.”
+
+Coinbase wouldn’t comment on whether the attack would affect its support for Ethereum Classic, citing insider trading concerns. (Coinbase support has a huge impact on the price of smaller coins, so such statements are ripe for market manipulation.) But Nesbitt, the engineer in charge of managing those attacks, disagreed that the support was negligent. “Weaver’s correct that there are different risk profiles on different currencies,” he said. “I don’t necessarily see why you would draw the line above Ethereum Classic.”
+
+Correction: An earlier version of this post misstated the number of total transactions in the attack, and mistakenly said Ethereum derivatives could be targeted as standalone coins. The Verge regrets the error.

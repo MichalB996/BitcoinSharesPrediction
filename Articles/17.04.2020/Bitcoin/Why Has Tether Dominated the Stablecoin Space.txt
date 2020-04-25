@@ -1,0 +1,143 @@
+DATE:  17.04.2020, 07:49:38
+TITLE: Why Has Tether Dominated the Stablecoin Space?
+URL:   https://cryptobriefing.com/why-has-tether-dominated-stablecoin-space/
+
+Education Why Has Tether Dominated the Stablecoin Space? by Liam Kelly
+
+When Tether began in 2014, it served a critical need for the crypto community. Now, after more than six years operating, it has become a mainstay. But how?
+
+Key Takeaways Tether's stablecoin USDT was introduced to improve the liquidity of the early Bitcoin market.
+
+The project has faced various legal controversies revolving around the legitimacy of its 1:1 USD backing.
+
+Despite these obstacles, the stablecoin has dominated one of the fastest growing sector's in crypto.
+
+Share this article
+
+Since 2014, Tether’s U.S. dollar-denominated stablecoin, USDT, has grown to dominate the crypto space.
+
+The token has found a home among traders looking to hedge against volatile digital assets like Bitcoin and Ether. Along the way, however, it has been met with various controversies.
+
+Despite these obstacles, Tether has earned the title as the number one stablecoin across a wide range of metrics.
+
+What Is the Tether Stablecoin?
+
+Tether’s CTO, Paolo Ardoino, told Crypto Briefing that Tether has enjoyed a “first-mover advantage” in the crypto space.
+
+“In 2014, members of the crypto community got together after seeing a big problem in the space,” said Ardoino. “It was far too slow to move between fiat and crypto to make trades on price swings for Bitcoin.”
+
+At that time, the largest trading pair was between the U.S. dollar and Bitcoin. But because it can take up to three to five days for a traditional bank to process a transaction, large spreads began to appear on exchanges.
+
+In those few days that banks needed to confirm transactions, the price of BTC could change dramatically.
+
+A spread on an exchange refers to the difference between the highest price a buyer will pay (“bid” price) and the lowest price a seller will accept (“ask” price) for a given asset.
+
+Bid prices can be considered the demand for an asset, and ask prices can be considered as the supply for this asset.
+
+When this spread is small, it is an indicator that a market is relatively liquid. When this spread is large, a market is illiquid. At the time of Tether’s creation, the Bitcoin market was very illiquid, and the spread was very large.
+
+Ardoino and others decided to offer a digital version of the U.S. dollar to improve transaction speeds and make trading Bitcoin more liquid. To do this, they created a token that would always equal the price of one U.S. dollar. It is called USDT.
+
+“There are three steps that happen in the life cycle of new USDT: Authorize, issue, and redeem,” said Ardoino.
+
+Authorized USDT are Tether tokens that are not in circulation but are available for purchase based on third-party, customer demand. They exist in Tether’s treasury.
+
+Each time a verified Tether client wants to buy $1 worth of USDT, they must first wire these funds to Tether’s bank. This wire transfer triggers the issuance step. Tether then sends the equivalent USDT amount to the Tether client.
+
+Tether authorizes USDT based on anticipated user demand. In times of volatility, like in March 2020, they authorized more USDT as it was expected traders would seek to use the stablecoin while trading.
+
+“When the market is flat, there is no need to authorize more USDT. We just need to maintain our buffer,” said Ardoino.
+
+Accordingly, there is more USDT authorized than there is USDT issued.
+
+Tether must also create tokens in advance of issuance to limit the number of times it exposes its creation keys to security risks. Due to USDT’s high volume and central role in the crypto space, Tether may be one of the more coveted honey pots for malicious agents.
+
+After issuance, users can redeem these tokens for USD at any time using Tether’s redeem function.
+
+For every Tether token in circulation, Tether claims that it has an equivalent amount of backing in its reserves. The validity of this claim has been questioned on many occasions.
+
+To understand the controversy, readers must also learn about the Tether group of companies, the crypto exchange Bitfinex, and iFinex Inc.
+
+Why Is USDT Controversial?
+
+There are four companies in the Tether group of companies. They include Tether Operations Limited, Tether Limited, Tether International Limited, and Tether Holdings Limited. All of these companies, except Tether Holdings Limited, issue and operate USDT.
+
+Depending on the regulatory environment that a customer is based, they will interact with a different company.
+
+According to Tether’s Terms and Services, American citizens are prohibited from interacting with any of the Tether group of companies.
+
+If a user has connections to any American banking infrastructure, they would interact with Tether Limited. This is because Tether Limited is registered as a Money Services Business and reports to the United States regulator, FinCEN.
+
+Clients who are not affiliated with the United States will interact with Tether International Limited. Tether Operations Limited operates the Tether website and also owns Tether’s intellectual property.
+
+iFinex Inc. owns and operates the crypto exchange Bitfinex.
+
+Stuart Hoegner, Bifinex’s General Counsel, told Crypto briefing that “iFinex Inc. has some common shareholders with Tether. Bitfinex and Tether also share certain – but not all – executives.”
+
+On Apr. 25, 2019, the New York Attorney General’s office led by Letitia James claimed that iFinex had been mixing corporate funds with client funds to cover up an unaccounted $850 million.
+
+The Attorney General obtained an ex parte court order that banned Tether from extending further loans to Bitfinex, according to Hoegner. This order was obtained in the state of New York.
+
+Tether and Bitfinex responded in part by saying that the funds in question had been given to a “third-party payments processor Crypto Capital Corp. to handle customer-withdrawal requests,” according to the Wall Street Journal.
+
+On Apr. 26, 2019, Bitfinex added that:
+
+“The New York Attorney General’s court filings were written in bad faith and are riddled with false assertions, including as to a purported $850 million ‘loss’ at Crypto Capital. On the contrary, we have been informed that these Crypto Capital amounts are not lost but have been, in fact, seized and safeguarded. We are and have been actively working to exercise our rights and remedies and get those funds released.”
+
+These details are relevant to USDT because Tether reportedly drew from its reserves to lend relevant funds to Bitfinex and help fill this $850 million gap. Hoegner said that this loan is secured and is on commercially reasonable terms.
+
+Hoegner affirmed in a court document dated Apr. 30, 2019, that:
+
+“Tether has cash and cash equivalents (short term securities) on hand totaling approximately $2.1 billion, representing approximately 74 percent of the current outstanding tethers.”
+
+This percentage is reportedly much higher due to Tether’s growth over the past year, confirming the stablecoin is not backed 1:1 by dollars alone. Instead, the stablecoin is backed by reserves which are a mix of fiat currency, cash equivalents, and assets that third parties have used to pay Tether for loans.
+
+Many in the crypto community have demanded an independent audit of Tether to ensure some of these claims. The author of Attack of the 50 Foot Blockchain and vocal Tether critic, David Gerard, told Crypto Briefing that:
+
+“Tether has admitted it isn’t backed one-to-one with actual dollars, and some of the backing is actually Bitcoins – this lends credence to critics who said they were printing tethers, buying Bitcoins then claiming the Bitcoins backed the tethers. It’s not clear to me that the order of events matters.”
+
+This is also ground zero for another controversy. Gerard and others have reported on Tether’s alleged role in the manipulation of Bitcoin’s price.
+
+On these points, Hoegner said that allegations that Tether used USDT to manipulate the price of any digital token are “meritless.”
+
+Despite these controversies, Tether continues to lead the stablecoin pack in terms of market cap, usage, and innovative features.
+
+How Does it Compare to Other Stablecoins?
+
+Compared to the rest of the stablecoin market, Tether is by far the most popular and most liquid stablecoin. This fact was made even more evident during the Mar. 12 crash, otherwise known as “Black Thursday.”
+
+As the price of Bitcoin plummeted by more than 40%, traders fled to stablecoins to preserve their holdings’ value.
+
+Beyond a first-mover advantage, however, traders have turned to Tether because it is also one of the most available stablecoins in the industry. “It’s really important to exist on different blockchains, to be available to different communities and networks,” said Ardoino.
+
+To this end, Tether is currently available on Bitcoin’s Omni Layer, Ethereum, Tron, EOS, Algorand, Liquid, and Bitcoin Cash.
+
+Zack Voell, a Blockstream developer as well as the author of Hyperbitcoinizaion, wrote that Tether supports multiple networks to create a hedge “against potential Ethereum vulnerabilities or mainchain insufficiencies.”
+
+Of these blockchains, Ethereum is the most active when it comes to moving USDT. In fact, stablecoins, not just USDT, make up 80% of all daily transfer value on Ethereum, according to Messari.
+
+On Tether’s move into Ethereum and other blockchains, Ardoino said:
+
+“We want to have a first-mover advantage on all possible competitors to Ethereum. If Ethereum starts losing ground, we want to be there for the new community.”
+
+Beyond adopting relevant blockchain networks, Ardoino also revealed that the Tether team is working on making the stablecoin available on Bitcoin’s Lightning Network.
+
+He said:
+
+“The competition is really naive. They are not expanding to other blockchains or investing in new research in developments.”
+
+David Gerard explained that Tether’s dominance should also credit the highly-regulated nature of such competition. “Other stablecoins sell themselves as not being Tether,” he said. “They’re regulated, audited and so on.”
+
+Take USDT’s nearest competitor USD Coin (USDC) from Circle, for instance.
+
+Every month, Circle asks Grant Thornton LLP, a top-five accounting firm, to audit and attest that every USDC is fully collateralized by US dollar reserves. And like USDT, Circle’s offering is available as an ERC-20 token too.
+
+But why haven’t traders made the switch? Gerard told Crypto Briefing:
+
+“The well-behaved stablecoins aren’t what the trading market wants. They want poker chips for their casino, and they don’t want traceable poker chips. Tether has discovered that nobody cares about their optics. They just want to gamble, and squeeze the scarcer and scarcer actual-dollars from whatever suckers are still putting actual-dollars into the manipulated market.”
+
+Tether has thus come full circle. It was the first stablecoin available for the crypto community in 2014, and it continues to lead the ranks for similar reasons.
+
+Moving forward, it appears that stablecoins like USDT will fall under greater scrutiny from world leaders, according to recommendations from the Financial Stability Board (FSB). To that Ardoino said:
+
+“We welcome the Financial Stability Board’s recognition of the role of stablecoins in the global economy, and its consideration of financial technology innovation in the digital asset space.”

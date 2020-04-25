@@ -1,0 +1,41 @@
+DATE:  16.04.2019, 12:56:04
+TITLE: The hunt is on for Satoshi’s Treasure—$1 million bitcoin prize
+URL:   https://cryptoslate.com/hunt-for-satoshis-treasure-1-million-bitcoin-prize/
+
+A cryptic message broadcasted over the Blockstream satellite revealed a treasure hunt for a $1 million in bitcoin prize. The message challenges readers to find Satoshi’s Treasure, a series of challenges—of increasing difficulty—requiring feats of strength, travel, and certain subject expertise.
+
+The broadcast began:
+
+“If you are reading this, something has led you to search for things which bring excitement to an otherwise predictable world.”
+
+The treasure hunt was transmitted the Blockstream Satellite network—which broadcasts the Bitcoin blockchain around the world—on Apr. 13th, touting a reward of approximately 200 BTC at current prices.
+
+“The treasure which will belong to the most successful Hunters and their clan is neither gold, nor jewels, nor pieces of worthless paper that pass for money in this sad age; instead it is Bitcoin, a digital treasure forged from deep mathematical truths, in an amount equal to 1 million USD,” stated the message.
+
+However, those wishing to claim the treasure must prove themselves worthy. According to the message:
+
+“What you are reading is the first clue in a grand Hunt. It is not the first Hunt, nor of course will it be the last one, but the hunt is MINE, and so it is to me that you must prove yourself.”
+
+The message suggests that the treasure is contained within a bitcoin address, and those who can solve for its private key will gain irrevocable control of the funds. It further hints that this private key is split across 1,000 fragments—of which 400 are needed to win the prize.
+
+“I have shattered this Bitcoin treasure into one thousand pieces, using the splitting magic of the wizard Shamir. To reassemble it, you or your clan must find exactly four hundred of the pieces, and meld them back together using Shamir’s spell of recombination. Once you have done so, the treasure will be irrevocably yours.”
+
+Although one might think Shamir is a wizard of lore, the message is likely referencing Adi Shamir, an Israeli cryptographer. “Shamir’s spell of recombination” might be a reference to the secret-sharing algorithm he invented. The algorithm allows a message to be divided into parts, and if a certain threshold is met—in this case, 400—then the secret can be solved with less than the total number of parts.
+
+To acquire these 400 fragments, hunters will need domain knowledge, the ability to travel, and physical strength and fitness. Furthermore, the contents of the message suggest hunters may need to form teams to compete effectively.
+
+“Some keys will require deep knowledge of a certain subject–others will simply require the ability to travel to remote locations, or perform feats of strength. The difficulty will increase until I am satisfied that I’ve found a group of hunters worthy of taking the prize,” the broadcast continued.
+
+The message was met with some skepticism. Some readers demanded proof that the funds exist, which is achievable by publishing a public key of an address containing $1 million in BTC. However, a source familiar with those orchestrating the hunt reaffirms that it is legitimate.
+
+There are some well known folks involved in this like @wheatpond and @secparam so I doubt they're risking their reputation for some sort of scam. — Jameson Lopp (@lopp) April 15, 2019
+
+To add to that, these kinds of cryptographic treasure hunts are not uncommon in the Bitcoin-sphere. There is a community tradition of hiding private keys in things ranging from sculptures, to riddles, to paintings. However, this would be one of the largest BTC prizes publicized to date.
+
+The first 3 keys are available to anyone who can go to the following GPS coordinates, or perform some cryptographic hacking:
+
+“To test the resolve, courage, intelligence and savvy of would-be hunters, I will provide clues to the locations of these thousand key fragments at satoshistreasure.xyz every so often,” added the broadcast.
+
+Interested puzzle-solvers can read the full message here.
+
+Ready player one?

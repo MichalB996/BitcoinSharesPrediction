@@ -1,0 +1,25 @@
+DATE:  29.01.2019, 14:01:42
+TITLE: Vitalik Buterin: Bitcoin’s Failure to Increase Block Size Worse than MtGox Hack
+URL:   https://dashnews.org/vitalik-buterin-bitcoins-failure-to-increase-block-size-worse-than-mtgox-hack/
+
+Vitalik has come out with a strong opinion that the Bitcoin scaling debates, and subsequent decision, caused more harm to the cryptocurrency community that the fallout from MtGox.
+
+In the medium post, Vitalik referenced the excessive transaction fees that were charged to Bitcoin users due to unnecessarily small blocks. At the height of the crises, users had to pay average transaction fees upwards of $55 USD with the average not decreasing below $10 USD for a few months just to get a transaction through in a semi-resonable time period. Due to this significant cost, Buterin claims that users lost more of their money than during the MtGox hack that rocked the cryptocurrency community in 2014.
+
+Many attribute the MtGox hack to a single actor that put the exchange users at risk through inappropriate management. However, the scaling issue was created by many top cryptocurrency developers and influencers agreeing to the New York Agreement to introduce SegWit so long as the block size was increased to 2 MB (SegWit2x) from 1 MB. SegWit was implemented, however, the upgrade to 2 MB blocks was nixed. This not only upset many Bitcoin community members and lead to a congested mempool and unnecessarily large transactions, but also preceded a prolong bear market drawing similarities to the bear market that followed the MtGox incident.
+
+Rifts over scaling fracture cryptocurrency community
+
+
+
+The community rift created from the decision to not implement larger blocks also caused a chain split that created Bitcoin Cash, which would create larger blocks. The Bitcoin Core (with SegWit) developers still recognized the need to scale the network to handle more transactions and pursued a two-tiered, off-chain solution called the Lightning Network. This solution caused its own fierce debate between individuals that wanted to scale on-chain and those that wanted to scale off-chain and what each meant for decentralization. Lightning relies on a hub-and-spoke type system where users must open payment channels on-chain and then conduct all payments off-chain within the channel until final balance settlements on-chain. The two communities slowly grew more hostile towards each other and more Bitcoin Core users soon became maximalists, paradoxically arguing that their way was the only way.
+
+Maximalism: The idea that decentralization is extremely important but only one blockchain and only one form of money is acceptable 🧐 — Erik Voorhees (@ErikVoorhees) January 28, 2019
+
+These ongoing debates, including another block size scaling debate that would create Bitcoin ABC and Bitcoin SV, highlighted the difficulties of arriving at a consensus in a decentralized community. Vitalik also touched on this in his post by discussing that sometimes doing nothing is not a solution even though we seriously want to avoid meddling in each others’ affairs. The initial Bitcoin scaling debate highlighted that even in a decentralized community, there can be concentrations of power to a few individuals with whom key decisions can lie and overrule others. The natural defense against this is for a cryptocurrency to chain split, which was conducted in Bitcoin’s case. However, as seen in online communities and the market, these chain splits weaken the overall community in its infant age.
+
+Dash maintains community with efficient decision making
+
+Dash is able to harness its Decentralized Autonomous Organization (DAO) to better arrive at a consensus, which makes scaling easier and avoids contentious chain splits. While Bitcoin was debating and splitting, Dash seamlessly scaled on-chain from 1 MB blocks to 2 MB blocks which is the equivalent of 8 MB blocks on Bitcoin’s network since Dash has 2.5 minute blocks as opposed to 10 minute blocks on Bitcoin. This helped ensure that Dash has some of the lowest fees and fastest transactions in the cryptocurrency community.
+
+The Dash DAO is able to incentivize this cooperative behavior and reach consensus by properly aligning incentives so each actor advances the network’s interest when they pursue their own interests. This is achieved by allocating 45% of block rewards to miners, 45% to Masternodes (whom must stake 1,000 Dash to vote on key decisions), and 10% to a treasury. Some critics have said that Dash is too centralized with Masternodes, but there are over 4,600 active Masternodes and miners are still responsible for generating the hashing power. This creates a significant decentralization of power without resulting in constant indecision and debates about protocol that ultimately is decided by a cabal of individuals, as some other coins default to due to inaction. Instead, Dash has been able to upgrade multiple times with spirited debate, but no chain splits. Dash is then able to leverage the full power of its cooperative community to continue helping more individuals achieve monetary and financial freedom.

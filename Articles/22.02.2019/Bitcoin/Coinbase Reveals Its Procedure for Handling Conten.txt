@@ -1,0 +1,37 @@
+DATE:  22.02.2019, 15:42:29
+TITLE: Coinbase Reveals Its Procedure for Handling Contentious Forks
+URL:   https://news.bitcoin.com/coinbase-reveals-its-procedure-for-handling-contentious-forks/
+
+Coinbase Reveals Its Procedure for Handling Contentious Forks
+
+On Feb. 20, the San Francisco-based cryptocurrency exchange Coinbase gave the public an inside look at how the company deals with contentious forks. Coinbase engineer Breck Stodghill specifically discussed how the trading platform dealt with the Bitcoin Cash (BCH) split on November 15, 2018.
+
+Also read: ‘Bitcoin Killer’ Onecoin Is Ashes But Investigations Continue to This Day
+
+Replay Attacks, Protection, and ‘Dust Mixing’
+
+Over the last few years, cryptocurrency enthusiasts have gotten used to the idea of forks and subsequent blockchain splits ever since the Ethereum network bifurcated in 2016. Since then there have been a few other notable splits that affected the crypto ecosystem. Coinbase has explained in a blog post written by developer Breck Stodghill that the company believes networks should be able to fork as it’s an “important tool for innovation in the ecosystem.” The only thing is, some forks – specifically ones that don’t have replay protection – can pose “unique security risks” for exchange customers.
+
+The Bitcoin Cash network fork in November was one of those instances as the upgrade was contentious in the eyes of an “opposing subgroup.” In order to protect users who held BCH on Coinbase prior to the fork, the company created its own replay protection strategy to mitigate replay attacks. When a cryptocurrency splits in half there are two chains with identical transaction histories, addresses, and balances. Essentially, without replay protection transactions can be double spent by malicious actors and other types of transaction errors can happen.
+
+“To overcome this unique problem, we implemented our own replay protection by using a strategy called “dust mixing,” thereby ensuring that all customer funds are isolated to a specific chain and not vulnerable to replay attacks,” explains the Coinbase developer.
+
+When the fork took place, Coinbase utilized the dust mixing technique in order to be sure the firm’s hot wallet and customers’ funds were kept safe. One way to separate two identical chains is by using transaction inputs that only exist on one of the ledgers. When the BCH chain diverged into two, new outputs were created and formed within the miners’ reward. These coinbase rewards are different and separate the mirrored chains going forward.
+
+“Dust mixing refers to the practice by exchange operators of including at least one small chain-isolated input to each newly generated post-fork transaction,” Stodghill’s post details. “At the time of the BCH/BSV fork, we obtained a BCH coinbase reward from a miner. We used the coinbase reward to generate a large set of chain-isolated dust outputs. For each newly generated post-fork BCH transaction, we make sure to include at least one input that is guaranteed to be isolated to the BCH chain (i.e. a descendant of a BCH coinbase reward).”
+
+Coinbase continued by adding:
+
+Any leftover change outputs of Coinbase generated BCH transactions are added back into the pool of chain isolated outputs in our hot wallet and can be used as an input to subsequent transactions to produce additional dust outputs required to service BCH sends off our platform.
+
+Contentious Forks Can Lead to Big Exchange Losses
+
+Hard forks are a part of the way blockchains upgrade but contentious forks can lead to splits and subsequent replay attacks if no protection is added by cryptocurrency developers. Back when the Ethereum network fork surprised everyone in 2016, former Coinbase executive Charlie Lee stated that the Ethereum Foundation advised the exchange not to use replay protection. Reports at the time detailed that trading platforms like Coinbase, Yunbi (40,000 ETC) and Btc-e all lost thousands of ETC and ETH during the chaos. On Aug. 6, 2016, Coinbase CEO Brian Armstrong told the cryptocurrency developer Peter Todd that the exchange lost approximately 17,500 ETC ($40,000 at the time) from replay attacks.
+
+In its blog post about the BCH/BSV split, Coinbase explains that the company wants to continue creating an open financial system with a trusted reputation. Founded in 2012 by Armstrong and Fred Ehrsam, the exchange hasn’t seen any major breaches, unlike many of the other trading platforms created back then. As for hard forks, Coinbase says the firm’s engineers are always working around the clock to find solutions to issues like blockchain splits. “Our security focused approach to hard fork management is a direct result of that mission,” the San Francisco company concludes.
+
+What do you think about the way Coinbase dealt with the contentious BCH fork that took place last November? Let us know what you think about this subject in the comments section below.
+
+Image credits: Shutterstock, the Coinbase blog, and Pixabay.
+
+At Bitcoin.com there’s a bunch of free helpful services. For instance, have you seen our Tools page? You can even look up the exchange rate for a transaction in the past. Or calculate the value of your current holdings. Or create a paper wallet. And much more.

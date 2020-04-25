@@ -1,0 +1,67 @@
+DATE:  25.07.2019, 16:30:24
+TITLE: DPOS Blockchains: Is Decentralization At Stake?
+URL:   https://cryptobriefing.com/dpos-blockchains-decentralization-stake/
+
+Technology DPOS Blockchains: Is Decentralization At Stake? by Mike Dalton
+
+Centralization is a key concern for high-throughput blockchains.
+
+Share this article
+
+Delegated proof-of-stake (DPOS) is a consensus mechanism in which coinholders stake their coins with large node operators (aka delegates, witnesses, or block producers). Instead of mining, coinholders elect delegates to create blocks and provide computing power. This is less energy-intensive than proof-of-work schemes, and allows much higher transaction throughput than other blockchains.
+
+DPOS was created by Dan Larimer, who introduced the system via Bitshares, Steemit, and EOS. Many other platforms also use DPOS as well, including Lisk, TRON, Tezos, and ARK.
+
+But although DPOS has become popular, it has also attracted plenty of controversy from critics who say it’s too centralized. Is that a real issue? Let’s take a deeper look.
+
+How Many Node Operators Does DPOS Give Power To?
+
+The most basic concern comes from the fact that most DPOS-based blockchains put power into the hands of just a few delegates. EOS, for example, has just 21 active delegates (or “block producers”) at any time. However, other blockchains have more delegates. Here are the numbers at a glance:
+
+Tezos stands out because it uses a variant of DPOS called liquid proof-of-stake. The number of delegates (or “bakers”) who are active on Tezos is always in flux. In practice, Tezos has had more than 400 bakers at times, and about 100-150 are active each day—but the protocol can support even more bakers if needed.
+
+Additionally, some blockchains use a “hierarchical” variant of DPOS, in which different parts of its blockchain network serve different roles. Vite, for example, has just 25 snapshot block producers at the top of its hierarchy. However, it can also support an unlimited number of consensus groups, which provides greater decentralization.
+
+How Widely Distributed Is Coinholder Voting?
+
+Now let’s look at how coinholders vote for delegates. In theory, some delegates might accumulate a lot of votes, but in practice, coinholders tend to vote more or less equally for each active block producer. For example, take EOS and TRON, where each delegate gets roughly equal support from coinholders:
+
+These charts only show votes for active delegates. If we were to include votes for standby delegates (aka candidates), voting would be even more widely distributed. That doesn’t mean that power would be more widely distributed, though – just that other delegates might gain power at different times.
+
+Is Bitcoin More Centralized Than DPOS?
+
+Bitcoin doesn’t rely on DPOS. It relies on mining, which is usually considered far less centralized than DPOS because each miner competes individually to create blocks. Bitcoin does not have large delegates, but miners usually combine their hash power in mining pools, which do gather power.
+
+In fact, mining pools have made Bitcoin mining very centralized at times. By some measures, Bitcoin is more centralized than EOS and other DPOS-based blockchains. Currently, about 12 pools dominate Bitcoin mining.
+
+Compare the distribution of Bitcoin hashpower among mining pools, against how EOS users have distributed their votes among block producers:
+
+Since 51% of hashing power can exert control over a network, it would only take four mining pools to collaborate in order to reverse a BTC transaction. Mining and DPOS work in different ways, so this is a very reductionist (but widely circulated) portrait of power consolidation.
+
+However, delegates and mining pools do have one thing in common: both types of entities wield influence. Users can, in either case, express their approval or disapproval — either by moving between pools, or by voting for other delegates.
+
+Is Proof-of-Stake More Decentralized Than DPOS?
+
+Proof-of-stake (POS) is an older consensus model that allows coinholders to stake their own holdings by locking up funds in a contract. Unlike DPOS, this is not done to support a delegate – instead, individual stakers are chosen to create new blocks. This selection process is usually weighted in favor of those with more at stake and/or the age of their stake.
+
+Proof-of-stake and DPOS both rely on economic incentives and penalties to prevent power from centralizing around wealthy entities. However, this is hard to visualize, and there are two areas in which staked wealth could be concentrated: staking pools and exchange-based custodial staking.
+
+That said, Emurgo has discussed the ways in which Cardano could prevent centralization among stake pools, and SFOX has speculated about the implications of exchange-based staking for Ethereum 2.0. In any case, proof-of-stake allows users to allocate their funds to large entities, but it still requires precautions against centralization.
+
+Is the Lightning Network More Centralized Than DPOS?
+
+One of the main advantages of DPOS is the fact that it provides excellent scalability and high transaction throughput. DPOS can achieve this because it relies on just a few high-powered nodes rather than many small nodes. EOS can handle about 3000 transactions per second, whereas Bitcoin can handle only seven.
+
+Bitcoin and other non-DPOS blockchains typically achieve greater transaction speeds through second-layer scaling solutions like the Lightning Network. Although Lightning is quite unlike DPOS, it does have a tendency toward centralization. One Lightning node operator, LNBig, provides about 2/3 of Lightning’s channel capacity:
+
+At first glance, Lightning would seem to be far more centralized than anything we’ve looked at, and naturally, many people have observed this.
+
+However, it’s not clear if LNBig’s dominance actually puts Lightning at risk of an attack, as Lightning nodes don’t work like DPOS nodes – instead, they simply provide payment channels.
+
+Why Does It Matter?
+
+Decentralization matters for two reasons (and possibly more). If a blockchain or related system becomes centralized over time, it is possible for those who have gained power within that system to attack or undermine it. Second, if a system is centralized by design, the operators of that system can exert control over users.
+
+However, it’s important to consider that resource centralization doesn’t translate directly to centralized power. Every system is designed to allocate power to node operators in a different way, which means that direct comparisons can be misleading. Simplified charts are popular, but they present an incomplete picture of reality.
+
+So what’s the verdict? Well, on one hand, delegated proof-of-stake blockchains are somewhat more decentralized than their critics give them credit for. On the other hand, DPOS chains are still quite centralized in an absolute sense. Since DPOS is still quite young, it’s hard to say how it will be seen in the future — and the next few years could be critical.

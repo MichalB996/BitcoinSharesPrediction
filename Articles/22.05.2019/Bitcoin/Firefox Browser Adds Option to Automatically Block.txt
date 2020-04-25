@@ -1,0 +1,23 @@
+DATE:  22.05.2019, 09:00:05
+TITLE: Firefox Browser Adds Option to Automatically Block Crypto Mining Scripts
+URL:   https://www.coindesk.com/firefox-browser-adds-option-to-automatically-block-crypto-mining-scripts
+
+Mozilla has released an update for its Firefox browser which includes an option to block cryptocurrency mining scripts on websites.
+
+The option is being offered alongside control of cookies and trackers in the “Privacy & Security” tab of the browser, where users can now also choose to tick a box that prevents “cryptominers” from running, Mozilla announced on its blog Tuesday.
+
+Crypto-mining scripts on websites run in the browser, normally without users’ knowledge or consent, using the power of the computer processor to mine cryptocurrency for hackers’ personal gain.
+
+“These scripts slow down your computer, drain your battery and rack up your electric bill,” Mozilla said.
+
+The option to block mining scripts has been available in beta since the feature’s initial launch in April, with Mozilla partnering with cybersecurity firm Disconnect for the service.
+
+Mozilla revealed its plan to offer the feature last August, saying its goal was to prevent third-party scripts from hampering the user experience. Web browser Opera also offers miner protection in its smartphone version, while Google’s Chrome has banned miners from its extensions.
+
+Illicit crypto mining, sometimes called crypto-jacking, is fast gaining in popularity with criminals (there are more legitimate uses too). The code that carries out the task of mining can be propagated by malware and placed directly within computer systems, or it can be placed on websites by hackers to mine using victims’ machines through browsers.
+
+A report from Skybox Security last year found that the method now account for 32 percent of all cyberattacks, while ransomware only makes up 8 percent.
+
+In 2017, Skybox found that the situation was almost exactly reversed. While ransomware attacks – in which the data on an individual’s computer is encrypted by malware and only unlocked upon payment of a fee – made up 32 percent of all attacks, cryptojacking represented 7 percent of the total at the time.
+
+Mozilla Firefox image via Shutterstock; browser settings image via Mozilla

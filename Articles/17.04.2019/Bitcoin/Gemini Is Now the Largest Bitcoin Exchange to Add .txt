@@ -1,0 +1,23 @@
+DATE:  17.04.2019, 08:00:39
+TITLE: Gemini Is Now the Largest Bitcoin Exchange to Add ‘Full’ SegWit Support
+URL:   https://www.coindesk.com/gemini-is-now-the-largest-bitcoin-exchange-to-add-full-segwit-support
+
+Cryptocurrency exchange Gemini announced Monday that it has added “full” support for segregated witness (SegWit), an important bitcoin code change that paves the way for scaling improvements.
+
+While many bitcoin companies have adopted SegWit to some degree, Gemini is unique in it’s the largest bitcoin exchange thus far to roll out support for “native SegWit addresses,” a newer type of bitcoin address which helps to scale the cryptocurrency even further but has been adopted to a lesser degree.
+
+Gemini head of communications Carolyn Vadino told CoinDesk:
+
+“Our choice to use native SegWit addresses was based on many factors including block space savings as well as safety concerns. As SegWit’s use, support, and adoption grows, it will help reduce fees, wait times, and network congestion.”
+
+As helpful a change SegWit is for boosting how many transactions bitcoin can support at once, each individual wallet and exchange needs to individually code up support for the new type of transaction. And adding native SegWit addresses takes a bit more time — hence why the change hasn’t been rolled out everywhere.
+
+But Gemini – perhaps best-known for being led by entrepreneur-brothers Cameron and Tyler Winklevoss – is eager to adopt the technology in part because it enables lightning, a “layer-two” technology seen by advocates as the future of bitcoin payments.
+
+“SegWit transactions also lay the groundwork for more advanced technologies; of which the lightning network is the most well known,” Vadino explains.
+
+Gemini admits, though, it still might take a while for the ecosystem to fully adopt the change.
+
+“We think it’s the right time to make this change, though there will still be some growing pains,” wrote Gemini software engineer Brian KimJohnson in a blog post that announced the change. “Notably, while some block explorers are capable of tracking native SegWit addresses, the support varies widely from one solution to another.”
+
+Binary code image via Shutterstock

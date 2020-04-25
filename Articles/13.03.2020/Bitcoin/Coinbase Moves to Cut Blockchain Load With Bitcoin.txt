@@ -1,0 +1,19 @@
+DATE:  13.03.2020, 12:37:23
+TITLE: Coinbase Moves to Cut Blockchain Load With Bitcoin Batching
+URL:   https://www.coindesk.com/coinbase-moves-to-cut-blockchain-load-with-bitcoin-batching
+
+San Francisco-based cryptocurrency exchange Coinbase has started grouping multiple bitcoin transactions together, rather than issuing sends one by one.
+
+The adoption of "batching," the firm said in a blog post Thursday, will mean less strain is put on the Bitcoin blockchain from large numbers of transactions arising from the popular exchange. The move will further reduce transaction fees for customers, according to the post.
+
+"We anticipate that this will reduce our load on the Bitcoin network by more than 50 percent, and the network fees our customers pay will automatically be reduced by an equivalent amount when sending," wrote Eli Haims, Coinbase product manager.
+
+Batching is already live, with the firm warning that it will add a "small delay" in sends being broadcast to the network, but will not impact the time it takes for users' transactions to be confirmed.
+
+The change will have its effect by reducing the number of transaction that need to be processed by the many, but still limited, number of computers supporting the network. In times of high use, bitcoin can become congested, with users needing to pay higher fees in order to get their transactions verified.
+
+Historically, when bitcoin's price is peaking, the market becomes more busy and fees often rise in conjunction. Fees have been stable and relatively low since last year, but peaked to record levels as bitcoin rose to an all-time high in late 2017.
+
+Notably, the recent turmoil in the markets prompted by the coronavirus' potential hit on the global economy has seen a sharp rise in fees, apparently as investors and traders moved in large numbers to liquidate their holdings.
+
+According to data from Byte Tree shared in a tweet, transaction fees on average over the last five weeks were around 74 U.S. cents, but an hourly average sometime Thursday saw that climb to almost $2 on average.

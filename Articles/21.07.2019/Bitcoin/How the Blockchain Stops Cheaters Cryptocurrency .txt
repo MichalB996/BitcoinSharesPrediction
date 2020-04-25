@@ -1,0 +1,55 @@
+DATE:  21.07.2019, 13:45:23
+TITLE: How the Blockchain Stops Cheaters: Cryptocurrency and Provably Fair Gaming
+URL:   https://news.bitcoin.com/how-the-blockchain-stops-cheaters-cryptocurrency-and-provably-fair-gaming/
+
+How the Blockchain Stops Cheaters: Cryptocurrency and Provably Fair Gaming
+
+Online casinos and betting sites have proliferated since the first of their kind came on the scene in 1994. Thanks to the convenience of playing from home, the allure of winning real money, and a degree of privacy, these popular sites continue to evolve. There have been major problems, though, regarding perceived fairness and randomness of play. Blockchain technology offers a solution in provably fair gaming, taking trust out of the picture almost entirely.
+
+Also read: Why You Can’t Bet With Bitcoin at Online Casinos in the US
+
+Mistrust of Old Models
+
+Consumer mistrust of online gaming sites has been understandably high in the past, as the relationship between house and player is often shrouded in slick talk and foggy uncertainty. A 2013 survey of online gamblers showed that 91.5% of the 10,000+ interviewed wanted some kind of reputable, third party report to guarantee fairness in play. Things like hashing and open source, blockchain-based code are now making this possible.
+
+What Is ‘Provably Fair’?
+
+Provably fair means that the mechanisms used to generate results on a gaming platform can be vetted by the user independently for authenticity and randomness. Prior to the rise of blockchain solutions, users had to simply trust that their online casino was generating results without altering them according to the player’s bet, or some other arbitrary factor.
+
+The house could stand to win a lot more by knowing how players bet, and purposefully broadcasting results not favorable to the user. With blockchain-based gambling, however, all the information about every single bet and result, and how the outcomes were arrived at, is stored on a public ledger, and these algorithms can be verified by users.
+
+Instead of relying on a website’s bold claim of “third party-verified gaming” players can now prove this fairness to themselves using randomly generated seeds and hashes, as well as verification tools unaffiliated with the site itself. While the words “provably fair” in and of themselves do not necessarily denote a trustless system (some sites can still “rig” outcomes in subtle ways if users aren’t careful), this innovation does take things leagues beyond “just trust us.”
+
+How It Works
+
+Let’s say online gamer Susan wants to play some dice games. She heads to a provably fair site and places her bet. Before her bet is placed, however, the site’s server provides her with a hash (a near impossible-to-reverse, fixed-length output scrambling of data) of the predetermined server-side result or outcome of the roll (server seed). Now, Susan’s browser — or Susan herself — provides a random seed (client seed) which modifies the predetermined hash to something neither she nor the gaming site can predict. When all this has taken place, the dice are rolled.
+
+After Susan has finished her gaming session, she can check the hashes provided by the site against the seeds she provided, using a now unhashed server seed. Via verification tools, she can be sure that the outcomes of her rolls were generated both according to the gaming site’s original seed (unchangeable after being decided prior to the bet or roll), and her own random client seed (existing only in her browser) via a predetermined algorithm.
+
+In essence, the process is like someone writing a math problem on a piece of paper (such as 2 + 2 = ?) but with one of the values written in invisible ink (2 + ? = ?) This person then folds the paper and places it in another person’s pocket. This other person removes the paper, and now secretly writes a new number in black ink, crossing out the first, visible integer. Both people can then examine the paper with identical “magic flashlights.” The intended result “4” can be understood via the original magic ink value of “2,” but now must be adjusted based on the newly placed first value in black ink. In this way, neither party is able to predict the result without the magic lights (open source code, seeds, and hashes) showing the invisible ink (unhashed server seed) and newly written number in black (client seed).
+
+Though much more complex than the simple illustration given above, this is the basic idea. In provably fair gaming, nobody has to trust anyone else about the outcome being random and fair, as long as the underlying mechanisms are transparent.
+
+Transparency Is Paramount
+
+As alluded to earlier, not all sites claiming to be provably fair actually are, so it is important to exercise caution. Most online gamblers and gamers are not programmers, and wouldn’t know how to verify these things without some useful tools to help. Reputable sites include links to open source tools by which to check seeds and verify results. Oftentimes these tools are found on the sites themselves, and utilize the client’s browser. Beyond this, the algorithm used to generate randomness itself should also be clearly defined and open source.
+
+In cases where this information is not transparent, platforms can potentially gather client browser data, and analyze the gambling patterns of individual players to avoid payouts. This is why a gaming site’s transparency and soundness of underlying mechanism is of utmost importance. It’s also why it’s good to manually generate new seeds with each play or session.
+
+Less Trust Equates to More Reliability
+
+Provably fair gaming and betting are continuing to evolve with the aid of blockchain innovation. Newly developing ideas such as atomic, on-chain betting would remove trust elements from transactions even further. As it stands, even on provably fair, completely reliable sites the player is still required to trust that they will indeed receive their payout after a randomly-generated outcome has given them a win. Using the opcode OP_Checkdatasig, however, it may be possible to remove this element completely, automating trustless gaming from start to finish.
+
+Bitcoin.com’s Bitcoin Cash Games web portal is a provably fair gaming site that offers video poker, roulette, blackjack and more so players can wager BCH in a high stakes environment. We can 100 percent assure that our gaming platform can be played with confidence and that all deals are entirely fair. “The reason that we can guarantee provably fair gaming is that your web browser supplies a random number that we must incorporate into the random number generator in a provably consistent way,” explains Cashgames.Bitcoin.com.
+
+Bridge to the Future: Fair Money and Fair Play
+
+As online gaming — and finance itself — continue to evolve, permissionless systems are revolutionizing the way humans conceptualize fairness. Whereas altruistic, trust-based norms have held sway for most of history, it now appears that the best way to build trust might be by removing it completely. That is to say, in creating systems so transparent and understandable that bad actors and scammers will have nowhere to hide.
+
+This is akin to the way people trust a well-tested bridge, and not a blindfolded promise from a stranger of safe passage. There’s always some element of risk, but knowing how the bridge was built, how often it is maintained, and seeing it for oneself is always preferable to being blindfolded and simply invited to walk across a canyon.
+
+What are your thoughts on provably fair blockchain gaming? Let us know in the comments section below.
+
+Image credits: Shutterstock, Fair use
+
+Did you know you could win big with Bitcoin gambling? Choose from a range of BCH games including BCH poker, BCH slots, and many more. All games are provably fair—good luck!

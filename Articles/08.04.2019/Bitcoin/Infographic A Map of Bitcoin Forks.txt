@@ -1,0 +1,117 @@
+DATE:  08.04.2019, 20:08:48
+TITLE: Infographic: A Map of Bitcoin Forks
+URL:   https://bitcoinmagazine.com/articles/infographic-map-bitcoin-forks
+
+Ring in the new bitcoin halving cycle the right way: with us!
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+This infographic provides a schematic overview of the main Bitcoin-related “forks” that can happen and shows the most important forks that have happened. It does not provide an overview of all forks that have happened.
+
+What Are Bitcoin Forks?
+
+The word “fork” is somewhat confusing because there are different kinds of “forks” that mean very different things.
+
+Codebase Fork
+
+A codebase fork is a copy of the code of a software implementation. A codebase fork typically makes tweaks to the original codebase. In the context of Bitcoin, codebase forks can be entirely compatible with the Bitcoin protocol, they can cause an unintentional blockchain fork, or they can establish a whole new cryptocurrency.
+
+Blockchain Fork
+
+A blockchain fork happens when a blockchain branches into two versions of transaction history. This can happen for a number of reasons, can be expected or unexpected, and can, depending on the circumstances, lead to a number of outcomes, ranging from a single orphaned block to a whole new cryptocurrency.
+
+Hard Fork
+
+A hard fork is a type of protocol upgrade that loosens or removes rules. If all users upgrade, a hard fork doesn’t cause a blockchain fork. Especially in the context of Bitcoin, some argue that unless all users upgrade, the “upgraded” protocol shouldn’t be called a hard fork at all, but a new cryptocurrency or “forkcoin.”
+
+Soft Fork
+
+A soft fork is a type of protocol upgrade that tightens or adds rules. Soft fork upgrades can cause blockchain forks, but enforcement by a majority of hash power guarantees eventual convergence on the same transaction history. A miner-activated soft fork (MASF) is triggered by hash power, while a user-activated soft fork (UASF) is triggered by users.
+
+Gray Areas
+
+While the different terms sound clear enough, the reality of Bitcoin is complex. The difference between hard and soft forks is not always obvious, and sometimes it’s not even clear what should be considered a protocol upgrade at all. To this day, there are cases where experts disagree on how certain events should be categorized, and politically motivated attempts to rewrite history make some of this even more confusing.
+
+Infographic Key
+
+Bitcoin Core
+
+Bitcoin launched in 2009 when Satoshi Nakamoto released the first Bitcoin codebase. Then, it was simply called “Bitcoin” (or, more specifically, “Bitcoin 0.1.0” for that first release). Later generations of the same codebase were rebranded as “Bitcoin Core” and are sometimes also referred to as the “Satoshi client.”
+
+Regular Blockchain Forks
+
+When two or more miners find valid blocks at the same time, the Bitcoin blockchain forks into two branches. By design, these forks resolve as soon as one branch becomes longer, at which point the shorter branch is abandoned (“orphaned”). This happens regularly, even today.
+
+First Soft Fork
+
+Bitcoin’s first soft fork protocol upgrade disabled a protocol feature, OP_RETURN. This was technically a UASF, but in these early days it was really just Satoshi Nakamoto dictating the protocol rules. The upgrade did not cause a blockchain fork.
+
+First Hard Fork
+
+Arguably, Bitcoin’s first hard fork protocol upgrade added a new feature, OP_NOP, and was also dictated by Satoshi Nakamoto. Not everyone agrees this upgrade was in fact a hard fork, however. Either way, it did not cause a blockchain fork.
+
+Unintentional Blockchain Fork
+
+Unintentional blockchain forks happen when different parts of the Bitcoin network are seeing different transaction histories and the situation doesn’t resolve automatically. These types of blockchain forks are usually caused by software bugs or other technical problems, and are among the biggest short-term failures Bitcoin can experience. Luckily, it has happened only two or three times in Bitcoin’s history, and each time it was resolved through community coordination without much damage.
+
+Bitcoin Knots
+
+Bitcoin Knots is an example of a codebase fork of Bitcoin Core. A codebase fork is a copy of the code, and does not need to cause a blockchain fork. Indeed, Bitcoin Knots is designed to remain compatible with Bitcoin Core — it just offers different features.
+
+Libbitcoin
+
+Libbitcoin is an example of a complete reimplementation of the Bitcoin protocol in a different codebase. It is not a codebase fork of Bitcoin Core, but it is designed to remain compatible with Bitcoin Core nonetheless.
+
+First MASF
+
+The P2SH upgrade was arguably the first MASF, although later MASFs used a more purely hash power–based upgrade mechanism. It did not cause a blockchain fork.
+
+The BIP148 Client
+
+The BIP148 client is another example of a codebase fork of Bitcoin Core. The BIP148 client was tweaked to enforce a UASF, in order to activate the Segregated Witness protocol upgrade. It could have become incompatible with Bitcoin Core and other Bitcoin clients.
+
+Bitcoin ABC
+
+Bitcoin ABC is yet another example of a codebase fork of Bitcoin Core. Bitcoin ABC, however, was tweaked to ensure it would become incompatible with Bitcoin Core and other Bitcoin clients at a certain point in time.
+
+Bitcoin ABC Forks Away from Bitcoin to Create “Bitcoin Cash”
+
+On August 1, 2017, Bitcoin ABC became incompatible with Bitcoin Core and other Bitcoin clients. In doing so, it created a new cryptocurrency, called “Bitcoin Cash.” (While not shown in this infographic, Bitcoin Cash now also consists of several clients — not just Bitcoin ABC.)
+
+BTC1
+
+BTC1 was also a codebase fork of Bitcoin Core tweaked to ensure it would become incompatible with Bitcoin Core and other Bitcoin clients. However, BTC1 had the specific purpose of deploying a hard fork upgrade for a new Bitcoin protocol, “Segwit2x.” (Put differently, the goal was to have all Bitcoin users switch to the Segwit2x protocol and consider this protocol “Bitcoin.”)
+
+First UASF
+
+If the BIP148 client had not gained sufficient support, it would have forked away from Bitcoin to create a new cryptocurrency. However, because enough miners upgraded their systems, the BIP148 client remained compatible with other Bitcoin clients. Many see this protocol upgrade as the first “real” UASF: not dictated by developers, but born out of a grassroots user movement.
+
+Bitcoin Clashic
+
+A new Bitcoin ABC release was designed to hard fork to an upgraded Bitcoin Cash protocol. Most Bitcoin Cash users indeed upgraded and claimed the name “Bitcoin Cash” for this new protocol. However, a small minority of users chose to continue using the first Bitcoin Cash protocol (mostly as a joke) and adopted a new name for this cryptocurrency: “Bitcoin Clashic.”
+
+Bitcoin Core (Not the Implementation)
+
+In early 2018, most of the Bitcoin Clashic community adopted a codebase fork of the Bitcoin Clashic client, called Bitcoin Core Sq. Incompatible with existing Bitcoin Clashic clients, this once again created a new cryptocurrency, with the intentionally confusing name “Bitcoin Core.” Bitcoin Core Sq and/or the Bitcoin Core cryptocurrency are incompatible with the Bitcoin Core software client and/or the Bitcoin protocol. While Bitcoin Clashic lived on for some time as well, it has now been abandoned entirely (largely in favor of Bitcoin Core).
+
+Segwit2x Fails
+
+For a number of reasons, BTC1 was adopted by almost no one. Not only did it fail to “upgrade” the Bitcoin protocol, it did not even continue as a new cryptocurrency.
+
+Bitcoin Gold, Bitcoin Diamond and Dozens of Fork Coins
+
+After Bitcoin ABC had set a relatively successful precedent of creating Bitcoin Cash through a blockchain fork, a number of so-called “forkcoins” launched. Where Bitcoin Cash was born out of a long-standing disagreement within the Bitcoin community, other forkcoins generally considered a blockchain fork to simply be a good way of launching a new coin.
+
+Bitcoin SV
+
+Bitcoin Satoshi’s Vision (Bitcoin SV) is a codebase fork of Bitcoin ABC, but tweaked to ensure that it would become incompatible with the Bitcoin Cash protocol at a certain point in time.
+
+Bitcoin ABC and Bitcoin SV Split
+
+In 2018, a disagreement within the Bitcoin Cash community had Bitcoin ABC and Bitcoin SV both split off from the existing Bitcoin Cash protocol. The Bitcoin ABC side came out of the split bigger in just about every way and claimed the name “Bitcoin Cash,” though it is now also referred to as “Bitcoin Cash ABC.” The Bitcoin SV side of the split claimed the name “Bitcoin SV.” (Both the new cryptocurrency and its main implementation share the name “Bitcoin SV” now.)
+
+Bitcoin Dark
+
+Bitcoin Dark was a codebase fork of Bitcoin Core, making for a cryptocurrency with the same name: Bitcoin Dark. Like Litecoin and many other altcoins, the codebase was tweaked to be entirely incompatible with the Bitcoin protocol right from the start. It is, therefore, an entirely new currency, not a blockchain fork, that just happened to use “Bitcoin” in its name. Today, Bitcoin Dark is considered defunct.

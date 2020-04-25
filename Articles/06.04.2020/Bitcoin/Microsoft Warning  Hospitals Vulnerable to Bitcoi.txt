@@ -1,0 +1,35 @@
+DATE:  06.04.2020, 14:00:35
+TITLE: Microsoft Warning – Hospitals Vulnerable to Bitcoin Ransomware
+URL:   https://bitcoinist.com/microsoft-warning-hospitals-bitcoin-ransomware/
+
+News Microsoft Warning – Hospitals Vulnerable to Bitcoin Ransomware
+
+Microsoft has issued a chilling warning that many hospitals in the United States are at risk of bitcoin ransomware attacks right now amid the coronavirus pandemic.
+
+
+
+Bitcoin Ransomware Attackers Target Hospitals
+
+The giant software company said that “dozens” of hospitals are using vulnerable gateways and that this makes them easy targets for the REvil ransomware that is currently scanning the internet for these types of flaws. Last year, REvil ransomware distributors netted $287,000 in just 3 days from launching this kind of attack.
+
+On Wednesday, Microsoft delivered warnings to the hospitals on its list that appear to be particularly at risk. On the company’s blog, its threat protection intelligence team wrote about healthcare organizations being particularly susceptible during the COVID-19 crisis. The article says that the company has identified several dozens of such hospitals and gives advice on how to act to avoid an attack.
+
+This, the company stated was “a first-of-its-kind targeted notification” letting these establishments know about their vulnerabilities and the bad actors that are currently trawling the web.
+
+Microsoft Warn of Increasing Cyber Threats
+
+We have already seen increased cyber threats during the COVID-19 crisis in the form of social engineering. Many unfortunate victims have downloaded apps claiming to provide information about the virus and instead steals their personal data.
+
+However, Microsoft pointed to evidence that a more dangerous and sophisticated threat was lurking that could throw hospitals into chaos in their hour of need. A Microsoft spokesperson told SearchSecurity:
+
+We’re seeing not just a rise in COVID-themed typical phishing/malware lure emails, but an uptick in the attempted compromise of legitimate services, such as healthcare and technology providers. Attackers are masquerading as these trusted entities using their services as a relay to get to users. We have seen attackers with many motivations utilize these human-operated ransomware style vulnerabilities, including to target hospitals.
+
+However, with the right action at the right time, these types of attacks are preventable. Hospitals must ensure to patch their VPN vulnerabilities so as to not fall victim to both COVID-19 and REvil ransomware. A Microsoft spokesperson said:
+
+We recommend to hospitals that they prioritize patching any open VPN and gateway vulnerabilities, as attackers are actively taking advantage of them as people work and access information remotely.
+
+Are you surprised that bitcoin ransomware attackers are targeting hospitals during this global pandemic? Let us know in the comments below!
+
+
+
+Images via Shutterstock

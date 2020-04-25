@@ -1,0 +1,43 @@
+DATE:  21.05.2019, 17:50:00
+TITLE: Hackers have been holding the city of Baltimore’s computers hostage for 2 weeks
+URL:   https://www.vox.com/recode/2019/5/21/18634505/baltimore-ransom-robbinhood-mayor-jack-young-hackers
+
+Thirteen bitcoins are standing between the city of Baltimore and many of the services and processes its citizens rely on after hackers seized thousands of government computers at the start of the month. The ordeal has been going on for two weeks, and there’s no clear end in sight.
+
+Here’s what’s happening: On May 7, hackers digitally seized about 10,000 Baltimore government computers and demanded around $100,000 worth in bitcoins to free them back up. It’s a so-called “ransomware” attack, where hackers deploy malicious software to block access to or take over a computer system until the owner of that system pays a ransom.
+
+Baltimore, like several other cities that have been hit by such attacks over the past two years, is refusing to pay up. As a result, for two weeks, city employees have been locked out of their email accounts and citizens have been unable to access essential services, including websites where they pay their water bills, property taxes, and parking tickets. This is Baltimore’s second ransomware attack in about 15 months: Last year, a separate attack shut down the city’s 911 system for about a day. Baltimore has come under scrutiny for its handling of both attacks.
+
+The ransomware attacks in Baltimore and other local governments across the US demonstrate that as ransomware attacks spread, and as common targets such as hospitals and schools beef up their online systems’ security, there are still plenty targets vulnerable to this kind of hack. It also exemplifies the conundrum that ransomware victims face: pay up and get your access back, or refuse — potentially costing much more in the long run.
+
+What’s going on in Baltimore, briefly explained
+
+Hackers targeted the city of Baltimore on May 7 using a ransomware called RobbinHood, which, as NPR explains, makes it impossible to access a server without a digital key that only the hackers have.
+
+The Baltimore hackers’ ransom note, obtained by the Baltimore Sun, demanded payment of three bitcoins per system to be unlocked, which amounts to 13 bitcoins to unlock all the seized systems. The note threatened to increase the ransom if it wasn’t paid in four days, and said the information would be lost forever if it wasn’t paid in 10 days. Both deadlines have now passed.
+
+“We won’t talk more, all we know is MONEY! Hurry up! Tik Tak, Tik Tak, Tik Tak!” the note said.
+
+The city government is refusing to pay, meaning that the government email systems and payment platforms the attack took down remain offline. The attack has also harmed Baltimore’s property market, because officials weren’t able to access systems needed to complete real estate sales. (The city said transactions resumed on Monday.)
+
+Baltimore Mayor Jack Young, who’s officially been in his office less than a month, said in a statement on Friday that city officials are “well into the restorative process” and have “engaged leading industry cybersecurity experts who are on-site 24-7 working with us.” The FBI is also involved in the investigation.
+
+“Some of the restoration efforts also require that we rebuild certain systems to make sure that when we restore business functions, we are doing so in a secure manner,” Young said. He did not offer a timeline for when all systems will come back online.
+
+The Baltimore City Council president also plans to form a special committee to investigate this latest attack and try to ensure it doesn’t happen again.
+
+A similar attack using RobbinHood hit government computers in Greenville, North Carolina, in April. A spokesperson for Greenville told the Wall Street Journal that the city never wound up paying, and that while its systems aren’t entirely restored, “all of our major technology needs are now being met.”
+
+More than 20 municipalities in the US have been hit by cyberattacks this year alone. And such attacks can be expensive, perhaps especially if targets say they won’t pay. In 2018, hackers demanded that Atlanta pay about $50,000 in bitcoins as part of a ransomware attack. The city refused, and according to a report obtained by the Atlanta Journal-Constitution and Channel 2 Action News, the attack wound up costing the city $17 million to fix.
+
+Ransomware attacks aren’t new — but we’re still figuring out how to deal with them
+
+In 2017, a ransomware called WannaCry targeted tens of thousands of computers using Microsoft Windows operating systems in more than 100 countries. Officials in the US and the United Kingdom eventually blamed North Korea for the attack. Also in 2017, corporations in the UK, France, Russia, Israel, and Ukraine experienced ransomware attacks. US hospitals were also targeted.
+
+Here’s how Timothy Lee explained for Vox what was going on and how ransomware had become more prolific:
+
+The basic idea behind ransomware is simple: A criminal hacks into your computer, scrambles your files with unbreakable encryption, and then demands that you pay for the encryption key needed to unscramble the files. If you have important files on your computer, you might be willing to pay a lot to avoid losing them. Ransomware schemes have become a lot more effective since the invention of Bitcoin in 2009. Conventional payment networks like Visa and Mastercard make it difficult to accept payments without revealing your identity. Bitcoin makes that a lot easier. So the past four years have seen a surge in ransomware schemes striking unsuspecting PC users. Some ransomware schemes are so sophisticated that they even invest in customer service, helping victims who want to pay their ransoms navigate the complexities of obtaining bitcoins and making bitcoin payments.
+
+Since then, a number of sectors and organizations have made improvements to their security practices to protect against ransomware. But the latest Baltimore attack exemplifies what a whack-a-mole game this is: One area improves its practices and hackers just go looking for another.
+
+Recode and Vox have joined forces to uncover and explain how our digital world is changing — and changing us. Subscribe to Recode podcasts to hear Kara Swisher and Peter Kafka lead the tough conversations the technology industry needs today.

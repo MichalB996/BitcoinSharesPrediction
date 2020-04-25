@@ -1,0 +1,87 @@
+DATE:  31.08.2019, 11:10:07
+TITLE: The Crypto Custody Conundrum: What Are We Even Talking About?
+URL:   https://www.coindesk.com/the-crypto-custody-conundrum-what-are-we-even-talking-about
+
+Noelle Acheson is a veteran of company analysis and CoinDesk’s Director of Research. The opinions expressed in this article are the author’s own.
+
+The following article originally appeared in Institutional Crypto by CoinDesk, a free weekly newsletter focused on crypto assets. Sign up here. For a primer on crypto custody concepts, you can download our free report here.
+
+The crypto asset sector is notorious for its confusing use of vocabulary. Seriously, in what sense is a sequence of code a “coin”? And in the real world, “wallets” contain things, not intangible addresses.
+
+The same can be said of the word “custody.” A complicated word at best, the traditional common law definition is being applied to crypto assets, with the result that most investors believe it means the same thing: the authorized safekeeping of property rights. It doesn’t.
+
+This confusion is even more damaging than other misconceptions, as custody is not only an integral part of the security of an investor’s holdings; it is also a fundamental aspect of the emerging regulatory framework.
+
+What’s more, the confusion is being overlaid onto an already baffling web of protections around the concept of asset custody, which highlights the colossal complication of establishing uniform rules and expectations.
+
+Solutions that employ best practices are emerging, which should reassure institutional investors interested in crypto assets; but without greater clarity on what we’re even talking about, it is unlikely that a coherent framework will emerge in the short term, adding a further layer of risk onto a compelling alternative investment.
+
+C is for custody
+
+First, let’s look at the official definition of the word: oh wait, there isn’t one.
+
+“Custody” is not a legal “term of art,” which means that it does not have a specific definition. The term could refer to a legal relationship, or it could be used generically to imply the holding of an asset. Treatment of the concept differs between and even within states, and federal application is often different again. “Custody” can imply transference of ownership, or merely third-party authorization, and does not always come with the guarantee of protection in case of custodian default.
+
+Confusingly, we all tend to think we understand what custody means, but we don’t. Even official agencies often apply the term inconsistently.
+
+One aspect most seem to agree on, however, is that “custody” implies the “holding” of something. In a 2003 amendment to the Investment Advisers Act of 1940, the U.S. Securities and Exchange Commission (just one of many official bodies that oversee custody of investment assets) attempted a formal definition:
+
+“An adviser has custody of client assets… when it holds, ‘directly or indirectly, client funds or securities or [has] any authority to obtain possession of them.’”
+
+But this still falls short of specifying what custody is.
+
+By focusing on the word “holds,” we can start to glimpse how crypto assets can send this definition – and all others that rely on the pillars of “ownership” and “trust” – into a spin.
+
+C is for complication
+
+For the purposes of this conversation, we’ll be focusing on bitcoin; it currently dominates the crypto asset market and serves as the gateway for most investors given its relative liquidity and variety of on-ramps.
+
+Ownership of traditional assets tends to rely on ledger entries. On some computer somewhere, you are listed as the owner of a certain asset. It doesn’t matter who holds that database – only you are the owner.
+
+Bitcoin, however, is a bearer asset, and as such, has no names attached. Instead, bitcoins are associated with addresses, which in turn are associated with “wallets.” The assets themselves don’t live in the wallets, nor in a a central depository, nor in the account of the issuer; they live on the bitcoin blockchain, a decentralized global network with no identifiable accountability.
+
+Whoever holds the private key to those wallets “owns” the bitcoin, in that he or she has the exclusive right to move them. Again, no names or proofs of ownership are necessary – the possession of the private key is enough.
+
+So, how do you confer “custody” without handing over, or sharing, the private key? But if you hand over the private key, you effectively hand over ownership.
+
+If a custodian has equal access to the code that can move your bitcoin, it has as much ownership as you do. Custody is generally understood to be about holding something of yours, on your behalf.
+
+C is for consent
+
+“Multisig” options protect your bitcoin to the extent that more than one private key signature is needed for a transaction – but that also implies a sacrifice of ownership. Your custodian could not move your bitcoin without your consent, but nor could you move it without your custodian’s consent.
+
+Sure, a custodian can commit by contract to recognizing that, although they hold the asset, they recognize that it is really yours.
+
+But then trust comes into the equation. What if the custodian disappears? In theory, traditional securities can be returned to their rightful owners in case of custodian default. With bitcoin, there’s little reassurance that will happen, especially since regulatory protections are scant.
+
+Part of the reason is that globally accepted standards do not yet exist. Associations such as GDF are drafting “best practices” in collaboration with industry participants, but getting agreement on the detail and the application will take time.
+
+C is for consumer
+
+In an attempt to add clarity, in July the SEC and FINRA issued a joint statement highlighting concerns about the custody of digital securities by broker-dealers. They pointed out that the application of the Customer Protection Rule, which protects a client’s holdings in the event of a broker-dealer collapse, is unlikely to apply in the case of crypto assets.
+
+Even if a holder “shares” private keys with a custodian, how does the custodian know that others don’t also have access? With this possibility, how can it ensure safekeeping? How can it be certain that the client’s access point can’t be compromised? The inability to reverse or correct transactions may be one of bitcoin’s value propositions for holders, but it is a significant concern for custodians and regulators.
+
+The statement goes even further in highlighting the barriers of disjointed definitions: a failed broker-dealer would be liquidated in accordance with the Securities Investor Protection Act, which has a different understanding of the term “security” than that of the SEC. This leaves broker-dealer clients who have invested in crypto assets without protection, which the SEC is understandably uncomfortable with.
+
+Obviously, any clarity at all is better than none, but the statement is limited in that it refers to digital securities held by broker-dealers – according to most regulators, bitcoin is not a “security,” and many bitcoin holders bypass broker-dealers by buying directly on exchanges. It does, however, underline the concern at regulatory level about the lack of understanding and standardization.
+
+C is for challenge
+
+So, being a “custodian” for bitcoin is a totally different proposition from being a custodian for traditional assets. And yet we persist in using the same word.
+
+This makes it harder for newcomers to the sector to get their heads around the nature of this new asset class. It also makes it even harder for regulators to establish a coherent framework, when the standard understanding of “ownership” and “liability,” fundamental pillars of the custody concept, crumble under the crypto lens.
+
+Symbolic words such as “coin” and “wallet” have good intentions – they give us a frame of reference. But in the case of “custody,” the misplaced metaphor adds to confusion more than it subtracts.
+
+Throughout history, the development of technology has easily outstripped the emergence of a vocabulary that fits the new concepts. Metaphors are employed to facilitate comprehension, and they usually work. Often the expropriated words change in meaning thanks to their new applications (what do “web” and “net” mean to you today?).
+
+But sometimes the semiotics encroaches onto areas where vocabulary needs to be specific in order to have impact: that of law. The use of the term “custody” to refer to the authorized safekeeping of private keys, and “custodian” to refer to the provider of this service – areas which call for the comfort of regulatory protection – are prime examples.
+
+Coming up with a new term might help, and might even set a precedent on how establishing specific definitions to use across jurisdictions and mandates could facilitate and strengthen oversight. But a systemic barrier is the fragmented nature of financial regulation in the U.S. and elsewhere – who would decide on that new term and its definition?
+
+Not all barriers are insurmountable, however – and with so much at stake, coordination could perhaps be achieved. Meanwhile, the sector continues to mature.
+
+In the case of bitcoin and similar crypto assets, the problem is not so much that crypto custody is so different from traditional security custody – it’s that we’re trying to fit a new concept into an old box that doesn’t have the same dimensions.
+
+Vault door image via Shutterstock

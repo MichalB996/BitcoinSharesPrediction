@@ -1,0 +1,209 @@
+DATE:  30.08.2019, 20:24:57
+TITLE: Podcast 213: Zac Prince of BlockFi
+URL:   https://www.lendacademy.com/podcast-213-zac-prince-of-blockfi/
+
+One of the things the last couple of years has taught us is that, while the value of cryptocurrencies can be exceeding volatile, they have staying power. While no one can predict the future price of bitcoin or other crypto they are becoming an asset class in their own right. As this niche industry matures there becomes a need for a broader array of services to support it.
+
+Our next guest on the Lend Academy Podcast is Zac Prince, the CEO and Co-Founder of BlockFi. They are trying to build the financial ecosystem for this new asset class. Their first product has both a lending and investing component but they have big plans to expand into other areas.
+
+In this podcast you will learn:
+
+This episode of the Lend Academy Podcast is sponsored by LendIt Fintech USA 2020, the world’s largest fintech event dedicated to lending and digital banking.
+
+Download a PDF of the transcription of Podcast 213 – Zac Prince.
+
+Click to Read Podcast Transcription (Full Text Version) Below
+
+PODCAST TRANSCRIPTION SESSION NO. 213 – ZAC PRINCE
+
+Welcome to the Lend Academy Podcast, Episode No. 213, this is your host, Peter Renton, Founder of Lend Academy and Co-Founder of the LendIt Fintech Conference.
+
+(music)
+
+Today’s episode is sponsored by LendIt Fintech USA, the world’s largest fintech event dedicated to lending and digital banking. It’s happening on May 13th and 14th, 2020, at the Javits Center in New York. Lending and banking are converging and LendIt Fintech immerses you in the most important trends of the day. Meet the people who matter, learn from the experts and get business done. LendIt Fintech, lending and banking connected. Go to lendit.com/usa to register.
+
+Peter Renton: Today on the show, I am delighted to welcome Zac Prince, he is the CEO and Founder of BlockFi. Now BlockFi is in the crypto space, they’ve been around a couple of years now and they just closed a significant Series A. I wanted to get Zac on the show just to tell us a little bit about this platform, it’s somewhat unique and what they’re trying to do, they are positioning themselves as a sort of wealth management firm.
+
+We get into that in some detail, we talk about how they’re offering works, as far as both investing in bitcoin and borrowing US dollars by pledging bitcoin, we go into the nitty gritty about all that. We also talk about how the fluctuations in bitcoin’s price has impacted his company, we talk about the difference between what he is doing and the Decentralized Finance movement or the DeFi movement. We also talk about what’s next for BlockFi, they’ve got some very interesting things coming down the pipe. It was a fascinating interview, I hope you enjoy the show.
+
+Welcome to the podcast, Zac!
+
+Zac Prince: Hey Peter, thanks for having me.
+
+Peter: My pleasure. So, I like to get these things started by giving the listeners a little bit of background about yourself. Many listeners would know you from some of your previous stints in the fintech space, so why don’t you just give us some of the highlights of your career to date.
+
+Zac: Yeah, sure. So, I’ve always worked at venture-backed technology companies. Early on in my career, I was in the ad tech space, two different companies that were part of the kind of real-time-ification or exchangeification of the online advertising industry, both of which were acquired, one by Google and then more recently and more relevantly for both this podcast and BlockFi, my current company, have been in fintech, specifically the online lending side of fintech.
+
+So, I was the first employee after the founding team at Orchard Platform and then after the Series B at Orchard, I left and joined Zibby, which is a point-of-sale retail financing lender, very similar to Affirm, but targeted towards thin file or non-prime consumers and started BlockFi about two years ago now, Q3 of 2017.
+
+Peter: Okay, and so when was your interest first sort of piqued in cryptocurrency? I’m curious about…did you buy bitcoin in 2010 like when it was a dollar, what’s your background there?
+
+Zac: Well, I wish I bought it at a dollar now. While I was at Orchard, because of our role in the market, I was getting a ton of exposure to really interesting platforms, a lot of which had an ability for accredited retail investors to participate on the platform and I kind of became the fintech investing guy amongst my friends group and they would ask me, you know, should I invest in commercial real estate over here or buy loans from LendingClub.
+
+I started writing a little blog just on the side to put down some of my thoughts on this stuff and I expanded that a bit, started writing about robo-advisory and other things happening in the fintech sector and that’s what led me to bitcoin. So, the first time I bought bitcoin was early 2015, after it had gone from a thousand back down to around three hundred and I really just kind of took a flyer on it. I was like, okay, looks like this thing went up and cooled down, it could be big, it could go to zero, who knows.
+
+So I bought somewhere around 300 and just got lucky in terms of timing and had a little more than doubled my money in a month or two and I sold it all. (Peter laughs) I just patted myself on the back, and I was like, oh, great job, you’re a fantastic trader. Then maybe six months after that, it was up over a thousand and I purchased more and kind of started going down the crypto rabbit hole, as a lot of people in this sector call it, and when I bought back in, I started reading more about it.
+
+In 2016, I started attending a few crypto related events in New York City. I was fortunate to invest in ethereum pretty early and I made this analogy in my head that bitcoin was kind of like a Blackberry and ethereum was like the iPhone. The iPhone would be ten times bigger than the Blackberry so I did pretty well on ethereum.
+
+And then, early 2017, when prices were really starting to accelerate and it seemed like there were a number of things pointing to mainstream adoption and mainstream attention in the sector, I started thinking seriously about what could I do to get involved in the space fulltime and that’s what led me to start BlockFi.
+
+Peter: So then what was the actual thing that you saw that really prompted you to start BlockFi, I mean, was there something specific that you felt the industry really needed?
+
+Zac: It was a combination of things. So, I started going to these meetups. In 2016, the meetups were largely comprised of the hardcore early crypto adopters, libertarians, computer scientists and in early 2017, the composition of those events started to change and there were venture capital investors, some people in suits, you know, after leaving their job on Wall Street, some entrepreneurs from a variety of industries and things started to happen.
+
+For example, like the Enterprise Ethereum Alliance getting announced which had Microsoft and insurance companies and major corporations saying they were going to, you know, invest time and effort and resources into building on the technology that was coming out of the sector so that was one thing that was happening.
+
+Another thing that was happening or that happened is that I was making some real estate investments in Texas and as part of one of those I needed to submit a financial statement to a bank that we were getting a loan from and just to see what would happen, I listed bitcoin and ether on the financial statement that I submitted to the bank. And kind of expectedly, the bank wouldn’t value the assets at all, you know, it counted as a big zero in terms of their view of my finances, but additionally, they got a little nervous that I might be affiliated with some illicit activities.
+
+Peter: Oh, geez.
+
+Zac: They said that they needed to do an additional compliance review on me and that was a bit of, you know, my lightbulb moment, that one, a lot of the drivers of success and addressable market for online lending companies and other fintech companies was also going to be true in crypto space in terms of banks being slow to participate or not willing to participate and the other thing was just looking at the crypto ecosystem at that time…
+
+The financial services infrastructure was very nascent and incomplete and the first slide that we made for BlockFi trying to capture that concept and we said that the ability to buy and sell existed, you have exchanges, the ability to raise capital was something that kind of looked and felt like an IPO, but was called an ICO existed, but things like debit and credit, insurance, a suite of banking products, none of that stuff existed yet.
+
+So it seemed like a really big opportunity and there were also a number of things that I had learned were possible in just investing in and using these assets myself in terms of how you could deliver these products if we built them that made the opportunity really exciting and so I started, you know, putting pen to paper and talking to people about it a little bit and when I told Flori Marquez, the Co-Founder of BlockFi about it she was basically like, let’s do this, let’s do it now, it’s going to be big. So, we just decided to pull the trigger and start a company.
+
+Peter: Okay, so then maybe you can take us through sort of the evolution and the initial product and how that product has evolved to date?
+
+Zac: Sure, so the place we decided to start was with a secured loan product. Flori and I both came from the online lending world, she was at Bond Street previously, so we were very familiar with, you know, the components that we needed to start making loans. The product that we launched is analogous to a securities-backed loan or a liquidity access line in the traditional financial world.
+
+The difference is just that instead of public equities being used as collateral, we were going to use bitcoin and other cryptocurrencies as collateral. So, we raised the seed round of funding in Q4 of 2017 and launched that loan product in January of 2018.
+
+The way it works is someone has, for example, ten bitcoin and bitcoin is around $10,000 right now so their ten Bitcoin has a current value of $100,000, we would lend them up to 50% of the current value of their bitcoin. We take possession of the bitcoin throughout the duration of the loan and we build a risk management system that is able to take certain actions that correspond to price fluctuations, specifically, downward price fluctuations.
+
+We launched the product in Q1, we were the first company in the crypto lending industry to receive institutional backing in the form of a $50 million credit facility from Galaxy Digital to support that type of lending and we scaled up our volumes throughout the bear market that crypto saw in 2018. So crypto was down about 85%, but our business was growing pretty quickly.
+
+Peter: I’m curious about that because if you look back over the last five years, probably the worst time, in my perspective to launch something would be in Q1 of 2018 it was sort of…I’m not sure when the exact high was, it was either late December or January around then and then it just went steadily downward so I want to talk a bit more about the mechanics, but how did you find….you said your business kept on growing even as bitcoin’s price plummeted. How did that impact you, I imagine there were margins calls, what have you on your customers.
+
+Zac: Yeah sure. I mean, we were benefitting…the reason we were able to grow is because we had a bit of a first mover advantage in terms of being the only kind of reputable place at the time that was offering this type of a product. So, as we were starting to do marketing and generating awareness that this existed as an option, we started to see adoption and users and volume flow through the platform.
+
+The upside to having started the product at that point in time is that we do have a lot of data on both user behaviors in a time when crypto prices are moving down and also we kicked the tires really well on our risk management system. You know, the good news is that we’ve never had a late payment or a loss of interest or principal on any of our loans. So, the product performs a lot like margin lending or securities-backed loans and those are some of the least risky types of loans that exist out there. So, that type of activity had a 0% loss rate throughout the financial crisis and is very low risk and we believe that, you know, our loans are too.
+
+From a user behavior perspective, what we found is that the majority of our clients were not taking every bitcoin that they had and pledging it as collateral to get a loan from us. So, the most common user behavior was that, you know, the first time someone starts to get a warning even before they’re getting a margin call, they would add more collateral or pay off the loan.
+
+But really, when the market was kind of truly hitting that capitulation phase, which was around Thanksgiving of 2018 and bitcoin went from around 6,500 all the way down to 3,000 in a pretty short period of time, we did need to use the, you know, most extreme parts of our risk management system which basically take our client’s bitcoin and sell it on the open market to repay the loan well in advance of us being underwater in terms of the collateral value relative to the loan value. So, we did have to do that for about 8% of our customers that were affected.
+
+Peter: Okay, okay. So, let’s dig back into the offering itself. Firstly, what crypto do you work with is it just bitcoin today or what do you work with?
+
+Zac: As collateral for a loan, we support bitcoin, ether, litecoin and zcash.
+
+Peter: Okay, okay. And so, what about the terms of the loans themselves, I mean, what sort of US dollar type, what’s the size? What was the LTVs, was it 50%? Tell us about LTV, duration, that sort of thing.
+
+Zac: Sure, so we’ll do up to a 50% initial LTV. All of the loans to date have been one-year term loans with interest only payments throughout the duration of the term and a bullet payment of principal at the end of the term; also, an ability to, you know, refinance at the end of the term.
+
+We have a bit of a tiered pricing structure based on the initial LTV and also the loan size. So, at a 20% LTV, we offer an annual interest rate of 4.5%; at a 35% initial LTV, the price is 7.9% and at a 50% LTV, the interest rate is 11.25% and then we have a 1 to 2% origination fee that goes down the larger the loan size is. So, that’s how the loans are structured.
+
+Peter: So, you don’t underwrite the individual taking out the loan, or do you do some like AML type stuff, or what do you do on the actual person?
+
+Zac: Sure, so we do KYC and AML type screens and identity verification, we ask a few questions that help us understand where the crypto that they’re posting as collateral came from, what they’re going to use the proceeds of the loan to do, but we’re not pulling any credit variables as part of our underwriting decision. We’re primarily or exclusively rather relying on the collateral that’s posted for the loan.
+
+Peter: Right, right. Okay, so that’s one side. You’ve obviously got the other side which is the capital providing and, you know, the ability…I mean, I look at your homepage right now and you lead with wealth management, BlockFi wealth management which means to me that you’re trying to get people into that side of the equation where they’re actually giving you their bitcoin and earning interest on it. Just explain a little bit about how that works.
+
+Zac: Yeah, sure. So, go back to the first time you learned about what a bank does in elementary school or whenever it was and, you know, the concept of there’s some people who have extra cash and they’ll deposit it at the bank to earn interest and there’s others that, you know, want to borrow money to start a business or do something else and the bank basically, you know, facilitates both of those activities by acting as a central place for both parties to transact with.
+
+We’re doing that exact same thing, except we’re doing it with bitcoin and because we’re doing it with bitcoin some of the protections that have been built into the banking system over the years, like FDIC insurance, for example, don’t exist. But functionally, what our depositors and borrowers experience is very similar to what you would see in the traditional banking sector, except with bitcoin being the asset rather than dollars.
+
+So the way it works is people who have bitcoin and want to earn interest on it can create an account at BlockFi, deposit their bitcoin into the account and earn currently a 6.2% annual yield on their bitcoin with interest paid monthly in bitcoin and the interest compounds after it’s paid into the account.
+
+In order to generate that yield that we’re paying to the depositors, we lend to institutional borrowers. So one of the things that happened throughout the bear market of 2018 despite prices going down is that we did see increased adoption from certain types of institutions, most notably proprietary trading firms and market making firms who are very active in traditional markets.
+
+The crypto market reached a size where it was large enough for them to participate and there were plenty of opportunities for them to make money given that the market was nascent, dominated by retail and very fragmented, in terms of liquidity being distributed across a lot of different exchanges and also geographies.
+
+So, we lend to firms like that and transactions that are denominated in bitcoin, depending on who that institutional borrower is we have varying collateral requirements so for someone who’s really small that wants to borrow a million dollars worth of bitcoin, they might need to give us $1.2 million of cash to secure that borrow. For other firms that are very large, we might take some credit risk to them and so we basically provide that function to both sides of the market.
+
+That product we launched in March of this year and it grew incredibly quickly so we on-boarded in under a month thousands of new users and tens of millions in new AUM and up till now, currently, we have tens of thousands of users on the platform and over a quarter billion dollars in AUM. So, we’ve seen tremendous growth there and what we’re going to do and what we’ve always planned on doing is having a platform that has a suite of products targeted towards this niche consumer who owns cryptocurrency. So today, we have the ability to borrow money at a low cost and the ability to earn interest.
+
+In the future, we’re going to be launching additional products, but to answer your question of, you know, how did we land on leading with wealth management, it was kind of partially driven by the fact that we can’t just say we’re a crypto bank because that’s a little bit of loaded language from a regulatory perspective here in the US. So, we were trying to find, you know, a bucket that we could put ourselves into that would, you know, make sense for both what we have today and also the incremental products that we plan on bringing to the market in the future.
+
+Peter: Right.
+
+Zac: And we landed on wealth management.
+
+Peter: Okay, interesting, that’s super interesting. So then, you talked about Galaxy Digital the $50 million line that they provided, is that money going to the individual borrowers who are pledging their bitcoin to you, or you’re taking custody over it? I mean, I’m just trying to figure out how the mechanics work because you’ve got multiple currencies here, how do the mechanics work with that funding line?
+
+Zac: Sure, so it’s really two separate pools of capital. So, the SPV that we created with Galaxy looks a lot like the SPVs that are used to purchase consumer loans or business loans so it’s a forward flow loan purchasing bankruptcy remote SPV, there’s a split on the economics of the loans when they’re sold to the SPV and the interest that’s earned on the loans that are sold to the SPV.
+
+That capital is used exclusively to, you know, finance the US dollar loans that we’re making. Then we have basically, a separate pool of capital that consists of the deposits from our clients that are depositing to earn interest and then the borrowers who borrow bitcoin are providing the interest that flows through to the depositors.
+
+Peter: Right.
+
+Zac: The Galaxy facility doesn’t really touch that…
+
+Peter: Okay.
+
+Zac: …bitcoin side of BlockFi’s capital structure.
+
+Peter: Right, right, got it. Okay, then as far as the investing, I mean, obviously you’ve got to own bitcoin to invest, but is this just US investors? I presume you don’t have to be accredited, right, so who can invest with you guys?
+
+Zac: That’s correct, you don’t have to be accredited. We currently have a minimum balance requirement to be eligible to earn interest of half a bitcoin which is about $5,000 worth of bitcoin at today’s prices and a minimum loan size of $10,000 so you need to have at least roughly two bitcoin to be able to take a loan from BlockFi, but there’s not a accredited or qualified investor requirement to be on the platform. We’re currently about 85/90% US in terms of the region that our clients are coming from, but we have clients in over 50 countries.
+
+One of the really unique things about operating a business that uses cryptocurrency as the primary asset for certain products is that you can on-board users from regions without having a local payment processor or a local banking partner without needing to use their specific fiat currency so you’re able to get some distribution there that you wouldn’t necessarily be able to get in other business models.
+
+Peter: But you’re still doing, as you say like the anti-money laundering type checks because, I imagine, there’s certainly been some bad press about bitcoin over the years with organized crime, that sort of thing, but I imagine, no matter where they are, they have to go through that process, right?
+
+Zac: Yeah, that’s right. I mean, we’re an MSB at the federal level here in the US. We’ve had KYC and AML policies and procedures and training in place since day one so there’s not a single user on the platform that hasn’t given us a government-issued ID, you know, we’re not open to users from just any country.
+
+We block IPs from certain regions, we block user registration from certain countries and we have a risk-based AML framework that triggers flags based on, you know, size limits and activity levels from certain regions so it’s not just a completely, you know, open source platform that anyone could come into.
+
+Peter: Sure. So, it’s interesting because you’ve experienced a pretty significant bear market in bitcoin and then 2019, has seen quite the opposite. You’re not quite, obviously, reaching record levels, but bitcoin has come off its lows and now is consistently north of $10,000. So, how has the rebound in bitcoin impacted the demand on both sides of the business?
+
+Zac: It’s been a massive tailwind for us. So, our numbers and metrics are up across the board and we do see some correlation, especially on the loan volume side of things, with market sentiment and the level of demand. One of the primary drivers for pledging an asset as collateral rather than selling it when you need cash is that you’re bullish on the price. So, the more bullish people are on the price, the more likely they are to consider a financing option like what we offer at BlockFi.
+
+Additionally, if we’re measuring our AUM in US dollars, even if the assets on the platform are in bitcoin and we have $100 million when bitcoin is at $5,000 and bitcoin goes from $5,000 to $10,000, our AUM just doubled organically without us actually receiving any incremental deposits. So, it’s very helpful for our business, I also think it’s a fantastic time for the sector.
+
+The end of 2017 was the first time that bitcoin and cryptocurrencies entered the radar for most people and there are a lot of people who said it’s just a big bubble, it’s going to pop and with bitcoin down at $3,000 and continuing to trend lower, that idea could be validated by the market. But now, with it going back up and recovering, it doesn’t matter how you look at the charts, it’s clear to see that it’s not dead. You know, it’s bullish for us and it’s bullish for the sector overall.
+
+Peter: Sure. So, I want to switch gears a little bit and talk about something I’ve been hearing a lot about and I don’t understand it fully, but this MakerDAO the Decentralized Finance, the DeFi Movement that seems to be getting a lot of airplay these days, maybe you can just tell us…maybe explain what that means and then tell us what are the differences between what BlockFi does and sort of the MakerDAO CBP.
+
+Zac: I’ll give you a quick story first. I actually first heard about MakerDAO about three months after we started BlockFi so Q4 of 2017 and I spent probably around a week wondering how the hell we were going to compete with something like what they were planning on building at the time. I think that the two core defining traits of decentralized finance which is commonly known as DeFi are one, that there is no concept of KYC or user registration whatsoever.
+
+So a user from anywhere in the world is able to access the financial product without having to provide their personal information or be subject to the restrictions that generally exist in the financial services ecosystem.
+
+The second thing is that the platforms are built using blockchain languages and smart contracts so if you’re someone that has the chops to look at computer code anybody can go and, you know, review and audit exactly what is happening behind the scenes because the entire platform is built on open source software, so that’s what DeFi means.
+
+In terms of how we’re different, so a bit of a story on MakerDAO, so when I was scared about them in 2017, their plan was that they were going to create this stablecoin called dai which now exists and is pegged to the dollar, but it’s not actually backed by dollars and they were going to let people borrow dais secured by their ether the same way BlockFi makes loans, except using US dollars, and they were going to charge people half a percent a year.
+
+The reason I was scared is because I was like how are we going to compete with something that doesn’t have to put a user through a KYC on-boarding process and only charges half a percent a year because their cost of capital is zero because they’re printing the money that they’re lending to people out of thin air using this protocol that they’ve created.
+
+What’s happened since then is that as a result of that dai coin that MakerDAO is creating, not being able to hold it’s peg to the dollar very effectively, the interest rate that’s charged to users on the MakerDAO system has increased to over 20%, I believe it’s 22.5% per year now.
+
+Additionally, there are things that BlockFi can do, both in terms of future products that we can bring to the market and in terms of doing things to reward and incentivize and delight our users that we can do because we know who our users are that a platform like MakerDAO can’t do.
+
+So, that’s really the things that I think are the biggest differentiators, that ability to focus on your users if you’re a centralized provider and an ability to change rates based on decisioning that exists at the company level where with a lot of these decentralized platforms the rates are purely driven by market forces that are interacting with their protocol and they never know who their users are by design.
+
+Peter: Right.
+
+Zac: So, they can’t do things like offer, you know, users in a certain segment a discount or a reward or market to them in a different way because they have no idea who any single user is on the platform, or much less how to contact them.
+
+Peter: The other piece is, I feel, regulatory risk, there’s a lot of regulatory risk for the DeFi Movement, I would think, because if it gets big, governments aren’t going to like the fact that there’s complete anonymity when it comes to sort of handling these types of financial products.
+
+Anyway, I want to move on and we’re almost out of time, a couple of things I want to get to. I want to first talk about your Series A which happened fairly recently, tell us about that process, you’ve got some big name investors on board and just tell us how…you’re obviously not a typical kind of fintech company, just tell us a bit about how you’re able to get people comfortable and how that process went.
+
+Zac: Yeah, sure. So, the process went really well and, fortunately, our timing was good, both in terms of the growth metrics on the business and also the way the crypto market was shifting, we were looking for a lead investor that really understood our approach to building the business which is much more driven by fintech fundamentals and strategies that have been honed in on versus, you know, the decentralized new crypto-type strategies that exist out there.
+
+So, we had a few, you know, qualities that we were looking for in an investor and were fortunate to get to spend a lot of time with Valar Ventures team and get something across the finish line with them as the lead. They’ve led Series A rounds in companies like TransferWise, N26 and Petal, so we were really, really thrilled to bring someone on board who has that level of experience and expertise. I think other companies have this experience too, but really once we had decided that we were going to work with Valar and finalize the terms, we were instantly oversubscribed.
+
+We have some existing investors like Fidelity and Susquehanna, Galaxy Digital and others who have always anticipated continuing to invest as the company grows and so the round was effectively closed as soon as we finalized things with Valar. And they really understood our pitch which is, you know, basically that we’re building a diversified retail financial services platform that is crypto first. Its strategy is to acquire this valuable segment of users with some core products focused on crypto and then expand from there.
+
+Peter: Okay, okay. Last question then, what’s on your…I’m curious about the short term horizon here, what are the other products because you…I can imagine a hundred different products that you could probably come out with here, but what’s…maybe you could tell us a little bit on what’s on the near term horizon.
+
+Zac: Sure, so before the end of this year, we’ll be launching the ability to buy and sell crypto through BlockFi and we’ll be doing it in ways that, you know, will be somewhat differentiated and don’t necessarily exist today. We’re kind of incorporating this ability to earn interest with the ability to buy and sell. It starts to feel a little bit more like a robo-advisor in some ways than just a crypto exchange, so that’s coming out very soon.
+
+Next year, we want to launch a bitcoin rewards credit card, so a normal credit card, but instead of earning airline miles or normal cash back for your rewards, you earn bitcoin. The key thing strategically, that both of those products will enable us to do that we’re not able to do today is that we’ll be able to market them to people that don’t own cryptocurrency yet. And so, we’re really excited to bring those to market and grow the addressable market that we have in terms of customers that we can target.
+
+Peter: Okay, that sounds super interesting. I’d love to dig into all of that, but we’ve run out of time. I really appreciate you coming on the show today, Zac.
+
+Zac: Yeah, thanks for having me, Peter.
+
+Peter: Okay, see you.
+
+Zac: Bye.
+
+Peter: So, if you believe that cryptocurrency and bitcoin have a future, then that future is going to demand all kinds of financial services that will help support it and BlockFi is obviously in a very good position to help create that future.
+
+We were chatting…Zac and I were chatting after we hung up, after we stopped recording and talking about how, you know, like their credit card they’re coming out with. It’s super interesting because suddenly you’ve got a way to market to the majority of the population because let’s face it, even today there’s only a very small percentage of the population that own bitcoin that really could be a potential customer of BlockFi as they stand now. Adding in a traditional product like credit card is a way to bring many, many more people into this space.
+
+Anyway on that note, I will sign off, I very much appreciate you listening and I’ll catch you next time. Bye.
+
+Today’s episode was sponsored by LendIt Fintech USA, the world’s largest fintech event dedicated to lending and digital banking. It’s happening on May 13th and 14th, 2020, at the Javits Center in New York. Lending and banking are converging and LendIt Fintech immerses you in the most important trends of the day. Meet the people who matter, learn from the experts and get business done. LendIt Fintech, lending and banking connected. Go to lendit.com/usa to register.

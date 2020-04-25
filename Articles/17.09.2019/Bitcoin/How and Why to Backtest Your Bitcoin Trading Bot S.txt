@@ -1,0 +1,53 @@
+DATE:  17.09.2019, 08:00:37
+TITLE: How and Why to Backtest Your Bitcoin Trading Bot Strategy
+URL:   https://www.bitcoinmarketjournal.com/bitcoin-trading-bot-strategy/
+
+If you’re familiar with using bots to trade bitcoin or your favorite altcoins, then there’s a good chance you’ve heard of backtesting. But maybe you’ve only heard about it and aren’t entirely sure what it is and why you should do it.
+
+Well, today’s your lucky day, because we’re going to do just that.
+
+What is Backtesting?
+
+The intention of backtesting is to apply a trading strategy to historical price data to determine how an algorithm or strategy might respond as it pertains to profits or losses for a specific asset or currency pair.
+
+While backesting has many of the same features as “paper-trading,” you can perform iterations much quicker and over a more extended period of time. Additionally, it enables you to test your strategy during different market environments. Paper-trading cannot provide this type of functionality.
+
+How to Backtest
+
+While backtesting varies slightly from platform to platform, here are a few steps you can follow to get the best experience:
+
+Navigate to the platform to access the features of your trading bot.
+
+Find the “Import Data” option on the site. Often it is located toward the bottom of the page.
+
+Choose the exchange you want to test, along with your digital currency pair. Enter the time period you want to use to gather data. Most often, 2-3 days of data should give you the information you need.
+
+When the data has downloaded, select the strategy you want to use for your backtest, then run the simulation.
+
+Review the backtest results. Is the profitability lower or higher than the market standard?
+
+Repeat as needed to find the settings that offer the highest profitability. Use this information to fine-tune your trading bot before you use it live in the markets.
+
+Why Should You Backtest?
+
+There are many reasons to backtest, but for the sake of brevity, we’ll only touch on a few.
+
+Increase Potential Profitability
+
+If you’re not trading to make a profit, then you’re doing it wrong. With backtesting, you can use the data you collect as a way to increase your profitability as you move forward in your trading endeavors.
+
+Use the input values, along with their corresponding profit estimate to optimize your profitability.
+
+Refine Your Trading Methodology
+
+It should come as no surprise that there are many tools that can help you determine the perfect strategy for trading bitcoin or altcoins with your crypto trading bot.
+
+Backtesting can aid you in finding that ideal methodology by providing various exchanges, coins, and pairs from that you can choose.
+
+Determine What Works Best for You
+
+Backtesting is imperative when it comes to using your bot for trading bitcoin. Use backtesting to find a strategy that works best for you. You never know. You might wind up finding a whole new crypto trading strategy that you would have never through of before you started backtesting.
+
+Related Articles:
+
+Take a moment and Subscribe to Bitcoin Market Journal to get the latest information on bitcoin trading bots, platforms, strategies, and investment opportunities.

@@ -1,0 +1,211 @@
+DATE:  01.04.2019, 23:19:28
+TITLE: How to Mine Ethereum [2019] – Complete Guide on Ether [ETH] Mining
+URL:   https://blokt.com/guides/ethereum-guides/ethereum-mining
+
+Here's our new EXTENSIVE guide on mining Ether. Learn everything you need to know to become an ETH miner in 2019. Pools, software, calculators, rigs, downloads, GPUs, ASICs, Costs, Profitability & more.
+
+The mechanism that made Bitcoin a breakthrough technology is Proof-of-Work (PoW). The concept is basically a protocol for determining the validity of a transaction on the network via consensus.
+
+Introduced in the Bitcoin whitepaper, it allows people to send money or value to each other over the internet in a way that requires no middle man and is nearly impossible to cheat.
+
+PoW is a mathematical way to prove that work on a network was done and is accomplished through what is known as mining, which is a mind-boggling idea for people new to blockchain technology.
+
+Mining is essential, not only to Bitcoin but also for Ethereum and many other blockchain networks.
+
+Maintaining Consensus
+
+With decentralization positioned at the heart of blockchain technology, there is no powerful authority validating and recording the network’s transactions.
+
+There is no manager, director, or coordinator to say what is true or not true.
+
+Instead, blockchain uses consensus protocols like PoW, which lay out a set of rules that allow a network of devices or peers to come to an agreement over the truthfulness of a transaction.
+
+Mining or PoW is absolutely necessary to determine what is real in a non-hierarchical network where all peers or nodes are equal.
+
+Cost/Reward
+
+Miners don’t spend all night goggled-eyed traveling through the blockchain looking for transactions. Being a miner, doing proof-of-work simply means turning on a computer and running a program that attempts to answer a complex mathematical equation.
+
+These programs are hefty and running them requires huge computational resources and expensive equipment, not to mention, staggering amounts of electricity.
+
+Miners are willing to run the programs because they get rewarded in the tokens or coins that are inherent in the system or created by the network itself. In the Bitcoin network, these are the Bitcoins themselves. In Ethereum, they are Ether.
+
+This only translates to cash, if the coins or tokens are exchangeable for other currencies or miners believe that they will be valuable in the future.
+
+Thus the network is more secure when the native coin is worth more because it creates more incentive for miners to do the work, which maintains the network. This mining process is also how the system generates new money.
+
+Attempting to cheat the system costs big too. The massive amount of resources spent trying to get a blockchain network’s reward is also what must be spent on every attempt to attack the network.
+
+Note: In its 10-year history, no attacker has In its 10-year history, no attacker has been able to cheat Bitcoin’s consensus rules.
+
+Transactions
+
+In order to send Ether from one person to another, the network broadcasts the transaction to the miners and includes a fee.
+
+Miners will look at all the transactions being attempted and select which ones are to be included in the next block of transactions and give priority to the transactions with the highest fees attached to them.
+
+The miner who solves the proof-of-work equation gets not only the reward for solving the equation but also is the one who decides the next block of transactions and keeps all the fees.
+
+No one knows which miner will solve the next equation so cheating is only really plausible if more than 51% of all the miners agree to cheat.
+
+In order to claim the reward, all the transactions have to be validated or verified by all the other miners and nodes in the network as being legitimate.
+
+So if a miner decides to put some false transactions in their block, it not only wastes resources because they might not get selected but with everyone else checking their work, they might get rejected for including invalid transactions.
+
+If confirmed and verified by the other miners in the network, this block of information or transactions is added to the chain of blocks which came before, hence the term blockchain.
+
+Math
+
+The security and integrity of the blockchain come down to Math. Complex algorithms keep your data safe and ensure there is no fraud on the network.
+
+PoW is based on cryptography, which is advanced mathematics used to send, receive, conceal, and reveal information.
+
+Cryptography takes a piece of data and transforms it into an undecipherable piece of information. This process of concealment is called encryption and it is mathematically accepted that good encryption cannot be broken or reversed.
+
+Hash Functions
+
+A core component and one of the most important technical ideas to understand used in cryptography is the concept of a one-way function or cryptographic hash function if you want to get really technical.
+
+Specifically, a hash function takes any length of information and produces a string of letters and numbers that are always the same length no matter the size of the input.
+
+This output is a hash. It is a one-way function because if you only knew the hash, it would be infeasible to figure out the original information.
+
+Original Info (Any Length) => Hash Function => Hash (Fixed Length) Hash => Hash Function ≠> Original Info
+
+If you were to input the exact information more than once it would produce the exact same hash.
+
+So if you put a word through a hash function, it will always come out with the same string of numbers and letters, but changing only one letter in the word will create a completely different set of numbers and letters.
+
+The same input will always have the same output. So whilst the hash function is very ‘difficult’ to guess as you would need millions of years and an inconceivable amount of computer power, it is very easy to verify.
+
+Essentially, the only way to figure out a specific hash is to fire possible answers as fast and as frequently as possible through the algorithm in the hope of eventually figuring out the correct output or hash.
+
+It is a process of trial and error and is essentially what miners are doing all the time.
+
+Finding the Secret Number (Nonce)
+
+In our PoW equation, miners have to put all this data through a hash function in order to arrive at a specific hash:
+
+1. Information from all past blocks
+
+2. Current unconfirmed transactions
+
+3. Secret number (nonce)
+
+Miners are trying to guess the secret number, which is called the nonce that will lead to the specific hash giving them the block reward, the transaction fees, and the right to confirm the next block of transactions.
+
+The only way to figure out this nonce is to try different ones again and again until you get the correct one. This is all happening very quickly and automatically by the computers that run the mining software.
+
+Once that nonce and hash are found, it is broadcast to the network for validation. Other miners and nodes verify that all the info makes sense, and eventually the entire network of miners and nodes agree that the transactions in the block, the nonce, and the hash are valid.
+
+The network validates one block at a time depending on who sees it first.
+
+Hash rates
+
+Because figuring out the correct nonce and running it through the hash function to see if it is correct, depends on attempts, the efficiency of miners is based on their speed, which is called the hash rate or mining power.
+
+The hash rate means how fast a computer can compute the output of a hash function. It is measured by how many hashes a computer can do per second.
+
+The faster the hash rate, the more likely a miner will get to the reward before their competitors simply because they can make more attempts in a shorter amount of time.
+
+Hash rates are measured in:
+
+Hz (hertz, 1 Hz) = 1 cycle per second MHz (megahertz, 106 Hz) = 1 million cycles per second GHz (gigahertz, 109 Hz) = 1 billion cycles per second THz (terahertz, 1012 Hz) = 1 trillion cycles per second How is Ethereum Different to Bitcoin? The concepts mentioned above apply to both Bitcoin and Ethereum in reference to PoW or mining. It is a general overview. The difference between Bitcoin and Ethereum though are their primary purposes, which is obvious from the titles of their whitepapers: In addition to the differing high-level purposes of the networks, the native tokens themselves also have different purposes. Miner rewards in Bitcoins are the Bitcoins themselves, which was originally intended to be used as money. In Ethereum, miners are rewarded with Ether, which was originally intended to be used as the fuel or cost for using the network. Ether prevents debilitating spam attacks from clogging up the entire network and slowing it down or even stopping it completely. The second big difference is that Ethereum transactions are recorded on a more comprehensive level. Bitcoin simply records changes in account balances meaning that sending Bitcoins changes your own balance and the recipient’s balance of Bitcoins. Ethereum must record changes in smart contracts and decentralized applications, in other words, code and data from entire software programs must change. The final major difference is a technical one, in that Ethereum’s Proof-of-Work algorithm is different than Bitcoin’s and meant to be more resistant to specialized mining hardware known as ASICS. Mining Hardware ASICs Application-Specific Integrated Circuit or ASIC for short are specially designed computer chips used to mine a crypto asset like Bitcoin. Mining difficulty and the likelihood of being rewarded is based on competition, meaning the more miners there are and the more powerful their equipment is, the more difficult it is for a single miner to get the reward. Though you could originally mine Bitcoins with a simple home computer, the rise in competition and the proliferation of ASICs means that Bitcoin mining is dominated by the small group of people who have access to these specialized computer chips. Because of the lucrativeness of mining and the energy consumed by ASICs, Bitcoin mining consumes more electricity than countries such as Austria or Israel. GPUs Instead of ASICs, mining on Ethereum is usually done with a graphics processing unit (GPU). A GPU is simply a computer chip that is really good at processing images. GPUs are also known as graphics cards or video cards and are very popular for 3D video game rendering. Unlike ASICs, GPUs can be used for purposes other than mining and are generally more accessible and affordable to a wider variety of people. The Ethash Design Rationale states: GPU friendliness: We try to make it as easy as possible to mine with GPUs. Ethereum Mining Pools The crypto mining industry is largely controlled by large mining pools that pool together crypto mining operations from different locations into one group and then share the rewards between members. By pooling resources and divvying out block rewards, miners are able to more consistently generate revenues instead of waiting to be the lucky one miner, which may never happen! In Bitcoin, the odds of a single computer solving one of these problems is 1 in 6 trillion. In both Bitcoin and Ethereum, the top 5 mining pools control more than 70% of the market: Top 5 Bitcoin mining pools: Top 5 Ethereum mining pools: Centralization ASICs and mining pools make Ethereum much less decentralized than originally intended since only a few people have the resources for ASICs and miners in mining pools may potentially collude with each other. Because of these vulnerabilities for a few groups to consolidate too much influence over the network, Ethereum was designed with preventative measures in mind such as its PoW algorithm, which tries to facilitate GPU mining while restricting ASIC mining. There has been a recent debate on whether to change Ethereum’s PoW algorithm in order to restrict ASICs even more. One of Ethereum’s most ambitious plans, which was mentioned in the original whitepaper as a goal is moving the entire system off of PoW and on to a consensus mechanism known as Proof-of-Stake. It states: Note that in the future, it is likely that Ethereum will switch to a proof-of-stake model for security. The Proof-of-Stake protocol consumes less electricity so is better for the environment and doesn’t have to run on powerful, expensive machines so are better for decentralization. Proof-of-stake is a complex consensus mechanism that relies on completely different mechanisms than PoW so we will not go into too much detail about it here. Is Ethereum Mining Profitable? Use a Calculator! With such a low chance of reward, the competition of mining pools, along with the high cost of electricity and the need for expensive mining equipment, how is anyone supposed to make money from mining? The answer is to do your own research, proceed with caution, and do some calculations before you invest any money into mining. The best way to do this is through Ethereum mining calculators in which you can input your estimated hash power and electricity cost in order to easily compare the costs and benefits of mining Ethereum. The current price of Ether is also very important in these calculations. Ethereum Mining Options Figuring which path to take in mining really depends on what exactly your goals are and what you are willing to invest. Do you want to just try it out to learn more or do you want to seriously attempt to become a profitable miner? The information below should serve as more of a reference document with the most popular options than a specific guide as each path will differ depending on equipment, software, and goal choices. Do-It-Yourself Do you want to try out Ethereum mining for yourself? Follow this simple four-step plan. 1. Set Up Your Wallet You will need a wallet or more specifically, an Ethereum address that you can control and can send your mining rewards to. The simplest way to create a new address or wallet is to use a service such as MyCrypto or MyEtherWallet. If you want to learn more about Ethereum wallets and different options, you can check out our guide here: Best Ethereum Wallet 2. Choose GPU In order to mine Ethereum, you will need other equipment, but the GPU is the most important determinant of your mining success. When determining which GPU to use in mining, hash power and electricity consumption are what you need to consider first and foremost. The most powerful or fastest GPU will not be profitable if it sucks up too much electricity. Radeon and GeForce are the most commonly used and reviewed GPU brands for mining Ethereum.
+
+3. Download Mining Software
+
+Choosing which mining software program to use will depend on your technical proficiency. There are command-line focused programs such as Claymore’s Dual Miner and Ethminer.
+
+For the less technically inclined, there are mining programs that have simple graphical user interfaces (buttons) to help you mine Ether such as WinEth and MinerGate.
+
+4. Join a Mining Pool
+
+Even after setting up all of your equipment and software to mine Ethereum, you will most likely want to join a mining pool since in today’s mining industry the chances of a single miner getting rewarded are slim to none.
+
+Joining a mining pool means that you can expect a consistent reward for the effort and energy that you and your mining equipment expend.
+
+The top Ethereum mining pools by market share are:
+
+The dominance of these four mining pools is evidenced by the fact that you can go to etherscan.io at any given time and one of these four mining pools will almost certainly have mined the last few Ethereum blocks.
+
+EtherMine
+
+EtherMine has a pool hash rate of 37.5 TH/s and a fee of 1%
+
+F2Pool
+
+F2Pool has a pool hash rate of 18.75 TH/s and a fee of 3%.
+
+SparkPool
+
+SparkPool has a pool hash rate of 32.36 TH/s and a fee of 1%.
+
+NanoPool
+
+NanoPool has a pool hash rate of 18.13 Gh/s and a fee of 1%.
+
+Invest in Cloud Mining
+
+In cloud mining, you are basically paying someone or a large organization that has already invested in the mining equipment and location, in order to buy some of their hash power and share in their profits.
+
+These cloud mining companies have normally set up mining farms, which are basically warehouses filled with thousands of ASICs and GPUs that are used solely to mine crypto assets such as Ethereum or Bitcoin.
+
+In cloud mining, you are essentially renting out a slice of a mining farm’s capabilities to mine crypto assets in exchange for a fee.
+
+Cloud mining is analogous to investing in or buying shares of a mineral mine in which you provide some capital and someone else does the actual physical mining.
+
+Genesis Mining
+
+Genesis Mining is one of the most well-known and longest-running cloud mining services having been founded in 2013. They are very popular and claim to have had over 2 million users. Their Ethereum cloud mining contracts are currently sold out.
+
+NOTE – Use the following code with Genesis Mining to get 3% off your order: Use the following code with Genesis Mining to get 3% off your order: ZaCzFw
+
+HashFlare
+
+HashFlare is one of the largest cloud mining operations on the market and was founded in 2015.
+
+Like Genesis Mining, they are also very popular, claiming to have provided their services to over 2.5 million users.
+
+Wait for Proof-of-Stake
+
+Because of the threat of centralized mining pools, developments in advanced mining equipment, and the massive energy consumption required for Proof-of-Work, Ethereum has, from the very beginning, planned on shifting to a consensus mechanism called Proof-of-Stake.
+
+The Ethereum GitHub Mining page states:
+
+Becoming an Ethereum miner is not recommended. Ethereum is going to transition to proof-of-stake, making Ethereum mining obsolescent.
+
+Instead of relying on computations or electricity to secure the network, the Proof-of-Stake mechanism will allow anyone who holds a minimum amount of Ether and owns a computer to become a validator and earn interest by locking their Ether in the network.
+
+This method will secure the network and validate transactions, but in a way that is different from PoW or mining. Basically, you turn on any computer, regardless of its computational capacity, lock some Ether in the system for a certain period of time and that earns you interest in Ether.
+
+That will also be how new Ether is created in the future. Since PoW or mining is already so competitive and expensive, it may be more profitable to devote your time and energy to buying Ether and waiting to stake them when the network changes to Proof-of-Stake.
+
+The problem with waiting is that there is no firm date scheduled for Ethereum’s transition to Proof-of-Stake and this schedule could always change or be delayed.
+
+No matter which option you choose, just remember that mining profitability will change over time. There will be good times, and bad. So make sure you’re ready for both, and have fun mining that precious Ether!
+
+References
+
+WinEth’s how to mine Ether on Windows
+
+WinEth’s how to mine Ether on Windows Wikipedia page on graphics processing units
+
+Wikipedia page on graphics processing units Wikipedia page on Hertz
+
+Wikipedia page on Hertz Investopedia’s definition of a Nonce
+
+Investopedia’s definition of a Nonce Wikipedia page on one-way functions
+
+Wikipedia page on one-way functions Wikipedia page on cryptographic hash functions
+
+Wikipedia page on cryptographic hash functions Merriam-Webster’s definition of cryptography
+
+Merriam-Webster’s definition of cryptography Investopedia’s definition of a 51% attack
+
+Investopedia’s definition of a 51% attack Ethereum.org’s what is Ether?
+
+Ethereum.org’s what is Ether? Powercompare.co.uk’s Bitcoin mining electricity map
+
+Powercompare.co.uk’s Bitcoin mining electricity map Wikipedia page on Proof-of-stake
+
+Disclosure: Blokt strives to provide transparent, honest reviews, and opinions. The writer of this article is a user of the product(s) or service(s) mentioned in this article and was not influenced by the respective owners. We rarely run ads, but sometimes earn a small commission when you purchase a product or service via a link on our site. Thank you kindly for your support. Read more or donate here.

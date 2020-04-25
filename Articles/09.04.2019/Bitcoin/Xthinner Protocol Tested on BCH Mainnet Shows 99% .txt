@@ -1,0 +1,33 @@
+DATE:  09.04.2019, 18:01:08
+TITLE: Xthinner Protocol Tested on BCH Mainnet Shows 99% Block Compression
+URL:   https://news.bitcoin.com/xthinner-protocol-tested-on-bch-mainnet-shows-99-block-compression/
+
+Xthinner Protocol Tested on BCH Mainnet Shows 99% Block Compression
+
+On April 8, BCH developer Jonathan Toomim revealed how far he’s come with the Xthinner block compression protocol. Toomim tested the platform between two Bitcoin ABC full nodes on the BCH main network and a 363 kB block was compressed down to 1,660 bytes, or 99.54% compression.
+
+Also read: Uyen T Nguyen: The Powerful Young Woman Behind the Alleged ‘Satoshi Affair’
+
+Xthinner Compression and CTOR in Action
+
+The Bitcoin Cash (BCH) community is all about scaling and increasing the block size, but very adding large blocks is just one part of the equation. In the first week of September, the BCH chain processed some significantly large blocks and millions of transactions per day. However, developers noticed issues with block propagation, bottlenecks, and nodes crashing when very large blocks were processed. Last January, news.Bitcoin.com reported on Jonathan Toomim’s project Xthinner, which could help alleviate such problems in the future. Xthinner is block propagation software that leverages canonical transaction ordering (CTOR) and can compress blocks by more than 90%, if all of the transactions in the block were previously transmitted. On Monday, Toomim detailed that he’s been testing the protocol on the main network and used two Bitcoin ABC full nodes to record his data.
+
+“A few hours ago, I fixed the last showstopping bug in my Xthinner code and got it running between two of my ABC full nodes on mainnet,” Toomim told members of r/btc. “One node serves as a bridge to the rest of the world, receiving Compact Blocks and transmitting Xthinner — The other is connected to no other nodes except this bridge.”
+
+One Block Showed 99.54% Compression
+
+The first block Toomim transmitted through Xthinner was BCH block 577,310 and he had a few issues transmitting a portion of the block’s transactions. Following that block, Xthinner worked on “every block since then, with no failures, and with no block taking more than 1.5 networking round trips,” Toomim explained. The developer noted that most “non-tiny block” got around 99% compression while compact blocks got roughly 96-97% compression. “Eight blocks have been complete on arrival without any missing transaction fetching (0.5 round trips), and 24 blocks have required a round trip to fetch missing transactions,” Toomim added.
+
+Moreover, Toomim revealed that one specific block of 363 kB with 841 transactions was compressed to 1,660 bytes. According to the programmer that’s roughly a 99.54% compression or 15.79 bits/tx. “Uncoincidentally, this was also one of the largest blocks so far, with 23 minutes elapsed since the prior block,” said Toomim. The BCH developer further stated:
+
+Bigger blocks get better compression because the header, coinbase, and checksum specification overhead is a smaller proportion of the whole, and sometimes also because the Xthinner algorithm can more consistently omit the initial bytes of the TXID.
+
+Toomim Might Release an Alpha Version of Xthinner Soon
+
+Bitcoin Cash enthusiasts were pleased to hear about Xthinner being tested on the main network and discussed the project throughout the day. “Wow, 99.54% compression, I’m impressed — Thank you, Jonathan, for your marvellous work and thanks lead devs for sound roadmap and CTOR/LTOR which made this possible,” one BCH supporter wrote. Toomim also detailed that he would likely be releasing an alpha version of the Xthinner protocol soon so other developers can experiment with the platform as well. He stressed that the code still has a few bugs and vulnerabilities and recommends that people don’t run the software on a node that needs to stay running. “There’s still a lot of work to be done before the code is of high enough quality to be merged into Bitcoin ABC,” the developer concluded.
+
+What do you think about Xthinner and the possibility of 99% block compression? Let us know what you think about this project in the comments section below.
+
+Image credits: Shutterstock, Pixabay, Jonathan Toomim, and Bitcoincash.org.
+
+Keep track of the bitcoin exchange rate in real-time.

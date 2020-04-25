@@ -1,0 +1,87 @@
+DATE:  29.03.2020, 14:16:15
+TITLE: How a Stablecoin Survived a Crash, Bugs and Decentralization
+URL:   https://www.coindesk.com/how-makerdaos-stablecoin-survived-the-crash-smart-contract-bugs-and-full-decentralization
+
+The best Sundays are for long reads and deep conversations. Last week the Let's Talk Bitcoin! Show gathered to discuss how the MakerDAO DeFi stablecoin actually works and what happened during the sudden, precipitous drop in crypto prices earlier this month.
+
+In the aftermath of the so-called "Black Thursday" crash from several weeks ago, MakerDAO's "DAI" ethereum-backed dollar-pegged stablecoin came untethered and was, for a time at least, functionally insolvent. In the aftermath, holders of the MKR token, which allows holders to participate in governance decisions opted to do a couple of things, including adding the centralized stablecoin USDC to the list of acceptable collateral, which drew both condemnations mostly around centralized risk being added to the system and praise for making the system more robust against sudden ETH collateral price crashes.
+
+And now most recently, the Maker Foundation, which had held some centralized control over the protocol completed their long-planned exit with all authorities now transferred to the holders of MKR tokens, removing both a point of control that had been used as a safety check and a point of risk in that centralized control can be co-opted and used to disrupt a system as we've seen in other examples.
+
+On today's show we're digging into:
+
+What is Decentralized Finance (DeFi)?
+
+How does decentralized finance differ from traditional banking?
+
+Fractional reserve versus over-collateralized loans
+
+Liberty Dollars’s missing collateral and USDC’s risky name
+
+MakerDAO, DAI dollar-pegged stablecoins and how this DeFi stablecoin actually works
+
+SDAI (Single Collateral DAI) vs. DAI (Multi Collateral DAI)
+
+Smart contract "vaults"
+
+Lending money to yourself: 150 percent, 300 percent, insurance and auctions
+
+What happened on "Black Thursday" as the price of ether dropped more than 50 percent
+
+What happened when transaction fees went through the roof
+
+A bug in the collateral auction smart contract
+
+A surprising crash: As the system became functionally insolvent the price of the dollar-pegged stablecoin actually went up
+
+Oasis.app vaults are transparent and pretty interesting, take a look!
+
+Loaning yourself money using your ether (at interest)
+
+How MakerDAO’s approach differs from SALT Lending
+
+The other half of the DAI system: saving vault smart contracts
+
+DAI Saving Rate (DSR) and the new certificate of deposit
+
+The reward for using MKR tokens to administer a good system
+
+Can savings vaults be liquidated?
+
+Smart contract risks, consensus risks, systemic risks and response time risks
+
+Sponsors: eToro.com and Purse.io
+
+What specifically went wrong with the auction smart contracts?
+
+Recapitalizing the system by diluting MKR governance stakeholders
+
+Even with bugs, market mechanisms to fill the solvency hole seemed to work better than government bailout equivalents
+
+Completing the transition from foundation-overseen to full tokenized governance
+
+Decentralization transition - A necessary step or a natural one?
+
+Single-collateral vs. Multi-collateral stablecoins
+
+Why would a decentralized stablecoin want to allow a centralized stablecoin for collateral?
+
+External political risks vs. internal technological risks
+
+“Life finds a way” and DeFi’s natural circuit breakers (also Mt. Gox)
+
+Whats the point of putting USDC in to get DAI out?
+
+How does DeFi stablecoin insurance work?
+
+A modular ecosystem
+
+How DeFi and traditional finance are similar
+
+DeFi vs. 2nd layer protocols
+
+Credits
+
+Hosts: Adam B. Levine, Andreas M. Antonopoulos, Jonathan Mohan & Stephanie Murphy
+
+Music: Jared Rubens and GurtyBeats

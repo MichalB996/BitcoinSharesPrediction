@@ -1,0 +1,37 @@
+DATE:  10.04.2020, 23:05:25
+TITLE: Developer Launches Noncustodial Bitcoin Cash-Powered Authorization Platform
+URL:   https://news.bitcoin.com/developer-launches-noncustodial-bitcoin-cash-powered-authorization-platform/
+
+Developer Launches Noncustodial Bitcoin Cash-Powered Authorization Platform
+
+Seven days ago, a crypto software developer announced a new web service called Signup.cash, which provides individuals and organizations with the ability to create web-based applications for Bitcoin Cash (BCH). The engineer and team members who developed the new platform for BCH stressed that the project is a universal, noncustodial authorization platform.
+
+Also read: The Bitcoin Cash Network’s Block Reward Officially Halved – Block 630,000 Mined
+
+Signup.cash: A Noncustodial Authorization Platform for Bitcoin Cash App Creation
+
+Just recently a programmer announced the launch of a new web service for BCH via the read.cash blogging site. The creator of the new platform is the organizer of Bitcoin Cash Kuala Lumpur Meetup. The self-funded project called Signup.cash is a noncustodial authorization platform that helps developers create innovative applications by leveraging the BCH chain. The developer and team members behind the platform have foundational beliefs like open sourcing everything and that people should “focus on the business use cases rather than fancy tech.” In the developer’s opinion, prior to the launch of Signup.cash, building web apps for BCH wasn’t easy. Libraries like Bitbox and SLPjs are “pretty good,” the programmer noted, but he said three problems remain. The trust involved with a private key, building BCH transactions, and storing data can cause glaring issues.
+
+“Signup is a non-custodial platform as a service for developers to build BCH decentralized apps,” the project’s creators detailed. Moreover, the Signup protocol has three beneficial attributes which include:
+
+Key Signing Hub: A non-custodial wallet on your browser to work like a hardware wallet, requesting for consent from the user and signing transactions. Framework: Utility functions and easy to use API for developers to request users for different type of transactions without exposing the technical side of building a transaction on the blockchain. Infrastructure: Providing all the infrastructure needs of any type of decentralized app for developers so they can focus on building amazing user experience for their users.
+
+Signup Project Leverages Cash Accounts
+
+Essentially, the Signup project is similar to a universal login like Google or Facebook’s products. Basically, in order to leverage the Signup.cash wallet, a user would utilize a unique ID from the Cash Accounts protocol. “The web app you logged in can request you for different types of transactions (payment, storing data etc) and you get to choose to accept or deny it,” the Signup programmer noted. “Those web apps you log into would never have access to your private keys and there is no need for a browser extension to be installed.” The developer further stated:
+
+Upon using any web app that uses Signup technology, the first time you will be asked to create a wallet that comes with a free Cash Account username. After you’re signed up, you can use any web apps to interact with the blockchain.
+
+Following the announcement BCH fans from the read.cash platform and Reddit patrons welcomed the new Signup web service for Bitcoin Cash. The owners of the read.cash website responded to the developer’s release and said: “We like this project a lot — One thing that would be really useful for sites like read.cash is send-to-many. i.e. request one transaction that sends specific amounts to certain addresses.”
+
+“Fantastic — I’ve been looking forward to something like this but didn’t know how to describe it,” another individual wrote on the Reddit forum r/btc.
+
+The Signup creator also explained that the team has a Telegram group available for people who have any questions or want to provide any feedback. Further, Signup’s developer concluded that the programmers have also written a roadmap of goals they want to accomplish with the Signup platform going forward. In the future, the team hopes to add SLP support, an anonymized analytics dashboard for developers, a Signup key-signer app, and Memo Protocol Integration as well.
+
+What do you think about the Signup project for Bitcoin Cash? Let us know in the comments below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons, Signup.cash, read.cash
+
+Purchase Bitcoin without visiting a cryptocurrency exchange. Buy BTC and BCH here.
+
+Disclaimer: This article is for informational purposes only. It is not an offer or solicitation of an offer to buy or sell, or a recommendation, endorsement, or sponsorship of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

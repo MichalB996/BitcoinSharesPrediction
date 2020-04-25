@@ -1,0 +1,49 @@
+DATE:  03.02.2020, 13:34:54
+TITLE: Zengo Is a Keyless Yet Noncustodial Bitcoin Wallet
+URL:   https://news.bitcoin.com/zengo-keyless-noncustodial-bitcoin-wallet/
+
+Zengo Is a Keyless Yet Noncustodial Bitcoin Wallet
+
+Zengo is a non-custodial mobile wallet that dispenses with private keys in favor of threshold signatures to create two ‘mathematical secret shares’ – one stored on your mobile device, the other on their servers. In other words, there’s no single point of failure and no risk of irretrievably losing your coins in the event of hacking or wallet loss. It’s a novel means of dispensing with seed phrases, but there are some trade-offs to consider.
+
+Also read: Bitcoin Verde’s New Project Aims to Promote Bitcoin Cash Node Diversity
+
+
+
+‘Safer Than a Seed Phrase’
+
+That’s the elevator pitch of Zengo, who want users to quit entrusting exchanges with their funds and favor a safer option than custodial wallets. They’ve got a point, and judging by the $4 million in seed funding they received last year, others think so too. Incidentally, the mobile wallet is headed up by former Techcrunch editor Ouriel Ohayon.
+
+I decided to check Zengo out for myself – the app is free from the App Store and Google Play, although the company plans to introduce a small monthly subscription fee further down the road. Zengo allows you to store bitcoin core (BTC), ethereum (ETH), Binance coin (BNB), dai (DAI), maker (MKR), USD coin (USDC), tether (USDT), and paxos standard (PAX), with the promise of more coins to come.
+
+After downloading the app and creating an account, I was prompted to back up my wallet to the cloud using face ID. A few seconds later I was cheerily advised that if the app were to get deleted or I switched devices, all that would be required to gain access is my email, iCloud, and face. “Welcome to keyless :).”
+
+Zengo isn’t storing these authentication details, incidentally – Apple and Google are, just as they have been all along. They have no access to the funds stored on your Zengo wallet, however. Nevertheless, it’s evident that Zengo isn’t as private as using a fully noncustodial wallet, which requires the support of no third party – merely the ability to store your seed phrase offline.
+
+Biometrics and Buying Bitcoin
+
+Can face biometrics really be trusted for securing a bitcoin wallet? Wouldn’t it be possible for someone to use a photograph of your face – or even a sophisticated 3D mask – to break into your account? According to Zengo, the answer is no. To prove it, there’s a Test My Face Map feature in the app, with users encouraged to replicate their real face map. Zengo, who rely on face scanning tech from Zoom, insist that only your real phiz will fit. No need to create a seed phrase for account restoration here – just smile and you’re in.
+
+There’s no money in developing crypto wallets, which is why they’re either run by ideologically motivated volunteers or there are revenue-generating services inserted – like the ability to buy cryptocurrency. With the Zengo app, you can purchase BTC, ETH and USDC with credit card. For purchases less than €150 per month you won’t be asked to provide identification or documentation – at least if you’re outside the U.S. For €150 up to €10,000, and for all U.S. transactions, you’ll have to complete verification.
+
+Do You Trust the Cloud?
+
+Regarding the ‘mathematical secret shares’ that replace a seed phrase with Zengo, one resides on your smartphone, an encrypted copy sits on the Zengo servers, and the decryption code is separately stored in your iCloud or Google Drive account. That last part could be a bone of contention for some users. While Zengo undoubtedly provides a slick, user-friendly onboarding experience, particularly for newbies, not everyone will feel comfortable uploading their mathematical shares to the cloud, even though they’re encrypted, in the face of law enforcement dipping into iCloud accounts whenever they get the urge.
+
+Last year, Zengo challenged hackers to break into a Zengo wallet and claim 1 BTC. At the time, bitcoin had just broken $11,000 so it was a fair old bounty. Anyway, the booty went unclaimed and the reputation of the wallet’s open-sourced security model (and that of third-party auditors Kudelski and Appsec) was reinforced. As well as promising “unbreakable security,” Zengo states that users can retrieve their funds even if the company shuts down, thanks to an escrow mechanism.
+
+Zengo Works Like Any Other Wallet
+
+BTC and ETH appear as default options in the main dashboard during initial setup, while other supported cryptos are accessible from the Asset Manager in the top left-hand corner. In the opposite corner, you can click a smiley icon to initiate a conversation with the support team if you come unstuck.
+
+The Zengo app is incredibly easy to navigate and the UX every bit as smooth as advertised. In testing, I sent some BTC to Zengo and saw the transaction appear as pending in the app, with all the requisite details summarized. In the main bitcoin window, there’s also a nice at-a-glance view of the price change over the last hour, day and week.
+
+All told, Zengo is a solid non-custodial wallet for those who don’t want the faff of private keys. It occupies a sort of halfway house between custodial and noncustodial, providing greater protection than leaving your coins on an exchange, but with less privacy than using a noncustodial wallet in which keys are generated and stored client-side. Zengo won’t be for everyone, but it might be for grandma – and mom and dad and uncle too.
+
+What are your thoughts on wallets like Zengo that dispense with the need to store a seed phrase? Let us know in the comments section below.
+
+Disclaimer: This article is for informational purposes only. It is not an offer or solicitation of an offer to buy or sell, or a recommendation, endorsement, or sponsorship of any products, services, or companies. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.
+
+Images courtesy of Shutterstock.
+
+Did you know you can verify any unconfirmed Bitcoin transaction with our Bitcoin Block Explorer tool? Simply complete a Bitcoin address search to view it on the blockchain. Plus, visit our Bitcoin Charts to see what’s happening in the industry.

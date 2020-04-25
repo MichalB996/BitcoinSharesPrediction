@@ -1,0 +1,37 @@
+DATE:  15.09.2019, 12:30:17
+TITLE: Browser Extensions Can Help Scammers Steal Your Bitcoin: Casa CEO
+URL:   https://www.coindesk.com/browser-extensions-can-help-scammers-steal-your-bitcoin-casa-ceo
+
+Browser extensions can help scammers steal your crypto Casa CEO Jeremy Welch warned the audience at the Baltic Honeybadger conference in Riga this weekend.
+
+“Browser extensions impose major risks, and these risks haven’t been discussed until this point,” Welch said.
+
+Extensions can gather a wealth of data, which can be leaked, stolen, and used by scammers. One example is browser history, which can expose users’ online habits, including crypto-related site visits.
+
+“Make sure you don’t expose your bitcoin addresses anywhere,” Welch warned.
+
+Another thing to keep in mind is that some extensions capture users’ KYC information and can leak it to scammers. The only major multisig system that requires KYC at the moment is the one supplied by Unchained Capital, Welch said. He warns against commonly-used consumer software that gathers identity data.
+
+As an example, Welch demonstrated how an extension providing wallpapers with inspiring quotes or other content was actually stealing data as you filled in KYC forms. The software also extracts graphical data, like a photo of your driver’s license, which is captured as a code and then easily decoded, providing an actual picture of your ID document to hackers.
+
+Quiet data thefts
+
+All this is happening on the background, without the user noticing.
+
+“You got a nice background here and you don’t realize that your browser is actually dumping data,” Welch said.
+
+The same wallpaper extension can alter a receiving address when you’re trying to send your crypto to somebody else (or to yourself), sending it to a scammer’s wallet instead. The ubiquity and popularity of browser extensions makes the situation quite dangerous, Welch noted:
+
+“It’s terrifying, right? We all are using browser extensions all the time.”
+
+Even if a user is very careful and selective in what they’re using, the software can be upgraded and get new, unsafe features without a consumer noticing, Welch added.
+
+Welch noted that many well-known applications request enough permissions to gather personal data, including password managers, text editing app Grammarly, Joule extension for in-browser Lighting transactions, Casa’s own Sats extension and the Lolli bitcoin-earning extension.
+
+The solution? There is no easy one, Welch says. Developers can only keep building better tools that will make users’ experience safer and better.
+
+“We all need to be discussing this issues more, because we’re not even in the phase yet when real attacks will be taking place.”
+
+Welch added that Casa is planning to publish more security research soon and encouraged bitcoin developers and entrepreneurs to approach the company and share their concerns and ideas on how to address security issues.
+
+Image of Jeremy Welch by Anna Baydakova for CoinDesk

@@ -1,0 +1,33 @@
+DATE:  14.06.2019, 19:20:27
+TITLE: New SLP Token Allows You to Transact in BTC But With BCH Fees
+URL:   https://news.bitcoin.com/new-slp-token-allows-you-to-transact-in-btc-but-with-bch-fees/
+
+New SLP Token Allows You to Transact in BTC But With BCH Fees
+
+There’s a new Simple Ledger Protocol (SLP) based token called BTC2 that’s backed 1:1 with BTC. People can obtain the BTC2 token using cryptocurrency swapping application Sideshift.ai. With BTC2, you can essentially transact with BTC, but utilize the same network fee (less than a penny) as bitcoin cash transactions.
+
+Also read: Meet the Developer Who Added Schnorr Signatures to Bcash
+
+Introducing BTC2: Where Store of Value meets Medium of Exchange
+
+In January, news.Bitcoin.com reported on the launch of Sideshift.ai, an application that allows users to swap cryptocurrencies between chains. Sideshift AI was created by Andreas Brekken, the CEO of review site Shitcoin.com, and the notorious individual who once held $220,000 worth of BTC on the Lightning Network. Since then, Sideshift AI has improved a great deal and features a wide variety of crypto assets to trade. One asset recently introduced is an SLP-based token called BTC2. The BTC2 token (not to be confused with the BTC fork of the same name) is basically an SLP token built on Bitcoin Cash that’s backed 1:1 with BTC. Sideshift AI is the custodian of the collateralized BTC and Brekken told news.Bitcoin.com that Sideshift.ai is to BTC2 what the firm Tether is to USDT.
+
+If someone wants to purchase BTC2 they need to use Sideshift AI and exchange their BTC for the token. The price of BTC2, of course, fluctuates with the price of BTC and Sideshift AI will redeem BTC2 for BTC at any time. The new token also has a website called Corecash.org which has a slogan that says “Core Cash: Where Store-of-Value meets Medium-of-Exchange.” Core Cash (BTC2) lets you store and transact BTC on the Bitcoin Cash network, the website explains. This proposition gives BTC2 some value as it provides individuals with the means to transact with BTC for less than a penny per transaction.
+
+Sideshift AI Is to BTC2 What Tether Is to USDT
+
+Sideshift AI has released a document that describes how BTC2 shares similarities with USDT. The Omni Layer-issued token USDT is an IOU for USD where Tether holds the actual USD in their bank. “Sideshift AI is the custodian of the on-chain BTC and issues the BTC2 token in return,” the documentation notes. Speaking with news.Bitcoin.com, Brekken said he was excited to launch the core cash token.
+
+“The overwhelming interest in USDT showed us that users would like to use cryptocurrency without being subject to its volatility,” Brekken remarked. “With BTC2, anyone with a Bitcoin Cash SLP wallet can have the security of the most heavily mined blockchain, Bitcoin (BTC), while still being able to transact cheaply with the low fees of the Bitcoin Cash blockchain.” The Sideshift developer added:
+
+While having Sideshift AI as the custodian of one’s BTC adds a counterparty, BTC2 can also open new doors such as earning interest on BTC2. Once Cashshuffle supports SLP tokens, BTC2 holders will be able to store and transact BTC2 with greater privacy than what on-chain BTC offers today.
+
+The release of BTC2 follows the first USD stablecoin issued on the BCH chain called honestcoin (USDH). The new USDH coin was listed on the cryptocurrency exchange Coinex and is backed by USD on a 1:1 ratio. With BTC2, users will get the same effect but with bitcoin core in a similar fashion to the ERC20 token called wrapped bitcoin (WBTC). But being an SLP token, users can store BTC2 on SLP compatible wallets like Crescent Cash, Badger Wallet, Ifwallet, and Electron Cash. The BTC2 token can also be viewed on the Simpleledger.info transaction explorer. At the time of publication, there are 100 BTC2 tokens in circulation and Brekken has told us that minting will take place when more liquidity is needed.
+
+“Sideshift AI is excited to see Coinex launch its USDH token on Bitcoin Cash and is rushing to list USDH,” Brekken added.
+
+What do you think about the BTC2 token built on top of the Bitcoin Cash network using SLP? Let us know what you think about this subject in the comments section below.
+
+Image credits: Shutterstock, Jamie Redman, Twitter, Sideshift AI, Andreas Brekken, and Simpleledger.info.
+
+Are you a developer looking to build on Bitcoin Cash? Head over to our Bitcoin Developer page where you can get Bitcoin Cash developer guides and start using the Bitbox, SLP, and Badger Wallet SDKs.

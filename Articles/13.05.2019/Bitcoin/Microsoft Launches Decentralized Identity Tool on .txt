@@ -1,0 +1,69 @@
+DATE:  13.05.2019, 13:00:30
+TITLE: Microsoft Launches Decentralized Identity Tool on Bitcoin Blockchain
+URL:   https://www.coindesk.com/microsoft-launches-decentralized-identity-tool-on-bitcoin-blockchain
+
+Microsoft is launching the first decentralized infrastructure implementation by a major tech company that is built directly on the bitcoin blockchain.
+
+The open source project, called Ion, deals with the underlying mechanics of how networks talk to each other. For example, if you log onto Airbnb using Facebook, a protocol deals with the software that sends the personal information from your social profile to that external service provider. In this case, Ion handles the decentralized identifiers, which control the ability to prove you own the keys to this data.
+
+Christopher Allen, a crypto veteran and the co-founder of the World Wide Web Consortium (W3C) working group for decentralized identity (DID) solutions, told CoinDesk that Microsoft’s move could impact the entire tech industry.
+
+“A lot of enterprise infrastructures use Microsoft products,” Allen said. “So if they integrate this into any of their infrastructure products, they’ll have access to DID.”
+
+Indeed, Yorke Rhodes, a program manager on Microsoft’s blockchain engineering team, told CoinDesk that Microsoft’s team has been working for a year on a key signing and validation software that relies on public networks, like bitcoin or ethereum, yet can handle far greater throughput than the underlying blockchain itself.
+
+Underscoring the fact that Microsoft was a founding member of the Decentralized Identity Foundation, Rhodes said:
+
+“There are systems that we have at Microsoft that give you permissions in an enterprise context, a product called Active Directory, that we think need to be able to recognize these DIDs as well.”
+
+He added such infrastructure products and services related to Azure are among the Microsoft’s most popular offerings. This tiny piece in a giant machine, then, could have far-reaching impacts.
+
+Meanwhile, an anonymous source with knowledge of Microsoft’s project told CoinDesk that Ion will shift from using bitcoin’s testnet to the bitcoin mainnet later this year. As such, any tech-savvy observer could run a node and contribute to this project.
+
+Said W3C’s Allen:
+
+“To have Microsoft say they are not scared of bitcoin, and in fact, it has some very good properties and we are willing to take advantage of those properties, is, I think, a step in the right direction.”
+
+Stepping back, the difference between a DID under the hood, versus current infrastructure, speaks to the heart of users owning their own content and access. In the example of Facebook and Airbnb, with a DID, Facebook might be able to shut down your social media account but could not revoke access to all the tools that relied on the Facebook ID to log in. Plus, all those personal photos on Facebook would belong to the user, the holder of the DID.
+
+Yet Facebook, in particular, may not align with Microsoft’s approach.
+
+Another anonymous source told CoinDesk that although Facebook has been invited to participate in Microsoft’s DID projects and community efforts, so far the social media company has declined and instead continued to follow its historic approach to user data.
+
+“They’re going in a different direction that’s not as decentralized,” the source said of Facebook.
+
+Corporate conflicts
+
+The Wall Street Journal and others have reported that Facebook is looking to build a stablecoin-based payments platform for the social network. Yet Allen said he hasn’t seen any effort from Facebook to support DID standards or community efforts such as W3C, which may create a rift with corporations like Microsoft that are making such standards a core pillar of their business model.
+
+Rouven Heck, head of DID at ConsenSys and active member of the W3C, told CoinDesk that Facebook is noticeably absent from community discussions across the tech industry about DIDs.
+
+And although Rhodes said he was not aware of any dealings with Facebook, there was clearly a misalignment between the two company’s goals for using blockchain technology.
+
+“Facebook is the complete antithesis of consumer privacy,” he said. “Their business model is based on the fact they can monetize data about you.”
+
+What’s more, U.S. Senate Banking Committee last week wrote a letter to Facebook that voiced concerns about how the social media company will handle financial data with its crypto project, which is codenamed Libra. Few details about Libra have been shared to date outside of press reports.
+
+In the past, Allen said that Facebook only implemented parts of protocols that enabled data sharing “in a proprietary way that only benefited” Facebook.
+
+With regards to what approach the social media giant will take to blockchain systems, a Facebook spokesperson told CoinDesk:
+
+“Like many other companies, Facebook is exploring ways to leverage the power of blockchain technology. This new small team is exploring many different applications. We don’t have anything further to share.”
+
+Ethical capitalism
+
+In contrast to the allegations that Facebook is taking a different direction with its project, both ConsenSys and Microsoft are opting to make open source initiatives core pillars of their respective business models.
+
+“If we can create certain standards it will help the system to build up faster, and that’s good for all of us,” Heck said. “The different products we have are all useful across the space and not built into some proprietary niche.”
+
+Rhodes agrees with this approach, saying that engaging with the open source ecosystem serves Microsoft’s business objectives. He said the “philosophy of consumer ownership and consumer centricity” are core principles for designing Microsoft’s software going forward.
+
+Allen said he hopes a sense of public responsibility will continue to be viewed as a competitive advantage – especially as Microsoft Azure goes head-to-head with Amazon Web Services for cloud market share.
+
+“You could have a service that is in the cloud hosted by Microsoft Azure, but is absolutely secure because everything in it is encrypted with your keys that you control and everything that run under your authority, even though it’s in the cloud,” Allen said.
+
+In Rhodes’ opinion, current experiments with blockchain technology are comparable to Microsoft releasing Windows 95 in decades past, which helped boost mainstream internet usage through a consumer-oriented operating system.
+
+“Networking stacks were very tied to logins to existing networks,” Rhodes said of the pre-Windows 95 internet. “Like that, I think [Ion] is pretty significant.”
+
+Microsoft image via Shutterstock

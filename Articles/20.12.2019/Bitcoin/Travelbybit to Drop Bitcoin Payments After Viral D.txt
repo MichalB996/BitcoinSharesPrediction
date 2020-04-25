@@ -1,0 +1,39 @@
+DATE:  20.12.2019, 01:00:58
+TITLE: Travelbybit to Drop Bitcoin Payments After Viral Double Spend Video
+URL:   https://news.bitcoin.com/travelbybit-to-drop-bitcoin-payments-after-viral-double-spend-video/
+
+Travelbybit to Drop Bitcoin Payments After Viral Double Spend Video
+
+On December 18, Bitcoinbch.com published a video explaining how easy it is to double spend BTC transactions in the wild. Not long after the film was released, the payment processor Travelbybit announced it would be removing both BTC and BCH payments for over 400 Australian merchants. Unfortunately, a few BTC proponents claimed BCH has the same issues, despite the fact the Bitcoin Cash network doesn’t use the Replace-by-Fee (RBF) protocol.
+
+Also read: Video Shows How Easy It Is to Double Spend BTC Using RBF
+
+Double Spend Video Invokes Replace-by-Fee Debate
+
+Just recently, Bitcoinbch.com CEO Hayden Otto published a video that shows how easy it is to double spend BTC with a basic wallet that leverages RBF. The protocol called Replace-by-Fee (RBF) is a controversial implementation that allows a user to replace a transaction with another transaction. RBF invoked a debate the day it was introduced, because bitcoin transactions are meant to be irreversible. For instance, the former Gyft CEO Vinny Lingham revealed how horrible of a system RBF was for his business in October 2018. “We processed over 100,000 transactions with amounts from $5-2000/transaction with no double spends,” Lingham explained on Twitter. “Over $25m in sales and the first time we got a double spend attack was after RBF was introduced.”
+
+At this very moment you can go and double spend $BTC at over 200 locations across Australia, thanks to @TravelbyBit powered by @Binance! https://t.co/a79ELQj3j3 — Hayden Otto (@haydenotto_) December 18, 2019
+
+Following the video published by Otto, BTC supporters tried to imply that BCH has the same problem and attempted to say this was a zero-confirmation issue. Some BTC supporters even shared a website called doublespend.cash/stats and tried to say that the chances of a successful double spend on the BCH network in the past seven days average out at 13.5%. But the creator of the statistical website disagreed and said: “That site he links to also shows that only 1 out of 3992 (0.025%) attempts succeeded when the double spend was not broadcasted simultaneously.” The developer added:
+
+“That tweet suggests [he] either doesn’t know how to read stats or is intentionally dishonest.”
+
+Travelbybit CEO Plans to Remove BTC and BCH from Point of Sale System
+
+The fact of the matter is, the Replace-by-Fee protocol and Segregated Witness (Segwit) were intentionally removed from the BCH codebase on August 1, 2017. No matter what the claim is in regard to zero-confirmation transactions, the Bitcoin Cash network does not have the RBF protocol baked into the codebase. Still, after the video went viral, Travelbybit CEO Caleb Yeoh told Micky.com that “[Travelbybit] will be dropping both Bitcoin and Bitcoin Cash from the POS (Point of Sale).” “The truth is both Bitcoin and Bitcoin Cash and many other blockchains are not suitable for retail point of sale transactions — There are trade-offs between user experience vs security,” Yeoh added.
+
+Hayden Otto: BCH Being Prone to the Same Exploit Is Utter Nonsense
+
+Speaking with news.Bitcoin.com after the video published, Bitcoinbch.com CEO Hayden Otto had a few words to say about the critics. “Travelbybit (TBB) dropping support for BCH is no loss, as they did not widely support it to begin with,” Otto told our newsdesk. “BCH alone accounts for over 93% of Australia’s crypto retail expenditure and all this economic activity takes place outside of the TBB system — BCH adoption in Australia is unaffected.” Otto added:
+
+After being exposed for facilitating charge back through his service, despite advertising that it is impossible, the TBB CEO decided to drop BCH purely out of spite. He intentionally tried to mislead people to believe that BCH is prone to the same security exploits as BTC, which is utter nonsense.
+
+Otto went on to say that it was “reckless” of Yeoh to recommend that the Lightning Network is a secure alternative for customers and merchants. “But it’s no surprise, as they also run their own ‘Lightning Bank’ custodial services through the Wallet of Satoshi — LN is even more stupid than Bitcoin Core for the retailer,” Otto remarked. “You would need to buy 1,180 coffees with LN before you even match the payment efficiency of Bitcoin Cash buying just a single coffee (not including LN routing fees). Further, you would also need to lock $5,310 into the coffee channel for the effort.”
+
+The Bitcoinbch.com CEO said that TBB has had “beef with BCH for a long time” and that merchants had to request BCH support directly rather than BCH being enabled by default. “BCH did 93% of all cryptocurrency physical retail sales in Australia,” Otto underlined during the conversation. Otto also mentioned that TBB didn’t threaten to disable BSV which shares similar confirmation times. “I don’t see much future for TBB given the rate of BCH growth in Australia,” Otto added.
+
+What do you think about Travelbybit removing BTC and BCH from 400 merchants in Australia? Let us know what you think about this subject in the comments section below.
+
+Image credits: Shutterstock, Twitter, Bitcoinbch.com, Travelbybit, Wiki Commons, Fair Use, and Pixabay.
+
+Did you know you can verify any unconfirmed Bitcoin transaction with our Bitcoin Block Explorer tool? Simply complete a Bitcoin address search to view it on the blockchain. Plus, visit our Bitcoin Charts to see what’s happening in the industry.

@@ -1,0 +1,35 @@
+DATE:  28.03.2019, 13:01:03
+TITLE: Hacker Claims to Have Stolen 200 Bitcoins From Dark Net Sites via “TypoSquatting”
+URL:   https://www.crowdfundinsider.com/2019/03/145700-hacker-claims-to-have-stolen-200-bitcoins-from-dark-net-sites-via-typosquatting/
+
+A hacker has been bragging on the Dark Net that he or she siphoned 200 bitcoins ($760 000 USD) from Dark Net websites by using an impersonation scam known as “typo-squatting,” cybersecurity firm Digital Shadows reports.
+
+On the Dark Net, “Typo-squatting” involves subtle alphanumeric bait-and-switch changes to underground web “.onion” web addresses.
+
+For example, an “m” in a web address might be changed to an “rn.”
+
+A more workaday example might be to create a replica “PayPal” site that comes up when a person types in “PayPol.”
+
+Clicking too hastily on an incorrect domain then brings the visitor to a “spoof” website- a close replica of an authentic site.
+
+As transactions on the Dark Net are often made using cryptocurrencies, any payments made at the spoof site go directly into hacker coffers.
+
+According to Digital Shadows, hackers have several ways to profit off a spoofed Dark Net site:
+
+“Scammers can monetize their typosquat domains in a variety of ways, including advertising through web traffic driven to the site, harvesting credentials to sell or reuse in other fraud attacks, or directly from purchases made on these sites with no actual product being delivered. Additionally, we’ve observed some of the sites using their own Bitcoin wallets to accept donations
+
+This particular scam has now been concluded, as indicated by a braggadocious “flash page” that was unearthed over 500 times on the Dark Net by researchers:
+
+The self-congratulating “splash page” includes claims the hacker created a “scamming network” of 800 “typo-squat” (bad) domain names that caught 5000 hits per day for four years.
+
+Stating that it was only a matter of time before he or she was caught and “doxxed” (identified- for revenge purposes) by other Dark Net users, the hacker announces the end of his or her “profitable…boredom project.”
+
+Though this particular scam was circulated on the Dark Net, Digital Shadows says it bears relevance for mainstream businesses because it demonstrates how extensive a typosquat scam can be:
+
+“This squatting network proves that brand impersonation that goes unchecked, undetected, and unmitigated can directly lead to loss of consumer trust and incoming revenue…Taking it to the extreme, what if one person or entity created an entire network of exact replica websites of all the companies operating in your vertical? That’s exactly what we found for dark web hidden services like AlphaBay, Hidden Answers, Valhalla, Grams, Hansa Market, and several others.
+
+The problem is also common on the public Internet, says the firm:
+
+“…(I)n 2018 alone, Digital Shadows raised over 45,000 typosquat alerts to our clients, which we also help them to remediate through managed takedowns.”
+
+Digital Shadows offers three tips for maintaining “brand security” and repelling “typo-squat” and “spoofing” hacks:

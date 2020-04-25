@@ -1,0 +1,35 @@
+DATE:  10.07.2019, 07:10:59
+TITLE: Kakao Makes Big Claims, Says Klaytn Blockchain is 15x Faster than Ethereum
+URL:   https://www.coinspeaker.com/kakao-klaytn-blockchain-ethereum/
+
+Kakao stated that the Klaytn blockchain platform can process 300 transactions every second against Ethereum’s 20 transactions.
+
+South Korea’s popular messaging platform Kakao has made some big claims. As reported by the Korean Herald, Kakao says that its Klaytn blockchain is 15 times faster than Ethereum.
+
+At a conference in Seoul on Tuesday, July 9, Kakao’s blockchain subsidiary GroundX made this announcement. GroundX stated that the Klaytn network can mine a block in just one second while Ethereum takes 15 seconds.
+
+Thus, it notes that Klaytn has a 15x higher processing throughput than Ethereum. As the Ethereum network processes 20 transactions every second, the Klaytn network processes 300 transactions in the same time. Ground X CEO Han Jae-sun said:
+
+“I believe it would be the initial version of a mobile [blockchain] service. With the reduced response time, many projects that we believed unfathomable could eventually come true.”
+
+Sacrificing Decentralized Components
+
+Although Kakao makes these big claims, one must note that there’s a major difference in the modus operandi of Klaytn and Ethereum. Klaytn is a permissioned blockchain network while on the other hand, Ethereum is a completely permissionless platform.
+
+Thus, the higher throughput and reduction in transaction times comes at the sacrifice of decentralized components in the Klaytn blockchain. Kakao announced the mainnet launch of Klaytn last month on June 27. The Klaytn network aims to facilitate the mass adoption of blockchain services.
+
+In its official whitepaper, Kakao notes that it has adopted a hybrid approach in designing the Klaytn blockchain. The platform merged the concept of ranger nodes (RNs) and consensus nodes (CNs) to attain both the features of transparency and scalability.
+
+The general public can participate in the Klaytn network as the ranges nodes (RNs) which work for double checking the blocks propagated by CNs. The consensus nodes (CNs) are basically the invited partners on the network. The CNs together form a private blockchain to confirm and batch transactions processed through a Byzantine fault-tolerant (BFT) consensus algorithm.
+
+Klaytn has secured over 51 service partners with a combined user-base of over 700 million users. Tech giants like LG are the members of the governing council of the Klaytn blockchain.
+
+A number of blockchain projects are being already developed on the Klaytn blockchain and are scheduled to be released ahead this month in July. These projects span across a wide range of applications like social community programs, AR-tech content development, digital data authentication, insurance, and much more.
+
+Ethereum – Top Network for DApp Development
+
+Over the last few years, several Ethereum competitors have arrived in the market for the development of smart contracts and decentralized applications (DApps). However, Ethereum still continues to be the top choice for DApp developers. According to the report by Dapp.com, Ethereum continues to be the most preferred platform for DApp development. in Q2 2019. The reseach report states:
+
+“484 new dapps were added to the market this quarter, and Ethereum is still the first choice for developers, followed by TRON and EOS. Newly launched blockchains like TomoChain and IOST are quickly expanding, but the first tier blockchains have already gone way ahead”.
+
+Author: Bhushan Akolkar Bhushan is a FinTech enthusiast and holds a good flair in understanding financial markets. His interest in economics and finance draw his attention towards the new emerging Blockchain Technology and Cryptocurrency markets. He is continuously in a learning process and keeps himself motivated by sharing his acquired knowledge. In free time he reads thriller fictions novels and sometimes explore his culinary skills.

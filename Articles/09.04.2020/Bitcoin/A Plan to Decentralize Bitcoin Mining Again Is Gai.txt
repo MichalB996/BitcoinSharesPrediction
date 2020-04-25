@@ -1,0 +1,53 @@
+DATE:  09.04.2020, 12:30:19
+TITLE: A Plan to Decentralize Bitcoin Mining Again Is Gaining Ground
+URL:   https://sunriseread.com/a-plan-to-decentralize-bitcoin-mining-again-is-gaining-ground/83234/
+
+Braiins, the corporate behind one of many largest bitcoin mining swimming pools, lately launched a code spec that may very well be promising for decentralized mining.
+
+The spec, Stratum V2, might considerably change how bitcoin mining capabilities and would add safety and effectivity to mining swimming pools, the entities that arrange miners unfold internationally.
+
+Though it goals to enhance bitcoin mining swimming pools in a lot of methods, the first profit comes from a element that reduces some of the urgent issues in bitcoin: mining pool centralization.
+
+"If this protocol does every part it guarantees, 'mining centralization' as an argument will probably be utterly useless," bitcoin developer and educator Jimmy Tune stated.
+
+In the meantime, Sq. bitcoin developer Matt Corallo, one of many designers of the protocol, wrote in a current Reddit AMA: "That is large for mining centralization. As an alternative of being centered on the centralization of swimming pools (which is the world we're in at present), we will give attention to the centralization of precise miners [and] farm homeowners!"
+
+Final yr, Corallo revealed BetterHash, a plan to fight the centralization downside in mining swimming pools. Now Braiins and Corallo are pooling their work to construct one protocol that fixes a lot of present mining pool points.
+
+Silver bullet?
+
+Mining has lengthy been a troublesome proposition for particular person miners. Within the early days to bitcoin, miners from all over the world started connecting to so-called mining swimming pools to earn a extra constant paycheck. The entire miners labored in tandem and when one member of the pool acquired fortunate, the pondering went, the complete pool benefited. READ Chinese banking giant begins testing application for CBDC
+
+In time, weighted mining swimming pools emerged as a safer, extra worthwhile method of mining by taking in the entire bitcoin earned by their miners and redistributing them based mostly on mining energy contributed. Sadly, in accordance to current information from Blockchain.information, solely three mining swimming pools management over 50% of bitcoin's mining energy, thereby centralizing the mining energy in just a few arms.
+
+Supply: Supply: https://www.blockchain.com/en/swimming pools
+
+This can be a downside. When one of many miners in a mining pool wins a block and rakes within the 12.5 bitcoin reward, the mining pool decides which transactions go into that block. Bitcoin consultants fear that these centralized entities might use this energy to censor transactions they do not like.
+
+To stop this, Stratum V2 helps "job negotiation" modeled off of Corallo's BetterHash. This adjustments the connection between the miner and the mining pool. As an alternative of mining swimming pools deciding what transactions go into blocks, miners determine which of them to embody.
+
+"[If] there are instances of transaction censorship sooner or later, we now have a safety measure within the protocol that miners can use to circumvent the censorship," Capek stated.
+
+This additionally implies that miners, not mining swimming pools, will probably be in a position to vote on protocol upgrades to bitcoin if Stratum V2 is adopted by mining swimming pools.
+
+"With the job negotiation protocol, miners also can select their block header model subject. This enables them freedom in any potential voting by way of BIP8/BIP9 model mechanism," Capek stated.
+
+All that stated, Capek careworn that the brand new specification will not be essentially a "silver bullet" for mining centralization. He identified that the mining swimming pools that need to censor bitcoin transactions might merely opt-out of adopting the protocol.
+
+"On the identical time it is essential to point out {that a} pool that may 'deliberately' carry out such censorship wouldn't permit its customers to negotiate their jobs," he stated.
+
+In the meantime, Luke Dashjr, veteran bitcoin coder, argued on Twitter that there are different points of mining centralization that also want to be addressed. For instance, the truth that solely a handful of firms produce mining {hardware}, the computer systems made particularly for producing bitcoin, can also be a grave risk to decentralization.
+
+Thwarting assaults
+
+Decentralization is not the one attract Stratum V2. Mining swimming pools could have an incentive to undertake the brand new protocol as a result of it'll save them cash and stop assaults that might trigger them to lose rewards. First, it makes transferring information forwards and backwards extra environment friendly. It might additionally make stealing mining pool hash energy a lot more durable.
+
+"Final however not least, we now have addressed the safety points by permitting absolutely encrypted and authenticated communication utilizing the present cutting-edge know-how known as 'Noise Protocol Framework,'" Capek stated.
+
+This peer-reviewed approach is identical know-how utilized by the cell messenger WhatsApp and bitcoin's lightning community.
+
+Braiins continues to be finalizing just a few options within the specification, reminiscent of deciding which encryption algorithm to use for hiding information from snoops, Capek stated. However a model is out there to take a look at and a lot of the Stratum V2 specification draft is now up for overview.
+
+Capek expects it to take at the least 12 months for mining swimming pools to undertake the protocol.
+
+"Getting all people on board is a matter of realizing the advantages on the safety and effectivity facet, which in flip leads to saving some operational prices," he stated.

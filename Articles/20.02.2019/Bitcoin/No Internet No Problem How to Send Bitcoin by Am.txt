@@ -1,0 +1,111 @@
+DATE:  20.02.2019, 02:29:34
+TITLE: No Internet, No Problem: How to Send Bitcoin by Amateur Radio
+URL:   https://news.bitcoin.com/no-internet-no-problem-how-to-send-bitcoin-by-amateur-radio/
+
+No Internet, No Problem: How to Send Bitcoin by Amateur Radio
+
+In an age where governments are trigger happy at censoring or shutting down networks, it is reassuring to know that Bitcoin can operate sans internet. Network censorship, after all, is not some dystopian storyline but a power exercised by many democratic governments across the world. Thankfully, there are solutions that enable people to send and receive bitcoin even in a worst case scenario. For an advanced technology, it turns out that cryptocurrency can get surprisingly low-tech.
+
+Also read: Bitcoin and Weak Frequency Signals: Bypassing Network Censorship With Radio
+
+Send Bitcoin by Radio and Circumvent Network Censorship
+
+Imagine waking up one morning to find that the internet is down. Not because the wifi’s been disconnected: instead, your government has pulled the plug . You’ve no idea when it’ll be back online, and in the meantime, you’re cut off from life as you know it, ranging from contact with loved ones abroad to paying for anything by card. Since society isn’t big on keeping cash these days, and ATMs stock up on only so much paper money at a time, chances are you’ll have to sidestep – or engage in – a few fistfights if you’re to put a meal on the table.
+
+Since bitcoin is, itself, a form of digital currency, it takes a good amount of preplanning to set up a transaction, but in theory, it could still operate even when conventional options are forcefully removed from the equation.
+
+What do – Greeks
+
+Cypriots
+
+Venezuelans
+
+Argentinians
+
+Brazilians
+
+Zimbabweans
+
+and Ukrainians have in common? They all woke one day and the banks were shuttered and capital controls were put in place to avoid an economic collapse. Bitcoin doesn't close 🚀 — Jason A. Williams 🦍 (@JWilliamsFstmed) February 12, 2019
+
+While most of us will hopefully never experience a dystopian world of intermittent internet, the productivity sages remind us that a failure to plan is planning to fail. Knowing how to transact with cryptocurrency in a chaotic world is the sort of knowledge that might just come in handy one day, and in the meantime will make you the most interesting guest at the dinner party.
+
+Depending on the political stability of your geographic location, learning how to send bitcoin without internet could be nothing more than a fun Saturday afternoon science project. Then again, it could provide the way out of a tight spot one day, whether it’s transferring funds to a buddy stuck in the middle of the ocean or bribing a zombie to feast on the coins stored in your brain wallet instead of devouring your brain.
+
+Bitcoin Over Airwaves
+
+2014 saw the earliest mentions of bitcoin being sent via the airwaves. Hamradiocoin was one of the early vanity altcoins, geared at the ham radio industry. While it wasn’t entirely clear why said niche industry needed a dedicated currency, its current $794 market cap – unchanged since May 2017 – adds to crypto’s rich historical arsenal of questionable coins.
+
+But the idea of marrying Marconi and Satoshi was bound to lead to more useful experiments. A step in the right direction saw Finnish company Vertaisvaluutta.fi propose the creation of a P2P half-duplex CB/HAM radio cryptocurrency. Also in Finland, Kryptoradio partnered with a national broadcaster to pilot a cryptocurrency data transmission system that broadcasts bitcoin transactions, blocks, and currency exchange data via national DVB-T television networks in real time. The project failed to launch its commercial phase, with founder Joel Lehtonen explaining:
+
+The project raised huge audience and there has been some serious commercial interest but nothing I am really interested in because they would destroy the original idea of Kryptoradio – distributing the Bitcoin ledger autonomously without internet connectivity.
+
+Come 2018, there was a new experiment in town. Ingredients: Brooklyn-based gotenna, a mobile, long-range, off-grid consumer mesh network, and bitcoin privacy wallet Samourai Wallet. A New Zealand developer transported crypto from a distance of 12.6km away, entirely offline, using only a network-disconnected Android phone and four portable antennas. Though as his Twitter recount acknowledges, it took one heck of a prep, including setting up relay stations.
+
+Over the weekend I sent a bitcoin transaction to a relay 12.6km away with no cell network or internet connection. Here's a tweetstorm about how I used @gotenna and @SamouraiWallet to do it — ℭoinsure (@Coinsurenz) October 16, 2018
+
+Fast forward to this year, and in perhaps the most simplistic effort yet, Coinkite founder Rodolfo Novak managed to move BTC some 600km away from Toronto, Canada to Openbazaar co-founder Sam Patterson in Michigan, USA. And in that moment, Bitcoin-by-sky went international.
+
+Advocates for Bitcoin by Air
+
+In 2017, computer scientist Nick Szabo and PhD researcher Elaine Ou delved into the topic at Stanford’s Scaling Bitcoin conference, introducing a research project that proposed tethering bitcoin to radio broadcast to secure consensus proofs using weak signal radio propagation. (View their talk, a copy of the presentation, and our coverage of the event for further information.)
+
+With Novak and Patterson’s latest feat, crypto Twitter went wild. Szabo, showing that he’s still a firm proponent of taking bitcoin skyward, chimed in to congratulate the duo for a successful sendoff that not even a snowstorm could stop.
+
+Bitcoin sent over national border without internet or satellite — just nature's ionosphere. https://t.co/IKCAXGs9fW — Nick Szabo 🔑 (@NickSzabo4) February 12, 2019
+
+How to Send Bitcoin by Radio
+
+As Novak and Patterson have illustrated, you don’t need to overload on gear or make space for satellite storage in your backyard to send bitcoin by air. Accompanying an SDR ham on this quest was nothing more than a 40m 7Mhz antenna and the JS8call application.
+
+While the setup seems simple enough (Google “ham radio for beginners” for a primer), in practice this is probably not something you’ll dive into unless you’re just messing around or, in real life, shit gets real.
+
+In truth, there are restrictions aplenty when it comes to sending bitcoin by radio.
+
+First off, legalities. To stay on the right side of the law, some countries require you to be a licensed ham operator, and even then you’re unable to send any encrypted messages or use the airwaves for commercial purposes unless so licensed. At this point, it’s not yet clear which governmental task force will join the SEC and co in clamping down on illegal apocalyptic bitcoin-via-radio transactions.
+
+Since legal restriction is the mother of all invention, Novak and Patterson circumvented this by broadcasting their experimental, non-commercial wallet encryption sendoff via public cypher.
+
+Then there’s prepping it all. For this to be a viable – albeit last resort – solution in an actual nail-bite situation, sender and receiver would have to set it all up in advance. Novak and Patterson were able to execute their experiment by communicating and collaborating in lieu of the transfer, using a brain wallet. (The brainwallet, which is simply storing your mnemonic recovery phrase in your brain, is not to be confused with the recent more nefarious version – the deathwallet popularized by CEO Gerald Cotten who took the keys to Quadriga’s crypto kingdom to his grave.)
+
+Thus, if you’re going to use this as a backup plan for when stuff hits the fan, you’d better secure a right-hand wo/man and a fool-proof project management blueprint while things are still web-friendly. If this process seems as though it walked off the pages of a James Bond novel, yes. It’s decidedly more involved than a mere intra-wallet send-off.
+
+However, if you’re gung-ho on testing out alternative bitcoin transports, don’t let the naysayers stop you. Yours might well be the next proof of concept the interweb is waiting for. The blog Better Off Bitcoin, for one, offers a run-through protocol tutorial.
+
+Scalability Is a Big Bottleneck
+
+Clearly, scaling is a non-issue here. For the foreseeable future, sending bitcoin by radio isn’t happening unless it absolutely has to.
+
+According to Australian crypto trader Boss Cole, “As Bitcoin and other cryptocurrencies are moving into the future, it is an interesting concept to think about what would happen if we instead went into the past. It is possible and easy to transfer Bitcoin without an internet connection, but it is not convenient. There are a number of projects working on this with satellites or their own infrastructure, however at the time of this writing they are not “popular” simply because there is no real demand.” He continues:
+
+In the case of government censorship, the infrastructure would change rapidly. If we were dealing with serious problems, the infrastructure would follow. Because it is possible. If we went into the dark ages, the main way to transfer Bitcoin would be transferring private keys between individuals. This would be simple, but not convenient.
+
+So while it’s theoretically possible to take to the skies and send crypto wallets around the world and all the way into space, DIY bitcoin ionosphere amateurs won’t be sending satoshis to the dark side of the moon any time soon.
+
+Why Radio Wave Transmission Might Be Necessary
+
+We tend to associate worst-case scenarios in which the main character has nothing but a walkie talkie and an old ham lying around with Hollywood’s portrayal of doomsday.
+
+Yet for unstable regimes like Zimbabwe and Venezuela, internet blackouts were how 2019 got its start. In reality, network censorship is an all-too-common control tool for many governments around the world.
+
+India leads the pack with 288 shutdowns between 2012 and 2019, with 134 instances in 2018 alone. The Middle East and Africa aren’t strangers to forcing citizens into offline mode, either.
+
+Good luck stopping information across borders when all you need is 40 watts of power, a long piece of wire, a radio and a computer. — Sam Patterson (@SamuelPatt) February 12, 2019
+
+Under the Communications Act 2003 and the Civil Contingencies Act 2004, the U.K. has an internet kill switch, which could be enforced in light of a serious threat such as a significant cyber attack. The U.S. has had, for the past 85 years, the power to kill electronic communications under the Communications Act of 1934. And with talks of Russia considering a test run to decouple from the global internet, we risk taking a rude awakening if we assume the world’s 72,558 Google searches every second to be an unquestionable given.
+
+Bitcoin for Every Situation
+
+It might have taken a mini-library worth of code to get NASA astronauts to the moon, but sending bitcoin there won’t be nearly as hard. All you need is a radio. Okay, that and a moon rocket. But the point is, this new technology can be just as comfortable – or accessible – even when when the tech you’re using is decidely old school.
+
+Peer-to-peer networks built on the internet have a special allure because of the sense of resilience they have without a central point of failure. A bit misleading: they are really built on many computers and the connections between them. Not true with radios. True peer to peer. — Sam Patterson (@SamuelPatt) February 16, 2019
+
+Bitcoin might have been invented on the internet for the internet, but it can straddle both the digital and analog worlds. Cryptocurrencies like bitcoin walk the line between money under the mattress and cash in the bank. As these trailblazers show, bitcoin can straddle those worlds not only functionally, but also technically. Thanks to the efforts of the pioneers profiled here, crypto has shown it can survive in even the most challenging environments.
+
+Sending bitcoin by radio isn’t quite carrier pigeon, but in tech terms it might as well be. Which, says crypto developer John Villar, is “probably the most low end you can get before smoke-signaling a brain wallet.”
+
+Can you envision a situation in which you might have to send bitcoin by ham radio? What other ways could you picture cryptocurrency being transferred without the internet? Let us know in the comments below.
+
+Images courtesy of Shutterstock.
+
+Express yourself freely at Bitcoin.com’s user forums. We don’t censor on political grounds. Check forum.Bitcoin.com.

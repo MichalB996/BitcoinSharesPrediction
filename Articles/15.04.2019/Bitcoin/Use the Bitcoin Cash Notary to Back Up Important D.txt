@@ -1,0 +1,25 @@
+DATE:  15.04.2019, 08:30:41
+TITLE: Use the Bitcoin Cash Notary to Back Up Important Documents
+URL:   https://news.bitcoin.com/use-the-bitcoin-cash-notary-to-back-up-important-documents/
+
+Use the Bitcoin Cash Notary to Back Up Important Documents
+
+Proving ownership of copyrighted material through traditional means such as applying for a patent is expensive and involves third parties in most jurisdictions around the world. The Bitcoin.com Notary tool is an alternative that can do that at very little cost and without the need to reveal the information you want to protect.
+
+Also read: Cryptonite Browser Extension Protects You From Phishing Sites and Fake Profiles
+
+Prove a Document’s Existence Without a Third Party
+
+With the Bitcoin Cash Notary service users can create a timestamped proof of a document’s existence without trusted third parties. A cryptographic digest of the document, which can also be a photo or video file, is stored in the Bitcoin Cash (BCH) blockchain, linking it to the time of submission. The tool acts like a digital record book that facilitates the verification of documents at a later stage.
+
+The Notary provides you with a trustless automated solution for backing up all kinds of important information. It allows you to prove its existence by comparing the blockchain entry to your actual document and also in case the official version goes missing. At the same time, the contents are never exposed or stored on the blockchain.
+
+To accomplish this, all you need to do is add your file by dragging it into the browser or using the file selector on the tool’s page. Note that the file will not be uploaded to the Bitcoin.com server. Then you’ll be prompted to send a small amount of bitcoin cash (BCH) and fund your blockchain anchor. That will cost you only 0.00005 BCH or less than $0.02 at the time of writing.
+
+You’ll be able to see your proof on the blockchain by checking the transaction in a block explorer. You can also use the tool to verify that a document has been notarized by clicking on the “Verify” tab and dragging the file into the browser window. If the document is found, the system will redirect you to its proof page.
+
+What do you think about using the Bitcoin Cash blockchain as a trustless mechanism to prove ownership of information? Share your thoughts on the subject in the comments section below.
+
+Images courtesy of Shutterstock.
+
+At Bitcoin.com there’s a bunch of free helpful services. For instance, have you seen our Tools page? You can even lookup the exchange rate for a transaction in the past. Or calculate the value of your current holdings. Or create a paper wallet. And much more.

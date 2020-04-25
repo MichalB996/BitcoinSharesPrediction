@@ -1,0 +1,57 @@
+DATE:  03.01.2019, 18:11:16
+TITLE: Neutrino: A Privacy-Preserving Light Wallet Protocol
+URL:   https://bitcoinmagazine.com/articles/neutrino-privacy-preserving-light-wallet-protocol
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+Lightning is all the rage these days and, while it's an exciting development, users currently have to have a full node running in order to transact in it. In this article, I'm going to introduce Neutrino, a new protocol for light clients to get the data that they need while preserving privacy and without trusting a central server.
+
+A Little History
+
+In the original white paper written in 2008, Satoshi Nakamoto described something called Simplified Payment Verification (SPV). SPV is how a light node can verify payments without downloading, verifying or storing the entire blockchain. This was supposed to be the basis of light wallets. Unfortunately, the original Bitcoin Core software did not implement Simplified Payment Verification, so light clients did not have access to the data necessary to do SPV in a privacy-preserving way.
+
+In 2013, BIP0037 was added to Bitcoin Core to make SPV viable. BIP0037 created network commands to make the Simplified Payment Verification possible for light nodes to do. Light nodes could now ask for proof that a particular transaction happened in a particular block. That way, light nodes wouldn't have to trust servers but could actually verify the data being given to them.
+
+To achieve this, the light client gives the server a filter. The server then runs the filter over all the transactions of a new block and reports back those transactions, along with proof that they're in the block, to the client. The client then verifies the proof and looks at the transactions to see if any of them belong to the wallet.
+
+Unfortunately, BIP0037 has a few drawbacks. Among others, it was seen as being difficult to implement and most light wallets have opted to use something else. The Electrum wallet, for example, uses its own proprietary protocol which isn't privacy-preserving. The Mycelium wallet calls servers that the Mycelium company runs. In addition, there are denial-of-service vectors (by having to run lots of filters) to exploit servers that respond to BIP0037 requests.
+
+Furthermore, the privacy aspects of BIP0037 turned out to not be as strong as was thought. It turns out the server can know a lot about the light wallet (like what balance it might have, whom its transacting with, possibly even what it's buying) by looking for certain kinds of patterns.
+
+As a result, BIP0037 has largely fallen into disuse, despite being in the Core software since 2013.
+
+What Is Neutrino?
+
+Neutrino is a protocol to verify payments, except this time, the bulk of the work is done on the client side. Instead of the server filtering transactions for the client, now all the transactions belonging to a block (technically ScriptPubKeys corresponding to each input and output except the OP_RETURN outputs) are compressed and sent to the client. It's now the client's job to figure out if any of the transactions are ones it has transacted in. If any of the transactions are relevant to the wallet, the client then requests the full block to verify the transactions.
+
+It turns out that the compression can be pretty impressive. A normal block is around 1.4MB, but by compressing it (technically, hashing each ScriptPubKey to 64 bits), each block produces about 20KB of super-compressed data per block. Since this super-compressed block is the same for every light client, this removes the denial-of-service vulnerability for the server. This also means that the server gets no special information about the light client other than what blocks it wants to look at, meaning that there are much fewer privacy leaks.
+
+Trade-offs
+
+Of course, by adding privacy, we do have some trade-offs to consider. First, there's more data being sent back and forth. While 1.4MB to 20KB is a pretty large reduction in bandwidth, BIP0037 allowed an even bigger reduction as servers only transmitted about 3KB of data for blocks where there were transactions the wallet participated in and only 80 bytes for blocks without such transactions. Assuming about one transaction per day, that's about 100 bytes per block overall for BIP0037, which means Neutrino is more expensive from a bandwidth standpoint.
+
+Further, there is more validation to do on the client side as the client now has to do additional verification to prove that the data sent by the server is true.
+
+Privacy is preserved while looking for transactions that the wallet has participated in. Usually, these are transactions where the wallet is receiving money. For sending money, however, Neutrino doesn't really help and there are a lot of privacy concerns there still (though Tor and Dandelion can help).
+
+Lastly, there is likely going to have to be a new commitment to the coinbase transaction of each block to facilitate Neutrino, which would require a soft fork.
+
+What This Means for You
+
+It turns out that Neutrino is not just useful for Bitcoin wallets, it's also useful for Lightning. Setting up a Lightning node is currently difficult, in part because you have to run a full node which takes a long time to sync. Neutrino is available in btcd, but not in Bitcoin Core yet, so until it’s available in Bitcoin Core, light wallets are going to have a tough time finding nodes to get data from. It is for this reason that Wasabi has had to make their own servers with similar super-compressed block data.
+
+Once Neutrino arrives to Bitcoin Core, Lightning Wallets will be able to run as a light client much more easily. And that means that your bitcoin wallet will be far more effective in preserving privacy. This does not mean that you’ll have complete anonymity, especially from chain analysis, but you will be able to achieve a large portion of the privacy that full nodes currently enjoy without storing, transmitting or verifying the entire blockchain.
+
+Privacy leaks are ultimately security leaks as information about you can be used against you.
+
+Transacting with wallets which use the Neutrino protocol means that your bitcoin transactions, whether on-chain or on the Lightning Network, will be a little less susceptible to leaking information.
+
+More Information
+
+For developers interested in this technology, BIP0157 and BIP0158 spell out the protocol in detail and test vectors are available from the developers at Lightning Labs. For consumers, ask if your wallet provider is planning on implementing Neutrino.
+
+Conclusion
+
+Neutrino is a technology that is long overdue. Most people using light node software have to trust external parties to some degree, which is not the cypherpunk ideal. By using Neutrino, wallet developers will now be able to create wallets that are truly self-contained and do not require trusting a server.

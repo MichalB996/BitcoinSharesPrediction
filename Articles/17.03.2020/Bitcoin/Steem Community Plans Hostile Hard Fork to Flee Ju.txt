@@ -1,0 +1,67 @@
+DATE:  17.03.2020, 23:11:42
+TITLE: Steem Community Plans Hostile Hard Fork to Flee Justin Sun’s Steemit
+URL:   https://www.coindesk.com/steem-community-plans-hostile-hard-fork-to-flee-justin-suns-steemit
+
+The blockchain for bloggers, Steem, is moving to Hive.io, CoinDesk has learned. The hostile hard fork is scheduled for Friday.
+
+"My own opinion, Justin Sun thought this was a voting war," Blocktrades founder Dan Notestein told CoinDesk. Blocktrades is a leading validator on the Steem blockchain and Notestein is among the developers coordinating the hard fork's software.
+
+Sun's Tron Foundation acquired Steemit, Steem’s leading social media dapp, on Feb. 14. The acquisition kicked off a protracted fight between Sun and the Steem community over which side leads the chain. At issue is a pile of Steemit Inc.-controlled steem tokens known as the “ninja-mined stake” that Sun could have used to determine the blockchain’s fate.
+
+For this initial hard fork, one key thing will change: The tokens from the original development fund controlled by Steemit will not be carried over to the new chain. Everyone else's will be ported over.
+
+“He didn't understand that the underlying value of those tokens is the community,” Notestein said. “In the end, if not enough people support those tokens, they become worthless."
+
+In short, rather than continue the fight for Steem, prominent community leaders hope to take their community with them to greener pastures.
+
+Decentralize this
+
+Steem is best known as a crypto alternative to Medium. Bloggers write posts and share a small portion of the block rewards based on the popularity of their posts.
+
+Notestein runs a top witness (like a bitcoin miner) on Steem. He also runs a service somewhat like ShapeShift that makes it easy to switch between coins.
+
+Last night he wrote a post on Steem that reflected conversations currently going on within a Slack group detailing the rough plan to hard fork the blockchain so the Tron Foundation gets shut out of it entirely. The new blockchain is tentatively known as "Hive."
+
+The nature of Steem makes this fairly easy.
+
+Basically, the fork's developers will make a copy of the blockchain, which has the unique characteristic of carrying in it copies of all the blog posts that people have written to date.
+
+This means that with a hard fork all the blogging data is preserved. Other dapps supporting the blogging function can just redirect to the copy of that data on the new blockchain. Notestein said many of the dapps besides Steemit will do so, but CoinDesk has not been able to confirm that as of press time.
+
+Steemian, a Steemit alternative, said it would fully make the switch, though it would wait as long as a couple of weeks to help users transition over. The game Splinterlands, which is the most popular Steem dapp, according to Dapp.com, confirmed it would make the switch once the chain was stable and the team had adjusted all the technology on its end. The owner of SteemD, a block explorer, told CoinDesk it would do some kind of format that lets users choose between the two. For many dapps, the switch will require rebranding.
+
+The fork captures the decentralized nature of blockchains. Both chains will have all the content submitted before the hard fork. Which blockchain future content gets posted to will depend on which user interface a user uses. Presumably, if a user is used to blogging on Steemit, their post-hard-fork posts will still get saved on the chain with Justin Sun's tokens.
+
+The Tron Foundation did not respond to a request for comment from CoinDesk.
+
+What will change
+
+In terms of steem token supplies, the developers will take a snapshot of all the wallets at some block then allocate the same token volume to all the wallets on the new chain.
+
+Everyone with tokens on Steem will also have tokens on the new chain; that is, except for the Steemit wallets controlled by Sun’s Tron Foundation.
+
+"Our immediate plan is to keep it simple. We are doing this very quickly," Notestein said.
+
+Read more: Steem Community Mobilizes Popular Vote in Battle With Justin Sun
+
+However, there will be one tweak so that exchanges will be much less likely to vote their tokens on behalf of someone trying to run a governance coup, as Binance and Huobi did on Tron's behalf recently (each has since expressed regret for doing so).
+
+"One of the initial changes will be an improvement in the DPoS [distributed proof-of-stake] system to prevent attacks of this sort," Notestein said. Basically, if a user on the new blockchain stakes their tokens, they won't be able to engage in governance votes for 30 days.
+
+Steem is unique in the degree to which governance requires users to really lock-in their assets. Once someone decides to vote their tokens, they are locked up for a long time ("powering up"). It takes 13 weeks for all the tokens to "power down" in Steem parlance (they release gradually over that time).
+
+Currently valued at $46 million on CoinMarketCap, Notestein expects steem tokens to plummet in value after the hard fork.
+
+He said users are holding now because they want to get the new blockchain's tokens, then he expects steem will be widely dumped. Notestein himself is a steem whale, and he said he plans to dump accordingly.
+
+In terms of establishing value for the new token, Notestein believes one exchange will list it. He also plans to launch an exchange on which the Steem community can use the new token. They already have the technology ready, he said.
+
+Ready to go
+
+Notestein thinks much of the content-contributing community will switch over. Notestein's post about the fork yielded more than 1,700 votes and over 700 comments.
+
+"The way Justin Sun has come in, he's just rubbed everybody wrong," Notestein said. "The thing about Steem is it basically introduces people to a lot of the ideas of crypto even if they just come here to blog."
+
+Case in point: As talks broke down, Sun took to Steemit himself to urge witnesses to come over to his side. But he let his frustration show. In a March 5 post since largely deleted (but whose original lives on inside the blockchain) Sun asked: "Do you like Justin Sun or you just want to fuck him?" It went on from there in a similar spirit.
+
+"Steem is a much more social blockchain. It's kind of a different feel," Notestein said. "That really was our number one goal: to maintain that community from really an existential threat from Tron."

@@ -1,0 +1,21 @@
+DATE:  17.03.2020, 13:29:54
+TITLE: Fake Coronavirus Android App Asks to Pay Ransom via Bitcoin
+URL:   https://insidebitcoins.com/news/fake-coronavirus-android-app-asks-to-pay-ransom-via-bitcoin/254048
+
+A new app on Android that reportedly alerts people when a person affected with Coronavirus is near them, locks up users’ phones and asks them to pay the ransom in Bitcoin.
+
+Coronavirus scare is hay day for hackers
+
+The security research team at DomainTools recently detailed a new app called COVID19 Trackers that locks down users’ phones when launched and asks for $100 in Bitcoin. The app is making its way to users, thanks to the scare and panic arising because of the Coronavirus outbreak. Hackers are trying to take advantage of the situation and trick people to download malicious apps on their phones.
+
+The COVID19 Tracker app does the same. It claims that it would alert people whenever they are in the vicinity of a person affected by the Coronavirus. However, as soon as it is downloaded, it asks people to pay $100 in Bitcoin or their social media accounts and phone storage will be deleted. DomainTools came across this app while researching for domains labeled with COVID and released a report about its modus operandi on Friday.
+
+A fake app available on a website
+
+The app is not available on the Google Play Store. It is hosted on a separate website coronavirusapp.site from where users can download it and map coronavirus cases around them. The map would provide all statistical and tracking information about the disease and even give heatmap visuals to the users. Users may download the app and may be asked to give access to the phone’s lock screen so that the app may send notifications regarding coronavirus patients in their vicinity. It also asks for “active state monitoring” permission from users in the accessibility settings.
+
+However, the app comes with ransomware known as “CovidLock” using a “screen lock attack” technique that denies the user access to their phone. It force-changes the password to unlock the phone and the screen displays a ransom note that asks the user to deposit $100 in Bitcoin to the hacker within 48 hours. The user is threatened with scrubbing the phone if the payment isn’t made and even suggests that it would expose their social media accounts. The warning suggests,
+
+“Your GPS is watched and your location is known, if you try anything stupid your phone will be automatically erased.”
+
+The good news is that hardly anyone has fallen for this scam app and the Bitcoin address added by the scamsters remains empty.

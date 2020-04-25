@@ -1,0 +1,45 @@
+DATE:  22.02.2019, 13:12:33
+TITLE: Blackmailers made $332,000 in Bitcoin during ‘sextortion’ scam
+URL:   https://thenextweb.com/hardfork/2019/02/22/bitcoin-sex-scam-blackmailers/
+
+Cybercriminals raked in more than $300,000 in Bitcoin BTC payments during a ‘sextortion’ email-based blackmail campaign, which was first spotted in 2017 but saw increased activity mid-last year.
+
+According to a report by UK firm Digital Shadows, which tracked a sample of 792,000 emails as part of their analysis, criminals received some $332,000 from more than 3,100 unique sender Bitcoin addresses.
+
+The funds were deposited in 92 Bitcoin addresses. Further analysis of Bitcoin wallets associated with these scams found that ‘sextortionists’ could be reaping an average of $540 per victim.
+
+Hard Fork first reported on the scam in July last year after Cornell University computer science professor Emin Gun Sirer publicized it on Twitter.
+
+Targetting victims
+
+Cybercriminals followed a similar modus operandi throughout the campaign.
+
+Firstly, the extortionist would provide the target with a known password as “proof” of compromise and would then claim to have video footage of the victim viewing adult content online. The criminal would then ask for a ransom to be paid into a specific Bitcoin address.
+
+Interestingly, the report revealed ways in which scammers sought to hire new accomplices to target high-net-worth individuals with considerably high salaries – with some offering the equivalent of $360,000 per year. Those with network management, penetration testing, and programming experience, could expect to earn more – with one threat actor willing to pay $768,000 (£600,000) per year.
+
+The report also reveals how criminals are making good use of social media networks to target their victims. A report by The Independent mentions LinkedIn specifically, but it’s worth noting that other networking platforms were also targetted.
+
+Sophistication levels
+
+According to researchers, the scammers‘ capabilities varied in terms of skills.
+
+Some showed little understanding of how to put together and distribute emails on sizeable scale, often sending badly produced emails which failed to get past a mail server or spam filter.
+
+On the other hand, some campaigns showed a higher level of sophistication, with many emails being sent from purposely created outlook.com addresses.
+
+The report also shows the campaign was launched on a global scale, with servers based across at least five different continents. Sender IP location information shows the highest amount of emails in the sample studied were sent from Vietnam (8.5 percent), followed by Brazil (5.3 percent), and India (4.7 percent).
+
+This data may help paint a clearer picture of attackers’ whereabouts, but it’s important to note that the email servers could also have been compromised by the scammers themselves.
+
+Monetizing the data
+
+Cybercriminals are getting creative when it comes to monetization.
+
+In the second half of 2018, prominent extortionist thedarkoverlord (TDO) re-emerged from a short hiatus, but with a different methodology.
+
+Instead of extorting victims directly, TDO looked at selling stolen data in batches on criminal forums, in turn resorting to a more unusual tactic: online crowdfunding campaigns.
+
+Initially, TDO used TheRealDeal, a dark web criminal forum, to sell data sets. When the forum ceased to exist, TDO began contacting victims directly and demanding ransom payments to prevent the public release of sensitive information. TDO also taunted victims on Twitter.
+
+Then, around September last year, TDO reappeared on KickAss, a hacking and insider community, to recruit accomplices and to profit from data sets.

@@ -1,0 +1,93 @@
+DATE:  03.05.2019, 09:00:01
+TITLE: Bitcoin Mining’s New Bidding War
+URL:   https://www.coindesk.com/bitcoin-minings-new-bidding-war
+
+The Takeaway
+
+As bitcoin’s price edges up, secondhand mining equipment is becoming more profitable to run
+
+As a result, the price of used miners has nearly doubled in recent weeks, to $250-$320 for old Bitmain Antminers
+
+Somewhere between 220,000 and 700,000 mining units could come online this summer
+
+Newer, more powerful models won’t be shipped for months and take longer to pay for themselves
+
+The cost of secondhand cryptocurrency mining equipment in China has nearly doubled in recent weeks as a result of bitcoin’s price jump over the same period.
+
+The bull run that began in mid-April has made these machines more profitable to run – and hence more valuable. According to blockchain data firm TokenInsight, as recently as April 8, an investment in most types of crypto mining equipment would take 200 to 350 days to pay for itself.
+
+But bitcoin’s climb from the low $4,000 range in early April to well above $5,000 has resulted in a drop in the payback period (a miner’s price divided by its daily profit) for several secondhand models to less than 200 days.
+
+“When the payback period is apparently below 200 days, it has made more miners feel there’s an opportunity,” said Michael Zhong, a mining analyst at TokenInsight. “That further incentivizes their buying demand for secondhand models and leads to a price jump and will bring the payback period back above 200 days again.”
+
+This market change is having an impact on businesspeople like Darius Sharif Samani, an independent miner who owns machines in China and brokers equipment sales. When he started asking around in March, Samani managed to buy secondhand AntMiner S9 units for $140, he told CoinDesk. Made by mining giant Bitmain, these machines can run computations at a speed of 14 terahashes per second, or TH/S.
+
+Since then, the price for the same machine has jumped to at least above $250, and it would cost more than $280 to buy an advanced version of the AntMiner S9 that generates 14.5 TH/s, while some have even asked for $320 per unit, Samani said. That works out to $22 per terahash.
+
+If prices keep rising, equipment purchases could become prohibitive for most. Samani told CoinDesk:
+
+“Nobody besides a couple of the well-financed farms is willing to spend $23 per terahash on new hardware.”
+
+Out of stock, or stockpiling?
+
+Some mining equipment wholesalers have even told Samani that some models were sold out.
+
+“First time in months somebody told me they’ve run out of certain models, which hasn’t been the case in like, forever,” he said.
+
+But he also remains suspicious about whether wholesalers were telling the truth when they made claims about running out of stock.
+
+“Some are waiting until a bidding war for some models to start,” Samani said. “There may be lots of individual miners, but they are getting squeezed out.”
+
+TokenInsight’s Zhong echoed that sentiment, adding it’s usually the mining equipment wholesalers and secondhand equipment market-makers that are stockpiling gear.
+
+Market expansion
+
+Apart from the recent bitcoin price jump, the overall anticipation of cheap hydro-power during the water-abundant summer in China could also be contributing to the increasing demand for equipment.
+
+Mining farm operators in China’s southwestern region previously estimated there will be over 1 million machines running in the area during the summer, and that this could push the hash power of the bitcoin network as a high as 70 quintillion hashes per second (EH/s).
+
+That would be a new all-time high – the previous record of 60 EH/s was set in August of last year, according to Blockchain.info data.
+
+If all of the extra 10EH/s comes from new models like the AntMiner S17, which generates around 45TH/s, that would mean 220,000 additional units devoted to the market in the coming months, assuming bitcoin’s price holds steady. (10 EH equals 10 million TH.)
+
+But if it all comes from older secondhand models like the AntMiner S9, each with a hash power of 14TH/s, the number of units coming online would be much higher, at 700,000.
+
+Currently, the world’s largest cryptocurrency by market capitalization is now seeing around 50 EH/s in terms of total hash power.
+
+Supply and demand
+
+Chris Zhu, co-founder of Poolin, a China-based crypto mining pool, said another driver of the increasing demand for secondhand equipment is new capital from newcomers.
+
+“There’s a large amount new capital weighing in this year, who didn’t experience mining cryptocurrencies in a water season in a bearish market,” he added. “And they are much less risk-averse.”
+
+One new entrant is a $44.5 million mining fund raised by the Shanghai-based blockchain investment firm Fundamental Labs, which is betting on both equipment and mining farm operations ahead of the summer season.
+
+Both Zhu and Raymond Yuan, founder of Fundamental Labs, acknowledged that this year there will be more mining farms than usable mining equipment circulating in the market.
+
+“There are many what’s called ‘futures farms,’” Zhu said – farm operators who are courting customers without having the actual farm built in advance.
+
+These players are hoping to gather money and equipment from customers upfront as the initial capital to build the infrastructure, Zhu said. To him, this strategy is “very unreliable” because “they are promising to build something out of thin air.”
+
+Fundamental Labs’ Yuan agreed, saying there’s a limited supply of new cryptocurrency mining equipment from manufacturers. He added:
+
+“Mining farm operators may have overestimated the attractiveness of the water season, so the total supply of available equipment slots at mining farms is outnumbering the total supply of mining machines.”
+
+New models
+
+Indeed, while major mining equipment manufacturers have launched more powerful machines this year, few have been able to ship market-ready products at a large scale.
+
+For instance, Bitewei, or MicroBT as the firm brands itself in English, launched the WhatsMiner M20S in April with a hashing power as high as 70TH/s while consuming as little as 48 watts of power per hash.
+
+MicroBT founder Zuoxing Yang told CoinDesk that 1,000 to 2,000 of these will be available for shipment in May but orders larger than 10,000 units have to wait until July and August.
+
+Similarly, miners who order InnoSilicon’s newest model T3, priced at $1,580 with a hash power of 43TH/s, will also have to wait until June for shipment.
+
+Bitmain, on the other hand, has rolled out its flagship AntMiner S17 and S17 Pro in recent months but the first batch won’t be shipped until sometime in May and those are already marked as sold out. It also appears that Bitmain is holding up some of its S17 products as it is selling the hash power of these machines via cloud mining contracts, as advertised on its website.
+
+But as powerful as these new machines appear to be, their payback period is still longer than that of secondhand machines, given their higher costs and a lower bitcoin price compared to the bull market of 2017.
+
+“Miner makers also largely rely on the bitcoin price to decide on their production scale,” Zhong said, concluding:
+
+“Unless bitcoin’s price can keep steadily above $8,000, otherwise, miner makers won’t likely be producing their latest, more powerful equipment at a large scale.”
+
+Bitmain AntMiner image via CoinDesk archives

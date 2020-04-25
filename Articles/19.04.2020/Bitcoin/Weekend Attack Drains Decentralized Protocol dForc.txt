@@ -1,0 +1,33 @@
+DATE:  19.04.2020, 04:30:52
+TITLE: Weekend Attack Drains Decentralized Protocol dForce of $25M in Crypto
+URL:   https://www.coindesk.com/attacker-drains-decentralized-protocol-dforce-of-25m-in-weekend-attack
+
+Decentralized finance protocol dForce lost over 99 percent of its assets in an attack Saturday night, according to DeFi Pulse.
+
+Lending protocol Lendf.me saw some $25 million in ether (ETH) and bitcoin (BTC) exit its wallets late Saturday and early Sunday after its money market pool was attacked. Lendf is one of two protocols supported by the dForce Foundation.
+
+“Lendf.me confirmed it was attacked at 8:45 Beijing time Sunday at block height 9899681,” Lendf.me said to Chinese media outlet Chain News. dForce did not respond to CoinDesk's requests for comment by press time.
+
+Earlier speculation from other DeFi protocol builders say the attack was caused by imBTC, an ethereum token pegged one-to-one with bitcoin, used as collateral that turned out to be fraudulent, enabling the attacker to drain funds for nearly free.
+
+DeFiPulse shows that dForce lost $25 million between 00:00 UTC and 03:00 UTC on April 19. Source: DeFi Pulse
+
+It is unclear whether any users were able to withdraw their funds or if the attacker seized all $25 million. Compound CEO Robert Leshner claimed the attacker seized the full total.
+
+Lendf’s website reads “Do not supply anymore!” dForce Foundation CEO Mindao Yang said the team was “still investigating” the incident and urged users to “not supply any asset into lendf.me for now” in the protocol’s open Telegram channel. The website appeared to go down shortly after 04:00 UTC.
+
+After the attack, DeFi Pulse reported Lendf’s accounts holding $18,900 in USD, or about 101 ether or 2.6 bitcoin as of press time. After this article was published, that sum fell to $6.
+
+Leshner said on Twitter the firm “copy/pasted Compound v1 without changes.”
+
+Leshner told CoinDesk on Telegram the v1 code "was not flawed," but the group was cautious about which assets it listed.
+
+"This is a followup attack to the imBTC Uniswap attack yesterday," he said, noting that imBTC is an ERC-777 token and "not a normal Ethereum asset."
+
+"Smart contracts that include imBTC have to be extra cautious and write additional code to protect against 're-entrancy attacks,'" he said.
+
+A pinned tweet on Lendf’s Twitter page calls it “by far the largest fiat-back stablecoin #DeFi lending protocol.”
+
+The dForce Foundation closed a $1.5 million strategic round led by Multicoin Capital and joined by Huobi Capital and Chinese bank CMB International (CMBI) last week. The funds were intended to grow its staff and launch additional DeFi products in the coming year.
+
+This is a developing situation.

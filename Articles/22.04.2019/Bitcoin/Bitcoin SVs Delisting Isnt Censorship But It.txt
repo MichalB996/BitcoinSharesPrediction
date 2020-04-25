@@ -1,0 +1,87 @@
+DATE:  22.04.2019, 08:00:24
+TITLE: Bitcoin SV’s Delisting Isn’t ‘Censorship.’ But It’s Still a Problem
+URL:   https://www.coindesk.com/bitcoin-sv-delisting-censorship-problem
+
+Michael J. Casey is the chairman of CoinDesk’s advisory board and a senior advisor for blockchain research at MIT’s Digital Currency Initiative.
+
+The following article originally appeared in CoinDesk Weekly, a custom-curated newsletter delivered every Sunday exclusively to our subscribers.
+
+Is cryptocurrency exchange Binance’s delisting of bitcoin SV a form of censorship?
+
+And if so, doesn’t that make hypocrites out of all the Bitcoin Core supporters and Craig S. Wright haters who cheered the downgrading of the latter’s competing bitcoin project? Are they not applying a double standard by simultaneously arguing for immutable, “censorship-resistant” blockchains?
+
+These are the questions bitcoin skeptics are putting to a cryptocurrency community they view as failing to comply with the Voltairean maxim that one should fight for someone’s right to say something regardless of whether you agree with it. (Yes, I know it wasn’t actually Voltaire who said that…)
+
+Whether this “gotcha” is fair or not, it has given rise to a far more interesting crypto debate than the tiresome, yearlong squabble between Craig Wright-supporting BSV holders and Craig Wright-loathing BTC holders, the one that triggered the delisting in the first place. (Before Binance CEO Changpeng Zhao, known as CZ, made his decision, BTC supporters had pressured him to punish Wright for filing defamation lawsuits against Twitter accounts that had refuted the bitcoin SV founder’s claim to be Satoshi Nakamoto.)
+
+A popcorn-worthy debate
+
+It’s not all that clear who’s winning this debate. If anything, it has provided a reminder that the words used by both blockchain utopians and their hard-nosed realist critics often fail to adequately capture the nuances of what’s happening in the crypto ecosystem or, for that matter, in the wider world of social media and online communities.
+
+The bitcoin critics’ main point is compelling. It’s that a decision to delist BSV cannot be about whether CSW is a jerk (there is almost universal consensus that the Australian “Faketoshi” meets that characterization). Jerks should not be censored just for being jerks, and doing so contradicts the Cypherpunk ideal of censorship-resistance to which many bitcoin believers subscribe.
+
+(Full disclosure: Craig Wright blocked me on Twitter for using the j-word against him – this from his @ProfFaustus account, which, intriguingly, appears to have been deleted in recent days.)
+
+As I munched on my popcorn, I found myself sympathizing with the ever-astute Angela Walch, a constant, formidable critic of blockchain advocates’ sweeping, hand-wavy claims to the magic of “decentralization.”
+
+In a stage-setting tweetstorm, Walch pointed out that the cheerleading for Binance’s move exposed the “cognitive dissonance in what the space claims to be about.”
+
+Do I have this right…one guy thinks what another guy said is not true so says no one can trade a censorship-resistant, decentralized digital asset on the first guy’s exchange. #crypto #blockchain #veilofdecentralization — Angela Walch (@angela_walch) April 15, 2019
+
+But then, along came investor Ari Paul, who gave the whole thing a different context.
+
+You see, Paul said, the standard of censorship resistance does not extend to private entities that provide services on top of open systems, much as Binance does with the bitcoin protocol and those of other blockchains. These private agents are free to deal with their clients as they wish.
+
+1/ Freedom of speech is a value near and dear to my heart, so it’s frustrating seeing people misuse “censorship” and conflate radically different cases. It’s not censorship for Amtrak to have a quiet rail car. Let’s explore Binance/BSV: — Ari Paul ⛓️ (@AriDavidPaul) April 16, 2019
+
+That seemed fair enough too. It accurately distinguished between the decentralized rule-setting of each system’s underlying blockchain – the layer to which the aspiration for censorship-resistance applies – and the centralized entities that access it.
+
+And on that basis, Paul’s point matched how U.S. courts approach First Amendment lawsuits. To preserve free enterprise, courts routinely allow privately-owned entities to pick and choose whom they deal with and what information they publish, whereas they will curtail government entities’ efforts to restrict the speech of private citizens and businesses.
+
+Similarly, we could argue that a price-quoting and trade-executing crypto exchange whose business decisions occur off-chain isn’t subject to the rigid, quasi-constitutional on-chain rules for equitable treatment that govern the decentralized network running a blockchain’s publishing protocol.
+
+An exchange can refuse the prices and transactions of whomever it pleases. Doing so does not compromise the integrity of the free-speech/anti-censorship standards of the underlying blockchain’s governance system.
+
+Holding the big guys to account
+
+The problem is there are countless different blockchains. And within that environment, exchanges such as Binance don’t so much operate an application (i.e. run a private business) and subject it to a single blockchain’s governance system, but rather service the needs of people moving across those systems.
+
+Using the same constitutional analogy, they are flag-less shippers carrying information across borders; they aren’t jurisdictionally bound by any one government.
+
+In playing this role, cryptocurrency exchanges aren’t executing the censorship-resistant rules of a blockchain but, as the on- and off-ramps between different blockchains’ assets, they are nonetheless vital to the functioning of the wider cryptocurrency ecosystem.
+
+That’s why critics like Walch are rightly highlighting their actions. So far, exchanges represent pretty much the only proven business use-case in this space. They are the cryptocurrency industry. Surely, they should be held to high standards of neutrality.
+
+Comparisons can be drawn to the debate over “deplatforming” on Twitter, Facebook and other social media entities. On the one hand, these can be viewed as private entities free to censor whomever they like.
+
+On the other, because of their giant networks, the public naturally wants to hold them to a different standard. Given the enormous role they play in our communication system, there’s a strong case for regulating their publication decisions, much as governments regulate public electricity or water utilities.
+
+Due to its size, Binance could be characterized as the cryptocurrency equivalent of a dominant social media network. Just as being banned from Twitter and Facebook can seriously hurt the economic performance of a social media influencer, so too can a Binance delisting seriously hurt the value of a crypto token.
+
+The role of regulation
+
+That brings us to another analogy proffered by critics of Binance’s actions. Imagine the outcry, some said, if leaders of the New York Stock Exchange or the Nasdaq – both integral to a functioning capital market ecosystem – suspended trading in a company because they didn’t like the comments of its CEO. The point: Binance should be held to similar standards of impartiality.
+
+But the comparison is imperfect. The NYSE and Nasdaq, as well as countless other formal stock exchanges around the world, frequently delist companies for reasons of wrongdoing. It’s just that they apply a highly regulated framework when doing so.
+
+Take a look at the most up-to-date list of “issues pending suspension or delisting” at Nasdaq and you’ll see that the reason many companies are on that list is, very often, one of “regulatory/non-compliance” issues.
+
+In other words, whatever “censorship” decisions that sophisticated, traditional exchanges make tend to occur on the basis of rules set by an external governance system.
+
+In the U.S., it’s an interconnected hierarchy that includes exchange members; self-regulatory organizations such as the Financial Industry Regulatory Industry (FINRA); the exchange’s own internal compliance teams and oversight boards; various bodies of legislation; and external enforcement agencies such as the Securities and Exchange Commission (SEC).
+
+Now consider a thought for CZ. He was under enormous pressure from both sides of the BTC vs. BSV fight to decide what he felt would best serve his and the industry’s long-term interests. But he did so without a set of external rules to refer to. If he had one, he could more comfortably have argued that his hands were tied.
+
+I don’t expect CZ to call for more regulation. But the fact is that regulation, by externalizing the listing rules criteria, would, at least in these kinds of matters, help crypto exchanges manage their public image.
+
+It might be tempting to believe these are just temporary problems because new decentralized exchange models will let clients maintain custody of their assets and independently execute their trades. But execution isn’t the main reason we depend on exchanges; it’s that, as centralized hubs, they bring many buyers and sellers together in one place, enabling effective price discovery.
+
+The harsh reality is that, until someone achieves the extremely difficult goal of creating an effective, fully open-source trade-matching and price-discovery algorithm running on an entirely decentralized network, cryptocurrency ecosystems will depend upon the network effects that these necessarily centralized entities generate. And that’s why consistent listing standards, and the question of how to enforce them, matter.
+
+In the absence of consistent, externally enforced rules, it’s perhaps unfair to hold Binance – a centralized entity, not a miner in a blockchain – to a “censorship-resistance” standard. CZ had to make a decision amid the chaotic hurly-burly of a boisterous community. By the same token, we can perhaps excuse the seemingly hypocritical stances of many BTC investors who supported that decision.
+
+But that should not stop users from demanding that crypto exchanges establish and adhere to more consistent standards and rules. A company of such size and influence over the crypto ecosystem must be held to account – a standard no different from what we should demand of banks in the fiat ecosystem.
+
+This, and not the tortured discussion over what “censorship” means, is the most important lesson to take from the latest bout of crypto agita stirred up by my Aussie compatriot.
+
+Censorship image via Shutterstock

@@ -1,0 +1,91 @@
+DATE:  17.07.2019, 12:43:29
+TITLE: All Major Bitcoin Forks Shown With a Subway-Style Map
+URL:   https://www.visualcapitalist.com/major-bitcoin-forks-subway-map/
+
+Mapping the Major Bitcoin Forks
+
+The emergence of Bitcoin took the world by storm through its simplicity and innovation. Yet, plenty of confusion remains around the term itself.
+
+The Bitcoin blockchain—not to be confused with the bitcoin cryptocurrency—involves a vast global network of computers operating on the same distributed database to process massive volumes of data every second.
+
+These transactions tell the network how to alter this distributed database in real-time, which makes it crucial for everyone to agree on how these changes should be applied. When the community can’t come to a mutual agreement on what changes, or when such rule changes should take effect, it results in a blockchain fork.
+
+Today’s unique subway-style map by Bitcoin Magazine shows the dramatic and major forks that have occurred for Bitcoin. But what exactly is a Blockchain fork?
+
+Types of Blockchain Forks
+
+Forks are common practice in the software industry and happen for one of two reasons:
+
+Split consensus within the community
+
+These forks are generally disregarded by the community because they are temporary, except in extreme cases. The longer of the two chains is used to continue building the blockchain.
+
+These forks are generally disregarded by the community because they are temporary, except in extreme cases. The longer of the two chains is used to continue building the blockchain. Changes to the underlying rules of the blockchain
+
+A permanent fork which requires an upgrade to the current software in order to continue participating in the network.
+
+There are four major types of forks that can occur:
+
+1. Soft Forks
+
+Soft forks are like gradual software upgrades—bug fixes, security checks, and new features—for those that upgrade right away.
+
+These forks are “backwards compatible” with the older software; users who haven’t upgraded still have access to the network but may not be able to use all functionality in the current version.
+
+2. Hard Forks
+
+Hard forks are like a new OS release—upgrading is mandatory to continue using the software. Because of this, hard forks aren’t compatible with older versions of the network.
+
+Hard forks are a permanent division of the blockchain. As long as enough people support both chains, however, they will both continue to exist.
+
+The three types of hard forks are:
+
+Planned
+
+Scheduled upgrades to the network, giving users a chance to prepare. These forks typically involve abandoning the old chain.
+
+Scheduled upgrades to the network, giving users a chance to prepare. These forks typically involve abandoning the old chain. Contentious
+
+Caused by disagreements in the community, forming a new chain. This usually involves major changes to the code.
+
+Caused by disagreements in the community, forming a new chain. This usually involves major changes to the code. Spin-off Coins
+
+Changes to Bitcoin’s code that create new coins. Litecoin is an example of this—key changes included reducing mining time from 10 minutes to 2.5 minutes, and increasing the coin supply from 21 million to 84 million.
+
+3. Codebase Forks
+
+Codebase forks copy the Bitcoin code, allowing developers to make minor tweaks without having to develop the entire blockchain code from scratch. Codebase forks can create a new cryptocurrency or cause unintentional blockchain forks.
+
+4. Blockchain Forks
+
+Blockchain forks involve branching or splitting a blockchain’s whole transaction history. Outcomes range from “orphan” blocks to new cryptocurrencies.
+
+Splitting off the Bitcoin network to form a new currency is much like a religious schism—while most of the characteristics and history are preserved, a fork causes the new network to develop a distinct identity.
+
+Summarizing Major Bitcoin Forks
+
+Descriptions of major forks that have occurred in the Bitcoin blockchain:
+
+Bitcoin / Bitcoin Core
+
+The first iteration of Bitcoin was launched by Satoshi Nakamoto in 2009. Future generations of Bitcoin (aka Bitcoin 0.1.0) were renamed Bitcoin Core, or Bitcore, as other blockchains and codebases formed.
+
+The first iteration of Bitcoin was launched by Satoshi Nakamoto in 2009. Future generations of Bitcoin (aka Bitcoin 0.1.0) were renamed Bitcoin Core, or Bitcore, as other blockchains and codebases formed. BTC1
+
+A codebase fork of Bitcoin. Developers released a hard fork protocol called Segwit2x, with the intention of having all Bitcoin users eventually migrate to the Segwit2x protocol. However, it failed to gain traction and is now considered defunct.
+
+A codebase fork of Bitcoin. Developers released a hard fork protocol called Segwit2x, with the intention of having all Bitcoin users eventually migrate to the Segwit2x protocol. However, it failed to gain traction and is now considered defunct. Bitcoin ABC
+
+Also a codebase fork of Bitcoin, Bitcoin ABC was intentionally designed to be incompatible with all Bitcoin iterations at some point. ABC branched off to form Bitcoin Cash in 2017.
+
+Also a codebase fork of Bitcoin, Bitcoin ABC was intentionally designed to be incompatible with all Bitcoin iterations at some point. ABC branched off to form Bitcoin Cash in 2017. Bitcoin Gold, Bitcoin Diamond, Other Fork Coins
+
+After the successful yet contentious launch of Bitcoin Cash, other fork coins began to emerge. Unlike the disagreement surrounding Bitcoin Cash, most were simply regarded as a way to create new coins.
+
+Some of the above forks were largely driven by ideology (BTC1), some because of mixed consensus on which direction to take a hard fork (Bitcoin ABC), while others were mainly profit-driven (Bitcoin Clashic)—or a mix of all three.
+
+Where’s the Next Fork in the Road?
+
+Forks are considered an inevitability in the blockchain community. Many believe that forks help ensure that everyone involved—developers, miners, and investors—all have a say when disagreements occur.
+
+Bitcoin has seen its fair share of ups and downs. Crypto investors should be aware that Bitcoin, as both a protocol and a currency, is complex and always evolving. Even among experts, there is disagreement on what constitutes a soft or hard fork, and how certain geopolitical events have played a role in Bitcoin’s evolution.

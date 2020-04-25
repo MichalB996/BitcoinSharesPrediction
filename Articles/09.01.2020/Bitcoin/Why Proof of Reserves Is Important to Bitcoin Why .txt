@@ -1,0 +1,35 @@
+DATE:  09.01.2020, 19:19:27
+TITLE: Why Proof of Reserves Is Important to Bitcoin Why Proof of Reserves Is Important to Bitcoin
+URL:   https://bitcoinmagazine.com/articles/why-proof-of-reserves-is-important-to-bitcoin
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+Bitcoin is a movement founded on individual monetary sovereignty, transparency and peer-to-peer auditability enabled by a breakthrough in technology. It launched at a time when trust in the world’s financial institutions was at an all-time low and struck a chord. Bitcoin’s success has led to profits, which has, in turn, led to complacency. Today, people are once again placing their trust in new crypto institutions, some of which have done very little to earn that privilege. Over $4.4 billion was lost as a result of crypto exit scams and thefts in 2019 alone and billions more are likely at risk right now.
+
+The technology to provide auditability and transparency for bitcoin held in custody has been inherent to the protocol from its inception. However, the industry has been slow to incorporate these features for end customers. As once-siloed companies bid to broaden their offerings (exchanges adding custody, lending, etc.), complexity will increase and transparency on proof of reserves (allowing customers to confirm that the service they are using does in fact hold their bitcoin, on-chain) will become even more important. The ability to offer proof of reserves will become a tool to earn and retain customer trust.
+
+Some Challenges in the Path to Proof of Reserves
+
+While the idea of proving that bitcoin sent to a particular service or company is still held by such company might seem trivial to some, there are about as many ways to structure custody and interaction with customers as there are altcoins in the crypto universe.
+
+Some services like cold-storage vaulting allow for relatively straightforward implementations while others, like trading on exchanges, can be more complex. Beyond the technical challenges, it is important to highlight some of the business reasons.
+
+1. Hot-(Warm)-Cold wallet security structure is prevalent in the industry.
+
+Many exchanges are structured in a hot-warm-cold wallet security framework. In this setup, the hot wallet manages a limited balance and is used for inbound and outbound transactions. The warm wallet is a whitelisted bridge between the cold and hot, and the cold, as the safest, holds the majority of the assets. This setup allows for quick withdrawals, improving customer experience as well as operational efficiencies through transaction batching, and at the same time, be able to benefit from the safety of cold storage.
+
+Some services offer periodic audits of their cold, warm and hot wallet balances. They have used increasingly clever ways for customers to verify that their balances were indeed included in the audit. (This has to be done openly while at the same maintaining customer privacy). Although the audit verification methods to date are still somewhat cumbersome for customers (given they are not real-time), they are a step in the right direction.
+
+2. Growing pressure on custodial services to monetize their Assets Under Management by lending
+
+Contrary to what some may think, there is an enormous supply of bitcoin looking to be lent to earn a yield. In fact, the rates to lend and borrow bitcoin are lower than those to lend and borrow cash and equivalents (USD), meaning that (currently) there is an oversupply of bitcoin in the market (in comparison to the demand for borrowing bitcoin).
+
+While this phenomenon has been primarily led by the increasing popularity of bitcoin interest accounts, competition is bringing new players into the space looking to monetize bitcoin that is in their custody. Presently the market is becoming flush with digital assets looking for yield — and it shows no sign of stopping. As the allure of holding fractional reserves of assets increases, proof of reserves can act as a way for end customers to keep the platform’s levels of fractional lending in check or verify whether their funds are there or not.
+
+Let’s Be Proactive: Don’t Trust — Verify
+
+Irrespective of the type of asset or industry, aggressive lending practices eventually leads to trouble. In order to prevent a credit bubble from occurring, transparency on funds is paramount. Let’s try to build the right tools and educate the Bitcoin community on the importance of transparency before another QuadrigaCX or Mt. Gox happens.
+
+And it can be profitable! In an industry with such low switching costs and a growing user base, transparency can be the winning differentiator for people looking for a new service provider for their digital asset needs and a good reason to remain there.
+
+Bitcoin has given us the tools to build a new financial system that is transparent and open to the world — an opt-out of an existing system full of unknowns as Satoshi described. Let’s keep the ethos of Bitcoin alive as we build financial services for it — let’s not recreate the world we had to escape. Services that give customers the information they need to make good decisions will win in the long run.

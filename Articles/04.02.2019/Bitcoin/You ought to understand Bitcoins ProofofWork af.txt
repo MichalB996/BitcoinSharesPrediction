@@ -1,0 +1,33 @@
+DATE:  04.02.2019, 16:55:47
+TITLE: You ought to understand Bitcoin’s Proof-of-Work after reading this
+URL:   https://thenextweb.com/hardfork/2019/02/04/basics-explainer-proof-of-work/
+
+Welcome to Hard Fork Basics, a collection of tips, tricks, guides, and advice to keep you up to date in the cryptocurrency and blockchain world.
+
+Despite the word blockchain being fired around with Gatling gun-like fervor, not all blockchains are created equal.
+
+This episode of Hard Fork Basics is going to take a look at one of the blockchain‘s most defining characteristics, its consensus mechanism, specifically Proof-of-Work (PoW). By the end you should hopefully be able to prove you know what it’s all about.
+
+Proof-of-Work as a concept
+
+A consensus mechanism is basically the process that a blockchain uses to decide what is true. In a decentralized network, which has to verify transactions or other data, how it decides what can be trusted is kind of a big deal.
+
+The Bitcoin BTC blockchain uses a process called Proof-of-Work. The idea was first developed in 1993 by Cynthia Dwork and Moni Noar in their paper “Pricing via Processing or Combating Junk Mail.” Dwork and Noar proposed that email senders should have to complete a mathematical puzzle before sending each email. Each email had the solution to this puzzle embedded as part of its time stamp.
+
+In theory, this makes sending huge amounts of spam mail prohibitively expensive in terms of resources, time, and electricity, thus deterring spammers.
+
+PoW in the context of Bitcoin
+
+The Bitcoin blockchain’s computational puzzle creates a hash based on the transactions its trying to verify, and the hash of the previous block of verified transactions. This hash is unique for that set of transactions and by including the hash of the previous block, is linked to that block. So over time a chain of verified transactions stored in blocks is created.
+
+In the case of Bitcoin, making it computationally difficult means it gets very expensive, financially and computationally, to generate a profit by trying to hack the system with illegitimately verified blocks.
+
+As the verified blocks need to contain the hash of the previous block, any hack needs to be maintained long enough for the bad guys to make off with the money before the rest of the network realizes and corrects the accepted chain of blocks.
+
+Still with me?
+
+Try thinking of Bitcoin as not one chain, but a series of chains all competing to be the longest. The longest chain is what is accepted as true. All the shorter chains are for some reason or another, such as hacks or inconsistent data, failures and do not represent the correct ledger.
+
+Proof-of-Work ensures that all blocks added to the blockchain are verified by honest nodes, and thus the longest chain is maintained as there is no incentive to waste computational power solving the puzzle for an illegitimate chain that will earn no reward.
+
+Ultimately that’s what is meant by “consensus mechanism,” it’s the process by which the network collectively decides on what is true. Proof-of-Work isn’t the only consensus mechanism, there is also Proof-of-Stake and Delegated Proof-of-Stake to name just two. But those are a whole other kettle of fish.

@@ -1,0 +1,23 @@
+DATE:  04.02.2020, 00:56:08
+TITLE: Bitcoin Daily: Marshals To Hold Bitcoin Auction
+URL:   https://www.pymnts.com/blockchain/bitcoin/2020/bitcoin-daily-us-marshals-to-hold-bitcoin-auction-researchers-claim-new-spider-tech-can-route-crypto-payments-more-efficiently/
+
+The U.S. Marshals Service is auctioning roughly $40 million in bitcoin, CoinDesk reported on Monday (Feb. 3). The auction of 4,040 confiscated bitcoin — worth $37.7 million at press time — is for people who are registered to bid by Feb. 12. This is the first U.S. Marshals Service auction since the end of 2018, a release said.
+
+“The auction will take place during a six-hour period Feb. 18. Bids will be accepted by email from pre-registered bidders only,” according to the release.
+
+Bidders will also be required to make a $200,000 deposit before they can bid, which will be returned to non-winners.
+
+The bitcoin for the auction is from more than 50 administrative forfeitures and legal cases, according to the Marshals Service, which held its first bitcoin auction in the summer of 2014. Investor Tim Draper won nearly 30,000 bitcoin across 10 auction blocks.
+
+Massachusetts Institute of Technology (MIT) researchers have co-developed technology intended to sidestep overcrowding on off-chain cryptocurrency payment networks, CoinDesk reported on Monday.
+
+A graduate student at MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL), Vibhaalakshmi Sivaraman, co-developed a payment channel network (PCN) that offers enhanced efficiency. Other CSAIL researchers include Radhika Mittal of the University of Illinois at Urbana-Champaign, as well as Kathleen Ruan and Giulia Fanti of Carnegie Mellon University.
+
+The “Spider” crypto routing scheme is used on “Layer 2” scaling solutions, such as bitcoin’s lightning network. A PCN enables users to charge accounts with a pre-defined level of cryptocurrency.
+
+“Payments are made across a network of such accounts, and only the setting up and closing of the accounts is registered on the blockchain,” the article said.
+
+A CSAIL report on Spider indicated that PCNs can be slowed by inadequate routing schemes. Users’ accounts are often run down, which means funds must be added often.
+
+“Routing money in a way that the funds of both users in each joint account are balanced allows us to reuse the same initial funds to support as many transactions as possible,” Sivaraman said.

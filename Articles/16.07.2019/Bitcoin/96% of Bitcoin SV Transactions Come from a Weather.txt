@@ -1,0 +1,39 @@
+DATE:  16.07.2019, 16:17:06
+TITLE: 96% of Bitcoin SV Transactions Come from a Weather App, Report -
+URL:   https://bitcoinist.com/96-of-bitcoin-sv-transactions-come-from-a-weather-app-report/
+
+Featured 96% of Bitcoin SV Transactions Come from a Weather App, Report
+
+A weather app is generating 96 percent of total transactions on the Bitcoin SV blockchain, according to CoinMetrics.
+
+
+
+The Massachusetts-based data analytics firm said in a report published today that “Weather SV” wrote a majority of transactions on the Bitcoin SV blockchain. It arrived at the conclusion after studying OP_RETURNS, a script that allows users to write arbitrary data onto a public ledger. CoinMeterics noted that Weather SV was using the maximum OP_RETURNs to record information on the BSV ledger.
+
+“On July 14th, over 96% of BSV transactions included an OP_RETURN,” found CoinMetrics.
+
+Bitcoin SV Transactions ‘Growing’
+
+The data typically represents an app’s contribution to the Bitcoin SV network. A perfect example is bitcoin, the original cryptocurrency itself. In its core avatar, bitcoin is an app that runs on a public ledger of the same name. Similarly, apps like Golem, BAT, Augur, etc. run on the Ethereum blockchain.
+
+The core function of Weather SV is to record and retrieve climate data on the Bitcoin SV public ledger. According to its website, users can activate the services for $5 AUD, which includes around 142 days of hourly broadcasts. From the look of it, the income earned by the app gets distributed among the validators in the Bitcoin SV blockchain, which explains its higher transaction output.
+
+CoinMetrics further noted that BSV’s total transactional count is growing faster than its competitors Bitcoin and Bitcoin Cash. The firm provided data that showed Bitcoin transactions trending sideways and Bitcoin Cash rising steadily. On the other hand, operations on the Bitcoin SV blockchains were, at best, choppy. They showed volatile swings in both directions.
+
+Data Sparks Maximalism
+
+The CoinMetrics’ report attracted a string of both anti and pro-BSV comments. Bitcoin and Bitcoin Cash maximalists criticized the ledger for hosting only one major app. In response, Bitcoin SV maximalists said the data showed the growing acceptance of the Bitcoin SV as an alternative to other public blockchains.
+
+“The app is completely meaningless,” said an anti-BSV Twitterati. “It just copies data from a centralized weather service and writes it on the SV blockchain.”
+
+“Yes. Weather data that lives forever” responded a pro-BSV one. “If you don’t see value in that I’m gonna have to come back down to google and explain.”
+
+Many also argued that Bitcoin SV blockchain is new compared to its competition and a rise in the transaction volume on its ledger is a positive sign for the future.
+
+“That’s actually pretty amazing if you think about it. All of those TXs from only ONE app. Think when there are dozens, hundreds, thousands of apps. I guess people really do want to use bitcoin and not just HODL it,” said one Twitterati.
+
+How surprised are you by these latest findings? Let us know your thoughts in the comment section below!
+
+
+
+Images courtesy of Coinmetrics.substack, Shutterstock

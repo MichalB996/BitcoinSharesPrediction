@@ -1,0 +1,49 @@
+DATE:  13.03.2020, 21:50:33
+TITLE: Thursday’s Market Madness Strained Ethereum’s Killer App: DeFi
+URL:   https://www.coindesk.com/thursdays-market-madness-strained-ethereums-killer-app-defi
+
+So many people were trying to use the Ethereum blockchain during Thursday’s market meltdown that many applications simply stopped working as intended.
+
+The decentralized finance (DeFi) sector was hit particularly hard.
+
+The decentralized services that feed price information into these headless lending platforms – known as “oracles” in the industry – simply couldn’t keep up.
+
+Oracles could not send accurate price data and traders could not execute trades without paying horrendous fees to record transactions onto the blockchain.
+
+In a throwback to 2017, the Ethereum network became too crowded to execute transactions for many projects. In 2017, it was NFT gaming app CryptoKitties that overloaded Ethereum by issuing too many transactions during a bull market. At one point, 30,000 transactions were stuck in the queue waiting to be processed by the network.
+
+Thursday’s mass transaction action was caused by the precarious plummet of ether’s price, which shed 30 percent in 24 hours in a network first.
+
+Transaction fees paid on Ethereum. Source: CoinDesk Research
+
+Pricing oracles – typically Chainlink or Maker’s V2 oracle – were the main victims Thursday.
+
+Several of Chainlink’s 21 oracles were down during prime trading hours, according to bZx co-founder and CEO Tom Bean.
+
+Stani Kulechov, founder and CEO of DeFi platform Aave, said he saw a Maker oracle throw a “20 percent price deviation” between the actual market price and Maker’s generated feed.
+
+Oracles query data from on- or off-chain sources. Contracts pulling from on-chain sources had their requests crowded out by other transactions on the ethereum network, leading to oracle failures for both V2 and Chainlink.
+
+Orders were also backlogged on the Ethereum mainnet and traders were forced to pay outlandish gas fees to settle.
+
+For example, users were not able to perform trades on exchange dYdX or lending platform Nuo Network. Both DeFi platforms changed their fee structures (including dYdX multiple times) to execute a slew of backlogged trades Thursday and early Friday.
+
+“The network condition is affecting everyone,” Aave’s Kulechov said. “People need to just pay the 160 gwei [gas fee] to keep prices up to date.”
+
+MakerDAO was undoubtedly the biggest loser on Thursday. An infrastructure error led to over $4 million being swooped up by a lurking bot-maker, leaving investors high and dry as their collateral was taken away. In response, the Maker community voted Friday to restructure certain risk measures.
+
+DeFi exchange bZx also halted opening new trades and loans and will leave these features offline until an audit is conducted, said Bean. bZx recently switched to Chainlink following a flash loan attack that relied on manipulated pricing data. All Chainlink oracles are reporting as of press time.
+
+“The issue is that data providers can’t provide timely updates. I can query the current rate, but it’s way off from [the] actual market rate,” Bean said.
+
+In an email, Chainlink co-founder Sergey Nazarov told CoinDesk that “unique market conditions created temporary congestion” on the ethereum mainnet. He said the congestion has been reduced, and all Chainlink oracles, which pull from multiple pricing feeds themselves, are now reporting accurately.
+
+Still, other DeFi applications handled the surge of transactions without heavy-handed measures.
+
+Decentralized exchange Uniswap saw its all-time trade volume double to over $53 million, according to a tweet from Uniswap founder Hayden Adams.
+
+Kyber Network also set an all time high with some $30 million in 24-hour trade volume, according to CoinGecko.
+
+What does this all mean? DeFi didn’t die, but it didn’t thrive either.
+
+"If we want crypto to become a global asset class, we need better DeFi [infrastructure]," Multicoin Capital managing partner Kyle Samani tweeted Friday. "The status quo is not sufficient by orders of magnitude."

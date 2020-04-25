@@ -1,0 +1,73 @@
+DATE:  20.05.2019, 03:01:22
+TITLE: Latest Hack Sparks Concern Whatsapp Will Never Be Secure
+URL:   https://news.bitcoin.com/hack-concern-whatsapp-never-secure/
+
+Latest Hack Sparks Concern Whatsapp Will Never Be Secure
+
+Facebook’s popular messaging app with 1.5 billion users in over 180 countries has another major vulnerability. Hackers were able to covertly install spyware on iOS and Android smartphones using Whatsapp with just a phone call. “All of their security issues are conveniently suitable for surveillance, and look and work a lot like backdoors,” said Telegram’s founder, who doubts Whatsapp will ever be secure.
+
+Also read: Indian Supreme Court Postpones Crypto Case at Government’s Request
+
+A Phone Call Is All It Takes
+
+Whatsapp and its parent company, Facebook, revealed last week that a major vulnerability had been discovered in the popular messaging service and urged users to update the app. The Financial Times reported that this latest vulnerability in Whatsapp had been open for weeks, allowing hackers to inject Israeli spyware onto mobile phones simply by calling targets, noting:
+
+The malicious code, developed by the secretive Israeli company NSO Group, could be transmitted even if users did not answer their phones, and the calls often disappeared from call logs.
+
+The publication further detailed, “Within minutes of the missed call, the phone starts revealing its encrypted content, mirrored on a computer screen halfway across the world. It then transmits back the most intimate details such as private messages and location, and even turns on the camera and microphone to live-stream meetings.” The news outlet added that “The software itself is not new — it was the latest upgrade to a decade-old technology so powerful that the Israeli defence ministry regulates its sale. But the Whatsapp hack was an enticing new ‘attack vector.'”
+
+While the hackers who gained access by exploiting the vulnerability in Whatsapp’s call functionality have not been identified at press time, the company clarified in a statement:
+
+The attack has all the hallmarks of a private company reportedly that works with governments to deliver spyware that takes over the functions of mobile phone operating systems.
+
+Whatsapp is a free messaging and voice over IP service which allows users to send text messages, images, documents, and other media, as well as place voice and video calls. It was acquired by Facebook in February 2014 for $19 billion. In July last year, Whatsapp said it had more than 1.5 billion users in over 180 countries, making it the most popular messaging app worldwide.
+
+Alarming Number of Users Are Unaware
+
+Both Facebook and Whatsapp have not said much about this latest hack. Moreover, instead of notifying users directly about the problem, Whatsapp issued a statement through the press urging people to update the software. This has led to an alarming number of users failing to update the app, according to smartphone security company Wandera which helps clients secure their employees’ smartphones. Its clients include Rolex, Deloitte, General Electric, and Bloomberg. The company manages over 1 million devices, 30% of which have Whatsapp installed.
+
+As of Thursday, Wandera found that a whopping 80.2% of iOS and 55.4% of Android devices out of its managed devices had not been updated. Whatsapp is investigating the vulnerability but said that it is too early to estimate how many phones were targeted using this method, a person familiar with the issue told the Financial Times.
+
+The NSO Group
+
+The Israeli company that developed the software which allegedly exploits Whatsapp’s vulnerability said it was investigating the allegations but “Under no circumstances would NSO be involved in the operating or identifying of targets of its technology, which is solely operated by intelligence and law enforcement agencies,” the company said in a statement Tuesday.
+
+The group makes hacking tools primarily for intelligence agencies in the west and the middle east. Its flagship product, Pegasus, is designed to enable a phone’s microphone and camera, sift through emails and messages and also access location data.
+
+“NSO’s technology is licensed to authorized government agencies for the sole purpose of fighting crime and terror. The company does not operate the system, and after a rigorous licensing and vetting process, intelligence and law enforcement determine how to use the technology to support their public safety missions,” the group explained. CNBC reported the group claiming that it does not use the hacking tools itself, and that the tools are “solely operated by intelligence and law enforcement agencies.”
+
+Nonetheless, The Guardian wrote Saturday that the firm is facing a lawsuit backed by Amnesty International, as the organization says it fears its staff may be under surveillance from spyware installed via the Whatsapp messaging service. The paper described:
+
+It has called on the country’s ministry of defence to ban the export of NSO’s Pegasus software, which can covertly take control of a mobile phone, copy its data and turn on the microphone for surveillance.
+
+Sending Cryptocurrencies Through Whatsapp
+
+This vulnerability was revealed at a time when Whatsapp has gained attention from the crypto community as a platform to develop services on. Cryptocurrency startup Wuabit is a chatbot assistant and cryptocurrency wallet accessible via the chat interface of Whatsapp. On March 26, Wuabit tweeted confirming “its business API integration” with the popular chat platform after a report by The Express the day before that the app’s public beta was due to start in April. “We are near completing the wallet core service starting with BTC,” a spokesman for the company told the news outlet.
+
+Using the app, users can simply type in commands such as “send 0.05 BTC to Vera” and the cryptocurrency will be automatically sent from the user’s Wuabit wallet after a quick confirmation. In addition to Whatsapp, “more chat platforms will be added such as Telegram, FB Messenger, [and] Viber,” the service’s website proclaims.
+
+Why Whatsapp May Never Be Secure
+
+Following the news of Whatsapp’s latest vulnerability, Telegram founder Pavel Durov shared his thoughts on the subject. “Everything on your phone, including photos, emails and texts was accessible by attackers just because you had Whatsapp installed,” he began.
+
+The entrepreneur founded Russia’s largest social network, VK, in 2006. After leaving the company as the CEO in 2014, he left Russia and concentrated on Telegram Messenger as a direct response to personal pressure from the Russian government to put a back door in his earlier project. Telegram is an open source, strongly-encrypted competitor to Whatsapp.
+
+Durov was not surprised to hear of the latest vulnerability as he recalled Whatsapp admitting to having a similar issue last year. “Whatsapp’s closed-source code will perpetually keep it a target for hackers,” he asserted. “They do the exact opposite: Whatsapp deliberately obfuscates their apps’ binaries to make sure no one is able to study them thoroughly.” The Telegram founder said:
+
+Every time Whatsapp has to fix a critical vulnerability in their app, a new one seems to appear in its place. All of their security issues are conveniently suitable for surveillance, and look and work a lot like backdoors.
+
+According to Whatsapp, end-to-end encryption was implemented in 2016 “for all messaging and calling on Whatsapp so that no one, not even us, has access to the content of your conversations,” its website states. However, Durov calls this a marketing ploy, alleging that “at least several governments, including the Russians,” have the keys needed to decrypt all Whatsapp content.
+
+Mike Campin, VP of Engineering at Wandera, believes that “Whatsapp’s ‘end-to-end-encryption’ badge certainly shouldn’t be mistaken as a guarantee that communications are secure.”
+
+Durov continued by describing how Whatsapp started with no encryption at all and then suffered a “succession of security issues strangely suitable for surveillance purposes,” elaborating:
+
+There hasn’t been a single day in Whatsapp’s 10 year journey when this service was secure … That’s why I don’t think that just updating Whatsapp’s mobile app will make it secure for anyone.
+
+“For Whatsapp to become a privacy-oriented service, it has to risk losing entire markets and clashing with authorities in their home country. They don’t seem to be ready for that,” the entrepreneur concluded.
+
+Do you use Whatsapp? What do you think of this vulnerability? Do you agree with Durov’s assessment? Let us know in the comments section below.
+
+Images courtesy of Shutterstock and the Moscow Times.
+
+Are you feeling lucky? Visit our official Bitcoin casino where you can play BCH slots, BCH poker, and many more BCH games. Every game has a progressive Bitcoin Cash jackpot to be won!

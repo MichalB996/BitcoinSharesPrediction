@@ -1,0 +1,65 @@
+DATE:  03.03.2020, 13:02:00
+TITLE: Bitcoin Off the Grid: The Promise of Mesh Networks
+URL:   https://bitcoinmagazine.com/articles/from-isp-to-p2p-how-mesh-networks-take-bitcoin-off-the-grid
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+“What happens if the internet goes down?”
+
+You’ve heard it, I’ve heard it — we’ve all heard the refrain. It’s a favorite of FUDster journalists like Frances Coppola and David Gerard, and they treat it like the ultimate trump card when debating Bitcoin’s value.
+
+Correct! If the internet goes down across the globe, Bitcoin would be in trouble. But so would the global banking sector, the healthcare industry, the food industry and basically the entire fabric of our hyper-connected existence. If the internet is kaput, then you should probably be worried about stocking supplies and ammo, because it’s going to get wild.
+
+But what if I told you that, in the event of a mass internet outage, there’s a good chance that Bitcoin would survive? That chance is real and growing thanks to the promise of mesh networks.
+
+Put simply, mesh nets are networks of peer-connected nodes that offer “offline” connectivity by means of radio signals. Depending on the bandwidth of the network, you could do things like send a bitcoin transaction or download the Bitcoin blockchain.
+
+When coupled with something like the Blockstream satellite network, which broadcasts the Bitcoin blockchain’s data across much of the surface area of the globe, you could architect a nearly foolproof, decentralized infrastructure that could be used as a makeshift web in case the actual internet goes down.
+
+The goTenna team may come to mind when you think of mesh networks. So, too, might Locha Mesh, an open-source mesh network project kickstarted by Randy Brito, the philanthropic entrepreneur behind the non-profit Bitcoin Venezuela.
+
+For this week’s issue on the use of Bitcoin through dissident technology, we talked to Brito and Blockstream developer Grubles about the promise of mesh networks. Grubles has published demonstrations on how you can use mesh networks in conjunction with Blockstream’s satellite to send transactions and messages on Bitcoin offline. The satellite is a boon to the mesh network use case here because, as Grubles put it, “The coverage area is enormous. We can practically blanket an entire continent with Bitcoin data with just one of the satellites in the Blockstream Satellite network.”
+
+Our Q&A with the pair below covers the what, why and how of mesh networks, along with what situations they can ameliorate and what conditions need to be met before they can bring offline Bitcoin access to the masses.
+
+An Intro to Mesh Networks
+
+Bitcoin Magazine: For those who might be unfamiliar, what are the benefits of mesh networks?
+
+Grubles: In a traditional network, like the one you likely use today at home or at work, you’re connected to an ISP [internet service provider] which is typically controlled by a for-profit corporation. Your ISP then has its own providers which it connects to, also owned by for-profit corporations. Sometimes these corporations are pressured by governments to filter, or otherwise censor, information on their networks.
+
+A mesh network is, at the most basic level, a peer-to-peer network. Peers in the network provide connectivity to other peers they are connected to, and the peers of their peers gain connectivity, and so on. The result is a network without a central entity, and if you visually graph the layout of the network, it resembles a mesh, rather than a hub-and-spoke-like traditional network where everyone is eventually connected to a central ISP.
+
+BM: How are they good for Bitcoin?
+
+Grubles: How mesh networks tie into Bitcoin is pretty straightforward. Currently, there is a reliance on the traditional ISP-controlled networks. Not just for Bitcoin but for most things on the internet. If a network is controlled by a central entity, it can be easily shut down or censored. A mesh network is resistant to parts of the network going offline, so peers can route their data around the parts that have gone offline. This kind of resilience is important for a system like Bitcoin because it means that transactions can keep flowing and miners can keep producing blocks. If you’re a merchant or a miner and your ISP decides to shut off your connection, you’re kind of screwed.
+
+BM: To you, which is the more important side effect of mesh networks: the privacy they provide or the benefit of not having to rely on the internet?
+
+Grubles: Different people will have different answers for this but, for me, it’s the added redundancy and the breaking free of the reliance on traditional ISPs. Privacy is important, but if you have a network which provides privacy but is bottlenecked by a central entity, then the central entity can just be pressured to shut the network down altogether. If we focus on building out mesh infrastructure first, we can always overlay something like Tor on top or bake privacy into the mesh protocol itself.
+
+BM: On that note, what are some of the pitfalls of mesh networks? Where are the weak points?
+
+Brito: For using Bitcoin via mesh networks, the amount of data that needs to be transmitted could be its weakness. If you are in the Locha Mesh but you don’t have an internet connection or a satellite dish, you will need to get the latest Bitcoin block data from a peer in the mesh and the number of hops you may need to do and bandwidth will be key for you to accomplish this. If there isn’t anyone offering you this service, you would be isolated from the Bitcoin network itself.
+
+Fortunately, the Bitcoin community doesn’t stop innovating in the network side of Bitcoin, so improvements like Erlay, FIBRE and more will make transmitting Bitcoin’s block data over the mesh achievable. You will still be able to pretty easily use your Electrum wallet within the Locha Mesh as far as you can reach an Electrum server that serves you with your wallet’s latest balance updates, or you could make offline signed bitcoin transactions, reach a push-tx gateway and then receive a message when your transaction has been added to a block.
+
+BM: Do you have anything to add to that, Grubles? And do you think that mesh networks will enjoy greater development and adoption, or do you think they will always be a fringe interest?
+
+Grubles: Mesh tech is still in its early stages. Setting up most mesh technologies requires some technical proficiency, so the vast majority of people will have a hard time getting connected. This means the total size of a mesh network will be relatively small to begin with. Once it’s easier for the average person to get set up and connected to a mesh, then I think it will really start to take off.
+
+I think mesh networking is one of those things that you don’t really care about until you actually need it. But I think that as the internet and communications become more and more of a necessity in our lives, there will be more awareness for mesh networking as a side effect.
+
+BM: Randy, you’ve been working on Locha Mesh specifically with your home country of Venezuela in mind. What needs to be done for something like Locha Mesh to be adopted in parts of the world that need it most?
+
+Randy Brito: The decentralized nature and censorship resistance of the Locha Mesh are very important, but without a way to incentivize people to offer these services of Bitcoin’s blocks data and latest bitcoin transactions, Electrum servers, Lightning Network watchtowers, offline push-tx services and gateways, all within the mesh, the Locha Mesh would be limited to mainly messaging and would need people to have their Locha Mesh nodes always online with the only incentive … being able to send messages within the mesh.
+
+To solve the incentivization problem, we’ve been thinking from the start on how users will be using the Lightning Network to pay for these services, and we’ll continue researching any available options to make this possible. One of the other methods we are currently looking at, with the support of other members of the community, is, for example, the use of Monero’s new RPC-Pay feature. We’ll continue researching this matter and welcome anyone who would like to suggest or test their incentivization ideas for Bitcoin and the Locha Mesh sustainability and availability.
+
+BM: If I recall correctly, Locha Mesh relies on radio signals broadcasted on the ground. Grubles has used the Blockstream satellite for his own mesh networks. In what ways does your design differ, and what are the pros/cons of your approach?
+
+Brito: What the Blockstream satellite does is beam Bitcoin’s blockchain data and messages to Earth. You could use this service to get the latest transactions and blocks using a satellite dish on your rooftop and then transmit this important data to others through the Locha Mesh to allow people to transact in Bitcoin and the Lightning Network, even if they don’t have an internet connection. They just need to be inside the Locha Mesh and get the Bitcoin data from you.
+
+This is the same [solution that] Grubles has demoed, but the mesh hardware he has tested it with is not capable of transmitting Bitcoin’s blocks data due to hardware and bandwidth limitations, only short messages. We are working on the needed capabilities for the Locha Mesh to be useful for Bitcoin in a worst-case scenario.

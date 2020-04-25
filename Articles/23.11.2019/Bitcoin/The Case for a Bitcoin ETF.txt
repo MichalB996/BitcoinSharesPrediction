@@ -1,0 +1,47 @@
+DATE:  23.11.2019, 08:30:00
+TITLE: The Case for a Bitcoin ETF
+URL:   https://www.coindesk.com/the-case-for-a-bitcoin-etf
+
+David Weisberger is co-founder and CEO of CoinRoutes and a veteran of building trading desks and financial technology businesses. The opinions expressed in this article are strictly his own.
+
+The following article originally appeared in Institutional Crypto by CoinDesk, a free newsletter for the institutional market, with news and views on crypto infrastructure delivered every Tuesday. Sign up here.
+
+Issuers have submitted proposal after proposal for a bitcoin-based exchange-traded fund (ETF), and the SEC has delayed or rejected each one. It’s time, however, to ask why and if the SEC’s frustration over not having jurisdiction over cryptocurrencies is clouding their judgment. In my opinion, the answer might well be yes.
+
+To start, it is important to recognize that there is a lot of investor interest in bitcoin as well as other digital assets. Nothing the SEC can do will diminish that, so the only relevant question is if a bitcoin ETF meets the standards for such a product and is consistent with other approved ETFs. That said, the SEC argues that bitcoin, despite having multiple markets that meet a reasonable standard for displayed price discovery, does not meet that standard.
+
+From the disapproval ruling:
+
+“Because, among other things, the Sponsor has asserted that 95% of the bitcoin spot market consists of fake and non-economic activity, but has not established that it has in fact identified the “real” bitcoin market, or that the “real” bitcoin market is isolated from the fraudulent and manipulative activity, we find, in each case, that NYSE Arca has not met its burden to demonstrate that its proposal is consistent with the requirements of Exchange Act Section 6(b)(5), and therefore the Commission disapproves this proposed rule change.”
+
+Why not bitcoin?
+
+This analysis has three main flaws: First, there are a number of bitcoin “exchanges” (1) that are subject to money center or trust bank regulation with transparent order books and matching methodologies. There is no proof of “fake” trades at those exchanges and they comprise enough liquidity to be meaningful for the purpose of price discovery, as will be discussed later.
+
+Second, ETFs have been approved for gold, silver and other precious metals where the underlying spot markets are demonstrably inferior to bitcoin. The precious metals spot market is almost completely negotiated. As a result, in the case of approved precious metals ETFs, the futures markets are the sole basis for price discovery of the ETF itself. Since there are now multiple regulated futures markets for bitcoin in the U.S., however, it is hard to understand the SEC’s logic in stating that there is insufficient price discovery from those futures markets.
+
+Delving into the comparison deeper, it is important to recognize that the SEC has approved ETFs for gold, silver, platinum, oil and other commodities whose spot market is much more opaque than the market for bitcoin and whose markets are also susceptible to manipulation.
+
+Unlike gold, where spot prices are loosely provided on disconnected websites and transactions happen on a negotiated (almost completely manual) basis, bitcoin pricing is provided by many markets running electronically available order books that are subject to various regulators. As a result, the spot crypto markets are far more transparent than those of spot commodities, with far more liquidity available at tighter spreads.
+
+To put this into context, I checked several leading websites for buying or selling gold coins or rounds and the average spread between buying and selling was over 4%. It is certainly possible that for larger-sized orders that the spreads might have been smaller, but it seems unlikely to have been much tighter. That contrasts with a bid-offer spread, inclusive of retail exchange fees for bitcoin that average well under 1%, even for order sizes as large as 500-1000 bitcoin (larger than an ETF creation or redemption unit). For example, as I write this, the per-coin cost to buy 500 bitcoin across regulated exchanges, net of (retail level) fees, is $8,491 (calculated using CoinRoutes software), while the per-coin cost to sell 500, net of the same fees, is $8,438 (2). Using our patent-pending RealPrice mechanism, we could stream the price to redeem or create a full bitcoin ETF in real time, which is a level of transparency well beyond many underlying assets who have approved ETFs.
+
+The third flaw in the analysis is that there have been many allegations of manipulation related to other commodities that already have ETFs, so it seems like the SEC is holding bitcoin to a much higher standard. It is particularly ironic that the SEC cited the possibility of manipulation in the commodity, considering the recent RICO case against precious metals traders. We must recognize that there is always the potential for manipulation, but the question the SEC should ask is if bitcoin is more subject to such behavior and if its markets are harder to surveil than other approved underlying assets. Once again, the answer is no.
+
+Bitcoin has multiple regulated futures markets in the U.S., giving the CFTC similar jurisdiction as they have in precious metals, and, unlike precious metals, the spot markets have significant electronic (and therefore auditable) data on buyers and sellers. These markets represent a critical mass of transparent, displayed liquidity, which should be the defining characteristic for this decision. It ensures that there would be available data for the CFTC to utilize when there are allegations of manipulation.
+
+Judgment aside
+
+Before concluding, I would like to make two other points. First, it should not matter if the SEC is skeptical about bitcoin, or if they are worried that it will go to zero. The agency should not be determining what investments are good or bad, but rather if the information made available to investors, including market data, is accurate and fairly provided.
+
+Second, despite the SEC’s insistence that it is protecting investors by rejecting these applications, the result is harmful. Retail investors that want to invest in bitcoin are driven towards fund products that have significant premiums to their net asset value. Such premiums could, of course, evaporate and hand investors larger losses than had they purchased an ETF. In addition, unsophisticated investors are using a variety of retail platforms to buy bitcoin that charge significantly higher fees or spreads that would likely be offered via an ETF, and feature weaker investor protection regulation by a wide margin.
+
+Finally, it is important to address the SEC’s contention that “fake” or manipulated markets outside of the U.S. represent a problem for a bitcoin ETF. This is simply wrong. The markets they reference can be excluded from calculations of available liquidity and price. In fact, many commodities trade at different prices in other parts of the world, but those prices are ignored by U.S.-issued ETFs.
+
+In conclusion, I believe that the SEC, perhaps due to its bias against the asset itself, is improperly delaying an ETF approval. Considering the availability of real-time, fully priced liquidity, using only markets that are regulated in the U.S., as well as the existence of multiple CFTC-regulated futures markets – the time is now.
+
+Footnotes
+
+(1) The markets call themselves exchanges, but they are not exchanges in the SEC definition of the term.
+
+(2) Using CoinRoutes' cost calculator and retail fee tiers at all exchanges accepting US clients. Exchanges used in this example were Coinbase Pro, Kraken, Bitstamp, itBit, SeedCX, ErisX, Bittrex, Binance.US and Gemini.

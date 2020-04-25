@@ -1,0 +1,55 @@
+DATE:  11.02.2019, 21:24:19
+TITLE: 21 Lectures Offers Bitcoin Developer Courses by Schnelli, Decker and Chiang
+URL:   https://bitcoinmagazine.com/articles/21-lectures-offers-bitcoin-developer-courses-schnelli-decker-and-chiang1
+
+Ring in the new bitcoin halving cycle the right way: with us!
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+Switzerland is an international bitcoin and blockchain mecca, known for its crypto culture and concentration of crypto businesses. Now, it is the new home to 21 Lectures, a school for bitcoin developers founded by Lucas Betschart. The school is registered in Zug but courses are taught in Zurich.
+
+21 Lectures (named for the bitcoin cap of 21 million) is the only course for bitcoin core developers in Switzerland, and Betschart is hoping that the high-profile nature of the teachers — including James Chiang, Christian Decker and Jonas Schnelli — will attract students from around the world.
+
+For Betschart, starting a program like this is an expression of confidence in the future of Bitcoin.
+
+“Bitcoin itself didn't change,” he told Bitcoin Magazine. “It's still the censorship resistant, internet-native alternative to central bank money and, therefore, still very appealing to me from a technological as well as ideological point.”
+
+He added, “People who understand the value of Bitcoin (not just the price) don't care too much about these short-term market swings.”
+
+Schnelli, Bitcoin Core maintainer and Shift cryptosecurity expert, says, “In Switzerland, the Bitcoin ecosystem is becoming more and more established and has a growing international appeal. I am pleased to be involved in a modern and future-oriented further education with 21 Lectures.”
+
+Developing a Sustainable Business Model
+
+Betschart says that the program’s primary goal is to get more software developers to contribute to Bitcoin’s open source projects: He and his team are “not interested in making a profit.”
+
+A statement on the program’s website lays out its philosophy:
+
+“We believe in the power of open source software, creative commons and that all people should be able to access information freely. This is why we publish all our teaching materials freely available to use, share, copy, distribute and modify.”
+
+Betschart told Bitcoin Magazine, “The plan is to have a sustainable business model to cover the costs of the teachers, rooms and expenses.”
+
+The three main sponsors — Xapo, Shift and BitConsult — are all contributing to this project.
+
+Xapo, the Hong Kong-based bitcoin wallet and storage company, contributed startup funding. This contribution, paired with Betschart’s own bitcoin earnings, was able to create a self-sustaining school with courses costing $1,500 or the equivalent in bitcoin.
+
+Shift, the Bitcoin software company and makers of the Swiss Bitcoin Hardware wallet, is lending four of its developers as lecturers including Marko Bencun, Jonas Schnelli, Kaspar Etter and Henrik Jonsson.
+
+BitConsult provides free hardware wallets and other tools to students in the program.
+
+Only Bitcoin Taught Here
+
+The courses only cover Bitcoin — general knowledge, protocol, cryptography and Lightning — and use libbitcoin and the command line tool libbitcoin-explorer for exercises.
+
+There are two course levels: a two-day basic course for people with a technical background and some training as developers and a four-day advanced course for graduates of the basic course.
+
+Applicants will be required to attend in person and the requirement to qualify is “technical knowledge and familiarity with the command line.”
+
+“The current advanced course of 21 Lectures gives an extensive insight into Bitcoin, but it’s only a starting point: The developers will have to learn and practice more by themselves, although our teachers, as well as the open-source community in general, are always very helpful to get new contributors up to speed,” Betschart said.
+
+“We hope to collaborate more with other courses in the future, exchange ideas, content and attendees. A good next step from the 21 Lectures course is probably the ChainCode Labs program.”
+
+The next course begins March 4, 2019.
+
+Course materials can be found here: https://github.com/21Lectures

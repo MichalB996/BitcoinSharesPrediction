@@ -1,0 +1,33 @@
+DATE:  04.01.2019, 16:30:38
+TITLE: New Full Node Client 'Bitcoin Verde' Joins the BCH Ecosystem
+URL:   https://news.bitcoin.com/new-full-node-client-bitcoin-verde-joins-the-bch-ecosystem/
+
+New Full Node Client 'Bitcoin Verde' Joins the BCH Ecosystem
+
+Bitcoin Cash (BCH) supporters were greeted on Thursday by another new full node client, library and blockchain explorer for the BCH chain called Bitcoin Verde. The creator of Verde says it is a ground-up implementation of the BCH protocol and the project has a few different aspects than the wide variety of full node clients used today.
+
+Also read: 10 Years Ago Bitcoin’s Genesis Block Changed the Course of History
+
+The Full Node Project Bitcoin Verde
+
+When Satoshi first created the Bitcoin protocol 10 years ago, the program was created with the C++ programming language. However, the original client’s binary data can conform to any programming language standard, as long as it adheres to the blockchain’s consensus rules. On the 10-year anniversary of the Bitcoin genesis block, a new full node client built from the ground up was introduced to the BCH community. The node project Bitcoin Verde is a complete full node, block explorer and library, the code’s open source documentation details.
+
+According to the Verde project’s creator, he has worked on the client over the last year with thorough testing and had also asked for help from members of the XT development team. However, the programmer has explained that Bitcoin ABC, Unlimited, and XT are basically forked versions of the reference client Bitcoin Core and still may contain bugs. Verde’s founder emphasized on the Reddit forum r/btc that having a variety of different nodes makes the BCH network more robust. Some of the clients may experience incompatibilities but the developer thinks this is a good thing as time passes.
+
+“With a diverse network of nodes, bugs in the implementation of the protocol will result in incompatible blocks between the nodes, causing a temporary fork,” explained the creator of the Bitcoin Verde full node implementation. “This situation is healthy for the network in the long term, as the temporary forks will resolve over time and the intended ruleset becomes the consensus.”
+
+Handling Protocol Decisions in a Different Manner
+
+The Verde client will also join the other full node clients like Bitprim, Parity, Bcash, Copernicus, and BCHD, giving the Bitcoin Cash network a total of nine different clients. The client’s creator has detailed that Verde handles protocol decisions in a different manner than the traditional reference client. Rather than just the recorded UTXOs, Verde maintains the entire blockchain. The developer explained Verde assesses the situation and rules on the most proof-of-work (PoW) to be its “head” chain.
+
+At the moment, the project is in its beta stage and also doesn’t have a complete mining-pool module but the programmer plans to finish the feature in the near future after being a bit more confident with ruleset consistency. “It is my hope that during the next network stress-test, Bitcoin Verde can help to gather statistics on forks, transactions per second, and block/tx propagation time,” the client’s creator elaborated.
+
+“Bitcoin Verde has its drawbacks: it’s a resource-hog. Since the whole blockchain is indexed, the disk footprint is about 600GB,” Verde’s developer confessed. “Another drawback is that Bitcoin Verde ‘does more stuff’ – it is essentially a block explorer, and because of that, the initial block download takes about 2-4 days to index all of the chain and its addresses.”
+
+The Bitcoin Cash community welcomed the new implementation build as many believe client diversity for a blockchain makes the network more robust. Bitcoin Verde has been tested for weeks on Linux (Debian) and OS X (Mac), the developer stated, and the Windows client has been tested thoroughly. Verde’s creator is hoping Windows-savvy developers will give him feedback on the project and report any issues.
+
+What do you think about the Bitcoin Verde client? Let us know what you think about this subject in the comments section below.
+
+Images via Shutterstock, and Bitcoinverde.org.
+
+Need to calculate your bitcoin holdings? Check our tools section.

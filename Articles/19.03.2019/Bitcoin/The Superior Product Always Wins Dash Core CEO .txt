@@ -1,0 +1,125 @@
+DATE:  19.03.2019, 14:04:10
+TITLE: "The Superior Product Always Wins": Dash Core CEO Ryan Taylor on Why Bitcoin Won't Survive
+URL:   https://breakermag.com/the-superior-product-always-wins-dash-core-ceo-ryan-taylor-on-why-bitcoin-wont-survive/
+
+Ryan Taylor doesn’t immediately come across as a cryptocurrency bigwig. When we meet, he’s wearing a sharply tailored suit that screams Wall Street, while also radiating a grounded, no-nonsense, slightly dweeby air that couldn’t be further from the sector’s dominant piratical edge. He doesn’t seem like he’d have much interest in your average ICO-funded boat party.
+
+That’s probably exactly why he’s managed, in a shifting series of leadership roles, to keep Dash a top-20 cryptocurrency for more than four years—eons in crypto time. His current role is as CEO of Dash Core Group (DCG), a for-profit company that is funded by the Dash network and makes major contributions to it, but ultimately answers to the network’s maintainers. We discussed the sophisticated governance and technical innovations that now make Dash seem increasingly ahead of its time—and in the end, he showed he’s ready to be just as bold as anyone in crypto.
+
+Our conversation has been edited for length and clarity.
+
+How did you get involved with Dash?
+
+Initially, just as a general community member with ideas. Then I ended up moving to Phoenix for personal reasons [around 2014], and the founder of Dash, Evan Duffield, was in Phoenix. So I reached out to him, and I started getting more involved. I put together presentation decks for him about strategy stuff.
+
+You don’t seem like an anarchist, the kind of person who would have necessarily been deeply into crypto in 2014, instinctively.
+
+No, no. I was working here in New York, first at [the high-end consulting firm] McKinsey for seven years. I became an associate partner in their financial services practice. And then I joined a $20 billion hedge fund. I was analyzing payment companies. During that time, I became exposed to bitcoin, and it was very intriguing. It had a unique set of attributes that no other payment method had. But it had some serious flaws, as far as I was concerned, as a payments expert. It was clearly designed by someone who knew nothing about the payments industry.
+
+But I knew there was something there, and I started spending more of my time studying bitcoin. I discovered there were all these alternative coins that no one was really talking about. And one day I came across Dash and started to dig into it. Most [altcoins] at the time were copies and pastes of each other, and here someone was introducing a privacy feature.
+
+Get the BREAKERMAG newsletter, a weekly roundup of blockchain business and culture.
+
+Was it known as Dash at the time?
+
+It was known as Darkcoin for about 12 months.
+
+It’s fascinating that it went through so many evolutions.
+
+It has changed a lot as we moved more into the mainstream and started to go after green-field market space. We have lost some hardcore believers along the way. Even the name change was offensive to them. As we’ve evolved into a more mainstream product, that naturally is going to happen.
+
+"We have lost some hardcore believers along the way. Even the name change was offensive to them."
+
+But first you moved to Arizona.
+
+I reached out to Evan Duffield and we spent a bunch of time just talking, and he was very amenable to the ideas that I was bringing from the payments angle. And he had good ideas of his own from a technology angle. It became obvious that privacy was not the only thing that you can introduce on these networks. We rolled out InstantSend in the Spring of 2015, which facilitates payments at the point of sale.
+
+How does InstantSend work?
+
+It relies on the Masternode layer of the network. You can poll that layer and come to consensus fairly quickly with a small number of them. When I send a transaction, normally, it has to be included in a block before it’s considered complete. When you send an InstantSend transaction, it randomly but deterministically, in a way that the entire network can agree, picks 10 Masternodes. And if they all sign off on it, that transaction is locked, and that propagates to the network. And that way, the merchant can know that the transaction is going to go through in a future block. We’ve essentially separated authorization from settlement.
+
+Can anyone run a Masternode?
+
+It requires that you prove ownership over 1000 Dash [currently about USD $92,000] in order to upgrade. You have to follow a set of steps, but most people can do it. There are around 4,500 to 5,000 Masternodes. As there are more Masternodes, the pool of money gets split and so the benefits go down. As the number of Masternodes drops, then the rewards get better. I think the average Masternode owner owns about four, so I think it’s a little over 1,000 people. [The staking requirement] is not accessible to everyone. And Masternodes have additional responsibilities as well as additional benefits. But there are also cases in which people have pooled their money together to buy one.
+
+The term “Masternode” has become much more widely used. But Dash was the first?
+
+Yes, we invented the term. A lot of projects have adopted it legitimately, and a lot have definitely altered the intention.
+
+I’ve seen it used by some really, really bad projects, where the staking mechanism is really designed just to suck up liquidity.
+
+It’s designed to cause people to buy it. We invented the term, and we introduced it to create a layer of the network that can perform services. There was an actual objective from the end user perspective—it solves a lot of problems. And it’s been butchered at this point into an investment vehicle.
+
+Dash has completely rethought what the reward structure of a cryptocurrency should look like.
+
+Yeah. In 2014, there was a Dash Foundation, a nonprofit that was set up to try to collect donations and memberships. But it never really took hold. That struck at the heart of the model of bitcoin, which is donation based—you want developers, somebody needs to donate. And you have this problem of coattail riders, who rely on a few big whales to put all the money in. But that’s not efficient. Meanwhile bitcoin, and most cryptocurrencies, allocate 100 percent of the new coins and all the transaction fees—basically, the entire revenue of the system—towards miners. And that to us was absolutely crazy.
+
+So we felt like we could open up some solution space, make the whole system more efficient, by reallocating that block reward. We wanted a system that would hold the people that are servicing the network to account. We could have implemented a simple founder’s reward—they just get a percentage of all the coins. But that’s just as crazy, because there’s no accountability there. What if they’re not performing? What if that isn’t the right strategy?
+
+Related: When Hyperinflation Means You Can’t Buy Bread or Tylenol, Crypto Beckons
+
+So we split our block reward three ways. 45 percent goes to the miners, and 45 percent goes to Masternodes. And 10 percent now goes into development funds allocated through the proposal system, where spending is voted on by Masternode operators.
+
+You’re now the CEO of Dash Core Group, but that’s not the same thing as being CEO of Dash, the network.
+
+I joined full time in spring of 2016, initially as director of finance. At the time, we didn’t have a large budget, but it was being used inefficiently. By the fall, I was effectively running the team. Evan was focused on programming. Then, by the spring of 2017, he’d stepped away from the project. The first thing I did was stop the foundation model. By the summer of 2017, we were a standard Delaware C Corp.
+
+But you don’t actually control the block rewards that are allocated to the development fund.
+
+No, we have to put our own proposals up to the network. We put up a proposal every month for compensation and our own proposals don’t all get approved.
+
+Is there legal stuff involved in the corporate structure? Do you have to have a money transmission license?
+
+We don’t operate the network. We only develop software and we open-source it, and other people run the network. So we don’t have any legal issue there.
+
+You used the word professionalization, and I’m curious how that transition works. Were people in the community given positions in the company?
+
+When we started getting paid, it wasn’t very much—my first month, I think I got $400 worth of Dash. And then as we got enough to actually pay them a livable wage, we bumped them up to that. And then later, we start hiring for external positions. And we had to evaluate people’s skills, and evaluate what their pay rate should be based on their role and history and skill-set.
+
+It was an evolution, and not everybody made it all the way through that process. Some people never had an intention of having a full-time job with this. Some people had philosophical problems with it. Some people weren’t qualified for their positions. Some people were qualified at first, but the role grew and they couldn’t handle it anymore. And so I had to counsel people out, or find them new roles, or some combination. It was a delicate process, but we’re largely there now.
+
+And Evan Duffield is no longer involved?
+
+He’s not involved in Dash Core Group, but he is running a small organization called Dash Labs. He’s looking out 10 years and trying to experiment with different technologies. That’s where he fits best, with philosophical idea generation.
+
+Church's Chicken accepts Dash in Venezuela
+
+You guys got a wave of press when news started coming out that there was some adoption happening in Venezuela. Are those local teams also funded through the proposal model?
+
+That’s right. Just taking Venezuela as an example, there’s a Dash Help Desk, where merchants and users can call and get support if they’re having problems with a wallet or something.
+
+The second is Dash Merchant Venezuela, and they’ve been the ones out pounding pavement signing up merchants. Mostly mom and pop shops, but we’ve started to move into corporates now. All the locations in Venezuela for Church’s Chicken, we signed through their central office. So that’s opening up new possibilities for Dash Core Group to come in and sign up channel partners that are going to actually sign up the merchants and service the merchants—kind of like Visa and MasterCard, they don’t actually service the customer, they have merchant acquirers and they have card issuers. I don’t want to have direct relationships with [merchants], because it doesn’t scale.
+
+There was a small controversy around Dash Merchant Venezuela, where I believe they made some claims that turned out to not be true?
+
+Here’s what happened. Community members wanted to get transparency into their cost structure. And there’s another entity that services the network called Dash Watch, and they act like an auditor, basically. And [Dash Merchant Venezuela] agreed to work with Dash Watch, to provide the transparency that the network was requesting.
+
+They were asked how much each person in the company makes. Now, I don’t provide that level of transparency. I think that violates personal [privacy]. I myself am paid minimum wage, but if I were making a real salary, I wouldn’t want anyone to know what that is. Why they didn’t react that way and say, I’m sorry, I can’t give person level data, is beyond me.
+
+But they made a poor choice, which is that they lied about it. Part of their stated reason was they were concerned for their safety in Venezuela. It’s a violent country and, if it’s exposed that you have access to a lot of cryptocurrency, that might put you at physical risk. It is an argument that makes sense, but I can’t vouch for them one way or the other. Whatever their reasoning, they lied. And that erodes trust, they got caught in the lie. And the truth is, the money was distributed much more at the top of the company—the 26 employees or something like that were paid much less than what they were claiming.
+
+One focus is hyperinflation, and in this case, Venezuela—we’re solving lots of practical issues there. The second is the remittance market.
+
+But to be clear, this is another independent entity. It’s not directly tied to Dash Core.
+
+In no way, other than the fact that we’re both funded by the network. Their funding is also based on proposals. They have since apologized, and made the decision that they’re stepping away from the company. And they still do have other proposals there. They own the Dash Help Desk, and they still operate Dash Text, which is a text-based Dash payment service, both of which are still funded. So it’s clear that the network wanted to penalize them for their behavior, but not kick them out.
+
+Do you have a strategy of focusing on the developing world?
+
+We looked at the attributes of digital currency, and Dash in particular, and then looked at the market in a hypothesis-driven way. Where does this make sense? And then we narrowed it down. One focus is hyperinflation, and in this case, Venezuela—we’re solving lots of practical issues there. The second is the remittance market.
+
+Another is businesses with high chargebacks, but we’re focused on gaming there, particularly fantasy sports. People gamble on their credit card, and if they win, they keep it. If they lose, they dispute the charge. There’s just a ton of these categories where the chargeback rate is through the roof, and that gets baked into their rate, and a lot of them actually lose credit card services if their chargeback rate is too high.
+
+And gambling is something Dash does well. Because if you’re siting at halftime and want to bet on a game? You can’t send a bitcoin transaction. It takes an hour to clear.
+
+It sounds like what you’ve created is a truly decentralized system that is supporting a company. Would you say Dash is as decentralized as bitcoin?
+
+I would say it’s more decentralized. In bitcoin, there are like six miners that control all decisions. In our system, there are checks and balances. The Masternodes also have power, and they can veto some of the things that the miners are doing. They can reach consensus among themselves. And by the way, there’s 4500 Masternodes. I can’t point to six people that control the Masternode layer. That actually provides additional security in many respects. We may not have as much hash power. But hash power is not the only way to secure a network.
+
+Bitcoin has first mover advantage, but as you observed, has some real limitations from a governance perspective. It doesn’t have a lot of agility. Is the idea that something can overtake bitcoin part of the discussion around Dash?
+
+I don’t think that bitcoin will survive long term, is my own hypothesis. Lightning Network isn’t a solution. There isn’t an easy solution. Because they lack governance, they have an inability to change and adapt to the marketplace.
+
+People always overvalue network effects. You see this industry after industry. Betamax was way ahead of VHS. But ultimately, in every single one of those markets, the superior product wins. People always point to Betamax and say ‘Wait, Betamax was superior!’ It had superior picture, superior sound—but it wasn’t a superior user experience. The tapes were limited to two hours. That meant there were many movies that you needed two tapes for, and you couldn’t record the baseball game. Sports killed it. VHS went four to six hours. And that was it. Game over for Betamax.
+
+I think that will happen again. And I think people are overvaluing that network effect. Because it does erode over time. The superior product always wins.

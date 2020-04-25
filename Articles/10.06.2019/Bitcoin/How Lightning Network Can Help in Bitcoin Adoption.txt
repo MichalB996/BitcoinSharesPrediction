@@ -1,0 +1,35 @@
+DATE:  10.06.2019, 11:24:27
+TITLE: How Lightning Network Can Help in Bitcoin Adoption?
+URL:   https://www.coinspeaker.com/how-lightning-bitcoin-adoption/
+
+Bitcoin transactions are carried out every day only to find higher costs and longer waiting times for confirming them. Is this all happening because of scalability issues? Here’s our vision of how Lightning Network could help.
+
+Bitcoin was meant to be a peer-to-peer electronic cash transaction system right from the start when it was introduced in 2009. The primary objective of Bitcoin was to improve the speed of financial transactions without the need for any third parties such as banks. However, the Bitcoin network gradually increased in size and popularity, thereby leading to an increase in network usage and congestion.
+
+New Approaches to Old Designs
+
+Almost over 300,000 Bitcoin transactions are carried out every day only to find higher costs for transactions as well as longer waiting times for confirming transactions. Is this all happening because of scalability issues with Bitcoin? So, what could be the possible solution for scalability and increasing transaction speed in Bitcoin transactions?
+
+Lightning Network is one of the solutions that have emerged in recent times for scalability of the bitcoin network. Let us shed some light on the details of Lightning Network and the scalability problem in BTC in the following discussion. Finally, it could be possible to find out how Lightning Network (LN) can be used to solve the scalability and transaction speed issue of BTC.
+
+What is Lightning Network (LN)?
+
+The concept for Lightning Network was originally developed in 2015 by Joseph Poon and Thaddeus Dryja as a scaling solution. Presently, there are many developers in the Bitcoin community working on LN and its implications. The idea of LN involved the creation of another layer for the network above the Bitcoin blockchain to have efficient transactions.
+
+The new layer was associated with particular off-chain payment channels between parties to record the transactions. Now, there was no need to record every small transaction on the Bitcoin blockchain that used to take up loads of time earlier. The new layer provided the facility of connecting and transferring BTC in off-chain transactions without having to wait for network confirmations or the higher transaction fees.
+
+What are the Problems in BTC?
+
+The foremost issue which arises in the context of the scalability of BTC is noticed in the problems with several transactions per second. Furthermore, the charges for handling bitcoin transactions also impose additional trouble on users. The number of transactions per second for BTC is estimated at around seven, and the growing number of transactions could end up congestion.
+
+Gradually, many transaction requests would be piled up one by one and leading to a rise in transaction fees. The primary reason for which the costs of BTC transactions are increasing along with the time required for the transactions is the focus on on-chain scalability. Hence, it is recommended to look for alternatives in off-chain scalability to ward off concerns of potentially higher damages through on-chain scalability.
+
+How Can LN Solve the Problems by Faster Transaction Time?
+
+An understanding of the basic way in which LN works could help in finding how it can solve the problem of scalability in BTC. Lightning Network involves a massive network of two-way payment channels operating in a layer above the existing Bitcoin blockchain. The next important aspect of using LN for scalability is the multi-signature wallet, which is open to access for two parties with their private keys.
+
+This wallet serves as the channel which can be used for BTC transactions by transferring ownership of BTC that has been deposited for the other party. Since the transactions are not recorded on the Bitcoin blockchain, there is no need to worry about the speed or transaction fees with Lightning Network.
+
+Hence, it can be aptly noted that Lightning Network could be the next big boost for taking bitcoin to the masses by solving the issues of scalability such as higher transaction times and costs.
+
+Author: Vijaya Bharti With a background in finance and a passion for writing, she has made her passion her profession. Her endless desire to learn new things developed her interest in Blockchain Technology and the Crypto world. She enjoys writing and learning in the process as she believes there is no end to gaining knowledge. She likes to unwind by watching online series or reading when she is not working.

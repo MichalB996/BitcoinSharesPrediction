@@ -1,0 +1,51 @@
+DATE:  08.01.2020, 12:37:22
+TITLE: What good is Bitcoin if the Internet fails?
+URL:   https://decrypt.co/16131/what-good-is-bitcoin-if-the-internet-fails
+
+The Internet isn’t invincible. Governments the world over are restricting access to the world wide web; Russia is erecting a China-style firewall, Iran switched off the Internet during recent protests and India makes a habit of it. Intentional shutdowns have more than doubled since 2016, according to Access Now, a non-profit advocating for Internet access.
+
+Then there are man made disasters (missile strikes) and natural ones—such as wildfires in California and Australia, or other scenarios that limit access to electricity—as well as the prohibitive cost of Internet use in many parts of the world, lack of security and, of course, Internet surveillance.
+
+The Internet’s vulnerability isn’t great for advocates of cryptocurrency. A single day without access to the Internet can cost crypto exchanges, miners and traders millions. You can’t buy, send or steal bitcoin if the Internet is down. Or can you?
+
+Neil Woodfine, director of marketing at Bitcoin development firm Blockstream, took to Twitter on Monday to deliver a blistering riposte to those who believe Bitcoin is reliant on the Internet, based on a presentation he delivered in Zurich, Switzerland last October.
+
+Internet-minimized
+
+Woodfine admitted that delivering transaction data to miners requires an Internet-connected device. Therefore, any offline solution is really only “Internet-minimized,” but the scope is still huge.
+
+"Bitcoin endures because the engineers that build it expect the unexpected. Money is a dangerous game, and any weaknesses, no matter how small, will be exploited,” he wrote.
+
+His first bit of advice is that people should get into the habit of going offline, and that means looking after their own private keys instead of entrusting them to an exchange or other custodian.
+
+But the first step to really using bitcoin offline is to have your own full node. At first, it seems counter-intuitive; running a Bitcoin node requires serious bandwidth—which requires a connection to the Internet, which is linked to an IP address, which in turn can be linked to a physical address.
+
+That’s where Blockstream Satellite comes into play. The startup uses teleports around the world to beam bitcoin blockchain data to four geostationary satellites around the Earth. These satellites then broadcast the data to almost all populated regions in the world, said Woodfine.
+
+Currently, Blockstream’s satellites transmit only one way, for download only, so it’s not possible to use the network to transmit transaction data—yet.
+
+But it’s free, there’s no bandwidth limit, and to pick up the signal you need less than $100 of equipment, said Woodfine. That consists of a standard TV satellite dish, an SDR (software defined radio—available for $24 on Amazon), and a basic computer, such as a Raspberry Pi.
+
+A single satnode
+
+This is where things gets really interesting. Because a single node connected to a satellite can provide bitcoin blockchain data to a whole area via Wi-Fi rebroadcasts using simple, low-cost, equipment.
+
+For sharing transactions, mesh networks—a network of nodes that are not centrally-owned or controlled, connected directly to each other—are the best known option. They relay transactions data from and to other nodes in transmission range. Only one node needs to be connected to the Internet in order to relay the data to the rest of the mesh.
+
+To hook up to a mesh network, a popular option is an inexpensive, low-powered messaging system called goTenna. It has a range of approximately four miles, which can be extended via a relay method. But mesh networks are not infallible, the technology is still nascent and it’s impractical in confrontational situations, say protestors.
+
+One option that’s quickly catching on is the so-called Low Range Wide Area Network (LoRaWAN). Widely used for IoT applications, LoRaWAN chips work in extremely low-power devices, and offer a four mile range. However, bandwidth is tiny, and transactions need to be broken up and sent slowly, said Woodfine.
+
+Another alternative is relaying transactions via mobile text messages to Internet-connected devices. Tools to enable this include Samurai Wallet’s Pony Direct, txTenna, a collaboration between goTenna and Samurai Wallet, and SMSPushTX.
+
+Using these various methods, one satnode and one Internet connected device can produce an entire network, said Woodfine.
+
+There are other methods for getting transactions data through, he said.
+
+Using amateur radio, users can transmit low-bandwidth transaction data around the world on very little power.
+
+Satellite phones, such as Iridium Go, allow users to send and receive low bandwidth data anywhere in the world.
+
+And, if all else fails, there’s Opendime, a small USB stick that allows you to physically spend Bitcoin, just like a dollar bill, and pass it along multiple times.
+
+But hang on a minute. Isn’t that going back to where we all started?

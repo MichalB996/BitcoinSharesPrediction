@@ -1,0 +1,33 @@
+DATE:  08.10.2019, 14:46:41
+TITLE: Hacking victim who paid Bitcoin ransom goes on to hack the hackers
+URL:   https://thenextweb.com/hardfork/2019/10/08/ransomware-bitcoin-hacker-cryptocurrency-muhstik-rekt/
+
+A ransomware victim that paid Bitcoin BTC to unlock his files has enacted sweet vengeance on his attackers, by hacking them right back.
+
+As part of his retaliation, German programmer Tobias Frömel (aka “battleck”) released almost 3,000 decryption keys to assist others hit by the Muhstik ransomware, alongside free decryption software, BleepingComputer reports.
+
+The thing is, this revenge-hack wasn’t exactly legal. Frömel highlighted this in his original announcement on the BleepingComputer forum yesterday morning, but urged readers to understand that he’s “not the bad guy here.”
+
+The Muhstik ransomware hackers have plagued QNAP’s Network Attached Storage (NAS) devices since the end of September.
+
+They’ve found success by brute-forcing their way into devices with weak passwords, encrypting files and demanding 0.09 BTC ($700) of their victims to unlock them.
+
+And it goes on like that…
+
+As for Frömel, though, it seems unlikely he’ll suffer any ramifications, but a ZDNet report indicates that at least one security researcher has made authorities aware of the situation.
+
+Still, he’s on Twitter notifying other victims that his decryption software is available for free. So far, Frömel has received two tips for his efforts, worth a combined 0.01148348 BTC ($94).
+
+Ransomware attacks are nothing new, but they have been intensifying lately. The FBI even recently shared a public service announcement warning against paying to restore files as it could encourage further campaigns.
+
+Although, this hasn’t stopped victims from giving in. Three hospitals in Alabama recently paid the hackers behind the Ryuk ransomware to unlock compromised systems which had been infected at the start of October.
+
+You can read up on how to protect yourself against ransomware here.
+
+Update 15:55 UTC, October 8: Anti-virus firm Emsisoft has since contacted Hard Fork to say that the decryption software that was released didn’t work for victims running ARM-based QNAP devices.
+
+For those victims running such devices (as well as those that may prefer to safely run software created by Emsisoft, rather than Frömel’s), the company has created its own Muhstik decryption tool.
+
+It can be found here.
+
+Want more Hard Fork? Join us in Amsterdam on October 15-17 to discuss blockchain and cryptocurrency with leading experts.

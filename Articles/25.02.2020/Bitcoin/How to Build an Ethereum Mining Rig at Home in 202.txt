@@ -1,0 +1,55 @@
+DATE:  25.02.2020, 14:00:23
+TITLE: How to Build an Ethereum Mining Rig at Home in 2020
+URL:   https://bitcoinist.com/how-to-build-an-ethereum-mining-rig-at-home-in-2020/
+
+Ethereum How to Build an Ethereum Mining Rig at Home in 2020
+
+Ethereum (ETH) has become more appealing in 2020, with prices rising above $270. Mining has also picked up, awarding 2 ETH each 15 seconds, or 8 ETH per minute.
+
+Ethash Still Accessible to Home-Based Mining Rigs
+
+In 2020, the Ethash algorithm is still amenable to home-based mining, and it is possible to build a rig and compete for block rewards.
+
+An Ethereum mining rig is best built using GPU. Currently, there are specialized rigs with about 200 million hashes per second. However, the Ethereum community favors a potential hard fork to disable any Ethash-optimized ASIC.
+
+Would you support a hard fork that obsceletes ETH ASICs? (Just wondering, this is not a proposal) — Vlad (–support-dao-fork) Zamfir (@VladZamfir) March 28, 2018
+
+Thus, it is safer to still use GPU, which is more agile and in a cinch, can be directed at new networks. Yet, some GPUs are optimized and achieve better performance with Ethash. At-home mining necessarily uses consumer electricity, which may affect profitability. However, mining is also a risky game and in cases of rising market prices for ETH, it may have a more significant payout further down the line.
+
+How to Build an Ethereum Mining Rig
+
+Building up sufficient hashing power is a matter of connecting more GPUs to achieve the rig’s final setup. Currently, AMD Radeon VII is the most powerful card, producing 90 MH/s, with ProgPoW reaching 30 MH/s. Combining several video cards will quickly raise the price of the rig, as the AMD Radeon VII retails for above $500.
+
+Building a rig also requires side components, including a power supply, a CPU, LAN components, as well as a physical crate for holding and ventilating as many GPUs as desired. Experts at the EthereumMiningBot also recommend a smart power plug, to track electricity usage.
+
+Essentially, an Ethereum mining rig would resemble an entire computer, a dedicated machine to avoid overloading consumer electronics. A basic Intel i3 CPU is recommended, as well as just basic 4GB RAM and a solid-state drive. Assembling the actual rig can be easier with custom-designed racks or cases, allowing the connection of six GPUs (or 540 MH/s potential). To connect the GPUs, a motherboard with six slots and possibly an additional power button to make switching on technically easier also go into the building of an Ethereum mining rig. For more than three GPUs, a set of connectors may be needed to place the GPUs conveniently and connect them to the motherboard.
+
+An SSD memory completes the machine, with the potential to add a hardware wallet, or another basic tool to operate mining pools and receive ETH into a wallet.
+
+The power connector will be extremely important for an efficient rig, and the recommendation is to use a model with platinum connectors, to avoid losses. The 1.2 kW Corsair CP-9020140-UK HX1200 allows for maximum power efficiency, to which a smart outlet may be added for tracking.
+
+Assembling the computer components may pose difficulties, but an instructional video may help with the task.
+
+Ethereum Mining Continues to Grow
+
+Mining ETH at home is also a matter of achieving sufficient hashing power and joining the right pool to get a part of the daily rewards. The Ethereum network currently rewards 2 ETH per block each 15 seconds, down from as high as 5 ETH per block in previous reward periods. After the latest hard fork, only 2 ETH will be awarded, leading up to the intentional switch to ETH 2.0, which will rely on staking.
+
+But because the Ethereum network has been so slow in introducing staking, mining is still growing. In the past month, mining expanded again above 180 TH/s. At current competition levels and difficulty, ETH mining is once again favorable.
+
+Until January 2020, ETH difficulty increased and made some miners give up. After a small emergency hard fork, miners were once again invited to join in, showing a clear pickup in mining activity in the past few weeks. The advantage of a home-based rig is that it is possible to mine while the process shows good profits, disabling the rig in cases of increased difficulty.
+
+Mining 1 ETH May Also Cost 1 ETH
+
+Building a mining rig for Ethereum may be comparable to buying an Antminer S17 ASIC price-wise. With a price tag of close to $2,000 for a two-GPU setup, mining ETH is also an expensive bid. During times of scarcity, and depending on the supplier, GPU may be scarce or more expensive than expected. Still, it is possible to spend $500 on a GPU with high Ethash performance.
+
+With such a setup, producing 180 MH/s, the expected payout would be 4.21 ETH per year. This cost is close to the mining of Bitcoin (BTC), where there is a very thin breakeven. It would, once again, cost 4.21 ETH to mine 4.21 ETH.
+
+There is currently one advantage to at-home mining in comparison to cloud mining. A Genesis contract will require about $1,500 to mine at 75 MH/s for a year. Having an at-home setup at 180 or even 200 MH/s is not much more expensive, and will have a longer lifetime. Downtime is also a decision that does not depend on Genesis mining, but on the rig’s owner.
+
+Currently, Ethermine and f2Pool mine about 47% of all ETH blocks. Smaller pools manage to gather around 2 to about 10% of the daily reward, but the final daily gain will only be seen in hindsight. Joining a pool is necessary, as solo mining at this stage is impossible and the chances of discovering a block are astronomical. But a pool like Ethermine has a 24% chance of discovering a block and sharing the reward.
+
+As of February 2020, ETH reached $266.32, still up more than 100% since the lows last December. Mining ETH profitably is still a dynamic bet, depending on whether the rally continues, and on mining competitors adding hashing power.
+
+What do you think about ETH mining in 2020? Share your thoughts in the comments section below!
+
+Images via Shutterstock, Twitter @VladZamfir, Youtube @Jobe

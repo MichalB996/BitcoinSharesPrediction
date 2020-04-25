@@ -1,0 +1,25 @@
+DATE:  11.01.2019, 15:02:06
+TITLE: Bitrefill Channel-Opening Service Makes Accepting Lightning Payments Easy
+URL:   https://bitcoinmagazine.com/articles/bitrefill-channel-opening-service-makes-accepting-lightning-payments-easy
+
+Ring in the new bitcoin halving cycle the right way: with us!
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+Crypto payment platform Bitrefill has launched Thor, a service that allows customers to open Lightning channels on demand. Thor will connect to Bitrefill's node on the Lightning Network, allowing users to receive Lightning payments whether they have bitcoin loaded into their Lightning wallets or not.
+
+“This service will let the customer get an empty lightning channel opened to them from Bitrefill’s node, on the Lightning Network. Now anyone can now pay for, or gift, the ability to have a channel opened to a Lightning wallet in order to receive payments over Lightning at any time,” according to a company announcement.
+
+The Lightning Network is a protocol built on Bitcoin that allows for instant and cheap payments between users, without compromising the security and decentralization of the cryptocurrency. With Lightning payments, you can make multiple payments at a small fraction of the cost of a regular bitcoin transaction, as you don't have to settle each transaction on the blockchain. Transactions are only settled when the channel is closed.
+
+However, in order to receive Lightning payments, users must have a payment channel open with at least one other Lightning user that has funds on their end of the channel. Without that, there is no way to have funds routed to you. And while it’s possible that a payer opens a brand new Lightning channel to a payee when making the initial Lightning payment, this does require time (a blockchain confirmation) and money (on-chain fees), thus diminishing the advantage of Lightning in that instance.
+
+With Thor, users can purchase an empty channel (potentially also for their friends or business partners) with crypto. Users don’t need to put up any money in the payment channel themselves, while Bitrefill maintains the channel, funded on their end for 30 days. As such, you can immediately start accepting payments through Bitrefill’s channel to you.
+
+The channel opening service from Bitrefill currently works with command-line client LND wallet and the Bitcoin Lightning Wallet for Android. Payments for Thor can be made with custom capacities of 300,000 satoshis to 16,000,000 satoshis using Bitcoin, Lightning payments and a number of other payment options. an empty lightning channel with custom capacities of 300,000 satoshis to 16,000,000 satoshis, and payments for the service can be made through a number of options including bitcoin, Lightning payments and existing Coinbase balances.
+
+The Lightning Network has continued to grow since its first implementation was announced in March 2018 by Lightning Labs.
+
+As of November 2018, the network was supported about 4,070 nodes, with a collective capacity of 223.65 BTC. At press time, the Lightning Network supports 5,241 nodes with a collective network capacity of 563.17 BTC.

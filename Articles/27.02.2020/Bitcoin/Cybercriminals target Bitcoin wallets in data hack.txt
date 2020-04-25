@@ -1,0 +1,17 @@
+DATE:  27.02.2020, 15:00:27
+TITLE: Cybercriminals target Bitcoin wallets in data hack
+URL:   https://decrypt.co/20714/cybercriminals-target-bitcoin-wallets-in-data-hack
+
+Want another reason to go off the grid? Consider Racoon, a type of malware that steals sensitive information, like credit card info and data from cryptocurrency wallets, and sells it on the dark web in exchange for crypto.
+
+According to new analysis by Cyberark this week, the malware, dubbed an “infostealer,” targets 29 chromium-based browsers, including Google Chrome, Opera, and Firefox. It was first seen in the wild in April 2019 and has become popular for its price—it costs $75 per week, or $200 per month—as well as for its ability to steal sensitive and confidential information.
+
+The malware also targets wallets for the privacy coin Monero. Image: Shutterstock.
+
+Racoon targets popular crypto wallets, including Electrum, Jaxx, Exodus, Bither, as well as wallets for Monero and Ethereum. In addition to credit card and cryptocurrency wallet information, the Racoon infostealer (also known as “Mohazo” or “Racealer”) can also steal login credentials and browser information (like cookies, history, and autofill) from almost 60 applications.
+
+To use it, cybercriminals access a control panel, hosted on Tor, to launch attacks against their targets of choice. It selects its targets by profiling users’ machines when they click on malicious websites or download content from dodgy emails. Then, Racoon can take advantage of users’ machines to install the system.
+
+Racoon might be the latest system, but it follows in the footsteps of various other malware programs levied against internet users, the vast majority of which involve cryptocurrency at some stage. Since privacy-based cryptocurrencies, like Monero, make it difficult for authorities to trace users’ identities, they’re a popular means for cybercriminals.
+
+Malware attacks against crypto users are common; one malware attack used the Bitcoin blockchain to get at its victims. But even though they’re popular, don’t worry; they don’t always work as well as intended.

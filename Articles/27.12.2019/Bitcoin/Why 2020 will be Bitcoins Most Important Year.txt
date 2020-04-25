@@ -1,0 +1,69 @@
+DATE:  27.12.2019, 08:00:19
+TITLE: Why 2020 will be Bitcoin’s Most Important Year
+URL:   https://coingeek.com/why-2020-will-be-bitcoins-most-important-year/
+
+2019 was the year Bitcoin started to get back on track. Thousands of investors, developers, builders and fans—some of them returnees to the scene—found a reserve of new energy and enthusiasm. But if 2019 was the rebuilding year, 2020 is a year heavy with anticipation. People are expecting things to happen in 2020. What are some of the events we should be looking out for?
+
+I should note, this isn’t meant to be a prediction and it’s certainly not a guarantee all these events will happen. Some are certain, others are maybes. They may all interact with each other in esoteric and mysterious ways. Recall the famous Donald Rumsfeld quote about known-knowns, known-unknowns, unknown-unknowns, if you will.
+
+Let’s divide the 2020 issues to watch into two sections: Bitcoin technical issues (which are more certain to happen, but may have interesting effects) and issues surrounding Craig Wright (which are far less predictable to us, but could also have a large impact).
+
+Here are the two main technical issues to watch in 2020:
+
+Genesis: In the beginning…
+
+In December 2019, the Bitcoin SV Node team began rolling out the “Genesis” upgrade to its Bitcoin SV Node software. The hard fork on February 4th, 2020 represents the last major step towards restoring the Bitcoin protocol as close as possible to the way Satoshi Nakamoto envisaged it in 2008.
+
+Genesis will include some key features that will determine BSV’s future in 2020 and far beyond. It will allow Bitcoin to continue on its path to massively scale and it will introduce functionality for smart contracts, tokenization, and a raft of Metanet applications.
+
+It removes any limit on transaction block sizes, giving miners more power to decide what kinds of data they’ll process (and make more money doing it). Improvements to the Bitcoin scripting language will allow more data in each transaction’s OP_RETURN functions. With Genesis, Bitcoin will also support more “non-standard” transactions, have parallel transaction verification (to stop huge blocks clogging up the network) and safer zero-confirmation transactions. The last two features also act as protection against a number of attack vectors, such as deliberately sending massive amounts of data to the network to slow it down.
+
+Here’s a video of nChain’s Steve Shadders explaining Genesis at CoinGeek Seoul in October:
+
+Making Bitcoin more attractive to miners and enterprise users alike will be important in 2020, especially given another decisive external event next year. That event is:
+
+The 2020 Bitcoin halvening
+
+Per the rules set out in the Bitcoin whitepaper, the block confirmation subsidy (or reward) halves every 210,000 blocks. That’s generally every four years, and the next is estimated to happen on 14th May 2020. Originally 50 BTC per block, it dropped to 25 in 2012 and to 12.5 BTC in 2016. After May 2020, it will be just 6.25.
+
+“Halvenings” have happened only twice in the past, in 2012 and 2016. Both happened before the initial 2017 hard fork split over block sizes, so there wasn’t a rivalry creating extra anticipation. While both saw Bitcoin increase dramatically in price in the next year or so, no-one can say for sure whether the halvening caused this… or whether it would necessarily happen again.
+
+Reward halving will also occur on the BCH and BSV chains, since all three Bitcoin variants use the same original code and hashing algorithm. This is important because non-ideological miners can switch between chains easily, depending on which coin is most profitable.
+
+Due to variations in block confirmation times since 2017, BCH will halve first and then BSV, before finally BTC. Please keep in mind this timing is subject to change. This is important because—for a few weeks at least—it is likely to be more profitable to mine BTC. This could lead to a drop in hash rate and possibly unit price for BCH and BSV, which may or may not be temporary.
+
+Those are the main technical events to watch in 2020. Which brings us to the issues surrounding Craig Wright—some within his control, some less so. And here’s where we step into truly uncharted territory, meaning things could get really interesting.
+
+The Tulip Trust/s: Can, and would Craig Wright tank BTC?
+
+The existence of a mysterious trust containing the keys to over a million early Bitcoins called the “Tulip Trust” had been whispered about for years. However more specific details emerged in sworn statements from Dr. Craig Wright as part of his defense against the Ira Kleiman case.
+
+There are actually two Tulip Trusts (I and II) which involve a complex web of international companies and individuals—some of which have fallen out of touch. The trusts contain bitcoins Wright had mined or acquired between 2009 and 2011. The trusts apparently stipulate that private keys to the 1.1 million BTC (and thus its forked assets also) will become accessible to Wright at the start of January 2020.
+
+This is important because, well, a million BTC is a significant amount… enough to crash the BTC price if whoever has them choses to sell them. And Craig Wright has stated publicly that he will do something like that, with donations to charity (it’s unclear whether he would donate them before or after selling them). However given the structure of the trusts and people involved, it’s uncertain whether the keys will actually be delivered, or by whom, or how events will pan out. We will have a clearer idea in the new year.
+
+Other questions remain. Do the Tulip Trusts actually exist, or even if they do, will they cough up the keys to that million-plus Bitcoin treasure chest? Some Craig-watchers are highly confident, and skeptics are (as always) skeptical. Will we even get to know for sure, or will we have to deduce it from the after-effects? Could Ira Kleiman get a share? Will the Tulip Trusts’ so-called “bonded courier” show up on a lonely road in the rain with the information, “Back to the Future” style? The story definitely has a surreal, movie-like mystique.
+
+Better still, the above events could pan out whether or not you believe Craig Wright is Satoshi Nakamoto, or even regardless of whether he actually is or not. Which brings us to the next issue:
+
+Can Craig Wright prove he’s Satoshi Nakamoto in court?
+
+Despite misconceptions in less-knowledgable Bitcoin commentary and media circles, the Ira Kleiman lawsuit is not (directly) about whether or not Craig Wright is Satoshi Nakamoto. However, Dr. Wright has claimed in the past that he wants to prove he’s Satoshi before a judge.
+
+Around April 2019 Dr. Wright threatened to sue popular social media commentators who maintained public positions that he is not Satoshi, or who called him a fraud, for libel. He then followed through on those threats with actual suits, most notably against podcaster Peter McCormack and social media identity HODLonaut
+
+Exact details of the cases are hard to obtain outside of each party’s inner circle, and exaggerated “victory” claims propagate around social media over every procedural stage. The cases may not even see definitive conclusions in 2020, but rest assured they will get attention, and that attention will matter.
+
+Begun, the patent wars have
+
+Similarly, the issue of Craig Wright and nChain‘s pending and granted patents on blockchain technologies, including smart contracts themselves, could begin to have an impact in 2020. However this is another issue that likely won’t be settled 100% in the coming year and probably won’t produce a big-bang result.
+
+The big questions here are: will more patents be granted, and will competing companies like Bitcoin Core backers Blockstream, also be granted blockchain patents? Will blockchain developers quietly pay a license fee, or take a more adversarial stance? Will patents encourage more blockchain developers to build on BSV, and thus boost the ecosystem’s overall value?
+
+Hold on tight
+
+All that and we didn’t even touch Bitcoin price speculation. All we can say for sure is: whether we like it or not, price does matter—and it’s a major driver of both positive and negative press.
+
+All the above issues could have dramatic impacts on Bitcoin, its rivals (whether their names include “Bitcoin” or not) and both public and community attitudes. Whatever happens next, one thing is certain: it’s bound to be a landmark year in Bitcoin history. We all will be much wiser by the end of it than we are now, some way or other. So strap yourselves in… we live in interesting times.
+
+New to Bitcoin? Check out CoinGeek’s Bitcoin for Beginners section, the ultimate resource guide to learn more about Bitcoin—as originally envisioned by Satoshi Nakamoto—and blockchain.

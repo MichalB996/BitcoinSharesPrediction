@@ -1,0 +1,35 @@
+DATE:  27.05.2019, 19:30:27
+TITLE: Honest Nodes Spoiling a Theft Attempt Is Not a 51% Attack, BCH Devs Detail
+URL:   https://news.bitcoin.com/honest-nodes-spoiling-a-theft-attempt-is-not-a-51-attack-bch-devs-detail/
+
+Honest Nodes Spoiling a Theft Attempt Is Not a 51% Attack, BCH Devs Detail
+
+A number of Bitcoin Cash detractors and media publications have recently been spreading a false narrative that the BCH network was ‘51% attacked.’ In reality, however, honest nodes used their hashrate to stave off attacker nodes that were attempting to steal funds on the network.
+
+Also Read: Massive Growth by P2P Exchange and AT&T Accepting BCH in the Weekly Update From Bitcoin.com
+
+BCH Developers Discuss the Recent Upgrade and Dispel the Term ‘51% Attack’
+
+Over the last week, the Bitcoin Cash (BCH) hard fork has been discussed in the context of the attacker that tried to cause maximum damage to the chain and failed. According to the narrative spread many BTC maximalists, the BCH chain was ‘51% attacked’ and the protocol is ‘insecure.’ However, this isn’t the case at all and Nakamoto Consensus on the BCH chain is working as it should. On the Coinspice podcast on May 26, Bitcoin ABC lead developer Amaury Séchet and software engineer Corentin Mercier discussed the so-called attack with host Hayden Otto, in a bid to dispel the FUD and rumors. Basically, during the network upgrade on May 15th, it was discovered that a malicious entity was exploiting an old bug unrelated to the upgrade.
+
+The attackers waited to attack the chain on the upgrade day, in order to inflict maximum psychological damage to network participants by stealing funds stuck in ‘anyone can spend’ addresses. During the Coinspice podcast, Séchet explained that since August 2017 a number of coins have been accidentally sent to these ‘anyone can spend’ addresses. The upgrade on May 15 was going to make it so the funds could be accessed by honest nodes and returned to their rightful owners. At the same time, either the attacker or another entity who was aware of the attack prior to the fork placed millions of dollars worth of short positions against BCH so they could short the price during the confusion. But this attempt also failed as the issue was handled rather quickly and the market price of BCH did not budge.
+
+Honest Nodes Sabotaged the Malicious Attackers’ Attempt to Steal Funds
+
+Mercier, Otto, and Séchet agreed that 51% of the hashrate was leveraged (between the two pools BTC.top and BTC.com) to foil the malicious entity trying to steal funds. Calling the honest nodes attackers is illogical and the developers believe it would have been worse if the malicious entity was given access to the funds. “It’s hard to argue that it was a 51% attack,” Séchet emphasized. What the honest miners did is fully described in the Bitcoin whitepaper. The honest nodes’ hashrate of over 51% was used to combat the attacker nodes on the network that were attempting to steal funds.
+
+The honest nodes sabotaged the attack and it ultimately failed. There were no funds stolen and nothing else was badly affected as a result; only the aggressors’ attack was spoiled. “Honest miners acted in the best interest of their investment and defended the value of Bitcoin Cash,” the Coinspice podcast host remarked. Otto also noted that anyone can use a blockchain explorer and verify that the only funds that were affected were the funds the attacker was trying to steal.
+
+Séchet’s Words Underscored That Haters Will Always Hate and the Community Needs to Focus on Improvements Instead of Detractors
+
+Critics of the act tried to vilify the BCH chain by using the terms “attack” and “51% attack” when in actuality honest miners just did their job. There was a bug that was exploited and it was not much different to the BTC forks on August 8, 2010, and March 11-12, 2013.
+
+In 2013, Btc Guild’s hashrate was leveraged to downgrade the main chain from Bitcoin 0.8 to version 0.7 because of a bug that was discovered. Arvind Narayanan described the situation in full detail which showed Core developers had coordinated with a large mining pool to revert the situation. Narayanan even highlighted that it was a “centralized decision” that was utilized to help find a solution to the problem. Not only that, but the act was highly contentious in terms of whether or not the coordination between 51% of the hash and Core developers was a good thing. At the time, Vitalik Buterin said “the incident opens up serious questions about the nature of the Bitcoin protocol.”
+
+In the video, Séchet mostly discussed how the BCH community should concentrate on improving the Bitcoin Cash network as opposed to focusing on the BTC community. As far as the “51% attack” comments, Séchet said that these disparagers will always find something to blame. “Whatever happens they will find something to complain about it,” Séchet noted and said that the community should not lend too much attention to the slander. Check out the video in its entirety below.
+
+What do you think about the Coinspice podcast discussing the recent upgrade and the 51% attack propaganda spread by BCH critics? Let us know what you think about this subject in the comments section below.
+
+Image credits: Shutterstock, Coinspice, and Arvind Narayanan’s blog “Freedom to Tinker.”
+
+Verify and track bitcoin cash transactions on our BCH Block Explorer, the best of its kind anywhere in the world. Also, keep up with your holdings, BCH, and other coins, on our market charts at Bitcoin.com Markets, another original and free service from Bitcoin.com.

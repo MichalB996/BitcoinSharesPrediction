@@ -1,0 +1,41 @@
+DATE:  18.01.2019, 04:25:18
+TITLE: 18 Months Away? Latest Lightning Network Study Calls System a 'Small Central Clique'
+URL:   https://news.bitcoin.com/18-months-away-latest-lightning-network-study-calls-system-a-small-central-clique/
+
+18 Months Away? Latest Lightning Network Study Calls System a 'Small Central Clique'
+
+The Lightning Network has been touted as the solution to the Bitcoin Core (BTC) network’s scalability problem for years now. Over the last few months, the Lightning Network has shown growth but there are still significant concerns about centralization, routing issues, and creating a usable mainstream-friendly interface. The ongoing joke that the network is “18 months away” continues, and on Wednesday researchers published a topological analysis of the network which highlights how the project is “structurally weak against rational adversaries.”
+
+Also Read: Embracing Utility in 2019: Unreliable Crypto Networks Will Lose to Hyperbitcoinization
+
+‘A Small Central Clique and a Loosely Connected Periphery’
+
+At the Breaking Bitcoin conference on Sept. 9, 2017, when an audience member asked how much longer the Lightning Network (LN) will be, the ultimate answer was still “18 months.” Ever since then that timeline has been an inside joke to both LN defectors and even proponents. A recent study stemming from members of Eötvös Loránd University explains that there are still significant issues with the LN protocol. In order to review the LN, researchers Seres Istvan Andras, Laszlo Gulyas, Daniel A. Nagy, and Peter Bur published a seven-page topological analysis of the network on Wednesday.
+
+A topological analysis uses applied mathematics and data from topological extraction, and many analysts believe many computational networks should be researched in this manner. Seres Istvan Andras shared the pre-print study with his followers on Twitter and explained the paper is a work in progress in which the researchers quantify the structural properties of the LN.
+
+In a series of tweets, Istvan Andras explained how the research shows people’s prior intuitions toward the LN becoming centralized “were not rigorously proven,” but the team’s study shows that “the intuition is correct and it can have effects on LN.” The paper says the LN exhibits high clustering with short paths and this can be seen with entities like Lnbig.com. There was also the time that Andreas Brekken’s single node captured a large portion of the LN’s capacity. Section two of the topological study states:
+
+LN’s local clustering coefficient distribution suggestively captures that LN is essentially comprised of a small central clique and a loosely connected periphery.
+
+‘Extremely Harmful Attack Vectors’
+
+The paper continues to explain the LN’s degree distribution and one metric suggests the LN could exhibit scale-free properties. However, at the moment the study emphasizes that the majority of nodes have very few payment channels and a few hubs control a large portion of the network. The paper also says that the network has improved when it comes to random failures. The network is not so resilient against targeted attacks like a Distributed Denial of Service (DDoS). The study shows that the LN saw a node loss of 20 percent on March 21, 2018, and Denial of Service (DoS) attacks are very probable by flooding Hashed Timelock Contracts (HTLCs).
+
+“These attack vectors are extremely harmful, especially if they are coordinated well,” the study details. “One might expect that not only state-sponsored attackers will have the resources to attack a small network like LN.”
+
+Altogether the removal of the 30 largest hubs incurs LN to collapse into 424 components, although most of these are isolated vertices — This symptom can be explained by the experienced disassortativity, namely hubs tend to be at the periphery.
+
+Lots of Reports Conclude Lightning Is Far From Ready
+
+The topological study from members of Eötvös Loránd University also follows the recent report from business management technology company Scipio ERP that explains the second-layer protocol is still a long way away from fixing BTC’s scalability issues. Scipio ERP did, in fact, have issues with random failures. “We have been operating the system for four months and crashes can and will happen all the time — Transaction channels can close or may not have enough peers at any time,” the company’s study details. “There are no push notifications for these events, so you won’t know until a new transaction is placed and fails.”
+
+Reports over the last year have proved the LN is far from ready and still to this day not even close to being 18 months away from solving any significant scalability problems. If the same traction that occurred in 2017 happens this year with the expensive fee market and congested mempool, the Lightning Network will likely not be ready.
+
+The researchers of the topological analysis report explained that they have some concepts in mind to help the LN become more robust. Istvan Andras told his Twitter followers that a better understanding of LN’s topology is essential and he wholeheartedly believes network resilience depends on topology. At the moment “high-level depictions of LN’s topology, convey a false sense of security and robustness,” Istvan Andras added.
+
+What do you think about this topological study done by the researchers at Eötvös Loránd University? Let us know what you think about this subject in the comments section below.
+
+Images via Shutterstock and the Topological Analysis of Bitcoin’s Lightning Network report.
+
+Have you seen our widget service? It allows anyone to embed informative Bitcoin.com widgets on their website. They’re pretty cool, and you can customize by size and color. The widgets include price-only, price and graph, price and news, and forum threads. There’s also a widget dedicated to our mining pool, displaying our hash power.

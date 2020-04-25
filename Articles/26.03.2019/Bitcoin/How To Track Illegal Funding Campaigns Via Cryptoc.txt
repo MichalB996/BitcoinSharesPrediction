@@ -1,0 +1,63 @@
+DATE:  26.03.2019, 20:11:13
+TITLE: How To Track Illegal Funding Campaigns Via Cryptocurrency
+URL:   https://www.bellingcat.com/resources/how-tos/2019/03/26/how-to-track-illegal-funding-campaigns-via-cryptocurrency/
+
+After posting a tutorial on tracking GRU agents’ bitcoin (BTC) transactions, I’ve received numerous responses asking how to find out even more. I aim to please, so I’ve put together another tutorial using Izz ad-Din al-Qassam Brigades’ bitcoin funding campaign as a case study.
+
+What You’ll Need
+
+To effectively analyze any bitcoin address, I rely on four main tools:
+
+A bitcoin blockexplorer — which gives you access to the bitcoin blockchain, or a decentralized public ledger that contains every transaction ever made for a particular cryptocurrency.
+
+BitcoinWhosWho — which is a tool that allows you to look up certain BTC addresses and see if there are various scams associated with them. Important to point out that scams or illicit activities on BitcoinWhosWho are user-reported; therefore, just because an address is not flagged on here does not mean it is not connected to illicit activity.
+
+WalletExplorer — though similar to a block explorer in reporting transaction history, WalletExplorer also goes a step further by showing other addresses that are in the same BTC wallet (more on that later) as well as occasionally connecting an address to a specific exchange.
+
+Good ole’ Google search — simply googling BTC addresses can lead you to blog posts, news articles, or websites that are connected to the address.
+
+No single one of these tools is a catch-all for analyzing transactions, but in combination, they can be incredibly effective.
+
+Izz ad-Din al-Qassam Brigades
+
+Izz ad-Din al-Qassam Brigades, or Al-Qassam Brigades, is the military arm of Hamas, a Palestinian Islamic fundamentalist group. Hamas has been designated as a terrorist organization by the United States and the EU. Other countries, such as New Zealand, Australia, and the UK, have designated only Al-Qassam Brigades as a terrorist organization.
+
+On January 31, 2019, Aurora Intelligence tweeted a screenshot of a graphic that was originally posted on Al-Qassam’s public Telegram channel soliciting bitcoin donations to an address ending in Nj3y. Two days later, Aurora Intelligence shared another graphic posted on Al-Qassam’s Telegram featuring a different bitcoin address ending in P6MD.
+
+Over the past weeks, the two addresses have raised the equivalent of roughly $5,000 in bitcoin, making it one of the most successful bitcoin funding campaigns by a U.S.-designated terrorist group. While five thousand dollars may seem like chump change, as financial crimes expert Yaya Fanusie points out, if this campaign keeps acquiring donations at such a pace, bitcoin could easily become a reliable source of funding for the extremist group.
+
+This slideshow requires JavaScript.
+
+What You’ll Do
+
+For the purposes of brevity and effectiveness, I’ll only be focusing on several specific transactions related to the Nj3y address; however, I want to recognize that there is much more that can be gleaned from these addresses.
+
+Before analyzing any address, I configure my computer screen below so that I have a split screen with one side having my blockexplorer and the other having my BitcoinWhosWho, WalletExplorer, and Google search in separate tabs.
+
+Likewise, I also highly recommend having an Excel spreadsheet or Google Sheet open on one of the screens to organize transactions of interest and any information you can glean. Personally, I don’t have a “best practice” for organizing an Excel sheet, I just recommend you have the addresses sending and receiving funds, date and time, and BTC amount sent.
+
+To begin, I’ll enter in the Nj3y into the blockexplorer and then start going methodically through the transactions. I usually start from the first transaction ever to the most recent one, but again, personal preference. Here are the next steps I take to collect data on transactions:
+
+Enter address of interest into Bitcoinwhoswho, Walletexplorer and Google — the order doesn’t matter. Go through each tab and see if anything is flagged. If yes, enter into your spreadsheet. If no, move onto next transaction.
+
+Easy enough, right? Let’s get into some examples.
+
+On January 31, 2019, a bitcoin address ending in bu1s sent 0.03130579 BTC to Nj3y. In fact, this address also sent money to Nj3y four other times, with the highest amount sent being 0.1428639 BTC, or roughly $550.
+
+If you look into bu1s more on a blockexplorer, you’ll notice a few things: it has conducted hundreds of thousands of transactions, received millions of BTC, and has a final balance of over six million BTC. If you ever encounter an address with similar characteristics, it is more likely than not an exchange or some sort of lucrative crypto service, such as a tumbler.
+
+To dive further into bu1s, the first thing I did was Google the address. It lead me to a Cointelegraph article about a controversy over a supposed hack of Binance, a well-known crypto exchange, that ended up being fake. To disprove these rumors, Binance released one of their public bitcoin addresses that ended up being, you guessed it, bu1s.
+
+We can find more connected Binance addresses through WalletExplorer as well as Blockchain.com. If you enter the address into WalletExplorer, you’ll find over 64,000 other corresponding addresses which can be overwhelming and, initially, not very helpful. Therefore, to simplify things when I was first looking into this, I went back to previous transactions involving bu1s and the Hamas address. I then flagged the ones with multiple input addresses (that’s right: transactions can have multiple sending and receiving address, learn more about that here).
+
+In my experience, if an exchange address is associated with another address via sending money to the same destination, they are more often than not part of the same exchange.
+
+One such transaction occurred on February 1, 2019 in which 0.13747974 BTC was sent from bu1s and another address ending in 3eVc.
+
+If we dive deeper into 3eVc on our blockexplorer, we’ll see that it has only had two transactions which doesn’t immediately signal to us that this address belongs to an exchange. But, if you utilize WalletExplorer to interrogate this other address, you’ll find that it belongs to the same wallet as bu1s, and therefore, is also connected to Binance.
+
+Since we’ve now developed a strong connection to Binance, it begs the question: Why does this matter? To start, it means that someone or several people are utilizing this exchange to send money to Al-Qassam, which is a sanctioned entity in the U.S and EU. Sending money to this group is a very illegal thing to do in places where crypto is popular.
+
+Likewise, we see a popular means through which supporters are sending money to Al-Qassam. This type of information can be used by law enforcement to hold exchanges accountable, mitigate bad actors’ access to the cryptospace, and inform legitimate cryptocurrency holders and the public which exchanges are implicated in such activities.
+
+Now it’s your turn! I can assure you, there is a wealth of more information you can glean from both of Hamas’ addresses: Nj3y and P6MD. Let’s see what you all can find. Leave your answers in the comments below or tweet them to me at @bsmith_1853.

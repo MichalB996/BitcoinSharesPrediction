@@ -1,0 +1,39 @@
+DATE:  10.01.2019, 17:30:19
+TITLE: ElectrumSV introduces desktop wallet option for Bitcoin SV
+URL:   https://coingeek.com/electrumsv-introduces-desktop-wallet-option-for-bitcoin-sv/
+
+This article has been updated to include quotes from Neil Booth, developer of Electrum SV.
+
+More and more businesses are choosing to support Bitcoin SV (BSV), the only cryptocurrency to follow Satoshi Nakamoto’s original vision for Bitcoin, all the time. Now the bComm Association has announced the new ElectrumSV wallet, available now at electrumsv.io.
+
+Cryptocurrency fans will know the original Electrum wallet, created for Bitcoin Core (BTC). It’s considered one of the top digital currency wallets because of the strong feature set it offers. This new ElectrumSV wallet will offer the following features on launch:
+
+• Desktop functionality
+
+• Integration with the Bitbox, Ledger and Keepkey hardware wallets
+
+• Management of wallet keys and historical transactions
+
+• An advanced interface that allows flexible import of private keys from other wallets.
+
+• A new coin-splitting tool that allows users to split their pre-form Bitcoin Cash (BCH) coins into BSV coins.
+
+The wallet was developed by Roger Taylor and Neil Booth. They previously were key developers for the Electron Cash wallet, also based on Electrum, for BCH. In the bComm Association press release, they explained they decided to develop for BSV because “Bitcoin SV is the only Bitcoin that follows the whitepaper and values being stable and non-experimental, ElectrumSV naturally builds on it.”
+
+Electrum wallets are typically used by developers more than end users, and thus the focus on a desktop-bound, strong feature set for this first edition. ElectrumSV’s developers say they have no plans at the moment to develop a mobile wallet, as the teams behind HandCash, Centbee, PixelWallet and Cashpay already have that space well covered.
+
+Besides those wallets, other businesses have been flocking to BSV since the November hard fork. WooCommerce, the WordPress payment playform, added support earlier this week. Money Button has also been strong in their support. Many exchanges have also added BSV pairs, and Circle Invest has made it available as an investment option as well.
+
+Regardless, Taylor and Booth plan to continue building towards user experience and mass adoption. “We agree with the Bitcoin SV message that it’s time for Bitcoin to grow up, keep a stable protocol without constant developer experimentation, and move to its next phase for scaling and mass adoption,” they said. On their goal for the wallet, the developers explained, “ElectrumSV is contributing to that effort by leaving behind the developer-focused experience, and making a wallet with easy-to-use features for everyone. We intend to continue making more improvements for the future.”
+
+When asked about their new coin-splitting tool, Booth told CoinGeek, “It works by combining coins received from a BSV-only faucet with the other coins in your wallet so that your coins become BSV-only coins from that point on. You can recover your ABC coins using Electron Cash in the usual way, but only after performing the coin splitting procedure.”
+
+What comes next for ElectrumSV? The plan is to improve the user experience and add more functionality. Booth said:
+
+“We will be improving the robustness of ElectrumSV’s networking, wallet and other internals, and to scale it to much larger wallets. We also intend several GUI improvements to make it easier to use and give it a more modern feel. Personally I would like to improve multisig wallet support, add threshold signature technology, and improve the privacy of users using the wallet in a variety of ways.”
+
+Jimmy Nguyen, Founding President of the bComm Association, warmly welcomed the ElectrumSV team to the fold. His group, as well as nChain and its Bitcoin SV Node team, assisted the developers. He said:
+
+“We are thrilled to help Roger and Neil bring the strong legacy of the Electrum wallet to Bitcoin SV. The ElectrumSV team understands that Bitcoin is for everyone, not just for developers. That is why their approach to upgrade Electrum into a more user-friendly wallet for BSV is critical to help achieve the Satoshi Vision – a world where billions of people globally use Bitcoin every day.”
+
+New to Bitcoin? Check out CoinGeek’s Bitcoin for Beginners section, the ultimate resource guide to learn more about Bitcoin—as originally envisioned by Satoshi Nakamoto—and blockchain.

@@ -1,0 +1,89 @@
+DATE:  27.03.2020, 13:25:27
+TITLE: Despite Coronavirus Woes, Bybit CEO Is Bullish on Bitcoin
+URL:   https://cryptobriefing.com/despite-coronavirus-woes-bybit-ceo-is-bullish-bitcoin/
+
+People Despite Coronavirus Woes, Bybit CEO Is Bullish on Bitcoin by Sarah Rothrie
+
+In times of market volatility, derivatives exchanges like Bybit's can thrive. To get a better idea of the platform's activity, Crypto Briefing spoke with the exchange's CEO, Ben Zhou.
+
+Key Takeaways Bybit CEO reflects on recent market volatility, circuit breakers on crypto exchanges, and more.
+
+His exchange has recently unveiled a range of new, Tether-based perpetual contracts.
+
+Despite crypto coronavirus price woes, he remains bullish overall.
+
+Share this article
+
+By any measure, March has been a crazy month for most, not just bullish Bitcoin enthusiasts. Many of those who’ve managed to avoid being directly affected by the coronavirus have found themselves impacted by the economic fallout.
+
+The longstanding narrative that Bitcoin is an uncorrelated asset has also been quashed this month, after the flagship cryptocurrency crashed spectacularly along with the stock markets on March 12. Futures traders took a beating, with BitMEX alone having liquidated over $1 billion over a two day period around the crash according to Skew data.
+
+The crash came after Bitcoin had been on a sustained if gentle, bull run for the preceding ten weeks, and on the back of a stellar year for the cryptocurrency derivatives markets in general. Daily volumes have been steadily increasing along with the choice of venues available to traders.
+
+While BitMEX continues to dominate, it no longer enjoys the privileged position of being the only player in the space. Established spot exchanges have moved into offering derivatives, while up-and-coming competitors have launched their own pure-play futures platforms.
+
+Bybit is one such example in the latter category. It was founded in 2018 and over that time, has been steadily increasing market share and proving itself as a robust competitor to BitMEX.
+
+Crypto Briefing recently had the opportunity to talk to Ben Zhou, CEO of Bybit, about the recent market volatility, a new range of perpetual contracts rolled out by Bybit, and his perspective on the future outlook for cryptocurrencies.
+
+The Growth of Cryptocurrency Futures on Bybit
+
+Cryptocurrency futures have been enjoying significant growth since 2018. In October last year, Bloomberg reported that futures trading had increased to around 50% of the value of spot trading, based on data collected from 13 major exchanges.
+
+Although a proportion of this growth comes from increasing institutional interest, it’s also apparent from Skew data that the bulk of daily volume isn’t generated from regulated platforms such as Bakkt or CME, but from exchanges targeted at retail traders.
+
+Ben Zhou attributes this growth to a maturing market – not just the products themselves, but better-informed traders. He said:
+
+“I think traders have become a lot savvier over the last few years and have cottoned on to the fact that derivatives trading offers a lot more bang for their buck than spot trading does. A lot of the appeal of derivatives is of course because of volatility, along with opportunities such as short trading and leverage not available in the spot markets.”
+
+He further elaborated on this shift:
+
+“This massive migration to derivatives trading I think has also caused a snowball effect and created a very competitive marketplace. But we welcome it – any competition is healthy.”
+
+Recent Market Volatility
+
+March 12 was a seismic moment in the cryptocurrency markets. Not only did Bitcoin see its biggest single-day percentage drop since 2013, but it also demonstrated that cryptocurrencies are perhaps more correlated with the traditional markets than many people had previously thought.
+
+The drop led to discussions of implementing circuit breakers for crypto exchanges. In particular, BitMEX came under scrutiny after it went offline twice for around 25 minutes, citing DDOS attacks.
+
+Although there was rampant speculation on Twitter, not least from FTX CEO Sam Bankman-Fried, that the exchange had taken itself offline to act as a de facto circuit breaker, BitMEX denied this.
+
+Zhou was reluctant to comment when asked about the events at BitMEX, except to say that it was “an unfortunate event” and that he doesn’t believe in conspiracy theories. However, he was more comfortable discussing his own exchange’s approach to downtime and liquidations.
+
+The Bybit website states that the platform’s matching engine can perform up to 100,000 transactions per second. Zhou is proud when speaking about this capability as a differentiator that sets Bybit apart from the competition. However, he’s also candid when talking about the risks faced by exchanges when it comes to external attackers, stating:
+
+“[Attacks like the ones at BitMEX] have happened to many other exchanges in our industry in the near past too. Threats such as this, [Bybit] takes very seriously, and we have a dedicated internal hacker team who ‘attack’ our system, in order to ultimately safeguard against them.”
+
+He goes on to explain Bybit’s approach to liquidations that occur under these circumstances:
+
+“Also, if unfair liquidations do occur – and they have on a very small number of occasions on Bybit albeit not due to system overloads, then it’s obviously imperative that the clients are refunded as soon as possible. This is how you keep trust, which can be very hard to get back once it’s gone.”
+
+Bybit’s New Perpetual Contracts
+
+Earlier this week, Bybit announced it was overhauling its product range with the introduction of USDT perpetual contracts.
+
+Before this, contracts were traded in USD pairs, meaning that gains and losses were denominated in the underlying cryptocurrency. This meant users had to fund their accounts with different cryptocurrencies, such as BTC for the BTCUSD pair, or ETH for the ETHUSD pair.
+
+With the new USDT contracts, USDT is the single currency used for balances, gains, and losses. It means that users can deploy profits from one position to top up margin on another, even across different contract types.
+
+Zhou explains further what the changes mean for traders in terms of managing their risk exposure:
+
+“Traders will be able to hold long and short positions at the same time, and with different leverages. This will then essentially enable traders to minimize the liquidation risk by opening a long-term long position and hedging this with a short-term position. In the eventuality of a sudden drop in price, the profit yielded from the short position could then be used as an additional margin, which could prevent the liquidation of the long position.”
+
+Such an approach may be desirable for traders looking to avoid a similar scenario faced by those who were liquidated on March 12. As Zhou puts it:
+
+“All this offers our traders more flexibility in managing their portfolios, especially with the crypto markets being notoriously volatile as they are, and that’s what we’re all about.”
+
+Future Outlook: Bullish on Bitcoin
+
+The recent market turmoil has led to a frenzy of speculation in the crypto space about the direction of travel for prices.
+
+Will further economic woes from coronavirus continue to negatively impact the value of crypto? Or is it more likely that Bitcoin will decouple from the stock markets and make its own recovery?
+
+Zhou has a circumspect take on these forward-looking questions:
+
+“[In light of recent events] it would be somewhat foolish of me to proclaim that the broader economy won’t have any further impact on crypto markets, but I think ultimately other factors will be more important, as they would have been if none of this has happened. The Bitcoin halving is due to happen in May, and I’m confident that this will have a positive impact on the price of Bitcoin, just as it did the previous two times. Also, I am still very bullish about mainstream cryptocurrency and blockchain adoption.”
+
+And what can we look forward to from Bybit over the coming months? It seems there’s plenty in the pipeline:
+
+“We’ve got a few other cool new features coming up in Q2. As mentioned in my recent YouTube AMA, we will also soon launch contract insurance. This feature will allow traders to protect their long or short BTCUSD perpetual contract positions if the market moves against them. Also, we are launching a strategy alert and new order system, which will notify traders when an indicator they have placed on the Bybit price chart has been triggered. We also hope to release more asset-based products in the future, although I can’t reveal anything just yet. Watch this space!”

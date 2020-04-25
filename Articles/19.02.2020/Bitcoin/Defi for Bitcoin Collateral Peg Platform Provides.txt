@@ -1,0 +1,35 @@
+DATE:  19.02.2020, 19:50:07
+TITLE: Defi for Bitcoin: Collateral Peg Platform Provides Noncustodial BTC Lending on Ethereum
+URL:   https://news.bitcoin.com/defi-bitcoin-collateral-noncustodial-btc-ethereum/
+
+Defi for Bitcoin: Collateral Peg Platform Provides Noncustodial BTC Lending on Ethereum
+
+During the second week of February, a new project called tBTC was unveiled that is similar to the Wrapped Bitcoin (WBTC) created with the Ethereum network. However, the tBTC effort claims to be a noncustodial application that allows users to deposit BTC, mint tBTC, and lend it with interest.
+
+Also Read: Market Update: Bitcoin Halving Hype, Golden Cross Signals, and GBTC’s 41% Premium
+
+tBTC Project Launches on Ropsten Testnet
+
+On January 30, 2019, the Wrapped Bitcoin (WBTC) project launched on the Ethereum network using the ERC20 standard. WBTC allows people to wrap collateralized BTC in Ethereum but the method has a custodian. The WBTC custodian is Bitgo and the project is also backed by Kyber Network and Ren (formerly Republic Protocol). Last August, software developer Matt Luongo told people about his work on Twitter and published the tBTC specifications. Luongo tweeted that the “cat’s out of the bag” and he and his team were working on tBTC for 10 months prior. Then on February 13, Luongo announced the first release of tBTC on the Ropsten testnet. The software engineer stressed that this was the first of a “few planned releases leading up to mainnet” and the team is still auditing. Luongo added:
+
+tBTC opens the entire Ethereum ecosystem to Bitcoiners. What happens when Bitcoiners can choose between Coinjoin and Tornado.cash for fungibility?
+
+Luongo’s announcement was welcomed by a handful of bitcoiners and the Ethereum community as well, although the recent exploitation of Bzx has had a lot of skeptics questioning decentralized finance (defi) this week. Eric Wall from the trading and clearing technology firm Cinnober tweeted that concepts like tBTC should be embraced. “Stop thinking of Ethereum/DeFi as this crazy neighbor who’s always up to no good,” Wall wrote. “tBTC just launched on testnet. As it approaches mainnet, the hedge between our gardens is cut. Their garden becomes our garden. It’s time to start looking after each other.”
+
+“Wouldn’t it be funny if tBTC enables a Bitcoin fee market built on Ethereum,” another crypto Twitter personality commented. “Then, this fee market enables Bitcoin to maintain it’s monetary policy — A policy which would be secured by ETH,” they added.
+
+Project Developers Claim the Supply of tBTC Is Always Backed by an Equal Number of Reserved BTC
+
+Currently, the open source tBTC project is live on Ropsten and people can mint their own testnet tBTC using the reference app. Testers will need some testnet bitcoins and Ropsten ether to create their first tBTC. The project also has an in-depth whitepaper, which explains the tBTC concept in a technical and comprehensive manner. Being a noncustodial type of wrapped or collateralized BTC project, the concept has an edge over WBTC according to its creators. Blockstream’s Liquid and WBTC are considered “centralized, provable, [and] redeemable” whereas Maker’s DAI is decentralized, synthetic, [and] irredeemable.” The tBTC concept aims to leverage the ERC20 model but maintain a censorship and seizure-resistant “hard money” status. Not only must tBTC remain censorship-resistant but it needs to be inflation-resistant, leverage-resistant, and operate without middlemen. The whitepaper also says that tBTC must be redeemable, stating:
+
+The ability to trade scrip for its backing deposit freely is what distinguishes a backed currency from fiat money. The supply of tBTC is always backed by an equal number of reserved BTC. This means for every token in circulation, 1 BTC has been removed from circulation.
+
+Currently, the WBTC project created by Bitgo, Kyber Network, and Ren is a popular vehicle to wrap bitcoins. At press time, there is $9 million locked into the WBTC contract according to statistics from Defipulse. The Lightning Network has the same amount of funds locked into the protocol and WBTC has been around for a shorter period of time. For now, tBTC is being toyed with on Ropsten but will be deployed on Ethereum’s mainnet in the near future.
+
+What do you think about the tBTC project? What do you think about tBTC in comparison to Liquid assets or WBTC? Let us know what you think about this subject in the comments section below.
+
+Disclaimer: This article is for informational purposes only. It is not an offer or solicitation of an offer to buy or sell, or a recommendation, endorsement, or sponsorship of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.
+
+Image credits: Shutterstock, tBTC, the tBTC white paper, Twitter, Fair Use, and Pixabay.
+
+Did you know you can buy and sell BCH privately using our noncustodial, peer-to-peer Local Bitcoin Cash trading platform? The local.Bitcoin.com marketplace has thousands of participants from all around the world trading BCH right now. And if you need a bitcoin wallet to securely store your coins, you can download one from us here.

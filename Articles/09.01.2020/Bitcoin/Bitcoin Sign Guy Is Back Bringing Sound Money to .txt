@@ -1,0 +1,119 @@
+DATE:  09.01.2020, 15:28:26
+TITLE: Bitcoin Sign Guy Is Back, Bringing Sound Money to Urbit’s ‘Sound Computer’
+URL:   https://www.coindesk.com/bitcoin-sign-guy-is-back-bringing-sound-money-to-urbits-sound-computer
+
+If bitcoin is digital cash and ethereum is digital law, Urbit is digital land.
+
+The highly ambitious cloud computing project imagines nothing less than a rewiring of the internet, allowing users, not corporations, to own their online identities and data. While most blockchain projects rely on Amazon Web Services and other behemoths for essential infrastructure, Urbit goes back to first principles.
+
+And 2020 could be Urbit’s big moment. After years of trickling development, and not a little controversy owing to its connections to an online fringe movement, the project finally plans to ship.
+
+Urbit quietly has built bitcoin integrations and added an iconic crypto personality to its roster of developers: Bitcoin Sign Guy. B.S.G., also known as Christian Langalis, made headlines as a 22-year-old holding up a “Buy Bitcoin'' sign behind then-Federal Reserve Chair Janet Yellen. Captured on C-SPAN, a screenshot became a widely circulated meme across the crypto space, and Bitcoin Sign Guy an inadvertent hero.
+
+After years of laying low, Langalis wants to see bitcoin gain mass adoption and thinks his work with Urbit is the way to do it.
+
+“Sound money deserves a sound computer,” Langalis is fond of saying.
+
+Urbit enables anyone to run his or her own server, with far more ease than current available options. Instead of handing personal data to Facebook and Google for the privilege of using their platforms, users maintain ownership for themselves. It’s built as an alternative to the centralized web, where nearly all activity is managed by a handful of monoliths.
+
+Online citizens
+
+At its core, Urbit is a way of marrying all online services – including a user’s social graph, messages and photo collections – to a stable identity.
+
+“We've built Urbit to be a cloud-native computer that you can use for your whole digital life,” Galen Wolfe-Pauly, CEO of Tlon, the startup primarily responsible for developing Urbit, said in an email. “To really satisfy that, Urbit users have to be able to transact with one another.”
+
+Sound money deserves a sound computer.
+
+Langalis is a project lead at Tlon, where his main remit is to integrate bitcoin into the ecosystem. If Urbit needs a currency to fulfill its aims of complete digital citizenship, Langalis thinks bitcoin needs a decentralized platform to be used “safely and effectively.”
+
+Bitcoin and Urbit, he thinks, form a symbiotic pair (and a nice portmanteau), representing a move towards a fully realized, decentralized existence. At the heart of both bitcoin and Urbit is the notion of digital sovereignty, meaning users aren’t beholden to the coercive effects of a higher authority.
+
+“Much as bitcoin seeks a return to neutral monetary systems, Urbit seeks neutral computing infrastructure,” Langalis said in a phone call.
+
+Though Tlon is moving slowly with the integration – the firm placed a single bounty to add bitcoin to the Urbit wallet on Dec. 9 – bitcoin will ultimately serve as “money primitive” for the ecosystem looking to out-compete the internet. After the wallet will come a node implementation, lightning capability and user-designed apps denominated in the cryptocurrency. There will also be an Urbit storefront page.
+
+“The litany of bitcoin stuff we’re working on is growing by the day. It started with a bitcoin node and is moving to custodying keys like MacOS and creating an atomic swap between bitcoin and Urbit address so you won’t need to own anything but bitcoin to purchase an Urbit address,” he said. The features should ship in Q2.
+
+Bitcoin Sign Guy featured in CoinDesk's Most Influential 2017
+
+Bitcoin or bust
+
+Langalis approached Tlon over the summer and suggested its developers integrate bitcoin. At the time, Langalis had been attending Urbit Meetups in San Francisco for a year and half. His interest in the operating system stemmed from his obsession with bitcoin.
+
+A self-defined “bitcoin maximalist,” Langalis fell down the rabbit hole searching for virtual liberty. He started using virtual privacy networks (VPN) to cloak his internet activity but was frustrated by their unreliability. He invokes American whistleblower Edward Snowden when saying, “Privacy protections might have a minor effect, but you’re still being tracked.” After failing to spin up his own email server – it was beyond his technical knowledge – Langalis searched and found that “all the things I wanted to do, that I couldn’t, are possible with Urbit.”
+
+Namely, Langalis wants to own his data and make sure it never leaks.
+
+“People have strong affinity with Urbit if they value digital sovereignty, demand secure and robust systems, and prefer that systems are as simple as possible from a ‘dev’ perspective,” he said.
+
+In this sense, Langalis said bitcoin proves itself again and again to be the most secure chain. “It’s the only credible option for cryptocurrency being money.”
+
+Signing off
+
+Money – at least on the internet – is just another form of data. One of bitcoin’s major breakthroughs was in solving the double-spend problem, removing the need for a trusted third party to verify if a sequence of bytes is legitimate. That means bitcoin is as the code says.
+
+However, a decade after the protocol was first released, bitcoin is rarely used as the peer-to-peer payment system for which it was theorized. Bitcoin exists on exchanges, in custodial wallets, and on platforms that run on third-party servers. This reintroduces the risks – of security and coercion – that bitcoin’s pseudonymous creator, Satoshi Nakamoto, sought to mitigate.
+
+“Bitcoin itself is quite hardened, but all of the tools we use to interact with it are questionable,” Nic Carter, co-founder of the VC Castle Island Ventures, said in a Telegram exchange. He's said previously he knows of a number of exchanges that run on centralized cloud servers but wouldn’t name them.
+
+Langalis, too, is skeptical of bitcoin infrastructure that relies on a centralized server or service, which could theoretically expose users to “state coercion.” “Feds will limit the control you have over your BTC, enforce KYC, expropriate it, etc,” he said.
+
+Urbit and bitcoin are only the beginning of the mouse war against the cat called the authoritarian internet.
+
+In this sense, Urbit, as a decentralized computing system, is a way to return security to bitcoin, by returning it to its peer-to-peer state. “The less systemic we can make bitcoin usage, the more stable it is,” he said. “Making it easier for people to run Bitcoin nodes, sign Bitcoin transactions, and engage in online commerce is part of how Urbit will address this objective.”
+
+Still, Alexander Bard, the Swedish cyber-philosophist, sees a bumpy road ahead for such endeavors.
+
+“Urbit and bitcoin are only the beginning of the mouse war against the cat called the authoritarian internet, exemplified by Xi Jinping's idea of himself as the Chinese Messiah and the NSA as its infantile mimicry,” he said.
+
+Urbit sigil courtesy of Tlon
+
+The webs we weave
+
+There are 13 servers that run the domain name system (DNS) hierarchy, the backbone of the internet as most know it. Like other components of the web, this decision was a contingency of the internet’s haphazard development over the past half century.
+
+“We’re inundated by a technical debt of large mainframe computers and networks that were bolted together,” said Kenny Rowe, a consultant for Tlon, working on integrating ethereum to Urbit, and early contributor on MakerDAO. The history of the internet is essentially one of rapid development being outpaced by growing demand. Protocols like Unix and HTTP, the foundational blocks of the web, are arguably ill-equipped to meet the strain of modern computing. These systems have been patched and hacked over time, leading to inefficiencies and vulnerabilities, he said. And the problems will only compound as more and more of daily life goes digital.
+
+Urbit’s designers made the choice to throw everything away and build a new stack. “A reboot was needed because you can’t reform the centralized system. You can only build on top of it,” Rowe said. The new stack starts with a bespoke programming language, Hoon. They also built a virtual machine, an operating system, and a peer-to-peer network. “This is like inventing the personal computer, the internet, email, and FTP [File Transfer Protocol, a way to send files] all at the same time. The goal is nothing less than a complete overhaul of the personal computer and internet,” Rowe said.
+
+Though Urbit is a complete reworking of personal computing, there are parts that closely mirror the conventional web. Urbit’s routing system is composed of 255 galaxies, 65,000 stars and four billion planets, with 4.3 trillion moons, which, in turn, function similarly to DNSs, ISPs, personal computers and devices that connect to them. The difference “is that Urbit IDs are owned cryptographically by many different people,” according to a company blog.
+
+In other words, there’s not a centralized unit that distributes network participants. Galaxy Urbits distribute star Urbits, and star Urbits distribute planet Urbits, forming a communication and identification layer over the network of personally run servers. But it’s not an immutable arrangement; each Urbit is free to move to other parts of the universe if it wants. And, despite the cosmological address hierarchy, communication between network participants is designed to be peer to peer.
+
+Individual Urbits are represented by a human readable namespace and have a cryptographic passkey to log in to the operating system. These Urbit IDs are stored on the ethereum blockchain. Like other cryptographic assets, Urbit IDs have value. Users are expected to pay a nominal fee for them so the network isn’t inundated by low-effort trolls or spammers.
+
+Reputation is highly valued by the developers. Though bad actors cannot be kicked off the platform at large – as is possible in a centralized client/server relation, like Twitter disabling an account associated with making threats – Urbit’s galaxies or stars can refuse to validate these users, essentially leaving them floating in space. Isolated, but not deplatformed, these users will still maintain complete ownership over their data. And unlike the traditional internet where namespaces, URLs and webpages are mutable, a user’s Urbit preserves an immutable record of their communications, similar to how reputations follow you around in meat-space.
+
+“C. Guy Martian”
+
+Urbit was conceived in 2002 by Curtis Guy Yarvin, a contentious figure in the tech scene for his political writings, under the nom du plume Mencius Moldbug, that argue for the replacement of democracy with an authoritarian, neo-monarchist order. Yarvin’s sprawling, esoteric blog posts are thought to have inspired the alt-right, and have been read by some as supporting race science and slavery.
+
+For the next 11 years, Yarvin built the guts of Urbit, all while blogging about CEO-kings ruling a patchwork of nations. In 2013, he raised $1.1 million from the venture capital firm Andreessen Horowitz and Peter Thiel’s Founders Fund, and launched Tlon (named after a parallel universe in a Jorge Luis Borges story). A team of five began turning Yarvin’s vaporware into an operational cloud computing system.
+
+Then, in early 2019, shortly after Urbit ID was deployed to the ethereum blockchain, Yarvin announced he would step down from the corporation and project. “I'm a thinker, not a doer; an explorer, not a leader; an author, not a maintainer. My goal was always to fire myself at the first possible opportunity. I'm super happy to reach it,” he wrote at the time. Unlike Satoshi, who also walked away from a functioning system, Yarvin left behind a divisive legacy that still follows the project.
+
+“Curtis had the audacity to try to tackle the problem of building the whole stack,” Wolfe-Pauly, who came to the project in 2013, said. “Most of the people who have come to work on this project, myself included, had dreamed about doing this. Curtis' original designs worked well to motivate other people to actually realize them. He was never the guy to actually see it through.” In Yarvin’s own words, “For me, there are always two Urbits: the Urbit that exists, and the Urbit that should exist.” Yarvin did not respond to a request for comment.
+
+“Urbit has evolved quite some distance from Curtis' original sketch. It's sort of like Urbit in 2013 was a PhD thesis — and we've taken it from a paper to a reality,” Wolfe-Pauly said. According to him, the system has been almost entirely rewritten by the current Tlon team, in preparation of onboarding the general public. Under Yarvin’s stewardship, the working directive was to ship a basic model and encourage only the technically proficient to begin playing with the system.
+
+Photo of Galen Wolfe-Pauly, Urbit CEO, courtesy of Tlon
+
+Reboot
+
+In the first quarter of 2020, Tlon plans to ship the first complete release of Urbit. The designers have called it the “Nokia 3310 of cloud computers,” perhaps an oblique reference to Yarvin’s work developing microbrowsers for cell phones, early in his career. At launch, the system will essentially function like Slack, a place for communities of people to chat and share links. Tlon has been using this feature day to day, and is working on a G Suite-like service for Urbit.
+
+This version of the operating system will exist on an internet browser, until an app is launched as a part of OS 2 in the second quarter. It’s with this second upgrade that peer-to-peer cryptocurrency payments in bitcoin and ethereum will be possible. “Think CashApp for Urbit,” Langalis said.
+
+Considering the slow pace of development and that Urbit has yet to be audited, not everyone in the early ecosystem is convinced this is a good thing. “Urbit is definitely not a sound computer, and won't be for a while yet. I'll trust it with my bitcoins after I trust it for everything else. It has to succeed at its own mission before it can succeed as a wallet,” said Brenton Milne, an Urbit hobbyist or “Martian.”
+
+Disempowering the deepcloud
+
+Urbit is often explained as a digital homesteading experiment. It’s a way to drop off the grid and return to the basics of computing. Today, a handful of corporate entities control most of the activity online. MEGACORP, as these commercial entities are called in Urbit’s parlance, set the parameters of discourse and often have total say over a user’s experience. Platforms like Facebook, Google and Medium offer users a tradeoff: use our servers in exchange for your data, often without limits on what they can do with it.
+
+“I think it's been very damaging to society to have our means of communication be optimized for the profit of platform owners rather than the interests of their users, and I think that this has led to mass psychology being damaged – outrage and conflict keep people clicking,” said decentralized web enthusiast Dave Kammeyer, CEO of Mentality.io, a machine learning startup.
+
+Rowe, the Tlon consultant, doesn’t think the traditional web is going anywhere, but that Urbit offers users a chance of setting up a geodesic dome insulated from some of the more pernicious features of the “surveillance web.” Milne thinks Urbit has a "long-shot potential to upend the internet," but another likely scenario is it merely develops into a sustainable ecosystem for geeks and hackers.
+
+“What bitcoin is to paper money, Urbit is to land,” said Justin Murphy, an author and political scientist interested in internet subcultures. “The more bitcoin and other cryptocurrencies penetrate our everyday lives, I think, the more people will want their entire computing experience to be similar.” Carter sees the circle running in the opposite direction: If Urbit provides a meaningful identity "disentangled from meatspace" it will become "a vital tool in catalyzing the closed-loop bitcoin economy."
+
+Speaking to his years of pseudo-anonymity as Bitcoin Sign Guy, Langalis said he never wanted his reputation to overshadow his work for bitcoin. “It was an identity I enjoyed being, but I didn’t want to get typecast as that guy.” Two years on, he’s just as tenacious about building bridges and evangelizing for bitcoin. “Urbit is the way I can contribute.”

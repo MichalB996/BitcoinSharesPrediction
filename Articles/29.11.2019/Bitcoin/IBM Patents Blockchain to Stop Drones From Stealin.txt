@@ -1,0 +1,21 @@
+DATE:  29.11.2019, 08:10:00
+TITLE: IBM Patents Blockchain to Stop Drones From Stealing Packages
+URL:   https://www.coindesk.com/ibm-patents-blockchain-to-stop-drones-from-stealing-packages
+
+Amazon, DHL and FedEx are building drones that deliver packages to your door. IBM, however, envisions a future where drones steal them instead.
+
+The computing giant won a patent on Nov. 12 for “Preventing anonymous theft by drones” with an Internet of Things (IoT) altimeter that triggers upon liftoff, tracking the package’s altitude and uploading the data to a blockchain platform.
+
+The patent seeks to get ahead of two modern realities: people buy goods online, and people fly their own personal drones. That could be a problem, it says, if the trends combine to devious ends.
+
+“The confluence of the increase in drone use and the increase in online shopping provides a situation in which a drone may be used with nefarious intent to anonymously take a package that is left on a doorstep after delivery,” the patent description reads.
+
+IBM’s solution is to outfit packages with an IoT sensor that only triggers if it detects a change in altitude “exceeding the threshold … expected when the object is lifted away by a drone.” Once it does, the sensor periodically updates the blockchain, and the intended recipient, with the package’s altitude.
+
+To be clear, there’s no indication that IBM actually plans to build an operational device. And if it does, it may well swap out a blockchain for some other “secure database,” according to the patent.
+
+But the description does say blockchain is the patent’s “preferred embodiment,” in part because it allows disparate “trusted entities” – the merchant, the shipper, etc. – to input the package’s whereabouts.
+
+It is unclear how prevalent drone heists are in America. At the moment, most shipping companies are focused on building delivery mechanisms.
+
+IBM did not return a request for comment by press time.

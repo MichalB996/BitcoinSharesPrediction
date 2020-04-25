@@ -1,0 +1,23 @@
+DATE:  25.02.2020, 08:00:00
+TITLE: Singapore’s Court of Appeals Rules Against Quoine Exchange in Landmark Crypto Case
+URL:   https://www.coindesk.com/singapores-court-of-appeals-rules-quoine-exchange-in-breach-of-contract-in-landmark-crypto-case
+
+Singapore's Court of Appeals has ruled against digital currency exchange Quoine in a landmark case relating to a breach of contract when the platform unlawfully reversed seven trades.
+
+The Straits Times reported the case marks the first of its kind in the country involving a cryptocurrency dispute. The ruling concludes a legal battle that began almost three years ago.
+
+Quoine, the parent company of Japanese trading platform Liquid, now faces settlement proceedings after the court rejected its appeal over the claim it had the right to cancel orders placed by market maker B2C2 on its platform based on the premise those transactions were a “mistake.”
+
+Quoine had argued the parties who interacted with B2C2’s trading software were acting under the false pretense the trades were at fair market value and B2C2 knew the trades were incorrectly priced.
+
+In April 2017, B2C2 had placed seven trades in which it sold ether (ETH) at an exchange rate of 10 bitcoin (BTC) each, approximately 250 times higher than the market rate of about 0.04 BTC to 1 ETH at the time, according to court documents.
+
+The appeal court's reasoning focused on the question of how the legal doctrine of "mistake" should be applied when contracts were drawn up and executed by computer systems with limited human involvement.
+
+A day after the trades took place, where 309 ETH were exchanged for 3,092 BTC ($12 million at the time), Quoine noticed the abnormality and reset B2C2’s balances to their state before the seven trades, which prompted the lawsuit.
+
+The Singapore International Commercial Court ruled in March 2019 that Quoine was liable for the “breach of contract and breach of trust” in reversing B2C2’s trades. Subsequently, the exchange filed for an appeal.
+
+However, four of the five judges presiding on the appeal panel dismissed Quione’s argument, saying it is the programmer's state of knowledge that is relevant in the context of digital agreements between a computer system and a participant on the platform.
+
+The court said there was no mistake in the terms of the trading contract and, even if there was a flaw, B2C2's trading software was not aware of it when executing the orders, according to the report.

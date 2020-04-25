@@ -1,0 +1,39 @@
+DATE:  15.11.2019, 14:18:51
+TITLE: Bitcoin Cash Upgrade Complete: 2 New Protocol Changes Added
+URL:   https://news.bitcoin.com/bitcoin-cash-upgrade-complete-2-new-protocol-changes-added/
+
+Bitcoin Cash Upgrade Complete: 2 New Protocol Changes Added
+
+The Bitcoin Cash network has successfully upgraded the latest ruleset changes to the protocol. The BCH blockchain now features the enforcement of minimal pushdata in script which will make a majority of BCH network transactions non-malleable. Moreover, as an extension to last May’s Schnorr upgrade, the opcode OP_Checkmultisig(verify) will now feature Schnorr signature support.
+
+Also Read: QE Infinity: 37 Central Banks Participate in Stimulus and Easing Practices
+
+Bitcoin Cash Successfully Removes the Final BIP62 Malleability Vector and Extends Schnorr Signatures
+
+Every six months the Bitcoin Cash (BCH) network upgrades in order to galvanize the BCH roadmap that aims to scale peer-to-peer electronic cash to the masses. BCH protocol developers strive to provide high-level technical direction with every completed upgrade. So far, software engineers have raised the block size to 32MB, re-enabled the Satoshi opcodes, implemented OP_Checkdatasig, added Canonical Transaction Ordering (CTOR), and the foundations of Schnorr signature support.
+
+Bitcoin Cash Network Upgrade 2019-11-15: The new BCH network rules have been activated.
+
+Now waiting for the first block (height 609136) to be mined.#BCHForEveryone #KeepCalmAndP2P — bch 'make Bitcoin cash again' protocol upgrade (@btcfork) November 15, 2019
+
+There are 20 platform and protocol developments completed according to statistics from Coin Dance. Scheduled upgrades on the BCH chain are meant to enhance scaling and overall reliability of the main network.
+
+The latest additions to the BCH chain include a fix that will make most transactions on the BCH network non-malleable. The enforcement of minimal pushdata in script (Minimaldata rule) makes the malleability of transactions near impossible, including all P2PKH transactions. Years ago, several sources of malleability were known to developers and many of them were improved upon with the introduction of bip-0062. The Minimaldata rule change removes the final malleability vector after the upgrade on Friday. In addition to making the transactions on the BCH network non-malleable, Schnorr signature support will extend to OP_Checkmultisig(verify) which means all signature checking operations will support Schnorr signatures. The November 15 upgrade specifications state:
+
+OP_Checkmultisig and OP_Checkmultisigverify will be upgraded to accept Schnorr signatures in a way that increases verification efficiency and is compatible with batch verification.
+
+Bitcoin Cash Community Celebrates Another Successful Upgrade
+
+After the upgrade, the BCH community celebrated the latest protocol changes. For instance, Collin Enstad hosted a live stream of the event and discussed the upgrade with software developer Mark B. Lundeberg. The upgrade went live on the BCH network at block height 609135, which was mined by the mining operation Antpool.
+
+The new Bitcoin Cash network rules have now been activated! https://t.co/8msEvvC9FA — Bitcoin Info (@bitcoininfo) November 15, 2019
+
+According to monitoring sites like Coin Dance and Fork Monitor, the upgrade went quite smoothly with no issues. Not too long after BCH block 609136 was processed by Btc.com after Antpool’s block, it ensured that all the new rules have been applied. “Bitcoin ABC 0.19.0 considers block height 609136 invalid,” the data website Fork Monitor explains. “This block was mined by BTC.com and it was first seen and accepted as valid by Bitcoin ABC 0.20.6.”
+
+Bitcoin Cash developers have continuously pushed innovation and development to new heights and the November 2019 upgrade is no different. BCH fans will wait another six months for the next upgrade and news.Bitcoin.com will be there every step of the way to inform our readers about the next ruleset changes.
+
+What do you think about the Bitcoin Cash network implementing two new features following another successful upgrade? Let us know what you think about this subject in the comments section below.
+
+Image credits: Shutterstock, Coin Dance, Youtube, and Twitter.
+
+Do you need a reliable Bitcoin mobile wallet to send, receive, and store your coins? Download one for free from us and then head to our Purchase Bitcoin page where you can quickly buy Bitcoin with a credit card.

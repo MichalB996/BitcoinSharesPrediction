@@ -1,0 +1,27 @@
+DATE:  16.05.2019, 13:02:43
+TITLE: Microsoft Reveals Bitcoin Network Will Power New Identity Management System
+URL:   https://dailyhodl.com/2019/05/16/microsoft-reveals-bitcoin-network-will-power-new-identity-management-system/
+
+‎‎‎ ‏‏‎
+
+Microsoft says it’s building a new decentralized network that uses the Bitcoin blockchain to allow people to manage their own digital identities.
+
+The project could be a step towards ensuring a more secure and private digital world, says Daniel Buchner, a senior program manager at the Microsoft Identity Division.
+
+“Today, we’re announcing an early preview of a Sidetree-based DID network, called ION (Identity Overlay Network) which runs atop the Bitcoin blockchain based on an emerging set of open standards that we’ve developed working with many of our partners in the Decentralized Identity Foundation. This approach greatly improves the throughput of DID systems to achieve tens-of-thousands of operations per second.”
+
+Similar to the way Bitcoin allows users to manage private keys to store their funds, Buchner says the open-source project is designed to place digital identities directly in the hands of the user.
+
+“Today, the most common digital identifiers we use are email addresses and usernames, provided to us by apps, services, and organizations. This puts identity providers in a place of control, between us and every digital interaction in our lives. Our goal is to create a decentralized identity ecosystem where millions of organizations, billions of people, and countless devices can securely interact over an interoperable system built on standards and open source components.
+
+Recent advancements in decentralized consensus systems (e.g. blockchains, distributed ledgers) provide capabilities that can be leveraged to create Decentralized Identifiers (DIDs) that are owned by the user. While blockchains unlock the ability to create highly secure, censorship resistant identity systems, their transactional volumes are severely limited when compared to traditional systems. The most robust, decentralized, public blockchains operate at just tens of transactions per second, nowhere near the volume a world full of DIDs would demand.”
+
+Although ION utilizes the Bitcoin blockchain, Alex Simmons, vice president of program management at the Microsoft identity division, notes that the Sidetree design is “chain agnostic”, which means that Microsoft could build the platform on top of other blockchain-based networks.
+
+In keeping with the theme of decentralization, Buchner says the tech giant is previewing ION to engage with the greater community.
+
+“We’re sharing our work as early as possible – rough edges and all – to start a conversation with the community and encourage collaboration.”
+
+“In the coming months, we’ll work with open source contributors and members of identity community to prepare for a public launch of the ION network on Bitcoin mainnet.”
+
+ADVERTISEMENT

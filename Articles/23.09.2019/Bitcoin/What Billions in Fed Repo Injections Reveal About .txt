@@ -1,0 +1,73 @@
+DATE:  23.09.2019, 08:00:18
+TITLE: What Billions in Fed Repo Injections Reveal About the Promise of Bitcoin
+URL:   https://www.coindesk.com/what-billions-in-fed-repo-injections-reveal-about-the-promise-of-bitcoin
+
+Michael J. Casey is the chairman of CoinDesk’s advisory board and a senior advisor for blockchain research at MIT’s Digital Currency Initiative.
+
+The following article originally appeared in CoinDesk Weekly, a custom-curated newsletter delivered every Sunday exclusively to our subscribers.
+
+—————
+
+Last week, the Federal Reserve injected $278 billion into the securities repurchase, or “repo,” market over four days, all so that banks could meet their liquidity needs. It was the first time the Fed had intervened in this vital interbank market, where banks’ pawn financial assets to fund overnight cash needs, since the financial crisis of 2008.
+
+Fed officials and bankers dismissed the rare liquidity breakdown as a hiccup stemming from a series of coincidental factors in bond markets and corporate tax payments. It wasn’t a very comforting explanation, not when other economic warning signs are flashing, too: $17 trillion in bonds worldwide showing negative yields; a worsening U.S.-China trade war; and manufacturing indicators signaling an impending global recession.
+
+Predictably, certain crypto types have viewed this alarming scenario with glee. More than a few HODLing tweeters responded to the repo story with two words of advice: “buy bitcoin.”
+
+But it’s actually hard to predict what all this means for crypto markets, at least in the short- to medium-term.
+
+If and when a 2008-like financial panic takes hold, will bitcoin rally as a new kind of uncorrelated “safe haven” or will it decline in a broad-based “risk-off” dumping of all things speculative? (Notwithstanding a sharp dip and rebound midway through last week, bitcoin has proven quite stable of late, at least by its own volatile standards.)
+
+Other questions: do these vulnerabilities in traditional credit markets highlight the promise of new blockchain-based ideas? For example, would wider use of security tokens allow speedier settlement and, by extension, reduced counterparty risks and greater market confidence? Or, far more radically, would MakerDAO’s on-chain #DeFi lending markets enable a more reliable clearing mechanism, with collateral calls locked in by a decentralized protocol? Or might these underdeveloped ideas simply be recipes for systemic risk, a single hack or software glitch away from setting off a vicious spiral of collateral calls and bankruptcies?
+
+The jury is out on all this untested stuff.
+
+Still, if nothing else, the many signs of stress in the traditional financial system offer a valuable framework for thinking about how the world could be different and the role blockchain technology might play in enabling that new world.
+
+Let’s look at some of them:
+
+Negative-yields
+
+The rare phenomenon, where creditors are essentially paying issuers for the privilege of lending them money – head scratcher, right? – reflects excessive demand for “safe” assets, especially for government-issued bonds. It has historically been a strong indicator of impending recession, since it reflects an overwhelming reluctance among investors to take on risk.
+
+Now, another way of thinking about that reluctance is to express it as a perceived shortage of good investment opportunities. That perception can be fueled by a worsening economic outlook, but it’s also dictated by the barriers to entry that make it difficult for otherwise investable businesses of offer new opportunities.
+
+Here, certain blockchain-based credit ideas offer hope. There’s the prospect for distributed-ledger asset registries that better track collateral and enable new emerging-market lending in developing-country land, commodities and energy markets. Or there are ideas such as having exporters tokenize their receivables to tackle a major structural limit on global trade finance, where a majority of small-and-medium enterprise are denied letters of credit because bankers don’t trust their documentation.
+
+Effective use of blockchain technology could boost trust in assets and lien registries and help bring to life the $20 trillion in “dead capital” that economist Hernando de Soto says the world’s poor are sitting on.
+
+Just as importantly, it would open a world of new alternative assets to draw in investors’ capital, giving them less of a reason to park it in low-yielding bonds.
+
+Global economic slowdown
+
+An alarming, synchronized downturn in manufacturing indicators, most notably in purchasing manager indexes, which measure current and future business spending on inventory and equipment, flows directly from the U.S.-China trade war. In cutting off Chinese goods exporters from U.S. consumer markets and driving up costs for their U.S. importers – and vice versa for U.S. farmers selling to food distributors in China – the conflict has added a massive new burden on global economic activity.
+
+But let’s look at the starting point for this trade battle. It lies in American companies’ mostly legitimate complaints about China’s mercantilist, centrally planned approach to supporting Chinese companies at their expense, all enabled by a system of surveillance and control over people and businesses. This where there’s a crypto angle.
+
+Cryptocurrency and other decentralizing technologies could work against the Chinese government’s capacity to control its economy in this interventionist manner. If Chinese businesses and hundreds of millions of Chinese citizens used bitcoin to circumvent capital controls, for example, the ever-present risk of monetary flight would act as a pressure valve, compelling Beijing to pursue a more open economic model to maintain competitiveness. That would give anti-free-traders like President Trump less of an excuse to ratchet up protectionist attacks against it.
+
+The repo intervention
+
+Some innovators have sought to apply blockchain technology to the back-office structural problems that periodically roil money markets, such as those now manifest in repo. They see a distributed ledger as a superior mechanism for tracking the IOUs of money and pawned securities upon which inter-institutional credit markets are based.
+
+One was former J.P. Morgan credit market maven Blythe Masters, who founded Digital Asset Holdings in 2014 on the idea that on-chain settlement and a universally auditable ledger could improve transparency in global finance’s opaque, complex matrix of interconnected credit relationships. This way, she argued, it could mitigate the mistrust and counterparty risks that fueled the financial crisis.
+
+The DAH model and those of others working on back-office blockchain solutions for capital markets have not come to fruition. This is at least partly due to the reluctance of incumbent financial institutions and their regulators to kill off existing functions that a blockchain would make redundant; they instead designed cumbersome hybrid distributed-ledger models that sustained vested interests but were expensive and difficult to collectively implement.
+
+Either way, a blockchain back-office fix for traditional finance isn’t coming any time soon – whether because of internal politics or the limitation of the technology.
+
+Shining a light
+
+A more important question is why we even tolerate a system that’s so vulnerable to those back-end markets’ problems at all. The only reason central banks ever intervene to support interbank credit markets is because society’s means of payment depends on avoiding cash shortfalls and maintaining confidence in fractional-reserve banking.
+
+If banks don’t have enough cash to meet short-term creditor calls, they would suffer runs on their deposits, companies wouldn’t make payroll, tenants would have to skip rent, ATMs would run out of banknotes, etc. The economy would seize up. The worst of it is that, because of this ever-present threat, banks hold our political system to ransom, knowing that they can always rely bailouts: the too-big-to-fail problem.
+
+But what if banks just stuck to longer-term lending? What if there were no checking accounts or debit/credit cards, and we simply exchanged value with each other via cash or digital currencies that we hold ourselves?
+
+If people used bitcoin, or fiat-backed stablecoins or central bank digital currencies to exchange value instead of the IOUs of an inherently fragile fractional reserve banking system, institutional cash shortages simply wouldn’t matter as much. Banks’ biggest creditors might take a hit against their risk-adjusted positions and their stock prices would fall, but the rest of us, including the Fed, could ignore the problem.
+
+As the journalist and commentator Heidi Moore astutely observed in a tweetstorm last week, the reason the repo market tumult is so worrying is because it speaks directly to the core problem of trust in the banking system.
+
+If nothing else, this is where blockchain technology provides a valuable lens with which to assess the current stress in the financial system. It helps us think about how the trust problem creates vulnerabilities, power imbalances and systemic risks and how we might design a system that’s better able to resolve it.
+
+Federal Reserve image via Shutterstock

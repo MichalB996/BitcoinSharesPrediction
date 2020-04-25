@@ -1,0 +1,107 @@
+DATE:  21.11.2019, 17:50:09
+TITLE: Global Protests Reveal Bitcoin’s Limitations
+URL:   https://www.coindesk.com/global-protests-reveal-bitcoins-limitations
+
+The Takeaway
+
+Protests in Hong Kong, Lebanon and Iran have forced cypherpunks to test censorship-resistant technologies in the wild.
+
+But protesters on the ground found they lack internet access during times of civil unrest.
+
+Bitcoin has mainly proven useful for receiving value from abroad to hold and privately store.
+
+Sources in Lebanon and Iran said there is scant liquidity, and since they are cut off from global exchange platforms, digital assets are rarely useful as currency.
+
+In the face of censorship and isolation from their countries’ financial and communication systems, protesters across the globe are testing out bitcoin and other decentralized technologies – then promptly discovering their limitations.
+
+Take Hong Hong, for example, where protests began six months ago against China’s infringements on civil liberties and ramped up on Monday at Hong Kong Polytechnic University as police detained 1,000 protesters.
+
+The former British colony would seem the perfect test case for an open-access financial system resistant to government interference. But that may not yet bet the case.
+
+Take for example, HSBC Holdings reportedly shutting down the bank account of Spark Alliance HK, a local nonprofit focused on civic engagement, because it was associated with protests and the bank was allegedly pressured by Beijing. The move reminded protesters and donors of the need to transact privately, one protestor, who spoke on condition of anonymity, told CoinDesk. Nonprofits like HKMap Live and Hong Kong Free Press already accept bitcoin donations.
+
+However, the Hong Kong protester added, “there is no [internet] connection in the protest area, no matter which service provider you used,” and protesters are generally not clear on how bitcoin would be used by individuals during a time of civil unrest. It is mostly useful for receiving donations from abroad that don’t require prompt liquidity.
+
+Plus, he said protesters who tried mesh-network devices, which basically bounce a message or transaction across a web of devices until it finds a device with internet access, found they were “not useful for a confrontational situation.” Although many protesters use Telegram because it allows chatting without revealing the users’ phone numbers, he said tools that rely on mobile data providers offer limited functionality in times of turmoil.
+
+As with protests in the Middle East, sources in Hong Kong said bitcoin and related technologies are not ready for usage in chaotic environments because the movement is still nascent and money generally relies on network effects. At this point, censorship-resistant technology can still be censored as long as it remains too niche.
+
+“People are moving their money abroad more,” said one Chinese bitcoiner with family in Hong Kong, who asked that her name be withheld for safety. “But it’s from bank to bank, like Hong Kong accounts to Singapore.”
+
+She added it’s harder to get goods and services, including food imported from mainland China and physical cash, in part because 19 percent of Hong Kong bank branches were closed this week due to the chaos.
+
+Further complicating matters, online discourse in general has been further restricted as the protests rage on.
+
+Hong Kong’s High Court issued an interim injunction in October forbidding people from publishing or circulating information that promotes “the use or threat of violence … on any internet-based platform or medium.” Then on Monday, China’s mainland firewall banned the web browser Kuniao, which was often used to access global social media platforms.
+
+Tehran
+
+Meanwhile in Iran, Revolutionary Guard crackdowns on nationwide protests against rising gas prices and political corruption reportedly left 200 civilians dead and thousands injured.
+
+The Iranian government shut down global internet access for nearly five days (locally hosted websites and services are still operational), and only started to establish limited connectivity again on Thursday.
+
+One Tehran-based bitcoiner, who requested anonymity for safety, was arrested at a protest for taking photos then promptly released. Police searched his phone, including social chats, apps and photos, he said. So he now routinely deletes Twitter direct messages from other bitcoiners.
+
+This bitcoiner has a personal server abroad, and was able to jerry-rig limited internet access through it. According to Bitnodes, there are just six bitcoin nodes operating in Iran.
+
+“I made a secure encryption protocol between data centers and a mobile network,” he said. “I bypassed several servers and networks to reach the edge servers. … Now I have a 100Mbps connection.”
+
+Despite regaining some level of connectivity, he said his bitcoin wallet apps and mobile apps like Telegram are still blocked. It’s especially difficult for Iranians to access foreign servers and infrastructure because many companies ban Iranians for fear of U.S. sanctions.
+
+“We're locked up in a prison that the U.S. and Iranian governments have built for us,” he said, adding the Blockstream bitcoin satellite and mesh network technologies aren’t useful when you’re in a massive internet desert. “In situations where we don't have physical connection none of these fucking technologies help us,” he said.
+
+After all, even if he got a transaction through, there are too few tech-savvy recipients to make digital transactions a worthwhile use of his time.
+
+“We need a simple way to connect our devices together,” the anonymous protester said. “We need secure and accessible communication for people.”
+
+This point highlights yet another lesson learned by protestors in Lebanon: Black markets are vulnerable to infiltration from within.
+
+A protester in Beirut, Oct. 23, 2019.
+
+Beirut
+
+On Tuesday, Lebanese protesters took over Beirut's Nejmeh Square and stopped parliament from meeting, spurred by a local banking crisis and government corruption.
+
+Lebanese bitcoin trades, predominantly facilitated through WhatsApp, Telegram and Facebook, continue normally with a slight premium. Trading is hampered, according to such group chats, by limited cash access from local banks and financial institutions.
+
+After a week of shuttering branches, the banks reopened this week with a $1,000 withdrawal limit. On Thursday, protesters reportedly entered the central bank to demonstrate that these measures are perceived as the government doing too little, too late to quell the currency crisis.
+
+As one anonymous bitcoin trader said: “There’s no access to liquidity.”
+
+Two weeks ago, a few bitcoin traders found hackers had accessed their mobile phones and stolen cryptocurrency. Local social groups brimmed with concerns about which anonymous trader accounts could be trusted. As reported by the local outlet VDL News, the alleged hacker may have knowledge of the victims’ location and access to a network run by the telecommunications company Touch, because the hack involved intercepting messages at the service level. (Two exchanges associated with the alleged victims denied any hack to their systems on this date.)
+
+“They can hijack WhatsApp, Telegram [accounts],” one alleged hacking victim said. “That means you can’t trust your mobile identity. … They [hackers] can create trouble between parties, fake accounts and impersonation.”
+
+So this hack served as a wake-up call to the local community. In short, there is no substitute for in-person networking and long-standing relationships. Without them, the privacy created by avatars is also a liability.
+
+Impractical anarchists
+
+In all three contexts, current bitcoin infrastructure was found to be insufficient.
+
+While this may be expected of a nascent technology, across user groups the common need was for accessibility.
+
+Both the Chinese and Iranian bitcoiners who spoke to CoinDesk pointed out that most people don’t have the skills, nor the desire, to go “the anarchist route,” as the Chinese bitcoiner put it. The Hong Kong protester added that “most protesters don’t know how to make use of bitcoin in this [activist] context.”
+
+When it’s available, Hong Kong civilians still rely on traditional financial institutions, the Chinese bitcoiner said. LocalBitcoins data on peer-to-peer bitcoin trades in Hong Kong and Iran don’t show any relative spikes, reflecting the same narrative from over-the-counter Lebansese traders. Many bitcoiners prefer to stay deep underground these days, another Tehran-based bitcoiner said, fearful of attracting the attention of authorities on the hunt for people to suspect and arrest.
+
+Scattered and fragmented communities offer scant liquidity on the ground. Broader adoption leads to better usability and privacy, even if only by helping bitcoiners get lost in the crowd.
+
+After all, if bitcoin were more popular in Tehran then users might not fear that usage would attract attention. A third anonymous Iranian source, currently abroad yet deeply involved with the Tehran bitcoin community, said there is a significant legal threat to locals helping neighbors bypass internet censorship.
+
+“People who have servers (hosting websites, etc) in Iran have received SMS mentioning that hosting, selling or distributing any VPN service or proxy in order to access filtered websites (such as Telegram) is illegal … encouraging them to tell on those that are doing so,” he said. “BTS tower SMS-CB technology has been used to send SMS to people in certain areas to leave.”
+
+In these cases, bitcoin has proven most useful to store wealth or receive funds from abroad. Transacting locally is risky. One Lebanses bitcoiner who thwarted a hacker said that luckily he stores half of his savings in a bitcoin hardware wallet, which kept it safe.
+
+“I find it ironic that the first world talks about how bitcoin is freedom to the unbanked, but the unbanked have no way to get bitcoin,” he said. “Bitcoin feels like a novelty at times, or a privilege.”
+
+In fact, Lebanese entrepreneur Dany Moussa told CoinDesk his homeland is predominantly a cash society, so even credit and debit cards might have a learning curve for some. It should also be noted that chatter in Lebanese groups shows hardware wallets don’t always work as designed, so users often need to help each other fix them.
+
+“I think we are still far from serious adoption of crypto in Lebanon for many reasons,” Moussa said. “Lebanese [people] do not have access to exchanges due to restrictions adopted by [Lebanon’s central bank] and lack of coverage from [outside] exchanges.”
+
+When global crypto exchanges and service providers ban a population due to sanctions or compliance concerns, as they have with Iranians and Lebanese people to some extent, ties to global communities can provide a lifeline. Across the board, sources said that connectivity and accessibility on the ground were the two fundamental challenges.
+
+Money is, after all, primarily a social construct. The dream of a lone anarchist striking out only works if his goal is to flee, not stay.
+
+“Consider two or three people who can communicate with the Blockstream satellites, what would be the benefit [of using bitcoin]?” the Tehran-based bitcoiner said. “Not all people are hackers and network experts. … When we talk about a payment network it must have a significant number of members.”
+
+Hong Kong protest image via Shutterstock

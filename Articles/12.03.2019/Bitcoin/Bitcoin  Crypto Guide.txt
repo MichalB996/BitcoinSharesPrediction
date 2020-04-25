@@ -1,0 +1,93 @@
+DATE:  12.03.2019, 14:53:06
+TITLE: Bitcoin & Crypto Guide
+URL:   https://www.altcoinbuzz.io/bitcoin-and-crypto-guide/sharding-explained-quick-concepts/
+
+Welcome to Chapter 1 of Quick Concepts. Today, we will discuss the Blockchain scaling solution, ‘Sharding‘.
+
+Although Sharding is a popular concept used in traditional Database Architecture, only recently, it has made its entry into the Blockchain space. Various new Blockchain projects are proposing Sharding as their answer to Blockchain’s scaling problem. Hence it is important to understand the concept of Sharding.
+
+On 30th April 2018, Vitalik Buterin, the creator of Ethereum, mentioned in a single Tweet “Sharding is coming.”
+
+Also, refer to this article.
+
+The Blockchain Trilemma.
+
+In one of his presentations, Vitalik Buterin demonstrated the Scalability Triangle.
+
+Any high performing Blockchain needs to have 3 major properties. Decentralization, Security and Scalability.
+
+Decentralization is the essence of Satoshi Nakamoto’s vision. It ensures that there is no central authority to control, thereby making the system fairer and more secure.
+
+Security: Security is a Blockchain’s capability to defend itself against external attacks. Trying to hack a decentralized Blockchain requires high computing powers and is not cost-effective, the hacker needs to access every instance running in multiple computers. The more decentralized a Blockchain is, the more secure it is.
+
+Scalability: Scalability is the speed with which the Blockchain processes transactions. Currently, Visa has a transaction speed of 1,700 transactions per second. Bitcoin Blockchain can handle ~3-7 transactions per second, while the Ethereum Blockchain can handle ~12–30 transactions per second. This means the existing Blockchains need to scale up massively to have actual real-life applications.
+
+Now, here is the problem. Existing Blockchain systems can have at most two of the three essential properties mentioned in Vitalik’s Scalability Triangle! This is The Blockchain Trilemma.
+
+Why can’t traditional Proof of Work (PoW) Protocols scale?
+
+Traditional PoW protocols like Bitcoin & Ethereum requires all the nodes on the network to store and process all the transactions (the entire Blockchain!). With the exponential increase in network size, maintaining network integrity with bigger Blockchains becomes resource intensive, transaction confirmations take longer which in turn makes the network slow.
+
+Different scaling solutions:
+
+Enterprise-grade Blockchains needs to be secure. Hence, either decentralization or scalability is compromised in existing projects.
+
+In some Blockchains only selected nodes can validate transactions, thereby increasing scalability but compromising on decentralization. The others are not scalable enough.
+
+There is no single and clear solution to handle the scalability problem. Various solutions have been proposed which can be broadly classified as:
+
+On Chain Solution: This solution is implemented in the codebase of the original Blockchain. Off Chain Solution: This solution implements secondary protocols built on top of the main chain. Distributed Ledgers: Some projects are looking at using a different Data Structure organization than traditional Blockchain. Alternate Consensus Mechanisms: Some projects have proposed alternate consensus mechanisms.
+
+Each of the above solutions has its own Pros and Cons!
+
+We will deep dive into each of these solutions in the upcoming issues of this series. Today, let us discuss Sharding.
+
+Sharding
+
+Traditional Sharding
+
+In traditional Database Architecture, Sharding is a type of database partitioning, where a large database is split and stored as logical datasets in multiple smaller databases. These smaller databases remain connected and are usually spread over multiple servers, sharing the workload. Sharding is also referred to as horizontal partitioning, as rows of the bigger database are stored separately, each partition being known as a shard. Ideally, shards do not hold duplicate data.
+
+Sharding increases the performance of databases, the notable improvements being seen on speed, efficiency, and reliability. Sharding also helps the database to scale with increased demand.
+
+So, Sharding works well for traditional centralized databases. What happens if we shard a Blockchain?
+
+Sharding in Blockchain
+
+Sharding, when applied in Blockchain, is a different ball game.
+
+Sharding is an On Chain scaling solution where the Blockchain is split across shards and each node manages its own shard (which is only a part of the data on the Blockchain). Each node is responsible for processing its own transactions. This makes the network faster.
+
+Refer to my earlier article, where I have talked about the tasks of a node. The tasks include:
+
+Processes Transactions – Needs more computing power. Record Transactions – Needs storage. Broadcasts Transactions – Needs more network bandwidth.
+
+Here’s a good reference article.
+
+In order to evaluate a project promising Sharding, it is very important to understand the tasks of a node for which Sharding is applicable.
+
+For example, at this point of time, Zilliqa is implementing transaction (computational) sharding (which is also the immediate need).
+
+How can we Shard?
+
+Implementing Sharding in Proof of Work (PoW) based Blockchains is very difficult. Participating nodes will not be able to perform transaction validation as the nodes will have information for only one shard.
+
+Proof of Stake (PoS) consensus mechanism has a chance. In PoS, designated nodes validate transactions, based on the amount of crypto token staked for transaction validation purpose. Some of the benefits of PoS which are favorable to implement Sharding are:
+
+Designated nodes validate the transactions. High staking means high loyalty, thereby maintaining security. The Blockchain could be sharded among such stakers, increasing speed and efficiency.
+
+
+
+Not the final solution, yet!
+
+Sharding in Blockchain is still a work in progress, right now it comes with its own set of problems:
+
+Inter shard communication is not very easy. Overall security of sharded Blockchains is also a concern.
+
+
+
+Conclusion
+
+Sharding is a relatively new concept in Blockchain and hence, it is too early to say whether it will solve the scaling problem. Some interesting projects to monitor are Zilliqa and Quarkchain.
+
+The performance of each scaling solution needs to be carefully monitored and compared over the time before coming to a conclusion on the way forward.

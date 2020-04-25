@@ -1,0 +1,23 @@
+DATE:  31.03.2020, 07:51:00
+TITLE: Layer 1 tokens from sCrypt
+URL:   https://coingeek.com/layer-1-tokens-from-scrypt/
+
+There are many opinions about the uses for Bitcoin, from the simplest ELI5 to the most complicated theories about the bounds of proof of work. Is Bitcoin a means of exchange, store of value or a base layer to build something else entirely? One of the major fields of study in Bitcoin is the focus on tokenization! While the value of Bitcoin tokens has yet to be fully established, sCrypt has made great strides on deployment of tokens by building a language and toolkit that allows them to be issued directly in Bitcoin. No secondary computation or dependencies necessary: just tokens that live and transact directly in Bitcoin script and move around within transactions.
+
+From the early days of Bitcoin, Mastercoin (which later became “Omni Layer”) was used to deploy the first iteration of Tether in Bitcoin script, but due to the destruction of BTC during the scaling wars, most tokenization ceased on Bitcoin and moved over to Ethereum. However, the Ethereum network is only about 300-500% more efficient than BTC, and its inability to scale has left an opportunity open to develop tokens elsewhere as a tool for business. With sCrypt and a few other players, those tokens are being built on Bitcoin SV.
+
+How are tokens built on Bitcoin SV?
+
+Well, in some ways, Bitcoin is just a hard drive and operating system connected to a network of supercomputers, so tokens can be thought of as programs running on the Bitcoin operating system. Like any other program, they need to be written in their own language with their own rules. sCrypt is one such language, but in contrast to competitors like Run and Tokenized, sCrypt is quite a bit more fundamental. In fact, rather than depending on libraries to validate tokens on “Layer 2” as off-chain smart contracts, sCrypt is more of an abstraction of Bitcoin’s own native script, but it has been simplified to “feel” more like JavaScript to the developer.
+
+Why does that matter?
+
+Dependencies on libraries (like JavaScript, for example) add some complexity to the stack and a level of trust in the third party library. sCrypt does not have such dependencies. Therefore, tokens are simpler and also more secure because when they are deployed on Layer 1, they become just as “trustless” as bitcoin itself. Integrated with Bitcoin, transaction processors enforce the rules that secure the token along with every other transaction on the main network.
+
+When the work to deploy and transact a token occurs entirely on Layer 1, it allows the token to interact with Layer 2 assets, as well. So an sCrypt token can be swapped or have a smart contract written between it and a token on a Layer 2 protocol, such as Run. Those two tokens can perform all sorts of interesting actions that open up lots of business opportunities.
+
+The other major benefit is cost. Since there is no secondary computation, there is less work being paid for in the movement of the token across the ledger.
+
+In short, sCrypt allows a smart contract or token to communicate directly to the super computer network of SHA256 ASICs that undergird the Bitcoin network, while allowing the developer to work in a simple language that they already understand—and that is extremely exciting!
+
+New to Bitcoin? Check out CoinGeek’s Bitcoin for Beginners section, the ultimate resource guide to learn more about Bitcoin—as originally envisioned by Satoshi Nakamoto—and blockchain.

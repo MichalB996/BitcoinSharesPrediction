@@ -1,0 +1,25 @@
+DATE:  07.10.2019, 21:30:57
+TITLE: How to make your own Bitcoin ATM
+URL:   https://decrypt.co/10046/ightningatm-how-to-make-your-own-bitcoin-atm
+
+It doesn’t look like much—yet. But this cardboard box is a prototype for an ATM to turn loose change into satoshi, the smallest denominator of bitcoin—literally in seconds, with Bitcoin’s scaling solution, the Lightning Network.
+
+It can be programmed to recognize up to six types of currencies. A user inserts the coins into the machine’s “coin acceptor,” and pushes a button on the interface which starts the exchange process.
+
+He or she then generates a QR code on a smartphone and scans it to the ATM’s camera, generating a Lightning invoice and converting the money into bitcoins in the user’s Lightning wallet.
+
+The idea is so simple but ingenious that the man behind it, an anonymous Bitcoinier with the Twitter moniker @21isenough, kicked up a mini furor with his invention at the Baltic Honeybadger Bitcoin conference last month.
+
+“It's important to know that one does not need to buy a whole bitcoin. You can own fractions of a bitcoin,” he told Decrypt today. “With this ATM you literally buy bitcoin for a 2 cent coin—that’s about 200 satoshis—and receive it into your Lightning Wallet. The Lightning Network is a brilliant technology and I wanted to make it more tangible.”
+
+The goal is to make it so easy to build that anyone can make one, said the developer, who lives in Portugal, and asked to remain anonymous.
+
+There’s been such a lot of interest in a readymade ATM that the dev is also thinking about manufacturing and selling a small batch of completed LightningATM’s.
+
+“There might be a market where corner stores, coffee shops—every mom and pop shop— has those ATMs on their counters,” he said. “They can be emptied daily, even hourly, if need be, and used again by shop owners for their register, since they need coins anyway for other clients.”
+
+The ATM’s software runs on the Raspberry Pi. The dev has uploaded a complete parts list and code to developers portal GitHub, but he admits that, at this point, “one has to be quite technical to rebuild it.”
+
+However, he’s determined to improve the design so that even novices can make a LightningATM. The next step, he says, is a printed circuit board which would make it a plug and play solution “even for newbies, and much much easier to set up.”
+
+Meanwhile, he says he’s very happy to answer questions via Twitter. He hopes that, one day, it will be so easy to buy bitcoin that people will regularly use these kinds of ATMs to get rid of their small change, and "buy a small amount of bitcoin.” Does that make him a Bitcoin Minimalist?

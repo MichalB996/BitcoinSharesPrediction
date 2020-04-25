@@ -1,0 +1,59 @@
+DATE:  07.02.2019, 22:00:54
+TITLE: How to Accept Bitcoin Payments for Your Business
+URL:   https://bitcoinist.com/how-to-accept-bitcoin-business/
+
+Sponsored Article How to Accept Bitcoin Payments for Your Business
+
+If you run a small business and want to attract more customers by offering bitcoin payments, you may be wondering where to start. Keep in mind that it’s definitely not a way of avoiding taxes. Bitcoin is simply another legal way to receive payment for goods and services. So, you’ll have to declare the payments as you would with traditional ones.
+
+Use QR Codes or Run a Full Node
+
+If you run a physical store, your customers should be able to pay through a mobile phone app or hardware terminal. There are several apps that generate QR codes for mobile and wallets that support QR code scanning for payments.
+
+This makes payments much simpler as customers don’t have to enter an address. They can use a quick recognition (QR) code that is machine-readable, like a box made up of black and white squares.
+
+If your business is web-based, you’ll need to run a full node (or ask a proficient programmer to implement one for you). This is especially important if you sell big-ticket items.
+
+While you can use payment processors such as BitPay or Coinbase, running a full node will give you greater speed when it comes to transaction confirmations. It will also give you additional security of genuine payments with no possibility of fraud.
+
+Hang a ‘Bitcoin Accepted’ Sign
+
+If you’re going to accept bitcoin payments, you’ll need to let people know. This means adding a “We Accept Bitcoin” sign to your door if it’s a physical store, or to your website for online businesses.
+
+People can then contact you for details of how to pay using bitcoin. You’ll probably find that this won’t make up a significant portion of your business just yet. However, you will increase awareness among customers curious to learn more.
+
+Add Bitcoin Payments to Your Invoices
+
+If you already add a line explaining what payment options are available (VISA, PayPal, etc.) you can simply add Bitcoin as well, even if customers have to contact you to find out the steps.
+
+If you’re good at programming or know someone who is, an effective way to track bitcoin payments is to generate Bitcoin addresses and print them on each new invoice. This will cut out the customer having to contact you for the details. It will also ensure that when the payment arrives, you’ll know where it’s meant to go.
+
+Be sure to let the customer know how much BTC to send since the fluctuations in price are likely to confuse them. While Bitcoin addresses on a paper invoice are incredibly cumbersome, according to Bitcoin Wiki, you should probably add them anyway. Most people need some kind of paper trail when it comes to accounting. Having the address will allow the customer to prove the transaction took place through Block Explorer.
+
+If your customers are paying via your website, simply provide them with a URL to visit that displays the Bitcoin address to send the payment. If they can do this just by entering the invoice number, so much the better. They can also copy and paste the address easily.
+
+Be sure to use a new address for each invoice–that you use only once. This way, you can keep track of who the payments are coming from and for what.
+
+How Do You Set a Price in Bitcoin?
+
+This is not an easy question to answer since, with bitcoin’s volatility, prices can vary on any given day, sometimes dramatically. The way most merchants manage this is to quote clients based on the current market rate at the time of the price quote to the customer. This will likely be determined by a weighted average basis of prices across multiple exchanges.
+
+When you receive bitcoin payments, the best practice is to immediately convert it into the fiat currency you need to run your business and cover costs. Holding onto bitcoin payments can be risky. If you’re holding onto payments in the hope that the price will go up, you’re placing your business at risk and may leave yourself open to headaches from the IRS. Immediate exchanges will remove the risk of price fluctuations for bitcoin payments.
+
+If you do want to take payments in bitcoin, check with your account first for advice on how to report them since tax compliance will vary depending on where you live. Also, there will always be some discrepancy between the price you quote and the price you receive, which may need to be accounted for in a specific way.
+
+As a rule of thumb, however, Bitcoin payments are really just like cash, so consider how you handle cash transactions and whether you pay tax on them and do the same for Bitcoin.
+
+How About Simpler Solutions?
+
+As mentioned, there are easier and faster payment gateways for accepting bitcoin, but you give up full control over the transactions.
+
+If you want to work with a payment processor but keep the benefits of running a full node, try BTCPay Server. It’s one of the best open source payment processors out there and includes an invoice API that’s compatible with BitPay.
+
+You can also migrate your code base to your own self-hosted payment processor, which gives you all the benefits of running a full node with less of the hassle. BTCPay is easy to deploy via the one-click deploy on Azure.
+
+There are further details on how to install BTCPay here. And if you’re not completely confident, simply ask a programmer for help. Either way, be sure that you run a full node for web payments unless you’re simply planning on experimenting with small infrequent translations.
+
+What other ways can businesses start accepting bitcoin? Share below!
+
+Images courtesy of Shutterstock

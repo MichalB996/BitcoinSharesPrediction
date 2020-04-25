@@ -1,0 +1,43 @@
+DATE:  15.01.2019, 12:50:49
+TITLE: Chatter Report: Antonopoulos on Rolling Checkpoints, Vays Defends Song’s Stance on Credit Cards
+URL:   https://news.bitcoin.com/chatter-report-antonopoulos-on-rolling-checkpoints-vays-defends-songs-stance-on-credit-cards/
+
+Chatter Report: Antonopoulos on Rolling Checkpoints, Vays Defends Song’s Stance on Credit Cards
+
+In today’s roundup of crypto chatter, Andreas Antonopoulos explains rolling checkpoints and how consensus is achieved between miners, developers, exchanges, merchants, and wallets. Chris DeRose believes new Bitcoin pundits are toxic compared to the old ones. Also, Tone Vays defends Jimmy Song’s position on using credit cards over bitcoin.
+
+Also read: Hash Wars: A Successful BCH Upgrade and a ‘High Risk’ Exchange Listing
+
+Andreas Antonopoulos Explains Rolling Checkpoints
+
+Recently, Mastering Bitcoin author Andreas Antonopoulos released a video that explained his thoughts on the rolling 10-block checkpoint that prevents reorganizations of the BCH chain. In the video, he explained that the rolling checkpoint is a feature to protect BCH against secret mining, which could have been used to cause disruption or initiate a hostile takeover of the ABC chain. He also noted that the implementation of rolling checkpoints has the effect of shifting some power away from miners and giving it to developers.
+
+Then, Antonopoulos explained that consensus is a multi-constituency mechanism and that checkpoints are a matter of the relative power of two constituencies in consensus. The common misconception is that consensus is achieved only between miners and developers. Instead, he argues that consensus is achieved between five different groups with overlapping influence and power: miners, developers, exchanges, merchants, and wallets. All of these parties contribute to emergent consensus.
+
+Thus, the decision to side with rolling checkpoints is subjective to each of the five groups. Some may believe rolling checkpoints are justified as certain parties have threatened to spend millions of dollars purely to damage the ABC chain, while others may not.
+
+Regardless of their stance, each of the five groups will express their position through a consensus vote. By deciding what software to run on their nodes, they express their consensus vote and contribute to the emergent consensus.
+
+The Old Guard vs the New
+
+Bitcoin Uncensored host Chris DeRose recently took to Twitter to express his views on the evolving Bitcoin community. In his tweets, DeRose explained that the old guard of Bitcoin, comprising figures like Gavin Andresen, Amir Taaki, Roger Ver and many others are being rejected by the Bitcoin community even though they played pivotal roles in ensuring Bitcoin’s early success.
+
+The simplest explanation is that the new baghodlrs were in fact the greatest fools, and the old guard passed on the bag to a sorry lot. I'm hoping a better explanation shows up… — Chris DeRose (@derose) January 13, 2019
+
+By contrast, the new guard of Bitcoin, like The Bitcoin Standard author Saifedean Ammous, developer Jimmy Song, and Blockstream CSO Samson Mow, have had a negative impact on the Bitcoin community. DeRose explained that the new guard leads by using spite and fear. They also believe that it is ok for bitcoin to lose value, so long as other cryptocurrencies lose value with it.
+
+In response, co-owner of Bitcoin.org Cobra explained to DeRose that the new guard have virtually no influence on Bitcoin. Despite having a large social media following, their influence is negated by others with a large social media presence like Roger Ver and Craig Wright.
+
+A Time and Place for Credit Cards
+
+Recently, Bitcoin commentator Colin compared Song’s infamous statement of using credit cards over bitcoin akin to the CEO of Nike asking people to walk barefoot. Trader Tone Vays has defended Song’s position, and argued that using BTC on sites like Expedia or Cheapair has the same effect as selling BTC on exchanges. This is because some merchants use services like Bitpay and opt to convert all BTC payments for fiat.
+
+There are times to use #Bitcoin vs CC just like there r times to use shoes vs barefoot.
+
+I know for a fact that if I use $BTC at Expedia or CheapAir it's same as market selling it on Exchanges lowering the price. Just like if I swim in the ocean in sneakers, i won't make it far. https://t.co/4XMAkr0KdQ — Tone Vays [@Bitcoin] (@ToneVays) January 14, 2019
+
+What do you think of rolling checkpoints? Let us know in the comments below.
+
+Images courtesy of Shutterstock.
+
+Want to create your own secure cold storage paper wallet? Check our tools section.

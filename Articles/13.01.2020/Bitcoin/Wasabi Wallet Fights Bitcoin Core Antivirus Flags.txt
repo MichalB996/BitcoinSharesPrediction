@@ -1,0 +1,45 @@
+DATE:  13.01.2020, 14:38:38
+TITLE: Wasabi Wallet Fights Bitcoin Core Antivirus Flags
+URL:   https://bitcoinmagazine.com/articles/wasabi-wallet-launches-bitcoinissafe-campaign-to-counter-erroneous-antivirus-detections
+
+Ring in the new bitcoin halving cycle the right way: with us!
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+Recently, Wasabi Wallet users have reported multiple instances in which antivirus programs identify both Wasabi and the newly integrated Bitcoin Core as “system infections.” More specifically, the computer security algorithms for Avira, Bitdefender, Kaspersky and F-Secure (and many other antivirus softwares) confuse full Bitcoin nodes with unwanted cryptocurrency mining programs that run in computer backgrounds and steal processing power (a type of malicious attack whose popularity peaked during the 2017 bull market).
+
+In response to this phenomenon, Wasabi Wallet developers have started a social media campaign — distinguished by the hashtags #BitcoinIsSafe and #WasabiIsSafe — as a way of encouraging community members to write to the providers of their antivirus software and demand that Bitcoin and Wasabi be labeled as “false positives.”
+
+On the Wasabi Wallet website, Bitcoiners who want to join the reporting movement can obtain an email template, a list of online forms and email addresses for sending the false-positive-label requests and some tutorials that are meant to offer a graphical step-by-step guide throughout the process.
+
+While Wasabi is clearly incentivized to free its own product from system infection designations, the campaign is also pushing to ensure that Bitcoin Core spreads as widely as possible.
+
+“Bitcoin Core is considered to be Bitcoin’s reference implementation,” Wasabi contributor Riccardo Masutti explained to Bitcoin Magazine. “A malware warning confuses users, and might deter them from running a full node — and full nodes are among the most important parts of the whole Bitcoin ecosystem.”
+
+Wasabi Wallet and Bitcoin Core
+
+In December 2019, Wasabi Wallet launched version 1.1.10 — the first to include a partial Bitcoin Core integration for users who want to connect with their full nodes. This addition effectively maximized user sovereignty while simultaneously minimizing both the need to trust Wasabi and the use of Neutrino as an alternative for full nodes.
+
+“Wasabi Wallet is an open-source, non-custodial, privacy-focused Bitcoin wallet for desktop,” Masutti said. “We decided to integrate Bitcoin Core to offer a better user experience and to allow users to install a full node in the simplest way possible.”
+
+Historically, Wasabi Wallet never had issues with antivirus programs during scans. However, the developers have been able to identify an older problem with Bitcoin Core on Windows, which they are now trying to fix through the awareness and reporting campaign.
+
+“It was only after the integration of Bitcoin Core into Wasabi that I discovered that all antiviruses mark the software as malware/a potentially unwanted program,” explained Massuti. “Nobody in the past really cared because very few people would run Bitcoin over Windows or other ‘commercial’ operating systems. Most people installed Bitcoin Core on Linux.”
+
+GitHub reports about antivirus software crashing Bitcoin Core on Windows date back to 2014 and have been a recurring theme in 2017, 2018 and 2019. As Bitcoin adoption accelerated, the number of reports and complaints also increased. With adoption growing even more, this trend could continue.
+
+And the problem doesn’t concern only Windows. In order to confirm the false-positive detection, I ran Bitdefender Total Security 2020 on macOS Catalina. The result was similar: The antivirus software labeled Bitcoin files as malevolent mining software. Though the separation between full nodes and mining clients have existed in Bitcoin since 2013, software security companies haven’t updated their policies — in fact, they’ve hardened their detection systems due to the emergence of background and browser miners for altcoins like monero.
+
+Bitdefender Total Security 2020 identifies Bitcoin files as “infected” on macOS Catalina.
+
+#BitcoinIsSafe, #WasabiIsSafe and Responses from Bitcoin Core Developers
+
+As mentioned above, Wasabi’s social media campaign invites users to send reports to their antivirus software providers and recommend the removal of Bitcoin Core from their list of malicious mining software to solve this problem.
+
+“I thought about all the previous campaigns carried out by the Bitcoin community (for instance, #ProofOfKeys) and I thought, ‘Why not ask the whole community for help?’” Masutti said. “A few hours passed and the #BitcoinIsSafe, #WasabiIsSafe initiative was born. My idea is that the best and most effective solution is to start a false positive reporting campaign and tell users to report Bitcoin and Wasabi Wallet as a false positive to their antivirus.”
+
+The plan was also described on Bitcointalk by Wasabi lead developer Adam Ficsor (nopara73), and high-profile responses quickly followed. Seasoned Bitcoin Core developer Gregory Maxwell suggested that Core binaries could be renamed as a way of circumventing the keyword-based detection system of antivirus programs. The solution is presented as a complement to reporting, which solves the issue until the antivirus companies finally decide to take action.
+
+Shortly afterward, Bitcoin Core developer Luke Dashjr explained that voluntary mining isn’t malware and should also be reported as a false positive. His proposal involves the creation of a more expansive list of affected projects that have no malicious components (as opposed to the backdoor miners with which the likes of Bitcoin Core and BFGMiner are sometimes wrongfully associated). At press time, the campaign is ongoing without a firm resolution. If you would like to join the movement, all of the required information about reporting false positives is available on the Wasabi Wallet website.

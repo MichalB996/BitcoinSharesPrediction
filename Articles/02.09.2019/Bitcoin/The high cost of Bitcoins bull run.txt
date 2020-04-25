@@ -1,0 +1,43 @@
+DATE:  02.09.2019, 21:16:59
+TITLE: The high cost of Bitcoin’s bull run
+URL:   https://decrypt.co/8865/the-high-cost-of-bitcoins-bull-run
+
+American blockchain entrepreneur Rhett Creighton estimated that over $4 billion is being spent on Bitcoin mining each year. How did Creighton work this out? He estimated that Bitcoin mining uses 55 terawatt-hours (TWh) of energy per year and costs 7.5 cents per hour. He multiplied those two numbers together, and out popped the tweet-worthy figure of $4.125 billion.
+
+If Creighton’s right, that amounts to a hefty sum, indicative of an even larger environmental cost. Bitcoin’s incredibly inefficient; all that computing power spent solving those complex puzzles is lost, and the money goes directly into the hands of energy companies. It’s a non-refundable investment, given that the world predominantly relies on fossil fuels, and the harsh price to pay for Bitcoin’s latest bull run.
+
+The new math
+
+It turns out that Creighton’s calculation was wrong—but not by much. Working out the financial and environmental cost of bitcoin mining is far more complex than a calculation that fits into a single tweet.
+
+According to the Bitcoin Energy Consumption Index, the pet project of Alex de Vries, blockchain specialist at PwC, annualized global mining costs $3.66 billion, with a revenue of $7 billion. A neat and tidy profit to bitcoin miners riding high on Bitcoin’s soaring price—but a hefty cost to the environment.
+
+But the numbers Creighton plugged in? Not entirely consistent with de Vries' findings. First, he overestimated the price. De Vries put the price per kilowatt at 5 cents, and he even said that’s generous. “In a lot of places like around in China, you can get cheaper energy...I think the regular price for coal-based electricity in China goes to 4 cents per kilowatt hour,” he told Decrypt.
+
+Creighton also underestimated the terawatt hour: energy consumption is far higher. In fact, the aggregate estimated energy consumption of Bitcoin and Bitcoin Cash has returned to its highest point since November 2018, 73.121 TWh, according to de Vries’ estimates.
+
+Raging bull
+
+Energy consumption dipped along with the price of Bitcoin back in November last year, but has been steadily rising alongside this year’s bull market, which saw a resurgence in bitcoin interest, and thus mining.
+
+To put things into perspective, de Vries’ site, Digiconomist, said that a year’s Bitcoin mining produces the (pick one): carbon footprint of Denmark, or the power consumption of Austria, or the electronic waste of Luxembourg.
+
+The Cambridge Bitcoin Electricity Consumption Index, an initiative released by Cambridge University in July, suggests that things could be much worse. It estimates that around 65 TWh is used annually, but puts an upper bound at up to 135TWh.
+
+De Vries said that the environmental impact isn’t just limited to the amount of power produced. Bitcoin mining machines are often purpose-built for the task, so when farmers replace them or they break, the old models go straight to landfill. De Vries estimated that only 15% are recycled.
+
+China Syndrome
+
+A 2017 study by Garrick Hileman and Michel Rauchs put around 47 percent of mining facilities in China, a nation heavily reliant on coal-based power.
+
+How about Ethereum, the protocol that, despite attempts to transition to a pure Proof-of-Stake blockchain, is yet to shed its slimy Proof-of-Work skin? Not much better according to de Vries’ latest estimates: annualized global mining revenues amounted to over $1.1 billion, and the electricity used to mine those revenues--which garnered a profit of just $425 million--uses the same amount of electricity as Luxembourg.
+
+The green machine
+
+One solution is so-called “green coins,” which Decrypt already debunked as about as environmentally friendly as landfill. Initiatives that hope to mine bitcoins using sustainable energy are “going to be very hard, if not impossible, simply because of the type of energy that these miners need,” de Vries said.
+
+Miners need constant energy to be effective, and the energy provided by, say, solar panels, aren’t consistent enough to genuinely replace fossil-fuels. So, though it’s possible to supplement renewable energy supplies with non-renewable sources, it’s difficult, de Vries said, and that“translates to a not so green network.”
+
+De Vries said that Proof-of-Stake could be a way forward if crypto continues to scale. “From an environmental perspective, it’s definitely a game-changer,” said de Vries. “You don’t need the specialised equipment so you cancel both the energy use and the electronic waste that emerges from it,” he said.
+
+But for now, Proof-of-Stake blockchains, like Hedera Hashgraph and Algorand are still battling for both dominance and relevance.

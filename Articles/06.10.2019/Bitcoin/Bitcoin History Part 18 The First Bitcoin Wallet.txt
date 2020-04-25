@@ -1,0 +1,39 @@
+DATE:  06.10.2019, 14:46:19
+TITLE: Bitcoin History Part 18: The First Bitcoin Wallet
+URL:   https://news.bitcoin.com/bitcoin-history-part-18-the-first-bitcoin-wallet/
+
+Bitcoin History Part 18: The First Bitcoin Wallet
+
+Bitcoin users today are blessed with a panoply of feature-rich software and hardware wallets. When Bitcoin launched, however, there were no wallets. It took Satoshi Nakamoto to engineer the first desktop client, and his creation proved surprisingly resilient, serving the community faithfully for years.
+
+Also read: Bitcoin History Part 17: That Time Mt. Gox Destroyed 2,609 BTC
+
+When Bitcoin-Qt Was the Only Wallet in Town
+
+The first bitcoin wallet was a full client, which meant you had to download the entire blockchain history for it to synch. This wasn’t an issue to begin with, since there was precious little history to record, although the synchronization period swiftly expanded. Reviewing the wallet in 2012, Vitalik Buterin wrote: “Because it is a full node, the client must download the entire (currently 6 gigabyte) blockchain to operate, which can take up to a few days the first time you start the client and several minutes to an hour every time you start the client afterward if you do not keep it running constantly.” Today, the BTC blockchain is approaching 250 GB.
+
+Satoshi began working on the first bitcoin wallet concurrently with his development of the Bitcoin protocol, and the Bitcoin-Qt wallet, as it was known, was released in February 2009. The private keys for the Qt wallet were stored in a file on the user’s desktop titled “wallet.dat,” prompting anguished stories over the years of individuals accidentally deleting this folder or having it accessed by malware searching for it specifically, resulting in the loss of tens of thousands of BTC. There was nothing inherently insecure about Satoshi’s wallet, though. In fact, given that it came with the option to create a fully encrypted backup, Qt was a highly secure wallet when optimally configured.
+
+A No-Frills Wallet That Got the Job Done
+
+Bitcoiners who entered the space pre-2014 will fondly recall the experience of downloading the Qt wallet and watching in wonderment as their first coins arrived, as if by magic, into its receiving address. More often than not, those coins were then sent swiftly on to their final destination – Silk Road.
+
+The first build of the Bitcoin-Qt wallet, 0.1, was believed to have been lost to time until Hal Finney, by then virtually incapacitated with Lou Gehrig’s disease, found the source code in 2012. Bitcoiners curious to see what the first BTC wallet looked like can download and run the Bitcoin-Qt client 0.1 on PC. Satoshi’s readme.txt file that accompanies the software explains:
+
+To support the network by running a node, select: “Options->Generate Coins” and keep the program open or minimized. It runs at idle priority when no other programs are using the CPU. Your computer will be solving a very difficult computational problem that is used to lock in blocks of transactions. The time to generate a block varies each time, but may take days or months, depending on the speed of your computer and the competition on the network.
+
+Ever the master of cutting through complexity, Satoshi finishes: “It’s not a computation that has to start over from the beginning if you stop and restart it. A solution might be found at any given moment it’s running. As a reward for supporting the network, you receive coins when you successfully generate a block.”
+
+A Wallet as Old as Bitcoin Itself
+
+While functionality was limited, the Qt wallet did have a few advanced features to it. In addition to sending and receiving coins and incorporating an address book, it enabled the user to digitally sign a transaction, proving that they were the owner of a particular public key.
+
+Starting from version 0.9.0, the Bitcoin-Qt wallet became known as the Bitcoin Core wallet, following a proposal by Gavin Andresen, who opined that “”bitcoin core” sounds strong and rock-like, which is what you want for something that forms the backbone of the network.” Peter Todd demurred, responding that “Bitcoin Core has the serious problem that it implies you need it,” but the motion passed, and Qt became Core. History, however, would prove Todd to be right.
+
+Despite bitcoiners today having access to an array of user-friendly SPV wallets, the Bitcoin Core wallet is still going strong. As Bitcoin.org, where it can be downloaded, acknowledges, “It offers high levels of security, privacy, and stability. However, it has fewer features and it takes a lot of space and memory.” Its survival is a credit to its creator, and to the Bitcoin developers who have devoted countless hours to improving it over the past 10 years and counting.
+
+Bitcoin History is a multipart series from news.Bitcoin.com charting pivotal moments in the evolution of the world’s first cryptocurrency. Read part 17 here.
+
+Images courtesy of Shutterstock.
+
+Did you know you can verify any unconfirmed Bitcoin transaction with our Bitcoin Block Explorer tool? Simply complete a Bitcoin address search to view it on the blockchain. Plus, visit our Bitcoin Charts to see what’s happening in the industry.

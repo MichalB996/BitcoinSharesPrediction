@@ -1,0 +1,37 @@
+DATE:  12.06.2019, 19:17:31
+TITLE: Radix Replayed 10 Years of Bitcoin Transaction History in 15 Minutes
+URL:   https://www.coinspeaker.com/radix-bitcoin-transactions/
+
+Radix has managed to achieve a speed of over 1 million transactions per second while replaying Bitcoin transactions history.
+
+The team that has developed Radix, a public decentralized ledger built without blockchain, has announced its new achievement. According to the team, they’ve managed to build and deploy tests that are able to replay the whole Bitcoin transaction history on the Radix ledger.
+
+The test demonstrated amazing results. It needed just 15 minutes for pushing 10 years of Bitcoin transaction history with full signature and transaction validation.
+
+How did we achieve #1MTPS? Learn about the full journey and all the details regarding the test at https://t.co/K6ltLkAkYS pic.twitter.com/LVKYOP2IDp — Radix (@radixdlt) June 12, 2019
+
+And it was a significant achievement for the tech world. Radix has proven that it is absolutely possible to develop a technology that will be able to support the apps with the highest volume of transactions in the world.
+
+Aim of the Radix Tests
+
+Radix views its mission in offering everyone friction-free access to the digital economy. For achieving this goal, it is necessary to find a way to avoid high costs and complicated technical solutions.
+
+In other worlds, Radix needs to develop a network that will be able to serve more than 7.5 billion people and 500 billion devices at the same time. That’s why the team pays significant attention to finding such a solution. And they are holding these tests to create real-world conditions for the tech.
+
+The team staying behind Radix has realized that the global community today needs to have a reliable network that would have an expanding transactional throughput. Bearing this in mind, Radix has created a platform for digital-first companies of the next generation, which capacities allow it to scale to every single person on the globe.
+
+In this system, there won’t be any necessity of the inclusion of intermediaries like Visa, Mastercard, or Paypal and a number of back end systems currently used by banks.
+
+Why Bitcoin Transactions History was Chosen
+
+For the first tests of the network’s throughput, Radix has chosen the Bitcoin ledger transaction history. BTC dataset is based on the UTXO transaction model just like Radix. Owing to this peculiarity, the team has managed to convert it to Radix transactional entities (Atoms).
+
+Moreover, BTC network includes 460 mln addresses. This number is quite close to the number of population of a large country. And for Radix this factor is really important, as now they are interested in building the real-world conditions for their tests.
+
+Though the demonstrated throughput is not the maximum one for the platform that is based on sharding, it is much higher than the team has ever tested before.
+
+During the test, the network has shown the result of 1 089 887 transactions per second. This speed allowed to replay 10 years of BTC transaction history in 15 minutes only.
+
+In the future, the team is going to take more traditional datasets of financial institutions and crypto exchanges. These datasets will be more compatible with the Radix architecture. And they will help to demonstrate a wider range of different transaction types that will be processed by the Radix network. The next test is scheduled for June 13.
+
+Author: Julia Sakovich Having obtained a diploma in Intercultural Communication, Julia continued her studies taking a Master’s degree in Economics and Management. Becoming captured by innovative technologies, Julia turned passionate about exploring emerging techs believing in their ability to transform all spheres of our life.

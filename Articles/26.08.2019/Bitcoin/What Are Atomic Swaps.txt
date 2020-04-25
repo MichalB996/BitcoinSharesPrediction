@@ -1,0 +1,61 @@
+DATE:  26.08.2019, 17:21:28
+TITLE: What Are Atomic Swaps?
+URL:   https://bitcoinmagazine.com/guides/what-are-atomic-swaps
+
+Ring in the new bitcoin halving cycle the right way: with us!
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+Atomic swaps are a peer-to-peer, trustless method of exchanging coins on different blockchains. In essence, atomic swaps allow you to exchange, for example, bitcoin with litecoin, while avoiding the need to trust an exchange or any other third party.
+
+Further Reading: What Is Bitcoin?
+
+Atomic swaps can be performed in one of two ways: Firstly, atomic cross-chain trading can be done directly between two blockchains with different native coins — known as an on-chain atomic swap. Secondly, you can use off-chain channels that are offshoots of the main blockchains involved — known as off-chain atomic swaps.
+
+On-chain atomic swaps provide more security since the mechanism is embedded into the blockchain itself and the transaction will either finalize or be cancelled. On the other hand, off-chain atomic swaps are faster and provide more throughput than on-chain atomic swaps but are more complex to perform and still a few years away from practical implementation.
+
+Further Reading: What Is a Blockchain?
+
+A Brief History of Atomic Swaps
+
+Also known as atomic cross-chain trading, the idea of atomic swaps has been around since July 2012, with Sergio Demian Lerner’s initial attempt at creating a trustless exchange protocol called P2PTradeX. The idea was further refined and formalized by Tier Nolan in May 2013.
+
+Nolan’s algorithm was refined even further by former Bitcoin developer Mike Hearn and others. Their improved approach allowed the direct exchange of coins on Bitcoin-derived blockchains, without specific support from the protocol.
+
+A successful mechanism to carry out Nolan’s formal description of an atomic swap did not occur until 2014, when the developer jl777 carried out a test for swapping litecoin with dogecoin. Decred later simplified the code to make atomic swaps more widely available, successfully executing an atomic swap with litecoin in September 2017.
+
+The first bitcoin-to-litecoin off-chain atomic swap using the Lightning Network was conducted in November 2017. These off-chain atomic swaps are largely just demonstrations at the moment and have only been exhibited with two coins that support the same Lightning specification, namely BOLT.
+
+Further Reading: What Is an Altcoin?
+
+How Do Atomic Swaps Work?
+
+Let’s say Alice and Bob want to exchange one bitcoin for 100 litecoin. Alice has one bitcoin and prefers 100 litecoin; Bob has 100 litecoin and prefers one bitcoin.
+
+To make the exchange, Bob first creates a secret number, a “value.” He then also generates a hash from this value, and he shares this hash with Alice. (But he doesn’t share the value itself!)
+
+Now Bob creates a bitcoin transaction, “locking up” one bitcoin. This bitcoin can be claimed in a follow-up transaction in two ways. Either, it can be claimed by Alice, with her signature, in combination with the secret value. The Bitcoin network will recognize the secret value if it matches the hash, which is included in this transaction. Or, it can be claimed by Bob, with his signature, but only after two weeks have passed.
+
+Right now, Alice can’t claim the bitcoin, because she doesn’t know the secret value, and Bob can’t claim the bitcoin, because two weeks haven’t passed.
+
+Next, Alice creates a litecoin transaction, “locking up” 100 litecoin. The 100 litecoin locked up in this transaction can be unlocked in a follow-up transaction in two ways as well:
+
+Either, it can be claimed by Bob, with his signature, in combination with the secret value. Or, it can be claimed by Alice, with her signature, but only after a week has passed.
+
+This means that Bob can now claim the 100 litecoin: He does know the secret value. He just needs to do it within a week, because after that week Alice can claim her 100 litecoin back.
+
+Now, if Bob does claim the 100 litecoin with a follow-up transaction, he broadcasts the secret value: it is now included in the Litecoin blockchain. So, if Alice keeps an eye on the Litecoin blockchain, she can just take the secret value, and, in turn, use it to claim the bitcoin on the Bitcoin blockchain. (She just needs to do it within two weeks, before Bob can claim his bitcoin back.)
+
+Indeed, Bob can only claim the 100 litecoin if he lets Alice claim her bitcoin: a trustless trade.
+
+The Future of Atomic Swaps
+
+As the technology of atomic swaps matures, we should see increased adoption among decentralized exchanges and wallets. At this point, we are already starting to see some uptake of atomic swaps, such as with Altcoin.io, Atomic wallet and Liquid wallet.
+
+Further Reading: What Are Bitcoin Wallets?
+
+If atomic swaps become widely used, they could play a part in eventually making centralized cryptocurrency exchanges obsolete.
+
+But first, atomic swaps need to be integrated across existing wallets and services. There also needs to be an improvement in the user experience to make cross-chain trading easy for the average person.

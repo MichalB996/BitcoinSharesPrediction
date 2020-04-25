@@ -1,0 +1,39 @@
+DATE:  20.02.2019, 19:21:35
+TITLE: Meet Memopay, the Bitcoin Cash Advertising Model That 'Pays for Attention'
+URL:   https://news.bitcoin.com/meet-memopay-the-bitcoin-cash-advertising-model-that-pays-for-attention/
+
+Meet Memopay, the Bitcoin Cash Advertising Model That 'Pays for Attention'
+
+There’s a different kind of advertising taking place on the Bitcoin Cash (BCH) network, using an application called Memopay. The ad campaign platform employs a novel approach to advertise someone’s website, product or service by sending a small fraction of BCH to thousands of public addresses with an encoded OP_return message.
+
+Also read: BCH Devs Lock in Code for the Chain’s Next Upgrade: Schnorr and Segwit Recovery
+
+Memopay: Onchain Advertising
+
+The internet has completely transformed the advertising business into a whole new medium and programmable money is also going to create some new methods of sharing promotional content. For instance, an application called Memopay plans to do just that with its service that offers promoted onchain advertising using the BCH network. Memopay’s website explains that advertisers can reach out to bitcoiners by introducing products and services through onchain messages. The platform uses an OP_return transaction which gives an individual or organization the ability to tether a small message to the transaction and certain block explorers can read the messages.
+
+“Memopay delivers your ad message directly to the wallets of thousands of active Bitcoin Cash users,” explains the service.
+
+Basically, Memopay sends thousands of transactions by sending a small fraction of BCH dust to active BCH wallets. The service believes each ad message delivered along with a small amount of bitcoin cash “pays for attention.” So far the business has run about six onchain ad campaigns that have added up to a total of 88,063 ad messages delivered. A typical transaction could be like 0.00001111 BCH (1111 satoshis) and Memopay says there have been 95,623,876 satoshis distributed.
+
+For instance, the company Cyberian Mine ran a campaign with Memopay because they wanted to drive awareness to potential crypto-focused clients. According to statistics recorded by a Bitdb query in real-time, 10,000 ad messages were delivered and Memopay claims the company saw a 110 percent spike in organic traffic to their website. “You only pay when they click to visit your website,” the website details.
+
+In another instance, Memopay tied an editorial that was shared online and delivered the link to 1,000 BCH holders. The company reports that the campaign saw a 2.5 percent click-through-rate (CTR) already after 24 hours. Memopay is also integrated with three of the major BCH block explorers developed by Bitcoin.com, Btc.com and Blockchair.
+
+The New Advertising Target: 16 Million Public Bitcoin Cash Addresses
+
+The process to run a campaign is fairly intuitive as the user simply chooses an ad mode to drive traffic to a website or pay for clicks only or CPS to drive awareness by paying for each delivered message. Then they have to fill out the request form and create a custom advertising message that will attract consumers. After that, the user funds the provided address with BCH to start the ad campaign. Memopay users then receive a link to the ad campaign’s dashboard to see the real-time progress of the promotional content.
+
+Memopay says there are many benefits to using the service and the top attribute is a direct connection to a cryptocurrency audience. There are 16,984,512 BCH addresses and each and every one of them is open to the public’s view. This gives the project transparency says Memopay as “each contact with Bitcoiners is recorded on the Blockchain and can be easily checked.”
+
+“[Memopay] is keyword agnostic and customers pay the same price for any keyword used,” the startup notes on the website’s benefits description. “In both Cost-per-click and Cost-per-send campaigns you’ll know exactly what the price is — Ad messages with an active link will be stored on the Blockchain forever.”
+
+Paying for people’s attention in the advertising business is basically the name of the game but using blockchain technology adds a different flavor. Advertising using OP_return transactions has been done many times in the past in various ways. For example, back in April of 2018 the online broker for online stock trading and financial management service TD Ameritrade used BTC OP_return transactions to advertise the company. Its logo surrounded by a digital flag is forever etched into the BTC chain as the firm used 68 transactions to create the message.
+
+“The blockchain is an amazing piece of technology — And we’re proud to be part of it — Forever,” the banking institution stated at the time.
+
+What do you think about the Memopay advertising service? Let us know what you think about this subject in the comments section below.
+
+Image credits: Shutterstock, Memopay, and TD Ameritrade.
+
+Have you seen our widget service? It allows anyone to embed informative Bitcoin.com widgets on their website. They’re pretty cool, and you can customize by size and color. The widgets include price-only, price and graph, price and news, and forum threads. There’s also a widget dedicated to our mining pool, displaying our hash power.

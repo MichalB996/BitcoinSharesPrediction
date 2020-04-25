@@ -1,0 +1,39 @@
+DATE:  07.02.2020, 22:30:15
+TITLE: What blockchain data tells us about Bitcoin’s road to $10,000
+URL:   https://cryptoslate.com/what-blockchain-data-tells-us-about-bitcoins-road-to-10000/
+
+Research by Jesus Rodriguez and Lucas Outumuro of IntoTheBlock
+
+Round, exact numbers typically become a strong psychological barrier for investors in capital markets. That certainly seems to be the case with the $10,000.00 mark in the case of Bitcoin. For days, analysts have been projecting different paths to break through the mystical resistance level. Complementing technical charts, investors could also get interesting insights about Bitcoin’s path to $10,000.00 by analyzing the Bitcoin blockchain.
+
+Blockchains represent an incredibly rich and unique source of information about crypto-assets. One of the most fascinating benefits of blockchain datasets is that they contain statistically relevant patterns about the behavior of individual investors which can result highly complementary to traditional technical analysis models.
+
+Let’s explore these ideas in the current market context of Bitcoin.
+
+What technical analysis tells us
+
+Technical charts showed that there is a large resistance at $9850, followed by some resistance at $10,000 and more around $10,500. In terms of support, there is support at the lower end of the wedge and channel formations around $9,530 and $9,250, respectively.
+
+A blockchain perspective
+
+There are many statistical and machine learning methods that can be used to extract insights from individual addresses in a given blockchain. IntoTheBlock’s In-Out Money Around the Current Price(IOMAP) uses machine learning to identify the ten most relevant clusters of investor positions at a range of plus-minus 15 percent of the current price. The analysis offers a very granular view of investor positions that are susceptible to near-term price movements. Given that we are looking at individual investor positions, the IOMAP analysis can be used to complement traditional support/resistance models by quantifying the positions of individual investors.
+
+A look at the IOMAP model for Bitcoin shows just under 500,000 addresses with positions around the $9800 mark. This could be seen as a thin level of resistance for Bitcoin to get to $10,000.00 as a percentage of investors that previously bought at this price may be looking to break-even. The same analysis by volume reveals that those addresses hold over 180,000 Bitcoins, which is a sizable volume.
+
+If Bitcoin breaks through $10,000, then it might experience similar levels of resistance to get to $10,300 and $10,600, where a larger volume of 375,000 Bitcoin was previously bought.
+
+The scenario for Bitcoin to continue climbing is clear, but what would happen if the cryptocurrency price starts declining? The IOMAP analysis reveals that Bitcoin has a very strong support level at the range between $9200 and $9500, where almost 1.3 million holders previously bought 1.1 million Bitcoin. From that perspective, it is likely that Bitcoin could remain solid at the current levels despite a market decline. If however, Bitcoin drops below $9200, then it may go all the way down to $8600 as there are not as many investors with positions open in between that price range.
+
+Another perspective that can be used to understand the current price movements of Bitcoin is analyzing investor entry and exit points with their positions. This is shown by IntoTheBlock’s In-Out Money Over Time(IOMOT) analysis. By comparing the number of addresses that were in the money at a similar price level at two points in time, we obtain an understanding of how investor positioning changed throughout that time.
+
+For example, last time we were at a similar price range in late October, roughly 21 million addresses were making money in their positions. Fast forward to early February, almost 24 million addresses are making money at the same price range, indicating a large number of holders bought the dip. This trend indicates that bitcoin holders have been accumulating and gaining momentum as more holders are currently in the money.
+
+Overall, onchain analysis of Bitcoin holders’ positions demonstrates the large support and resistance levels also pointed out by technical analysts. The significant amount of holders sitting on positions bought slightly above current prices may be causing downward price pressure as some of them look to break-even around the $10,000 range.
+
+Conversely, the even larger number of Bitcoin holders at the range between $9,200 and $9,500 is expected to create upward price pressure as people currently making money around those levels may look to buy in again. Additionally, the large increase of addresses in the money of 3 million addresses is an indicator that momentum is currently on the bullish side.
+
+
+
+About the authors
+
+Bitcoin | BTC $8,715.64 -0.8% Bitcoin, currently ranked #1 by market cap, is down 0.8% over the past 24 hours. BTC has a market cap of $159B with a 24 hour volume of $44.59B. Chart by CryptoCompare

@@ -1,0 +1,47 @@
+DATE:  03.03.2020, 11:15:23
+TITLE: Human Readability and Privacy: BCH Can Be Sent by Email With Tips Tool, No Usernames Required
+URL:   https://news.bitcoin.com/human-readability-bch-email-tips/
+
+Human Readability and Privacy: BCH Can Be Sent by Email With Tips Tool, No Usernames Required
+
+Tips.Bitcoin.com allows users of crypto to tip BCH to friends and family via email address, arguably cutting out some of the inconvenience associated with standard bitcoin address formats. Unlike Coinbase Wallet’s new username option, which achieves similar ease for transactions, sending keys via email does not require a centralized database of usernames connected to crypto wallets. The tips method is a means for using bitcoin in this fashion, and there are hints the process will become even more streamlined in the future, enabling customizable QR code payments to be sent directly to email addresses.
+
+Also read: Cryptocurrency Payment Gateway Gocrypto Onboards 1,000 Locations Worldwide
+
+Human Readable Bitcoin Addresses
+
+On February 26 Coinbase Wallet announced that “Starting today, Coinbase Wallet users can send crypto using short human-friendly usernames instead of traditional long addresses.” The benefit to users being they can send crypto to other wallets without having to deal with clunky and awkward-to-read strings of numbers and characters.
+
+“Every Coinbase Wallet user has a username (like @walletfan). You can now easily send to other Wallet users with just their username instead of their full-length crypto address,” the announcement reads. While this method sounds very convenient, some issues are raised for those who value privacy.
+
+The group that says “We value your privacy” is nonetheless subject to powerful financial and regulatory groups, such as the United States IRS, and has turned over private customer information in the past. As such, crypto enthusiasts wishing to send peer-to-peer cash in a more direct fashion, while maintaining the convenience of human readability, could leverage email and a wallet that does not connect individuals to wallets.
+
+As lawyer and crypto business expert Daniel Kelman stated of the Bitcoin.com Wallet in a recent Youtube video:
+
+Even if the IRS sent a letter demanding that we send over who owns what wallet, we couldn’t tell them, ’cause we don’t know.
+
+Of course, an email provider may spy on or compromise user security as well, but the risk of an identifiable username associated with a proven data sharer like Coinbase could be mitigated. Especially if messages are encrypted. Like usernames, email addresses are easy to read, and making mistakes is much harder to do when sending to a friend’s email, instead of a scramble of characters.
+
+Sending Bitcoin Cash via Email With Tips.Bitcoin.com
+
+The recently rebranded tips.Bitcoin.com is one way to send crypto via paper tickets or emailed links, with some interesting special features. Senders follow the simple prompts on the page, entering their own BCH refund address and designating an expiration time after which the tip will expire. Once the tip or tips (multiple tips can be created at once) are paid for, links appear which can be copied, pasted, and sent to recipients via email. Once clicked, the links allow recipients to enter their own BCH address and receive the funds.
+
+If left unclaimed, rewards return non-custodially and automatically to the sender’s wallet after the designated cutoff time.
+
+Some may wonder how this is preferable to other methods, as refund addresses and receiver addresses still need to be entered. That may seem like a lot of steps compared to username systems for sending crypto like that of Coinbase Wallet, but aside from the privacy benefits, there is talk of more streamlined versions coming down the pike.
+
+Bitcoin.com Executive Chairman Roger Ver also hinted at a new iteration of this idea in the aforementioned Youtube video, saying “Here’s what we’re building.” He then referenced the existing tips tool and taking it further: “It’s literally a private key, with money at that address, and if they don’t claim it, the money can bounce back to you after 30 days. Totally non-custodially as well. So we can do the exact same thing, but with an email.”
+
+You just send an email of the private key to the person you want to send money to. They can scan it right from their email [via QR code] and claim the money, and if they don’t, after however many days you decide in the beginning, the money bounces back to your wallet.
+
+Peer-to-Peer, Right Now
+
+Of course, nothing is stopping anyone from generating their own private keys right now and using them to send crypto via email, but for the average user, tools like the Bitcoin Cash Tips generator can come in handy, especially with the customization and refund options. There’s no set date for the hinted-at QR code tool’s release, but in the meantime there are at least ways to send crypto without relying on copy/pasting a recipient’s bitcoin address. And perhaps most importantly, there are ways to send crypto that don’t require unnecessary risk and loss of privacy.
+
+What do you think is the best way to implement user-friendly addresses for bitcoin? Let us know in the comments section below.
+
+Disclaimer: This article is for informational purposes only. It is not an offer or solicitation of an offer to buy or sell, or a recommendation, endorsement, or sponsorship of any products, services, or companies. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.
+
+Images courtesy of Shutterstock, fair use.
+
+Did you know you can verify any unconfirmed Bitcoin transaction with our Bitcoin Block Explorer tool? Simply complete a Bitcoin address search to view it on the blockchain. Plus, visit our Bitcoin Charts to see what’s happening in the industry.

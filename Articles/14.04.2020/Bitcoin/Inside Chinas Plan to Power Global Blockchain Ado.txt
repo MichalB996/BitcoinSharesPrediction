@@ -1,0 +1,137 @@
+DATE:  14.04.2020, 19:30:16
+TITLE: Inside China’s Plan to Power Global Blockchain Adoption
+URL:   https://www.coindesk.com/inside-chinas-plan-to-power-global-blockchain-adoption
+
+China is about to launch its national blockchain platform, part of the country’s grand strategy to lead the digital transformation of the world economy.
+
+Led by the State Information Center, the Blockchain Service Network (BSN) is poised to launch for domestic commercial use Wednesday and globally on April 25. If it works as envisioned, companies and software developers will be able to plug into the BSN and build blockchain-based applications as easily as assembling Lego sets.
+
+But the ultimate goal may go well beyond technical support for coders.
+
+“As the BSN takes hold in worldwide countries, it will become the only global infrastructure network that is innovated by China, whose gateway access is controlled by China,” declares the latest white paper penned by the BSN Alliance, led by the government agency, several state-owned entities and blockchain firms.
+
+As such, the project has geopolitical and macroeconomic implications.
+
+“The move is very much like the ‘One Belt One Road Initiative’ in which China provides other countries with infrastructure and gains some first-mover advantage,” said James Cooper, a law professor and director of international legal studies at California Western School of Law.
+
+The project also reminds Cooper of "Made in China 2025," a nationwide initiative to spearhead innovation in areas such as robotics and artificial intelligence, he said. The subtext is a desire to overcome China’s image as a copycat, reverse-engineering innovations from elsewhere.
+
+In the October announcement of the BSN's internal testing, the Chinese government envisioned a variety of use cases. These included smart city applications, which use sensors connected to the internet to collect data and glean insights for managing public resources; in particular, the alliance mentioned energy conservation. It also listed identity registration and data storage as opportunities for BSN.
+
+“China has the ambition to be the technology leader in the world. And I think they might have enough technology chops to pull this off, at least within the blockchain industry,” said Edith Yeung, managing partner at blockchain-focused venture capital firm Proof of Capital.
+
+Several signs indicate China has been building to this moment.
+
+“China files the most blockchain patents in the world,“ Yeung said. “They got the most important infrastructure companies on board: banks, telecom and internet giants.”
+
+Part of the network’s mission, once it is proven to be efficient and scalable in China, is to go abroad. Hong Kong and Singapore are among the 56 cities where the alliance is testing the network first.
+
+“We have already deployed some international nodes in other countries, such as the U.S, Japan, Australia, Brazil, South Africa, Singapore and France,” Leon Li, CEO of crypto exchange operator Huobi Group, said through a spokesperson. His Singapore-based company’s blockchain development arm is a founding member of BSN.
+
+Other countries will have incentives to join the network, Yeung said, pointing to the BSN’s business-friendly priorities.
+
+“They get the selling point for enterprises right in their white paper,” she said. “For anyone to come on board, it needs to be low-cost, fast deployment and easy to manage.”
+
+What is the BSN?
+
+The initiative – which is rolling out next week after a six-month internal test – is led by the State Information Center, a government agency under the National Development and Reform Commission, as well as state-owned telecommunication giants including China Telecom, China Unicom and payments firm China Union Pay.
+
+
+
+But the BSN itself is not a blockchain protocol. Rather, it’s a centralized platform that has done the heavy lifting for developers so they can plug in and code, choosing from several enterprise blockchain protocols or public chains. The goal is to reduce their operational costs, improve flexibility and provide better regulatory oversight, according to the white paper.
+
+
+
+“Designed to unify the fragmented market, BSN is a cross-cloud, cross-portal and cross-framework public network that enables developers to easily and affordably develop, deploy, operate and maintain permissioned ... and permissionless blockchain applications and nodes,” Li said.
+
+
+
+During the beta testing period that began on Oct. 15 of last year and ends Wednesday, more than 2,000 participants signed up. A third of them are enterprises while the rest are individual developers, Li said.
+
+
+
+One of the network’s advantages for BSN is its low price, which makes it accessible to a wider range of users compared to some of its prospective competitors, according to Li.
+
+
+
+“Deploying [distributed ledger technology] applications on major cloud services such as Ali Cloud and Huawei Cloud can cost developers tens of thousands of dollars per year,” he said. “To make it less cost-prohibitive for developers to deploy DLT applications, the minimal cost on BSN is only $300 per year.”
+
+Read more: Fintech Firm Joins Chinese Conglomerate to Build Blockchain Platform
+
+The low price will encourage a vast number of small and medium-sized enterprises and individuals, including students, to use the BSN to invent and innovate, thereby accelerating the rapid development and widespread use of blockchain technology, Li said.
+
+According to the white paper, there are two main parts to laying the groundwork. The first is deploying the so-called public city nodes, essentially data centers or cloud computing resources dedicated in certain cities to processing transactions.
+
+The white paper boasts that the BSN has signed up 100 city nodes via its telecom members and is hoping to deploy up to 200 more by the end of this year.
+
+The second part is the configuration and modification of several enterprise blockchain protocols to fit uniform standards, in areas such as cryptography and software development kits (SDKs), so these systems can work in conjunction with each other.
+
+So far, the BSN has configured and added several permissioned blockchain protocols to its pool including Hyperledger Fabric, the open-source software Walmart uses to track food along its supply chains. The network has done the same for China’s home-grown protocols such as internet giant Baidu’s Xuper Chain, and FISCO, developed by a consortium of China’s Shenzhen government agencies and local tech companies including Tencent, WeBank and Huawei.
+
+Most recently, CITA, the enterprise blockchain project initiated by developers at Cryptape, who backed the development of Nervos public chain, has also been added to the BSN.
+
+Once authorized by the alliance and given a standardized SDK, developers will be able to choose a protocol and rent computing resources in locations they need to deploy a blockchain application. Because the permissioned protocols are adapted to support interoperability, developers will have more flexibility to switch from one to the other, the whitepaper said.
+
+The top-down approach enables China to build a large-scale network quickly while avoiding regulatory red tape, Cooper said. “China has a national strategy.”
+
+Public chains
+
+In an initial BSN white paper published last year, the alliance only mentioned support for Hyperledger Fabric, the permissioned blockchain initiated by the Linux Foundation with contributions from tech giants including IBM.
+
+Unlike the public blockchains underpinning bitcoin and other cryptocurrencies, which anyone with an internet connection can download and run, permissioned systems can only be used by approved parties.
+
+
+
+But the latest version of the white paper said it’s also including other permissioned blockchain frameworks. More surprisingly, it specifies the BSN will incorporate two public protocols: Ethereum and EOS.
+
+There are a few reasons why the Chinese government is wary of open networks. Numerous scammers in the country lacking any technical foundations have used “community-driven” public chain projects to raise money from investors via initial coin offerings (ICO).
+
+Even public chains with legitimate technology pose risks, as the Chinese government sees it. If widely adopted as currency, digital tokens could undermine the Chinese central bank’s monetary sovereignty, for instance.
+
+As China aims to expand its network of its city nodes worldwide to create a global infrastructure, it’s unclear how well it will be received if the state controls the access points.
+
+Still, while the Chinese government has predominantly focused its resources on private blockchain projects, it has been engaging in public blockchain projects cautiously and discreetly.
+
+The Shanghai government, for example, announced it would write grants and set up a research institute for Conflux, a public chain project founded by a group of top Chinese engineers.
+
+China Merchants Bank International (CMBI), whose major shareholders include entities partly or fully owned by the state, is working with Nervos, a public permissionless network, to develop blockchain-based financial applications.
+
+The logic behind the government’s (limited) involvement with public chains is that China needs to understand the technology, and it could have its own Ethereum-like networks if such systems succeed, said Omer Ozden, chairman of RockTree Capital.
+
+Yeung said the Chinese government is surprisingly savvy about grassroots developer communication.
+
+“If you look at their website and WeChat channel, they are now hosting their second developer competition,” she said.
+
+According to Li, BSN doesn’t support public chains in China, but it will support Ethereum and EOS nodes outside China after the international beta testing phase ends in July.
+
+Big Brother?
+
+Such a change attests to China’s complicated relationship with public blockchains.
+
+Such networks underpin major cryptocurrency assets that are seen by the authorities as a source of speculation and systemic risk. But they arguably inspired the country’s pursuit of a central bank digital currency (CBDC).
+
+In the early days of its CBDC development, the People’s Bank of China (PBoC) considered distributed ledger technology but has pivoted to exploring a sort of middle ground between decentralization and centralization.
+
+“China is doing what they say they would do,” Yeung said. “Their virtual currency may be rolled out within a year. And they are doing it, at least the infrastructure piece, even with everyone locked up during COVID time for the past 90 days.”
+
+The BSN white paper spells out the thinking of the state-sponsored group that the “complete decentralization” and “libertarian” nature of public blockchains make them ungovernable.
+
+“Many countries are able to formulate their own regulatory policies in relation to the Libra consortium blockchain founded by Facebook but are powerless over the permissionless blockchain framework of bitcoin,” the white paper said.
+
+Therefore, even though the BSN will support Ethereum and EOS, “it is not allowed to deploy and operate public blockchain nodes on BSN portals and city nodes that are within China.”
+
+The logic behind the digital yuan and BSN could be that China has to study these technologies to prevent a company like Facebook or another country from gaining a monopoly on digital currency, Cooper said.
+
+“I think the irony is that a highly centralized system is embracing a distributed ledger or a decentralized technology,” he said.
+
+As China aims to expand its network of its city nodes worldwide to create a global infrastructure, it’s unclear how well it will be received if the state controls the access points.
+
+A recent article in engineering publication IEEE Spectrum suggested BSN’s global partners, such as overseas developers or data center providers, may balk since holding the BSN’s root key – a unique passcode that’s generated to secure server interaction with a network – would allow the State Information Center to view transactions made on the platform.
+
+The white paper did not specify whether the authority could monitor transactions, only that transactions made within an application will be kept private from each other.
+
+However, Yeung believes the Chinese government wants to be able to track everything with the network.
+
+“There is nothing decentralized about BSN,” she said, arguing the setup will help the government to fight fraud.
+
+“If the government has access to everything via handpicked nodes, everything is developed and maintained by the government, no more cash,” Yeung said. ”It's hard to have any fraud if all telco, banks, transportation, Alipay or WeChat is part of the government network.”

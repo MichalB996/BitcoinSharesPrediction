@@ -1,0 +1,65 @@
+DATE:  03.06.2019, 13:09:00
+TITLE: Bitcoin 51% Attack: How It Works, How Much Bitcoin 51 Attack Costs
+URL:   https://u.today/guides/blockchain/bitcoin-51-attack-how-it-works-how-much-bitcoin-51-attack-costs
+
+51% attack Bitcoin occurs when more than half of the hash rate decides to verify certain transactions leaving others unverified
+
+Cover image via www.123rf.com
+
+With cryptocurrencies that use Proof of Work for transactions, the setup of the node is such that priority is given to the Blockchain network which has the most blocks. Having the most block also loosely translates into having the most hashing power so anyone with such power can exploit it to manipulate transactions. How is the Bitcoin 51 percent attack even possible? Let’s find out.
+
+What is a Bitcoin 51 Attack?
+
+A 51 percent attack is said to be imminent when an individual (not likely) or a group of people join forces to control more than 50 percent of the mining power of a blockchain network. The security of Bitcoin is hinged on different miners putting in an effort towards verifying and completing transactions on a shared ledger. This decentralized ledger is known as the Blockchain.
+
+51 percent attack on Bitcoin occurs when the entity with more than half of the hash rate then decides to verify certain transactions on the Blockchain network and leaves others unverified. This also allows them to spend their coins (confirm their transactions) more than once. This occurrence during a 51 percent Bitcoin attack is known as double spending.
+
+What is the current cost of a 51% attack?
+
+Knowing the benefits of this kind of power, it is quite difficult to carry out. In fact, the variables involved can get very complex but don’t worry, we’ll simplify it for you. You should also note that the more expensive the attack is, the more secure the Blockchain network is perceived to be from a 51 percent attack.
+
+What Factors Affect the Cost of a 51 Attack on Bitcoin?
+
+Some of the factors to consider are mentioned below.
+
+The network hash rate in GH/s The hash rate of the hardware The power consumption of the hardware The electricity cost per day How much it costs to cool the hardware How difficult it is to mine normally The reward obtained from mining The cost of hardware and other components used to mine the coins The disparity between the cost of mining and the market price The location where mining occurs The cost of maintenance
+
+The cost of a Bitcoin 51% attack
+
+Bitcoin remains the largest and most popular cryptocurrency at the moment. Valued currently at $6,000 with a market cap of about 131.83 bln, you can understand what there is to gain when you successfully get hold of 51 percent control.
+
+The hash rate is currently about six exahashes per seconds. Considering the most efficient ASIC miner with a hash rate of about 13,000 GHS (using the SHA-256 algorithm) being sold for about $2,100, an attacker will require about 500,000 hardware units and this will amount to about $1,005,000,000. When we factor in the cost of electricity and cooling daily, this figure rises to $1,006,000,000.
+
+
+
+The cost of Ethereum 51% attack
+
+As the second largest cryptocurrency with a market capitalization of about $60 bln, crypto enthusiasts believe that it has the potential to usurp Bitcoin and become the next best cryptocurrency in the market.
+
+It has a network hash rate of about 77 GH/s and the Radeon RX480 seems to be the best option for mining. It costs $199 with a hash rate of about 0.025 GH/s. purchasing just three mln units should suffice to gain 51 percent share of the Ethereum network and this will cost $616,000,000. Including the cost of electricity and cooling, it will approximately be $617,000,000.
+
+How to reduce the risk of Bitcoin 51% Attack
+
+The 51 percent attack on Bitcoin is, in no way, an assurance. Having 51 percent computing power doesn’t guarantee that you’ll be able to commit any fraudulent activity. However, we still need to put in work to prevent this from happening.
+
+Questions concerning Bitcoin 51 attack by the government shouldn’t arise as there’s no real threat from the government apart from the lack of regulation. This doesn’t gainsay the need for 51 percent attack Bitcoin protection. Here are some of the available ways to mitigate the attack.
+
+There should be a way limit the size of mining pools within the Blockchain network Using a Proof-of-Stake consensus rather than a Proof-of-Work consensus will help Interchain linking Building coins using other networks such as the ERC20
+
+Prior Bitcoin 51% attacks
+
+In 2014, Ghash.io was one of the pools with several individual miners on the Blockchain miners and this provided them with immense control and power. For a while, they had close to 42 percent of the network’s hashing power and they even got worryingly close to 50 percent.
+
+This sparked a debate about the relevance of mining pools and the amount of power they wield. People began to call for plans to decentralize the Blockchain network and this was met with stiff opposition since the concept of mining in a pool offered far more advantages than disadvantages.
+
+More recently, the Bitcoin Gold team announced that a Bitcoin 51 percent attack ensued. An attacker got access to 51 percent of the network’s computing power and this caused the attacker to tamper with the blockchain and then reverse transactions.
+
+
+
+These attackers went on to make deposits at cryptocurrency exchanges and then offered the Bitcoin Gold for bitcoin and other altcoins. They then withdrew the cash after a while. After doing this, they caused the blockchain to accept these false blocks that they created and then they reversed their deposits.
+
+It was reported that the total amount the attacker sent is about $18 mln.
+
+Real but preventable
+
+Is the Bitcoin 51 percent attack real? Yes! Is it possible? Absolutely? Is it costly? Definitely? However, it is also preventable. Also, considering the cost of hacking these more renowned currencies such as Bitcoin and Ethereum, it is unlikely that you’ll be losing your digital assets to any of the impending 51 percent Bitcoin attacks.

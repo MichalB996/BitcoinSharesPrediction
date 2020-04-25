@@ -1,0 +1,41 @@
+DATE:  09.02.2020, 17:32:27
+TITLE: How to Use a U2F Key to Secure Your Crypto Accounts
+URL:   https://news.bitcoin.com/how-to-use-u2f-key-crypto/
+
+How to Use a U2F Key to Secure Your Crypto Accounts
+
+Universal 2nd Factor (U2F) is an open standard for strengthening two-factor authentication. It involves the use of a physical key to reinforce 2FA, hardening your online accounts from attack. In this guide, we’ll explain how to use a Yubikey to lock down your exchange account, email account, and other valuable online accounts.
+
+Also read: German Economy in Risk of Recession Amid Weak Demand, Tariff Threat, and Epidemic
+
+
+
+U2F Is Physical 2FA for the Security Conscious
+
+If you’re at heightened risk of online attack, say, cos you’re a sysadmin or cryptocurrency trader, you should take steps to secure your accounts. Most bitcoiners already use 2FA, such as the Google Authenticator app, to secure their crypto accounts. U2F takes that to another level by mandating use of a physical key that is inserted into the USB port of your device, or held in proximity to your smartphone if it’s an NFC key. Even in the event of malware being installed on your computer, or your 2FA recovery codes being stolen, a U2F key should keep attackers at bay.
+
+For the purposes of this guide, we’ll be using a Yubikey, one of the most popular devices on the market. (Google, for its part, also recommends the Feitian keys.) Manufacturer Yubico boasts “Zero recorded account takeovers in 11 years” because “the physical key requires a human touch and cannot be remotely hacked.” Lose your key, however, and things get a little complicated, since unlike Google Authenticator, Yubikeys don’t come with recovery codes. We’ll troubleshoot that problem shortly, once we’ve covered the basics.
+
+One Key to Secure Them All
+
+Yubikeys retail for around $50 apiece and, like hardware wallets, are best ordered direct from the manufacturer to prevent tampering. Yubico supplies a range of keys including a Nano version whose compactness makes it suitable for leaving permanently plugged in to the USB slot of a trusted desktop computer. The 5 series is the range that most consumers will opt for. They’re designed to secure Google, Microsoft, Github, Dropbox, Facebook, Twitter, and Lastpass accounts, as well as various crypto related platforms.
+
+Yubico works with Binance, Bitfinex, Bitmex, Kraken, and hundreds more companies across dozens of industries. Attend any developer-oriented crypto conference and you’ll see U2F keys plugged into laptops and dangling from keychains worn by delegates. You don’t have to be in charge of your team’s Github repo to warrant a Yubikey, however – simply holding crypto on a centralized exchange can be cause enough. Plus, in an era of NFC, biometrics, QR codes, and contactless payments, it feels badass to be carrying a physical key with magical powers.
+
+Using Your U2F Key
+
+If you’re intent on locking down your accounts with the aid of a Yubikey or similar U2F device, the first place to start is your email. If you’re a Google user, the Advanced Protection portal will guide you through the process. Other email providers including Protonmail also support the U2F protocol.
+
+Next, you should secure your cryptocurrency accounts, including any exchanges you trade on, in the same manner. Add a Yubikey to your Binance account, for instance, and you’ll be prompted to plug it into your computer every time you log in or withdraw. It effectively replaces the 2FA you will have been using up until now.
+
+If you’re wondering what happens if your U2F key is lost, broken, or stolen, many sites will let you pair multiple keys, providing redundancy in the event of key loss. Unfortunately, Binance is not one of them. Lose your key and you’ll need to initiate Binance’s account recovery process, which may take a few days to complete and will require alternate verification.
+
+U2F keys aren’t perfect, then, or to be more accurate, there are situations where their security model comes at the expense of convenience. If you’re intent on using one, though, that’s a sacrifice you’ll be willing to make in the quest of greater security. Where possible, pair two U2F keys with each of your online accounts, and keep your master key securely stored on a chain at all times. Once implemented, using a U2F key every time you log in will become second nature.
+
+What’s your experience of using U2F keys? Would you recommend them? Let us know in the comments section below.
+
+Disclaimer: This article is for informational purposes only. It is not an offer or solicitation of an offer to buy or sell, or a recommendation, endorsement, or sponsorship of any products, services, or companies. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.
+
+Images courtesy of Shutterstock.
+
+Did you know you can verify any unconfirmed Bitcoin transaction with our Bitcoin Block Explorer tool? Simply complete a Bitcoin address search to view it on the blockchain. Plus, visit our Bitcoin Charts to see what’s happening in the industry.

@@ -1,0 +1,69 @@
+DATE:  14.06.2019, 15:20:38
+TITLE: Meet the Developer Who Added Schnorr Signatures to Bcash
+URL:   https://news.bitcoin.com/meet-the-developer-who-added-schnorr-signatures-to-bcash/
+
+Meet the Developer Who Added Schnorr Signatures to Bcash
+
+This week news.Bitcoin.com spoke with Jonathan Gonzalez, the blockchain developer who is currently maintaining the Bcash project, a Bitcoin Cash full node written in node.js. Gonzalez explained how he got into Bitcoin Cash development and how he managed to get the Bcash node fully compatible with last May’s fork, which introduced Schnorr signatures to the main chain.
+
+Also read: How to Exchange Your Amazon Gift Cards for Bitcoin Cash
+
+Schnorr Signatures and Bcash
+
+The Bitcoin Cash (BCH) network has a variety of full node implementations that are developed by different programmers. BCH nodes include implementations such as Bitcoin ABC, Unlimited, and Bchd. Last year in May, Purse.io launched an alternative Bitcoin Cash client called Bcash, a BCH protocol node written in node.js. The implementation of the BCH protocol written in node.js can operate as a full node as well as perform Simplified Payment Verification (SPV). Furthermore, it is composed of a wallet backend with BIP44 derivation, a general purpose BCH library, and a mining backend. However, just before the May 2019 upgrade, which added Segwit recovery and Schnorr signatures, Purse announced that they couldn’t maintain the Bcash repository anymore and hoped someone could take over the project.
+
+So Jonathan Gonzalez did just that and all by himself managed to prepare Bcash so it would be fully compatible with the recent upgrade changes. Gonzalez spoke with news.Bitcoin.com this week about how he got into blockchain development, more specifically why he decided to work with BCH, and why he decided to run with the Bcash project.
+
+News.Bitcoin.com (BC): When did you get into developing and how did that gravitate to the cryptocurrency realm?
+
+Jonathan Gonzalez (JG): Early 2016 is when I actually started to write software in a programming language called Clojure. Oddly enough my attention diverted solely towards Bitcoin by way of the Bcoin codebase. I was inspired by the project in the sense that it was an opportunity to actually learn the protocol or design of the system since it was the only structured implementation of the Bitcoin Protocol that I understood.
+
+Got the entire bcash fullnode ported over for the Schnorr Bitcoin Cash hardfork. Chain syncs, and you can check the commits. Download the Schnorr branch and sync a node. Great work everyone on the hardforkhttps://t.co/5T6RmoIjSv — Jonathan Gonzalez (@rojikku1) May 15, 2019
+
+BC: Why did you decide to work on Bitcoin Cash over another chain?
+
+JG: [This occurred] during the time that I was building a foundation for myself in building out infrastructure projects and learning the Bcoin codebase in 2017. I had no idea about the Bitcoin hard fork up until the 3rd of August when I caught word of it while visiting Purse.io at their office. A month had passed since the visit and there was a big demand for an alternative implementation of the BCH protocol since during that time, there was practically none. Then later, companies like Bitpay, Purse started pursuing using BCH in their businesses. Perhaps the overall decision was circumstantial, nevertheless, I was inspired by the ambition to understand the protocol.
+
+Like all new interests I develop over time, regardless if it’s lucrative or not, I try to the best of my ability to materialize them objectively and till now … [it’s] one of the reasons as to why I always find my way back into BCH.
+
+BC: You managed to get the Bcash full node implementation up and running after Purse had dropped the project — what made you decide to do that?
+
+JG: I’d accredit that to my pride more than anything. Besides, I use the full node for its API in two services that I utilize daily. I wanted to make sure that if the project were to be disbanded it wouldn’t be due to my lack of interest or efforts.
+
+BC: How did you get the Bcash full node to be compatible with the Schnorr signatures and Segwit recovery upgrade?
+
+JG: The cryptographic library (bcrypto) that Bcash/Bcoin depends on under the hood ported the Schnorr algorithm into the ECDSA/Secp256k1 modules found in the library. Allowing signing and verification functions to be utilized with the Secp256k1 curve. Since there were only modifications to two of the opcodes found in the scripting system (OP_CHECKSIG and OP_CHECKDATASIG), there was no heavy lifting in modifying the stack since there was no change in the transaction portion of the codebase.
+
+So from there the only requirements for implementing the changes directly involved adding a few additional helper functions to the scripting system that allows the script to distinguish between DER/Schnorr encoded signatures by checking if the Schnorr flag value is set, along with determining whether or not the signature is 64 bytes, since DER and Schnorr differentiate in signature lengths (usually by 6 – 7 bytes).
+
+Now in regards to Segwit recovery, I’ve added a few rules to the input, output script verification which detects whether a witness program is present. Since it’s simply just a recovery mechanism there are no modifications to the SIG_HASHTYPES. Nothing realistically changed in the signature hash so it simply looks for the redeem script to be a witness program and the regular witness program logic was ported from Bcoin. I’d say [Segwit recovery] was the easiest out of the two things to implement for the hard fork spec.
+
+BC: Why do you think Bcash is a worthy node to build over other implementations?
+
+JG: There are tons of interesting features that come along with the design of the codebase. For instance, the wallet is completely segregated from the full node and lives on its own node port. Something that Bitcoin Core hasn’t accomplished yet. Building APIs around the full node and wallet nodes are very simple to get up and running. The documentation found in the docs section of the project is also very descriptive and since it’s Javascript, running a REPL and testing out the libraries in the project makes it easy to understand and create new data structures for anything general purpose. This includes things such as creating scripts/transactions and running a regtest node in REPL. Features such as Neutrino, address/TX indexing have been backported into the full node library as well.
+
+I’d also like to note that the code style found in the project is very clean and easy to understand. These are some things that off the top of my head I’m able to pitch to any developers out there seeking to build out infrastructure, or simply desiring to learn the protocol.
+
+Maintaining the Bcash Repository, and Possibly Adding Future Enhancements Like Merkelix and Avalanche
+
+BC: Do you aim to keep maintaining the Bcash repo?
+
+JG: I do plan on continuing to maintain the project by adding additional protocol proposals to the codebase, along with porting over future hard fork specifications. I’ve recently taken an interest in adding a Schnorr multi-sig proposal branch to the node as well. I’ve been really interested in proposals such as Merkelix and Avalanche so I plan on finishing these features. Maintaining the full node allows me to experiment freely with actual motivation.
+
+BC: Is anyone helping you?
+
+JG: No, no one is currently helping in maintaining, nor downstreaming patches from Bcoin to the project.
+
+I do plan on being involved in more developer meetups showcasing the codebase by demonstrating how simple and easy it is to use the full node for infrastructure projects or general purposes.
+
+BC: How do you feel about the current state of Bitcoin Cash (BCH) right now as far as the community and development is concerned?
+
+JG: I’m not sure what to think of the community, but from my impression, I believe there’s definitely support in the developer realm, which otherwise would be nonexistent in Bitcoin. Although I’m not entirely familiar with the things that go on throughout social media, forums regarding BCH. I’m a bit of a loner and don’t have an interest in these sorts of things.
+
+But in regard to development, the greatest facet of Bitcoin Cash is the scheduled six-month hard fork activations. It allows for BIPS/features to be considered as long as there exists a motive, a reason behind the proposals which is, in my opinion, is very innovative and worth paying attention to.
+
+What do you think about Jonathan Gonzalez managing to get Bcash compatible with the last upgrade and maintaining the Bcash project? Let us know what you think about this subject in the comments section below.
+
+Image credits: Shutterstock, Bcash logo, Jonathan Gonzalez, Github, and Twitter.
+
+Are you a developer looking to build on Bitcoin Cash? Head over to our Bitcoin Developer page where you can get Bitcoin Cash developer guides and start using the Bitbox, SLP, and Badger Wallet SDKs.

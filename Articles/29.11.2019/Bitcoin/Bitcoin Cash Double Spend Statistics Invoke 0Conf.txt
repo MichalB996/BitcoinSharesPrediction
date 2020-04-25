@@ -1,0 +1,35 @@
+DATE:  29.11.2019, 20:20:47
+TITLE: Bitcoin Cash Double Spend Statistics Invoke 0-Confirmation Debate
+URL:   https://news.bitcoin.com/bitcoin-cash-double-spend-statistics-invoke-0-confirmation-debate/
+
+Bitcoin Cash Double Spend Statistics Invoke 0-Confirmation Debate
+
+On November 28, the creator of doublespend.cash, a web portal that tracks and collects double spend attempts on the Bitcoin Cash network, explained that only 1 out of 1,105 double spends succeeds when they broadcast one second after the first transaction. The website’s creator highlighted that in most cases “only when submitted simultaneously, can a double spend succeed.”
+
+Also read: German Banks Authorized to Store and Sell Cryptocurrency in 2020
+
+BCH Proponents Discuss Double Spends, Honoring the ‘First Seen,’ and Current Zero-Confirmation Security
+
+Bitcoin Cash (BCH) participants have always been intrigued by zero-confirmation transactions and concepts like double spend proofs that could strengthen instant transactions. Essentially a double spend is when someone tries to spend the same BCH to two different addresses. Even though it’s not common, double spends on digital currencies like BTC, BCH, and BSV can occur. The website doublespend.cash tracks attempts and successful double spends on the Bitcoin Cash blockchain. A Reddit user called Dagurval, a Bitcoin XT software developer and the creator of the data site, explained on Thursday that in order for double spends to succeed, they have to be sent simultaneously.
+
+“Only 1 out of 1,104 double spend attempts succeeded when broadcast more than 1 second later,” the developer announced on Reddit. “The chart ‘Time between first seen and second seen’ shows the time difference between seeing the first transaction and the double spend,” Dagurval told BCH supporters. The developer added:
+
+It demonstrates that in most cases, only when submitted simultaneously can a double spend succeed. It also shows that miners honor the ‘first seen’ policy.
+
+After Dagurval posted the data, the BCH community discussed the risks of double spends and debated certain scenarios between a double spender and a merchant. “Good to know, so it means 0-conf is quite safe and [double spend] proofs will make it safer,” one user remarked. Others were not so convinced and said that “unless you can measure how many of these are deliberate attempts of fraud, you can’t somehow imply security from this figure.”
+
+“What [the data] means is that a merchant willing to wait three seconds to see if a duplicate transaction appears is roughly 99.9% safe in accepting an unconfirmed low-value transaction,” Reddit user Jessquit wrote in response to the implication of security. The discussion was a popular debate on the subreddit r/btc, as the conversation would have likely been censored on the subreddit forum r/bitcoin. Dagurval’s doublespend.cash statistics also had people discussing the idea of double spend proofs, a concept a few BCH developers have been experimenting with over the last few years.
+
+The Bitcoin Snack Machine and the Quest for Double Spend Proofs
+
+In July, news.Bitcoin.com reported on Flowee the Hub lead developer Tom Zander’s implementation of a double spend proof-of-concept. The protocol documentation was also authored by the software developer Imaginary Username and programmer Mark Lundeberg also contributed. BCHD and Openbazaar developer Chris Pacia wrote documentation for a system called the Double Spend Alert. In 2015, former Bitcoin developer Mike Hearn wrote about the subject in a paper called “Double spending in Bitcoin and how to make it harder.” Hearn’s research noted Gavin Andresen and Bitcoin XT developer Tom Harding’s work on double spend relaying. Harding has researched the subject a great deal and he discussed a double spend relay detection system in his presentation Native Respend Resistance at the 2018 Satoshi Vision Conference in Tokyo.
+
+The quest for stopping even the 1 out of 1,105 successful double spends that are spent simultaneously has been something developers have strived for since Bitcoin was first created. Even Satoshi Nakamoto discussed the topic of zero-confirmation acceptance back in July 2010. In a well known bitcointalk.org thread called the “Bitcoin Snack Machine,” Satoshi said: “I believe it’ll be possible for a payment processing company to provide as a service the rapid distribution of transactions with good-enough checking in something like 10 seconds or less.” During the vending machine conversation, Satoshi also talked about honoring the ‘first seen’ policy and a race between transactions sent fractions of a second ahead of each other.
+
+“The network nodes only accept the first version of a transaction they receive to incorporate into the block they’re trying to generate,” Satoshi said at the time. “When you broadcast a transaction, if someone else broadcasts a double-spend at the same time, it’s a race to propagate to the most nodes first. If one has a slight head start, it’ll geometrically spread through the network faster and get most of the nodes.”
+
+What do you think about the website doublespend.cash and the discussion about the 1 out of 1,105 double spends sent 1 second after? What do you think about the concept of double spend proofs? Let us know what you think about these subjects in the comments section below.
+
+Image credits: Shutterstock, doublespend.cash, Fair use, and bitcointalk.org.
+
+Want to create your own secure cold storage paper wallet? Check our tools section. You can also enjoy the easiest way to buy Bitcoin online with us. Download your free Bitcoin wallet and head to our Purchase Bitcoin page where you can buy BCH and BTC securely.

@@ -1,0 +1,41 @@
+DATE:  30.03.2019, 00:10:31
+TITLE: Analysis Shows Lightning Network Suffers From Trust Issues Exacerbated by Rising Fees
+URL:   https://news.bitcoin.com/analysis-shows-lightning-network-suffers-form-trust-issues-exacerbated-by-rising-fees/
+
+Analysis Shows Lightning Network Suffers From Trust Issues Exacerbated by Rising Fees
+
+Over the last two years, the Lightning Network has been touted as the scaling solution for the Bitcoin Core (BTC) network. However, the solution has been heavily criticized for its lack of security, and on March 28, Bitcoin Unlimited’s chief scientist Peter Rizun wrote an interesting evaluation of the Lightning Network’s “dirty little secret.”
+
+Also read: Mempool ‘Spam’ and Rising Fees: The Consequences of Veriblock’s Mainnet Launch
+
+Visualizing the Lightning Network from a Different Perspective
+
+This week, Bitcoin Unlimited’s Peter Rizun wrote a critique concerning the often controversial Lightning Network (LN). In delving into the project, Rizun asks the reader to visualize the LN as a string of beads (Fig. 1) extended between two individuals, Alice and Bob. In essence, Alice can send Bob funds by pushing one of her beads to Bob, utilizing the string which represents an LN channel.
+
+Rizun’s essay notes that the foundation of the network is the reason for LN liquidity problems because “the beads can move from side to side but cannot leave the string they’re on.” From there, Rizun discusses the LN security model which depends on Hash and Time-Lock Contracts (HTLCs).
+
+Essentially, HTLCs explain how the system prevents Bob from keeping the bead from Alice without sending one on to Carol. In order to bypass this issue, the LN project uses locks in the channel and in Rizun’s the locks are placed in the string in order to constrain the beads’ movements until the agreement’s conditions are met. “The hash and time-lock contracts (HTLCs) used in Lightning payments involve two types of locks (Fig. 2): the first is a lock that opens if presented with the correct password (we’ll call this a “hash-lock”), and the second is a lock that opens automatically after a time delay (we’ll call this a “time-lock”),” Rizun’s blog post details. The developer then returns to the example of a payment between Alice to Carol through Bob, and Rizun notes that in order to make the process “trustless,” Alice, Bob, and Carol need to be online simultaneously in order to settle the agreement.
+
+“First, Alice asks Carol to think up a secret password and tell her the password’s hash. Let’s pretend the password Carol thought up was ‘boondoggle’ and its hash was ‘45f8’ — Next, Alice places a hash-lock between her and Bob, set to open when presented with a password that hashes to ‘45f8,’” runs Rizun’s critique. “At this point in time, neither Alice nor Bob can open the lock because neither knows the password — Alice then pushes a bead against the hash-lock. Lastly, she places a time-lock on the left side of the bead, set to automatically open after 48 hours (Fig. 3).”
+
+Lightning Network Micropayments Are Not Trustless at All
+
+The study further explains why Bob would bother to participate in this settlement in the first place if Carol had not been cooperative. Basically, the theory assumed is that Alice will send Bob a fraction more than what she asks Bob to send to Carol, as a fee to compensate for risks. It also reveals the purpose the time-locks serve in order to protect someone’s funds if a payment fails. An example of this situation would be if Bob becomes uncooperative after Alice shifts her bead over and adds the two locks, Rizun adds, and remarks that time-locks give Alice the ability to retrieve the funds. His essay says that even though this is possible, the Lightning Network has a dirty little secret which can be seen when the channel state involves three outputs: Alice’s coins, Bob’s coins, and the coin “in flight.” The problem occurs if the value-in-flight is below the BTC dust threshold, in which case it can’t be used as a third output in the channel-state transaction.
+
+“It is thus not possible to use hash- and time-locks to protect the payment if the payment is too small,” Rizun paper emphasizes. “It is not exactly true that the number of beads on a string is constant. There is actually a bucket beside each string labeled “Miner’s Fee” that contains small fractions of beads. The value in this bucket gets claimed by the miner who confirms the channel-state transaction, should the channel state be pushed to the blockchain. Fractions of beads can move from the string to the bucket, or from the bucket back to the string, but only if the persons on both sides of the channel agree.”
+
+The paper continues:
+
+Rather than locking the value in-flight with hash- and time-locks, for small payments Alice and Bob just move the value-in-flight into the fee bucket (Fig. 8). Bob trusts that Alice will cooperate with him to take the value-in-flight out of the fee bucket when he reveals Carol’s secret password.
+
+Bob can then dump the value-in-flight into another bucket he shares with Carol and manipulate the situation by asking Carol to tell Bob the secret password. Carol tells Bob the secret, and Bob and Carol together move the payment from the fee bucket to Carol’s side, Rizun states. Bob then goes back to Alice, tells her Carol’s secret, and if all goes well, Alice cooperates with him to take the value-in-flight out of the fee bucket and place it on Bob’s side of the string. The paper adds:
+
+Unlike the HTLC scheme described earlier, this scheme relies on trust. For example, Carol could reveal the password to Bob, who could then leave the payment in the fee bucket yet still go to Alice and deliver the password in exchange for his payment.
+
+According to a few individuals on social media and cryptocurrency forums, the problems associated with the trust issue and micropayments are well known. At the time of writing, the dust threshold is less than 600 satoshis which means if fees were to spike considerably again, the Lightning Network wouldn’t be a feasible option. Rizun’s paper notes that the issue adds unneeded friction from layer one to layer two by “forcing complex and poorly-understood work-arounds to the L2 protocol.” Moreover, those who have been cheering for higher network fees in order to bolster more Segwit use (were the dust limit is even lower) and forcefully pushing for LN adoption do not seem to understand how impractical that would be.
+
+What do you think about the issues involved with LN and the added friction that layer two adds to common settlements compared to traditional layer one transactions? Let us know what you think about this subject in the comments section below.
+
+Image credits: Shutterstock, and Bitcoin Unlimited’s Peter Rizun.
+
+Want to create your own secure cold storage paper wallet? Check our tools section.

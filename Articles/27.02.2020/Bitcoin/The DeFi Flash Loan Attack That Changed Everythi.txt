@@ -1,0 +1,104 @@
+DATE:  27.02.2020, 17:22:55
+TITLE: The DeFi ‘Flash Loan’ Attack That Changed Everything
+URL:   https://www.coindesk.com/the-defi-flash-loan-attack-that-changed-everything
+
+Haseeb Qureshi is a managing partner at Dragonfly Capital, a cross-border crypto venture fund. A longer version of the article appears on Medium.
+
+Flash loans have been the center of attention lately. Recently, two hackers used flash loans to attack the margin trading protocol bZx, first in a $350,000 attack and later in a $600,000 copycat attack.
+
+These attacks were, in a word, magnificent. In each attack, a penniless attacker instantaneously borrowed hundreds of thousands of dollars of ETH, threaded it through a chain of vulnerable on-chain protocols, extracted hundreds of thousands of dollars in stolen assets, and then paid back their massive ETH loans. All of this happened in an instant — that is, in a single ethereum transaction.
+
+We don’t know who these attackers were or where they came from. Both started with basically nothing and walked away with hundreds of thousands of dollars in value. Neither left any traces to identify themselves.
+
+In the wake of these attacks, I’ve been thinking a lot about flash loans and their implications for the security of DeFi. I think this is worth thinking through in public.
+
+In short: I believe flash loans are a big security threat. But flash loans are not going away, and we need to think carefully about the impact they will have for DeFi security going forward.
+
+What is a flash loan?
+
+The concept of a flash loan was first termed by Marble Protocol in 2018. Marble marketed itself as a “smart contract bank,” and its product was a simple yet brilliant DeFi innovation: zero-risk loans via a smart contract.
+
+How can a loan have zero risk?
+
+Traditional lenders take on two forms of risk. The first is default risk: If the borrower runs off with the money, that obviously sucks. But the second risk to a lender is illiquidity risk: If a lender lends out too many of its assets at the wrong times or doesn’t receive timely repayments, the lender may be unexpectedly illiquid and not be able to meet its own obligations.
+
+Flash loans mitigate both risks. A flash loan basically works like this: I will lend you as much money as you want for this single transaction. But by the end of this transaction you must pay me at least as much as I lent you. If you are unable to do that, I will automatically roll back your transaction! (Yep, smart contracts can do that.)
+
+Simply put, your flash loan is atomic. If you fail to pay back the loan, the whole thing gets reverted as though the loan never happened.
+
+Something like this could only exist on blockchains. You could not do flash loans on, say, BitMEX. This is because smart-contract platforms process transactions one at a time, so everything that happens in a transaction is executed serially as a batch operation. You can think of this as your transaction “freezing time” while it’s executing. A centralized exchange, on the other hand, can have race conditions such that a leg of your order fails to fill. On the blockchain, you’re guaranteed that all of your code runs one line after the next.
+
+Flash loan exploit code, via Remco Bloemen
+
+So let’s think about the economics here for a second. Traditional lenders are compensated for two things: the risk they’re taking on (default risk and illiquidity risk), and for the opportunity cost of the capital they’re lending out (e.g., if I can get 2 percent interest elsewhere on that capital, the borrower must pay me more than the risk-free 2 percent).
+
+Flash loans are different. Flash loans have no risk and no opportunity cost! This is because the borrower “froze time” for the duration of their flash loan, so in anyone else’s eyes, the system’s capital was never at risk and never encumbered, therefore it could not have earned interest elsewhere (i.e., it did not have an opportunity cost).
+
+This means, in a sense, there’s no cost to being a flash lender. This is deeply counterintuitive. So how much should a flash loan cost at equilibrium (i.e. when market demand and supply balances)?
+
+Basically, flash loans should be free. Or, more properly, there should be a small enough fee to amortize the cost of including three extra lines of code to make an asset flash-lendable.
+
+Flash loans cannot charge interest in the traditional sense, because the loan is active for zero time (any APR * 0 = 0). And of course, if flash lenders charged higher rates, they’d quickly be outcompeted by other flash lending pools that charged lower rates.
+
+Flash lending makes capital a true commodity. This race to the bottom inevitably results in zero fees or a tiny nominal fee. dYdX [trading platform] currently charges zero fees for flash lending. AAVE, on the other hand, charges 0.09 percent on the principal for flash loans. I suspect this is not sustainable and, indeed, their community has called for slashing fees to zero. (Note that neither of the attacks we saw used AAVE as their flash lending pool.)
+
+Flash attacks have big security implications
+
+I’ve increasingly come to believe what flash loans really unlock are flash attacks — capital-intensive attacks funded by flash loans. We saw the first glimpses of this in the recent bZx hacks, and I suspect that’s only the the tip of the spear.
+
+There are two main reasons why flash loans are especially attractive to attackers.
+
+1. Many attacks require lots of up-front capital (such as oracle manipulation attacks). If you’re earning a positive ROI on $10 million of ETH, it’s probably not arbitrage — you’re likely up to some nonsense.
+
+2. Flash loans minimize taint for attackers. If I have an idea of how to manipulate an oracle with $10 million of ether, even if I own that much ether, I might not want to risk it with my own capital. My ETH will get tainted, exchanges might reject my deposits, and it will be hard to launder. It’s risky! But if I take out a flash loan for $10 million, then who cares? It’s all upside. It’s not like the collateral pool of dYdX will be considered tainted because that’s where my loan came from — the taint on dYdX just sort of evaporates.
+
+You might not like that exchange blacklisting is part of the blockchain security model today. It’s quite squishy and centralized. But it’s an important reality that informs the calculus behind these attacks.
+
+In the bitcoin white paper, Satoshi famously claimed that bitcoin (BTC) is secure from attack because:
+
+“[The attacker] ought to find it more profitable to play by the rules […] than to undermine the system and validity of his own wealth.”
+
+With flash loans, attackers no longer need to have any skin in the game. Flash loans materially change the risks for an attacker.
+
+Haseeb Qureshi
+
+And remember, flash loans can stack! Subject to the gas limit, you could literally aggregate every flash loanable pool in a single transaction (upwards of $50 million) and bring all that capital thundering down onto a single vulnerable contract. It’s a $50 million battering ram that now anyone can slam into any on-chain pinata, so long as money comes out. This is scary.
+
+What does all of this mean for the long term?
+
+I believe the bZx attacks changed things.
+
+This will not be the last flash attack. The second bZx attack was the first copycat, and I suspect it will set off a wave of attacks in the coming months. Now, thousands of clever teenagers from the remotest parts of the world are poking at all these DeFi legos, examining them under a microscope, trying to discover if there is some way they can pull off a flash attack. If they manage to exploit a vulnerability, they too could make a few hundred thousand dollars — a life-changing sum in most parts of the world.
+
+To protocols, flash attacks mean the threat model is now changed. Being hit by a flash attack after the bZx hacks will be as embarrassing as getting hit by re-entrancy after the DAO hack: you will be the laughingstock of crypto. You should’ve seen it coming.
+
+Lastly, these episodes have gotten me thinking about an old concept in crypto: miner-extractable value (MEV). MEV is the total value that miners can extract from a blockchain system. This includes block rewards and fees, but it also includes more mischievous forms of value extraction, such as reordering transactions or inserting rogue transactions into a block.
+
+At bottom, you should think of all of these flash attacks as single transactions in the mempool that make tons of money. For example, the second bZx attack resulted in $645,000 profit in ETH in a single transaction. If you’re a miner and you’re about to start mining a new block, imagine looking at the previous block’s transactions and saying to yourself… “wait, what? Why am I about to try to mine a new block for ~$500, when that last block contains $645K of profit in it??”
+
+We’re still far from having sustainable architecture for building the financial system of the future.
+
+Instead of extending the chain, it’d be in your interest to go back and try to rewrite history such that you were the flash attacker instead. Think about it: that transaction alone was worth more than four hours worth of honestly mined ethereum blocks!
+
+This is similar to having a special super-block that contains 1,000 times the normal block reward — just as you expect, the rational result of such a super-block should be a dogpile of miners competing to orphan the tip of the chain and steal that block for themselves.
+
+At equilibrium, all flash attacks should ultimately be extracted by miners. (Note that they should also end up stealing all on-chain arbitrage and liquidations.) This will, ironically, serve as a deterrent against flash attacks, since it will leave attackers unable to monetize their discoveries of these vulnerabilities. Perhaps eventually miners will start soliciting attack code through private channels and pay the would-be attacker a finder’s fee. Technically, this could be done trust-lessly using zero-knowledge proofs. (Weird to think about, right?)
+
+But that’s all pretty sci-fi for now. Miners obviously aren’t doing this today.
+
+Why aren’t they?
+
+Tons of reasons. It’s hard, it’s a lot of work, the Ethereum Virtual Machine sucks to simulate, it’s risky, there would be bugs that would result in lost funds or orphaned blocks, it’d cause an uproar and the rogue mining pool might have a PR crisis and be branded an “enemy of ethereum.” For now miners would probably lose more in business and orphaned blocks than they’d gain by trying to do this.
+
+That’s true today. It won’t be true for long.
+
+This lends yet another motivation for ethereum to hurry up and transition to Ethereum 2.0. DeFi on ethereum, while amazing and mesmerizing, is absolutely and irrevocably broken. DeFi is not stable on a PoW chain, because all high-value transactions are subject to miner reappropriation (also known as time bandit attacks).
+
+For these systems to work at scale, you need finality — the inability for miners to rewrite confirmed blocks. This will protect previous blocks from getting reappropriated. Plus if DeFi protocols exist on separate Ethereum 2.0 shards, they won’t be vulnerable to flash attacks.
+
+In my estimation, flash attacks give us a small but useful reminder that it’s early days. We’re still far from having sustainable architecture for building the financial system of the future.
+
+For now, flash loans will be the new normal. Maybe in the long run, all assets on ethereum will be available for flash loans. All of the collateral held by exchanges, by Uniswap, maybe all ERC-20s themselves.
+
+Who knows — it’s only a few lines of code.
+

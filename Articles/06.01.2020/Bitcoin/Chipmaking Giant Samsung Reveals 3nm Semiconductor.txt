@@ -1,0 +1,33 @@
+DATE:  06.01.2020, 19:00:21
+TITLE: Chipmaking Giant Samsung Reveals 3nm Semiconductor Prototype
+URL:   https://news.bitcoin.com/chipmaking-giant-samsung-reveals-3nm-semiconductor-prototype/
+
+Chipmaking Giant Samsung Reveals 3nm Semiconductor Prototype
+
+In mid-December, Intel revealed that the company expects to design 2nm and 1.4 nm semiconductors by 2029. During the same timeframe, regional sources reported Canaan and Bitmain will reveal new mining rigs this year equipped with TSMC-based 5nm chips. Now, competition is growing stronger as Samsung has disclosed that the chipmaker succeeded in creating the first 3nm (GAAFET) prototype. Samsung has shown it is ahead of the 5nm process and the company hopes to be the most dominant chipmaker by 2030.
+
+Also Read: 2019’s Bitcoin Miners Are 5x Faster Than Predecessors
+
+While TSMC Is Heavily Invested in the 5nm Process, Samsung’s 3nm Semiconductor Prototype Emerges
+
+During the latter half of 2019, bitcoin mining rig manufacturers produced a series of new high-powered mining rigs. News.Bitcoin.com reported on how 2019’s mining devices are 5x faster than the predecessors. At the time of publication, the most profitable miner on the market is Bitmain’s Antminer S17+, which produces 73 terahash per second (TH/s). Canaan also has the Avalonminer 1166, a machine that has a maximum hashing speed of 68TH/s. Other top mining rig producers include Innosilicon, Strongu, Microbt, and Ebang. Most of the newest mining rigs on the market are equipped with either 10nm semiconductors or 7nm custom chips from two leading foundries.
+
+For instance, Bitmain revealed its custom 7nm chip called the BM1397 last February and Canaan’s 2019 machines are also fitted with next-generation semiconductors. Sources say many of these mining rig firms get chips from Taiwan Semiconductor Manufacturing Company (TSMC). However, sources say Canaan uses both TSMC and Samsung semiconductors and reports have noted Innosilicon leverages Samsung chips as well. At the end of December, regional reports claimed that both Bitmain and Canaan would release 5nm equipped machines in 2020. TSMC told the public the firm is ahead of the game when it comes to the 5nm process at the IEEE IEDM Conference in mid-December.
+
+Meanwhile, Samsung has revealed the firm has produced the world’s first prototype 3nm process that’s based on Gate All Around (GAAFET) technology. The process is different to the conventional FinFET process used to create 7nm and 5nm chips. GAAFET ostensibly decreases the silicon size by 35% and reports emphasize that Samsung 3nm has a 33% better performance than 5nm semiconductors. During our last report on the production of Canaan and Bitmain 5nm equipped mining rigs, it was mentioned that 5nm chips perform 15% better than the 7nm predecessors. Sources highlight that TSMC is considerably invested in 5nm fabrication and the majority of 5nm chips will stem from the Taiwan manufacturer. However, reports have underscored that Apple has already reserved two-thirds of TSMC’s 5nm capacity. This means that bitcoin mining manufacturers will have to compete for the remaining supply or look to Samsung’s 3nm fabrication.
+
+5nm and 3nm Semiconductors Could Significantly Bolster the SHA256 Hashrate
+
+Essentially the difference between the size of a 7 nanometer (nm) and 5nm semiconductor is the density and performance executions doesn’t necessarily scale with transistor size. When shrinking the process node, the performance increases are typically between 10-20% between each generational chip. Typically, a single mining rig has a few hundred of these chips and hash production is based on the number of cores on the chip. For instance, one of the most popular bitcoin miners, the older generation Antminer S9 (14TH/s), used 16nm FinFET semiconductors created by TSMC. An older 14 terahash per second S9 employs 189 Bitmain BM1387 chips.
+
+In 2019, it’s much harder to find out exactly what size chip the mining rig manufacturer has used and how many chips the single unit employs. These days mining rig specifications directly from the company do not detail how many chips are used in each machine, the chip size or which foundry made the semiconductor. At times, press releases from the biggest mining chip manufacturers disclose that they are leveraging 10nm or 7nm tech and divulge when the chips come from Samsung or TSMC. Buyers now have to wait for new mining devices to be reviewed on secondary markets in order to find out the unit’s chip size and how many chips are contained in each rig.
+
+Despite the lack of specification information, mining rigs, in general, are getting faster as each year passes. At the end of 2018, single mining rigs were producing 25-40TH/s and now single unit hash speeds are upwards of 60-73TH/s. The introduction of 5nm and 3nm chips should bolster bitcoin’s thriving ASIC industry and the overall SHA256 hashrate a great deal. The hashrate on the BTC network recently reached 119 exahash per second (EH/s) and continues to grow. With 5nm and 3nm semiconductors and faster cores, bitcoin mining rig performance increases could jump by 15-33% as early as the second half of 2020.
+
+What do you think about Samsung producing the first 3nm (GAAFET) prototype? What do you think about 5nm and 3nm equipped bitcoin miners entering the fray by next year? Let us know what you think about this subject in the comments section below.
+
+Disclaimer: This article is for informational purposes only. It is not an offer or solicitation of an offer to buy or sell, or a recommendation, endorsement, or sponsorship of any products, mining rigs, services, mining rig manufacturers or companies. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any ideas, software, concepts, content, goods or services mentioned in this article.
+
+Image credits: Shutterstock, Bitmain, Innosilicon, Canaan, Tomshardware.com, Blockchain.com, Wiki Commons, Fair Use, and Pixabay.
+
+Did you know you can verify any unconfirmed Bitcoin transaction with our Bitcoin Block Explorer tool? Simply complete a Bitcoin address search to view it on the blockchain. Plus, visit our Bitcoin Charts to see what’s happening in the industry.

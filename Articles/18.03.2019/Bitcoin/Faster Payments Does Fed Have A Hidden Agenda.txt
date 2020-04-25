@@ -1,0 +1,149 @@
+DATE:  18.03.2019, 08:00:11
+TITLE: Faster Payments: Does Fed Have A Hidden Agenda?
+URL:   https://www.pymnts.com/news/faster-payments/2019/federal-reserve-hidden-agenda-real-time-payments/
+
+“Connect the dots” is used as a metaphor to describe how a series of discrete events can explain a “big picture” – often high-impact – action or outcome.
+
+Steve Jobs, in his famous 2005 Stanford commencement address, said connecting the dots was only possible with hindsight, by looking in the rearview mirror at the series of things that had happened over the course of one’s life to explain the actions of the here and now.
+
+So let’s connect some dots.
+
+Take two announcements from just last week, related to the evolution of faster payments in the U.S.
+
+First, there was the Fed’s decision to slow faster payments progress via Same Day ACH because it wasn’t ready to approve another processing window during the day. Then came PayPal’s debut of Instant Transfer to Bank. This new feature, available to PayPal customers in good standing, leverages the company’s partnership with Chase, and Chase’s connection to The Clearing House’s (TCH) Real-Time Payments (RTP) network, to move money instantly into the bank accounts of consumers and SMBs.
+
+Connecting these two dots suggests a few important things that, for banks and card networks, might be the 20/20 hindsight that could have come in handy had they stopped to look backwards a few years ago:
+
+That the Fed has much more than a passing interest in how faster payments are run in the U.S.
+
+That alternative financial services providers have much more than a passing interest in using an alternative to card rails in moving money between people and businesses, both domestic and globally.
+
+That faster payments, whether via the Fed or via the TCH’s RTP network or both, could be a big threat to how banks monetize the movement of money between senders and receivers and their depository accounts.
+
+That all of this might stem from the hidden agenda of making it free – or as close to free as possible – to move money.
+
+And finally, that the banks and the card networks may have a lot to lose.
+
+A couple of important dots
+
+Last week, NACHA issued an ACH operations bulletin announcing the delay of the rollout of a third Same Day ACH (SDA) processing window by six months, to March 19, 2021. This new window – which will allow banks to submit requests for SDA until 4:45 p.m. EST – is understandably of great interest to all banks, but particularly to those in the Mountain and Pacific time zones.
+
+This delay was initiated by the Fed. The regulator notified NACHA that they need more time to evaluate required changes to their system before giving it the green light. The Fed also said NACHA needed to open their decision to public comment, even though NACHA said a third processing window was “overwhelmingly approved” by FIs on Sept. 13, 2018. No date has been given for that process.
+
+So, we have one of the most vocal proponents of faster payments throwing sand in the gears of … faster payments.
+
+It is a bit of a curiosity – particularly since this new settlement window is not exactly new news. In fact, it’s more like four years old.
+
+A third settlement window was part of NACHA’s original announcement in May of 2015, of the unanimous adoption of SDA by all of the FIs in the U.S. Phase 3 of the process, announced then, was to expand settlement windows to include three, including the one the Fed just announced they needed more time to study.
+
+Okay, so maybe the Fed’s payments folks are just busy. After all, there’s a lot to do when it comes to assuring the safety and soundness of our financial system and the thousands of stakeholders who rely on it.
+
+Or maybe the delay is part of a strategy to buy more time to sort out where and how making SDA even faster could interfere with their own faster payments agenda – and the part they’d like to play in making payments faster in the U.S.
+
+Not a passive bystander
+
+For those longtime readers of PYMNTS and my columns, I’ve always said the Fed’s interest in faster payments was never simply as an interested, but passive, bystander.
+
+When the Fed launched its 500-person Faster Payments Task Force in 2015, it did so as much more than a convener of stakeholders looking to improve the speed at which money moves. It was an opportunity to have a ringside seat at an industry-wide, two-year long conversation about how faster payments would evolve in the U.S.
+
+In its final report, published in January of 2017, the Fed expressed its support of the collectively developed faster payments framework in the U.S., which also included the role of The Clearing House.
+
+It also left open an opportunity to explore how it might play further down the road.
+
+The Fed’s hat and the faster payments ring
+
+Fast forward a few years, and we now have the Federal Reserve Board soliciting public comments on its potential role as the operator of a new faster payments network in the U.S. More than 400 comments were received, with many advocates for the Fed taking on this role.
+
+Among the strongest were those who see an alternative to existing card rails as an advantage to their own business models and strategic payments plays – big merchants like Walmart, as well as alt financial players like Apple, Google, Amazon, PayPal, Square and Stripe, among others.
+
+Somewhat ironically, these are some of the same players who now use the card rails to push payments in real time between senders and receivers on their respective platforms – Square Cash App, Venmo and Apple Pay Cash – and pretty cheaply, and very securely, across the debit card rails to nearly everyone in the U.S.
+
+Also keen on the Fed’s involvement were the community banks and credit unions that worry (as they should) about having TCH as the only operator of an RTP network in the U.S. TCH is the association of the 26 largest banks in the U.S., and one of two operators of the ACH network in the U.S., the other being the Fed.
+
+It’s been reported that TCH had 36 banks on board RTP at the end of 2018, and expects that number to reach 1,000 by the end of Q1 2019 – about two weeks from today.
+
+TCH also reported ending 2018 with slightly less than half of all of the depository accounts in the U.S. capable of receiving a real time payment, with roughly 40 percent of such accounts being able to send them to banks. By the end of 2019, it expects to have nearly half of all banks connected to the RTP platform either directly or via a third party such as FIS or Fiserv.
+
+Of course, until we see transaction data it is hard to know how real this is.
+
+Faster payments is happening, fast
+
+Ubiquity, of course, is the real measure of how effective we are in making money move fast and getting consumers and businesses to sign on. At the moment, there are only two ubiquitous faster (than before) payments rails in the U.S.: Same Day ACH and the card rails – both of which allow for money to move fast into consumer and business bank accounts for every consumer with a debit product. That’s roughly 95 percent of consumers in the U.S., and every consumer and business with a bank account, regardless of where they bank.
+
+NACHA reported that in Q4 2018, SDA volume hit 51.3 million transactions, up 46 percent year over year. They also reported notable increases in B2B transactions (up 11.5 percent), as businesses swap checks for ACH transactions and P2P transactions (up 47 percent) between bank accounts. There are real limitations to SDA, which NACHA acknowledges and says they are addressing, including not being available on weekends and holidays when banks aren’t open – when SMBs and gig workers want and need instant access to their money.
+
+Card rails are using push payments to close those gaps and support many new use cases for instant money.
+
+Both Mastercard and Visa report that disbursements via debit cards to consumer and SMB bank accounts are on the rise. Both card networks are pushing money over their debit rails and instantly into the bank accounts of consumers and SMBs using their debit card aliases. Use cases for Mastercard Send and Visa Direct range from P2P to C2B in the gig economy world – and B2C for disbursements supporting a diversity of use cases, including tax refunds, insurance claims and on-demand payroll for W-2 workers.
+
+Visa reported in its Q1 2019 earnings call that it had two billion debit cards in circulation, worldwide, at the end of 2018, while Mastercard had 933 million worldwide. In the U.S., those numbers are reported as more than half a billion for Visa, and about a quarter of a billion for Mastercard.
+
+In other words, a lot of consumers and SMBs have the potential to receive instant access to funds in their bank accounts either via ACH rails or the debit rails today.
+
+The battle for the bank account
+
+If faster payments were only about moving money faster, even instantly, into consumer and business bank accounts, then one might wonder why we’re all still messing around with new ways to make money move faster since we seem to have that covered already today.
+
+Yes, RTP and the Fed’s plan for faster payments is about upgrading the creaky, aging bank infrastructure that no one would ever build today but runs the U.S. banking system today – and that’s a great development.
+
+But the real focus on instant payments today and using new rails to move money faster seems to be a battle for control of the bank account, and who gets to make money by moving funds into and out of it.
+
+The banks, I (naively) believe, think the current efforts around RTP and faster payments put them in control of how that all goes down.
+
+Instead, it could put them at great risk. How big, we’ll have to see.
+
+Take the Fed.
+
+The Fed sees an opportunity to introduce competition in the faster payments space as a second operator of faster payments rails, like it is today with ACH.
+
+That seems like music to the ears of FinTechs seeking new rails to connect them directly to and from the bank accounts of consumers and businesses. And a win for banks, yes?
+
+Not exactly.
+
+The Fed, in this scenario, would own and operate a new set of non-bank, non-card rails. That includes setting the fees for moving money between parties.
+
+If past is prologue, the Fed would do what every other central bank around the world has done – make payments faster and make them much, much cheaper. Not free, but not that far from it.
+
+Maybe that’s good news for the FinTechs, which would find other ways to monetize their services. But it’s anything but good news for the banks whose depository account is the funding source, and whose fee revenue is regulated to a silver of what it once was – while the costs of securely supporting, maintaining and servicing those accounts continues to rise.
+
+The big winners then would be the Fed that operates the network and the FinTechs who use it to get a critical mass of consumer bank accounts registered with their platform.
+
+And the emergence of a new business model that could include collecting fees from the receiver for access to funds faster – a different kind of interchange that they would set and collect.
+
+RTP and faster payments
+
+Then there’s RTP and faster payments more generally, where the same fee risk applies, times three. RTP appears to have gotten traction and distribution of its network by working directly with their big owner banks as well as thru third party processors with a critical mass of banks on its platform. There, the risk to the banks and the card networks is that the card payments, which generate interchange fee revenue on consumer payments, could move to RTP, where the revenue is much less. Or that wire transfer revenues could be cannibalized as consumer and business end users are incented to shift payments to RTP. Or that in both of those cases, TCH via RTP could impose a fee structure that, like the Fed, sets fees to the banks that are a fraction of what they receive today.
+
+Many say that’s not the plan, which is focused on BigB to BigB payments, where card networks don’t much play today and therefore wouldn’t have as much to lose – and where there is still a lot of paper-based and ACH payments that must move much faster.
+
+But how much faster? And at what cost to the banks?
+
+No one argues the need to rid the payments systems of inefficiencies and frictions associated with getting access to funds when needed – or the importance of knowing with certainty when good funds will arrive.
+
+Everyone agrees that consumers and businesses need and want fast options for moving money between parties. It’s one of the factors driving the consolidations and partnerships that have dominated the headlines in 2019 as players look to acquire access to rails they don’t have in order to create a single über-network for consumer and business payments, and support the many interesting faster payments use cases that are emerging.
+
+And have more control over the end points that connect the two – which is ultimately their bank accounts.
+
+See today’s announcement that FIS is buying Worldpay.
+
+See First Data and Fiserv.
+
+See Mastercard and Transfast (and Voca before that).
+
+See Visa and Earthport.
+
+See ACI and Speedpay.
+
+You know there will be others.
+
+All of these market consolidations, along with the emergence of new networks, and intermediaries that sit between the consumer, the business, and the payments methods they use to pay them now have the potential to do more than innovate the speed at which the money moves between those senders and receivers, but influence they use to make and receive those payments.
+
+The question is whether these developments signal the big shifts in what consumers and businesses use to make and receive payments and who monetizes those flows, not simply the speed at which they are made or received.
+
+Steve Jobs’ advice to the Stanford class of 2005 on connecting the dots was a framework for thinking about their personal futures – one that encouraged them to embrace the serendipity life offers and trusting that those dots along the journey will connect into something meaningful down the road.
+
+Whatever.
+
+If I were the banks, and card networks, I would connect the two most recent dots and forget about looking backwards. I’d also worry less about becoming disintermediated and more about becoming marginalized as payment utilities, and essentially free ones.
+
+As I wrote at the start of 2019, this year will be among the most important in payments since it represents the bridge year between the decade of the 10’s and the decade of the 20’s. Everyone in payments will be examining – or should – what to take forward and what to leave behind. It appears that we are watching that process unfold in real time. The next nine-plus months will surely set the stage for the decade that will be here before we know it.

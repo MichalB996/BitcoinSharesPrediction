@@ -1,0 +1,59 @@
+DATE:  17.03.2020, 08:02:43
+TITLE: Red Hat: Innovating Payments The Open Source Way
+URL:   https://www.pymnts.com/news/payments-innovation/2020/red-hat-innovating-payments-open-source/
+
+To stay competitive, especially with digital startups unencumbered by legacy systems, traditional financial institutions (FIs) need to deliver seamless customer services to individual consumers and enterprise customers alike.
+
+To that end, Vincent Caldeira, chief technologist for FSI in APAC for Red Hat told PYMNTS, FIs — especially incumbent FIs — are facing rapid changes in payments that demand they modernize payments processing, embedding new functionality along the way.
+
+Drilling down a bit, Caldeira said that the speeds of money transfers themselves are increasing across any number of use cases and verticals, and crossing borders with growing frequency.
+
+With global reach, Caldeira said, comes the need to scale globally, too. For many firms, with legacy infrastructure that has been in place for decades, scale becomes difficult. Simply put, the back-office systems are ill-equipped to handle the demands of technological innovation, especially as financial services cross channels.
+
+“You don’t want to break your back-end systems,” Caldeira told PYMNTS. “You want to provide your customer with new and differentiated services, but at the same time, there are limitations to systems’ ability to scale without affecting stability or performance.”
+
+This is where open source technology has typically come to the rescue, in particular containerization and container orchestration technology based on the Kubernetes ecosystem, which allows FSI players to secure, manage and scale horizontally their payment processing functions across different computing environments.
+
+The Need For Standardization In Cross-Border Payment Processing
+
+Getting to a seamless flow of payments, done globally with speed, is made even more difficult by the lack of standardization across payment networks and systems, as payments infrastructure and processes can differ significantly from country to country.
+
+Caldeira noted that in just the past few years, dozens of real-time domestic payments systems have taken root across the world (roughly 54 at the end of last year), which points to the need for standardization of how such domestic systems are linked toward building efficient cross-border payment capability.
+
+There have been at least some efforts to support an industry-wide transformation, such as with ISO 20022, which is a data-rich messaging format for payments information that can help cut down on transaction errors.
+
+As Caldeira told PYMNTS, “You need to integrate all these networks together to exchange the messages … nothing else can happen without industry-level agreements.”
+
+However, even with messaging standardization undertaken at country or industry level, there is still a risk that cross-network integration gets done on a peer-to-peer basis. That’s a model where every payments service provider has to establish individual links with each party with which it needs to do business — hardly an efficient (or even realistic) undertaking.
+
+In this regard, the trend toward more agile, microservices and event-driven system architecture based on technologies such as Apache Kafka, an open-source stream processing software, have allowed to efficiently address the challenge of having to integrate a broad range of payment systems.
+
+That’s because that software supports any combination of real-time payment (RTP) events, point-to-point (P2P) application programming interface (API) data exchanges, and traditional batch data.
+
+The Challenges Of Multi-Channel Payment Innovation
+
+On the customer side, the challenge for FSI is having to face broad but also more and more specific requirements depending on the service channel and specific needs of the customers using them.
+
+Open APIs offer FIs a way to enable banks to build multi-channel offerings, especially in the march toward digital transformation, as they standardize access to customer data while giving developers a way to cut the time it takes to develop new customer experiences.
+
+Caldeira pointed to IndiaStack, a collective of APIs — spanning consumer consent and account interfaces — that lets governments, businesses and startups bring innovations to market.
+
+“With open APIs you can pretty much build an entire ecosystem for payments providers,” he said.
+
+Cross-border retail and business transactions, said Caldeira, typically have carried higher costs — tied to more complex bilateral processing procedures, complex compliance requirements and the overhead of having to manage both liquidity and foreign exchange (FX) risk — than domestic ones. And as he told PYMNTS, the biggest burden in this case is that providers need to understand and interpret the different compliance requirements of multiple countries.
+
+The movement toward fully-automated, compliant cross-border fund flows — marked at least for now by P2P, remittances and, increasingly, B2B payments, where technology is linked directly into corporate treasurers’ systems — can get a boost from enhanced technologies such as artificial intelligence (AI) and machine learning (ML) to support intelligent process automation, he said. That is one way that payment providers can cut the current “gap” in costs that exist between cross-border payments and domestic ones by 90 percent.
+
+No. 1: Security
+
+Regardless of payment type and the increasing expectation in terms of speed and convenience, the parties involved or the geographic routes the payments travel, one universal remains constant: security.
+
+As Caldeira told PYMNTS, “There are common expectations. Whenever you ask a customer ‘what is the most important dimension of the payment system,’ they will always say security is the ‘No. 1.’”
+
+FIs, he said, have been consistently underestimating the end user’s expectation of security. Here, too, he said, embracing faster payments without overhauling security practices that have been in place for a long time runs the risk of actually increasing fraud.
+
+“We are in a situation where the back offices of those banks cannot cope with the number of manual processes” tied to know your customer (KYC) and anti-money laundering (AML) checks, he said, and so there must be increased adoption of AI and ML to solve those problems.
+
+In this aspect, placing the fundamental building blocks of AI in the hands of the open source community has allowed to further AI/ML usage in multiple industries, including FSI and technologies such as TensorFlow, an open source library for numerical computation and large-scale ML.
+
+Open source libraries have allowed payment service providers to build models able to detect fraudulent transactions in real time without having to employ extra people to manually sift through the hundreds of thousands of transactions and potential exceptions every day, Caldeira said.

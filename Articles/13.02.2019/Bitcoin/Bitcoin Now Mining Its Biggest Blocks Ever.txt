@@ -1,0 +1,43 @@
+DATE:  13.02.2019, 13:00:43
+TITLE: Bitcoin Now Mining Its Biggest Blocks Ever
+URL:   https://bitcoinist.com/bitcoin-biggest-blocks-ever/
+
+Bitcoin Bitcoin Now Mining Its Biggest Blocks Ever
+
+The Bitcoin network is scaling as the network just reached a new all-time high of 1.3 MB average block size amid record low transaction fees.
+
+Biggest Average Bitcoin Block Size to Date
+
+The latest data from Blockchain.com shows that February 12, 2019 saw an average block size of 1.305 megabytes, the biggest on record.
+
+In fact, the blocks mined (approximately every 10 minutes) today by the Bitcoin network are now regularly bigger than 1MB. This was the previous limit that existed before Segregated Witness (SegWit) was introduced in August of 2017.
+
+With the introduction of SegWit, however, the concept of ‘block size’ has been replaced by ‘block weight’ allowing up to 4MB of capacity. Around 40 percent of all Bitcoin transactions today use SegWit.
+
+What’s more, SegWit opened the possibility for off-chain scaling solutions such as the Lightning Network (LN), which has been growing at a rapid pace.
+
+Transactions or Spam?
+
+But the noticable uptick in block weight may not be due to more people paying for coffee with BTC.
+
+One of the biggest contributors of all transactions in recent months — as much as 20 percent — has been VeriBlock. This startup uses Bitcoin’s OP_RETURN outputs to embed additional data for their ‘proof-of-proof’ miners.
+
+VeriBlock miners posted 783,000 transactions to Bitcoin's blockchain in December and are on track for 1,500,000 in January. https://t.co/CdIflq8Htu — Jameson Lopp (@lopp) January 5, 2019
+
+VeriBlock’s large share of blockchain data in such a short-time has indeed rekindled the ‘transactions or spam’ debate.
+
+“I think if it pays the fee it’s not spam,” says developer Riccardo Casatta.
+
+However, VeriBlock made about 1 million bitcoin tx with op_return from the 1st of December 2018, they call Proof of Proof but is it more Proof of Spam? Why more than one tx per block?
+
+But others, like Casa CTO Jameson Lopp, are questioning whether VeriBlock can even sustain their seemingly “inefficient” activity in the long run. Particularly, if transaction fees do not stay at record low levels. He said:
+
+Source of the now-highest volume of OP_RETURN outputs has been identified as VeriBlock “proof of proof” miners. They are creating around 20% of all BTC transactions now. Seems inefficient to me; will be interesting to see if the incentives work long term.
+
+But regardless of who’s paying for the transactions, mining larger blocks while transaction fees are at record lows shows that Bitcoin is, in fact, scaling towards greater adoption.
+
+Last month, Bitcoinist reported that daily on-chain transaction volume has recovered to a yearly high of over 300,000.
+
+Are Bitcoin’s bigger blocks the result of more financial transactions or ‘spam’? Share your thoughts below!
+
+Images courtesy of Shutterstock

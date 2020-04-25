@@ -1,0 +1,47 @@
+DATE:  11.07.2019, 14:19:21
+TITLE: Bitmain lost $150,000 because it mined an invalid Bitcoin block
+URL:   https://thenextweb.com/hardfork/2019/07/11/bitmain-bitcoin-invalid-block-150000-mining-reward-lost/
+
+Bitmain-owned mining pool Antpool appears to have squandered at least $150,000 worth of Bitcoin BTC mining rewards, reports BitMEX Research, the analytic arm of cryptocurrency exchange BitMEX.
+
+At 14:35 UTC, June 10, the Bitcoin network rejected a block after it had been mined, which effectively cancelled the 12.5 BTC ($146,200) reward intended for its miner. Any resources spent mining the block were also essentially wasted.
+
+Bitcoin had an invalid block at height 584,802, as spotted by @juscamarena All 8 nodes at https://t.co/WKQ8hPDGON identified the block as invalid: Bitcoin Core 0.18.0
+
+Bitcoin Core 0.17.1
+
+Bitcoin Core 0.16.2
+
+Bitcoin Core 0.10.3
+
+bcoin
+
+Bitcoin Knots 0.14.2
+
+btcd
+
+Libbitcoin pic.twitter.com/p5WKJ5rO0t — BitMEX Research (@BitMEXResearch) July 10, 2019
+
+Did a bug in Bitcoin mining software really cause this?
+
+Bitcoin awards BTC to cryptocurrency miners for successfully adding blocks to its blockchain. To claim this reward, they must first add “coinbase transactions” to blocks (not to be confused with cryptocurrency exchange Coinbase).
+
+When the Bitcoin network accepts blocks, their miner collects the coinbase transaction. There are rules: it must equal the amount set by the Bitcoin protocol, which is currently 12.5 BTC ($146,200). This is scheduled to halve in just over 300 days.
+
+Bitcoin‘s full nodes then ensure miners are creating blocks correctly by automatically rejecting those that don’t match the protocol.
+
+Why did this happen? A software bug in mining software most likely. $150,000 mistake.https://t.co/sj3jJXDbU9 — nic carter (@nic__carter) July 10, 2019
+
+Coinbase transactions must equal 12.5 BTC (for now)
+
+According to BitMEX Research, the Bitcoin network denied Antpool’s block as it featured an erroneous coinbase transaction.
+
+Instead of 12.5 BTC, whoever mined the block seems to have requested a reward of 13.26 BTC ($154,700). This appears to equal the correct coinbase transaction (12.5 BTC) plus the sum of the associated transaction fees.
+
+“The coinbase value was too high, presumably because this included the transaction fees, but due to some error the transactions themselves were not included,” tweeted BitMEX Research.
+
+According to @theinstagibbs, the coinbase suggests @AntPoolofficial is the miner of the invalid blockhttps://t.co/VGTltgTcbf — BitMEX Research (@BitMEXResearch) July 10, 2019
+
+The transactions that were supposed to be added to Bitcoin’s blockchain were effectively cancelled.
+
+Hard Fork has reached out to mining firm Bitmain, which oversees Antpool, to confirm its role in the costly snafu and will update this piece should we receive a reply.

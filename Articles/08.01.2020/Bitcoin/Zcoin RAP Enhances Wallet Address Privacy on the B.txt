@@ -1,0 +1,27 @@
+DATE:  08.01.2020, 12:35:48
+TITLE: Zcoin RAP Enhances Wallet Address Privacy on the Blockchain
+URL:   https://www.aithority.com/technology/cryptocurrency/zcoins-receiver-address-privacy-enhances-wallet-address-privacy-on-the-blockchain/
+
+Zcoin’s Receiver Address Privacy Enhances Wallet Address Privacy on the Blockchain
+
+Zcoin, a privacy focused cryptocurrency is set to be the first cryptocurrency project to release Receiver Address Privacy (RAP) on a desktop wallet. RAP is an implementation of Reusable Payment Codes (BIP47) originally proposed by Justus Ranvier, which provides greater privacy by allowing users to share a single permanent address publicly without leakage of privacy.
+
+Traditionally, when a user shared an address out, anyone can look up that address on the blockchain and see its entire history which is a real privacy problem that inhibits real world adoption especially in businesses where they may not want to reveal who their customers are, how much they’re receiving and who their suppliers are.
+
+Read More: Technology Watch: Don’t Miss These CES 2020 Themes And Sessions
+
+RAP addresses allow for a single permanent address to be shared publicly without outsiders being able to tell when it has received payments. This privacy is also further enhanced as Zcoin’s RAP implementation allows users to send Zcoin’s Sigma transactions to RAP addresses which allows users to hide the sender of the funds.
+
+RAP also offers several practical benefits and advantages over stealth addresses in that payments to it are indistinguishable from other payments making it harder to censor and the scheme can be supported by light wallets.
+
+“RAP or BIP47 is a very creative solution to the address reuse problem and it works great together with Zcoin’s Sigma privacy protocol offering a complete solution for both sender and receiver privacy,” said Reuben Yap, Project Steward of Zcoin. “Thus far we have only seen BIP47 being implemented in a handful of mobile wallets such as Samourai, Rune and Billions. Writing BIP47 almost from scratch in C++ allows not only Zcoin to benefit but any cryptocurrency using a Bitcoin core can also adapt the work. We are happy to contribute to the space in improving privacy and seeing greater adoption of BIP47.”
+
+Read More: Allied Wallet China and Founder Andy Khawaja Plan to Implement Blockchain Technology in 2020
+
+The Zcoin core team worked together with Arcadia a blockchain software development company with a focus on privacy preserving technologies to implement RAP.
+
+“We made a lot of informed choices when implementing BIP47 on Zcoin. For example, we went with the traditional notification transaction style on the blockchain for notifications versus WebRTC or BitMessage to not accidentally introduce potential points of network level leakage,” said Rasikh Morani, CTO and co-founder of Arcadia.
+
+RAP is fully implemented and undergoing code review and is set to go live on Zcoin’s network in about a month.
+
+Read More: What is China’s Password Law and What it Means for the Blockchain Industry?

@@ -1,0 +1,23 @@
+DATE:  26.02.2020, 15:30:47
+TITLE: Bitcoin’s 2017 hardfork-triggered ‘BCH treasure-hunt’ still dividing mining pools
+URL:   https://eng.ambcrypto.com/bitcoins-2017-hardfork-triggered-bch-treasure-hunt-still-dividing-mining-pools/
+
+On 1 August 2017, Bitcoin Cash had forked away from Bitcoin after weeks of speculation and on 24 August, Bitcoin activated its SegWit upgrade.
+
+Considered to be an important update, SegWit added a different P2SH address: nested Segwit which started ‘3’. The only difference between a normal P2SH address and a SegWit one is their spending scripts. The launch of SegWit is one of the main reasons for the lost 19,000 BCH to SegWit addresses.
+
+Coinmetrics’ Recent State of the Network discussed the BCH tokens that have been mistakenly lost since 2017 and remain inaccessible because BCH did not have SegWit.
+
+With time, it was figured out that miners would be able to access the lost BCH if they are able to break the standardness rules. The report said,
+
+“Transactions spending from a nested SegWit address on Bitcoin Cash break one of these standardness rules (the clean stack rule, to be precise) and therefore will not be relayed; they can only be mined if included directly by a miner. So miners, or a user in direct contact with a miner, can spend from nested SegWit addresses on Bitcoin Cash, while normal users cannot.”
+
+After such an opportunity was deciphered by a Russian Bitcointalk user, it was understood that only slightly more than 400 BCH sent to SegWit addresses on BCH could be claimed by miners.
+
+It was clear as day that a capable miner was crucial to breaking the standardness rule. On 14 November 2017, the news that over 470 BCH worth $644k was available on a SegWit address went public. It did not take much time thereafter as two days later, BTC.com recovered the first batch of 100.7 BCH that were mistakenly sent to the nested SegWit addresses.
+
+After the first recovery, BTC.com sent up its recovery service which started at a period of recovering BCH, at press time. BTC.com charged a recovery finder’s fee of 10 percent that was sent to the same address and it was identified that the revenue pool had 368.03 BCH.
+
+Over time, other mining pools have joined in the quest for the lost BCH, something that was observed in the table shared above. The major problem with such a scenario is that the situation could have been easily avoided if necessary precautions were taken before the hard fork on 1 August 2017. Bitcoin’s quick update to SegWit right after the hardfork should have been activated after users were clear on Bitcoin and Bitcoin Cash’s network situation.
+
+Data from the report suggested that at press time, over 8,979 BCH has been recovered, but the extra finder’s fee allocated to these pools could have been avoided in the first place. Since last year, mining pools such as BTC.com and BTC.top are at 5,779 BCH and 3,846 BCH, respectively. With more than 9000 BCH still out there in nested SegWit addresses, the eventful hardfork from 2017 continues to stir a tussle between these pools over a lost jackpot.

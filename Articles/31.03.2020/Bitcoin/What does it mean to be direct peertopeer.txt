@@ -1,0 +1,37 @@
+DATE:  31.03.2020, 09:51:13
+TITLE: What does it mean to be direct peer-to-peer?
+URL:   https://coingeek.com/what-does-it-mean-to-be-direct-peer-to-peer/
+
+Handcash and Money Button have optimized the Bitcoin protocol by bringing peer-to-peer transactions to Bitcoin SV (BSV), the only version of Bitcoin that stays true to the Bitcoin whitepaper. The two companies are working to have the IP-to-IP protocol—that was removed from the BTC codebase—implemented across the entire BSV ecosystem. Let’s take a closer look at what it means for Bitcoin to be peer-to-peer.
+
+A peer-to-peer transaction means that a transaction is sent directly from the sender to the recipient—without a service provider scanning the blockchain 24/7 for a tx that might apply to one of their users. Peer-to-peer transactions significantly increase the efficiency of the Bitcoin network and allow service providers to lower the costs associated with running their business.
+
+To get a better understanding of direct peer to peer transactions, let’s take a look at what a transaction looks like without a peer-to-peer model in place.
+
+A transaction that isn’t direct peer-to-peer
+
+“When I send money from my Centbee wallet to my Money Button wallet, what happens is that Centbee creates a bitcoin transaction (this is basically a piece of data that includes signatures), then sends that transaction to the miner network,” said Miguel Duarte, a software developer at Money Button.
+
+“At this point [from a consumer standpoint], I ‘received’ the money in my MB wallet. [But on the back-end] what Money Button does is look at the blockchain 24/7. Wallets need to check all the transactions [taking place] and then filter out the ones involving their users in order to update their balances and notify them about changes.”
+
+Without direct P2P transactions, Bitcoin service providers need to continually monitor the blockchain for transactions that might apply to their users. If they do come across a transaction that involves their users, they update the user’s balance per the data written on the chain that applies to the user. If there are no transactions that apply to their users, they still need to monitor the blockchain 24/7 in case there ever is a transaction that involves their user. However, that’s not efficient; watching the blockchain 24/7 is unnecessarily expensive.
+
+“At scale, this is extremely expensive,” said Duarte. “With gigabyte size blocks, millions of transactions and millions of users this is expensive and slow. But there is a simple solution… Just let the receiver know that I’m sending him money.”
+
+To monitor a blockchain 24/7, a service provider must run a full node or rely on a third party who is running a full node—but running a full node is not cheap. Transactions that are not peer-to-peer are resource-intensive and inefficient for bitcoin service providers, but the solution is direct peer-to-peer transactions.
+
+Peer-to-peer transactions
+
+In a peer-to-peer transaction, instead of scanning the blockchain 24/7, a Bitcoin service provider is notified directly when one of the addresses on their service receives money.
+
+“…[when a transaction is direct peer-to-peer, a service provider] does not have to scan EVERY single address EVERY time. Instead, they just check ON DEMAND for the transaction they have been told they have by the sender,” said Alex Agut, CEO of Handcash.
+
+“HandCash and Money Button have been sending all transactions to each other directly, without third parties, for over a month now. This was probably the first P2P Bitcoin transaction between services in recent history,” said the Handcash team in their latest blog post.
+
+Optimizing the BSV ecosystem
+
+The work Handcash and Money Button are doing to get direct peer-to-peer transactions implemented significantly reduces the load that Bitcoin service providers take on. This can effectively lower a Bitcoin service provider’s cost of doing business; direct P2P allows Bitcoin-based applications to get notified of transactions that apply to them faster. This means there is a possibility that they do not have to monitor the blockchain 24/7 in the future, which could nearly eliminate their costs associated with running a full node or using a third-party service provider who runs a full node.
+
+The implementation of direct peer-to-peer transactions across the BSV ecosystem could greatly benefit the Bitcoin network. To catalyze this implementation, we will need all hands on deck! If you are a software developer and would like to help companies transition to peer-to-peer, we encourage you to join the conversation taking place in the P2P Bitcoin Telegram group. We also recommend checking out Money Button’s site for any documentation related to P2P implementation.
+
+New to Bitcoin? Check out CoinGeek’s Bitcoin for Beginners section, the ultimate resource guide to learn more about Bitcoin—as originally envisioned by Satoshi Nakamoto—and blockchain.

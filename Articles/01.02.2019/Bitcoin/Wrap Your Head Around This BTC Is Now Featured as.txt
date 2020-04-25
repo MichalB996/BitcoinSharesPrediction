@@ -1,0 +1,65 @@
+DATE:  01.02.2019, 21:04:11
+TITLE: Wrap Your Head Around This: BTC Is Now Featured as a Token on Ethereum
+URL:   https://bitcoinmagazine.com/articles/wrap-your-head-around-btc-now-featured-token-ethereum
+
+Ring in the new bitcoin halving cycle the right way: with us!
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+It happened: Bitcoin is now an Ethereum token.
+
+Wrapped Bitcoin (WBTC), an ERC-20 token with a 1-1 peg to bitcoin, went live on the Ethereum network on the final day of January, “the first token that makes Bitcoin compatible with the Ethereum chain,” its architects say.
+
+Kyber Network, Bitgo and Ren spearheaded the “community led” initiative, which has spread its reach to AirSwap, BitGo, Blockfolio, Compound, DDEX / Hydro, Dharma, Gnosis, GOPAX, Kyber Network, Loopring Protocol, MakerDAO, OmiseGO, Prycto, Ren, Set Protocol, and TheOcean. These members of the WBTC DAO are a mixture of liquidity, infrastructure and custodial partners. The token’s network will rely on some of them to facilitate BTC to WBTC swaps for its users.
+
+To exchange their BTC for WBTC or vice versa, users must enter into a request with a WBTC merchant, someone who basically “sells” (or more accurately, distributes) WBTC to users in exchange for bitcoin (or bitcoin in exchange for WBTC) and go through KYC. These merchants act as a go-between for the user and the network’s liquidity pool, the custodians.
+
+That merchant takes this request to a custodian, who will either deny or honor the request and mint or burn WBTC for the user. Minting and burning takes place directly between the merchant and the custodian through an atomic swap, a protocol that allows users to trustlessly trade assets cross-chain —in this case, BTC and WBTC.
+
+To trigger the process, a merchant would submit a minting request to an Ethereum smart contract while simultaneously sending bitcoin to the custodian.
+
+“The custodian then waits for 6 confirmations on the bitcoin chain, and approves the minting request on the Ethereum network, and the approval triggers the mint operation in which the merchant gets the WBTC,” Yaron Velner, the CTO of Kyber Network, told Bitcoin Magazine.
+
+The user is not involved in this swap in this first swap in any way. To claim their tokens/bitcoin, the user then has to enter in either an atomic swap or a trusted exchange with the merchant.
+
+Kyber Network and Republic Protocol will kickstart the network as its first merchants, and
+
+Eight Wrapped Bitcoin community members(AirSwap, Dharma, ETHfinex, GOPAX, Kyber Network, Prycto, Ren and Set Protocol) will kickstart the network’s WBTC and BTC liquidity vehicle as merchants, while BitGo will be the sole custodian to start.
+
+Members of the WBTC DAO will oversee a multisignature wallet that will handle the permissions and keys necessary for assigning or retracting merchant and custodian roles.
+
+The (Peg) Ins and Outs
+
+The project promises to bring Ethereum smart contract utility to bitcoin and the benefit of bitcoin’s liquidity to ether’s token market.
+
+Currently, Ethereum dominates the decentralized exchange (DEX) landscape, and there’s no way for traders to directly trade their bitcoin for tokens (they have to go through centralized exchanges for that). Giving traders the option to import bitcoin to Ethereum to trade its value as an ERC-20 token, WBTC could unleash a sea of bitcoin liquidity into Ethereum’s Decentralized Exchanges — this is likely why IDEX, the largest DEX on Ethereum, is involved, along with Airswap, DDEX, ETHfinex and others).
+
+As an ERC-20 token, WBTC can also execute smart contracts, meaning dApps could use the token (like WBTC community partners Compound, Dharma, dYdX, bZx, Gnosis, Maker and Set protocol), and developers can start building new applications on WBTC. Wholesale, the project sells itself as “[combing] the benefits of Ethereum and Bitcoin, making it simple to handle the wrapped currency with only the Ethereum node.”
+
+It’s an ambitious project, bringing together crypto’s two most valued networks, one that wants to utilize the best of both cipher worlds. It’s one, though, that Wrapped Bitcoin is backing up with immediate utility and liquidity at launch, but it’s also one that comes with tradeoffs.
+
+“Kyber Network and Ren have procured an initial amount of WBTC tokens from their own Bitcoin inventory to provide initial liquidity and make WBTC immediately available for swaps with users. BitGo will be the initial custodian,” a press release states.
+
+“Eight initial merchants will be facilitating conversion between WBTC and BTC: AirSwap, Dharma, ETHfinex, GOPAX, Kyber Network, Prycto, Ren, and Set Protocol.”
+
+The token service is starting centralized, and you have to go through KYC to be verified with merchants to submit token minting or burning requests. BitGo will be the sole custodian from the beginning, meaning that all swaps will be conducted by the blockchain and wallet services company.
+
+“Various decentralized and centralized exchanges have also procured WBTC inventory to support liquidity for the token with the live supply of WBTC observable on the WBTC dashboard,” the press release also states.” WBTC will also have usage on a handful of dApps out the gate, including “bZx, Compound, Dharma, dYdX, and DApps and wallets integrated with Kyber Network.” CoinGecko, the project’s market data partner, will be covering WBTC data.
+
+Cautions and Clarifications
+
+The service is fairly centralized out of the gate, something the project recognizes in its whitepaper, describing its structure as a “federated governance model.” Even if the merchants are distributed (and sparsely at that for the time being), BitGo’s custody of pegged-in bitcoin is both a counterparty risk and single point of failure. Of course, BitGo has multisignature and cold wallet services to mitigate these risks.
+
+But for a project that brands itself as giving users an out from centralized services like exchanges, it offers a similar degree of centralization with just a few more steps (instead of submitting your coins to the custody of a centralized exchange, you’re putting them in custody with a separate company and then using the tokens of credit this company gives you (instead of the credit you’d use on the centralized exchange) to trade them elsewhere.
+
+Still a functional bitcoin-to-ethereum bridge is a novel addition to the industry's architecture, something that RSK is working on and Blockstream could theoretically build with Liquid. And, as Vitalik Buterin said on Twitter, Liquid’s federated sidechain is semi-subject to the same centralization as Wrapped Bitcoin, but Liquid’s liquidity partners are more evenly distributed (and don’t require a third party for custody).
+
+WBTC, like Liquid, could sufficiently decentralize in the future given enough adoption, Buterin concludes.
+
+Sidechains like Liquid work in exactly the same way. Granted Liquid currently has more participants, but I hope WBTC can decentralize somewhat over time too. — Vitalik Non-giver of Ether (@VitalikButerin) January 30, 2019
+
+Wrapped Bitcoin lists BitGo as its “initial” custodian, leaving a vague sense that more will come in the future, but they will have to be regulated to hold the bitcoin, the project’s whitepaper makes clear If its influence fans out, more merchants and custodians could provide some risk mitigation and help the project decentralize. Its website has open applications for partnerships, keeping with the initiative's claim to be a community-driven effort.
+
+“The fundamental design of WBTC and the continuing commitment of all members to openness will form the essential building blocks for a transparent process framework and governance structure. Relying on these foundational principles, WBTC will remain a firmly community-led initiative into the future, focused on driving continued innovation for the enhancement of the entire ecosystem.”

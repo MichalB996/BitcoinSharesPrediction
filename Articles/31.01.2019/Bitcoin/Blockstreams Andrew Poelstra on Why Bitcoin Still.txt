@@ -1,0 +1,47 @@
+DATE:  31.01.2019, 10:02:42
+TITLE: Blockstream’s Andrew Poelstra on Why Bitcoin Still Has Weak Privacy
+URL:   https://coinjournal.net/blockstreams-andrew-poelstra-on-why-bitcoin-is-still-has-weak-privacy/
+
+Among the general public, Bitcoin is often viewed as a sort of anonymous online payment method for activities like buying drugs on darknet markets. However, the digital cash system is still far from anonymous, private, or even fungible.
+
+While there have been countless privacy-related improvement proposals for Bitcoin over the years, practically none of them have found their way into the base protocol. The reasoning behind this lack of privacy in the world’s most popular crypto asset was recently discussed by Blockstream mathematician Andrew Poelstra and Monero Talk host Douglas Tuman during an episode of the YouTube-based show.
+
+During the conversation, Poelstra touched on scalability issues around various privacy improvement proposals, an issue specific to Confidential Transactions, and the general difficulties associated with making changes to the Bitcoin protocol.
+
+Scalability Issues
+
+Although only mentioned in passing during Tuman’s interview of Poelstra, scalability issues are one of the key concerns around improving privacy in Bitcoin. In general, the on-chain Bitcoin privacy enhancements that have been proposed in the past have involved clogging up the network’s precious block space with more data, which would have the side effect of either increasing the cost of making a transaction or the cost of operating a full node (if capacity were increased).
+
+The Zerocoin and Zerocash proposals are appropriate examples of this issue, as they were originally intended to be integrated into Bitcoin. Although the Zcash altcoin has made strong improvements in terms of the size of these privacy-focused transactions, they still aren’t at the point where the scalability trade offs would likely be acceptable for Bitcoin users.
+
+It should be noted that this argument has sort of been turned on its head in recent years with the advent of the Lightning Network. This sort of off-chain, secondary protocol layer illustrates that there is actually a strong link between privacy and scalability, as limiting what goes into the blockchain forever helps limit both the size of that data structure and the amount of one’s personal financial history that is made publicly available for the rest of the world to see.
+
+The Verifiability Issue with Confidential Transactions
+
+Confidential Transactions is a privacy-focused proposal for Bitcoin and other crypto asset networks that has received quite a bit of well-deserved hype over the past few years. This proposal, which originated in a Bitcointalk forum thread created by Blockstream CEO Adam Back back in 2013, is focused around masking the amounts associated with Bitcoin transactions. However, a key issue with this privacy proposal (and many others) is its requires a change in the cryptographic assumptions users must be willing to make with Bitcoin.
+
+“If we were to get [Confidential Transactions] in Bitcoin, it would have the side effect of making the soundness of Bitcoin itself dependent on cryptographic assumptions,” Poelstra told Tuman.
+
+The specific issue around Confidential Transactions is related to the discrete logarithm problem, which is the security basis for a variety of algorithms found in the sort of cryptography that is used in crypto asset networks. If someone were able to solve the discrete logarithm problem (likely through the use of a quantum computer), then that person would be able to undetectably inflate the supply of bitcoin in a version of the asset that uses Confidential Transactions.
+
+One of the common criticisms of Zcash is the use of a trusted setup to solve their own issue of undetectable inflation, and it’s unlikely a similar problem would be allowed in what is supposed to be the digital version of sound money.
+
+“Right now, in Bitcoin, you can look at the blockchain [and] you can see all the transactions,” explained Poelstra. “You can check that all the amounts add up. You can check that nobody is minting coins. You can really verify the soundness of the system. And Confidential Transactions does not let you do that. Worse than that, it requires you trust a cryptographic assumption that we know will be broken by quantum computers.”
+
+Indeed, a bug that allowed unintended inflation to occur in 2010 was discovered because the additional supply created by an attacker was available for everyone to see.
+
+“Maybe if there was something like Confidential transactions or something like SNARKs or some sort of ring signature that was resistant to quantum computers — maybe that would be okay [in terms of community sentiment],” added Poelstra.
+
+It should be noted that Confidential Transactions can be implemented in a way that would break privacy retroactively rather than bitcoin’s soundness in the face of a solution to the discrete logarithm problem through the use of a quantum computer. It’s likely that this would be a more acceptable trade off for Bitcoin users, but it’s unclear if it would gain enough support for inclusion in the base protocol rules.
+
+Confidential Transactions has already been implemented in Liquid, which is a federated sidechain to Bitcoin created by Blockstream.
+
+It’s Hard to Change Bitcoin
+
+At the end of the day, it’s just difficult to make any changes to the Bitcoin protocol. Even when a good idea comes around, it takes time to convince other people that it’s a good idea and write the related code. And by then, an even better idea that obsoletes the previous one may have been discovered.
+
+It’s also difficult to revert a change that’s been made to Bitcoin, which means there’s an incentive to wait until a proposal is perfect before integrating it into the network protocol.
+
+In terms of proposals that have real traction at this point in time, progress has been made in the areas of Schnorr signatures, Taproot, and a few other improvements. In short, the combination of some of these improvements will make practically all interactions with the Bitcoin blockchain indistinguishable from each other. In other words, a CoinJoin transaction or a transaction that opens a channel on the Lightning Network will look the same as a simple transaction that sends some bitcoin from Alice to Bob.
+
+This next step of making all types of Bitcoin transactions look the same can lay the foundation for other improvements to privacy in the future such as the aforementioned Confidential Transactions.

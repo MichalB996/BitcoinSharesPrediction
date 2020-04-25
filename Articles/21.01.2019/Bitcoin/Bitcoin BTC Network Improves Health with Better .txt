@@ -1,0 +1,21 @@
+DATE:  21.01.2019, 09:40:35
+TITLE: Bitcoin (BTC) Network Improves Health with Better Node Count
+URL:   https://cryptovest.com/news/bitcoin-btc-network-improves-health-with-better-node-count/
+
+After a plunge in the fall of 2018, reachable Bitcoin nodes once again exceeded 10,000, with growth coming from Europe, specifically Germany.
+
+Bitcoin (BTC) is showing another sign of network health by growing the number of reachable nodes to 10,212, based on data from Bitnodes. Unlike hashrate, nodes store and secure the distributed ledger, holding large amounts of data. Communications between nodes are also highly important.
+
+The Bitcoin network is fully decentralized, and, in theory, the most secure one. But it depends on the decisions of separate entities to run full nodes. The geographic distribution is haphazard, with concentrations higher in the US, as well as regions of high tech development and general interest in blockchain. Maintaining a node is not straightforward anymore as the size of the Bitcoin network has grown to nearly 200 GB in the past year.
+
+The most common type of BTC node is the one running Bitcoin Core, with 9,663 nodes based on the most common version. The types supporting different variations of the code represent a small portion.
+
+Lightning Network (LN), a peer-to-peer transfer system that does not rely on mining, is also growing, reaching 5,424 nodes:
+
+https://twitter.com/LNstats/status/1085375698846576640
+
+The LN is an alternative for relatively small-scale payments. However, its nodes do not contain the full distributed ledger and all past transactions.
+
+Despite reports of miners closing their operations, the increasing number of nodes shows a level of dedication to the Bitcoin network and represents a technological bet that the cryptocurrency will remain successful.
+
+In the past months, as BTC market prices slid from the long-held $6,000 tier, any indications of a recovery based on fundamental data have become more important. The network shows no signs of entering a “death spiral” as transaction rates have grown in the past quarter and mining has retained levels of around 40 EH/s.

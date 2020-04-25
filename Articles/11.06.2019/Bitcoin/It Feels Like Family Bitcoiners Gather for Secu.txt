@@ -1,0 +1,45 @@
+DATE:  11.06.2019, 19:50:38
+TITLE: ‘It Feels Like Family’: Bitcoiners Gather for Security Conference in Amsterdam
+URL:   https://www.coindesk.com/it-feels-like-family-bitcoiners-gather-for-security-conference-in-amsterdam
+
+A swift breeze swept across the canal and into a small Amsterdam pub, where about 30 bitcoiners sat drinking beers and registering for Breaking Bitcoin 2019. It smelled like rain.
+
+From a British mom who works from home as a “bitcoin hobbyist,” to a ripped Kiwi technologist with a thick beard, people who work with bitcoin gathered to joke about Crypto Twitter and nodes.
+
+They were in Amsterdam for one of the most prestigious security conferences in the blockchain industry. But on this rainy Friday, they had also come for something more.
+
+“It feels like family,” the hobbyist trader said.
+
+Many of them paid for beers and snacks with bitcoin, using a lighting-friendly wallet and a point-of-sale device developed by the Amsterdam-based startup Bitonic, founded in 2012.
+
+“We may have lost some of the market,” Bitonic’s head of strategy, Daan Kleiman, told CoinDesk about the decision to focus purely on bitcoin, “but we have the freedom to make our own decisions without the pressure from venture capital. This makes our growth very natural and healthy in this complex market with a lot of scams and unrealistic promises.”
+
+But growth wasn’t the main focus the following weekend at the conference itself. Instead, the panels and presentations at Breaking Bitcoin 2019 explored the premier cryptocurrency’s vulnerabilities, from political attack vectors to security holes.
+
+At the operational end of the spectrum, there was bitcoin advocate Udi Wertheimer, who revealed Wasabi Wallet’s privacy features could actually be leveraged to de-anonymize users. (The wallet’s creator promptly replied on Twitter to discuss issues from the presentation.)
+
+Then there were the higher-level challenges, such as the economic and social risks of bitcoin. On a panel exploring the topic, vagabond bitcoin consultant Felix Weis said if the majority of bitcoin users continue to trust custodians and exchanges to hold the private keys to their assets, then such companies could gain disproportionate sway over the technology’s evolution.
+
+Each talk left the audience feeling that addressing this specific issue could bring bitcoin one step closer to long-lasting value. And although building a sustainable-yet-decentralized form of money is still an ambitious goal, at best, nothing excites bitcoiners quite like a seemingly insurmountable challenge.
+
+Users and limitations
+
+Despite how few people spend bitcoin today, with Chainalysis estimating merchant activity represents only 1.3 percent of bitcoin activity, many developers at the conference in Amsterdam use bitcoin for freelance work on open source projects.
+
+Such was the case with both Weis and Lightning Labs co-founder Olaoluwa Osuntokun, who paid contributors to his startup’s implementation of the bitcoin scaling solution lightning. From Osuntokun’s perspective, regulation presents a larger barrier to bitcoin adoption than the small pool of users.
+
+“The biggest risk likely comes from state-level actors attempting to stifle the development of software related to bitcoin,” Osuntokun told CoinDesk. “Network-level partitioning attacks, and attempts to control the import/export of mining equipment.”
+
+During the social risks panel with Weis, Bitcoin Magazine editor Aaron van Wirdum concurred that new regulations like the upcoming requirement by the Financial Action Task Force (FATF) – which could force companies to share customer data across jurisdictions any time users send money from one exchange or custodian to another – presents a salient risk to bitcoin users’ privacy and the ability of companies to uphold a cypherpunk ethos.
+
+Yet the vibe at Breaking Bitcoin was optimistic, even exuberant. Along those lines, several conference attendees were independent researchers presenting prospective solutions to small, specific problems with using bitcoin.
+
+“I’ve progressed from someone who was excited about [bitcoin],” Seoul Bitcoin Meetup founder Ruben Somsen told CoinDesk, “to someone who explains it at meetups, to now potentially contributing something.”
+
+Somsen was there presenting his idea for a bitcoin-related protocol for instant off-chain transactions without the hassle of lightning channels.
+
+To conclude his presentation, in a way that epitomized the conference’s gamification of criticism, Somen answered audience questions poking holes in his proposal. After all, as Bitcoin Core developer Matt Corallo said during a panel about lightning:
+
+“Bitcoin is still in beta … decentralization is an experiment.”
+
+Olaoluwa Osuntokun (right) plays a lightning-based game by Donnerlab while onlookers bid from mobile wallets to play the next round. (Photo by Leigh Cuen for CoinDesk)

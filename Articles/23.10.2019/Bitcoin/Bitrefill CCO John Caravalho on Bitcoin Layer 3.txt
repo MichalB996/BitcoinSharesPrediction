@@ -1,0 +1,61 @@
+DATE:  23.10.2019, 21:03:12
+TITLE: Bitrefill CCO John Caravalho on Bitcoin Layer 3
+URL:   https://bitcoinmagazine.com/articles/john-carvalho-lightning-bitcoins-layer-3-thinking-way-ahead
+
+Ring in the new bitcoin halving cycle the right way: with us!
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+During the last day of the Lightning Conference in Berlin, John Carvalho was scheduled to make a presentation titled “The Lightning Economy: Business Models and Product Considerations.”
+
+However, due to the noisy chatter that echoed inside the chamber, the Bitrefill CCO decided to take his discussion outdoors. So, the conversation took place in the quieter and sunnier backyard of the Berlin venue, where Carvalho expressed his thoughts about the Lightning Network, Bitcoin’s Layer 3 and Bitrefill’s contributions to this ecosystem.
+
+Luckily for audiences everywhere, Carvalho agreed to record his talk in the form of a Bitcoin Magazine interview where he answered specific questions about his work and his understanding of Bitcoin’s intricate layers. Throughout the 16-minute session, he outlined the elements that should be expected in the next few years, made his case for small blocks and also explained why Lightning is better for commerce.
+
+Scalability and Privacy on Lightning
+
+“Bitrefill is going to be a force behind the circular or parallel economy, for which we do need Lightning.” — John Carvalho, CCO of Bitrefill
+
+In September 2019, Bitrefill CEO Sergej Kotliar also did a Bitcoin Magazine video interview in which he explained his views on the circular economy. However, Kotliar’s argument was mostly about scarce and limited assets being traded back and forth as part of the “living on crypto” lifestyle. Carvalho took the extra step of explaining the concept by focusing on Bitcoin’s Lightning Network as the layer which provides privacy and scalability.
+
+“We’ve been talking to exchanges to see what they need in place in order to get on the Lightning Network, so we’ve been working a lot behind the scenes in order to figure out what needs to be developed. So I think in the coming months, you’ll see the results of that,” said Carvalho, regarding Bitrefill’s effort to sustain large-scale Lightning adoption.
+
+Bitrefill, Lightning and Thor Turbo Channels
+
+Bitrefill is also spearheading innovation with Thor Turbo channels which enables users to open Lightning channels instantly with on-chain payments (that can be made with BTC, as well as a few altcoins), without waiting for the network confirmations required to call the transactions immutable. It sounds like a risky approach for Bitrefill to take — assuming that users will act in good faith and won’t double spend their transactions. However, it’s all being done in the name of accelerating Lightning adoption and becoming a household name in the second layer’s ecosystem.
+
+Carvalho said that the price of these Thor Turbo channels is also being revised in order to make the service more accessible. However, he made it clear that Lightning isn’t cheap and should not be regarded as such because users will suffer the same kind of disillusionment they had with early on-chain transactions:
+
+“We’re looking at lowering the prices as much as possible. It’s tricky because we almost did the same mistake as we did with bitcoin in the early days — everybody is saying that Lightning is scaling and it’s cheap. But Lightning isn’t cheap and it’s not going to be cheaper than on-chain bitcoin until Bitcoin blocks are full. It’s not going to be a given that you can hop on and off Lightning and have services like Bitrefill exist where the fees are going to be cheaper. And right now there is still empty block space, and when you use Thor channels, all you’re doing is paying for the convenience of not doing something yourself. But there are reasons to do that: expertise, automation and various business purposes.”
+
+The Bitrefill CCO also explained that Lightning transactions are only for high-frequency trades, as it takes at least three Lightning transactions to make the decision to use the second layer economically rational.
+
+Spectrum and Bitcoin Layer 3
+
+“In order for Lightning to get to the next level, we need certain aspects of infrastructure to be in place. So we started working on Spectrum projects so we can do Layer 3 operations on Lightning. We’re thinking way ahead.”
+
+Carvalho is one of the key figures involved in the Spectrum project, which seeks to put RGB tokens on top of the Lightning Network. Admittedly, this new wave of innovation on top of Layer 2 is Bitcoin’s own “Ethereum moment where we can actually do all the dumb things that Ethereum does, except that they’re on Bitcoin and we don’t have to deal with scams,” said Carvalho.
+
+Nonetheless, there’s more to the picture than meets the eye. Spectrum was created as a way of moving tokens to the Lightning Network but soon a need for DEX (decentralized exchange) functionality appeared.
+
+“We don’t just need colored coins and channels, but also the ability of passing them through nodes that don’t have anything to do with this. So you need to have a way to trade your BTC for tokens, and the system resembles a DEX,” said Carvalho.
+
+In the words of the Bitrefill CCO, building Layer 3 means “adding plug-in functionality or influencing aspects about how the protocol is built, so that people can build more things on top of Lightning Network.”
+
+Therefore, we aren’t just speaking of one application such as RGB tokens or tokenized cloud storage via Storm, but an entire ecosystem of tools which enable all sorts of creative use cases.
+
+Does John Carvalho Still Support 300kb Blocks?
+
+As a long-time bitcoiner, Carvalho is very cautious about the implications of creating sidechains and extra layers. He understands that the Lightning Network and the Liquid federated sidechain can potentially have a negative influence on block space and miner incentives but, at the same time, believes that market dynamics and the system of incentives will find a way to sort it all out.
+
+When asked if he still supports Luke Dashjr’s proposal to reduce the block size to 300kb via a soft fork, Carvalho was rather vague, answering, “Yes and no.”
+
+On one hand, he is disappointed that the resistance to big blocks has actually resulted in a block size increase via SegWit, thus putting a greater burden on node operators and contributing to network centralization. On the other hand, he doesn’t support Dashjr’s proposal as wholeheartedly as he did in early 2019.
+
+“All Luke is saying is that we have an actual problem when we add friction to the issue of running nodes to the point of discouraging users,” Carvalho said. “While paraphrasing Luke’s rationale: If we reduce the block size, we force people to choose the right transaction type. I just wanted to support Luke with this because I don’t think he’s crazy in this regard.”
+
+Nonetheless, Carvalho’s preference for small blocks is shown in his further argumentation.
+
+“It’s easier to mask network activity that’s small,” he said. “So, if the blocks were 300kb and we lived in an adversarial environment where it became risky to run a node, it would be easier to mask node behavior. It would also be easier to send blocks via radio waves and make them literally more portable.”

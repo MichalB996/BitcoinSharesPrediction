@@ -1,0 +1,27 @@
+DATE:  27.02.2020, 15:33:47
+TITLE: Unbound Tech Fortifies Digital Assets Custody With Enhanced Key Management Platform
+URL:   https://www.crypto-news-flash.com/unbound-tech-fortifies-digital-assets-custody-with-enhanced-key-management-platform/
+
+Unbound Tech, the New York-based cryptographic key management platform, has announced a significant upgrade of its all-in-one custody solution.
+
+Just a few weeks ago, the Italian exchange Altsbit conceded that hackers had made off with almost all of their funds, highlighting the struggle exchanges face to lock down their assets.
+
+By upgrading its Crypto Asset Security Platform (CASP), the company hopes to introduce a new standard for custodians and exchanges. The solution utilizes secure multi-party computation (SMPC) to safeguard private keys and transactions, meaning even hot wallets in regular use benefit from cold storage-style security.
+
+SMPC Ushers in a New Standard in Key Management
+
+SMPC is a branch of cryptography that has been researched for many years. Unbound’s co-founders, renowned cryptographers Professor Yehuda Lindell and Professor Nigel Smart, have taken the next step and introduced practical working solutions.
+
+With SMPC, multiple parties can jointly compute any function while maintaining the privacy of their respective inputs. Unbound Tech’s solution has been described as a “virtual HSM” and attempts to be the answer to the ever-present threat of crypto exchange breaches.
+
+In practical terms, exchanges and custodians leveraging CASP can assure their customers that no single entity is able to unilaterally steal their digital assets. What’s more, CASP facilitates lightning-fast transactions, limited only by the processing time of the blockchain. CASP can handle any ledger or token, run on any platform, and utilize any approval policy or quorum authorization structure for the organization.
+
+As per the upgrade, users can now approve transactions even if they’re offline. Exchanges can also secure their XRP funds with CASP via a chain connector, and CASP can interface with existing HSM setups, making it much easier to implement into any existing security framework.
+
+Moving Beyond Private Key Management
+
+The bad press stemming from exit scams and hacked exchanges does nothing to nurture wider interest in cryptocurrency. On the contrary, it fuels the mainstream narrative that crypto is an industry characterized by volatility and risk, a lawless space destined to forever operate on the margins. Unbound Tech are one of a handful of companies advancing all-in-one custody solutions that are fit for purpose, assuaging doubt while fulfilling the security and trust needs of exchanges, consumers and institutional investors. It will be no easy task: according to Cointelegraph, crypto exchanges lost $292 million worth of customer funds in 2019 alone.
+
+Unbound Tech is the best known company toying with alternative solutions to traditional private key management, though it is not alone. Keyless wallet ZenGo shares similarities with CASP, in that ZenGo’s server and the user’s device communicate with one another to sign transactions, without ever revealing their secrets to each other. By replacing the traditional private key with two independently created secret shares, ZenGo’s ambition is to convince users that they are, to all intents and purposes, hack-proof. However, ZenGo is targeting consumer and merchant adoption rather than crypto exchanges and custodians.
+
+Through technologies such as cold asset storage, keyless wallets, and secure multi-party computation, crypto security is steadily getting better.

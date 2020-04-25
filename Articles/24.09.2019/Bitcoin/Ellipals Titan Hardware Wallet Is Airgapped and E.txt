@@ -1,0 +1,47 @@
+DATE:  24.09.2019, 19:12:56
+TITLE: Ellipal’s Titan Hardware Wallet Is Airgapped and Easy to Use
+URL:   https://news.bitcoin.com/ellipals-titan-hardware-wallet-is-airgapped-and-easy-to-use/
+
+Ellipal’s Titan Hardware Wallet Is Airgapped and Easy to Use
+
+There’s a lot of hardware wallets out there vying for your hard-earned satoshis. Minimalist USB sticks; credit card-shaped devices with monochrome screens; Bluetooth-enabled gadgets. The Ellipal Titan is a new offering that packs a lot into its $169 price tag. But there’s one thing conspicuously absent – connectivity. The Titan inhabits a vacuum, and for good reason.
+
+Also read: Buying Bitcoin on the Street Is Getting Easier
+
+Titan: A Blockbuster You Can Hold in Your Hand
+
+When it comes to naming security devices, effeminate monikers aren’t in vogue for some reason. The Ellipal Titan maintains that tradition, its robust design complemented by a fittingly alpha name. Its preferred pronoun is “it” and it identifies as an ultra-secure cryptocurrency wallet.
+
+Essentially an upgrade on “The Cold Wallet 2.0,” which news.Bitcoin.com reviewed last year, the Titan comes packing a host of formidable security features. Its airgapped configuration is the most obvious manifestation of this, but there’s also the ability to set up to three verification steps including a long PIN. The absence of any connections – not even wired – entirely mitigates network attacks. That’s not to say the Titan is impregnable of course, for no hardware wallet is immune to every conceivable attack, physical ones especially. Keep the Titan in a safe place, however, and your mnemonic phrase in a safer place still and your crypto won’t be going anywhere without your say-so.
+
+There’s a lettering kit included for permanently recording your mnemonic phrase and sliding it into the metallic case supplied. I skip this step, but note that the letters look tougher than with the previous Ellipal hardware wallet I reviewed.
+
+Hands on With the Titan
+
+The handset on which the Titan’s wallet keys are generated – essentially a dumb smartphone – is a lot more robust than its plastic predecessor, The Cold Wallet 2.0. The Titan lives up to its billing, feeling distinctly tougher, despite being finished in black plastic with a slate bezel. The device feels heavy enough to convey confidence that it will last, but not to the point of requiring two hands to support.
+
+Because of its airgapped and cableless design, charging the Titan calls for plugging in a small connector which takes a USB type-C cable. The connector is easily dislodged from the handset, which is a minor annoyance, but if you lay the device down flat on a worktop, it will charge just fine. Once you get used to the light touch connection, it feels natural, despite obliging you to charge the Titan in a place where it won’t be inadvertently nudged.
+
+Setup and Installation
+
+After scanning the QR code on the handset using my smartphone, I’m directed to the Google Play store to install the corresponding Ellipal app. Then the setup process continues on the Titan handset, where I’m given the option of selecting a standard or Segwit BTC address and enabling an optional passphrase. The account creation process takes about 30 seconds before the mnemonic appears on screen. There’s a 12-word seed by default, but this can be upped to 24 words if desired. It feels good to be creating a wallet on a device that is entirely isolated from the web. Until you send or receive cryptocurrency to the BTC address that’s generated, the rest of the world has no way of knowing that your public-private keypair even exists.
+
+The Titan supports more than a dozen cryptocurrencies including BCH, ETH, DASH, XRP, EOS, and BNB. I disable them all except for BTC, BCH, and ETH. I now have the Titan handset configured and the Ellipal app installed on my phone. The next step is to get them talking to one another. This is done by scanning two QR codes that are displayed on the handset. You can alternate between the two codes by swiping across the screen, Tinder-style, which is a nice touch. Ellipal have put a lot of work into improving their software since their last airgapped hardware wallet, and it’s been time well spent.
+
+Sending and Receiving Crypto
+
+I have some cryptocurrency in Telegram bot Button Wallet, I recall, which on inspection turns out to be $26 of BCH and $5 of ETH. (If you don’t already have cryptocurrency kicking about, you can purchase bitcoin cash and other major cryptocurrencies at buy.Bitcoin.com using a credit card.) I send all of the ETH and a couple of dollars of BCH to the Titan, and within a few minutes my Ellipal wallet’s loaded with cryptocurrency. Now to try sending coins, which is where the airgapped handset comes into play. All outgoing transactions have to be signed using the QR code that’s generated on the Titan and then scanned using the mobile app.
+
+When reviewing The Cold Wallet 2.0, I found this stage to be a bit fiddly, with the scanner taking a few attempts to read the code. There are no such problems with the Titan: the whole process can be completed in under 20 seconds once you’ve entered your password. I send the bitcoin cash back to Button Wallet, and within a few minutes receive a Telegram notification that my wallet’s been refilled. The ability to send small amounts of BCH at virtually no cost is extremely useful when testing wallets or when introducing people to cryptocurrency. I’ll happily hodl BTC, but for review purposes, BCH has the edge.
+
+Verdict: Airgapped Wallets Are the Way Forward
+
+The Titan isn’t the only airgapped wallet on the market, but compared to something like Coldcard it’s one of the most user-friendly. The software and UX still aren’t as slick as, say, Ledger Live, and some of the tabs and translations in the Ellipal mobile app could use work, but these are minor issues. What matters is that in the Titan, there’s a multi-currency hardware wallet that strikes a balance between security and usability. Fairly priced and well made, the Titan is a force to be reckoned with.
+
+What are your thoughts on airgapped hardware wallets – are they more secure? Let us know in the comments section below.
+
+Disclaimer: This article is for informational purposes only. It is not an offer or solicitation of an offer to buy or sell, or as a recommendation, endorsement, or sponsorship of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.
+
+Images courtesy of Shutterstock.
+
+Did you know you can verify any unconfirmed Bitcoin transaction with our Bitcoin Block Explorer tool? Simply complete a Bitcoin address search to view it on the blockchain. Plus, visit our Bitcoin Charts to see what’s happening in the industry.

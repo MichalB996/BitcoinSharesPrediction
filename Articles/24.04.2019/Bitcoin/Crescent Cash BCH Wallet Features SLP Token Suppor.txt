@@ -1,0 +1,33 @@
+DATE:  24.04.2019, 18:42:32
+TITLE: Crescent Cash BCH Wallet Features SLP Token Support for Smartphones
+URL:   https://news.bitcoin.com/crescent-cash-bch-wallet-features-slp-token-support-for-smartphones/
+
+Crescent Cash BCH Wallet Features SLP Token Support for Smartphones
+
+During the first week of April, news.Bitcoin.com reported on a new bitcoin cash (BCH) mobile wallet called Crescent Cash. At the time, the wallet was the third wallet within the BCH ecosystem to add the Cash Accounts protocol. Now with the latest version release, the noncustodial client is the first mobile wallet to support Simple Ledger Protocol (SLP) tokens.
+
+Also read: Bitcoin Cash Markets and Network Gather Strong Momentum in Q1
+
+Crescent Cash Mobile Wallet Adds SLP Token Support
+
+Development on the Bitcoin Cash network has continued to grow over the last few months and there’s been a load of applications released. On April 23 the developer of the Crescent Cash and the Bchgallery mobile wallets published a new version of the Crescent Cash light client. The application was built by the anonymous software programmer Pokkst and the latest release on Google Play adds SLP token support to the BCH wallet. This means Crescent Cash users can send, receive, and store SLP tokens on a mobile phone, alongside bitcoin cash in a noncustodial manner. There have been a few different wallets that support SLP tokens like Badger and Electron Cash, but Crescent Cash is the first implementation to roll out a mobile version.
+
+“I’ve just released v1.3.0 of Crescent Cash, which brings SLP token support to the wallet,” Pokkst explained on Reddit during the release. “You can now send and receive SLP tokens inside the application. I began planning on how to implement this ever since Roger Ver suggested it in the Bitcoin.com weekly news update.”
+
+Interested users can test the latest version of Crescent Cash by downloading the client directly from Pokkst’s webpage or from the Google Play store for Android phones. Pokkst detailed that he would love to create an iOS version of Crescent Cash, but he needs to publish it under a registered business name which Apple requires for crypto wallets. The Crescent Cash wallet is open source and the code can be reviewed on Gitlab. Pokkst has added new features and polished the wallet code since first implementing the BCH name system Cash Accounts. The user interface has a new dark theme, the mnemonic seed phrase is now hidden, and the SPV operates a lot faster than most light clients. In addition to the Google Play version, Pokkst said he loves FOSS software and plans to release to Fdroid soon as well.
+
+Testing Crescent’s New SLP Functionality While More SLP Supporting Mobile Wallets Are Under Development
+
+Using the Crescent Cash app with SLP tokens is fairly straightforward as the new 1.3.0 version gives users a valid SLP address in order to receive tokens. Similarly, Crescent Cash users can toggle between a BCH address or Cash Account name or use an SLP address to send a specific token to another party. After downloading the first version of Crescent Cash, I decided to test the SLP functionality and updated my current version via Google Play. The download only took a few minutes and after refreshing the application I could see a token section (view tokens) while the wallet syncs with the BCH network.
+
+In order to add tokens to my wallet, I simply pressed the ‘Receive’ icon. Here, the user can choose between a standard Cashaddr address for BCH or the SLP address format for tokens. Using my Badger wallet in my Chrome browser, I sent 1,000 Freehugs to my Android phone that I use for testing wallets. The Freehugs didn’t show up in my Crescent Cash account dubbed ‘SLPtokencollector#16048’ until after one confirmation, and once in a while Crescent Cash crashed when it was syncing to the network. After about 10 minutes I went back to my phone and refreshed the application which then showed me my 1,000 Freehugs.
+
+The latest application from Pokkst is the first mobile SLP light client, but not the only BCH wallet that plans to offer SLP support for smartphones. The team behind Badger is in the midst of developing a Badger mobile wallet as well and BCH developer Jean-Baptiste Dominguez showed a sneak peek of an SLP mobile wallet that works for Apple’s iPhone. The Simple Ledger Protocol has gained broad support throughout the BCH ecosystem with tipping bots, block explorers, Badger, and Electron Cash support and now the latest mobile release from Pokkst adds one more platform.
+
+What do you think about the Crescent Cash BCH mobile wallet with Cash Accounts and SLP token support? Let us know what you think about this project in the comments section below.
+
+Disclaimer: Bitcoin.com does not endorse this product/service. This editorial is intended for informational purposes only. This release is an early version of this particular wallet software and early versions can often be buggy. Readers should do their own due diligence before taking any actions related to the mentioned company or any of its affiliates or services. Bitcoin.com or the author is not responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.
+
+Image credits: Shutterstock, Pixabay, Twitter, Crescent Cash, and Jamie Redman.
+
+Now live, Markets.Bitcoin.com – a comprehensive, real-time listing of the cryptocurrency market. View prices, charts, transaction volumes, and more for the top 500 cryptocurrencies trading today.

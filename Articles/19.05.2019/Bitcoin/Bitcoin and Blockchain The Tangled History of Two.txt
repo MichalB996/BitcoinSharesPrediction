@@ -1,0 +1,85 @@
+DATE:  19.05.2019, 09:15:09
+TITLE: Bitcoin and Blockchain: The Tangled History of Two Tech Buzzwords
+URL:   https://www.coindesk.com/bitcoin-and-blockchain-the-tangled-history-of-two-tech-buzzwords
+
+“I’m interested in blockchain, not bitcoin.”
+
+Admit it, you’ve heard this hundreds, if not thousands, of times. (You might have even said it yourself.) And sure, people know what you’re saying, you’re talking about the “technology underlying bitcoin” and you sound smart enough.
+
+Once it became known – or at least presumed – that you could apply cryptography in finance, in ways similar to how it’s used in bitcoin, everyone started making sure that statement fell from their lips. And that refrain – kicked off by bitcoin itself – remains powerful today.
+
+Sounds plausible? Sure. But, interestingly, the word “blockchain” doesn’t actually appear in the original bitcoin white paper, released back in 2008. Rather, the white paper uses the words “block” and “chain” separately many times.
+
+It describes the word “block” as the vehicle for a bundle bitcoin transactions. Then, these blocks of are linked together, forming a “chain” of “blocks.”
+
+So, who created this ultimate industry buzzword?
+
+That damn blockchain
+
+Turns out, the origins of the word are not quite so revolutionary.
+
+“The word blockchain was never used in the early days,” former bitcoin developer Mike Hearn told CoinDesk. Although, Hearn did acknowledge that Satoshi often referred to bitcoin’s “proof-of-work chain” in discussions on forums.
+
+It seems the first references to the word came about on Bitcoin Talk, a bitcoin-specific forum created by Satoshi, in July 2010 – more than a year after bitcoin’s release.
+
+And at that time, these remarks weren’t about how innovative the technology was, but instead were complaints about how long it took to download the bitcoin “blockchain” (the entire history of bitcoin transactions).
+
+While compared to today, the download would have far faster, according to one Bitcoin Talk user: “The initial blockchain download is quite slow.”
+
+In other words, initially, blockchain was far from the sexy word it is today.
+
+Blockchain mania
+
+It’s hard to pinpoint exactly when the word really took hold.
+
+But interest in the term seems to have sprung out of professional organizations and individuals hesitance to align themselves with bitcoin itself because of its bad reputation as the currency for drugs and gray economies.
+
+“I think it [became popular] around the time people started going to Washington [D.C.] and trying to make bitcoin respectable by divorcing the currency from the underlying algorithms,” Hearn said.
+
+To many, bitcoin the currency could be decoupled from bitcoin the blockchain protocol, and so a whole new industry of so-called “private blockchains,” devoid of a cryptocurrency, emerged. Sure enough, around that time in 2015, Google Trends data show the term surged.
+
+“Initially people said ‘block chain’, and then, thanks to a great PR campaign, we were blessed with the much improved ‘blockchain,’ single-word, probably thanks to a community-wide effort near and around the Bitcoin Talk forums,” long-time cryptocurrency developer Greg Slepak said.
+
+Not only did it become one word, but it also came in vogue to describe any blockchain that wasn’t bitcoin’s blockchain as “a blockchain.” Bitcoin got to keep the terminology “the blockchain,” giving credence to the fact that it was the first.
+
+Yet blockchain has become so divorced from bitcoin that both words typically see a similar spike when cryptocurrency prices start mooning. For instance, the word blockchain saw a huge uptick in Google searches in late 2017.
+
+World’s first blockchain?
+
+Still, it’s unclear exactly where the idea itself begins. To some, blockchains existed even before bitcoin, although that term wasn’t applied to them back then.
+
+For instance, cryptographer Stuart Haber, whose whitepapers on timestamping were cited in the bitcoin white paper, claims to have created the first blockchain called Surety.
+
+According to Haber, that has to be the reason why Satoshi cited his work – three times out of just nine total citations. Surety was launched in 1995 for timestamping records, and it’s still running today.
+
+Yet, Haber admits that his version doesn’t have all the same benefits of bitcoin since it’s centralized – managed by one company.
+
+And that highlights where things get tricky when you’re talking about a blockchain. See, there isn’t necessarily agreement on a single definition of a the technology.
+
+The Merriam Webster dictionary actually presents a much older word for blockchain – “a chain in which the alternate links are broad blocks connected by thin side links pivoted to the ends of the blocks, used with sprocket wheels to transmit power, as in a bicycle.”
+
+While Google defines blockchain as:
+
+But, for those seasoned veterans of the space, even this definition is problematic. Many of these new-age private blockchains don’t record their transactions publicly.
+
+“The term has become so widespread that it’s quickly losing meaning,” as The Verge put it earlier this year.
+
+Blind men
+
+Haber pointed to an Indian parable to help explain the incompatible descriptions.
+
+In the parable, a group of blind men come upon an elephant and start touching the animal to try and figure it out what it was in front of them.
+
+Depending on what part of the elephant each man is touching, their answer changes. For instance, one of the blind men, touching the elephant’s trunk, thinks it’s a snake, while the other, touching the elephant’s leg, exclaims it’s a tree trunk.
+
+It’s similar when people define blockchain, Haber said.
+
+He told CoinDesk:
+
+“Some definitions will be completely silly, showing that people don’t understand what they’re doing, but there will also be a bunch of accurate descriptions of various parts of the vast body of work.”
+
+As such, he argues there isn’t just one meaning.
+
+Even though, bitcoiners believe a blockchain can only be the one and only bitcoin blockchain, like words, definitions are always evolving and changing.
+
+Blockchain shirt image via CoinDesk archives

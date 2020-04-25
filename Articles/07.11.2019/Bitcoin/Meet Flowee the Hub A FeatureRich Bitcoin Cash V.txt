@@ -1,0 +1,37 @@
+DATE:  07.11.2019, 01:15:21
+TITLE: Meet Flowee the Hub: A Feature-Rich Bitcoin Cash Validator
+URL:   https://news.bitcoin.com/meet-flowee-the-hub-a-feature-rich-bitcoin-cash-validator/
+
+Meet Flowee the Hub: A Feature-Rich Bitcoin Cash Validator
+
+Bitcoin Cash development has been growing wildly over the last year between third party services and infrastructure. Since the inception of BCH, there’s been a number of full node clients that not only distribute important binary data but offer a variety of different features as well. One such project is the Bitcoin Cash validator and database created by Tom Zander called Flowee the Hub, a BCH client that aims to be a multi-service node that offers a myriad of functionality.
+
+Also Read: Video: Will Bitcoin Crash or Double in Price After the Halving? Miners Have Their Say
+
+Flowee the Hub
+
+When Satoshi Nakamoto published the Bitcoin codebase in 2009 he wrote the protocol using the programming language C++, but Bitcoin itself can conform to any language and any full node implementation that follows the consensus rules. Bitcoin Cash has 1,525 public nodes running BCH and there are five different BCH full nodes, according to Coin Dance statistics. At the moment there’s Bitcoin ABC, BCHD, Bitcoin Unlimited, Bitcoin Verde, and Flowee the Hub. The project Flowee is a BCH validator and database created by blockchain developer Tom Zander.
+
+The full node client validates BCH transactions so users and organizations can verify the data as factual. The software can forward transactions and provide a record of incoming transactions as well, giving the Flowee user real-time data. Beyond the full node operations, Flowee also offers foundational support for applications. Essentially Flowee’s ‘Hub’ is a full suite of application program interfaces (APIs) or a set of routines, protocols, and tools for building with Bitcoin Cash.
+
+When Zander introduced the platform to the BCH community he explained how he created Flowee in order to produce an infinitely scalable client that can “talk to the blockchain in an easy to understand API.” “No fussing with other people’s software or unreliable third parties,” the platform’s website explains. “Flowee lets you process or create Bitcoin Cash payments within your own applications.” The developer known as ‘Imaginary Username’ described Flowee in a very succinct way when the project was first established. The software engineer stated:
+
+For the people needing a TL;DR: Tom Zander is looking to build a “full-service” BCH node that integrates various useful functions at a more basic level (that make explorer et. al. easier to deploy and run), has native multithreading to get over the block/tx validation problem, has memory-mapped blocks to reduce RAM usage (so gigabyte blocks can be deployed painlessly) and can be easily managed. Imagine having the Bitpay infrastructure under one roof, on a GPL license.
+
+Bitcoin Cash Can Scale
+
+Flowee has four different paths: the hub, an indexer, a transaction ‘vulcano,’ and a point-of-sale system called the Flowee Cashier that’s under construction. Essentially, the indexer allows people to obtain indexes from the BCH chain in a fast manner. “Indexer is a stand-alone service you can deploy on one (or more) machines and they create an index of the most important details of the transactions database that the hub stores,” the indexer documentation details. “This allows you to ‘follow the money,’ as it were. Any department that wants to do any sort of client followup towards payments will want to have access to an indexer.” The transaction vulcano (txVulcano) is a test tool designed to “create massive amounts of transactions.” According to the documentation, the transaction vulcano’s main focus is to mine blocks and use the block reward to create more transactions with more inputs. The vulcano process continues in a repetitive cycle in order to process extremely large blocks.
+
+In March, the Flowee developer revealed that the project was “stress tested and used to create big blocks for a week.” Zander added:
+
+1.2 million transactions in 400MB processed in 45 seconds.
+
+Flowee the Hub is open source and the code can be found on Gitlab and reference documentation is available on docs/hub. Just recently Flowee published the 2019-09 release, which offers APIs and features support for the November 15 upgrade. The latest Flowee version specifications can be reviewed here and people are urged to upgrade the software as soon as possible before the upgrade. Zander noted on November 6 that installing the latest Flowee release was a breeze. “I installed Flowee the Hub on a simple server last night and the initial block sync took only 2 hours,” the developer tweeted. “Processing the entire 11-year block history — I think this is a good prove that Bitcoin Cash can scale already very well, thanks.”
+
+Flowee is a BCH implementation that has been out for quite some time and the software aims to bolster scaling while also offering a suite of services. While Bitcoin ABC and Bitcoin Unlimited are the dominant nodes, other BCH clients offer people a choice while providing different sets of features as well. For example, BCHD is a full node BCH implementation written in Go (golang) that provides an advanced API, adjustable blocksize cap, BIP 157/158, BIP 68, and other features. Bitcoin Verde is a full node client that was built from the ground up and offers a block explorer and library. Multiple clients like Flowee and other BCH implementations can provide developers creating BCH apps and other types of platforms the tools they need to create robust products and services while speeding up their workflow. If you are interested in what Flowee has to offer, check out the project’s getting started page.
+
+What do you think about the Bitcoin Cash platform Flowee the Hub? Let us know what you think about this subject in the comments section below.
+
+Image credits: Shutterstock, Flowee the Hub, and Pixabay.
+
+Are you a developer looking to build on Bitcoin Cash? Head over to our Bitcoin Developer page where you can get Bitcoin Cash developer guides and start using the Bitbox, SLP, and Badger Wallet SDKs.

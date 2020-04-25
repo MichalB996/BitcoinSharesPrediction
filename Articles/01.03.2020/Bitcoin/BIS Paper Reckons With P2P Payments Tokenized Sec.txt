@@ -1,0 +1,64 @@
+DATE:  01.03.2020, 17:00:06
+TITLE: BIS Paper Reckons With P2P Payments, Tokenized Securities, Central Bank Digital Currencies
+URL:   https://www.coindesk.com/bis-paper-reckons-with-p2p-payments-tokenized-securities-central-bank-digital-currencies
+
+Researchers at the Bank for International Settlements (BIS) are grappling with the future of payments – so much so their newest quarterly report, released Sunday, is entirely dedicated to what that potential revolution holds.
+
+In its 138-page look at what lies beyond the financial horizon, the Swiss-based institution reckoned with coming trends that may well shape tomorrow’s payments infrastructure: tokenized securities, central bank digital currencies, cross-border payments and peer-to-peer innovations.
+
+BIS Head of Research Hyun Song Shin said the "pace of change and potential for disruption” have made examining new forms of payment systems a priority for policymakers.
+
+“The most transformative option for improving payments is a peer-to-peer arrangement that links payers and payees directly and minimises the number of intermediaries,” BIS General Manager Agustin Carstens said in his introduction to the report.
+
+Tokenization
+
+Tokenizing securities on a distributed ledger may streamline the settlement cycle – making it more efficient than some investors are willing to bear, the report said.
+
+The seemingly paradoxical conclusion comes from BIS researchers’ expectation that traders are attuned to the sluggish settlement cycles – mired in hurdles and intermediaries and liquidity management concerns – already in place. They operate under these limitations.
+
+If a DLT-based system were to disrupt the system by cutting out intermediaries, for instance, the resulting efficiencies may well change the market’s backend realities, which in turn could spook the stakeholders used to the old way’s implications.
+
+“Market participants might not want to move to shorter settlement cycles, as this could increase liquidity requirements and give market-makers less time to source the cash or securities needed for settlement, the report said.
+
+This risk/reward conundrum comes against researchers’ wider dive into the future of securitization. In looking forward, the Basel-based institution’s team found plenty of short-term problems that need resolution before any meaningful DLT securities system is implemented, like ongoing legal questions over security tokens.
+
+Once those are settled, yet more questions on issues like operational risks remain. That’s because DLT and smart contracts are “yet to be proven” in the world of clearing and settlement, according to the report. They’ll also need to grapple with the prevailing account-based systems:
+
+“The ability of tokenised systems to interoperate with account-based systems will be key to their success,” the researchers said.
+
+Central bank digital currencies
+
+Researchers’ postulations on securities tokenization was just one future-forward feature of a quarterly report fully dedicated to potential revolutions in international payments.
+
+One of the bigger stories in banking circles is digital money. The bank has plenty of questions around CBDCs: Should they be retail or wholesale focused? Account-based or token-based? Ought they run on a distributed ledger, a centralized model, a hybrid system? Are CBDCs necessary at all?
+
+BIS does not definitively answer those questions in its section on “The technology of retail central bank digital currency,” but its researchers do plot out the considerations each would involve.
+
+For instance, they clarify there’s no point developing digital money that lacks advantages over the existing payment systems. Consumers will not use a CBDC less convenient than cash or credit card, and retailers will not tolerate a system unable to run on “peak demand.”
+
+That’s one area where a DLT-based CBDC may falter, the researchers say. Consensus mechanisms often slow down transaction throughput, spelling potential trouble for a retail-facing system that must shoulder millions of often small-dollar payments a day.
+
+Even so, wholesale systems – large-scale payments between banks and key players – may fit easier into some of DLT’s consensus limitations, the researchers say.
+
+How decentralized a CBDC system is also in question. Decentralization eliminates the risk of a central point of failure, but it also raises the possibility of new vulnerabilities.
+
+“The key vulnerability of a conventional architecture is the failure of the top node, for example via a targeted hacking attack. The key vulnerability of DLT is the consensus mechanism, which may be put under pressure, for example, by a denial-of-service type of attack,” according to the report.
+
+Source: BIS March Quarterly Report
+
+Bankers continue to argue over DLT and CBDC. As the BIS researchers note, existing trials have “not always been encouraging,” with some central banks stating publicly their fears that DLT is not the salve some make it out to be. Against this, though, some banks are indeed pushing forward with DLT-based CBDC trials.
+
+Payments
+
+Essentially, BIS chief Carstens said in his introduction, the world needs to consider the impact radically new and different backend payment infrastructure offers. Libra has kicked central banks into high gear, though it remains unclear what these entities might ultimately do, or if stablecoins will be the harbinger of financial doom some make them out to be.
+
+BIS framed the issue as enduring and unanswered. It emphasized the need for a global response and then framed its recently launched “Innovation Hub” as the clearinghouse from which such a response might rise.
+
+The “Innovation Hub” will work with bankers and monetary policy wonks to develop frameworks around digital innovations. With spokes in Switzerland, Hong Kong and Singapore, the hub is, according to BIS, well positioned to develop cohesive policies across disparate networks.
+
+The quarterly report primes the Innovation Hub’s debut. As envisioned by BIS, it will be tasked with digging into the questions posed by digital innovations across payments, settlement, money and more.
+
+It will not shy away from the most philosophical query of all, Carstens said in the report.
+
+“A key question informing the BIS Innovation Hub’s work is whether money itself needs to be reinvented for a changing environment, or whether the emphasis should be on improving the way it is provided and used,” he said.
+

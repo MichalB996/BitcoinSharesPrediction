@@ -1,0 +1,49 @@
+DATE:  20.02.2020, 22:45:20
+TITLE: BCH Funding Debate: Developers Plan to Launch IFP-Free Version of Bitcoin ABC
+URL:   https://news.bitcoin.com/bch-funding-debate-ifp-free-bitcoin-abc/
+
+BCH Funding Debate: Developers Plan to Launch IFP-Free Version of Bitcoin ABC
+
+On February 19, a group of well known software developers announced the launch of a new Bitcoin Cash full node with the Infrastructure Funding Plan (IFP) removed from the codebase. The news was announced on the read.cash platform by the developer Freetrader who told the public that strong demand from businesses, miners, mining pools, and developers invoked the team to create a “minimally-altered client based on Bitcoin ABC.”
+
+Also Read: BCH Funding Debate: Btc.top Founder Suggests 2/3 Hash Vote and 6-Month Evaluation
+
+Developers Announce a Bitcoin ABC Node Is in the Works With the Infrastructure Funding Plan Stripped from the Code
+
+The last week in Bitcoin Cash land has been filled with a lot of arguments and debate over the Infrastructure Funding Plan’s (IFP) latest developments. Just recently news.Bitcoin.com reported on the Bitcoin ABC team announcing they would add code for the IFP to the ABC version 0.21.0 client. The code was released on February 18 and included a few other features as well.
+
+Bitcoin ABC 0.21.0 release for 2020 May 15 upgrade is here!https://t.co/1C6zNZpYRl Includes improved SigOps counting, OP_REVERSEBYTES, bump tx chain limit from 25 to 50 and support for the infra funding plan. Release notes: https://t.co/QZVFgS7bAr — Bitcoin ABC (@Bitcoin_ABC) February 18, 2020
+
+After the latest ABC client published, a group of programmers revealed the creation of a “minimally-altered client based on Bitcoin ABC.” The announcement was written by one of the earliest developers within the BCH ecosystem, Freetrader, and he explained that “prominent Bitcoin businesses, miners, mining pools, and developers” requested the alternative implementation. “The only difference between the new client and ABC v0.21.0 is the removal of the coinbase reward diversion code and its associated signaling and activation,” Freetrader explained.
+
+“The primary goal of this initiative is to provide a safe and professional node implementation that will neutrally follow the longest chain without contributing to the risk of a chain split,” wrote Freetrader. “The client is called Bitcoin Cash Node (BCH Node) and will function as a drop-in replacement for miners and businesses already running the ABC client.”
+
+The BCH Node Developers Are Speaking With Exchanges, Miners, and Mining Pools
+
+The developers who are contributing to the project include well known BCH devs like Andrea Suisani (Sickpig) of Bitcoin Unlimited, Calin Culianu (Nilacthegrim) of Electron Cash, Dagur V. Johannsson, Emergent Reasons, Fernando Pelliccioni of Knuth Node, Freetrader formerly of Bitcoin ABC, Imaginary Username, Jt Freeman of fountainhead.cash, Jonathan Silverblood, Joshua Green of Bitcoin Verde, Mark Lundeberg, and Tom Zander of Flowee the Hub. Every developer on the list also left their PGP signature, to make it known that their identities are really involved with the new node project.
+
+Miners wishing to vote against the IFP now have a drop-in replacement for ABC while still remaining compatible for the May Upgrade. https://t.co/XSViTdeovW — Joshua Green (@joshmgreen) February 20, 2020
+
+According to Freetrader, the team is actively in discussions with exchanges, miners, and mining pools that are interested in the initiative. The developers have created a number of communication channels and the team says the code for the software will be available soon. Additionally, “a more detailed near-term plan” will follow the software release.
+
+If you are here for 10x, then do whatever you want with your block reward. If you are here for 1000x and something with even a chance of standing shoulder to shoulder with digital fiat, don’t even think about touching the block reward. — emergent_reasons#100🌵 (@EmergentReasons) February 19, 2020
+
+The Bitcoin Cash Node (BCH Node) topic has been trending on Twitter among BCH proponents and there are multiple threads on the Reddit forum r/btc as well. The Bitcoin ABC camp has released the ABC version 0.21.0 client and a blog post that explains the “May 15th, 2020 protocol upgrade is locked in.”
+
+At the time of publication, there are roughly 1,435 publicly accessible BCH nodes and more than half of them support Bitcoin ABC (51.52%) and the lesser half supports the BU client (46.73%). Currently, only a small number of full nodes run BCHD, Flowee or other BCH clients. During the early morning hours on February 20, news.Bitcoin.com spoke with the developer Emergent Reasons and asked him why Freetrader and the group of other devs were doing this.
+
+“What brings everyone together on Bitcoin Cash Node is a practical desire to unite the BCH ecosystem and avoid a very damaging split,” Emergent Reasons told our newsdesk. “Even though Jiang Zhuoer, the original author of the IFP, has said that he will mine against the IFP for May, BCH is still at risk of activation by hostile pools. If it is activated, there is a high chance of a soft fork hash war and possibly a persistent chain split. Based on recent evidence, we expect that the result would be an exodus of talent from BCH due to loss of network effect, perceived loss of moral high ground and other reasons. Especially the loss of network effect could cause permanent damage to the viability of P2P electronic cash.” Emergent Reasons further added:
+
+Bitcoin Cash Node removes the activation and IFP code so that BCH can, as suggested by Jiang Zhuoer in his most recent update, have time to develop and pursue voluntary methods. The silver lining of the conflict is that it has renewed interest in accountability, communication, transparency and using BCH-based technology to achieve voluntary funding.
+
+Additionally, Freetrader published a read.cash post a few days prior, that explains the perspective of those who are working on the IFP-free ABC node. Freetrader’s post highlights that he has strong objections to the current plan, but he wholeheartedly believes the community at large has “numerous objections” that need to be heard too. The developer thinks the community could reach an agreement and it “seems possible” from his perspective. “Let’s try to construct a better path together – one which lets all future participants in the system enjoy the same economic freedoms that we have enjoyed in Bitcoin before, and Bitcoin Cash since 2017,” Freetrader conceded at the end of his post. In addition to the follow up post, the Asicseer.com pool has pledged 100 BCH toward the BCH Node effort. Moreover, an alternative website for bitcoincash.org is being created, the developer Pokkst disclosed on the Reddit forum r/btc.
+
+If you want to read Freetrader’s posts in their entirety then you can check out the announcement here and also the post he wrote three days prior. The IFP debate and discussion is continuing to unfold and news.Bitcoin.com will be there to inform our readers every step of the way.
+
+What do you think about the discussions revolving around the IFP subject? Let us know what you think about this topic in the comments section below.
+
+Disclaimer: This article is for informational purposes only. It is not an offer or solicitation of an offer to buy or sell, or a recommendation, endorsement, or sponsorship of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.
+
+Image credits: Shutterstock, Coin Dance, Twitter, Bitcoin.com, Fair Use, Read.cash, and Pixabay.
+
+Do you want to maximize your Bitcoin Mining potential? Plug your own hardware into the world’s most profitable Bitcoin mining pool or get started without having to own hardware through one of our competitive Bitcoin cloud mining contracts.

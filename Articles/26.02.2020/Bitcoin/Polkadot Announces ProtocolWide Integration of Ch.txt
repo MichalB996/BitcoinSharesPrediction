@@ -1,0 +1,27 @@
+DATE:  26.02.2020, 13:00:16
+TITLE: Polkadot Announces Protocol-Wide Integration of ChainLink
+URL:   https://btcmanager.com/polkadot-protocol-integration-chainlink/
+
+Polkadot Announces Protocol-Wide Integration of ChainLink
+
+ChainLink finally has its first integration outside of Ethereum, having completed a successful integration with Parity’s substrate blockchain. This integration implies ChainLink has taken another step towards becoming the oracle of choice for Polkadot, with a parachain on the Kusuma testnet imminent, February 26, 2020.
+
+ChainLink to Improve Polkadot’s Utility
+
+Smart contracts enable a new paradigm of financial utility through the use of standardized consensus and new-age technology. But this utility would be misplaced if the data integrity within the said smart contract is not protected.
+
+Recent oracle deficiencies have come to light via the bZx exploit, and the need for functional oracles can no longer be put off.
+
+Integrating ChainLink across Polkadot has the potential to unlock a wide array of use cases. This is already being utilized on Ethereum as DeFi leverages ChainLink’s efficiency to use price feeds with maintained integrity.
+
+As a result, business building on Polkadot can leverage the integrity of ChainLink’s price feeds in their smart contracts, allowing them to focus on building and delegate other important functions to expert protocols.
+
+ChainLink’s integration has been customized for Polkadot, giving both protocols a major boost; ChainLink gets new clients and Polkadot gets reliable price feeds.
+
+Functional Oracles
+
+The need for working oracles can longer be ignored. Projects using their own oracles are at risk of manipulation because protocols like ChainLink have devoted much more time and resources to building a Sybil resistant, reliable oracle for a variety of price feeds.
+
+Functional oracles are the need of the hour. A reliable oracle draws price inputs from multiple sources and then medianizes them. Without this, the integrity of the end result can be compromised as individual sources will have a higher weight in the final price.
+
+Some believe there can never be a truly “decentralized oracle”. And while this may be true, it still makes sense to outsource price fees to protocol specializing in them. Even if the way ChainLink operates is not decentralized – which can be debated – their price feeds are less susceptible to manipulation. This alone gives them a major advantage when compared to in-house oracles.

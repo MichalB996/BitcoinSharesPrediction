@@ -1,0 +1,43 @@
+DATE:  07.10.2019, 05:00:13
+TITLE: Bitcoin, ethereum and ripple: a fractal and wavelet analysis
+URL:   https://blogs.lse.ac.uk/businessreview/2019/10/07/bitcoin-ethereum-and-ripple-a-fractal-and-wavelet-analysis/
+
+In recent years, repeated boom-bust cycles in cryptocurrencies valuations have generated waves of media and public attention, helping to attract a growing number of retail and professional investors to this new asset class. Regulatory environment and markets research, however, lag these developments.
+
+In general, there is no consensus in the markets and amongst regulatory authorities as to the preferred classification of cryptocurrencies as an asset class. Some jurisdictions define them as commodities, others as currencies, or even as general assets, without a singular definition. For example, the U.S. Security Exchange Commission (SEC) view cryptocurrencies as belonging to two different asset classes, simultaneously: cryptotokens issued in the primary market representing securities, while the same tokens traded in the secondary markets constituting currencies.
+
+Likewise, the new asset class lacks definitive theoretical framework for analysing the valuations of the cryptocurrencies in relation to financial and economic fundamentals. Dynamic and distributional properties of cryptocurrencies clearly indicate that the mainstream efficient markets hypothesis (EMH hereafter) framework used in traditional investment markets fails to hold in the crypto markets. The EMH is an investment theory that states it is impossible to ‘beat the market’ because asset market efficiency causes existing asset prices to reflect all relevant information.
+
+Looking for a comprehensive theoretical framework
+
+In an attempt to provide a more realistic description of this market, Peters (2015) used the fractal market hypothesis (FMH hereafter). FMH assumes that market stability is preserved when the agents trading in the markets make self-similar decisions that span across different investment time horizons, providing market liquidity (Kristoufek, 2013b). When the long-term investors either stop trading or shorten their investment time horizon, the market becomes unstable leading to periods of high volatility (Roch, 2011). The dominance of a single time horizon in the FMH setting would therefore undermine the market liquidity and cause severe corrections (e.g. flash crashes), as well as large and longer-term events, such as those experienced in the global financial crisis of 2008-2009 (Kristoufek, 2013a).
+
+The FMH proposes the following assumptions:
+
+The market is stable when it consists of investors covering a wide range of investment horizons; Market sentiment and technical factors are more relevant to investors in the short-term. As investment horizons widen, long-term fundamental information tends to dominate; If an event occurs that makes the validity of fundamental information questionable, long-term investors will either stop participating in the market or begin trading based on the short-term information set. When the average investment horizon in the market declines to a uniform level, the market becomes unstable; Prices reflect a combination of short-term technical trading and long-term fundamental valuation. Therefore, short-term price changes are more likely to be the result of crowd behaviour, and subject to greater volatility; and If a security has no tie to the economic cycle, then there will be no long-term trend. Speculative trading, liquidity risk concerns and short-term information will dominate investors’ decisions.
+
+To-date, only Delfin-Vidal and Romero-Meléndez (2016) provide a rigorous test of FMH application to the new cryptocurrencies asset class, and only in the context of bitcoin. There is no literature that provides tests of FMH in the cryptocurrencies across both fractal and wavelet methodologies, simultaneously. Additionally, no study has attempted to extend FMH framework to the analysis of the largest cryptocurrencies (by market capitalisation) beyond the bitcoin.
+
+Our study fills this gap in the literature by developing a comprehensive analysis of the three largest cryptocurrencies across the main dimensions of FMH. We deploy fractal and wavelet analysis methodologies to daily prices data for bitcoin, ethereum and ripple starting from January 2011. To add robustness to our methodology, we utilise a range of wavelet analysis tools to test how bitcoin, ethereum and ripple prices co-vary over time. These methods help establish the full extent of evidence concerning the FMH nature of the three cryptocurrencies across both dynamic fractal domain and time-frequency power spectrum analysis, providing a novel contribution to the literature on cryptocurrencies and expanding our understanding of the FMH.
+
+Confirming the FMH
+
+First, our results lead to the conclusion that bitcoin presents evidence of long memory, as well as cyclical persistency/anti-persistency behaviour. This cyclical behaviour has been smoothing overtime, which can be explained by a maturing market for bitcoin and an increase in the number of investors with a long-term investment horizon who are sensitive to the opportunity cost of selling bitcoin. The latter aspect is especially pronounced during the last up-trend in 2017. Such evidence of increasing maturity in the markets is not present for the other two largest cryptocurrencies.
+
+Despite this evidence for emerging maturity, bitcoin dynamics continue to be consistent with a ‘true Hurst process’, presenting no stable relationship with economic fundamentals and infinite memory. This implies that bitcoin pricing is dominated by crowd behaviour and technical information used by speculators, confirming FMH assumption 4 above.
+
+Globally, we have found that volatility and momentum in market prices at the start of each boom-bust cycle act as triggers for further price appreciations. This reflects strong herding of investors, consistent with the fear-of-missing-out (FOMO) fallacy.
+
+Power spectra also show evidence of a cascade effect, that is, where the new trend, starting from short-time traders operating on technical information and news, is subsequently strengthened by the involvement of investors with longer time horizons, confirming FMH assumption 5 above. All of this suggests that cryptocurrency markets remain vulnerable to mis-pricing on foot of investors behavioural biases, such as regret aversion, herding, anchoring, and availability and status quo heuristics.
+
+Investors’ perspective
+
+From investors’ perspective, we show that bitcoin is the only cryptocurrency to hold a promise of improved efficiency and increasing potential for fundamentals-based asset pricing, although eight years into its existence, that promise remains weak. In contrast, both ethereum and ripple continue to be dominated by speculative short-termism and herding bias. Despite these developments, all major cryptocurrencies remain detached from economic and financial fundamentals, presenting a range of problems for fundamentals-focused long-term investors. Finally, in more recent data (from August 2016 on), we detect a positive relationship between bitcoin and ethereum, bitcoin and ripple, and ethereum and ripple. In this relationship, bitcoin leads other cryptocurrencies at low frequencies, providing some support to the investors’ view that it offers better opportunities for longer term investment in the broader cryptocurrency asset class.
+
+♣♣♣
+
+Notes:
+
+Shaen Corbet is associate professor of finance and program chair, MSc in investment, treasury and banking at Dublin City University Business School in Dublin, Ireland. Shaen holds a BComm (economics) and MSc (international finance) from National University of Ireland Galway (NUIG) and a Ph.D in finance from National University of Ireland Maynooth (NUIM). Shaen has previously worked as a commodities and equities trader and with the Financial Stability Department at the Central Bank of Ireland.
+
+Constantin Gurdgiev is professor of finance with the Middlebury Institute of International Studies at Monterey, California and an adjunct professor of finance with Trinity College Dublin in Ireland. Professor Gurdgiev works in the areas of investment markets, with specialisation on macroeconomic and geopolitical risk impacts, and heads the Middlebury Institute’s ImpactLab – an experiential learning and research program in environmental, social, and governance finance and risk impact. He advises a range of institutional and corporate clients on macroeconomic risks in European and Russian financial markets, and writes a blog on economics and finance.

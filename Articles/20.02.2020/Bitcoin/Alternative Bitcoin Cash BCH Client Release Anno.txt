@@ -1,0 +1,29 @@
+DATE:  20.02.2020, 14:22:17
+TITLE: Alternative Bitcoin Cash (BCH) Client Release Announced
+URL:   https://u.today/alternative-bitcoin-cash-bch-client-release-announced
+
+It looks like Bitcoin Cash (BCH) mining is experiencing a turbulent time. Shortly after the miner taxation discussion stopped, the community challenged a new client
+
+Cover image via www.shutterstock.com
+
+Bitcoin developer Freetrader (ftrader on GitHub) revealed the concept of an alternative client for Bitcoin Cash (BCH) coin emission. This constitutes a response to the controversial aspects of the upcoming release of the main client, Bitcoin ABC v0.21.0.
+
+What's wrong with the client?
+
+Mr. Freetrader admitted that an upcoming release of network client Bitcoin ABC v0.21.0, which they plan to roll out within the framework of the May 15th, 2020 update, poses a threat to the whole blockchain integrity. According to his statement,
+
+It is generally agreed that the lack of consensus and method of activation significantly raise the risk of a chain split.
+
+To prevent an unexpected fork of such kind, the group of Bitcoin Cash (BCH) developers is going to release a 'minimally-altered' client based on Bitcoin ABC. In the proposed version of the client, the coinbase reward diversion code and its associated signaling and activation will be removed, which will be the only differences between it and Bitcoin ABC v0.21.0.
+
+The new client will be called Bitcoin Cash Node (BCH Node) and will act as a 'drop-in replacement' for every user already operating Bitcoin ABC. It has also been announced that numerous developers of all top-tier Bitcoin (BTC) forks, e.g. Bitcoin XT, Bitcoin Unlimited, Bitcoin Cash ABC etc. will contribute to the community-driven version of the client.
+
+Supported by Roger Ver
+
+Roger Ver, one of the best-known advocates of Bitcoin Cash, has already shared his views on the proposed release. Today, Mr. Freetrader published the details of his idea on the Read.cash content platform as well as on GitHub and Reddit. Roger Ver endorsed the new concept.
+
+Image via Reddit
+
+'Bitcoin Jesus' admitted that now, the Bitcoin Cash (BCH) community has the right software for the May 15, 2020 upgrade.
+
+Also, the audiences of the platforms that the proposal is published on, welcomed the idea with multiple supportive comments.

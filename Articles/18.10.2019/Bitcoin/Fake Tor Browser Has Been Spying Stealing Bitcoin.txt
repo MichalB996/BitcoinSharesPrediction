@@ -1,0 +1,25 @@
+DATE:  18.10.2019, 12:03:53
+TITLE: Fake Tor Browser Has Been Spying, Stealing Bitcoin ‘For Years’
+URL:   https://www.coindesk.com/fake-tor-browser-has-been-spying-stealing-bitcoin-for-years
+
+Hackers have been distributing a compromised version of the official Tor Browser that’s packed with malicious tools used to both spy on users and steal their bitcoin.
+
+Discovered by researchers at IT security firm ESET, the trojanized Tor has apparently resulted in a relatively small amount of bitcoin being lost to date, with funds taken by address swapping when users try to pay on dark net markets.
+
+In an announcement emailed to CoinDesk on Friday, ESET’s senior malware researcher, Anton Cherepanov, said the research had identified three bitcoin wallets used by the hackers since 2017.
+
+“Each such wallet contains relatively large numbers of small transactions; we consider this a confirmation that these wallets indeed were used by the trojanized Tor Browser,” Cherepanov explained.
+
+At the time the research was completed, the three wallets had received 4.8 bitcoin (worth $38,700 at press time), though ESET said the actual amount stolen would be higher as wallets for the Russian payments service QIWI are also targeted.
+
+The hacking campaign has been targeting Russian-speaking users of Tor – a network designed to keep identities hidden to avoid tracking and surveillance.
+
+The cybercriminals behind the fake Tor browser have been using forums and pastebin.com to distribute their offering as the official Russian language version of the app.
+
+“Their goal was to lure language-specific targets to a pair of malicious – yet legitimate-looking – websites,” said ESET.
+
+On first website, the user receives an alert that their Tor Browser is out of date, even if not true. Visitors who are duped by the message are then redirected to a second website with an installer for the fake app.
+
+Once installed, the malware-laden browser enables its creators to know what websites a user visits, to change the data on visited pages and grab the content of data forms. While the hackers could potentially display false information to users, the browser has only been observed to change the wallet addresses for the purposes of stealing bitcoin, Cherepanov said.
+
+Tor image via Shutterstock

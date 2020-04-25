@@ -1,0 +1,53 @@
+DATE:  25.08.2019, 02:10:18
+TITLE: Bitcoin History Part 16: The First Mt. Gox Hack
+URL:   https://news.bitcoin.com/bitcoin-history-part-16-the-first-mt-gox-hack/
+
+Bitcoin History Part 16: The First Mt. Gox Hack
+
+No one remembers the first Mt. Gox hack. It was a small sum, even by 2011’s standards, and the exchange reimbursed all users. The incident was to prove significant, however, for it set in motion a string of attacks on other bitcoin platforms that began the very next day. By the time the dust had settled six weeks later, four separate thefts had occurred, culminating in the loss of more than 178,000 bitcoins.
+
+Also read: Bitcoin History Part 15: Silk Road Is Born
+
+The First Bitcoin Exchange Hack
+
+Summer 2011 was a heady time for the internet. Twitter was still good, deplatforming had yet to become a thing, and free speech was taken for granted. Back then, you could say what you liked, how you liked, to whoever you liked, and if that person didn’t like it, they could turn off their computer and go for a long walk in the sunshine, which solved the problem. Anyone with any sense wasn’t walking anywhere in mid-2011, however, because everything that mattered was happening on the internet, and it was riveting.
+
+For purveyors of the illicit, the insurrectionary, and the innovative, June 2011 might just go down as the most exciting month on the internet yet. It began with Gawker blowing Silk Road wide open on June 1, and would culminate, on June 25, with hacker group Lulzsec releasing its last data dump, comprising millions of passwords and sensitive data from scores of corporations. Sandwiched in between all this chaos were two noteworthy bitcoin hacks that weren’t of Lulzsec’s doing. The first, on June 19, was the first exchange hack in Bitcoin history, with the second occurring a day later as a direct result of this incursion.
+
+Mt. Gox Gets Goxxed
+
+Before Mt. Gox became so synonymous with failure as to spawn a verb describing the act of getting rekt, it was a successful exchange that was at the heart of everything that was happening in Bitcoin. It was to suffer its first hack, however, a little over a year into its life as a bitcoin exchange, and just three months after Mark Karpeles had taken over its operations. The incident occurred as a result of this ownership change, which entitled the former owner to a share of revenue, and with the administrator access to audit their earnings.
+
+On June 19, someone hacked into the admin account and generated vast amounts of BTC on the Gox orderbook. Doing so drove the price of BTC from dollars all the way down to a cent. The hackers then bought the cheap BTC with their own accounts and withdrew their cheaply gotten gains. They weren’t the only ones to profit from the BTC flash sale going on, with other Mt. Gox users making the most of the opportunity.
+
+‘I’m Kevin, Here’s My Side’
+
+In an account of how they capitalized on the mishap, Bitcointalk user “toasty” wrote on June 20, 2011: “I’m Kevin and I’m the guy who bought 259,684 BTC for under $3,000 yesterday. I really wanted to keep this as quiet as possible, but I don’t feel I can anymore. Here’s my side of what happened.” He went on:
+
+“I was watching, like many of you, a gigantic sell order burning through the bids. Mt Gox doesn’t execute trades very quickly, so we were watching this huge order slowly eat up every buy order on the books. The price started at around $17.50, and within minutes was below $10. At this point, I realized this wasn’t merely a large seller willing to accept some losses. This was someone attempting to crash the market by selling a huge percentage of the market’s total bitcoins at once.”
+
+Despite the exchange “running slower than molasses at the time,” toasty eventually “got a buy order in, offering to buy as many bitcoins as I could for $0.0101. The site stopped responding completely for a while, probably from so many people hitting refresh to see what was going on. When I got back in, I saw in my account:
+
+06/19/11 17:51 Bought BTC 259684.77 for 0.0101
+
+“I had just purchased over 250,000 bitcoins for $2613. At the trading price immediately before this large sell order happened, that number would have been worth nearly $5 million. After I regained my breath, I tried to figure out what to do.”
+
+Two Strikes in Two Days
+
+Despite withdrawal limits that were meant to be in place, both toasty and the real hacker managed to withdraw significant quantities of coins – toasty alone made off with 643 BTC. There followed an intense debate on the Bitcointalk forum about who was to blame for the theft, and whether toasty was entitled to his bargain bitcoins. The value of the 2,643 BTC Gox lost in the hack was valued at $47,000 at the time, and the exchange made full restitution to users who lost funds in the incident. It was powerless, though, to prevent a second hack which occurred within 24 hours of the breach.
+
+On June 20, 2011, as toasty was confessing to his opportunistic trade and pondering what to do with his riches, the Bitcoin community was rocked by a second strike. Users of wallet service Mybitcoin.com reported that their accounts had been breached and their BTC stolen. It quickly became clear that the Mt. Gox database had been accessed during the hack, and that identical passwords and usernames on Mybitcoin had been plundered.
+
+The pseudonymous operator of Mybitcoin acknowledged: “We’ve concluded that around 1% of the users on the leaked Mtgox password file had their Bitcoins stolen on MyBitcoin.” In total, 4,019 BTC worth $72,000 were stolen, with Mybitcoin covering their losses.
+
+The Summer of Lulz
+
+June 2011 was a dramatic month, as the world began awakening to Bitcoin, set to a montage of Lulzsec hacks complete with heavy trolling of the three-letter agencies that were on their tail. The action didn’t let up either, for the next month there was more drama in these intersecting worlds (Lulzsec accepted donations in BTC, and were as enamored with bitcoin as many bitcoiners were with them). On July 18, the Anonymous-affiliated group exited retirement to hack the website of British newspaper The Sun, planting a fake story that owner Rupert Murdoch had died after ingesting palladium.
+
+On July 26, Polish exchange Bitomat lost its wallet file containing 17,000 BTC. Three days later, Mybitcoin, the wallet service that had been breached in June, exit scammed with 154,406 BTC, only half of which were ever recovered. To recoup its 17,000 BTC losses, meanwhile, Bitomat was put up for sale, and in August 2011 a buyer was found: Mark Karpeles. The Mt. Gox CEO agreed to cover its debt, and welcomed Bitomat’s users to his Tokyo-based exchange. The deed was performed partly to restore faith in the still fragile Bitcoin ecosystem. Subsequent bitcoin hacks involving Mt. Gox would prove larger and harder for its CEO to absorb, but all that was still years away.
+
+Bitcoin History is a multipart series from news.Bitcoin.com charting pivotal moments in the evolution of the world’s first cryptocurrency. Read part 15 here.
+
+Images courtesy of Shutterstock.
+
+Did you know you can verify any unconfirmed Bitcoin transaction with our Bitcoin Block Explorer tool? Simply complete a Bitcoin address search to view it on the blockchain. Plus, visit our Bitcoin Charts to see what’s happening in the industry.

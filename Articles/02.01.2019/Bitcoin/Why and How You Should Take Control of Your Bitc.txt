@@ -1,0 +1,27 @@
+DATE:  02.01.2019, 20:22:51
+TITLE: Why (and How) You Should Take Control of Your Bitcoin for #ProofOfKeys Day
+URL:   https://breakermag.com/why-and-how-you-should-take-control-of-your-bitcoin-for-proofofkeys-day/
+
+This Thursday, Jan. 3, is already an important day for crypto and blockchain: It’s the tenth anniversary of bitcoin’s “genesis block.” Now it’s also “Proof of Keys Day,” a recently-proposed “celebration” that has gained traction among bitcoin boosters, and asks users to withdraw their bitcoin from exchanges to private wallets, taking direct control their funds.
+
+The exercise has both practical and philosophical appeal. By withdrawing their coins from exchanges, users reduce the risk inherent in letting someone else control their digital cash, and get closer to the ideal of personal financial sovereignty—”be your own bank”—that motivated bitcoin’s creation and adoption. (Though the event is framed as bitcoin-specific by its organizers, most of its principles hold for other tokens and currencies.)
+
+The immediate, practical motivation behind the event is the inherent risk of leaving coins on exchanges. While exchanges make it easy to purchase crypto tokens, they generally manage accounts and balances internally, rather than on the blockchain, in part to save on transaction costs. Whatever the individual balance you see on an exchange interface, in other words, on the real blockchain your coins are most likely lumped into large wallets with other user’s funds.
+
+Since nearly the dawn of crypto, that has made exchanges a weak point for security and resilience. Most notoriously, in 2014, the Mt. Gox exchange lost something on the order of 850,000 bitcoin, worth nearly US$3.3 trillion today. More recently, the Italian exchange Bitgrail lost on the order of $170 million worth of (non-bitcoin) user funds, and a Japanese exchange lost $530 million.
+
+Such disasters have led to the saying “Not your keys, not your bitcoin”: in other words, if you don’t have your coins in a wallet that you control, you might not have them at all.
+
+In a timely reminder of that risk, reports emerged this week of users unable to withdraw funds from the HitBTC exchange. In the past, withdrawal freezes have come ahead of the discovery that an exchange had been hacked or was otherwise insolvent, and promoters of Proof of Keys Day have described it in part as an effort to “make sure these exchanges have the coins they claim they do.”
+
+One meme made that adversarial stance even more explicit, suggesting that exchanges could fail if enough users withdrew funds.
+
+(For others as curious as me, the adapted clip is from 1992’s Sneakers, a caper film about hacking and cryptography that I’m sure is very realistic.)
+
+If Proof of Keys catches on, it could have a stabilizing effect on crypto markets. Coins withdrawn from exchanges can’t be sold quickly, for instance in the case of a sudden price collapse. Proof of Keys organizer and bitcoin advocate Trace Mayer connects the event directly to a community of “HODLers of Last Resort,” those uninterested in selling their bitcoin at any price. Engineer and unapologetic bitcoin maximalist Pierre Rochard has argued that these HODLers—or, more precisely, their off-the-market coins—help “break the negative feedback loop” during bitcoin price crashes and “[set] up the base for the next bull market.” In short, more coins held in private wallets means less chance of sudden, steep price drops.
+
+Of course, there are some hurdles to reaping those benefits. The key step is downloading wallet software like Bitcoin Core to handle bitcoin, or something like Jaxx to handle a wider variety of assets. You can then send funds from an exchange directly to your wallet, a process described here, courtesy of Coinbase.
+
+It’s not a tremendously challenging process, but could be tricky for first-timers. One crucial tip on that front, thanks to Twitter buddy @hasufl: The first time you install the Bitcoin Core wallet, you’ll be warned that it requires more than 200 GB in storage space to save a full copy of the bitcoin blockchain. If you don’t have that much space to spare, fear not: you can choose “prune block storage” under the Bitcoin Core Options tab and devote as little as 10 GB to the task.
+
+That smaller sample will still let you control your coins directly, though downloading the full blockchain—a.k.a. “running a full node”—does more to protect bitcoin’s security, another goal of Thursday’s event.

@@ -1,0 +1,43 @@
+DATE:  06.03.2020, 21:05:20
+TITLE: Bitcoin Gold Whale Allegedly Controls Half the BTG Supply
+URL:   https://news.bitcoin.com/bitcoin-gold-whale-allegedly-controls-half-the-btg-supply/
+
+Bitcoin Gold Whale Allegedly Controls Half the BTG Supply
+
+According to a recent study, bitcoin gold (BTG) market prices are being manipulated by a single whale who holds a significant portion of the bitcoin gold in circulation. The Bitcoin Gold network was recently hit with a 51% attack that caused two blockchain reorganizations. The team of BTG developers introduced a new soft fork concept called a “Cross-Chain Block Notarization Protocol” (CCBN) in order to thwart any 51% attacks going forward.
+
+Also read: Bitcoin Gold 51% Attacked – Network Loses $70,000 in Double Spends
+
+Bitcoin Gold Developers Propose Notarization Protocol to Stop Future 51% Attacks
+
+The forked cryptocurrency known as bitcoin gold (BTG) has been capturing the attention of the crypto community lately for a number of reasons. During the last week of January, the Bitcoin Gold blockchain was 51% attacked and malicious miners were able to double spend around $72,000 worth of BTG at the time. Just like the last time BTG was attacked and lost $18 million worth of BTG, many speculators blamed the hashrate rental service Nicehash for the problems. After the January 51% attack against BTG, software developer James Lovejoy noted that the miners who flipped the hashrate probably spent roughly $1,200 to rent hash from Nicehash and perform the attack. The second large assault on the Bitcoin Gold network has called into question the relevance of blockchains that are prone to 51% attacks.
+
+However, the BTG development team has an idea to help stop malicious miners from overtaking the network and it requires a second blockchain. After the January 2020 attack, BTG devs published a whitepaper called “CCBN: Cross-Chain Block Notarization Protocol.” CCBN is essentially a backup consensus method that leverages a ‘Notarychain.’ What this means is that CCBN makes it so BTG blocks are notarized to another public blockchain, making the blocks trivial to reverse. “Notarizations contain complete BTG block headers with the solution hashes (so they cannot be faked),” the website bitcoingold.org explains. BTG developers say that if a secret miner notarizes blocks, they become public and if the mining entity does not notarize, they will publish their “secret chain.” “Nodes [will] refuse it because of low weight, preventing the attack,” the programmers highlight.
+
+“Either the first spend is refused by [an] exchange, or the second spend is refused by the chain,” BTG devs stress. “Either way, a double-spend fails.”
+
+Research Claims Bitcoin Gold Price Manipulated by a Single Whale
+
+Bitcoin gold prices and market activity have also been a trending conversation in crypto circles lately. BTG has been quite volatile and has seen a number of pump and dumps over the last six months. Just recently a blockchain analysis study shows that the price of BTG might be manipulated by a single whale or a few whales controlling a significant portion of the bitcoin gold in circulation. The author of the study noted that he’s been watching BTG since mid-August 2018 and he noticed that roughly “5,000 to 10,000 BTGs were being taken off the market, daily.”
+
+“From August 16, 2018, to July 22, 2019, an accumulation period of 11 months, someone – or multiple entities – entered a massive margin long for bitcoin gold,” the author wrote. There is 17,513,924 BTG in circulation at the time of publication, but the research underscores that it can be assumed that roughly 11 million BTG are either inactive or lost forever. This is due to the reflection of the number of BTC that hasn’t moved (10.7M+) in over a year but also certain individuals will refuse to claim a forked coin and those BTG will never see the light of day.
+
+Because of these statistics, the researcher estimates there’s probably 7 million BTG on the market although the true number could be much lower (4-5 million). “With the prior figure, one entity owns a minimum of 38% and a maximum of 48% of the supply, on one exchange,” the author detailed. “Assuming he is the only one in on this accumulation, that’s half the supply belonging to one entity. It is not possible to extrapolate much information just from public longs data. This is where we must use the best feature of blockchain: public on-chain information.” The analyst also mentioned that just before BTG was falling below the $5 per coin region in January 2020, the price saw an extremely quick pump “that didn’t last long,” gathering 150% to $15.
+
+“Since the ‘whale’ largely controls where the price goes due to owning such a big piece of the supply, the coin can be wash traded up to any price he wants to exit at,” the study suggested.
+
+The researcher concluded by disclosing the target price the BTG whale wants to obtain which is about $22.86 per coin. The study assumes the price of BTG will “multiply in value from the current value of ~$12 (as of this post)” and attempt to reach the projected $22 price. “What happens after the publishing of this article will be a good example of how big market participants are able to single-handedly move markets and smaller traders are able to follow using publicly available data,” the author conceded. “This is analogous to a school of small fish following the whale to avoid getting eaten by the shark — Be the small fish.”
+
+Bitcoin Gold’s Network Halving Approaches
+
+At the time of publication, BTG is swapping for $11.62 per coin and markets are down 2.7% during the last 24 hours. Over the last 90 days, BTG is up over 93% but during the course of the last 12 months, BTG has lost 6.5%. Today the Bitcoin Gold network hashrate is 3MH/s and nearly 42% of that hash stems from the Nicehash service. The hourly cost to attack BTG is only $897 and a whole day attack would cost $21,524.
+
+Additionally, the BTG rich list shows that five addresses control 16.8% of the 17.5 million circulating supply. As the aforementioned study notes, those five addresses hold a whole lot more percentage-wise considering lost coins, stolen coins, and unredeemed BTG. The Bitcoin Gold network halves every 210,000 blocks just like BTC and the BTG halving is estimated to take place on or around Saturday, April 18, 2020, at block height 630,000. Just like BTC, BCH, and BSV, the Bitcoin Gold network will see block rewards cut from 12.5 to 6.25 coins after the halving.
+
+What do you think about the Bitcoin Gold network’s CCBN or “Notarychain” concept to thwart 51% attacks? What do you think about the theory of a few whales controlling most of the bitcoin gold supply? Let us know what you think about this subject in the comments section below.
+
+Disclaimer: This article is for informational purposes only. It is not an offer or solicitation of an offer to buy or sell, or a recommendation, endorsement, or sponsorship of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article. Price reports and market updates are intended for informational purposes only and should not be considered as trading advice. Neither Bitcoin.com nor the author is responsible for any losses or gains, as the ultimate decision to conduct a trade is made by the reader. Cryptocurrency prices for bitcoin gold (BTG) referenced in this article were recorded on Friday, March 6, 2020, at 12:30 p.m. ET.
+
+Image credits: Shutterstock, Jamie Redman, Fair Use, bitcoingold.org, CCBN white paper, bitinfocharts.com, onlyforesight.com, Wiki Commons, and Pixabay.
+
+Want to create your own secure cold storage paper wallet? Check our tools section. You can also enjoy the easiest way to buy Bitcoin online with us. Download your free Bitcoin wallet and head to our Purchase Bitcoin page where you can buy BCH and BTC securely.

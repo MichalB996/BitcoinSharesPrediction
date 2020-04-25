@@ -1,0 +1,35 @@
+DATE:  20.02.2019, 08:14:01
+TITLE: Coinbase Wallet App Adds Bitcoin Cash Support
+URL:   https://news.bitcoin.com/coinbase-wallet-app-bitcoin-cash/
+
+Coinbase Wallet App Adds Bitcoin Cash Support
+
+Coinbase announced on Tuesday that users of its wallet app can now directly store their bitcoin cash. The app update will be rolled out to all iOS and Android users in the next few weeks. Both Cashaddr and legacy address formats are supported alongside Bitcoin Cash Testnet for developers.
+
+Also read: SEC Chair Explains Key Upgrades Needed for Bitcoin ETF Approval
+
+Adding BCH Support
+
+San Francisco-based digital currency platform Coinbase announced on Tuesday that its noncustodial wallet app now supports bitcoin cash. Siddharth Coelho-Prabhu, Product Lead at Coinbase, wrote that “Starting today, you can now store your bitcoin cash (BCH) directly in the Coinbase Wallet app.” However, he elaborated:
+
+The new wallet update with bitcoin cash support will roll out to all users on iOS and Android over the next few weeks. BCH support is activated by default — all you need to do is tap ‘Receive’ on the main wallet tab and select bitcoin cash to send BCH to your Coinbase Wallet.
+
+Coelho-Prabhu emphasized that the wallet “supports both newer Cashaddr address formats, as well as legacy addresses for backwards compatibility in all applications.” It also supports “Bitcoin Cash Testnet to aid developers and power users,” he detailed, adding that his team also plans “to add support for the JSON Payment Protocol in the future.”
+
+The security of the Coinbase Wallet app is more advanced than its custodial web wallet counterpart. According to the announcement, users’ private keys are encrypted and stored on their mobile devices using a Trusted Execution Environment (TEE), or Secure Enclave technology. “This specialized hardware is considered the most secure way to safeguard private data on mobile devices,” Coelho-Prabhu claims.
+
+The BCH support follows the BTC support announced on Feb. 5. Coinbase Wallet previously supported only “ethereum, ethereum classic, and over 100,000 different ERC20 tokens and ERC721 collectibles built on Ethereum,” the product lead noted.
+
+Other Developments
+
+A week before BCH support was added, Coinbase announced that users “can now backup an encrypted version of your Coinbase Wallet’s private keys to your personal cloud storage accounts, using either Google Drive or iCloud.” Coelho-Prabhu described, “This new feature provides a safeguard for users, helping them avoid losing their funds if they lose their device or misplace their private keys.”
+
+However, the optional feature was met with a large amount of negative feedback on social media. Tallycoin developer DJ Booth tweeted, “This is a terrible idea and encrypting with a user-chosen password is even worse. Most people cannot choose/remember strong passwords and generally reuse passwords.” After hundreds of tweets disapproving of the new feature, the company responded: “If you feel uncomfortable storing an encrypted backup in your cloud account, you can keep a copy of the recovery phrase (mnemonic seed) by yourself.”
+
+Then, on Tuesday, Coinbase announced that it has acquired Neutrino, which describes itself as a blockchain data intelligence platform. “By analyzing data on public blockchains, Neutrino will help us prevent theft of funds from peoples’ accounts, investigate ransomware attacks, and identify bad actors,” explained Varun Srinivasan, Coinbase’s director of engineering. “It will also help us bring more cryptocurrencies and features to more people while helping ensure compliance with local laws and regulations.”
+
+What do you think of the Coinbase Wallet app? Will you use it? Let us know in the comments section below.
+
+Images courtesy of Shutterstock and Coinbase.
+
+Need to calculate your bitcoin holdings? Check our tools section.

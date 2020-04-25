@@ -1,0 +1,67 @@
+DATE:  06.03.2019, 20:59:20
+TITLE: Tippin.me Takes Off at Lightning Speed With More Than 14,000 New Users
+URL:   https://bitcoinmagazine.com/articles/tippinme-takes-lightning-speed-more-14000-new-users
+
+Ring in the new bitcoin halving cycle the right way: with us!
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+As the new Lightning network (LN) protocol continues to take the Crypto-Twitterverse by storm, it’s taking at least one new app with it, as the tipping and micropayment app Tippin.me catches on like wildfire. Founder Sergio Abril told Bitcoin Magazine he is “overwhelmed” by the interest and support he is receiving from around the world.
+
+Struck by the potential success of the new Lightning network protocol, Abril created Tippin.me three months ago as a way to enable Lightning micropayments without a user having to set up an LN node.
+
+Abril told us he is getting more than 200 new users a day, 14,100 new users as of March 6, 2019.
+
+The goal of Tippin.me is to make the Lightning network easier to use, by giving users a simple, custodial web wallet to receive and manage small amounts of bitcoin for tips and micropayments.
+
+To use it on Twitter, users need only download an application extension to Chrome or Firefox, register, and sign in with their Twitter account. From there, they can share a QR code with fellow tippin.me users to receive tips through the Lightning network.
+
+“I realized that micro payments could be huge with Lightning Network, but there were still some obstacles that made tipping hard. You needed to be online to get a tip, you needed to generate an invoice every time. It needed to be easier, it needed to be way simpler, and certainly something more appealing. And that’s how Tippin started,” Abril told Bitcoin Magazine.
+
+Since its launch, Tippin.me has sent out 16,500 tips and generated 195,000 invoices. Abril told us that when Twitter CEO Jack Dorsey tweeted about Tippin.me recently, 35,000 people visited his site in one day.
+
+How Does It Work?
+
+To set up Tippin.me, you can use the extensions on Google Chrome or Firefox. Some users have installed the Chrome version in Brave and that seems to work as well.
+
+You will also need to install a mobile Lightning wallet, such as an eclair wallet for androids or the bluewallet for IOS and androids from the App or Play stores.
+
+When you sign up at Tippin.me, a small web custodial wallet is created there, linked to your Twitter username.
+
+With the browser extension installed, a Lightning icon will show up in your tweets along the bottom, appearing after the reply, retweet, like and message symbols.
+
+When the Lightning icon is clicked, a QR-code will appear and you can scan it with your new bitcoin wallet. (The process of retrieving a proper QR code for that user is handled automatically by the extension itself.)
+
+Cashing out tips is done from the Tippin.me dashboard.
+
+Security Is “Top of Mind “
+
+As the Bitcoin space weathers another storm, security is again top of mind. we asked Amber D. Scott, CEO of Outlier Canada, whether she would feel comfortable with a Tippin.me wallet.
+
+“The risk, as I see it, isn't because the Tippin.me wallets require certain information to be revealed publicly. It's in part due to the custodial nature of the tool, and in part due to its novelty. Tippin.me is still in Beta mode, so there are some risks to users as the system has not yet been battle-tested and there is a greater chance of bugs.”
+
+Abril told Bitcoin Magazine that the amounts involved are small so this takes some pressure off, but he is still very mindful of security concerns.
+
+Abril said:
+
+“I decided to show a disclaimer at the sign up screen on Tippin since day one, to make sure that nobody was holding a big amount. I know that this sign could hold people back, but Tippin was just a side project, a fun experiment, and I didn’t want people to risk too much.”
+
+“The truth is that anything could happen, but as long as you don’t keep your bitcoins in there, and do cashouts regularly, you will be OK. Also, let’s not forget that we are talking about small tips, usually just cents.”
+
+Promoting Lightning and Bitcoin
+
+Asked if the recent bear market had shaken his faith in Bitcoin, Abril said:
+
+“Despite the current market situation, I think that nothing has changed. Bitcoin is the natural evolution of money, and it will happen sooner or later. It’ll keep on growing no matter what.
+
+“But we need to make it easier to use if we want to speed up the process. We need to simplify everything to push adoption. A lot. And that’s why I decided to build Tippin.me.”
+
+“It’s a fun way to play with lightning,” said Coin Center Communications Director Neeraj Agrawal. “Small applications like these are good for onboarding. It got me to finally install a mobile lightning wallet.”
+
+Asked about the timeline for taking Tippin.me out of beta, Abril noted:
+
+“I hope to have a viable gold product within weeks … The truth is that the Lightning Network is still in Beta as well, and that’s one of the reasons I decided to hold on and stay in this phase (If Lightning Network can fail, so [can] Tippin, which is built on top of Lightning Network… So I didn’t want to risk). Luckily, LN (Lightning Network) is maturing very fast, and the system I’m building is really solid already, so things could change soon!”
+
+Want to experiment with Lightning payments on Tippin.me? Join in on Tuesdays for Bitcoin Magazine’s #LightningTrivia events to win some sats and tickets to the Bitcoin 2019 Conference in San Francisco. Follow @bitcoinmagazine.

@@ -1,0 +1,41 @@
+DATE:  06.05.2019, 16:07:25
+TITLE: Bitcoin Cash Signs Up For Schnorr Signatures
+URL:   https://cryptobriefing.com/bitcoin-cash-schnorr-signatures/
+
+Business Bitcoin Cash Signs Up For Schnorr Signatures by Paul de Havilland
+
+Bitcoin Cash has beaten Bitcoin to the Schnorr party, but will that translate to real use?
+
+Share this article
+
+Bitcoin Cash is preparing for another fork, which will upgrade the software for the fourth-most valuable blockchain network. Unlike the last hard fork, the next upgrade is unlikely to cause any dramatic splits, focusing instead on efficiency and scalability improvements. The biggest addition to the protocol is Schorr signatures, which will allow enhanced scaling to the blockchain network.
+
+Schnorr Is Coming To Bitcoin Cash, Wrightly Or Wrongly
+
+Bitcoin Cash will add Schnorr signatures on the mainnet on May 15, replacing the Elliptic Curve Digital Signature Algorithm (ECDSA), which is the legacy signature protocol of the original bitcoin. Schnorr signatures make transactions leaner, with several signatures able to be verified simultaneously.
+
+Schnorr signatures have not been implemented by Bitcoin (BTC) developers because of patent conditions surrounding them. Those conditions have now been lifted, and bitcoin cash has seized on the opportunity to get ahead of the OG crypto. Named after its inventor, Claus-Peter Schnorr, the algorithm was covered by US Patent 4,995,082 until 2008, when it expired. Its application status expires May 6.
+
+A Schnorr Fest Compared To The ABC Vs. Satoshi Vision Fork
+
+The last Bitcoin Cash fork was highly contentious, and not just within the BCH community. Besides splitting the currency into bitcoin cash ABC (BCHABC) and bitcoin Satoshi Vision (BSV), the ripple effects caused a marketwide collapse of cryptocurrency prices, as well as a volley of lawsuits.
+
+The split was ostensibly over block sizes. The Satoshi Vision side wanted them big, at 128mb, while the ABC side wanted zero-confirmation transactions.
+
+In reality, the disagreement arose over the order of developments, and not the particular developments themselves. The spat that resulted caused an expensive hash war, with each side attempting to create the dominant chain. Craig Wright lost not only the hash war, but also the PR battle. And when you lose a PR battle against Roger Ver, you have indeed accomplished something that is very difficult to do.
+
+Security, Privacy, And Speed
+
+Schnorr signatures add security, privacy, and speed to transactions, as each signature requires less memory space.
+
+The #BitcoinCash (BCH) network is ever-evolving to bring you a better global currency. ? On 15th May, #SchnorrSignatures will be added during a scheduled network upgrade, offering greater security, increased privacy, and faster transactions! ?️ https://t.co/0qngvT99OH pic.twitter.com/c3ry1GUMI8 — Bitcoin News (@BTCTN) May 1, 2019
+
+Implementing Schnorr signatures ahead of Bitcoin is something of a coup for Bitcoin Cash, as it theoretically improves its efficiency as a a means of payment. Schnorr signatures reduce storage and bandwidth by around 25 percent, improving scalability. Bitcoin’s scalability has long been a significant source of debate among its advocates.
+
+Another potential advantage of the use of Schnorr signatures is privacy. The linearity property of Schnorr signatures means that multiple parties can produce a single signature that is valid for all their individual public keys. That property, key aggregation, can allow transaction signers to be anonymous.
+
+Bitcoin Cash has gotten the jump on Bitcoin in terms of Schnorr signature implementation. With the August 2017 introduction of SegWit, and the gradual growth of the Lightning Network, it is clear that Bitcoin Core developers are aware of the need to provide network scalability.
+
+Thanks to Pieter Wuille, Schnorr and Taproot are already on Bitcoin’s roadmap, and have been for some time. Patent considerations aside, Bitcoin is a more cautious project, with developments and protocol upgrades occurring as though its caretakers are carrying the weight of Satoshi Nakamoto’s vision on their shoulders when considering BIPs.
+
+And indeed they are.

@@ -1,0 +1,51 @@
+DATE:  06.01.2020, 10:00:00
+TITLE: We Still Don’t Know Bitcoin’s Real Volume
+URL:   https://finance.yahoo.com/news/still-don-t-know-bitcoin-100000357.html
+
+Galen Moore is a Senior Research Analyst at CoinDesk. The following article originally appeared in Institutional Crypto by CoinDesk, a weekly newsletter focused on institutional investment in crypto assets. Sign up for free here.
+
+Fake volume became one of crypto assets’ leading narratives of 2019, as a U.S. regulatory application for an exchange-traded product (ETP) followed the work of earlier researchers in showing how as much as 95 percent of lit markets’ reported bitcoin trading volume might be fake. That’s resulted in conservative estimates of bitcoin volume that are probably far too low, and a condition of uncertainty as to how much bitcoin is actually being traded.
+
+You could think of fake volume as a natural feature of crypto’s novel market structure, in which:
+
+liquidity is divided among many competing exchange venues
+
+trading fees are high relative to other asset categories
+
+exchanges provide data for free
+
+Related: Bitcoin Jumps 5%, Gaining With Gold, After US Kills Top Iranian Official
+
+In crypto markets, data is a marketing tool instead of a revenue source, and some exchanges have been shown to use it that way, exaggerating volumes in order to enhance their perceived liquidity.
+
+These realities and the data presented by researchers like BitWise in its March 2019 ETP application have led market data aggregators to adjust their volume representations. The chart below compares adjusted daily bitcoin volume figures for the month of November offered by two such aggregators, Messari and Nomics, against the unadjusted reported daily volume figures offered by CoinMarketCap, historically the best-known market data provider.
+
+View photos CoinDeskResearch_BitcoinVolume More
+
+The discrepancy between the two examples of adjusted bitcoin volume shown stems from the list of exchanges each data aggregator includes. Messari limits its “real” bitcoin volume number to the 10 exchanges identified in BitWise’s ETP application. Nomics rates 32 exchanges high enough on its “transparency rating” metric to include them in its “transparent volume” aggregate.
+
+In its October response to an application for ETP approval by BitWise, a San Francisco-based fund manager, the U.S. Securities and Exchange Commission (SEC) noted exchanges that BitWise excluded as fake are likely supporting some volume of real trading activity, a “gray area” that BitWise conceded in a reply to comments on the application.
+
+Related: Korea’s Tax Agency to Withhold $70M From Crypto Exchange Bithumb
+
+The SEC’s response specifically mentioned HitBTC, Huobi, OKEx and a handful of exchanges based in South Korea, which were excluded due to capital controls there. Nomics’ adjusted bitcoin volume number includes HitBTC, but not Huobi, OKEx or any of the larger South Korean venues.
+
+Anecdotally, traders say excluding liquid markets wholesale doesn’t make sense – especially Huobi and OKEx. “I’ve traded on OK since 2013, and it’s executable,” said Dan Matuszewski, former head of trading at Circle, a Boston-based developer of financial products in crypto. “That liquidity is there. Those markets are actionable. Do I think the number is 100 percent true? Absolutely not.”
+
+View photos CoinDeskResearch_BitcoinBidAskSpread More
+
+The chart above shows that, at least on Huobi, some bitcoin-base pairs are nearly as liquid as they are on Coinbase, according to order book data provided by Kaiko. Real daily bitcoin volume in November was probably somewhere between the $1.97 billion “transparent” volume that Nomics reported and CoinMarketCap’s unadjusted average daily volume figure of $22.56 billion – and even though Nomics’ number excludes some major exchanges, it probably gets closer to the truth than the unfiltered data on CoinMarketCap.
+
+To some extent, it doesn’t matter. Aggregate bitcoin volume is a general data point, unlikely to inform a specific investment decision. In crypto’s fragmented markets, volume at specific venues, selected for their relevance to geographies or categories of investor, may be better signals. For example:
+
+Coinbase’s cash market volumes as an indicator of new retail participation
+
+Activity on localbitcoins or regionally dominant exchanges
+
+CME and Bakkt bitcoin futures activity as an indicator of US fiduciary institutions’ participation
+
+However, a reliable figure for bitcoin’s aggregate volume is important when establishing market infrastructure such as volume-weighted indexes. The crypto asset category’s inability so far to settle on such a number is an indicator of its immaturity. When media organizations emerged on the internet, their new approaches to revenue also brought new questions as to which information could be trusted. The same thing is happening in crypto.
+
+
+
+Related Stories

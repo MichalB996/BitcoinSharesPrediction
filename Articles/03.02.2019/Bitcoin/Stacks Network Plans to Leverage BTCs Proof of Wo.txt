@@ -1,0 +1,39 @@
+DATE:  03.02.2019, 00:17:07
+TITLE: Stacks Network Plans to Leverage BTC's Proof of Work and Burn Bitcoins
+URL:   https://news.bitcoin.com/stacks-network-plans-to-leverage-btcs-proof-of-work-and-burn-bitcoins/
+
+Stacks Network Plans to Leverage BTC's Proof of Work and Burn Bitcoins
+
+Blockchain startup Blockstack has revealed the company is in the midst of developing a new distributed ledger protocol called Stacks, a chain that leverages the hash power from the Bitcoin Core (BTC) network. Not only is the Stacks network secured by over 45 exahash of distributed hashrate, but its consensus algorithm also burns BTC by using a mechanism known as proof of burn (PoB).
+
+Also read: Properties Are Still Being Sold for Cryptocurrency Despite the Bear Market
+
+Proof of Burn
+
+Blockstack, formerly called Onename, and Stacks lead developer Jude Nelson have published a video that describes a newly designed blockchain consensus algorithm. It utilizes Bitcoin Core’s proof of work (PoW), alongside the burning of coins (PoB) in order to process blocks on the Stacks chain. Nelson details there are inherent issues with proof-of-stake consensus models and the PoB consensus mechanism is meant to bootstrap itself from the established hash power stemming from the BTC chain. Over time, the Stacks chain will slowly transition away from BTC’s hash power, but using it initially will help curb 51% attacks that have been seen in recent months with networks that have an extremely low amount of PoW.
+
+Nelson believes it would be better to build on top of the security of BTC rather than try to mimic that success.
+
+“Instead of expending electrical and hardware costs, participants in proof-of-burn consensus do just that — They provably destroy (or “burn”) their own bitcoin as the economic cost for their participation,” explains Nelson’s recent video describing the Stacks chain. “Every participant competing for the opportunity to write the next block must burn a certain amount of proof-of-work token (bitcoin) to enter the competition.”
+
+The Blockstack developer continued by stating:
+
+A participant’s likelihood of winning the competition increases with the percentage of bitcoin they burn compared to other participants — The competition’s winner writes the block, collects transaction fees, and earns the block reward of Stacks tokens.
+
+Building on Top of the Largest PoW Chain
+
+Nelson’s blog post and recently published video also explains that the Stacks blockchain has its own memory-hard PoW process, but only 5 percent is allocated and the other 95 percent stems from BTC’s hash power. The process is tunable so that in future the Stacks developers can lessen the dependency on the BTC chain. “As the Stacks blockchain starts to get significant hash power there is a path available (by changing the tunable threshold) to reduce the percentage for Bitcoin and slowly transition away from it,” Nelson’s report notes.
+
+A Stacks block is found by using a mechanism called “cryptographic sortition” and each block with the burns from all participants is used to calculate a probability distribution at random. If a participant spends a lot of bitcoin during the burn process and doesn’t receive any incentive, the loss is similar to BTC miners using electricity and losing the block race, Nelson explains. “If you contribute 90% of all burns in an epoch, there’s still a 10% chance that you will lose (but your Bitcoin is destroyed either way,” the developer adds.
+
+Nelson states further:
+
+It’s worth noting though; the burns aren’t truly “wasted” — they still improve the chain quality since their (wasted) burns get used to calculate a “burn quota” which helps slow down attackers.
+
+The Blockstack programmer says the firm is building the chain in this manner because they believe it would be “fruitless” to compete with the security of BTC. Rather the team decided to build on top of the largest PoW chain in order to create a more distributed and censorship-resistant web. Blockstack’s main intentions have always been working toward the decentralization of the internet. Nelson believes it’s even better when there’s a blockchain system that’s verified by individuals and organizations “acting out of rational economic self-interest.” In Hong Kong, Nelson detailed that Stacks version 2 is currently under development during his recent keynote discussion concerning the protocol. At the moment developers can review the two open SIPs or Stacks Improvement Proposals.
+
+What do you think about Blockstack’s Stacks proof-of-burn consensus model? Let us know what you think about this project in the comments section below.
+
+Image credits: Shutterstock, Blockstack, Pixabay, and the Blockstack white paper.
+
+Express yourself freely at Bitcoin.com’s user forums. We don’t censor on political grounds. Check forum.Bitcoin.com.

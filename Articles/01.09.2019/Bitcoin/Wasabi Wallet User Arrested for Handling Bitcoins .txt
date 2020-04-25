@@ -1,0 +1,35 @@
+DATE:  01.09.2019, 10:28:38
+TITLE: Wasabi Wallet User Arrested for Handling Bitcoins from “Serious Crime”
+URL:   https://www.crowdfundinsider.com/2019/09/151096-wasabi-wallet-user-arrested-for-handling-bitcoins-from-serious-crime/
+
+In a Reddit post titled, “Warning about using Wasabi: it can ruin your life,” a poster called “u/green105” has alleged that his or her partner was arrested and jailed “for days” for innocently handling Bitcoins traced to a serious crime.
+
+Wasabi is a Bitcoin wallet that uses a type of scrambling called “Chaumian CoinJoin” to obscure or “de-link” the chain of custody of a Bitcoin.
+
+The company bills itself as a pro-privacy service and encourages more participants to use the wallet (there are fees involved):
+
+“(A)nonymity loves company…(T)he more participants there are, the better your privacy is, and the faster the CoinJoin rounds are. Whether you are looking for state of the art operational security or you are philosophically aligned with the principles of freedom and privacy, now it is YOUR time to contribute.”
+
+But if the Reddit post is true, an allegedly innocent Bitcoin user has mixed his Bitcoins with those of a serious criminal, and has thereby been implicated.
+
+Here is the story, courtesy of Reddit:
+
+“My life has been seriously affected by Wasabi.” “My partner has used Bitcoins for years and never had any problems. He never did anything illegal. But apparently people told him Wasabi was good to use to improve privacy, so he always used that.” “He recently spent some BTC online that went through wasabi.” “Soon after that online purchase, police turned up at our house and took us into custody, saying they had proof we were directly linked to a serious crime. They said they could trace the Bitcoin transaction.” “It has been days and he is still in custody. He told me to write here.” “He has been trying to explain what wasabi is and tried to give records of his Bitcoins transactions but apparently it isn’t clear since he didn’t keep a full record of everything. Especially because one of the exchanges doesn’t exist anymore. It all sounds so suspicious that he was mixing coins with strangers and helping them hide their illegal funds.” “We had an expensive holiday that we saved up for for years. We have lost thousands of dollars now because we couldn’t go on the holiday and now I have to figure out what to do.” “My lawyer is advising me so I might not answer questions, I don’t know.” “I just want people to realise there is a risk to mixing your coins with other random people. My partner says he had no idea this could even happen.”
+
+A user called “iLoveStableCoins” seemed to respond on behalf of Wasabi, claiming that, “In many of these countries, a non-custodial wallet like Wasabi is simply a piece of software that is not considered an exchange or Money Service Business, thus is protected…please speak to your lawyer in your jurisdiction to better understand how the software is treated.”
+
+This would not be the case, however, in many American states, where crypto transacting services are being increasingly brought under money transmitting rules.
+
+“iLoveStableCoins” speculated that the incident came about as a result of “incompetence” at a blockchain forensics company, and likened bitcoins to cash:
+
+“It looks like a forensics company has flagged Bitcoin from some illegal or criminal activity. That Bitcoin later became part of a CoinJoin, and thus has dispersed across many coins that equally share the small probability of the criminal history. This is much the same way that if you touch a $20 bill, it likely was part of criminal activity of one sort or another…The Forensics company is likely incompetent, and may even be given too much credibility and has, likely, flagged all of the coins that participated in the transaction.”
+
+“iLoveStableCoins” post suggests suggest some users may be using Wasabi without realizing the service is illegal in their jurisdiction.
+
+Many Reddit responders refused to believe “u/green105’s” allegations, and the poster does not appear to have returned with an update.
+
+The “cryptocoin community” was shocked earlier this year when police in the Netherlands and Luxembourg seized six servers hosting Bestmixer.io, “one of the three largest mixing services for cryptocurrencies.”
+
+Like Wasabi, Bestmixer was a service designed to obscure the chain of custody of bitcoins.
+
+Though Bestmixer reportedly “guaranteed” customer anonymity, the Dutch Fiscal Information and Investigation Service said it gathered detailed intelligence about users for almost the entire history of the service, and will be furnishing that data to other law enforcement for analysis:

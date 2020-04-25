@@ -1,0 +1,47 @@
+DATE:  07.05.2019, 16:00:17
+TITLE: Can You Cancel Unconfirmed Bitcoin Transactions? Yes, Here’s How
+URL:   https://bitcoinist.com/can-you-cancel-unconfirmed-bitcoin-transactions-yes-heres-how/
+
+Sponsored Article Can You Cancel Unconfirmed Bitcoin Transactions? Yes, Here’s How
+
+Every confirmed bitcoin transaction is irreversible. But is it possible to cancel unconfirmed bitcoin transactions?
+
+Why Bitcoin Transactions Remain Unconfirmed
+
+An unconfirmed bitcoin transaction occurs when a given transaction fails to receive a confirmation on the blockchain within 24 hours.
+
+All bitcoin transactions must be confirmed by miners. They need a minimum of three confirmations to be considered fully confirmed.
+
+There are two main reasons your bitcoin transaction may end up remaining unconfirmed.
+
+If the transaction is very recent, you may need to wait a little longer before receiving confirmation. Currently, even at its very quickest, it takes at least 10 minutes to confirm a BTC transaction. The fee for the transaction was not entirely included or was too low. One simple rule applies when it comes to bitcoin transactions: the smaller the amount, the lower its chances of a successful confirmation.
+
+If you choose too minimal a transaction fee, it may not get confirmed by miners. If, after 24 hours, your transaction remains unconfirmed, here’s what you need to do.
+
+Reversing Your Unconfirmed Bitcoin Transactions
+
+Make absolutely sure that your transaction is unconfirmed before taking action. To start with, that means waiting for at least 24 hours. If there’s definitely no confirmation yet, use a block explorer like Blockchain.com to confirm that your TX is indeed unconfirmed.
+
+As a public blockchain, it’s very easy to track your bitcoin transaction. Simply enter your transaction ID and track it through the block explorer.
+
+Remember that transactions need a minimum of three confirmations before they are fully confirmed. If you see that your transaction has one or two confirmations, you will have no choice but to wait until it is validated by a third miner. The process has already begun.
+
+If there are zero confirmations, you can go ahead and cancel the transaction. There are two ways of going about this:
+
+Use the Replace by Fee (RBF Protocol) Use the higher fee Double-Spend transaction
+
+The RBF Protocol allows you to broadcast your bitcoin transaction to the network a second time with a higher fee to ensure that it gets picked up by miners. This will cancel your previous transaction and essentially create a new one.
+
+However, note that not many wallets support the RBF Protocol, so be sure to check that your chosen BTC wallet does. To use the RBF Protocol simply select the option when you set the transaction as you’re sending out your bitcoin.
+
+If RBF isn’t an option due to the wallet you use, you’ll need to go down the double spending route. This entails creating a new transaction the exact amount of the unconfirmed original. So, you basically just send the transaction again but select a higher fee this time.
+
+Ensuring Your Transactions Are Confirmed
+
+If you want to avoid this problem and ensure that your bitcoin transactions are confirmed each time, use the suggested TX fee setting found in most wallets. If you change it, you may choose a lower miner fee by accident that leads to an unconfirmed transaction.
+
+Most wallets select the miner fee automatically to help you avoid waiting hours and hours for confirmation of your transaction and making sure it doesn’t get stuck in the Bitcoin block.
+
+Have you tried replace-by-fee? Share your experiences below!
+
+Images via Shutterstock

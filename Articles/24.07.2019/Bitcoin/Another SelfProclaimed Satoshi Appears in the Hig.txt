@@ -1,0 +1,53 @@
+DATE:  24.07.2019, 18:00:16
+TITLE: Another Self-Proclaimed Satoshi Appears in the High Profile Bitcoin Lawsuit
+URL:   https://news.bitcoin.com/another-self-proclaimed-satoshi-appears-in-the-high-profile-bitcoin-lawsuit/
+
+Another Self-Proclaimed Satoshi Appears in the High Profile Bitcoin Lawsuit
+
+A new filing has been submitted to the ongoing Kleiman v. Wright case stemming from a man who claims to be Satoshi Nakamoto. The man, named Debo Jurgen Etienne Guido, has sent handwritten testimony to the Southern District of Florida courthouse asserting that he is the “genuine and only originator/creator” of the genesis block that started the Bitcoin network in 2009.
+
+Also Read: Many Self-Proclaimed Bitcoin Inventors and Satoshi Clues Were Debunked in 2018
+
+A Wild Satoshi Appears in the Kleiman v. Wright Lawsuit
+
+The high profile billion-dollar bitcoin lawsuit continues this week as an interesting filing was submitted to the court on July 22. The lawsuit involves the family of the now-deceased David Kleiman and his multi-year business relationship with the self-proclaimed Bitcoin inventor Craig Wright. The Kleimans have accused Wright of manipulating David’s bitcoin inheritance and a vast amount of intellectual property. Florida court case Kleiman v. Wright (9:18-cv-80176) revolves around an alleged trust that purportedly holds 1 million BTC. However, on July 11, news.Bitcoin.com reported on the Kleiman estate’s witness, Dr. Matthew Edman, a cryptography expert who found a slew of discrepancies within Wright’s submitted evidence like document modification and other backdated materials. Following the testimony from Edman on Monday, July 22, another filing was submitted to the court which adds a new twist.
+
+According to the filing, Debo Jurgen Etienne Guido, a man who resides in Belgium, has sent a written testimony to Judge Bruce Reinhart claiming to be Satoshi Nakamoto. Debo’s handwritten letter contends that he was the inventor of the Bitcoin technology, the originator who initiated the genesis block, author of the whitepaper, and owner of the GMX.com email handle. The letter states:
+
+I hereby testify, by written letter — I am the genuine and only originator/creator of the genesis block of the Bitcoin blockchain. I used the handle Satoshi Nakamoto and mail Satoshin@GMX.com to write and publish the whitepaper.
+
+PGP Key 0x18C09E865EC948A1 Trust Signed by an Inner Circle and Distributed With Early Versions of Bitcoin
+
+Debo also states that he generated the PGP key 0x18C09E865EC948A1 and he claims the key was trust signed by an inner circle of people. The self-proclaimed Bitcoin inventor has been telling the public he is Satoshi for quite some time now. Debo has used a Twitter account called @realsatoshin since 2015. For instance, before Debo’s letter was filed in court on July 4, 2019, he tweeted that his PGP key was trust signed by Hal Finney, Gavin Andresen, Peter Todd, and Wladimir van der Laan. Following Debo’s statements on Twitter, Bitcoin Core developer Wladimir van der Laan joined in on Debo’s Twitter thread and spoke about the key.
+
+“There are no known messages signed by that key, but it was distributed along with early Bitcoin, so it could be Satoshi’s real key, but mind the uncertainty,” Wladimir van der Laan said responding to Debo’s key statements. “My signing it was a mistake about how GPG web of trust is supposed to work at the time, and I revoked it later,” BTC’s lead maintainer detailed.
+
+Searching the PGP key database on the MIT servers shows that Debo’s key was tethered to the email address Satoshin@gmx.com and other emails with the Satoshi name in them. There are two specific dates that are associated with the key, which include Oct. 30, 2008, and Jan. 3, 2009. Those two dates represent the day before the whitepaper was published online on Halloween 2008, and the birth of the genesis block on Jan. 3. Like Wladimir van der Laan said in his tweet, the MIT server shows he did revoke the 0x18C09E865EC948A1 key on May 2, 2016, as the key was coincidently revoked the same day Gavin Andresen was removed as a Core maintainer.
+
+Contacting Kleiman’s Lawyer and Debo’s Opposition to Sign With the Genesis Block
+
+Debo’s letter to the Florida courthouse and Judge Reinhart emphasizes that he never had any contact with David Kleiman. The letter also insists that Craig Wright “has no single private key of my known PGP key on the genesis block.” “The man has no clue how the genesis block is composed as he did not mine the blocks assigned to the so-called whale wallet,” Debo’s letter asserts.
+
+Before the letter was sent to the courthouse Debo showed everyone on Twitter that he was sending the letter and he also showed that he was sending private messages to the Kleiman attorney Vel Freedman. “I have a strong feeling Mr. Kleiman is set up in a ‘Nigerian scam’ and I would like you to talk in full honesty with your client — to confirm they really are sure,” Debo wrote to the lawyer. The private message added:
+
+Confirm that [Kleiman] really did talk with the real Satoshi Nakamoto — There were two Vistomail [email] accounts in place: Satoshin and Satoshi — Be aware of that. I used Satoshin@GMX.com. Using the Patriot Act I suggest you ask for a full backup in Germany and you will notice the communication with Harold Finney is signed, sometimes encrypted with my known PGP key or subkey I do own — There is no way that Craig Wright has access to my private PGP key.
+
+In another private message screenshot with Freedman, the attorney responds to Debo’s messages. “Mr. Debo, if you would sign a message with the genesis block to me, it would really assist my case.” Debo’s response to Freedman’s request indicated that the Belgium native is not willing to show his so-called proof until he is ready. Debo explained that when he signs the genesis block, he will then have to prepare to move to a safe place, which is something he’s not ready to do. He asked the lawyer why Freedman is asking him to sign, when he should be asking Craig Wright. “He should and could explain how he composed the genesis block — he could sign with my PGP key 0x18C09E865EC948A1 — [Ask Wright] why he created fake RSA keys not signed by Gavin, Wladimir, Pete Todd, and Hal Finney and uploaded [the keys] to the MIT PGP servers with forged dates.”
+
+For the record. I also do remember some people did ask me to sign a #nonce way back in #2014 with my #keys. #satoshin — Satoshi Nakamoto (@realSatoshiN) July 1, 2019
+
+The Belgian Notary Office Registration and Debo’s Plans for the ‘Whale Wallet’
+
+Then there’s the Quora website where Debo goes into great detail regarding his story and he explained that he registered the Bitcoin.pdf (whitepaper) before the date of publication on the internet at a Belgian Notary office. “This has legal consequences to prove authorship and copyright, since copyright is granted at creation, not at registration — But registration can be useful to prove the date of creation,” Debo claimed on June 13, 2019. There isn’t much information on the web concerning the Bitcoin.pdf registration in Belgium but Debo does have an invention (1011874A6) registered in 1998 for a scanner that digitizes the human fingerprint. On the Quora webpage, Debo declared:
+
+I am the only man in the world who knows how the genesis block is made and composed — So far much speculation surrounds my identity. In fact, my identity is not that important because the project is decentralized and open source. Dorian Nakamoto was a victim of speculation but was quickly denied after I posted a message, “I am not Dorian…” Later on, Dr. Craig Wright did try (and still does) to impersonate me but the man has no single private key, and no access to my whale wallet.
+
+Debo went on to claim that he mined with Hal Finney the very first blocks in production and kept insisting that he owns a “whale wallet that is considerably large.” He said there is a purpose for the whale wallet and promised it would not affect the project itself and the markets. Debo assured that 93% of the [whale wallet’s] resources will be used for “innovation and improvement in general of humankind.” The whale wallet likely refers to the theory cryptocurrency enthusiasts held over the years, which assumes Satoshi Nakamoto mined – 700,000 to 1 million BTC. According to Debo, he plans to only keep about 7% of those funds for his own benefit. Debo also detailed that because he lived in Belgium, it is why he chose to use the German email service GMX at that time. He claimed that in Belgium he was also taught in school to write using a double space after periods and because he spent five years in the army he often wrote in plural form.
+
+There’s no data stemming from the Florida court that shows whether Debo’s letter will be used against Wright, but it was filed with the court on Monday. Debo’s story is hard to believe for a variety of reasons. One of them is the fact that he’s been very open about his alleged involvement with the creation of Bitcoin for a while now. He tweets often about cryptocurrencies and Bitcoin-related headlines, while using an awful lot of hashtags per tweet. Debo’s current writing and English skills are not similar to Satoshi’s style shown in many letters and emails the creator wrote in the early days. Beside the PGP key, which doesn’t show much conclusive evidence, Debo’s story lacks a lot of proof and resembles the “Bitcoin Origins” story told by Phil Wilson, otherwise known as “Scronty.” Still, the July 22 filing indicates that the Florida court and the judges presiding over the Kleiman v. Wright case seem to believe the letter should be filed for a reason that’s currently unknown.
+
+What do you think about the latest revelations with the Kleiman v. Wright lawsuit in Florida? Why do you think Debo would send a letter to the court claiming to be Satoshi? Do you think Debo’s story will have any effect on this lawsuit? Let us know what you think about this subject in the comments section below.
+
+Image credits: Shutterstock, Bitcoin.com, Belgium Patent Office, Twitter, Kleiman v. Wright (9:18-cv-80176), and the MIT PGP server.
+
+How could our Bitcoin Block Explorer tool help you? Use the handy Bitcoin address search bar to track down transactions on both the BCH and BTC blockchain and, for even more industry insights, visit our in-depth Bitcoin Charts.

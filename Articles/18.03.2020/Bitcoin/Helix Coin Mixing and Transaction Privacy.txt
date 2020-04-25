@@ -1,0 +1,17 @@
+DATE:  18.03.2020, 21:17:06
+TITLE: Helix, Coin Mixing and Transaction Privacy
+URL:   https://bitcoinmagazine.com/issue/helix-coin-mixing-and-transaction-privacy
+
+On February 13th, Larry Harmon was charged with multiple counts relating to money laundering, operating an unlicensed money transmitting business, and conducting money transmission without a D.C license. Harmon operated a bitcoin “tumbler” named “Helix” from 2014 to 2017. He also later founded CoinNinja and Dropbit, both services that are familiar many bitcoiners.
+
+For this week’s issue, we decided to take a deeper look at the case to understand the potential implications of the court’s decisions and break down the differences between how Helix worked compared to other privacy solutions.
+
+Sasha Hodder and Rafael Yakobi’s Bitcoin Fungibility, Mixing and The Legal Limits on Maintaining Privacy highlights a few of the different legal definitions that are important to understanding the specific charges brought against Harmon. In the conclusion of the article, they make an important request of exchanges “not to treat the use of CoinJoin in a bitcoin’s transaction history, without any external evidence of wrongdoing, as evidence of suspicious or criminal activity”. I want to layer on to that request that all services, exchanges and platforms are transparent in how they make decisions that may signal a loss of fungibility of coins to their users. This marks Sasha’s sixth contribution to Bitcoin Magazine and Rafael’s first!
+
+Once you’re up to speed with the specifics of the case, read up on our staff writer Colin Harper’s piece where he gives his analysis from the point of view as a bitcoiner with quotes from Harmon’s lawyer Charles Flood and Jesse Spiro, head of policy at Chainalysis. Colin is not a lawyer and does not play one on Bitcoin Magazine.
+
+In the third and final piece directly commenting on the Harmon case, guest contributor Peter C. Earle, research fellow at the American Institute for Economic Research, gives his thoughts on what’s at stake. My favorite line: “We are not guilty and do not concede any guilt whatsoever, by virtue of the simple fact that we own or transact in cryptocurrencies.” This is Peter’s third contribution to Bitcoin Magazine.
+
+Larry’s family and legal team have set up a dedicated site with information about the case and Larry’s involvement in Bitcoin: https://letlarrygo.com/
+
+Outside of the Harmon case, we have yet another returning contributor Giacomo Zucco where he presents “A Treatise on Bitcoin and Privacy Part 1: A Match Made in the Whitepaper“, the first of a two-part series that serves as an excellent primer on all things privacy. Personally, I’m a big fan of this piece because of it’s depth without introducing potentially confusing concepts and terminology. Send this one to everyone you know who’s going to be asking about privacy help this summer. Giacomo’s first series “Discovering Bitcoin” was contains some of my favorite articles from 2019, so check that out, as well.

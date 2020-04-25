@@ -1,0 +1,31 @@
+DATE:  10.07.2019, 14:40:31
+TITLE: Fold App Enables Bitcoin Lightning Payments at Whole Foods, Starbucks
+URL:   https://www.coindesk.com/fold-app-enables-bitcoin-lightning-payments-at-whole-foods-starbucks
+
+Fold, a payments platform, is introducing a lightning network protocol that will allegedly enable users to shop in-store or online at several retailers, including Starbucks, Whole Foods, AMC, Home Depot, and Southwest Airlines.
+
+Though customers will transact in bitcoin, the payments will be settled in whatever currency the merchant chooses. This eliminates the risk of cryptocurrency volatility for merchants, while expanding pool of potential clients who would prefer to transact in bitcoin.
+
+The protocol integrates with existing payments systems in a merchant’s POS, dealing “directly with prepaid access programs like gift cards, store credit, rails or other options merchants are used to accepting,” said Will Reeves, CEO of Fold.
+
+To be clear there is no direct connection between Fold and any of these big merchants. Transactions show up in fiat on a company’s balance sheet as either gift card purchases or store credit, depending on how Fold integrates with a particular POS. This integration requires “no effort on the merchant’s side,” and does not require the installation of new hardware or software.
+
+Fold began working on this P2P feature last year, according to Reeves, who saw lightning network transactions as a way to onboard consumers to use cryptocurrency not just as a store of value, but a payment route.
+
+“Customers navigate to the Fold app, where they are presented with a list of available merchants. They then select the denomination and how much they want to spend,” said Reeves. Fold is non-custodial and allows clients to operate any wallet of their choosing. Once an invoice is populated, it “immediately displays a barcode or other payment method” generated via the merchant’s own gift card API.
+
+The process allegedly takes 30 seconds.
+
+We’re thrilled to announce Lightning payments within Fold. Shop instantly, cheaply and privately at Amazon, Uber, Starbucks, REI and more. Check it out at https://t.co/R44yPB5Fa6 #reckless pic.twitter.com/m2SSQK0wlH — Fold (@fold_app) July 10, 2019
+
+“We believe that Bitcoin provides a fundamentally better way to pay, one that preserves privacy, resists censorship and is natively global. To this end, we build products that make spending bitcoin a no-brainer, making it as easy to use, rewarding and widely accepted as a credit card,” Reeves wrote in a company statement.
+
+Fold will not charge fees for the service, but expects to receive a margin of the transaction from merchants for bringing in new customers. The company “generates revenue,” ands is “not venture reliant,” Reeves said.
+
+The startup is currently being incubated by thesis.co, a venture production studio, and has “thousands of users, with tens of thousands in transaction volume across the globe,” said Reeves. Though he said the majority of users are based in the United States.
+
+The firm previously unveiled “Lightning Pizza,” a service to order Domino’s pizza through the lightning network in February.
+
+Going forward, the company will introduce a product update that will provide ways for Fold clients to earn bitcoin by using the app.
+
+Online shopping image via CoinDesk archives

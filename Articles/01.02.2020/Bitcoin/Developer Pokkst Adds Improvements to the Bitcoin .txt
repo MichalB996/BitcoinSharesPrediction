@@ -1,0 +1,51 @@
+DATE:  01.02.2020, 03:30:49
+TITLE: Developer Pokkst Adds Improvements to the Bitcoin Cash Java Library Bitcoincashj
+URL:   https://news.bitcoin.com/developer-adds-improvements/
+
+Developer Pokkst Adds Improvements to the Bitcoin Cash Java Library Bitcoincashj
+
+On January 30, the software developer Pokkst published a blog post sharing his experience of how he’s been maintaining the Java BCH library bitcoincashj for the last 10 months. At one time Pokkst used to develop BTC applications, but then switched to working with BCH in March 2019. The programmer explained how he put a lot of work into the bitcoincashj library after forking it from Mike Hearn’s original bitcoinj implementation.
+
+Also read: Cashfusion Far More Practical Than Other Coinjoin Protocols, Says Data Analyst
+
+Software Developer Pokkst Adds a Number of Improvements to the Bitcoincashj Java Library
+
+This week BCH supporters read a blog post from the developer Pokkst who explained he’s been working on the Java implementation for the Bitcoin Cash (BCH) protocol (bitcoincashj) over the last 10 months. Pokkst is a programmer who used to write applications for BTC but in March 2019 he switched to developing BCH applications. At the time, in a blog post called “Why I’m moving to BCH,” Pokkst said that he liked innovation and had “high hopes” for the Lightning Network. “Unfortunately, the Lightning Network is an over-engineered mess,” Pokkst stressed. “Trying to walk someone through depositing Bitcoin to a wallet, opening a channel and routing the payment through the network, then explaining why larger payments do not route well will kill adoption of the Lightning Network.”
+
+Since then, Pokkst has been very active within the BCH community and he has developed a number of applications. During the last week of March 2019, news.Bitcoin.com reported on Pokkst’s photo gallery application that makes a BCH wallet look like a smartphone photo folder. The developer also released the Crescent Cash (CC) wallet which became the third BCH light client to adopt the Cash Accounts protocol.
+
+In April 2019, CC added Simple Ledger Protocol (SLP) token support. The following month, Pokkst implemented a new feature to CC that allows people to send bitcoin cash through a text message. Pokkst is also known for his work on the platform Tipbitcoin.cash, a tool that gives anyone the ability to tip their favorite streamer on Twitch using bitcoin cash. In addition to all the applications and wallets, the developer also worked on bitcoincashj, a Java implementation for Bitcoin Cash.
+
+“I like Java for programming — For me, it’s easy to develop quick prototypes for. It’s also the language used for Android apps,” Pokkst wrote on the read.cash platform on Thursday. “Because of this, I liked using bitcoinj when developing BTC applications back in the day.” The software developer added:
+
+Since I wanted to port my existing apps over to Bitcoin Cash, I needed an active bitcoinj library for Bitcoin Cash. I looked at bitcoinj.cash but by the time I moved to Bitcoin Cash, the maintainer for this fork moved to BSV.
+
+BitcoincashJ Sees 7 Completed Improvements Over the Last 10 Months
+
+Pokkst added that the fork had what he needed but he had to polish a few issues with the codebase. He explained that it had outdated DNS seed issues and problems with Canonical Transaction Ordering (CTOR). So the developer worked with another programmer who helped make the bitcoincashj library compatible with CTOR. However, the other developer introduced other problems to the codebase so Pokkst “tweaked his algorithm a bit and implemented it into more places within the bitcoincashj system. Now it’s working flawlessly as far as I know.” The developer said he also updated other portions of the bitcoincashj library like adding the standard BCH derivation path, Cash Account sending support in SendRequest.java, native Cash Account registration, and UTXO management in SendRequest.
+
+The engineer said he’s also been working on the fun part, by implementing the Simple Ledger Protocol (SLP) framework into the bitcoincashj library. With all the changes Pokkst has done over the last 10 months the programmer has added:
+
+CTOR support
+
+32MB block support
+
+Native Cash Account integration (trustless registration and sending)
+
+SLP tokens
+
+Standard BIP44 derivation (m/44’/145’/0′ for BCH, m/44’/245’/0′ for SLP)
+
+UTXO management when sending coins using SendRequest.utxos
+
+Up-to-date hardfork checkpoints
+
+During the last two years, BCH has seen a number of implementations and clients that leverage different programming languages. Pokkst said that he plans to continue maintaining the bitcoincashj implementation going forward. “I do not intend to stop maintaining this fork, but it is very tiring work to make sure it stays up-to-date,” the developer concluded. Following the statement, the software developer remarked that he added an address to the README.md so BCH supporters can donate to help keep his project going.
+
+What do you think about all the improvements Pokkst has done to the Java implementation of the Bitcoin Cash? Do you think a variety of different BCH libraries and implementations are important to the Bitcoin Cash ecosystem? Let us know what you think about this topic in the comments section below.
+
+Disclaimer: This article is for informational purposes only. It is not an offer or solicitation of an offer to buy or sell, or a recommendation, endorsement, or sponsorship of any products, services, software or companies. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.
+
+Image credits: Shutterstock, Twitter, bitcoincashj, Fair Use, Wiki Commons, and Pixabay.
+
+Did you know you can buy and sell BCH privately using our noncustodial, peer-to-peer Local Bitcoin Cash trading platform? The local.Bitcoin.com marketplace has thousands of participants from all around the world trading BCH right now. And if you need a bitcoin wallet to securely store your coins, you can download one from us here.

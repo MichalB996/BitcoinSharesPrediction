@@ -1,0 +1,29 @@
+DATE:  14.01.2019, 20:50:15
+TITLE: BCH Developer Unveils Xthinner Scaling Protocol – Claims to Compress Blocks by 99%
+URL:   https://news.bitcoin.com/bch-developer-unveils-xthinner-scaling-protocol-claims-to-compress-blocks-by-99/
+
+BCH Developer Unveils Xthinner Scaling Protocol – Claims to Compress Blocks by 99%
+
+On Sunday, Bitcoin Cash (BCH) developer Jonathan Toomim unveiled a project he’s been working on called Xthinner, a new block propagation protocol that leverages the benefits of lexicographic transaction ordering (LTOR). According to Toomim’s data, Xthinner can compress blocks by 99.6 percent and performs roughly 4x to 6x more efficiently than block propagation concepts like Compact Blocks and Xthin.
+
+Also read: Venezuelan BCH Proponents Bolster Cryptocurrency Use Cases and Adoption
+
+Xthinner Could Compress Blocks by More Than 99%
+
+Miner and programmer Jonathan Toomim has announced a new block propagation program he’s been working on recently. Toomim first discussed his new concept called Xthinner this past September, in order to exemplify the advantages of the Bitcoin Cash network’s lexical transaction ordering system often referred to as LTOR. In the developer’s recent Medium post, Toomin shows how Xthinner thinned out blocks significantly utilizing “this one weird trick.” On Sunday, Jan. 13, Toomim unveiled his project to the BCH community on Reddit and explained that Xthinner can handle strenuous network conditions.
+
+“Xthinner is a new block propagation protocol which I have been working on that takes advantage of LTOR to give about 99.6% compression for blocks, as long as all of the transactions in the block were previously transmitted,” Toomim detailed on the Reddit forum r/btc. “That’s about 13 bits (1.6 bytes) per transaction — Xthinner is designed to be fault-tolerant, and to handle situations in which the sender and receiver’s mempools are not well synchronized with gracefully degrading performance.”
+
+Toomim’s analysis further explains that if each transaction was around 400 bytes and the block was 500MB, it could be encoded into 1.9MB of data or a “99.618% reduction in size.” Interestingly, the Bitcoin Core (BTC) and Bitcoin Satoshi’s Vision (BSV) networks cannot utilize the Xthinner concept. Toomim explained that both protocols would need to upgrade in order to reap the protocol’s compression benefits. “BTC also lacks CTOR/LTOR, which means [it] won’t work as well and would require substantial modifications to work at all,” Toomim remarked on the forum. The BSV network does not have lexicographic transaction ordering capabilities either, making Xthinner unobtainable to BSV developers.
+
+Blocktorrent: B reaking Blocks Down Into Fractions of Independently Verifiable Chunks of Data
+
+Toomim also detailed that once he’s finished Xthinner he intends to develop his project Blocktrorrent. As the name suggests, Blocktorrent leverages similar transmission techniques to the Bittorrent protocol. The developer detailed that Blocktorrent breaks blocks down into fractions (1500 bytes) of independently verifiable chunks for transmission. Toomim emphasized that just like Bittorrent was much faster than centralized services like Napster, Blocktorrent should outpace Xthinner’s performance. The Blocktorrent system will give nodes the ability to forward each IP packet shortly after that packet was received.
+
+“This should dramatically improve the bandwidth utilization efficiency of nodes during block propagation, and should reduce the block propagation latency for reaching the full network quite a lot — my current estimate is about 10x improvement over Xthinner,” Toomim added.
+
+The BCH community seemed very pleased with Toomim’s Xthinner and Blocktorrent announcement as it quickly became one of the hottest posts on the forum. Over the last 24 hours, enthusiasts and fellow developers have been discussing the merits, trade-offs, and possibilities afforded by Toomim’s latest projects.
+
+Image credits: Twitter, and Shutterstock.
+
+Express yourself freely at Bitcoin.com’s user forums. We don’t censor on political grounds. Check forum.Bitcoin.com.

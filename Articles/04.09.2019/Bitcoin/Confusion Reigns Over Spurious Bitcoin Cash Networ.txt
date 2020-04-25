@@ -1,0 +1,33 @@
+DATE:  04.09.2019, 12:00:07
+TITLE: Confusion Reigns Over Spurious Bitcoin Cash Network Activity
+URL:   https://bitcoinist.com/confusion-reigns-over-spurious-bitcoin-cash-network-activity/
+
+Bitcoin Cash Bitcoin Cash Network Experiences Significant Problems From a $290 Attack
+
+A recently reported attack on the Bitcoin Cash network is causing a lot of confusion among the community. Some bizarre goings on with BCH transactions are raising questions about its viability as an alternative method of finance.
+
+Malicious Miners Or Something Else?
+
+A major influx of transactions recently recorded on the Bitcoin Cash network has raised eyebrows among the community. Mystery miners not belonging to any known pool reportedly throttled the blockchain so much that full blocks started to create a backlog.
+
+There were no reported stress tests scheduled and it took up to nine hours to clear the backlog according to an analysis of the spurious activity. Bitcoin Cash is known for having a larger block size than its bigger brother which is supposedly more efficient in terms of transaction times.
+
+During the ‘attack’ miners were able to produce 18 blocks per hour which is three times faster than they should be appearing. The analysis, which was uploaded to reddit, continued to state;
+
+It is important to note that persistent backlogs are a death-blow to the zero-conf concept, which requires predictable next block inclusion1. As long as there is no backlog, then a recipient can know that any transaction that pays the minfee will be accepted. Under conditions of backlog, this predictability is degraded, possibly fatally.
+
+In other words, this will impact the production of the next block and could bring the system to a grinding halt.
+
+Things have returned to normal since the spurious activity but it raises some important questions. Multiple low-fee transactions, which were broadcasted, could have been part of a wider dusting attack which targets the remnants of crypto coins left in user accounts. Litecoin wallets suffered a similar attack last month.
+
+Aside from the unexplained spike, transactions on the Bitcoin Cash network have actually stagnated this year along with its hash rate according to bitinfocharts.com. This mempool activity may have been an effort to inflate the transaction count but there would have been little to gain from it since the trend is pretty clear.
+
+Another explanation may be an increased in difficulty in propagating larger BCH blocks due bandwidth and storage limitations on network nodes. The ‘attack’ currently remains a mystery, but it has highlighted the vulnerabilities in the BCH network since 51% of the hash power came from unknown sources.
+
+Bitcoin Cash price was not affected by the backlog but has been in decline since late June dumping over 40% in the past two months.
+
+Is the BCH network still vulnerable to attack? Add your thoughts below.
+
+
+
+Images via Shutterstock, Bitinfocharts

@@ -1,0 +1,47 @@
+DATE:  17.04.2019, 15:10:35
+TITLE: Strong Evidence Suggests a Single Entity Mined More Than 1 Million Bitcoin
+URL:   https://news.bitcoin.com/strong-evidence-suggests-a-single-entity-mined-more-than-1-million-bitcoin/
+
+Strong Evidence Suggests a Single Entity Mined More Than 1 Million Bitcoin
+
+On April 16, RSK Labs chief scientist Sergio Demián Lerner published a new research study concerning the earliest blocks mined on the Bitcoin network. The report concerning one of Bitcoin’s earliest miners provides strong evidence to suggest that a single miner processed 22,000 blocks. Additionally, Lerner has released a new website called Satoshi Blocks that aims to help crypto enthusiasts visualize mining during the protocol’s earliest days.
+
+Also read: Are You Ready for What Happens If Satoshi’s Coins Move?
+
+New Data Stemming from Bitcoin’s Earliest Miners Hardens Prior Evidence
+
+Years ago, independent researcher and cryptographer Sergio Demián Lerner released one of the most in-depth studies concerning Bitcoin’s earliest mining periods. According to his first study published on April 17, 2013, the vast majority of the initial BTC mined was done by a single miner. Moreover, Lerner produced data sets from his blockchain analysis that tracked the extranonce fields within the coinbase field stemming from the coinbase transactions themselves. At the time Lerner estimated that the miner was able to gather precisely 1,814,400 BTC. In addition to this large number of mined coins, 63% of those coins, or 1.1 million, have never been spent since the day they were created.
+
+Fast forward to six years later and Lerner has published another rigorous study that provides an even stronger argument that backs his prior claims. The latest paper, called “The Return of the Deniers and the Revenge of Patoshi,” at first discusses Lerner’s original study and how he originally came to his previous conclusion. Lerner detailed how he found the information in the extranonce field and how certain flaws revealed information in a “non-privacy preserving way.”
+
+Lerner’s paper then discusses the single miner who has been dubbed ‘Patoshi’ and describes how he was able to find the miner’s pattern. Lerner explains how a few people have accepted the existence of the Patoshi pattern, a few years on, yet believe multiple miners may have been synchronized or there was some form of an early mining pool in place since the genesis block. Lerner debunks these arguments with many reasons and by explaining various factors including:
+
+99.9% of all Patoshi blocks are unspent.
+
+Each Patoshi block “links” to a block in the pattern set, but not to any of the remaining blocks.
+
+There are some time intervals where the Patoshi pattern interrupts abruptly.
+
+Mining pools were invented several years later.
+
+Mining pools were created to reduce reward variance due to the low individual probability of solving a block, but during 2009 single miners could easily solve blocks frequently.
+
+By the end of 2013, Lerner said he had found proof “beyond any doubt, that the pattern was real, using a completely different method.” His latest study describes how he discovered that all of the blocks mined by Patoshi were identifiable by a depleted range of nonces used in processed blocks to a specific range. From 2014 to early 2019, Lerner didn’t have much more to add to his prior research and there were a few other studies published recently that suggest Patoshi only mined around 700,000 coins. However, Lerner’s latest study “proves with overwhelming probability” that a single miner extracted all of the coins in his Patoshi pattern, which is well over a million BTC. The researcher’s new argument is based on computer clocks because even in the early days miners used a local computer’s clock to timestamp blocks after processing them.
+
+“If you’ve studied the Bitcoin protocol, you’ll know that block timestamps are not necessarily monotonically increasing,” Lerner writes. “This is true from the Bitcoin source code 0.1.0 to the latest version of Bitcoin Core that had an internal miner (before mining pools were created).”
+
+Clocks and Timestamps
+
+Some of the latest evidence Lerner provides also concerns why he strongly believes the single miner extracted close to 1.1M coins, which is even more than the initial 1M BTC discovered by Lerner years ago. For instance, Lerner states that “computer clocks can be unsynchronized from each other,” “timestamps were not updated continuously during mining,” and “block timestamps are adjusted by the Bitcoin software to match the median time of the peers that are connected to a node.” Because of these reasons, the study notes that the same computer will almost never reverse its own timestamps and “the delta between inverted block timestamps indirectly measures the hashrate of the parent block miner.”
+
+“There are no time inversions between Patoshi blocks — Zero — This result is very relevant considering the Patoshi blocks account for 43% of all the blocks in the first 50k. I’m open to considering other explanations, but for me, this can only mean one thing — There is a single PC clock whose time is stamped in the Patoshi blocks.” Lerner’s paper continues:
+
+A single software that controls how block templates are created — A single miner.
+
+The RSK Labs chief scientist concludes that there is evidence that links the Patoshi patterns to Satoshi but he prefers to stop there and “leave Patoshi alone once for all.” Lerner believes the evidence he provided is reliable but he expects more people to deny the information in forums. Lerner also infers that he has discovered a more precise figure and coded a more accurate pattern-following algorithm which can be viewed on his new site satoshiblocks.info.
+
+Do you think the Patoshi pattern belongs to Satoshi? Do you believe a single miner mined over 1.1 million BTC during the network’s earliest days? Let us know what you think about this subject in the comments section below.
+
+Image credits: Shutterstock, Sergio Demián Lerner’s blog Bitslog.com, Pixabay, and Satoshiblocks.info.
+
+Not up to date on the news? Listen to This Week in Bitcoin, a podcast updated each Friday.

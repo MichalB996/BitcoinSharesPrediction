@@ -1,0 +1,54 @@
+DATE:  30.11.2019, 09:10:00
+TITLE: The Mechanics of Market Manipulation
+URL:   https://www.coindesk.com/the-mechanics-of-market-manipulation
+
+Galen Moore is Senior Research Analyst at CoinDesk. The following article originally appeared in Institutional Crypto by CoinDesk, a weekly newsletter focused on institutional investment in crypto assets. Sign up for free here.
+
+The levers are there to move hundreds of millions in crypto markets, and they're clearly labeled
+
+On May 17 of this year, bitcoin's price dropped suddenly. The action started on a single exchange: Bitstamp, domiciled in Luxembourg, where the dollar price of bitcoin suddenly dropped more than 18 percent in a matter of minutes. The CoinDesk Bitcoin Price Index, a composite of several market feeds, recorded a 6 percent drop as a result.
+
+Bitstamp was, at the time, one of three spot markets used as equal components in the bitcoin price index for BitMEX, a crypto derivatives exchange domiciled in the Seychelles that operates one of the most liquid bitcoin derivatives markets, the XBT/USD perpetual swap. BitMEX's other two bitcoin index components are Coinbase Pro and Kraken. Of the three, BitStamp's reported volumes are lowest.
+
+The BitStamp price drop wasn't random. It was caused by a large bitcoin sell order, placed well below the market. The resulting downward pressure triggered auto-liquidations of long positions in the hundreds of millions of dollars on BitMEX. Traders with short positions on the exchange stood to benefit.
+
+In this column, I'll provide a visual blow-by-blow of what happened May 17 on BitStamp, and a risk/return estimate: if it was manipulation, how much it cost, and how much the manipulators earned. I'll conclude with thoughts on the liquidity imbalance that caused it, and how it might happen again.
+
+Before getting into that, I'll explain briefly how novel structures and thin markets could make such manipulation possible.
+
+Novel market structures
+
+In crypto markets, it's normal for investors to interact directly with the exchange – an ethos derived from bitcoin, which invites its users to transact pseudonymously, without intermediaries. On derivatives exchanges, accommodating this requires a rethinking of market structure.
+
+On traditional derivatives exchanges, brokers and clearinghouses manage the risk that a large price move will bankrupt one side of a trade. All participants have an incentive to make good at settlement, so they can trade again tomorrow. On the largest crypto derivatives exchanges, it is possible to trade directly under one account today and another tomorrow. This unfettered access and pseudonymity is part of the story of these exchanges' rise to become the most liquid markets in crypto.
+
+To cover settlement risk, BitMEX and other large crypto derivatives exchange operators use auto-liquidiation. For example, if the index price drops far enough below an open long position, the exchange automatically liquidates that position, to settle the trade. Excess proceeds from auto-liquidations are stored in an insurance fund. If auto-liquidation falls short of settlement, the insurance fund kicks in. If the insurance fund's earmark falls short, auto-deleveraging occurs, unwinding both sides of the trade.
+
+Thin markets
+
+Liquidity is a subjective term, meaning an investor's ability to move a reasonable volume of an asset, without an undue price shift. It is related to market depth, measured by the worst price an order will hit at a certain size limit.
+
+In crypto, market depth is fragmented among dozens of the largest exchanges, and hundreds more in the long tail. Even in crypto's blue-chip assets, bitcoin and ether, pools of liquidity are scattered, which makes them more shallow. This situation may be worsening. Bitcoin's bid-ask spreads have widened on most of the largest exchanges in 2019, indicating decreasing market depth according to one tracker of composite data.
+
+Exchanges that are part of price discovery infrastructure are thin enough that a large-ish order will move the price. And, as we will see below, derivatives markets can be far more liquid than the spot exchanges that help determine the price of their underlying assets.
+
+What happened May 17
+
+The chart above presents a second-by-second account of what happened on the Bitstamp BTC/USD spot market in the early morning hours of May 17, UTC. Each point on the chart is the minimum, or best, ask price offered in each minute's snapshot of orderbook data, which is provided by CoinRoutes. The size of the point indicates the quantity of the order.
+
+The action began at 3am UTC, with a sell order roughly 6 percent below the market price and hundreds of times larger than the norm on the exchange at that time. As that order fulfilled available bids, the ask price moved lower, dragging the market price down until it reached $6,276, at which point the selling stopped. A chronological calculation shows the sellers sold about 2,905.7 units of bitcoin, in aggregate at about $2.5 million below what they would have realized at a bitcoin market price of $7,700. At the same time, over $200 million in long positions were being liquidated on BitMEX, according to skew.com. If it was manipulation, it returned up to an 80X multiple over what the manipulators put at risk. The whole thing was over in about 10 minutes.
+
+Update: Trader and Crypto Twitter denizen Mike Komaransky pointed out that while the potential return of the May 17 flash crash's impact on the derivatives market was about 80X the capital apparently deployed into the underlying spot market, the profit to any manipulators involved in the crash would be more likely on the order of a 2X multiple, depending on their willingness to lever up on BitMEX. I've left my not-very-thorough math as is, above, and add Komaransky's math, below.
+
+Conclusions
+
+Bitcoin's network security model is a fairly straightforward bit of rational choice theory: miners are rewarded for recording new transactions. To earn the reward, they must prove they have committed something of value, i.e., energy. If a miner attempts to manipulate the transaction record, other miners will likely reject the contribution, invalidating the reward. The cost of manipulation and the likelihood of failure is balanced against the reward for expected behavior.
+
+Bitcoin programmatically maintains that balance, without recourse to identity verification or trusted third parties. However, the market structure that has evolved around bitcoin has so far failed to achieve a similar equilibrium.
+
+Not that folks haven't tried to patch the problem: BitMEX revised its bitcoin price index components in November, adding two new spot markets; Deribit, which at this writing operates the largest bitcoin options exchange, domiciled in the Netherlands, has promoted a different way of handling liquidations. As long as deep pools of liquidity remain dependent on shallow pools, bitcoin's market structure will be out of balance – and manipulators will have incentives to find ways around these patches.
+
+
+
+
+

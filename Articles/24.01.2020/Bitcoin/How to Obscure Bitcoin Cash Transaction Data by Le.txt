@@ -1,0 +1,41 @@
+DATE:  24.01.2020, 21:52:43
+TITLE: How to Obscure Bitcoin Cash Transaction Data by Leveraging Cashfusion
+URL:   https://news.bitcoin.com/how-to-obscure-bitcoin-cash-transaction-data-by-leveraging-cashfusion/
+
+How to Obscure Bitcoin Cash Transaction Data by Leveraging Cashfusion
+
+Bitcoin Cash developers recently released the alpha software for Cashfusion, a privacy-preserving feature added to the Electron Cash wallet. During the last week, crypto proponents and developers have been testing the protocol regularly in order to find issues and provide the Cashfusion team with feedback. News.Bitcoin.com tested the alpha version of Cashfusion so readers can get a glimpse at how the feature works and how you can fuse transactions on your own.
+
+Also read: How to Create Custom SLP Tokens With the Bitcoin.com Mint
+
+Cashfusion Privacy: A New Realm of Transaction Anonymization
+
+BCH privacy is of great importance to Bitcoin Cash proponents and the Cashshuffle platform gathered a lot of traction since its inception. Following the Cashshuffle release, developers started working on a project that would greatly improve coinjoin-based transactions making them more private. With Cashshuffle, blockchain analysis could possibly uncover clues to where shuffled funds originally derived from when users consolidate shuffled funds. The BCH supporter “Bigblockiftrue” wrote a comprehensive report on the issue with Cashshuffle when he tracked the shuffled 300 BCH donation to Bitcoin Unlimited. “To get better Cashshuffle privacy yourself, you can avoid combining inputs into a single transaction. For a long-term user-friendly solution,” Bigblockiftrue noted at the time. “We will likely need some extension of the Cashshuffle concept to allow private consolidation of multiple inputs, for example, Cashfusion,” he added.
+
+The difference between Cashfusion and traditional coinjoin schemes is how Cashfusion does not have equal amount requirements for shuffling. “Cashfusion is actually the fusion of two powerful ideas,” Cashfusion developer Jonald Fyookball stressed. “One is a contribution from myself, which is (in a nutshell): enable trustless, private, multi-input coinjoins with blame capabilities by using a commitment-based multiparty computation scheme.” Fyookball emphasized that the second part of the fusion stems from the software engineer Mark Lundeberg’s innovation.
+
+“In Cashfusion, we have opted to abandon the equal-amount concept altogether. While this is at first glance no different than the old naive schemes, mathematical analysis shows it, in fact, becomes highly private by simply increasing the numbers of inputs and outputs,” Lundeberg underscores in the Cashfusion specifications. “For example, with hundreds of inputs and outputs, it is not just computationally impractical to iterate through all partitions, but even with infinite computing power, one would find a large number of valid partitions.”
+
+How to Leverage Cashfusion: A Step-by-Step Guide Using the Electron Cash Wallet
+
+Since Cashfusion’s alpha was released, a number of crypto supporters and developers have experimented with the application. In order to obtain a copy of the Cashfusion alpha release, individuals need to join the Cashfusion Telegram chat group to find the software for Windows, Linux, and Mac OS. The following is a step-by-step walkthrough for people interested in testing the Cashfusion platform and fusing their own BCH transactions.
+
+After obtaining the link to a specific copy of Electron Cash with Cashfusion support, you need to install the application which is around 40MB in size. For this specific walkthrough, we downloaded the Mac OS version of Cashfusion developed by Electron Cash programmer Calin Culianu. After the installation completes, you need to start a new wallet or use an existing Electron Cash wallet (New/Restore).
+
+If you choose to create a new wallet, you also have to deposit some BCH into the wallet in order to fuse some UTXOs. When you have the alpha version of Electron Cash running with funds deposited, the next step is to turn on the Cashfusion feature. In order to do so, simply select the “tools” window and select “optional features.” At this point, you will see the option to toggle Cashfusion on or off at any point in time.
+
+Once you turn Cashfusion on, at the bottom right side of the wallet window will be a green or red network circle. If the circle is red then you are not connected to the internet and may need to connect. After the wallet is online, simply double click the network circle which will reveal another network settings window. From here, you want to select the proxy settings and you will want to turn on Tor. The Cashfusion version of the Electron Cash (EC) wallet supports the Tor network which adds another element of privacy to the fused transaction. In the proxy window, select “start integrated Tor client” and make sure the Tor proxy is selected as well. After turning on Tor, the network circle at the bottom right side of the wallet should now be blue. After the Tor network is working with the wallet, shut off the Cashshuffle toggle switch in the EC client.
+
+Then double click the Cashfusion symbol which is located to the left of the Cashshuffle symbol. Select “Cashfusion settings” and make sure the Tor client is connected and make sure that the “SSL” setting is not selected or shut off. If you followed all of these steps and there’s a fraction of BCH stored in the EC wallet, then you are ready for the Cashfusion process.
+
+The wallet’s main window will show you the funds are being prepared for the fusing process and you might have to wait a while in order to fuse a transaction. While experimenting with Cashfusion it took me around an hour to fuse 0.01440652 BCH. You can select the Cashfusion settings again and watch the fusion progress by selecting the utility window called “fusions.” The utility window will tell you that you are queued in line or whether or not you are able to connect to people fusing transactions.
+
+My test transaction of 0.01440652 BCH finally fused and a block explorer had shown there were 37 inputs and 79 outputs within the transaction data. Transaction signatures were also Schnorr signed and the funds fused with roughly $17.60 worth of bitcoin cash. The fused funds I had used were already shuffled using the Cashshuffle platform a few months prior. Overall, the Cashfusion feature for the EC client is fairly simple to use after following a few directions at least once. If you already have a grasp using Cashshuffle, then utilizing Cashfusion should be a breeze. The wait time for a fusion can be long, but if more people participate, then time frames between fuses should shrink. When news.Bitcoin.com first tested the Cashshuffle platform, the wait time was similar during the early testing phases. The trick is to be patient and simply let the wallet sit running in the background in order to prepare for the Cashfusion process and before you know it, you will notice that you’ve fused your first BCH transaction. For a step-by-step walkthrough that covers the Cashshuffle process, check out this article here.
+
+What do you think about the Cashfusion protocol for the Electron Cash wallet? Let us know what you think about this subject in the comments section below.
+
+Disclaimer: Readers should do their own due diligence before taking any actions related to the mentioned software. The software mentioned in the article above is in its alpha stage which could be buggy and have issues. Bitcoin.com or the author is not responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, software or services mentioned in this article. This editorial review/guide is for informational purposes only.
+
+Image credits: Shutterstock, Fair Use, Electron Cash Wallet, Cashfusion logo, and Jamie Redman.
+
+Did you know you can buy and sell BCH privately using our noncustodial, peer-to-peer Local Bitcoin Cash trading platform? The local.Bitcoin.com marketplace has thousands of participants from all around the world trading BCH right now. And if you need a bitcoin wallet to securely store your coins, you can download one from us here.

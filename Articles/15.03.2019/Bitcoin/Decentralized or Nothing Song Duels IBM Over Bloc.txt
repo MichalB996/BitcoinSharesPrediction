@@ -1,0 +1,79 @@
+DATE:  15.03.2019, 09:00:02
+TITLE: Decentralized or Nothing: Song Duels IBM Over Blockchain Hype at SXSW
+URL:   https://www.coindesk.com/decentralized-or-nothing-song-slams-ibm-over-blockchain-hype-at-sxsw
+
+More or less decentralized? For Jimmy Song, there’s no in between.
+
+An author and Bitcoin Fellow at venture firm Blockchain Capital, Song made that point repeatedly in a debate with IBM engineer and Hyperledger Fabric co-lead Chris Ferris at SXSW Thursday, where he told the crowd at the Hilton Austin in no uncertain terms: “You either have control over your stuff or you don’t. It’s a zero or a one.”
+
+The debate pitted permissioned blockchains – the private networks being pitched to big business – against permissionless blockchains – the technology undergirding bitcoin and other open-source networks. Billed as a “deathmatch” on the festival agenda, Song was determined to give the audience what they came for.
+
+“Why do you need permission if it’s supposed to be decentralized?” he asked. “There has to be an entity that’s giving you permission, and that’s by definition centralized.”
+
+While Song took the binary view of decentralization, Ferris argued that blockchains can exist on a spectrum. Sure, permissioned blockchains are less decentralized, Ferris said, but their added trust mechanisms mitigate perceived risk.
+
+“Permissionless blockchains do not necessarily solve the problem of trust,” he added.
+
+Song wasn’t having it. To illustrate the degree to which he was willing to extend his point, Song used the example of the ethereum fork following the infamous hack of The DAO, when the project’s developers and users agreed to introduce a code update aimed at rolling back the stolen funds.
+
+“I think Ethereum is a permissioned blockchain,” Song said, adding:
+
+“When Vitalik says, ‘These particular transactions aren’t particularly good for the ecosystem so we’re going to roll them back,’ that, to me, is a permissioned blockchain.”
+
+On stage and in conversation with CoinDesk beforehand, Song argued that every application of blockchain to anything but bitcoin is a waste. “Blockchain is really useful for bitcoin,” he said during the debate. “Everything else has a central point of failure.”
+
+Prior to the debate, Ferris told CoinDesk that he hoped he could make the point that there’s just different use cases for different kinds of blockchains, and those use cases should determine what level of decentralization should be called for.
+
+“Certainly part of the conversation will be that bitcoin doesn’t solve the same problems we are trying to solve in an enterprise context,” Ferris told CoinDesk.
+
+IBM, he explained, is primarily building products that allow large enterprise partners to share information rather than exchange money. For example, today Big Blue announced a deal to record information about businesses’ legal status across France. Trying to find some common ground, Ferris argued there’s space for the approaches of both sides.
+
+“I think there are a ton of use cases where permissioned blockchains make a ton of sense,” Ferris said. “I also think there’s a ton of use cases where a permissioned blockchain doesn’t make any sense.”
+
+But Song didn’t come to accept concessions. He said all the blockchains besides bitcoin’s might as well just run on a faster, cheaper centralized database.
+
+“A permissioned blockchain is an oxymoron because it’s a centralized database that’s masquerading as something decentralized,” Song said.
+
+The exchange case
+
+The QuadrigaCX exchange debacle captured the difference between the two positions better than any other part of the debate.
+
+The Canadian exchange’s owner died and lost $190 million worth of cryptocurrency when it turned out he was the only person with access to the system’s private keys. Both Song and Ferris saw a disaster and yet came to very different conclusions about it.
+
+Ferris brought up Quadriga late in the debate by first saying, “The whole point of permissioned blockchain, enterprise blockchain, is reducing risk,” he said.
+
+It’s a system where every major user of the protocol knows everyone else. “We can put a governance model over that and legal framework around that says: ‘If you do something to disrupt the system, we’ll sue the pants off you and you’ll regret that,'” Ferris said.
+
+Song saw that as precisely the problem. If it’s possible for a governing body to step in and punish the operators of a platform, then to Song that defeats the fundamental point of decentralization.
+
+Ferris saw Quadriga as an illustration of the fundamental user experience problem of permissionless systems because it illuminates dramatically how bitcoin doesn’t have a fallback if private keys are lost.
+
+But Song saw that as its virtue:
+
+“You are either self-sovereign or you are not.”
+
+Bitcoin Core
+
+Bitcoin does have its powerful authorities, though, a point that was argued by the debate’s mediating presence, Angela Walch, a professor at St. Mary’s University School of Law.
+
+“I am struggling with how bitcoin doesn’t have similar centralization of power with the core developers,” she said.
+
+Walch used the example of the inflation bug disclosed in September 2018, in which developers originally minimized its true implications prior to pushing the fix.
+
+“They list a total of 11 people who knew about this. Those people made a decision about how they were going to fix this,” Walch said. “They told a few select miners at the beginning. That miner was given privileged knowledge.”
+
+She used the point to argue that bitcoin’s core developers have outsize power in the network. Users had to trust, for example, that none of those leaders who knew wouldn’t short bitcoin in advance of the ultimate disclosure. “I’m arguing those people were exercising centralized power,” she said.
+
+Song countered by saying that Bitcoin Core is not the only bitcoin software and it’s open source, run under an MIT license that warns everyone to use it at their own risk. If something is wrong with the bitcoin software, users should be able to find that and report it.
+
+“If the goal is to get mass adoption, for hyper-bitcoinization,” Walch said, “Ninety percent of the people are not going to understand how the code works, so just saying it’s open source is not an out.”
+
+Ferris took this point further and pointed out that there is a very small number of people who are maintainers of bitcoin code, alleging that if something happened to all of them it would yield chaos.
+
+Ultimately, the debate circled back at that point to another round on sovereignty. Should users be made collectively responsible for making sure core maintainers aren’t malicious or should they use the state as a fallback?
+
+“You are speaking about regulation and governance frameworks as if it’s a bad thing,” Ferris began.
+
+Song cut him off, saying, “A lot of the time it is.”
+
+Jimmy Song image via CoinDesk archives

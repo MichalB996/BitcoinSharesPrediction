@@ -1,0 +1,65 @@
+DATE:  11.05.2019, 19:00:00
+TITLE: HTC Says Its Next Smartphone Will Run a Full Bitcoin Node
+URL:   https://www.coindesk.com/htc-says-its-next-smartphone-will-run-a-full-bitcoin-node
+
+Mobile phone manufacturer HTC wants to let its smartphone customers plug into the bitcoin blockchain.
+
+Speaking on Saturday at the Magical Crypto Conference in New York, HTC’s Phil Chen revealed a new low-cost version of its blockchain phone, the EXODUS 1s, announcing that the device will be capable of acting as a full node for the bitcoin network, meaning customers will store the entire blockchain’s data on their devices.
+
+The company will also provide a software development kit (SDK) available for its Zion Vault, HTC’s crypto wallet app, and eventually plans to open-source the code behind its social key recovery mechanism.
+
+Phil Chen, HTC’s decentralized chief officer, told CoinDesk that the company is targeting a release by the end of Q3.
+
+“[The 1s is] going to be a lot cheaper, it will be a lot more accessible,” he said. The device will retail for between $250 and $300.
+
+Specifications have not yet been released for the device.
+
+The 1s will be based on the HTC EXODUS 1, which was announced at CoinDesk’s Consensus 2018 and released later in the year. While customers could initially only purchase the device with crypto, HTC opened up fiat payment options in February.
+
+Full node
+
+The most striking promise of the 1s will be its ability to run a full bitcoin node. Chen explained that the company saw that as “a really important piece of the pie” for the bitcoin ecosystem.
+
+“We think that’s foundational to the whole decentralized internet and just the whole fundamental premise,” he said. “If you don’t own your keys, you don’t own your bitcoin, you don’t own your crypto.”
+
+The EXODUS 1 was designed to let users maintain their own private keys, which in turn formed the basis for this next move, Chen said.
+
+He believes that from a technological standpoint, smartphones today are physically capable of handling the effort, noting that computing chips and storage media are constantly becoming cheaper and more efficient.
+
+“We expect that phones will be powerful enough,” he contended, adding:
+
+“The bitcoin blockchain is about 200 [gigabytes], and it’s growing about 60 gigs per year. And those numbers are reasonable to hold on a smartphone. Imagine the iPod with 256 gigs … of course the music fan wants to keep the whole music library but the crypto fan wants to keep the whole bitcoin blockchain.”
+
+By letting users run full nodes, HTC is giving them the ability to verify data themselves, he said.
+
+“[You can] be a part of the bitcoin revolution by contributing to the security of the whole network,” said Chen.
+
+That being said, the EXODUS 1s will still be capable of conducting normal smartphone operations, with room for music, videos, pictures, apps and dapps.
+
+Other blockchains?
+
+HTC plans to support the bitcoin blockchain at launch, but Chen did not rule out adding support for other networks. The chief considerations include how much memory and bandwidth other networks would require, he explained.
+
+“I think running light nodes, like ethereum for example, is definitely doable, [but] it all depends on the spec,” he said.
+
+The company also plans to focus on public blockchains, which Chen believes are far easier to support than private networks. That said, HTC is not planning on adding support for any other networks explicitly at this time.
+
+“I see bitcoin as one of the most important if not the most important blockchains,” he said. “We definitely want to support that first and given what bitcoin stands for, open, neutral, censorship-resistance.”
+
+He also noted that bitcoin is “the most proven” network, and supporting it was at least a little symbolic as well.
+
+Once HTC is able to launch the 1s, Chen expects that his team will be able to apply the experience from supporting a bitcoin node to other networks.
+
+Ecosystem construction
+
+Its new 1s falls in line with HTC’s goal of contributing to the broader crypto ecosystem.
+
+Demand from the EXODUS has been “in track” with HTC’s expectations, Chen said. However, the company is still soliciting feedback from the community. To that end, HTC is publishing its Zion Vault SDK for developers and ultimately plans to make its social key recovery mechanism available for other wallets to utilize (though there is no set timeline for this last part).
+
+The company is also continuing to support its existing EXODUS 1 product, adding an Etherscan widget for customers to explore the ethereum blockchain and support for further non-fungible tokens.
+
+Chen said the company would continue to develop products for the line, targeting a user-focused experience.
+
+“I think people who really care about the public blockchain space see the role we play in this ecosystem. We’ve gotten a lot of support from developers and we’re very authentic about empowering developers,” he said.
+
+Image via Magical Crypto Conference

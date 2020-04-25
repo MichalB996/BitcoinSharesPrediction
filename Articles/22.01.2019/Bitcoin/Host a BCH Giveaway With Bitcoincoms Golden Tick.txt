@@ -1,0 +1,33 @@
+DATE:  22.01.2019, 03:00:14
+TITLE: Host a BCH Giveaway With Bitcoin.com's Golden Ticket Software
+URL:   https://news.bitcoin.com/host-a-bch-giveaway-with-bitcoin-coms-golden-ticket-software/
+
+Host a BCH Giveaway With Bitcoin.com's Golden Ticket Software
+
+Have you ever thought about creating a cryptocurrency giveaway during a hosted event? Now you can create your own crypto-based sweepstakes with Bitcoin.com’s event paper wallet generator. With Bitcoin.com’s Golden Ticket program and open source code, the software allows anyone to develop fantastic tickets funded with bitcoin cash (BCH).
+
+Also Read: Peer-to-Peer Trading Platform Bitquick Implements Bitcoin Cash Support
+
+Create Your Own Bitcoin Cash Giveaway With Bitcoin.com’s Golden Ticket Software
+
+At Bitcoin.com we love to spread cryptocurrency awareness. In order to further grow adoption in a fun way this month, we decided to publish the open source Bitcoin.com Golden Ticket repository which can be found on Github. The code allows anyone with a light knowledge of terminal command prompts to create amazing giveaway tickets loaded with BCH. The Golden Ticket platform allows the creator to choose a custom mnemonic language or Hierarchical Deterministic (HD) key creation. But it also generates HTML, pdf, and a spreadsheet mapping of the Cashddr format, Privkey, and index the swept status of each golden ticket. Alongside this, the giveaway ticket creators can redeem unswept BCH after a certain period of time.
+
+Bitcoin.com’s Golden Ticket program requires the installation of Nodejs LTS version 8 and use of the computer’s terminal application to run command lines. After Nodejs has been added, the user simply clones the Golden Ticket Github repo and installs the dependencies. There are seven actions within the workflow, comprising generating a wallet, creating addresses, initiating a CSV, funding the mothership address, funding secondary addresses, generating stats, and lastly reclaiming the funds that were unswept.
+
+How to Create Custom Golden Tickets
+
+The first thing to do is generate a 256-bit mnemonic and BIP44 BCH address by typing “npm run generate-wallet” into the terminal. After that, you will be prompted to choose a language out of the eight available. If you don’t enter a language, the Golden Ticket program will default to English.
+
+Following this choice, you should choose an HD path. If nothing custom is chosen, it will default to the BIP44 account of your mnemonic: m/44’/145’/0′. From here you can choose a custom name for the giveaway ticket event or choose to leave it as is and let the name default to “Golden Ticket.” After the name is chosen, it will write to the owner’s mnemonic, HD Path, and the mothership address. The address, called the mothership, is the address an individual or organization funds in order to fund all the other generated addresses.
+
+After running the command line “npm run create-addresses” the program will prompt the creator for an event name, HD Account and an address count. You can verify the addresses created by typing “npm run create-csv” and follow this step by funding the mothership address. Our Golden Ticket program shows the mothership’s written alphanumeric address alongside a QR code that’s easy to fund. After the wallet is loaded, simply type “npm run fund-addresses” to begin adding bitcoin cash to the satellite addresses tethered to the mothership.
+
+From here, the lotto tickets can be printed on paper or card material in order to hand out at an event. After the event finishes, you can simply run the Golden Ticket software and enter “npm run generate-stats” into the terminal to generate basic stats about the event’s tickets. If a lot of people in the crowd decided not to sweep the bitcoin cash into a mobile wallet or desktop client at home, the mothership can have funds sent back after a certain period of time. If the creator wishes, the custom giveaway tickets can have a disclaimer on them explaining there is a time frame for redemption.
+
+Giveaways generate a lot of excitement and we think funded tickets with the best peer-to-peer cash system in the world go hand in hand with cool events. Bitcoin.com recently gave out a ton of Golden Tickets to participants at Liberty Con 2019 in Washington D.C. and the initiative was a great success. If you want to learn how to make your very own bitcoin cash-funded Golden Tickets then check out our repository for more instructions on installation and funding.
+
+What do you think about Bitcoin.com’s Golden Ticket software? Let us know what you think about this subject in the comments section below.
+
+Image credits: Bitcoin.com, Twitter, David L. Wolper, Creative Commons, and Nodejs.
+
+Want to create your own secure cold storage paper wallet? Check our tools section.

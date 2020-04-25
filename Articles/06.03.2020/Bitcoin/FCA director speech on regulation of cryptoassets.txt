@@ -1,0 +1,293 @@
+DATE:  06.03.2020, 11:29:00
+TITLE: FCA director speech on regulation of cryptoassets
+URL:   https://www.finextra.com/pressarticle/81738/fca-director-speech-on-regulation-of-cryptoassets
+
+Source: FCA
+
+Speech by Therese Chambers, Director of Retail and Regulatory Investigations at the FCA, delivered at The Advancement of Digital Assets and Addressing Financial Crime Risk, New York.
+
+Many thanks for inviting me to speak to you about 'digital assets' and preventing financial crime risks in this emergent market. In the UK, we have made the decision to refer to these as 'cryptoassets', which includes 'cryptocurrencies' such as Bitcoin, Litecoin or Ethereum and I will refer to them as such for the rest of this speech which focusses on cryptoassets only in the context of the UK’s Money Laundering Regulations (MLRs).
+
+
+
+I will cover:
+
+
+
+the origins of cryptoassets, how this influences the unique financial crime risks arising from this technology in the market today.
+
+moving from the technology itself to the regulation in the UK, and how we look to maximise the benefits of innovation while tackling these financial crime risks.
+
+how our approach differs from the regulatory landscape in the United States; I will touch on similarities and areas where there is scope for us to work together.
+
+
+
+The history of cryptoassets and how this influences the present
+
+
+
+Before Bitcoin, there were many other attempts to launch non-state backed forms of digital currency: Hash Cash, E-gold and Digicash just to name a few. Each of these were created in the same vein as Hayek’s denationalised money(link is external) and with echoes of the 19th century Free Banking Era(link is external) in the United States (US). Each of these Bitcoin predecessors envisioned a system of private currencies created by financial institutions who would control the issuance, supply and transactions of a digital currency.
+
+
+
+However, while each of these digital currencies utilised the internet to process transfers, they were generally operated by a centralised company or financial institution, with a physical headquarters and an identifiable CEO. The significant difference with Bitcoin, is apparent in its pseudonymous author, Satoshi Nakamoto’s opening line to a libertarian cryptography mailing list in 2008, with the subject 'Bitcoin P2P e-cash paper(link is external)':
+
+
+
+'I've been working on a new electronic cash system that's fully peer-to-peer, with no trusted third party.'
+
+
+
+While the lack of 'trusted third party' sounds unassuming, the concept of a digital value transfer without an identifiable intermediary, is a significant change from traditional financial services, where each transaction requires a retail bank, a payment processor and a currency issued by a central bank - also known as a fiat currency.
+
+
+
+In the whitepaper(link is external), the individual or individuals known as Satoshi Nakamoto advocates a system of electronic money based on decentralised cryptographic proofs, they (whoever it is) argues that:
+
+
+
+'A purely peer-to-peer version of electronic cash would allow online payments to be sent directly from one party to another without going through a financial institution. Digital signatures provide part of the solution, but the main benefits are lost if a trusted third party is still required.'
+
+
+
+Bitcoin was launched in 2008, seemingly to coincide with the global economic crisis. As most will remember, this was a time where the subprime mortgage crisis gripped the world’s markets. Shaking the institutional and intellectual framework of financial services to its core, as banks, governments and regulators such as ours attempted to stop an economic crisis from turning into an economic depression.
+
+
+
+One may infer that cryptoassets such as Bitcoin are not just another attempt to create a digital dollar or launch a FinTech app, but instead something far more radical. One can infer that these individuals sought to change our notion of 'trust' in traditional financial services. Shifting society away from centralised, financial services regulated by agencies such as ours, and towards decentralised peer-to-peer networks secured by cryptography.
+
+
+
+Cryptoassets are an attempt to rebuild the financial system from the ground-up, without the traditional financial institutional framework.
+
+
+
+The implications of this becomes clearer when we look at the main problems we often encounter when applying traditional financial crime regulatory enforcement strategies to cryptoassets.
+
+
+
+Lack of intermediaries: in most financial regulations and enforcement approaches, we apply regulations to the intermediary distributing a product or service. For example, the FCA doesn’t regulate currencies themselves. Instead, for Anti Money Laundering (AML) purposes, we regulate the intermediaries that deal in currency, such as a forex kiosk, and require these intermediaries to:
+
+
+
+conduct customer due diligence,
+
+undertake risk assessments, and
+
+monitor client’s activity.
+
+
+
+This model is common for AML regulation across the globe. While the exact implementation varies, most financial crime regulation requires that a financial institution knows their client, undertake risk assessments and monitor client activity. This requires an intermediary to undertake these checks and be responsible for implementing them. If something goes wrong we have a direct point of contact. Cryptoassets like Bitcoin are a peer-to-peer technology and the settlement goes through an anonymous network of computers. The absence of an intermediary to authenticate a transaction presents particular challenges when applying financial crime regulation, designed for a market with intermediaries, to areas of the cryptoasset economy.
+
+Cryptoassets are an attempt to rebuild the financial system from the ground-up, without the traditional financial institutional framework.
+
+
+
+Traditional financial transactions operate on permissioned networks while cryptoassets do not: In traditional financial markets, most services that facilitate value transfer operate on closed networks operated by a commercial entity (such as Swift). That entity vets all participants, checks them against sanctions lists, and performs due diligence before they can access the network. They require permission from a centralised entity that owns the service before they can transact. However, as there is not a centralised entity running most cryptoasset networks, as they rely on a peer-to-peer network of trust much like the internet itself, any individual can transfer funds to anyone without vetting or checks beforehand.
+
+
+
+While this is clearly an advance for financial inclusion, as anyone with an internet connection can generate a public and private key pair to operate an account - it also has a darker side. Without the right checks in place the open, public access of cryptoassets can lead them to become vehicles for global money laundering. We have seen this several times over the past decade with prominent examples, including:
+
+
+
+Silk Road, a darknet marketplace which facilitated the exchange of $1.2bn dollars of drugs, weapons and stolen identities from 2011 to 2013.
+
+BTC.e a cryptoasset exchange which laundered over $30m dollars of Bitcoin from illicit actors between 2014 and 2015.
+
+The Wannacry hackers, who in 2017 encrypted large portions of NHS’s computer system with ransomware that required a payment in cryptoassets to unlock.
+
+
+
+The risk of money laundering using cryptoassets is serious and real.
+
+
+
+Regulatory arbitrage: traditional financial regulation is applied at the national level. However, because most cryptoassets are permissionless digital networks, they are global by default. Businesses operating in this space only require access to the internet to function. This means that they can move across jurisdictions much more quickly than traditional financial firms. This also means that they can easily take advantage of any geographic weak spot in the world’s global regulatory framework. Which is why we are working closely with the international standard setter for AML, the Financial Action Task Force (FATF) on digital currencies; as we are keen to ensure we work together, through the international community, to address these issues.
+
+
+
+Similarities with traditional financial crime financial regulation
+
+
+
+Some of the leading cryptoasset exchanges have moved across several jurisdictions in a year, and others have no fixed address at all. These crypto firms are still able to serve a global customer base and keep services operating because their servers are in the cloud. Hence, they may move their legal operations as often as required without incurring any downgrade in their services. To tackle this issue, enhanced international cooperation is essential; as crypto firms are not constrained by borders whereas regulators are confined within a jurisdiction.
+
+
+
+Although the model of delivering value transfer is different from traditional financial services, because everything is operated by a digital peer-to-peer network of decentralised actors, when we look at how people are using the technology today we see more similarities with traditional financial services. Surprisingly, as the market has evolved the use of Bitcoin shifted from its intended use case as peer-to-peer digital cash, to something more akin to traditional financial services. Our consumer research found the majority of respondents saw cryptoassets as an alternative investment.
+
+
+
+This is reflected in the structure of the market. For example, recent estimates(link is external) suggest around 90% of economic activity in this market takes place on centralised custodial exchanges, whose business model is comparable to trading facilities in the forex market. In Financial Action Task Force (FATF) terminology, these centralised, custodial exchanges are the Virtual Asset Service Providers (VASPs), or more commonly known as 'crypto exchanges'. These facilities enable individuals to trade fiat currencies and cryptoassets for other cryptoassets.
+
+
+
+Other than the fact that they are trading crypto, the business model is similar to trading facilities, such as a forex spot exchange. Users wire funds onto the platform, then place orders to buy and sell the cryptoasset in question. They then have their orders matched via the exchange’s order book. The exchange charges a small fee for successful trades taking place on its proprietary trading system.
+
+
+
+When looking at these businesses, the well-worn logic which underpins financial crime regulation holds true. In traditional markets, for AML purposes, we broadly expect that an exchange is able to identify who they are dealing with, where money comes from and monitoring for suspicious transactions. For cryptoassets, all of this applies. We expect them to perform Know Your Customer (KYC) checks when onboarding clients, use transaction monitoring techniques to ensure they are not handling the proceeds of crime and proactively monitor users for suspicious activity.
+
+
+
+So, while the cryptoasset market comes from a libertarian ideology known as the ‘cypherpunks’, which advocate digital self-sovereignty and the removal of intermediaries; the way the market has developed over the past decade, now mimics several hallmarks of traditional financial services.
+
+How we enable innovation while cracking down on financial crime
+
+
+
+Sometimes the relationship between promoting financial innovation and tackling financial crime is posed as a zero-sum game. However, at the FCA, we believe that the relationship between taking a tough stance on financial crime and enabling world-leading financial innovation to benefit consumers, is complementary. This is because it is hard to see how any financial innovation can achieve scale without tackling illicit use cases - if an innovation’s only use is to launder the proceeds of crime, then it’s difficult to see a pathway forward for mainstream adoption.
+
+Without the right checks in place the open, public access of cryptoassets can lead them to become vehicles for global money laundering.
+
+
+
+Criminals are generally the earliest adopters of new technology. From the initial use case of automobiles as 'getaway cars' or malware to steal personal information in the early days of the internet, criminals were there first. This is because they are always on the hunt for new ways to commit old crimes and evade regulatory authorities using a new technology or methodology. However, this 'catch me if you can' phase of any technological development, where many of use cases are nefarious, is hindered once a comprehensive regulatory framework to tackle the risks is implemented.
+
+
+
+It has been over a decade since Satoshi Nakamoto published the Bitcoin Whitepaper, and today the cryptoasset market and the regulation around it looks quite different. First of all, there are many more cryptoassets, exchanges and businesses operating in this space, which has grown into an industry measured in billions, rather than millions.
+
+
+
+As the value and use of cryptoassets have grown, so have the risks for financial crime. As cryptoassets enable digital value transfer across the globe, they enable a unique set of potential money laundering risks. As such, in HM Treasury’s three-year Economic Crime Plan, cryptoassets are identified as a growing conduit for global money laundering alongside the UK’s National Risk Assessment (NRA) and widespread concern about this typology among our Law Enforcement Agencies (LEAs).
+
+Working hands-on with firms via the Regulatory Sandbox
+
+
+
+When discussing financial innovation, regulation and cryptoassets it’s difficult not to mention an area in which we are different to every other financial services regulator. The FCA was the first to launch a 'Regulatory Sandbox'. Provided that firms are able to satisfy us that they meet several eligibility criteria, which includes showing proposition has a clear 'benefit' and is a 'genuine innovation'. In practice, this means showing our team that users of the service stand to receive a benefit beyond what’s possible in the market today, by using new technology or a novel business model. If they are successful, they are admitted to a cohort to test it in a controlled environment. So far, cryptoassets in regulated financial activities have been used in around 40% of tests and are the single most popular technology for testing.
+
+
+
+In the first few cohorts, firms would primarily use cryptoassets like Bitcoin and Ethereum as an intermediate currency for money remittance. They would transfer fiat currency for crypto and then back into fiat currency in another jurisdiction, thereby bypassing the restrictive fees currently in place for money remittance and processing it faster than when using traditional remittance services - sending payments in minutes rather than days. However, as the cryptoasset networks struggled to scale and transaction fees increased without commensurate growth in performance, firms stopped using cryptoassets for money remittance. Instead, we found them utilising the technology to explore the issuance of securities - debt and equity instruments - using cryptoasset networks (such as Ethereum) and using their 'smart contract' functionality. For example, in the sandbox, a firm tested settling a short-term debt instrument using a cryptoasset network to potentially streamline the traditional approach by removing the need for registrars and nominees. The test demonstrated that it was possible to meet legal and regulatory requirements. Benefits we observed were that it was cheaper and more transparent for investors and issuers as information was stored on a public network. However, the cost savings from automation can lead to immutable transactions which are impossible to reverse if there’s a problem creating a new kind of risk. Also, the transparency provided by most cryptoasset networks can lead to front-running and new forms of market abuse and risk. However, overall for a regulator, it’s helpful to see these tests up close as they help to identify the various benefits and risks of new technology and our broader regulatory approach, including enforcement activity.
+
+Cryptoassets and the 5MLD
+
+
+
+In response to the financial crime risk posed by cryptoassets, HM Treasury has implemented the Fifth Money Laundering Directive (5MLD) through amending the UK’s Money Laundering Regulations (MLRs); this designated the FCA as the AML supervisor for specific cryptoasset activities; which goes beyond the 5MLD to include a broader set of activities, such as Initial Coin Offerings (ICOs), as recommended by FATF last year.
+
+
+
+Rather than specific products, the FCA’s cryptoasset AML regime covers specific cryptoasset business activities, including:
+
+
+
+Fiat-to-crypto exchange - who facilitate the exchange of fiat currencies for cryptoassets.
+
+Crypto-to-crypto exchange - who facilitate the exchange between different cryptoassets.
+
+Custodial wallet provider - who operate custody businesses for cryptoassets, where they have direct control of the client’s cryptoassets.
+
+Initial Coin or Exchange Offering (ICO/IEO) - those who look to pool capital via crowdfunding techniques, using cryptoassets.
+
+Cryptoasset ATM - a business who offers an automated kiosk to sell cryptoassets for fiat currency, or other cryptoassets.
+
+
+
+Under the MLRs, any firm undertaking one of the specified cryptoasset activities is required to satisfy the FCA when they arrive at our authorisations team that they have:
+
+
+
+Risk assessment: conducted an enterprise wide, business wide and client risk assessment using guidance documents from FATF, the UK’s National Risk Assessment, the Joint Money Laundering Steering Group (JMLSG) and the FCA in order to identify where the risks of money laundering lies in their business and establish policies and procedures to tackle them.
+
+
+
+Customer Due Diligence (CDD): as there is a zero threshold for all activity in this sector, all transactions, whether occasional or part of an ongoing business relationship, will need to be subject to CDD. This means identifying the customer and verifying their identity on the basis of reliable and independent documentation or information. As cryptoasset activities are online, then they will need to establish the veracity of the information provided to ensure the person on the other side of the screen is who they claim to be. We expect that many will apply similar approaches to e-money and challenger banks who often deploy new technologies such as video/photo identification via mobile.
+
+
+
+Transaction monitoring: cryptoasset firms will need to monitor the transactions that they execute on behalf of their customers to identify any potential suspicious or unusual transactions that indicate a risk of money laundering. While we know of several services that offer blockchain analytics software which can help with this task, we will still require that firms have the right processes in place to evaluate transactions. This is because all FCA regulation is underpinned by the notion that you can outsource work but not responsibility.
+
+
+
+Record keeping: the MLRs require all firms to retain documents and information used as part of CDD and transaction monitoring for a period of 5 years after the end of a business relationship, but they do not need to be kept for longer than 10 years since the start of that relationship.
+
+
+
+Suspicious Activity Report (SAR) reporting: where a firm identifies suspicious activity that they have reasonable ground to suspect is the proceeds of crime then they need to make a SAR and send it to the National Crime Agency (NCA).
+
+
+
+When a firm arrives at the FCA’s gateway looking to apply for registration, we believe that a 'good' application will clearly demonstrate to our authorisations team that they have robust systems and controls to cover each of these areas. But fundamentally, we are looking for more than just whether the firm has the right policies and procedures, we need to be satisfied that the firm take seriously their responsibilities to prevent their business being used to launder the proceeds of crime.
+
+Unique supervisory cryptoasset powers under the MLRs
+
+
+
+To ensure the policies on paper match up to the procedures in practice, we intend to actively supervise firms in this space. Also, we have some specific powers granted to the FCA under the MLRs.
+
+The relationship between taking a tough stance on financial crime and enabling world-leading financial innovation, is complementary.
+
+
+
+When putting in-place an AML only regime for cryptoassets, we requested a specific suite of powers to be included within the legislation with the power to investigate, prohibit and enforce legislative requirements. These include the following:
+
+
+
+Power of requirement: the ability to request information for any firm that is undertaking cryptoasset activity covered by the regime. This is because at the moment, we have a limited amount of information on the firms as they are often not covered by other areas of FCA regulation.
+
+
+
+Power of direction: this enables an FCA supervisor to impose a voluntary or involuntary requirement upon a firm. This includes stopping business entirely, where we believe there is a credible risk that the business poses a serious risk of money laundering. This was included to mirror powers we have in other financial services regulation (such as FSMA) which ensures that supervisors can take immediate action, to prevent a cryptoasset start-up becoming a high-tech vehicle for money laundering.
+
+
+
+Fit and proper tests: this allows the FCA to evaluate the skills and competencies of those at the firm and should a key individual at the firm be found to not meet that standard, the FCA can request that a firm appoint another person who is more experienced.
+
+
+
+Alongside these new powers, we still have our traditional enforcement powers to penalise misconduct by firms and individuals, through both civil and criminal powers.
+
+
+
+Our approach and how it differs from that of the US agencies
+
+
+
+So far, I have mainly discussed our approach to tackling financial crime with a UK centric view of financial services regulation. The UK view is one where securities are set out in statute and there is no difference between federal and state regulations. This is considerably different to the regulatory approach in the US and I would like to touch on some of this further.
+
+
+
+Starting with the definition of a 'security'. In the UK, we rely on definitions of the FCA’s regulatory perimeter set by parliament via statutes that specify, in quite some detail, which particular activities are within our remit and those which are not. To establish if an activity is within our remit, we look at the definition in the relevant sections of legislation, perform a legal test to establish whether the activity falls within our remit and then take action in line with our powers under the legislation.
+
+
+
+In the US, while enforcement powers are derived from statute, the definition of a 'security' comes from case law: the Howey Test. While initially created to establish the regulatory position of an investment in an orange grove, today the case requires applying some broader principles based test to any kind of investment. Although the UK’s perimeter is also ultimately a question for the courts and we similarly rely on a precedent-based case law system, the US definition of a security arguably allows your agencies a wider regulatory perimeter - as the definition of a security is much broader than ours.
+
+
+
+Other areas of difference reflect the geographic size of the UK and our history. It is sometimes said of London that it is Wall Street and DC all in one. In the same vein, the FCA is like the Commodity Futures Trading Commission (CFTC), Financial Crimes Enforcement Network (FinCen) and the Securities and Exchange Commission (SEC) combined - as we regulate firms' conduct and prudential requirements alongside anti-money laundering controls. The FCA regulates close to 60,000 firms for financial services conduct and 19,500 under the MLRs. This means in practice, that we have a much broader set of firms with a wider range of activities than is common at a US regulatory agency.
+
+
+
+Another area of considerable differentiation between the two systems is that we don’t have the concept of state and federal regulations. Since the Act of Union in 1707, the Houses of Parliament in Westminster creates statute for the entire United Kingdom. While the UK has some areas of devolved legislation to Stormont in Northern Ireland and Holyrood in Scotland, financial services regulation isn’t one of them.
+
+
+
+Although it is worth stating that the FCA is not the only regulatory body responsible for AML in the UK. There are three statutory regulators of which the FCA is one, alongside the Gambling Commission and Her Majesty's Revenue and Customs (HMRC). While there is some crossover between each of us, such as HMRC also supervise Money Service Businesses (MSBs) alongside the FCA, we generally cover financial institutions for their systems and controls, the Gambling Commission facilitates a similar role for gaming companies and HMRC covers tax. One area of commonality is that we all work with LEAs such as the National Crime Agency (NCA) when we suspect that organised crime or other areas of criminality are involved.
+
+The challenges we are expecting as an AML supervisor for cryptoasset businesses
+
+
+
+The FCA’s crypotasset AML regime is still in its infancy, as it only came into effect on the 10 January 2020. We are expecting several key challenges. First, this is largely a market that is new to regulation, and since the premise of the technology comes from a libertarian strand of ideology which eschews identity checks and advocates digital privacy, so we are expecting compliance with AML regulation will be met with resistance. But we are keen to work with the industry to ensure our AML standards are met in this market, particularly since this sector is closely integrated with traditional financial services.
+
+
+
+As we move forward from the creation of the regime through to supervision and enforcement, one area we are always looking towards is international regulatory guidance. These documents help inform our domestic approach and over the past few years, US agencies have set the benchmark when it comes to communicating with the cryptoasset market. Examples of these seminal documents include the SEC guidance(link is external) on the Ethereum Decentralised Autonomous Organisation (DAO) published in 2017,or the CFTC's 2018 guidance(link is external) on cryptoasset derivatives, or FinCen’s guidance(link is external) published last year, which covered custodial and non-custodial cryptoasset business models. These documents are not just useful for the market, we also find that they help inform our regulatory thinking in this fast-moving space.
+
+We apply the same AML standards we expect of businesses operating in traditional financial services to the cryptoasset economy.
+
+
+
+Lastly, one area that will be increasingly important is not just sharing views on cryptoassets via formal guidance papers but also working together in enforcement cases and through intranational regulators such as FATF. Financial crime, especially in this market, rarely respects borders.
+
+Conclusion
+
+
+
+When we initiated the implementation of the AML regime for cryptoassets, most colleagues and other key actors would ask how are you going to regulate Bitcoin or 'the blockchain'. The FCA does not regulate financial technologies, as we not in the business of picking winners, but financial activities. Therefore, our answer was and still is, this is not different. We apply the same AML standards we expect of businesses operating in traditional financial services to the cryptoasset economy. This strikes the right balance by facilitating innovation created by this technology, while tackling the new risks of financial crime.

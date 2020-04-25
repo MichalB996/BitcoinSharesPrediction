@@ -1,0 +1,39 @@
+DATE:  21.11.2019, 11:50:41
+TITLE: What’s at Stake With Masternode Coins?
+URL:   https://news.bitcoin.com/whats-at-stake-with-masternode-coins/
+
+What’s at Stake With Masternode Coins?
+
+“Masternode” is a term that echoes less often in the cryptosphere these days, but not because user-controlled nodes have fallen out of favor. Rather, the nomenclature has shifted, with “staking” now used to describe the array of blockchains that fall under this banner. As an examination of proof-of-stake chains shows, masternode coins are very much alive. But as exchanges push staking as a service, are the days of user-operated masternodes numbered?
+
+Also read: Bitcoin.com to Launch $200 Million BCH Ecosystem Investment Fund
+
+5 Years on, Masternodes Are Still Going Strong
+
+When smart contract platform Velas unveiled its masternode staking this week, it iterated on a system that can be traced all the way back to Dash’s arrival on the scene in 2014. Masternodes have evolved significantly since then, with Velas’ staking program reflecting this through provisions like pooled staking, for users who can’t muster enough coins to meet the 1 million VLX threshold, and minimal hardware requirements to lower the technical barriers to entry.
+
+Although a degree of technical knowledge is still required to operate your own node, setup is considerably easier than it was in the early days. Moreover, in the case of pooled staking services such as that offered by Velas via Coinpayments.net, getting started is as simple as sending coins to a specified wallet and then logging back in periodically to collect your staking rewards. VLX rewards start at 8% of all coins staked, for example, which is approximately the same ratio as DASH.
+
+Sites like mnrank.com provide detailed statistics on masternode ROI and provide general market information on the leading coins. Dash invariably sits top of the list, followed by the likes of zcoin, nuls, and horizen. Below that, things start to get sketchier, with some extremely small market cap coins whose primary raison d’être is to provide a return to masternode operators. The site lists a total of 123 coins and 67,000 masternodes that are currently online.
+
+At the height of masternode mania in 2017, when New Zealand’s Cryptopia exchange was still a going concern, there were hundreds such coins, many of which promised astronomical but ultimately unsustainable returns of over 100% per year. To get a handle on the status of staking today, it’s necessary to understand how it was that masternodes came to be.
+
+Mastering Masternodes
+
+There are two reasons why someone might want to operate a masternode – one intrinsic, the other extrinsic. In the case of the former, you might run a node because it pays to do so: in return for locking up a tranche of coins (aka your stake) and validating network transactions using your node, you will be entitled to a percentage of the coins minted by way of reward. In the case of Dash, the stake is set at 1,000 coins – $64,000 at current prices. Assuming a stable price for dash, a node ought to provide a return of a little over $5,000 per year. It sounds like easy money, given that the masternode operator retains their stake, and can sell those coins upon ending their participation in the program. In practice, there are very few coins that can be relied on to sustain their price over a prolonged period versus BTC. As such, aspiring masternode operators need to choose their coins wisely.
+
+The second reason for running a node is down to ideological rather than pragmatic reasons. Put simply, you believe in the project and want to support it as best you can. In this context, maximizing ROI is less important than increasing the network’s decentralization through bolstering the number of masternodes tasked with overseeing onchain activity. Because proof-of-stake chains don’t have miners to call upon to include transactions in the next block, the duty goes to nodes instead. When Satoshi created Bitcoin, he anticipated that all nodes would also be miners. In the event, mining has become commoditized, leading to the separation of miners and nodes. As a result, most Bitcoin node operators are read only, capable of monitoring network activity, but powerless to dictate which transactions are included in the next block.
+
+The Commoditization of Staking Chains
+
+It’s not just Bitcoin mining that’s become commoditized over the years, with power consolidating in the hands of specialist enterprises with the hardware and user base to provide economies of scale. Staking has become centralized by custodians such as Huobi, Binance, and Coinbase, who automatically dispense the “passive income” or staking rewards that holders are entitled to. Coinbase takes care of Tezos, while Binance covers an array of coins including NEO, ONT, ALGO, and KMD.
+
+There’s no such thing as a free meal, though, and while exchanges offering staking as a service eliminate the complexity of running your own node, there are trade-offs to factor in. These include the security risk of storing coins with a third party and the KYC requirements in order to do so, which erode individual privacy. There are other concerns too which affect the blockchain in question. For instance, with exchanges custodying the majority of all staked coins, they also control the governance rights, giving them de facto control over protocol changes and other key decisions that are determined by onchain votes.
+
+Staking as a service is undoubtedly convenient, but it kills off one of the reasons why nodes exist in the first place: to distribute and decentralize power, thereby increasing the censorship-resistance of crypto networks. Regardless, the genie is out the bottle now, and will be difficult to put back now exchanges are offering a superior product in terms of user experience – decentralization be damned. Proof of stake chains such as Nervos, Koti, Fantom, and Solana are poised to launch their mainnets this quarter, followed by Perlin, Matic, Celo, and Near in Q1 2020. The term “masternode” may resonate less frequently these days, but the staking game is very much alive.
+
+Do you think centralization of staking programs through exchanges is unavoidable? Let us know in the comments section below.
+
+Images courtesy of Shutterstock.
+
+Did you know you can verify any unconfirmed Bitcoin transaction with our Bitcoin Block Explorer tool? Simply complete a Bitcoin address search to view it on the blockchain. Plus, visit our Bitcoin Charts to see what’s happening in the industry.

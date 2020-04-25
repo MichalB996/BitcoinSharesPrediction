@@ -1,0 +1,45 @@
+DATE:  23.01.2020, 10:30:59
+TITLE: More BS on Lightning: Blockstream Pours Liquid on Thick
+URL:   https://news.bitcoin.com/more-bs-on-lightning-blockstream-pours-liquid-on-thick/
+
+More BS on Lightning: Blockstream Pours Liquid on Thick
+
+Blockstream reps have long been pushing for full implementation of the perpetually-delayed Lightning Network as the main solution for BTC scalability. With the recent announcement of “federated sidechain” Liquid’s integration with Btcpay, however, the tune seems to have changed. Past weeks have found Blockstream execs Adam Back and Samson Mow not only pushing Liquid hard, but going so far as to belittle Lightning, the once almost messianic layer-2 solution to Bitcoin Core’s scaling ills.
+
+Also Read: Researcher’s Scathing Lightning Network Analysis Finds Flaws
+
+Liquid and Lightning
+
+With last week’s announcement that Blockstream’s federated sidechains are now integrated with Btcpay, Liquid has been back in the limelight. What is striking some folks as odd, however, is the overtly promotional tone being taken by Blockstream reps in regard to Liquid and its pegged assets such as L-BTC, even at the cost of criticizing the Lightning Network — long touted by the very same people to be BTC’s main scaling solution.
+
+"don't use this" etc the reality is there are tradeoffs 1. Easier to lose via LN than LQ due to accidental close penalty
+
+2. Offline during hostile close
+
+3. LN Hot-wallet risk
+
+4. Low value is less concern to many users.
+
+5. LN retail freeze by LQ seems unlikely given small size. — Adam Back (@adam3us) January 17, 2020
+
+Blockstream CEO Adam Back made sure to note on Twitter he wasn’t discouraging use of the Lightning Network (LN), just that there were “tradeoffs.” Back elaborated that bitcoin is “Easier to lose via LN than LQ due to accidental close penalty” and that LN goes “Offline during hostile close.”
+
+Blockstream CSO Samson Mow is of course also pushing Liquid adoption, and when asked about LQ being in competition with LN in a recent interview, he noted that hot wallet risk on LN meant that it can’t replace the utility of LQ. His carefully worded answer comes off almost as an advertisement for Liquid at the expense of Lightning, more than a general assessment of so-called competition. Further, if LN is supposed to be decentralized, it’s unclear how it could be “competing” in a business sense at all.
+
+Sidechain Sales and Emergency Keys
+
+Since Blockstream’s plan from early on has been to sell sidechains to big business, critics have long said that this incentivizes maintaining a status quo of small, congested blocks onchain. Of course this would run contrary to the idea of a decentralized, permissionless peer-to-peer cash system for anyone to use.
+
+“The Liquid sidechain provides a different set of trade-offs that allow privacy and rapid finality of asset transfer at the expense of being a permissioned network relying on trust of the functionaries,” the FAQ publication reads. These functionaries are the members of the Liquid federation which “allows transactions on Liquid to reach a state of finality faster and more reliably than those on the Bitcoin blockchain.”
+
+The 35-member federation takes turns proposing blocks “round-robin” style every minute and signing them. Should anything go wrong, the website affirms that “There are emergency keys that are able to access the bitcoin held by the network only if the network is down for an extended period of time.” In short, what concerns many in the crypto space is that for all the potential convenience of these settlement layers, the control of the assets ultimately lies offchain, with a trusted party. Liquid BTC and USDT as such are in the hands of Liquid and not the user.
+
+So, whether an individual, exchange or other business decides to wait for the 102 confirmations needed to peg-in to L-BTC, and test out the Liquid federated sidechain, or simply sit back and see how the Btcpay integration develops, one thing remains fairly certain: the loud sales of centralized crypto projects on Twitter will be up and running 24/7. And unlike Liquid, even members of the “general public” can peg-out of that, simply by closing the laptop.
+
+What are your thoughts on Liquid’s effort to scale BTC? Let us know in the comments section below.
+
+Disclaimer: This article is for informational purposes only. It is not an offer or solicitation of an offer to buy or sell, or a recommendation, endorsement, or sponsorship of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.
+
+Image credits: Shutterstock, fair use.
+
+Did you know you can buy and sell BCH privately using our noncustodial, peer-to-peer Local Bitcoin Cash trading platform? The local.Bitcoin.com marketplace has thousands of participants from all around the world trading BCH right now. And if you need a bitcoin wallet to securely store your coins, you can download one from us here.

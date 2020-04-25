@@ -1,0 +1,41 @@
+DATE:  15.08.2019, 20:45:51
+TITLE: Samsung Adds Bitcoin Support to Its Blockchain Keystore
+URL:   https://news.bitcoin.com/samsung-adds-bitcoin-support-to-its-blockchain-keystore/
+
+Samsung Adds Bitcoin Support to Its Blockchain Keystore
+
+On August 13, Samsung, the South Korean multinational conglomerate, published the company’s new Blockchain Keystore SDK for developers and the latest release supports Bitcoin Core (BTC). The version follows Samsung’s previous Keystore release which only supported ETH and the ERC20 standard.
+
+Also Read: Exploring the SLP Token Universe Built on the Bitcoin Cash Chain
+
+Samsung Quietly Adds BTC Support to Its Blockchain Keystore
+
+Cryptocurrency advocates were pleased to notice that Samsung (OTCMKTS: SSNLF) had finally added BTC support to the company’s Blockchain Keystore software development kit (SDK). The news came on Tuesday, August 13, when Samsung published the SDK with release notes, API reference, and programming guide. The reference to BTC can be found in a table that mentions “Cryptocurrency Specification,” “Cryptocurrency Limits,” and “Transaction Type Limits.” The cryptocurrency limits section notes that there’s a limit of 21,000,000 BTC or 2,100,000,000,000,000 satoshis. Transaction type limits include P2PKH (Pay To Public Key Hash), P2PK (Pay To Public Key), P2SH (Pay To Script Hash), and P2WPKH (Pay To Witness Public Key Hash). The transaction type limits are meant to require a sender to supply a valid signature within a wallet application that utilizes the Samsung Blockchain Keystore.
+
+The new Samsung BTC support can only be accessed by app makers and developers right now and only residents from South Korea, Spain, Switzerland, the U.S., Germany, Canada, and the U.K. can use the Samsung Blockchain Keystore. Interestingly, the tech giant added support for the Klaytn blockchain as well. This means developers using the Note10s, Galaxy S10, S10e, S10+, S10 5G can use ETH, any ERC20, BTC, and KLAY tokens. Samsung says there are two benefits to integrating the Samsung Blockchain Keystore SDK into an Android application:
+
+Developers can use Samsung Blockchain Keystore API to request the Samsung Blockchain Keystore to sign a cryptocurrency transaction. Developers can link a user’s Blockchain address like a user’s account. With the address returned from Samsung Blockchain Keystore, developers can check and show users how much cryptocurrency balance is in the account as well as view the transaction history.
+
+Software engineers who use the Samsung Keystore SDK are able to leverage many features that are commonly used in applications like noncustodial lite wallets. For instance, the Keystore will generate a cryptocurrency’s keypair (public & private key) on the device itself, while also storing the keys in a secure environment within the mobile device. “[Samsung] does not rely on other network or a third party to generate these keys,” the Keystore 1.1.0 version SDK specification reads. All the mnemonic words (seed phrase words) are compatible with the BIP-39 standard allowing users to deploy the recovery phrase on another device if the phone was ever lost or stolen. However, sending a signed transaction is out of Samsung’s scope, the company explains, and engineers who want to send signed transactions need to rely on their own nodes or a public node.
+
+Opening the Door for Bitcoin Cash Support and the Race to Lead Blockchain Development Within the Smartphone Industry
+
+With BTC being added to the Samsung Keystore, the cryptocurrency spec opens the door for similar networks like Bitcoin Cash. BCH also uses transaction types like P2PKH and P2PK and has a hard cap of 21,000,000 BCH or 2,100,000,000,000,000 satoshis. In the Keystore specs, Samsung notes “We plan to support more cryptocurrencies and expand supported regions in the near future.” People who want to test the Keystore functionality cannot simply download the application from the Galaxy store as Samsung’s blockchain SDK is preloaded on selected devices only. Software developers can test the Keystore application by using Samsung’s Remote Test Lab, which is located in the Samsung Developers Site.
+
+Posts on social media and Reddit forums show that crypto advocates appreciate Samsung finally adding BTC to the Keystore. Currently, there are 17 cryptocurrency-related applications that can be used with the select Samsung phones and the Keystore. This includes decentralized applications (dapps) such as Enjin, Cryptokitties, Coinduck, and Cosmee. Samsung’s dapp store also recently gained two new dapps in the form of Mars and Jupiter, developed by Singapore-based tech company Trustverse.
+
+There have been unconfirmed rumors that eventually Samsung Pay will sync with the Keystore wallet so people can pay for goods and services with digital assets. The recent BTC support from Samsung follows the released Cryptokit for iOS 13 from the company’s California-based rival Apple. The Cryptokit from Apple gives speculators reason to believe that the Cupertino tech giant will release its own in-house crypto wallet system. Similar to Samsung’s Keystore SDK, the Apple Cryptokit provides three specific attributes:
+
+Compute and compare cryptographically secure digests. Use public-key cryptography to create and evaluate digital signatures, and to perform a key exchange. In addition to working with keys stored in memory, you can also use private keys stored in and managed by the Secure Enclave. Generate symmetric keys, and use them in operations like message authentication and encryption.
+
+Apple and Samsung entering the cryptocurrency industry by silently releasing software development kits shows that mobile phones that have blockchain capabilities and offer cryptocurrency solutions are here to stay. The mobile phone giants are neck and neck in terms of sales, and adding cryptocurrency features may give them an edge among the lucrative tech- and crypto-savvy demographic.
+
+The Chinese communications technology company Huawei already beat Samsung and Apple to the punch by selling phones pre-installed with Btc.com’s cryptocurrency wallet in May 2018. Even the phone manufacturer Oppos is on the heels of these three tech giants with its system that could help a peer-to-peer network of cryptocurrency node operators validate transactions in regions with poor internet services.
+
+According to reports, Oppo’s Mesh Talk system could allow phones to exchange blockchain key data without using Wifi, Bluetooth, or cellular data within a radius of three kilometers. With all of the blockchain-related developments from Huawei, Samsung, Apple, and Oppos smartphones, it’s safe to assume that the mobile giants are well aware that cryptocurrencies are here to stay.
+
+What do you think about Samsung adding BTC support to the company’s in-house Blockchain Keystore? Let us know what you think about this subject in the comments section below.
+
+Image credits: Samsung, Wiki Commons, Huawei, Apple, Oppos, and Pixabay.
+
+Do you need a reliable Bitcoin mobile wallet to send, receive, and store your coins? Download one for free from us and then head to our Purchase Bitcoin page where you can quickly buy Bitcoin with a credit card.

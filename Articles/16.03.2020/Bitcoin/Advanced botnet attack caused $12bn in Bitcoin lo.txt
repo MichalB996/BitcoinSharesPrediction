@@ -1,0 +1,29 @@
+DATE:  16.03.2020, 19:34:45
+TITLE: Advanced botnet attack caused $1.2bn in Bitcoin longs liquidation on BitMEX
+URL:   https://cryptoslate.com/advanced-botnet-attack-caused-1-2bn-in-longs-liquidation-on-bitmex/
+
+Bitcoin’s price struggle was further exacerbated last week when the coin plunged to $3,700 on BitMEX and caused almost $1.2 billion in long contracts to be liquidated on the platform. Now, the exchange’s CTO has revealed that the liquidations were caused by sophisticated botnet attacks that have been probing the platform for days and were responsible for another attack last month.
+
+BitMEX addressing the huge Bitcoin drop on its platform
+
+In the midst of one of the bloodiest days in the crypto market, BitMEX, one of the largest cryptocurrency exchanges in the world, suffered a 25-minute outage. The Mar. 12 outage sent the price of Bitcoin spiraling down to as low as $3,700, wiping out $1,800 from its price in a single day. According to data from Datamish.com, almost $1.2 billion in Bitcoin long contracts have been liquidated on Mar. 12.
+
+Immediately after the event, rumors about the possible foul play from BitMEX began circulating in the crypto community, with many suspecting that the exchange itself could have caused the outage in order to curb further price drops.
+
+Although BitMEX was quick to respond to the issue, assuring its users that the outage was caused by hardware issues with its cloud service providers, few were convinced that the explanation was as simple as that.
+
+And now, the exchange’s co-founder and CEO Arthur Hayes commented on the issue for the first time, saying that the BitMEX team has been gathering the facts in the past three days and will be addressing all of the concerns raised by the community in the following days.
+
+BitMEX falls victim to botnet attacks for the second time
+
+According to Samuel Reed, the chief technical officer at BitMEX, the exchange fell victim to a botnet at both 02:15 UTC and 12:56 UTC. He believes that the botnet had been probing the system for a while and found an endpoint in the platform’s cloud that was “consistently” and “reliably” slow.
+
+The first attack was resolved rather quickly—the exchange registered the attack as dying volume on the Amazon elastic block store service. It then flailed over the database and resumed the service.
+
+The second attack was also quickly resolved, but this time the exchange correctly identified that it was an attack, not a problem with the cloud. While the slow query was fixed, Reed noted that there are major security updates that still need to be made.
+
+“Some of these changes are already present. Others, like public-facing protocols around downtime, trade suspension, resumption, and communication, are in the works,” he tweeted.
+
+More information about the attacks and the ways the exchange plans on improving them will be released in the coming days, Reed said, adding that details about the liquidations and the exchange’s insurance funds will also be revealed soon. He also noted that they believe the same botnet was responsible for the DDoS attack the platform suffered on Feb. 15.
+
+However, a large part of the crypto community still remained highly critical of BitMEX, even after the exchange began refunding users who were affected by the Last-Price triggered stops set on the ETH/USD trading pair. Many scolded the exchange for not relying on their own servers, while some even questioned whether the botnets were hired by BitMEX’s own insurance fund.

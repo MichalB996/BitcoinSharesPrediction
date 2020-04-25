@@ -1,0 +1,61 @@
+DATE:  27.09.2019, 08:00:19
+TITLE: Lightning Sucks, But It Could Help Build a Bitcoin Economy
+URL:   https://www.coindesk.com/lightning-sucks-but-it-could-help-build-a-bitcoin-economy
+
+“Profit is a bug.”
+
+That’s according to Lightning Network co-creator and Lightning Labs co-founder Tadge Dryja, who spoke earlier this month at Scaling Bitcoin in Tel Aviv. (Dryja left Lightning Labs in 2016.)
+
+However, 18 months after the namesake startup released the beta version of LND, Dryja’s sentiment is not stopping nearly a dozen lightning-related firms from pushing toward monetization.
+
+Such is the case with Roy Sheinfeld, CEO of the mobile wallet startup Breez.
+
+Since launching in June, the mobile app’s 11,000 monthly users have conducted 7,367 transactions worth 4.23 bitcoin (roughly $35,000 at today’s price), Sheinfeld told CoinDesk. The app already offers direct integration with Bitrefill and Moonpay, which allows users to pay certain bills and purchase crypto.
+
+Plus, Sheinfeld said he plans to expand the startup to follow the Internet Service Provider (ISP) model, operating channel connectivity for users as a Lightning Service Provider (LSP). Breez currently dedicates 10 bitcoin to managing channels for users, and Sheinfeld hopes to encourage more startups to do the same.
+
+“I need to form a coalition, to bring more players and to bring more liquidity. You choose a provider, and you can choose multiple providers, so you can choose who you connect to,” Sheinfeld said at the D&DD conference in Tel Aviv earlier this month, adding:
+
+“I think we can make money by providing channels as a free service then provide premium services for more reliability, more capacity, stuff like that.”
+
+On one hand, lightning-centric payment startups like Bottle Pay continue to attract interest from venture capitalists. Likewise, the lightning payments app Fold just raised $2.5 million to give bitcoiners a chance to spend their crypto at retailers like Target, Macy’s and Domino’s.
+
+But on the other, merchants are still cashing out in fiat and Fold is handling channels on behalf of users. It’s unclear how the economics of such services will play out as usage increases. After all, keeping channels open locks up precious bitcoin.
+
+As such, the jury is still out on whether Sheinfeld’s vision of building a “lightning economy” over the next five years is remotely probable.
+
+Competing visions
+
+Although some hobbyist node operators currently make a few dollars a month in bitcoin, via routing fees, Lightning co-creator Dryja told CoinDesk that providing such services probably won’t be a profitable business model, even if adoption increases.
+
+Dryja stopped working on the open-source technology last year, because he felt the current development process, spearheaded by Lightning Labs and Blockstream, diverged from his vision for the bitcoin scaling solution.
+
+From his perspective, micropayments of just a few cents can’t scale in a secure way. Yet some advocates suggest the network could do this, rather than offering a cheaper way to do a few dollars worth of payments when bitcoin network fees rise.
+
+Regardless of technical disagreements, Lightning Labs CTO Olaoluwa Osuntokun told CoinDesk he imagines a “closed economy” with people both paying and receiving money through lightning, especially payments like hourly wages.
+
+While Breez aims to convince other startups to also become LSPs, Lightning Labs is focused on providing software management services to businesses across the bitcoin economy.
+
+“We are an infrastructure provider,” Osuntokun said. “[We build] the tooling, things to run nodes … ways to manage your capital or coins on lightning more effectively, things like that.”
+
+While Lightning Labs has a wallet of its own, Osuntokun said he would encourage others to fork the open-source software and focus on wallets for different use cases. As Osuntokun said:
+
+“In other industries, you have companies like Google that do work on open protocols. … I think it’s good that there are different wallets because maybe some will be for power users, others for tipping. We are doing some user testing ourselves and others are as well.”
+
+User expectations
+
+Speaking of user testing, Dryja said he’s worried developers are focused on “cool, fancy features” without focusing on making a stable network that addresses user needs.
+
+“I totally understand. It’s way more fun to work on cool new cryptography than something boring,” he said. “But I worry the lightning network has been overpromised, like bitcoin.”
+
+Back in 2017, the community feuded over how to scale the network because some users expected bitcoin payments to be practically free and instantaneous. While bitcoin can be cheaper and faster than traditional providers, it is still a real network with real tradeoffs. When activity spiked during the token boom, fees increased and velocity slowed. Although some applications now allow microtipping, Dryja believes it is unrealistic to advertise that as an inherent capacity without security tradeoffs.
+
+“I’m worried about that type of social thing happening again with lightning,” he said, speaking of the community divide and subsequent [bitcoin cash] fork. “That’s one of the reasons I don’t work at Lightning Labs anymore.”
+
+There’s a long way to go until LSPs could serve merchants outside the tech industry. Lightning invoices generally expire after an hour, which requires the buyer and seller to coordinate, and don’t offer simplified information about the transaction itself for tax records. That means premium services may need to include both channel and invoice management. So far, such considerations generally take a backseat to stable connections with two-way liquidity, a challenge in itself.
+
+In the meantime, Sheinfeld said Breez is working on a lightning-friendly point of sale device for merchants.
+
+“I’m thinking ahead,” he said. “Lightning is like your checking account. The reason I call [the buttons in Breez] ‘add funds’ or ‘remove funds’ is because users are moving funds from their checking account to their savings account, a hardware wallet or whatever. There’s a bit of education that has to take place.”
+
+Breez CEO Roy Sheinfeld at DeFi Dapps Day (D&DD) via Israel Hadari

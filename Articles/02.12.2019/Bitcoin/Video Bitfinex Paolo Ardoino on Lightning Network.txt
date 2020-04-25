@@ -1,0 +1,45 @@
+DATE:  02.12.2019, 23:30:23
+TITLE: Video: Bitfinex Paolo Ardoino on Lightning Network Add
+URL:   https://bitcoinmagazine.com/articles/video-bitfinex-cto-paolo-ardoino-on-adding-lightning-network-support
+
+Ring in the new bitcoin halving cycle the right way: with us!
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+On December 2, 2019, Bitfinex officially informed its subscribers that it had added support for Lightning Network deposits and withdrawals. Subsequently, Bitfinex CTO Paolo Ardoino confirmed the information in a tweet.
+
+A few days before this announcement, Ardoino agreed to do an exclusive interview with Bitcoin Magazine to provide more technical details about the Lightning integration. This marked a big step in the development of Bitcoin and the Lightning Network, as a major exchange finally integrated second layer satoshis.
+
+“I think that Lightning is definitely the best way to send and receive bitcoins,” said Ardoino during the opening of the interview. “For me, [the Lightning Network] is exactly how the perfect payment system should be built.”
+
+How Bitfinex Integrates Lightning Network
+
+In regards to the process that users will have to follow in order to send their Lightning satoshis to Bitfinex, Ardoino described a system during which the exchange issues a proprietary intermediary token.
+
+“The process is simple: you go on the Lightning Network deposit page, you generate an invoice, and then pay it with any Lightning wallet that you may use,” he said. “Bitfinex will credit you LNX, our proprietary Lightning Network currency, and then you can exchange it on a 1 to 1 ratio for bitcoins.”
+
+Bitfinex will not charge a premium for exchanging second-layer satoshis for mainchain BTC (or vice versa). However, withdrawals will have the regular fees.
+
+“There is no premium in this step,” said Ardoino. “However, we will apply a small fee when you process a withdrawal in the opposite way. But that’s it, we don’t apply any premium or any conversion rate for the service.”
+
+From a technical point of view, Bitfinex makes use of lnd — the client developed by Lightning Labs. However, as acknowledged by Ardoino, Blockstream’s c-lightning is regarded as a worthy replacement in the near future.
+
+“Right now we are running LND, but we are planning to add c-lightning,” he said. “I like the c-lightning implementation because it feels more modular and plug-in based. It’s excellent as a base layer for additional developments, as it feels like a Linux kernel.”
+
+The Bitfinex CTO also revealed that the choice of a Lightning client is the result of a partnership that will be announced in the coming days.
+
+“At the moment, we are using LND because it’s also what our partner uses for integrations. More information about this collaboration will be announced this Wednesday [December 4, 2019],” he teased.
+
+Being on the Right Side of Bitcoin History
+
+Ardoino also pointed out that Bitfinex has always positioned itself on the side of Bitcoin innovation, and Lightning support is its follow-up to being pioneers in adding bech32 addresses and implementing SegWit.
+
+“I think that it’s really important for an exchange to finally show real support for the Lightning Network,” he explained. “If we don’t take a little more risk, we will not be able to keep up with the innovation with which our industry is used. Bitfinex will do its part and has always worked to open the path for everyone else: you saw that with bech32 addresses and early SegWit adoption.”
+
+In the coming days, Bitfinex will publish all of the information about connecting to its public node in order to open channels. Also, as clarified by Ardoino, tutorials will be provided in multiple languages in order to offer seamless onboarding.
+
+Last but not least, Ardoino also addressed security concerns that might arise in adopting new technology.
+
+“If an exchange loses a few thousand dollars worth of BTC in order to improve and push the growth of this great technology, I think that the situation is not problematic at all,” he said. “It’s part of the risk that you’re taking when running an exchange. The best step we can take is to embrace Lightning early and prove that the technology is not as bad or insecure as it gets described.”

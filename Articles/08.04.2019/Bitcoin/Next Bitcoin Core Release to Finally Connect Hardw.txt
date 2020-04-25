@@ -1,0 +1,81 @@
+DATE:  08.04.2019, 21:30:09
+TITLE: Next Bitcoin Core Release to Finally Connect Hardware Wallets to Full Nodes
+URL:   https://www.coindesk.com/next-bitcoin-core-release-to-finally-let-hardware-wallets-connect-to-full-nodes
+
+It’s a moment true bitcoin nerds have been waiting for.
+
+In the coming release of Bitcoin Core, the 18th major version of the cryptocurrency’s most widely used software, the code will finally, natively allow users to connect bitcoin full nodes to hardware wallets.
+
+It sounds technical, but it’s a big step for the security for users. Bitcoin full nodes allow users to verify that transactions actually took place, meanwhile, hardware wallets are considered one of the most secure ways to store bitcoin. Thus, making it easier to join the two together is a big win for users who want full control of their bitcoin – and don’t want to lose it.
+
+Bitcoin Core lead maintainer Wladimir van der Laan, who is in charge of coordinating the coming upgrade, told CoinDesk it’s one of the features he’s been most excited about for quite some time.
+
+Still, the change is part of a much broader effort to make bitcoin full nodes easier to use for people other than just tech geeks. Casa, for example, has launched a node that works without much setup necessary, while developers of the bitcoin protocol are constantly trying to reduce how much data users need to store to run one (as users need to store every transaction ever sent on the blockchain, it’s pretty weighty).
+
+As Bitcoin Core contributor Andrew Chow, one of the lead developers on the project, put it on Twitter:
+
+“With this [pull request] merged, the upcoming Bitcoin Core 0.18 release will be finally usable with hardware wallets by using [Hardware Wallet Interface (HWI)].”
+
+He admits it’s “still command line only and manual,” but argued “it’s a big step forward” because the functionality is finally there, even if in a somewhat clunky form. Developers will continue to make it easier to use down the line.
+
+Eating your cake
+
+So first off, why use a bitcoin full node in the first place?
+
+In order to send a transaction on the bitcoin network, users need to connect to a bitcoin node. Full nodes now require a couple of hundred gigabytes of data, which is a lot, enough to fill a small laptop.
+
+But it does serve a purpose, as rather than trust that someone else is feeding you the correct financial information, such as whether you really received a transaction or not, you’re able to validate this information yourself.
+
+As the value proposition of bitcoin is to not trust others, some developers go as far as to argue that using bitcoin in a way that removes the full node defeats the purpose of bitcoin.
+
+Bitcoin Core contributor Sjors Provoost, for example, has argued that running a full node is helpful for “knowing your bitcoin is real,” offering the example of Segwit2x, a proposed bitcoin fork from 2017 in which some companies, miners, and users proposed upgrading bitcoin to a larger block size.
+
+There was concern that in the case Segwit2x broke bitcoin into two, mobile wallets relying on Simplified Payment Verification (SPV) technology would be susceptible to trickery from miners.
+
+“That server can in theory also lie about your balance. In a scenario like SegWit2x, it could decide which side of the fork it wants to show you. With a full node you don’t have to worry about that,” Provoost told CoinDesk.
+
+Then there’s the issue of privacy.
+
+“The wallet software that normally comes with hardware wallets reveals your addresses to a third-party server,” Provoost continued. The full node would replace this wallet software, giving users privacy again.
+
+“At the end of the day, it comes down to the trade-off between convenience and trust,” Bitcoin Core wallet maintainer Samuel Dobson told CoinDesk.
+
+These problems are what’s fueling the idea that maybe one day “everyone” should run this full node software, so they don’t have to trust anyone else to send them accurate financial information.
+
+“Yes, I believe that everybody will eventually run a full node. I wish a future where not having a full node will severely limit your user experience and the realm of things you can do with bitcoin,” as BTCPay creator Nicolas Dorier wrote in a recent blog post.
+
+Secure, offline bitcoin
+
+The other piece is hardware wallets are considered the most secure way to store bitcoin. That’s especially true when compared to storing them on internet-connected computers, which are often totally exposed to hackers.
+
+“PCs are a much larger attack surface than a small dedicated device to store your keys, designed specifically with security in mind. They’re also less prone to random crashes or corruption which could cause you to lose un-backed-up keys on your computer,” Dobson told CoinDesk.
+
+With this new tech in place in the Bitcoin Core software, users can store their bitcoin on an offline hardware wallet, then use their full node to verify the data they’re getting fed, such as transaction data, is correct.
+
+The technology has been a long-time coming. Connecting hardware to a full node is also one of the key goals of Electrum Personal Server, pioneered by developer Chris Belcher. “Hopefully this software can be part of the plan to get full node wallets into the hands of as many people as possible,” he said in the project announcement post last year.
+
+There are pros and cons to each project, though, Provoost admitted.
+
+“The HWI project should reduce the number of separate software components needed, though at the moment I think it’s still less user-friendly [than Electrum Personal Server],” he said.
+
+And there’s still a ways to go to get the graphical interface totally working. “Maybe one day in the future we’ll have this graphical picture that I showed you – and after that we’ll have unicorns,” Provoost said in his presentation on the topic.
+
+Further features
+
+While hardware wallet support in 0.18 has generated much excitement, As usual, the release is filled with other contributions from the pool of global Bitcoin Core contributors.
+
+Dobson told CoinDesk about a few features he finds “exciting,” including refinements to a new “language” that the groundwork was laid for in an earlier version of Bitcoin Core. New commands will allow developers to use this language to “import descriptors.”
+
+“You can provide such a descriptor to Core […] and it will parse it and import the keys, scripts, etc. into your wallet for you,” Dobson said, explaining further:
+
+“This is the first step in a longer term goal to rework the wallet and support these descriptors natively within it, which will clean things up immensely and provide a much more natural behaviours, in line with how you would expect things to behave (and which don’t exactly behave that way currently).”
+
+Dobson also pointed to a new “multiwallet” command, which will allow users to pair with multiple wallets within their bitcoin core full node. While the ability to use multiple wallets at once has existed in the code previously, 0.18.0 plugs the feature in the graphical user interface for the first time, so people no longer have to be full-blown developers using the command line to take advantage of the feature.
+
+“Version 0.18 adds support to the GUI to do that, as well as a few improvements in how it works too,” Dobson said.
+
+As of now, version 0.18 is in the “release candidate” stage of the software development cycle, meaning passionate bitcoin developers and companies are still testing it, picking away at the code in an effort to eradicate any bugs, before it’s released to the larger public to download.
+
+According to project developers, it will be available for users to download in the coming weeks.
+
+Bitcoin image via Shutterstock

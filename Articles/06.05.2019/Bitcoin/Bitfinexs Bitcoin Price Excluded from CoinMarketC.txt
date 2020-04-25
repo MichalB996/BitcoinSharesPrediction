@@ -1,0 +1,27 @@
+DATE:  06.05.2019, 08:00:09
+TITLE: Bitfinex’s Bitcoin Price Excluded from CoinMarketCap Average Calculation
+URL:   https://www.coindesk.com/bitfinexs-bitcoin-price-excluded-from-coinmarketcap-average-calculation
+
+Cryptocurrency data provider CoinMarketCap has excluded bitcoin prices provided by the troubled Bitfinex exchange from its weighted average calculation.
+
+Now, when checking BTC/USD data on CoinMarketCap, it shows a single asterisk mark for Bitfinex’s price, with the message at the bottom “Price excluded.”
+
+Notably, at time of writing, bitcoin is trading at a premium of over $300 on Bitfinex as compared to other major exchanges. For instance, on Coinbase and Gemini, the price is around $5,650, while on Bitfinex it is around $5,985.
+
+In its methodology description on its website, CoinMarketCap states the conditions for such exclusions saying:
+
+“The price of any cryptocurrency is a volume weighted average of market pair prices (1) for the cryptocurrency. … Some prices are manually excluded from the average, denoted by an asterisk (*) on the markets tab if the price does not seem indicative of a free market price; for example, when an exchange disables withdrawals or deposits, or regulatory conditions make it impossible for anyone else outside of a certain geographical region to buy coins. Some prices are also automatically excluded when our algorithms detect that the reported price is a significant outlier when compared to other market pairs for the same cryptocurrency, denoted by three asterisks (***) on the markets tab.”
+
+The exclusion from CoinMarketCap’s calculations comes as Bitfinex continues to be mired in controversy. Late last month, the New York attorney general alleged that the exchange, which shares management and owners with stablecoin issuer Tether, lost $850 million of corporate and client funds and subsequently used a loan from Tether’s reserves to secretly cover the shortfall.
+
+Bitfinex later claimed that the funds had been “seized” by various authorities and that it was working to retrieve the funds.
+
+Bitfinex has now launched what’s termed an initial exchange offering (IEO) to raise as much as $1 billion through a token sale. Though an official white paper for the offering is not yet out, Bitfinex shareholder Dong Zhao has already started taking pre-orders from users who want to participate in the sale.
+
+Last January, Bitfinex and Tether were subpoenaed by the U.S. Commodity Futures Trading Commission, although the regulator did not publicly state why.
+
+CoinMarketCap previously changed the way it used data from Bitfinex in response to a report by CoinDesk that pointed out that a trading pair shown on CoinMarketCap – apparently for trades between the tether stablecoin (USDT) and U.S. dollars – did not, in fact, represent a pair available for trading on Bitfinex. In response, CoinMarketCap said it was excluding that pair from its volume data.
+
+The data provider also formed a new alliance last week, called the Data Accountability & Transparency Alliance (DATA), with Bitfinex and other exchanges on board, in order to tackle concerns over cryptocurrency data reporting.
+
+Bitcoin and Bitfinex image via Shutterstock; Screenshots via CoinMarketCap and TradingView

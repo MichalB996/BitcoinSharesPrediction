@@ -1,0 +1,61 @@
+DATE:  26.03.2020, 14:29:23
+TITLE: The Nuances of OKEx Linear and Inverse Futures/Swap and How to Maximize Your Profit
+URL:   https://www.newsbtc.com/2020/03/26/the-nuances-of-okex-linear-and-inverse-futures-swap-and-how-to-maximize-your-profit/
+
+This article is targeted to the intermediate and sophisticated traders who are already familiar with the basics of index arbitrage. There are other resources available on OKEx Academy if you need more explanations on the concepts of basis, margining and fair value calculation. Today, we’re going to discuss a trade that would have returned >10% last month. The idea is very similar to the borrow and carry trade discussed here. For ease of discussion, we assume that we build an index arbitrage position on February 12 and then unwind it on March 13 at the most favorable time. However, the meat of the discussion arises from the discussion of how to maximize return on capital and lower risk by using both OKEx’s inverse and linear futures.
+
+The Vanilla Trading Idea
+
+The graphs below show the percentage basis on Feb 12 and Mar 13, 2020. Each graph includes the percent basis of both OKEx inverse coin-margined USD futures and linear USDT-margined futures. On a quick glance, we can see how linear future basis is consistently higher than the inverse future basis, which we will discuss later. This spread between the two BTC quarterly futures is driven by the external lending rate of the underlying and also how margining works.
+
+On Feb 12, the market was trading contango, near quarter futures were trading ~5% above spot price, and the trading floor lingo we should use is that the futures were trading ‘rich’. One month later on March 13, the market traded at backwardation, with near quarter futures trading at trough of~-15%, both futures were trading ‘cheap’. The trade is to buy spot & sell rich futures on Feb 12 and then unwind by selling spot & buying back cheap futures on Mar 13 for a hefty 20% return for a one-month holding period. The idea of this index arbitrage trade is quite simple but the devil is in the details.
+
+Maximizing capital usage and maximizing profit
+
+Timing the basis is impossible so you don’t expect to truly make this 20%. Since we are not able to predict futures basis and don’t know when is the exact time to build and unwind our inventory, let’s take a look at other parts of the equation, which futures to use and why. We will now turn our attention to maximizing our return per capital and lowering our risks.
+
+Nuance 1: If inverse and linear futures have the same positive basis, it is better to use inverse futures to build index arbitrage position?
+
+OKEx is the only exchange that offers both inverse and linear futures. The margin of these BTC futures is BTC and USDT respectively. Now, assume you have $10,000 for arbitrage, which means you can buy $10,000 worth of BTC and sell $10,000 worth of BTC futures. Which future should you use? The USDT future actually has a higher basis of ~0.7 due to their margin requirements. If you choose inverse futures, you would buy $10,000 of BTC and use it as the future collateral, essentially you would never get forced-liquidated because of the inverse payout nature (see example1).
+
+# Example 1: (Assume fee = 0, leverage = 10x)
+
+Entered at 15:00:00 on Feb 13, the liquidation price is infinite.
+
+Assume we hold the position until expiry and unwind the spot position and settle the future at the same price (and 1 USDT = $1) , your return will be ~5%, which will be around 0.0492 BTC （~$513）.
+
+If you decided to capture more basis with the linear USDT futures, you need to reserve a significant amount of cash and buy USDT to margin the linear future. Per index arbitrage position, the basis captured would be more but per capital usage, you captured less dollar basis. Most importantly, there is a chance you could get forced-liquidated if the market shoots up, because there are unlimited downside shorting futures.
+
+Nuance 2: If inverse and linear futures have the same negative basis, it is better to use linear futures to unwind index arbitrage position?
+
+Conversely, if both inverse and linear futures are trading at a discount to spot, which futures should you use and why? Following the above logic, all things else equal, you should use the linear future to build a reverse arbitrage position (sell spot buy future). When you sell spot in the OKEx spot market, you get back USDT. Using this USDT, you can do 1:1 margin of your long future position. You will essentially never be forced-liquidated unless market drops 1-MMR % (see example2).
+
+Example 2: (Assume fee = 0, leverage = 10x)
+
+Entered at 08:00:00 on MAR 13, liquidation price would be around ~20.
+
+If unwind during expiry on Mar 27, and assuming the linear future settles at $4794, your return will be 8.4%, which will be around 840 USDT.
+
+Nuance 3: To maximize capital usage and use leverage, you can do a mix of sell inverse futures, buy linear futures.
+
+Assuming 1 USDT = $1, nuances 1 and 2 explains why linear futures should consistently price higher than inverse futures. If you are capital strapped, you can try trading the spread of the futures. For example, if there is a lower demand for linear futures in the market than inverse futures, then the basis of the inverse future will be higher. You can then buy USDT futures and sell inverse futures and capture the spread. Since there is no need to buy nor sell spot, you can leverage upon this basis trade (but be careful of market moves, it can knock out one leg) and potentially earn more. OKEx’s unique USDT linear futures gives rise to more arbitraging opportunities.
+
+Arbitrage: It’s never really risk-free
+
+In academic sense, ‘arbitrage’ means risk-free profiting opportunity. This word is loosely used by traders, we would like to believe our trades are risk-free, but really it’s not. The better traders were able to survive the dark March 13th drop because they were prepared for high volatility. Leverage is a double-edged sword, a gap up or down could quickly liquidate your position before you have a chance to re-margin. The major index arbitrage risks we have are liquidation, clawback, counterparty and tether exposure.
+
+Binance applied auto deleveraging (ADL), a type of force liquidation on a winning position, on their users positions on March 12. ADL is much worse for a trader than liquidation in some senses. First of all, you never know when ADL happens to you. Your downside of getting your short position forced-liquidated via ADL means, you lose significantly if the market continues to go down. ADL in a future market makes it impossible to hedge. At OKEx, we don’t use ADL for our Bitcoin derivatives.
+
+As OKEx is a decentralized futures exchange, we implement a clawback policy instead, where winning positions gets deducted some of their P&L if counterparty positions can’t be forced-liquidated in time and there is not enough insurance funds to cover the downfall. This is a better alternative than ADL, as you would only lose some of your P&L in the worst-case scenario while retaining your hedge. Since revamping our risk engine in 2018, we have not had any BTC clawbacks in any of our BTC derivatives. The Mar 12 drop has proved our sophisticated risk engine to be industry-leading.
+
+As traders, we can try to lower our forced-liquidation risk as we are aware of when that will happen. Nuances 1 and 2 showed liquidation risks can be reduced by using different futures for taking a long or short exposure. In the worst case, if your long hedge position were forced-liquidated because of margin requirements, there is still a high chance you can reopen the same position at a gain because market continued to drop.
+
+Finally, when you put on a position involving Tether (USDT), you are inadvertently giving yourself a counterparty risk against Tether. For example, if you sell rich USDT linear futures and buy cheap BTC inverse futures, you are longing USDT and shorting dollar. If USDT de-pegs and crashes with all else equal, BTC-USDT will shoot up and you will owe USDT. Conversely, you can consider hedging any auxiliary tether exposures by trading a combination of OKEx’s linear and inverse futures.
+
+Conclusion
+
+OKEx’s unique combination of different tenures and types of margined futures allows traders to create many types of carry trades. You can arbitrage between different implied rates or arbitrage between different margined futures. In terms of improving your risk profile, we showed that there is less margin call risk shorting inverse futures than shorting linear futures (and vice versa). Finally, you can build a position between linear and inverse futures to hedge tether exposure. Taking all types of tenures and products in consideration, OKEx have the deepest liquidity and best trading opportunities of all exchanges.
+
+Disclaimer: This material should not be taken as the basis for making investment decisions, nor be construed as a recommendation to engage in investment transactions. Trading digital assets involves significant risk and can result in the loss of your invested capital. You should ensure that you fully understand the risk involved and take into consideration your level of experience, investment objectives and seek independent financial advice if necessary.
+
+About the Author: The author of this article is Thomas Tse, Head Quantitative Strategist at OKEx.

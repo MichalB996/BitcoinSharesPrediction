@@ -1,0 +1,37 @@
+DATE:  02.11.2019, 01:30:14
+TITLE: Trusted Friends Can Become Crypto Custodians With the Vault12 Platform
+URL:   https://news.bitcoin.com/trusted-friends-can-become-crypto-custodians-with-the-vault12-platform/
+
+Trusted Friends Can Become Crypto Custodians With the Vault12 Platform
+
+A firm called Vault12 launched its new passkey security solution for cryptocurrency assets. Vault12 is an application that allows people to enlist their trusted friends and family members to help safeguard their assets. According to the project’s creators, the new application leverages the cryptographic algorithm Shamir’s Secret Sharing which allows keys to be split in a distributed fashion.
+
+Also Read: French Ministry of Education Publishes Bitcoin Resource Guide for Educators
+
+Distributing Digital Asset Seeds Using Vault12 and Shamir’s Secret Sharing
+
+Vault12 believes there’s a dire need to safeguard crypto assets as the onset of blockchain-powered innovation continues to grow exponentially. Since the birth of Bitcoin and a slew of other digital currencies, various applications and devices like hardware wallets have been created to protect cryptos. Vault12’s new product allows individuals to take advantage of trusted family members and friends who are willing to help them secure digital currencies. Moreover, guardians are rewarded with ethereum (ETH) to protect the assets as well, giving the trusted network of friends incentive to be a safe keeper. The project officially launched at the San Francisco Blockchain Week and the company is backed by investors like Naval Ravikant, True Ventures, Data Collective, and Winklevoss Capital.
+
+The Vault12 white paper explains when it comes to precious digital assets, there is an “unprecedented threat level” looming for people in need of a strong security solution. “To protect these assets, we need a new cryptographic security platform – one that does not leave security centralized in a single place, with a single person, on a single device or in a single organization,” the research paper details. In order to bolster the security of digital currencies even more, the firm created a decentralized storage system for digital assets via a hierarchical Shamir’s Secret Sharing (SSS) system. The SSS infrastructure is a well known algorithm in cryptography designed by the cryptographer and mathematician Adi Shamir. Essentially the secret (passkey) is shared in the distributed Vault12 system between 3-5 trusted contacts giving each participant its own unique part.
+
+Vault12 Hopes to Fill the Gap Between the Digital Currency Economy and Unresolved Security Challenges
+
+Vault12 allows any owner to set up a vault with friends and family. Custodians can always be recruited from the owner’s personal network at any time. But high-net-worth individuals who need added security can opt for a professional custodian service (PCS). However, the registration for this service requires far more effort and additional safeguards like verifying the owners’ identity with a government-issued ID. “One of the unresolved challenges for the mass adoption of cryptocurrency and the blockchain economy is the continued challenge and burden associated with securing crypto assets,” said Max Skibinksy, cofounder and CEO of Vault12. Skibinksy further added:
+
+Previously, to keep our digital money safe, we had to keep our extremely valuable cryptographic backups on pieces of paper and store them in traditional banks. It was ironic. We built Vault12 to be an innovative, convenient solution that replaced this cumbersome process.
+
+Vault12 Setup
+
+Setting up the Vault12 application is a fairly simple process, but you need to decide on 3-5 trusted individuals to help secure your assets. That part of the process may take longer, but setting up the vault after this decision is made doesn’t take too long. The app works for Android and iOS devices and when opened, it immediately asks you if you want to set up a vault and then asks permission to access your phone’s contacts. The company claims the information is not held on the company’s server and you can skip this part and manually add each contact individually as well. After deciding on sharing your contacts with the application, the platform asks you for your name so you can be identified by your guardians helping you protect your vault.
+
+The platform then requires you to choose the number of guardians between 3-5 contacts and the more custodians you use, the more secure the vault will be. Once you save the security level (number of guardians), you cannot change it unless you start a whole new vault. If you opted to manually add contacts, you can send them an invitation or scan their device if they already have Vault12 installed. To add digital assets to the vault you simply upload a picture of the seed phrase or use a file containing the seed. The application will inform you of how many people are guarding the seed held within the Vault12 system.
+
+Overall the Vault12 method is an interesting, novel method of safekeeping digital assets but people may have a hard time with a few requirements such as sharing their name, phone number, and contacts. People also may not trust the upload part where the user is required to upload a file or an image that contains a seed phrase protecting digital assets. However, the project’s key elements are open source and Vault12 users can take a look at the ZAX relay network infrastructure and the distribution of how the shards work. “In the future, other elements of the platform will be released as open-source libraries,” Vault12’s website notes.
+
+What do you think about the Vault12 digital currency storage system? Would you use an application like this or are there concepts about the security approach that you don’t like? Let us know what you think about this subject in the comments section below.
+
+Disclaimer: Walkthrough editorials are intended for informational purposes only. There are multiple security risks and methods that are ultimately made by the decisions of the user. There are various steps mentioned in reviews and guides and some of them are optional. Neither Bitcoin.com nor the author is responsible for any losses, mistakes, skipped steps or security measures not taken, as the ultimate decision-making process to do any of these things is solely the reader’s responsibility. This editorial is not a recommendation or endorsement by Bitcoin.com or the author of any products, applications, software, services, or companies mentioned in this article.
+
+Image credits: Shutterstock, Vault12, and Pixabay.
+
+Did you know you can buy and sell BCH privately using our noncustodial, peer-to-peer Local Bitcoin Cash trading platform? The local.Bitcoin.com marketplace has thousands of participants from all around the world trading BCH right now. And if you need a bitcoin wallet to securely store your coins, you can download one from us here.

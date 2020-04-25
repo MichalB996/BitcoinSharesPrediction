@@ -1,0 +1,37 @@
+DATE:  26.03.2020, 09:00:00
+TITLE: Pandemic Spurs Demand for Bitcoin Estate-Planning Services CoinDesk
+URL:   https://www.coindesk.com/bitcoin-firms-report-uptick-in-demand-for-inheritance-services
+
+Cryptocurrency startups are reporting increased demand for estate-planning services as the coronavirus outbreak motivates users to make sure their coins are passed on to heirs.
+
+Casa and Unchained Capital said they have seen a dramatic rise in requests for proof-of-death or similar multi-signature wallet schemes that enable customers’ bitcoin to be transferred to a loved one following an untimely death.
+
+“We've seen more demand [than at any other time] in our history over the past month for vaults,” Unchained Capital Chief Product Officer Will Cole said. “Many vault customers set up via trust or other inheritance supported entities. That's been true the past few weeks as well.”
+
+Bitcoin’s (BTC) seizure-resistant technology makes it impossible to transfer without the consent of someone holding a private key. If bitcoin is to be money, it needs infrastructure to handle assets when life’s prevailing circumstances alter one’s plans, such as a medical accident or death.
+
+Casa CEO Nick Neuman said half of recent inbound sales prospects have specifically asked about the firm’s inheritance service, Casa Covenant.
+
+The firm – which focuses on user-friendly private key storage solutions – has had three times the number of clients in the first three weeks of March than January and February combined for its Diamond class product, which includes the inheritance wallet service, Neuman said.
+
+Casa is looking to add the feature to its first- and second-tier services, Gold and Platinum, soon, he added.
+
+“We allow clients to hold their own private keys and securely pass their bitcoin on to their heirs in the case that doing so is necessary so that clients don't ever have to relinquish control of their bitcoin to a third party,” Neuman said.
+
+Not just bitcoin
+
+Meanwhile, the outbreak has strengthened Ethereum developers’ motivation to create similar infrastructure for Bitcoin’s top competitor.
+
+Even before coronavirus became a household name, the Alfred project at Denver’s Ethereum hackathon was building a suite of tools for transferring tokens under the ERC-20 and ERC-721 non-fungible token (NFT) standards.
+
+Project member Seth Goldfarb said the team chose the name Alfred to put a kind face on an uncomfortable topic.
+
+Read more: Casa Is Helping Bitcoin Investors Pass on Their Holdings When They Die
+
+From a technical perspective, the system would have two parts: an oracle service regularly scanning public sources for death announcements, and an escrow service, Goldfarb said.
+
+When the oracle detects a subscriber’s death, the escrow system would begin a countdown to sending the user’s digital assets to a chosen third party such as a family member. A “life alert” button could stop the escrow service from going through if needed, Goldfarb said. For now, the project remains in the development stage, however.
+
+While an unsavory topic, inheritance protocols are a necessary part of the tech stack if digital assets are to endure, particularly if they rise in value.
+
+“It’s not nice to think about, but it may [be] prudent to have a detailed plan for what will happen to your Bitcoin when you die,” Lightning Labs engineer Alex Bosworth said on Twitter.

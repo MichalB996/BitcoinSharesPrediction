@@ -1,0 +1,39 @@
+DATE:  08.01.2019, 15:10:51
+TITLE: Major Mining Pools Have a ‘High Die-Off Rate’ Study Reveals
+URL:   https://news.bitcoin.com/major-mining-pools-have-a-high-die-off-rate-study-reveals/
+
+Major Mining Pools Have a ‘High Die-Off Rate’ Study Reveals
+
+On Monday, Coinmetrics.io published a study looking at hashrate history of the most competitive BTC mining pools. The research from the open source cryptocurrency analytics site reveals interesting insights into how the mining ecosystem has evolved over time.
+
+Also read: Connecticut Software Engineering School Receives $10,000 BTC Donation
+
+‘Major Mining Pools Are Fallible’
+
+Cryptocurrency mining is a very competitive industry that has grown significantly in recent years. The processing power of all the SHA-256 algorithm-based coins is more powerful than the world’s supercomputers combined, and individuals and businesses have sunk billions into the mining industry. On Jan. 7 Coinmetrics.io released some interesting research concerning the mining pools processing thousands of BTC blocks over the years. The research team at Coinmetrics explained that the analysis was in response to an Ark Invest issue published last year which lightly touched upon the mining industry and hashrate distribution.
+
+The authors state that the data used in the Coinmetrics report stems from well-known sources like BTC.com and Bitcoinity, but the team also parsed the coinbase outputs from the last 450,000 BTC blocks. These days, most mining pools use the coinbase parameter to identify themselves when a block is mined on the blockchain. Coinmetrics explains the habit is completely voluntary and in the early days, miners did not identify themselves in this manner. Due to this factor, Coinmetrics skipped the first 100,000 blocks when parsing the chain. After sifting through the particulars, the researchers were able to identify 37 individual mining pools or large solo miners. The statistics suggest that these bitcoin miners mined at least 0.1% of the blocks in the period.
+
+“The striking conclusion from the all-time chart is just how fallible major mining pools are: several influential pools which once controlled significant fractions of Bitcoin’s hashrate – BTC Guild, Ghash, BTCC – are now totally defunct,” the report emphasizes.
+
+Coinmetrics continues by stating:
+
+Indeed, few pools seem to be truly persistent, F2pool and Slushpool being notable exceptions.
+
+The Rise of Unknown Miners in 2018 and a Shrinking Reward Distribution
+
+One notable aspect from the report is that there’s been a significant rise of “unknown miners” or operators choosing not to identify themselves in 2018. There could be a variety of reasons why there’s been a spike of unknown miners, such as for privacy and political reasons. The Coinmetrics research also details that operations like F2pool have seen a significant drop in hashrate and Antpool’s slice of the pie has “moderately declined.” BTCC and BW.com have closed operations and Bitfury’s hashrate has dropped as well. Both F2pool and Antpool have dominated with roughly 83,000 blocks combined, but to this day BTC Guild still holds the most captured BTC by pool. This factor is due to the block rewards shrinking, as pools could amass a lot of coins if they had a sizable amount of hashrate back in the day.
+
+Most veteran bitcoiners will remember the old mining pool giants of the past mentioned in the Coinmetrics report. Back then there were plenty of BTC Guild memes and proponents begging individual miners to stop mining with the pool when it gathered 48 percent of the network’s hashrate five years ago. The same thing happened a year later with Ghash when the community was up in arms after the pool gathered more than 51% of the network multiple times in June 2014. Researchers Ittay Eyal and Emin Gün Sirer from the publication Hacking, Distributed explained the situation in great detail at the time and stated:
+
+Actually, it became a 55% miner for almost a day. And prior to that, it seems to have tested the waters over a period of 10 days or so, perhaps gauging the public’s reaction.
+
+One factor not mentioned in the Coinmetrics report is the hashrate variations that have stemmed from Bitcoin forks. A lot has changed in the last two years and since August 2017 there’s been some variance of miners switching between the BTC and BCH hashrate as well.
+
+Because many mining pools like Antpool, Viabtc, F2pool, and BTC.com mine both chains, there was a notable divergence between the two chains’ mining profitability up until December 2017. Spectators also noted a slight deviation of pools switching hash during the BCH hashwars that started on Nov. 15 last year. The Coinmetrics analysis concludes by saying that there are a lot more stories in the data they scraped and they have “only begun to scratch the surface.”
+
+What do you think about the recently published Coinmetrics report on mining pools? Let us know what you think about this subject in the comments section below.
+
+Image credits: Coinmetrics.io, Coin Dance, and Shutterstock.
+
+Have you seen our widget service? It allows anyone to embed informative Bitcoin.com widgets on their website. They’re pretty cool, and you can customize by size and color. The widgets include price-only, price and graph, price and news, and forum threads. There’s also a widget dedicated to our mining pool, displaying our hash power.

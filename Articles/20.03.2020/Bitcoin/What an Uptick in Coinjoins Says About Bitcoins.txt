@@ -1,0 +1,60 @@
+DATE:  20.03.2020, 09:00:00
+TITLE: What an Uptick in ‘Coinjoins’ Says About Bitcoin’s Value Proposition
+URL:   https://www.coindesk.com/what-an-uptick-in-coinjoins-says-about-bitcoins-value-proposition
+
+With the global economy reeling from the coronavirus crisis, bitcoiners are increasingly turning to crypto wallets with privacy features.
+
+A masking feature called “coinjoin” batches transactions together so it’s harder to identify specific participants. Some refer to it as “mixing,” but others dislike that term for its associations with money laundering.
+
+The bitcoin-centric Samourai Wallet, a suite of apps that operates without the involvement of a central custodian, facilitated more batched transactions so far in March than any other month since the feature was first released on desktop last summer.
+
+According to bitcoin podcaster Matt Odell, the competing Wasabi Wallet is currently the most popular coinjoin option, with 3,769 downloads since March 3, followed by Samourai Wallet then JoinMarket. Odell said Samourai’s addition of Whirlpool mobile support in February 2020 was “a game-changer.”
+
+“Mobile support is a huge step forward in user experience,” Odell said. “All bitcoin users should be encouraged to use coinjoin otherwise they expose their transaction history to those they pay and those who pay them.”
+
+By his tally, the number of coinjoin cycles run through Whirlpool this month is 4,758, more than double the number in February. Samourai Wallet said in a statement that the term “collaborative transaction” is more accurate than the colloquial “mixing” because transactions happen directly between users.
+
+“This is a fundamentally different proposition than custodial tumblers or ‘mixers’ like Helix,” said Samourai Wallet, referring to the service that landed its creator in legal trouble with the U.S. Department of Justice last month.
+
+However, it’s tricky for new bitcoiners to use such privacy tech because many exchanges, like Coinbase, Binance or even smaller exchanges like Bits of Gold, flag mixing wallets as a sign of suspicious activity.
+
+Although Bits of Gold CEO Youval Rouach said his exchange saw hundreds of new users over the past two weeks, with new user signups up over 139 percent, they won’t be able to cash out to Samourai Wallet.
+
+“We see regulation not as a hurdle, but as a step forward toward mainstream adoption,” Rouach said, adding that regulators may consider mixer wallets a “red flag” and “brokers should report those transactions to the anti-money laundering authorities.”
+
+In the U.S., attorney Rafael Yakobi said such policies aren’t necessary because there are legitimate safety considerations for maintaining financial privacy.
+
+“Maintaining the privacy of your balances and ties to all past and future transactions, that’s not suspicious,” Yakobi said. “It’s just a normal thing that people should be doing.”
+
+Separately, he believes the Financial Crimes Enforcement Network’s (FinCEN) May 2019 guidance indicates non-custodial services are exempt from money transmitter requirements because they don’t “accept and transmit value on behalf of users.”
+
+Attorney Gabriel Shapiro is less certain about FinCEN’s approach to non-custodial wallets with group transactions.
+
+“Money transmitter laws are very broad and powerful,” Shapiro said. “I am not confident that the mere fact that Samourai does [group transactions] on a ‘non-custodial’ basis is sufficient to protect them from the ambit of financial regulations.”
+
+Regardless of legal ambiguity in some jurisdictions, privacy tools are essential to bitcoin’s value proposition.
+
+Value proposition
+
+Bitcoin Core contributor James O’Beirne said the coronavirus crisis is inspiring some bitcoiners to question bitcoin’s core value proposition.
+
+"The inflation hedge use case becomes less compelling if bitcoin's performance mirrors equities; everyday investors will just use what they're already familiar with, which is stocks," O’Beirne said. "Bitcoin has been prone to the same liquidity-induced sell-offs that stocks have, it's been kind of sobering. ... I think that will continue as traditional markets continue to decline."
+
+The price drop is especially relevant to businesses like miners and exchanges. If the bitcoin price drops low and stays there, it will be less profitable for miners to power the network.
+
+"Then all the commercial infrastructure of bitcoin is generally going to require longer block confirmation times,” O’Beirne said. “If the security gets low enough in bitcoin, doing the final settlement might start to take as long as it does in the traditional system. Then that big benefit of bitcoin gets impaired.”
+
+Bitcoin’s prospective usage as an investment hedge or faster payments network remains unclear. But the censorship resistance use case is still intact so far. According to a source with knowledge of the matter, there is a six-man effort to use cryptocurrency to buy supplies for a medical mask factory in Iran, a nation devastated by both economic sanctions and a coronavirus outbreak that claimed more than 1,284 Iranian lives so far.
+
+These rare cases, using cryptocurrency to buy medicine or supplies despite compliance challenges, do not appear to be a leading use case for the growing popularity of group transactions. When asked if they use such privacy tools, the Iranian factory source said he doesn’t know what a “mixer” is and they’ve used just $1,000 worth of cryptocurrency, both bitcoin and the stablecoin tether (USDT).
+
+As Yakobi pointed out, many bitcoiners around the world see batched transactions as a regular part of their privacy-tech setup. Batching bitcoin might be comparable to choosing not to write your name in ink on every dollar bill you accept or send.
+
+Since the Bitcoin blockchain is public, regular transactions state the user’s address in simple, clear letters. Not writing your name is a good way to not attract stalkers or thieves down the line. O’Beirne said bitcoin is still in its infancy, too immature as a technology to be useful for resisting law enforcement. Beyond fungibility, self-custody is still rare among bitcoin enthusiasts.
+
+“In reality, maybe 0.1 percent of anybody is going to do that [self-custody],” O’Beirne said. “But having this option is really important.”
+
+Along those lines, Tel Aviv Bitcoin Embassy volunteer Sarah Wiesner said batched transactions are becoming more important as governments like her own in Israel ramp up surveillance measures in the name of coronavirus containment. She sees learning about such privacy-focused wallets as a routine security step for the real circumstances she lives in.
+
+“A mixer is not enough, you also need to make your device somewhat safe from mass surveillance,” Wiesner said. “With cash being banned or discouraged [in Tel Aviv], using mixers will be much more important.”
+

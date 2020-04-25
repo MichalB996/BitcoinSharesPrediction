@@ -1,0 +1,31 @@
+DATE:  29.04.2019, 18:15:00
+TITLE: A Bitcoin Cash Fork of Decentralized Exchange Bisq Is on the Horizon
+URL:   https://news.bitcoin.com/a-bitcoin-cash-fork-of-decentralized-exchange-bisq-is-on-the-horizon/
+
+A Bitcoin Cash Fork of Decentralized Exchange Bisq Is on the Horizon
+
+Two Bitcoin Cash (BCH) community members recently offered up a bounty for someone to fork the decentralized trading platform Bisq using BCH as the native currency. Now it seems a programmer has started the project in order to port Bisq over to BCH with help from BCH developer Pokkst’s Bitcoincashj implementation. The project is still in the midst of development but the platform works on Intellij and the programmer says Bitcoin Cash is very close to getting its own decentralized exchange.
+
+Also read: Bitmain Aims to Leapfrog Competition With Its Next-Gen Bitcoin Miner
+
+This Developer Forked the Dex Bisq and Bitcoin Cash Will Be the Native Currency
+
+Bitcoin Cash supporters were not pleased a few months ago when the Bisq exchange dropped support for BCH after the November blockchain split. Bisq is a noncustodial and decentralized exchange (DEX) that uses a multi-signature escrow system in order to execute settlement without the need for a third party. The DEX phenomenon has recently started to gain more attention after centralized exchanges continue to drop the ball and lose millions of dollars in cryptocurrencies. After the delisting of BCH on the Bisq DEX, two BCH community members on Reddit called u/ftrader and u/7e62ce852 offered up a bounty for someone to fork the Bisq protocol for use with BCH.
+
+Following the two offers, many other BCH proponents put up sums of BCH to fund the bounty as well and there’s now close to $5,000 in bitcoin cash up for grabs. Since then, developer Emilio González from Mexico announced he has proceeded to fork the Bisq software and has used the anonymous developer Pokkst’s Bitcoincashj framework, a Java implementation of the Bitcoin cash protocol.
+
+“The project uses Bitcoincashj and, well, that’s pretty much everything so far,” the programmer detailed on April 28. “I got school to attend and exams to take, so it’s been kinda slow, but the good news is that as of now ‘Bisq-Cash’ (re-branding maybe?) does work and we are much closer to get a dex of our own.”
+
+The developer also noted that the forked project is currently hosted on the Bisq Github repository and located at the “cash” branch. In a few days, after exams, the programmer intends to change the price nodes to BCH instead of BTC, alongside adding the Cashaddr address format instead of legacy addresses. The developer Pokkst explained that it was great to see his Bitcoincashj fork being used in the wild and offered to help the DEX development move forward while the creator was busy with exams. The community member u/ftrader, who originally offered a large sum of the bounty money, said it was great to see some progress with the fork. He also suggested that the developer change the name from Bisq to something else and said it would be “a good idea to raise an r/btc post to brainstorm some good new name for the project eventually.”
+
+BCH Supporters Hope for Cashshuffle Support
+
+The developer of the original Bisq application, Manfred Karrer, also asked the programmer of the fork to change the name so it won’t “cause confusion to users.” Another BCH user said that he believed Bisq was the only fiat-to-crypto DEX he knew of and noted that “it’s worth porting.” “With Bisq you usually pay a premium when you buy bitcoin, and BTC fees make it worse — BCH low fees plus Cashshuffle would make Bisq better,” they added. Other BCH supporters tipped the developer small fractions of BCH using the Tippr bot after he announced the forked protocol was ported to BCH.
+
+A flurry of Bitcoin Cash development continues and the latest Bisq fork announcement is just one of many on the horizon. Cashshuffle is one of those developments, an application that was recently launched via the Electron Cash wallet and will soon be implemented on other light wallets. With the Cashshuffle project being at the forefront of people’s minds, some BCH supporters commenting on the Bisq fork announcement thread asked the programmer to implement Cashshuffle into the platform. They believe adding an extra layer of privacy to the application like Cashshuffle would be a positive step. “This use case begs for mandatory Cashshuffle, thankfully BCH makes this completely affordable — a couple of cents for anonymity on a DEX seems like a no-brainer,” another commenter remarked. Overall, most of the BCH proponents who commented on the subject seemed delighted to see the DEX forked for the Bitcoin Cash network.
+
+What do you think about the Bisq DEX being forked for the BCH protocol? Let us know what you think about this subject in the comments section below.
+
+Image credits: Shutterstock, Pixabay, Reddit, and Github.
+
+Did you know Bitcoin.com will soon be launching a peer-to-peer trading platform called Local Bitcoin Cash? The service will allow for direct exchange with people trading BCH all around the world. At Bitcoin.com we’re excited and it’s coming soon! If you want to stay notified for when the hottest new trading platform launches – Sign up here today!

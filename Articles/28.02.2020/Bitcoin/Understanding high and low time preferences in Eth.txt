@@ -1,0 +1,105 @@
+DATE:  28.02.2020, 12:53:41
+TITLE: Understanding high and low time preferences in Ethereum
+URL:   https://toshitimes.com/understanding-high-and-low-time-preferences-in-ethereum/
+
+Are you curious about high and low time preference and what it means? Keen on learning why these concepts are key to the Ethereum developers and enthusiasts? Great! You’ve come to the right place. To learn blockchain development and be certified I recommend visiting Ivan on Tech Academy.
+
+Blockchain is currently #1 ranked skill by LinkedIn. Because of that, you should definitely learn more about Ethereum to get a full-time position in crypto during 2020.
+
+In my first and second pieces, I’ve discussed Ethereum 2.0 and the best tools for developers. In my third and fourth articles, I’ve discussed quadratic voting and open governance models. Then, in my fifth piece, I’ve looked into Swarm’s infrastructure.
+
+In my sixth, seventh and eight ones, I’ve dove-deep into consensus algorithms and the blockchain trilemma. Lastly, I’ve looked into blockchain sharding technology, which projects are making it thrive and I’ve done an intro to Plasma and Looms.
+
+Last week, I’ve explained the importance of blockchain explorers, why tBTC matters for Ethereum developers and the difference between cryptocurrencies, crypto-tokens and stablecoins.
+
+This week I’ve discussed the value of cryptocurrency networks, hot and cold storage systems and why privacy matters to the crypto-space. Today I’m looking into high vs low time preference and what it means for crypto-enthusiasts. Why should Ethereum developers care about high and low time preferences?
+
+Let’s find out!
+
+Low vs high time preference
+
+To fully understand which time preference might be more beneficial in the long term, I will look at an example of how both low and high time preference investors build their portfolios and distribute their money.
+
+But first, let’s start with definitions. According to Wikipedia, from an economics perspective, time preference relates to the following:
+
+“Time preference (or time discounting) is the current relative valuation placed on receiving a good at an earlier date compared with receiving it at a later date.”
+
+Essentially, there is no absolute distinction that separates “high” and “low” time preferences. Only comparisons with other individuals. Someone with a high time preference is focused substantially on their current well-being relative to the average person. On the other hand, someone with a low time preference places more importance on their well-being in the further future.
+
+What this means is the higher the time preference, the higher the discount placed on present returns.
+
+Digging deeper
+
+Investopedia adds the following rather interesting view:
+
+“Liquidity preference theory posits that people prefer liquidity and must be induced to give it up. The rate of interest is intended to entice people to give up some liquidity. The longer that they are required to give it up, the higher the interest rate must be. Hence, interest rates on 10-year bonds, for example, are typically higher than on two-year bonds.”
+
+Of course, due to excessive government spending worldwide, some government bonds are starting to show signs of weakening. Not only are 10-year bonds giving lower returns than 2-year bonds, but the return is also negative – or below zero. This means lenders are paying interest to borrowers (the government), which makes little sense. Plus, investing in a bond for two years should give you a lower return than investing in a bond for ten years. Otherwise, the interest rate system is inverted.
+
+By looking at the broader economic spectrum, we can deduce that the world’s current time preference is set to high. People, in general, tend to use debt as an investment vehicle, as well as to increase their present consumption in detriment of future consumption.
+
+Does this mentality also apply when investing into Ethereum and Bitcoin? If so, how?
+
+Low time preference Bitcoin investors
+
+Low time preference generations produce prosperity, which produces high time preference generations, who bring ruin, which produces low time preference generations.
+
+
+
+Simolar to Glubb's The Fate of Empires & Search for Survival.
+
+Aslo Ibn Khaldoun's Muqaddima https://t.co/cw3D7qlbqa — Saifedean Ammous (@saifedean) July 26, 2018
+
+In essence, low time preference investors will choose to allocate a higher percentage of their income stream – be it salary or capital gains – to assets that may have a higher value in the future. A low time preference investor will try to sacrifice present consumption for future consumption.
+
+This definition explains why high time preference investors rely on debt to satisfy their present needs, instead of allocating smaller amounts of capital to multiple investments.
+
+Low time preference Bitcoin investors will allocate money earned – not money created from debt – into Bitcoin. Usually, this allocation happens periodically, like a daily, weekly, or monthly allocation of a percentage of earnings.
+
+Most likely, low time preference Bitcoin investors follow the dollar cost averaging strategy. It suggests investing the same (or similar) amount on a regular basis is more efficient and will yield higher returns than investing everything on a single transaction.
+
+Smart Bitcoin investors will prefer to invest money they can afford to lose, instead of depending 100% on the results of the Bitcoin market.
+
+In essence, we prefer to sacrifice present gains for future gains.
+
+High time preference Bitcoin investors
+
+High time preference behavior: Endorsing something you don't believe in.
+
+Low time preference behavior: Telling the truth. — Jimmy Song (송재준) (@jimmysong) August 24, 2019
+
+A high time preference Bitcoin investor will most likely rely on debt to satisfy their total investment needs.
+
+High time preference usually sacrifices future gains in favour of high-risk short-term gains. These investors will place bigger chunks of money into an asset class in one go, resulting in more concentrated capital from fewer parties. The chances of the market blowing up increase exponentially and people are generally unprepared as they have fewer savings. Higher time preference means present consumption increases and is usually financed by debt.
+
+Since debt is credit, what high time preference does is to shift the weight of paying, onto future generations.
+
+A high time preference investor will most likely use credit – so money that is not his/hers – to purchase assets and bloat the price. Remember what happened in late 2017?
+
+This means either the price of assets is constantly going up or, if there’s a minor drop, the fall can escalate quickly as people cash out their concentrated investments in fear of losing everything.
+
+High time preference investors sacrifice future gains by investing with leverage (credit is a form of leverage). Whatever the result may be, the value of money usually decreases in an economy ruled by high time preference. Credit (or leverage) adds fake liquidity into the market, meaning present prices will eventually increase exponentially given the improbability of future value being higher than present prices.
+
+Therefore, economies and investors lose future money because present money will always be more valuable.
+
+Resources
+
+Ivan On Tech Academy,
+
+Ivan On Tech ETH 2.0 code review,
+
+Build a blockchain in SECONDS,
+
+Functional programming in blockchain,
+
+ETH 2.0 discussion,
+
+Ethereum projects analysis,
+
+Role of consensus algorithms,
+
+Ethereum Plasma.
+
+tBTC paper.
+
+This article is not financial advisement

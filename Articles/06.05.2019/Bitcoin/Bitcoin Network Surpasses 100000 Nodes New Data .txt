@@ -1,0 +1,37 @@
+DATE:  06.05.2019, 14:00:57
+TITLE: Bitcoin Network Surpasses 100,000 Nodes, New Data Shows
+URL:   https://bitcoinist.com/bitcoin-network-surpasses-100000-nodes-new-data-shows/
+
+Bitcoin Bitcoin Network Surpasses 100,000 Nodes, New Data Shows
+
+The total number of Bitcoin nodes has exceeded 100,000 and not 10,000 nodes, as popularly believed.
+
+The confusion over how many nodes are actually in the Bitcoin network is due to incorrect reporting by mainstream cryptocurrency data platforms, as well as a misunderstanding between listening nodes and full nodes.
+
+To begin unraveling the confusion between the two, let’s start with the differences between full nodes and listening nodes and then move on to hard data that backs up our claims.
+
+Bitcoin full nodes
+
+First, a bitcoin full node is any computer that connects to the bitcoin network. The most popular Bitcoin nodes run Bitcoin Core and serve a vital role in the network maintaining consensus. Specifically, bitcoin full nodes make sure the network follows its prescribed rules such as controlling the number of bitcoins per block and to prevent double spending.
+
+The number of full nodes is significantly higher than the believed number as evidenced by the below graph:
+
+The implication of there being more nodes than the reported 10,000 is that the Bitcoin network is more decentralized than previously realized, depending on which type of nodes you count.
+
+A more segmented graph showing the dispersal Bitcoin full node versions can be seen below. The graph shows that over half of the nodes in the Bitcoin network are running older versions than the current 0.17.x iteration.
+
+Listening ‘super’ nodes
+
+Sometimes referred to as ‘supernodes,’ listening nodes perform more work on the Bitcoin network than full nodes do. All listening nodes are publicly connectable and function as redistribution points for the Bitcoin network. Listening nodes relay large amounts of data to other full nodes in the network.
+
+As supernodes are often relaying large amounts of information, the expense and hardware requirements of running one is higher than a full node. This could partially explain why there are less listening nodes in the network than full nodes.
+
+In effect, listening nodes make the Bitcoin network more efficient and decentralized by functioning as relay stations. Their importance, however, is arguably overshadowed by the sheer number of full nodes in the Bitcoin network that ensure the network’s rules are followed.
+
+For comparison, a graph showing the progression of listening nodes in the Bitcoin network.
+
+So while vital in their operations, listening nodes are relayers of information and not principal in helping the network maintain consensus, which is the role of a full node.
+
+Should listening nodes be included in the node count? Share your thoughts below!
+
+Images vis Coin.Dance, luke.dashjr.org, Shutterstock

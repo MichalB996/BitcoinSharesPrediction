@@ -1,0 +1,57 @@
+DATE:  05.04.2019, 13:23:12
+TITLE: Op Ed: Why Bitcoin’s “Toxic” Maximalism Makes Sense
+URL:   https://bitcoinmagazine.com/articles/op-ed-why-bitcoins-toxic-maximalism-makes-sense
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+Over the years, Bitcoin has gained a reputation for having a “toxic” community of users around it. This accusation is mostly thrown at Bitcoin by proponents of altcoins and those who have supported various Bitcoin hard fork attempts in the past.
+
+Of course, this is an oversimplification of the Bitcoin community. Crypto Twitter, which is the main hub of online cryptocurrency conversations these days, does not make up anywhere near the entire Bitcoin user base. When people talk about the Bitcoin community being toxic, they’re mostly complaining that some Bitcoin users were mean to them on the internet.
+
+Having said that, there is a logical reason that some Bitcoin users get extremely angry at certain members of the greater crypto asset community.
+
+What’s With the Hostility, Man?
+
+Bitcoin is defined by a set of protocol rules. It is these rules, which are effectively set in stone (see: Satoshi), that provide the underlying value proposition of Bitcoin. Bitcoin’s most important feature is not necessarily its specific monetary policy (the 21 million cap) or any of the other specific rules. Instead, the fact that the rules are extremely difficult to change is the key selling point (I’ve written a longer explanation of this here).
+
+Of course, people could decide to abandon Bitcoin and go use something else (an altcoin or some forked version of Bitcoin), but that would necessitate the creation of a new network.
+
+With this in mind, it should become clear why attempts to change the rules of Bitcoin through social attacks are met with disgust. Attempting to use social clout or “thought leadership” in an effort to push users over to a new network with different rules undermines the underlying value proposition of this technology.
+
+While we’re on the topic of #SegWit2x, it’s important to point out that one of the key issues with the plan was that it was presented as a decree rather than a proposal. Kind of goes against the whole reason of why we’re here in the first place. — Kyle Torpey (@kyletorpey) March 27, 2019
+
+If something new were to overtake Bitcoin through pressure from a consortium of influential nodes on the network, then what’s to stop that from happening again with the new coin of the moment? Perhaps more importantly, will the new coin stick to the core ethos of Bitcoin as an apolitical store of value and medium of exchange? If Bitcoin is susceptible to this sort of persuasion from influential players in the space, then it’s unclear how different it is from the traditional financial system or non-cryptocurrencies like Ripple’s XRP.
+
+Bitcoin proved resistant to this sort of persuasion in the case of the New York Agreement, in which a consortium of economically relevant Bitcoin nodes and miners effectively got together to say some new fork of Bitcoin with a larger block size limit (which increases the cost of operating a full node) was going to be the new, official version of Bitcoin.
+
+It’s not a stretch to call the New York Agreement an attack on the whole point of Bitcoin existing in the first place. Various businesses built on top of Bitcoin were putting their own needs ahead of the viability of bitcoin as an apolitical money. Perhaps more importantly, they issued their plan as a decree rather than a proposal.
+
+Yes, those companies had users of their own to represent, but it’s possible that the power of users focused on the store-of-value use case were ignored in favor of those who put greater emphasis on the use of bitcoin as a medium of exchange.
+
+On Twitter, some signers of the New York Agreement referred to those who shared criticisms associated with the 2x portion of SegWit2x as toxic individuals.
+
+At the time, I wrote about how the creation of a federated sidechain may be a more sensible approach to the need to free up block space on the base of the Bitcoin blockchain. But the SegWit2x train had already left the station.
+
+Thankfully, the failure of SegWit2x ended up being nothing more than an illustration of the difficulties associated with pulling off social attacks on Bitcoin. The whole ordeal added credibility to the “digital gold” meme that had long been associated with bitcoin.
+
+Bitcoin’s current consensus rules are the Schelling point when people are unsure of what to do in the case of a network split, which makes it difficult for hard-forking changes to happen without widespread consensus. If there is going to be some kind of hard fork of the Bitcoin network, there better be a damned good reason to do so, such as a critical bug in consensus-related software. Otherwise, the “toxic trolls” are incentivized to respond to your attack on Bitcoin’s apolitical nature.
+
+With all of this in mind, the question must be asked: Who is really the toxic part of the Bitcoin community? Those who attempted to push users to a new network and call it “Bitcoin” or those who said some mean words on the internet?
+
+This is not to say every signatory of the New York Agreement is toxic. Some, such as Xapo CEO and PayPal board member Wences Casares, may have simply made a mistake, while others, such as F2Pool’s Chun Wang, may have never had any intention to run the code associated with the hard-forking portion of the agreement.
+
+If You Break Consensus, You’re Gonna Have a Bad Time
+
+Although the technical details of Bitcoin get a lot of attention, the system is mostly built on game theory. The “toxic maximalism” that is sometimes associated with Bitcoin has its roots in the structure of incentives originally put into place by Satoshi Nakamoto. Bitcoin users are effectively incentivized to attack anyone who attempts any sort of social attack on the system.
+
+When certain individuals or entities push for a noncompatible change to Bitcoin and the “toxic maximalists” respond in anger, it is human nature for those pushing for the incompatible changes to get stuck in their position and become unwilling to admit they were wrong to make the proposal in the first place.
+
+The original mistake was to advocate for breaking consensus without proper support, but that led to a series of other mistakes, which were avoidable.
+
+The block size wars were a valuable lesson for everybody, but they were an especially costly lesson for those who simply could not admit they had made a mistake and continued on their crusade via the Bitcoin Cash (BCH) altcoin.
+
+At the end of the day, those who saw the error of their ways and didn’t go down the path of Bitcoin Cash are better for it. After all, it’s beneficial for everyone if we’re all using the same money. The fact that you can transact with your worst enemies via the Bitcoin network is a big part of apolitical money.
+
+Note: This article was partially inspired by ShapeShift CEO Erik Voorhees’s recent appearance on What Bitcoin Did and BTC Inc CEO David Bailey’s recent appearance on the Stephan Livera Podcast. I recommend listening to both of those podcast episodes.

@@ -1,0 +1,125 @@
+DATE:  31.05.2019, 19:03:38
+TITLE: How to Buy and Sell on Bittrex, Step by Step
+URL:   https://www.bitcoinmarketjournal.com/bittrex/
+
+US-based Bittrex was founded in 2014 and is one of the older and better-known digital currency exchanges.
+
+According to CoinMarketCap, you can buy and sell 347 different currency pairs on Bittrex. Base currencies for trading on Bittrex include bitcoin, Ethereum, and Tether.
+
+You can even buy bitcoin and 21 altcoins on Bittrex with US dollars. However, USD trading is not allowed in 12 states, including New York and Virginia.
+
+To buy and sell digital currencies on Bittrex, you will need to verify your identity by uploading a document such as a passport or a driver’s license.
+
+Bittrex is not the most beginner-friendly digital currency platform. If you haven’t bought bitcoin or altcoins yet, you may want to go with something simpler like Coinbase.
+
+Buying and Selling Digital Currencies on Bittrex
+
+To buy and sell on Bittrex, you will need to understand some trading terms.
+
+Bid Price: This is the price you receive when you sell an asset. The bid price is always lower than the ask price.
+
+Ask Price: This is the price you pay when you buy an asset. The ask price is always higher than the bid price.
+
+The difference between the bid price and the ask price is called the spread, and this goes to someone called a market maker.
+
+When you trade on Bittrex, you can place either a stop-limit order or a limit order.
+
+A limit order is simpler. When you place a limit order, the trade will be filled either at the price you specify or a better price.
+
+A stop-limit (or conditional) order is a little more complicated. Here you can set the price you are willing to pay if the price falls below a given amount.
+
+You can read more about stop-limit orders here.
+
+According to its website, Bittrex charges a fee equal to 0.25 percent of the value of the trade. Bittrex does not charge fees for deposits and charges small fees for withdrawals (depending on the coin).
+
+You have two options for the trade’s Time in Force. If you choose “Good ‘Til Cancelled”, the order will remain open until it is either filled or canceled.
+
+If you choose “Immediate or Cancel”, the trade will be cancelled if it isn’t filled immediately.
+
+Now, let’s walk through a trade on Bittrex. For the purpose of this example, we are going to buy OmiseGo (OMG) with Ethereum.
+
+Step 1: Create an Account
+
+If you don’t already have a Bittrex account, you will need to first sign up for one.
+
+Go here: https://bittrex.com/account/register.
+
+You should see something like this.
+
+Enter your email address and choose a password. You will then need to enter personal information, including your home address and date of birth.
+
+Finally, you will have to upload a document such as a passport or a driver’s license to verify your identity.
+
+Step 2: Deposit Something to Your Account
+
+Before you can buy or sell anything on Bittrex, you will need something with which to trade. You can deposit US dollars, bitcoin, or altcoins into your account.
+
+We are going to deposit Ethereum into our account. To deposit Ethereum, click on this link: https://bittrex.com/Market/Index?MarketName=BTC-ETH
+
+You should see this on your screen:
+
+Go to the top right corner of the screen and click on “Deposit”.
+
+This will pop up:
+
+You can copy this address, open Coinbase, and send Ethereum to this address.
+
+WARNING: DO NOT SEND BITCOIN TO THIS ADDRESS!
+
+If you do, the bitcoin will go to someone else and will be gone forever. This is your Ethereum address, not your bitcoin address.
+
+Once you’ve received the Ethereum, go to https://bittrex.com/balance.
+
+We received around $20 worth of Ethereum.
+
+Step 3: Choose a Currency to Buy/Sell
+
+As mentioned earlier, we will buy OmiseGo with Ethereum.
+
+To do so, go to this link: https://bittrex.com/Market/Index?MarketName=ETH-OMG
+
+Your screen should look something like this:
+
+Scroll down a little bit to view the rest of the order form.
+
+We are going to place a regular limit order, and this offer will be good until canceled. We will click “Max Buy” to convert our ETH to OMG.
+
+Then click “Confirm”.
+
+Once the trade clears, click on “Wallets” or go here: https://bittrex.com/balance.
+
+We now hold both ETH and OMG.
+
+We have successfully bought OmiseGo on Bittrex.
+
+Step 4: Withdraw OmiseGo from Bittrex
+
+Some people don’t like storing digital assets on an exchange long-term. They may worry about exchanges going bankrupt or getting hacked, and so would rather store digital assets in a wallet. That is the most secure way to handle your digital assets.
+
+Withdrawing from Bittrex is relatively straightforward.
+
+First, go to this page: https://bittrex.com/Market/Index?MarketName=BTC-OMG.
+
+Click on the icon in the top right corner next to “Deposit” that says “Withdraw”.
+
+You will then be asked to type in the amount of OMG you are sending and the address of the wallet to which you are sending this.
+
+We will withdraw all of our OMG today onto an app called MyEtherWallet. MyEtherWallet allows you to store Ethereum as well as ERC-20 tokens such as OmiseGo, 0x, Binance Coin, Augur, BAT, and Golem.
+
+Just cut and paste the amount it says is available.
+
+Then go to the MyEtherWallet website and copy your wallet address. Paste it in here:
+
+You will then be asked to confirm the trade. Click “Email confirmation link”. Then check your email inbox for an email with a subject like “Bittrex Withdrawal Verification.”
+
+Open the email, and click on the link.
+
+Then when you return to Bittrex, you should see something like this:
+
+Conclusion
+
+Successful investing requires a good understanding of the assets in which you are investing.
+
+Bitcoin Market Journal is a great resource for understanding digital currencies such as bitcoin, Ethereum, Ripple, EOS, and others like OmiseGo.
+
+Each week, we highlight some of our best work in our newsletter. This newsletter comes without ads and is completely free! Subscribe to the Bitcoin Market Journal newsletter today.

@@ -1,0 +1,73 @@
+DATE:  24.04.2019, 09:50:47
+TITLE: Five most prolific 51% attacks in crypto: Verge, Ethereum Classic, Bitcoin Gold, Feathercoin, Vertcoin
+URL:   https://cryptoslate.com/prolific-51-attacks-crypto-verge-ethereum-classic-bitcoin-gold-feathercoin-vertcoin/
+
+51% attacks are a cryptocurrency’s worst nightmare. These attacks destroy confidence in a project and emphasize the need for carefully designed proof-of-work consensus. Below is a list of the five most prolific 51% attacks in crypto.
+
+Understanding 51% Attacks
+
+A 51% attack can occur when an attacker gains control of more than 50% of a network’s hashrate (the total mining power used to validate transactions on the network). Once an attacker has 50% or more of the hashrate on a network, they can invalidate transactions and even double-spend coins—invalidating the immutability and trustworthiness of a blockchain.
+
+51% attacks are more expensive and difficult to execute on blockchains backed by more mining power. Simply put, it’s more expensive to control half of a network with more hashrate. For instance, crypto51.com estimates that it would cost $380,000 to carry out a 51% attack on the Bitcoin network for an hour. Conversely, only $8,100 is needed to attack Bitcoin SV in the same time period. Currently, Bitcoin has a hashrate of 38,000 PH/s compared to BSV’s 860 PH/s.
+
+Mining centralization is also a factor as a mining pool with more than 50% of a blockchain’s hashrate can also carry out a 51% attack. For instance, concerns were raised when the BTC.TOP mining pool controlled as much as 50.2% of the Bitcoin Cash hashrate at a point in January 2019.
+
+Coins that Suffered Attacks
+
+Feathercoin (FTC), Vertcoin (VTC), Bitcoin Gold (BTG), Ethereum Classic (ETC), and Verge (XVG) have all suffered 51% attacks. All of the listed cryptocurrencies have relatively low hashrates relative to the total amount of available hashrate within their algorithm family, which made them susceptible to attack.
+
+The chart below compares the hashrates of Bitcoin, Bitcoin Cash, Vertcoin and Bitcoin Gold over the past year. Bitcoin’s higher hashrate makes it less prone to a 51% attack.
+
+5. Feathercoin
+
+Feathercoin is a Litecoin clone that shares its 2.5 minute block time and the scrypt mining algorithm. The altcoin is currently ranked 461st on the list of cryptocurrencies on coinmarketcap.com. Feathercoin barely receives any notice today but was a top cryptocurrency around the time it suffered a 51% attack.
+
+The Jun. 8th attack on the Feathercoin network started with a marked increase in the network’s hashrate. It was suspected that the additional mining power came from miners on scrypt-based pools. According to the founder of Feathercoin, the miners were looking to benefit from the increased profitability on mining Feathercoin due to a change in difficulty.
+
+A total of 80 blocks were orphaned in the initial attack. Orphaned blocks are valid blocks on a network that are later replaced because a longer chain with greater proof-of-work takes precedence. This means confirmed FTC transactions were reversed in the attack. Some miners also ended up wasting effort on mining blocks that were eventually replaced on the chain.
+
+The problem was compounded when the official Feathercoin website suffered a distributed denial of service (DDoS) attack around the same time.
+
+According to Tradeblock, exchanges had to increase Feathercoin confirmation requirements to ensure that only valid transactions on the right chain were processed. The advanced checkpointing (ACP) feature was also introduced by the Feathercoin team to prevent future 51% attacks. However, the attack still devastated confidence in FTC and it has since fallen into obscurity.
+
+4. Bitcoin Gold
+
+Bitcoin Gold was the second fork of Bitcoin when it went live in November 2017 (amidst a few technical issues that occurred pre-launch). Albeit being marketed as a cryptocurrency supporting decentralized mining through an ASIC-resistant mining algorithm, critics of the cryptocurrency called it a “cash grab.” Yet, most bitcoin holders were given free BCG coins relative to their holdings of Bitcoin, so most welcomed the “free money.”
+
+In a May 11th blog post, the Bitcoin Gold team made Bitcoin Gold (BTG) holders aware of attempts to attack the Bitcoin Gold network. Exchanges were also asked to guard against the attack since potential attackers were likely to profit by double spending coins in exchange transactions. The blog post was updated on the 24th of May to announce that a dreaded 51% attack occurred on the network between the 16th and the 19th of May 2018. The attack on Bitcoin Gold also involved rented hashpower from cloud mining services.
+
+Bitcoin Gold—already one of the worst performing cryptocurrencies in 2018—faced even more problems after the attack. Bittrex delisted BTG following the BTG team’s refusal to pay compensation of 12,372 BTG. Exchanges including Bittrex, Binance, Bithumb, Bitinka, and Bitfinex lost an estimated $18 million worth of coins due to the double spend attack. Bittrex blamed the Bitcoin Gold team for negligence and demanded compensation in order to keep the cryptocurrency listed.
+
+In response, the Bitcoin Gold team stated that 51% attacks are a known risk in the ecosystem. They added that the BTG organization was not responsible for the attack since it was not caused by flaws in the Bitcoin Gold blockchain or code. Additionally, the team cited warnings it gave prior to the attack as well as the assistance it gave exchanges for defending themselves.
+
+The BTG team also claimed that the network upgrade carried out in July 2018 will reduce the likelihood of another attack on the network. Bittrex ended up delisting the coin, along with several others. Bitcoin Gold still survived as the 27th most capitalized coins on CoinMarketCap.
+
+3. Vertcoin
+
+The 51% attack on the Vertcoin network occurred between October and December 2018. Coinmonks estimated that a total of $100,000 worth of coins were double spent by an attacker in eight reorganizations of the Vertcoin blockchain. A chain reorganization or reorg occurs when a miner with more than 50% of hashrate comes up with an alternative transaction history by creating an extension of any chain and eventually replaces the network’s transaction history.
+
+In the attack, transactions in some orphaned blocks were double spent in the eventually accepted transaction history. A total of 71,000 VTC ($50,000) were double spent. In the ensuing panic, the price per VTC decreased from $0.7 to $0.3 per coin.
+
+Gert-Jaap Glasbergen, a Vertcoin developer, attributed the attack to the availability of cloud mining services and the release of specialized mining hardware for Vertcoin. Cloud mining services like NiceHash made it easy for an attacker to rent mining power at lower costs (purchasing and installing mining hardware for the same purpose is more expensive).
+
+Vertcoin has since updated its mining algorithm to Lyra2REV3 in order to render specialized mining hardware ineffective for mining Vertcoin. There is also on-going development on Verthash, a new algorithm that will completely eliminate the use of specialized mining hardware on the Vertcoin network. The new Verthash algorithm is expected to tackle the problem of surges in hashrate due to rented GPUs. Vertcoin went from 138th in coin rankings in September of 2018 to 162nd today.
+
+2. Ethereum Classic
+
+Ethereum Classic is the original version of Ethereum that remained after the core team created a fork by reversing the infamous DAO Hack on the Ethereum network. Proponents of Ethereum Classic were in favor of maintaining an untampered transactions history. However, Ethereum Classic went on to become the less popular version.
+
+Cryptoslate extensively covered the $1.1 million dollar heist that occurred in the 51% attack on the Ethereum Classic blockchain. The incident was first reported by Coinbase in a Jan. 7th blog post. It was revealed that a total of 219,500 ETC worth $1.1 million were double spent in eleven reorganizations of the blockchain starting on Jan. 5th. Coinbase and Kraken promptly halted trading in Ethereum Classic as a result.
+
+The ETC price plummeted due to the attack but has since recovered. The chart below shows the ETC price from the day of the attack to date.
+
+Following the incident, the Ethereum Classic team blamed the attack on insufficient hashrate and the malicious “bad actor” miner identified as Private Pool 0x3ccc8f74. Once again the team decided to not reverse the attack. A list of steps to avoid future 51% attacks was also made public. This includes the creation of a monitoring and alert system to detect attacks faster. A proof-of-work (PoW) algorithm change to minimize NiceHash renting attacks was also proposed.
+
+1. Verge Currency
+
+In an interview with CryptoSlate, Justin Sunerok, the founder of Verge described the cryptocurrency as “a privacy coin designed for everyday use.” The privacy coin uses five different mining algorithms. Miners of the cryptocurrency are obliged to use a different algorithm for each block to reduce the likelihood of a single entity controlling majority hashrate on the network. Interestingly, this multi-algorithm system was created as a fix for a previous attack suffered by the network in 2016.
+
+In April 2018, an attacker exploited a bug in the Verge code and made away with at least 20 million Verge (XVG) coins, worth approximately $170,000. As explained by Bitcointalk forum user ocminer, the bug allowed a malicious miner to submit mined blocks with false timestamps. The attacker then mined multiple blocks within one-second intervals exploiting one of the five mining algorithms.
+
+In an attempt to solve the problem, the Verge team executed a hard fork that created new problems with wallets. In spite of the fix, Verge suffered a similar attack a month later.
+
+In his CryptoSlate interview, Justin Sunerok mentioned that the series of attacks on the Verge network “did not affect confidence in the project.” He added that the Verge community was as vibrant as ever. Since April of 2018, Verge fell from 26th in the ranking to its current position at 50th.

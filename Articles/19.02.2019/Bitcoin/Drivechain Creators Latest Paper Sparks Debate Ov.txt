@@ -1,0 +1,47 @@
+DATE:  19.02.2019, 00:30:18
+TITLE: Drivechain Creator's Latest Paper Sparks Debate Over Bitcoin's Future Security
+URL:   https://news.bitcoin.com/drivechain-creators-latest-paper-sparks-debate-over-bitcoins-future-security/
+
+Drivechain Creator's Latest Paper Sparks Debate Over Bitcoin's Future Security
+
+Drivechain developer Paul Sztorc has the cryptocurrency community riled up over his latest blog “Security Budget in the Long Run.” The essay discusses the economics of BTC network fees over a long period of time and suggests rather than giving up the fees to competition, a dominant protocol should collect fees “from all networks.”
+
+Also Read: More Than 30% of BTC Traffic Stems from the Veriblock Project
+
+Unraveling Bitcoin’s Security Budget
+
+Paul Sztorc has written another thought-provoking essay that has got many of the ‘bitcoin intellectuals’ talking. “Security Budget in the Long Run” speaks on how BTC could theoretically collect fees after many decades. Sztorc refers to this as the “security budget,” which is basically what participants are paying in order to prevent double spends and 51 percent attacks. Over the last few years during the scaling debate, many industry members showed concern about the block subsidy i.e the freshly minted coins and transaction fees miners get when they randomly find a block. A block needs to be instantly profitable to mine and Sztorc believes the block subsidy will continue to give the network more security in the future.
+
+“Even though it “halves” once every four years (effectively falling by a factor of 0.84 per year), it hits for full force no matter how high the BTC exchange rate climbs,” Sztorc’s paper explains. “As long as annual appreciation 19%+, it fully compensates for the PP lost to the halvening.”
+
+Sztorc then discussed the various theories people have used in the past, in order to describe what will offset the block subsidy when the block reward shrinks to zero. Many believe a relatively high fee market is needed for onchain transactions (txn) and most people wanting txn with cheaper fees will use the Lightning Network. For instance, Sztorc quotes the Bitcoin Core developer Greg Maxwell and other crypto luminaries for championing high fees back in 2017. The paper also underscores the rise of altcoins grabbing far more attention after BTC network fees crossed over $1 per txn and continued to rise.
+
+“Furthermore, this (true) premise — that Altcoin-payments are indeed substitutes for Bitcoin-payments — is occasionally explicitly admitted, even by hardcore maximalists — Especially during the last fee run-up in late 2017,” Sztorc’s paper details.
+
+The essay further states:
+
+To me, this data refutes the theory that users will pay high BTC fees willingly. In fact, they seem to have only ever paid high fees unwillingly — during a brief “bubble” time (of relative panic and FOMO).
+
+Lightning and Alternative Fee Sources
+
+The blockchain researcher further digresses into theories of onboarding users onto the Lightning Network (LN) and the protocol’s theoretical alternative fee sources. Sztorc says that if the LN is successful then many transactions can be crammed into two onchain transactions. However, Sztorc has a hard time understanding how the LN will boost fees and guesses that they “cannot realistically increase by more than two orders of magnitude.” After detailing theories people have on how the LN can create a thriving economic system, Sztorc’s new paper details that he doesn’t have much faith in the user experience.
+
+“LN also comes with new risks — the LN-design is very clever at minimizing these risks, but they are still there and will still be annoying to users,” Sztorc notes. “Users will prefer not to put up with them — So they will tend to prefer an Altcoin on-chain-txn over a mainchain-LN-txn.”
+
+Merged Mining and Sidechains
+
+Sztorc concludes his paper by discussing two of his favorite subjects — merged mining and sidechains. Essentially the programmer says merge mined sidechains can do whatever altcoins can do and then some. Concepts like Drivechain could theoretically create large block sidechains that process millions of transactions per day. Sztorc’s paper says the Bitcoin network needs a high-security budget in order to prevent 51 percent attacks. In a sense, alternative chains will subdue the chances of a market-clearing fee rate, especially when higher fees begin to dominate and start showing signs of time dependency. Sztorc’s paper emphasizes how competition will make it difficult for BTC to collect miner fees and instead every network in existence should be a subsidy for BTC.
+
+“A better way, is to attempt to devour the entire payments market and claim all of its fee revenues,” Sztorc concedes. “This can be done using merge mined Sidechains, without any decentralization loss.”
+
+Of course, not everyone agreed with Sztorc’s assessment concerning long term security for the BTC network. After the founder of Coinmetrics, Nic Carter called the paper a “stunner” and “outstanding as usual,” many other developers and crypto luminaries threw in their two cents. BTC developer Eric Lombrozo said the essay was a “good read” but is “still very concerned about the economics of sidechains remaining viable unless we substantially alter the trust model.”
+
+A few bitcoiners responding were very stubborn, wholeheartedly insisting that a relatively high fee market is necessary to subsidize miners and higher fees will also mean BTC is successful. Veteran cryptographer Nick Szabo emphasized that he believes there are a few “bad assumptions” in Sztorc’s post. Szabo detailed that he has only seen one good argument for security under a transaction fee-only system. “That’s the volatility of fees, which seem to behave nonlinearly as blocks become full,” explained Szabo.
+
+The many responses to Sztorc’s paper underlined the fact that BTC developers and maximalist proponents are still dead set on growing the fee market and LN solutions. It doesn’t seem like merged mined sidechains will be accepted anytime soon, unless it is enforced in a permissionless manner. Currently, a few alternative chains piggyback off of BTC in some form or another like Counterparty, Omnilayer, RSK, and Veriblock and there are more projects like the Stacks blockchain on the horizon. Core developers have been stubborn about Drivechain for quite some time and the issues stem from a deep distrust of miners. This is ironic given that their work is what secures the network and defines Nakamoto consensus.
+
+What do you think about Paul Sztorc’s post concerning block subsidy and BTC’s security over the long run? Let us know in the comments section below.
+
+Image credits: Shutterstock, Twitter, Pixabay, and Paul Sztorc’s paper.
+
+Need to calculate your bitcoin holdings? Check our tools section.

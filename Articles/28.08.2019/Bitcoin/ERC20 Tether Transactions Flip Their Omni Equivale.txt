@@ -1,0 +1,43 @@
+DATE:  28.08.2019, 22:00:32
+TITLE: ERC20 Tether Transactions Flip Their Omni Equivalent
+URL:   https://news.bitcoin.com/erc20-tether-transactions-flip-their-omni-equivalent/
+
+ERC20 Tether Transactions Flip Their Omni Equivalent
+
+Crypto enthusiasts have noticed that the Ethereum blockchain has come awfully close to reaching capacity due to the added transactions stemming from the Tether (USDT) network. The transaction count since mid-August shows the ERC20 version of tether has surpassed the original version that uses BTC. ERC20 tether transactions cost users more than $260,000 in the last 30 days and the over-saturation of trades is 17X larger than the infamous Crypto Kitties fiasco.
+
+Also read: How to Create Non-Fungible Assets and Collectible Tokens With Bitcoin Cash
+
+Tether Migrating to ETH Sparks Capacity Fears
+
+In December 2017 during the height of the crypto bull run, the Ethereum blockchain was swamped with unique cats similar to Pusheens that could be collected and traded using the ETH network. The Crypto Kitties event prompted the creators to increase the cat birthing fee in order to incentivize miners to add birthing transactions to the chain. Fast forward to 2019 and Tether has started migrating coins from the Omni Layer network which uses the BTC chain to an ERC20 version which runs on top of the ETH chain. Tether is a $4 billion dollar network with coins spread across multiple blockchains which include BTC (Omni), ETH (ERC20), EOS, and Tron. Data pulled from the website Coin Metrics shows that the ETH-based tether transactions have surpassed the BTC-based versions this month. Today, on August 28, there are 39,000 tether transactions on the BTC network via Omni, but that number is eclipsed by the 126,000 ETH-based tether transactions. At the time of publication, there’s roughly 1.5 billion USDT minted using the ETH chain and 2.5 billion tied to the Omni Layer network.
+
+Since the tether transactions being used on the ETH chain have spiked significantly, the crypto community has been observing the ETH chain grow congested again. Ethereum cofounder Vitalik Buterin told Bloomberg this week that the “[ETH] blockchain has been almost full for years.” ““I think it’s still good to develop apps, but anything substantial should be developed with scalability techniques in mind, so that it can survive higher transaction fees that would come with further growing demand for Ethereum — In the longer term, Ethereum 2.0’s sharding will, of course, fix these issues,” Buterin asserted during the interview. Prominent Ethereum evangelist and founder of Mythos Ryan Sean Adams explained that every asset on Ethereum is “a future revenue source for ETH stakers.” “Tether paid 993 ETH over the last 30 days,” Adams said to further bolster his prior statement.
+
+The fleppening just happened. Tether token on ETH now doing more daily tx then Tether token on Bitcoin Core. https://t.co/0mntDfpVS3 #btc — Crypto Mak 🌐 (@crypto__mak) August 28, 2019
+
+For Stablecoin Use Cases Like Trading and Arbitrage, the Market Demands Faster Transactions and Lower Fees
+
+The tether migration to Ethereum has been quite noticeable and Coin Metrics’ Nic Carter published data concerning Tether’s growth and transition to Ethereum. “USDT-ETH active addresses (the count of unique addresses that were active in the network as a recipient or originator of a ledger change) skyrocketed over the past week, jumping from 38,600 on August 19 to over 78,800 on 8/23,” the report notes.
+
+“Meanwhile, USDT-OMNI active addresses continue to decline, despite two recent spikes.” The report also notes that the migration from Omni to Ethereum may have stemmed from market demand. “The primary use case for Tether is for active trading and arbitrage — For these use cases, Tether on Ethereum is faster (15-second blocks for Ethereum versus 10-minute blocks for Bitcoin) and require less fees,” the Coin Metrics’ State of the Network research explains. The report adds:
+
+Since these characteristics are desirable for active traders, Tether issuance on Ethereum should continue to grow relative to issuance on Omni. The recent burn in Tether came solely from Tether issued on Omni.
+
+Stablecoin Networks Using the Bitcoin Cash Network Will Benefit From Low Fees and More Capacity
+
+Despite Tether’s move to the ETH chain, a few digital currency fans believe that there could be issues with the ERC20-styled tethers if the network grows too congested. Some skeptics and observers think tether users are paying way too much in network fees. On the bitcoin cash-oriented Reddit forum r/btc, some BCH supporters said that it would be far cheaper to host a popular stablecoin like tether on the BCH chain.
+
+“Tether transactions alone pay $14,000 in transaction fees for 120,000 transactions every single day on Ethereum (a total of $57,000),” Reddit user u/eyeofpython remarked. “With a daily volume of $400,000,000 (source: SQL query on eth.events for the 23 August) — If Tether were to move to BCH, people would only pay $120 of fees in total.” On August 28, the average BCH network fee is only $0.004 per transaction, while the gas needed to push an ERC20 token is between $0.11-0.16 per transaction. Another BCH supporter wrote:
+
+Tether should switch to SLP tokens on the Bitcoin Cash network, which never gets congested, unlike BTC and ETH.
+
+Over the last few days, there have also been discussions as to whether ETH’s capacity can handle various apps alongside Tether. The number of transactions stemming from tether users has grown every year since the stablecoin launched and currently represents 30% of all cryptocurrency trades, rising at times to 40%. At the time of publication, tether (USDT) captures a whopping 77% of all BTC trades, 53% of ETH, and 54% of BCH trades worldwide.
+
+Tether continues to dominate, despite the fact there’s a slew of other stablecoins competing like USDC, DAI, TUSD, and USDH. Most of the stablecoin competitors use the ETH network as well, which presents another set of capacity problems for the chain. The stablecoin Honestcoin (USDH) does not use the BTC or ETH chain and is built on top of the BCH network using the Simple Ledger Protocol. USDH and its nascent network only has a $32,000 market capitalization and $173,000 in global trade volume. However, traders using stablecoins for quick swaps and arbitrage will quickly find that transaction fees at $0.004 per transaction or less are far cheaper.
+
+What do you think about tether transactions on the ETH chain surpassing the Omni Layer-based tether transactions? Let us know what you think about this subject in the comments section below.
+
+Image credits: Shutterstock, Coin Metrics’ State of the Network research, Crypto Compare, Coinlib.io, and Pixabay.
+
+Are you looking for a secure way to buy Bitcoin online? Start by downloading your free Bitcoin wallet from us and then head over to our Purchase Bitcoin page where you can easily buy BTC and BCH.

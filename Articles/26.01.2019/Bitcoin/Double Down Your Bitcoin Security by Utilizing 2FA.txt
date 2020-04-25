@@ -1,0 +1,51 @@
+DATE:  26.01.2019, 17:40:40
+TITLE: Double Down Your Bitcoin Security by Utilizing 2FA Services
+URL:   https://news.bitcoin.com/double-down-your-bitcoin-security-by-utilizing-2fa-services/
+
+Double Down Your Bitcoin Security by Utilizing 2FA Services
+
+After obtaining your first bitcoins on an exchange, you’ll want to keep them safe, even if the funds are only sitting there temporarily. One way to keep your crypto secure online is by using two-factor authentication (2FA). Security is of utmost importance when it comes to storing cryptocurrency in an online wallet and 2FA adds another layer of protection over and above a strong password.
+
+Also read: Regulations Have Ruined the Physical Bitcoin Industry
+
+2FA Is Essential
+
+The cryptocurrency community is all about advocating proper security techniques, and two-factor authentication (2FA) is one method that’s taught first and foremost to newcomers. 2FA is a subset of multi-factor authentication (MFA), a system that requires the use of two different factors to unlock a combination. For example, if 2FA is applied to a cryptocurrency exchange account you would need to log in with your username and password, but you will also need to enter a 2FA authentication PIN. The authenticator is usually on a secondary device like a mobile phone or a USB key.
+
+Typically when you sign up for an exchange, you should add 2FA to the account right away for extra security. A great majority of exchanges nowadays also enforce the use of 2FA. However, what’s not usually taught is the fact that nearly every account you own, from social media services to email, should ideally be locked with 2FA, even if you don’t own cryptocurrencies.
+
+There are many examples of why you should add 2FA to not just your exchange account, but to your email and other online accounts as well. Mainly because it is possible for hackers to gain access to the exchange account through the email you signed up with. After all, what point is there in locking the front door if you’ve left the back door open? Hackers could gain access to your email account if it is not secured with 2FA and when they gain possession of your email they could change the exchange account password among other malicious acts.
+
+A hacker can also change your mobile number to a different phone or a voice over internet protocol (VOIP) line and gain access to your exchange account if you are using SMS style 2FA (a PIN sent by text). When people leave back doors open to social media accounts, hackers can gain access to private information and through social engineering breach cryptocurrency accounts online. Of course, people who hold their private keys or seed phrase offline will be safe, but securing your online life with multi-factor authentication techniques should be a priority. Hackers want your information and are known to scan emails and social media accounts for financial information and details of bitcoin holdings.
+
+The following is a list of 2FA services that provide a free secondary form of authentication for people who want to keep their online accounts secure. Most of the well-known cryptocurrency exchanges support the use of the popular 2FA services mentioned and a majority of email providers and social media accounts support these specific authenticators as well.
+
+Google Authenticator
+
+The application Google Authenticator is a reputable service that’s simple to use. The free platform is available for iOS and Android and you can use the service with online accounts such as Dropbox, Facebook, Gmail and a wide variety of cryptocurrency exchanges. A user can add as many codes as they like by either entering it manually or by using the QR reader. However, Google Authenticator requires you to back up the account’s recovery code. Otherwise, if you lose your phone, you risk being locked out of your account.
+
+Microsoft Authenticator
+
+Software corporation Microsoft offers its own free authenticator app for its Windows line of phones, iOS, and Android devices. Similarly to Google’s version, it will allow you to manually enter or scan QR codes tethered to online account keys. Microsoft’s version offers 2FA for many of the same services but also has a one-tap push notification that can be used in place of PINs. Backups need to be saved and secured with Microsoft’s 2FA application. If the mobile device is damaged, lost or stolen the codes can be re-applied to a freshly installed app on a new device.
+
+Authy
+
+Authy is another popular 2FA application that can be applied to multiple devices. You can add as many accounts as you want and the application also has a master backup. For instance, if Authy is used for 10 accounts and the mobile device is damaged then the owner can simply use the master backup to restore all 10 account 2FA codes. Even with the master it’s still a good idea to save the backup codes in order to restore 2FA account settings individually. Authy works for both iOS and Android devices and the application is free.
+
+Yubikey and a Few Select Hardware Wallets
+
+With some online accounts like Gmail and Dropbox, a hardware-based 2FA solution can be utilized. For instance, the Yubikey is a small USB device that fits into your computer and the user verifies authentication with the press of a button. Certain cryptocurrency hardware wallets like Ledger and Trezor can also act as a 2FA device in a similar manner. Hardware-based 2FA solutions use the FIDO U2F standard which some find superior to other authenticators. Yubikeys and hardware wallets that offer 2FA need to be carried around however and some people find it more convenient to use their phone.
+
+2FA Is Easy to Use and Adds a Layer of Security to Your Online Life
+
+Installing a 2FA service like Authy or Google Authenticator on a phone is straightforward. Basically, you install the 2FA software on your mobile and go to your online account’s security section to retrieve a 2FA code. From there the service should provide you with a QR or alphanumeric code so you can add it to the authenticator service. Make sure you back up this code just in case you need to restore the 2FA service at a later date. Usually, you need to enter the PIN in order to turn the online account’s 2FA on or off. After doing it for the first time, it will activate and you will be required to use the 2FA’s PIN and login credentials every time you log in.
+
+In practice, the 2FA method is a great security measure that you can use for free to protect your online data by adding an additional layer of security. It is far more difficult for a hacker to obtain access to an account if they have to compromise not only the password, but also breach something you have with you at all times like a mobile phone or U2F key. These days, with hackers and malicious actors trying to take our data and steal our funds on a regular basis, 2FA has cemented itself as vital online tool.
+
+Do you use two-factor authentication? What services do you recommend? Let us know what you think about this subject in the comments in the below.
+
+Disclaimer: Readers should do their own due diligence before taking any actions related to the mentioned companies or any of its affiliates or services. Bitcoin.com and the author are not responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article. Neither Bitcoin.com nor the author is responsible for any losses, mistakes, skipped steps or security measures not taken, as the ultimate decision-making process to do any of these things is solely the reader’s responsibility.
+
+Image credits: Shutterstock, Yubikey, Google, Microsoft, Authy, Bitcoin.com, Pixabay.
+
+Have you seen our widget service? It allows anyone to embed informative Bitcoin.com widgets on their website. They’re pretty cool, and you can customize by size and color. The widgets include price-only, price and graph, price and news, and forum threads. There’s also a widget dedicated to our mining pool, displaying our hash power.

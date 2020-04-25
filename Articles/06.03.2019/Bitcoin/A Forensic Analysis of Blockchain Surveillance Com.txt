@@ -1,0 +1,137 @@
+DATE:  06.03.2019, 04:20:30
+TITLE: A Forensic Analysis of Blockchain Surveillance Companies
+URL:   https://news.bitcoin.com/a-forensic-analysis-of-blockchain-surveillance-companies/
+
+A Forensic Analysis of Blockchain Surveillance Companies
+
+Blockchain analysis is big business. The U.S. government alone has spent $6 million on transaction mapping tools, while cryptocurrency exchanges routinely partner with compliance companies that promise to track and trace the origin of customer funds. Hated by many bitcoiners, blockchain forensics is a controversial field with a plethora of players. The following analysis shines a spotlight on the companies who scrutinize you.
+
+Also read: How to Outwit Blockchain Analysis and Conceal Your Coins
+
+Over $80 Million Invested in Blockchain Forensics Companies
+
+Not content with undertaking basic Know Your Customer (KYC) procedures such as requesting identity documents, many cryptocurrency companies have taken things a step further by partnering with blockchain forensics firms. In the case of Coinbase, they’ve gone one step further still and actually bought their own forensics company in the form of the highly controversial and much-maligned Neutrino. Having raised over $80 million to date, blockchain analysis companies have tapped into a rich source of capital. In turn, these companies have earned millions of dollars for profiling cryptocurrency users. Of the $6 million paid out by U.S. agencies, The Block calculates the IRS to have accounted for 40 percent, ICE almost 25 percent, and the FBI over 19 percent.
+
+Aside from a handful of exchanges that remain defiantly KYC and blockchain forensics-free, the majority of mainstream platforms employ blockchain forensics of some kind. In addition to exchanges such as Coinbase and Binance, crypto-fiat companies such as Wirex are also on the blockchain forensics bandwagon. From a legal perspective, crypto companies are not obliged to utilize the services of blockchain analysts. As Kraken CEO Jesse Powell recently acknowledged, however, any exchange forgoing such tools would be liable to make regulators suspicious.
+
+Get to Know Your Know Your Customer Companies
+
+Ostensibly, blockchain forensics companies monitor customer deposits and withdrawals for signs of “tainted” coins that have been involved in money laundering, terrorism or drug dealing. In the majority of cases, however, blockchain forensics tools can only make probabilistic connections. As a consequence, innocent cryptocurrency users can have their funds frozen or seized by centralized platforms.
+
+Whatever Satoshi Nakamoto’s vision for Bitcoin may have been, it’s safe to say it wasn’t a world in which individuals have to seek permission to send or receive coins, or where the onus is on the customer to prove their crypto is “clean.” Regardless, it’s the world we now inhabit, and while blockchain forensics can’t be repealed, the companies that push this technology can at least be analyzed, just as they analyze us. The following report profiles the Know Your Customer companies that would like to know everything about you. Through turning the tables and monitoring their every move and appointment, the crypto community can hold these companies to account.
+
+Chainalysis
+
+The best known of all blockchain forensics firms, Chainalysis produces a wealth of interesting data on lost coins, hodling patterns and much more. There’s also a more serious side to company, however: its services include “reporting on your customers’ cryptocurrency-related activities” and detecting “suspicious activity and emerging threats from the dark web.” Like all companies of their ilk, Chainalysis are in the pocket of law enforcement, who are their most valuable clients.
+
+Chainalysis’ “Know Your Transaction,” software, while purportedly designed to thwart money laundering, has a wealth of applications, most of which have little to do with stopping serious crime. In libertarian cryptocurrency circles, Chainalysis is a very dirty word.
+
+Founded: October 2014.
+
+Offices: Copenhagen, New York.
+
+Investors: Benchmark, Techstars, Point Nine, Digital Currency Group, Funders Club, Converge.
+
+Total funding: $47.6M
+
+Senior team: Michael Gronager (CEO), Jan Moller (CTO), Jonathan Levin (COO).
+
+Clients: Internal Revenue Service, Federal Bureau of Investigations, Drug Enforcement Administration, Europol, Binance.
+
+Elliptic
+
+The oldest of the forensics firms profiled here, Elliptic identifies “illicit activity in Bitcoin, Ethereum and other cryptocurrencies, providing actionable intelligence to cryptocurrency companies, financial institutions and government agencies.” Just another blockchain analysis company, in other words, that’s tight with LEA. According to David Carlisle, Elliptic’s head of community, “Like any technology, cryptocurrencies can be exploited by criminals. But a lot of the time the public’s characterisation of these risks are sensationalised and not very accurate.”
+
+Some of the work that companies like Elliptic do, such as unmasking terrorist networks, is hard to fault. By its own admission, though, the most recent terrorism fundraiser Elliptic monitored “received only $1,037 dollars worth of Bitcoin in over a year and a half since it’s launch – hardly a large-scale sum.” Given the paltry sums that terrorists have raised in cryptocurrency to date, it’s safe to say that dozens of blockchain forensics firms aren’t required to pursue a few bitcoins’ worth of dirty money. The majority of the work performed by blockchain analysis companies has nothing to do with halting serious crimes such as terrorism.
+
+Founded: November 2013.
+
+Offices: London, New York, Washington.
+
+Investors: Wayra UK, Digital Currency Group, KRW Schindler Private Ventures, Paladin Capital Group, Santander Innoventures.
+
+Total funding: $12M
+
+Senior team: James Smith (CEO), Simone Maini (COO), Lee Wilson (CFO), Adam Joyce (co-founder), Tom Robinson (co-founder).
+
+Clients: FBI, DEA.
+
+Blockseer
+
+Blockeer is of the opinion that “there is a lack of clarity in bitcoin payments and transactions” which seems odd given that Bitcoin is the most transparent payment system the world has ever known. The company “aims to reduce the level of disorder and chaos and increase the level of knowledge and analysis of the publicly accessible blockchain network.” Some would say that disorder and chaos is all part of Bitcoin’s charm, but blockchain surveillance companies are apt to demur, as is their wont. Blockseer has now been acquired by DMG Blockchain Solutions.
+
+Founded: December 2014
+
+Offices: Palo Alto.
+
+Investors: Plug and Play, Charlie Lee, Bobby Lee, Zhenfund, Ceyuan Ventures, Bill Tai.
+
+Senior team: Danny Yang (founder), Patrick De La Garza (lead engineer).
+
+Ciphertrace
+
+Ciphertrace helps “businesses and government make cryptocurrencies safe and trusted.” It’s almost as if they’ve misconstrued Bitcoin’s trustless design as a problem in need of a solution. The company “powers law enforcement investigations,” traces “the movement of money through dark markets of the crypto economy,” and performs other tasks that cryptocurrency users wish they wouldn’t.
+
+Founded: May 2015.
+
+Offices: Menlo Park, California.
+
+Investors: Westwave Capital, Neotribe Ventures, Aspect Ventures, Galaxy Digital.
+
+Total funding: $18M.
+
+Senior team: David Jevans (CEO), Shannon Holland (CTO), John Jefferies (CMO), Greg Gavitta (director).
+
+Clients: Identity Minds, Maltego, Modulus.
+
+Scorechain
+
+Scorechain promises “meaningful data that describes and evaluates how users obtain and spend their bitcoins,” enabling companies to “adapt [their] sales and marketing strategy,” which all sounds very invasive and unnecessary.
+
+Founded: April 2015.
+
+Offices: Luxembourg.
+
+Total funding: $570,000.
+
+Senior team: Pierre Gerard (CEO), Laurent Kratz (co-founder).
+
+Neutrino
+
+Neutrino follows “the flow of coins and their interaction with exchanges, mixers and other services from an easy-to-use graphical interface.” Oh, and it was recently acquired by Coinbase. Oh, and its core team, while working for Hacking Team, used to sell software to despotic governments so they could spy on and potentially torture journalists and dissidents. Oh, and Hacking Team’s founder and CEO David Vincenzetti used to sign his emails with a fascist rallying cry.
+
+Founded: April 2014.
+
+Offices: Milan, Italy.
+
+Senior team: Giancarlo Russo (CEO), Marco Valleri (CRO), Alberto Ornaghi (CTO).
+
+Crystal Blockchain
+
+The Bitfury-owned Crystal promises to “evaluate and compare the likelihood of blockchain participants’ association with known ‘bad actors’ (darknet marketplaces, mixing and gambling services, publicized ponzi schemes, etc.).” It’s unclear what’s “bad” about choosing to use DNMs, gambling, or wishing to preserve one’s privacy by using a mixer. Regardless, for all your law enforcement boot-licking and blockchain monitoring needs, Crystal are at your service.
+
+Founded: November 2018.
+
+Offices: Washington DC and Netherlands.
+
+Senior team: Marina Khaustova (CEO), Michael Dubose (president), Kyrylo Chykhradze (head of product).
+
+Blockchain Intel
+
+Blockchain Intel “is your meteorologist for the global economic storm that is blockchain,” whatever that means. The company is fond of appending the trademark symbol to its name everywhere it appears, which is a sure sign that it’s run by boomers. Blockchain Intel looks even shadier than the crypto criminals it claims to monitor.
+
+Founded: 2017
+
+Offices: New York (supposedly)
+
+Senior team: Chuck Lam (CTO).
+
+Know Your Enemy
+
+Blockchain analysis tools are neither intrinsically good nor bad. Rather, it is how their architects deploy these tools that determines their benevolence or malevolence. As the Neutrino-Coinbase scandal has shown, when the crypto community unites in condemnation of the most egregious practices of these companies, the people have the power to effect positive change. It therefore behoves all opponents of blockchain surveillance to surveil these companies and call them to account should they step out of line.
+
+What are your thoughts on blockchain forensics companies? Let us know in the comments section below.
+
+Images courtesy of Shutterstock.
+
+Need to calculate your bitcoin holdings? Check our tools section.

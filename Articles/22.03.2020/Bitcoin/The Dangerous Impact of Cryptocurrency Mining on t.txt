@@ -1,0 +1,63 @@
+DATE:  22.03.2020, 15:00:15
+TITLE: The Dangerous Impact of Cryptocurrency Mining on the Environment
+URL:   https://coindoo.com/the-dangerous-impact-of-cryptocurrency-mining-on-the-environment/
+
+More and more people are getting into cryptocurrency mining, but how does this process affect the environment?
+
+Cryptocurrency is a digital form of exchange that makes use of a decentralized peer-to-peer network to produce, record, and send the coins over the chain. The mining process involves miners competing to solve complex computing algorithms via cryptographic validation, and the first one who solves the hash gets rewarded in the currency. Blocks of these verified transactions are then added to the chain.
+
+According to researchers from The University of New Mexico who are looking into the environmental impact of crypto mining, there are several areas which are greatly affected by this operation:
+
+“What is most striking about this research is that it shows that the health and environmental costs of cryptocurrency mining are substantial; larger perhaps than most people realized,” said Benjamin Jones, UNM researcher.
+
+But the process of verifying these currencies requires a lot of computational power, which, in turn, demands a huge amount of energy.
+
+The paper called “Cryptodamages: Monetary value estimates of the air pollution and human health impacts of cryptocurrency mining“ evaluates the environmental effect of these cryptocurrency mining techniques. The University of New Mexico researchers Andrew Goodkind (asst. professor, Economics), Benjamin Jones (asst. professor, Economics) and Robert Berrens (professor, Economics) are using existing data on the energy used by cryptocurrency and a set of economic valuation techniques to determine just how much cryptocurrency mining costs.
+
+“Our expertise is in estimating the monetary damages, due to health and environmental impacts, of different economics activities and sectors,” Berrens clarified. “For example, it is common for economists to study the impacts from energy use connected to production and consumption patterns in agriculture, or with automobile production and use. In a world confronting climate change, economists can help us understand the impacts connected to different activities and technologies.”
+
+Cryptocurrency Mining and Electricity Consumption
+
+Mining requires the use of specialized computer hardware, which consumes a lot of electricity. Also, mining farms, which are large scale mining operations, are working in various regions around the world where they can profit from the fastest internet connections and cheapest energy sources.
+
+The structure of cryptocurrencies is also an issue, as most Proof of Work-based coins use an algorithm that makes the hashes harder to solve over time, which means that the electricity demands are also increasing, as well as their associated damages.
+
+“An important issue is the production process employed in the blockchain for securing new blocks of encrypted transactions. Along with supply rules for new units of the currency, some production processes, like the predominate Proof-of-Work (POW) scheme used in Bitcoin, require ever-increasing computing power and energy use in the winner-take-all competition to solve complex algorithms, and secure new blocks in the chain,”– Berrens explicated.
+
+“With each cryptocurrency, the rising electricity requirements to produce a single coin can lead to an almost inevitable cliff of negative net social benefit,” read the paper.
+
+“We looked at climate change from greenhouse gas emissions of electricity production and also the impacts local air pollutants have when they are carried downwind and across local communities,” Goodkind stated.
+
+The paper estimated that in 2018, every $1 of Bitcoin value generated damage of $49 in health and climate in the United States. The researchers’ data shows that in 2018, the cost of creating Bitcoin matched the cost of its damages. Those damages include pollutants resulting from the burning of fossil fuels for energy, such as carbon dioxide, fine particulate matter, nitrogen oxides, and sulfur dioxide. Inhaling these pollutants for an extended period of time has been linked to an increased risk of early death.
+
+“By using large amounts of electricity generated from burning fossil fuels. Cryptocurrency mining is associated with worse air quality and increased CO2 emissions, which impacts communities and families all across the country, including here in New Mexico,”- said Jones.
+
+The researchers estimated the electricity consumption and the resulting carbon emissions for four of the most mines cryptocurrencies: Bitcoin, Ethereum, Litecoin, and Monero. The four cryptos accounted for between 3 and 15 million tons of carbon dioxide emissions from 2016 to mid-2018.
+
+The data on emissions were collected for various pollutants associated with each kilowatt-hour produced in the United States and China, where most of the world’s cryptocurrency mining operations are located. They inferred from several extensive U.S. data to calculate the health and climate impacts – or “cryptodamages”- in China.
+
+Their climate damage estimates are based on carbon dioxide emissions resulting from electricity production.
+
+In China, climate change is about 89% because of cryptodamages, while the rest of 11% is because of human health effects. In the United States, nearly 60% of cryptodamages impact the climate, while 40% affect health.
+
+This is because emissions resulting from electricity production are higher in China than in the United States. Cryptocurrency mining in China greatly influences the rates of premature mortality. According to the researchers, every 50,000 Bitcoins mined in China result in 12 additional deaths from exposure to particulate matter.
+
+A New Scientist research shows that Bitcoin mining generates carbon emissions as the entire country of Estonia, with Chinese miners having a contribution of 47%. The Cambridge Bitcoin Electricity Consumption Index (CBECI) found out this year that Bitcoin’s power consumption surpassed that of Switzerland.
+
+The mining hardware also requires cool systems in order to prevent overheating while computing such complex algorithms. This consumes additional energy, which was not included in this study, meaning that even more energy and thus more damages are being produced.
+
+Cryptocurrency Mining and Carbon Emissions
+
+The study revealed that in 2018, the entire network had an electric consumption of 31.3 terawatt hours, which generated 17.3 megatons of carbon dioxide.
+
+China is the largest producer and consumer of coal energy in the world, having mines in the Xinjiang and Inner Mongolian regions. Coal energy sources have 30% cheaper energy than those using renewable energy. When comparing mined cryptos with renewable energy sources in Canada, the same mined crypto in China would have a quadruple amount of CO2 emissions.
+
+A CoinShares research report calculated that 77.6% of crypto-mining operations use electricity from renewable resources, while the rest of the 22.4% rely on fossil and nuclear producers.
+
+Many extensive cryptocurrency mining facilities are located in regions such as the Pacific Northwest, Upstate New York, Northern Scandinavia, Iceland, and Georgia, where mostly renewable energy sources are used.
+
+Conclusion
+
+As we can notice, renewable energy production models have less of an impact on the environment. We can only hope that miners and mining farms will try to shift towards using more renewable energy than those based on fossil fuels to lessen the negative effects of carbon emissions. Also, if cryptos change from their PoW protocol to PoS, which is less memory intensive than the former, this could drastically reduce energy consumption.
+
+Featured image: sharespro.ru

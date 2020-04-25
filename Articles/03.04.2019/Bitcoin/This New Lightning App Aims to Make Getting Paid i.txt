@@ -1,0 +1,33 @@
+DATE:  03.04.2019, 17:05:31
+TITLE: This New Lightning App Aims to Make Getting Paid in Bitcoin Easier
+URL:   https://www.coindesk.com/this-new-lightning-app-aims-to-make-getting-paid-easier
+
+A new app today has launched that aims to tackle the problem of “inbound capacity” on bitcoin’s lightning network.
+
+One of the challenges facing the still-in-development payment network centers around the need to have sufficient funds on the opposite end of their lightning channel, known as inbound capacity. Put more simply, users need to undertake several steps before they can actually receive money – a complicating factor for users such as merchants that want to accept funds via the network. It’s also a quandary that some participants in the global “lightning torch” experiment have run up against.
+
+The new Lightning Power Users app, released by developer Pierre Rochard, will join other services that are seeking to make it easier for users to get inbound capacity. That includes Bitrefill’s Thor and the recently-launched Lightning Loop from Lightning Labs.
+
+Lightning Power Users takes a slightly different approach than Thor, with a shorter limit to how long the service will keep a channel open if it isn’t used. This is for users who might just want to accept a payment “imminently” and want a short-lived channel for a smaller fee, according to Rochard.
+
+Rochard, known for developing a “node launcher” to make the lightning setup process easier, also launched the service because he worries about any one of these services growing too large and effectively making bitcoin more centralized than it needs to be.
+
+As he put it in conversation with CoinDesk:
+
+“I think what I want to see is a large variety of ways to do this. If we rely on just LNBIG or other services, then bitcoin’s not as decentralized. So, that’s my goal. To provide a reliable service.
+
+At first, he said, people were submitting via Google Form that he would use to manually set up a channel. But the new service automates the process.
+
+As such, some users have tried Lightning Power Users already in a sort of undercover trial run leading up to the launch, with some saying they’re happy with the service it provides and that the fee for use is “reasonable.”
+
+Rochard added:
+
+“It’s one of the more legitimate criticisms of lightning. We’ll see where it goes. there’s healthy debate among developerss about how to solve this issue.”
+
+Still, he thinks that in the long-run, developers might figure out a way to completely hide the inbound capacity step in some way. One approach would perhaps involve iterations on lightning’s autopilot feature, or using newer computer science techniques such as machine learning.
+
+Rochard argues that a new incoming lightning feature called dual-funded channels could also help, which were recently added to the specifications that all lightning implementations plan to enforce.
+
+Until then, Rochard plans to use funds from Lightning Power Users to continue supporting his lightning node launcher.
+
+Lightning image via Shutterstock

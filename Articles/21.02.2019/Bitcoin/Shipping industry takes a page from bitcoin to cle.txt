@@ -1,0 +1,61 @@
+DATE:  21.02.2019, 18:52:47
+TITLE: Shipping industry takes a page from bitcoin to clean up its act
+URL:   https://grist.org/article/shipping-industry-takes-a-page-from-bitcoin-to-clean-up-its-act/
+
+News on climate in the time of coronavirus Subscribe today
+
+A 960-foot-long freighter crossed the Atlantic Ocean last week running on a mix of biofuels and oil, not the usual super-polluting bunker fuel. Yet that lower-carbon fuel sloshing in Frontier Sky’s tanks wasn’t the only novelty. The vessel’s operators also used a much-buzzed-about technology to verify the ship’s carbon emissions as it traveled from the Netherlands to eastern Canada.
+
+In a demonstration project, Blockchain Labs for Open Collaboration, a software developer in Copenhagen, traced a batch of biofuels as it was created, processed, blended, and delivered to Frontier Sky. Japanese shipping giant NYK owns the vessel, and global mining company BHP hired the ship to deliver cargo. Dutch firm GoodFuels supplied the biofuels — made from cooking oil waste and forestry residues — which Varo Energy then blended with conventional marine gas oil.
+
+The basic idea was to create a digital paper trail so that regulators and clients alike can verify that shipping companies are keeping their carbon-cutting promises. Such transparency has been rare within the international shipping industry. But some big companies are starting to embrace data-sharing tools as part of a broader push to clean up cargo ships.
+
+“There is a shift upon us,” said Deanna MacDonald, CEO of Blockchain Labs for Open Collaboration, or BLOC.
+
+The shipping industry moves some $4 trillion in cargo across the planet each year, delivering the clothes on our backs, the grains in our bowls, and the gasoline in our tanks. All those goods come with tons of greenhouse gases and air pollution: If cargo ships formed a country, their total annual carbon emissions would be the sixth highest in the world, just behind Japan.
+
+The International Maritime Organization, the industry’s main regulator, and local governments have started clamping down on shipping-related pollution. Recent regulations require ships to incorporate more energy-efficient designs and use lower-sulfur fuels, which emit fewer of the gases and particulates that threaten human health. Shipowners are testing and adopting an array of cleaner alternatives to cheap, ubiquitous bunker fuel, including hydrogen fuel cells, marine batteries, biofuels, and spinning metal sails.
+
+Figuring out how much these actions actually slash emissions is a complicated task. It depends on shipping companies gathering and sharing data about fuel origins, vessel operations, and the like. But many shipowners remain reluctant to divulge performance data they consider trade secrets.
+
+Projects like the Frontier Sky demonstration aim to help fill this information gap. If such efforts succeed and spread, they could help regulators ensure ships comply with environmental rules, and companies would have the option of putting their products on the cleanest ships.
+
+On The Blockchain
+
+To trace the use of biofuels on Frontier Sky, the team used blockchain — though it doesn’t have anything to do with the virtual currency known as bitcoin.
+
+Blockchain was created to serve as a “distributed ledger” for cryptocurrencies. With each bitcoin transaction, a permanent “block” is created with the timestamp, transaction data, and other relevant details. The blocks are then linked in a “chain” that multiple parties can view and search. It’s an attempt to build trust and legitimacy in the absence of a banking authority or central bitcoin server.
+
+Blockchain is starting to play a similar role in the world of shipping, except that the blocks typically contain paperwork and signatures. The business involves many players spread around the world, and not all transactions are well-documented or disclosed. Such opacity is why bad actors can get away with stealing fuel, changing the terms of contracts, or dumping damaging chemicals into batches of bunker fuel.
+
+“No one knows what fuel they’re getting, or where they’re getting it from,” MacDonald said. “This is a market where it’s price-per-ton that drives all decisions.”
+
+BLOC’s prototype is meant to shine a light into this murky corner of shipping. With Frontier Sky, the team tracked the biofuels supply from origin to engine room. At every step, participants used web applications on their smartphones to upload documents to the software, including fuel specifications, supply contracts, and sign-off statements confirming fuel delivery from point A to point B. GoodFuels provided independent verification that its fuels weren’t sourced from palm oil or other feedstocks linked to deforestation.
+
+Blockchain can also serve as “proof of sustainability,” MacDonald said. By using a biofuels mix, rather than 100-percent fossil fuels, Frontier Sky avoided emitting more than 50 metric tons of carbon dioxide en route to Canada, the emissions equivalent of driving 125,000 miles in a car, according to the project partners.
+
+Shipping companies could use that chain of evidence to earn carbon credits in cap-and-trade systems or as part of ports’ environmental rewards programs. Having an actual, verified paper trail may help boost adoption of lower-carbon, lower-sulfur fuels, which are still more expensive and less widely available than fossil fuel-based supplies. Dirk Kronemeijer, CEO of GoodFuels, said this kind of traceability is an “enormous benefit” to his company.
+
+Sizing Up Ships
+
+Another way to gauge shipping-related emissions: sort the Teslas from the clunkers.
+
+Cargo ships, like cars, vary widely in performance and design. Older ships built decades ago tend to guzzle fuel and spew exhaust, while modern vessels deploy electronic controls and hydrodynamic hulls to minimize fuel consumption. For businesses looking to put their goods on a freighter, it’s not always obvious which type of vessel they’ll end up with.
+
+In 2012, the company RightShip began calculating theoretical CO2 emissions for tens of thousands of ocean-going vessels, based on each ship’s design specifications and engine type. The international outfit also developed an emissions ratings system that compares ships of similar sizes and types. “A” signals the most energy-efficient vessels, while the least-efficient, highest-emitting ships get slapped with a “G.”
+
+The ratings “filled a void in the market for open and transparent information on ship efficiency,” said Sarah Braude, a senior sustainability officer at RightShip’s Melbourne, Australia, office. “It allows users — charterers, banks, shipowners, ports, etc. — to make more informed decisions on vessel efficiency, assisting the maritime industry’s transition to a low-carbon economy.”
+
+Braude said shipping companies representing roughly 20 percent of the world’s cargo flows now use RightShip’s emissions ratings to select more efficient vessels. Many do so to lower their bunker fuel bills and to reduce emissions associated with moving goods around the world. Shipowners with lower-rated vessels are feeling the sting. In response, some are upgrading their fleet to compete for customers, with RightShip registering nearly 300 efficiency upgrades in the last 12 months.
+
+Streaming Data
+
+Other maritime companies are tracking ships as they ply the seas.
+
+Many things influence a ship’s overall emissions, including speed, course, weather conditions, and engine use. But most ships today are still black holes when it comes to reporting data — falling off the grid for days or weeks at a time. As regulators begin requiring more ships to report this kind of information, a crop of startups has emerged to help.
+
+Finnish company Eniram, for instance, installs dozens of sensors and communications devices to a vessel’s engines, boilers, tanks, and decks. Its system compiles the performance data that can show how much fuel a ship consumes on a particular voyage — a key for tallying emissions. It also helps engineers know when to alter ship speed, routes, and timing to curb fuel consumption.
+
+MacDonald said BLOC is working to include this kind of real-time sensor data in its blockchain system.
+
+As the Frontier Sky project wraps up, BLOC will continue refining its work with hope of bringing a more advanced system to market in the next six months. MacDonald said the goal is not just to prove the potential of blockchain but also “the role that digital technology can play in decarbonization of the shipping sector.”

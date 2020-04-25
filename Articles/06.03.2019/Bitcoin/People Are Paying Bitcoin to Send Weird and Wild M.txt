@@ -1,0 +1,71 @@
+DATE:  06.03.2019, 00:40:21
+TITLE: People Are Paying Bitcoin to Send Weird and Wild Messages Into Space
+URL:   https://www.coindesk.com/people-are-paying-real-bitcoin-to-send-weird-and-wild-messages-into-space
+
+You’re not sure where it will end up exactly or who will actually read it. But you type up a message, pay a couple of cents in bitcoin and click the “send” button. Your message zips through space – yes, space – then is broadcast out of a satellite, blanketing the world.
+
+The result? A cosmic “message in a bottle” that’s become the latest novelty in the bitcoin technical community.
+
+It’s all possible with the help of Blockstream satellite, an eccentric project released over a year ago with the goal of making bitcoin accessible for people without internet access. Sending messages has gotten easier since then, with the launch of spacebit.live, a simple website that allows users to pay a small fee (the default of which is 3 cents in testnet bitcoin) to send a message via those satellites across the world.
+
+So far, the results make an interesting study.
+
+One message features a journal of some unknown person’s whimsical thoughts about life and bitcoin. “So here I am, left my job, I have some money to keep me up and I’m building my first raspberry pi lightning node, and broadcasting messages from satellites. Still feels surreal at times,” the diary reads, as retrieved by Twitter user “Grubles,” a Blockstream satellite user who frequently tweets about the technology.
+
+“Still hard to grasp the fact, that I’m blanketing a big part of the Earth with my message, on demand, instantly. I wonder, does anybody [read this message]?” the same person wrote the next day.
+
+“Love you,” they wrote on day 4.
+
+What might be more surprising than the content, though, is the number of messages.
+
+“Yo that’s crazy AF,” reads a message from another unknown user. Someone else sent a poem dedicated to the lightning network, and another sent an encrypted “rare pepe,” a limited edition card featuring the politically inflammatory frog meme.
+
+Another user sent a note filled with gibberish with the handle of a popular Twitter user who left the social media site, “Dandarkpill,” tagged at the end.
+
+“Back when I can find the light,” the cryptic message reads, implying Dandarkpill is planning to come back some day and chose to communicate this by satellite.
+
+“We can’t be sure if it was him or if the message was broadcast from the ‘memecave’ but we remain hopeful that this is a signal to say he is fine and will return one day,” pseudonymous Spacebit.live creator “MediumSqueeze” told CoinDesk, calling them one of “our fallen soldiers.”
+
+Space equipment for all
+
+If Blockstream’s website is any indication, users are sending a lot of messages using the system, and more messages could soon be on their way. Today, the technology is testnet, but MediumSqueeze hopes it’ll move to bitcoin’s live network soon, meaning it will be used with real bitcoin.
+
+Either way, the way it works is pretty neat.
+
+In December, Blockstream released an update to its software. One of the lesser-known features is that with its new application programming interface (API) people could use their satellites to send messages.
+
+To send a message, users pay a fee in lightning, the new payment network now being built on top of bitcoin. The platform is still experimental, but people have been eager to use it anyway. The fee should correspond to how much data the message contains. An image, for example, might require more data, and thus might be more expensive than if you broadcast just a sentence.
+
+“Blockstream made available an API which takes a message and returns a lightning network invoice, upon receipt of the invoice the message is sent to the satellite teleport then the payload is broadcast to the satellite array,” MediumSqueeze explains.
+
+While spacebit.live and the Blockstream API make it pretty easy to send a message, a user needs a satellite receiver (for now) to retrieve them.
+
+In theory, anyone could run a satellite. It costs about $100 to buy the necessary equipment.
+
+Long-time Bitcoin Core contributor and former Blockstream CTO Greg Maxwell, for example, posted photos of his satellite receiver setup to Bitcoin Talk, giving other users tips on putting it together.
+
+Image via bitcoin developer Greg Maxwell on bitcoin forum Bitcointalk
+
+But, why?
+
+So, what’s the point? Is it just a novelty or is there actually a reason to use bitcoin to send messages through space? It’s perhaps a bit of both.
+
+“Right now, it’s just for fun,” MediumSqueeze told CoinDesk.
+
+But some developers think the technology opens up new avenues. Bitcoin podcast host Ansel Lindner sees it as having potential for whistleblowers, people who expose the unethical actions of governments or corporations to the rest of the world. That’s because they can use it to broadcast anonymous messages that can’t be censored, which he doesn’t think is possible any other way.
+
+“It could be used anonymously to broadcast a message to the world. It can’t be stopped by a mainstream media outlet, Internet Service Provider (ISP) or government, ” he told CoinDesk, adding:
+
+“Posting it on a third party site like social media is censorable, even with an anonymous account. Your own website would be less so, but they can find you more easily. Encrypted message/email or whatever would be censorable by going after a few people. Broadcasting it globally would be very hard to stop.”
+
+Still, others see it as a way to continue to further voice bitcoin’s ethos.
+
+“This kind of network is not for posting WhatsApp messages, this is strictly 21st-century cypherpunk,” MediumSqueeze said, referencing a group of technologists from the 1990s who advocated for the use of cryptography to bring about political change.
+
+So far, this seems to be the most well-developed application as the unknown diarist from our introductory section would go on to prove with his fifth message.
+
+“Without bitcoin I wouldn’t have too much faith for the future,” it reads, adding:
+
+“I think I will tell this tale for my grandkids one day. Maybe in a post-civilization wasteland, but still.”
+
+Satellite image via Shutterstock

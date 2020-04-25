@@ -1,0 +1,31 @@
+DATE:  24.09.2019, 18:17:11
+TITLE: Bitcoin Hashrate Flash-Crashes 40% Highlighting Pure Proof-of-Work Vulnerability
+URL:   https://dashnews.org/bitcoin-hashrate-flash-crashes-40-highlighting-pure-proof-of-work-vulnerability/
+
+This post is also available in: Deutsch
+
+Bitcoin’s hashrate experienced a flash crash, dropping nearly in half, highlighting a potential issue with the pure proof-of-work security model.
+
+If you operate an exchange, or a merchant that accepts BTC directly (but let's be honest, no one does that), you should increase # of confirmations when you see a hashrate drop exceeding 30%. — Emin Gün Sirer (@el33th4xor) September 24, 2019
+
+This week, the Bitcoin hashrate dropped significantly in a plunge in the network’s mining power of 40%. According to data from Fork.lol, Over the course of about 14 hours the network’s hashrate dropped from around 107 exahashes to a little over 59 exahashes. This means that nearly half of all the Bitcoin network’s security was removed over the course of a half-day, making the network more vulnerable to attack than it had previously been. At time of writing no specific cause for the sharp decline in hashrate has been definitively identified.
+
+This sharp Bitcoin hashrate drop has prompted concerns as to the overall security of the Bitcoin network and potential issues arising from trusting a set number of confirmations in order to consider a transaction secure. Cornell University professor Emin Gün Sirer noted that the significant drop in hashrate may indicate that standard practice for accepting a transaction as secure should be modified in cases of major hashrate shakeups, particularly over a short period of time where it is not known if a single actor may have acquired over 30% of the entire network’s hashrate, approaching the 51% number where the network can be considered as vulnerable at any time:
+
+“The number of confirmations Satoshi calculated in the whitepaper, 6, isn’t some magic number. It’s based on an assumption that the attacker has at most 30% of the hashrate. If >30% of the hashrate suddenly disappears, exchanges should up the number of confirmations required.”
+
+The variability of the security of a Bitcoin transaction introduces an advanced degree of both complexity and uncertainty in accepting the currency for a payment, potentially serving as a barrier to wider adoption until it is resolved.
+
+Bitcoin’s mining decentralization called into question
+
+The significant drop in Bitcoin’s hashrate has highlighted several issues affecting the network’s security and decentralization. An overnight loss in nearly half of the network’s power may either indicate that a single actor actually owns a more significant portion of the network’s power than previously imagined, or that multiple actors constituting a large chunk of hashrate are sharing the same infrastructure, such as electric grid in a certain country. This can represent a security flaw that may not show up “on paper” on typical hashrate distribution statistics.
+
+any time a PoW promoter or cyber coin lobbyist says that Bitcoin is "decentralized," be sure to remind them that the major miners, pool operators, and other infrastructure operators get together on an annual basis, usually behind closed doors: pic.twitter.com/ZIhRaUflEs — Tim Swanson (@ofnumbers) September 22, 2019
+
+There may be more issues represented by a significant concentration of Bitcoin hashrate being located in China. According to recent research, around 75% of Bitcoin’s total mining power may be located within Chinese borders. This may open the network up to the “jurisdictional attack,” where a majority of hashrate is located in a particular jurisdiction, potentially leaving the network open to authorities affecting or compromising the network by targeting mining pool operators, possibly without the rest of the network fully knowing, or without any drop or fluctuation in hashrate.
+
+The attractiveness of ChainLocks for proof-of-work coins grows daily
+
+Challenges presented to the pure proof-of-work security model as demonstrated by Bitcoin’s recent hashrate issues may give further credence to hybrid security models, such as that employed by Dash. With the activation of ChainLocks, Dash now leverages the masternode network to lock in the first-seen block on the network, therefore protecting against 51% attacks, requiring that an attacker to control a large portion of the coin’s supply in order for the attack to be effective. Additionally, ChainLocks prevents certain other issues with mining such as selfish and secret mining, further smoothing the network versus other competing proof-of-work coins.
+
+Notable blockchain educator Andreas Antonopoulos praised ChainLocks, considering it an important solution to proof-of-work security, while opining that a major networks such as Bitcoin do not require such functionality due to their significant hashrate. Issues such as those highlighted recently may call that opinion into question.

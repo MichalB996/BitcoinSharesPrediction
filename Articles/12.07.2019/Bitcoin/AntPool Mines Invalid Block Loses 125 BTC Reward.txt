@@ -1,0 +1,37 @@
+DATE:  12.07.2019, 15:00:50
+TITLE: AntPool Mines Invalid Block, Loses 12.5 BTC Reward
+URL:   https://btcmanager.com/antpool-mines-block-loses-12-5-btc-reward/
+
+AntPool Mines Invalid Block, Loses 12.5 BTC Reward
+
+At a block height of 584,802, AntPool mined an invalid block and was forced to forfeit their 12.5 BTC block reward. The rejection came as a result of an erroneous coinbase transaction and was spotted by Bitrefill dev Justin Camarena, as reported by The Next Web, July 11, 2019.
+
+Mined Block Goes to Waste
+
+AntPool has just effectively given up a $142,000 block reward while also wasting resources on the Proof of Work (PoW) computation process.
+
+Anyone log the full block?
+
+2019-07-10T14:35:27Z ERROR: ConnectBlock(): coinbase pays too much (actual=1326546691 vs limit=1250000000)
+
+2019-07-10T14:35:27Z ERROR: AcceptBlockHeader: block 0000000000000000000b47042b90c6a893e6e5cdef70c92beefb88f4c5fa5a69 is marked invalid — Justin Camarena (@juscamarena) July 10, 2019
+
+In order for a miner to get their block reward, they must successfully add a block to the existing chain. To claim this reward, they must add coinbase (not to be confused with the exchange, Coinbase) transactions.
+
+When the network accepts the block, the miner collects the coinbase transactions, but it must equal the amount set by the Bitcoin protocol, which is 12.5 BTC. After this, full nodes ensure miners are creating blocks by automating block rejection in the software if it doesn’t match the required parameters.
+
+On this occasion, the top eight node clients identified the block an invalid, giving them a majority in consensus and allowing the block to be rejected by the entire chain.
+
+In this case, the block had requested a reward for 13.26 BTC instead of 12.5 BTC. This is one of the key reasons Luke Dashjr wants to reduce the block size; so that more people run full nodes and can help reject invalid blocks and spot dishonest action by miners.
+
+A Shortcoming of PoW?
+
+New consensus protocols are coming through, with Proof of Stake (PoS) being touted as the PoW killer. PoS doesn’t offer the same level of distribution of consensus power, but it does allow for better on chain governance.
+
+In more recent developments, Eminem Gün Sirer revealed the launch of Ava Labs, built using the Avalanche consensus protocol.
+
+It seems unfair to blame Proof of Work for this, but many like Sirer believe it is a fundamentally flawed concept of achieving decentralization. In fact, it seems more likely that the stringent requirements under PoW were a key reason for block invalidation, although consensus really isn’t at the heart of this problem.
+
+Many are speculating that this was caused by a bug in mining software, but there is no definite reason as of yet.
+
+Yes, it looks like the block was found just seconds after the previous block. My guess would be that there was a bug in the block template generator that failed to clear out the txn fees from the previous template being worked upon. — Jameson Lopp (@lopp) July 10, 2019

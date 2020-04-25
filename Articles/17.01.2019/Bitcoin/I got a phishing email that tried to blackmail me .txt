@@ -1,0 +1,59 @@
+DATE:  17.01.2019, 08:00:11
+TITLE: I got a phishing email that tried to blackmail me – what should I do?
+URL:   https://www.theguardian.com/technology/askjack/2019/jan/17/phishing-email-blackmail-sextortion-webcam
+
+I got a phishing email that tried to blackmail me – what should I do?
+
+I got this email today. It says “I hacked your device, because I sent you this message from your account.” It goes on to claim that it has filmed me watching pornography, and demands $698 in bitcoin. Phishing? Pwned? What to do? Pauline
+
+This is generally known either as “webcam blackmail” or “sextortion scam” and the email should have been diverted to your spam folder. Millions – perhaps billions – of similar emails have been sent over the years, but there seems to have been a flood of them over the past few months.
+
+Very few people ever make the requested payment. However, since the cost of sending millions of spam emails is basically zero, even a few payments are easy profits.
+
+While it’s generally safe to ignore spam emails like this, some people will want reassurance. You can almost always get this by searching the web for one or two sentences from the email. In this case, phrases appear on two threads in the r/Scams conference on Reddit: The Blackmail Email Scam and The Blackmail Email Scam (part 2). Publishing all the variants of these scam emails makes them easier to find.
+
+What’s on the hook?
+
+Random spam emails probably don’t have much success, so the would-be blackmailers have been trying to personalise their attacks in various ways. The most common ones are email spoofing, including a password, and including all or part of a phone number.
+
+Most email services have no way of authenticating the From: and Reply to: fields in email messages, so spammers can fill these fields with anything they like. Your attacker simply made the From: address the same as the To: address, so it looked as though you had sent the email yourself. You hadn’t.
+
+In 2012, a working group introduced a new system called DMARC (domain-based message authentication, reporting and conformance) to alleviate the problem. It helps but it’s still not used widely enough. Dmarcian has a website where you can check if a domain is compliant. (Both google.com and outlook.com have valid records.)
+
+The UK’s Action Fraud office provides a tutorial to help businesses set up DMARC.
+
+Other versions of this phishing attack include one of the recipients’ passwords and/or part of a phone number. These have usually been obtained from one of the security breaches that have exposed details of billions of users. In 2017, Yahoo admitted that its data breaches compromised 3 billion accounts. Other major breaches involved Marriott International (500 million customers), LinkedIn (164 million), Adobe (153 million), eBay (145 million), Sony’s PlayStation Network (77 million), Uber (57 million) and Ashley Madison (31 million).
+
+Password checking
+
+There’s a good chance that one of your passwords was exposed in one or more of these breaches. You can check by typing your email addresses into the website, Have I Been Pwned? At the time of writing, this has 5.7 million pwned accounts from 339 pwned websites. There’s also a newer page for pwned passwords, as explained here.
+
+If your email address comes up in HIBP? then you must change the password that you used for all the sites that suffered data breaches. If you used the same password for any other sites – that’s a bad idea, obviously – you should also change the password on those.
+
+If the Pwned Password page reveals that one of your passwords has been exposed, you should change that as well: you may not have been pwned, but your password is not unique. Some are quite common. For example, the password “12345” has been exposed 2.3m times, “secret” 221,972 times, “god” 32,804 times and “arcticmonkeys” 649 times.
+
+Dashlane has a nice website that will tell you how long it would take to crack your password. However, even strong passwords are no use if they have already appeared in breaches. The xkcd cartoon password “correct horse battery staple” would theoretically take 15 octillion years to crack, but it has already been pwned twice in that form … and 111 times without the spaces.
+
+Scam reporting
+
+In the UK, you can use Action Fraud’s website to report a phishing attempt if “you have NOT lost any money or exposed your personal details. If you have lost money, you must report it as a crime,” the site says.
+
+Reporting phishing attempts is simple but optional: some people get several phishing emails per day, and they’re unlikely to report most of them. I don’t have any numbers, but I expect most people just delete and forget about them.
+
+Reporting a crime requires more effort, and if you are serious, you should create an account to do it. You can file a report as a “guest” but creating an account provides more options. You can, for example, save and resume reports, update them later, call Action Fraud to discuss your case, and get email progress reports.
+
+You can also report crimes by calling 0300 123 2040 on weekdays between 8am and 8pm. Businesses, charities and other organisations are urged to call this number during live cyber-attacks at any time.
+
+Action Fraud – which used to be the National Fraud Reporting Centre – is operated by the City of London police and the National Fraud Intelligence Bureau (NFIB), which is overseen by the City of London police. They don’t investigate cases, but check them for “solvability factors” such as bank account details, phone numbers, postal addresses and so on. If there are any, they pass them on to a “local police force or other appropriate law enforcement agency”.
+
+By which time, any money transferred is likely to have disappeared …
+
+Safety first
+
+The best way to deal with phishing and other spam emails is to delete them on sight. Don’t open them, don’t reply to them, don’t open any documents that may be attached to them, don’t click any links in them, don’t enter any information into websites fetched by those links, and definitely don’t send them any money.
+
+Many of these emails will include a transparent, single-pixel image, known as a beacon. When you open the email, it fetches the tiny image.gif file from a remote server, so the spammers know they’ve hit a live, working email address. (Note: Gmail and some other services pre-fetch images to avoid this problem.)
+
+Also bear in mind that spam and phishing emails may include attempts to infect your computer with malware. This is why you should keep your anti-virus software and operating system up to date. It can be annoying, but thousands of PCs were infected by malware such as Stuxnet and WannaCry months or sometimes years after the vulnerabilities they exploited had been patched.
+
+Have you got a question? Email it to Ask.Jack@theguardian.com

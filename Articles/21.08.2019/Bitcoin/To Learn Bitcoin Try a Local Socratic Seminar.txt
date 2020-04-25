@@ -1,0 +1,43 @@
+DATE:  21.08.2019, 20:36:39
+TITLE: To Learn Bitcoin Try a Local Socratic Seminar
+URL:   https://bitcoinmagazine.com/articles/op-ed-want-to-learn-about-bitcoin-try-a-local-socratic-seminar
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+The Bitcoin meetup scene has been a vibrant global community since the early days of Bitcoin’s history. There have been Bitcoin meetups in most major cities on a regular basis for at least five years. While conferences, podcasts and online videos definitely play a significant role in community building, what gets less attention is the potential of meetups to build in-person technical communities in physical locations.
+
+Now that Bitcoin effectively has two layers — a relatively stable, mature base layer and a more experimental, nascent second layer — it is as important as ever that we attract a sufficient number of developers to address challenges on both layers. In response, we are now seeing Bitcoin technical meetups focused on developers and aspiring developers starting to multiply to the same extent as more general meetups are.
+
+Building the Bitcoin Community
+
+The first Bitcoin technical meetup in the world, according to Meetup.com, was the initial BitDevs Meetup in New York City on August 7, 2013. The first San Francisco Bitcoin Devs meetup was hosted by Andreas Antonopoulos on December 13, 2013, and had 16 RSVPs, with Antonopoulos initially enquiring about interest on Twitter. On the Meetup page, he even posted his telephone number. (We informed him of this and he has now taken it down!) Back in 2013, Antonopoulos was presenting to near-empty rooms, as his presentation on Bitcoin neutrality at the Bitcoin 2013 conference demonstrates. Hopefully this provides some inspiration to those who would set up a meetup or host a seminar but are currently dissuaded by the lack of a meaningfully-sized audience.
+
+BitDevs in New York City has followed a particular meetup format, known as a Socratic Seminar, since its inception and it is now approaching its 100th edition.
+
+The Socratic Seminar was introduced at SF Bitcoin Devs in July 2018 and London Bitcoin Devs held its first one in May 2019. Boston BitDevs recently joined the party by hosting its first-ever meetup using the Socratic Seminar format in June 2019. Los Angeles joined the list in August 2019, and, at the time of writing, there are Socratic Seminars scheduled at Austin Bitcoin Developers in August 2019 and Chicago BitDevs in September 2019.
+
+The Socratic Method
+
+Taking its name from the renowned Greek philosopher Socrates, who was the pioneer of Socratic debate back in the fifth century B.C., a Socratic Seminar fosters cooperative yet argumentative dialogue with participants asking one another questions and challenging each other on their answers. It has parallels with Nassim Taleb’s concept of antifragility where an argument, or, in Bitcoin’s case, a pull request or a Bitcoin Improvement Proposal, strengthens by being stressed and having its weaknesses identified. As discussed by Peter Thiel and others, there is also a concept of “steelmanning” an opposing argument, rather than “strawmanning” it, in order to obtain a better understanding of the flaws of one’s own argument. The overarching aim is to continuously improve the community’s understanding of Bitcoin technology so that more are able to participate in more complex and subtle discussions. Ultimately, the goal is to merge only optimal code into Bitcoin.
+
+“I am the wisest man alive for I know one thing and that is that I know nothing.” Socrates
+
+The bitdevs.org webpage describes its Socratic Seminar events as “formatted to foster debate, information sharing and lively discussion,” but it warns that the discussion “will be technical.” If you are motivated to learn about the technical side of Bitcoin, you have to start somewhere and there is arguably no better way than attending a Socratic Seminar. Even if much of it initially seems impenetrable, you can ask for explanations either during the discussion or privately with an individual afterward. You will get more from it if you’ve studied the basics of Bitcoin, but there is a multitude of books and online resources to help you do this.
+
+The bitdevs.org webpage also collects archives of discussion topics from previous Socratic Seminars. Typically, they will include recently opened pull requests, draft Bitcoin Improvement Proposals, research papers, articles from Bitcoin Optech, blog posts and network statistics. The agenda has expanded to cover developments in the Lightning Network as well, with a particular focus on the three most mature Lightning implementations: c-lightning, eclair and lnd.
+
+Community Participation
+
+One of the major strengths of this format is that it doesn’t require an expert speaker to be present, either in person or remotely, to do a formal presentation. Whoever is present can lead the discussion and, in theory, you only need a minimum of two people. They typically aren’t filmed so you don’t need to worry about making mistakes or revealing holes in your existing knowledge that will potentially stay online for years. If you are the most informed on a topic in the room, you have the opportunity to practice your verbal explanations to others; if you are one of the lesser informed, you get to listen and learn.
+
+The organizers of BitDevs NYC, “J” and John Newbery, came to London in July 2019 to guest host a Socratic Seminar at London Bitcoin Devs. We covered the content from the recent Socratic Seminar in NYC (#93) with references to all the resources on bitdevs.org. Among the topics discussed were SegWit adoption, research by Tadge Dryja on Utreexo, a recently disclosed side-channel attack (RAMBleed) that can steal sensitive data from memory and even the challenges encountered with a recent hard fork of Bitcoin Cash (BCH).
+
+“The Socratic Seminar is such a great format,” Andrew Yang of Alto Financial, who recently hosted the first Socratic Seminar in Los Angeles, said. “It encourages people to ask questions and for different people to speak up and contribute in their areas of expertise. Everyone was super engaged.”
+
+Although Socrates didn’t live to attend a Bitcoin Socratic Seminar in person, this quote will resonate with those of us who continue to delve deeper down the Bitcoin rabbithole:
+
+“I am the wisest man alive for I know one thing and that is that I know nothing.”
+
+This is a guest post by Michael Folkson, organizer of London Bitcoin Devs. Opinions expressed are entirely his own and do not necessarily reflect those of BTC Inc or Bitcoin Magazine.

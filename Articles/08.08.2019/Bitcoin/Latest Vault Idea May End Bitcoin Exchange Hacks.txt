@@ -1,0 +1,91 @@
+DATE:  08.08.2019, 02:54:59
+TITLE: Latest “Vault” Idea May End Bitcoin Exchange Hacks
+URL:   https://bitcoinmagazine.com/articles/revamped-idea-bitcoin-vaults-may-end-exchange-hacks-good
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+Storing private keys securely can be challenging. This is of course true for ordinary users, but it can be just as true for large-scale custodians: The thousands of bitcoin stashed on exchanges present a juicy mark for hackers, and the seemingly endless list of multimillion-dollar thefts is a painful testament to the risks that come with this solution.
+
+But a technical measure to counter heists could be on the way. Today, Bitcoin Core contributor Bryan Bishop published a revamped proposal for “Bitcoin Vaults,” an idea first proposed in 2016. Through a clever smart-contract setup, Vault users could react to a theft by reclaiming the funds, hopefully disincentivizing theft in the first place. What’s more: None of this requires any changes to the Bitcoin protocol.
+
+“What’s exciting about this to me — and we still need to evaluate this and test it — is that this might be a reliable way to limit losses from theft,” Bishop told Bitcoin Magazine. “I think this could go a long way toward changing the landscape in Bitcoin for exchange hacks and personal bitcoin storage.”
+
+The Bitcoin Vaults Backstory
+
+The concept of Bitcoin Vaults dates back to at least 2016, when researchers from the University of Münster (Malte Möser) and Cornell University (Ittay Eyal and Emin Gün Sirer) proposed a solution to lock up coins in such a way that a theft could temporarily be reversed.
+
+In simplified terms, Möser, Eyal and Sirer’s Bitcoin Vaults were designed with special Bitcoin addresses that would have two private keys attributed to them: one “Vault Key” and one “Recovery Key.” The Vault Key would be used to spend coins, while the Recovery Key could be used to reverse the transaction for some specified period of time.
+
+If an attacker were to steal the Vault Key, they wouldn’t be able to get away with the money. Assuming the Vault creator still has access to (a copy of) the Recovery Key, they would have, say, a day to reclaim the funds to the special Bitcoin address after the attacker tried to move the coins.
+
+Even in a worst-case scenario, in which the attacker steals both the Vault Key and the Recovery Key, they wouldn’t be able to steal the funds: These could be reclaimed indefinitely. Unfortunately, in that case, the Vault creator would be unable to get the coins out of the Vault as well, since the attacker could block this, too. Neither would get the funds.
+
+Still, the inability of the attacker to walk away with a big payday would be a strong disincentive for them to even try and steal coins, Möser, Eyal and Sirer argued.
+
+“An attacker who knows that he will not be able to get away with theft is less likely to attack in the first place, compared to current Bitcoin attackers who are guaranteed that their hacking efforts will be handsomely rewarded,” they wrote.
+
+Möser, Eyal and Sirer’s solution did have a big drawback, however: It required changes to the Bitcoin protocol. Their Vaults were designed around “covenants,” a proposed update to Bitcoin’s code that would enable the return of funds. It’s difficult to get such consensus-level upgrades adopted — and so far this one hasn’t been.
+
+Bishop’s Vaults: A Step-by-Step Explanation
+
+The idea behind Bishop’s Vault solution shares functional similarities with the earlier Vault proposal, but importantly it doesn’t require any changes to the Bitcoin protocol.
+
+To understand how it works, it’s best to look at how Bishop’s Vault solution is set up in three steps.
+
+As the first step, at least three transactions are created but not yet broadcast to the Bitcoin network.
+
+The first transaction is called the “Vault Transaction.” The Vault Transaction will “lock up” the coins in such a way that it can be “unlocked” only with a specific private key.
+
+This specific private key is then immediately used to create and sign the second transaction, which is called the “Delayed-Spend Transaction.” There are several strategies behind constructing this Delayed-Spend Transaction. But as a general example, it would allow the coins to be spent in two ways. First, the coins could be spent with a “regular” private key, but only after, say, a day has passed. This regular private key is controlled by the Vault creator in their “hot” (not particularly secure, but practical) wallet. Or the coins could be spent immediately, but only with another private key.
+
+This other private key is, in turn, immediately used to create and sign the third transaction, which is called the “Re-Vaulting Transaction.” The Re-Vaulting Transaction sends the coins to a backup address or to a new Vault.
+
+The backup address can also be set up in a number of ways, but it is preferably extra secure, even if that means it’s less practical to use. For example, its private key could be generated on a different computer and stored in a physical safe somewhere. It could also be a multisignature address of which the keys are dispersed over different locations or perhaps shared between multiple people trusted by the Vault creator.
+
+Whichever setup is chosen, it can also be constructed as a new (potentially more complex) Vault. And this new Vault, in turn, could also be designed to have an “emergency exit” through a new Vault. And so forth.
+
+In the second step of the setup process, the private keys used to create the Delayed-Spend Transaction and Re-Vaulting Transaction are deleted altogether. This means that the private keys cannot be stolen any longer — not even by the most sophisticated hacker: They no longer exist. As a result, the coins in the Vault Transaction can only ever be unlocked with the Delayed-Spend Transaction. The coins in the Delayed-Spend Transaction, in turn, can only ever be unlocked with the regular private key after a day, or with the Re-Vaulting Transaction, sending it to the backup address or new Vault.
+
+In the third and final step of the setup, the Vault Transaction is broadcast to the Bitcoin network. The coins are now in the Vault, and the Vault creator should guard his Delayed-Spend Transaction and Re-Vaulting Transaction as if they were private keys.
+
+If the Vault creator wants to spend the coins, they need to broadcast the Delayed-Spend Transaction. Then, they just need to wait a day before they can spend the funds with his regular private key in his hot wallet.
+
+“In my proposal, the user has to store more data and make sure they have that data available in the long-term, otherwise they lose access to their Vault,” Bishop said. “But this is sort of similar to ‘if you lose your key then you lose your coins’ anyway.”
+
+The Attacks
+
+The Vault creator still has sensitive data that could potentially be stolen. This includes his regular private key, as well as the Delayed-Spend Transaction and Re-Vaulting Transaction. Yet, even if a hacker gets his hands on all of these, they won’t be able to spend the funds.
+
+Let’s see why.
+
+If the attacker steals the regular private key alone, they cannot access the coins, as they are still locked up in the Vault Transaction. Getting the coins out of the Vault Transaction requires the Delayed-Spend Transaction.
+
+But even if the attacker does manage to get their hands on both the regular private key and the Delayed-Spend Transaction, they won’t be able to steal the coins — assuming the Vault creator is paying attention. (The Vault creator could also make use of a “Watchtower” service that pays attention for them.) If the attacker broadcasts the Delayed-Spend Transaction, they’d have to wait a day to spend the coins with the regular private key.
+
+In the meantime, the Vault creator can broadcast the Re-Vaulting Transaction, which would send the coins to a backup address or a new Vault. If the attacker hasn’t also compromised the keys to the backup address or the new Vault, the funds are secure again — though perhaps stored in a less-convenient manner now (like a multisig address).
+
+Even if the attacker also compromises a potential new Vault, it won’t help them much. The same events would play out, and the Vault creator would once again send the coins to their backup address or new Vault. The sequence of backup Vaults can be as long as the Vault creator wants, with all types of complex setups to prevent the attacker from compromising them all.
+
+If the attacker were to steal the Re-Vaulting Transaction — either in combination with the regular private key and the Delayed-Spend Transaction, or not — they also couldn’t steal funds. The Re-Vaulting Transaction can only be used to block withdrawals. However, depending on the setup, the attacker could, in this case, sometimes stop the Vault creator from spending the funds, too.
+
+In some worst-case scenarios, in which all the Vault creator’s sensitive data stolen, the Vault creator and the attacker could end up in loop where they keep trying to block each other’s withdrawal attempts. (This could be resolved with a “self-destruct” feature, more on this below.)
+
+Remaining Weaknesses
+
+While Bishop’s Vault design could be a big step forward for security, it’s still not 100 percent foolproof against thefts or losses. Some of the remaining weaknesses can be resolved, either partly or entirely — but it would come with a trade-off.
+
+Perhaps the most obvious design trade-off is that creating more backup Vaults also means creating more sensitive data. The Vault creator needs to safeguard more keys and transactions, perhaps in more places, increasing the risk that they’ll lose some of it. On the flipside, if they create less backup data, or don’t store it in as many places, it increases the risk that the attacker gets their hands on all of it, letting them block withdrawals.
+
+“The problem with using unique keys [for each backup Vault] is, where are you going to store this data? If you store it all together then you might as well use identical keys,” Bishop explained. “But if you store it in multiple places (one per unique key) then you’re going to run out of secret spots to store your data.”
+
+As a sub-optimal solution to this problem, the Vault creator could build a “self-destruct” feature into their Vault. After some number of new backup Vaults — maybe 3, maybe 100 — the last Re-Vaulting Transaction wouldn’t actually send the funds to a new Vault. Instead, it would send the coins to a “burn address” with no private key. This locks up the coins forever, so neither the Vault creator nor the attacker nor anyone else would ever have access to it again. Per Möser, Eyal and Sirer: Building in a self-destruct feature would be a strong disincentive for a potential attacker to even try and hack the Vault.
+
+A very different problem is that a hacker could steal the regular private key — but not do anything with it until the Vault creator gets their funds out of the Vault with their Delayed-Spend Transaction. While both the Vault creator and the attacker would then have to wait a day to spend the funds, the attacker could still get the money if, after this timeout, they’re faster to react than the Vault creator.
+
+This problem can probably be solved as well — at least partially. For example, the Vault creator could design a “staging” system in which no more than, say, 1 percent of funds can be withdrawn from the Vault per day, either through a series of timelocks or a series of new Vaults. If a batch of 1 percent is stolen, the Vault creator knows they need to use the more secure backup address to get their funds out. Alternatively, the regular private key could be funded with some bitcoin as “bait.” If those coins are stolen, the Vault creator also knows to use a backup address or a new Vault to get their funds out.
+
+Lastly, it’s worth noting that the proposal has only just been published, and peer review is ongoing. Bitcoin Magazine discovered this last weakness today, in the course of writing this article. Further potential weaknesses might still surface.
+
+“That’s the value of getting proposals peer reviewed,” Bishop said. “It only makes them stronger, points out problems, etcetera.”

@@ -1,0 +1,37 @@
+DATE:  02.08.2019, 01:35:18
+TITLE: US Regulator Plans to Outsource Running Cryptocurrency Nodes
+URL:   https://news.bitcoin.com/us-regulator-plans-to-outsource-running-cryptocurrency-nodes/
+
+US Regulator Plans to Outsource Running Cryptocurrency Nodes
+
+A recently published document reveals that the U.S. Securities and Exchange Commission (SEC) has plans to hire contractors to run specific cryptocurrency full nodes for the government agency. According to the SEC documentation, the regulator wants third-party contractors to run nodes for Bitcoin Core (BTC), Ripple (XRP) and Ethereum (ETH) in order to monitor compliance risks.
+
+Also read: SEC Begins Green-Lighting Token Offerings
+
+Running a Full Bitcoin Node for the SEC
+
+Depending on whom you ask, the news of the SEC soliciting contractors to run full cryptocurrency network nodes could be seen as either positive or negative. The government document was first spotted by Trustnodes news outlet. Despite the fact that there’s a wide range of blockchain explorers out there, the agency wants to pay contractors to run nodes for BTC, ETH, and XRP. In the future, the SEC may also contract others to run nodes for Stellar, Zcash, Bitcoin Cash, EOS, and NEO. The document doesn’t really explain precisely why the SEC wants to outsource contractors to run these full node implementations, but the notice does highlight that it’s meant “to support its efforts to monitor risk, improve compliance, and inform commission policy with respect to digital assets.”
+
+The SEC also emphasized that the “subscription shall source all blockchain data from hosted nodes, rather than providing this data as a secondary source (e.g., via blockchain explorers).” Node operators can work remotely and use the SEC’s electronic e-mail invoices and a preliminary base period of one year. The contract can be extended up to four years, the agency’s paperwork explains. Interested contractors may submit a price estimate with a complete data scheme, dictionary, and sample data file to be reviewed. The SEC “intends to procure a commercially available off-the-shelf (COTS) enterprise-wide data subscription for blockchain ledger data,” its documentation details. The advertisement states:
+
+The [SEC] intends to award a firm-fixed-price contract in accordance with FAR Subpart 13.5 in conjunction with FAR Part 12, Acquisition of Commercial Items, for a commercially available enterprise-wide data subscription for blockchain ledger data in accordance with the attached requirements list.
+
+Crypto Community Debates the Meaning and Importance of SEC’s Node Advertisement
+
+Of course, the crypto community has a lot to say about the U.S. agency wanting to hire contractors to run nodes. “It took them this long?? Welcome to the playground, kids — Hopefully, they’re not the bullies in the sandpit,” L.A.-based crypto news correspondent Omar Bham wrote on Twitter. “Never thought I’d see the day,” Etoro analyst Mati Greenspan tweeted. “The SEC is seeking quotes from contractors to run Bitcoin and Ethereum nodes on its behalf — Great, I welcome it — These are public blockchains that can be queried by any basic blockchain explorer,” another crypto proponent explained this week, viewing the news as “bullish.”
+
+Coinmetrics founder Nic Carter said that he didn’t believe the headlines that say the SEC will be running nodes and, in contrast, he referred to the advertisement as outsourcing node-running. “You’d never see the day because it’s not happening — They are looking to outsource node-running,” Carter responded to Mati Greenspan’s tweet. “They will never run nodes (not according to this prompt at least), they are outsourcing everything and just ingesting the data. Your parent tweet is not honest,” he claims. Carter further tweeted:
+
+‘SEC to run … nodes’ is just false — It’s like hiring mercenaries and claiming it’s your own army. It’s just not the case. The XRP army is now using the headline to claim the SEC is a validation — It ain’t true.
+
+ETFs & Nodes
+
+The SEC has been very involved with the cryptocurrency industry as many companies have applied to launch bitcoin exchange-traded funds (ETF), but the U.S. regulator has not approved any yet. It previously denied the Winklevoss ETF attempt and postponed its decision on the Vaneck/Solidx bitcoin ETF proposal in May. The regulator also has issues with Ripple and whether or not the project’s XRP tokens are considered securities. However, William Hinman, Director of SEC Division for Corporate Finance, recently revealed that the agency may send “no-action” letters to projects that comply with its guidelines and demands. Letters like these reassure token issuers that the SEC will not seek legal action against them going forward unless any transgressions arise.
+
+In addition to the leniency offered by no-action letters, the SEC approved two token offerings under Regulation A+ in mid-July for “Props” tokens by the Props Project and “Stacks” tokens by Blockstack PBC. The SEC’s plan to hire contractors to run full nodes is an entirely different animal and the document seems to address third party blockchain surveillance operations. The regulator wants data like “hashing algorithms, hashing power, mining difficulty and rewards, transactions quantity and size, coin supply and blockchain size.” Additionally, the contractor should be able to “demonstrate the level of rigor of data cleansing and normalization meets requirements of financial statement audit testing.” At the end of the advertisement, the SEC states that the data supplier could be granted another blockchain project with advanced notice.
+
+What do you think about the U.S. Securities and Exchange Commission soliciting contractors to run full cryptocurrency nodes? Do you see this as a positive development or do you see it as a net negative? Let us know what you think about this subject in the comments section below.
+
+Image credits: Shutterstock, SEC, Wiki Commons, and Pixabay.
+
+Do you need a reliable bitcoin mobile wallet to send, receive, and store your coins? Download one for free from us and then head to our Purchase Bitcoin page where you can quickly buy bitcoin with a credit card.

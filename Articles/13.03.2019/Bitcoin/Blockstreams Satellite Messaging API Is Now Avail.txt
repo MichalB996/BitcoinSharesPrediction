@@ -1,0 +1,33 @@
+DATE:  13.03.2019, 19:15:57
+TITLE: Blockstream’s Satellite Messaging API Is Now Available on Mainnet
+URL:   https://bitcoinmagazine.com/articles/blocktreams-satellite-messaging-api-is-now-available-on-mainnet
+
+Ring in the new bitcoin halving cycle the right way: with us!
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+Blockstream has launched its satellite messaging application programming interface (API) on mainnet. Essentially, this means users can now broadcast data via the company’s satellite network and pay with Lightning payments.
+
+No Internet? No Problem
+
+Blockstream's satellite service was established with the aim of replacing the Bitcoin network's dependence on land-based internet connections with actual satellites, thereby putting the network within reach of the world's population.
+
+According to the blockchain-based startup, the satellite network makes 24-hour broadcasts of the Bitcoin network all over the world, ensuring that the blockchain is protected from interruptions, providing users around the world with the ability to access Bitcoin with the use of a satellite receiver instead of an internet connection.
+
+Transmitting Data via Blockstream
+
+Developers can use Blockstream's RESTful API or can submit their messages through the website. Using the website to send messages is quite straightforward. The user has to select the “Broadcast a Transmission” option and upload the file (which could be encrypted, if it's intended to go to a specific user).
+
+The next step is to bid for a price for transmission. The auction process determines the priority given to your transfer. Per the details on the site, the “minimum bid is 50 mSat/byte. Use the minimum bid price or bid more to give your transmission higher priority in the queue.”
+
+Once a bid is chosen, the system will generate an authentication code and transmission ID, which can be used to “delete or re-prioritize (bump) your transmission in the queue.” Once these details are saved in a secure location, then payment is made via Lightning. Once the Lightning payment is made, the transmission will be queued.
+
+Blockstream's satellite service was launched back in 2017 with the aim of connecting Bitcoin users, particularly in areas where they struggle with low internet penetration and online freedom.
+
+Upon its launch, the satellite's focus was on transmitting messages to receivers in Europe, Africa and the Americas. The company further expanded to the Asia-Pacific region in December 2018, while adding support for Lightning network payments.
+
+At the time, Blockstream CEO Adam Back said, “We see the increased robustness of the Bitcoin network and the lower cost of participation contributing to helping businesses rely on the service for backup and for emerging markets to use as their primary access to the Bitcoin network at a lower cost.”
+
+With the Lightning network service, the satellite messaging API will now allow users to send encrypted messages to each other from anywhere on Earth and make payments for receiving those messages.

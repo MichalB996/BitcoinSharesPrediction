@@ -1,0 +1,51 @@
+DATE:  03.04.2020, 19:30:59
+TITLE: Bitcoiners push for mass privacy on Satoshi’s birthday
+URL:   https://decrypt.co/24467/bitcoiners-push-for-mass-privacy-on-satoshis-birthday
+
+There’s a common misconception among non-crypto folk that Bitcoin is anonymous. Perhaps this comes from Bitcoin’s past as the dark web currency of choice. After all, if drug dealers use it on the internet, it has to be private, right?
+
+Not really. Bitcoin’s network is pseudonymous, not anonymous. All addresses are public on the blockchain, so anyone with enough know-how and hardware (like a blockchain analysis company) can track down an IP address associated with just about any public address.
+
+Unless you obfuscate your transactions, of course.
+
+How coinjoining works
+
+Privacy-preserving protocols like CoinJoin allow Bitcoins to throw their unspent transactions (aka UTXOs, or Bitcoin that’s sitting in a wallet unused) into a pool with jumbles of other UTXOs. This process effectively muddles the trace Bitcoins leave on the blockchain—like scuffing out footprints in a trail of mud. (In this article, we will refer to the protocol as “CoinJoin” and “coinjoining” as the practice of using the protocol).
+
+Coinjoining is considered best practice among some of Bitcoin’s most faithful proponents. And now there’s a whole day to remind people that their online hygiene is just as important as personal hygiene—especially in quarantine when their screen time has probably risen exponentially.
+
+Coinjoining coins is different from “mixing” them. The latter involves giving your Bitcoin keys to a custodian who then shuffles these Bitcoin from wallet to wallet. This is insufficient for any serious privacy because these funds can actually be traced rather easily.
+
+Coinjoining, on the other hand, is non-custodial and involves many users combining UTXOs into one large transaction. These aggregated payments (which, by the way, must all be for the same amount so as to obfuscate their origins correctly) are then spent together, thus obscuring their transaction paths.
+
+Coinjoining can get technical, so there are products that automate it to varying degrees. Currently, the most popular options for CoinJoin include the mobile Samourai wallet, the desktop Wasabi wallet and the browser wallet JoinMarket.
+
+Proof of Privacy
+
+April 5, 2020, marks the first CoinJoin Day. This grassroots movement sprung up from a conversation about the day’s eponymous protocol. Chainalysis’s know-your-transaction technology flags CoinJoin transactions, ostensibly because CoinJoin and mixing protocols have been warning signs for money laundering and illicit activity. Exchanges like Binance have implemented tools that can flag transactions from anyone who has used CoinJoin (totally legal activity notwithstanding).
+
+The solution, according to one anonymous tweeter? Have a day where everyone CoinJoins, then Binance won’t be able to discriminate. Giacomo Zucco, an influential Bitcoin educator and entrepreneur, agreed, adding that the day should fall on April 5—Satoshi Nakamoto’s supposed birthday, according to one reddit user’s estimation from data on Satoshi’s P2P Foundation profile.
+
+Bitcoiners have a penchant for rallying around specific causes, especially ones that assign a symbolic and ethical weight to an action that’s meant to exemplify Bitcoin’s ethos. Trace Mayer, for instance, started Proof of Keys Day on January 3, 2019, to encourage hodlers to pull their coins off centralized exchanges and custodians.
+
+Coincidentally, the move to create CoinJoin Day was boosted by “anti-CoinJoin comments” Mayer had made, said Matt Odell, a privacy advocate and co-host of the Tales From the Crypt podcast’s Rabbit Hole Recaps. Mayer had gone on a podcast citing concerns that coinjoining could “blackball” your coins with certain exchanges.
+
+“I just don't know that it's the best idea to be coinjoining. It's a lot of brain damage to have your accounts shut down...Eventually you might find yourself blackballed from all the exchanges.” Mayer said in the podcast interview. In a separate interview, he said, "I don’t necessarily think it’s a very good idea to be doing coinjoins and stuff. You know, you don’t necessarily know who you’re coinjoining with. What if they’re like a North Korean or a terrorist?”
+
+Some Bitcoin privacy advocates took his claim as disingenuous, considering Mayer’s promotion of a new privacy coin called Mimblewimble Coin, which he owns. (On his website, Mayer boasts he was “the first popular blogger to step onto the battlefield of ideas and publicly recommend the powerful blockchain technologies, Bitcoin and Mimblewimble Coin.”)
+
+Coinjoining is not a crime
+
+If Proof of Keys as a movement is supposed to make self-custody the norm, the proponents of CoinJoin Day want to make best practices for transaction privacy the norm, too—something that average users might not give much thought about in a digital context, according to Ádám Ficsor, a software developer at Wasabi Wallet.
+
+“Everyone cares about privacy, it's just in the digital word it's more subtle,” he told Decrypt. “For example no user would let an Amazon employee come to the user's home to record the sounds [they make] while on the toilet. However users are more comfortable with Alexa doing it and then forwarding it to the same employee.
+
+“The results are the same, it's just the experience is different. In the digital world you aren't forced to consciously think about it and make this decision, it just happens.”
+
+Extending the analogy, Ficsor said that a more Bitcoin-oriented example would be asking someone how much money they have. This happens every day with data mining, he explained, so “[i]n the digital world you aren't forced to consciously think about it and make this decision—[the financial intrusion] just happens.”
+
+If this financial probing has you feeling uneasy, Fiscor says you have every right to. And what’s more, you shouldn’t be seen as suspicious for not wanting to share this information. There’s the other (hopeful) side effect of CoinJoin Day: that normalizing privacy practices will crack the stigma surrounding them.
+
+Now as to whether this trend catches on, Fiscor was unsure. It all depends on whether or not people decide the activity is worthwhile. Matt Odell hopes that they do so that the trend of transaction surveillance can be met with sufficient resistance from the Bitcoin community.
+
+“If you don’t use coinjoin then people who you pay and people that pay you can track your past and future bitcoin transactions. I view using CoinJoin as part of the natural process of learning bitcoin. Individuals will level up [and start using these technologies] when they’re comfortable.” He concluded, “Coinjoin is simply a best practice when using bitcoin: control your own keys, use your own node, and coinjoin often.”

@@ -1,0 +1,49 @@
+DATE:  23.09.2019, 20:56:57
+TITLE: Internet Explorer Scripting Engine Memory Corruption Vulnerability [CVE-2019-1367]
+URL:   https://www.systemtek.co.uk/2019/09/internet-explorer-scripting-engine-memory-corruption-vulnerability-cve-2019-1367/
+
+CVE number – CVE-2019-1367
+
+A remote code execution vulnerability exists in the way that the scripting engine handles objects in memory in Internet Explorer. The vulnerability could corrupt memory in such a way that an attacker could execute arbitrary code in the context of the current user.
+
+An attacker who successfully exploited the vulnerability could gain the same user rights as the current user. If the current user is logged on with administrative user rights, an attacker who successfully exploited the vulnerability could take control of an affected system. An attacker could then install programs; view, change, or delete data; or create new accounts with full user rights.
+
+In a web-based attack scenario, an attacker could host a specially crafted website that is designed to exploit the vulnerability through Internet Explorer and then convince a user to view the website, for example, by sending an email.
+
+The security update addresses the vulnerability by modifying how the scripting engine handles objects in memory.
+
+Mitigations
+
+By default, Internet Explorer on Windows Server 2008, Windows Server 2008 R2, Windows Server 2012, Windows Server 2012 R2, Windows Server 2016 and Windows Server 2019 runs in a restricted mode that is known as Enhanced Security Configuration. Enhanced Security Configuration is a group of preconfigured settings in Internet Explorer that can reduce the likelihood of a user or administrator downloading and running specially crafted web content on a server. This is a mitigating factor for websites that you have not added to the Internet Explorer Trusted sites zone.
+
+Workarounds
+
+Restrict access to JScript.dll
+
+For 32-bit systems, enter the following command at an administrative command prompt:
+
+takeown /f %windir%\system32\jscript.dll cacls %windir%\system32\jscript.dll /E /P everyone:N
+
+For 64-bit systems, enter the following command at an administrative command prompt:
+
+takeown /f %windir%\syswow64\jscript.dll cacls %windir%\syswow64\jscript.dll /E /P everyone:N takeown /f %windir%\system32\jscript.dll cacls %windir%\system32\jscript.dll /E /P everyone:N
+
+Impact of Workaround
+
+Implementing these steps might result in reduced functionality for components or features that rely on jscript.dll. To be fully protected, Microsoft recommends the update be installed as soon as possible. Please revert the mitigation steps before installing the update to return to a full state.
+
+By default, IE11, IE10, and IE9 uses Jscript9.dll which is not impacted by this vulnerability. This vulnerability only affects certain websites that utilize jscript as the scripting engine.
+
+How to undo the workaround
+
+For 32-bit systems, enter the following command at an administrative command prompt:
+
+cacls %windir%\system32\jscript.dll /E /R everyone
+
+For 64-bit systems, enter the following command at an administrative command prompt:
+
+cacls %windir%\system32\jscript.dll /E /R everyone cacls %windir%\syswow64\jscript.dll /E /R everyone
+
+Duncan is a technology professional with over 20 years experience of working in various IT roles. He has a interest in cyber security, and has a wide range of other skills in radio, electronics and telecommunications.
+
+Like this: Like Loading...

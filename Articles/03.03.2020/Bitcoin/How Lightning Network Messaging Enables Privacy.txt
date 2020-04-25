@@ -1,0 +1,75 @@
+DATE:  03.03.2020, 12:59:00
+TITLE: How Lightning Network Messaging Enables Privacy
+URL:   https://bitcoinmagazine.com/articles/how-the-lighting-network-could-improve-encrypted-messaging
+
+Ring in the new bitcoin halving cycle the right way: with us!
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+“…using a network of…micropayment channels, Bitcoin can scale to billions of transactions per day with the computational power available on a modern desktop computer today. Sending many payments inside a given micropayment channel enables one to send large amounts of funds to another party in a decentralized manner.”
+
+Thus reads “The Bitcoin Lightning Network” white paper, the seminal document for Bitcoin’s secondary payment network written by Thaddeus Dryja and Joseph Poon. This 2016 paper would refocus the debate on scaling, as notions of bigger blocks and on-chain growth largely gave way to a new network of payment channels and deferred on-chain settlement.
+
+But who would have thought that some four years later, developers would look toward the Lightning Network not just as a payments solution, but as a new delivery method for encrypted messaging too?
+
+Well, apparently a handful of forward-thinking Bitcoin developers: namely, Joost Jager and Paul Itoi.
+
+Both Jager and Itoi have cooked up interesting methods for Lightning-powered messaging, though each use different technical mechanisms for transmissions. They’re also disseminating their solutions differently, with Itoi and his team launching its Sphinx Chat as an application and Jager releasing the source code for his Whatsat to the public directly.
+
+We covered how these messaging apps work at the end of 2019. The TLDR: A recent update to Lightning has allowed for certain extra, arbitrary data to be added to Lightning transactions. For these use cases, these data would be messages, which can be sent directly to a peer for no cost or routed through the network for a small fee just like typical Lightning transactions.
+
+But why would you default to these protocols and not to other encrypted messaging options?
+
+The answer lies in what Lightning messaging can offer that traditional encrypted options can’t.
+
+Decentralized Pigeons
+
+Some historical trivia: Messenger pigeons were one of many forms of communication in World War I. Especially popular among tank crews (who lacked other reliable forms of communication as radios were crude at this point in history), the messenger pigeon was a failsafe for when other options, like telephones, signal flares or runners, had failed or weren’t available.
+
+But messenger pigeons were vulnerable. Knowing they carried vital messages, enemy soldiers would have an open season with these unfortunate high-soaring couriers. Of course, there was an answer to such setbacks: encryption.
+
+Indeed, encrypted messaging would play a crucial role in World War I and many other wars. This, more or less, solved the problem of interception (if the enemy couldn’t decrypt the cipher, then it was useless, whether he got hold of it or not).
+
+Come the 21st century and encryption has arrived at the forefront of national cybersecurity debates. For instance, some government officials have called for encrypted backdoors in mainstream consumer technology in the interest of “national security.”
+
+And therein lies the problem. In WWI, the pigeons themselves were just the vessels for transmitting messages; in case anyone needed reminding, they didn’t produce the encrypted message themselves nor the keys to decrypt it — that was the job of military intelligence.
+
+But with electronic communication, the messaging app itself produces the means for encrypting the messages you send. So, in many cases, unless you or someone with the technical chops can review and verify the code, the application you use for encrypted chatting is only as secret as the app developer’s ability to keep their promise. This is why most Bitcoiners only trust open-source applications like Signal as being secure, while others like WhatsApp and Telegram are not to be trusted as such.
+
+So, with traditional encrypted messengers, you often have the problem of a single point of failure. You are trusting a centralized entity (whose code you haven’t reviewed) at its word that the messages you send can only be decrypted by you and the recipient — that no backdoors exist. And you are also betting that governments won’t pressure these companies into giving them access (or that they already have).
+
+Conversely, Lightning Network messaging relies on the infrastructure of Bitcoin’s decentralized secondary network. With some 11,000 (known) public nodes, Lightning Network messages are routed through this Tor-like network without any central arbiter. By setting up a direct channel with your recipient, you can beam the message directly to them without having to pass through an intermediary node at all.
+
+As Jager told Bitcoin Magazine in November 2019, there’s no central pillar that you can knockdown to compromise Lightning Network encrypted chatting.
+
+“The difference is that there is no central server involved,” he said. “No single kill switch that could be used to shut down all communications. Or that is used more selectively to deny certain users to communicate.”
+
+Private Pigeons
+
+As an extension, Lightning messages also have the benefit of being more private.
+
+This follows the same line of argument that leads people to say Lightning transactions would also be more private. Since they are basically onion network-routed, the path for each message would be lost in the hops it takes on the network. The only way this may be compromised is if one node were responsible for, say, 50 percent or more of a message’s routing — a real possibility if the path from sender to receiver includes fewer mutually connected peers than not.
+
+So in some cases, it may be better privacy-wise to set up direct payment channels for your messaging.
+
+“Chatting over Lightning also makes it much harder to find out who is communicating with whom,” Jager said. “It is not required to have a direct (observable) TCP/IP connection between users and there is no central server either that could reconstruct the communication pathways.”
+
+Of course, as we mentioned above, routed messages could still theoretically be deanonymized. But, as Jager said, “[p]rivacy and security are relative concepts.”
+
+This still could be more private than legacy options, and even if a node knows who the sender is, it still can’t intercept or decode their message.
+
+Clunky Pigeons
+
+Ultimately, Lightning messaging has a leg up against traditional encrypted chat when it comes to censorship-resistance and privacy.
+
+But this doesn’t mean that it’s perfect or that people will view it as the more attractive alternative. As we have seen with Bitcoin and FOSS writ large, the decentralized option is usually the most difficult to implement at scale and can be the most difficult to grasp for novice users.
+
+Still, devising a scheme that handles both messaging and payments under one roof could be a killer app, Jager thinks. Even more important is architecting a permissionless and censorship-resistant means of communication; in fact, decentralized money would likely necessitate such a tool, just as it would require decentralized identity.
+
+“The key benefit is integrating the ability to pay and communicate under one identity,” Jager said. “Our core belief: the privacy and censorship resistance that Lightning provides for payments should apply equally to speech. Using Lightning for chat will accelerate the adoption of bitcoin as a medium of exchange.”
+
+So will Bitcoiners and the public beyond flock to Lightning messaging? With Sphinx Chat currently in closed beta, we’ll soon find out if this alternative lives up to the expectations and/or is as seamless to use as the alternatives. Jager believes that people will default to a Lightning-based alternative as snafus like the Equifax breach (and the creeping reality that the code for encrypted chat services will have backdoors built into their design) engenders distrust in centralized services.
+
+So, with the fate of private online communications up in the air, Lightning’s new use case may prove essential for establishing online sovereignty in an age of ever-increasing government surveillance.

@@ -1,0 +1,33 @@
+DATE:  26.03.2019, 18:30:27
+TITLE: Two BCH Devs Leave Bitcoin Unlimited as Network Upgrade Approaches
+URL:   https://news.bitcoin.com/two-bch-devs-leave-bitcoin-unlimited-as-network-upgrade-approaches/
+
+Two BCH Devs Leave Bitcoin Unlimited as Network Upgrade Approaches
+
+On May 15, the Bitcoin Cash (BCH) network is set to upgrade, with plans to add two specific elements to the chain: the Segwit recovery exception and enabling Schnorr signatures. With just six weeks left, programmers have been discussing the fork regularly during BCH developer meetings. Meanwhile, two BCH developers have announced their resignation from the Bitcoin Unlimited team.
+
+Also read: Mineable Cryptocurrencies Are Far More Valuable Than Non-Mineable Coins
+
+The May 15th BCH Upgrade Draws Near
+
+Another BCH fork is on the way and this time the chain plans to add two key changes to the protocol. On May 15, BCH developers plan to upgrade the protocol by adding Schnorr signatures and reconfiguring the cleanstack rule to recover BCH stuck in Segwit addresses. The Schnorr signature feature is a digital signature scheme that allows for multi-signature aggregation, while also providing both scaling and privacy benefits. BCH developers have been conversing about the fork throughout numerous BCH development video meetings this year. On March 14, the meeting’s host David Allen discussed the upcoming upgrade with BCH developers Andrea Suisani, Amaury Séchet, Chris Pacia, Mark Lundeberg, and Jason Cox. The sixth video is aimed at discussing network upgrade awareness, testing, and testnet use, and full node implementation readiness.
+
+One specific full node implementation called Bcash, developed by the Bcoin programmers, will not be ready for the May fork. On March 25, the @Bcoin Twitter handle announced that it was looking for someone in the Bitcoin Cash community to fork and maintain the Bcash repository. “Without community support, it will not be ready for the May hard fork and our team has kept Bcash on consensus through two hard forks already,” explained the Bcoin developers. The programmers continued:
+
+If you’ve ever played around with Bcoin or Bcash and think this is a task you can manage, please feel free to reach out to us on Slack, Twitter, or reply in this thread. Of course, anyone can fork and update the repo — it’s open source.
+
+Two BCH Developers Renounce Their Bitcoin Unlimited Membership
+
+In addition to the latest developers meeting and the announcement from Bcoin, two prominent BCH programmers have decided to leave the Bitcoin Unlimited team by abandoning their memberships. On March 20, Antony Zegers, otherwise known as Mengarian, decided that he would no longer like to be a member of the Bitcoin Unlimited (BU) development team. According to Zegers, BU as an organization “is too closely associated with the Bitcoin SV community.” Following Zegers’ departure, Amaury Séchet, the Bitcoin ABC lead developer, also decided to renounce his BU membership.
+
+“Today, BU membership is composed of numerous BSV supporters,” Séchet’s blog post reads on March 25. “Not only some of them think that suing developers (including myself) providing open source software for free is good, but many are openly hostile to Bitcoin Cash.” Séchet further noted:
+
+It was quickly apparent to me that there were serious problems with the development process, and I wasn’t the only one who saw things this way — I decided to provide support on that front, but unfortunately, I was met with resistance.
+
+BCH supporters discussed the topic on Monday on Twitter and pretty heavily on forums as well. At the time of writing, BU is the second most popular BCH node implementation capturing 44 percent of the 1,518 public nodes. Bitcoin ABC has about 54.4 percent of the public BCH nodes with 826 according to Coin Dance statistics. The smaller implementations Bchd, Flowee, Bitprim, and XT have no more than 10 nodes per client.
+
+What do you think about the upcoming fork scheduled for May 15? What do you think about Antony Zegers and Amaury Séchet leaving the Bitcoin Unlimited team? Let us know what you think about this subject in the comments section below.
+
+Image credits: Shutterstock, Pixabay, and Coin Dance.
+
+Need to calculate your bitcoin holdings? Check our tools section.

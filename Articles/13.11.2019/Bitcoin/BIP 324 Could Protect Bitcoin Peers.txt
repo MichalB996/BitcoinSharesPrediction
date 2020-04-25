@@ -1,0 +1,71 @@
+DATE:  13.11.2019, 17:38:43
+TITLE: BIP 324 Could Protect Bitcoin Peers
+URL:   https://bitcoinmagazine.com/articles/bip-324-a-message-transport-protocol-that-could-protect-bitcoin-peers
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+More than 10 years living in the world of Bitcoin has shown us that there is a long road ahead for Bitcoin developers, and BIP 324, created in March 2019, could be the next important step on that road.
+
+The BIP was authored by Switzerland-based Bitcoin developer and cofounder of Shift Cryptosecurity Jonas Schnelli to help address a perceived concern around the messages exchanged between Bitcoin peers.
+
+“Bitcoin: A Peer-to-Peer Electronic Cash System” is the title of the Bitcoin white paper and, as it suggests, the P2P layer is a major component of the Bitcoin network but also the one with significant inefficiencies and existing theoretical attack vectors. One of the major fields for potential research and upgrades to Bitcoin is in this P2P network and some of the recent prominent development in this sphere has sparked a lot of attention, including proposals like Dandelion (BIP 156) and Erlay.
+
+So what is the P2P network architecture? Before Bitcoin, the most successful implementation of a P2P network was seen in the application for file-sharing services: originally Napster (with partial centralization by central server catalog) and, later on, BitTorrent.
+
+In the ideal configuration, P2P networks shouldn’t have any hierarchy (all nodes are equal), and nodes should share the network load uniformly. This basic layer of a mesh of interconnected nodes is what helps Bitcoin to be censorship-resistant. As with torrent networks, governments have taken actions to block them on the search-engine level. One can only block the torrent search engines, but it’s much harder — close to impossible — to kill the P2P torrent network. The main question for these networks is: How private is it to use them?
+
+Problems With the P2P Layer of Bitcoin
+
+One of the problems with Bitcoin’s current P2P implementation is a lack of enforced encryption over the message transport layer. It makes Bitcoin susceptible to man-in-the-middle (MITM) attacks. MITM attacks are performed by secretly connecting to both peers and relaying communications between them, so both parties think they are speaking with each other directly when the communication is really being controlled by the attacker. There are both “passive” and “active” MITM attacks, with passive MITM attackers only observing the state of the network and active attackers manipulating its traffic.
+
+The messages sent between nodes in the Bitcoin protocol are not encrypted, just sent in plain text, which opens the whole protocol to attack vectors. Internet Service Providers (ISPs), WiFi providers or other adversaries can perform an MITM attack to read through all of your inbound and outbound connections, without having to connect to you as a peer. In theory, this could be leveraged to intercept or even block the relay of specific data, like transactions to and from sanctioned entities.
+
+Because of the lack of message encryption on Bitcoin, a country’s ISPs may be able to detect a packet of bitcoin transactions as an MITM, see the plain data they contain and then block them. They could potentially attack miners and delay their validation of blocks. Or a surveillance program like PRISM might elect to passively observe all bitcoin traffic through an MITM attack and, upon finding a transaction it does not approve of, work to intercept or block it. Coordinated attacks over the P2P network could even segment the Bitcoin network on the continent or country level, known as a “partitioning attack.”
+
+What may be most crucial to Bitcoin’s privacy as it’s currently implemented: Even if an MITM attack does occur, there would be no way for the affected peers to confirm it.
+
+
+
+But why can’t we, as a Bitcoin community, be satisfied using tools like VPNs or Tor to obfuscate or encrypt the traffic? As Tor is an encrypted, onion-routed network, it hides the endpoints of transactions so, in theory, it’s impossible for ISPs to track activity this way. But there are downsides to using Tor-encrypted P2P services, mainly related to insufficient research on the integration of Tor over layers other than HTTP(S), the possibility of theoretical attacks and some dependency issues with Bitcoin Core software that may introduce attack vectors.
+
+A Potential Solution for the P2P Layer of Bitcoin
+
+That’s why Schnelli created a set of Bitcoin Improvement Proposals (BIPs) to address the issue. BIP 151 covers encryption of the traffic between the nodes, while BIP 150 narrates authentication that’s optional for the node and is based on Elliptic Curve Digital Signature Algorithm (ECDSA) private-/public-key cryptography.
+
+For an avid reader, a recommendation would be to start from this BIP 151 article by Aaron van Wirdum, as this BIP was the first to propose a solution for lack of privacy on the P2P layer. Since this proposal was released, some parties have started to implement the solution into various Bitcoin client implementations and Schnelli decided to go with a new, upgraded BIP, numbered 324.
+
+BIP 324 is designed so that Bitcoin peers can tell if they are victims of an MITM attack. Though bad actors can still connect to Peer A and pretend to be Peer B and can connect to Peer B and Pretend to be Peer A, the actual Peers A and B can see that they do not have the same session IDs and that an MITM attacker is intercepting their communication. Though these peers would likely also want to leverage additional authentication mechanisms, that is outside of the scope of BIP 324.
+
+“With the current unencrypted message transport, BGP hijacking, block delay attacks and message tampering are inexpensive and can be executed covertly (undetectable MITM),” as the BIP abstract puts it. “Adding opportunistic encryption introduces a high risk for attackers of being detected. Peer operators can compare encryption session IDs or use other forms of authentication schemes to identify attack.”
+
+Ultimately, a would-be MITM attacker will still be able to read the unencrypted data that is on the Bitcoin blockchain, as it is open and decentralized. So, in practice, this solution would probably be most helpful in protecting against specific entities that are not peers, like ISPs and open WiFi providers, that can filter out specific transactions and intercept or block them. Of course, PRISM could observe Bitcoin traffic by simply becoming a peer on the network. Though it is more trivial for potential attackers to listen to unencrypted traffic: If it’s possible to monitor for MITM attacks, these passive blockchain observers would have to weigh the benefits of monitoring P2P messages with the negatives of being caught.
+
+Still, BIP 324 is really just a building block in strengthening Bitcoin’s P2P layer against malicious MITM attacks. It may become a critical step in development work to determine whether MITM attacks pose a real threat to Bitcoin or it may be determined that they do not. But it’s hard to gather that data without tools like the ones suggested by BIP 324.
+
+BIP 324 is focused on providing tools to mitigate passive MITM attacks, while co-implementation with BIP 150 offers some potential tools for active MITM attacks.
+
+Handshake
+
+The first action described in BIP 324 is a “handshake.” This is an act of establishing protocols for further communication between peers on the P2P layer.
+
+This handshake should be initiated if no other message has been sent between two parties as a way to start contact by sending the public key (derived from the ephemeral elliptic curve secp256k1 cryptographic function) to the counterparty. As the name of this type of key schema suggests (ephemeral), the keys should be wiped out from memory (RAM) after every successful handshake performed. So, an attacker wouldn’t be able to intercept these keys or decode the historic message transfers for this specific connection.
+
+This attack vector requires access to the victim’s memory, so this problem is probably negligible in the scope of the P2P encryption and authentication.
+
+The shared secret is crucial to establish end-to-end encrypted communication and can only be calculated if an attacker gets a hold of the private key and the counterparty’s public key. The latter is rather trivial for an attacker, but by the design, private keys shouldn’t be transmitted, so this component of the equation wouldn’t be available to an attacker.
+
+The last steps of handshaking is to derive symmetric encryption keys — the actual secret that is being used to encrypt the messages — and calculate the session ID.
+
+Encryption
+
+From now on, parties can send messages between each other, without the fear of their content being watched by any third party.
+
+So, what actually happens when the message is encrypted? Similar to BIP 151, this proposal extracts the best parts of the cryptographic primitives ChaCha20 and Poly1305. Encryption doesn’t have only positive outcomes. Usually, it makes communication slower by making messages bigger and heavier to compute. Without getting into too many details, a new, proposed message structure can even make the encrypted message smaller and faster to compute, all because of choosing the right cryptographic primitives mentioned above. To compare, the unencrypted Bitcoin Core client currently uses the double SHA-256 hash (cryptographic standard) checksum of a sent message (truncated into 4 bytes), and it’s still a relic of Satoshi’s original implementation.
+
+This proposal is only one building block in the effort of making Bitcoin more private and fungible. It doesn’t have any impact on the Bitcoin consensus rules, it even assumes the opt-in behavior. As with Bitcoin Core updates, some nodes may not be able to return the handshake. In short, BIP 324 is backward compatible, which may count as a negative in its real-world ability to mitigate MITM attacks.
+
+After implementing this proposal (together with BIP 150) into Bitcoin Core, we could expect fewer MITM attacks, or at least have a tool in place that lets us compare session IDs and identify attacks. Also, it’s worth mentioning that although this proposal doesn’t cover the schemes for avoiding MITM attacks during the encryption initialization (known as Trust On First Use), BIP 150 does have this in its scope.
+
+
+
+The author would like to thank Schnelli for his helpful comments on the article and would like to acknowledge the following sources:

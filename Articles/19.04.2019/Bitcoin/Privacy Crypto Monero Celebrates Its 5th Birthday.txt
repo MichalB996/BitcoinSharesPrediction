@@ -1,0 +1,83 @@
+DATE:  19.04.2019, 17:05:38
+TITLE: Privacy Crypto Monero Celebrates Its 5th Birthday
+URL:   https://www.coindesk.com/privacy-crypto-monero-celebrates-its-5th-birthday
+
+One of the most popular cryptocurrencies for privacy protection, monero, celebrated five years of existence this week.
+
+Launched in April 2014, monero has, since its inception, been entirely crowdfunded. And in tune with this decentralized, grassroots structure, monero is almost entirely developed by volunteers.
+
+“Monero is very committed to its decentralized, grassroots structure meaning we took no premine. We don’t take a percentage of the block rewards. There was no [initial coin offering,]” monero contributor Diego Salazar told CoinDesk. Salazar estimated that “depending on people’s time and availability” there is anywhere from 100 to 200 volunteers working on the monero project.
+
+Additionally, the project itself, according Salazar, isn’t just about building a blockchain protocol. It’s about re-defining and bolstering a global movement centered around digital privacy.
+
+Salazar told CoinDesk:
+
+“We’re not just trying to make global internet money. We’re trying to teach people the importance of things like privacy…It’s a very powerful tool and I think it’s a very necessary tool in our day and age.”
+
+To this, Italian developer and Monero contributor “SerHack” released a free PDF version of the book “Mastering Monero” in commemoration of the coin’s fifth anniversary. Originally published in late 2018, the book was fully funded by the monero community and teaches non-crypto users the importance of “private and censorship-resistant transactions.” The project’s online community further commemorated the anniversary with events and, in one instance, a celebratory puzzle.
+
+While monero is not the only blockchain to boast private on-chain transactions, it is the largest among its kind by market capitalization boasting a $1 billion valuation, according to data from CoinMarketCap.
+
+In that five-year span of time, the project has undertaken a series of significant upgrades in a bid to further improve the project, including those aimed at bolstering fungibility and transaction privacy.
+
+Minimum ringsize
+
+“It’s critically important for the fungibility of monero that we don’t know what source of funds you are receiving,” contributor Justin Ehrenhofer told CoinDesk. “That way you don’t know if you’re accepting funds that were used for any other previous purpose.”
+
+From the start, monero aimed to obfuscate fund sources through what are called “ring signatures.” Through ring signatures, transactions are signed by one member of a group of participants (each of whom has private keys), but with the goal of making it difficult to know who among the group actually contributed a particular digital signature.
+
+As Ehrenhofer explained:
+
+“With monero, for every input that you are spending, you will pull other inputs from the blockchain, other people’s random inputs…and it makes it appear as if all these inputs are spent. It makes it seem mathematically like any one of these [inputs] could have possibly been the [transaction] signers.”
+
+However, at launch, pulling from other random user’s transaction inputs called ring signatures was not mandatory. Cryptocurrency exchanges, public mining pools, and other individuals who didn’t care about preserving transaction privacy could opt to have a “ringsize” of zero.
+
+Monero researchers realized that with a large enough number of users not obfuscating their transaction sources, the privacy of other users risked being compromised.
+
+“If I sent a transaction that revealed what real output was spent by me then that means if anyone else made it seem like they spent my output everyone would know that’s a fake spend because in my transaction I obviously spent it,” Ehrenhofer told CoinDesk.
+
+That’s why on March 22, 2016 monero executed a hard fork to restrict all users to obfuscating their transaction sources through a minimum ringsize of three. This meant that users would need to pull from at least three other random transaction inputs in the network when making their own transaction and thereby collectively take part in strengthening the privacy levels of the entire blockchain.
+
+“One of the big challenges monero needed to overcome in the beginning was making their existing infrastructure better,” Ehrenhofer said. “This meant basically forcing people to use best practice and force these ring signatures to actually have use.”
+
+RingCT
+
+The second most influential change in monero’s history also had to do with ring signatures.
+
+Called Ring “Confidential Transactions” (CT), this upgrade executed through a hard fork on January 5, 2017. It effectively added an additional layer of privacy to ring signatures by obfuscating monero transaction amounts.
+
+The activation of RingCT meant that outside of not being able to identify transactions to a source or an address, Monero now made it virtually impossible to find out the transaction amounts being transferred.
+
+“The outputs were already disconnected from addresses,” Ehrenhofer explained. “[RingCT] took this a step further in saying when these outputs are transacted, we don’t know what value they are in either.”
+
+In fact, when looking up a monero address on a blockchain explorer, the warning message users get back on one of the explorer sites reads:
+
+“Uh-oh, for a moment there it seemed that you were trying to peek into this monero address…It really looks like you were, like, trying to check out this dude’s balance. Well, monero says ‘No’!”
+
+The idea for Ring CT originally came from a bitcoin proposal called “Confidential Transactions” proposed by Blockstream CTO Gregory Maxwell. It was then re-purposed by monero developers to work with ring signatures.
+
+However, Ring CT in improving the privacy of the monero blockchain actually made a substantial trade-off to scalability.
+
+“Transactions before Ring CT were about three kilobytes. They were also about 10 times larger than a bitcoin transaction. Ring CT brought these numbers up to about 13 kilobytes so we multiplied by another four or five x,” Ehrenhofer told CoinDesk.
+
+Bulletproofs
+
+To that point, “bulletproofs” — while not improving privacy directly — is still regarded as a major improvement to the network.
+
+Bulletproofs, according to Ehrenhofer, reduced transaction size and verification time on monero by about 80 percent. From 13 kilobytes to 1.5, monero transaction size has dramatically decreased in size – though at present it still remains larger and more difficult to verify than bitcoin transactions.
+
+The technology, released late 2017, was celebrated as a privacy breakthrough and initially created for use on bitcoin by University College of London’s Jonathan Bootle and Stanford’s Benedikt Bunz. Ultimately, monero became the first major cryptocurrency to go live with the technology through a hard fork on October 18, 2018.
+
+Even so, Ehrenhofer notes that verification times on the network are still “really monero’s biggest limitation at the moment.”
+
+Ehrenhofer told CoinDesk:
+
+“The hardest thing we have to scale in monero is not transaction size. It’s the verification time. We can make monero ring [signatures] enormous today…but the verification time would be almost impossible. Even thought it wouldn’t take up that much room on your computer, it would take you forever to figure out what’s what.”
+
+As such, looking ahead Ehrenhofer hopes that forthcoming improvements to the protocol will find a way to increase ring signature sizes to host anonymity sets of over 1,000 at some point.
+
+From Salazar’s perspective, another forthcoming improvement to monero he sees upcoming in the next few months is an upgrade to the network’s user interface and experience (UI/UX).
+
+“A lot of things are being redesigned from scratch like individual pages, the transaction history page, the send and receive page,” he told CoinDesk.
+
+Balloons image via Shutterstock

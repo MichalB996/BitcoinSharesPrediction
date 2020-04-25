@@ -1,0 +1,33 @@
+DATE:  09.04.2020, 11:55:03
+TITLE: How blockchain can change the space industry
+URL:   https://www.space.com/blockchain-cryptography-change-space-industry.html
+
+Cryptocurrency, blockchain and decentralized data are all buzzwords we've seen floating around in recent years, but the technology is so new that it's hard to see direct applications to our lives, even in space exploration. But blockchain and space have more ties than you might expect.
+
+What these concepts all describe is a different way of storing data, a way that is decentralized (meaning it uses a shared database), transparent (which allows users to see changes to the database) and secure. Within this type of system, users have copies of the data and, because data in a blockchain is stored with cryptographic algorithms, blockchain is hard to hack.
+
+While the most popular use of cryptocurrency has been in the financial sector, other applications it's been used for could be applied for space. One of these possible applications is in supply chains, where could be used to track resources during space mining or to manage large space construction projects. Another such use could be with energy to store and control energy production and consumption by space systems, Helena Correia Mendonça, a principal consultant with Portuguese law firm Vieira de Almeida, which studies blockchain, said in an e-mail to Space.com.
+
+Related: Packing for the Moon: New Software Aims to Track Supplies
+
+"The space sector can also give an important contribution for the development and wider use of blockchain, notably through the use of satellites as nodes in the chain – either as participating nodes that store data, or validating nodes that validate and add data," Mendonça said in the email."In this case, you can use satellites to receive, store and broadcast blockchain data and apps. Hence, the satellite networks can be used as the infrastructure where you store data and through which you perform transactions."
+
+While these possible uses are promising, blockchain is actually already used in space . The first satellite to use the technology was Blockstream, a company that launched in 2017 to distribute bitcoin (a cryptocurrency) around the world. On the security side, blockchain was first used in space by SpaceChain in 2018, Aravind Ravichandran, who studies blockchain and space applications for PricewaterhouseCoopers in France, said in an e-mail interview with Space.com. SpaceChain's satellite was designed for a satellite-based blockchain system that requires communication with a satellite to perform a transaction in the database.
+
+"It was quite a successful mission, because this formed the basis for SpaceChain, which intends to launch a constellation of satellites to support a blockchain-based operating system," Ravichandran said.
+
+More space-y blockchain activity could be coming shortly, too. Ravichandran pointed to the acquisition of Planetary Resources (an asteroid mining company) by ConsenSys (a major blockchain company) in 2018. That deal, he said, "prompted major predictions, including from me, that blockchain will support asteroid mining using a process called 'tokenization,' which is a way of digitizing physical assets to store on a blockchain database."
+
+After the acquisition, ConsenSys launched a subsidiary called ConsenSys Space, headed by Chris Lewicki, the CEO of Planetary Resources. This subsidiary launched TruSat, a blockchain-based database that will monitor orbital positions of satellites — something that could be all the more crucial as large fleets of satellites launch under companies such as SpaceX and Amazon. More satellites will bring a higher risk of collision, which could create orbital debris, Ravichandran added.
+
+"Currently, there is no public [satellite] database," Ravichandran said, "and the only one is owned by the US Air Force. Hence, this database is pretty crucial, and the fact that it is decentralized allows for a neutral, unbiased place for getting the positions of the satellites in-orbit."
+
+The blockchain industry is still emerging and all of its possible uses cannot be predicted, but Mendonça pointed out that all space industries could benefit from it in applications such as financial technology, government satellite communications, broadcasting and Internet access, among others.
+
+So far, Ravichandran foresees work in satellite communication and points to feasibility studies with launcher and satellite manufacturing companies for supply chain tracking and management. The European Space Agency also published a whitepaper in 2019 which discusses possible blockchain applications in Earth observation as users share data between each other.
+
+As blockchain moves into outer space, Ravichandran pointed to its ability to tokenize spacecraft and payloads as key to its success, which could help in massive upcoming space projects such as the international, collaborative Gateway space station NASA wants to build in lunar orbit.
+
+He further explained that, with blockchain, "you can commercialize space exploration faster and more efficiently. Tokenizing a spacecraft would allow different entities to build different components of the spacecraft, giving institutions like NASA and ESA [the European Space Agency] the ability to procure things efficiently, with much more transparency and traceability."
+
+Mendonça, however, warned that blockchain has regulatory issues associated with it that will need to be figured out first, including the nature of cryptocurrency tokens and how to implement data protection. That said, the European Union is among the entities examining the legal issues of blockchain, so she said she anticipates more clarity in the near future.

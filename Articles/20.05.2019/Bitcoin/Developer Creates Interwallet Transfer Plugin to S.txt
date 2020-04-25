@@ -1,0 +1,31 @@
+DATE:  20.05.2019, 19:25:16
+TITLE: Developer Creates Interwallet Transfer Plugin to Strengthen Bitcoin Cash Privacy
+URL:   https://news.bitcoin.com/developer-creates-interwallet-transfer-plugin-to-strengthen-bitcoin-cash-privacy/
+
+Developer Creates Interwallet Transfer Plugin to Strengthen Bitcoin Cash Privacy
+
+The Bitcoin Cash (BCH) protocol and infrastructure continue to see relentless development. The Electron Cash Cashshuffle implementation has enhanced bitcoin cash fungibility by providing users with the ability to shuffle coins. Now a developer has announced the launch of the Interwallet transfer tool, an Electron Cash add-on that allows for privacy-minded transfers using the light client.
+
+Also read: Last Will Platform Allows Your Loved Ones to Inherit Your BCH
+
+Interwallet Transfer Increases Bitcoin Cash Fungibility
+
+This week, software engineer Karol Trzeszczkowski announced the launch of a new plugin called the Interwallet Transfer. The tool works with the Electron Cash (EC) wallet and allows individuals to transfer funds from one wallet to another without compromising anonymity after using tools like Cashshuffle. Trzeszczkowski revealed the EC plugin on May 17 and thanked the developers Emergent Reasons, John Moriarty, and Calin Culianu (Nilac the grim) for help with the review process.
+
+“[Interwallet Transfer] is a simple plugin that allows you to specify a destination wallet (represented by its xpub extended public key), and transfer coins from the source wallet to destination one-at-a-time at random intervals,” Trzeszczkowski said during the launch announcement. “Compared to the simplistic method of transferring everything in one big transaction, this method preserves privacy to a much higher degree: no longer are all your coins linked in that one transaction.”
+
+The Interwallet Transfer is open source and located on Github, while the project’s documentation details how the add-on works and how to install the plugin. The platform sends your coins to unused addresses from another wallet at random times over a selected time period and these coins are sent in one-in-one-out transactions. In order to install the platform, download the latest Interwallet Transfer and you can verify the integrity of the software using Trzeszczkowski’s public key. After the download is complete, you can open the wallet and click the Tools section from the drop-down menu. From here simply click Installed Plugins and press Add Plugin which will prompt a warning and the install window. After these steps are complete, the Interwallet Transfer add-on will be available to process transfers.
+
+Transfer Shuffled BCH at Randomly Selected Intervals
+
+The Github documentation also teaches people how to transfer using the newly added plugin. In order to get started, simply paste the receiving wallet’s Master Public Key in the first dialogue box in the plugin tab. At this point, simply enter the amount of time you want the randomized transfers to take. “Within that amount of time, all funds will be transferred to the receiving wallet at randomly selected intervals,” read the Interwallet Transfer Github specifications. Once the process is complete you can press the Transfer tab and the Electron Cash wallet will begin processing the transactions within the set timeframe. The Interwallet Transfer developers note that the wallet must be open and running in order to complete the transfers.
+
+The BCH community was pleased to hear about Trzeszczkowski’s plugin for the EC wallet. “Ok, this might be the first plug-in for Electron Cash I might use — I can also use it to relocate a cold wallet without linking everything,” a BCH supporter stated on the Reddit forum r/btc. Another commenter remarked that “[Interwallet Transfer] makes it much easier to have a shuffle wallet and a separate mobile spending wallet.” Trzeszczkowski is also the creator of the open source Last Will platform, a smart contract program for the inheritance of bitcoin cash.
+
+What do you think about the Interwallet Transfer plugin? Let us know what you think about this subject in the comments section below.
+
+Disclaimer: Readers should do their own due diligence before taking any actions related to the mentioned company, software or any of its affiliates or services. Bitcoin.com or the author is not responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article. This editorial is for informational purposes only.
+
+Image credits: Shutterstock, Github, Twitter, Electron Cash, and Cashshuffle logos.
+
+Now live, Markets.Bitcoin.com: A comprehensive, real-time listing of the cryptocurrency market. View prices, charts, transaction volumes, and more for the top 500 cryptocurrencies trading today.

@@ -1,0 +1,37 @@
+DATE:  31.05.2019, 20:40:58
+TITLE: Testing the Noncustodial Button Wallet With BCH Over Telegram Messenger
+URL:   https://news.bitcoin.com/testing-the-noncustodial-button-wallet-with-bch-over-telegram-messenger/
+
+Testing the Noncustodial Button Wallet With BCH Over Telegram Messenger
+
+Users of the Telegram-infused cryptocurrency Button Wallet can now purchase digital assets through its partnership with the payment processor Wyre. Button Wallet allows users to store, send, and receive cryptocurrencies like BCH, ETH, BTC, LTC, and ETC through the Telegram messaging app. The following is an in-depth review of my experience using Button Wallet after hearing about the app on social media.
+
+Also read: Hackers Have Looted More Bitcoin Than Satoshi’s Entire Stash
+
+Sending Cryptocurrency via Button Wallet Through Telegram Messenger
+
+In 2018, a startup launched a noncustodial light client application called Button Wallet in order to provide people with a way to store, send, and receive cryptocurrencies within the Telegram messaging platform. So far there’s been a few glitchy tip bots that people have tested using the messenger, but Button Wallet seems to be catching on as the startup claims to have roughly 100,000 accounts since launching last year. The team has detailed that Button Wallet was inspired by Wechat payments and soon the project hopes to launch on Facebook Messenger as well. This week news.Bitcoin.com decided to give Button Wallet a test run using some Bitcoin Cash (BCH) to see how well the application worked.
+
+The first thing I did was go to the official Button Wallet website and press the blue “Use Telegram” tab to get started. As soon as the tab was pressed, I was redirected to my Telegram messenger platform and greeted by the Button Wallet bot. Similarly to many of the bots on Telegram, the Button Wallet bot responds to commands, but this app also provides buttons that are simple to press in addition to commands. In order to create an account, the bot asks for a valid email address and the platform will send you the private keys in the form of a QR code to the email.
+
+The QR code can be used for fund restoration purposes, but it’s also used for the first transaction authorization. Button Wallet supports a variety of digital currencies including BCH, ETH, BTC, LTC, and ETC. I decide to send myself some BCH to the address given to me by the Button Wallet bot. In order to obtain your address, press the deposit tab and choose the kind of cryptocurrency you want to use.
+
+After sending myself a few bucks’ worth of BCH to my address I had to wait for the transaction to confirm and it appeared in the balance section. I then chatted with a coworker who offered to create a Button Wallet account and I sent him $0.25 worth of BCH. My first attempts to send funds that day were unsuccessful. I assumed it might have been because the platform’s servers were busy due to the recent announcement about the partnership with Wyre.
+
+Button Wallet Works Well Sending Microtransactions
+
+The following day I spoke with Button Wallet’s support and the agent sent me $1 worth of BCH to try again. Since he sent me these funds, I haven’t experienced any errors sending small fractions of coin. So in order to forward my coworker some funds, I pressed the send tab and chose bitcoin cash as my preferred currency. The Button Wallet bot gives you a few increments to choose from, which includes $0.1, $0.25, $0.5 and $1. I chose to send $0.50 and the app redirected me to a unique URL invoice which shows the payment is being sent. After seeing the sent checkmark symbol, go back to the Telegram platform. The bot will give you and the recipient of the funds full details about the transaction.
+
+When you send a person funds, you can copy and paste a traditional alphanumeric string address, but to send over Telegram all you have to do is type the @ and the individual’s handle. The person on the receiving end needs an account for this feature to work and it’s a good idea to copy and paste the person’s Telegram username so you don’t accidentally send funds to another user with a similar name. After sending $0.25 to my coworker he sent me back $0.1 (ten cents) soon after his money confirmed on the BCH chain.
+
+Overall the Button Wallet app is pretty easy to use but it’s best to play around with it first to get a feel. It seems just from testing there could be issues if someone typed the wrong name and the mistyped handle resolved to a real account so it’s best to copy and paste this information. The way the increments are written for small USD amounts can be confusing at first and takes a second to figure out. Other than that, and besides the first day’s issues, the Button Wallet platform worked as intended and I’ve sent a few other coworkers some BCH microtransactions.
+
+I didn’t bother sending BTC to the wallet because sending micropayments on the chain is difficult with current fees varying between $2-4 per transaction. Probably the most meaningful aspect of them all is that Button Wallet is noncustodial unlike many of the tipping wallets out there today. Still, the application should probably only be used for a small amount of funds and treated like a hot wallet.
+
+What do you think about the Button Wallet application for Telegram Messenger? Let us know what you think about this subject in the comments section below.
+
+Disclaimer: Bitcoin.com does not endorse this product/service. Review editorials are intended for informational purposes only. Readers should do their own due diligence before taking any actions related to the mentioned company or any of its affiliates or services. Bitcoin.com or the author is not responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.
+
+Image credits: Shutterstock, Jamie Redman, and Button Wallet.
+
+Verify and track bitcoin cash transactions on our BCH Block Explorer, the best of its kind anywhere in the world. Also, keep up with your holdings, BCH, and other coins, on our market charts at Markets.Bitcoin.com, another original and free service from Bitcoin.com.

@@ -1,0 +1,23 @@
+DATE:  17.06.2019, 12:10:42
+TITLE: Breez Reveals Lightning-Powered Bitcoin Payments App for iPhone
+URL:   https://www.coindesk.com/breez-reveals-lightning-powered-bitcoin-payments-app-for-iphone
+
+Breez, a non-custodial wallet and payment platform, is launching its services for the iPhone. This is the first payment project built on Neutrino, a bitcoin lightning network client, according to the company announcement.
+
+Additionally, Breez has resolved the issue of how to dispute purchases and receive refunds, “so it’s suitable for every kind of purchase right down to a cup of coffee or paying back a friend,” said company founder Roy Sheinfeld, in a statement.
+
+When a user — whether an individual or a merchant — installs the app, Breez automatically opens a payment channel to the Breez hub, which is connected to other Lightning nodes, allowing users to transact with anyone on the network.
+
+Both parties cryptographically sign an updated balance sheet whenever a transaction is made to reflect the changing amounts of Bitcoin stored in the parties’ respected wallets. When the transaction is finished, the resulting balances are registered on the blockchain. In the event of a dispute, both parties can use the most recently signed balance sheet to recover their share of the wallet.
+
+The project, now in beta, builds on the success of Breez’s open network for Android, which the firm says gained hundreds of users in just two months. The beta for iPhone will initially be running on Apple Developer’s TestFlight, the publishing platform for beta apps. Sheinfeld said developing an iOS product allows the company access to around 98 percent of mobile users worldwide.
+
+This announcement is concurrent with a $500,000 investment from Recruit Strategic Partners and Fulgur Ventures. Breez spokesperson Nishal Ratanji views the investment as validating the company’s vision for a “Lightning Economy,” where transactions happen without the expense and hassle of intermediaries such as banks, credit cards, online payment processors, and other custodians.
+
+“Bitcoin has the potential to make all other mediums of exchange – including crypto and fiat currency – obsolete,” said Sheinfeld. “Unfortunately, until other technologies caught up with it, bitcoin was expensive, cumbersome and difficult to move.”
+
+The company states the additional capital will help develop Breez’s point-of-sale Lightning app used by merchants to accept bitcoin payments. Yuki Tanaka, Vice President at Recruit Strategic Partners and investor in Breez, anticipates “rapid uptake” of the POS technology in markets such as Japan.
+
+Breez’ technology has undergone testing in sandboxes and other multi-tiered environments, according to the company.
+
+Wallet photo via ShutterStock

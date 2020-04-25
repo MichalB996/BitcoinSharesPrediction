@@ -1,0 +1,25 @@
+DATE:  14.01.2019, 11:13:25
+TITLE: Ryuk ransomware earns hackers $3.7M in Bitcoin over 5 months
+URL:   https://thenextweb.com/hardfork/2019/01/14/ryuk-bitcoin-ransomware/
+
+A squad of cybersecurity firms has tracked a ransomware threat spreading across the internet known as Ryuk, which has collected over 705 BTC in just five months, estimated to be worth the equivalent of $3.7 million.
+
+Using email phishing campaigns to inject tens of thousands of victims with a banking Trojan called TrickBot, ransomers later hand-picked infected machines believed to be owned by large companies or government organizations on which to deploy Ryuk, ZDNet reports.
+
+Once the high-profile machines are selected, Ryuk encrypts all of the targets’ hard drives, locking data until victims contact the hackers and pay a Bitcoin BTC ransom.
+
+While the identity of the masterminds has been widely misreported in the wake of last week’s attack on Tribune Publishing, evidence presented by McAfee and CrowdStrike suggests a group of cybercriminals in Russia, not North Korea, is behind Ryuk.
+
+Hackers calculate ransoms based on value of target
+
+CrowdStrike analysts determined the amount demanded by the hacker group, dubbed GRIM SPIDER, varied significantly, indicating they calculated the ransom amount based on the value and size of the target organization.
+
+“To date, the lowest observed ransom was for 1.7 BTC and the highest was for 99 BTC”, wrote CrowdStrike. “With 52 known transactions spread across 37 BTC addresses (as of this writing), GRIM SPIDER has made 705.80 BTC, which has a current value of $3.7 million (USD). With the recent decline in BTC to USD value, it is likely GRIM SPIDER has netted more.”
+
+Example of a Ryuk ransomware note, courtesy of CrowdStrike
+
+The Ryuk ransomware drew attention during the New Year, when a number of newspapers owned by Tribune Publishing were delayed, including the Los Angeles Times, San Deigo Union Tribune, the Wall Street Journal and New York Times.
+
+A few months earlier, a major Canadian restaurant chain, Recipe Unlimited, suffered a nation-wide network outage when it was crippled by the Ryuk ransomware.
+
+Although spokespersons initially downplayed the extent of the attack, several franchise locations were forced to close as technicians rushed to recover data.

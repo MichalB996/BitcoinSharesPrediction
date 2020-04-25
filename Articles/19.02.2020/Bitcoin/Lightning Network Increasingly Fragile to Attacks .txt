@@ -1,0 +1,39 @@
+DATE:  19.02.2020, 07:59:57
+TITLE: Lightning Network Increasingly Fragile to Attacks – Hope Turns to Drivechain for Bitcoin Scaling
+URL:   https://news.bitcoin.com/lightning-network-drivechain-bitcoin-scaling/
+
+In particular, its structure seems to become increasingly similar to a core-periphery one, with well-connected nodes clustering together (as revealed by the study of the eigenvector centrality). More precisely, our analysis reveals the presence of many star-like sub-structures with the role of centers played by the hubs, seemingly acting as channel-switching nodes.
+
+Both Proponents and Critics of LN Debate Implications, Definition of ‘Decentralization’
+
+Reactions to the report have been varied in the crypto space, but LN supporters and critics alike think there may be something amiss in the way “decentralization” as a concept is being defined and even deified, in a sense, where bitcoin is concerned.
+
+For example, bitcoin researcher and Drivechain creator Paul Sztorc tweeted:
+
+Another user in the thread wrote, “Why do people care so much how decentralized LN is? It can work even semi-centralized, as long as it is mostly used for small payments and as long as there are other options.”
+
+But having to monitor a hub isn’t very convenient, and doesn’t seem to be in the original, non-third-party-dependent spirit of Bitcoin. CTO of Cointext Vin Armani noted that “decentralization” is often used imprecisely, pointing to the fact that influential actors wielding influence in a network doesn’t directly translate to centralization in the negative sense, where Bitcoin is concerned.
+
+That is to say, clustering of influence does not automatically equate to a change in codebase allowing for centrally orchestrated protocol adjustments. Still, with LN, transaction paths can be closed arbitrarily, and the increasing centralization of hubs as shown by the report brings an increased risk of applied KYC/AML requirements from authorities. This would effectively turn them into banks, increasing the likelihood that paths will be closed due to the same regulations.
+
+The true fragility of LN centralization, then, is the network’s foundational reliance on trusted third parties, and the ability of nodes to foul up transactions. In light of the report’s findings, the reliance on trusted third parties bitcoin sought to eliminate, now could return via increasingly powerful influence over transaction paths on LN.
+
+Some Think Drivechain Is the Answer
+
+Unlike so-called sidechains such as Blockstream’s Liquid federated network, Drivechain seeks to allow networks to branch off using a two-way peg, affording not only interoperability and customization, but also without sacrificing critical security or scalability. Incentivized mainnet miners, and not easily corruptible and insecure “federation members” or businesses, secure the sidechains via blind merged mining, and the two-way peg system is designed to stave off the risk of inflating bitcoin on the main network. It’s for this reason that Drivechain creator Paul Sztorc calls the idea a kind of layer 1.5.
+
+“It sneaks between the lightning network and layer 1,” Sztorc said in a 2019 presentation. “You can have lightning network on top of this. Because each piece of software that is a sidechain is going to be the layer 1 of its own blockchain. So this fits in between.”
+
+Though some criticize the idea, saying the protocol relies on security-compromising user-activated soft forks (UASF) to prevent miner theft of sidechains, others are convinced it is the inevitable future of Bitcoin.
+
+Sztorc seems to take the diplomatic view that market actors should be able to do what they want, and his views on interoperability point to an important aspect of money: saleability. In the Mengerian/Austrian School conception, money is defined as the most saleable, or widely accepted and utilized good in exchange. A million cryptos on isolated networks is an economic situation still in flux, seeking equilibrium. However, should each coin have the common thread of the underlying “drivechain” of the Bitcoin mainnet, a universal system could theoretically be born. Sztorc tweeted on Monday:
+
+I’m in favor of trying large blocks, as long as small block people can turn the larger blocks down (and pay the higher layer1 fees). But drivechain is the only way (I know of) for accomplishing all that. (And, larger blocks = higher node costs)
+
+Though Drivechain remains controversial in the crypto space, it seems a proposition seeking to be more closely aligned with Bitcoin’s foundational principles than others. The plan relies on miners with skin in the game to keep networks secure, and not arbitrary groups of non-hash-wielding federation members. The ultimate problem plaguing the Lightning Network is not merely a core-periphery centralization pattern emerging, but the more foundational reality that it ultimately relies on third party hubs routing payments, and not mainnet miners, to function properly.
+
+What are your thoughts on Lightning Network centralization? Do you think Drivechain is a viable solution? Let us know in the comments section below.
+
+Images courtesy of Shutterstock, fair use.
+
+Want to create your own secure cold storage paper wallet? Check our tools section. You can also enjoy the easiest way to buy Bitcoin online with us. Download your free Bitcoin wallet and head to our Purchase Bitcoin page where you can buy BCH and BTC securely.

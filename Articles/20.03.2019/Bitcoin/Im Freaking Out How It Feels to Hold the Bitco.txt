@@ -1,0 +1,69 @@
+DATE:  20.03.2019, 18:00:21
+TITLE: ‘I’m Freaking Out’: How It Feels to Hold the Bitcoin Lightning Torch
+URL:   https://www.coindesk.com/im-freaking-out-how-it-feels-to-hold-the-bitcoin-lightning-torch
+
+“Hey are you set up with lightning? To send and receive lightning payments?”
+
+The day I held the Lightning Torch was the day I learned how the lightning network works.
+
+Living in Venezuela, the experimental payments network had somehow skipped my Twitter feed until I received the following message from renowned crypto advisor Jill Carlson.
+
+She had the Torch and she wanted me to join.
+
+I quickly came up to speed on the new game, and why it was attracting an increasing number of bitcoin users. (You can read here how it’s grown from a simple Twitter experiment to a payment that has now reached participants in over 50 countries.)
+
+The Lightning Network Torch – better known by the Twitter hashtag #LNTorch – is a symbolic transaction, meant to teach how this new form of payment lets you send bitcoin faster and without paying fees on the blockchain every time.
+
+Being a non-technological person, this didn’t promise to be fun at all. I accepted anyways. (I was also lucky enough to have Carlson as a technical guide through the process.)
+
+Glitch in the Torch
+
+Holding the Torch, however, is the easy part.
+
+To receive the payment, I first needed to download a wallet that worked with Lightning Network (my regular bitcoin wallet wouldn’t do).
+
+In my case, I chose BlueWallet. This allowed me to accept an invoice for the next amount to be paid in the chain (eg. 3,390,000 satoshis), respond to the tweet of the person announcing that holds the torch and wait to be chosen.
+
+The next part wasn’t so simple. Something to take into account is that funding a Lightning wallet can take hours.
+
+While the payment itself is very quick, it took Jill two hours to send the funds to my lightning wallet and another six hours for me to transfer them to the next person.
+
+[AUTHOR’S NOTE: Lightning Labs CEO Elizabeth Stark, whose company is building a software implementation for lightning, says the delay is due to a bug in Bluewallet’s wallet software.]
+
+The payment works when two users create a payment channel on the bitcoin network, and once the channel is created (which can take a while), the network routes the payment from one node to another. This makes the transactions instant on the lightning network layer, but it takes a long while to get there.
+
+While transactions fees are supposed to be practically nonexistent, in reality, various users have complained about losing money while sending transactions using BlueWallet, one of the most commonly used wallets with lightning network integrated.
+
+And in order to hold the torch and pass it on, one must, of course, give away some money. A very low fraction of 0.0001 BTC that will be added to the trust chain. In my case, I was advised to have enough money in the BlueWallet to pay unexpected fees. I was to receive 0.0392 BTC and pay 0.0393 BTC to the next holder.
+
+Even though I didn’t lose money, I came close to it since the application insisted that I lacked enough funds. The lightning fees are supposed to be below 100 satoshis, and I had an extra 300,000 satoshis available to make the payment.
+
+When asked about this error, the BlueWallet team’s response was that the service still has bugs and that users must remember that it’s still in its beta phase.
+
+For someone who has never used the Lightning Network before, this was a quite contrasting experience with more established bitcoin wallets, and definitely more stressful.
+
+The worst part was the uncertainty of whether the funds had been sent properly or if I had “dropped” the torch!
+
+Passing the Payment
+
+Luckily, this didn’t happen.
+
+Not only did the payment go smoothly, but Jill and I were able to send a message about how bitcoin as a technology that can transcend borders.
+
+I felt a sense of responsibility.
+
+This was a platform to shine a light on Venezuela’s situation indeed. That’s why I passed the torch to the project BitBros, a team from Caracas that survived the blackout with an active node using a 12V motorcycle battery.
+
+Since then, the game has helped to spread awareness of projects like @btcven, a Venezuelan initiative that has received help for their fundraising through the Lightning Torch.
+
+As a result, we’re all listed alongside Andreas Antonopoulos, Erik Voorhees and Meltem Demirors on an official website set up by Lightning Torch creator @Hodlnaut that tracks how the payment has been passed.
+
+For now, the count keeps growing. The Lightning Torch has reached to 250 participants in 53 countries, going from 0.0001 BTC to 0.0395 BTC at press time.
+
+But the torch won’t burn forever, as it’s creator assured. “There are only 33 spots left before we reach the limit of 4.29 million satoshi. I expect it to happen within a couple of weeks,” HODLnaut told CoinDesk.
+
+Now that my turn has passed, the overall experience left me with a sense of belonging with the bitcoin community. It was an inspiration to keep learning more about the blockchain world.
+
+Thanks again, Jill and all those building lightning.
+
+Image via TakeTheTorch.com

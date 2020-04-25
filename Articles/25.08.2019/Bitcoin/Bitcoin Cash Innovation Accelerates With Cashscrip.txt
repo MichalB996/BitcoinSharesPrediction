@@ -1,0 +1,47 @@
+DATE:  25.08.2019, 23:00:19
+TITLE: Bitcoin Cash Innovation Accelerates With Cashscript High-Level Language
+URL:   https://news.bitcoin.com/bitcoin-cash-innovation-accelerates-with-cashscript-high-level-language/
+
+Bitcoin Cash Innovation Accelerates With Cashscript High-Level Language
+
+Software developers Rosco Kalis and Gabriel Cardona have been steadily working on Cashscript, a high-level programming language for Bitcoin Cash. When the language is tied to certain opcodes, specific schemes can be built that allow for autonomous and decision-based transactions. While testing Cashscript’s capabilities, the two engineers recently deployed an oracle, forfeits, an onchain wager, and a recurring payments contract.
+
+Also read: Send Token Payouts With Ease Using Bitcoin.com’s SLP Dividend Calculator
+
+BCH Developers Are Innovating With Cashscript
+
+Bitcoin Cash (BCH) development is in full swing and over the last six months the tempo has really started to pick up. Things like the Simple Ledger Protocol, Schnorr signatures, opcodes, Cashshuffle, the programming language Spedn, and token dividend payments have galvanized the network’s versatility. Another project that’s seeing steady development is Cashscript, a high-level language for BCH created by the software developer Rosco Kalis.
+
+I was asked by @cgcardona to wrap up a checkdatasig example for CashScript. So yesterday I put together a contract utilising CDS and oracles to enforce HODLing until a certain BCH/USD price has been reached. CDS opens the doors to awesome functionality!https://t.co/upTvNB9SmB — Rosco Kalis (@RoscoKalis) August 25, 2019
+
+News.Bitcoin.com reported on Cashscript in May, when Kalis discussed the number of innovative concepts that can stem from using Cashscript. The main focus for Cashscript developers is to make it easier for other engineers to plug a Cashscript contract into any web application. “For this workflow as well as the syntax of the language we took a lot of inspiration from Ethereum’s Solidity language and Web3.js / Truffle libraries,” Kalis told our newsdesk at the time.
+
+Since then, Kalis and other developers like Gabriel Cardona, the creator of Bitbox, have been eagerly showing the BCH community what Cashscript is capable of doing. “Cashscript is a paradigm shift in expressiveness for BCH contracts,” Cardona explained this week while highlighting a bunch of experiments. For instance, Cardona showed the BCH community on Twitter how the Mecenas contract was replicated in Cashscript. Mecenas was a contract developed by Karol Trzeszczkowski that allows for recurring BCH payments. After redesigning the covenant-based smart contract solution in Cashscript, the developer asserted that “Large contracts like this is where Cashscript really shines.” On August 24, Cardona also tweeted that last year in Milan at the Satoshi’s Vision Conference, BCH engineer Awemany revealed a solution to the zero-confirmation problem by using a concept called “Zero-Confirmation Forfeits.” So the developer decided to replicate the zero-confirmation forfeit idea using the Cashscript language.
+
+‘BCH Supports Hodling Better Than BTC’
+
+While showing the ported Cashscript examples on Twitter, Cardona also tipped his hat to developers who helped initiate these ideas like Tendo Pein, Karol Trzeszczkowski, Rosco Kalis, Emil Oldenburg, Chris Pacia, and Tobias Ruck. The next day on August 25, Cardona showed the public a wager contract from Emil Oldenburgs’s onchain bet example from “Taking OP_Checkdatasig out for a test drive.” The new wager contract was written in Cashscript, which executes an onchain bet between two parties and can only be settled by block height and price signed by an oracle. “Noncustodial financial services are about to change everything,” Cardona exclaimed. In another example, Kalis and Cardona produced an oracle using Cashscript and OP_Checkdatasig. The contract forces holding onto the asset until a certain price target has been reached. The “Hodl-Vault” contract specifications state:
+
+A minimum block is provided to ensure that oracle price entries from before this block are disregarded: When the BCH price was $1,000 in the past, an oracle entry with the old block number and price can not be used. Instead, a message with a block number and price from after the minBlock needs to be passed. This contract serves as a simple example of OP_Checkdatasig-based contracts.
+
+After the contract was created, Spedn creator Tendo Pein tweeted: “BCH supports hodling better than BTC.” “Anything BTC can do, BCH can do better,” Cardona replied. On the Reddit forum r/btc, BCH supporters welcomed the innovation stemming from the Cashscript language. Cashscript can allow for many types of autonomous and decision-based transactions like oracles, zero-conf forfeits, digital good purchases via PGP signature, Pay to ID, cold wallet timeout, enforced multi-signature signing order, stablecoins, covenants, secure multi-party computation, blind escrows and spending constraints. “[It’s] going to be exciting to see what people can come up with using these new features,” one BCH supporter said after reading about the innovations Cashscript could prime in the future.
+
+Non Custodial Financial Services are about to change everything. — Gabriel Cardona (@cgcardona) August 25, 2019
+
+Oracles and Decision-Based Transactions Without the Need for a Custodian’s Decision
+
+One of the biggest conversations stemming from the r/btc post about Cashscript was the use of oracles. Many cryptocurrency enthusiasts and blockchain developers believe that the BCH blockchain could provide verifiable multi-sourced facts, so people can use a trustless oracle for better decisions. Oracles are neutral by design and can allow the BCH chain to verify enough valid data to prove something is true or false, which then would essentially trigger decision-based transactions based on the outcome.
+
+Since ancient times, humans have used oracles to make hard decisions, execute bets and wagers, and provide validated reports. The opcode OP_Checkdatasig has brought the idea of blockchain oracle concepts using the BCH chain to the forefront. The opcode can check the validation of certain signatures, and return two different outcomes in an autonomous fashion. This means BCH-powered oracles can provide a definitive outcome for things like sporting events, election results, and prediction markets. But it would do so in a way that removes the need for a third party or custodian’s decision.
+
+Why #CashScript? Which would you rather write? 1. CashScript
+
+2. Raw Bitcoin Cash Script CashScript is a paradigm shift in expressiveness for $BCH Contracts. pic.twitter.com/9Ot3Irgndv — Gabriel Cardona (@cgcardona) August 24, 2019
+
+Developers have already proven these types of decision-based transactions can work without changing the current BCH rule set. People have built onchain wagers, oracles, digital currency inheritance schemes and even a game of onchain chess. It’s still very early, but Cashscript is maturing fast and BCH developers can utilize the language right now to execute these types of decision-based transactions into their workflow. As Cardona highlighted earlier this week, noncustodial financial services will decimate the current way we deal with money. Innovations like OP_Checkdatasig, Cashscript, Spedn, and Schnorr help to realize this goal.
+
+What do you think about the Cashscript language and developers creating unique types of decision-based transactions with Cashscript and OP_Checkdatasig? Let us know what you think about this subject in the comments section below.
+
+Image credits: Shutterstock, Jamie Redman, Github, Cashscript, and Twitter.
+
+Are you a Bitcoin developer? You can create your own Bitcoin Cash app with the Bitbox and Badger Wallet SDKs, get started with BCH tokens through the SLP SDK, and build your knowledge base with our Bitcoin Cash developer guides.

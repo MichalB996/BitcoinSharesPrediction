@@ -1,0 +1,42 @@
+DATE:  15.09.2019, 10:00:41
+TITLE: Bitcoin Price Hits $12,000 on Kraken Following Order Matching Glitch
+URL:   https://bitcoinist.com/bitcoin-price-hits-12000-on-kraken-following-order-matching-glitch/
+
+Bitcoin Bitcoin Price Hits $12,000 on Kraken Following Order Matching Glitch
+
+Crypto trading service Kraken has revealed the reason for the abnormal Bitcoin price on its platform was due to an order matching bug.
+
+Abnormal Bitcoin Price Spread on Kraken
+
+On Saturday (September 13, 2019), the XBT/USD trading pair on Kraken experienced a $2,000 takeaway in both directions.
+
+1/3 Yesterday a test of an unreleased advanced order type encountered a bug which resulted in the order's prices being matched against the wrong side of the book. Some clients bought from the tester at $8000 and others sold at $12000 without clearing the intervening liquidity. pic.twitter.com/iG3sEPCVXS — Kraken Exchange (@krakenfx) September 14, 2019
+
+In a Twitter thread published on Sunday (September 14, 2019), Kraken provided an explanation for the Bitcoin price anomaly. An excerpt from the tweet reads:
+
+Yesterday a test of an unreleased advanced order type encountered a bug which resulted in the order’s prices being matched against the wrong side of the book. Some clients bought from the tester at $8000 and others sold at $12000 without clearing the intervening liquidity.
+
+According to some traders, such a bug with severe ramifications shouldn’t show up on a production test, even if it happened on a limited production beta environment.
+
+In response, Kraken CEO Jesse Powell said finding bugs are part of the process of refining the operations of automated order matching algorithms. Commenting on the matter, Powell tweeted:
+
+Our new order types undergo thousands of automated and human tests for months before they make it to prod. You can’t find all the bugs all the time.
+
+No Liquidations on Either End
+
+Another criticism making the rounds is that such incidents dent the image of the bitcoin market in the eyes of regulators.
+
+Issues concerning price discovery and market manipulation continue to be a major red flag for the U.S. Securities and Exchange Commission (SEC) on approving a Bitcoin ETF.
+
+According to Kraken, there were no liquidations on either end as stops set in the $8,000 to $12,000 range were filled at the correct spot bitcoin price. However, some traders are claiming on Twitter that they had buy orders in the mid
+
+The bitcoin price quote on Kraken has since returned to a normal spread. The glitch also didn’t have any observable impact on the spot price of bitcoin, likely due to the absence of liquidations on either end.
+
+Back in May 2019, a 5,000 BTC dump on Bitstamp caused the bitcoin price to plunge to $6,100. Later in July 2019, a 15,000 ETH on the Bitstamp triggered an ether flash crash.
+
+Massive liquidations on BitMEX have also caused significant downward price action for bitcoin.
+
+What do you think about the order matching bug that occurred on the Kraken platform? Let us know in the comments below.
+
+Images via Shutterstock, Twitter @krakenfx.
+

@@ -1,0 +1,17 @@
+DATE:  26.03.2020, 09:51:07
+TITLE: Dr. Craig Wright sets record straight on Bitcoin nodes
+URL:   https://coingeek.com/dr-craig-wright-sets-the-record-straight-on-bitcoin-nodes/
+
+As digital currency continues to advance, it has become more apparent that many of the early adopters failed to read, or they read and failed to comprehend, what Bitcoin was all about. Many blockchain projects have been launched that have little to do with the actual Bitcoin as outlined in the original whitepaper, and have gone so far off course that they now have virtually no resemblance to Bitcoin. Dr. Craig Wright has prepared a number of blog posts to help clear the air, and just authored a new one to help set the record straight on nodes and how they’re supposed to work.
+
+The original Bitcoin whitepaper explains that Bitcoin is not designed to be a voting system where each individual has a say in establishing the rules, a concept that was created later by those who began developing projects like BTC. In reality, the whitepaper states, “If the majority were based on one-IP-address-one-vote, it could be subverted by anyone able to allocate many IPs. Proof-of-work is essentially one-CPU-one-vote.”
+
+This is further broken down by explaining that, just because someone is connected to the blockchain, this doesn’t make them an operator of a node. Instead, nodes need to be viewed like “generals.” Wright explains, “Generals form a small group of individuals who are easily detected and whose actions are easily attributed. Generals are not privates. For each general in the network, there will potentially be millions of privates. In other words, for each node on the network, there will potentially be millions of users.”
+
+Simply put, a collective of commercial nodes, even if geographically dispersed, is still just one node. This distinction is important because it leads to how the network is able to be constructed, and why Bitcoin is able to provide unlimited on-chain scaling while other projects, like BTC, have to create off-chain solutions to handle large numbers of transactions. As Bitcoin SV (BSV) has shown, because it adheres to the structure laid out by the Bitcoin whitepaper, on-chain management of massive amounts of simultaneous transactions is not only feasible, but is an integral part of how Bitcoin was designed to work.
+
+Wright adds, “Bitcoin is distributed to enable reliability. There is no distributed consensus dictating the rule of the system. In fact, such a myth covers the deception promoted by a few disingenuous developers, who are running a partnership they seek to hide through fraudulent claims that they are decentralised.”
+
+Ultimately, adhering to the guidelines leads to an efficient solution that performs everything Bitcoin was designed to accomplish, and which has been proven successful by BSV. Nodes on the network are designed to be the “generals” and the miners—not users who do not create validated blocks. Wright concludes, “Without a consensus method, ‘non-mining nodes’ have no say. It is irrelevant whether you like it or not; Bitcoin, any blockchain-based system does not create rules by consensus, but it allows the vote exclusively made by such nodes that solve blocks, ones with skin in the game.”
+
+New to Bitcoin? Check out CoinGeek’s Bitcoin for Beginners section, the ultimate resource guide to learn more about Bitcoin—as originally envisioned by Satoshi Nakamoto—and blockchain.

@@ -1,0 +1,27 @@
+DATE:  19.02.2020, 23:00:03
+TITLE: OpenNode Finds Way for Retailers to Turn Fiat Payments Into Bitcoin (Using Apple Pay)
+URL:   https://www.coindesk.com/opennode-finds-way-for-retailers-to-turn-fiat-payments-into-bitcoin-using-apple-pay
+
+The bitcoin payments startup OpenNode just gained access to Apple Pay, according to the startup’s head of marketing, Ryan Flowers.
+
+This could be a boon for the small subset of merchants who want to hold bitcoin, because it allows people to spend dollars through their regular fintech accounts yet still have those dollars exchanged to bitcoin for the merchant to receive.
+
+The customer’s fiat payment goes through OpenNode’s partner, Wyre, converting to bitcoin (BTC) and depositing in the merchant’s wallet. Merchants can sign up to be part of the private feature release, currently in beta, before it goes live across the platform in a few months.
+
+“They [shoppers] put the card information into the widget that OpenNode is using, in some cases the card information may already be stored, for example with your Apple Pay,” said Jack Jia, Wyre’s director of institutional sales. “So all the user does is click the ‘Buy with Apple Pay’ button” to make a purchase with fiat that the merchant receives as bitcoin.
+
+The same back-end rails that offer indirect access to Apple Pay accounts, which both OpenNode and Wyre declined to name, also work for most debit cards. Now shoppers can spend fiat at online stores and choose for the merchant to receive bitcoin. This assumes shoppers are willing to take a few extra seconds to benefit the merchant, rather than checking out without the bitcoin button. So this might only suit merchants with a devoted customer base.
+
+“Our merchants keep some, or most, of their payments in bitcoin. Merchants want exposure to bitcoin,” OpenNode CEO Afnan Rahman said of the 5,000 merchants registered with the startup so far. “This year a lot of luxury goods businesses are signing up.”
+
+OpenNode’s Flowers said shoppers are reluctant to spend bitcoin because of the volatility, but demand among merchants for receiving the cryptocurrency hasn’t dwindled. In particular, Rahman said the company has seen the most uptick in 2020 from merchants in India, South Korea, Japan and China.
+
+He said OpenNode processes “a couple million” dollars worth of bitcoin a month for such diehard merchants. The startup will initially deploy the Apple Pay feature with less than a dozen merchant testers.
+
+“We’re rolling it out slowly to make sure the rate of chargebacks isn’t high,” Flowers said, describing contested payments credit-card companies return to consumers.
+
+By this time next year, Wyre and OpenNode hope to complement this feature with a “full-suite treasury management tool for merchants,” Jia said. By relying on Wyre, which has a money transmitter license, OpenNode will offer merchants a bitcoin savings account where they can earn interest and pay out invoices. Jia said this would be “offering the same functions as a bank,” with the option to cash out bitcoin to a personal wallet.
+
+“We’re not looking at revenue right now as much as building up infrastructure,” Jia said, referencing debit cards and Apple Pay. “These are all layers on top of the banking system, so connecting those networks to the bitcoin network through infrastructure is more important right now.”
+
+Apple didn’t offer any comments by press time.

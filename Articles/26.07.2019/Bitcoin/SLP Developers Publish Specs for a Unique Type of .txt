@@ -1,0 +1,47 @@
+DATE:  26.07.2019, 15:45:41
+TITLE: SLP Developers Publish Specs for a Unique Type of Non-Fungible Tokens
+URL:   https://news.bitcoin.com/slp-developers-publish-specs-for-a-unique-type-of-non-fungible-tokens/
+
+SLP Developers Publish Specs for a Unique Type of Non-Fungible Tokens
+
+The Simple Ledger Protocol (SLP) has become a popular project within the Bitcoin Cash ecosystem because it gives anyone the ability to issue and transfer tokens in a permissionless fashion. Since the project was announced last year, there’s been a myriad of tokens created on the BCH chain. A few SLP tokens have launched on exchanges and some of these tokens have gathered real value and utility. SLP developers have now revealed a new specification, which extends the SLP token type 1 protocol allowing for the creation of non-fungible tokens that can be grouped together using a single ID.
+
+Also Read: Another Self-Proclaimed Satoshi Appears in the High Profile Bitcoin Lawsuit
+
+The Simple Ledger Protocol and Tokenization Becomes a Mainstay Within the Bitcoin Cash Ecosystem
+
+In the summer of 2018, it was well known that at some point in the near future the Bitcoin Cash blockchain would host a token creation protocol that allowed anyone to mint and transfer BCH-based tokens. During the month of July, at least four BCH token projects were revealed around the same timeframe. This was after the 32MB upgrade in the spring, which also re-enabled some old Satoshi opcodes and bumped the network’s default data-carrier-size to 220 bytes.
+
+Out of all the token projects, the Simple Ledger Protocol jumped ahead of the pack, becoming a mainstay within the BCH ecosystem. The SLP system simply draws from the transaction chain of the existing Bitcoin Cash framework. The protocol essentially uses the metadata within an OP_RETURN transaction for the issuance and transfer of tokens.
+
+“You can think of SLP as a ‘transaction within a transaction,” the project’s website explains. “SLP transactions live within a special output known as OP_RETURN, which is a part of a standard Bitcoin Cash transaction.” The website adds:
+
+If Alice wants to send Bob some tokens, she sends a minimal (dust) amount of BCH, and the transaction also contains the data to transfer the tokens. You may be interested in reading the protocol specification, which is comprehendible to the average Bitcoin-minded reader.
+
+NFT1: An Extention of the SLP Token Type 1 Protocol
+
+Today there are a bunch of tokens that have been created on top of the BCH chain using the SLP scheme. The most popular tokens used on the network according to July 25 statistics are coins like honk, spice, honk token, brave sound token, and acd. On July 11, SLP developers James Cramer and Jonald Fyookball published the first draft specification for a “simple extension to the SLP token type 1 protocol.”
+
+The documentation refers to a design called NFT1, which stands for “non-fungible tokens,” which are unique but can be grouped together. Non-fungible tokens were already possible with SLP, the developers explain, if a person created a non-divisible token with a total supply of one. The SLP programmers call these type of tokens “Simple NFTs” but NFT1s extend the protocol, allowing NFT-styled tokens to be aggregated using a single ID.
+
+“Having the ability to group NFTs in a provable manner opens the doors for many more token applications, and makes SLP more similar to other NFT protocols (e.g., ERC-721),” the Github specs note. “NFT1 uses the same validation rules as SLP token type 1 with a few additional constraints and requirements.”
+
+News.Bitcoin.com asked SLP developer James Cramer if there were plans to implement the ability to mint NFT1 type tokens using the SLP version of the Electron Cash wallet. Cramer said that “it was done in the latest code” and the feature will be in the next version release. The developer said he planned on waiting to finish an update to SLP validation to speed up the validation for big token graphs. The specification published on July 11 summarizes the method for initiating a new SLP token with NFT1 group minting. Cramer and Fyookball’s NFT1 documentation also acknowledges the developers Mark Lundeberg, Imaginary_username, and Dexx7 for suggestions and review.
+
+Rare Collectibles, Raffles, Tickets, and Blockchain Extensible Games
+
+The newly designed NFT1 concept opens the doors to even more token ideas created on top of the BCH network. NFT1s use the same transaction chain within the BCH chain and operate just like a basic and fungible SLP token. The biggest distinguishing factor is that the tokens are non-fungible but also harness the ability to be grouped just like type 1 tokens which makes the NFT1 type perfect for digitizing unique assets. A set of clustered non-fungible tokens can spawn ideas like onchain raffles, lotteries, or tickets to an event. Another concept is the creation of distinct collectible tokens and someone could create sets of rare SLP coins.
+
+For example, NFT1s can be made to design collectible tokens similar to concepts like the Cryptokitties project built on Ethereum or Rare Pepe cards which use Counterparty. Games could also be created on the Bitcoin Cash blockchain using SLP tokens that work similarly to Spells of Genesis or Mafia Wars. SLP-based blockchain games could be extensible, allowing developers to create NFT1-styled armor, weapons, and vehicles. Even though the SLP tokens would use the same group ID, the value of each NFT1 would be different because they are all unique. The system is far more robust than simply issuing a basic NFT from the same address because the new NFT1 standard is determined by the group ID.
+
+Tokenization Concepts Can Bring More Onchain Transactions Tied to the Liquidity From a Secondary Marketplace
+
+Token creation has come a long way on the BCH chain and the concept has also evolved on alternative blockchains. With the case of the Simple Ledger Protocol, the project has matured a great deal since it was announced last summer. BCH fans like the protocol, because whenever you issue, transfer or receive SLP tokens, all transferred data is recorded onchain, which in turn can bolster the number of transactions within the BCH network. SLP is permissionless and there’s absolutely no permission required to issue or transfer the tokens. The protocol’s rule set supports a fault-tolerant consensus layer and is very simple to use.
+
+This basically means you don’t need to be a master software engineer to create tokens and developers have released intuitive token creation programs within platforms like Electron Cash and Memo.cash. SLP tokens have also received wide support from the BCH ecosystem and are SPV friendly as wallets like Badger, Ifwallet, Crescent Cash, Memo, and Electron Cash help users validate their own transactions. Users can also verify transactions using the site Simpleledger.info or use Bitcoin.com’s BCH Block Explorer. With NFT1 tokens on the horizon, the SLP system is growing further as tokenization is becoming far more robust by allowing for concepts like collectibles, regulated securities, tickets, and controlled whitelists.
+
+What do you think about the newly published NFT1 specification? Let us know what you think about this subject in the comments section below.
+
+Image credits: Shutterstock, Bitcoincash.org, Simpleledger.info, Simpleledger.cash, Rare Pepe cards, Cryptokitties, Github, and Twitter.
+
+How could our Bitcoin Block Explorer tool help you? Use the handy Bitcoin address search bar to track down transactions on both the BCH and BTC blockchain and, for even more industry insights, visit our in-depth Bitcoin Charts.

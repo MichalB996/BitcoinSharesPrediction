@@ -1,0 +1,39 @@
+DATE:  11.04.2019, 16:42:49
+TITLE: Last Will Platform Allows Your Loved Ones to Inherit Your BCH
+URL:   https://news.bitcoin.com/last-will-platform-allows-your-loved-ones-to-inherit-your-bch/
+
+Last Will Platform Allows Your Loved Ones to Inherit Your BCH
+
+On April 10, software developer Karol Trzeszczkowski launched a platform called the Last Will, a smart contract program for the inheritance of bitcoin cash (BCH). The Last Will protocol is an Electron Cash plugin that allows users to create and manage BCH endowments.
+
+Also read: How to Easily Find Businesses That Accept Bitcoin Cash Near You
+
+Last Will: A Noncustodial and Permissionless Bitcoin Cash Inheritance Solution
+
+BCH supporters have been introduced to a new platform called Last Will, an inheritance contract creation protocol and manager. The platform utilizes checkdatasig covenants thanks to the BCH protocol upgrade that took place last November. On Wednesday, Trzeszczkowski announced the project on the forum r/btc and explained that the protocol allows for noncustodial and permissionless inheritance solutions. Last Will is open source and developers can review the codebase that’s hosted on Github. The contract solution is created using the BCH chain and implements a dead man’s switch with a six-month trigger. If the user doesn’t refresh the Last Will agreement in that timeframe then the BCH becomes available to the inheritor.
+
+“Last Will smart contract uses the first working implementation of looping transactions for refreshing the contract,” Trzeszczkowski’s Last Will specification document reveals.
+
+The contract uses Pay to Script Hash (P2SH) and is defined by using a special address that is cryptographically determined by the contract itself. Essentially, once the requirements have been met, the endowment is made available to the inheritor. In order to use the Last Will service, you need to download and verify the software from the release section on Github. After that, open the Electron Cash version 4.0 or higher and navigate to the Tools tab and select Installed Plugins. After the plugin is added, you will see the Last Will section in the wallet which allows you to create a new contract, check an existing contract, and load the last agreement’s information.
+
+When you want to create a new contract, simply enter the inheritor’s address, the cold wallet address, and then the value of the amount being left. The creator of this software has added an optional email notification service that can be ordered through the plugin for a small fee.
+
+“Six months is quite a long period of time, it’s possible to forget about refreshing your contract,” Trzeszczkowski’s Github repo explains. “To solve this problem Licho offers the notification service … Licho will send you an e-mail reminder a week before your contract expiry date.”
+
+The inheritor doesn’t have to know about the contract unless they verify it and when the original owner passes away Licho will let the successor know the BCH is waiting to be claimed. The service uses a BCH transaction and when the service sends the next-in-line an email it will also have attached Op_Return data. “For the inheritor notification, an encrypted e-mail and the contract address will be attached,” Trzeszczkowski notes.
+
+Covenants and the BCH Programming Language Spedn
+
+The developer also thanked BCH programmer Mark Lundeberg for helping him solve a lot of problems and Tendo Pein for helping with the BCH programming language Spedn and his creation of looping transactions. Spedn is a BCH-based language created by Tendo Pein that is designed for explicitness and safety, with a syntax similar to the C programming environment. Openbazaar and BCHD developer Chris Pacia liked the idea and appreciated how the Spedn language makes checkdatasig covenants a bit easier.
+
+“So this is pretty cool — Bitcoin Cash can do covenants now but the scripts are really too complex to build manually,” Pacia tweeted on Thursday. “However, using the Spedn language it’s pretty easy to make a covenant.”
+
+Bitcoin inheritance is an important aspect of wealth management, just like any other form of money. Last year, U.S. investor Matthew Mellon reportedly passed away with $500 million in cryptocurrencies but his heirs could not obtain the funds. The 54-year old Mellon died with his funds held in cold storage in bank security deposit boxes under phony names. News.Bitcoin.com has written extensively on the subject of Bitcoin and death and how people can prepare their families for digital inheritance. Death is certain but can be unexpected, so the Last Will plugin for the EC wallet gives crypto users another avenue to take in order to ensure their loved ones get their BCH after they pass away.
+
+What do you think about the Last Will plugin for Electron Cash? Let us know what you think about this subject in the comments section below.
+
+Disclaimer: Readers should do their own due diligence before taking any actions related to the mentioned company, software or any of its affiliates or services. Bitcoin.com or the author is not responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article. This editorial is for informational purposes only.
+
+Image credits: Shutterstock, Bitcoincash.org, Spedn logo, Licho logo, and Github.
+
+Now live, Markets.Bitcoin.com: A comprehensive, real-time listing of the cryptocurrency market. View prices, charts, transaction volumes, and more for the top 500 cryptocurrencies trading today.

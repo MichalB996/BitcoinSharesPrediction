@@ -1,0 +1,31 @@
+DATE:  25.11.2019, 21:00:47
+TITLE: Privacy-Enhancing BCH Tool Cashfusion Begins Working Behind the Scenes
+URL:   https://news.bitcoin.com/privacy-enhancing-bch-tool-cashfusion-begins-working-behind-the-scenes/
+
+Privacy-Enhancing BCH Tool Cashfusion Begins Working Behind the Scenes
+
+This week Bitcoin Cash (BCH) proponents have been celebrating the fact that 187,212 BCH ($40 million) has been shuffled since the Cashshuffle platform launched in the last week of March. Moreover, on Saturday, Electron Cash developer Jonald Fyookball announced the highly anticipated Cashfusion protocol has been working behind the scenes using alpha software.
+
+Also read: Developer Creates Interwallet Transfer Plugin to Strengthen Bitcoin Cash Privacy
+
+BCH Privacy Strengthens: Cashfusion Beta Coming Soon
+
+In July, news.Bitcoin.com reported on how the protocol extension meant to enhance the Cashshuffle mixing application Cashfusion was getting a “whole lot better” according to Electron Cash (EC) developer Jonald Fyookball and independent software developer Mark Lundeberg. Cashshuffle is a bitcoin cash mixing platform that allows users to obfuscate the relationship between the owner’s old and new BCH addresses. At its inception, Cashshuffle offers a deeper anonymity set, but if a user mixes a bunch of coins and eventually consolidates them into one address, it can still leave behind some traces to the original owner.
+
+“With Cashfusion, the new scheme is not only more secure, but allows basically any number of inputs and outputs of any amounts — This means it can offer high levels of privacy with unlinkable coins,” Fyookball asserted at the time. A few months later on November 23, the EC programmer revealed that the Cashfusion framework has been working behind the scenes using alpha software and the beta software “is coming soon.”
+
+In addition to the announcement about Cashfusion, Fyookball left a transaction that showed the protocol had been used. “Fun fact: with 53 inputs and 38 outputs, there are over 10^82 combinations that would need to be dealt with to check for possible matches,” Fyookball explained on the Reddit forum r/btc. “10^80 is the estimated number of atoms in the observable universe — 10^82 is 100 times larger than that,” one person replied. The same day, software engineer Mark Lundeberg tweeted about another Cashfusion transaction. “This Cashfusion transaction has 78 Schnorr-signed inputs, a situation that’s ripe for doing batched signature validation — Full nodes can decide to adopt batching at their leisure, I’m hoping to see some do it over the next year,” Lundeberg said. The developer added:
+
+It’s worth emphasizing that the speedup from batch validation is modest, only ~2X in this case — That might take the validation time from, say, 4 ms down to 2 ms for this transaction. The bigger gains would be when we see 90%-Schnorr blocks, however, that is only a speedup benefit for new nodes joining the network, since only they will be in a situation where all of a block’s signatures can be batched.
+
+Fusion Fridays
+
+Other cryptocurrency advocates are looking forward to the beta Cashfusion launch. “It’s not enough to just rail against governments and companies spying on us — We need to support the people who are already making tools that help give us back our privacy — Cashfusion will launch soon, and I can’t wait to check it out,” remarked the host, film and TV producer Naomi Brockwell. Another person on Reddit stated: “I love how [Cashfusion] works with just moving small amounts of a few thousand satoshis. 0.0001 BCH, no problem. It’s just a side effect of what you are trying to show, but an important little detail proving why Bitcoin Cash is the fork that is doing it right.” Other BCH proponents noted how Karol Trzeszczkowski’s Interwallet Transfer plugin coupled with Cashfusion will also strengthen Bitcoin Cash privacy.
+
+So far, even before Cashfusion, the Cashshuffle protocol for EC has gained a lot of traction according to Acid Sploit’s stats page. Data shows that 187,212 BCH ($40 million) has been shuffled using the Cashshuffle mixer. Every week BCH participants shuffle together on “Shuffle Saturday” and after the community witnessed the Cashfusion transactions demonstrated by Fyookball and Lundeberg, a few BCH supporters called for a “Fusion Friday.”
+
+What do you think about the Cashfusion progression helping bolster BCH privacy? Let us know what you think about this subject in the comments section below.
+
+Image credits: Shutterstock, Github, Acid Sploit’s Cashshuffle Stats Twitter, and Pixabay.
+
+You can now purchase Bitcoin without visiting a cryptocurrency exchange. Buy BTC and BCH directly from our trusted seller and, if you need a Bitcoin wallet to securely store it, you can download one from us here.

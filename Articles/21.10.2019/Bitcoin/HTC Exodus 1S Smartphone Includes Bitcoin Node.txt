@@ -1,0 +1,45 @@
+DATE:  21.10.2019, 15:28:15
+TITLE: HTC Exodus 1S Smartphone Includes Bitcoin Node
+URL:   https://bitcoinmagazine.com/articles/htc-exodus-1s-gets-shipped-with-bitcoin-full-node-feature
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+Launched in Berlin on Saturday, October 19, 2019, the new HTC Exodus 1s promises to be the first smartphone to put a full Bitcoin node in the users’ pockets. The device is a technical and spiritual successor to the Exodus 1 (which integrates a hardware wallet), whose uniqueness and value proposition on the smartphone market is given by the preinstalled Zion Vault app. Through this feature, users can perform one-touch downloads of the Bitcoin blockchain.
+
+“The Zion Vault app makes it very simple to download the entire Bitcoin ledger.” said Decentralized Chief Officer Phil Chen in an interview with Bitcoin Magazine.
+
+Interestingly, the Bitcoin Core client doesn’t come preinstalled and will not get downloaded in a pruned form in the phone’s 64 GB internal storage. Instead, users must purchase an additional SD card, insert it in the device, and then access the Zion Vault app. According to Chen, a worst-case scenario for complete synchronization and download would take 1-2 weeks — but with broadband internet speed, the process should be “a lot quicker.”
+
+It’s still unclear how much of the phone’s CPU and RAM will be taken up by the node software during and after synchronization, and supplementary battery usage is also an important factor to take into consideration. As the first Exodus 1s models get shipped and reviews get published on various websites, it’s going to be interesting to observe if being a first-class Bitcoin citizen comes with a tax on smartphone resources.
+
+The HTC Exodus 1s
+
+Better Than Hot Wallets, Not Quite Cold Storage
+
+Since every device that’s connected to the internet can be subject to remote hacking and the security of bitcoin is of paramount importance, bitcoiners need to be cautious when it comes to mobile solutions. With the integrated hardware wallet (which makes sure that keys get stored on a physical, encrypted chip) and the full node functionality (which increases control and privacy), HTC Exodus 1s is a pioneer in the burgeoning field of Bitcoin-friendly devices. Thanks to its hardware and software features, it grants bitcoiners the kind of security and privacy that no other smartphone manufacturer has offered.
+
+From a security point of view, the integrated hardware wallet is the equivalent of a Ledger or Trezor that’s always plugged into an internet-connected computer. It’s safe from remote attacks but not completely infallible and still exposed to malevolent physical tampering. In the event of having the phone stolen by a knowledgeable hacker, the security chip might be hackable — just as in the case of the wallet.fail demonstrations. Yet until thorough security reviews get published, the scenario is just cautious speculation.
+
+Chen told Bitcoin Magazine, “Our main aim is to provide as close to the security of cold storage as we can, married with the usability and speed of a hot wallet. You can’t be both, but there’s a good balance to be struck and we want people to own their own keys and still be able to use their crypto the way it was intended.”
+
+An Improvement on Lawrence Nahum’s ABCore
+
+Blockstream Chief Architect Lawrence Nahum is well-known for his ABCore project, which allows any Android phone to run a full Bitcoin node by downloading and installing a simple app. His idea to run the node on pocket devices has been expanded and developed by Exodus 1s, as HTC has also endowed the phones with hardware wallets.
+
+According to Chen, the company’s new device is a collaborative effort to which Nahum has provided “a lot of consultation, support and help to our efforts. We’d like to thank Lawrence and continue to work with him and Blockstream on these efforts.” Therefore, it’s safe to assume that the Zion app takes a few lessons from ABCore and makes the interface friendlier for the regular costumers who may not be power users.
+
+From an engineering perspective, it’s going to be interesting to observe how HTC has improved the battery and memory usage issues that early ABCore versions encountered. Does the node synchronize faster while the phone is charging? Does the Zion app run in the background while the user is sleeping? Is there a special setting which prevents the full node from draining too much battery or clogging the RAM? All of these technical aspects will either make or break the entire concept, since casual bitcoiners probably won’t like the idea of a slower phone which needs charging more often (at least during the initial sync).
+
+An Affordable Retail Product That Runs a Full Bitcoin Node
+
+At 219 euro (~$244 USD), the Exodus 1s is even cheaper than some “Bitcoin node in a box” solutions. The device comes with all the features of a 2019 entry-level to mid-range smartphone (5.7 inch HD display, 4 GB of RAM, Snapdragon 435 processor, 64 GB internal storage, 13 MP main and front cameras, dual SIM support, headphone jack, and 3000 mAh battery), but adds its combination of software and hardware wallet integration.
+
+The HTC Exodus 1s will go on sale on October 19, 2019, only in Europe, Taiwan, Saudi Arabia and UAE. Participants who attend the Lightning Conference in Berlin will be able to purchase the device directly via Lightning Network payments. At press time, the price will be ~3 million satoshis.
+
+At this point, it’s unclear when the device will be available in the United States, Canada, Australia and other parts of the world where bitcoin isn’t restricted or banned by law. According to the official press release, “further territory launches will be announced at a later date.”
+
+HTC has been in the business of manufacturing electronics for over two decades and, at its peak, owned about 10 percent of the mobile phone market. Though their devices have seen a decline in popularity, the brand is still well known and this association with Bitcoin might be beneficial for both the enthusiastic niche of satoshi stackers and technology aficionados.
+
+This effort has the potential to marry two significant market segments and bring about greater Bitcoin adoption. In the meantime, the project will help avid bitcoiners who live an active lifestyle and make lots of daily transactions benefit from greater security and quicker validations from a full node of their own. Either way, the Bitcoin market needs products like the HTC Exodus 1s to push innovation and offer healthy competition to companies that charge $300 for a node.

@@ -1,0 +1,39 @@
+DATE:  03.03.2019, 02:20:31
+TITLE: How to Use Multisig to Keep Your Coins Ultra-Safe
+URL:   https://news.bitcoin.com/how-to-use-multisig-to-keep-your-coins-ultra-safe/
+
+How to Use Multisig to Keep Your Coins Ultra-Safe
+
+Multi-signature, or multisig, is a wallet configuration that requires at least two keys to authorize a transaction. Commonly used by cryptocurrency exchanges to ensure funds can’t be moved by a rogue employee, multisig also has applications for end-users. If you’re seeking to enhance the security of your noncustodial bitcoin wallet, multi-signature might be the answer.
+
+Also read: Everything You Should Know About Bitcoin Address Formats
+
+The Quest for the Perfect Custody Solution
+
+There’s no such thing as the perfect bitcoin wallet. Hardware wallets can be opened under duress. Paper wallets can perish. Mobile wallets can get lost. And then there’s custodial wallets, which are never more than an exchange hack or exit scam away from being drained. But there’s one solution that combines some of the best elements of custodial and noncustodial wallets.
+
+A multisig wallet requires at least two key signatures to authorize a transaction. This means you will have to trust another party. Unlike storing funds on an exchange, however, you get to choose the identity of that third party, and even if that keyholder should betray you, they will unable to unilaterally access your funds.
+
+P2SH is the address standard commonly used for BTC multi-signature wallets. Numerous wallet providers support this standard, several of whom provide detailed information on how to use their software to set up a multisig wallet. Before you get started, you’ll want to consider how many keys you wish to authorize. The are numerous permutations available, ranging from 1-of-2, in which either party can sign transactions, to the more common 2-of-3, which is popular with escrow-based services such as Localbitcoins, and 3-of-5, which is commonly used by exchanges to secure their hot and cold wallets.
+
+Electrum
+
+The most popular desktop bitcoin wallet, Electrum is a feature-rich and trusted open source wallet that’s been around for years. It supports integration of hardware wallets such as Ledger and Trezor, and Electrum provides a clear tutorial on how to create a 2-of-2 multisig wallet. The Electron Cash wallet developed by Jonald Fyookball is a fork of Electrum which also offers 2-of-2 multisig options for bitcoin cash users.
+
+Armory
+
+Armory is an open source BTC wallet for advanced users that supports up to 7-of-7 multi-signatures. It’s ideal for setting up a multisig wallet where funds are likely to be placed in cold storage for a long time, and access will be infrequent. Armory is available as a desktop build only.
+
+Casa
+
+For users who like the idea of multisig, but aren’t confident with the technical or trust elements that the setup demands, there is another option: outsource the task altogether. Casa offers Keymaster, a multisig service that entrusts one of the keys to Casa themselves. Their “Sovereignty-as-a-Service” offering comes with a price – the 2-of-3 multisig starts at $300 per year, rising to $1,800 a year for 3-of-5. For individuals and entities holding large amounts of cryptocurrency, however, the added peace of mind that this provides may be worth the price.
+
+There are numerous other wallet providers that support multisig for BTC, BCH, and other leading cryptocurrencies. Do your research, determine your desired M-of-N signatures and then choose your fellow keyholders wisely.
+
+What are your thoughts on multisig – have you tried using it to secure your coins? Let us know in the comments section below.
+
+Image credits: Shutterstock, Casa, and Electrum.
+
+Disclaimer: Bitcoin.com does not endorse nor support these products/services.
+
+Readers should do their own due diligence before taking any actions related to the mentioned companies or any of their affiliates or services. Bitcoin.com is not responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

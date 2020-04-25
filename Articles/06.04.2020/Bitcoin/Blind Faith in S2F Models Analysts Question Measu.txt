@@ -1,0 +1,49 @@
+DATE:  06.04.2020, 19:10:36
+TITLE: Blind Faith in S2F Models: Analysts Question Measuring Bitcoin's Price With Stock-to-Flow
+URL:   https://news.bitcoin.com/s2f-models-analysts-question-stock-to-flow/
+
+Blind Faith in S2F Models: Analysts Question Measuring Bitcoin's Price With Stock-to-Flow
+
+One of the most bullish charts for predicting the price of bitcoin is the infamous stock-to-flow (S2F) model. The S2F analysis shows the price of BTC could reach $55,000 in the near future. One advocate of the S2F model, the Twitter account known as ‘Plan B,’ wrote a report about the subject and the article was extremely popular and translated into multiple languages. However, skeptics believe the S2F model is faulty and it’s most prominent supporter has said S2F is not entirely accurate, but “an order of magnitude right.”
+
+Also read: Evidence Shows Politicians and Wall Street CEOs Expected the Market Crash Well Before Covid-19
+
+Can We Measure Bitcoin’s Value with Scarcity? Stock-to-Flow Model Suggests Its Possible
+
+There have been hundreds of bitcoin price predictions over the last decade, but most of them stem from people pulling numbers out of thin air. Even when a myriad of analysts and crypto luminaries pick digital currency prices out of a hat and get it wrong, no one really cares. Although, there are a few models and charting techniques that many strategists and traders wholeheartedly believe in, like the signals from Bollinger Bands and Elliott Wave Theory. The analyst known as Plan B (@100trillionusd) has popularized the stock-to-flow (S2F) model, which measures the price of BTC using the number of coins in circulation and the flow or issuance rate. Plan B’s editorial called “Modeling Bitcoin’s Value with Scarcity” has gone viral and has been translated into a variety of different languages.
+
+Essentially, S2F divides abundance with demand by treating BTC like commodities such as gold or platinum. So any analyst can use the model to evaluate the current BTC in circulation against the number of coins mined during a specific year. The bitcoin halvings, the period of time when the block rewards are cut in half, play a crucial role in the S2F model. Because the halvings make it harder for miners to stock crypto inventory the division of this rate by the value of measured abundance. Bitcoiners didn’t make the S2F model as it’s been used for quite some time with gold, the commodity with the most S2F ratio. In Plan B’s research article, he notes that bitcoin is the “first scarce digital object the world has ever seen [and] it is scarce like silver & gold, and can be sent over the internet, radio, satellite etc.”
+
+“I calculated bitcoin’s monthly SF and value from Dec. 2009 to Feb. 2019 (111 data points in total),” Plan B wrote in his report. “Number of blocks per month can be directly queried from the bitcoin blockchain with Python/RPC/bitcoind. Actual number of blocks differs quite a bit from the theoretical number because blocks are not produced exactly every 10 minutes (e.g. in the first year 2009 there were significantly less blocks). With the number of blocks per month and known block subsidy, you can calculate flow and stock.” Plan B further states:
+
+I corrected for lost coins by arbitrarily disregarding the first million coins (7 months) in the SF calculation. More accurate adjusting for lost coins will be a subject for future research.
+
+Plan B’s S2F Model Predicts Bitcoin’s Price Will Touch $55K – Skeptics Say S2F Model Surrenders People to Beliefs of the Crowd
+
+Plan B’s report concludes that the “[S2F model predicts a bitcoin market value of $1 [trillion] after next halving in May 2020, which translates in a bitcoin price of $55,000.” However, not everyone thinks the S2F model is accurate and a number of skeptics have attempted to invalidate the S2F concept in relation to bitcoin’s price.
+
+A recent report published on April 1, by the Seattle-based crypto hedge fund called “Lost in Space – Bitcoin and the Halving,” describes why SF2 econometric models are too simplistic. The firm Strix Leviathan details halving theories and stock-to-flow models could be false narratives as the report underlines that people should “not [exert] blind faith in one specific outcome.”
+
+“Doing so leaves one’s investment subject to the whims and beliefs of the crowd while surrendering returns to the randomness of luck,” wrote Strix Leviathan portfolio manager Nico Cordeiro.
+
+Despite the covid-19 effects on the global economy, BTC prices were initially affected on March 12 (the price dipped to $3,800 per coin) otherwise known as ‘Black Thursday,’ but prices have since risen back above the $7K zone. On April 5, Plan B tweeted a quote from the 19th-century British logician, Carveth Read, which admits predictions are not always correct all the time. The tweet said “‘It’s better to be approximately right than exactly wrong’ – Carveth Read. [The] S2F model is not dead accurate, but an order of magnitude right.” The analyst’s S2F model for bitcoin has been criticized on numerous occasions and especially after the coronavirus shocked the world’s financial system.
+
+‘Stock-to-Flow Does Have a Significant Influence on USD Price of Bitcoin,’ Says Report
+
+Still, numerous people believe the S2F model might not exactly accurate, but pretty damn close. Another report published on March 27 tries to invalidate the statistics behind the S2F model, but the report rejects the theories that S2F doesn’t have an important role. “Whilst many tests have been able to be shown to be incorrect or have series errors, we have been able to reject the hypothesis that stock-to-flow does not have an important non-spurious influence on the US dollar price of Bitcoin,” explains the analysis called “Stock-to-Flow Influences on Bitcoin Price.”
+
+#Bitcoin #s2f coefficient from ARDL info gives us a more conservative range than the OLS or VECMs. pic.twitter.com/SZlMuhWvhK — Nick☣ (@btconometrics) April 3, 2020
+
+“The bounds test for a level relationship in the ARDL model provides very robust evidence to reject the null hypothesis and conclude that stock-to-flow does have a significant influence on the U.S. dollar price of bitcoin,” the report concludes.
+
+Despite some criticism from crypto Twitter and other researchers, Plan B still seems confident in his model. “So BTC has been oscillating around S2F value of $7,000 for 2.5 years now,” Plan B tweeted. “Just like before 2016 halving ($300) and before 2012 halving ($6). Excited to see if we are going to add another zero after the halving in May,” Plan B remarked. The researcher also stressed a few days earlier on April 1:
+
+Both bitcoin S2F cross-asset model (based on gold, silver etc) and S2F time series model (historical price path) point to $1 [trillion]+ BTC market cap in 2020-2024 (red circle, where orange and blue line overlap). $1 [trillion]+ market cap translates into $55K+ BTC price.
+
+What do you think about the controversial S2F model? Let us know in the comments below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons, @100trillionusd, Medium, Twitter,
+
+Purchase Bitcoin without visiting a cryptocurrency exchange. Buy BTC and BCH here.
+
+Disclaimer: This article is for informational purposes only. It is not an offer or solicitation of an offer to buy or sell, or a recommendation, endorsement, or sponsorship of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

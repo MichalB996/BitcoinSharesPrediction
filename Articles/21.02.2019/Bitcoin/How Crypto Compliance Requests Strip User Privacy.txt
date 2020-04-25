@@ -1,0 +1,49 @@
+DATE:  21.02.2019, 23:45:58
+TITLE: How Crypto Compliance Requests Strip User Privacy
+URL:   https://news.bitcoin.com/how-crypto-compliance-requests-strip-user-privacy/
+
+How Crypto Compliance Requests Strip User Privacy
+
+Money transmitting services that enable users to switch from crypto to fiat are a valuable resource. There’s still a shortage of cryptocurrency off-ramps, and thus reliable services that offer a reasonable exchange rate are to be cherished. But the convenience that crypto debit cards and other crypto-fiat exchanging services offer comes at a high price in terms of privacy. In addition to KYC enforced upon signing up, users are often forced to “prove” their funds are clean, leaving them with a dilemma: consent to deep privacy invasions or have their account suspended.
+
+Also read: 8 Crypto Debit Cards You Can Use Around the World Right Now
+
+The High Cost of Compliance
+
+Money transmitting services, especially those that facilitate switching between crypto and fiat, are obliged to comply with strict anti-money laundering laws (AML) that include enforcing KYC and reporting suspicious transactions. Many cryptocurrency users loathe these acronyms, but accept them as a necessary evil to be able to switch between the fiat and crypto worlds at will.
+
+But as users of services such as Revolut and Wirex are discovering, the probing questions don’t always end upon sign-up. Should the customer trigger an origin of funds and wealth investigation, they will be obliged to lay bare deeply personal information pertaining to their financial and employment history or risk having their account suspended. Wirex’s own origin of funds document explains in no uncertain terms:
+
+Wirex Ltd (Wirex) is required by law to comply with strict anti-money laundering regulations (AML) and Know Your Customer (KYC) requirements in a bid to prevent criminals and terrorists from using its financial products/services and move around their money. Wirex is also required to understand the purpose and intended nature of the business relationship; this includes understanding where the customer’s funds and wealth come from.
+
+After a number of Wirex users complained of receiving such a document, news.Bitcoin.com spoke to the company to ascertain more about its AML and KYC policy.
+
+Wirex Explains Its Hands Are Tied
+
+Michael Moore is the Chief Compliance Officer for Wirex, whose Visa cards have proven popular with cryptocurrency users throughout Europe. The company has an e-money license, he explained, which is different to a banking license. An e-money license mandates less invasive information compared to opening a bank account, but that doesn’t preclude follow-up questions further down the line.
+
+Moore explained that as a UK regulated entity, Wirex is obliged to submit a source of wealth questionnaire to customers when certain individual triggers are met. While unable to disclose the exact threshold at which this might occur, he explained that there “could be a variety of different different scenarios. It could be one of transactions … it could be based on turnover, and it could be just an ongoing review of a specific customer based on the length of time that they’ve been with us.”
+
+Moore confirmed that, like many crypto exchange services, Wirex uses blockchain monitoring software that can flag when cryptocurrency has potentially been used in illegal activity such as a narcotics transaction on the darknet. He conceded, however, that blockchain analysis tools can’t generally prove that coins have been used to purchase illegal items – only that they may have emanated from a darknet marketplace. As such, any transactions flagged by the software would be assessed by Wirex on a case-by-case basis.
+
+Proof of Funds or GTFO
+
+The average Wirex customer will not be engaged in darknet activity, but they may have concerns about succumbing to enhanced scrutiny through regular crypto-fiat exchange. “We’re trying to find the right balance with regards to what information we have to take [from the customer],” said Michael Moore, “and obviously, the information is based upon regulatory requirements.” He noted that the service Wirex is offering is “relatively unique in the marketplace at the moment,” and in order to be able to maintain business, the company is obliged to satisfy certain requirements from a regulatory standpoint.
+
+When asked whether there was a good chance that most Wirex users would be asked to complete a source of funds questionnaire at some stage, Moore conceded that was likely. He did point out, however, that any such check would not be triggered at random, but rather in response to a specific event. A customer would typically be notified once they were within a few percentage points of hitting a certain limit, which would give them the opportunity to close their account, should they balk at completing a compliance request.
+
+Wirex’ origin of funds questionnaire requests customer documents that might include a payslip, a letter from their employer confirming their salary, audited accounts and, if the funds were received as a gift, a letter from the donor explaining the reason for the gift and the source of the donor’s wealth. When asked whether customers who earn their salary in cryptocurrency might be able to submit a blockchain transaction as proof of earnings, Moore explained that Wirex is conscious of the needs of the crypto space and that there are documented processes and controls that would take such individuals’ circumstances into account.
+
+Revolut and Others Operate a Similar Policy
+
+Wirex’s policy is little different from that of other crypto-fiat services. Revolut, for example, is another popular Visa card, although unlike Wirex, it doesn’t permit customers to deposit crypto: they can only store, spend and convert cryptocurrency they’ve bought directly in-app. Eric Wu, Head of Compliance Technology at Revolut, told news.Bitcoin.com that the company follows a model-driven internal policy for compliance. “Crypto is of a higher money laundering risk than other flows,” he asserted, adding:
+
+Revolut must have what’s called a “risk-based approach” to anti money laundering and terrorist financing. This means that it’s probably not a good idea to equate the risk inherent to £10 spent at Sainsbury to £10 spent on crypto. In this case, we create a per-transaction risk score. These build up over time for different customers depending on how they transact with us. That means that every user has their own unique transaction threshold.
+
+Like Michael Moore, Wu pointed out that “the requesting of source of funds and source of wealth is a standard across the industry.” Cryptocurrency users dislike enhanced KYC and AML, especially when the burden of proof lies on them to prove their funds are clean. If they wish to continue using crypto-fiat changing services, however, they’re left with little choice. Visa card providers such as Revolut and Wirex are circumspect about the conditions that might one day trigger an investigation. By all accounts, though, it appears that for many customers, that day won’t be a case of “if” but “when.”
+
+Have you ever been subjected to enhanced KYC and AML by a crypto-fiat service? If so, did you comply or did you take your business elsewhere? Let us know in the comments section below.
+
+Images courtesy of Shutterstock.
+
+Need to calculate your bitcoin holdings? Check our tools section.

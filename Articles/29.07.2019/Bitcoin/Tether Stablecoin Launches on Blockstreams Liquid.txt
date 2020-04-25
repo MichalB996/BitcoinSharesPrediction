@@ -1,0 +1,31 @@
+DATE:  29.07.2019, 16:00:10
+TITLE: Tether Stablecoin Launches on Blockstream’s Liquid Sidechain
+URL:   https://www.coindesk.com/tether-stablecoin-launches-on-blockstreams-liquid-network-sidechain
+
+A new version of the widely used but controversial stablecoin tether (USDT) is launching on Blockstream’s Liquid Network.
+
+Announced Monday, the addition of the token to Liquid’s bitcoin sidechain network, launched last October, will offer bitcoin traders and companies new features that are not available via Tether Ltd.’s original platform.
+
+Liquid was designed as an additional layer to the bitcoin blockchain to offer the ability to transact large volumes of transactions at a higher speed. At launch, a number of industry firms, including Tether’s sister firm Bitfinex, had already signed up to help manage and transact with the network using its bitcoin-pegged token L-BTC.
+
+With tether entering the network, it will now be possible to make atomic swaps between Liquid BTC and Liquid tethers, a feature that the firms say will offer lower counterparty risk for those carrying out OTC trades. Further, Liquid’s faster block times will allow traders to quickly complete transfers of fiat between exchanges, making more efficient arbitrage trades.
+
+As far as storing assets goes, Blockstream Green, the firm’s wallet offering,​ will allow holders to store Liquid USDT when idle and move them to exchanges when trading. The wallet app was revamped in March to offer new features including multi-signature security and privacy over the Tor network.
+
+Previously a bitcoin wallet, Green was updated earlier in July to support Liquid bitcoin and issued assets.
+
+The press release also suggests the Trezor hardware wallet will “soon” support the assets.
+
+“It has been a natural decision to deploy Tether on the Liquid Network given the fantastic work that the Blockstream team is achieving,” said Paolo Ardoino, CTO at Tether and Bitfinex. “Issuing stablecoins, and various other digital assets under one blockchain platform makes a lot of sense and greatly improves industry efficiency whilst allowing traders to manage all their assets from a single wallet application.”
+
+Looking further ahead, the firms say that with the potential launch of lightning network support for tether, “instant, low-cost stablecoin payments” could be on the way. Lightning can already be used to make Liquid-based payment channels.
+
+With the launch, Liquid USDT will be supported for deposits and withdrawals at Bitfinex​, while Liquid member firms are working to add the token, according to a press release.
+
+Samson Mow, CSO at Blockstream, said:
+
+“The addition of Tether is a major milestone in increasing the utility of the Liquid Network. In combination with the latest developments in the Liquid ecosystem, traders can now achieve some really cool things, such as OTC atomic swaps, super-fast arbitrage between exchanges, and easy Tether custody with Blockstream Green.”
+
+While Tether aims to peg the USDT token’s value to the U.S. dollar, the firm’s lawyer recently acknowledged that, in fact, the stablecoin was only about 74 percent backed by fiat equivalents as of April 30. Tether and Bitfinex are currently embroiled in a legal dispute with New York’s attorney general.
+
+Adam Back image via CoinDesk archives

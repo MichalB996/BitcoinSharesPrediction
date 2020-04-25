@@ -1,0 +1,37 @@
+DATE:  21.01.2020, 04:30:02
+TITLE: Bitcoin.com Releases SLP Indexer Server for High Performance Token Services
+URL:   https://news.bitcoin.com/bitcoin-com-releases-slp-indexer-server-for-high-performance-token-services/
+
+Bitcoin.com Releases SLP Indexer Server for High Performance Token Services
+
+Bitcoin.com is releasing the open source SLP Indexer Server for validating Simple Ledger Protocol tokens as part of its commitment to the development of the token ecosystem. The tool is designed to make SLP token transactions perform as fast as BCH and empower developers to create even greater projects on the Bitcoin Cash network.
+
+Also Read: How to Create Custom SLP Tokens With the Bitcoin.com Mint
+
+Bitcoin.com Introduces SLP Indexer to Developers
+
+Bitcoin.com SLP Indexer is a tool that can validate an unconfirmed SLP transaction in around 1 ms. The software has been running in production for months already, powering the new Bitcoin.com Wallet back-end. Today, Bitcoin.com announced it has decided to release SLP Indexer in open source for the Bitcoin Cash community, available on Github.
+
+For a complete description of the underlying algorithm, developers can check out this blog post on Read.Cash written by Bitcoin.com CTO Emil Oldenburg with all the technical details. “We invite exchanges, wallets, gaming platforms, and SLP supported applications to try this out. We’re confident in its ability to scale to your business needs,” he states.”We built this with scalability and speed in mind. We need SLP tokens to feel as fast and snappy as normal BCH transactions. User experience is everything.”
+
+The developers explain that this software is very easy to set up, runs on the popular database program Mongo DB and scales well. It consists of one application that validates SLP transactions and saves everything in Mongo DB, and one API application. The first part is called the Bitcoin.com SLP Indexer Service. The other part is a read-only REST API layer called Bitcoin.com SLP API. The SLP API service can scale linearly and is able to serve around 20,000 requests per second.
+
+The developers plan to run a full security audit this month to make sure the validator is fully compatible with other SLP validators out there. The software is written in Java and made from scratch with no dependencies on current Javascript-based SLP libraries. It’s using bitcoinj to connect to the BCH network and can run without dedicated full nodes. Only the SLP data is saved to the database, so the amount of data that remains on the server is small.
+
+Bitcoin.com will offer this as a cloud service and it will be a part of the company’s public REST API. Additionally, anyone who wants to run it themselves on their own servers can do so.
+
+The Simple Ledger Protocol Ecosystem
+
+If you are not yet familiar with this innovation, Simple Ledger Protocol (SLP) is an easy to use, robust and extensible token management system that allows anyone to create tokens on the Bitcoin Cash network in a permissionless way. It has helped the development of an ecosystem for BCH that replicates the variety of ERC20 tokens on the ETH network.
+
+SLP tokens can easily be created, traded, and managed on the Bitcoin Cash blockchain within seconds, while costing users only fractions of a penny for each transaction. All transactions are recorded onchain, and custom token behavior can be defined using a bitcoin Script development language.
+
+SLP token adoption has grown rapidly during the last year, with support integrated by the likes of Cybavo – a cybersecurity firm providing secure private key management to some of the biggest exchanges in the world. This is in part thanks to Bitcoin.com Exchange which has started listing SLP tokens for trading on its platform. These include assets such as Gocrypto’s GOC, a token that enables online or physical merchants to accept crypto payments and receive settlement in their local fiat currency.
+
+Other examples of SLP-based token adoption are the launch of an SLP token called ACD issued by the Tokyo-based ANA Holdings subsidiary Alliance Cargo Direct, and the team behind Honk funding a new sports betting platform via the issuing of a SLP token. More than 6,400 tokens have been created using the SLP framework so far.
+
+What do you think about Bitcoin.com releasing this open source software for better indexing SLP tokens on Bitcoin Cash? Share your thoughts in the comments section below.
+
+Images courtesy of Shutterstock.
+
+Verify and track bitcoin cash transactions on our BCH Block Explorer, the best of its kind anywhere in the world. Also, keep up with your holdings, BCH and other coins, on our market charts at Bitcoin.com Markets, another original and free service from Bitcoin.com.

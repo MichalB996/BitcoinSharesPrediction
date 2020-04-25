@@ -1,0 +1,41 @@
+DATE:  11.07.2019, 20:30:14
+TITLE: Expert Witness in Satoshi Case Claims Dr Wright's Documents Were Doctored
+URL:   https://news.bitcoin.com/expert-witness-in-satoshi-case-claims-dr-wrights-documents-were-doctored/
+
+Expert Witness in Satoshi Case Claims Dr Wright's Documents Were Doctored
+
+The Kleiman v. Wright case continues this week and a slew of new evidence has been submitted to the Southern District of Florida courthouse. A supplemental affidavit stemming from the Kleiman estate’s expert witness, Dr. Matthew Edman, indicates that documents submitted to the court as evidence were “modified” and “backdated.”
+
+Also Read: Bitcoin Cash Scaling Benchmarks, Brewdog, and Rising Transaction Volume
+
+Plaintiff’s Analysis of Documents Shows David Kleiman’s PGP Signature Was Created Almost a Year After He Died
+
+A transcript of an affidavit was recently submitted to the Kleiman v. Wright (9:18-cv-80176) court case, which shows that an expert witness found many flaws within certain documents filed in the case. The billion-dollar bitcoin lawsuit is one of the most high profile court cases in the U.S. because it involves 1 million BTC and self-proclaimed ‘Bitcoin inventor’ Craig Wright. Since December 2015, the crypto community has endured Wright’s repeated claims to be Satoshi Nakamoto. However, nearly every claim and every so-called proof Wright has provided has been debunked by researchers, cryptographers, and the greater crypto community. Many of the refutations against Wright’s story accuse him of providing backdated documents and proofs that have been modified at a later date. From the very beginning of Wright’s entrance into the community, his story has been suspected of being a falsified tale or hoax. On December 9, 2015, Vice reporter Sarah Jeong detailed that the “PGP keys referenced in stories naming Craig Wright as the creator of Bitcoin were probably falsely backdated.”
+
+Fast forward to today and Craig Wright is being sued by Ira Kleiman, the brother of the now deceased David Kleiman, for allegedly interfering with David’s bitcoin assets and intellectual property after he died. The first filing shows the value of the assets the Kleiman family thinks David was screwed out of is around $5.1 billion before punitive or treble damages. This week, an affidavit was submitted to the court that shows the testimony of the Kleiman estate’s witness, Dr. Matthew Edman, a cryptography expert.
+
+As other have mentioned, Bitmessage wasn't even publicly available until November 12th 2012. Furthermore, the only visible address is a v4 address (as it begins with 2c) and those didn't even exist until about mid-2013. — Peter Šurda (@PeterSurda) July 4, 2019
+
+According to Edman’s resume submitted to the court, he has a deep knowledge of digital forensics, applied cryptography, Shamir’s Secret Sharing Scheme, and cryptocurrencies. Edman’s testimony examines an email that was submitted to the court as “Exhibit A.” Edman declares under penalty of perjury that he believes Exhibit A was likely created from an email Wright sent to himself on or about April 16, 2014. The document was then “converted to a PDF and modified to appear to have been sent from ‘Dave Kleiman’ to Uyen Nguyen on or about December 20, 2012.” The expert’s testimony further states:
+
+I also determined that Exhibit A contained a PGP signature allegedly created by Dave Kleiman on or about March 12, 2014 – almost a year after he died.
+
+A Trend of Modifications
+
+Edman states that he analyzed Exhibit A previously and further analysis and forensic artifacts contained within the PDF itself bolster his opinion. The digital forensics expert said that he also examined “Exhibit F” and concluded that the document was “created by further modifying Exhibit A to make it appear as if Exhibit F is actually a separate email sent from Dave Kleiman to Uyen Nguyen.” “In my opinion, it is simply another revision to the PDF created from an email the defendant sent to himself on or about April 16, 2014,” Edman emphasized in his testimony. The witness’s affidavit declares that both Exhibit A and Exhibit F appear to be emails sent from David to Uyen Nguyen back in 2012, but “manipulations of a PDF created from an email” indicate that Wright sent it to himself in the spring of 2014. Edman noted that he understands that Exhibit A was withdrawn from the court because Wright could not “verify the date of that email exchange,” but to his knowledge Exhibit F was not withdrawn.
+
+Edman goes on to explain that the metadata tied to the first exhibit’s PDF shows that it was created on or about April 17, 2014. The creator used the Acrobat PDF Maker 11 for Microsoft Outlook and Edman highlights that the computer’s time zone was consistent with Sydney, Australia (UTC+10) and then modified again five minutes later. Further analysis of the internal contents and structure of the document identified specific portions of the PDF were edited and revised. He further determined that Exhibit F was also comprised of modifications to the date field and revisions to the body of the document as well. Speaking on Exhibit A’s analysis Kleiman’s expert witness explained:
+
+I identified a “TouchUp_TextEdit” marked-content point in the PDF file associated with Exhibit A which indicated that the text associated with the “From:”, “To:”, and “Date:” fields at the top of Exhibit A were edited.
+
+The crypto community has not been kind about the latest documents and Edman’s affidavit has been shared widely across social media mocking Wright. The attorney Stephen Palley who often comments on cryptocurrency related lawsuits stated “you can’t really attack [Edman’s] credentials and the analysis looks sound.” “You have to show an alternative explanation — they should settle,” Palley added. The public will still hear from Wright’s expert witnesses which include Brett Roberson, Kevin Madura, and Nchain’s CTO Steve Shadders.
+
+In addition to the court case drama last week, news.Bitcoin.com reported that Martti Malmi said on Twitter that he might take action against Wright for accusing him of starting the “Silk Road, Hydra and a number of other darker websites.” “Taking a closer look to the transcript, Craig Wright is accusing me and Theymos of soliciting drug trade, assassinations, terrorism and child porn — That is too much to be ignored,” Malmi told the public. Following the accusations against Malmi, the owner of Bitcointalk.org, Theymos, also refuted Wright’s court claims against him stemming from the June 28 transcript. “I was made a forum admin in 2011 after Satoshi left,” Theymos insisted.
+
+“I never had any interaction with CSW — CSW’s whole shtick is to just lie constantly,” the forum moderator conceded. “He’s so brazen about it that some people think, ‘there must be some truth there,’ but really it’s 100% nonsense.”
+
+What do you think about the Kleiman v. Wright lawsuit involving billions of dollars worth of bitcoin? Let us know what you think about this subject in the comments section below.
+
+Image credits: Shutterstock, Courtlistener, Twitter, Florida Case Kleiman v. Wright (9:18-cv-80176), Vice, and Pixabay.
+
+Are you feeling lucky? Visit our official Bitcoin casino where you can play BCH slots, BCH poker, and many more BCH games. Every game has a progressive Bitcoin Cash jackpot to be won!

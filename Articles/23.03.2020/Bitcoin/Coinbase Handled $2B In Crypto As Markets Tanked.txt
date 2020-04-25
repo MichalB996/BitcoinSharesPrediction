@@ -1,0 +1,19 @@
+DATE:  23.03.2020, 03:49:06
+TITLE: Coinbase Handled $2B In Crypto As Markets Tanked
+URL:   https://www.pymnts.com/blockchain/bitcoin/2020/bitcoin-daily-coinbase-handled-2b-in-crypto-as-markets-tanked/
+
+San Francisco crypto exchange Coinbase saw a spike in traffic and a surge of $2 billion during one 24-hour period amid the chaotic strife of the coronavirus-ridden markets.
+
+According to Coinbase CEO Brian Armstrong, the exchange saw a $2 billion increase in crypto processing last Thursday and Friday, which was a 50 percent increase over the exchange’s usual rates — it reported $394 million over the last 24 hours.
+
+Armstrong said the firm had been ready for a crisis, having prepared for several years. Other crypto companies have struggled with outages, market deficiencies and other issues. Armstrong has been publishing a blog series with updates on the steps Coinbase has taken in response to the pandemic.
+
+Head of engineering Jesse Pollak said the firm was focused on multiple things such as the exchange’s matching engine and consumer products like the API, which helped it remain solid in times of turmoil.
+
+Pollak said the company had used horizontal scaling on the database side of things, spacing out its databases to allow for more reads while still letting writes continue unimpeded. That means the firm can view data on its servers and also add new data without slowing things down as transactions continue.
+
+As the traffic surges for Coinbase, the firm has to deal with the same new issues every company is facing, like remote-work orders and the state-mandated lockdown order put into place last week in California, where the firm is based.
+
+Pollak said the remote-work order had been managed so far through the use of chat rooms and automated alerts. He said if the company saw that sales were spiking, they’d have people ready and waiting in a chat room, monitoring things in real time.
+
+Pollak said that the scaling process had been “really freaking hard,” crediting the success last week to the hard work of Coinbase’s team. The complexity of trading platforms, he said, meant that some mistakes were bound to happen, but he was glad that hadn’t been the case for Coinbase so far.

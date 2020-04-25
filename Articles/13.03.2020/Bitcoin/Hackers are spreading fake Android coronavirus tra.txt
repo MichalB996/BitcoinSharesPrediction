@@ -1,0 +1,27 @@
+DATE:  13.03.2020, 12:18:04
+TITLE: Hackers are spreading fake Android coronavirus trackers to steal your Bitcoin
+URL:   https://thenextweb.com/security/2020/03/13/hackers-are-spreading-fake-android-coronavirus-trackers-to-steal-your-bitcoin/
+
+While the world is in panic mode with coronavirus being declared a pandemic, hackers are busy exploiting the situation to steal money and data from concerned users.
+
+After using maps tracking COVID-19 to install malware into PCs, hackers are now spreading fake coronavirus tracking Android apps to fool people into downloading ransomware.
+
+Researchers from the security firm DomainTools found that there has been an uptick in domain name registration related to coronavirus. During its research, the team found that a pericular website — coronavirusapp[.]site — is prompting users to install an Android application to help them track updates on coronavirus pandemic.
+
+[Read: Coronavirus domains 50% more likely to infect your system with malware]
+
+However, the app is a front for a ransomeware called CovidLock, which changes the lock screen password, and asks users to pay $100 in BitCoin to unlock it.
+
+The site is quite deceptive and claims that the app has been certified by the World Health Organization (WHO) and the Centers for Disease Control and Prevention (CDC); the hackers also falsely claim the app has received over 6 million reviews, and boasts a rating of 4.4 stars. The app description says it can send you an instant notification when a COVID-19 patient is near you:
+
+Get Instant Notification when a Coronavirus Patient is Near You, View local coronavirus outbreak status in an easy to navigate app with data pulled directly from the Centers for Disease Control and Prevention (CDC) and the World Health Organization (WHO).
+
+Once you install the app, it asks you for various permission including access to your lock screen.
+
+Looking at the content bundled with malware and SSL certificate of the site, the research team from DomainTool suggested hackers behind this scam are connected to other pornographic swindles and Android malware strikes.
+
+The company said thankfully it appears the ransomware hasn’t spread widely, and there haven’t been any cases of people giving out their money.
+
+Right now, the best steps to ensure your safety are to avoid scammy coronavirus related domains and only install apps from the Play Store.
+
+Read next: A love letter to Rocksmith, the *real* Guitar Hero

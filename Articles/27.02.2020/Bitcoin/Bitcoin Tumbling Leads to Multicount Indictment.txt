@@ -1,0 +1,39 @@
+DATE:  27.02.2020, 07:00:22
+TITLE: Bitcoin Tumbling Leads to Multicount Indictment
+URL:   https://securityboulevard.com/2020/02/bitcoin-tumbling-leads-to-multicount-indictment/
+
+Is the practice of tumbling or mixing bitcoin actually illegal? That’s a tricky question
+
+Larry Dean Harmon of Akron, Ohio, operated a company called Helix which, together with the DDW marketplace AlphaBay, operated as a market to permit people to use cryptocurrency to buy, well, pretty much anything they wanted to on the Deep Dark Web. While the feds shut down the online marketplace AlphaBay months ago, the question about what the government would do with Helix remained unanswered. Until now.
+
+The indictment returned in the District of Columbia in December alleges that Harmon owned and operated a darknet search engine called Grams and what the grand jury called a “money-laundering and money transmitting business” (Helix). According to the DoJ press release issued along with the indictment, “Helix functioned as a bitcoin ‘mixer’ or ‘tumbler,’ allowing customers, for a fee, to send bitcoin to designated recipients in a manner that was designed to conceal the source or owner of the bitcoin.” The DoJ went on to say its position: “… seeking to obscure virtual currency transactions in this way is a crime. …” The charges assert that Helix moved more than 350,000 bitcoin on behalf of customers, with the FBI noting, “The perceived anonymity of cryptocurrency and the Darknet may appeal to criminals as a refuge to hide their illicit activity …”
+
+Is Tumbling/Mixing Illegal?
+
+Many people are drawn to cryptocurrencies for investment purposes, while others for the perceived ease of use of transfer or to purchase digital goods and services. Some are drawn to cryptocurrencies because of the perceived anonymity they provide—no traditional bank account needed to use it. And, of course, there are those who are drawn to cryptocurrencies because they want to purchase or sell things that they don’t want to be tracked by governments. That’s why cryptocurrencies are the payment method of choice for drug dealers and those who sell child porn or other illegal commodities. Anonymity is critical for many of these transactions on the DDW.
+
+The problem is, cryptocurrency is not as anonymous as one might think. Think of it as “sort-of” anonymous. Since cryptocurrencies use blockchain ledgers that are public, individual transactions are public and traceable. That’s the whole point. But what they don’t have is information about the sender or recipient. Well, not directly. But if you combine data analytics, DDW research and a bit of detective work, you might be able to figure out not only who owns or operates a cryptowallet, but also how it has been used. In fact, all transactions over the bitcoin network are completely transparent and traceable by anyone. It’s typically this complete transparency that allows multiple bitcoin addresses to be clustered together and be tied to the same user. Therefore, if just one of these clustered addresses is linked to a real-world identity through one or several of the other de-anonymizing methods, all clustered addresses can be discovered.
+
+That’s where cryptomixing and cryptotumbling come in.
+
+When you tumble cryptocurrencies, you essentially take bitcoin from several different wallets, combine them, redistribute them into different wallets and then do it again. Essentially, tumblers take a set of bitcoins and return another set of the same value (minus a processing fee) with different addresses and transaction histories, thus effectively “laundering” the coins. Tumbled cryptocurrencies lose many of the attributes that make untumbled cryptocurrencies traceable. As a result, tumbling works a lot like TOR itself: It doesn’t really anonymize the transaction; it just makes it more difficult to trace because it washes it through multiple transactions. Even tumbled transactions can be “untumbled” if you have the time, the patience, the data and the processing power. Services that operate legally must keep detailed records of how the coins were mixed, which could later be hacked or subpoenaed. The more mixing you do, the less likely that your mixing could be reverse-engineered.
+
+Is Mixing Legal?
+
+Hmm … it depends. First, it is not illegal to engage in financial transactions designed to conceal the source or destination of funds, although most people think it is. What is illegal is to engage in certain “money laundering” activities with the proceeds of certain “specified unlawful activities.” The statute specifically makes it a crime to conduct a financial transaction that involves the proceeds of specified unlawful activity with the intent to promote the carrying on of the unlawful activity to conceal or disguise the nature, the location, the source, the ownership or the control of the proceeds of specified unlawful activity or to avoid a reporting requirement. So the crime is concealing the source or ownership of money if you know it’s illegal money and you are trying to conceal that fact, promote the underlying crime or avoid a currency reporting requirement.
+
+So whether washing, mixing or tumbling is a crime depends on where the cryptocurrency is coming from. Some studies indicate that only 16% of the funds entering mixers came directly from illicit sources. There are lots of reasons that individuals and companies may want to conceal—and particularly to conceal from public view—what they are spending and on what they are spending it.
+
+Given the relationship between Helix and AlphaBay (and other DDW marketplaces such as Agora Marketplace, Nucleus and Dream Market) that facilitate the sale of drugs or other illegal commodities, the government might be able to show that Harmon was knowingly facilitating criminal enterprises. Indeed, if you look carefully at the indictment, Harmon is charged with money laundering to facilitate the buying and selling of controlled substances. So the government will have to show that Harmon knew that the cryptocurrencies he was tumbling actually were used to buy illegal drugs.
+
+Money Transmitting Business
+
+In addition to being charged with “money laundering,” Harmon was charged with operating an unlicensed D.C. money transmitting business. Both federal and state laws (in many jurisdictions) requires “money transmitters” to be licensed. A money transmitter is defined generally as a person who “engages as a business in accepting currency and transmits the currency by any means through an electronic funds transfer network or any person engaged as a business in the transfer of funds.” And funds have been interpreted as cryptocurrencies.
+
+So is Harmon a “money transmitter?” He accepts funds. He moves them from one account to another. But at the end of the day, the money (for a fee) doesn’t go from one person to another. It goes from one person through another back to the originator. I get my own money back. The intermediaries get the money temporarily. One could argue that the service is not transferring money as much as it is anonymizing money that’s already there. The money ends up in the hands of the originator.
+
+That’s why these cases are difficult.
+
+So we recognize that most bitcoin tumblers are acting to help people conceal perfectly legitimate money for reasons of anonymity, not criminality. While the federal government wants to regulate them as money transmitters, that’s not really the purpose of the tumbling. So we will see whether this is considered a crime in the future. Until then, we proceed at our own risk.
+
+— Mark Rasch

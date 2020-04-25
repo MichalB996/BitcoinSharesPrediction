@@ -1,0 +1,33 @@
+DATE:  09.12.2019, 22:02:29
+TITLE: Op Ed: Bringing DeFi to Bitcoin Opens Up New Frontiers
+URL:   https://bitcoinmagazine.com/articles/op-ed-bringing-defi-to-bitcoin-opens-up-new-frontiers
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+Decentralized finance (DeFi), while still in its early days, promises to redevelop critical financial services in a way that is trustless, transparent and controlled by the consumer. This has major implications for people across the world with limited access to financial services but also to crypto traders and savvy investors who are looking for new tools and new ways of finding an edge. DeFi covers any conventional financial tools built on a blockchain, but in its present forms, almost all have been built on Ethereum. This has been a major limitation but one which presents interesting opportunities to propel the DeFi industry forward.
+
+Bitcoin: The New Frontier of DeFi
+
+Most DeFi platforms have so far failed to cater to other well-known digital assets, bitcoin among them. Nevertheless, bitcoin remains the most held, popular, recognizable and liquid cryptocurrency in the world, putting it in a strong position to compete for some financial products that would benefit from a more trustless approach — like lending.
+
+According to DeFi Pulse, about $446 million is currently locked in decentralized lending, of which approximately $320 million is locked in ETH, $20 million is locked in Maker’s stablecoin, DAI, and a mere $1.1 million is locked in BTC. This can mostly be attributed to two factors: the scarcity of non-Ethereum-based DeFi projects and the lack of secure bitcoin pegs that would allow bitcoin to move onto the Ethereum chain — making it near impossible for bitcoin holders to participate without having to trade their assets first.
+
+Meanwhile, Bitcoin’s market cap is over $130 billion and represents 66 percent of the total crypto market as of November 2019, meaning BTC is still the most popular, mainstream digital asset in the world. Bringing bitcoin to DeFi could, therefore, have a profound impact on the growth of DeFi tools, users and mainstream acceptance.
+
+Better Protection, Higher Liquidity
+
+Enter the concept of Collateralized Debt Positions (CDPs). Popularized by MakerDAO, CDPs enable crypto asset holders who want to take out crypto-backed loans to lock their assets into a vault and receive their chosen amount in the form of a stablecoin, typically pegged to USD. This minimizes price volatility, and holders simply need to repay their debt using that stablecoin to access their locked assets. This makes the whole process of taking out a loan simpler, more transparent and more efficient, which is attractive to crypto enthusiasts and mainstream investors alike.
+
+Bitcoin, however, remains an untapped asset when it comes to CDPs and DeFi more broadly. By bridging economies new and old, decentralized instruments rooted in traditional financial services and backed by recognizable assets like bitcoin could attract additional mainstream interest to the ecosystem. DeFi platforms could also act as a new entry point for the general public into the crypto marketplace, and as investment increases alongside adoption, all holders will benefit from a more stable market.
+
+Bitcoin and DeFi: Joining Forces for Greater Adoption
+
+As DeFi heads toward maturity, it will have to tackle its central pain points of scalability and usability. Nevertheless, the composability of DeFi products should allow the entire ecosystem to quickly progress, while cross-chain interoperability will encourage increased collaboration between DeFi and the cryptocurrency market.
+
+Technical progress in connecting Bitcoin to other chains has been advancing. Currently, the popular Wrapped Bitcoin on Ethereum enables bitcoin to be moved cross-chain through a set of trusted custodians. Bitcoin users lock up BTC with these custodians, who then mint ERC20 “WBTC” tokens on Ethereum. These tokens can then be used in various DeFi services.
+
+However, the use of trusted custodians poses a security and censorship risk. Recent work on the tBTC project addresses this risk, promising a fully decentralised solution where trusted custodians are replaced with a decentralized group of economically incentivised actors.
+
+Ultimately, there are benefits to both sides in a coming together of DeFi and Bitcoin — longtime crypto investors will have access to more advanced decentralized financial tools for managing their money, while DeFi projects open their platforms up to greater usage and adoption beyond the Ethereum ecosystem. It’s a joining of forces that has long been in the offing and promises to be the big push DeFi needs to go even further and faster in creating a new era of more efficient, affordable and secure financial services for the masses.

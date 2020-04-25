@@ -1,0 +1,53 @@
+DATE:  28.10.2019, 03:30:05
+TITLE: How Hard Is It to Brute Force a Bitcoin Private Key?
+URL:   https://news.bitcoin.com/how-hard-is-it-to-brute-force-a-bitcoin-private-key/
+
+How Hard Is It to Brute Force a Bitcoin Private Key?
+
+Trying to crack a private key with a brute force attack is a bit like trying to count to infinity: the sooner you begin, the faster you’ll never get there. Despite being as next to impossible as impossible gets, using a brute force attack to crack a bitcoin private key remains an intriguing idea for many.
+
+Also read: Mistakes Crypto Owners and Traders Should Avoid
+
+The Dream That Never Dies
+
+For math geeks, key cracking is a question of statistical probability and for hopeless dreamers, a question of ambition. Long shots capture the imagination of simple mammalian minds, and for those who wish to rage against the odds, the lottery is a game for the faint of heart – the finest display of sheer dumb mathematical bravery is in trying to brute force Bitcoin.
+
+On the Bitcointalk forum, a related thread from Jun 11, 2018, continues to garner replies to this day. In ‘BitCrack – A tool for brute-forcing private keys,’ board members disassemble the prospects of making a brute force breakthrough with software specially designed for that task, with the most sober minds strongly dismissing the quest as a wild goose chase.
+
+An early response from user Coin-1 politely attempts to dissuade anyone from proceeding any further: “Let’s calculate how much time you need to crack one Bitcoin-address on your machine. You said that your performance is 9 million BTC-addresses per second, i.e. approximately 223 BTC-addresses per second. Thus the brute forcing will take 2160-23 = 2137seconds! I guess it is more than septillion (1024) years!”
+
+On an ordinary computer, attempting to extract funds from a bitcoin wallet to which you didn’t have the key would be a fool’s errand. What if, however, you had a faster, better computer that could attempt many more keys per second – would the tough nut of Bitcoin be a little easier to crack?
+
+The Scale of the Problem
+
+The first step in overcoming a challenge is in quantifying it. To do that we must look at exactly how many potential keys exist. A private wallet key is simply a number between 1 and 2^256 and to brute force it all you need is to continue guessing until you hit the right number between 1 and 115 quattuorvigintillion.
+
+That’s a hard number for the human brain to process, but to put it in perspective, it’s greater than the estimated number of atoms in the universe. At that scale, even the world’s fastest supercomputer – IBM’s Summit – if tasked with brute forcing Bitcoin would effectively take forever to break just one wallet, which would test the patience of even the most determined hacker.
+
+Wallet Recovery
+
+This sheer uselessness of brute force will dash the hopes of anyone who has ever lost their password or seed phrase and cannot recover their bitcoin, but for those in that very situation, all may not be lost. If you remember at least part of the password, a service such as Wallet Recovery Services may be able to assist. For most cryptocurrencies, however, you’ll need to trust the company with your full wallet. In the case of bitcoin and bitcoin cash, it is apparently possible to engage the service without handing over the full wallet.
+
+If successful in cracking the wallet, a fee equal to 20% of the wallet’s holdings will be incurred, but it’s a no win, no fee endeavor. As always, it’s worth examining how the process works and doing your own research before deciding whether to engage these types of services.
+
+Quantum of Solace
+
+For some time now, quantum computing has been the great fear for the continued security and fidelity of Bitcoin, with cynics suggesting that private key cracking may be just around the corner. Recently those fears were stoked when Google announced it had reached “quantum supremacy,” completing a computation in just over three minutes that it claimed would have taken a conventional computer 10,000 years.
+
+It was enough to spark debate in the crypto community, for whom quantum computing is a bogeyman trotted out at regular intervals to spread FUD. However, as sober heads including news.Bitcoin.com counseled, this was not the hammer blow promised.
+
+Now, IBM have rubbished Google’s claims. While Google had stated it would take 10,000 years for a conventional computer to complete the computation, a recent blog post from IBM said: “We argue that an ideal simulation of the same task can be performed on a classical system in 2.5 days and with far greater fidelity.”
+
+My one-sentence impression of recent quantum supremacy stuff so far is that it is to real quantum computing what hydrogen bombs are to nuclear fusion. Proof that a phenomenon and the capability to extract power from it exist, but still far from directed use toward useful things. — Vitalik Non-giver of Ether (@VitalikButerin) October 24, 2019
+
+John Devadoss, Head of Global Development for NEO, and a quantum computing authority, told news.Bitcoin.com: “The quantum computing bogeyman is a bit like the AI bogeyman. First, there are way too many snake-oil salesmen, even in academia, because they want funding for their labs. Second, whilst progress is being made, albeit in arcane niche focus areas, the impractically high error rates coupled with the research lab-like constraints implies that real-world usage is way off on the horizon, if at all.”
+
+For now, at least, it seems that quantum computing has yet to make the necessary quantum leap forward to trouble Bitcoin’s encryption. Cryptocurrency holders should remain vigilant to security threats, but brute force attacks should not keep them up at night. Successfully completing the heist would take an eternity, and ain’t nobody got time for that.
+
+Do you think quantum computing will eventually break Bitcoin? Let us know in the comments section below.
+
+Disclaimer: This article is for informational purposes only. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.
+
+Images courtesy of Shutterstock.
+
+Did you know you can verify any unconfirmed Bitcoin transaction with our Bitcoin Block Explorer tool? Simply complete a Bitcoin address search to view it on the blockchain. Plus, visit our Bitcoin Charts to see what’s happening in the industry.

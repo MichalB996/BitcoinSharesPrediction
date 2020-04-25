@@ -1,0 +1,47 @@
+DATE:  02.08.2019, 08:27:14
+TITLE: There’s now a cryptoart lottery using Bitcoin blockchain to pick a winner — and it’s brilliant
+URL:   https://thenextweb.com/hardfork/2019/08/02/charity-cryptoart-auction-bitcoin-blockchain-winner/
+
+We’ve heard about auctions using blockchain to record sales of expensive works of art. We’ve seen the abstract musings of the cryptoart world, too. But what about a cryptoart charity auction that’s using blockchain to pick the winner?
+
+Well, an initiative being run by a trio of firms including cryptocurrency swap exchange service ChangeAngel, crypto-clothing store CryptoBantam, and cryptoartist Trevor Jones, is doing just that.
+
+Hey CT! Enter to #win this limited edition AR artwork 'The Ecstasy'. 💯 goes to 3 charities. 242 tickets sold so far. Please like & share and lets hit 300+ and raise more $$$ for @WarChildCan @pennyappeal & LittleEdi Raffle organised by @changeangel_io #bitcoin #cryptoart pic.twitter.com/hA51sJCaYp — Trevor Jones 🎨 (@trevorjonesart) July 31, 2019
+
+The raffle style event is auctioning one of Jones’ Bitcoin-inspired artworks, called “The Ecstasy.”
+
+What’s more, the cryptoart raffle is not only taking payments in Bitcoin BTC (and fiat currency) but it’s also using the blockchain to pick the raffle’s winner too. How, you might ask? Well, let me tell you.
+
+Like a standard raffle or lottery, customers buy entry tickets. Raffle ticket sales are logged and added to a list, (the list can be viewed on the CryptoBantam website under “Lottery History“).
+
+When the competition closes on August 4 each ticket will be assigned a sequential hexadecimal number starting from zero, a spokesperson from CryptoBantam told Hard Fork.
+
+The list of numbers will be published online, and timestamped on an internet archive, such as the Wayback Machine, for transparency.
+
+Now here’s where the blockchain comes in. Once the list is compiled, CryptoBantam will announce a “deciding block.” At the moment, it has chosen a block that will be mined around 9PM UTC August 4, 2019. About two hours after ticket sales are complete.
+
+“Provisionally this will be Bitcoin block number 588,525,” the spokesperson said in an email to Hard Fork. “In order to win, entrants must match their hexadecimal ticket number with the ending [last two or three] digits of the hash” of the chosen Bitcoin block.
+
+Given the hash is pretty much impossible to know ahead of time, it would be very hard to game the system. It’s definitely a novel way of using the Bitcoin blockchain’s inherent randomness, and to be honest, I think it’s kinda brilliant.
+
+Confused? Thankfully CryptoBantam broke it down further.
+
+Say you bought the 80th ticket (counting from 0, this is number 79 in decimal), in hexadecimal this would be 4F. Let’s say the competition was decided by Bitcoin block 587,785, which was mined the other day.
+
+Credit: Blockchain.com Bitcoin block 587,785, check the end of the hash
+
+As you can see, the last two digits of the hash are 4F, and so ticket number 79 would be recognized as the winner.
+
+CryptoBantam will use either the final two or three digits of the hash depending on the number of tickets it sells. If less than 256 tickets are sold, two digits will be used. If more than 256, but less than 1,024 entries are sold, the raffle will use the final three digits of the hash. (At the time of writing, it just so happens CryptoBantam has sold 268 tickets.)
+
+Should no hexadecimal ticket number match the hash in the chosen block, the next block that’s mined will be used until a winner is found.
+
+The auction, the artwork, the charities
+
+The lottery started in the evening on July 6, 2019, and will end this weekend around 7PM UTC on August 4.
+
+The artwork being sold in the lottery is by crypto-inspired artist, Trevor Jones. The piece, called “The Ecstasy,” pictures two angel-like figures in front of a shimmering Bitcoin. One of the characters is seemingly distressed and exhausted, while the other winged savior stands over them offering a helping hand. The Bitcoin, omnipresent in the backdrop.
+
+Jones has made a name for himself in the cryptoart world for his innovative augmented reality paintings. Take a look at the video below to see how it works.
+
+According to CrpytoBantam, all the profits will be split evenly between three charities, War Child, Thirst Relief, and The Little Edi foundation.

@@ -1,0 +1,55 @@
+DATE:  10.02.2020, 09:58:28
+TITLE: How Often Are Top Privacy Coins and Mixers Actually Used? - A Look at XMR, DASH, and ZEC
+URL:   https://news.bitcoin.com/xmr-privacy-coins-mixers/
+
+How Often Are Top Privacy Coins and Mixers Actually Used? - A Look at XMR, DASH, and ZEC
+
+As Bitcoin and crypto help everyday individuals to regain control over their money, and make trusting third parties unnecessary, it’s not surprising that privacy advocates have flocked to the space. While bitcoin’s ledger is openly viewable, privacy coins and privacy enhancing protocols are popular ways for value holders to ensure their sensitive financial info stays secure. Though a bit of a tricky subject thanks to the nature of privacy itself, this post aims to examine just how popular leading “privacy coins” such as Monero and Zcash, and obfuscation protocols like coin mixers, really are.
+
+Also Read: How to Use a U2F Key to Secure Your Crypto Accounts
+
+Privacy Coins and Obfuscation Services
+
+There are a few ways users of crypto can aim for maximum privacy in transactions, and the most popular include cryptos built specifically for privacy, often called privacy coins, and mixing or coinjoin services which obfuscate transaction data, making it difficult for chain analysis to accurately determine the senders and receivers of the crypto. There are also private marketplaces and trading platforms like local.Bitcoin.com that make peer-to-peer transactions possible.
+
+Popular privacy coins often have elements baked right into their codebases that enable obfuscation. Mixing, shuffling, and coin joining services and products like Wasabi Wallet, Samurai Wallet, Cash Shuffle, and the newly developed Cash Fusion help users even of more standard cryptos like BTC and BCH, gain an extra level of security in the form of privacy.
+
+For obvious reasons, garnering stats on these coins and protocols can be tricky, but there are yet metrics that are useful in analyzing just how popular the various coins and services actually are in the market today.
+
+Popular Privacy Coins – XMR, DASH, and ZEC
+
+A quick trip to messari.io’s database shows stats for one of the most popular privacy coins, monero (XMR), which came about in 2014 as a fork of the bytecoin codebase. Monero is also the leader of the privacy pack by market capitalization, enjoying a near $1.5 billion valuation at press time.
+
+Messari’s data shows that in the past 24 hours there have been 6,772 XMR transactions and the “real volume” for the same time period is $20,856,173.59. What we can’t see, however, is the number of active addresses for monero thanks to the obfuscation built into the code. Looking at a non-privacy focused network like BTC for contrast, there are 865,396 active addresses noted, and of course transaction volumes are much higher. Daily transaction volume nonetheless can help to establish the extent to which XMR is being used.
+
+Another coin born in 2014 is DASH, which straddles the fence between being a privacy coin and a “mainstream” crypto thanks to its Privatesend capability. According to Messari, DASH has seen 21,696 transactions in the same 24 hour period as XMR’s 6,772, but of course these are not all private, so the comparison is difficult to make.
+
+Where zcash is concerned, there (ZEC) is an attributed 12,703 active addresses and 3,329 transactions in 24 hours, about half of what Messari lists for XMR. However, ZEC’s 24 hour transaction volume is notable, with Messari listing the raw volume at $336,337,429.24, and the adjusted volume at $16,980,375.93. Zcash is another privacy coin that boasts a large market cap, weighing in at over $600 million.
+
+Advocates of various privacy coins like monero sometimes make bold claims about widespread usage difficult to verify. Still, even though BTC seems the clear leader in darknet exchange, XMR does remain a staple and exercises notable prevalence compared to other coins. Possibly attesting to this prevalence, are numbers released from last summer’s hack of DNM marketplace Nightmare, in which the alleged “inside job” hacker released financial information listing the site’s various crypto balances:
+
+Popular Mixing Services and Wallets
+
+Popular privacy-focused Wasabi Wallet bills itself as “an open-source, non-custodial, privacy-focused Bitcoin wallet for Desktop, that implements trustless coin shuffling with mathematically provable anonymity – Chaumian CoinJoin.” The popular wallet has been downloaded over 117,000 times as of December 28, 2019. The Samourai mobile wallet for Android is also popular in hardcore privacy circles, and uses a slightly different coinjoin system called “Whirlpool,” but has enjoyed a more narrow user base than Wasabi, possibly owing to the fact that it is a mobile app and currently unavailable on iOS.
+
+Wasabi has been downloaded over 100 000 times!
+
+🔥🚀https://t.co/jWIZ8GoUl8 pic.twitter.com/O0jcM1e8Xs — Wasabi Wallet (@wasabiwallet) December 23, 2019
+
+Cashshuffle is a popular coin mixing protocol for bitcoin cash users, and since March 27, 2019 to present users have shuffled 209,360 BCH (~$92.8 million at current market prices). The same developers have also created a protocol called Cashfusion which seeks to give bitcoin cash transactions levels of privacy approaching those of coins like monero. Wasabi Wallet developer @nopara73 even commented in December on the project saying, “Cashfusion gives me goosebumps. It reminds me of the Knapsack paper.”
+
+CashFusion gives me goosebumps. It reminds me of the Knapsack paper. Kudos for @MarkLundeberg @naomibrockwell for the great interview!https://t.co/8sHlvPhC1L — nopara73 (@nopara73) December 19, 2019
+
+Privacy a Mainstay for Crypto
+
+As crypto and bitcoin become more and more mainstream, the roots of privacy dig deeper into the ground in proportion to efforts by regulators and centralized exchanges to KYC the scene into standardized, custodial oblivion. Though data on the subject can be murky and speculation about issues such as user base, market demand, and fluctuating hashrate abounds, crypto users can rest assured that Satoshi’s vision for a money not relying on third parties and nosy banks or regulators is alive and well, judging by the current climate and active use of privacy-focused options.
+
+What do you think about the use of privacy coins and coin mixers? Are they really as popular as users say they are? Let us know what you think in the comments section below.
+
+Disclaimer: This article is for informational purposes only. It is not an offer or solicitation of an offer to buy or sell, or a recommendation, endorsement, or sponsorship of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.
+
+
+
+Images courtesy of Shutterstock, fair use.
+
+Did you know you can buy and sell BCH privately using our noncustodial, peer-to-peer Local Bitcoin Cash trading platform? The local.Bitcoin.com marketplace has thousands of participants from all around the world trading BCH right now. And if you need a bitcoin wallet to securely store your coins, you can download one from us here.

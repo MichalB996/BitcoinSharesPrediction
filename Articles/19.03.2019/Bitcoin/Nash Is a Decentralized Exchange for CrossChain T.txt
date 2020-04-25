@@ -1,0 +1,33 @@
+DATE:  19.03.2019, 17:30:12
+TITLE: Nash Is a Decentralized Exchange for Cross-Chain Trading With Fiat Integration
+URL:   https://news.bitcoin.com/nash-is-a-decentralized-exchange-for-cross-chain-trading-with-fiat-integration/
+
+Nash Is a Decentralized Exchange for Cross-Chain Trading With Fiat Integration
+
+90% of all cryptocurrency trading takes place on centralized exchanges. Nash is part of a new breed of exchanges determined to change that. The next generation of decentralized exchanges (DEXs) promise to improve the UX and simplify the trading experience, empowering users to retain custody of their funds without suffering the trade-offs that are normally commensurate with DEXs. News.Bitcoin.com was shown a walkthrough of the Nash platform ahead of its imminent public release.
+
+Also read: Bitmain Releases Equihash Miner 3x More Powerful Than Its Predecessor
+
+The Battle to Build a Better DEX
+
+Better decentralized exchanges are on their way, and this week news.Bitcoin.com will be previewing a couple of the leading contenders so readers can form an early impression of the decentralized trading experience they have to offer. Nash promises a fast and user-friendly platform for decentralized financial services, with the goal of bringing distributed finance to a wider audience. News.Bitcoin.com spoke to the team behind Nash to gain an insight into what differentiates it from current DEXs, and why traders should favor it over the competition, including centralized exchanges.
+
+“You have a setup where the possession of the digital asset is held by smart contracts on the blockchain and the ownership is still retained by the original owner,” explained Nash cofounder Fabio Canesin. The Nash protocol utilizes this principle to facilitate noncustodial trading. To perform onchain actions, explained Canesin, “you need more than [just] a private key. Sometimes you need to interact with a protocol, you need multiple parties and multiple features, and you can have keys with different features.” This is what Nash provides: a series of smart contracts under the hood, wrapped in a front end that mirrors that of a conventional exchange.
+
+Nash Will Offer a Range of Assets Across Multiple Blockchains
+
+Unlike a conventional ERC20-based DEX, Nash will facilitate cross-chain trading of a variety of assets. Eventually, this will encompass tokens operating on the BTC, ETH, NEO, WAVES, and LSK networks. The platform combines an off-chain matching engine with onchain smart contracts that open up state channels for trading purposes and oversee the transfer of assets between user wallets.
+
+Upon signing up for Nash, the setup process entails creating a 12-word passphrase, much like initializing a hardware wallet. The user is prompted to back this up to a safe place, as without it, it will be impossible to access the assets that are locked on the exchange in smart contracts. When the private key is generated, Nash will automatically generate user wallets for NEO, ETH and other assets. Users will also be prompted to create a password, to save having to type in the 12-word seed every time they log in. They can also enable 2FA for added security.
+
+Thanks to fiat gateway integration, users can fund their account via methods such as bank transfer if desired. The main dashboard provides a clear portfolio breakdown, detailing balances that are stored in a personal wallet as well as in a trading account. The performance of individual assets can be tracked, and staking performance can be viewed for Nash security tokens, which grant holders a revenue share of the platform’s profits. Initially, the platform will launch with a selection of ETH, USDC, and NEO markets, before expanding to incorporate other chains.
+
+With a significant community already in place, formulated when the platform began life as Neon Exchange in 2017, the Nash team is confident of having a solid userbase from day one, which will provide the desired liquidity. Within the next few weeks, the exchange will be rolled out to the first 1,000 users, before opening up to the wider crypto community. Nash will face competition from a number of other DEXs scheduled to come onstream this year including Binance DEX and Block Collider, which will be previewed by news.Bitcoin.com later this week.
+
+Do you think DEXs will eventually be able to compete with centralized exchanges in terms of user experience? Let us know in the comments section below.
+
+Images courtesy of Shutterstock.
+
+Disclaimer: Bitcoin.com does not endorse nor support this product/service.
+
+Readers should do their own due diligence before taking any actions related to the mentioned company or any of its affiliates or services. Bitcoin.com is not responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

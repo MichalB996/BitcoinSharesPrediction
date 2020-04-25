@@ -1,0 +1,57 @@
+DATE:  26.03.2020, 07:51:58
+TITLE: Miner ID and debunking the 51% attack
+URL:   https://coingeek.com/miner-id-and-debunking-the-51-attack/
+
+Another day, yet another article attacking Bitcoin SV with ignorant claims from the fake news cryptocurrency media outlets. On this occasion, serial offender Bitcoinist.com created an article based on a tweet from an anon account (as they often do) claiming that users of Bitcoin SV should be fearful because due to an unknown transaction processor, aka miner, having greater than 51% of the hash power ‘their coins are now at risk’.
+
+Despite 51% attacks being debunked in Section 11, ‘Calculations’ in October 2008 when Satoshi released the Bitcoin whitepaper, those who misunderstand the nature of proof-of-work chains continue to bring this up as a concern.
+
+The article claims that the hash rate on Bitcoin SV rose from 675 PH/s to 1535 PH/s over a period of 9 days. This resulted in unknown processors having greater than 51% of the overall hash rate. These were also processing nearly empty blocks.
+
+Yet, there were no block re-organizations, double-spends or transactions lost.
+
+Assuming that this unknown processor was a single entity (which is the theoretical ‘worse-case’ scenario) why didn’t they use their million-dollar infrastructure to steal some hodler’s coins?!
+
+width="730" height="360" frameborder="0" allowfullscreen="allowfullscreen"> ﻿
+
+As Craig Wright explains in the timestamped link above, it would be ridiculous for an entity to make a large upfront capital investment that has a fixed lifespan only to cause some havoc for a short period of time on a so-called ‘altcoin’.
+
+Empty blocks
+
+The processors with majority hash power were not putting many transactions into the blocks they mined. This is known as an empty block ‘attack’. Attack is in quotes because as long as other processors win blocks containing transactions then there is no issue.
+
+This effort is merely a short-term profit play for transaction processors as they do not see the economic benefit for themselves to process blocks with transactions. Considering the transaction volume is still low on BSV, this effort may make sense for a processor who doesn’t have long-term interest in the chain they are mining. The block subsidy still represents almost the full reward, so the incentive for processors who have no interest in BSV to mine empty blocks is high.
+
+Why perform this ‘attack’ at all?
+
+At any given time navigate to Blockchair and do the following calculation:
+
+Divide BSV Hashrate by the BTC hashrate: 3.12 / 110.39 = 0.0282
+
+Multiply that value by the BTC price: 0.0282 * $6652.65 = $186.
+
+Per the screenshot below, the BSV price is $176. Running this calculation for BCH or BSV will give you a value that is close to the current price of the coin. In other words, the price parity between the three major SHA-256 chains generally matches the hash rate parity.
+
+This is not coincidental!
+
+When the price spikes on a minority chain (BCH, BSV) then processors will move over to that chain to reap the short-term rewards until the profits dry up (difficulty adjusts upwards) then move back to the chain they were on before (likely BTC).
+
+This has happened many times over the past 18 months without consequence yet even BSV proponents take to social media outlets to freak out along with the digital currency news outlets. There is nothing to worry about—transaction processors are just chasing profits.
+
+Miner ID
+
+This situation is repeatedly perceived to be an issue is due to the anonymous and rogue nature of the unknown processor. Relating somewhat to this matter, BSV has implemented an optional protocol named ‘Miner ID’ where processors can publish who they are, cryptographically signed in the block header.
+
+This is an effort to solve block header spoofing, as any processor can put whatever text they want into the coinbase string while establishing trust and accountability between themselves and the users of the network. More information can be found in this press release from miner TAAL who implemented the protocol.
+
+As the block subsidy dwindles (as we will see in the next two months) these short-term profit plays by transaction processors will no longer be viable. The incentive to mine empty blocks is only viable as long as a subsidy that represents a large chunk of the reward persists. As transaction fees become the main revenue stream for processors they will behave more honestly.
+
+Trust and reputation are necessary as services pushing large volumes of transactions onto the network need to feel secure doing so. These services will not deal with rogue, anonymous processors who only care about making money in a few days. They will deal with processors who intend to be in business for years.
+
+Conclusion
+
+As mentioned in the Twetch above, processors hopping between chains is a viable profit play, but only in the short-term. With a block reward halving approaching and need for transaction volume to offset it, these strategies will become more obsolete. Additionally, there have been no attacks, crimes or network issues caused from actions of these processors.
+
+I hope this article can serve as the final debunking of this ‘threat’ to Bitcoin.
+
+New to Bitcoin? Check out CoinGeek’s Bitcoin for Beginners section, the ultimate resource guide to learn more about Bitcoin—as originally envisioned by Satoshi Nakamoto—and blockchain.

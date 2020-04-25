@@ -1,0 +1,123 @@
+DATE:  10.04.2019, 20:00:43
+TITLE: Understanding Bitcoin, the Demos: How to Become a Bitcoin Power User
+URL:   https://bitcoinmagazine.com/articles/understanding-bitcoin-demos-how-become-bitcoin-power-user
+
+Ring in the new bitcoin halving cycle the right way: with us!
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+The Understanding Bitcoin conference held in Malta from April 5 to April 7, 2019, was all about turning regular Bitcoin users into power users.
+
+Bitcoin hardware and software is often more configurable than people realize (or they do realize this but are unable to take advantage of it). Spread throughout the conference were 18 demos by leading Bitcoin developers and experts illustrating how to make the most out of available Bitcoin tools.
+
+For your convenience, here is an overview of all of the demos:
+
+Blockstream Green with a Hardware Wallet
+
+Blockstream Green (formerly known as Green Address and Green Bits) is the mobile and desktop wallet from blockchain development company Blockstream. To secure your coins, the wallet offers multisig security, which means that any transaction from the wallet must be signed off on through several methods. If a potential thief compromises one of these methods — for example, learning your PIN code or stealing your phone — they still can’t access any funds. One such additional protection method can be a hardware wallet, which is particularly secure as it never touches the internet and can, therefore, not be hacked online.
+
+In this demo, Blockstream engineer Domenico Gabriele showed how to help secure Blockstream Green with a hardware wallet.
+
+Trezor Multisig With Electrum
+
+As mentioned above, hardware wallets are generally considered one of the most secure ways of storing your coins. However, even (some) hardware wallets are subject to certain very advanced attacks (for example, supply chain attacks or attacks where hackers have physical access to the device). One solution to counter these types of attacks is to secure funds with multisig, using several hardware wallets (ideally stored in different locations) to secure the same coins. The same trick can be used to securely share the same funds between multiple people.
+
+In this demo, SatoshiLabs CTO Pavol Rusnak showed how to set this up with an Electrum wallet.
+
+Core From Scratch
+
+The only way to be sure that the bitcoin payments you receive are valid according to all of Bitcoin’s protocol rules is by using a full node as your wallet or connecting your wallet to your full node. This sounds easy enough, but it also means you need to be sure that the software you are running is, in fact, a full Bitcoin node and not malware. One fairly accessible way of checking this is by verifying that Bitcoin Core developers cryptographically signed the Bitcoin Core software you are running.
+
+In this demo, Blockstream engineer Alekos Filini showed how to set up the most-used full node on the network today, Bitcoin Core, from scratch.
+
+ABCore on Android
+
+While probably a bit excessive for most users today, it is technically possible to run a full node on (some) Android phones or on other Android devices, such as some TV boxes. This brings the same top-notch level of security directly to mobile devices or would allow you to run a full node on a TV box from your home (to which you could connect your mobile wallet, for example).
+
+In this demo, Bitcoin developer Udi Wertheimer showed how to install ABCore on Android.
+
+Cyphernode
+
+While a typical full node lets you receive regular payments securely, it is usually not very flexible from the outset. Cyphernode is a project specifically designed to leverage a full node to support a broader range of use cases, which makes it more useful for merchants, applications and other services.
+
+In this demo, Bull Bitcoin CEO Francis Pouliot showed how to set up Cyphernode.
+
+C-Lightning With Core
+
+The Lightning Network is Bitcoin’s overlay network for fast and cheap transactions and c-lightning is one of the main implementations of the Lightning protocol. Running a Lightning node (and potentially connecting your phone to it) allows you to benefit from this new and rapidly growing technology.
+
+In this demo, Blockstream engineer Christian Decker showed how to install c-lightning on a Raspberry Pi.
+
+Nodl Box
+
+The Nodl Box is a hardware device that supports one-click installations of various Bitcoin applications. Most notably, it allows you to easily run a Bitcoin Core full node and the lnd Lightning implementation, as well as several Lightning wallets and the BTCPay Server for merchants.
+
+In this demo, Nodl Box developer Ketominer showcased the Hodl Box and several applications, including multiple Lightning wallets and the BTCPay Server.
+
+Nix-Bitcoin
+
+While any Bitcoin full node allows you to accept payments and create new transactions, the software is typically highly configurable beyond that. Utilizing this configuration, a node can be tuned to offer more privacy, or require less disk space, or rely on different security assumptions. The Nix-Bitcoin project tries to make much of this configuration as accessible as possible.
+
+In this demo, Blockstream researcher Jonas Nick showcases Nix-Bitcoin with a specific emphasis on using it for Lightning.
+
+Thor Turbo
+
+To use the Lightning Network, users must first open at least one Lightning channel with another Lightning Network user. This requires a regular, on-chain bitcoin payment, however, which can take from a couple of minutes to several hours to confirm, or in some cases even longer. A new service by bill payment service Bitrefill, Thor Turbo, allows users to take a shortcut and open a channel with Bitrefill instantly with an unconfirmed bitcoin transaction.
+
+In this demo, Bitrefill COO John Carvalho demonstrated how to use Thor Turbo.
+
+Spark and Charge
+
+Spark is a Lightning wallet for mobile and web browsers, which can be connected to a c-lightning implementation run at home (or on a server). This allows you to fully and securely benefit from the Lightning Network’s fast and cheap transactions on the go. Charge is a payment processing system, also based on c-lightning, specifically designed for merchants who’d like to accept Lightning payments.
+
+In this demo, Bitcoin developer Nadav Ivgi showcased how to install and use Spark and Charge.
+
+Slush Pool and “De-Eviling” the S9
+
+Mining machines are usually delivered with firmware specifically created for the machine. While this firmware does what it needs to do to mine (usually connected to a mining pool), it does not necessarily utilize the full potential of the hardware. (One noteworthy example is that, while Bitmain’s S9 machines were technically able to apply AsicBoost technology, this option was not included in the firmware.) Braiins, the company behind Slush Pool, released the open-source Braiins OS firmware last year, which can be run on mining hardware to take advantage of the full potential of the machines.
+
+In this demo, Braiins co-CEO Jan Čapek showed how to set up the Bitmain S9 with Braiins OS firmware. The demo also showed how to connect a mining machine to Slush Pool.
+
+Wasabi
+
+When using Bitcoin, you leave a trail of transactions on the blockchain. This allows for blockchain analysis, which can ultimately be used to connect Bitcoin addresses to your real-world identity, which is very bad for privacy. The Wasabi wallet is one of several privacy-enhancing tools available today which effectively allow you to mix your coins with coins of other Wasabi users, breaking the transaction trail for all.
+
+In this demo, Wasabi developer Adam Ficsor showed how to use Wasabi Wallet.
+
+JoinMarket
+
+JoinMarket is another privacy solution available today. Like the Wasabi wallet, users “mix” their coins with one another, breaking the transaction trail for all. But where Wasabi Wallet users must sometimes wait several hours for other users to join in before a mix can take place, JoinMarket works instantly, because mixing partners are paid to join in the mix.
+
+In this demo, JoinMarket developer Adam Gibson showed how to install JoinMarket and how to leverage it as a regular user. (The demo did not show how to use it as a liquidity provider, however, which is slightly more complex.)
+
+Electrum Personal Server
+
+The Electrum wallet is one of the most popular bitcoin wallets available today and has been for several years. Electrum wallet users generally rely on Electrum servers, however, which introduces some security and privacy tradeoffs. Using the Electrum Personal Server, Electrum wallet users locally connect to their own private server instead, offering the benefits of the Electrum wallet without any of the tradeoffs.
+
+In this demo, Electrum developer Chris Belcher shows how to set up and use an Electrum Personal Server.
+
+goTenna Mesh Networks
+
+A goTenna is a small hardware device that transmits messages over radio waves; together with similar devices owned by other people, it can create a mesh network. Combined with the Samourai Wallet, goTenna can locally broadcast bitcoin transactions without the internet, for someone with an internet connection to pick up and forward to the Bitcoin network.
+
+In this demo, goTenna engineer Richard Myers showed how to send a bitcoin transaction over the goTenna network.
+
+LoRaWAN Network
+
+The LoRaWAN Network is another solution to locally transmit bitcoin transactions over radio waves for someone with an internet connection to pick up and transmit to the Bitcoin network. It is cheaper to set up than goTenna but also more experimental.
+
+In this demo, Blockstream engineer Valerio Vaccaro showcased sending a bitcoin transaction over the LoRaWAN network.
+
+SMS Push Transaction
+
+Since bitcoin transactions are ultimately nothing but a couple of lines of data, they can be sent over any media that supports text messages. This, of course, includes SMS, offering another way of sending bitcoin transactions for intermediaries to pick up and transmit to the Bitcoin network, even without the internet. Indeed, there exists a phone number that will do exactly this.
+
+In this demo, SatoshiLabs CTO Pavol Rusnak showcased sending a bitcoin transaction over SMS using the Electrum wallet.
+
+Blockstream Satellite Network
+
+The Blockstream satellite network broadcasts Bitcoin blocks and transactions from space to Earth. This allows (almost) anyone with a satellite dish to sync with the Bitcoin blockchain without requiring access to the internet. Besides benefiting users in areas where there is no internet connection at all, this can also offer cost, privacy and censorship-resistant benefits.
+
+In this demo, Blockstream CEO Adam Back and head of the Blockstream satellite project Chris Cook showcased receiving Bitcoin blocks over the Blockstream satellite network.

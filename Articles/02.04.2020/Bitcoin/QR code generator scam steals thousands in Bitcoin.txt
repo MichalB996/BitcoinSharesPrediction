@@ -1,0 +1,29 @@
+DATE:  02.04.2020, 01:40:36
+TITLE: QR code generator scam steals thousands in Bitcoin
+URL:   https://dailynewsx.in/qr-code-generator-scam-steals-thousands-in-bitcoin-naked-security/
+
+[ad_1]
+
+
+
+Every now and then there is an attack that is so easy to set up and yet so effective that your jaw drops. Here's one: fake Bitcoin QR generators. According to web developer and cryptocurrency enthusiast Harry Denley, a sly fraudster ran a network of fake Bitcoin QR code generators to get people out of their Bitcoins.
+
+Bitcoin uses addresses as conduits to send and receive Bitcoin payments. To improve anonymity (which was a basic design principle for Bitcoin), these addresses are available. You shouldn't reuse them. You can imagine how many Bitcoin addresses you need to support a huge cryptocurrency network ad infinitum. That is much. That is why each address is up to 35 alphanumeric digits long. You don't want to be written down or entered manually.
+
+Instead, people use QR codes – block squares made up of blocks Masahiro Hara – easily represent them to others. Invoicing and payment software often generates this automatically. Someone who makes a payment can scan it and send Bitcoin to that address.
+
+Denley said on Twitter that he found websites that could generate QR codes for people who entered a Bitcoin address:
+
+⚠️ Pay attention to counterfeits #Bitcoin QR code generators – these have passed current4.9 the current activation address free-bitcoin-qr-codes (.) com
+
+bitcoinaddresstoqrcode (.) com Address: 343CXYVBKXT2VgELCdjEeMyPpfiKwkzUNg ($ BTC) IP 207.244.100.245 hosting of suspicious domains pic.twitter.com/y4DEezQmN1 – harrydenley.eth ◊ (@sniko_) March 21, 2020
+
+He said ZDNet that he found multiple domains that pulled the same scam.
+
+Entering an address – any address – spit out the same handful of QR codes that had nothing to do with the addresses you entered. Instead, they pointed to the attacker's own addresses. So if someone had used this QR code as a payment address, the person who sent them Bitcoin would have sent it to the attacker's account rather than to their own account.
+
+The address he quoted in the tweet yesterday contained 4.9 bitcoins (just over £ 25,000) that had been entered into over 473 transactions.
+
+Phishing scams in cryptocurrency are common. We have reported on websites that have tempted users to enter private keys to access their cryptocurrency wallets. Recently, this fraudulent Chrome extension made customers hand over their Ledger hardware wallet keys.
+
+Latest Naked Security Podcast

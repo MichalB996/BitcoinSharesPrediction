@@ -1,0 +1,19 @@
+DATE:  14.03.2019, 03:37:29
+TITLE: Canadian cops search for ATM crooks who double spent Bitcoin
+URL:   https://modernconsensus.com/cryptocurrencies/bitcoin/canada-bitcoin-atm-double-spend/
+
+A four-man crypto crime spree raged across Canada six months ago, and Calgary’s police department has finally decided now is a good time to ask the public for help catching the thieves. Sorry to bother you, eh?
+
+On Wednesday, the Calgary Police Service Cybercrime Team posted that for ten days starting Sept. 16, four men “specifically targeted one Canadian bitcoin company” by making 112 fraudulent transactions at Bitcoin kiosks amounting to 195,000 CAD. Fifty-one of those transactions were in Calgary, with 17 in Toronto, 27 in Montreal, 13 in Winnipeg, and the rest in Ottawa, Hamilton, and Sherwood Park, a suburb of Edmonton. It wasn’t until October before Calgary’s cops were informed of the hit and it took a few months after that to issue a press release for some reason.
+
+The name of the targeted company wasn’t released but a search on CoinATMRadar for Sherwood Park (population 70,000) produced two Bitcoin ATMs—both made by Genesis Coin, but one is operated by BitNational while the other is operated by HoneyBadger. BitNational only operates kiosks in British Columbia and Alberta while HoneyBadger operates in all the cities where the crimes took place.
+
+So what happened? As Calgary’s press bulletin described it:
+
+“It is believed that the suspects were committing ‘double-spend’ attacks, where a suspect attended a bitcoin kiosk and successfully withdrew money before remotely cancelling their transactions prior to the bitcoin company processing the withdrawal.”
+
+In other words, the perps took advantage of how this particular Bitcoin ATM allowed the transactions to happen before confirmation on the Bitcoin blockchain. P. H. Madore over at CCN hinted that the crooks may have used a tool by Bitcoin Core developer Peter Todd which essentially allows for a “double spend” in such a situation, something Bitcoin doesn’t do when transactions are confirmed.
+
+One of the suspects (in the photo above, he’s the one wearing the baseball cap) did all of the transactions in Toronto, Montreal, Ottawa, and Hamilton. The others each did one of the remaining cities. The man wearing the blazer is the one who did the 51 Calgary ATMs.
+
+For those curious, there is (or was) a Bitcoin ATM at the QuadrigaCX headquarters in Vancouver but it was operated by QuadrigaCX itself and was made by Lamassu.

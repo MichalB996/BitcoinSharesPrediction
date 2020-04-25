@@ -1,0 +1,25 @@
+DATE:  19.04.2020, 14:06:58
+TITLE: Another DeFi hack: $25 million in Bitcoin and Ethereum stolen from dForce
+URL:   https://www.crypto-news-flash.com/another-defi-hack-25-million-in-bitcoin-and-ethereum-stolen-from-dforce/
+
+The DeFi platform dForce has lost 100% of its assets in Ethereum and Bitcoin following an exploit on Saturday, April 18, 2020.
+
+As a result, a liquidity pool for imBTC, an Ethereum token pegged to BTC, on decentralized exchange Uniswap was also exploited, resulting in a loss of around $300,000 worth of tokens.
+
+
+
+Data from DeFi Pulse shows that the Ethereum-based protocol, dForce, fell victim to an attack. dForce is an ecosystem of protocols that includes Lendf.ME and USDx. Data from DeFi Pulse reveals that, in the last 24 hours, dForce has lost 100% of its assets that were estimated at $25 million in Ethereum and Bitcoin, as can be seen in the graph below.
+
+How the attack occurred
+
+Via their Telegram channel, dForce CEO Mindao Yang commented that his team is still investigating the incident. Furthermore, the DeFi lending agreement Lendf.Me confirmed an attack at 8:45 BST, block height: 9.899.681. After investigating the problem, the technical team advised users to stop the depositing assets.
+
+Initial reports from the investigation indicate that the attack was initiated with the imBTC token, an Ethereum token whose value is pegged to Bitcoin (BTC) at 1:1 parity. While not all information is known yet, it currently appears that the attackers took advantage of the fact that the imBTC uses the ERC 777 standard, which allowed the hacker to continuously access Uniswap’s smart contract to withdraw funds before the external balance could be updated.
+
+Community members expressed their discontent. A similar vulnerability with imBTCs was apparently exploited earlier this year and, according to users, Lendf.Me didn’t make the appropriate corrections. In addition, Uniswap has suffered a similar attack in the past. One user claimed that this vulnerability allowed the hacker to obtain unlimited collateral, which then enabled him to empty the pool by borrowing the money. dForce’s CEO commented on this:
+
+There was no overriding over the past, even during Black Thursday, lendf liquidated over 1m loans and it was the best performing lending facility. If you look at our portfolio, the majorly of the non-stablecoin-collateral borrowing, are sitting at above 160% collateral cover, so it will take 40% drastic drop to undercollateralize meaningful positions.
+
+As reported by CNF, the DeFi sector has taken several hits in recent months. The MakerDAO platform experienced significant losses after the flash crash in the prices of the major cryptocurrencies on March 12. The event, now known as “Black Thursday”, caused a system failure of the platform that led to the losses. The sudden drop meant that numerous borrowers saw their secured debt positions (CDP) liquidated to 100% of their value. After the attack, community members questioned the reliability of the DeFi sector. This new attack will be another argument from DeFi’s detractors and could increase the loss of confidence it had suffered in March.
+
+Follow us on Facebook and Twitter and don’t miss any hot news anymore! Do you like our price indices?

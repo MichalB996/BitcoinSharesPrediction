@@ -1,0 +1,41 @@
+DATE:  15.11.2019, 22:00:01
+TITLE: The Crypto Companies Reinventing the Wallet
+URL:   https://news.bitcoin.com/the-crypto-companies-reinventing-the-wallet/
+
+The Crypto Companies Reinventing the Wallet
+
+You wouldn’t think there was much to improve about cryptocurrency wallets. Save for a few UX improvements here and there, what’s to reinvent? A surprising amount, it turns out. This year has seen a resurgence in wallet investment and innovation, with VCs throwing funds at startups intent on reinventing the humble wallet.
+
+Also read: Bitcoin.com Wallet App Marks Over Five Million Wallets Created
+
+There’s More Than One Way to Make a Wallet
+
+At its core, a cryptocurrency wallet is simply software for aggregating public keys you possess and signing transactions with their corresponding private keys. The software is merely the lipstick applied to make this process more pleasurable. And yet, much like lipstick, wallets come in many colors and flavors, with the industry conjuring new variants every year, each promising to be more secure, seamless, feature-rich and long-lasting than its predecessor.
+
+2019 has witnessed something of a renaissance in wallet development, spawning a diverse array of hardware and software solutions and attracting serious investment. This week, Bitski revealed it had secured $1.8 million in seed funding from VCs including Galaxy Digital and Coinbase Ventures. Its wallet, it promises, is the first to be designed for mainstream adoption, by eliminating the normal barriers to setup. Bitski’s solution requires only an email address and password, and is designed to be integrated into applications by developers.
+
+It’s an ETH-only wallet, and Bitski have yet to find a way for users to fund their accounts within the wallet without using a third party. In other words, there’s work to be done in realizing the startup’s goal of achieving mainstream adoption, but that’s where the seed funding will come into play. Next year, its much-vaunted wallet should look much more consumer-ready.
+
+The Evolution of Mobile Wallets
+
+In terms of mobile wallet development, the dominant trend this year has been multicoinery: existing wallets broadening the number of chains and coins they accommodate. Coin Wallet, for example, has expanded its range of supported cryptocurrencies, which now include BCH, BNB, DASH, and DOGE, as well as ERC20 tokens. A similar trend can be seen with mobile wallets such as the Binance-owned Trust Wallet and Exodus, which also offers a popular desktop client and provides Trezor integration.
+
+While some wallet developers have been intent on reinventing the wheel, and introducing as many features as possible, others have taken the “if it ain’t broke, don’t fix it” approach. This includes the Bitcoin.com Wallet which has just surpassed 5 million downloads. Rather than succumb to multicoinery, the wallet only supports BCH and BTC, but development has not been at a standstill; rather, it’s focused on enhancing the wallet’s core functionality, including adding the ability to purchase bitcoin with credit card. There are also plans to introduce support for SLP tokens in the near future, so that they can be managed directly within the wallet.
+
+Multisig Wallets Keep Multiplying
+
+Another subset of wallet design that’s seen significant attention this year is multisig, primarily for BTC. The ability to enable X-of-Y multi-signature spending has been available with bitcoin for years, but it’s not been easy for laypersons to set up and manage, leading to low adoption of multisig. As wallet developers have turned their attention to improving the user-friendliness and speed of setup for multisig wallets, however, significant leaps have been made.
+
+Casa has expanded its suite of multisig services to include a 3-of-6 known as Casa Covenant that serves as a digital inheritance tool. The company explains: “This [sixth] key is activated after clients start the inheritance planning process with Casa, and it’s held by a client’s estate lawyer. In a scenario where the client passes away, the following keys can be used for fund recovery: Estate lawyer key. Casa Recovery Key.Safety Deposit Box Key.”
+
+A more versatile bitcoin multisig is being developed by Unchained Capital. Caravan is a noncustodial multisig which is open source and can be configured to allow multiple users to control a single wallet address. Alternatively, a single user can retain all of the keys required to access the wallet and safely store them in separate places. Caravan can integrate with existing hardware and software wallets, bringing multisig functionality to bitcoiners without the need to abandon their existing wallet solutions.
+
+With new hardware wallets being regularly released, and existing stalwarts such as Coldcard being revamped, the wallet development arms race is showing no signs of abating. Better custody options for cryptocurrency users, making it easier to store, manage, and secure funds, is vital in achieving greater ownership of digital assets and reducing reliance on third parties.
+
+Which cryptocurrency wallets do you recommend and why? Let us know in the comments section below.
+
+Disclaimer: Bitcoin.com does not endorse or support claims made by any parties in this article. None of the information in this article is intended as investment advice, as an offer or solicitation of an offer to buy or sell, or as a recommendation, endorsement, or sponsorship of any products, services, or companies. Neither Bitcoin.com nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.
+
+Images courtesy of Shutterstock.
+
+Did you know you can verify any unconfirmed Bitcoin transaction with our Bitcoin Block Explorer tool? Simply complete a Bitcoin address search to view it on the blockchain. Plus, visit our Bitcoin Charts to see what’s happening in the industry.

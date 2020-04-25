@@ -1,0 +1,29 @@
+DATE:  23.10.2019, 13:00:04
+TITLE: User loses four Bitcoin on the Lightning Network
+URL:   https://finance.yahoo.com/news/user-loses-four-bitcoin-lightning-130004183.html
+
+Four Bitcoins have been ‘lost’ on the Lightning network due a user force-closing a channel using an older invalid state.
+
+Reddit user ZipoTm posted a thread entitled “How I lost 4BTC on the Lightning Network” where he detailed a conversation with support who said the Bitcoin was irretrievable.
+
+“Yes, if you force close using an older invalid state, they can take the money while it’s time locked if their node is online,” they wrote to the aggrieved user.
+
+“Wow… looks like I lost 4BTC because my LND wasn’t synchronised, that’s weird.” ZipoTM replied.
+
+“You have already closed all your channels with an older state? That’s it, the money is gone,” the support reiterated.
+
+Lightning network seems to be going well. https://t.co/77Jmn8wgpf#Layer0 — Oliver Knight (@KnightCoinRivet) October 23, 2019
+
+
+
+
+
+The Lightning network has been touted as the solution to Bitcoin’s scaling dilemma for the past two years, with advocates claiming that all Bitcoin transactions will one day take place on the super-fast Lightning network, which would legitimise Bitcoin as a viable payment method.
+
+However, examples like this highlight that the network is far from ready and that users should proceed with caution while development is still in a relatively early phase.
+
+Volume on the Lightning Network has been fairly disappointing. According to 1ML, there are just 10,249 nodes and 35,419 channels on the Lightning Network – far less than what was expected ahead of its launch last year.
+
+For more news, guides and cryptocurrency analysis, click here.
+
+The post User loses four Bitcoin on the Lightning Network appeared first on Coin Rivet.

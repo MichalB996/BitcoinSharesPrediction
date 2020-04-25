@@ -1,0 +1,37 @@
+DATE:  12.02.2019, 22:44:32
+TITLE: Report Claims 85% of the Monero Network Dominated by ASIC Miners
+URL:   https://news.bitcoin.com/report-claims-85-of-the-monero-network-dominated-by-asic-miners/
+
+Report Claims 85% of the Monero Network Dominated by ASIC Miners
+
+Over the last few years, certain cryptocurrency networks have tried to block ASIC mining with many fruitless attempts to forge ASIC-resistant protocols. Multiple cryptocurrency developers have attempted to brick ASIC miners, but with scant success. A perfect example is the privacy-centric digital currency Monero, a project that has tried to fork the software multiple times in order to gain ASIC resistance. Monero developers have once again failed in that respect as a recent analysis shows more than 85 percent of the Monero network is currently dominated by ASICs.
+
+Also Read: Core Developer’s 300kb Block Proposal Bolstered in Bid to Push Lightning Adoption
+
+Despite ASIC Resistance Attempts, ASIC Miners Dominate Monero
+
+In April last year, XMR developers forked the Monero software in order to block companies like Bitmain and Innosilicon from developing XMR-based ASIC miners. The end result was the birth of three other Monero forks with each project claiming to be the original version. Monero also forked again in October last year with another attempt to implement “Cryptonight variant 2” which was supposedly less ASIC friendly. A few months later on Feb. 7, a researcher published an analysis of the XMR network which detailed once again the protocol’s hashrate was dominated by ASIC machines.
+
+The analysis was written by a pseudonymous critic who used nonce forensics to figure out whether or not XMR’s nonce distribution processed at random numbers. In the blockchain world, a nonce is a random number that is employed just once in cryptographic communication and many patterns can be analyzed from queried data sets. For example, the BTC network exerts a 32-bit (4-byte) field, a value that is customized by miners so that the hash is less than or equal to the current target of the network. ASIC miners produce patterns, which are easily identified and distinct when looking at data sets.
+
+ASIC miners do try to hide by mimicking nonce selection with patterns that resemble non-ASIC machines. The April XMR fork that produced an extremely controversial four-way split saw large mining farms rejoin the network in just three days. The author notes, though, that miners had realized how to obfuscate nonce patterns. “ASIC manufacturers had learned from past mistakes and implemented random nonce picking,” the analysis explains. The report also adds that after the October fork last year, XMR developers had some success with the new Cryptonight variant, but ASIC miners quickly returned on “December 31st, 2018 near block 1,738,000.”
+
+“At the time of writing the network hash rate has increased to 810 Mh/s or 255 percent since the first signs of the ASICs at the end of December 2018, or approximately 40 days ago,” the study explains.
+
+The report further details:
+
+With the given numbers and methodology we can finally conclude that the current network hashrate likely consists of 85.2 percent ASICs (5400 ASIC machines) and some die-hard GPU miners and botnets.
+
+ASIC Resistance Continues to Fail
+
+The Monero network is not the only project that has failed to thwart ASIC miners. In May last year, the Bitcoin Gold (BTG) protocol felt threatened by ASIC miners after the creation of the Equihash-based Antminer Z9 mining rig. Not too long after that, the BTG network was hijacked by a 51 percent attack and double spends. Similarly, another project that has tried to avoid ASIC domination is the Zcash protocol, but as of May 2018, research detailed that 30 percent of the network was mined by ASIC machines. Ethereum users last year were also concerned when Bitmain released its Antminer E3, a miner that processes the Ethhash (ETH) hashing algorithm. One Ethereum proponent explained at the time that “a regularly scheduled PoW change, like Monero” was needed.
+
+ASIC resistance promises have continuously enticed manufacturers to produce machines that mine these coins. Another great example is when Sia network developers attempted to brick companies like Bitmain from creating Sia-based ASICs. Of course, the ASIC resistant endeavor met with disaster and the developers created the Obelisk algorithm. Ironically, ASICs rigs that mine Obelisk today are the most profitable ASIC mining rigs on the market and a decent machine will rake in $42 a day. Old school veterans will also never forget Charlie Lee’s attempt to create an ASIC-resistant cryptocurrency when he developed the Litecoin (LTC) network’s scrypt algorithm. When LTC first launched, ASIC resistance was supposed to be one of the project’s greatest benefits, but not too long after the launch, it turned out to be minable by application-specific semiconductors.
+
+Once again, Monero developers are faced with a decision of whether to continue trying to fork off so ASIC miners cannot dominate the network. The threat comes at a time when ASIC mineable networks with very low hashrates are extremely susceptible to 51 percent attacks and reorganizations. With lots of studies detailing how easily ASIC farms command these protocols, the question remains: is ASIC resistance just a cat and mouse game that’s destined to bring little more than fleeting results?
+
+What do you think about the research paper that explains ASIC miners control more than 85 percent of the XMR hashrate? Do you think developers should continue fighting ASICs or is ASIC resistance a waste of time? Let us know what you think about this subject in the comments section below.
+
+Image credits: Shutterstock, MoneroCrusher, Pixabay, and Jamie Redman.
+
+Need to calculate your bitcoin holdings? Check our tools section.

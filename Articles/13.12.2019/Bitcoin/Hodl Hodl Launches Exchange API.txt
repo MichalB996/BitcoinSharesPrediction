@@ -1,0 +1,33 @@
+DATE:  13.12.2019, 16:00:43
+TITLE: Hodl Hodl Launches Exchange API
+URL:   https://bitcoinmagazine.com/articles/hodl-hodl-launches-exchange-api
+
+Ring in the new bitcoin halving cycle the right way: with us!
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+Hodl Hodl has launched the first part of the exchange’s API today, December 13, 2019.
+
+The new API release will allow any website or application to display offers from Hodl Hodl, best known for its peer-to-peer (P2P) structure that allows it to operate without holding user funds. This will help the bitcoin exchange’s offers to gain greater exposure, which might translate into more trading activity and increased demand for the listed bitcoin. Furthermore, Hodl Hodl users will be empowered to create, edit and update their offers through the API, so they don’t necessarily have to open the exchange’s website in order to benefit from its features.
+
+“The API was developed due to the high demand from OTC [over-the-counter] brokerage desks. It will allow other services such as wallets and different types of aggregators to include Hodl Hodl in their offering. Obviously, this will increase our popularity,” Hodl Hodl CEO Max Keidun told Bitcoin Magazine.
+
+Hodl Hodl API Integrates Wallets, OTC Desks and Aggregators
+
+In addition to these features, a list of countries, currencies and payment methods supported on the exchange will also get published. The information was already available to everyone who visited the Hodl Hodl website, but the new open-sourcing makes it more accessible and easier to integrate into applications.
+
+Venezuelan bitcoin exchange rate calculator Yadio is the first service to integrate Hodl Hodl’s API, with Bitcoin and Lightning wallet BlueWallet working on an integration as well. As a way of increasing use and extending functionality, other wallets, aggregator websites and even automated trading applications can easily find beneficial uses for Hodl Hodl’s code.
+
+“Our ideal partners are those who understand the value proposition of Hodl Hodl,” said Keidun. “I think the main use cases for our API are OTC trading desks, bitcoin wallets and aggregators. For example, our first integration is Yadio — a bitcoin price discovery platform from Venezuela. They were only using LocalBitcoins data, but now they will be able to use our data as well by displaying our offer list.”
+
+As for the forthcoming BlueWallet integration, Keidun envisions more users accessing Hodl Hodl in more ways.
+
+“Basically, BlueWallet users will be able to buy/sell Bitcoin through the mobile app interface,” he said. “This will allow us to increase Hodl Hodl usage vie mobile phones. Some OTC desks are currently in [the] process of doing the integration as well.”
+
+In October 2019, the exchange announced the escrow API, to be released in March 2020.
+
+Following this most recent exchange API release, Keidun hinted at future improvements in user experience.
+
+“In January or February 2020 we will roll out very important changes to our platform, which will completely change our users’ experience and interaction with Hodl Hodl,” he said.

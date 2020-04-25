@@ -1,0 +1,45 @@
+DATE:  22.01.2020, 21:39:59
+TITLE: 2019 Saw Most Exchange Attacks Ever, With Hackers Becoming More Savvy
+URL:   https://bitcoinmagazine.com/articles/2019-saw-most-exchange-attacks-ever-with-hackers-becoming-more-savvy
+
+Ring in the new bitcoin halving cycle the right way: with us!
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+As cryptocurrency exchanges beef up their security to defend themselves against cyberattacks, hackers are responding in kind by amping up their techniques — and the data shows that they’re finding success.
+
+Cryptocurrency exchanges faced more successful attacks in 2019 than in any other year since bitcoin began trading on public exchanges in 2011, according to data compiled for a recent report from blockchain analytics firm Chainalysis. While the 11 attacks recorded in 2019 nearly doubled those conducted in 2018, the total damage ($282.6 million stolen in cryptocurrency in 2019 versus $875.5 million in 2018) was drastically less.
+
+The total amount of funds stolen in both 2014 and 2018 — which each superseded the amount looted in 2019 — were the result of the industry-altering Mt. Gox hack in 2014 and the half-billion dollar Coincheck hack (from which the spoils were mostly in NEM), respectively.
+
+Excluding these two hacks, 2019 was actually the worst year for the total amount of assets seized through hacks or similar attacks, such as phishing. However, the average number of assets stolen per hack decreased last year from 2018. This damage was partly mitigated, Chainalysis points out, by enhanced security measures and more appropriate custody practices; more exchanges, for instance, are storing fewer funds in hot wallets than they did in previous years.
+
+“Only 54% of the hacks we observed in 2019 took in more than $10 million, compared with all hacks in 2018,” Chainalysis’ blog post reads. “While the increase in the number of individual hacks should be concerning, the data indicates that exchanges have gotten better at limiting the damage any one hacker can do.”
+
+Cryptocurrency Exchange Hackers Improve Tactics
+
+Still, as exchanges improve their defenses, hackers are improving their offensive strategies as well.
+
+During a $40 million hack of the cryptocurrency exchange Binance in 2019, for instance, the attackers used a combination of malware and phishing to bypass security and override the multisignature key signing that is required for withdrawals.
+
+In this war of data, as evidenced by the hard numbers Chainalysis’ research has produced, blockchain analysis is also becoming more sophisticated as attacks become more complex. And yet again, malicious actors have responded to the intensified scrutiny with greater agency to obscure funds.
+
+Specifically, they are using CoinJoin and mixers (which were practically never used prior to 2019, in part because reliable joining markets didn’t manifest until late 2018) to muddy the trail — to little avail, though, as Chainalysis can still trace funds with relative certainty.
+
+In fact, to ensure that its methods aren’t exposed, “[they] have to be very careful when publishing research so [they] don’t give [hackers] a blueprint,” Chainalysis economist Kim Grauer told Bitcoin Magazine. “To what extent are we allowing criminals to know what we’re capable of so that they can adapt their strategy accordingly?”
+
+She added that “there’s reason for us to believe that they know what we’re capable of doing,” referring to the newfound urgency of hacking syndicates to not only mix coins but move them to exchanges for liquidation. Before 2019, it was not uncommon for the infamous North Korean Lazarus Group, for instance, to wait 500 days before moving funds. But last year it spared less time, often moving them in under two months post-hack to liquidate them on exchanges with relatively loose KYC requirements.
+
+While Chainalysis believes that Lazarus is behind more attacks, Chainalysis has only published data on its $7 million DragonEx hack — as stated before, it doesn’t want to expose its hand on the other hacks that it believes Lazarus is involved in for fear of giving it a chance to circumvent surveillance.
+
+Cashing Out
+
+While unable to speak directly about the Lazarus Group, who is believed to have been involved in numerous exchange hacks to help North Korea fund its nuclear program, Grauer said that “Tether is a big part of” cashing out for most other syndicates. In other cases, the criminals are looking to convert altcoins to bitcoin.
+
+These on- and off-ramps are proving to be the last line of defense in the war against cybercrime. Indeed, Chainalysis and law enforcement can’t control what happens after funds are stolen, but with cooperation from exchanges, it can stanch the flow of funds through these exit points.
+
+These incidents are “already very much on the radar” of law enforcement, Grauer said, citing active investigations into 2019 hacks. Now, Chainalysis hopes exchanges will adopt its know-your-transaction (KYT) tools to keep tabs on stolen funds and to flag high-volume transfers directly from mixers — a tell that these funds may have come from illicit seizure.
+
+With some 50 percent of funds stolen in 2019 still waiting to be liquidated, according to Chainalysis data, these KYT measures, which Binance alone is currently employing, could help officials find funds after the fact. But it will be up to law enforcement agencies to track down and book the culprits because, as Grauer reminded us, blockchain analysis is just one of the weapons in their arsenals.

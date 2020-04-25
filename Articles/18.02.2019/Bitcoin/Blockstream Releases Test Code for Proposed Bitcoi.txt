@@ -1,0 +1,25 @@
+DATE:  18.02.2019, 20:55:41
+TITLE: Blockstream Releases Test Code for Proposed Bitcoin Tech Upgrade Schnorr
+URL:   https://www.coindesk.com/blockstream-releases-test-code-for-bitcoin-tech-upgrade-schnorr
+
+Schnorr signatures, a code change likely to be one of the biggest coming upgrades to bitcoin, have now gone from a theoretical idea to real code courtesy of technology startup Blockstream.
+
+Announced Monday, Blockstream has added a technology known as “MuSig” to its test cryptographic library, making it possible for developers to tinker with the Schnorr signature scheme and potentially find bugs.
+
+That the code is being opened up to the public to test is an exciting step because, if Schnorr is one day added to bitcoin, the new digital signature scheme could add privacy and bitcoin scalability improvements down the line. As such, developers have been eyeing the technology for quite some time.
+
+Blockstream mathematician Andrew Poelstra wrote in the announcement blog post:
+
+“We’ve been turning MuSig from an academic paper into usable code, and this week we merged that code into secp256k1-zkp, a fork of secp256k1, the high-assurance cryptographic library used by Bitcoin Core.”
+
+It’s been a theoretical upgrade for years, with cryptographers making mathematical progress last year necessary to ensure the scheme’s security. This will be the first time the code opened up for testing.
+
+“To address these concerns, we started an initiative to design a new signature scheme, and a significant practical engineering effort to implement it in a robust and antifragile way,” Poelstra added.
+
+Most bitcoin developers think it’s a positive upgrade and some have already started thinking about what new technologies can be built on top of it. For instance, developers have theorized how it could help anonymize lightning transactions, considered to be a more feasible and speedy system of payments on bitcoin.
+
+“As the bitcoin community is exploring the use of Schnorr signatures in bitcoin we hope that our code will eventually be merged into the upstream library secp256k1 used by bitcoin core and many other projects,” Poelstra added.
+
+To that end, he invites developers to play around with the code, which can be found on GitHub and to give feedback.
+
+Andrew Poelstra image via CoinDesk

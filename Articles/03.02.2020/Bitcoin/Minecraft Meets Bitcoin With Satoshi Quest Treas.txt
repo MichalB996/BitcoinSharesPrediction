@@ -1,0 +1,39 @@
+DATE:  03.02.2020, 22:00:13
+TITLE: Minecraft Meets Bitcoin With ‘Satoshi Quest’ Treasure Hunt
+URL:   https://bitcoinist.com/minecraft-meets-bitcoin-with-satoshi-quest-treasure-hunt/
+
+Bitcoin Minecraft Meets Bitcoin With ‘Satoshi Quest’ Treasure Hunt
+
+A new Minecraft server called SatoshiQuest has been launched, providing an online treasure hunt where the prize is real bitcoin. Players pay $1 in bitcoin to play, which is pooled into a prize fund for the winner to find. Rinse. Repeat.
+
+
+
+A New Way To Mine Bitcoin
+
+Each player has a unique in game wallet address linked to their Minecraft user ID. Buying a life in the treasure hunt costs $1, with bitcoin conversion rates being recalculated every 15 minutes.
+
+90% of the money raised through entrance fees goes to the treasure fund, with 10% going to the developer to cover server costs.
+
+Active players then search the vast Minecraft landscapes in search of the hidden bitcoin treasure. When a player gets close to the treasure, their location is broadcast to the other players. This gives them a chance to still get to the treasure first, and supposedly will stop players camping on the loot spot.
+
+Although one would hope that there are enough loot spots to make this tactic unprofitable anyway.
+
+When a player finds the loot, they receive 85% of the fund, with 15% going back into the next round’s loot pot. All other players lose a life.
+
+All Transactions Are On Chain
+
+One thing that may put off potential players is the fact that all transactions are on chain. This means that every $1 entrance fee paid by a player will also require a transaction fee. While this is currently around $0.25-0.30, any increase in bitcoin price is likely to see fees rise again.
+
+It will be interesting to see how many people choose to enter when they are paying $1 or more in fees for every one dollar life they purchase. Multiple lives may be purchased at the same time however, to split the transaction fee between several plays.
+
+It may seem like this is crying out for a Lightning Network implementation, and the developer is certainly open to an LN fork, but has no experience with coding for LN himself.
+
+There was a Minecraft server denominated in bitcoin which used Lightning Network, called Bitquest, which featured in our ‘Top Lightning Apps’ article a year ago. Players were rewarded in Bits/Satoshis for killing monsters, and could also trade with other players or import from an outside wallet.
+
+While this was unfortunately closed down in the summer of last year, some of the code for SatoshiQuest was forked from that project.
+
+What do you think of this new SatoshiQuest Bitcoin game? Let us know your thoughts below!
+
+
+
+Images via Shutterstock

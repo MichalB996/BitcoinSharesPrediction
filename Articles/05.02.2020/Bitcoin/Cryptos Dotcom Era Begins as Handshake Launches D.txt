@@ -1,0 +1,49 @@
+DATE:  05.02.2020, 22:36:49
+TITLE: Crypto’s Dotcom Era Begins as Handshake Launches Decentralized Domains
+URL:   https://news.bitcoin.com/cryptos-dotcom-era-begins-as-handshake-launches-decentralized-domains/
+
+Crypto’s Dotcom Era Begins as Handshake Launches Decentralized Domains
+
+Handshake, one of the more original crypto projects to have spawned during the ICO era, has completed its long-awaited launch. The decentralized domains registrar, founded by MIT engineers, has spent the last year in stealth mode but is now opening up to the general public. The Handshake protocol, coupled with the Namebase registrar, enables users to search and bid on domain names in a transparent manner. In the coming weeks, hundreds of coveted top level domains such as /source and /dining will go up for auction, prompting a bidding war.
+
+Also read: Craig Wright’s ‘Bonded Courier’ Allegedly an Attorney Who Can’t Communicate
+
+
+
+Handshake Mainnet Goes Live, Decentralized DNS Arrives
+
+Handshake has gone live, with its genesis block encoded into BTC block 615817, and the first trades involving Handshake coins (HNS) on the books of Namebase exchange. The decentralized, permissionless Handshake protocol enables users to buy and sell DNS names via Namebase, a domain registrar and crypto exchange. Recently, the Internet Corporation for Assigned Names and Numbers (ICANN) caught flak after agreeing to sell the rights to .org to a private equity firm. Namebase’s architects are adamant that the best way to govern internet names is by decentralizing the authority that governs them. This is achieved by building on top of Handshake.
+
+“Our waitlist has grown 3x over the past two weeks,” Namebase CEO Tieshun Roquerre told news.Bitcoin.com. “People are buying and trading HNS — that’s to be expected — but what’s excited me most is that people are adding domains to their watchlist. In the coming week, we’ll open up Namebase to the general public and enable anyone to trade HNS and buy Handshake domain names.”
+
+The D Is for Decentralized
+
+At present, domain names rely upon centralized bodies who retain de facto control of systems. Established in 1983, DNS – Domain Name Systems – are an integral part of internet architecture but, despite being used by billions, they are controlled by just a few well-placed entities. This makes seizing and censoring domain names a walk in the park for governments with vested interests, for example, in suppressing dissident content. While we often hear about China’s aggressive censoring of Google, Youtube, and Facebook, even supposedly democratic governments can take down sites and pursue domain authors with comparative ease – just ask Megaupload’s Kim Dotcom.
+
+The centralized nature of the existing domain-naming framework also means it is vulnerable to hacking. ICANN currently sits at the summit of the DNS hierarchy, deciding who gets which domain; it also requires a $185,000 application fee to request a new top-level domain (TLD), and applications for new TLDs are currently closed. The for-profit corporation Verisign, meanwhile, owns .com. In this milieu, registering domains anonymously is far from easy.
+
+Tradable Domains Onchain
+
+The Handshake public blockchain, which like Bitcoin uses Proof-of-Work mining, positions itself as an experimental base layer for a new, wholly decentralized internet, and seeks to become a viable alternative to existing Certificate Authorities. A pro-privacy, peer-to-peer root naming system, Handshake allows anyone, anywhere, to register a domain name that is impervious to censorship and seizure – all without having to reveal their identity.
+
+Handshake’s naming protocol is distinct from its predecessors, eschewing the concept of namespacing or subdomains at the consensus layer. Its ambition is not to overhaul DNS as it currently exists, but to replace the root zone file and root servers – the “lowest” rung of the internet’s architectural stack. In the protocol, every peer validates and manages the DNS naming zone, with economic incentives ensuring a transparent name auction process. As the sole unit of account, HNS coins are used by participants to register, transfer and update internet names, while community members initiate auctions and make bids for top-level domains. In the Handshake ecosystem, the value of domains differs based on perceived value.
+
+Improving Security and Repelling Attacks
+
+Because Handshake’s domains are distributed on a public blockchain, rather than living on a central server, they are resistant to theft, tampering, and censorship: only owners of registered domains can update or transfer their names using their own private keys.
+
+As it currently stands, Certificate Authorities can compromise the security of SSL by issuing bad certificates or facilitating government efforts to spy on encrypted traffic. Moreover, the way DNS is currently centered on a handful of chokepoints allows for DDoS attacks, for example, the malicious 2016 attack on Dyn.
+
+The top 100,00 websites, determined by Alexa rank, have been allocated Handshake domain names and $115 million worth of HNS dispersed to developers in an airdrop. As well as being able to register typical .com and .org addresses, users can select unique domains (.blank) and accrue coins whenever other users register a subdomain to it.
+
+Handshake is one of many forms of dissident tech hoping to fundamentally reshape the internet, eliminating the need for centralized gatekeepers and omniscient overseers. It’s an ethic crypto holders can certainly rally around, and Handshake can be filed in the same folder as decentralized networks like Orchid and Helium and privacy-oriented browsers like Brave.
+
+“Right now Namebase is the only place you can go to trade HNS, and we’ve partnered with the mining pool 6block to provide early liquidity,” explained Tieshun Roquerre. “In the next few months, you can expect a slew of tooling, products, and partnerships that make Handshake domains more powerful and easier to use. I expect that by the end of 2020 most people using Handshake won’t even know it’s powered by a blockchain.”
+
+What are your thoughts on Handshake and Namebase? What domain names would you bid for? Let us know in the comments section below.
+
+Disclaimer: This article is for informational purposes only. It is not an offer or solicitation of an offer to buy or sell, or a recommendation, endorsement, or sponsorship of any products, services, or companies. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.
+
+Images courtesy of Shutterstock.
+
+Did you know you can verify any unconfirmed Bitcoin transaction with our Bitcoin Block Explorer tool? Simply complete a Bitcoin address search to view it on the blockchain. Plus, visit our Bitcoin Charts to see what’s happening in the industry.

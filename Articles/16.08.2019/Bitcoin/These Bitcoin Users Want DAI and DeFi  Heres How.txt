@@ -1,0 +1,35 @@
+DATE:  16.08.2019, 21:15:24
+TITLE: These Bitcoin Users Want DAI and DeFi – Here’s How They Plan to Get It
+URL:   https://www.coindesk.com/these-bitcoin-users-want-dai-and-defi-heres-how-they-plan-to-get-it
+
+Summa co-founder James Prestwich wants to bridge the great divide: bitcoin vs. ethereum.
+
+Now his firm is teaming up with fellow blockchain startup Keep to launch the Cross-Chain Working Group, which aims to create a protocol for using bitcoin on ethereum-based systems.
+
+The group hosted its first meeting on Thursday with more than 40 participants, including curious representatives from interoperability protocol Cosmos and Ripple’s investment arm, Xpring.
+
+“The goal is to provide a platform for developers, other than those employed by a base chain, who work across chains,” Prestwich told CoinDesk.
+
+He said nearly 10 other companies have applied to join this group making tools for developers to work across blockchains, although official membership is yet to be determined.
+
+“It’s a wrapper but it’s a fully decentralized wrapper. I’d actually call it a new sidechain mechanism,” Matt Luongo, CEO of Keep’s parent company, Thesis, told CoinDesk. “It gives your a trustless peg, a supply peg, between the two chains.”
+
+In short, the bitcoin is deposited with a smart contract that requires multiple signatures to unlock funds. Key holders lock up crypto collateral, like ether, which the depositor can seize if the holders misbehave. In the meantime, the depositor is essentially given a crypto equivalent of ethereum-compatible tokens that represent the bitcoin, called tBTC.
+
+As such, the user can conduct ethereum transactions like taking a collateralized debt position with MakerDAO’s stablecoin DAI, yet eventually cash out the results as bitcoin. There is clearly demand for dollar-pegged DAI loans, which are generally liquidated for fiat then paid back to unlock the crypto collateral. According to DeFi Pulse, there is roughly $256 million worth of crypto locked in MakerDAO loans alone.
+
+“Now bitcoiners can get loans and get access to DAI,” Luongo said. “All of us being able to get access to the equity of our bitcoin holdings would be pretty powerful.”
+
+It takes a village
+
+Thesis investor Charlie Noyes of Paradigm told CoinDesk tBTC represents “a meaningful improvement over previous efforts to make bitcoin more extensible,” without compromising on bitcoin’s security or decentralized ethos.
+
+The working group’s goal is to launch an ethereum-based tester app with access to bitcoin this fall and a tBTCmainnet by Q4. Keep investor Olaf Carlson-Wee of Polychain Capital told CoinDesk he sees this protocol as “critical infrastructure” for the broader ecosystem.
+
+“Different blockchains, instead of being siloed, will be able to communicate with one another and interact with one another,” Carlson-Wee said. “When you think longer term, is the start of a universe of interaction across blockchains … where tokens can freely move across blockchains. This is the first step toward that inevitable future.”
+
+Speaking of the motivation behind forming this group to make tBTCl, rather than both startups doing it proprietarily, Luongo concluded:
+
+“We want other folks to be able to come in, contribute, and help launch this with us.”
+
+Summa founder James Prestwich at the first Cross-Chain Working Group meeting in San Francisco (photo via Keep)

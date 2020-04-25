@@ -1,0 +1,47 @@
+DATE:  05.06.2019, 10:00:47
+TITLE: Why is BitPay Still Lying About Bitcoin Transaction Fees?
+URL:   https://bitcoinist.com/why-is-bitpay-still-lying-about-bitcoin-transaction-fees/
+
+Bitcoin Businesses Why is BitPay Still Lying About Bitcoin Transaction Fees?
+
+US cryptocurrency payment processor BitPay has come under fire again after appearing to steer consumers to use altcoin Bitcoin Cash.
+
+BitPay Disguises Revenue Ploy As BTC ‘Network Fee’
+
+A screenshot uploaded to Reddit June 5 appears to show part of the checkout process for domain name resource Namecheap, which allows cryptocurrency payments via a BitPay plugin.
+
+Confirmed by Bitcoinist, Namecheap allows you to top up an account using what it describes as “Bitcoin.”
+
+A user enters the amount they wish to pay, whereupon they are taken to a BitPay window, which presents them with an option to use either bitcoin 00 or bitcoin cash 00.
+
+Under the Bitcoin option, however, BitPay now includes an extra charge it calls a “network cost,” while the Bitcoin Cash field stays empty.
+
+This “network cost” would appear to refer to the transaction fee required to send bitcoin payments over the network, but its size gives cause for suspicion.
+
+For the Reddit user, a $15 Namecheap payment incurred a $2.19 “network fee,” while in Bitcoinist’s case, topping up $10 led BitPay to charge an extra $2.20.
+
+These ‘fees’ amount to 14.6 percent and 22 percent of the total transaction amount respectively – much more than the actual fee required to send transactions of that size.
+
+BitPay Continues To Deceive Bitcoin Users
+
+Reddit commentators suggested that BitPay was in fact including a service charge and disguising it as the transaction fee, keeping the extra for its own books. In addition, it served to make BCH look like a better, more transparent option than BTC.
+
+The solution, the most popular response claimed, was to urge Namecheap to follow other businesses and ditch BitPay in favor of an open source payment gateway such as BTCPay.
+
+“BitPay sucks. We should try to get Namecheap to run their own BTCPay server,” it reads.
+
+The PR incident is by no means an isolated incident for BitPay, which previously lied about the size of fees required to send BTC.
+
+Shunning SegWit to Save on Fees
+
+The company has gained the scorn of users and industry figures alike for its support of BCH and lack of progress implementing features which would reduce BTC transaction fees.
+
+As Bitcoinist reported, using SegWit, for example, would reduce the cost and time to send a transaction, and its absence effectively forces the company’s own users to pay more unnecessarily.
+
+Similar criticism has landed at the door of popular wallet provider Blockchain.com, as well as US exchange Coinbase, which launched SegWit last year but has so far failed to adopt other procedures.
+
+BitPay’s appeal is already limited, as a community backlash means that finding a wallet which supports its invoices is difficult. Invoices do not easily allow users to manually pay using a Bitcoin address, something which has formed further grounds for frustration.
+
+What do you think about BitPay’s hidden fees and Bitcoin Cash advocacy? Let us know in the comments below!
+
+Images via Shutterstock

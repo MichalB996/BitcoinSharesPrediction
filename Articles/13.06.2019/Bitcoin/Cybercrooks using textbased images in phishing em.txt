@@ -1,0 +1,57 @@
+DATE:  13.06.2019, 10:38:00
+TITLE: Cybercrooks using text-based images in phishing emails to bypass spam filters
+URL:   https://portswigger.net/daily-swig/cybercrooks-using-text-based-images-in-phishing-emails-to-bypass-spam-filters
+
+HKCERT issues warning over spate of sextortion emails
+
+The Hong Kong Computer Emergency Response Team (HKCERT) is warning residents of a large-scale phishing campaign that seeks to extort victims through claims that video footage of them browsing adult websites will be leaked.
+
+In a recent security alert, HKCERT said it has received “scores of reports of ransom emails” informing users that their devices have been compromised by malware – specifically a remote access trojan (RAT) – that allowed the hackers to record their activities online.
+
+Unless a ransom is paid, the attacker says a video clip of the victim browsing adult websites will be released.
+
+“In some cases, the senders went as far as to say that they had complete control of the recipients’ computers and their malware could evade the detection of antivirus software,” the alert reads.
+
+In reality, however, there is no evidence that any of the victim’s devices had been compromised.
+
+And although copies of the victim’s email password were included in the phishing email, it’s thought that these passwords were obtained through leaked datasets from previous breaches.
+
+Fresh phish
+
+So-called ‘sextortion’ emails are far from a new phenomenon, but what’s notable about this latest campaign is that the ransom text is contained within images – an approach that HKCERT says is in an attempt to bypass spam filters.
+
+
+
+“These ransom emails… are made up of one or multiple photos to evade detection by the junk mail filter,” it said. “Also, the bitcoin address for ransom payment now comes in a QR code.”
+
+This is not the first time hackers have been seen to smuggle their extortion demands within images – nor is it the first instance of QR codes being used to disseminate bitcoin addresses.
+
+In February, SANS Internet Storm Center published an example of a sextortion email variant that utilized both text-based images and QR codes.
+
+The following month, SpiderLabs, the threat intel division of cybersecurity vendor Trustwave, published its own research into the use of QR codes in extortion spam email campaigns.
+
+“Recently, we saw a new campaign arise, with the same intention of extortion, but with a new gimmick involving images and QR codes,” said SpiderLabs researcher Homer Pacag.
+
+“Our traps captured up to 15,000 per day, indicating a large campaign.”
+
+Code of silence
+
+Growing evidence of the use of text-based images and QR codes in phishing emails shows that hackers are going to increasing lengths to maximize the distribution of their illicit campaigns.
+
+
+
+Fortunately in this instance, there is no evidence to suggest that any of the victims have bowed to the hackers’ demands.
+
+“As HKCERT is aware, none of the victims in the reported cases did actually pay the ransom,” Edmond Lai, chief digital officer for the Hong Kong Productivity Council (HKPC), told The Daily Swig.
+
+On the downside, Lai said there is little chance of catching the perpetrators, as the ransom emails are mostly being disseminated through open email relays with “lax access control”.
+
+With this, HKCERT reiterated its phishing security advice to internet users:
+
+On top of regularly updating their mobile phones or computer systems and installing security software, if email service users suspect their accounts might have been compromised, they must immediately change the passwords and apply not-easily-cracked passwords and two-factor authentication to access online services, while remembering to change the passwords from time to time. In addition, upon receipt of ransom and other suspicious emails, they must not open any attachment or click any link in the email, and are advised to do an offline backup.
+
+Lai added: “In general, HKCERT advises the victims of such emails not to pay the ransom. It also informs them that the ransom emails are not targeted, and the so-called hacking activity might never take place and only serves to coerce them into paying the ransoms.”
+
+This latest warning from Hong Kong comes as new research from Valimail indicates that at least 3.4 billion phishing emails are sent around the world every day.
+
+RELATED Why it’s time to shed passwords for 2FA and beyond

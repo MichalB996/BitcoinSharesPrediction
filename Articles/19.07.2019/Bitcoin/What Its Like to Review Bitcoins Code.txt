@@ -1,0 +1,81 @@
+DATE:  19.07.2019, 12:00:06
+TITLE: What It’s Like to Review Bitcoin’s Code
+URL:   https://www.coindesk.com/what-its-like-to-review-bitcoins-code
+
+On June 19, Chaincode developer John Newbery gathered a group of developers to examine a proposed change to bitcoin’s code.
+
+Taking place via Internet Relay Chat (IRC), the topic was whether the change, which would help prevent a group of rogue miners from speeding up the rate at which bitcoin’s blocks are produced, is a positive one with limited security risks or adverse impacts.
+
+Newbery’s goal, then, is to pass on what he knows about reviewing such code.
+
+Was this ‘timewarp attack’ stopper a solid change?
+
+“The timewarp exploits this by pushing the difficulty adjustment block way into the future, and then the next block back into the present,” Newbery wrote, explaining the attack vector.
+
+But the fact that Newbery is even holding these sessions at all can be seen as a sign of the maturity of bitcoin’s developer community, as this is one example of how project’s top coders have been hard at work making the project more inclusive. The process for reviewing code perhaps hasn’t been discussed so openly and in-depth before.
+
+Newbery started the Bitcoin Core Review Club to give coders tips on how to figure out how to review a change and determine if it’s beneficial for the cryptocurrency. Meetings transcripts are now posted on the website every week.
+
+That this is possible is because bitcoin’s code is open source, residing on GitHub for anyone with an internet connection to look at – or even change. This process has driven the project from code people once called a “monolithic blob” to software that’s easier for easier for developers to read with less critical bugs. People are constantly trying to improve it, with the lofty end goal of making it a worthy code base for the future of money.
+
+So, it’s also possible to be one of the people who contributes to bitcoin’s code. Unlike proprietary code, its code anyone can see and use – what’s known as “open source.”
+
+One reason it’s called “programmable money” is that unlike other digital money, anyone in the world with the right knowledge can try to add new code features to the money. One of the ways to learn the codebase is to review and test the code programmers submit, to make sure it actually works, and doesn’t introduce a bug or — an unfortunate reality — accidentally split the bitcoin network in half.
+
+But looking through the pages of code and hundreds of proposed changes, it’s hard to know where to start.
+
+“This weekly IRC club is for people who want to help review Bitcoin Core pull requests but find the process intimidating,” the website for the club explains, continuing:
+
+“Reviewing and testing pull requests is the best way to start contributing to Bitcoin Core, but it’s difficult to know where to start. There are hundreds of open pull requests, many require a lot of contextual knowledge, and contributors and reviewers often use unfamiliar terminology.”
+
+As such, while the code for this digital currency is out in the wild for anyone to look at or change, it’s not necessarily easy to do so. It takes practice to know what to review.
+
+Here’s what the process is like.
+
+Anyone can do it
+
+To begin, users can go to GitHub, a website that hosts all sorts of open-source code projects. There’s one specifically for Bitcoin Core, the underlying bitcoin software implementation that most users run.
+
+You’ll notice that there’s a lot to GitHub, but reviewing the code is basically looking at “pull requests,” a series of changes that developers across the ecosystem have submitted for review.
+
+In other words, there are 300 changes that haven’t been reviewed enough yet to be officially added to the codebase, from making the documentation describing the code easier to read to improving the performance of bitcoin.
+
+At this point, developers are trying to decide whether these changes should be approved. The problem is that there are limited developers who have enough experience reviewing code changes to determine whether they should be officially added to the codebase. Because of this, one Bitcoin Core contributor once described the list of pull requests as a “graveyard of cool ideas.”
+
+That’s why Newbery is trying to help along this process.
+
+So, how does one actually go about reviewing a change? As Newbery describes on the club website, there are a few key steps to get started, like looking through the “contributing to Bitcoin Core guide” and tinkering with C++, the programming language Bitcoin Core is written in.
+
+The next is simply picking a change to review. With over 300 pull requests alive and kicking, where does one start? The best picks for someone who doesn’t know the codebase yet are code changes that are specifically labeled “good first issues.”
+
+When the preliminaries are over with, the developer needs to “clone” the repository, or use git to make a copy of the codebase to their computer so they can test that the change works as planned.
+
+It only takes a simple command to copy the whole codebase to your computer.
+
+From there, you can review the pull request. Said developers should then run all of the “tests,” to make sure the code change doesn’t accidentally trip up another piece of code, then move toward reviewing the rest of the code.
+
+Inside a reviewer’s mind
+
+What do reviewers need to think about?
+
+First, there are high-level concerns. Determining whether a change should be made, especially a critical one, is basically based on “rough consensus,” meaning most active contributors would agree a change should be pursued.
+
+In another club meeting, Newbery said:
+
+“My thoughts about opening pull requests: no-one owes you a review. Anyone who reviews your code is doing you a favour. If you open a pull request, you’re competing with other pull requests for review time.”
+
+“If in doubt about how useful other people think your pull request will be, feel free to ask in #bitcoin-core-dev, or by directly asking other contributors,” Newbery added, referring to another IRC group where developers can ask questions related to Bitcoin Core development.
+
+That said, developers don’t always agree on whether a change is worth adding or not. One week the group of developers focused on a contentious code change. Some argued the bad outweighed the good, while others still argue it could be useful.
+
+But even if the idea is a good one in general, there are also lower-level concerns. Are there bugs? Does the code change come with tests that ensure the code change works as planned? These are the questions a lot of reviewing time is spent answering.
+
+In the May 29 meeting (of which you can find the full transcript here), for example, developers looked through a performance enhancement for the wallet portion of the bitcoin node.
+
+A contributor going by the pseudonym ‘Ariard’ led the meeting by going through the review process they’ve developed over time. “I tried first to identify which kind of PR it was: Doc, code style, buf fix, new feature, or test addition. Because [in my opinion] knowing this fact is going to guide how you read commits first time, how much time you will need for review and which kind of tests needed,” the developer said.
+
+Another reviewer pointed out that they noticed an improvement just by checking how long the code took to run – before and after. “My 10000 key import went from 8 minutes to 3 seconds xD,” said another user going by the name ‘jb55.’
+
+The transcripts of the meetings are further littered with various other tips about how to streamline this process and make it easier to review, with more meetings to be scheduled in the future. The next couple of sections will be led by bitcoin technical writer and contributor David Harding.
+
+Adam Back image via Consensus archives

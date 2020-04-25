@@ -1,0 +1,85 @@
+DATE:  18.02.2019, 18:47:10
+TITLE: SEC on bitcoin ETFs , CFTC: exchanges should self-regulate
+URL:   https://www.ledgerinsights.com/sec-bitcoin-etfs-cftc-cryptocurrency-self-regulate/
+
+Last week Hester Peirce, Commissioner at the U.S. Securities and Exchange Commission (SEC) and Brian Quintenz Commissioner at the U.S. Commodity Futures Trading Commission (CFTC) talked about blockchain and cryptocurrencies at a Bipartisan Policy Center event.
+
+Executive summary
+
+The SEC’s Peirce noted that in the past the SEC has given the green light for Exchange Traded Funds (ETF) which are based on underlying assets that are not regulated. So she is concerned about the reasoning behind any Bitcoin ETF rejections.
+
+CFTC’s Quintenz highlighted how the structuring of one of the Bitcoin futures helps to mitigate risks of manipulation.
+
+Quintenz also suggested that exchanges should self regulate.
+
+And Peirce wants to ensure that the sector is given room to flourish rather than a pure focus on regulation.
+
+Transcript
+
+Ben White: So I wanted to ask you, Hester, whether you think the SEC and other regulators generally take a too restrictive approach to cryptocurrencies, then we can get into ETFs. But let’s just start with a general overview of: is regulation in this area burdensome, too restrictive from your perspective?
+
+ETFs
+
+Peirce SEC: Well, I don’t know if restrictive of is the word that I would use. I think I would use too confusing and not… I think we need to do a better job in explaining to people how our rules apply to this sector. It is actually an area where I think Brian and I are interested in working together as well because I think there’s, you know, there are questions about where your [CFTC] jurisdiction ends and ours begins.
+
+And again, we don’t want to have overlap there. So, you know, my main concern has been that I think we need to do a better job providing guidance. You know, obviously a lot of people are out there raising money and just calling it crypto and saying, “ah we can avoid the Ssecurities laws”, and that’s not what I’m talking about.
+
+But there are areas, they’re gray areas. And I think we need to do a better job in sort of laying some groundwork for how someone would come to decide which side of the line they’re on. And so I hope that we can do that. Now, I think, we have been at the SEC, we’ve been unwilling to, for example, sign off on a Bitcoin ETF, an exchange-traded product based on bitcoin.
+
+Thus far we haven’t allowed that. And my concern about our approach in that area is it looks a little bit like a merit based approach judging the underlying Bitcoin markets and saying we don’t think that these are regulated enough. Well, you know, there are lots of markets that aren’t regulated but we nevertheless build products on top of them.
+
+And so I think we have to be very careful with that kind of reasoning.
+
+Ben White: And same question for you Brian. I mean who should be regulating this? How do you divide up the responsibilities for it? And then. You know, when are we going to get a Bitcoin ETF?
+
+Quintenz CFTC: Well, the second question is not in my jurisdiction. That’s purely for Hester.
+
+But there are some considerations there, through the experience that we’ve had through the listing of Bitcoin Futures contracts by two exchanges. You know, we have a process in the Commodity Exchange Act that allows the exchanges to self-certify a contract if they believe it meets the requirements of the Act.
+
+We have a review period in which we can say “no, we disagree with you” and here’s why. But if we don’t disagree they have the opportunity to go ahead and self certify that contract. And both exchanges pursue that self-certification.
+
+So these contracts get listed without our approval. But also without our disapproval that it doesn’t meet the terms of the statute. Our jurisdiction over those contracts requires that they not be readily susceptible to manipulation. So it’s not “not be manipulated in any capacity” because that’s… I think, we can all acknowledge that with a certain amount of time and a certain amount of resources almost anything can be manipulated.
+
+Then there’s the question of how easily can we discover it, and usually it’s very easily. But there are mathematical ways through a settlement index to design a contract where even if there isn’t a lot of liquidity on one exchange that’s referenced, the index itself is not readily susceptible to manipulation.
+
+For instance, in one of the Bitcoin Futures contracts, they settle it to multiple volume weighted average prices in five minute increments over the course of an hour, across multiple exchanges. So if one participant wanted to manipulate that settlement index, they would have to have the majority of volume on multiple exchanges in multiple five minute periods.
+
+Could they do it? Maybe. What do we know about it? Immediately. So, you know, I think there are things that… There’s value we can add to the conversation in terms of how some of these things have been constructed that prevent our concerns of manipulation from being present in the marketplace.
+
+Self regulation
+
+But back to the regulatory landscape. You know, there’s the difference between commodities and securities is significant, because we only have fraud and enforcement jurisdiction over the commodity space. Our oversight jurisdiction is over the commodity derivatives space. So the trading of commodities themselves, think like eBay, we don’t have any type of oversight over that.
+
+The spot market. And I think that that’s interesting and appropriate. So but that also means now that you have very large platforms. I don’t call them exchanges, I call them platforms. Platforms that are trading in an enormous number of volume quantity of vommodities that have no necessarily oversight standards.
+
+And that’s not necessarily a bad thing if they can implement a free market approach to solving those problems. But because of our lack of statutory oversight capability I’ve suggested that these platforms come together to form some type of self regulatory structure. Where they can discuss, agreed to, implement and hopefully examine or audit themselves, you know through an independent third-party or however they view is appropriate.
+
+To some level of Standards from conflicts of interest, business conduct, insider trading, redemptions, custody, liquidity. That’s that’s an evolving landscape. There’s been some interest in that concept. I’m encouraged by the progress. I kind of view it as a 400-meter dash and they view it as a marathon and I think hopefully it might be somewhere in the middle.
+
+It will take some time for sure.
+
+Ben White: This is sort of like a FINRA for crypto. The crypto world is what we’re talking about.
+
+Quintenz CFTC: Yeah, but you know just as a distinction you know FINRA and NFA, I don’t know NFA specifically but a self-regulatory organization is specifically chartered by Congress through the law. This would not be. It would just be a mutual association of private industry.
+
+Ben White: Yeah, I guess Hester how much does it matter the definitional nature of something like Bitcoin, you know, is it a method of payment or is it a security? Because it seems to maybe be both but nobody really uses it as a method of payment now because you know, you hoard it and it becomes worth more or in my case when I bought one 23rd of a Bitcoin, it became worth a lot less. Does it matter how we define it?
+
+Peirce SEC: People do use it as a payment system. Not necessarily in the US, but I think there are other places where it is serving that function. But it does matter how we define it just because if we define it as a security a whole raft of regulations follow that definition. So I mean I think Bitcoin is probably not the example that I would use for where there’s a lot of gray but there are other there other cryptocurrencies where that line is much more difficult to draw.
+
+And it really does matter because it matters when you sell it. Is it as securities offering? And if it’s a securities offering you better do it in accordance with our regs or under an exception.
+
+Otherwise, you’re subject to having to do a rescission offer, which is not something that’s welcome. But I mean that’s that’s the reality of the rules that apply.
+
+Ben White: And how much abusive behavior is going on in the initial coin offering area.
+
+Peirce SEC: Well, I think everyone is you know, there was this big rush of people to do ICOs and there was there was a rush of people wanting to throw money at people doing ICOs.
+
+And so if someone’s willing to give me money, you know, hey, a lot of people had the attitude of alright, I’ll take your money and you know, I’ll throw out a white paper and I’ll take your money based on the white paper and then I’ll take the money and go to Maui. So certainly that’s going to happen at the beginning of any trend like this.
+
+And I think people have started to say “alright, before I give you my money, I want to see your white paper and I want to understand that your white paper actually matches what the code says and I want to think about what the background of the people who are promoting this ICO. What are their backgrounds?”
+
+And so there’s a lot more I think question asking and there’s a lot more analysis going on now, so I think you’re going to see money flowing toward ICO’s that are that are legitimate projects more than not. But you know as with anything, investors need to ask questions. Or anyone buying anything: ask questions before you give someone your money.
+
+So I think some of these standard lessons that we teach people apply equally well in this space. But I think there’s also a lot of promise and it’s a group of people who have really interesting ideas about how a lot of things that we’ve done one way might be able to be done a different way.
+
+And I don’t want to lose sight of the fact that there really is a possibility that we could improve people’s lives in the way people interact with one another through this medium of crypto. And so I don’t want to lose that through just thinking about the regulation.

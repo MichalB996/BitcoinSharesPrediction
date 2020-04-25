@@ -1,0 +1,23 @@
+DATE:  13.04.2020, 21:26:04
+TITLE: PieDAO is the newest way to manage crypto index funds
+URL:   https://decrypt.co/25392/piedao-newest-way-manage-crypto-index-funds
+
+What happens when a new community emerges to combine their financial IQ into automated smart indexes? The creators of PieDAO intend to find out.
+
+Developed by the minds behind crypto wallet Dexwallet and point-of-sale service Dexpay, PieDAO is a new decentralized organization allowing its users to vote on the creation and parameters of pooled index funds composed of different ERC20 tokens on the Balancer protocol. PieDAO’s DOUGH token is used for governance, and the DAO infrastructure for the project is provided by Aragon.
+
+Think of it as a decentralized ETF—pooled tokens that can be traded as assets themselves, just like a traditional exchange-traded fund.
+
+In an interview with Decrypt, Dexwallet CEO and PieDAO coordinator Alessio Delmonti explained how PieDAO distinguishes itself from other asset pools on Balancer, a non-custodial portfolio manager and liquidity provider that launched its pool manager and token exchange dapps just weeks ago.
+
+“PieDAO adds value by acting as a social layer to manage the pool,” Delmonti said. “[DOUGH holders] can monitor for funky stuff happening and for example stop trading as soon as they understand one asset might be at risk of failing, implementing a sort of circuit breaker mechanism similar to Maker’s emergency shutdown.”
+
+The first index—referred to among the PieDAO community as Pies— is BTC++, comprised of several Bitcoin-backed derivative tokens on the Ethereum blockchain. The BTC++ Pie contains equal weights of Wrapped Bitcoin (WBTC), synthetic Bitcoin (sBTC), pTokenised Bitcoin (pBTC), and Tokenlon’s imBTC that each represent a unique approach to collateralizing Bitcoin derivative tokens.
+
+Pies can be held as their own derivative token to gain weighted exposure to the underlying assets. Pies are also a source of liquidity for traders to swap between assets, providing free automatic rebalancing via the Balancer protocol.
+
+“Pies accrue fees in the underlying assets which get collected in a DAO treasury that DOUGH holders can redeem via the Redemption app,” Delmonti said. “Additionally, once the pools are big enough, governance could implement a fee sharing with the DAO for the services it provides.”
+
+A number of additional Pies have already been proposed, including USD++, which bundles stablecoins such as MakerDao’s DAI, Circle’s USD Coin (USDC), and Tether (USDT). Another is DeFi++, which bundles tokens like Maker (MKR), Compound (COMP), and Augur (REP).
+
+PieDAO has already sold out the first round of DOUGH token distributions, and nearly 14 BTC++ worth nearly $100,000 have been minted since Friday. Prominent members of the blockchain community are taking notice as well. Aragon Project co-founder Luis Cuende tweeted on Friday that PieDAO represents his first investment into an Aragon DAO since launching in 2016.

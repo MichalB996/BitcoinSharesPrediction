@@ -1,0 +1,23 @@
+DATE:  18.03.2019, 15:00:09
+TITLE: A Lightning API for Bitcoin Futures Data Has Launched
+URL:   https://www.coindesk.com/a-lightning-api-for-bitcoin-futures-data-has-launched
+
+An experimental service that allows users to pay for futures data from exchanges Kraken and BitMEX with bitcoin’s in-development lightning network is now live.
+
+Launched by Suredbits Monday, the application programming interface (API) allows developers access to information about available futures contracts, specifically, according to CEO Chris Stewart: “You will be able to subscribe to market data from those two exchanges with a payment over the lightning network.”
+
+This data from popular exchanges Kraken and BitMEX is normally free. In this way, the new service is not necessarily intended to be used. Rather it’s a proof-of-concept for how lightning network micropayments can be used to procure data.
+
+Suredbits thinks lightning will play a big role in the future of developer APIs because the payment network allows for smaller payments (often called “micropayments”), making it easier for developers to buy small amounts of data – maybe even less than a cent’s worth at a time.
+
+Stewart went as far as to call traditional market data and API models “broken,” adding:
+
+“We are using [the new APIs] to showcase that lightning allows [exchanges] to monetize things that are monetized at traditional exchanges. We are pushing the idea that lightning has a multitude of benefits when integrated into an exchange’s infrastructure that isn’t just related to withdrawals and deposits.”
+
+Lightning is still considered risky to use, with lingering bugs leading some users to lose money. But developers are still building on top of the network, since it’s widely seen as the future of bitcoin payments.
+
+Suredbits, a little startup from Iowa, is one of a few companies focused mostly on lightning projects. Yet, it’s part of a growing number of bitcoin startups tying the lightning network into their business.
+
+As another showcase, Suredbits (which launched on mainnet earlier this month) recently revealed a “playground” developers can use to test its service for retrieving NFL, NBA, and cryptocurrency market data – all using lightning.
+
+Electricity image via Shutterstock

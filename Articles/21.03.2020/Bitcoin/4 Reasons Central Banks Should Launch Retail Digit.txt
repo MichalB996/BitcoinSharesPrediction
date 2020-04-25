@@ -1,0 +1,70 @@
+DATE:  21.03.2020, 13:24:02
+TITLE: 4 Reasons Central Banks Should Launch Retail Digital Currencies
+URL:   https://www.coindesk.com/4-reasons-central-banks-should-launch-retail-digital-currencies
+
+Ajit Tripathi, a CoinDesk columnist, is an entrepreneur and crypto co-host at the Breaking Banks Europe podcast. Previously, he served as a fintech partner at ConsenSys and a co-founder of PwC’s UK Blockchain Practice.
+
+Before coronavirus hit the West in late February, the world’s attention was focused on billionaires saving the world in Davos. This year saving the world involved three things: 1. artificial intelligence, 2. climate change and 3. central bank digital currencies (CBDC). After the virus hit, we realized how dangerous banknotes could be and CBDC became an even hotter topic.
+
+While much of the discussion in social media has centered around whether a CBDC requires a blockchain, for most central banks, this is a secondary concern. As the Bank of England highlighted in its brilliant discussion paper recently, designing a CBDC involves making a large number of complex economic, technical and policy decisions. Among these, “Who will use the CBDC?” is the most important decision. Therefore, first we must understand what CBDC is and how it differs from other forms of money.
+
+CBDCs come in two main flavors. There’s wholesale CBDC, which is a digital currency designed for use by financial institutions. Then there’s retail CBDC, which is designed for use by individuals, households and corporations. While wholesale CBDC is much more useful from a financial markets and monetary policy perspective, retail CBDC is far more complex and interesting. It could ensure the public has continued access to a risk‑free form of money issued by the central bank, which may be especially important in the future as cash use declines and new forms of privately issued money become more widely used in payments.
+
+A CBDC is a central bank liability
+
+Let’s assume, for some strange reason, we all live in the U.S. and the Federal Reserve has read this article and decided to issue a digital dollar. In this scenario, this digital dollar is money that is a liability of the Fed. If you have a CBDC, i.e. a digital dollar, in your wallet, the Fed owes you a dollar. In that sense, a retail CBDC performs the same function as a banknote issued by the central bank. If it’s in your wallet and you haven’t stolen it from someone else, congratulations, it’s 100 percent your own and Uncle Sam owes you that money.
+
+A retail CBDC performs the same function as a banknote. In our example, if the Fed is still issuing paper dollars, you can ask the Fed to exchange your digital dollar for a paper dollar. In contrast, if you hold a stablecoin, such as Tether or TrueUSD, in your exchange account, the Fed owes you nothing. If all those Tethers were just smoke rings and you are suddenly REKT, well, that’s on you, not Uncle Sam.
+
+The money in your retail bank account today is also not CBDC because it’s just a number your bank says it owes you. If your bank fails, the most you can recover is the maximum FDIC-insured amount. The money in your PayPal wallet is also not CBDC because if you press the Send button and PayPal refuses to send that money to Bob, you can complain to the regulator but Uncle Sam doesn’t owe you that money.
+
+In short, CBDC is digital money Uncle Sam owes you. By extension, it’s money that only Uncle Sam can print and only Uncle Sam can burn.
+
+Who needs a CBDC?
+
+Many central banks around the world are designing and testing CBDCs, but the jury is still very much out on their efficacy and longevity as policies. In general, arguments about CBDC fall into three buckets:
+
+Digital revolutionaries are people who argue that now China is issuing a digital yuan, everyone who currently uses the U.S. dollar will immediately switch to digital renminbi and the great American empire will soon come tumbling down. There is little logical justification for such sweeping beliefs. But, let’s offend my revolutionary friends in another article, not this one.
+
+CBDC skeptics argue money is already digital. They note that in several western countries, most consumer payments are made through mobile banking, Venmo or PayPal, and the use of cash is diminishing rapidly. Digital money tracked in central bank ledgers exposes users to surveillance with little benefit. Skeptical officials at the Bank of England say that if consumers can hold central bank money directly, they will not want to hold any money with commercial banks in a time of crisis, thus causing banks, credit and monetary policies to fail.
+
+CBDCs can mitigate.. risks by providing a sound domestic internet based payments system for a wide range of consumer applications
+
+CBDC proponents like me argue a well-designed CBDC can increase the ability of the issuing central banks to conduct monetary and credit policy and promote financial stability, consumer protection, financial inclusion and cross-border payments. In this article, I will try to explain how.
+
+At the most basic level, money held in savings accounts or e-wallets is not backed by the full faith and credit of the central bank and therefore bears credit risk (i.e. that banks will run out of money). Since most of us have savings accounts with less money than the maximum amount the FDIC is willing to insure, this is generally not a problem. For small and medium businesses that hold several hundred thousand dollars with banks, or for large consumer purchases like homes, the risk of a bank going under or not being able to find enough liquidity to honor a payment instruction is small but real.
+
+Overall, there are four major reasons why many central banks will launch a retail CBDC over the next decade.
+
+Cross-border payments and digital identity
+
+To Facebook’s credit, unlike central banks it recognized that digital money is not about digitizing money. Digital money is about digitizing identity. This applies to CBDC, too. In fact, the greatest benefit of retail CBDC will be in accelerating the buildout of a coherent, national and global internet based digital identity infrastructure. This is when retail CBDC as a concept will start to deliver on the vision of peer to peer electronic cash. Now where have we heard that before?
+
+Let’s take an example. While domestic retail payments in many Organisation for Economic Co-operation and Development (OECD) countries are now free, cross-border payments remain a minefield of pain, cost and delays for consumers. If I send money to my mum in India, she has no digital identity in the U.K. and I have no digital identity in India. So my bank in the U.K. verifies that I sent the money, my mum’s bank verifies that she’s the person the money is for and both the banks verify (or at least hope) that neither I nor my mum is a nefarious character. Then the banks wait until they have compared their respective spreadsheets and make me wait for this reconciliation. Only after that, both the banks take a nice cut on the FX and send the rest to my mum. If the bank was in rural Ghana instead of Delhi, there’d probably be two more banks in this bank.chain, which would quadruple the delay and the pain.
+
+This whole process of cross-border payments is not only a pain for consumers, it also makes the global anti-money laundering (AML) regime ineffective and unenforceable. Instead, if the Bank of England and the Reserve Bank of India both were to rely on a shared set of data standards for their respective digital currencies and for the corresponding digital identity infrastructure, the checks can be fully automated, reconciliations eliminated and cross border internet based payments made instant, painless, reliable and free.
+
+Financial inclusion
+
+Unlike commercial banks, central banks are like public utilities. A few central banks might print money and bail out billionaires every few years, but none exist to make money. Therefore, in general there is little reason for a central bank to offer accounts directly to retail customers.
+
+However, in countries like Cambodia where banks are not very strong and most people don’t have a lot of money, a central bank partnering with fintechs can give millions of people access to a robust, fast, electronic payments system. This is exactly what Makoto Takemiya and Soramitsu have done with their Bakong Project for the Central Bank of Cambodia.
+
+Furthermore, even in first-world countries like Sweden, the U.S. and the U.K., there are thousands of people who are too poor for a commercial bank to serve profitably. Many such consumers are also not technically or financially savvy enough to use mobile-only services. Right in the middle of a relatively prosperous country like America, there is an invisible Cambodia hoping that a Bakong like CBDC will happen.
+
+Financial stability
+
+Let me state without proof that all money is debt. If you pay me with 10 libras, Facebook (strictly speaking, the Libra Association) owes me 10 libras more than it did before, and Facebook owes you 10 libras less than it did before. You in turn owe me 10 libras less than you did before. In that sense, a payment from you to me is a transfer of a debt obligation from you to Facebook. For this debt to be money, I need to be sure Facebook will be able to honor my claim when I ask Facebook to do so. If I don’t trust Facebook, I won’t accept your payment and those libras are worthless to me. If no one trusts facebook, then all the libras in the world are worthless indeed, which is unfortunately a more realistic scenario than it sounds.
+
+When people lose trust in the ability of banks to honor their claims, they try to pull out all their money suddenly. This is known as a bank run. When banks don’t trust hedge funds and corporations, and therefore each other to honor their obligations in the overnight funding and commercial paper market, this should be known as the coronavirus financial crisis that has led the Fed to print $850 billion in bailout money last week. This is why people in financial services love to talk about trust.
+
+Financial stability is about preventing the financial system from becoming unstable and thus causing financial distress for consumers. Unlike cash and reserves, a retail CBDC will allow a central bank to become the lender of last resort for households and small businesses rather than for billionaires and banks. In a financial crisis, this will allow the central bank to bail out consumers instead of corporations, which in turn will reduce the incentives for mega corporations to borrow too much. That, in turn, will reduce aggregate national debt and improve financial stability.
+
+Consumer protection
+
+The last thing governments want is for people to use Facebook’s libra or magic privately issued internet money like IOTA. First, if you don’t depend on the government’s money, the government has a lot less power over you than Facebook does. Second, if you do use magic internet money or Facebook’s money, the government still has to worry about how you will vote when you lose your keys or say when the founders of IOTA shut down the whole network leaving you to carry your bags. Retail CBDCs can mitigate these risks by providing a sound domestic internet based payments system for a wide range of consumer applications including gaming, paying for online content, electronic payments, device to device micropayments and so on.
+
+In summary, global standards-based retail CBDCs can deliver the internet of value that bitcoin aspires to accomplish. The internet, even without a native protocol for money has added trillions of dollars to global GDP. Now just imagine what the internet of value can do.
+
+In my next article, we will explore wholesale CBDC.
+

@@ -1,0 +1,23 @@
+DATE:  03.07.2019, 14:00:12
+TITLE: Blockstream Launches Atomic Swaps on Liquid Bitcoin Sidechain
+URL:   https://www.coindesk.com/blockstream-launches-atomic-swaps-on-liquid-bitcoin-sidechain
+
+Blockstream has created an “experimental” tool that makes it easier for users to trade “trustlessly” between tokens launched on its Liquid sidechain.
+
+Dubbed Liquid Swap Tool, the platform uses “atomic swaps,” a cryptographic technology that already serves as backbone for newer decentralized exchanges currently in development.
+
+The motivation for these types of transactions is that today most exchanges are middlemen trusted by users to exchange cryptocurrency on their behalf. Many have lost funds or suffered hacks over the years, leading technologists to argue they really can’t be trusted with this money. Atomic swaps offer an alternative.
+
+As mentioned above, this atomic swap tool is specifically geared for tokens launched on Liquid, a sidechain that’s pegged to bitcoin. To use it, users must send their tokens to the sidechain, effectively trading their bitcoin for “L-BTC.” It’s kind of like alchemy: morphing bitcoin into an altered type of bitcoin, which is faster and has more privacy features, but requires more trust in the intermediaries that run the sidechain.
+
+Recently, Blockstream launched a tool for launching security tokens on top of the so-called “sidechain,” which is pegged to the bitcoin network.
+
+With the new Liquid Swap Tool, users will be able to trade one of these tokens for another without requiring an intermediary to do the exchange.
+
+Though, it’s worth noting the instructions for the tool are pretty technical for now. Users need to download Liquid, fiddle with a configuration file, download the separate swapping tool and perform the instructions in the code repository to get it going.
+
+Not to mention, the repository describes the tool as “early days,” arguing it “should be considered experimental,” going on to outline a way to make such a trade more private.
+
+“It is recommended to use the tool with someone that you can trust to keep such data private. Users are also encouraged to encrypt/sign messages sent with their trading partners in order to mitigate against man-in-the-middle attacks,” the description continues.
+
+Buttons image via Shutterstock

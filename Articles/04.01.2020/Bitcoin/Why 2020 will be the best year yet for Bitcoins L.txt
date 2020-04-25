@@ -1,0 +1,51 @@
+DATE:  04.01.2020, 14:00:26
+TITLE: Why 2020 will be the best year yet for Bitcoin's Lightning Network
+URL:   https://decrypt.co/15777/why-2020-will-be-the-best-year-yet-for-bitcoins-lightning-network
+
+For Bitcoin’s scaling solution, the Lightning Network, 2019 passed in a flash of innovation.
+
+Developers made major progress in enabling large sums to be transferred across the network; the first neutrino mobile wallet was launched; the first Lightning conference opened; the first major exchange integration went live, and more. “Huge milestones,” as Ryan Gentry, lead analyst at crypto investment firm MultiCoin Capital, told Decrypt.
+
+But for Lightning, a super-fast payments layer on top of the Bitcoin blockchain that allows users to send and receive bitcoin quickly and cheaply, 2020 promises plenty more thrills, and perhaps some spills too.
+
+“This is a very exciting time for Lightning,” said Samson Mow, chief strategy officer at Canadian blockchain services provider Blockstream. “For 2020, I expect to see continued growth of the network and further privacy improvements as well.”
+
+Making Lightning payments easier
+
+Payments on the Lightning Network are becoming easier, with developers anticipating further progress with multi-path payments. These allow for multiple channels to be used together in concert, meaning that payments can be split into smaller chunks. That, in turn, means that large amounts of bitcoin can be sent both quickly and cheaply.
+
+But multi-path payments aren’t the only option being worked on.
+
+Roy Sheinfeld, co-founder of bitcoin wallet and payment services provider Breez, said that the startup is working on asynchronous payments via Lightning Rod, a new offline-style payments protocol that will enable users to make payments without the need for mobile nodes to be online at the same time.
+
+Channel capacity is also set to increase, he predicted. So-called Wumbo channels are in the works. These would not only remove the current 0.167 BTC channel limit, but leave payment participants free to set it as high as they wish.
+
+Another upcoming innovation to look out for is “Trampoline routing.” This should enable clients to simplify their network transactions by relying on a so-called “trampoline node” to relay payments, instead of having to do it manually.
+
+Lightning’s powerful partnerships
+
+We’ll also see more exchanges jumping on board. Bitfinex just added support for the Bitcoin Lightning Network, and Bitfinex wallets can now send and receive bitcoin using Lightning.
+
+In February, Twitter and Square CEO Jack Dorsey announced that Square’s Cash App will integrate Lightning capabilities sometime in the future. Dorsey is a high profile Bitcoin cheerleader as well as an investor in Lightning; he’s recently doubled down by funding the development of Lightning.
+
+In the same month, Jeremy Welch, the chief executive of Casa, which provides Bitcoin multisig key security and Lightning nodes, told Decrypt that Dorsey’s support for Lightning via Square would simply be “huge.”
+
+Messaging functionality is in the works, too. A peer-to-peer, instant messaging protocol, “Whatsat”—a portmanteau of WhatsApp and satoshi—was created for Lightning in November. It enables encrypted messages to be sent without the use of a third party, like Facebook or WhatsApp. For the time being, it’s free; implementing a low-cost version is the main challenge.
+
+There’s even a Lightning ATM in development that will allow you to convert all your spare change to satoshi.
+
+Liquidity vs. privacy
+
+All that progress comes at a price, however.
+
+“For 2020, I'm anticipating tension between those on the network that want to onboard millions of users now, and those that want to go slow and prioritize user privacy first,” said Ryan Gentry, lead analyst at crypto investment firm MultiCoin Capital.
+
+Gentry questions whether the network’s liquidity management tools are currently robust enough to handle a sudden influx of payments. “It will be very interesting to see how the network holds up if a game like Litenite or Raiki goes viral,” he said.
+
+“We have to check that the network can scale, that the clients can scale,” admitted Sheinfeld.
+
+With Breez, Sheinfeld’s ultimate aim is to improve Lightning’s UX. “We want to obfuscate complexity, and make it a seamless experience, like with the Internet,” he said. Lightning service providers, he believes, will play a leading role in onboarding users, performing a similar function to Internet Service Provider (ISPs).
+
+“If we want to provide UX that’s on a par with fiat, we’re not there yet, but I think we’ll be there in six to 12 months.”
+
+If the Lightning network’s going to achieve mass adoption, it has some hurdles to overcome, then—but it’s going flat-out. In the meantime, why not help things along by building your own Lightning node.

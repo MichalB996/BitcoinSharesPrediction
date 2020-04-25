@@ -1,0 +1,33 @@
+DATE:  13.02.2020, 08:10:52
+TITLE: New Report Finds North Korean Mining of XMR Increased Tenfold in 2019, Online Activity 300%
+URL:   https://news.bitcoin.com/north-korea-xmr-mining/
+
+New Report Finds North Korean Mining of XMR Increased Tenfold in 2019, Online Activity 300%
+
+A report published by cybersecurity organization Insikt Group claims internet use in North Korea has grown significantly in the past three years. The group cites a “300% increase in the volume of activity to and from North Korean networks since 2017,” and part of this activity involves monero (XMR) mining. Insikt observes a tenfold increase in mining of the privacy coin by the DPRK since May 2019. Though the global internet is used only by elite parties in the communist nation, crypto is said to be mined in an effort to avoid Western sanctions, with monero likely “more attractive than Bitcoin” according the group, thanks to its anonymity.
+
+Also Read: Hacker Group Lazarus Uses Fake Exchanges, Telegram Groups
+
+New Report by Insikt Group on North Korean Mining Activity
+
+Insikt Group, a division of private cybersecurity firm Recorded Future, has just released a new report on internet activity in North Korea which finds that both internet usage and mining of monero have increased drastically in recent months.
+
+“For this research, Insikt Group examined North Korean senior leadership’s internet activity by analyzing third-party data, IP geolocation, Border Gateway Protocol (BGP) routing tables, network traffic analysis, and open source intelligence (OSINT) using a number of tools,” the paper states. “The data analyzed for this report spans from January 1, 2019 to November 1, 2019.”
+
+As global internet usage is restricted to elite parties and political officials in the communist regime, findings on crypto mining and network usage can be viewed as all the more compelling. Insikt observes:
+
+For the North Korean political and military elite, the 2019 data show that the internet is not simply a fascination or leisure activity, but is a critical tool for revenue generation, gaining access to prohibited technologies and knowledge, and operational coordination. The report analyzes the global internet, accessible only to these parties, and does not focus on activity occurring via “Kwangmyong,” the country’s domestic intranet.
+
+10x Increase in Monero Mining
+
+For those in the crypto space, the finding likely to be most notable relates to mining of XMR in the regime. Stating that as of November last year the group has continued “to observe small-scale mining of Bitcoin,” Insikt details, “The traffic volume and rate of communication with peers has remained relatively static over the course of the last two years,” and that “we remain unable to determine hash rate or builds.”
+
+While North Korea has previously been reported to be involved in the mining, stealing, or generating of bitcoin, litecoin, and monero, Insikt emphasizes:
+
+By our assessment, as of November 2019, we have observed at least a tenfold increase in Monero mining activity. We are unable to determine the hash rate because all of the activity is proxied through one IP address, which we believe hosts at least several unknown machines behind it.
+
+The report cites the “Wannacry” ransomware attack of 2017, noting: “Monero has been used by North Korean operators since at least August 2017, when the Bitcoin profits from the Wannacry attack were laundered through a Bitcoin mixer and ultimately converted to Monero.”
+
+The group further elaborates: “Monero is also different in that it was designed to be mined by non-specialized machines, and its mining ports tend to scale by capacity. For example, many miners use port 3333 for low-end machines, and port 7777 for higher-end, higher-capacity machines.” The notable increase is observed as occurring over port 7777 according to the group, which added:
+
+…we believe that these two factors — anonymity and the ability to be mined by non-specialized machines — likely make Monero more attractive than Bitcoin to North Korean users. Malware, Foreign Operators, and DNS Tunneling — Other Means for Revenue Generation and Obfuscation Insikt Group’s report also details various hacking schemes and obfuscation techniques thought to be used by DPRK to generate revenue, evade sanctions, and even “to acquire nuclear-related knowledge banned by U.N. sanctions.” “North Korean defectors have also talked extensively about the role that foreign countries play — many unknowingly — in the Kim regime’s cyber operations,” the group notes. “From the cyber perspective, third-party countries are used by the Kim regime to both train and host state-sponsored operators.” Regarding malware, Pyongyang-linked hacker group “Lazarus” is one example of how the North Korean government may be leveraging fake “trading platforms” to generate funds. As news.Bitcoin.com reported last month, multiple fronts for phony trading platforms have been discovered, and Telegram groups were also leveraged to deliver sophisticated malware. The Insikt Group report further details changes in North Korean opsec behavior, with the incorporation of domain name system (DNS) tunneling. “The original intent for DNS was to ease the lookups and associations of domains and IP addresses, not to secure that process,” the group elaborates. “As a result, and because DNS is so critical to a network’s operation, DNS ports (port 53 typically) are left open, and traffic is relatively unscrutinized. DNS tunneling is when the DNS process is used not for a domain resolution, but for data transfer or tunnel between networks or devices. The report maintains that though DNS tunneling is nothing new, North Korean users appear to have introduced the practice just recently, in mid-2019. What do you think about the reports of North Korean actors mining monero more than bitcoin? Let us know in the comments section below. Images courtesy of Shutterstock, fair use. Did you know you can verify any unconfirmed Bitcoin transaction with our Bitcoin Block Explorer tool? Simply complete a Bitcoin address search to view it on the blockchain. Plus, visit our Bitcoin Charts to see what’s happening in the industry.

@@ -1,0 +1,67 @@
+DATE:  16.02.2019, 22:35:18
+TITLE: Is Bitcoin Momentum Dead?
+URL:   https://smartereum.com/47852/is-bitcoin-momentum-dead-vpv-pattern-volatility-prediction-analysis/
+
+The crypto market is no doubt behaving in a peculiar way, which we have not seen in any other financial market. Especially since November of 2018, as volume picked up while prices have been further declining. This has been observed throughout most (if not all) cryptocurrencies. The cryptocurrencies prices correlation has been going towards 1, particularly, in beginning of 2019. It seems, however, that not only cryptocurrencies’ price movement has been highly correlated but also its volume movement.
+
+Let’s look at the following charts:
+
+Note: The reason these four altcoins were chosen is because they are all essentially very different from one another in their intended application and use case[1]. We discussed their price correlation with bitcoin and with each other in a previous post.
+
+As it appears from the charts above, since beginning of 2019, not only has the price pattern been the same for cryptocurrencies, but also their volume pattern. In terms of correlation:
+
+Volume Correlation Matrix beginning 2019
+
+The market behavior that we have been observing in the crypto market since the beginning of 2019, does not resemble any other financial market behavior. Not necessarily in terms of correlation, because assets in a specific market can occasionally move in tandem. (We had seen that during the financial crisis – the Fire-sale had been across all sectors, although it started in the financial sector.) But rather, as it applies to momentum, especially in the case of bitcoin.
+
+First, let’s understand the meaning of momentum. Momentum can be found either in the price or volume of a security (or asset). Although, we usually refer to momentum when we talk about prices. When the change of prices is accelerating, we call that momentum and it can go in either direction – upwards or downwards.
+
+Volume – Price – Volatility (VPV)
+
+On average, in financial markets, we observe the Volume – Price – Volatility (VPV) pattern. In other words, volume starts to pick up, then price starts to accelerate either upwards or downwards (price momentum), depending on which direction the market is moving, and lastly price volatility starts to increase. At some point, could be minutes to days, volume starts to subside, price will find a bottom (if it was declining) or start falling (if it was accelerating upwards). As volume subsides, volatility starts declining.
+
+Is Bitcoin following the VPV pattern?
+
+If we look at the Price-Volume chart of bitcoin above, we can identify that volume has increased especially during end of 2017 and beginning of 2018, while price hiked up and then declined rapidly, respectively. Throughout most of 2018 volume was leveling out, as price continued to decline steadily. Towards the end of 2018, however, we observe a behavior that we have not seen in bitcoin before. Mid-November volume starts to increase and then jumps over two-fold of its value and stays at this high level. As volume jumps more than two-folds, price has been cut almost in half (from around $6,500 to around $3,500), and stays, relatively, at these low levels.
+
+Usually, when prices level out, volume comes down. Bitcoin volume has come down a bit (about 15%) from its highs, but then got back up to its high levels. It is worth noting that bitcoin volume is at its highest as it has ever been. This is quite peculiar – volume is very high while price is steadily depressed. We have not seen that in other financial markets, and in fact, bitcoin itself has never behaved in such a fashion.
+
+But, what about volatility?
+
+Let’s look at the following charts:
+
+The two charts above represent two indicators of price volatility. The take away:
+
+The intraday of high-low disparity was especially high during end of 2017 and beginning of 2018. Same periods where we have observed price momentum and volume at its highest. Then it picked up again in mid-November of 2018, just to decline again to its levels before the jump. Rolling 30-day volatility, has been at its highest during end of 2017 and beginning of 2018. Same periods where we have observed price momentum and volume at its highest. It jumped almost five-folds in mid-to-end of November of 2018. But then it declined back again.
+
+Putting it all together:
+
+During end of 2017 and beginning of 2018, bitcoin does follow the VPV pattern. Increased volume followed by price momentum and increased price volatility. During most of 2018 as price and volume steadily declined, so did price volatility. Again, this is quite consistent with the VPV pattern and how we might expect market to behave. Mid-November 2018 – volume and volatility increase and price rapidly declines. A pattern consistent with VPV. Beginning of 2019 – price remained at its low values, volatility declined, but volume remained at its high levels. This does not quite fit the VPV pattern. We would expect volume to subside, but this has not happened yet[2].
+
+As mentioned above, other cryptocurrencies have been highly correlated with bitcoin behavior. Thus, understanding the causes for bitcoin, might explains what has happened to the entire crypto market.
+
+What might be the reasons for bitcoin behavior?
+
+Crypto market being highly speculative, is probably the root of the problem:
+
+The market participants have changed. It is controlled by speculators and there are hardly, if any, value investors. Different market participants change market behavior. More speculators also imply more trading derived by trading algorithms. In such a case, volume could be high while prices are depressed. Trading algorithms could make a profit regardless. There are many more tokens than we have had in previous years. The increase in the number of altcoins and tokens decreases not only bitcoin market share but also its price. Most tokens cannot be bought via fiat currency and are paired only with bitcoin. Hence, bitcoin volume is high as a result of trading other tokens, not because of trading bitcoin itself. Regulation uncertainty keeps the price down, while speculators are benefiting from the low price. Big corporations (e.g., IBM, JP Morgan) creating their own stable coin on their own blockchain and thus reducing the need for bitcoin usage (and its value).
+
+The changes in market structure are the main cause for its behavior. The crypto market and bitcoin of 2016 (and even 2017) cannot be compared to the crypto market and bitcoin of today. Trying to derive where the market and bitcoin is headed based on past years’ behavior, may not be wise. If we would like not only to understand the crypto market better but also to participate in it, we may have to change our approach.
+
+Will bitcoin gain momentum again?
+
+An asset can gain momentum because of: (1) valuation – long-term effect; (2) events – short-term effect.
+
+Valuation: the jury is still out on bitcoin valuation. Despite the past predictions of high valuations for bitcoin, it has declined in value. A concrete valuation model and framework does not exist and thus the uncertainty. Given the changes in other cryptocurrencies developments and market needs, it could very well be that it should remain at a low value.
+
+Events: If for example a bitcoin ETF is approved, that would drive the price up, but it will not be sustainable. In fact, any positive signal from regulators could revive prices. Events are usually speculators and traders play.
+
+If we are interested in a long-term sustainable gain, then it must be rooted in value. Events’ momentum is short lived, as the event fades away so does the momentum.
+
+Bitcoin may never gain value again. However, that should not have any indication on the entire crypto market. The crypto market may have merit and value and other cryptocurrencies may have more value than bitcoin. Thus, we should differentiate bitcoin from the entire market and not derive any conclusion about the state of other altcoins from the state of bitcoin. Bitcoin might have been the first, but it may not be the one that ends up on top. But, that’s OK. It’s the nature of all markets’ evolution.
+
+Endnotes
+
+[1]A brief explanation on these altcoins and their unique use case, can be found in a previous post.
+
+[2] It should be noted that not only the VPV patterns does not hold, but other traditional technical analysis indicators used for traditional financial markets do not quite work. Implying that we should research and develop indicators that are catered specifically for the crypto market.

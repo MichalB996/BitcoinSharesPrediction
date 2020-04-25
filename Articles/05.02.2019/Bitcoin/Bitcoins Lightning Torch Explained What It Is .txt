@@ -1,0 +1,75 @@
+DATE:  05.02.2019, 08:25:25
+TITLE: Bitcoin’s ‘Lightning Torch’ Explained: What It Is and Why It Matters
+URL:   https://www.coindesk.com/bitcoins-lightning-torch-has-blazed-through-37-countries-so-far
+
+The bitcoin community is currently immersed in an experiment called the “lightning torch.”
+
+The effort is intended to show the value of bitcoin’s lightning network – an up-and-coming technology that is experimental and hard to use so far, but it does offer improvements over today’s most common payment systems by allowing users to pass money around the world quickly and without a third party, unlike Mastercard and Paypal.
+
+And participants are out to show this facet of the technology in a kind of global relay race using an ever-increasing amount of BTC.
+
+By way of the social media platform Twitter, people pass the “torch payment” from one person to another, adding 10,000 satoshis (worth about $0.34 at press time) to the payment before sending it further along. Imagine a kind of lightning network-style snowball effect and you get the basic gist of what’s happening around the world.
+
+It’s been called the “LN Trust Chain” since whoever has the torch is supposed to send it on to someone they trust will send the payment on, rather than keep the payment to themselves.
+
+Indeed, developers might still call lightning “reckless,” since it’s experimental software and users can lose money if they (or the software) makes a wrong move. There’s even a Twitter hashtag dedicated to this fact.
+
+But so far, the experiment seems to be having its intended effect, The “torch” has attracted the participation of 139 people in at least 37 countries, according to the pseudonymous torch ringleader, who goes by the name Hodlonaut.
+
+The list of participants includes some notable names in the bitcoin community, such as advocate and Mastering Bitcoin author Andreas Antonopoulos.
+
+“Heretical thought of the day: Playing #LNtrustchain is better than watching the Superbowl,” he tweeted after sending the torch to the next participant, adding:
+
+“Ok, I lied. Anything is better than watching the Superbowl for this geek.”
+
+Thus far, other participants include Morgan Creek Digital founder Anthony Pompliano and Lightning Labs engineer Joost Jager.
+
+Humble beginnings
+
+The torch started on a whim.
+
+On January 19th, Hodlonaut said he would pass on 100,000 satoshis to the first person he trusts. “How many satoshis until it breaks?” he tweeted.
+
+“The reason I started this was just to have some fun with the lightning network and maybe spread more awareness. I thought it would maybe do five or six hops and then die, without many people noticing,” Hodlonaut told CoinDesk.
+
+But now, of course, it’s grown into a worldwide phenomenon as illustrated in the map above, equipped with its own website and an accompanying hashtag.
+
+Not to mention, it’s come to mean a lot to its participants.
+
+“The #LNTrustChain showed the world: 1. Lightning works and it’s amazing. All of us who’ve used it in a solo context (buying stickers, playing games, etc) already knew it, but this experiment was the first widespread public demonstration of its power,” said one user.
+
+Antonopoulos told CoinDesk that the torch represents a way to test and uncover problems with the technology. And it’s not quite as easy to participate as it sounds: setting up a lightning node is a hard enough task, but there are other tricky factors as well.
+
+“To be able to ‘play’, your [lightning network] node must be well connected, with enough capacity and well balanced (local vs remote balance),” he explained. “Since a lot of that is not fully automated yet, it poses a challenge for node operators and an opportunity to test their setup. As the amount gets bigger, it is harder and harder to find routes and keep it going.”
+
+In this way, the lightning torch can help to unearth bugs, Antonopoulos added.
+
+It’s even been used to experiment with new tech. The first so-called “hodlinvoice” – a new type of tech by LND – was used in the wild for the first time.
+
+As Hodlonaut explained:
+
+“The way this has played out has completely blown my mind, and made me realize how awesome the bitcoin community is.”
+
+To that end, he’s been making sure people know who has the torch and cat-herding the community on Twitter.
+
+Escape from extinguishing
+
+As might be expected from any kind of globe-trotting experiment, the torch itself almost died a few times, most notable on Jan. 31 when a Twitter user by the name of edward_btc stole it.
+
+“I’ll seize it because I can, and no one can stop me. This is bitcoin,” edward_btc wrote, his point being that bitcoin is supposed to be “trustless” money.
+
+The community responded with irritation, not wanting the torch to die out.
+
+“Are you really going to be *that* guy? Seriously?” responded Elizabeth Stark, the CEO of Lightning Labs and one of CoinDesk’s Most Influential awardees for 2018.
+
+On a darker level, though, edward_btc went as far as to claim that he received death threats for keeping the torch.
+
+And later on, he claimed that he was actually planning to send the torch on. But before he was given a chance, user Klaus Lovegreen swooped in and started a new torch.
+
+“Is there anyone with some dignity around that that can be trusted with the Lightning Torch?” he said. Since then, the torch has jumped another 30 hops.
+
+But when will it end? As it stands, there’s a hard-coded limit to how large the torch can get: 4,390,000 satoshis, which worth about $150.
+
+Once the torch reaches this threshold, the community plans to donate the proceeds to a charitable cause: likely Bitcoin Venezuela, a non-profit dedicated to raising awareness of cryptocurrency in the troubled South American country.
+
+Torch image via Shutterstock

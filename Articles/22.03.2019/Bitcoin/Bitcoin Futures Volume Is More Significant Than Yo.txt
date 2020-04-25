@@ -1,0 +1,55 @@
+DATE:  22.03.2019, 18:10:13
+TITLE: Bitcoin Futures Volume Is More Significant Than You Think, Bitwise Says
+URL:   https://www.coindesk.com/bitcoin-futures-volume-is-more-significant-than-you-think-bitwise-says
+
+The bitcoin futures market is far larger, relative to the spot market, than previously thought, says Bitwise Asset Management.
+
+In a wide-ranging report which claims 95 percent of all reported bitcoin trading volume is faked, Bitwise says that nevertheless, the bitcoin “futures market is significant” when viewed in light of the remaining, genuine 5 percent of spot trading that occurs at regulated exchanges.
+
+The report was presented earlier this week to the U.S. Securities and Exchange Commission (SEC), which is currently reviewing a bitcoin exchange-traded fund (ETF) proposal Bitwise filed in January this year with NYSE Arca.
+
+CoinMarketCap, one of the most prominent sources of crypto trading information, says the bitcoin market’s average daily volume is roughly $6 billion, but Bitwise argues that, going by its own methodology (which it outlines in some detail in the 227-page presentation to the SEC), the actual average daily bitcoin trading volume is only $273 million.
+
+This discrepancy means that the futures trading volume reported by the major Chicago exchanges, CME Group and Cboe, has a far greater impact on the market than previously thought, according to Bitwise. (Although the Bitwise report doesn’t mention it, Cboe will be suspending its product in the coming weeks.)
+
+The average daily futures volume on CME and Cboe combined totals near $85 million, which is not too far off from the average daily spot volume of $110 million on Binance, the exchange which performs the largest number of legitimate trades, according to Bitwise.
+
+Bitwise said:
+
+“The launch of futures, the development of lending and the arrival of major market makers combined to dramatically improve the efficiency of the bitcoin market in 2018, creating a dynamic, institutional-quality, two-sided market for the first time.”
+
+Faked volume
+
+Futures aside, the true spot market for bitcoin essentially exists on 10 different exchanges conducting nearly $300 million in daily trading volume, Bitwise says.
+
+Unlike other exchanges, the 10 on its list, which include Coinbase, Bitfinex, Gemini and Binance (among others) trade uniformly with one another, meaning the average spread in price between different platforms is less than 1 percent.
+
+“Arbitrage between these ten exchanges is virtually perfect, as demonstrated, with no sustained deviations between prices,” Bitwise says in its presentation.
+
+The spread is far greater on other exchanges, which Bitwise believes are faking their volumes.
+
+Notably, Bitwise says that the U.S. is responsible for a larger portion of the genuine bitcoin spot market than previously thought,
+
+Matt Hougan, Bitwise’s head of research, told CoinDesk that his company “built infrastructure to programmatically read data from the top 81 reported exchanges.”
+
+The company stored order book data from these exchanges, looking at recent trades “four times a second over multiple days,” with this data then being used to “run a series of statistical tests to identify fake behavior.”
+
+The results were presented to the SEC, he said, adding:
+
+“The pattern you see fits natural human behavior: People are more likely to trade small amounts of bitcoin than large amounts of bitcoin, and more likely to trade whole bitcoin than fractions of bitcoin (i.e., they are more likely to trade 2.0 bitcoin than 1.9 bitcoin or 2.1 bitcoin).”
+
+ETF impact
+
+The fact that Bitwise just told the SEC that 95 percent of all bitcoin trading volume is faked is not an issue for Bitwise’s bitcoin ETF proposal, Hougan said.
+
+“The reality is that the fact that there is fake volume in the crypto market is not news. We are just the first firm we know of to take a truly comprehensive approach to proving and quantifying it,” he explained.
+
+When ignoring the fake volume, the bitcoin market appears to be efficient, arbitraged and regulated, in Bitwise’s analysis.
+
+“In addition, the regulated CME futures market represents is much more significant than most people think (because they have the denominator wrong),” Hougan added.
+
+The SEC has already explained that an ETF proposal must show that either the underlying market for a fund is “uniquely resistant to manipulation,” or that there is a regulated market of significant size. Bitwise’s report tried to demonstrate both, Hougan said.
+
+The SEC will make an initial decision on whether to approve, reject or extend the review period for Bitwise’s ETF proposal sometime within the next week, with a legally-mandated deadline at the end of March.
+
+Image via Shutterstock

@@ -1,0 +1,69 @@
+DATE:  25.02.2020, 15:01:12
+TITLE: CoinJoin, Dark Wallet and More Private Bitcoin
+URL:   https://bitcoinmagazine.com/articles/coinjoins-first-steps-how-dark-wallet-paved-the-way-for-a-more-private-bitcoin
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+CoinJoin. Trustless mixing. Anonymity. Bitcoin Magazine’s September 2013 cover — all black with hints of golden fingerprints — needed only four words to announce a powerful new privacy tool. At a time when industry representatives like the Bitcoin Foundation were downplaying Bitcoin’s anonymity features, regulators in New York were developing the BitLicense and Silk Road was about to be shut down, two hackers working from a former textile factory in Catalonia had begun to fight back. Amir Taaki and Pablo Martin realized the first ever CoinJoin application, and Bitcoin Magazine’s Vitalik Buterin was quick to cover the development.
+
+Just weeks prior to the publication of this fourteenth Bitcoin Magazine print edition, Bitcoin Core contributor Gregory Maxwell had posted what has come to be considered the unofficial CoinJoin announcement thread on the Bitcoin Forum. The developer had already published the idea in January 2013 in a more tongue-in-cheek stunt to trick blockchain analysis into thinking he was “taint rich,” asking forum users to mix their coins with his. But in his more serious August post, Maxwell introduced the name “CoinJoin,” while emphasizing the importance of tools like it.
+
+“Traditional banking provides a fair amount of privacy by default. Your inlaws don’t see that you’re buying birth control that deprives them of grand children, your employer doesn’t learn about the non-profits you support with money from your paycheck, and thieves don’t see your latest purchases or how wealthy you are to help them target and scam you,” Maxwell wrote. “Poor privacy in Bitcoin can be a major practical disadvantage for both individuals and businesses.”
+
+Bitcoin did have poor privacy. While Bitcoin addresses aren’t in themselves tied to real-world identities, blockchain analysis can often establish these links. A key tool for blockchain analysis is the multiple-input heuristic, a privacy leak even described by Satoshi Nakamoto in the Bitcoin white paper. If a transaction sends coins from multiple addresses, Nakamoto wrote, these addresses must belong to the same owner. And if even one of these addresses can be tied to a real-world identity, for example because it was used to withdraw funds from an exchange, all of the other addresses can be as well.
+
+Maxwell’s CoinJoin proposal helps fix this leak by merging multiple transactions into a single transaction. If Alice wants to pay for her birth control, and Bob wants to pay a nonprofit, they can combine this into a single transaction, sending both of their coins to both recipients at once. Ideally, this would make it unclear who bought the birth control and who paid the nonprofit. But at the very least, it breaks the multi-input heuristic. “Brain-dead automated analysis,” as Maxwell described it in his January post, would wrongly assume that all sending addresses belonged to either Alice or Bob. If this assumption is broken often enough, the heuristic becomes useless altogether.
+
+But by August, well over half a year after Maxwell first suggested the solution, the assumption wasn’t being broken often enough. This was in large part because it just wasn’t very easy to make CoinJoin transactions; it required command-line skills and deep technical knowledge of the Bitcoin protocol. What was needed, Maxwell reasoned, was a tool that would make such transactions easy.
+
+“I know that making such a tool doesn’t fit into the get-rich-quick mold of many Bitcoin businesses, but the importance is self-apparent and the simplest versions of this don’t require very deep technical wizardry,” Maxwell concluded his post. “I think the ‘political’ risk of improving people’s privacy is a real one that you should carefully consider, but around these parts I see people sticking their names on some rather outrageously risky stuff. I’d hoped the ‘taint rich’ thread would be enough to inspire some community action, but perhaps this will be.”
+
+To further incentivize development of a CoinJoin tool, Maxwell launched a multisignature escrow bounty fund. Shared between Bitcoin Core contributor Pieter Wuille, Bitcoin Forum administrator Theymos and himself, with at least two of their signatures needed, coins sent to the fund would be paid out to projects making CoinJoin a practical reality. Within a couple of days, the fund collected about 12 bitcoin, worth around $1,300 at the time.
+
+Taaki, a regular on the Bitcoin Forum, found out about the bounty. If the British-Iranian Bitcoin developer was aware of the political risks mentioned by Maxwell, it certainly wasn’t going to stop him; he’d been living in anarchist squats throughout Europe for years and wasn’t exactly the type to shy away from authority. He asked fellow programmer Martin to take a look, and the two agreed that with the tools they had been developing — like the Bitcoin software library Libbitcoin — it shouldn’t be particularly difficult to build a CoinJoin application.
+
+Indeed, hardly one day after the bounty was funded, the duo completed an early version of a CoinJoin mixing tool. Several users could contribute a fixed amount of bitcoin — 0.01 BTC — and create a transaction returning the same amount of funds back to each of them. As the CoinJoin would break the trail of ownership of any particular 0.01 BTC, all participants in the mix would gain privacy.
+
+Martin, speaking with Bitcoin Magazine at the time:
+
+“Making the tool was pretty easy for our skills. We could release after working for about eight hours together, next day we made a more stable and practical release. We leveraged a few great technologies: Python, Libbitcoin, SX, QT, Flask, Greenlets, Tor.”
+
+But the simple CoinJoin tool was only the beginning. By late October, the duo teamed up with a small group of like-minded bitcoiners, including Bitcoin Core contributor Peter Todd and Cody Wilson, the guy who created the world’s first 3D-printable gun. United under the unSystem flag, a crypto-anarchist collective led by Taaki, the small group of developers started a crowdfunding project to realize a privacy-focused wallet with a CoinJoin mixer built in.
+
+It would be called the Dark Wallet.
+
+The project quickly raised over $50,000 from more than 1,000 donors around the world. In November, Taaki, Martin, Todd, Wilson and others (including Bitcoin Magazine’s founder and then-editor-in-chief Mihai Alisie) met in a cultural center in Milan to discuss the design of the new wallet. Joined by a group of programmers working under pseudonyms like tilthz, sem, veox and d3, the project got underway.
+
+But it wasn’t without controversy. As Bitcoin was reaching new highs — trading over $1,000 per coin by the end of 2013 — the project was attracting attention from media and regulators alike. While well-funded startups were trying to rid Bitcoin of its “drug money” image, Taaki and Wilson actively promoted their wallet as a money laundering tool. The name itself — Dark Wallet — was a reference to a warning by the FBI that strong encryption could make the internet “go dark,” making it impossible for the agency to track even the most dangerous criminals.
+
+This level of privacy is exactly what Taaki and Wilson were hoping to achieve, and they weren’t going to pretend otherwise.
+
+“I would just be dishonest with myself if I try to play with words or cover up my intent,” Taaki told Bitcoin Magazine in an interview. “I want people to know what I think, and as many people as possible, because it’s not just about the technology we’re building. In fact, the technology by itself is worth nothing. What is important is the narrative, or the ideal that is being constructed through that narrative. Bitcoin is a decentralized and uncensored money with privacy features. As such, it has opened up a new front in the ongoing struggle for freedom.”
+
+About six months after the crowdfund was started, on 2014’s May Day (May 1), unSystem released Dark Wallet’s first alpha software. The wallet was built as a user-friendly Chrome extension, offering several privacy tools. This included stealth addresses, a type of encrypted address that can be shared freely, where every payment to it is unlinkable through blockchain analysis. The wallet also used hierarchical deterministic wallets, preventing address reuse; such tricks weren’t as standard then as they are now.
+
+And of course, Dark Wallet included a CoinJoin tool. A user could make a payment and have it CoinJoined with another user’s coins, who matched the amount but was really just paying himself. As such, the paying user would gain privacy from having his transaction merged with other coins, while the other user would have his coins mixed. Future wallet upgrades would include the option to make CoinJoins with multiple users at the same time, and Tor would be integrated so users could hide their IP addresses from each other.
+
+The Dark Wallet alpha release made a media splash. Not only Bitcoin news sites (like Bitcoin Magazine) covered the groundbreaking wallet software, but more mainstream publications like Forbes, Wired and BBC Click took notice as well. Taaki and Wilson even caught the attention of film makers: The duo was followed for the documentary “The New Radical,” while Taaki was also featured in “Deep Web.”
+
+But it wasn’t just the media that took notice. The Islamic State (IS) seemed to show interest in the wallet, too: Although unverified, a document circulated over the internet encouraging IS fighters to take funding in bitcoin, and use Dark Wallet to hide their tracks. “This allows our brothers stuck outside of the [Islamic State territory] to avoid government taxes along with secretly fund the mujahideen with no legal danger upon them,” the document read.
+
+It didn’t faze the unSystem crew.
+
+“I think obviously terrorists will use [Dark Wallet],” Todd told BBC Click, “and the benefits certainly outweigh the risks. Equally, obviously, terrorists use the internet. Obviously terrorists use freedom of speech. We’ve accepted that is a trade-off we must make.”
+
+Development of the wallet continued throughout 2014, until Dark Wallet alpha 8 was released in the first weeks of 2015. But funds had been drying up, as a second crowdfunding round wasn’t nearly as successful as the first one. Moreover, Taaki — now the face of the more radical edges of the Bitcoin space — had by then learned about a collectivist-anarchist political revolution based on libertarian ideals and local direct democracy in Rojava, the Kurdish part of Syria. A revolutionary at heart, he knew he had to go help. A couple of months later the open-source activist found himself strapped with an AK-47 in the north of the war-ridden country, fighting IS jihadis.
+
+Out of money and with the project’s public face fighting a war in the Middle East, Martin — who had acted as the wallet’s lead developer — disappeared as well; even other unSystem coders didn’t know where he’d gone. Dark Wallet development stalled.
+
+But the project had by then served as an inspiration for other privacy-focused developers. In a time when Bitcoin seemed to be going mainstream, the unSystem group had re-emphasized Bitcoin’s anti-establishment roots and realized a first-generation set of Bitcoin privacy tools.
+
+Playing around with the Dark Wallet alpha release, Chris Belcher, a Bitcoin developer from London, found that very few users offered their coins to be mixed. To solve this, he designed JoinMarket, a CoinJoin application much like the one in Dark Wallet, but with the added feature for users to financially incentivize one another to join in the mix. Around the same time, two pseudonymous developers launched the privacy-focused Samourai Wallet, which included stealth addresses and several other privacy tools. Just as bitcoiners were starting to realize that the Dark Wallet project had been abandoned, two new privacy projects were ready to carry on the baton.
+
+Going full circle a few years later, Samourai Wallet and a newer wallet project by privacy researcher Adam Ficsór in mid-2017 announced they were working on a mixing tool inspired by Maxwell’s original CoinJoin post. Where both Dark Wallet and JoinMarket are geared toward making private payments, this new solution would let dozens of users mix their coins at once.
+
+Today, CoinJoin is a standard privacy tool. About five years since Dark Wallet’s last release, Samourai Wallet’s “Whirlpool” and Ficsór’s Wasabi Wallet are mixing coins consistently throughout each day, while JoinMarket is still offering privacy in payments. Moving forward, tricks like PayJoin, SNICKER and Knapsack mixing could further increase the potential of CoinJoin, while Schnorr signatures may even offer an economic incentive to use the privacy technique.
+
+Taaki, meanwhile, has reunited with Martin. Having returned from Syria in 2016, and after being investigated by British police for a year, he is now setting up an academy in Barcelona for activist programmers, to realize projects furthering privacy and autonomy, inspired by the revolutionary movement in Rojava. A revival of Dark Wallet, Taaki hinted when speaking with Bitcoin Magazine, may just be one of these projects.

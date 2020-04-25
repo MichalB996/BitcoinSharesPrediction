@@ -1,0 +1,45 @@
+DATE:  05.02.2020, 15:00:00
+TITLE: Lightning Labs Raises $10M Series A to Be the ‘Visa’ of Bitcoin
+URL:   https://www.coindesk.com/lightning-labs-raises-10m-series-a-to-be-the-visa-of-bitcoin
+
+Lightning Labs has raised $10 million in Series A financing as it gears up to launch its first paid service for merchants looking to accept bitcoin payments.
+
+Craft Ventures led the round, with Managing Director Brian Murray joining Lightning Labs’ board of directors. Other investors include Slow Ventures, former Goldman Sachs co-head of securities David Heller, Avichal Garg of Electric Capital and Ribbit Capital.
+
+The funding round suggests some investors see the San Francisco-based startup as one of the few protocol-oriented firms with a prospective business model.
+
+“If bitcoin is going to reach its potential as a viable global currency, it’s going to need to scale beyond the base layer,” Murray said. “Similar to how Visa relieves banks from handling all fiat currency traffic, Lightning relieves the base bitcoin chain from handing all transactions, thus bring more speed and fee efficiency to the network.”
+
+Stepping back, Lightning Labs released a beta version of the scaling solution LND in 2018 and previously raised $2.5 million in a seed round from investors including Twitter CEO Jack Dorsey, Square executive Jacqueline Reses, litecoin creator Charlie Lee and former PayPal COO David Sacks. Lightning Labs also launched a mobile wallet app in June 2019, and as of today the company is offering a paid service called Lightning Loop.
+
+Loop aims to help merchants manage their payment channels more effectively. Lightning payment channels need to have bitcoin in them in order to stay open, which is a problem for those who actually use these channels without a perfectly balanced in-and-out flow.
+
+“Loop ‘in’ helps people put funds into their existing channel … kind of like a prepaid debit card for a lightning account,” Lightning Labs CEO Elizabeth Stark said. “Loop ‘out’ is currently the most popular product because it allows people to continue receiving funds on lightning.”
+
+This service, which will charge a small percentage of each full loop, helps merchants and exchanges maintain liquidity in the channels.
+
+With nearly a dozen lightning startups sprouting up over the past two years, Stark said her startup will distinguish itself by becoming an “infrastructure provider” to other startups.
+
+The first Lightning Conference in Berlin attracted 500 participants in 2019, so there may initially be a small pool of developers and service providers willing to pay for back-end support. “The way I see it, there will be an aggregate of financial services, of which Loop is one, and you can batch all of those,” Stark said. “The blockchain becomes an anchor layer for other Layer 2 services on lightning.”
+
+One example might include the shopping app Fold, which processed roughly 1,600 lightning payments during the 2019 holiday shopping season.
+
+"We’re growing fast and Lightning Labs’ loop service makes it simple to manage our lightning node’s liquidity, letting our team focus on building out great user experiences that bring lightning to the world," Fold's Will Reeves told CoinDesk.
+
+Infrastructure spending
+
+Beyond Loop, Stark said her startup will focus on options for larger payment channels in 2020, both opt-in channels that can individually hold more than $1,500 and Atomic Multi-Path Payments, which break payments into smaller parts and are able to return the whole amount if all the small parts don’t promptly arrive at the same recipient.
+
+River Financial CEO Alexander Leishman said his exchange startup, which uses LND to offer users lightning liquidity and trading functions, said Lightning Labs and ACINQ are the only two startups in the space focused on the “nitty gritty” of protocol development.
+
+“If it allows us to support larger amounts [of bitcoin] off-chain, it improves the experience for our users. We’ve already had users that are frustrated with the [Lightning Network’s] limits,” Leishman said. “Services that would make [lightning transactions] easy for us are definitely of interest.”
+
+Stark, who is an adviser to Leishman’s exchange, said her goal for Lightning Labs is to enable automated services so the network will “just work” without clients needing to tamper with channel allocation and flows. The peer-to-peer messaging app Sphinx also uses LND, which Murray said is only possible because of what Lightning Labs is building.
+
+“Lightning Labs is building the channels for bitcoin to fulfill its promise as a medium of exchange, a means of micropayment, as remittance infrastructure, and much more," investor Jill Carlson of Slow Ventures said in a press release.
+
+Murray agreed, adding he strongly believes the infrastructure behind popular mobile apps will “take a different shape” over the next decade because it will enable direct payments between peers instead of reliance on a third-party provider that monetizes user data.
+
+In the meantime, Stark is optimistically curious about the ability to send “small amounts of data and have payments attached to them.”
+
+Speaking more broadly of the batched services Lightning Labs will offer by this time in 2021, she concluded: “These are lightning-native financial services that help improve the network.”

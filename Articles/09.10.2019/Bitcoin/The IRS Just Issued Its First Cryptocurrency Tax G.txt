@@ -1,0 +1,79 @@
+DATE:  09.10.2019, 17:00:16
+TITLE: The IRS Just Issued Its First Cryptocurrency Tax Guidance in 5 Years
+URL:   https://www.coindesk.com/the-irs-just-issued-its-first-cryptocurrency-tax-guidance-in-5-years
+
+The U.S. Internal Revenue Service (IRS) has published its first guidance in five years for calculating taxes owed on cryptocurrency holdings.
+
+Industry members have been eagerly awaiting the update since May 2019, when IRS Commissioner Charles Rettig said the agency was working on providing fresh guidance. The agency’s 2014 guidance left many questions unanswered, and the crypto market has grown more complex in the years since.
+
+As expected, the guidance notice released Wednesday addresses: the tax liabilities created by cryptocurrency forks; the acceptable methods for valuing cryptocurrency received as income; and how to calculate taxable gains when selling cryptocurrencies.
+
+Drew Hinkes, a lawyer with Carlton Fields and the general counsel to Athena Blockchain, told CoinDesk that “from the tax collector’s standpoint, this is the right answer,” though Certified Public Accountant Kirk Phillips said he was surprised that the guidance basically only addressed forks.
+
+Forks
+
+Resolving a long-standing question, the guidance says new cryptocurrencies created from a fork of an existing blockchain should be treated as “an ordinary income equal to the fair market value of the new cryptocurrency when it is received.”
+
+In other words, tax liabilities will apply when the new cryptocurrencies are recorded on a blockchain – if a taxpayer actually has control over the coins and can spend them.
+
+The document reads:
+
+“If your cryptocurrency went through a hard fork, but you did not receive any new cryptocurrency, whether through an airdrop (a distribution of cryptocurrency to multiple taxpayers’ distributed ledger addresses) or some other kind of transfer, you don’t have taxable income.”
+
+James Mastracchio, a partner at Eversheds Sutherland, told CoinDesk that this applies when there is a distinctly different cryptocurrency as a result of the hard fork.
+
+The IRS language might create more confusion, said Jerry Brito, executive director at Coin Center.
+
+“While the new guidance offers some much-needed clarity on certain questions related to calculating basis, gains, and losses, it seems confused about the nature of hard forks and airdrops,” Brito told CoinDesk, adding:
+
+“One unfortunate consequence of this guidance is that third parties can now create tax reporting obligations for you by simply forking a network whose coins you own, or foisting on you an unwanted airdrop.”
+
+Individuals would be assessed income when they receive the asset, Hinkes said.
+
+“Receipt is defined by ‘dominion and control’ … so it’s ability to transfer, sell, exchange or dispose of the asset according to this guidance,” he said. “The fear is that someone maliciously airdrops and tags you with a giant liability. But [this] fear is a bit oversold because you would only be liable for new income based on the fair market value of the asset when received, and most forks don’t start out with a high valuation.”
+
+Phillips said it was possible that an individual with an ethereum wallet, for example, could receive an ERC-20 token from an airdrop without realizing it. Depending on how the token’s value fluctuates, this may result in them having to pay income tax on an asset that was worth more when they received it than when they sell the asset.
+
+“This can happen when coins hit a high water mark of price discovery right after the airdrop event and the heavy selling could sink the price to a level from which is never recovers,” he said.
+
+The issue has grown more salient in recent years, as fights over protocol changes caused rifts in various crypto communities, leading to splinter currencies like ethereum classic and bitcoin cash.
+
+Holders of the original bitcoin and ethereum could automatically claim a like amount of the new coins, raising the question of whether and under what conditions they would owe taxes on the windfall.
+
+Now crypto holders and their accountants have a roadmap.
+
+Cost basis
+
+The new IRS document also offers long-awaited clarification on how taxpayers can determine the cost basis, or fair market value of coins received as income, such as from mining or the sale of goods and services.
+
+Cost basis should be calculated by summing up all the money spent to acquire the crypto, “including fees, commissions and other acquisition costs in U.S. dollars.”
+
+A third key issue addressed by the new IRS guidance is how to determine the cost basis of each unit of cryptocurrency that is disposed of in a taxable transaction (such as a sale).
+
+This is an issue because someone might buy bitcoin in multiple transactions over a span of years; when they sold some of it, it was unclear which purchase price to use for calculating taxable gains.
+
+The value of the crypto purchased on an exchange is determined by the amount the exchange sold it for in U.S. dollars. The income basis, in this case, will include commissions, fees and other costs of the purchase.
+
+If the crypto is bought on a peer-to-peer exchange or a DEX, it is possible to use a crypto price index to determine the fair market value. In the words of IRS, this can be “a cryptocurrency or blockchain explorer that analyzes worldwide indices of a cryptocurrency and calculates the value of the cryptocurrency at an exact date and time.”
+
+When selling crypto, taxpayers can identify the coins they are disposing of, “either by documenting the specific unit’s unique digital identifier such as a private key, public key, and address, or by records showing the transaction information for all units” in a single account or address, the IRS wrote.
+
+This information, the document states, must show:
+
+“(1) the date and time each unit was acquired, (2) your basis and the fair market value of each unit at the time it was acquired, (3) the date and time each unit was sold, exchanged, or otherwise disposed of, and (4) the fair market value of each unit when sold, exchanged, or disposed of, and the amount of money or the value of property received for each unit.”
+
+The new guidance allows for “first-in, first-out” accounting or specifically identifying when the cryptocurrencies being sold were acquired, Mastracchio said.
+
+“Let’s say I bought my first unit at $5,000 and my second unit at $2,000 and then I sold one of my units. I can identify the unit or I can use ‘first-in, first-out,'” he said. “From a tax planning perspective, you may want to be specific about which unit you sold or you may want to use first-in, first-out because sometimes you want a capital gain and sometimes you might want a loss.”
+
+Other issues
+
+In a disappointment to crypto users who like to spend their coins on everyday purchases like cups of coffee, the IRS specifically said it would not create an exemption for transactions below a certain threshold.
+
+Paying somebody for service will result in a capital gain or loss, which should be calculated as “the difference between the fair market value of the services you received and your adjusted basis in the virtual currency exchanged.”
+
+Purchases of goods and services were deemed taxable when the IRS issued its original guidance in 2014, which said that digital currencies were to be treated as property rather than currency for tax purposes. This discouraged casual spending and made tax season burdensome for users who wanted to diligently report their obligations.
+
+Nikhilesh De contributed reporting.
+
+IRS building image via Shutterstock

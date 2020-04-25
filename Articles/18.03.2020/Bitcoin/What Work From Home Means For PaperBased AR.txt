@@ -1,0 +1,47 @@
+DATE:  18.03.2020, 12:00:47
+TITLE: What 'Work From Home' Means For Paper-Based AR
+URL:   https://www.pymnts.com/news/b2b-payments/2020/work-from-home-paper-based-ap-departments/
+
+There are many benefits to corporates’ digitization initiatives and cloud migrations – yet as today’s global markets are quickly realizing, there is one critical advantage: the ability to quickly adjust to work-from-home recommendations and mandates.
+
+With so many processes still based on paper, accounts receivable (AR) departments within organizations that are less advanced in their digitization journeys are facing added friction as workers are sent home. The trend presents a unique conundrum for organizations’ order-to-cash operations, especially when businesses’ own clients continue to pay via paper check: The check may be in the mail, but how can a business apply that cash if there is no one at the office to open it?
+
+In a recent conversation with PYMNTS, Bectran Business Development & Implementation Manager Dominic Biegel said it is certainly a possibility that the continued impact of the coronavirus pandemic could add pressure on businesses to migrate away from paper invoices, or shift their own customers toward electronic payments.
+
+“For some companies, [working remote] is not that easy,” he said, “especially when it comes to dealing with the mail coming in and checks.”
+
+While COVID-19 may jumpstart some conversations about organizations’ abilities to adopt electronic payments and cloud-based financial processes, digitization is not the silver bullet to process inefficiencies, whether it’s during a pandemic or not. As Biegel explained, a lack of data standardization across payment tools remains a challenge to the reconciliation and cash application process, even when that data is electronic.
+
+Lockbox Data Headaches
+
+The B2B arena certainly continues to see a high prevalence of paper checks in the U.S. While working from home can present a major challenge for AR teams receiving checks in the mail, Biegel noted that more often, businesses are accepting these payments via banks’ lockbox services.
+
+The lockbox offers an important step toward digitizing data in check transactions, which is key to reconciliation and cash application processes. Yet payers include a vast array of information with their check payments, and lockbox providers relay that data in different ways.
+
+“Accepting payments via check through company lockboxes can be a very difficult process today,” said Biegel. “Companies pay with check in different ways, so that process of getting a check payment and applying it to the appropriate invoice is very time-consuming and manual.”
+
+This is especially true for organizations absorbing lockbox files that don’t perfectly match with an invoice. Often, an organization will simply submit a check with their company name and payment amount on the physical document. Though that data can be digitized via lockbox services, there is no obvious way to link that information to an outstanding invoice, especially if there is any discrepancy or dispute in the payment amount.
+
+“The work from there is, what do you do with the exceptions?” asked Biegel.
+
+Automating Lockbox Data – And Beyond
+
+The lockbox is far from the only source of digital payment data that can add to the burden of manual workload in the reconciliation and cash application process. Transaction information flowing in can lack standardization in the amount of information included and the way data is presented, across payment rails and financial service providers.
+
+This is the point of friction Bectran aims to address with recently added features to its Cash Application tool, one of which is its open application programming interface (API), to automate the collection of transaction data when payments are not made on the Bectran platform. The solution automates the collection and matching of data flowing across various formats in order to apply it to organizations’ AR and enterprise resource planning (ERP) records. When a perfect 1:1 data match isn’t available, a proprietary algorithm can recommend a probable match.
+
+The ability to automate the collection and matching of transaction data to purchase orders and invoices has implications far beyond reconciliation. According to Biegel, this automation presents clear opportunities for elevated cash management and forecasting for the organization at large.
+
+Wielding this data for the purposes of analyzing customers’ historical payment behavior patterns can also guide businesses’ collections and customer communication strategies, for instance, with Bectran also able to automate that outreach. That could mean sending a single, friendly email reminder to a company with a past-due invoice if that customer typically pays on time – or automating more frequent communication to clients with a history of late payments.
+
+Initiating Change, In Both The Short And Long Term
+
+In the short term, strengthened cash flow management and accelerated order-to-cash cycles are critical to companies that are facing unprecedented uncertainty due to the coronavirus pandemic.
+
+According to Biegel, the automation of AR is also critical in today’s current environment, enabling professionals who are required to work from home to access the necessary information and continue performing value-adding tasks, while technology takes care of the more mundane processes.
+
+In this way, events like COVID-19 could also initiate longstanding change within organizations, whether it’s by migrating toward eInvoicing and expanding requirements to pay electronically, or through the acceleration of businesses’ broader digitization efforts, in AR and beyond.
+
+Using technology to ease that shift is important, whether that change is temporary or permanent.
+
+“Our initial goal is to have businesses embrace ePayments, but we understand there are still some old-school companies that want to pay via check,” said Biegel. “So we work to make it easier to submit online payments.”

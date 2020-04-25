@@ -1,0 +1,63 @@
+DATE:  20.09.2019, 14:46:05
+TITLE: Tor Users Forget Bitcoin Is Not Anonymous
+URL:   https://bitcoinmagazine.com/articles/bitcoin-is-not-anonymous-and-tor-users-are-forgetting-this
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+Bitcoin is not an anonymous payment network. However, in practice, many people still appear to be forgetting this, even the most privacy-minded.
+
+A research paper from the University of Qatar reminds us that Bitcoin alone isn’t private. In fact, it can even deanonymize users seeking privacy from the anonymous communication network, Tor. This indicates a clear vulnerability or potential information leakage for people who already take active measures to remain private online.
+
+“In a real-world experiment, we were able to link many users of Twitter and the BitcoinTalk forum to various hidden services, including WikiLeaks, Silk Road and The Pirate Bay,” the authors of the paper, “Deanonymizing Tor Hidden Service Users Through Bitcoin Transactions Analysis,” write. “Our results [have] one immediate implication: Bitcoin addresses should always be assumed compromised as they can be used to deanonymize users.”
+
+Tor Is Anonymous
+
+One great implication of this research is that a lot of people seeking and actively using privacy tools might not actually know, now or at least in the past, how they work. To be advocates of open-source technology like Bitcoin or Tor, people have to understand what is true and what is false about these technologies and how they interact.
+
+First, the onion routing or Tor network is the largest publicly available open-source browsing software, used by people seeking online privacy. Tor’s value is that its routing architecture separates IP routing information from an online user’s identity by scrambling IP addresses through a network of servers or nodes. This makes it very difficult for potential adversaries to track a Tor user’s location, though it comes with its own unique set of drawbacks, like browsing speed.
+
+Along with user anonymity, Tor also enables server-side “onion services,” sometimes called hidden services. These are destinations inside the onion routing network — urls ending with the onion suffix — that make tracking the host or provider of information equally as difficult as tracking the user.
+
+Essentially, Tor’s onion service protocol is what is meant when people talk about the “darknet.” The terms “deep web” is usually an intended reference to the same thing but is more or less misleading given its frequent connection to internet urban legends that are usually scams, such as haunted computer games and assassin markets. A true “darknet market” describes the economy of users and vendors interacting over onion service websites. They come in all shapes and sizes and are often illicit. A somewhat comprehensive list can be found on this wiki.
+
+For more context, here is a slideshow that demystifies Tor’s onion services made by Dr. Paul Syverson, a mathematician who was part of the team that created Tor in the U.S. Naval Research Lab (yes, that’s right, the Navy spurred the creation of the world’s leading anonymous web browser).
+
+Bitcoin Is Pseudonymous and Popular on Tor
+
+Layer one Bitcoin is pseudonymous. This is because every bitcoin transaction is available at any time to anyone on its public blockchain. Identities aren’t directly attached but they can be linked to bitcoin addresses. In this way, a set of transactions from the same and sometimes multiple bitcoin addresses can be thought of as a trail of breadcrumbs. Most people are well aware of this, but what they might not realize is that, when combined with Tor, Bitcoin’s pseudonymity means that a Tor user posting a Bitcoin address will effectively compromise their own anonymity.
+
+“It’s pretty much trivial at this point for blockchain analysis companies and specific law enforcement agencies to connect those [crypto] transactions to specific wallets, and from those specific wallets to an exchange,” says Caleb, an independent cryptocurrency and darknet market researcher. “I guess the ultimate goal for law enforcement will be finding someone who sent money directly from an exchange to an illegal service where they can subpoena an exchange or send an information request for the email address(es) associated with that specific bitcoin address, and easily connect the dots.”
+
+In general, Caleb points out that many darknet buyers could be arrested if law enforcement chose to dedicate the time and resources. And, it becomes far easier when Bitcoin users post their addresses on social media!
+
+Nonetheless, Caleb says that although onion service websites recommend monero or other privacy coins, people prefer bitcoin. According to a 2019 report by Chainalysis, darknet markets have averaged about $2 million per day in bitcoin over the last two years. That’s less than 1 percent of bitcoin’s economic activity within the same time period but by far the most popular currency for Tor users.
+
+(Immutability + Social Media) = No Privacy
+
+The research paper states that Tor users are de-anonymized “mainly due to the lack of retroactive operational security present in Bitcoin.” This means that because historical transaction information is always available through the blockchain, an adversary can link a user’s Bitcoin address or addresses with addresses shared over onion service pages to anywhere on the internet, most often on social media networks, where the same user’s identity might exist. Bitcoin addresses are permanent breadcrumbs that might one day be linked to a user’s personal identity. In short, privacy users need to remember this — if they don’t, the consequences will be permanent.
+
+According to the research, here’s how this could happen. If a person accepts payments over onion services (address P), but lists another over social media (address A), and then eventually transfers funds in some relation between those two accounts, that person’s identity is compromised.
+
+Alice uses a browser and creates an online identity @alice with a public profile on social network public.com. Alice uses @alice to make a public post asking for donations on Bitcoin address A. Alice receives donations through a number of Bitcoin transactions, where A is used as an output address. Alice uses Tor browser to visit hidden service private.onion that has public Bitcoin address P. Alice makes a payment A → P to private.onion using A as an input address and P as an output address.
+
+Alice’s fifth step leaks a key piece of information that can be found by anyone, including her snoopy, less-popular friend, Trudy. Here’s how Trudy does it:
+
+Trudy crawls public.com on a regular basis, storing public user profiles and posts. Trudy crawls hidden services on a regular basis, storing accessible onion pages. Trudy parses crawled data on a regular basis, searching for Bitcoin addresses. Trudy parses the blockchain on a regular basis, searching for transactions between user and hidden service addresses. Trudy finds Bitcoin address A on public.com, associated with online identity @alice. Trudy finds Bitcoin address P on private.onion. Trudy finds transaction A → P and accordingly links @alice to private.onion.
+
+On its own, the data leakage that Alice creates in her fifth step is minor. It becomes increasingly major when correlated with other public information about Alice that might reaffirm that she owns a particular Bitcoin address.
+
+Another study cited in this paper even proposes a technique to determine a Bitcoin user’s physical location by examining their spending habits and linking it to a specific time zone. It is difficult to outright prove the effectiveness of these techniques, especially the last one, but it is reasonable to believe that even if they are too costly or ineffective now, these techniques will improve in the future.
+
+The paper also points out that de-anonymizing online users becomes far easier with more data. For example, a web search engine like Google or Facebook could “exploit a significantly larger amount of leaked information about users” with far less difficulty.
+
+Again, research from the study stresses that it only collected Bitcoin addresses readily available to the public and in no way obtained Bitcoin addresses which required payment, verification or email exchange. To that end, preemptively adding some kind of verification step would be the easiest way to mitigate at least some of Bitcoin’s de-anonymizing problems for Tor.
+
+CoinJoin Made the Methodology “Noisy”
+
+The research team came to these conclusions after crawling 1,500 onion services pages then linking 88 different Bitcoin addresses to Bitcoin addresses available over Twitter and the BitcoinTalk forum. For each of these collected addresses, the team identified other addresses belonging to the same user through a more sophisticated blockchain analysis technique called wallet-closure analysis.
+
+If wallet-closure analysis has limitations, the paper indicates that it tends to be a “noisy” way to link Bitcoin addresses. This means it can over-approximate the size of a user wallet or sometimes link multiple wallets incorrectly as belonging to the same user due to the efforts of mixing services such as CoinJoin. To account for this over-approximation, the team “excluded closures that have common addresses from the analysis.” From this information, it sounds less likely that the research team cracked CoinJoined Bitcoin addresses; rather, they somehow circumnavigated them as deadends and removed them from the study. This means that Bitcoin users who may have made the same operational security mistake over Tor could better secure their anonymity by using mixing services like CoinJoin.
+
+In the past, law enforcement agencies have claimed that they can unmix coins. Although it’s not clear how proficient law enforcement is at unmixing bitcoin that has undergone a CoinJoin, it is clear that mixing services come with their own unique set of risks. To learn more about this topic, an extensive compilation of CoinJoin research can be found on this Github page.

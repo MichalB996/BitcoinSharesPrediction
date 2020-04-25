@@ -1,0 +1,37 @@
+DATE:  08.01.2019, 18:19:14
+TITLE: The True Cost of 51% Attacks on Bitcoin, Ethereum, XRP, Bitcoin Cash, Litecoin and the Crypto-Verse
+URL:   https://dailyhodl.com/2019/01/08/the-true-cost-of-51-attacks-on-bitcoin-ethereum-xrp-bitcoin-cash-litecoin-and-the-crypto-verse/
+
+‎‎‎ ‏‏‎
+
+The recent 51% attack on Ethereum Classic (ETC) has many in the crypto-verse wondering just how simple and cheap it is for thieves to attack various blockchains, trigger double spends and reap the rewards.
+
+The site Crypto51 tracks the theoretical cost of 51% attacks on each network. The cost of taking over ETC is estimated at roughly $4,903 per hour.
+
+At a glance, it looks like the cost to manipulate Bitcoin Cash (BCH) is just over twice the price of attacking Ethereum Classic, at a cost of about $12,263 per hour.
+
+However, the key difference is represented in the image below, under the column labeled “NiceHash-able”. NiceHash is a popular mining pool service, and the percentage listed essentially represents how much of a blockchain’s hash power you can rent. When that number is low, as it is for BCH, would-be attackers would have to set up mining hardware themselves to power an attack – which is a significantly more expensive proposition.
+
+With Etherum Classic, that number of rent-able hash power is maxed out at 100%. The higher the percentage, the more vulnerable the blockchain.
+
+Theoretical Cost of PoW 51% Attacks
+
+Proof of Work (PoW) is the consensus mechanism that’s used to verify transactions on most blockchains. It utilizes vast amounts of distributed computing power in an effort to prevent denial of service attacks and spam. PoW has powered Bitcoin for ten years without fail, but has its critics.
+
+Vitalik Buterin, co-founder of Ethereum, has tweeted more than once that he does not trust Proof of Work. He and his team are moving toward its Serenity update to switch Ethereum to Proof of Stake, a different consensus mechanism that Buterin argues is more robust, cost effective and environmentally friendly.
+
+Proof of work is NOT robust if a majority is dishonest. A 51% cartel can censor anyone profitably. — vitalik.eth (@VitalikButerin) August 12, 2017
+
+I don't believe in proof of work! — vitalik.eth (@VitalikButerin) December 25, 2018
+
+XRP, the third largest cryptocurrency by market cap after Bitcoin and Ethereum, is notably absent from the Crypto51 list since the coin cannot be mined. To achieve consensus, the XRP Ledger relies on an entirely different protocol.
+
+A post from Ripple CTO David Schwartz highlights how trusted transaction validators are selected on the XRP Ledger.
+
+“Users on the XRP Ledger select a Unique Node List (UNL), a list of validators trusted by that user to order transactions. Users can select the specific validators for their own UNL or they can rely on recommended UNLs that have been compiled by other parties. The network has a number of recommended UNLs, including one list Ripple recommends, and users can choose whichever one they prefer or create their own.”
+
+The fact that Ripple itself recommends a list of validators has fueled accusations that the XRP Ledger is in fact centralized. In the aftermath of the attack on Ethereum Classic, the XRP debate has been reignited.
+
+"Distributed" as in if you trust anyone other than Ripple you might end up on different ledger. The FED's ledger cant be 51% attacked either, doesnt mean its a good solution though. pic.twitter.com/qWRlDySh9I — ɃitConsultants (@BitConsultants) January 7, 2019
+
+ADVERTISEMENT

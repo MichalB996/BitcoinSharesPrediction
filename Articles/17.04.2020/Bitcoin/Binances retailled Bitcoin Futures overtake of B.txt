@@ -1,0 +1,71 @@
+DATE:  17.04.2020, 14:30:14
+TITLE: Binance’s retail-led Bitcoin Futures overtake of BitMEX begs questioning
+URL:   https://eng.ambcrypto.com/binances-retail-led-bitcoin-futures-overtake-of-bitmex-begs-questioning/
+
+Derivatives are an interesting tool for any financial asset class. It helps in price discovery, provides a gauge for periodic trading sentiment, provides insights into volatility and correlation analysis, and understands how and what kinds of traders trade. For the Bitcoin market, the derivatives exchanges serve these very purposes.
+
+Ever since the 2017-18 ‘Bitcoin bubble’ was inflated, by derivatives exchanges, no less, the next big industry became contractual Bitcoin. For those looking to leverage a high-risk asset like Bitcoin, they found the perfect platform in BitMEX. Through 2018 and for a large part of 2019, the Seychelles-based exchange dominated trading.
+
+That is until other market players stepped in. Binance and OKEx soon joined the fray, launching their own derivatives platforms in the second half of last year. This was at a time when other major regional exchanges began offering derivatives products. The Singapore-based exchange Huobi launched its Huobi Derivatives Market [DM] in 2018, and Deribit, the then-Dutch exchange, was also taking charge of the Options market, while Japan’s bitFlyer was gaining traction in the east with its yen-denominated contracts.
+
+Competition, in terms of customers and regulatory oversight, also began to get more streamlined. The Chicago Board of Options Exchange [CBOE], one-half of the duo that induced the 2017 bubble, dropped out of the BTC Futures race in March 2019, allowing its other half, the Chicago Mercantile Exchange [CME], to take over. From March 2019 to September 2019, for American investors, CME was unrivaled, and it saw, on average, 6,000 contracts traded daily, as the Bitcoin spot price surged in Q2 and Q3 of 2019.
+
+On 23 September, Bakkt, the Intercontinental Exchange’s [ICE] digital assets’ platform launched with lofty external expectations as it offered CFTC-approved, physical delivery of its Bitcoin Futures, a first in the regulated and institutional American market. The Bitcoin derivatives market, hence, has seen not just incoming new players, but also the diversification into Options, leaving the Futures status-quo feeling threatened.
+
+Seismic shift
+
+As early as March, prior to the events of ‘Black Thursday,’ a look at the Futures market would’ve shown a clear front-runner. BitMEX, in terms of 24-hour trading volume, was leading the pack, with OKEx and Huobi DM making the top-3. Binance, despite being a prominent player in the derivatives market, was languishing in the fourth spot, with a volume difference of ~$500 million, and no threat of falling behind to other exchanges.
+
+In addition to the trading activity on the exchanges, another metric that provides deeper insight into exchange activity is Open Interest, or the total number of outstanding positions, either long or short, on an exchange, on a given day. This shows the longevity of trades open on an exchange, and not necessarily the trades moving back and forth between market players. This metric, like volume, had similar leaders – BitMEX, OKEx, and Huobi DM; Deribit with Binance’s OI just 14 percent that of BitMEX’s.
+
+February, largely, saw the same market activity as the months prior to it, but a lot changed in March. As pandemic-induced liquidation fears hit Bitcoin’s price, in addition to gold and the equity markets, the volatility spelled a change in the derivatives pecking order. On 12 March, the day Bitcoin lost 45 percent of its value, its biggest single-day drop in seven years, the trading activity shifted away from BitMEX. One would think that OKEx and Huobi DM would take the top spot, but that mantle shifted to Binance.
+
+In April, as the price leveled off, trading at around $7,000, Binance’s trading volume soared and it led the pack, but its Open Interest was still lagging behind, trailing the aforementioned trio, a trend that also dominated in February.
+
+Numbers don’t lie
+
+A look at the divergence of trading activity reveals that Binance, when compared to BitMEX, OKEx, and Huobi differed in terms of the spread of volume and Open Interest. The data below pertains to volume and Open Interest from February.
+
+Looking at the volume [blue], it can be inferred that BitMEX and OKEx clearly led the race, accounting for a single day trading volume of $3.13 billion and $3.24 billion, respectively, according to data from Skew markets.
+
+Binance, on the other hand, had a volume of less than 50 percent of either of the aforementioned exchanges – $1.53 billion, on average, for February.
+
+Now, moving on to Open Interest [orange], the divergence is the same. On average, the number of open and active derivatives positions [both long and short] on BitMEX accounted for $1.49 billion, for each day, a single-day high of $1.61 billion on 19 February, and a total OI for the month at $43.29 billion.
+
+Binance’s total open positions for the month were $10.79 billion, but on average, it stood at $210 million, or 14 percent that of BitMEX’s.
+
+An explainer on the importance of volume and Open Interest metrics and the differences between them can be found here.
+
+Looking closer
+
+Both volume and Open Interest are concentrated with three exchanges, allowing Binance only a small share relative to the total. However, Binance’s own distribution is skewed compared to the rest, showing still contrasting signs,
+
+On looking at the exchange’s average volume and Open Interest ratio for the month of February 2020, Binance is the clear anomaly, accounting for nearly 7 times as much volume compared to its Open Interest. The three other exchanges, BitMEX, OKEx, and Huobi had a ratio of between x2 to x3. This would indicate that there is 7 times the amount of trading activity on Binance against positions opened, significantly more than its adversaries.
+
+FTX, the exchange offering only derivatives and no spot trading, also saw a ratio of 2.54, well within the average, whereas exchanges with meager volumes like Kraken and Deribit, saw ratios of less than 1, indicating a lower volume [trading] than Open Interest [active positions].
+
+Further, the seven times overtake of volume over Open Interest was simply the average. On 13 occasions did the volume-OI ratio move over the average of 7.31. On 27 and 28 February, the ratio was 15 and 11.19 times over the Open Interest respectively, the highest divergence of the entire month.
+
+The other exchanges’ divergence was muted compared to Binance. BitMEX, for instance, had a high divergence of 3.75 volume over OI on 27 February, and low divergence of 0.8 on 23 February.
+
+Separation game
+
+Now, what does this imply for the rest of the market and for market participants? Well, according to Adam Blumberg, founder of Interaxis – a crypto-specific educational platform for financial advisers, this is a tell-tale sign of the kind of traders on Binance, compared to the rest of the derivatives market.
+
+In conversation with AMBCrypto, back in March, prior to the events of ‘Black Thursday,’ Blumberg, looking at the data above suggested that this is evidence of retail traders favoring Binance over the three other exchanges, which he stated catered to more ‘institutional and advanced traders.’ He added,
+
+“Of these [exchanges], Binance is one of the most retail… Binance has never built itself as an exchange that is used by more institutional traders.”
+
+Prefacing the above, Blumberg stated that he is of the ‘assumption’ that “people on Binance don’t really know how to trade Futures, they don’t really know what they’re doing.”
+
+Most traders on the once Malta-headquartered exchange use the services to trade Bitcoin, in any form, against altcoins, or more crypto-to-crypto trading, rather than just fiat. He added,
+
+“If you’re on Binance, you’re probably used to just trading Bitcoin against a whole bunch of other altcoins. That’s more of what Binance is used for…Binance is more of a retail trader whereas the others have more hardcore traders who really know what they are doing.”
+
+Further, given the divergence of just one exchange among the other exchanges, most of which only offer derivatives or are seasoned, this would entail that Binance not only more has retail traders, but also those who are ‘less experienced.’
+
+Binance’s entry into the Futures market was part of its diversification plan. In addition to expanding into a new financial product, the exchange expanded into the American market, with the introduction of Binance.US. Their US-specific and Futures market was in line with a larger diversification plan founded on retail dominance. This derivatives diversification, according to Blumberg, nudged the spot traders on the exchange to ‘play around with Futures,’ even though they weren’t experienced in derivatives.
+
+Comparing the above diversification to that of a “bank,” Blumberg argued that “Futures trading is not their [Binance’s] thing,” as their market has always been retail, and to open up a Futures exchange could be to hold on to the few retail spot traders that wanted to play with Futures. This, in his opinion, would explain the difference in volume and Open Interest on Binance, in comparison to the other three exchanges.
+
+More trading activity combined with low outstanding positions was certainly an anomaly back in February, and now with Binance leading the charts, it’s even more so.

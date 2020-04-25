@@ -1,0 +1,53 @@
+DATE:  16.06.2019, 17:35:35
+TITLE: VPN Providers Defy Order to Connect to Russia’s Internet Censor
+URL:   https://news.bitcoin.com/vpn-providers-defy-order-to-connect-to-russias-internet-censor/
+
+VPN Providers Defy Order to Connect to Russia’s Internet Censor
+
+Russian regulators have once again moved to expand oversight of the online space in an attempt to ensure compliance with various restrictions Moscow is trying to impose. But as in other cases, their efforts have been met with resistance. Over a dozen VPN platforms, popular among crypto enthusiasts and other privacy-conscious users, have refused to join the state-run system for blocking banned websites. Some of them have already announced they are moving abroad. The game of cat and mouse continues, with Roskomnadzor vowing to block nine of the refusers within a month.
+
+Also read: Russian Prosecutors Fail to Block Crypto Website
+
+VPN Services Move Out of Country
+
+In March this year, the Federal Service for Supervision of Communications, Information Technology, and Mass Media, Roskomnadzor, demanded from 10 VPN service providers to connect to the Federal State Information System (FSIS). The register keeps information about websites, the access to which has been restricted after they were blacklisted by Russian authorities. Roskomnadzor wants to confirm the VPN services do not allow their subscribers to access these sites.
+
+The telecom watchdog sent out notices to Tor Guard, Vypr VPN, Open VPN, Nord VPN, VPN Unlimited, IP Vanish, Hide My Ass!, Hola VPN, Express VPN, and Kaspersky Secure Connection. Seven companies have refused to collaborate, including four that have moved their servers out of the country, and another two have not responded at all. Six more platforms, which have not been notified by the agency, also indicated they won’t connect to the FSIS. So far, only Kaspersky has agreed to cooperate.
+
+Alexander Zharov, head of Roskomnadzor, stated last week that nine VPN platforms which have not fulfilled the watchdog’s requirements, may be blocked within a month for not complying with the law that prohibits the provision of services facilitating the bypassing of government restrictions. “It seems Roskomnadzor has recently compiled a second list of VPNs and asked them to filter traffic,” Sarkis Darbinyan, lead legal expert at Roskomsvoboda, a Russian NGO fighting internet censorship, told news.Bitcoin.com.
+
+Darbinyan also shared that another provider, Avast Secureline VPN, has just announced it’s withdrawing from the country in connection with Roskomnadzor’s actions. The company believes compliance with such requirements would violate its own principles and the right to freedom of the Internet. And because it won’t be in a position to bring any benefit to its Russian users, Avast informed them they will not be able to renew their subscriptions in the future.
+
+The Battle for the Runet
+
+A database maintained by Roskomsvoboda contains over 173,000 websites, forums, messengers, news outlets and other online platforms that have been banned at some point. The restrictions have been mandated by various state institutions including several government agencies, ministries and the Prosecutor’s Office. Many of them are still offline but some, like the crypto exchange aggregator Bestchange.ru, have been taken out of the blacklist.
+
+Another encouraging example comes from the case with the blocking of a VPN service provider called Hidemy.name. The platform was taken offline by a ruling of a regional court in the Russian Mari El Republic in 2017. The owner of the website sought help from Roskomsvoboda and in May of this year, the organization’s legal team managed to successfully challenge the court’s decision.
+
+Sarkis Darbinyan noted that Russian judicial authorities did not dig deep enough into how VPN technologies work and the lawyers were able to identify many procedural violations. This led to the cancellation of the original ruling and the unblocking of Hidemy.name by Roskomnadzor. However, “this battle is not over yet, so we will continue to fight for the rights of Russian users to VPNs and to protect companies that provide such secure and safe services,” Darbinyan commented.
+
+According to amendments made to the Federal Law “On Information, Information Technologies and Information Protection” in late 2017, VPN providers and anonymizers are expected to register with Roskomnadzor and connect to the FSIS within 30 working days. One of their key obligations is to limit access to internet resources that are banned in the Russian Federation.
+
+The same applies to search engines and the Russian internet companies Yandex, Sputnik, Mail.ru, and Rambler have already complied. Earlier this year, Google was sanctioned for failing to meet this requirement. Roskomnadzor now claims the internet giant has already paid the 500,000 ruble (approximately $8,000) fine imposed by a Russian court and is now filtering searches in accordance with the FSIS rules.
+
+Roskomnadzor’s Next Move
+
+If Russian regulators find that the law has been breached, they may adopt a decision to restrict access to the VPN providers who have violated its provisions. Roskomnadzor is now expected to take measures aimed at blocking the VPN services which have refused to comply with its requirements as well as those that have not replied to its notices. It remains unclear, however, what the watchdog’s next step will be.
+
+Various approaches have been employed in the past regarding other non-compliant companies. For example, it took the watchdog almost a year to act against Telegram, the messenger founded by the Russian-born entrepreneur Pavel Durov, which enjoys great popularity in the crypto community. Other messaging platforms such as Blackberry, Imo and Line were banned much faster.
+
+“It does not look like Roskomnadzor and Russian ISPs [Internet service providers] are really technically ready to block VPNs. For sure, they can block websites where users can download apps. That’s the easiest thing to do. But they absolutely cannot make Apple and Google remove a mobile app. Of course, the most difficult thing for them would be to actually block an application and break connectivity with the servers of these operators. And they understand it,” said Darbinyan. The activist added that this will become a huge problem for Russian regulators after the epic failure to block Telegram.
+
+Government agencies are now trying to improve their blocking capabilities. “The Main Radio Frequency Center, an entity subordinated to Roskomnadzor, requested in March the development of an automated blocking system. It should be available by December 2019. The system will monitor how search engines, VPN services, proxy servers and anonymizers comply with the requirements of Federal Law № 276-ФЗ [the one that affects VPNs]. Maybe after supplying learning DPI [Deep Packet Inspection] tools to all ISPs to recognize VPN traffic by patterns, they will be more effective,” Roskomsvoboda’s representative pointed out. “It looks like it is going to be a long game of cat and mouse,” Sarkis Darbinyan said and elaborated:
+
+Let me remind that most of the VPN services that have received notifications from Roskomnadzor already have a fairly rich experience in working in China and bypassing the Great Firewall. So they can easily adapt to work in Russia in these new circumstances.
+
+The implementation of advanced technical means to control the Russian online space is part of package of measures introduced with the new “Digital Economy National Program” legislation, also known as the Runet law. It was adopted in April by the State Duma, the lower house of Russia’s parliament, and according to its sponsors, its goal is to protect the Russian segment of the Internet from external threats turning it into a “sovereign” space. Critics say it will not only limit internet freedom but also affect negatively many businesses that rely on the World Wide Web, including crypto platforms.
+
+As news.Bitcoin.com reported, some of the law’s key provisions include the building of a system that will channel Russian internet traffic through government-controlled routing points as well as granting unlimited powers to Roskomnadzor – the agency will be able to cut off non-complying internet providers at will. It’s been estimated that the system will draw more than 30 billion rubles (almost $500 million) from the state budget, an amount that has raised some eyebrows. But, financial costs and security concerns aside, the question many Russians are asking themselves is if the Runet will after all remain ‘Internet’.
+
+Are you using a VPN service? What’s your opinion about Moscow’s requirements toward VPN providers? Share your thoughts on the subject in the comments section below.
+
+Images courtesy of Shutterstock.
+
+Express yourself freely at Bitcoin.com’s user forums. We don’t censor on political grounds. Check forum.Bitcoin.com.

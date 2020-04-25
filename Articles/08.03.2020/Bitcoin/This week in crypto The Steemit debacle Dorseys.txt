@@ -1,0 +1,63 @@
+DATE:  08.03.2020, 12:07:43
+TITLE: This week in crypto: The Steemit debacle, Dorsey's Bitcoin bet, XRP sleuth sues
+URL:   https://decrypt.co/21726/justin-sun-steemit-jack-dorsey-bitcoin-xrp-law-suit
+
+A warm welcome to another week in crypto. This week, Huobi and Binance used their customers’ money to help TRON CEO Justin Sun take over the Steem blockchain; the CEO of Twitter’s company puts money behind Bitcoin; and XRP army sleuth Geoff Golberg sues Twitter. And more!
+
+Justin Sun botches takeover of blockchain network
+
+Justin Sun, the CEO of TRON, this week convinced leading cryptocurrency exchanges to pledge their customers’ money to prevent “malicious hackers” from taking control of the Steem blockchain. The only thing was—they weren’t hackers at all, but democratically elected members of the Steem community.
+
+Sun recently bought Steemit.com, a decentralized social network (essentially Reddit) which sits atop the Steem blockchain. He planned to migrate Steem onto his own blockchain network, TRON. Upon purchase, Sun was also entitled to around $12 million worth of the blockchain’s native token, Steem, which was pre-mined by Steem’s former owner, Ned Scott.
+
+But the community was so skeptical of their new leader that they voted in favor of a soft fork. The fork temporarily prevented Sun from using these pre-mined tokens to manipulate the fate of the network (on Steem, money is used to influence votes about the future of the network).
+
+Sun had none of that. Unable to get a hold of his tokens, he used the immense voting power of cryptocurrency exchanges, Binance, Huobi, and Poloniex, who had pooled together their customers’ money to increase their influence over the network.
+
+The exchanges agreed to delegate their power to Justin Sun, who summarily used his newfound power to vote himself into the blockchain network’s elite governing council. Once in, Sun voted a bunch of sockpuppet accounts into the council, pushing other members out.
+
+In response, the Steem community re-elected their own community members and locked Sun out from the network. Exchanges also withdrew their votes that made Sun’s takeover possible, and Steem’s developers quit the project.
+
+On social media, Sun labeled the community's soft fork criminal and malicious. The Steem community also thinks that Sun’s actions were illegal.
+
+Sun must work out a way to cooperate with his new family, or, since the family’s back in control, risk being kicked out. Wider concerns about the influence cryptocurrency exchanges have over blockchain networks are also now out in the open.
+
+The Algorand blockchain will host one of the first central bank digital currencies
+
+The Republic of the Marshall Islands, the remote island nation, is building its central bank digital currency on the Algorand blockchain. The CBDC, dubbed the Marshallese sovereign (SOV), will help the 50,000 strong nation reduce its reliance on the US dollar, which is currently its national currency.
+
+It will help cut down on cross-border transaction fees, wrote David Paul, the Minister-in-Assistance to the President of the Marshall Islands, in an essay in September 2019. This is important given the nation’s remoteness—people are always sending money to and from the island, so transaction costs rack up.
+
+Jim Wagner, co-founder and CTO of SFB Technologies, the company that’s making the coin, said in a statement that he’s using Algorand as it has the “functionality required to issue, manage and distribute the SOV on a global level. This partnership ensures that the SOV will be built on a scalable and secure platform.”
+
+All this despite heavy resistance from the International Monetary Fund, which has advised against the issuance because of "potential costs arising from economic, reputational, AML/CFT, and governance risks" that might arise.
+
+But the island nation marches bravely on. Its supply will grow 4 percent each year, and will be introduced through a token pre-sale, predicted to be sometime this year.
+
+XRP Army investigator launches lawsuit against Twitter
+
+Data analyst Geoff Golberg is best known for digging up dirt on the XRP Army, which he says is a massive botnet aimed at promoting XRP.
+
+Among other things, Twitter’s lackadaisical response to the XRP Army is one of the reasons that Golberg is irked about the social network site. Twitter’s no fan of Golberg either, and has banned his account.
+
+Never one for silence, Golberg this week filed a lawsuit against Twitter.
+
+Golberg claims that he “paid” Twitter with his user data, and that by banning him, Twitter owes him money.
+
+Second, he thinks that Twitter bots bullied him and mass-reported his account. No fair, he says.
+
+Third, two of crypto-Twitter’s favorite crypto lawyers—Stephen Palley and Preston Byrne—are working on the case.
+
+“Big tech has so much power, they can opaquely and unaccountably remove someone from their platform, just like this,” he told Decrypt. He’s looking for between $25,000 and $50,000.
+
+Twitter CEO launches Bitcoin grants
+
+Jack Dorsey, Twitter CEO, likes Bitcoin so much that his new payments company. Square, has awarded grants to two developers in the Bitcoin community.
+
+Specifically, Square Crypto, the Bitcoin development unit of Square, awarded grants to two crypto developers, Jon Atack and Tankred Hase. Atack’s previously contributed to Bitcoin Core, and Hase’s working on a lightning network that lets people text Bitcoin to one another. This will let them work full-time on open-source projects that benefit the Bitcoin network.
+
+Square Crypto would also like to contribute to the development of the Lightning Network, a layer-two technology that sits atop of Bitcoin, which, theoretically, makes everything quicker and cheaper.
+
+The point of Square Crypto’s Grant program is to give money to people who "don’t have the financial means to build financial freedom for others.” It’s aimed at individuals and companies who’re working on projects “aimed at improving bitcoin through UX, scaling, privacy, security, or something else we haven't thought of." Such projects must be “without a business or profit motive.”
+
+"It's an ambitious long-term goal, especially without an obvious business model. But I think it's worth exploring and it makes sense to try it in the context of a grant,” Hase told Decrypt. He said the grant gives him enough money to work full-time on "the open-source infrastructure required to tie wallets to phone numbers."

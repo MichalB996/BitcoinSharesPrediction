@@ -1,0 +1,39 @@
+DATE:  31.03.2019, 18:30:36
+TITLE: Making ATM Bitcoin Payments via Lightning Network Is Becoming a Reality
+URL:   https://bitcoinist.com/bitcoin-atm-lightning-network/
+
+Bitcoin Technology Making ATM Bitcoin Payments via Lightning Network Is Becoming a Reality
+
+Developer and researcher Felix Weis successfully executed, as a proof-of-concept, the world’s first ATM Bitcoin transaction on the Lightning Network.
+
+World’s First Lightning-enabled Bitcoin ATM ‘Worked Fine’
+
+On March 31, 2019, Weis publicly demonstrated a transaction via Lightning Network at a bitcoin ATM, during the Lightning Hackday, in Hong Kong, as shown in the video below.
+
+Later, Weis described the transaction as:
+
+Just a proof of concept ‘top up your existing channel.’ Lots of bugs but two different mobile wallets worked fine.
+
+Bitcoin Lightning Network Capacity Rises Over 1,000 BTC
+
+The crypto industry is becoming increasingly enthusiastic about the Lightning Network because it offers to drastically lower BTC’s transaction fees while making it possible to execute near-instant transactions.
+
+Moreover, the demonstration of making ATM Bitcoin payments over the Lightning Network comes when Weiss Crypto Ratings has just upgraded Bitcoin from a “C-” to a “B-” (good) because its technology had dramatically improved.
+
+Weiss highlighted these conclusions in a comprehensive report on the crypto market entitled “Dark Shadows with a Bright Future, ” published in March 2019.
+
+Specifically, the Weiss evaluation considered four factors: adoption rate, technology, risk, and reward. And, it highlighted the effect of the advent of the Lightning Network in the upgrade, as follows,
+
+Bitcoin has been upgraded with the roll-out of its Lightning Network and is the best positioned to become a popular store of value for savers and investors.
+
+The Lightning Network is a decentralized system where participants can implement trustless micropayment channels to perform one or multiple payment transactions off-blockchain.
+
+These channels reside off the Bitcoin blockchain. Transactions occur between these channels. Upon completion, transactions are transmitted, as a single transaction, to the blockchain. Then, the payment channel is closed, and transactions are transcribed onto the blockchain.
+
+Therefore, regardless of the number of transactions performed, the BTC blockchain is accessed twice, at the opening of the channel and the closing of the channel.
+
+The implementation of Lightning Network nodes continues to gain momentum. As of this writing, according to 1ML, a Lightning Network monitoring website, the network now boasts 7,744 nodes and 39,129 channels. And the network capacity reaches over 1,059 BTC.
+
+Will Bitcoin ATMs use Lightning Network to cut costs in the future? Let us know in the comments below!
+
+Images courtesy of via Twitter/@bitcoinorghk, Weiss Crypto Ratings, Shutterstock

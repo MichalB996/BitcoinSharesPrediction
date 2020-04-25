@@ -1,0 +1,204 @@
+DATE:  14.11.2019, 17:43:00
+TITLE: What’s the Best Hardware Wallet on the Market? Part 3
+URL:   https://bitcoinmagazine.com/articles/bitcoin-wallet-reviews-whats-the-best-hardware-wallet-on-the-market-part-3
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+This is the third article in a three-part series that examines five of the most popular Bitcoin hardware wallets. Read the first part, focused on the wallets’ physical safety and outward appearance here. Read the second part, focused on simplicity, accessibility and privacy, here. By request, samples were provided by some of the companies for review purposes.
+
+After assessing the physical sturdiness, appearance, simplicity, accessibility and privacy of five of the leading hardware bitcoin wallets on the market, it’s time to analyze arguably the most important feature of all: security.
+
+There are plenty of convenient features and integrations to be found in hardware wallets, but none of them are as valuable and important as the efficiency with which they secure your bitcoin. The main expectation of the device is not to enable Bluetooth connectivity or seamlessly integrate with a trading platform, but to serve its base function of keeping coins safe and away from hackers’ malevolence. Just like a mobile phone should be able to make calls before running 3D video games, a hardware wallet is supposed to offer robust cryptographic security.
+
+Thankfully, the devices scrutinized in this three-part analysis are the five best options available on the market, so any security compromises in favor of extra features are minimal. Furthermore, the hardware wallets covered in this review were not arbitrarily chosen — they each benefit from the positive recommendations of bitcoin.org. In no particular order, these devices are Trezor Model T, Ledger Nano X, ShapeShift’s KeepKey, Shift Cryptosecurity’s bitcoin-only BitBox02 and Coinkite’s Coldcard Mk3.
+
+How to Assess Hardware Wallet Security
+
+In the context of hardware wallets, there are multiple types of “security” and many complex issues that have to be taken into consideration.
+
+First of all, the private keys these wallets protect should not get leaked during remote or physical attacks. They must act as a proxy which manages your keys without being exposed to the risk of malware, spyware, keyloggers, viruses or other malicious pieces of software that can infect your computer.
+
+Secondly, both addresses and amounts of cryptocurrency being sent during transactions must be verifiable. Each hardware wallet is endowed with a universal microcontroller which communicates with its encrypted aspects and facilitates user input — and this is the most vulnerable and tricky component of these devices. Thankfully, the new generation of hardware wallets has solved any issues with this user input by integrating easily readable screens which display all of the information required to compare with the computer or mobile phone input before validating the transaction. (But, as a general piece of advice, always check everything to be sure that your device is functioning properly and doesn’t result in you losing your bitcoin.)
+
+Thirdly, it’s important to take into account the integration of secure chips (as in the case of the Ledger Nano X, BitBox02 and Coldcard) and the ease with which users can create a multisig security model (the Trezor Model T and Coldcard are the champions in that field).
+
+Fourthly, it’s essential to reduce the attack surface by creating a Bitcoin-only firmware. Some manufacturers take this feature very seriously, and the fact that you can’t glitch the software due to the inclusion of altcoins can make a lot of difference in security. As scarce digital commodities, your bitcoin require uncompromising security.
+
+The use of open-source software and native SegWit (bech32) addresses are also criteria for security and privacy. The former enables easier audits by security experts and quicker fixes, while the latter reduces transaction fees and grants access to CoinJoins via Wasabi Wallet.
+
+Furthermore, it’s important to check if the hardware wallet manufacturer enables bounty programs for bug disclosures. The existence of a clear, financial incentive for the discovery of various security issues attracts ethical hackers who may bring significant contributions and ultimately add to security.
+
+Last but not least, a price comparison will be presented. Sometimes the “you get what you pay for” principle applies and, in this context, it’s important to introduce cost as an extra metric for security. So, here are the sections you can expect to find in this final entry in this series:
+
+History of hacks The presence of secure chips The difficulty of setting up multisig The option of a bitcoin-only device The use of open-source software Support for bech32 Use of bug bounty programs Price
+
+1. History of Hacks
+
+Historically speaking, every hardware wallet manufacturer has encountered issues with hackers and exploits. No design is perfect and absolute security from hacks is virtually impossible. The golden rule when it comes to hardware wallets is to treat them the same way you would treat paper wallets: Make sure that nobody gets physical access. For more information on physical security, please refer to the first article in this series.
+
+This section is based on the findings of Wallet.fail, white hat hackers Dmitry Nedospasov, Josh Datko and Thomas Roth, as well as independent researchers Saleem Rashid, Sergei Volokitin, LazyNinja, TheCharlatan, Kaspar Etter and Reddit user De_Wilde_Weldoener. Furthermore, it should be noted that all of the issues presented have been fixed by the hardware wallet manufacturers and that the findings serve as a reminder that no device is perfect and should always be physically protected.
+
+Trezor
+
+During its 35C3 presentation in December 2018, the team members of the Wallet.fail project presented multiple issues with the Ledger and Trezor hardware wallets. Most notably, Roth was able to extract the seed phrases and PIN from a Trezor One, while his collaborator Nedospasov introduced a prototype for the “Trezor Glitcher” — a device which instantly exploits the vulnerabilities of Trezor hardware wallets. The issue they exploited was that private keys were being moved in the RAM during software upgrades, and a fix was released 62 days later with version 1.8.0 of the firmware.
+
+Trezor’s devices were also found to be vulnerable in August 2017, as explained by security enthusiast Doshay Zero404Cool in an extensive blog post. Basically, the author identified vulnerability issues with the ST32F05 chip (which is used in the Trezor Model T and the KeepKey). Saleem Rashid has also written an article which explains all of the technical intricacies involved, and Trezor fixed the issue eight days later with firmware update 1.5.2.
+
+These are only two of the most notable examples of security issues with Trezor hardware wallets, which have been identified and fixed over the last couple of years. However, it’s this openness and willingness to constantly solve security issues that makes Trezor a trusted, device manufacturer. The large community and the numerous security experts who constantly scrutinize the hardware and software developed by Trezor are one of its most important security guarantees and the reason why Trezor is still the industry standard for hardware wallets.
+
+Ledger
+
+From a design perspective, Ledger’s hardware wallets are the exact opposite of Trezor’s: They rely on a secure element chip which acts as a closed-source blackbox and aren’t as open about security. Its bounty program webpage doesn’t contain a list of fixed issues but only mentions bug submission criteria and procedures, as well as the company’s “Wall of Fame.”
+
+Before the new Nano X model was launched in the second quarter of 2019, Ledger’s Nano S has been subjected to two significant and well-documented exploits. Firstly, Rashid reported a security issue in November 2017, which Ledger patched four months later. More specifically, the architecture of the microcontroller unit (which communicates with the buttons, screen and USB port) could be tweaked to run a custom firmware which tricks the secure element chip.
+
+In December 2018, the Wallet.fail team also managed to successfully launch a compromising attack on the Ledger Nano S, which allowed it to run the video game Snake on the device. It was a way for it to prove that the physical design is flawed and anybody can install malevolent software which bypasses the initial verification process and might be able to redirect the funds to another address. This demonstration was most likely a rebuttal to the famous statement made by Ledger co-founder BTChip, who tweeted support of the idea that Ledger devices are so secure that they can have their software reset and be sold to other users.
+
+In May 2019, the Wallet.fail team identified a lack of memory protections in the STM32WB55 chip from the Ledger Nano X, and it’s still unclear if the issue was fixed by a firmware update. As a company, Ledger isn’t as transparent as Trezor and oftentimes doubles down on issues as intentional design choices (both Rashid and the Wallet.fail team have encountered communication issues). Therefore, purchasing any Ledger device implies trusting the company’s security model to a degree that isn’t necessarily compatible with the cypherpunk spirit of open-source software.
+
+KeepKey
+
+From a hardware and firmware perspective, the KeepKey is very similar to the Trezor Model T. The only major differences can be found in the enclosure (which is more premium in the case of the KeepKey), the design and architecture, and the software of choice (which ShapeShift has modified to fit its business philosophy).
+
+In April 2019, Sergei Volokitin managed to take advantage of a design flaw in order to glitch the KeepKey. As he explains in his OffensiveCon19 presentation, Volokitin was able to successfully run an injection attack which glitched the device in less than five minutes and made it susceptible to the installation of custom, malevolent software. The conclusion drawn referred to the board design and choice of chips, as the microcontroller is not made to resist such attacks. Also, the large number of available commands also extends the attack surface when attempting to inject custom software that can steal the user’s bitcoin.
+
+As a hardware wallet manufacturer, KeepKey finds itself somewhere in the middle between Trezor and Ledger: not as open as the former, but not as opaque as the latter either. Also, the component and circuit similarities with the Trezor Model T may translate in common issues and identical fixes. The result can be great in terms of bug fixing, but the limitations of the hardware should also remind us that the product has been around since 2015 and definitely needs an update to newer security standards.
+
+BitBox02
+
+Shift Cryptosecurity’s BitBox02 was publicly launched less than a month before publication of this article, and this fact may give it an unfair advantage in terms of glitches and hacks: Security experts haven’t had enough time to test it.
+
+The previous model, the BitBox01 (also known in its early days as Digital BitBox), suffered from a major design flaw which got fixed in the new iteration: It had no display to verify the amounts being sent and the corresponding bitcoin addresses. In this regard, it relied on a third-party device like a smartphone to show all of the required information. However, the method was both clunky and unsafe.
+
+As described in a lengthy blog post, Rashid was able to steal the private keys from the BitBox via malware, sign a different transaction from the one being displayed on the smartphone’s screen and extract the private keys from the device with physical access. Shift Cryptosecurity CEO Douglas Bakkum has fixed all of these issues with a firmware update, and the impact was minimal. However, it’s no wonder that the company has transitioned to a new design in a matter of months and decided to include a secure element chip which is similar to the one that’s found in the Ledger and Coldcard devices.
+
+As for security reviews of the BixBox02, security researcher LazyNinja announced in November 2019 that he will likely publish an article about his findings in “a month or so.”
+
+Coldcard Mk3
+
+Shortly before publication of this article, Shift Cryptosecurity employee TheCharlatan offered more information on a security issue that he identified in the Coldcard Mk3. Thanks to his credited disclosure, Coinkite fixed the bug in firmware release 3.0.2 — and the update became available to the public on November 1, 2019.
+
+As it turns out, the Coldcard Mk3 had an exploit with partially signed bitcoin transactions (as introduced in BIP 174) that allowed attackers force users to send all of their unspent coins (UTXOs) to an address from which they can’t recover them. The attackers could demand a ransom before releasing the funds. TheCharlatan revealed that ransomers could make users receive coins on addresses that they could not recover from by making the device display multiple confusing lines of code to trick the users. This means that a receiving address could also be held under ransom by attackers.
+
+Editor’s note: h/t to TheCharlatan for the explanation above.
+
+A solution to the issue has been found and Coldcard owners have been advised to install the 3.0.2 firmware update. However, according to a blog post by TheCharlatan, a conflict of some kind seems to have been sparked between Coinkite and Shift Cryptosecurity due to the fact that Coinkite downplayed the impact of the vulnerability in its public disclosure and offered credit only to TheCharlatan, even though researcher Kaspar Etter of Shift Cryptosecurity allegedly also contributed.
+
+In response to those allegations, Coinkite CEO Rodolfo Novak told Bitcoin Magazine that “[Shift Cryptosecurity] seemed to have coordinated their not-so-great news about discontinuing their previous BitBox PWNd model, didn’t check with us to confirm bounty details, exaggerated a vulnerability, and caused unnecessary panic on the first day of release. In my view, they acted in bad faith. The fact remains that this kind of research is being funded by the competition and not independent experts reveals a lot about their real intentions. Ultimately, we’ve been in this space for many years and have successfully worked with numerous security researchers.”
+
+In January 2019, hardware wallet researcher LazyNinja also found an issue with the PIN input of the Coldcard Mk2: Due to a firmware flaw, hackers could brute force the PIN by entering a new guess every 5 to 15 seconds. In his hacking session, he conducted a man-in-the-middle (MITM) attack through an external device which was used for decoding. The end result is that he was able to access the Coldcard Mk2 after multiple attempts at guessing the PIN. Consequently, Coinkite announced a software update to fix the issue, while also recommending users create a long PIN.
+
+On the Coinkite blog, every prominent security issue and fix seems to have been disclosed and explained. This is great news for security enthusiasts who feel permanently skeptical about the devices that they’re using, and it’s a factor which helps build the reputation of Coldcard as a brand.
+
+However, it’s worth noting again that no hardware wallet has proven to be perfect in terms of security, and sooner or later new vulnerabilities will be found. Just keep your device in a safe place and treat it like you would a paper wallet: Nobody can ever touch it or take a good look at it.
+
+2. Secure Chip
+
+BitBox02, Coldcard Mk3 and Ledger Nano X
+
+When Ledger launched the Nano S, a new trend in hardware wallet security was introduced: Making use of a secure chip (in this particular case, the ST31H320) as a way of cryptographically keeping sensitive information away from hackers. Ledger has replicated the model with the Nano X by upgrading the chip to a ST33J2M0 and improving on the microcontroller, while other manufacturers such as Shift Cryptosecurity and Coinkite have been inspired to design similar devices.
+
+Both the BitBox02 and the Coldcard Mk3 use the ATECC608A secure chip. Unlike Ledger, which keeps some of its code concealed from the public eye, the two devices follow the open-source philosophy that Trezor champions (and also makes use of some of Trezor’s software breakthroughs). The idea of taking the best of both worlds from market pioneers Trezor and Ledger seems to work very well, as the Coldcard and BitBox are enjoying a surge in popularity.
+
+Up to this point, no secure chip has been hacked. Nonetheless, since the component communicates with the other parts of the hardware wallet (such as the connection port and microcontroller), creative ways have been found to circumvent the advanced security by sending it incorrect instructions (such as changing the addresses where funds get sent). The two-chip design has worked really well, but manufacturers are still figuring out how to create a physically tamper-proof hardware wallet.
+
+Trezor Model T and KeepKey
+
+The two devices from this test that don’t have a secure chip are the Trezor Model T and the KeepKey. Since the latter is a redesigned clone of the former, it makes a lot of sense for them to have similarities in the parts soldered onto the mainboard.
+
+Does Trezor really need a secure chip to keep up with the competition? Well, the company is generally perceived as the best and most honest hardware wallet manufacturer when it comes to fixing vulnerabilities and releasing patches. It has done so for years, established a very transparent bounty system and it has been quick to respond to and take care of issues. Consequently, its users are more drawn to the quick fixes, extensive third-party support and customer service. Even when their devices got hacked, the Trezor developers have been able to find ways to maintain trust with their clients.
+
+In the case of the KeepKey, it’s the oldest device in this test and definitely requires an update in order to acquire unique features of its own. Adding a secure chip or integrating full node and Wasabi connectivity are just a few ways in which ShapeShift’s product can become truly competitive, spec-wise.
+
+3. Multisig Difficulty
+
+Coldcard Mk3 and Trezor Model T
+
+Only two of the five devices presented in this test are recommended for multisig setups: the Coldcard Mk3 (which can perform the task on-device through a simple interface) and the Trezor Model T (which has the best optimization for multisig).
+
+KeepKey, Ledger Nano X and BitBox02
+
+Rashid encountered issues in his 2018 test in which he tried to create multisig setups via Electrum on KeepKey and Ledger devices. The Ledger Nano S (the X wasn’t launched at the time) didn’t verify change outputs, nor did it display fees (a major risk against hackers who know how to exploit this design issue and steal your bitcoin), while the BitBox crashed frequently in the interface due to poor software optimization.
+
+It’s very unlikely that the two manufacturers will work on the issue any time soon, as neither of them advertises multisig compatibility in the technical specifications of their products and their focus seems to be on casual users who require good security.
+
+“There is such a long road until multisig becomes doable by nonexperts,” as Shift Cryptosecurity co-founder and president Jonas Schnelli explained during episode 104 of Stephan Livera’s podcast. “It’s extremely complicated to do a setup even with the best user-centric application, including Electrum. It’s still very hard to set it up correctly and it’s so easy to lose coins. Which makes me think, maybe giving users an option to do multisig can be more harmful than beneficial. For sure, we’re working on multisig solutions, but it’s still immature on the concept level and we want to ship users something that’s really easy to use and safe against their own mistakes. And this might take some time.”
+
+The KeepKey, Ledger and BitBox devices are all aimed at less-experienced users who enjoy comprehensive graphic interfaces and use features that they can easily understand. Given the complexity of multisigs and the likelihood of newbies making stupid mistakes, it’s unlikely for the companies to direct their manpower toward multisig development — especially when the hardware wallet industry is still new and there are still a lot of more basic issues to fix.
+
+In contrast, Coinkite advertises on-device and air-gapped multisig setups for advanced users and doesn’t seem to shy away from adding lots of power-user features (including a recommendation to roll a dice 99 times and input the result for maximum randomization of the seed phrase).
+
+As the oldest player in the game and the bona fide standard for hardware wallets, the Trezor Model T benefits from a lot of software development and third-party integrations. Therefore, it’s no wonder that Electrum multisigs work best with Trezor devices, and this can also be considered a security compensation that makes up for the lack of a secure element. This is yet another field where the first-mover advantage matters.
+
+4. Bitcoin Only
+
+Only three manufacturers included in this test have Bitcoin-only versions of their hardware wallet: Trezor, Shift Cryptosecurity and Coinkite. Among them, only the Coldcard Mk3 is 100 percent bitcoin-oriented with no altcoin-friendly alternative.
+
+Though these versions may seem gimmicky and designed to serve an elitist niche of Bitcoin maximalists, they also fulfill a security purpose: By only including one supported cryptocurrency, the attack surface is lowered.
+
+Also, allocating all of the time and energy on Bitcoin development may help accelerate innovation. For instance, the Coldcard Mk3 is the first hardware wallet to make use of partially signed bitcoin transactions. This allows the device to function without ever being connected to a computer, which is a major security breakthrough.
+
+5. Open-Source Software
+
+The “Don’t trust, verify” cypherpunk philosophy has become synonymous with the Bitcoin culture, and it’s very difficult to maintain a good reputation in the space without making your code auditable in a public repository. Since Bitcoin is an open and public protocol whose design can be consulted and scrutinized by anyone, the general expectation is that every related project is accountable by the same standards.
+
+Thankfully, four of the five hardware wallets reviewed in this article are entirely open-source and every line of their codes can be audited. The only exception is Ledger, whose secure element chip design is powered by blackbox software. Otherwise, about 90 percent of Ledger’s software is available in its GitHub repository.
+
+As a response to Ledger’s opaqueness, Shift Cryptosecurity and Coinkite have integrated the secure chip design while also open-sourcing the entire code. Conversely, Trezor has always been open-source and its approach to software may be a reason why its competitors exist and get better after each update.
+
+6. Bech32 Support
+
+Bech32 is the address format specified in BIP 173. It’s the standard for native SegWit addresses, and it improves on the checksum algorithm for better speeds and error correction. Most importantly, addresses that begin with the “bc1” prefix make transaction outputs smaller and, therefore, reduce fees and the amount of block size they occupy, while also bringing compatibility with Wasabi wallet for CoinJoins. Therefore, it’s a matter of reducing costs and increasing privacy.
+
+If connected to a third-party client like Electrum, all hardware wallets presented in this test are compatible with the bech32 address format. However, only the Ledger Nano X and the BitBox02 get shipped with software which allows users to send and receive bitcoin using this standard. With its basic user interface, the Trezor’s Model T is only able to send to bc1 addresses but not receive from them. In order to extend the features, the wallet is compatible with Electrum, Wasabi, Mycelium and lots of other third-party clients that provide advanced features.
+
+Interestingly, the KeepKey Client app seems to have some of the same issues as the Trezor — it can only send to bc1 addresses. As pointed out by redditor De_Wilde_Weldoener, ShapeShift’s hardware wallet works very well with Mycelium.
+
+As the only hardware wallet in this test which is designed for power users and doesn’t have a computer interface of its own, Coldcard works just fine with Electrum, Mycelium and Wasabi.
+
+7. Bug Bounty Program
+
+A good bug bounty program is a security insurance in itself. If hardware wallet manufacturers incentivize security researchers to spend time in order to audit their designs and code, then it’s likely that ethical hackers will always be ahead of malevolent actors and development will flourish.
+
+Trezor
+
+In this regard, Trezor leads the pack with the clearest and most transparent system which features a timeline of issue reporting with links to the code that fixed them. Also, there is a leaderboard for the most active security helpers and a promise that contributions get rewarded in bitcoin. As previously mentioned, as the industry’s pioneering company, Trezor lifts the entire market with its breakthroughs and manages to keep its customers thanks to its transparent and honest approach.
+
+Ledger
+
+Ledger is not as clear in regards to the contributions of its bounty program participants, and its “Wall of Fame” only includes three names (in comparison, Trezor has ten contributors on its leaderboard). The French company is more formal in explaining what kind of submissions are eligible for analysis and how whitehat hackers should proceed. The lack of credit being attributed to those who identify issues is yet another reminder that Ledger operates with a greater amount of secrecy than its competitors. Nonetheless, it’s clearly mentioned that its rewards get paid in bitcoin and the amounts depend on the perceived impact of the issue and the completeness of the solutions.
+
+KeepKey
+
+KeepKey is also vague in regards to its bug bounty program and doesn’t list a dedicated page for one on its website. However, a 2018 blog post revealed that rewards for responsible disclosure have been given to security researchers, and those who find issues should contact the security team.
+
+Perhaps the technical similarities with the Trezor enables fixes to be compatible on both devices, but this fact is not clarified on the KeepKey website. Overall, it’s good that the company pays for disclosures, but it’s worrying that its bounty program is not featured on the website. Sometimes an email address is not enough to incentivize ethical hackers.
+
+BitBox02
+
+Shift Cryptosecurity’s bug bounty policy is very similar in regards to terms and conditions with the one listed by Ledger. It also has a public “Hall of Thanks” honoring those who have identified security issues.
+
+As the new hardware wallet becomes more popular and receives more attention from security researchers, it’s very likely that the page will get filled with names and issues. It will definitely be interesting to see if Shift Cryptosecurity uses the same timeline method that Trezor perfected, so that disclosures are complete in its declarations and documentation.
+
+Coldcard Mk3
+
+Last but not least, Coinkite doesn’t seem to have a dedicated page for a bounty program that’s meant to improve the Coldcard. However, security expert TheCharlatan described in a blog post a scenario where Coinkite responded very quickly and fixed an issue in a timely manner. What the ethical hacker didn’t appreciate was the reward, which consisted of two Coldcard wallets and a mug.
+
+Novak told Bitcoin Magazine that these claims have been blown out of proportion for public relations reasons and that the preferred approach for the Coldcard is to “pay researchers, not the competition.”
+
+Editor’s note, November 25, 2019: Since publication of this article, Coinkite has provided more details about its bounty program. The information clarifies the eligibility conditions for valid submissions and details about competitors finding vulnerabilities in the Coldcard wallet. Furthermore, a “Bugmug” has been established as a prize for bounty reward winners.
+
+On the website for its Donjon security research project, Ledger has published a complete timeline of vulnerability issues for its devices. The interface was inspired by the Qubes Security Bulletin and includes links to details about each security patch applied.
+
+8. Price
+
+When deciding which hardware wallet you should buy in order to satisfy your expectations for security and privacy, it’s important to take into account the price. Thankfully, competition has driven down the prices and the Ledger Nano X, the BitBox02 and the Coldcard Mk3 can be bought for roughly the same price ($109 to $120, plus shipping).
+
+At $164, the Trezor Model T is the most expensive hardware wallet featured in this review. Conversely, the KeepKey can be bought for only $49 — and the price is reduced to $10 for users who sign up for ShapeShift’s other services (a decision that isn’t recommended for privacy-cautious users but can be great for active traders).
+
+All in all, it’s interesting to observe that there is no price gap between the most user-friendly hardware wallet and the power-user solution. At this point, there is no premium for any type of service or feature, as all manufacturers try to stay competitive and attract a larger number of customers.
+
+If the same test is repeated in a few years and the popularity of Bitcoin keeps on growing at the current pace, it’s going to be interesting to see which companies are still around and how many of them stuck to their cypherpunk philosophy in times when demand increased exponentially. But, at this point, there is no “wrong” choice among these five options and every hardware wallet in this review brings its own pros and cons to suit certain types of users.
+

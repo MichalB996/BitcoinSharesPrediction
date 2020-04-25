@@ -1,0 +1,39 @@
+DATE:  20.01.2020, 14:00:00
+TITLE: Blockstream Co-Founder Joins Bitcoin-Only Start-up River Financial
+URL:   https://www.coindesk.com/blockstream-co-founder-joins-bitcoin-only-startup-river-financial
+
+Industry veteran Jonathan Wilkins, a co-founder of bitcoin tech start-up Blockstream, is joining up-and-coming bitcoin brokerage River Financial as chief security officer (CSO).
+
+River is a bitcoin-only financial institution for buying and selling the digital currency (emphatically not an exchange; it says it's "for the long-term investor"). Currently available only to testers who have received invites, the San Francisco-based outfit is working on an interface it hopes will be as slick as Jack Dorsey's Square Cash, equipped with automatic recurring buys.
+
+Wilkins brings C-level gravitas and cypherpunk bona fides to River. He was the CSO at Blockstream, an outfit dedicated to improving bitcoin technology with projects such as Liquid, for faster payments between exchanges and a system of satellites used to broadcast bitcoin block data from space.
+
+Early in his career he worked at Zero Knowledge Systems, which built a forerunner to the anonymizing Tor network. (His title there was "adversary," according to his LinkedIn profile.) Later he was a security architect at Microsoft, Zynga and Yelp.
+
+Compared to other Blockstream co-founders who are outspoken on Twitter or often appear in the media, Wilkins has laid low. He's joined River to shepherd the company's security model, a particularly important part of the business, since it is custodial, taking care of users' private keys.
+
+"By focusing on simplicity and what is best for users in the long term (dollar-cost averaging and holding) instead of pushing altcoins and encouraging more active trading in order to increase fees, River is closer to the historical ideal of a bank," said Wilkins. "I wanted to be part of a company concerned with helping its community grow its wealth and providing an alternative to today's more predatory financial institutions"
+
+River Financial has built its infrastructure from "the ground up," founder and CEO Alexander Leishman said.
+
+"We're in this in the long term," Leishman said, adding that River has already made a couple of big decisions based on Wilkins' "guidance," such as not relying on third-party cloud computing services.
+
+"It's a lot of work to not do that but we can build a system that we fully control," Leishman said.
+
+Laser-like focus
+
+River Financial differs from many services used to buy and sell cryptocurrency in that it's focused solely on bitcoin.
+
+"We believe bitcoin is going to be the most dominant cryptocurrency. If anything becomes a world money, it's going to be bitcoin," Leishman said.
+
+Even adding one cryptocurrency significantly increases the complexity of engineering a system, he said. Other companies managing many tokens are constantly "putting out fires."
+
+Plus, working on bitcoin exclusively has allowed River to adopt some cutting-edge technology that other companies don't have the time and energy to look into, Leishman said. "Bitcoin-only lets us take it to another level no one has ever taken things before."
+
+River Financial is one of the earliest companies to adopt the lightning network, a speedier payment system that's widely considered a key part of bitcoin's future.
+
+In addition, Leishman said River relies "heavily" on Partially Signed Bitcoin Transactions (PSBT) so that each user in a multi-signature transaction can sign it from a different hardware device.
+
+
+
+For those interested in the nitty-gritty, River Financial software engineer Philip Glazman tweeted a thread outlining many of the technologies it's using and the decisions it made.

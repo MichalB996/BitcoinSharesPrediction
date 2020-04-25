@@ -1,0 +1,33 @@
+DATE:  15.03.2019, 01:45:24
+TITLE: How to Identify and Mitigate a Bitcoin Dust Attack
+URL:   https://news.bitcoin.com/how-to-identify-and-mitigate-a-bitcoin-dust-attack/
+
+How to Identify and Mitigate a Bitcoin Dust Attack
+
+Bitcoin transactions are not anonymous but users can still add a layer of privacy by using different addresses and other techniques to confuse blockchain surveillance. However, a de-anonymization method known as a dust attack is on the rise. If the microtransactions that characterize a dust attack go unnoticed, they can potentially be used to identify cryptocurrency users.
+
+Also read: The Long Relationship Between In-Game Gold and Bitcoin Continues to Thrive
+
+Peppering Crypto Networks With Dust to Deanonymize Users
+
+Cryptocurrencies like bitcoin cash (BCH) and bitcoin core (BTC) are not private by default. In fact, both digital ledgers are completely transparent for the entire world to see and this means bitcoin users have to add their own degrees of privacy to give themselves a better form of anonymity. Privacy techniques used by bitcoiners include shuffling coins, using Tor or a VPN, and completely avoiding address re-use. Despite taking these measures, however, there’s a way in which people can be identified by blockchain analysis known as a dust attack, an invasive act that could easily go unnoticed.
+
+In the world of bitcoin, the term ‘dust’ is used to describe a very small fraction of bitcoin, often times referred to as satoshis. In order to track further transactions, large quantities of dust are peppered across the network targeting a large swathe of addresses. The attacker hopes that the tiny amount of funds mixes together with an unspent transaction output (UTXO) so that when it is spent as an input in a new transaction it can be tracked.
+
+Some users might not even notice the small fraction of dust they received and could spend the tainted coins at a later date. Of course, some users religiously check their transaction log every time their wallets receive bitcoin but they might not do anything about it and still spend the dust. Those funds can be used to deanonymize users and there are scripts that can be written that can send a ton of dust to thousands of addresses at once.
+
+Dust Attack Mitigation
+
+There are ways users can avoid spending the dust and one very important privacy tactic is using a different address for every transaction. When people look at their balances on a mobile wallet they may not be aware that their wallet’s total is the sum of inputs and UTXOs. This means your 2 BCH could be represented in incremental amounts like 1, 0.5, 0.25, and 0.25 to get the total sum.
+
+If you don’t really care about privacy, you can forget about the dust and go on with your day. Or you can choose to never spend the dust and only spend the untainted funds going forward. This means you may have to meticulously scan for the dust transaction, figure out the address the funds sit in and then choose to leave it alone. Fortunately, there are some wallets that let you see addresses that have fractions of UTXOs in them and you can parse the funds this way.
+
+Some wallets also allow you to add a description or a ‘flag’ to the fraction of satoshis that were randomly sent, so you can identify the attack easily. Unfortunately, not all wallets let you select UTXOs in a manual fashion, so users with these kinds of wallets will need to import them to a client that does in order to mitigate against the dust attack. Further, there is no way people can stop dust attacks, as a good portion of blockchain networks are permissionless.
+
+A few satoshis sent to your wallet may not be an ‘attack’ in the malicious sense of the word, as someone may have sent the small amount of bitcoin by accident. People who appreciate a higher form of privacy, though, will always regard these types of transactions as invasive and will take robust measures to circumvent them.
+
+What do you think about dust attacks? Let us know what you think about this subject in the comments section below.
+
+Image credits: Shutterstock, Pixabay, Twitter, and Electron Cash Demo Wallet.
+
+Need to calculate your bitcoin holdings? Check our tools section.

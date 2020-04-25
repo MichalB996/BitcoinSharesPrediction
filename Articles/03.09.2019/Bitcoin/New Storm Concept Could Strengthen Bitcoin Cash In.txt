@@ -1,0 +1,37 @@
+DATE:  03.09.2019, 18:30:13
+TITLE: New Storm Concept Could Strengthen Bitcoin Cash Instant Transactions
+URL:   https://news.bitcoin.com/new-storm-concept-could-strengthen-bitcoin-cash-instant-transactions/
+
+New Storm Concept Could Strengthen Bitcoin Cash Instant Transactions
+
+Software developer Awemany has published a potential alternative approach to instant transactions on the Bitcoin Cash (BCH) network called “delta blocks” or Storm. The idea utilizes weak proof-of-work (PoW) for instant confirmations on Bitcoin Cash. The new Storm concept has piqued the interest of many BCH proponents who are eager to solve the instant or zero-confirmation transaction problem.
+
+Also Read: Bitcoin.com’s Premier Cryptocurrency Exchange Is Now Live
+
+Awemany Publishes Storm Whitepaper, a Possible Solution to the Double-Spend Problem
+
+Awemany has published a whitepaper, source code, and simulation for a new concept for the BCH network called Storm. The pseudonymous blockchain engineer is the same developer who found the exploit in the Bitcoin Core reference client in September 2018. Additionally, last year at the Satoshi’s Vision Conference, Awemany introduced a solution to the zero-confirmation problem by using a concept called Zero-Confirmation Forfeits. For years now, developers have been trying to create a pre-consensus system for double-spend attacks. In essence, a double-spend attack is used to redirect a payment that was sent to a merchant in order to spend the funds already used in the transaction before a blockchain confirmation. An unspent output is spent in two different transactions and a miner must choose between one of them.
+
+One side product of the network is when miners generate blocks with reduced difficulty (weaker PoW) called “weak blocks.” The concept Awemany proposes is a scheme that merges multiple weak blocks called delta blocks that allows for “reaching consensus on transaction inclusion, to give merchants the tools needed to estimate double-spending risk.” Basically, the connected BCH blocks are used to denote valid transactions so merchants can be sure instant transactions won’t be double spent. “Individual transactions from their respective transaction sets have to be checked for compatibility,” the whitepaper details. There have been many ideas that revolve around the idea of utilizing weak blocks and engineers have discussed ways to incentivize full nodes and miners to propagate the grouped delta blocks.
+
+Awemany said that he’s been very busy working on the delta blocks concept and in addition to the whitepaper he’s added a simulation. Additionally, the developer has proposed a pull request with Bitcoin Unlimited and is interested in getting feedback about Storm. Awemany’s paper notes that there are some similarities to his idea to Ethereum’s ghost and uncle system. Storm is still far from being ready, the developer stressed, but he believes the code and simulation show the approach is “viable in principle for instant confirmations and that it is in some ways superior to discussed alternatives.” Awemany’s paper adds:
+
+Further exploration and comparison of this method to competing approaches seem prudent. One area to emphasize here is further testing and analysis of delta blocks propagation when using probabilistic protocols such as Graphene to make sure that intermittent set reconciliation failures or other communication problems do not allow for a “long tail” runaway failure of weak blocks propagation in any realistic real-world scenario. Furthermore, adversarial cases have to be analyzed in detail.
+
+The concept was a popular topic on the Reddit forum r/btc and BCH proponents discussed the pros and cons. Software developer Mark Lundeberg thanked Awemany for the research and the in-depth testing involved. Lundeberg also said he was curious to hear what the professor Emin Gun Sirer had to say about the idea and still has issues with zero confirmation pre-consensus. “One of the concerns I have with instant transaction pre-consensus systems is that to have real bite, they need to orphan blocks that have unwanted (but valid) transactions in them, such as double spends, and this creates an incentive for miners to simply mine empty blocks that by definition have no unwanted transactions,” Lundeberg remarked.
+
+The creator of Storm responded to Lundeberg’s commentary and many of the other people who offered feedback during the announcement. Developers Peter Rizun, Imaginary Username, Tom Harding and other BCH participants discussed the Storm idea on Reddit. On Twitter, Bitcoin Unlimited Chief Scientist Peter Rizun shared his excitement about the new idea. “This is an awesome proposal by Awemany (the developer who found the “inflation bug” CVE-2018-17144) to bring near-instant “weak block” confirmations to Bitcoin Cash (BCH) and improve block propagation,” Rizun tweeted. The news follows the recent double-spend proof (DSP) scheme for the BCH implementation Flowee the Hub revealed by Tom Zander last month.
+
+Double Spend Proof — Specification is open for comments with full implementation opensourced in Flowee the Hub. Code available here; https://t.co/P5LtnANi22 Spec; https://t.co/d5zC69a2hz #bch #bitcoin — Flowee The Hub (@FloweeTheHub) August 31, 2019
+
+Flowee the Hub: Double-Spend Proofs
+
+The Flowee developer published the DSP specification on August 30 and open-sourced the code on Gitlab as well. The DSP is an adaption of Chris Pacia’s double-spend alert and Imaginary Username and Mark Lundeberg also contributed to the Flowee version. The documentation explains how the infrastructure is designed to detect double spends and SPV-based warnings can be sent to the merchant. Merchants still need to follow some protocol in order to check the validity of a received transaction that pays them. The Flowee DSP concept describes how cryptographic evidence can prevent someone from double spending and defrauding merchants. The DSP specification explains that the ability to double check zero-confirmation transactions will add great confidence to the ecosystem. “We expect this will help with countering undetected attempts of double spends,” the Gitlab description notes. Flowee contributors are also looking for feedback and comments are open on the DSP specs page.
+
+For years now, BCH developers have been coming up with ways to produce double-spend proofs or a pre-consensus system that strengthens confidence in zero-confirmation transactions. The concept has been a holy grail of sorts similar to bolstering privacy and fungibility on the BCH chain. So far developers haven’t found a standard for making zero-confirmation transaction problem go away, but many blockchain engineers like Awemany, Tom Zander and Imaginary Username are not giving up.
+
+What do you think about the delta blocks Storm concept Awemany has introduced? What do you think about the DSP idea for Flowee? Let us know what you think about this subject in the comments section below.
+
+Image credits: Shutterstock, Awemany’s Storm white paper, Gitlab, Flowee, and Twitter.
+
+Do you need a reliable Bitcoin mobile wallet to send, receive, and store your coins? Download one for free from us and then head to our Purchase Bitcoin page where you can quickly buy Bitcoin with a credit card.

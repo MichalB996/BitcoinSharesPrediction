@@ -1,0 +1,106 @@
+DATE:  09.01.2020, 13:00:50
+TITLE: An Overview of 7 Bitcoin Full Node Products
+URL:   https://bitcoinmagazine.com/articles/buy-or-diy-an-overview-of-7-bitcoin-full-node-products
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+Full nodes are an indispensable part of Bitcoin’s system of checks and balances. They further decentralize the network, they keep miners honest, they verify and register every transaction that takes place on the blockchain, and they provide more autonomy and privacy to users.
+
+In order to run a full Bitcoin node, it’s enough to download the Bitcoin Core client on your computer and wait for the initial block download (IBD) to complete. However, some individuals may find that process cumbersome and unnecessarily time consuming. Consequently, companies have developed solutions that minimize the struggles of downloading and running a full node and put it all in a box.
+
+Thanks to these enterprising companies, full nodes have become one of the most popular and in-demand Bitcoin-related products, right up there with hardware wallets. Thanks to a growing community understanding around the importance of full nodes and the rapid growth of the Lightning Network, new companies such as Casa, Nodl, Shift Cryptosecurity and even HTC have released retail products that satisfy the demand for convenient sovereignty.
+
+There are at least seven worthy contenders for your full node product consideration. And it’s also worth considering how you might build some of these products yourself.
+
+Why Buy a Bitcoin Full Node Product
+
+Many Bitcoiners out there might not be convinced that it’s worth buying a product that comes pre-synced with the vast majority of the Bitcoin blockchain. After all, for about a quarter of the price, you could buy an external drive and leave your computer to sync the blockchain overnight. This way, your information wouldn’t be registered with any Bitcoin company and your financial privacy would be better preserved, and it’s likely more secure to download and verify the Bitcoin blockchain yourself (as opposed to trusting a potentially malevolent third party).
+
+However, full node products offer much more than just “Bitcoin Core in a box.” The majority of them run Lightning clients, and some even include BTCPay Server for merchant solutions, Samourai Whirlpool for trustless CoinJoins or Electrum Personal Server for greater sovereignty. In two cases (Shift Cryptosecurity’s BitBoxBase and HTC’s Exodus 1s), a hardware wallet chip is included as a way of increasing the security of your full node.
+
+These devices also offer advanced and desirable features that can be accessed from a user-friendly dashboard. For instance, Casa provides a multisig service which entrusts the company with a key for inheritance purposes, while Shift Cryptosecurity integrates the BitBoxBase in its ecosystem of security-related products (the BitBox02 hardware wallet and the BitBoxApp).
+
+Last but not least, some companies offer advanced customer support and will make sure that your experience with the node is seamless. You don’t need to check if you’re downloading the right client, you don’t have to check the PGP or GPG signatures of developers and you don’t have to consider compatibility issues. It’s all being taken care of, but you have to trust that the company is honest.
+
+If You Do Run a Bitcoin Full Node Product, Be Cautious
+
+Before presenting the features of the best-known and most popular full node products, it’s important to present a disclaimer: If you choose to trust in a company’s privacy policy and honesty, please take into account its public record and the user feedback. Though the market is bourgeoning with competitive full node products that add more features and drive prices down, malevolent actors might emerge to steal your bitcoin.
+
+If the node comes pre-synced, it’s better to not trust a third party’s honesty and resync the blockchain from scratch (or else it’s possible to encounter backdoor attacks and all sorts of unwanted background activities that can lead to theft). The extra applications can also be compromised, even if the intentions of the manufacturer are good — the attack surface grows with every new app.
+
+Not vesting your trust in a third party isn’t just an ideological component for the Bitcoin community, but a cautious behavior that’s meant to preserve privacy and fund security. It may be wise to go for the relatively inexpensive RaspiBlitz DIY project or MyNodeBTC rather than one of the products described below. You will have to manually check signatures, download each file yourself and make sure that everything is in tune, but the benefits of sovereignty and acquired knowledge outweigh the inconvenience and potentially difficult learning curve.
+
+The 7 Bitcoin Full Node Product Contenders
+
+For the scope of this overview, seven of the most popular bitcoin full node products have been selected. Nonetheless, their mention in this article is not an endorsement or a way of vouching for their reliability or security. Financial sovereignty must be embraced with great responsibility and cautiousness and in this early stage of the market it’s difficult to tell which product is “best.” To their credit, all nodes presented in this article run audited, open-source software. However, no project is as time-tested as Bitcoin Core and even reputed Lightning clients such as Lightning Labs’ lnd and Blockstream’s c-lightning may be buggy. Extra applications should also be used with precaution.
+
+Casa Node 2
+
+The Casa node is by far the most popular product on the market. The first version of the device has received good reviews and endorsements from bitcoiners, and the Node 2 will begin shipping in early 2020. This updated version comes with twice as much access memory and SSD storage — both of which will greatly increase the efficiency of the node. Under the same dashboard, it will run Bitcoin Core, lnd and BTCPay Server.
+
+Nodl One
+
+Conversely, Nodl always seems to one-up Casa with more power and extra features. When the Casa 2 opted for a quad-core processor, the Nodl went for the hexa-core version. And when BTCPay Server became the new norm, Nodl added ElectrumX and Samourai Whirlpool. The company also offers a more expensive Nodl Dojo which helps with the decentralization of the Samourai CoinJoin operations by running the mixes on-device. However, for the purpose of this comparison, only the One model will be considered.
+
+Lightning in a Box
+
+Lightning in a Box also attempts to overthrow Casa with a more powerful processor (the Intel Celeron J4105, which is used on laptops), a more common PC platform whose RAM can be upgraded and the ability to run Windows. If anything, the device seems more general-purpose and offers a more DIY vibe. However, it’s sold at the same price as the Casa Node 2 and may not be the more popular choice in spite of its greater processing power.
+
+Lux Node
+
+The Lux Node is basically an Intel NUC5CPYH mini computer that comes with Bitcoin Core, lnd, BTCPay Server and Ride the Lightning pre-installed. To its merit, it runs on the more stable (at least compared to Windows) Ubuntu operating system and offers 8 GB of RAM (twice as much as any other product featured in this overview). However, the company is rather new and more difficult to trust — proceed with caution and contact a representative before making a purchase.
+
+BitBoxBase
+
+Specs-wise, Shift Cryptosecurity’s BitBoxBase is very similar to the Nodl One: same processor, same amount of RAM (4 GB) and a dedicated eMMC drive for booting the software. However, the Swiss-made node is unique because it runs Blockstream’s c-lightning (for reasons explained in this interview) and also has an integrated BitBox02 hardware wallet for greater security. Its comparative downside is that it doesn’t run BTCPay Server and doesn’t come with other pre-installed Lightning apps (which may be a consequence of both Shift Cryptosecurity’s focus on security and the choice of a less popular Lightning client).
+
+myNode One+
+
+The myNode One+ comes with a familiar hardware architecture, which you can also find in the BitBoxBase and Nodl One. On the plus side, it offers lots of pre-installed applications that can be controlled from a friendly dashboard (Electrum Server, Ride the Lightning, a block explorer, Zap, Blue Wallet and many others), is $100 cheaper than the Casa Node 2 and grants documentation to help anyone start a DIY project. On the downside, the device is endowed with a slower HDD and the company is rather new to the market (so you need to grant a greater amount of blind trust than in the case of Casa, for instance).
+
+HTC Exodus 1s
+
+Last but not least, the HTC Exodus 1s is the only mobile solution that natively runs a Bitcoin full node and can also use Lightning wallets like Nayuta’s. Through the Zion app, users are able to download the entire Bitcoin blockchain on an SD card (purchased separately) and use basic wallet functions. Though its specs are comparable on paper with the rest of the nodes, software limitations mean that it synchronizes more slowly than every other product in this overview.
+
+During a personal experiment, it took 15 days to sync the blockchain from scratch and I’ve discovered that the Zion application only uses 100 MB of RAM (out of 4 GB) for the sync. This significantly slowed down the process and proved that the phone is designed as a multipurpose device with the full node feature as an extra — rather than a dedicated device for financial sovereignty. Nonetheless, given the portability factor, it can’t be beaten for the price.
+
+Buy vs. DIY
+
+After presenting seven of the most popular Bitcoin full node products, it’s time to ask an essential question on behalf of potential consumers: How much more does it cost to buy the product directly from the company than it would to build it myself?
+
+Casa Node 2
+
+The Casa Node 2 can be ordered for $399, but the company has opted for a subscription model. Correspondingly, you get a new device upon sign-up and free renewals whenever they occur, but you don’t necessarily receive a new node every year. You pay for the proprietary software development (which has been open-sourced for greater transparency and security audits), the customer support and the extra features which include the multisig program. Correspondingly, it’s not the most privacy-friendly solution and there is a lot of data that Casa can get if you choose to share your financial information.
+
+The good news is that a Raspberry Pi 4 and a 1 TB SSD can be bought for $155, and the enclosure and cables shouldn’t cost more than $45. Therefore, if you have the patience and disposition to learn and experiment, you can build your own Casa node for $200 ($199 cheaper than buying it from the company, not including shipping costs). The DIY project doesn’t grant you access to the same support and custodial multisig service, but helps you keep your financial privacy.
+
+Nodl One
+
+The Nodl One has a retail price of $499 and, unlike Casa, this is a one-time purchase and you won’t have to pay for an annual service fee. Its processing power is superior, and the inclusion of the Samourai Whirlpool makes it a worthy contender for those who are more privacy- and fungibility-cautious. Nonetheless, you can theoretically build your own by purchasing an RK3399 board for $149 and an SSD for $100. Just like in the case of the Casa Node 2, the DIY solution is half as expensive and comes with the benefit of not having to register in a customer database for Bitcoin-related products.
+
+Lightning in a Box
+
+Lightning in a Box is basically a commercialized DIY project, as the company’s website also features useful guides to help you build your own Lightning node. Its target audience consists of people who want powerful hardware for their nodes and don’t want to bother with software experimentation. Interestingly, the cost of parts to build a Lightning in a Box is $302 — which means that you pay the company only $92 for the hassle of installing everything for you. However, it’s always better to resync from scratch once you get the device: The extra power will make the process smoother, and you won’t have to trust in the benevolence of the company.
+
+Lux Node
+
+Similarly, Lux Node uses a popular mini PC platform to deliver a quick sync and fast access to applications such as BTCPay Server and Ride The Lightning. However, the company’s business model is questionable: an Intel NUC5CPYH and a 1 TB SSD cost $399 on Amazon, and that’s exactly the price of a Lux Node. Maybe the folks behind the project will be able to lower costs through economies of scale, but the profit is still insignificant to keep a company running. Though the machine is the most powerful of any in this overview, it’s probably a good idea to do some research before buying a product for which the profit is minimal. After all, you can build your own Lux for the same price.
+
+BitBoxBase
+
+Despite all specifications being published on the Shift Cryptosecurity website, the BitBoxBase is the most difficult device to build yourself for one simple reason: It includes a hardware wallet whose specifications are similar to the BitBox02. The node is also the only product in this article whose launch date and price aren’t available as of the time of writing. But, given the cost of parts ($79.99 for the ROCK-Pro64 board, $100 for the 1 TB SSD and $100 for the BitBox02), it’s probably safe to estimate a retail price of $350 to $400.
+
+myNode One
+
+There is a clear reason why myNode One is the most affordable product in this article: The cost of its parts is only $94.95. The company also offers premium support for those who purchase the pre-built and pre-synced product, but the generous amount of DIY documentation makes it tempting to simply experiment. The nice, all-encompassing dashboard is also open-sourced on GitHub, so all of the benefits of the retail product can be verified, modified and installed on new hardware.
+
+HTC Exodus 1s
+
+The cost of purchasing an HTC Exodus 1s and a 400 GB SD card is $340, which still makes the device cheaper than a Casa, Lightning in a Box or Lux Node device. And while building your own smartphone is much more expensive than buying one, you can still get any Android phone (which, in some cases, might be the one that you own) and run Lawrence Nahum’s ABCore client.
+
+On the other hand, it’s worth considering the unbeatable added benefit of the HTC phone: the integrated hardware wallet. Another device may be costly and may not deliver the same results (for instance, the BitBox02 costs another $100 and works with Android smartphones but is an extra peripheral to carry and connect). While the Zion ecosystem is rather basic and can be replaced by any time-tested Bitcoin mobile wallet, the hardware advantages of the HTC Exodus 1s make it unique and temporarily unbeatable. You can run a full node on your new Android phone, but you won’t get the same security that the integrated hardware wallet grants.
+
+Conclusion
+
+Products that offer full Bitcoin nodes in a box will continue to be popular retail items in the space, but they should be evaluated and purchased with caution. There are at least seven worthy contenders if you’re in the market for such a product and the one you’ll want will depend on your specific needs. Use the article above and the chart below to help understand the differences between these seven contenders and remember that running a full node is one of the most important things a Bitcoiner can do.
+

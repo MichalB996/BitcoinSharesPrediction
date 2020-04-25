@@ -1,0 +1,103 @@
+DATE:  13.02.2019, 17:11:47
+TITLE: The pros, cons, and taboo nature of enforcing smaller Bitcoin blocks
+URL:   https://thenextweb.com/hardfork/2019/02/13/bitcoin-smaller-blocks-blockchain/
+
+The Bitcoin BTC network is a behemoth, and much of its strength is defined by the number of machines validating transactions on the network.
+
+Its code is also highly calibrated. Very specific variables were set throughout its development, and dogmatic allegiance to certain settings has defined much of what Bitcoin‘s blockchain is today.
+
+This means altering Bitcoin code has implications. Proposals for changes have caused mayhem for the wider cryptocurrency ecosystem in the past, and seemingly will forever.
+
+But Bitcoin Core developer Luke Dashjr has a suggestion: decrease the size limit of Bitcoin‘s blocks, from Satoshi Nakamoto’s 1MB to just 300KB. This will make it easier for new adopters to join the Bitcoin network by reducing the costs associated with participating.
+
+Unlike previous endeavours to modify the size of Bitcoin blocks, this change can apparently be done via a kind of software patch called a soft fork – but only if enough of the community agrees.
+
+We caught up with prominent figures in Bitcoin for their take on the idea, and how likely it is this will continue to gain traction – but first, let’s go over the terminology.
+
+A crash course in Bitcoin lingo
+
+A blockchain is a chain of blocks. Bitcoin is a peer-to-peer electronic cash system that uses a blockchain to record money being sent from one party to another.
+
+Machines that contribute computing power to ensure Bitcoin ends up where it’s meant to go (and stays put) are called miners. Miners select transactions and put them into blocks, later presenting them to the network for validation.
+
+There is a cap on how much data (transactions) miners can fit into a block, represented by Bitcoin‘s block size limit.
+
+Satoshi Nakamoto set that limit to 1MB. There are many theories as to why, one common belief is that it was intended to minimize the threat of being flooded with spam.
+
+Fully-validating nodes (full nodes) are different to miners, and they need each other. Really, they are like storage devices. They keep a record of all the transactions ever processed on the Bitcoin blockchain.
+
+Full nodes are responsible for enforcing the rules of the Bitcoin network, like the block size limit. They also feed data to miners, who solve a cryptographic puzzle to prove the transactions are possible, and that data hasn’t been tampered with.
+
+Purchasing the equipment required to run efficient full nodes can be expensive, as the Bitcoin blockchain is very large (now over 200GB). Handling that amount of data can be resource intensive.
+
+Those who run nodes need to be convinced to lower the block size limit in the way proposed by Dashjr. Nodes that agree would adopt the change, and reject any blocks presented by miners that exceed the new (smaller) block size limit.
+
+Hypothetically, miners would eventually realize their blocks are being rejected for being too big, and modify their selections to suit the new consensus rules.
+
+It’s also important to know that Bitcoin‘s 1MB limit can be stretched. Technology called Segregated Witness began to be adopted by Bitcoin in 2017, allowing blocks of 4MB to be added to its blockchain. An alternative solution was proposed as a fork called SegWit2x, but it ultimately failed.
+
+Segregated Witness technology is considered a required pre-cursor to the Lightning Network.
+
+The case for smaller blocks
+
+A large part of Bitcoin‘s value proposition relies on its network being heavily decentralized. Having high barriers for entry into Bitcoin mining is an ultimately centralizing factor, as only those with lots of resources to deploy are able to join.
+
+“This is also why most Bitcoin users do not want huge blocks, because then full nodes could only be run in data centers, which perfectly defeats the purpose of having a decentralized network,” Blockstream’s strategy chief Samson Mow told Hard Fork.
+
+While Dashjr has been advocating for smaller blocks for quite some time, his views on the matter finally materialised when he informally proposed nodes enforce smaller Bitcoin blocks, specifically between August 1 and December 31 of this year.
+
+The move was later publicly backed by popular Bitcoin personality John Carvalho, who disclosed feeling comfortable enough with the potentially controversial move considering the scaling success of the Lightning Network.
+
+“Well, I think Dashjr is very serious about the concept, but more research is needed to design a proposal with parameters that might have a chance of reaching consensus,” Carvalho told Hard Fork.
+
+“The point would be to make running a Bitcoin full node easier in the future for users with more constraints on their ability to dedicate hardware and internet bandwidth to running the full version of Bitcoin, which is the only way to use Bitcoin in a trustless way,” he added.
+
+Carvalho ultimately expressed that if it becomes too difficult to ‘run Bitcoin‘ as a full node, the network will trend toward trusting custodians and using wallet software that doesn’t fully validate without trust.
+
+This effect can snowball over time, risking centralization for both new personal users and small business entrepreneurs alike. Small Bitcoin blocks are about avoiding this situation.
+
+“Although we ‘won’ the [SegWit2x] battle, that win came with an effective increase in Bitcoin‘s [block space] capacity,” Carvalho confessed. “This has resulted in increased overhead to running a Bitcoin full node, and I’m just wondering whether we overshot the capacity needs with that change.”
+
+It could very well be that Bitcoin doesn’t actually need the extra block space provided by its 1MB limit, if second layer tech like the Lightning Network continues to make progress.
+
+The case for keeping blocks just as they are
+
+Peter Todd, previously a Bitcoin Core developer and now an applied cryptography consultant, isn’t sold. He described the change as a “minor tweak,” and warned the proposed soft fork would be a huge disruption, as Dashjr’s idea would inevitably be reduced to a political football.
+
+Todd explained that in engineering, systems need to have safety margins. In Bitcoin‘s case, that margin relates to how the network handles itself under pressure. The size of Bitcoin‘s blocks contributes to how much (or how little) breathing room the network has at any one time.
+
+But if Bitcoin‘s current safety margin is so small that 1MB is too big – why would 300KB be considered small enough?
+
+“For a system like Bitcoin, I’d expect a safety margin on the order of at least 5x, if not more – there’s a lot of unknown unknowns we face. So, by that logic, I’m going to call [Dashjr’s] proposal a minor tweak,” he said, adding that a change from 1MB to 300KB is unlikely to matter much.
+
+Mow was also unconvinced. He told Hard Fork it is debatable whether smaller blocks right now would help, highlighting the potential for data to be saved over five years wouldn’t really amount to much.
+
+“It would help in that it would keep the chain smaller for longer, but the question of it impacting decentralization is up in the air,” commented Mow. “I don’t see enough momentum from Bitcoin users to push it through, and then it would require the miners to activate a soft fork to make it happen.”
+
+He did note that the fall of cryptocurrency mining giant Bitmain has indeed led to Bitcoin enjoying more decentralization. But, this could have made it more difficult for proposals like these to be pushed through, as now there are simply more mining groups and pools to convince than before.
+
+“Smaller blocks would probably be in the best interests of miners though, since smaller blocks would boost their gains from transaction fees,” said Mow. “So, if I could snap my fingers and make the blocks smaller tomorrow, sure it would be good, but I don’t see it happening anytime soon, or easily.”
+
+Bitcoin’s block size is such a touchy subject
+
+Bitcoin’s decentralized nature means coming to consensus on changes or additions to the rules of its protocol can be painstakingly difficult.
+
+Carvalho explained this process essentially boils down to doing sufficient research, making a proposal, and then communicating the idea clearly while supplying the new software for people to support and run if they agree.
+
+But controversies of the past – particularly the Bitcoin Cash hard fork and last year’s wasteful Hash Wars – have made changes to Bitcoin‘s block size frustratingly taboo.
+
+“Right now, there isn’t a lot of support for [block size] adjustment ideas because many see it as a controversial and sore topic. We all still feel the bruises from the Segwit2x/No2x/BCash debates,” Carvalho told Hard Fork.
+
+Mow agrees. “The block size has become a bit taboo since the end of the Bitcoin Civil War, and maybe that’s a good thing,” he said.
+
+This makes Dashjr’s plight for small Bitcoin blocks a tough sell, even without the barriers that exist unrelated to the costs associated with storing and validating Bitcoin‘s blockchain.
+
+Bitcoin engineer Jameson Lopp thinks the problem isn’t about data size, it’s more how intimidating working with Bitcoin can be.
+
+“It’s complicated and subjective. On the opposite side you can make arguments about the cost of on-chain transactions and thus onboarding new users, which was the essence of the scaling debate,” Lopp told Hard Fork. “Much like $5 or $10 transaction fees price out a lot of people from using Bitcoin, so does requiring a $1,000+ computer to run a full node.”
+
+“Though, I suspect that the bigger problem preventing people from running full nodes is the cost in technical knowledge required to run and maintain them,” he commented.
+
+It’s clear the debate over Bitcoin block size is tired and played out, at least for some. Bitcoin‘s “big blockchain” problem may well be a roadblock that needs to be addressed at some point, but only the greater network knows if it requires immediate attention. At least there are some who want to find out.
+
+(Edit: This has been updated to clarify the role of Segregated Witness technology in the Bitcoin network.)

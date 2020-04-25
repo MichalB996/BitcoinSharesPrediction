@@ -1,0 +1,31 @@
+DATE:  03.04.2020, 03:40:33
+TITLE: Cointext Cofounder Unveils BFP Encrypt - Send Encrypted Data to Bitcoin Cash Addresses
+URL:   https://news.bitcoin.com/bfp-encrypt-send-encrypted-data-bitcoin-cash/
+
+Cointext Cofounder Unveils BFP Encrypt - Send Encrypted Data to Bitcoin Cash Addresses
+
+Vin Armani, the cofounder of Cointext, has announced the launch of a Javascript library that allows people to send encrypted data to addresses on the Bitcoin Cash (BCH) network. A BCH private key can decrypt the data, and when Armani released the Javascript package, the developer stressed that he felt “a sense of urgency” to get this tool into the hands of the public.
+
+Also read: Tiger King’s Archnemesis Big Cat Rescue Accepts Bitcoin
+
+BFP Encrypt
+
+We currently live in a world with overreaching governments and the covid-19 crisis has exemplified the greed and manipulation. Agents of the state have been invading our privacy for years now and they have found ways to monitor people online and eavesdrop on our private activities. However, encryption has been a problem for governments, as it gives an individual or organization the ability to change data in a way that is completely unreadable and only certain people with special knowledge or a key can read the information. Encryption is important because it can protect someone’s data not only from spying governments but also from any malicious person attempting to monitor people’s private affairs.
+
+Vin Armani of Cointext and Counter Markets has been a believer in freedom and privacy for a while now; he recently published a new Javascript library that helps promote confidentiality. “Today I’ve published a Javascript library that makes it very easy to send encrypted data (text messages, files, etc) to addresses on the Bitcoin Cash network,” Armani tweeted. “The holder of the private key for that address can use it to download and decrypt the data.” The developer added:
+
+I feel a sense of urgency to get these types of tools out there — This leverages the Bitcoin Files Protocol and library developed by James Cramer, so big shout out to him.
+
+Encrypted Message Sending and Receiving Examples
+
+Armani’s tool can be found on Github under the name “BFP Encrypt.” The tool’s description notes that the program leverages the BCH chain and the Bitcoin Files Protocol (BFP). Further, Armani’s tool uses Elliptic Curve Integrated Encryption Scheme (ECIES) and the specifications say it’s compatible with the following Javascript libraries: eccrypto, eccrypto-js, and bitcore-ecies (jeton fork). BCH proponents on social media and forums favored the new privacy-enhancing tool the Cointext cofounder released. “This is really cool,” tweeted the engineer Tobias Ruck. “Thought about embedding some chat stuff in be.cash, tending towards signal protocol though.”
+
+“So we can start to build an anonymous social network on Bitcoin Cash?” BCH fan Egon asked on the Reddit forum r/btc. BFP Encrypt’s specs also show examples of a “message send” and a “message receive,” which describe how someone can send text “from one address (sender WIF) to the P2PKH address associated with the recipient’s public key.” The last example shows how to download and decrypt the message that was sent to a recipient’s address.
+
+What do you think about Vin Armani’s BFP Encrypt? Let us know in the comments below.
+
+Image Credits: Shutterstock, Pixabay, Wiki Commons, Github, Twitter
+
+Use Bitcoin and Bitcoin Cash to play online casino games here.
+
+Disclaimer: This article is for informational purposes only. It is not an offer or solicitation of an offer to buy or sell, or a recommendation, endorsement, or sponsorship of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

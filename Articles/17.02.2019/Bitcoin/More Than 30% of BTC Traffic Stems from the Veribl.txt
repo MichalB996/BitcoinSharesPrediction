@@ -1,0 +1,33 @@
+DATE:  17.02.2019, 16:30:10
+TITLE: More Than 30% of BTC Traffic Stems from the Veriblock Project
+URL:   https://news.bitcoin.com/more-than-30-of-btc-traffic-stems-from-the-veriblock-project/
+
+More Than 30% of BTC Traffic Stems from the Veriblock Project
+
+Over the last few weeks, a blockchain project called Veriblock whose protocol piggybacks off the Bitcoin Core (BTC) network has sparked debate. More than a quarter of BTC’s transaction numbers stem from the Veriblock system and the project has been criticized for using the blockchain in this manner.
+
+Also Read: Orca Pool Mining Operation Aims to Defend Altcoins and Forks From Attacks
+
+The Veriblock Chain Is Paying for a Lot of BTC Block Space
+
+Most people are unaware that about a quarter of the BTC chain’s daily transactions are due to another project called Veriblock. The Veriblock chain utilizes a system called proof-of-proof (PoP) and the ‘proof’ stems from the security of the BTC chain. Essentially, Veriblock aims to provide alternative blockchain security by immersing a snapshot of the altcoin’s ledger into the BTC chain. Veriblock uses OP return transactions and other methods to embed the blockchain’s state data in an “SP blockchain transaction.” Last month BTC developer and Casa CTO Jameson Lopp noticed that Veriblock was dominating the number of BTC-based OP return transactions.
+
+“Source of the now-highest volume of OP_RETURN outputs has been identified as Veriblock “proof of proof” miners,” explained Lopp. “They are creating around 20% of all BTC transactions now.”
+
+According to statistics published this week, Veriblock captures more than 30-45 percent of transactions on a good day. The project is still in testnet mode and has only recently caught the attention of cryptocurrency enthusiasts. A few other BTC community members have called the project “garbage” and complained about Veriblock spamming the network. As usual, there are various subjective valuations on whether or not some transaction use cases are spam. Most people understand, though, that the network is permissionless by nature and it really doesn’t matter as long as users pay for the block space. Veriblock believes other blockchains will be enticed by the PoP system because it gives them the ability to leverage BTC’s security and reputation.
+
+“As a result, the reinforced security provided by PoP will encourage further adoption of these alternative blockchains,” Veriblock’s website details. “The transition of transactions from Bitcoin to alternative blockchains will also facilitate Bitcoin scaling, while continuing to drive value back to Bitcoin miners.”
+
+Piggyback Projects Believe the Well-Established First Layer Adds More Security to the Second Chain
+
+Because Veriblock piggybacks off of BTC’s security, the project can offer this safety net to alternative networks. Veriblock’s site says this enables early attack detection, protection against sustained 51 percent attacks and double-spend attack prevention. Veriblock is operated by CTO Maxwell Sanchez and CEO Justin Fisher and backed by former Bitcoin developer Jeff Garzik who acts as technical advisor.
+
+Veriblock is not the only project using the BTC chain for leverage as there have been other networks using the chain in a variety of ways. Omni Layer, the network that issues the stablecoin tether (USDT), uses OP_return transactions. Counterparty used a process called proof-of-burn (PoB) and other projects like Namecoin use merge mining. Another project using merge mining is the RSK network and the protocol is currently capturing 45 percent of BTC’s network hashrate.
+
+Some BTC proponents dislike the merge mining process as well as other types of sidechain projects like Drivechain, because a few crypto community members are extremely paranoid about giving miners too much power. Veriblock is just another example of a chain using BTC’s established blockchain in order to add more value to what it produces. And because the cryptocurrency’s network is permissionless, people’s opinions on certain projects being “spam” or “inefficient” is little more than internet chatter.
+
+What do you think about the Veriblock chain using 30-45 percent of BTC transactions? Let us know what you think about this subject in the comments section below.
+
+Image credits: Shutterstock, Veriblock, Twitter, and Blockchain.com.
+
+Want to create your own secure cold storage paper wallet? Check our tools section.

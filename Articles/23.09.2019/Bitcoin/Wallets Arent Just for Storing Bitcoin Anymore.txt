@@ -1,0 +1,99 @@
+DATE:  23.09.2019, 12:00:12
+TITLE: Wallets Aren’t Just for Storing Bitcoin Anymore
+URL:   https://bitcoinmagazine.com/articles/with-new-exchange-features-wallets-arent-just-for-storing-bitcoin-anymore
+
+Ring in the new bitcoin halving cycle the right way: with us!
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+Bitcoin wallets play an essential role in facilitating every user’s interactions with the blockchain. They can connect to full nodes, store public and private keys, sign transactions and ultimately make it easy to store, send and receive bitcoin. In a nutshell, these software applications complete complex cryptographic functions under a friendly disguise: They offer an easy point-and-click (or touchscreen) experience that everybody who’s ever managed a credit card balance can understand.
+
+However, this functional simplicity is being challenged by a new trend that many wallet developers seem to be following: integrating exchange features to facilitate inter-currency trading and possibly increase liquidity.
+
+There are three main categories of such additions:
+
+Wallets which allow users to buy bitcoin with their credit cards; Wallets which allow trades between BTC and altcoins; Wallets which allow the conversion of mainchain bitcoins and altcoins to Lightning Network satoshis (a third party-reliant precursor to atomic swaps).
+
+In order to better understand this functional trend, Bitcoin Magazine has contacted representatives from five popular BTC (and possibly multi-coin) wallets: Edge, Blockchain, BRD, Blue Wallet and Guarda. All of the respondents have received the same questions, and, fascinatingly, the exchange features have been implemented in different ways to serve varied purposes.
+
+Edge Wallet and Third-Party Exchanges
+
+In the quest to facilitate bitcoin trades, Edge wallet has chosen an interesting approach: Instead of building a centralized proprietary service or relying on a single third-party partner, the platform offers multiple options. Users’ transactions are assigned to the best available trade at the time on exchanges such as ShapeShift, Changelly, Wyre and Simplex. Furthermore, a direct link to Bitrefill is provided so users are able to buy various gift cards with bitcoin.
+
+“By integrating with third-party exchanges, users can acquire and trade cryptocurrency without the risk of leaving their funds with a third party. Users can also search for the best price across multiple exchange partners,“ said Edge CEO and co-founder Paul Puey.
+
+In a nutshell, Edge has added its exchange functions as a way of creating an “all-in-one” experience which suits newbies and minimizes risk through a selection of reputable services. If transferring funds to an exchange like Coinbase and withdrawing your fiat or bitcoin can take a long time (especially if the initial KYC verification process is involved), then dealing with Changelly or buying some BTC from Simplex is a lot faster and requires fewer signups.
+
+Puey highlighted Edge’s noncustodial nature as a competitive feature.
+
+“The foundation of Edge and an advantage that sets us apart from other wallets is our key management,” he said. “Edge is a non-custodial wallet that allows users to control their own funds in a highly secured manner. Another advantage with Edge is that users now have a better way to transact without having to leave the wallet to access exchange functionalities.”
+
+The wallet seems to be increasingly popular thanks to these features, as the CEO pointed to a 100 percent growth in user base from one quarter to the next, even in the face of the 2018 bear market.
+
+Blockchain Wallet, Swap and the Pit
+
+Blockchain is one of the oldest wallet solutions on the market, with a company history that began as early as 2011 and a long-standing reputation in the field of block explorers. Unlike Edge, it seeks to build an ecosystem of its own, with proprietary applications which are integrated in the main wallet.
+
+As a multi-cryptocurrency wallet, Blockchain has added Swap, a feature which allows users to trade between BTC, ETH, BCH and XLM, at prices close to the market valuation. According to Head of Strategy and General Manager Xen Baynham-Herd, “Swap allows users to exchange assets on-chain while maintaining complete control of their private keys.”
+
+As with Edge, users don’t have to leave the wallet’s interface when they want to trade between their cryptocurrencies, and the interface is simple enough to be accessible to newbies. According to Baynham-Herd, Swap “has been met with outstanding support from our users since we unveiled it last October.”
+
+Moreover, Blockchain has recently added the Pit — a more advanced exchange service which enables active trading between assets. Its interface resembles that of Coinbase Pro, as fiat options and more cryptocurrency pairs are included. Basically, it’s an attempt to extend the wallet’s usability while also providing extra features that bring liquidity. Instead of moving funds between exchanges and waiting for various verification processes, users can simply sign up for the extension service and perform the same actions.
+
+The main issue with this approach is that the new exchange might not have enough liquidity to support large volumes — but if the service is good, then users will definitely create the financial prerequisites for intensive trading.
+
+BRD Wallet and “Trade”
+
+BRD, formerly known as Breadwallet, is a popular and simple open-source wallet solution. Its GitHub commits date back to June 2015, and the contributions have consistently brought more features while maintaining the basic interface. In the words of Chief Strategy Officer Aaron Lasher, “BRD’s core competency is giving regular people the ability to safely store, send and receive cryptocurrency.”
+
+Correspondingly, trading your bitcoin for other assets can be made by simply tapping the “Trade” button on the bottom of the interface. After the process of selection is completed, a series of on-chain transactions will be made in order to deliver the expected cryptocurrency — which means that BRD is a mere facilitator, and not a custodian of the funds. According to the official website, “exchanging currencies may take up to 6 hours to complete.”
+
+Unlike with Edge, users don’t get to choose the third-party service that they will be using, as the process is simplified to include only the request. Lasher clarified that BRD collaborates with various partners to deliver the expected exchange service: “For those services, we use third-party integrations to broaden what our customers have access to.”
+
+Some of the most interesting things about BRD are those integrations which stem from regional partnerships and provide tailored services to users across the world. For instance, Canadians are able to buy bitcoin directly from the wallet interface thanks to a deal with Coinberry, while U.S. citizens who navigate the “Trade” button will automatically deal with Wyre. For European users, the service of choice is Coinify. In each instance, transactions are assigned by default to the relevant regional partner.
+
+BRD also allows users to buy bitcoin with their credit card or exchange their altcoins, and the order is followed by a series of email communications which present the delivery status (In times of greater network congestion, this might take longer). Once again, the provider chooses not to be a custodian by delegating responsibilities to other services.
+
+“Simplicity is necessary to appeal to non-techy users, security (which in our case, includes the fact that you alone have control of your money) is required for scale and reputation, and privacy (meaning that not only do you control your money, but that nobody else, including BRD, is able to look over your shoulder) is a cornerstone of civil society,” Lasher said.
+
+He noted that while some other exchanges have branched off into noncustodial wallet solutions, he suspects that they may not achieve much traction in the short term due to customer segmentation.
+
+“If somebody is storing money with an exchange, it is highly likely that they are already willing to trade off some degree of privacy or control for the convenience of letting a third party deal with the security requirements,” he added. “Our customers, on the other hand, come to us will the full intention of mastering their coins, along with the incremental burden of keeping them safe.”
+
+Guarda and the Catch-All Approach
+
+Guarda is a relatively new bitcoin wallet solution which focuses on the same holistic approach to services, under a simple and straightforward interface. Of all the solutions presented in this article, Guarda supports the most cryptocurrencies and makes use of a more evident catch-all approach.
+
+When you decide to exchange your bitcoin, you basically get to choose between three of the most popular services (ShapeShift, Changelly and Changenow). Unlike other wallets which automatically assign the third-party exchange, with Guarda you get to choose according to your KYC preference (ShapeShift and Changelly have different requirements, for instance) and fees.
+
+“Exchange integration is an important step of building the ecosystem around the storage itself,” Guarda CMO Maria Carola explained. “For us, it is important to create one wallet that is enough to perform all the basic crypto management activities.”
+
+Interestingly, Guarda also enables support for the Ledger Nano S hardware wallet, which greatly improves security and control.
+
+“We all want our funds to be safe and having a noncustodial wallet is one of the steps in this direction,” Carola added. “If you are into hardware wallets, you can also connect your Ledger Nano S device and manage the coins stored there in Guarda’s interface for overall convenience.”
+
+It’s also worth noting that the wallet is available on every platform and even has a browser extension — a feature which might be appealing to enthusiasts who want to use the functions on all devices.
+
+BlueWallet and the Marketplace
+
+In terms of freedom of choice, BlueWallet is easily the most generous of bitcoin wallets. Once you install the applications and deposit some BTC, you can choose from a great variety of services that allow you to spend or exchange your satoshis.
+
+Furthermore, BlueWallet happens to be the only Lightning-friendly and BTC-centric wallet we spoke with, offering a great advantage for Bitcoin enthusiasts. This approach also extends to the ability to connect to your own full node, thus removing trust in potentially malevolent third parties. From these perspectives, BlueWallet is in a league of its own and pleases a crowd which isn’t interested in trading altcoins but in maximizing the sovereignty of their BTC.
+
+Interestingly, the marketplace links to lots of online stores and services which provide a seamless conversion. You can basically imitate the function of a Lightning atomic swap with ZigZag, buy gift cards on Bitrefill, communicate via a borrowed number with Receive SMS and LN SMS, and even buy stickers from the Blockstream store or play video games on Satoshi’s Games.
+
+The only major feature missing in BlueWallet is one for purchasing BTC with your credit card. On the other hand, given the Bitcoin-only integrations and full node compatibility, it’s probably for the better. The project remains more cypherpunk and doesn’t have to deal with regulations that may force it to remove features. Depositing satoshis is a straightforward process and using them on either the main chain or Lightning is a great experience in itself.
+
+Product and UX representative Nuno Coelho told Bitcoin Magazine that BlueWallet’s main advantage is “the ability to verify and not trust, since BlueWallet allows you to run and plug in your own node. So you are not trusting third parties or centralized services; you are autonomous and sovereign on your own bitcoins.”
+
+Conclusion
+
+Though these wallets look similar and tend to have identical features, they have plenty of differences which make them more or less friendly with newbies or satisfactory for advanced users. In this regard, the table below lists the various qualities of each wallet presented in order to facilitate the process of making a choice.
+
+If you’d like to exchange your bitcoin for altcoins (or vice versa), then you should opt for Edge, Blockchain, BRD or Guarda. If you want to be in charge of the fees by choosing the service, then you will find Guarda most satisfactory (though Edge also operates with different services, but automatically picks the best rate). On the other hand, Blockchain seems to be the best at keeping it simple, since you don’t have to deal with any third parties and everything is integrated within the ecosystem.
+
+However, if you’re looking for a bitcoin-only wallet with Lightning support and the ability to perform swaps between the two payers, then BlueWallet will serve you best.
+
+For the sake of convenience, other criteria such as hardware wallet integration and the ability to buy bitcoin with your credit card have also been included in the chart below.

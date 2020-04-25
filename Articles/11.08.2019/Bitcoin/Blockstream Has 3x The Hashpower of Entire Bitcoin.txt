@@ -1,0 +1,37 @@
+DATE:  11.08.2019, 16:13:24
+TITLE: Blockstream Has 3x The Hashpower of Entire Bitcoin Cash Network
+URL:   https://www.ccn.com/blockstream-has-3x-the-hashpower-of-entire-bitcoin-cash-network/
+
+Forbes writer Kyle Torpey reported that Blockstream, a crucial company in Bitcoin Core development, has been hosting Bitcoin miners at two facilities for quite some time.
+
+Big Boy Mining
+
+Top clients include Fidelity’s Center for Applied Technology (FCAT). Fidelity is a financial firm which increasingly throws itself into the blockchain industry.
+
+Blockstream employs BetterHash, an improved mining management software by long-time Bitcoin developer Matt Corallo. Corallo plays another important role in Bitcoin development as the maintainer of Bitcoin’s Ubuntu repository. Interestingly, Corallo and Blockstream CSO recently had a spat on Twitter.
+
+BetterHash has an important feature: it gives the miner of the block, rather than the mining pool, the power to choose what transactions are included in the Bitcoin blockchain. This greatly improves the “centralization” problem that Bitcoin mining faces. As Torpey put it:
+
+“While Bitcoin mining is rather centralized in terms of mining pools, the picture looks much better in terms of the diversity of entities that are actually operating the hardware. Putting individual miners in control of transaction selection means collusion in terms of transaction censorship, blockchain reorganizations, or other types of 51% attacks on the network would be much more difficult.”
+
+The issue of centralization is deeply important in cryptocurrency. The less centralized something is, the harder it is to shut down.
+
+Blockstream’s currently open for new clients in their mining facilities, both of which are located in North America. One is in Canada and the other is in Adel, Georgia. Miners pay the company to have their equipment stored and managed.
+
+Mining hosting is an industry racked by scandal, as CCN reported earlier this year.
+
+Currently, the company maintains about 6 exahash of Bitcoin mining equipment, meaning that it effectively has around 300% of the hashpower represented on the entire Bitcoin Cash network. On Thursday, Bitcoin Cash had a total network hashpower of just over 2 exahash.
+
+Bitcoin Cash and Bitcoin SV: Watch Out
+
+At the absolute height of Bitcoin Cash mining, there was about 7.8 exahash.
+
+Blockstream’s hashpower only accounts for a small amount of the total Bitcoin mining network at this point. Bitcoin added a great deal of hashpower recently, pushing its total network security to nearly 80 exahash.
+
+Blockstream CSO Samson Mow told Forbes:
+
+“[B]y leveraging the BetterHash protocol in our mining pool, all of our customers can run their own full-nodes and build block templates. This means the pool cannot use their hashrate for censoring transactions or falsely signaling readiness for Bitcoin protocol upgrades – which has happened in the past as with SegWit2x.”
+
+Blockstream’s mining power is no joke, in short. Bitcoin Cash lost some of its most prominent miners when Bitcoin SV launched, and if a group of Blockstream’s clients wanted to, they could effectively take over the network with ease.
+
+There are various ways Bitcoin Cash might choose to deal with this. One seemingly obvious possibility is to modify Bitcoin Cash’s hashing algorithm to make it incompatible with Bitcoin Core mining equipment. That idea has been floated for Bitcoin itself at various times when mining became centralized.

@@ -1,0 +1,35 @@
+DATE:  20.11.2019, 20:55:31
+TITLE: Devs Reveal BCH Cashchannels and Simple Escrow Contracts
+URL:   https://news.bitcoin.com/devs-reveal-bch-cashchannels-and-simple-escrow-contracts/
+
+Devs Reveal BCH Cashchannels and Simple Escrow Contracts
+
+Bitcoin Cash (BCH) supporters have been introduced to two new concepts that allow people to leverage the BCH network in a variety of innovative ways. On November 15, former Bitpay developer Jason Dreyzehner revealed his recurring payments system for BCH called Cashchannels. A few days later, on November 18, Karol Trzeszczkowski published a plugin for Electron Cash that allows a user to create a simple escrow contract.
+
+Also read: Cointext Founder Publishes New ‘Postage’ Specs for SLP Tokens
+
+Cashchannels
+
+Every week there seems to be something new introduced to the BCH community from software developers looking to leverage the peer-to-peer electronic cash system. On Friday developer Jason Dreyzehner announced a project he’s been working on called Cashchannels, which is a tool that lets users pre-approve future transactions, valued in any currency, to another person or company. Dreyzehner’s announcement highlights that the project bolsters “noncustodial, privacy-preserving, flexibly-denominated recurring payments.” Essentially, once the spender authorizes a BCH payment and after a specific amount of time, a “receiver can create the transaction without the spender having to open their wallet.” Dreyzehner added:
+
+Cashchannels automatically ensure the payment is correct, and spenders have full control over their money at all times.
+
+Dreyzehner is also known for working on the identity and message infrastructure called Bitauth. The software engineer has created a first draft of the Cashchannels authentication template and by using the Bitauth IDE, users can examine every script used by the template. Dreyzehner noted that SLP transactions can’t use the template unless the user modifies the template to support reading SLP-based channel outputs. “If you’re interested in adding Cashchannels to your wallet, have ideas for improving or optimizing the template, or if you have other questions or suggestions, you can find me on Twitter or comment on the Gist,” Dreyzehner’s announcement concluded.
+
+A Simple Escrow Smart Contract Plugin
+
+After Dreyzehner introduced Cashchannels, software developer Karol Trzeszczkowski revealed a new BCH simple escrow contract plugin for Electron Cash (EC). Trzeszczkowski also worked on a recurring payment smart contract plugin similar to Dreyzehner’s concept called Mecenas. The software developer designed the Last Will plugin for EC and another plugin called the Interwallet Transfer as well. The latest simple escrow smart contract plugin specifications on Github state:
+
+The plugin that lets you make a simple escrow smart contract that require only normal “bitcoincash:q…” addresses and no awkward xpub exchange ritual.
+
+On Reddit, the BCH community enjoyed the latest plugin release from Trzeszczkowski and complimented him on his work. The forum user ‘Shadow of Harbringer’ wrote: “So much developments in Bitcoin Cash,” while other Reddit users discussed how the plugin “allows [an average user] to make a 2-of-3 multi-signature in a standard wallet.”
+
+New Mecenas Plugin release featuring Escrow Mecenas!https://t.co/cUz8zN6ZTB — Karol Trzeszczkowski (@KTrzeszczkowski) November 20, 2019
+
+When one person asked if the simple escrow contract plugin “can be trusted,” the software developer who helped Trzeszczkowski, Imaginary Username replied: “We did quite a bit of tests (on mainnet), so far no money was lost and everything arrived at intended destinations.” On Wednesday November 20, Trzeszczkowski also announced his Escrow Mecenas that features three new contract versions using the Simple Escrow scheme. Overall BCH fans are pleased with the developments announced recently and both announcements from Dreyzehner and Trzeszczkowski this week were welcomed by avid supporters.
+
+What do you think about Jason Dreyzehner’s Cashchannels concept? What do you think about Karol Trzeszczkowski’s simple escrow contract tool and all the plugins he’s created for Electron Cash? Let us know what you think about this subject in the comments section below.
+
+Image credits: Shutterstock, Medium, and Github.
+
+Are you a developer looking to build on Bitcoin Cash? Head over to our Bitcoin Developer page where you can get Bitcoin Cash developer guides and start using the Bitbox, SLP, and Badger Wallet SDKs.

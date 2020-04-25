@@ -1,0 +1,53 @@
+DATE:  23.02.2019, 13:59:36
+TITLE: Hiding Cryptocurrency Assets – Just How Easy Is It?
+URL:   https://blokt.com/security/hiding-cryptocurrency-assets-just-how-easy-is-it
+
+In the early days, Bitcoin was often inaccurately considered to be an anonymous digital currency. We now know that’s not true. Bitcoin is pseudonymous in nature, not anonymous, highly transparent, and can be easily tracked through blockchain forensics tracking. Whether or not the pseudonymity is good or bad depends on who you ask. While blockchain forensics tracking can be used to track cryptocurrency, individuals can easily employ a number of practices to improve their anonymity.
+
+Reasons for Anonymity
+
+There are many legitimate reasons to seek anonymity. Greater anonymity tends to lead to better security. And just as many people wouldn’t want their bank account balance disclosed, it’s reasonable for an individual to want to avoid disclosing their cryptocurrency holdings to everyone they do business with. But there are illegitimate reasons as well. If an individual is attempting to hide cryptocurrency assets in the event of divorce or bankruptcy, or they have committed or are committing fraud, embezzlement, money laundering, or extortion, they would logically seek to anonymize themselves, which begs the question: just how easy is it to accomplish?
+
+Anonymity as a Scale
+
+Whether or not something is decentralized or not is not a yes/no distinction. There are varying degrees of decentralization and centralization, but there are always at least some elements of centralization in any decentralized architecture and vice versa. Anonymity can be thought of in this same way. There are various degrees of anonymity. Nothing provides an individual with complete anonymity. Rather, there are practices one can undertake to improve their anonymity. Some practices do little to improve anonymity, while others improve it immensely.
+
+Factors and Practices That Improve or Reduce Anonymity
+
+Use of Privacy Coins – One of the best ways of improving anonymity is by using privacy coins such as Monero (XMR) or ZCash (ZEC). These coins are highly effective when it comes to improving privacy and anonymity. But that doesn’t mean these cryptocurrencies are invulnerable. Intelligence agencies and forensic tracking companies are always putting in significant resources in an attempt to gain some insight into how to get around privacy features. Likewise, the Monero and Zcash teams continue to put more and more effort towards making sure no one breaks or finds a way around the privacy measures implemented. Furthermore, individuals need to acquire privacy coins from somewhere; in most cases, they buy from an exchange which they’ve done KYC on. So the exchange then knows privacy coins held (or previously held) by an individual and anyone that subpoenas them can know that as well.
+
+Coin Mixers – Mixing techniques like those utilized by CoinJoin attempt to obfuscate the ownership trail. Some cryptocurrencies like DASH have coin mixers built in. While coin mixers do improve anonymity, most agree that real privacy coins like XMR are far superior to mixing.
+
+Reusing the same addresses – Using the same bitcoin address two or more times considerably reduces privacy, allowing others to discover who has control over the applicable wallet addresses much more easily.
+
+Use of PayNyms – Also known as Reusable Payment codes, PayNyms improve anonymity by allowing individuals to publicly post or provide their PayNym to friends without revealing their account balance or transaction history as a unique new and unused bitcoin address is securely generated for each payment received.
+
+Using a VPN or Tor helps to improve privacy since the real IP which broadcasts the transaction would not be leaked. Our comparison of Nordvpn vs expressvpn goes into detail on what else a good vpn should have to protect your anonymity.
+
+Transferring funds between one’s addresses reduces their anonymity as it establishes a clearer link between wallets
+
+Going through KYC on exchanges significantly decreases one’s privacy since the exchanges can easily see which addresses a person has withdrawn to or has control over, and through forensic tracking, can see the flow of money into and out of their wallets. While some crypto-to-crypto exchanges don’t require KYC, almost no fiat-to-crypto exchanges without KYC exist due to laws from governments around the world. Acquiring cryptocurrency with fiat money without using an exchange can prove to be very difficult for most to accomplish.
+
+Sending or receiving currency to any party that knows a person’s identity reduces their anonymity. If they use cryptocurrency to pay for a good service, the recipient in many cases already knows who they are. After payment, they’ll easily be able to see the­­­ wallet address and with the right detective work, other addresses linked to it.
+
+Forensic Tracking and Software
+
+There are an increasing number of experts who specialize in tracking down cryptocurrency assets and transactions. In some cases, forensic software becomes a helpful or in some cases practically an essential aid that forensic investigators use to track cryptocurrency assets.
+
+Chainalysis and BIG Blockchain Intelligence Group are two of the most promising companies out there that have been diligently working on building proprietary forensic tracking software. BIG’s software, known as Qlue has gained some notoriety recently since it has aided @proofofresearch in his search for QuadrigaCX’s cold wallets.
+
+There are a variety of forensic tracking firms out there right now who don’t develop any software themselves but who manually track or use software developed by a forensics software company. These firms help a variety of different sectors; some help law enforcement, some help tax agencies. CryptForensic Investigators primarily helps lawyers in the divorce sector track cryptocurrency assets and sometimes helps to investigate bankruptcy fraud.
+
+Discussion
+
+There’s no single technique a person can use to make themselves ‘anonymous’. Anonymity is a scale and multiple techniques need to be employed in tandem to offer sufficient anonymity. But those seeking anonymity ought to ask themselves why they are trying to remain anonymous, who they’re trying to remain anonymous from, and what resources those individuals or groups are willing to put into de-anonymizing an individual or their transactions. If someone simply doesn’t want their family and friends to be able to easily see how much cryptocurrency they hold and are ok with family and friends seeing transaction data, then it’s not necessary for an individual to implement many anonymization practices.
+
+On the other hand, if a person is a massive target like Ross Ulbricht was, and agencies are willing to pour massive amounts of money into discovering who they are, it’s possible that even if they religiously implemented all the anonymity practices listed above, they may still be caught. Governments don’t have financial resources to track down everyone who uses extensive privacy measures; it’s too expensive. They tend to go after the most public cases that garner a lot of media attention.
+
+Another thing to consider is that even if an individual elects to start implementing practices to improve their anonymity, their history before such measures can still be easily tracked. Many, if not all of their old wallet addresses will already be ‘tainted’. If there’s any transaction data linking ‘new’ wallet addresses to an ‘old’ wallet address, new addresses become tainted as well. So to really become sufficiently anonymous, individuals need to implement anonymity practices from the very beginning when they start to acquire cryptocurrency. This presents a major challenge (or offers a major advantage to tracking firms) since when most initially acquire cryptocurrency, they don’t even know how to generate their own wallet address, much less properly and securely implement all the security and anonymity practices listed above.
+
+At Cryptforensic Investigators, we tend to find that people implement few to no anonymity practices which makes our job easier and cheaper for our clients. Most don’t see the need for anonymity during or prior to their marriage since they have no plans on getting a divorce. But when an individual with significant holdings does through a divorce, they often wish they had employed anonymity practices from the beginning. But by that point, it’s too late.
+
+In Summary
+
+The technologies that offer improved anonymity themselves are not overly difficult for someone knowledgeable about cryptocurrency to utilize. What’s far more difficult, is combining all the practices together, avoiding practices that reducing anonymity, and adhering to those practices all the time. Most people simply don’t have the prudence to adhere to ideal anonymity practices all the time.

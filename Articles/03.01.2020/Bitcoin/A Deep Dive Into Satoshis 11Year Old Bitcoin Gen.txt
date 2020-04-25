@@ -1,0 +1,39 @@
+DATE:  03.01.2020, 16:10:09
+TITLE: A Deep Dive Into Satoshi's 11-Year Old Bitcoin Genesis Block
+URL:   https://news.bitcoin.com/a-deep-dive-into-satoshis-11-year-old-bitcoin-genesis-block/
+
+A Deep Dive Into Satoshi's 11-Year Old Bitcoin Genesis Block
+
+11 years ago today, Satoshi Nakamoto launched the Bitcoin network at approximately 18:15:05 UTC and the world hasn’t been the same since. The Bitcoin blockchain came to life on January 3, 2009, and so far, more than 600,000 blocks have been mined into existence. Nakamoto’s genesis block is special and the hardcoded block has a few unique characteristics compared to the rest of the chain of blocks that followed.
+
+Also Read: BTC’s Hashrate Touches 120 Exahash, But the Price Has Not Followed
+
+The Genesis Block
+
+This week the cryptocurrency community is celebrating the 11th anniversary of the Bitcoin network. Satoshi brought the network to the world two months after publishing the whitepaper on October 31, 2008. The launch of the Bitcoin blockchain started with a hardcoded block called the ‘genesis block’ or ‘block zero.’
+
+The block is unique because it has a 50 BTC reward subsidy that can never be spent. Alternative coins that have copied Bitcoin’s framework also use a hardcoded block to start a new chain. Most early bitcoin blocks and the hash of the genesis block have two more leading hex zeroes. In addition to this characteristic, block zero has a message in the coinbase parameter, which represents a possible reminder of why the cryptocurrency was created. The genesis block’s message reads:
+
+The Times 03/Jan/2009 Chancellor on brink of second bailout for banks
+
+During the last 11 years, members of the crypto community have sent small fractions of BTC to the genesis block’s address. To date, block zero has 68.13 BTC, which is 18.13 BTC ($131,527) more than it originally started with. There are messages sent with the satoshis as well, as most transaction messages sent to block zero beg Bitcoin’s creator for money. Three people sent the address some funds today, and there’s been a number of satoshis sent to the address all week long. An interesting fact about the 18.13 BTC worth of outputs sent to block zero is that the funds can be spent, if Nakamoto still possesses the keys to the wallet address. Another interesting fact about the “bailout for banks” quote is that Satoshi added the statement twice into the codebase. When someone decrypts the original hexadecimal format, the “bailout for banks” quote is also written backward.
+
+Seven-Day Theory
+
+No one knows who Satoshi Nakamoto was, but many people believe that Bitcoin’s creator was a Microsoft user. Bitcoin version 0.1, the original Bitcoin codebase implementation, is written in the coding language C++ and blocks that were mined in the early days used a Windows GUI mining application. Nakamoto mined the first bitcoin blocks after block zero by leveraging a central processing unit (CPU), which is much less powerful than the warehouses filled with ASICs today. The network did not kick into gear right away and unlike today, with blocks processed roughly every 10 minutes, the subsequent block after the genesis block took six days. There are those that assume Bitcoin’s creator took a break between block zero and block one. Some say Nakamoto purposefully made it so the timeline was similar to the Bible’s Genesis tale when the earth was created in seven days.
+
+Hal Finney was the first person to transact with BTC in coordination with Satoshi Nakamoto. The first transaction took place three days after block one and coins were sent to Hal Finney from block nine. Finney told the world a few days earlier he was “running Bitcoin” on Twitter on January 10, 2009. In addition to the very first transaction, Nakamoto had decided to send BTC to other network participants on the same day he sent funds to Finney. The veteran cryptographer Finney told the public in 2013 that he was the first person to mine Bitcoin alongside Nakamoto. “When Satoshi announced the first release of the software, I grabbed it right away — I think I was the first person besides Satoshi to run bitcoin,” explained Finney.
+
+Nakamoto’s Pre-Release Source Code Tells a Story
+
+While examining the first versions of the Bitcoin source code, which was a pre-code release prior to Jan. 3, 2009 distributed to bitcointalk.org member “Cryddit,” people have found some interesting details. The source code mentions certain terminology that crypto users did not know Nakamoto used at the time. For instance, he referred to the blockchain as a “timechain” and the words “bitcoin miner” can be found as well. The words “bitcoin miner” in the early code are meaningful to some individuals because Nakamoto never used that term within the original whitepaper.
+
+Other intriguing words can be found in the early code like how Nakamoto referred to Bitcoin’s smaller units as “coin” (1,000,000) and “cent” (10,000) rather than today’s popular term “satoshis.” The source code also describes the “timechain” as “a tree-shaped structure starting with the genesis block at the root.” The pre-release Bitcoin code also contained early framework for an IRC Client, a peer-to-peer marketplace and a virtual poker game.
+
+To a great number of people, Nakamoto’s code and initial Bitcoin launch on January 3 were the start of a monetary revolution. The software has sparked the idea that peer-to-peer and censorship-resistant money can exist, removed from governments, corporations, and any single entity. Bitcoin has also given birth to over 4,000 individual blockchain networks that have allowed transactions between global individuals across any border. The fact that the Bitcoin network and the protocol’s offspring continue to thrive today after 11 years is quite a milestone. Nakamoto’s creation has been a gift that keeps on giving.
+
+What do you think about the 11-year anniversary of the genesis block and Satoshi Nakamoto’s infamous creation? Let us know what you think about this subject in the comments section below.
+
+Image credits: Shutterstock, bitcointalk.org, cypherpunk mailing list, pre-release code, Twitter, Wiki Commons, Fair Use, and Pixabay.
+
+Verify and track bitcoin cash transactions on our BCH Block Explorer, the best of its kind anywhere in the world. Also, keep up with your holdings, BCH, and other coins, on our market charts at Bitcoin.com Markets, another original and free service from Bitcoin.com.

@@ -1,0 +1,25 @@
+DATE:  30.10.2019, 13:34:18
+TITLE: Unknown Miner Gains ~70% of Bitcoin Cash (BCH) Hash Rate and Performs Difficulty Adjustment Attack to Mine Up to 21 Blocks in an Hour, Bitcoin Cash (BCH) Highly Susceptible to Attacks Due to Hash Rate
+URL:   https://cryptoiq.co/unknown-miner-gains-70-of-bitcoin-cash-bch-hash-rate-and-performs-difficulty-adjustment-attack-to-mine-up-to-21-blocks-in-an-hour-bitcoin-cash-bch-highly-susceptible-to-attacks-due-to-hash-rate/
+
+An unknown miner has taken over a majority of hashing power on the Cash (BCH) network, with some reports suggesting the miner has had up to 75% of the hashing power at times. This makes the Cash (BCH) susceptible to 51% attacks, which is a scenario where a miner would fork the in order to double-spend a transaction. However, in this case the miner has instead chosen to perform a difficulty adjustment attack (DAA).
+
+Cash (BCH) has 24-hour mining difficulty targeting, meaning if the hash rate rises and more than 6 blocks are mined every hour or more than 144 per day, then the mining difficulty rises so that only 144 blocks are mined daily. This prevents miners from mining Cash (BCH) faster than scheduled, which would cause higher inflation than programmed.
+
+However, in this case, the unknown miner has mined up to 21 blocks in a single hour, versus the 6 that are supposed to be mined hourly. There was even a one minute time period where the miner received 3 blocks.
+
+This was accomplished via a DAA, where the miner puts a large amount of hashing power on the network suddenly, giving the difficulty adjustment algorithm no time to respond, so that the miner can mine far more than one block every 10 minutes.
+
+In order to keep the attack going, this unknown miner their hashing power off of the network just as suddenly, making sure that the Cash (BCH) network only mines 144 blocks per day or not much more, so that the difficulty does not rise significantly.
+
+Ultimately, the sort of DAA that has been conducted by this unknown miner is damaging the Cash (BCH) mining ecosystem, since most of the block rewards are going to this unknown miner, leaving the regular miners without much block rewards. This could actually cause miners to leave the Cash (BCH) network, making the less secure and more prone to attacks.
+
+It appears a fundamental reason as to why this is happening is the drastic difference between the Bitcoin (BTC) hash rate and the Cash (BCH) rate. (BTC) and Cash (BCH) use the same algorithm, SHA-256, meaning miners can freely switch between the networks.
+
+However, Bitcoin (BTC) has 50X the rate of Cash (BCH), around 100 EH/s versus only about 2 EH/s. Therefore, if a single miner on the Bitcoin (BTC) network who has 2-3% of the hash rate switches to Cash (BCH) they will then have a majority of the rate on the Cash (BCH) network.
+
+Not only does this leave Cash (BCH) open to DAA, which damages the mining ecosystem, it leaves Cash (BCH) open to 51% attacks, which have the potential to ruin Cash’s (BCH) immutability, reputation, and value.
+
+It seems the only solution for Cash (BCH) would be to change the mining algorithm so that it does not have the same algorithm as Bitcoin (BTC). However, such a decision would be quite negative for Cash (BCH) miners, who would suddenly have to get new equipment in order to mine, or more likely would just switch to Bitcoin (BTC).
+
+Thus, Cash (BCH) is at risk of DAA and 51% attacks due to having a hash rate 50X lower than Bitcoin (BTC), and there is no clear solution to this critical problem.

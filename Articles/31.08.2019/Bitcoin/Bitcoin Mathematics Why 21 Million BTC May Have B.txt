@@ -1,0 +1,33 @@
+DATE:  31.08.2019, 18:03:03
+TITLE: Bitcoin Mathematics: Why 21 Million BTC May Have Been Chosen
+URL:   https://www.newsbtc.com/2019/08/31/bitcoin-mathematics-21-million-btc/
+
+Everything about Bitcoin is heavily steeped in mathematics – defined as the study of quantity, structure, space, and change. Quantity has always been of particular interest to crypto investors and traders – in increasing the quantity of one’s own holdings, and the impact the hard-capped quantity of BTC has on its long-term value.
+
+Recently, a Twitter thread questioned the reasoning behind why the first-ever cryptocurrency’s creator, Satoshi Nakamoto, selected 21 million BTC as the total supply and not another arbitrary number. The answer, like everything else surrounding Bitcoin, can be found in very simple math.
+
+The Not Secret Anymore Formula For Bitcoin’s Hard-Capped Supply
+
+Bitcoin’s hard-capped supply provides it with unique attributes. It gives it a layer of scarcity fiat currencies don’t have, but safe-haven assets like gold are lauded for. It also prevents inflation by never increasing the BTC supply. We can all see why it’s important to Bitcoin’s value, but still – why 21 million BTC?
+
+Related Reading | Can Ancient Math Predict the Next Bitcoin Top at $220K?
+
+In a detailed and thought-provoking Twitter thread started by Sasha Fleyshman, the trader at Arca – an asset management firm focusing on cryptocurrencies and blockchain – inquires into why Bitcoin’s creator chose 21 million BTC as the total amount of Bitcoin to ever exist. Like most things related to Satoshi, the reason has always remained unknown.
+
+After much discussion, Fleyshman gathered the collective thoughts and based on a simple mathematical formula, may have discovered the reason behind the 21 million BTC supply.
+
+This is offset by what is called a "Difficulty Adjustment", where the 'hash'(random generated number) that is required to solve the block is adjusted – this occurs every 2016 blocks (14 days). So, for all related purposes, 6 blocks/hour is a safe metric to use. pic.twitter.com/4DoS3Uev0f — Sasha Fleyshman (@ArcaChemist) August 30, 2019
+
+The theory is based on time, mostly. The variables used were hours per day, days per year, years per cycle, and blocks per hour.
+
+Also, hardcoded into Bitcoin, is the fact that it takes roughly ten minutes for each new block to be added to the blockchain. Fleyshman points out that this varies by a few seconds, but is ultimately offset at each “difficulty adjustment” occurring every 14 days.
+
+When you break down four years worth of blocks at six blocks per hour, there are approximately 210,000 total blocks per halving cycle.
+
+At Bitcoin’s next halving, its supply will be cut from 12.5 BTC to 6.25 BTC. Prior to this, the block reward was 25 BTC, and before that, 50 BTC. The sum of all block reward sizes is 100.
+
+Related Reading | Crypto Analyst: Bitcoin Price Could Be Trapped in Tight Range Until Halving
+
+When you multiply 100 with the 210,000 total blocks per halving cycle, you get 21 million BTC. At least that’s according to Fleyshman’s theory, which makes logical sense.
+
+While all the math lines up, it could also just be a coincidence, and the true answer will likely never be known, as Satoshi Nakamoto’s true identity may never be revealed. Until that ever happens, this theory is among the most convincing yet.

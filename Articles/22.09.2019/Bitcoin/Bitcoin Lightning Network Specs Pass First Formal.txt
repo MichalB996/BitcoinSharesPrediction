@@ -1,0 +1,51 @@
+DATE:  22.09.2019, 09:11:12
+TITLE: Bitcoin Lightning Network Specs Pass First ‘Formal’ Security Test
+URL:   https://www.coindesk.com/the-specs-behind-bitcoins-lightning-pass-their-first-formal-security-test
+
+A pair of researchers have released the results of a formal verification of bitcoin’s lightning network.
+
+Lightning is new(ish), experimental, and bugs that could lead to loss of user funds are still being discovered. But even so, the paper – released last month by researchers Aggelos Kiayias and Orfeas Litos from The University of Edinburgh. Kiayias is also the chief scientist for blockchain firm IOHK – brought a dose of good news on the underlying security of the nascent payment network.
+
+To date, lightning hadn’t been tested mathematically by way of formal security, which is a means of establishing how secure a computer science idea is with the help of mathematics. The paper — “A Composable Security Treatment of the Lightning Network” — describes the lack of formal verification for lightning’s code specification “a dire state of affairs” since lightning is today used to secure real money — at least $8.5 million.
+
+The paper explains:
+
+“As a result, our treatment delineates exactly how the security guarantees of the protocol depend on the properties of the underlying ledger.”
+
+The process by which they did this is known as formal verification. While it’s a popular in the cryptocurrency space and helpful for determining the security of code, “formal security” is not done on every code program. Because of the deep knowledge required, it’s quite expensive.
+
+‘Rock-solid’ specification
+
+The results are positive, showing that the underlying cryptography piled together to make the payment system work is sound, the researchers argue.
+
+“All the security-critical parts of the system are rock-solid. This was the expected result – many smart people have collaborated to converge to the current incarnation of lightning network,” Litos told CoinDesk.
+
+What does that mean exactly? Litos and Kiayias took a look at lightning network’s specifications, which are the rules every lightning software implementation needs to be able to send payments to the rest of the network.
+
+Litos told CoinDesk:
+
+“The main result is that lightning network is as secure as bitcoin.”
+
+To determine this, they took a look at the nitty-gritty cryptography that underpins lightning. Cryptography is composed of mathematical algorithms which provide the basis for privacy and security on the internet. In lightning, cryptography is the glue holding the payment system together, with the final result of allowing a person to send bitcoin to another.
+
+So, the researchers look at these various cryptographic technologies that underlie lightning, including digital signatures, which in the case of bitcoin can only be produced by a user with the correct bitcoin private key.
+
+“An honest participant of lightning network can only lose their money if the signatures or the hash function used by bitcoin are broken,” Litos said, adding:
+
+“The use of a realistic underlying ledger allowed us to pinpoint the exact security bounds for the lightning network operating parameters. Specifically, we provide a concrete answer to the question ‘how often a lightning network user has to check the blockchain, especially when a multi-hop payment is under way?'”
+
+Specs not software
+
+While the specification verification is an important step, it only applies to the code blueprint of lightning and not the software implementations that have been produced by developers.
+
+While the paper argues that the lightning network is “as secure as bitcoin,” that doesn’t mean that the software itself is safe. That might sound like a subtle distinction, but there’s a big difference.
+
+There are three main lightning network implementations which follow the specs: Acinq’s Eclair, Blockstream’s c-lightning, and Lightning Lab’s lnd.
+
+“Our analysis is based on the formal specification, not an implementation. As a result, our work does not rule out bugs in the various implementations, only in the specification,” Litos said.
+
+That said, Litos noted that future formal analysis could eventually be used to take a look at the actual code.
+
+“Ideally, formal verification of the code, which would prove that it matches the specification, would increase our trust to the system. But before that, a machine-readable version of the specification would be needed,” he said.
+
+Keys image via Shutterstock

@@ -1,0 +1,43 @@
+DATE:  09.08.2019, 17:46:50
+TITLE: Dash Claims “Better Than Bitcoin” Security
+URL:   https://cryptobriefing.com/dash-chainlocks-bitcoin/
+
+Business Dash Claims “Better Than Bitcoin” Security by Paddy Baker
+
+And adds a greater number of use cases.
+
+Share this article
+
+The Dash (DASH) network is now more secure than Bitcoin (BTC), according to several executives of the core team. An upgraded consensus protocol and instant-by-default transactions are expected give Dash significant advantages in user experience and the network’s utility.
+
+Known as LLMQ-based ChainLocks, the upgrade uses masternodes to ‘lock’ new blocks, thereby preventing network forks or double-spends. Each successful block becomes immutable as soon as it is broadcast, making its transactions irreversible.
+
+According to Fernando Gutierrez, Dash Core CMO, ChainLocks make 51% attacks and reorgs prohibitively expensive. “We don’t think that it makes sense to measure security in terms of hashing power, but in how much it would cost to make a successful attack,” he explained. “With that criteria, Dash is the most secure blockchain.”
+
+Combined with LLMQ-based InstantSend transactions, ChainLocks allow Dash transactions to settle in seconds, allowing recipients to spend tokens as soon as they are received. Gutierrez believes this improved functionality will improve adoption as well as open up whole new use-cases.
+
+One such area is remittances. “By being able to instantly re-spend the funds that you receive,” Gutierrez said, “things like remittances can be done with seconds’ notice, which is unthinkable with other remittance methods.”
+
+It also plays right into Dash’s main userbase, which includes struggling economies such as Venezuela as well as migrant workers looking to send money to their home countries. Although still difficult to buy, Dash effectively provides a cheaper and faster alternative to traditional remittance solutions, like Western Union or MoneyGram.
+
+Dash is not the only proof-of-work blockchain to offer improved network utility. Competing projects like Bitcoin Cash or Satoshi’s Vision have attempted faster transactions through measures like larger blocks or 0-conf transactions, but with mixed success.
+
+Although advocates say larger blocks vastly improved scalability, a BitMEX report recently found BSV nodes struggling to cope with larger block-sizes. As a result, nodes ended up on different chains, at different heights. The network had effectively forked, threatening the overall security of the blockchain.
+
+According to 420 Bitcoin SV peers, the nodes are currently on different chains and at different heights: * 65% at the current tip
+
+* 17% stuck on a large 210MB block
+
+* 19% on the old pre-hardfork chain pic.twitter.com/hO98lFX9Zw — BitMEX Research (@BitMEXResearch) August 3, 2019
+
+“Better Than Bitcoin”
+
+Fully implemented in early July, Dash Core says they have not yet seen any protocol that really compares to ChainLocks. Gutierrez points out that while some projects, including Bitcoin, rely on implemented checkpoints at preset intervals, ChainLocks is “vastly superior” because it happens in “a completely decentralized and secure way.”
+
+ChainLocks may sound like a boring backend improvement, but it adds a new layer of security notably absent from other blockchains.
+
+“It doesn’t matter if someone is mining a longer chain in secret in a 51% attack,” Dash Core CEO Ryan Taylor told Crypto Briefing in an earlier interview. “Someone could have 99% of the network power, but if anyone else publishes their block first, the chain becomes invalid.”
+
+While Bitcoin may have the most mining clout, ChainLocks gives Dash a unique security and usability advantage. “This level of network consensus can be reached extremely quickly and reaches, I would argue, better than bitcoin security in four to six seconds,” he added.
+
+Additional reporting by Andrew Ancheta.

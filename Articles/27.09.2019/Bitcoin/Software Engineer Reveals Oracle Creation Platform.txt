@@ -1,0 +1,35 @@
+DATE:  27.09.2019, 07:53:20
+TITLE: Software Engineer Reveals Oracle Creation Platform for Bitcoin Cash
+URL:   https://news.bitcoin.com/software-engineer-reveals-oracle-creation-platform-for-bitcoin-cash/
+
+Software Engineer Reveals Oracle Creation Platform for Bitcoin Cash
+
+On September 23, Bitcoin Cash (BCH) developer Gabriel Cardona revealed a project called Oracles.cash, a platform he constructed at the Wyohackathon. The application allows anyone to launch oracles on the BCH chain for things like prediction markets, trust-less wagers, and BCH contracts tethered to real-world events.
+
+Also read: Bitcoin Cash Acceptance and Community Growth Ramp Up
+
+BCH Developer Launches Oracles.cash: Verifiable Multi-Sourced Facts
+
+This week the BCH software developer and the creator of Bitbox, Gabriel Cardona, announced the launch of a new project he designed at the Wyohackathon in Wyoming. Oracles.cash is a platform for launching oracles on the Bitcoin Cash blockchain, Cardona told the BCH community on Monday. Essentially, blockchain oracles are external elements that can trigger decision-based transactions. The idea lets someone program a contract tied to the prices on the New York Stock Exchange, weather updates, game scores, and if something reaches a predetermined threshold.
+
+Currently, there are a few oracle projects that use different networks with projects like Chainlink, Augur, and Gnosis. Cardona and other Bitcoin.com software engineers have been steadily working on finishing oracle.bitcoin.com, a resource which aims to empower BCH cash contracts with Bitcoin.com’s oracle services. After the Wyohackathon, Cardona released oracles.cash so developers can possibly use the resource for the upcoming SLP Virtual Hackathon.
+
+“I’m very excited to announce my personal Wyohackathon project—Oracles, a platform for launching oracles on Bitcoin Cash — The code is 100% open source under the MIT License,” Cardona detailed on Reddit. “Oracles consists of a backend REST API for serving up data, signed by a price oracle, to be consumed by cash contracts and it also includes the Hodl Vault Cash Script contract and a .ts file needed to transpile and run Hodl Vault,” Cardona added:
+
+The REST API calls our BCH price index, encodes the block height and BCH/USD price into a byte sequence of 8 bytes (4 bytes per value), signs it with a pubkey and returns it all as JSON. Hodl Vault contract forces hodling until a certain price target and block height have been reached.
+
+The Future of Predictive Markets on Bitcoin Cash
+
+Oracles have been a popular subject lately as the crypto community has recently been watching the Chainlink project, a network that claims to provide reliable tamper-proof inputs and outputs for complex smart contracts on any blockchain. Other projects like Augur and Gnosis had similar hype when they launched, but both projects have felt the burn from the crypto winter. Chainlink, however, has jumped more than 1,000% in value since the initial ICO two years ago.
+
+Oracles on the BCH chain have been discussed for some time, especially when oracles can be aided by opcodes like OP_Checkdatasig and Bitcoin Cash’s 32MB blocks. Oracle.bitcoin.com gives a comprehensive summary of how individuals and organizations can use BCH oracles to monitor personal goals, track sports results, oversee the latest news with an RSS feed, and monitor code commits and pull requests tied to repositories. The sky’s the limit with oracles tethered to a certain subject, and when coupled with some passionate spirit, BCH developers can design some innovative ideas. Fans of oracles think the future of predictive markets can be constructed more efficiently using script-based contracts on the BCH network.
+
+The oracles.cash repository says that oracles.cash can essentially allow external information to be provided which can trigger executions written in cash contracts. Oracles.cash is a simple template for easily spinning up a backend to publish oracle data. It’s also an example of a Bitcoin Cash smart-contract which consumes data from the oracle service. Software engineers can also find more resourceful tools at developer.bitcoin.com for things like Cash Script, Simple Ledger Protocol (SLP) software development kit (SDK), Bitbox SDK, and the Badger wallet SDK. After the announcement on Monday, BCH proponents were pretty thrilled about Cardona’s oracles.cash unveiling.
+
+“I can tell this is great news about the functionality we have all been looking forward to having available,” the Reddit user u/big_bubbler remarked. “Now people can take this raw power and make user-friendly stuff from it and step by step the amazing future for Bitcoin Cash approaches.”
+
+What do you think about oracles.cash? Let us know what you think about the subject of oracles on the BCH chain in the comments section below.
+
+Image credits: Shutterstock, Gabriel Cardona, oracle.bitcoin.com, and oracles.cash.
+
+Are you a developer looking to build on Bitcoin Cash? Head over to our Bitcoin Developer page where you can get Bitcoin Cash developer guides and start using the Bitbox, SLP, and Badger Wallet SDKs.

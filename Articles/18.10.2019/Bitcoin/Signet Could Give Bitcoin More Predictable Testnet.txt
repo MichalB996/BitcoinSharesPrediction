@@ -1,0 +1,49 @@
+DATE:  18.10.2019, 16:05:45
+TITLE: Signet Could Give Bitcoin More Predictable Testnet
+URL:   https://bitcoinmagazine.com/articles/signet-give-bitcoin-stable-predictable-testnet-option
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+What’s better than the current Bitcoin testnet? A testnet that is highly predictable. This is the goal of the Bitcoin signet, a new sort of testnet proposed by Karl-Johan Alm, for which the one-word description would be “stable.”
+
+What Is a Testnet?
+
+Bitcoin developers need a place to test things out. That’s why we have two “versions” of Bitcoin: the mainnet (where everything is real and the coins have value) and the testnet (which mimics the mainnet but the coins have no actual value).
+
+The fact that the coins on the testnet are supposed to be worthless brings us to its first problem.
+
+Testnet Bitcoin, like mainnet Bitcoin, is based on a proof-of-work (PoW) consensus mechanism. And one needs to spend real resources (“do work”) to mine the blocks. Why would people do that on the testnet when the coins they mine can’t be sold or spent? The altruistic basis of the testnet brings a ton of variables that don’t exist on Bitcoin’s main chain into play.
+
+The fact that testnet blocks are mined by volunteers means there are two big trade-offs when it comes to reliability. One is variancy in the block intervals (this may change from seconds to hours or even days); second are the reorgs (a few thousand-block reorgs have happened in its history). The block interval variance mostly represents changes in the difficulty adjustment or miners plugging in and out of the network, changing its hash rate. It represents the high variance of blocktime intervals as shown in the chart below.
+
+Figure 1: Testnet’s block interval (10 block average) for the last 20,000 blocks. The variancy of block interval is high.
+
+With all of these variables, testing solutions like the Lightning Network can make the developers’ lives harder. They have to make decisions about what is failing: Is it a problem with the testnet protocol itself or the application being tested?
+
+Regtest
+
+Then there is a private version of the testnet for individual developers: regtest. This is a sandboxed test environment, which means that it doesn’t have any connection to the outside world from its container, and all of the connections are set up manually. The developer has all of the control over the regtest test environment, from spinning up nodes and connecting them through mining the blocks and making manual reorgs. Due to its sandbox-like behavior, it only allows some types of tests, mostly automated ones under specific conditions.
+
+For regtest, the user doesn’t even have to be connected to the internet in order to play with it. Regtest can’t play the role of the public testnet, however, as users would have to ask the specific regtest administrator to spin the nodes for them, assign permissions and access.
+
+If one could mimic the stability of regtest, but in a public, decentralized environment, that would be the next evolution of testnets.
+
+Signet
+
+Signet is a new type of Bitcoin test network, proposed by Alm. Its most significant trait? Total consensus centralization. Instead of a decentralized network of miners, the Bitcoin signet has a dedicated entity or group with the authority to create new blocks based on valid signatures.
+
+Due to one or multiple block signers, it can achieve a very stable environment without the sandbox-based trait of a regtest environment. New signets can be spun up by parties interested in running it with specific parameters (like for testing sidechains), including the block intervals and planned reorgs. While classic testnet performance relies on the hash power connected to it, the Bitcoin signet relies only on the centralized admin(s) to produce the blocks, therefore, the behavior of the signet is much more predictable and simulates the mainnet with more accuracy, as seen in the chart below.
+
+Figure 2. Signet’s block interval (10 block average) — entire history (~8,000 blocks), small block interval variance.
+
+The signet still relies on PoW but also on a person creating the key pair (private/public key) that automatically spins a signet up in order to mine blocks. The signet proposal states that the person who spins up the default signet should be “someone sufficiently trusted in the community, who would be willing to run the system (block generation code, faucet, etc).” It’s important to point out that the signet signer would still have to do some PoW operations, but with a small difficulty target, so the block’s header will have a valid PoW.
+
+This admin account allows for the option of creating a multisignature scheme in order to mitigate single points of failure, so instead of one person that takes care of a default signet, it can be a group m of n key holders.
+
+Upon the signet genesis and with every block mined, the admin would have to distribute mined signet coins to the parties interested in using it. In a traditional testnet, this job was the task accomplished by PoW miners.
+
+Because testnet coins are supposed to be worthless, the default testnet was reset twice in its history, enforcing the rule of it being only the public test environment. Since the signet is a totally centralized network, its consensus proposal wouldn’t make sense (indeed, it would be completely unacceptable) on the Bitcoin mainnet. In this case, centralization is totally acceptable for the purpose of it functioning as a test network.
+
+Currently, the default “signet” exists with its own block explorer and faucet, which allows for the distribution of the coins. The informational BIP about this network is still in the draft phase at the time of writing.

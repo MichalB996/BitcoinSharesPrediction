@@ -1,0 +1,37 @@
+DATE:  15.02.2019, 17:01:03
+TITLE: Bitcoin Cash-Focused Ifwallet Implements Cash Accounts Name System
+URL:   https://news.bitcoin.com/bitcoin-cash-focused-ifwallet-implements-cash-accounts-name-system/
+
+Bitcoin Cash-Focused Ifwallet Implements Cash Accounts Name System
+
+Last month, on the 10th anniversary of the Bitcoin genesis block, Bitcoin Cash (BCH) developer Jonathan Silverblood launched his Cashaccount.info platform. The Cash Accounts platform allows users to tether human-readable names to BCH addresses in order to make payments easier. Now the Chinese BCH light client Ifwallet has become the first public wallet with Cash Accounts sending support.
+
+Also Read: Bitcoin’s Social Contract Must Be Resilient to the Whims of Future Generations
+
+Ifwallet and Cash Accounts
+
+Bitcoin addresses are long strings of numbers and letters, a format that to some users can be nerve-racking and cumbersome. Over the last few months, BCH software programmer Jonathan Silverblood has been working on a project that helps bypass some of the friction associated with BCH addresses. He’s created Cashaccount.info, a platform that allows users to register a one-time human-readable name that is tied to a BCH public address. News.Bitcoin.com tested the application on January 2, the day before the official launch on Bitcoin’s 10th birthday. The platform hashes a name into the BCH blockchain by using an OP return transaction and after the transaction is registered into a block the name will be validated.
+
+When Silverblood first launched the project he also mentioned that he had been reaching out to wallet developers so they could possibly support Cash Accounts in the future. The Cashaccount.info website shows that the programmer has discussed the idea with Electron Cash, Edge, BRD, Bitcoin.com, Stash, Ledger Wallet and more. On Feb. 14 the Cash Accounts founder explained that the Chinese cryptocurrency light client Ifwallet has added support for the name address system within the sending interface.
+
+“Congratulations to Ifwallet for releasing the first public wallet with Cash Accounts sending support,” Silverblood stated on Thursday.
+
+The developer continued:
+
+When you go to send you can now type in a Cash Accounts name and if they have compatible payment information in them they will show up in a dropdown list.
+
+Experimenting With Ifwallet and Cash Accounts
+
+Ifwallet is a cryptocurrency wallet with a focus on bitcoin cash and provides users with a secure asset management tool for token support. The mobile wallet is backed by investors such as Coinex and is partnered with projects like Johnwick.io, Viabtc, BCH Club, and Wormhole. Ifwallet also supports the Wormhole project by implementing WHC integration and incorporating the token factory. Recently the Ifwallet project launched the decentralized applications (dapp) store module and deployed a variety of dapps that can be used with the wallet.
+
+On Feb. 15, news.Bitcoin.com tested the Ifwallet application and the client’s speed was similar to using the Japanese Yenom wallet. The wallet makes you create a six-digit PIN to access the interface but biometric settings like Apple’s Face ID/Touch ID can also be set up. The wallet doesn’t compel you to back up the wallet’s mnemonic phrase immediately and there is a warning message displayed until this part of the process is complete. I sent 0.00041575 BCH – or a nickel – to the Ifwallet, without realizing there was an identical amount of BSV attached to the BCH. The Ifwallet split the transaction into two and my wallet ended up with 0.00041575 BSV as well.
+
+After the transaction confirmed, I simply used Silverblood’s directions and sent money to the Cashaccount.info name “Jamiecrypto#116.” The transaction immediately showed a sent transaction to the Cash Accounts name and the process was much simpler than copy and pasting an alphanumeric string to use as an address. Overall the application worked well and if more wallets integrate this feature it would likely make sending and receiving easier for newcomers. However, some people will definitely take issue with reusing addresses and may not find the Cash Accounts payment system compatible with efforts toward financial privacy.
+
+What do you think about Ifwallet implementing Cash Accounts support? Do you think concepts like Cash Accounts is a good idea? Let us know what you think about this subject in the comments section below.
+
+Disclaimer: Readers should do their own due diligence before taking any actions related to the mentioned companies or any of its affiliates or services. Bitcoin.com and the author are not responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article. Neither Bitcoin.com nor the author is responsible for any losses, mistakes, skipped steps or security measures not taken, as the ultimate decision-making process to do any of these things is solely the reader’s responsibility. This editorial is for informational purposes only.
+
+Image credits: Shutterstock, Ifwallet, Bitcoin.com’s Block Explorer, and Cashaccount.info.
+
+Need to calculate your bitcoin holdings? Check our tools section.

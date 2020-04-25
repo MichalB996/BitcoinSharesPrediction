@@ -1,0 +1,43 @@
+DATE:  04.03.2019, 02:55:45
+TITLE: An In-Depth Look at Ethereum's Maker and Dai Stablecoin
+URL:   https://news.bitcoin.com/an-in-depth-look-at-ethereums-maker-and-the-stablecoin-dai/
+
+An In-Depth Look at Ethereum's Maker and Dai Stablecoin
+
+Since tether (USDT) bolstered the idea of a working stablecoin over the last few years, there’s been a variety of different types of stable cryptocurrencies that are usually pegged to the U.S. dollar. However, there’s one particular stablecoin that’s been a hot topic of discussion lately called dai, a coin that’s backed by ethereum locked into a smart contract.
+
+Also read: Payglobal Provides Cryptocurrency to Fiat Transfers With Existing Bank Cards
+
+Maker and Dai
+
+The following is an overview of how dais are created within a network called the Maker DAO and why some cryptocurrency enthusiasts seem to like the concept better than its fiat alternatives. But there’s also a slew of critics who dislike the Maker project for a multitude of reasons that could theoretically hurt a few individuals’ dreams of the perfect stablecoin backed by crypto assets.
+
+The Ethereum network has a popular decentralized autonomous organization (DAO) called Maker, which is now well known for creating a cryptocurrency-backed stablecoin called dai. The Single-Collateral Dai (SCD) system, launched in December 2017, allows anyone to leverage their ETH in order to create a stablecoin that keeps price valuation down to around $1 most of the time. Over the last 14 months of operation, the Maker DAO has become the most popular Ethereum-based system in 2019. At the time of publication, there’s more than 1 percent of the entire ETH supply in circulation locked up into the Maker system as there’s 2.1 million ETH used as collateral.
+
+The Maker team consists of CEO Rune Christensen, CTO Andy Milenius, President Steven Becker and roughly 18 other leaders. The community is relatively small but has been growing since the project’s inception. Maker and the stablecoin dai community have a blog, a chat forum, and its own subreddit where individuals discuss the nascent ecosystem. At press time, dai is ahead of the stablecoin GUSD with the 55th largest market capitalization of around $89.3 million.
+
+There are two fundamental differences between Maker’s dai and other stablecoins like USDC, GUSD, and USDT. For one, dai is not backed by fiat reserves held in a bank like a great majority of its stablecoin peers. The other difference is that fiat systems are collateralized by the company’s word and third-party audits while the transparency of dai can be seen onchain at all times. Basically, dai holds stability because ETH is locked into a contract used in a system called a Collateralized Debt Position (CDP). A user wanting to acquire dai sends the ETH to a CDP and can withdraw dai from there.
+
+However, the collateralization ratio uses a method called overcollateralization (OC), which helps lower the system’s exposure to risk and keeps the credit (dai) through Maker’s autonomous feedback mechanisms. OC requires more funds than a typical dollar for dollar trade in order to obtain dai. The ratio of ETH collateral needed in order to acquire dai is fixed at 1.5:1 at all times, but users can purchase dai on the open market too.
+
+Critics of Maker, Overcollateralization, and a Stablecoin Unmediated by the Legal System
+
+Maker and dai have become a popular subject among cryptocurrency supporters largely because some people like the concept of a liquid stablecoin for certain use cases as well as the idea dai is backed by crypto. However, there are some critics of the Maker protocol and the dai stablecoin it produces. Some skeptics believe the project could fall victim to the same scenario that happened to the Ethereum network’s first DAO which saw the loss of $50 million in June 2016. At the time, users exploited the DAO’s code enabling them to take one-third of the DAO’s funds to a subsidiary account. Another critique of Maker DAO explains that the OC scheme and paying the contract back with the equivalent amount of dai is well known. However, what the organization hasn’t explained yet “is that you also need to pay a stability fee in MKR,” Bennett Tomlin said last June.
+
+“Also [dai] cannot always be collateralized in excess, because if there is a black swan event that destroys the value of ethereum that is no longer true,” Tomlin’s research details.
+
+Tomlin’s study called a “Deep Look at Maker DAO and Dai and MKR” adds that the Maker’s creators explain in the white paper that in the event of a “black swan” crash the organization will dilute the “pooled ether.” The author’s post explains, “Why someone would trust this, I do not know — The developers are obviously aware of this risk, but it seems to be ignored.” Tomlin’s report also details that the biggest hurdle for the Maker team is the government-specific entities that regulate the U.S. financial activities. “Better watch out for the SEC, the CFTC, and the rest of the alphabet soup,” Tomlin warned.
+
+A Multi-Collateral Dai and Other Chain’s Creating a Stablecoin
+
+Despite some concerns, the Maker DAO continues to rake in lots of ethereum in order to create the world’s first working consumer-grade stablecoin based on the collateralized crypto assets. The project’s roadmap calls for a Multi-Collateral Dai system which will at some point be able to collateralize the dai stablecoin with other cryptocurrencies. On Nov. 6, 2018, the development team detailed that the code for Multi-Collateral Dai was published and contracts have been deployed to the system’s testnet.
+
+Additionally, there has been talk of other cryptocurrencies following suit with the dai idea. Just recently the Bitcoin Cash (BCH) community discussed the creation of a stablecoin built on the BCH chain. The BCH network has been recently experimenting with token creation but something like dai on BCH would require some different elements. By and large, the Ethereum community seems to appreciate the Maker protocol and dai stablecoin and so far it has brought some more traction toward that ecosystem.
+
+What do you think about the Maker protocol and the dai stablecoin? Let us know your thoughts on this subject in the comments section below.
+
+Disclaimer: This article is for informational purposes only. Bitcoin.com does not endorse the Maker DAO or dai stablecoin. Readers should do their own due diligence before taking any actions related to the mentioned companies, creators, associates, or any of its affiliates or services. Bitcoin.com and the author are not responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.
+
+Image credits: Shutterstock, Maker DAO, Dai, Makerscan.io, and Pixabay.
+
+Need to calculate your bitcoin holdings? Check our tools section.

@@ -1,0 +1,95 @@
+DATE:  17.01.2020, 15:57:39
+TITLE: Review: HTC Exodus 1s Full Bitcoin Node Smartphone
+URL:   https://bitcoinmagazine.com/articles/review-htc-exodus-1s-the-full-bitcoin-node-smartphone
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+When it launched during The Lightning Conference in October 2019, HTC’s Exodus 1s smartphone took on the ambitious mission of endowing Bitcoiners with a device that delivers the security of a hardware wallet and the privacy and sovereignty of a full Bitcoin node.
+
+At a retail price of 219 euro (approximately $245), plus shipping tax, the device is more affordable than a Casa Node and twice as expensive as a Ledger Nano X hardware wallet. Weighing less than 6 ounces and sporting a shiny 5.7-inch screen, the HTC Exodus 1s is also the most portable full node solution available for retail. But is it really the ideal, all-in-one device to replace all of your Bitcoin-related items?
+
+For more than a month, I tested the HTC Exodus 1s under various conditions to highlight both its hardware and software capabilities. The results were rather promising but still leave a lot to be desired from the perspective of a “Bitcoin power user.” Correspondingly, the next sections of this review will focus on the pros and cons of the first full node smartphone on the market. Ultimately, this review should provide useful insight that can benefit potential buyers — and also provide some feedback for HTC.
+
+What’s in the HTC Exodus 1s Box?
+
+As soon as you peel the plastic foil off of the HTC Exodus 1s’s plain white box, you are greeted by the core element of the packaging: the black and glossy phone. In terms of appearance, the HTC Exodus 1s looks a lot like a standard iPhone. However, the body is made of plastic, the screen is a 5.7-inch LCD, the Face ID infrared notch is replaced by a fingerprint scanner and the dual cameras are replaced by a single one. All of these adjustments have been made in order to reduce the costs of the HTC device, but otherwise the design is attractive and the feeling of holding the phone in your hand is pleasant. Compared to an iPhone, you can also maintain a better grip, as the build feels sturdy and not as slippery as Apple’s flagship device.
+
+The accessories provided by HTC include a charging cable (micro USB-A), with a power plug that corresponds to your region, and a set of earphones. In the box, you will also find user manuals in multiple languages, a Zion-branded card that can be used to write seed keys, a couple of HTC badges, a pin which helps you open the SIM card tray and multiple HTC Exodus stickers.
+
+The HTC Exodus 1s as a Smartphone
+
+Out of the box, the HTC Exodus 1s is a rather basic Android device whose features are pretty standard for an entry-level to mid-range smartphone from 2019. It has a slick design, sports two 13-megapixel cameras (one in the front for video calls and selfies, and the other one in the back), is driven by the four-year-old Snapdragon 435 octa-core processor and boasts 4 gigabytes of RAM (for reference, the first-generation Casa node has only 2 gigabytes). The specs are toned down from the original Exodus 1 — but given the difference in price (the 1s is one-third as expensive), it makes sense to cut down on hardware expenses.
+
+In order to review the phone, I’ve used it for two weeks on a daily basis. Excluding any of the Bitcoin-related features, it functions very well and gets the job done for calls, emails and messaging applications. When used for these purposes, the Exodus 1s didn’t have any issues with slow loading times or laggy switching between apps.
+
+The Android 8.1 Oreo operating system may be two generations behind the flagship standard, but it is still pretty smooth. Compared to Apple’s iOS, it has a less intuitive interface to opt-out from microphone, location and camera access — options that many Bitcoiners will want to leverage. But once you get the hang of it and remove the device from the Google panopticon, it’s really easy to use. On the plus side, the Orbot app can route all of your internet connections through Tor — which grants you great privacy. On the negative side, you can’t remove or replace the Google search bar from the home screen, and this is a constant reminder that you need to be cautious about your privacy.
+
+What I found particularly impressive about the HTC Exodus 1s is the battery life. In the first month of using it, I was able to recharge the device every 10 to 12 days. All of that time, the 1s was connected to WiFi and it served an email management role. It should be noted that no SIM card was inserted, and this lack of mobile network connection definitely saved battery. However, after the full node was synced, the battery life reduced significantly, lasting only one full day (as the relaying takes up RAM and processing power).
+
+On the other hand, the cameras are below average for 2019/2020 standards: They take time to focus, they don’t capture colors that look especially vivid and they lack some features that photography enthusiasts find useful on flagship Android devices and iPhones (such as portrait mode, night mode, shutter time, live pictures and Animojis/Memojis). However, there are plenty of applications that can improve the quality and aesthetic of pictures through filters and advanced options. Also, it’s unlikely for anyone to have high photographic expectations from a $245 phone or to purchase a Bitcoin-friendly device for its camera.
+
+Before Syncing the Full Node: HTC’s Zion App
+
+The full Bitcoin node is definitely the most unique feature and the primarily selling point of the HTC Exodus 1s. But in order to proceed with the initial block download, you must first fulfill two conditions: Acquire an SD card that can store more than 260 GB of data (there are 400 GB and 512 GB options, both of which are available for about $100 in most electronics stores), and conduct the download through HTC’s Zion application.
+
+While the former prerequisite is reasonable (the phone only has 64 GB of storage, which means it can only accommodate a pruned node), the latter limits the possibilities involved in a process that should be about liberation and financial sovereignty. Zion, the phone’s proprietary application, serves as a wallet and a dashboard for your full node. Therefore, in order to start downloading and validating the entire history of bitcoin transactions, you must comply with HTC’s privacy policy and accept the inclusion of some features and the lack of others.
+
+For instance, the Zion wallet is not Bitcoin-only and even has dedicated menus for DApps like Maker and Augur, and collectibles like CryptoKitties and Etheremon. The inclusion of these extra features may only be disappointing from a toxic maximalist perspective (where anything unrelated to Bitcoin will automatically be frowned upon), but it does prove that HTC’s main efforts to develop software for the phone were not Bitcoin-centric.
+
+The Zion app includes features that are most likely inherited from the HTC Exodus 1 phone, and weren’t removed for this Bitcoin-centric release, including altcoin support and menus for DApps and collectibles.
+
+Also, the Bitcoin wallet itself lacks some very important features. It has no SegWit support and uses a single legacy address for all incoming transactions (which translates to higher fees and very poor privacy), and there is no way to manually set transaction fees (you only pick your time preference). Therefore, running your full Bitcoin node is definitely not the mobile equivalent of using Bitcoin Core on your computer.
+
+Overall, the ecosystem that HTC built to work with the integrated hardware wallet is underwhelming from a software point of view. While the idea of running a Bitcoin full node should involve more financial freedom to send and receive payments, HTC’s Zion app makes it feel constraining.
+
+Syncing the Full Bitcoin Node
+
+On most computers, synchronizing a full Bitcoin node takes about two or three days, depending on internet speed, hard drive reading and writing speed (it’s recommended to use an SSD) and RAM allocation. The HTC Exodus 1s has great specifications and should be able to download and validate all of the transactions on the Bitcoin blockchain in less than a week. However, my experience was different and it took 15 days to complete the process.
+
+Interestingly, I lost the first day waiting for the node to sync while I had Tor routing activated. As it turns out, this version of the software won’t allow the process to start if that feature is enabled — but after the synchronization was completed, Tor worked just like it should.
+
+I thought that the slow initial sync was a peculiar phenomenon, especially after I placed the phone next to a router in charging mode. Also, the back cover got noticeably warmer during this computation-intensive process. Another full node was being operated on the same Wi-Fi network, so the slow download was not caused by the connection itself.
+
+Furthermore, the device’s specs should be more than capable of a faster download. The phone is endowed with 4 GB of RAM, which makes it just as powerful as the Casa 2 and the Nodl One. Unfortunately, even at peak synchronization, the Zion software did not allow the phone to use more than 165 megabytes of RAM — a mere 4 percent of the device’s capacity. On average, the Exodus 1s only used 85 MB from its memory.
+
+While it’s understandable that the operating system requires a significant chunk of the memory to run and it’s important for the phone to remain operational during the initial synchronization of the Bitcoin node, it’s still strange to see that developers from HTC didn’t allocate more RAM for this process when the phone is in idle mode. There’s a missed opportunity there, as most Bitcoiners most likely won’t use the phone during the sync — or will at least leave it untouched for eight hours or so while they sleep, which poses a perfect opportunity for the software to bump the RAM allocation.
+
+The issue at stake is nothing that HTC can’t fix in a future update. Being able to do the initial sync with Tor turned on and allowing the phone to allocate more RAM for a faster sync would involve tweaks in the Zion app — hopefully something the company will work on in the future.
+
+The initial block download took 15 days, but hopefully this rate can be improved.
+
+Using the Full Node on the Exodus 1s
+
+After 15 long days, it was finally time to try some Bitcoin and Lightning applications. As previously mentioned, the built-in Zion app is underwhelming as a wallet (because it uses a single receiving address, doesn’t allow for UTXO management and doesn’t grant manual control for fees). There are better alternatives out there, such as Blockstream Green which offers lots of power user features in a simple and comprehensive user interface.
+
+However, the full node feature of the HTC Exodus 1s didn’t seem to work with anything outside of the Zion ecosystem. Unlike Bitcoin Core, Zion’s settings menu does not display options regarding specific connectivity and there is only a generic feature to allow incoming connections.
+
+The full node settings should be developed to include more connectivity and integration options in order to onboard Liquid and Lightning, or to simply switch to other wallets.
+
+My next attempt was to use the full Bitcoin node in order to onboard the Lightning Network. I’ve downloaded the wallets developed by Lightning Labs, ACINQ (both Eclair and Phoenix) and Nayuta, but none of them connected to the full node. Therefore, I was unable to run Lightning with the phone’s built-in and completely synchronized Bitcoin node feature.
+
+However, this state of Bitcoin node isolation is only temporary and is bound to change with future updates.
+
+“The full node is not designated to only work with the Zion app,” HTC Exodus Decentralized Chief Officer Phil Chen told Bitcoin Magazine. “The current limitation is because the Bitcoin data folder is under isolated storage in the Zion app, which cannot be accessed by other apps. We are working to support other apps in the future by exporting APIs from HTC Core.”
+
+New features for the HTC Exodus 1s are expected to be announced during the Bitcoin 2020 conference, which takes place in late March 2020 in San Francisco.
+
+“We have several exciting plans that we are looking to announce at Bitcoin 2020,” Chen added. “Please stay tuned!”
+
+Improvements to Be Made
+
+As noted above, I tested the HTC Exodus 1s for two months and it proved to be a great device for every task except the unique feature which might represent its main selling point — the full Bitcoin node. Though the node works well after the otherwise lengthy synchronization, at review time it was still limited to only functioning with the wallet provided by the Zion app.
+
+Ideally, HTC should create the mobile equivalent of Bitcoin Core with more features for dedicated Bitcoiners, such as full SegWit support and bech32 addresses, the ability to set fees manually, UTXO control for greater sending privacy, unlimited address generation for better receiving privacy, and integrations with wallets that support the Lightning Network. To maintain a focus on simplicity, easy ways to switch to specific apps that offer extra features could be added to the interface. For instance, for Liquid Network or Lightning, there could be added buttons that automatically download and link with Blockstream Green or Zap (or any Lightning wallet, for that matter).
+
+Another improvement that HTC must make involves RAM usage during the initial sync: 165 MB is definitely not enough for a speedy process and the amount should get bumped to 1 GB or more during moments when the phone is charging or is idling. This can also be an option that users can toggle on or off, as Bitcoiners will certainly understand that they must not touch the phone for a few days until the synchronization is complete.
+
+Optimizing the available 4 GB of RAM to make the initial sync faster should be a priority for future iterations of the HTC Exodus 1s.
+
+Also, replacing the Ethereum features (there’s even a search bar for Etherscan on the second home screen of the phone, and it can’t be removed by users) with Bitcoin ones would definitely be a step in the right direction, given the fact that the target audience consists of people who clearly understand the value proposition of Bitcoin and want to maximize their privacy, security and sovereignty.
+
+The HTC Exodus 1s offers a great value for the price and is a pioneering device in the Bitcoin space. However, in order for the device to truly satisfy the needs of Bitcoiners, it needs to provide more functionality and step outside of the rigid Zion ecosystem. Bringing integrations and ways to connect the full node to third-party applications is definitely a first good step, but optimizing Zion for newcomers to have more features is also a priority.
+
+Special thanks to Chen and HTC for sending the phone for review.

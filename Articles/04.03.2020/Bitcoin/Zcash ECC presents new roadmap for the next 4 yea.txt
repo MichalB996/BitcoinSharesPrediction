@@ -1,0 +1,29 @@
+DATE:  04.03.2020, 08:02:50
+TITLE: Zcash: ECC presents new roadmap for the next 4 years
+URL:   https://www.crypto-news-flash.com/zcash-ecc-presents-new-roadmap-for-the-next-4-years/
+
+The Electric Company has published a new “flight plan” yesterday, a roadmap for Zcash for the next four years.
+
+Developments over the next six months will focus on interoperability and ease of use in the area of shielded addresses and, in the longer term, on the scalability of Zcash.
+
+The Electric Coin Company (ECC), which is responsible for the development of Zcash, has presented a new mid-term roadmap. The tasks and goals within the roadmap are divided into three time horizons: 0 to 6 months, 6 to 24 months and 24 to 48 months. The longer the planning periods in these horizons, the less well defined the plans are and the more likely they are to change, as the ECC notes.
+
+The focus within the next 6 months will be on usability and interoperability of communities. A total of six developments and objectives are planned. One of them is the completion of a “fly client”, a light client for smartphones, which is not a full participant in the Zcash peers’ network, but sends and receives payments without having to store or validate a copy of the blockchain (ZIP-221). The goal is the implementation of ZIP-221 and an external audit for implementation.
+
+The second goal is the integration of shielded coinbase transactions. A Coinbase transaction is the first transaction in a block and contains the mining reward for the miner. Currently Coinbase transactions in Zcash can only contain transparent outputs, i.e. the block rewards can only go to transparent addresses. With this update the mining reward will be able to send to shielded adresses (ZIP-213). An audit is also planned after the implementation.
+
+Another goal is to enable RPC support for the viewing keys. This will enable exchanges to give external auditors insight into their shielded Zcash accounts. Furthermore, a testnet-in-a-box is to be developed, which will enable development teams to build a functioning, multi-level test network and invite other developers to join.
+
+The fifth goal for the time horizon of 6 months is the implementation of a prototype of Transparent Zcash Extensions (TZEs), which will simplify BOLT Layer 2 support and thus, among other things, ease Atomic Swaps. Furthermore, the ECC is working on improvements of the wallet SDK for shielded addresses for iOS and Android. Regarding this, the ECC writes:
+
+As we mentioned in the last livestream, we’re developing an internal-use wallet for both operating systems and learning a lot about wallet UX in the process. We’re currently alpha testing these wallets internally and excited to be open sourcing both the Android and iOS wallets before the end of Q2.
+
+Longer-term goals for Zcash
+
+Within the period of 6 to 24 months, the ECC gives top priority to the implementation of the new ZIP-1014, which reorganizes the distribution of the block rewards from November with the halving. From 2021 onwards, the scalability of Zcash is to become a major focus of development. This is a long-term initiative, with the current focus on research and development around Halo.
+
+Halo is intended to solve the biggest problem of the cryptocurrency: Until now, Zcash has required a trusted setup that confirms the zero knowledge proof. Halo could solve this problem by achieving a recursive proof composition, without knowledge and without the need for a trusted party.
+
+Over the next 2 to 4 years, the focus will continue to be on Layer 1 scalability and extending privacy across different bridging protocols, according to ECC. This is expected to allow Zcash to be used in DeFi applications, among others.
+
+Follow us on Facebook and Twitter and don’t miss any hot news anymore! Do you like our price indices?

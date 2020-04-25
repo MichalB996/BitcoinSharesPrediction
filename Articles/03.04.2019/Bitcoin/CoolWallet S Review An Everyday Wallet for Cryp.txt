@@ -1,0 +1,75 @@
+DATE:  03.04.2019, 21:05:57
+TITLE: CoolWallet S Review: An ‘Everyday’ Wallet for Crypto?
+URL:   https://bitcoinmagazine.com/articles/coolwallet-s-review-an-everyday-wallet-for-crypto
+
+Ring in the new bitcoin halving cycle the right way: with us!
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+The CoolWallet S, made by CoolBit X, combines hot and cold storage solutions, blending the mobility afforded by software wallets with the enhanced security features offered by hardware wallets. Branded as the “everyday wallet” for crypto users, the CoolWallet S is designed to be used on-the-go, allowing its users to track their investments, send and receive assets and instantly exchange currencies through Bluetooth-enabled, dual-device technology.
+
+The CoolWallet S retails at around $99. Unlike other hardware wallets on the market, its sleek design boasts not only the exact dimensions of a credit card, but also the durability of one. It claims to be waterproof, flexible and temperature resistant, as well as tamperproof.
+
+It offers a rechargeable battery that should last about a month and something called “2+1-factor authentication” — access through two devices plus biometric identification. Users can pair up to three devices with the wallet through an extra-secure Bluetooth connection.
+
+The CoolWallet S supports a wide variety of cryptocurrencies, including BTC, BCH, BNB, ETH, LTC, USDT, XRP, ZEN and ERC-20 tokens. It also integrates Changelly for instant currency swaps.
+
+Users interact with the device through a button located on its right-hand side and an e-paper screen, which displays the device’s remaining battery and a Bluetooth indicator when paired with something, allowing you to toggle between currencies to view the assets currently stored on it.
+
+Configuration and Use
+
+Overall setup should take about 10 to 20 minutes and seems fairly intuitive, with clear attention paid to the user experience through step-by-step instruction.
+
+Once you’ve downloaded the CoolBitX Crypto app to your mobile device and enabled your device’s Bluetooth, you can connect to your CoolWallet S by selecting the serial number that matches that of your card (found in the left-hand corner). A one-time password will appear on the e-paper that you then input into your mobile device to pair.
+
+Once paired, you will see an option to either recover or create your wallet, which is done by generating a new random set of seeds (with options of 12-, 18- or 24-word sets) through either the card or the app. You’ll then need to verify your seed phrase — the most tedious part of setting up any hardware wallet.
+
+You can pair up to three devices to your CoolWallet S by inputting the pairing password (located under the “pair” category of the app’s settings menu) to each new device when prompted, although the “allow new pairing” option must be enabled in order to add new devices. You can just as easily remove unwanted devices via a “device list” category in the settings.
+
+Although there is no PIN needed to access your funds, you can transact only if your CoolWallet S card is turned on and paired with your device. This is also where the 2+1-factor authentication comes in.
+
+(For full step-by-step instructions, check out the CoolWallet S user manual.)
+
+CoolWallet App
+
+Using the CoolWallet app is pretty intuitive. In the wallet tab, you can view your funds and easily add one of the cryptocurrencies supported by the wallet to the display by configuring the “coin display” option in the settings. Additionally, the wallet is fully integrated with Changelly, enabling trading capabilities within the safety of your cold storage wallet.
+
+Among the best features is the sliding transaction fee bar that allows you to increase or decrease the fee in accordance with desired transaction confirmation time. This sort of option is becoming increasingly common among crypto wallets.
+
+Security
+
+Almost all exchanges and wallet solutions at this point, and even your most basic password-protected accounts like Gmail, offer an auxiliary layer of security through 2-factor authentication (2FA). Seldom addressed, however, is the fact that many users still set up their 2FA for various accounts on a device that is also used to access their crypto assets via an exchange or a software wallet.
+
+It may be unlikely that a hacker could orchestrate a cyberattack that would prove successful, but SIM card fraud, or “SIM swapping,” remains a threat to token holders whose 2FA is enabled through a single device.
+
+The CoolWallet S’s approach to multifactor authentication protects against this vulnerability through dual-device authentication with an optional biometric authentication layer.
+
+The CoolWallet S’s use of Bluetooth as the channel through which the wallet enables access to funds in the app may make some people wary. After all, when Bluetooth was created in the ’90s, it wasn’t exactly designed with security in mind. So how do you know your funds are truly secure when transmitted using this technology?
+
+The Bluetooth communication between the CoolWallet S and smart devices is encrypted using military-grade Advanced Encryption Standard 256, or AES-256. In terms of data security, AES-256 is not only an internationally recognized algorithm, but it’s also used by the U.S. Department of Defense, the National Security Agency and other government entities for file storage. Even with extensive public and private testing, cracking an encrypted key of 256-bit length by brute force has not yet been proven possible. AES-256 is typically considered “best practice” when it comes to data encryption.
+
+Additionally, the transactions occur in mere milliseconds, so the probability of someone gaining access to the encrypted data being transmitted between your public and private keys that would enable them to successfully perform a side-channel attack is extremely unlikely. The Bluetooth connection itself will only be supported if your wallet is powered on and maintained within 10 meters of your device, meaning that the attacker would also have to be within the same range.
+
+The private keys for a CoolWallet S are stored in the CCEAL5+ certified secure element. External communication of the secure element is minimal, providing an added layer of security, and all other parts of the microware are subordinate to the secure element. So, not only is all data stored offline, but all necessary computations are performed by the secure element, meaning only non-sensitive data, or the results of these calculations, are transmitted between the card and your device.
+
+When evaluating the security of the key itself, it is important to consider the “randomness” of its random number generator (RNG). In the case of the CoolWallet S, because a hardware RNG is used, it is considered a “true” RNG.
+
+The patented “cold compression” design of the hardware is supposed to ensure that no one can gain access to the secure element without it being extremely obvious.
+
+The CoolBitX team said that it budgeted for extensive amounts of third-party security auditing. Additionally, the team said that “white hat” hackers from wallet.fail — computer security experts who conduct penetration testing — have tested the CoolWallet S and haven’t indicated any vulnerabilities — something they are usually eager to share.
+
+Pros and Cons
+
+For someone new to crypto, navigating the rather complex wallet solutions can often be daunting. The CoolWallet S offers a user-friendly product option.
+
+For any crypto wallet, whether it be hardware or software, security remains a primary concern among consumers, and of course, no product can promise 100 percent infallibility. Having said that, the security features in the CoolWallet S appear to be robust, and the fact that extensive amounts of penetration testing haven’t been able to identify security vulnerabilities is promising.
+
+However, as with virtually any product, there are some cons to consider.
+
+While the need to charge your device on a monthly basis isn’t terribly inconvenient, temporary loss of access to your funds would be inconvenient if, say, your card dies and you’ve lost your adapter. You can’t exactly pick up a replacement adapter at your local convenience store, so being able to cut the cord completely or compatibility with other charger types would be a nice feature.
+
+When sending and receiving transactions, you’re required to verify the transaction details on the card’s e-paper display. However, not all of the alphanumeric characters in the set are easy to decipher. It’s not a deal breaker, but it might take a minute to familiarize yourself with the symbols.
+
+Lastly, the code isn’t yet open source, though there are plans to make it so in the near future.

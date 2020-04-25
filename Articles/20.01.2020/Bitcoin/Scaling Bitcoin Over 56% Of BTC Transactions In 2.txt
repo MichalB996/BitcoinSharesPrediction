@@ -1,0 +1,32 @@
+DATE:  20.01.2020, 18:07:54
+TITLE: Scaling Bitcoin: Over 56% Of BTC Transactions In 2020 Use SegWit
+URL:   https://cryptopotato.com/scaling-bitcoin-over-56-of-btc-transactions-in-2020-use-segwit/
+
+Despite many criticisms against Segregated Witness (Segwit) since its implementation in 2017, the Bitcoin scaling solution continues to see an increased number of bitcoin transactions over the years.
+
+Segwit Sees Serious Increases
+
+Data from Segwit.space, a platform that monitors the adoption of Segwit, revealed that it had achieved a new landmark as the transaction volume on the protocol now amounts to over 56% of all transactions on the Bitcoin network.
+
+This is not the first time Segwit has recorded a significant increase in transaction volume. Data on the chart shows that the protocol saw a massive move from about 40% in September 2019 to near 60% the following month.
+
+Segwit’s adoption is quite commendable, considering that more than 35% of the total transaction volume on the network used it just one year after it was implemented.
+
+What Segwit Does
+
+Since the transaction confirmation time on the bitcoin network is slow, Segwit helps to increase the throughput of transactions on the blockchain by removing witness data from each block and encrypt them on sidechains. Over 60% of each block is made up of witness data; thus, Segwit believes that removing such information would increase the scalability of the bitcoin network. This is where the name comes from – segregated witness.
+
+Although it appears like a seemingly good idea to scale bitcoin and to reduce transaction fees, Segwit is still to see full adoption mainly because it is not a mandatory upgrade. This gives miners, cryptocurrency exchanges and wallet providers the option on whether or not to adopt the change. Then there is also the argument that removing the transaction data from the network is against the principle of Bitcoin and thus should be discouraged.
+
+On the upside, the data on the chart shows that crypto firms are buying the idea of Segwit and are implementing the change. Two of the largest organizations currently using Segwit are Gemini and Bitmex. It is believed that if the entire network adopts the Segwit protocol, then blocksize could potentially increase to about 1.7m.
+
+Enjoy reading? Please share:
+
+Binance Futures Limited Offer: Use this link to register & get 10% discount on fees (Exclusive to CryptoPotato).
+
+
+
+Click here to start trading on BitMEX and receive 10% discount on fees for 6 months.
+
+
+

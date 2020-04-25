@@ -1,0 +1,39 @@
+DATE:  13.11.2019, 14:53:44
+TITLE: LightningCashback: Replace Fiat Change With Bitcoin
+URL:   https://bitcoinmagazine.com/articles/lightningcashback-wants-to-replace-fiat-change-with-sats
+
+Ring in the new bitcoin halving cycle the right way: with us!
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+As bitcoin grows as a medium of exchange and Bitcoiners become all the more interested in stacking sats as part of their daily activity, services are popping up that merge the worlds of everyday, brick-and-mortar retail and the original cryptocurrency.
+
+LightningCashback is the latest iteration of this trend, created specifically to bring bitcoin into the retail experience and convert your loose change into sats.
+
+Pay With Fiat, Get Change in Bitcoin
+
+LightningCashback was developed as a proof-of-concept by a group of programmers (including Ruben Waterman, the founder of Dutch Bitcoin savings platform GetBittr, and a Bitcoin enthusiast known as 21isenough on Twitter) at Berlin’s Lightning Conference in October 2019.
+
+That’s where 21isenough was demo’ing his LightningATM prototype, which he had shared with the world via Twitter on September 8, 2019. The device merged brown cardboard with payment processor BTCPay Server and Lightning’s LND — and kicked off a conversation between the developers that led to yet another innovation.
+
+“We were discussing that the LightningATM is awesome for getting rid of coin change, which is still quite popular in Europe as the coins have quite a bit of value,” Waterman told Bitcoin Magazine. “We both prefer to pay in cash (for privacy reasons) but hate the coins.”
+
+But, what if we could twist the idea? Waterman wondered.
+
+During ChainHack4 — a small blockchain hackathon in Lisbon, Portugal, on November 8 to 10, 2019 — Waterman, 21isenough and three other developers devised a new way of turning fiat change into bitcoin. Why not have retail shoppers receive their pocket change as sats instead of coins?
+
+Lightning Nodes on a POS System
+
+Thus, LightningCashback was born: point-of-sale (POS) software that prints a QR code with receipts, allowing customers to scan and receive their change for a purchase in sats via Lightning after paying in fiat. 21isenough posted a video of the innovation in action on Twitter, along with a picture of a produced receipt.
+
+It uses lntxtbot, a Telegram bot and custodial Lightning wallet, to generate Lightning URLs and change can be claimed as sats via Bitcoin Lightning Wallet, Bluewallet or Wallet of Satoshi. Thus, you have two Lightning Nodes—the POS system and the user’s phone wallet.
+
+Although this product is a proof-of-concept, it has great potential. 21isenough said that the development team is working on expanding the solution’s compatibility with several POS systems, before potentially introducing it to retail businesses.
+
+“We plan to investigate further potential POS (point of sales) system that could be retrofitted with our solution,” 21isenough said. “Potential merchants wouldn’t want to migrate to a new POS system; hence, we would need to find ways to integrate into existing ones.”
+
+The Lightning Network is still young, but it’s growing gradually and this is not the only potential use case for greater retail adoption. Earlier this year, payment startup Fold announced an integration that allows users to buy gift cards that is redeemable at big-name retailers like Starbucks, Home Depot and Uber. Moon also launched a browser extension where it serves as an intermediary that allows shoppers to make Lightning payments on Amazon and similar sites.
+
+Beyond e-commerce, Lightning is also being used in gaming. As previously reported by Bitcoin Magazine, Satoshi Games released Lightnite, a multiplayer, third-person shooter game that only accepts Lightning payments. Lightnite is a freemium game that generates income through the sale of customization feature. However, unlike other games that accept credit cards and gift cards, Lightnite only accepts sats sent via the Lightning Network, allowing users to enjoy both the gaming and customization experience without exposing data linked to their identity.

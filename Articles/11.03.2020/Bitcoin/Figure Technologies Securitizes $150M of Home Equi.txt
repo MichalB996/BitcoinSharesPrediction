@@ -1,0 +1,72 @@
+DATE:  11.03.2020, 10:06:58
+TITLE: Figure Technologies Securitizes $150M of Home Equity Loans on Blockchain
+URL:   https://www.coindesk.com/figure-technologies-securitizes-150m-of-home-equity-loans-on-blockchain
+
+Figure Technologies has completed a long-awaited $150 million securitization of a bundle of home equity lines of credit (HELOCs), billed as the first such transaction in which all aspects of the process were managed on a blockchain.
+
+In other words, everything from the origination of the loans to the issuance of the bonds to the collection of borrowers' monthly payments is run on Provenance, Figure’s blockchain, according to the company. This distinguishes the transaction from most enterprise blockchain projects, which have either been demonstrations of the technology rather than live applications or touched just one piece of a complex process.
+
+As such, the bond issue may serve as a showcase for the benefits of distributed ledger technology (DLT) to businesses at a time when such use cases no longer generate the same buzz as five years ago. Corporate experimentation with the technology now tends to take place under the radar, with the word “blockchain” spoken in hushed tones, if at all.
+
+“While there are certainly other companies trying blockchain-based securitization, Figure's project is at minimum a notable and high-profile effort,” said Lewis Cohen, a principal at DLx Law, who was not involved in the transaction. “The future of securitization involves a level of detailed and accurate information about underlying assets that blockchain technology is well suited to provide.”
+
+U.S. brokerage Jefferies Group and Japanese financial giant Nomura managed the bond sale for Figure. The two-year-old startup has raised over $225 million at a $1.2 billion valuation, including a $103 million Series C funding round in November. It has drawn a spate of serious backers in the blockchain space, including Morgan Creek, Digital Currency Group, Foxconn’s investing arm HCM Capital, Rabbit Capital and MUFG.
+
+Blockchain's promise
+
+As it stands, securitization – the decades-old Wall Street practice of repackaging loans into bonds sold to investors – can resemble a Rube Goldberg machine. One company may take the consumer’s application (the “originator”); another may fund the loan (the “warehouse lender”); yet another will sell the securities to investors (the “underwriter”); still another will mail the monthly bills and dun late payers (the “servicer”). That’s a simplified version.
+
+By automating all these steps on Provenance, Figure says it can speed up the process and cut expenses.
+
+“It costs us significantly less to originate loans on blockchain,” said Mike Cagney, Figure’s CEO.
+
+For example, managing the information on one ledger can minimize errors, ensure those that do occur are caught and fixed sooner and eliminate fees for things such as transferring the loan between parties, according to Figure.
+
+“We don’t have to pay for boarding costs, loan defects, while reducing quality control expenses,” said Cagney, the former CEO of online lender Social Finance.
+
+Figure says it can approve a HELOC in five minutes and fund the loan in five days instead of the typical 30 to 60 days. The firm claims its technology could save $30 billion in costs for the $3 trillion annual securitization market if applied widely.
+
+That’s still a big if.
+
+A long haul
+
+There is still skepticism about the potential benefits of blockchain adoption in the traditional financial services space, where centralized systems are seen as more efficient.
+
+"Blockchain is really a bad way to do almost anything,” said Chris Whalen, chairman of Whalen Global Advisors and a longtime Wall Street analyst and investment banker. “A simple XML ledger is far more efficient. Using blockchain in finance is like learning Urdu to enhance enterprise security."
+
+And by all accounts, getting Figure’s first deal done was difficult. It’s been in the works since at least May 2019, when the company announced it had obtained a warehouse line from WSFS Bank to fund the loans, with an eventual securitization as the endgame.
+
+According to a Feb. 7 article in Asset-Backed Alert, a respected industry newsletter, the bond sale was originally scheduled for October 2019 but was held up due to a prospective rating agency’s concerns about the collateral, which included third liens. (Most HELOCs are second liens, meaning that in event of foreclosure, they wait in line to be repaid after the original mortgage lender; third liens, which are rarer and riskier, get whatever is left after that.)
+
+Figure denied the report (the firm is suing the publication) and Cagney said the main cause for the delay was the fact that auditors are not familiar with on-chain practices.
+
+DoubleLine buys in
+
+Unlike most securitizations, Figure’s was not rated by an agency like Moody’s or Standard & Poor’s, nor was it registered with the Securities and Exchange Commission (SEC). As an unrated private placement, the bonds would be more difficult to sell in the secondary market should the investors ever want to unload them.
+
+However, Figure did successfully sell the bonds to third-party investors: Jeffrey Gundlach’s DoubleLine for the $127 million of senior notes and Tilden Park Capital Management for the riskier $22 million subordinated tranche, according to a white paper from Figure. Previously, European financial institutions Santander and Societe Generale have issued bonds on the public Ethereum blockchain, but only to themselves.
+
+DoubleLine will be paid a 4 percent coupon on the senior bonds, which are expected to be paid down in three years. That’s more than three percentage points higher than the current yield on three-year U.S. Treasury bonds.
+
+Cagney said the pricing on the senior bond was on par with comparable products and the firm did not have to compensate investors extra for the novelty of a blockchain, which he said adds value.
+
+“There wasn't a premium we had to pay on the blockchain side,” he said.
+
+Next steps
+
+Provenance is different from the blockchains underpinning cryptocurrencies such as bitcoin.
+
+For one thing, it is “public permissioned,” meaning that while anyone can view the ledger, only authorized parties may write to it. No one needs permission to send a bitcoin transaction, and while mining on that network is an expensive undertaking, theoretically it’s open to all comers.
+
+Further, there are 12 nodes validating transactions on the Provenance network, and Figure would identify only one of the operators, mutual fund giant Franklin Templeton. Thousands of nodes run on the Bitcoin and Ethereum networks worldwide.
+
+Figure developed Provenance in-house, using the consensus mechanism of Hyperledger, one of the three main open-source enterprise blockchain platforms (the others being R3’s Corda and private versions of Ethereum).
+
+The firm aims to securitize another $200 million of HELOCs in the next four weeks and to issue its first student loan-backed bonds in the second quarter, according to Cagney.
+
+And if Figure’s model catches on, it might ameliorate some of the problems that contributed to the global market meltdown of 2008.
+
+“Securitization failed in the financial crisis because too many pools were originated without investors being able to efficiently understand what was in the pool and what they were lending against,” said Cohen, who made his name as a securitization lawyer and now specializes in blockchain work. “You could have detailed information without verification and you can have accurate information that may not be very granular.”
+
+By contrast, “blockchain can give investors a better sense of what they are buying and how they are performing.”
+

@@ -1,0 +1,71 @@
+DATE:  26.08.2019, 15:25:24
+TITLE: Chainalysis: Most Mixed Bitcoin Not Used Illicitly
+URL:   https://bitcoinmagazine.com/articles/chainalysis-most-mixed-bitcoin-not-used-for-illicit-purposes
+
+Ring in the new bitcoin halving cycle the right way: with us!
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+If Chainalysis is right, only a small fraction of coins sent to and from bitcoin mixers are used for illicit purposes.
+
+In a recent webinar titled “Cryptocurrency Typologies: What You Should Know About Who’s Who on the Blockchains,” the blockchain analytics firm suggested that users of mixing services mostly leverage the option for privacy reasons. Many darknet users, in contrast, send their coins directly from exchanges.
+
+That said, while they come from a small minority of all users of mixing services, a large fraction of stolen coins do end up being mixed.
+
+“A lot of people are using mixers just for personal privacy,” explained Hannah Curtis, senior product manager of data at Chainalysis, during the webinar. “But we do know that a lot of illicit funds do end up at mixers.”
+
+Bitcoin Mixing
+
+The Chainalysis webinar presented a broad overview of blockchain use cases, which included blockchain analysis of mixers and darknet markets, but also mining pools, ICOs, hosted wallets, ransomware and more. One of the perhaps more surprising conclusions is that Bitcoin mixers — both centralized and “decentralized” versions — appear to be used much more often for privacy purposes than for illicit activity.
+
+Specifically, Chainalysis believes that 8.1 percent of all mixed coins were stolen, while only 2.7 percent of coins had been used on darknet markets. As such, less than one in every nine coins sent to mixers could be identified as having been used for illicit purposes. Additionally, 1.9 percent of mixed coins came from gambling or betting sites, which could be illegal depending on the jurisdiction of the users and the sites.
+
+In contrast, almost half of all mixed coins were sent from exchanges. This includes 40 percent from traditional exchanges and 7.7 percent from peer-to-peer exchanges. Over a quarter of mixed coins came from other mixers.
+
+It is worth noting, however, that while the 8.1 percent of stolen coins represents a minority of all mixed coins, it does represent a large fraction of all stolen coins. That is to say, most stolen coins are mixed.
+
+Slide from the Chainalysis webinar
+
+
+
+Decentralized Mixers
+
+While Chainalysis did not go into detail, it appears that centralized mixers receive a bigger share of coins used in illicit activity than “decentralized” mixers. For example, Bestmixer, a centralized mixer that was shut down by law enforcement earlier in 2019, did receive a lot of coins for which the origin of destination could be identified as illicit. The service mixed over 27,000 coins.
+
+Chainalysis noted that “decentralized” mixers like Wasabi Wallet have seen exponential growth this year. Where the wallet mixed around $10 million worth of bitcoin in the first months of 2019, this had grown to about $90 million in August 2019. In total, Wasabi Wallet mixed $250 million worth of bitcoin in 2019, according to Chainalysis. (It should be noted that Chainalysis categorized Wasabi Wallet as “decentralized” because users run the wallet software locally, and possibly because users mix coins directly with each other. Wasabi Wallet’s mixing infrastructure is, in actuality, centralized, though trustless.)
+
+Slide from the Chainalysis webinar
+
+While Chainalysis is able to tell which coins are sent to and from mixers, the webinar confirmed that the service is unable to follow the trail of coins as they move through mixing services.
+
+“We can identify funds going into services, including mixing services,” Curtis said. “A common misconception is that one can trace the path of funds through a service.”
+
+In other words, mixing works.
+
+Darknet Markets
+
+The Chainalysis webinar also detailed where coins moving to darknet markets are sent from. Once again, the fraction of coins sent from mixers appears relatively low.
+
+Interestingly, more than half of all bitcoin moving to these digital block markets — 54.8 percent — are simply sent from regular exchanges. Another 23.5 percent are sent from peer-to-peer exchanges. Only 0.5 percent of coins were sent from mixing services.
+
+Slide from the Chainalysis webinar
+
+The Chainalysis webinar touched on recent events around one darknet market in particular. After a wave of shutdowns earlier this year, Nightmare Market had emerged as one of the biggest markets on the darknet in recent months. Around mid-July 2019, however, the market was seemingly hacked, though the website itself claimed a disgruntled employee was causing havoc. The market went offline soon after, in turn, feeding rumors that the market’s operators ultimately decided to pull an exit scam.
+
+Whatever happened, the alleged hacker or disgruntled employee leaked statistics on Nightmare Market, showing that the website had hosted over $22 million worth in sales, with over $300,000 of daily sales near its peak. The market had approximately 80,000 customers, for whom the preferred mode of payment was bitcoin, with monero as the favored privacy coin.
+
+When Nightmare Market shut down, the website had over $2 million worth of cryptocurrency in escrow, which vendors presumably lost. There were also $75,000 of pending withdrawals that probably never went through.
+
+Slide from the Chainalysis webinar
+
+In what has become standard routine by now, vendors (and presumably also users) of the shuttered darknet market are quickly migrating to new platforms. Where many of Nightmare Market’s users had come from Dream Market, Wall Street Market and Valhalla — the three biggest markets that disappeared after the recent wave of law enforcement actions — Nightmare Market users are now migrating to Empire Market, Berlusconi Market, Cryptonia Market and Samsara Market, according to Chainalysis.
+
+Other Conclusions
+
+Throughout the webinar, Chainalysis also touched on other uses of cryptocurrency, though it did not always supply concrete figures or statistics.
+
+The analytics firm confirmed that bitcoin use for terrorist financing has been on the rise, for example, but did not detail how much it has risen. (A recent article by The New York Times estimated that the sums were “likely to be small.”) It was also mentioned that the number of Bitcoin ATMs has been rising exponentially over the past years to a total of 4,000 machines worldwide, and it was pointed out that these ATMs are sometimes used to sell coins earned on darknet markets.
+
+Meanwhile, legitimate use of cryptocurrencies also appears to be on the rise, according to Chainalysis. Payment processors like BitPay, Flexa, Coinpayments, WebMoney, Coinify and Square have seen a significant growth in volume in 2019, with over 50 percent more transactions compared to the start of the year.

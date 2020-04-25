@@ -1,0 +1,37 @@
+DATE:  15.02.2019, 09:00:20
+TITLE: Will Bitcoin Block Size Reduction Argument Cause Another Crypto Conflict?
+URL:   https://www.newsbtc.com/2019/02/15/will-bitcoin-block-size-reduction-argument-cause-another-crypto-conflict/
+
+Things have been busy in crypto land this week and the big debate over Bitcoin’s block size has only just been usurped by JP Morgan’s attempt to launch its own completely centralized crypto coin. The block size issue is an important one so we’ll delve a little deeper into that.
+
+Another Crypto Conflict Imminent?
+
+Bitcoin Core, the enigmatic code that runs the world’s largest decentralized currency, has a highly calibrated and specific set of instructions and protocols. Any attempt to deviate from them is usually met with brimstone and fire from the developers and community. When they disagree a hard fork usually occurs and there have been a lot of them over Bitcoin’s short ten year lifespan.
+
+The highly controversial proposal discussed this week came from Core developer Luke Dashj who suggested decreasing the size of the blocks from their current 1Mb to 300Kb. In theory this may increase adoption by reducing costs associated with network participation.
+
+Another example: This patch would enforce a very simple softfork, reducing #Bitcoin block sizes to ~300k between Aug 1 and Dec 31. It demonstrates how one can make a truly TEMPORARY softfork.https://t.co/sukdk2zJpR (DO NOT RUN THIS IN PRODUCTION EVEN IF YOU SUPPORT A UASF) — Luke Dashjr (@LukeDashjr) February 7, 2019
+
+Since the Bitcoin network has grown so large now (over 200Gb) running a full node, which stores and updates a copy of the entire blockchain, is extremely resource intensive and costly. The reduction in block size would alleviate these expenditures but would require the majority to move to a soft forked version of the existing BTC chain.
+
+The decentralization case is a strong one; if data centers are required to run full nodes then the network effectively becomes centralized. Blockstream’s strategy chief Samson Mow told Hard Fork;
+
+“This is also why most Bitcoin users do not want huge blocks, because then full nodes could only be run in data centers, which perfectly defeats the purpose of having a decentralized network,”
+
+Some of the community have backed this notion and still advocate for a smaller block size to reduce the potential centralization of running full nodes. The counter argument is that this ‘minor tweak’, as some have described it, will result in a huge disruption to a well-functioning system. The demise of Bitmain has already reduced centralization concerns and smaller blocks would be of greater benefit to miners who can earn more from transaction fees. The crypto community on twitter has also had their say as the debate rages on;
+
+The crypto community is tired of being tortured by a Bitcoin that refuses to scale and remains in constant limbo. Live or die: scale or go off-chain, huge blocks or teeny ones. This is crypto fatigue. Just get it over with, and deal with what happens. https://t.co/lI8RPPBwJD — Joel Valenzuela (@TheDesertLynx) February 13, 2019
+
+Bitcoin guru John Carvalho added; “Right now, there isn’t a lot of support for [block size] adjustment ideas because many see it as a controversial and sore topic. We all still feel the bruises from the Segwit2x/No2x/BCash debates,”
+
+There has also been a big push to the Lightning Network which could be affected as proponents of the recently forked Bitcoin SV noted;
+
+I'm shocked the core devs want to reduce the block size from 1MB to only 300KB. I'm flabbergasted! Do they not understand along with killing mainnet adoption they're also killing LN adoption??? How the fuck are you going to onboard billions of people if you shrink???#Bitcoin — Mike Relentless [SV] (@mikerelentless) February 13, 2019
+
+The most pertinent comment though highlights that infighting such as this can only cause longer term damage to Bitcoin and the entire ethos of decentralized currencies;
+
+Stop this madness! Last thing Bitcoin needs is yet more contentious forks in this key year for adoption! A soft fork to "reduce the block size" is a hard fork in all but name. This will split off from the established consensus, cause massive drama, and damage trust in Bitcoin. https://t.co/54tzz4UIli — Cøbra (@CobraBitcoin) February 11, 2019
+
+Changes to the established code and network are always a hot potato in the crypto world, and block size is top of that tree. Bitcoin has a long way to go before it can truly be considered autonomous and decentralized and these debates are part of that evolution process for the nascent technology. However, with markets battered and bruised, another public crypto conflict between rival factions will cause more damage than good in the short term for Bitcoin and its brethren.
+
+Image from Shutterstock

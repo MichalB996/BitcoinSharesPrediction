@@ -1,0 +1,29 @@
+DATE:  15.01.2020, 22:22:46
+TITLE: Remembering Tamás Blummer, Bitcoin Developer
+URL:   https://bitcoinmagazine.com/articles/remembering-tamas-blummer-pioneering-bitcoin-developer
+
+Ring in the new bitcoin halving cycle the right way: with us!
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+Tamás Blummer, a Bitcoin developer since 2012 and founder of several groundbreaking Bitcoin-focused projects, reportedly passed away on January 12, 2020, after a long fight with cancer.
+
+Among Blummer’s contributions to the Bitcoin ecosystem were Rust Bitcoin, a project focused on creating a Bitcoin network library written in the Rust programming language; CoinTerra, an early ASIC miner manufacturer; and Bitcoin technology company Bits of Proof, which was acquired by decentralized finance company Digital Assets Holdings, where Blummer served as the chief ledger architect.
+
+“RIP @TamasBlummer,” tweeted Adamant Capital partner Tuur Demeester on the morning of January 15, 2020. “These past three years you fought cancer, and you fought it valiantly. I will dearly miss your friendship, wise words, and humor. Thank you for the many lessons on Bitcoin and life. It hurts to say goodbye.”
+
+As of the time of this writing, dozens of commenters have responded to Demeester’s tweet, leaving their own condolences. More than 800 Twitter users have liked it.
+
+“Over the last year or so, Tamás had been hard at work leaving a legacy of better bitcoin SPV client libraries,” Matt Corallo, a Bitcoin Core developer who has worked on Rust Lightning, tweeted. “While they’ve been a one-man project up to now, he was a talented man and his work is worth checking out and continuing.”
+
+Leaving a Bitcoin Legacy
+
+According to Bloomberg, Blummer worked as an analyst at Deutsche Bank AG from 1996 until 2012, when his LinkedIn page notes that he joined Morgan Stanley as an executive director in Budapest. His first official career foray into Bitcoin came with CoinTerra in 2014.
+
+Up until his passing, Blummer remained active in the Bitcoin world. For instance, he published an article about flaws in the central banking system to Medium on December 16, 2019.
+
+“The central bank is never short of cash, since it creates it,” Blummer wrote in what would be his final public argument in favor of a decentralized financial system. “That is what the Fed engages in increasing hundreds of billions since September 2019. Doing so however sends a signal to the market, that there is not enough cash for everyone. This is like blood in the water for the predators who have thereby the confirmation that some banks struggle and either have to pay high interest rate for short term cash or liquidate their bag of treasuries at depressed prices.”
+
+In addition to an extensive trove of similar articles, Blummer left a cache of GitHub repositories for those interested in learning from and expanding upon his development work.

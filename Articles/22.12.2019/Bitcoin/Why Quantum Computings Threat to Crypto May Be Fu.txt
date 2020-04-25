@@ -1,0 +1,45 @@
+DATE:  22.12.2019, 09:15:37
+TITLE: Why Quantum Computing’s Threat to Crypto May Be Further out Than Previously Thought
+URL:   https://news.bitcoin.com/why-quantum-computings-threat-to-crypto-may-be-farther-out-than-previously-thought/
+
+Why Quantum Computing’s Threat to Crypto May Be Further out Than Previously Thought
+
+According to one researcher, quantum computing faces more hurdles than many realize when it comes to achieving viability in breaking encryption. In a recent report Dr. Subhash Kak, Regents Professor of Electrical and Computer Engineering at Oklahoma State University, notes that there are issues such as “noise” and error correction that render the buzz about quantum supremacy when it comes to Bitcoin, still largely theoretical.
+
+Also Read: What Google’s Quantum Breakthrough Means for Blockchain Cryptography
+
+Where Quantum Supremacy Falls Short
+
+In essence “quantum supremacy” refers to the demonstration that a quantum computer can solve some problem classical computers can’t. There’s no doubt this has been done, but the important question for those in the crypto space centers on what kind of problem is being solved. While the development of quantum supremacy is a haunting specter indeed for hodlers worried about their private keys, there’s yet little evidence the problems being solved by this technology have much utility in cracking encryption where cryptos are concerned.
+
+“These companies are trying to build hardware that replicates the circuit model of classical computers. However, current experimental systems have less than 100 qubits. To achieve useful computational performance, you probably need machines with hundreds of thousands of qubits,” states Dr. Subhash Kak in a recent article.
+
+Though groups like D-wave boast 2000 qubits (quantum bits) the applications are different. D-wave’s focus is on optimization via a process called quantum annealing which, according to Kak, is a “narrower approach to quantum computing … where qubits are used to speed up optimization problems.” As such, D-wave’s claims have garnered some criticism, with one recent report on the topic calling the D-wave system “skim milk” compared to other computers.
+
+Noise and Error Correction
+
+The real difficulty in achieving practical quantum code-cracking resides in the concepts of noise and error correction, according to Kak. The researcher details:
+
+“For computers to function properly, they must correct all small random errors. In a quantum computer, such errors arise from the non-ideal circuit elements and the interaction of the qubits with the environment around them.”
+
+For these reasons the qubits can lose coherency in a fraction of a second and, therefore, the computation must be completed in even less time. If random errors – which are inevitable in any physical system – are not corrected, the computer’s results will be worthless.
+
+This error correction complicates things even more. The potential for noise-related errors necessitates the need for more qubit power. Theoretical physicist Mikhail Dyakonov describes the mind-boggling nature of the problem, saying:
+
+“While a conventional computer with N bits at any given moment must be in one of its 2N possible states, the state of a quantum computer with N qubits is described by the values of the 2N quantum amplitudes, which are continuous parameters (ones that can take on any value, not just a 0 or a 1). This is the origin of the supposed power of the quantum computer, but it is also the reason for its great fragility and vulnerability.
+
+So the number of continuous parameters describing the state of such a useful quantum computer at any given moment … is much, much greater than the number of subatomic particles in the observable universe.
+
+In other words, the strength of practical quantum computing can also be seen as its Achilles heel. Because it can process so many variables, these seemingly endless variables also open the door for greater potential error. Resulting hardware and logistical considerations are not as often discussed as other issues, but according to the two researchers these areas are of critical importance.
+
+Looking Past the Hype
+
+Dyakonov, like Kak, points to the hype surrounding the field of quantum computing, which has been in development and a source of energized speculation for decades. While it is unclear exactly how far classified government and high-level scientific developments may have come by now, as far as the educated observer can tell, it seems there’s a long way to go before the Bitcoin network may be in danger. At which point algorithmic upgrades have been suggested by many as a potential solution.
+
+Still, like ongoing work in nuclear fusion, quantum computing is not to be ignored. An unforeseen breakthrough could theoretically happen at any time and change the game. Kak, for his part, remains skeptical: “As someone who has worked on quantum computing for many years, I believe that due to the inevitability of random errors in the hardware, useful quantum computers are unlikely to ever be built.”
+
+Do you think quantum supremacy will be achieved in regard to Bitcoin in the near future? Let us know in the comments section below.
+
+Images credits: Shutterstock.
+
+Want to create your own secure cold storage paper wallet? Check our tools section. You can also enjoy the easiest way to buy Bitcoin online with us. Download your free Bitcoin wallet and head to our Purchase Bitcoin page where you can buy BCH and BTC securely.

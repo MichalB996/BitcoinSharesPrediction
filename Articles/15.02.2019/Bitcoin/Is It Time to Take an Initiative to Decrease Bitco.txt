@@ -1,0 +1,57 @@
+DATE:  15.02.2019, 22:18:38
+TITLE: Is It Time to Take an Initiative to Decrease Bitcoin’s Block Size Seriously?
+URL:   https://bitcoinmagazine.com/articles/is-it-time-to-take-an-initiative-to-decrease-bitcoins-block-size-seriously
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+Whilst debate raged throughout the Bitcoin community over whether the block size limit should be increased and how, Luke-jr for years stood out for arguing the exact opposite position. One megabyte blocks weren’t too small, he maintained even as SegWit’s block size increase gained broad support, they were too big. No increase, but a decrease was needed.
+
+Now, the Bitcoin Knots and Bitcoin Core developer is spearheading an attempt to make such a decrease happen, as a temporary measure. And if social media is any indication, the initiative is attracting more interest than many might have expected it would.
+
+“I don't know if the proposal will be adopted or not, but support has been growing due to the block size becoming more and more apparently a problem,” Luke-jr told Bitcoin Magazine.
+
+Block Size Decrease
+
+Of course, the arguments for decreasing the block size limit are similar to the by now oft-repeated arguments against increasing the block size limit. In short, bigger blocks add to the cost of running a node (making it more expensive for users to enforce the protocol rules), could increase mining centralization (risking censorship resistance), and reduces fee pressure (translating into less hash power security).
+
+The most pressing problem of these, for Luke-jr, is the cost of running a full node. This is perhaps best exemplified by the time it takes to initially sync such a node. Getting up to speed with the rest of the network can take days even on modern laptops with a good internet connection.
+
+“Users acting on that cost by simply choosing not to run a full node is a problem,” Luke-jr said. “When someone does finally attack Bitcoin, it will split the network — full node users on one chain, and light wallet users on the other.”
+
+In case of such a broad scale attack on light wallet users, “a New York Agreement-in-secret,” Luke-jr envisions a worst-case scenario where these users would rather continue to use the invalid chain they’d been defaulting to since the attack, instead of switching back to the original chain.
+
+“Which side prevails inevitably depends on the economic pressure of users of each chain. If most people are using light wallets, then full node users will lose out, and the invalid chain effectively becomes simply a hard fork to Bitcoin,” he argued, leaving little room for nuance. “That means all protocol rules are open to change, including the ones that forbid inflation, theft, etcetera.”
+
+Following Luke-jr’s reasoning, Bitcoin is well into the danger zone already, as relatively few users rely on full nodes to accept payments. And it may be getting worse. Bitcoin’s blockchain grows each day, and while Moore’s Law and similar trends of computational improvements negate the associated problems with this growth to an extent, the Bitcoin Knots lead maintainer thinks technological progress is not yet keeping up. (It’s no exact science, but the drop in reachable node count over the past year could suggest that the blockchain size is indeed becoming a problem for more users — then again this node count is up over the past two years.)
+
+On the flip side, the main argument against smaller blocks is that it would limit the number of transactions the Bitcoin network would be able process, which increases fee pressure, and could out-price certain use cases. (Instead of running full nodes, users may opt to rely on custodial services to save on fees, arguably making matters worse — not better.)
+
+But with the development of the Lightning Network making noticeable progress, proponents of a block size limit decrease believe this downside is largely mitigated. Users would be incentivized to migrate to the overlay network for fast and cheap transactions, furthering its growth and taking the load off Bitcoin’s blockchain at the same time.
+
+The Plan
+
+As the initiative is still in its early stages, it’s not yet set in stone what the potential block size decrease would look like, exactly. Even the desired limit isn’t settled on, though it would most likely be brought down from the current theoretical maximum of almost four megabytes to a theoretical maximum of two or less. (This would, in reality, result in even smaller blocks; closer to one megabyte.) However, if this were to be achieved, the measure would be designed not to be permanent, so that an increase back to the current limit wouldn’t be too difficult later on.
+
+There are at least three rough ideas of how a block size decrease could be achieved.
+
+The most notable proposal is a user-activated soft fork (UASF), similar to BIP148, the initiative to trigger SegWit activation in 2017. On the same date as two years ago, August 1, users would enforce the stricter rules for five months, incentivizing miners to comply. If a majority of miners (by hash power) go along, even non-upgraded users would remain compatible with the new rules; they’d just see smaller blocks than previously allowed. A UASF is a risky strategy, however. If less than half of all miners go along, the blockchain could “split” between upgraded and non-upgraded users.
+
+Alternatively, miners could impose a smaller block size limit themselves as a soft cap. Soft caps are non-binding limits that miners put on the blocks they mine and were used particularly throughout the first years of Bitcoin’s existence. (Past soft caps were consecutively 250, 500 and 750 kilobytes, as recommended by Bitcoin developers.) This would be a much safer solution but would require that miners reject transactions and, thus, leave transaction fees on the table for each block they mine.
+
+As a third option, proposed by Luke-jr, Bitcoin users could limit the size of blocks by making their transactions artificially “heavy.” Under Bitcoin’s protocol rules, these transactions would be counted as if they were larger than they actually are, which means blocks would fill up faster with less actual transaction data. This change wouldn’t require any protocol changes; wallets could offer it today. These transactions do, however, require individual users to choose to “overpay” on fees relative to regular transactions. (That’s assuming miners act economically rationally and charge extra to include the heavy transactions.)
+
+Block Size Debate Fatigue
+
+Some notable proponents of Luke-jr’s initiative include Bitrefill CCO John Carvalho, Block Digest cohost Shinobi and JoinMarket developer Chris Belcher. Yet all of them would only want to go through with the effort if it gains broad backing. That also goes for Luke-jr himself: “Soft forks like this need a lot of community support,” he said.
+
+But so far, support within the Bitcoin community appears to range from lukewarm (no pun intended) to skeptical to outright dismissive. Other than Luke-jr, no regular Bitcoin Core contributors have thrown their weight behind the proposal and no Bitcoin company of note has stated support; and while the proposal is generating a bit of buzz on social media and in chat rooms, a majority of commenters still seems to reject the idea.
+
+Even many of those who agree that a decrease would be a technical improvement in and of itself don’t believe it would make too much of a difference. If blocks are smaller for several months or even several years, Bitcoin’s blockchain size will still be large. Whether tomorrow’s new users need to sync two days or three days may not be the deciding factor in whether to use a full node or not. Besides, there are other solutions that could make running a full node more attractive, some of which may well have much more effect. (Though, as Luke-jr points out, none of these solutions exclude also decreasing the block size limit.)
+
+What’s more, years of in-fighting has made the Bitcoin community wary of commencing another block size battle and dealing with all the controversy that comes with it. After a long-fought “civil war,” there appears to be little appetite to invest more time and energy in reviving the struggle on the same parameter — thereby, quite possibly, draining any momentum from the initiative even before it gets well underway.
+
+Indeed, even Luke-jr himself doubts he’ll be the one carrying the initiative to the finish line this time.
+
+“Although I may be the only one popularly pushing it — I don't have time to champion another BIP148, I fear,” he said, noting how exhausting the previous UASF attempt was. “I think the only way it will happen is if the community takes the lead on it.”

@@ -1,0 +1,13 @@
+DATE:  13.03.2020, 23:17:08
+TITLE: Cryptocurrency Platform Coinbase Launches Bitcoin Transaction Batching
+URL:   https://www.crowdfundinsider.com/2020/03/158766-cryptocurrency-platform-coinbase-launches-bitcoin-transaction-batching/
+
+Cryptocurrency exchange platform Coinbase announced on Thursday it has launched Bitcoin transaction batching, which is a new feature that reduces the load that the platform puts on the Bitcoin blockchain and may actually save uses more than 50% on network fees. Coinbase further explained:
+
+“We will be bundling multiple sends into a single transaction — we anticipate that this will reduce our load on the Bitcoin network by more than 50%, and the network fees our customers pay will automatically be reduced by an equivalent amount when sending. This update requires no action from customers, who will immediately see reduced network fees. This release will introduce a small delay in a transaction being broadcast to the network, but will not impact the time it takes for transactions to be confirmed at the normal rate for customers.”
+
+The transaction batching works by doing the following:
+
+“The Bitcoin network processes transactions by packaging them into blocks and adding these blocks to the end of the blockchain. Each of these blocks has a fixed capacity (in bytes), and one is created every 10 minutes, on average. It is this limited supply of block space, and increasing demand for transaction processing, that leads to high fees.”
+
+Coinbase then noted that a single transaction that fulfills multiple users sends requests occupies less space in each block than each being processed individually. The platform added that Bitcoin transaction batching is being rolled out now, and will be applied to both Coinbase and Coinbase Pro. For Coinbase Pro customers, 100% of network fees are already covered.

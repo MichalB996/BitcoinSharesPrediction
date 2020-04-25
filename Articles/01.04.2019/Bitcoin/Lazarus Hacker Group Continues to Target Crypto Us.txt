@@ -1,0 +1,41 @@
+DATE:  01.04.2019, 18:54:26
+TITLE: Lazarus Hacker Group Continues to Target Crypto Using Faked Trading Software
+URL:   https://bitcoinmagazine.com/articles/lazarus-hacker-group-continues-target-crypto-using-faked-trading-software
+
+Ring in the new bitcoin halving cycle the right way: with us!
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+This article was originally published by 8btc and written by Lylian Teng.
+
+The Chinese security service provider 360 Security has issued a warning that a large number of crypto exchanges have been targeted by the North Korean hacker group Lazarus and that the number is still rising after the recent hacks of crypto exchanges DragonEx, Etbox and BiKi.
+
+360 Core Security found that Lazarus, also known as the ATP-C-26 group, used software called “Worldbit-bot” to carry out its active attacks. The crypto exchange DragonEx fell victim to it on March 24, 2019, leading to a loss of $7.09 million, according to the 360 Security report.
+
+The analysis by the 360 Advanced Threat Response Team detailed that the attacking group registered two domains, wb-invest.net and wb-bot.org, last October in preparation for the attacks. Then they faked the cryptocurrency trading software Worldbit-bot based on the open-sourced “Qt Bitcoin Trader,” which was embedded with malicious code. The malicious software was then camouflaged within a regular automated crypto trading platform under the domains of wb-invest.net and wb-bot.org, which kept normal operation for half a year.
+
+Domain wb-invest.net and wb-bot.org registered in October 2018.
+
+Faked cryptocurrency trading software “Worldbit-bot” based on the open-sourced “Qt Bitcoin Trader.”
+
+Worldbit-bot runs under the domain of wb-invest.net and wb-bot.org.
+
+The attackers targeted a large number of internal staff at cryptocurrency exchanges for the software promotion. The latest phishing attacks took place in January and March 2019.
+
+According to China-based JohnWick Security, which has been assisting DragonEx in investigating its hacking incident, the customer service staff at DragonEx appear to have opened an installation package named wbbot.dmg from an unknown source. Analysis indicates a backdoor was embedded in the installation package, through which hackers acquired the internal staff’s authorization and then obtained the wallet private key.
+
+The “Worldbit-bot” software operates in much the same manner, with the faked crypto trading software “Celas Trade Pro,” and was detected by the same team at 360 Security last August. Users of Bitfinex, Bitstamp, Bitmarket, BTCChina, GOC.io, Indacoin, OKCoin, WEX and Y0bit were susceptible to the threat at that time.
+
+First, the process information is collected and encrypted:
+
+System information is collected:
+
+Malicious codes are executed and decrypted for file execution:
+
+The security company is recommending that crypto exchanges be on the lookout for warning signs such as abnormal exchange earnings, tampered addresses of cold and hot wallets, large sum transfers and multiple account logins for coin withdrawal.
+
+Lazarus is an infamous hacking group backed by North Korea. According to research, the group’s earliest attack may have been associated with “Operation Flame,” a large-scale DDOS attack on the South Korean government website in 2007. Lazarus is also alleged to have been the group behind the Sony Pictures hacking incident of 2014, the Bank of Bangladesh data breach of 2016 and the “Wannacry” ransomware attack that swept across the globe in 2017. Since 2017, the group has been expanding its targets of attack, increasingly aiming them at a variety of economic interests. In earlier attacks, the group mainly targeted the banking systems of traditional financial institutions. Now, it has begun to attack global cryptocurrency businesses and individuals.
+
+As previously reported, Lazarus is purportedly responsible for $571 million of the $882 million in cryptocurrency that was stolen from exchanges from 2017 to 2018, almost 65 percent of the total amount. Out of 14 exchange attacks, five were attributed to the group, including the industry record-breaking $532 million NEM hack of Japan’s Coincheck.

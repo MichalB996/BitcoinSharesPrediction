@@ -1,0 +1,41 @@
+DATE:  30.01.2019, 17:30:35
+TITLE: Privacy and Scaling: Schnorr Signatures Are Coming to Bitcoin Cash
+URL:   https://news.bitcoin.com/privacy-and-scaling-schnorr-signatures-are-coming-to-bitcoin-cash/
+
+Privacy and Scaling: Schnorr Signatures Are Coming to Bitcoin Cash
+
+On Tuesday, Jan. 29, Bitcoin Cash developer Mark Lundeberg revealed two planned features for the scheduled May 2019 BCH upgrade. In the gist published to Github, Lundeberg described a specific improvement that’s been discussed by cryptocurrency developers for years — implementing Schnorr signatures in place of ECDSA signatures. This could upgrade the BCH chain to a new level of innovation by bolstering scaling and privacy all at once.
+
+Also read: A Look at Openbazaar’s Multi-Currency Wallet and Vendor Listings
+
+The Bitcoin Cash Chain May See Schnorr Signature Support in the Near Future
+
+Every six months, the BCH network upgrades its protocol in an effort to advance the blockchain in readiness for cryptocurrencies gathering mainstream attention. Back in November, news.Bitcoin.com reported on the proposed specification for the May fork, so developers could discuss the proposals and begin coding. One of the biggest concepts on the table was the implementation of Schnorr signatures to make the BCH protocol more robust. On Tuesday, Lundeberg published a description of two important features and one of the additions consists of supporting the Schnorr signature scheme.
+
+A Schnorr signature is a digital signature scheme invented by Claus Schnorr that is lauded on account of its simplicity. One of the main benefits of Schnorr is multisignature aggregation, which can benefit both data scaling and privacy. Traditional bitcoin transactions include a lot of data like multiple inputs, but Schnorr’s method simplifies this process by creating a single merged signature. For instance, when a multitude of bitcoin signatures produce one aggregated signature, it is estimated that Schnorr’s scheme could reduce blockchain storage and bandwidth by at least 25 percent.
+
+In addition to this advantage, the operation helps produce better privacy when combined with different protocols. One example privacy benefit Lundeberg notes is called “Hiding as P2PKH,” which allows an aggregation scheme with the standard pubkey script that Pays To PubKey Hash (P2PKH).
+
+“Schnorr signatures allow very simple multi-party aggregation schemes, where multiple parties collaborate to produce one aggregated signature under one aggregated pubkey, checked with OP_CHECKSIG as in pay-to-public-key-hash (P2PKH) addresses,” explains Lundeberg’s Github gist.
+
+Lundeberg’s research continues by stating that the Schnorr scheme can even avoid second-party malleability:
+
+Schnorr signatures cannot be malleated at all, even in the aggregated case, except when all signers collaborate to create a new signature from scratch.
+
+The Combined Benefits of BIP62 and Schnorr
+
+The BCH developer also describes the advantages of Schnorr-Spilman payment channels. Before the introduction of OP_CLTV, developers discussed the idea of Spilman payment channels, but the technique was insecure on BCH due to malleability, Lundeberg notes. However, by upgrading to Schnorr, not only can programmers use Spilman channels, they can also opt out of using OP_CHECKMULTISIG and use regular P2PKH addresses instead. The channels can be bolstered by using an aggregated signature and BIP62 malleability restrictions, the developer notes.
+
+“I’ll repeat that for emphasis: we will be able to do payment channels which merely use P2PKH — completely indistinguishable from ordinary transactions,” Lundeberg states.
+
+The gist also highlights the possibility of hidden atomic swaps and high-frequency microswapping. Lundeberg had previously described how trustless cross-chain swaps could be hidden in payment channels, but the procedure can be done with Schnorr-Spilman payment channels as well. In addition to the benefits of Schnorr signatures, Lundeberg details how combining the upgrade with a completed version of BIP62 malleability restrictions adds enormous amounts of innovation. One example is the ability to create unmalleable smart contracts as Lundeberg explains it will be “possible to write smart contracts whose scriptSig inputs cannot be malleated.”
+
+In conclusion, Lundeberg details the “advantages and disadvantages” of BIP62 + Schnorr compared to the Segregated Witness (Segwit) approach. The BIP62 technique only requires a small change to wallet code, in order to quickly transition to Schnorr from ECDSA. However, smart contract developers must practice due diligence when designing contracts to prevent malleability, although Lundeberg says it’s not too difficult. A big difference is that Segwit makes a total of 66 types of addresses and the BIP62 + Schnorr approach only modifies one legacy address class (p2pkh). “For privacy reasons, it is desirable to have as few address types in use as possible, so as to not fracture the anonymity set,” the developer remarks. Lastly, Lundeberg emphasizes that backup transactions are more straightforward to set up with Segwit in certain cases.
+
+Overall, the Bitcoin Cash community on social media and forums were elated to hear about the possible introduction of the Schnorr scheme and the completion of BIP62. Over the past few years, Bitcoin Core (BTC) developers have been discussing implementing Schnorr into the protocol, but removing the ECDSA signatures and replacing them with a Schnorr scheme is a major upgrade. With the rate of upgrades in favor of the Bitcoin Cash protocol, it’s likely BCH will see this improvement well before the BTC chain.
+
+What do you think about the Bitcoin Cash chain supporting the Schnorr signature scheme? Let us know what you think about this subject in the comments section below.
+
+Image credits: Shutterstock, Mark Lundeberg’s gist, and Bitcoin.com.
+
+Want to create your own secure cold storage paper wallet? Check our tools section.

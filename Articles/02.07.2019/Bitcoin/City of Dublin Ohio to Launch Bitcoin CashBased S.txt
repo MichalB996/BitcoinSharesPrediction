@@ -1,0 +1,49 @@
+DATE:  02.07.2019, 23:55:03
+TITLE: City of Dublin Ohio to Launch Bitcoin Cash-Based SLP Token
+URL:   https://news.bitcoin.com/city-of-dublin-ohio-plans-to-launch-bitcoin-cash-based-slp-token/
+
+City of Dublin Ohio to Launch Bitcoin Cash-Based SLP Token
+
+On July 1, Joshua Green, CEO of the Bitcoin Cash (BCH) implementation Bitcoin Verde, told the BCH community that the local government from Dublin, Ohio plans to mint a token using the Simple Ledger Protocol (SLP). The unnamed SLP token will be used for city events, redeemed for city-branded swag, discounts, and can be given to volunteers who help Dublin prosper.
+
+Also Read: Iranians Defy Warning and Share Pictures of Bitcoin Mining in Mosque
+
+Dublin Ohio Plans to Launch a Token Using the Simple Ledger Protocol on Top of Bitcoin Cash
+
+The Bitcoin Cash community has learned of a new SLP token used by a local U.S. government. Joshua Green, the creator of Bitcoin Verde, a full node client built from the ground up, announced that the city of Dublin Ohio plans to launch a city token built on the BCH network. When Green explained the project to the BCH community on Monday, he detailed that the token’s goal is to provide three functions for the residents of Dublin: digital identity, electronic polling system, and a token of value. Speaking with news.Bitcoin.com, Green noted that the Dublin token is actually a part of an RFP that Dublin published in October of last year.
+
+“For their identity mechanism, we decided to use the same digital signature technology as the one used in Bitcoin (the Secp256k1 curve) because it’s gone through its trial-by-fire with the Bitcoin networks, and has a lot of community support, tools, and libraries,” Green said. “Plus it was something we had worked with already when building Bitcoin Verde. The intent behind the Dublin identity is to provide a digital means for identification that puts users in control of their data — allowing them to control if it’s shared and with whom, and even a way to revoke access to their data.”
+
+“Dublin’s public polling mechanism uses their identity system to create anonymous ‘second identities’ and RSA keys to encrypt their responses, which allows them to be anonymous but also gives the user the ability to prove they’ve participated without revealing what their response was — Dublin intends for the public polling to be a tool for receiving feedback from the people about past and upcoming decisions,” the Bitcoin Verde developer explained. “An example we use internally is often asking: ‘What are your thoughts about the new roundabout on 33 and Riverside?’ We also envision this system to be useful for HOAs (Homeowner Associations) to set new policies (all without the city’s involvement).” Green insisted:
+
+The Dublin token is intended to be a reward and barter system for Dublin’s citizens — to incentivize positive behavior. For instance, citizens may receive ‘Dublin Points’ for participating in volunteer programs and can use the points in exchange for city-branded swag, for priority parking, or can be redeemed by vendors for goods or rewards.
+
+Dublin’s Token-Fueled Barter and Reward System
+
+Green also revealed that his team is nearing the first public release of the token and he’s now able to discuss the project, which has been in stealth mode. The developer said that the team researched the SLP system a great deal and after the SLP project matured significantly, the developers grew confident that it would be a wise choice to serve as the platform for Dublin’s token.
+
+“We investigated other blockchain and token implementations,” Green told the community on the Reddit forum r/btc. “But ultimately decided Bitcoin Cash’s scaling solution to be superior than other alternatives, and viewed the thriving developer community to be an important pillar to the platform’s longevity.” The developer added:
+
+Dublin’s token is intended to be a barter and reward system to facilitate existing physical tokens and to incentivize positive behavior via rewards.
+
+Green suggested that Dublin’s SLP token might also be used to digitize the cities already existing physical tokens. In the past, there have been many local towns or city-issued barter-like systems such as Ithaca New York’s ‘hour’ currency and in Massachusetts there’s Berkshire bucks (Berkshares). The Ithaca hour is actually the oldest and largest local currency system in the U.S and hours are used for town bartering, discounts, and other economic interactions. Berkshares or ‘Berkshire bucks’ in Massachusetts is a local currency accepted by 400 local merchants in the mountainous Berkshire region.
+
+“Dublin’s token isn’t meant to be a currency per se, but with any distributed token we can’t really control what people do with them — I think that the local currencies are a really interesting case to learn from history and repeat the good decisions and avoid the bad ones,” Green explained when discussing the similarities and differences between other local currency systems. “To my knowledge, the Hours and Berkshares are (local) traditional paper currencies, not digital tokens, however, Liberland’s Merits are a BCH SLP token too, but I believe they’re trying to use it as a currency — which is great, and I think we can learn some lessons from them as things progress,” Green added. “I think if anything, the Merits and Dublin’s points help prove viability for other local governments to consider this path if it’s right for them.”
+
+SLP Tokens Backed by the Security of the Bitcoin Cash Network Best Represent the City’s Intent
+
+The Bitcoin Verde CEO said when the team considered creating Dublin’s token of value, the many benefits of the BCH network outweighed other blockchains that can create tokens. The biggest attribute was the low fees the Bitcoin Cash network provides so the cost of redeeming the token would not compete against the actual value received.
+
+During the announcement, Green had emphasized that Dublin’s token is not backed by an asset and is only intended to resemble a coupon or barter system. The SLP token will use the baton system which means the city can issue additional tokens at any time. “We found this mechanism best represents the city’s intent behind the token of value,” Green explained. “Tokens are not expected to be directly tied to monetary value — For example, currently a (physical) beverage token at the Dublin Irish Festival may be purchased for $2, however, each token is not guaranteed to be “$2 of beer”, instead a vendor may offer a beer for 3 tokens, or a soda for 1 token, or whiskey for 4 to 6 tokens,” the developer added. We also asked Green if he thought other towns and cities might decide to emulate the ‘town-token’ idea using SLP-issued tokens in the future.
+
+“I hope so,” Green replied. “We submitted a bid to the state of Rhode Island last week to give them a trial-run of Dublin’s system for their own use — The exciting thing here is use would be at the state level and could also explore some integration between the state and local government, which further paves the way for future adoption.”
+
+Green also revealed that over the last few months the team has been discussing the token concept to surrounding cities and towns and even the state capital, Columbus. “While I cannot announce their direct involvement yet, I can say we have received amazing support and initiative around integrating with Dublin’s blockchain,” Green remarked. The creator also hinted that Dublin will have its own custom digital wallet for sending, receiving and storing the new token. Dublin’s token will be compatible with other SLP wallets like Bitcoin.com’s Badger wallet, Electron Cash, and Crescent Cash. The Bitcoin Verde developer also mentioned that his team looks forward to launching Dublin’s new token and concluded by saying:
+
+We are excited to be releasing the first US government blockchain token and are thankful for having a local community that is both innovative and eager to dive into the future.
+
+What do you think about the Dublin Ohio SLP-minted token? Do you think cities and towns implementing ideas like this increase economic prosperity? Let us know what you think about this project in the comments section below.
+
+Image credits: Shutterstock, Bitcoin Verde, Joshua Green, SLP Logo, and Pixabay.
+
+Want to create your own secure cold storage paper wallet? Check our tools section. You can also enjoy the easiest way to buy Bitcoin online with us. Download your free Bitcoin wallet and head to our Purchase Bitcoin page where you can buy BCH and BTC securely.

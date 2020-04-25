@@ -1,0 +1,73 @@
+DATE:  30.01.2019, 08:30:29
+TITLE: This Spongebob-Themed Tech Proves That Bitcoin’s Lightning Is Advancing
+URL:   https://www.coindesk.com/this-spongebob-themed-tech-proves-that-bitcoins-lightning-is-advancing
+
+“Wumbology, the study of ‘wumbo’. It’s first grade, Spongebob!”
+
+For the uninitiated, that’s a quote from the Nickelodeon animated series Spongebob Squarepants. Spoken by the jolly starfish Patrick Star, it describes the word “wumbo” – to which the eponymous character responds: “I don’t think that’s a real word.”
+
+Well, thanks to some up-and-coming technology built on bitcoin, Star is looking to be correct.
+
+Pinched from the cartoon, the term wumbo now describes one of the next milestones for bitcoin’s lightning network, the payments layer bitcoin developers are heads-down on in order to solve the digital money’s biggest problem: that it only supports a few users right now – let a worldwide ecosystem.
+
+“I wumbo, you wumbo, he, she, me wumbo,” Star explains further.
+
+Don’t let the silly name fool you. The change, which for the first time would lift the hard-coded limit on how much money can be locked up in a lightning channel at a given time, demonstrates just how far the lightning initiative as a whole has come.
+
+When lightning launched so users could make real transactions for the first time earlier this year, developers advised caution, arguing that doing so is “reckless” because lingering bugs could lead to lost funds.
+
+Of course, many users, excited for the technology, have been using it anyway. Now, 574 of bitcoin – worth about $2 million – is stashed away in lightning channels, up from 1 bitcoin at the beginning of 2018.
+
+And yet, because it was so “reckless” to use, developers imposed a limit on how much bitcoin can be locked into a channel: 167.77216mBTC, which is worth just under $600 as of press time.
+
+Wumbo, on the other hand, once implemented, would allow users to remove the limit if they so choose.
+
+This name was chosen in November at a “summit” in Adelaide, Australia, where lightning’s top developers gathered to discuss the future of the technology, including improvements they could make to make the technology easier for end users to easily make payments.
+
+“Please blame one of the persons attending the summit for this term. Unfortunately, due to rules imposed, non-attendees can only learn who to blame if that person admits this,” wrote ZmnSCPxj, a pseudonymous developer who codes for the c-lightning implementation in his spare time.
+
+The meeting followed Chatham house rules, meaning participants can share information with others that they learned at the meaning, but ideas and quotes are not allowed to tied to a particular individual. This is generally a policy implemented to encourage developers to speak freely.
+
+But the fact that whoever came up with the name isn’t publicly known doesn’t make the technology any less important.
+
+Wumbo shows that lightning as a whole has progressed far enough that developers, as cautious as they are, think lightning ready – or at least, getting is closer to ready – for bigger transactions.
+
+I wumbo, you wumbo
+
+The update is pretty easy to understand.
+
+When a user decides to make payments to other users, there will be a new option, “option_i_wumbo_you_wumbo”, allowing users to open a channel with more bitcoin than is imposed by the current limit. That said, this can only occur if the two sides agree to an expansion of the limit.
+
+This approach is presumably how the feature got its name: “I wumbo, you wumbo.” In other words, each user must agree to “wumbo.”
+
+Once all code implementations update their software with this new option (there are three main ones in use right now), users will be able to do this with just about anyone else on the lightning network.
+
+“A node that advertises ‘option_wumborama’ allows any node to build channels with capacity above the limit,” ZmnSCPxj explained further.
+
+Opening a channel is kind of like opening a bank account. With Wumbo, users can then open channels as large as they want, as long as they have the money to fund it.
+
+Again, the code change itself is not so interesting. The cool part is that users and developers can look forward to a time when channels have bigger capacity.
+
+Can’t stop the wumbo
+
+To be clear, though, lightning users aren’t going to be able to “wumbo” overnight.
+
+It’s been added to the new version of the lightning specification, 1.1, as discussed in Adelaide, but all the changes still need to be coded up.
+
+And although Wumbo itself is a fairly easy change, ZmnSCPxj said that it’s unclear how long this process will take since developers are working on a variety of things: like fixing bugs, building watchtowers for security, and trying to improve the UX. The overarching goal is that everyday spenders can one day make use of the payment technology without blinking.
+
+“It seems vaguely unlikely that anyone will be defaulting to [Wumbo] in the immediate future,” Bitcoin Core contributor Matt Corallo told CoinDesk.
+
+They’re at least laying the groundwork, he went on to say: “But defining it in the protocol is a step towards allowing users to opt-in.”
+
+Once Wumbo is coded up, there’s nothing really stopping users from using it. Since users have been using lightning for real payments — to the tune of $2 million — despite warnings against it, ZmnSCPxj wouldn’t be surprised if users tap the capabilities of Wumbo the first chance they get.
+
+“Users are reckless anyway,” he said.
+
+ZmnSCPxj guessed that the code might go through “within this year,” but didn’t give a firm deadline for the code change with the silly name.
+
+When asked what they thought of the name choice, ZmnSCPxj responded:
+
+”Wumborama. It is first grade, Alyssa.”
+
+Spongebob Squarepants image via Shutterstock

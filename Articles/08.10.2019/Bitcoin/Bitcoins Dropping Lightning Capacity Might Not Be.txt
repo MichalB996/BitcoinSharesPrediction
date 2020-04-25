@@ -1,0 +1,67 @@
+DATE:  08.10.2019, 09:00:24
+TITLE: Bitcoin’s Dropping Lightning Capacity Might Not Be a Bad Thing
+URL:   https://www.coindesk.com/bitcoins-dropping-lightning-capacity-might-not-be-a-bad-thing
+
+If you’re a fan of bitcoin and the nascent Lightning network, this graph looks disheartening at first glance.
+
+The lightning network is supposed to be bitcoin’s superhero, taking the cryptocurrency to new heights by tackling its toughest and most obvious problem: if cryptocurrency is ever going to “go mainstream,” it needs to support a million times more transactions than it currently does – which is no easy feat.
+
+But by the looks of this graph, lightning appears to be losing momentum. The amount of funds locked up in the layer-two network looks to be decreasing, seeming to indicate that fewer people are using it as a payment method. A lightning “channel” is like a gateway to the rest of the network, allowing a user to send a payment to any other user.
+
+While lightning is still considered “beta” software, and thus risky to use, bitcoiners have been so enthusiastic about it and using it anyway, for games and beyond, chanting the unofficial slogan “reckless.” As lightning’s capacity increased rapidly over its first year, devotees cheered it on social media.
+
+The catch is that, while this number is decreasing, lightning use might actually still be increasing because of increased privacy of lightning channels and other channel optimizations.
+
+“There’s no way of knowing the capacity in [the lightning network]. We can only know the public channels’ capacity, not private,” Roy Sheinfeld, CEO of Breez told CoinDesk.
+
+And at least one company says that – at least in their experience – lightning payments are picking up.
+
+“We are doing increasing dollar value volumes on the lightning network. What I am seeing is the price going up and thus people need less coins locked up in channels to maintain spending power,” FastBitcoins MD Danny Brewster told CoinDesk.
+
+A tale of two nodes
+
+So, while so far watching this number has been a spectator sport — football for tech geeks — it might not be for much longer. This number will grow harder to track over time.
+
+That’s because many lightning wallets do not advertise whether their channels exist to the rest of the network, by default.
+
+Under the hood, there are “advertised” channels which advertise their existence to the rest of the lightning network and “non-advertised” channels which don’t. Normal channels, used by everyday users who just want to buy pizza and draw dicks online with lightning, don’t need to be advertised.
+
+“Many wallets in the past few months have been released which default to non-advertised channels, these channels don’t show up on any public metrics, so relying on the public metrics alone only really shows half of the picture,” Lightning Labs CTO Laolu Osuntokun told CoinDesk.
+
+Generally, advertised channels only need to be used by routing nodes, so the sturdier nodes that get payments from one person to another and need to be online all the time.
+
+Zap creator Jack Mallers argued “it’s only responsible” that “anyone who isn’t a routing node [uses] private [“non-advertised”] channels.”
+
+Some go as far as to argue that the public capacity is a “useless indicator” because it doesn’t capture all – or maybe even most – of the money in the lightning network.
+
+Because more apps have been starting to follow these best practices, Sheinfeld guesses that “most” channels are private, noting that his wallet Breez has opened “thousands” of private channels just in the last couple of months alone.
+
+“Breez opened thousands of private channels in the last two months. Lightning Labs auto-pilot also opens private channels,” he said.
+
+This is one reason why many developers see lightning as providing more privacy than on-chain bitcoin transactions. While bitcoin has a reputation for giving users anonymity, transactions are actually public. Lightning hides a bit more of the transaction details.
+
+“If a regular bitcoin transaction is similar to uploading your bank statement to a public web site, a lightning network transaction is similar to showing each merchant you pay how much money you have in one specific compartment of your wallet. You’re still revealing some information, but much less,” as lightning startup SuredBits wrote.
+
+Garbage day
+
+Another reason the capacity is decreasing is because some entities are closing down lightning channels that were wasteful.
+
+“Based on my knowledge, the decrease in channels is simply node operators being rational by closing out channels that have been open for some time, but which don’t have notable forwarding activity,” Osuntokun said.
+
+For instance, there’s one famous and mysterious anonymous lightning user by the name of LNBIG who has opened many lightning channels. They initially debuted by pouring 300 bitcoin into the lightning network, giving new meaning to lightning’s “reckless” catchphrase.
+
+“At the beginning of my activity, I opened many channels in the hope that they will be used (and due to the imperfection of the autopilot),” the person behind LNBIG told CoinDesk.
+
+But, the secretive developer said, those channels weren’t really used much at all. They were just open and sitting there.
+
+“But time has shown that many channels have not been used once for two to four months, for example, and the funds in them are nonetheless blocked,” LNBIG continued.
+
+The funds are “blocked,” as LNBIG puts it, because of the way lightning works. A lightning “channel” is like a gateway to the rest of the network, allowing a user to send a payment to any other user. But when someone opens a “channel” with someone else and doesn’t use it, then other people can’t use that gateway.
+
+So, it makes sense to free up that capacity and wait to see if a new channel opens want to use the capacity, which is exactly what LNBIG decided to do.
+
+LNBIG posted a Twitter poll before following through with closing these channels, arguing that the only downside would be the “psychological effect” that lightning’s capacity would fall down to 825 bitcoin.
+
+As the decrease in lightning’s capacity shows, Twitter encouraged LNBIG to follow through.
+
+Zap founder Jack Mallers speaks at Bitcoin 2019 in San Francisco, image via Jack Mallers

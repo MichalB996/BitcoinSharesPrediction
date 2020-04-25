@@ -1,0 +1,89 @@
+DATE:  17.03.2020, 17:51:22
+TITLE: Bitcoin’s Difficulty Target and Adjustment: Complete Beginner’s Guide
+URL:   https://blockonomi.com/bitcoin-difficulty-target-adjustment/
+
+Considering the extended bear market throughout 2018 and the financial stress it has placed on miners in Bitcoin, it is pertinent to look at Bitcoin’s difficulty adjustment and how it plays a vital role in the economics of the legacy cryptocurrency. B
+
+itcoin’s difficulty adjustment is one of its most essential features.
+
+What is Bitcoin’s Difficulty Target and Adjustment?
+
+Bitcoin’s difficulty target is a 256-bit number that is adjusted every 2016 blocks (~2 weeks) based on the time it took to mine the previous 2016 blocks.
+
+The difficulty algorithm attempts to produce a block roughly every ten minutes and is proportionately modified by Bitcoin clients every two weeks to the amount of time higher or lower than it took to mine the previous 2016 blocks.
+
+The difficulty decreases if the previous 2016 blocks took longer to find than two weeks and increases if it took less than two weeks to find the last 2016 blocks. Miners attempt to ‘solve’ the lottery-like procedure of mining by producing the SHA-256 hash in the block header that is lower than or equal to the difficulty target.
+
+This value is known as the ‘nonce’ and is continually incremented higher by miners until a block header with the corresponding hash value lower than or equal to the target is found in that lottery round.
+
+A higher difficulty target means blocks are easier to produce and a lower difficulty target means that they are harder to mine. The difficulty started at 1, can never go below that value, and the upper bound is enormous and not relevant right now.
+
+Bitcoin’s difficulty adjustment correlates to the network’s hash power, and as the hash rate increases, the difficulty increases.
+
+Notably, the difficulty adjustment algorithm has an off-by-one bug that leads to the calculation based off of the previous 2015 blocks, rather than precisely 2016.
+
+Further, clients do not exactly determine the difficulty, and it is more of an accurate approximation of a floating average target.
+
+Estimating the next difficulty adjustment is possible, but extrapolating predictions to the longer term is infeasible. Bitcoin’s hash rate nearly tripled (~2.9X) throughout 2018 and mirrors the market price movements of Bitcoin closely.
+
+In the Bitcoin whitepaper, Satoshi Nakamoto briefly describes the difficulty adjustment as follows:
+
+“To compensate for increasing hardware speed and varying interest in running nodes over time, the proof-of-work difficulty is determined by a moving average targeting an average number of blocks per hour. If they’re generated too fast, the difficulty increases.”
+
+His description is vital for understanding the consistent issuance of bitcoins at ten minutes — along with its economic impact — and the incentive design within the mining ecosystem.
+
+The Consequences of Bitcoin’s Difficulty Adjustment
+
+Proof-of-work (PoW) is designed so that miners expend resources (hardware and electricity) to secure the network, which concurrently creates an incentive for miners to secure the network because their reward for mining is received directly in bitcoins and they have invested electricity and hardware into acquiring bitcoins.
+
+The difficulty adjustment plays the role of regulating the issuance of bitcoins into the ecosystem at a fixed and predetermined rate.
+
+When the Bitcoin price rises, more miners are incentivized to join the network to take advantage of the profit margins, leading to an increase in the network’s hash power.
+
+If there were no difficulty adjustment to make it harder to mine blocks at an increased hash power, then bitcoins would be issued at a continually faster pace than the predetermined ten minutes, making Bitcoin susceptible to a rising stock-to-flow ratio that plagues inflationary fiat currencies and even scarce minerals like silver.
+
+Read: Our Complete Guide to Bitcoin
+
+For instance, when the value of silver rises, mining companies are incentivized to mine more silver, increasing the supply of silver and deflating the price.
+
+No matter how much hash power the Bitcoin network aggregates, this problem will never occur because the difficulty target adjusts to make the issuance rate consistent despite more miners contributing computing power to solve PoW.
+
+Over the long-term, the issuance of bitcoins will never change even if the price raises to an astronomical sum.
+
+Since the increase in hash power cannot lead to more bitcoins being issued than what is predetermined, the collateral effect is that the security of the network increases by more miners joining the network.
+
+With the extended downturn in Bitcoin’s price for the last year, the profitability of mining has declined, leading to more miners pausing or ending their operations.
+
+As such, the difficulty target increases, making producing blocks easier and providing an incentive for miners to remain on the chain and continue mining to earn bitcoins with reduced competition.
+
+Miners that can operate at a loss have the advantage of mining bitcoins with a higher probability when other miners leave the market, and if they believe in the long-term increasing value of Bitcoin, it creates a ripe opportunity to accrue more bitcoins.
+
+Many miners do not have this advantage, which is clearly represented by the hash rate declining over the last several months before it rebounded at the end of the year.
+
+The specific part where Nakamoto mentions “..varying interest in running nodes over time” is also an essential point. If the difficulty adjustment did not exist, the increasing hash power of the network would lead to blocks being mined faster than every ten minutes, leading to a rapidly increasing blockchain size.
+
+A larger blockchain requires more storage capacity for regular full nodes, which confers a burden on users who run full clients, eventually forcing many of them to stop running nodes because their consumer laptop or desktop cannot adequately store the blockchain that is characteristic of full nodes.
+
+The long-term implications of the difficulty adjustment, as a result, are vital to the sustainable decentralization of Bitcoin.
+
+Users that run full nodes are the drivers of what constitutes Bitcoin as their selection of whether or not to follow new upgrades or forks determines which chain of Bitcoin retains the largest consensus as Bitcoin.
+
+The conservative nature of changes to the Bitcoin protocol and its abstract existence as a Schelling point for users are the defining characteristics of its sustainability.
+
+Concerns With Bitcoin’s Difficulty Adjustment
+
+Bitcoin’s difficulty adjustment is a key aspect of its design, but it is not perfect. The off-by-one bug is a well-known problem, and legitimate criticisms stemming from control theory point out that the impact of the moving target’s impreciseness can have adverse long-term consequences.
+
+The off-by-one bug contributes to blocks arriving slower than intended even with a consistent hash rate. The result is that the difficulty adjustment does not respond to changes in the hash rate as accurately as it should — or promptly as it creates a delayed response –, leading to scenarios where price movements are amplified in the direction of particularly strong hash rate changes.
+
+Further, long-term upward hash rate trends in one direction can cause blocks to arrive faster than intended, causing the Coinbase transaction rewards to halve at faster paces than the intended four-year rate.
+
+Unfortunately, the off-by-one bug can only be corrected with a hard-fork and has been shelved for the time being.
+
+If Bitcoin continues to garner adoption, it is likely that the off-by-one bug will need to be addressed to reduce its long-term impact. It is not a cause for immediate concern, and Bitcoin devs, as well as the broader community, have continually demonstrated a prudent approach for implementing upgrades to the protocol to maintain robustness and sustainability.
+
+Conclusion
+
+Bitcoin has multiple nuanced components that make it a successful and novel technology, and its difficulty adjustment is assuredly one of its most profound.
+
+From fundamentally adhering to properties that produce sound money to retaining decentralization over time, Bitcoin’s difficulty adjustment is a component of the protocol that is often overlooked but continues to have an enormous impact on the legacy cryptocurrency’s viability.

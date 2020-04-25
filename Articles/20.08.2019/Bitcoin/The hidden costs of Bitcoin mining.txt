@@ -1,0 +1,57 @@
+DATE:  20.08.2019, 00:00:00
+TITLE: The hidden costs of Bitcoin mining
+URL:   https://www.proactiveinvestors.co.uk/companies/news/901151/the-hidden-costs-of-bitcoin-mining-901151.html
+
+Since 2009, Bitcoin mining has grown into a massive operation involving data centres packed with computer processors and racking up massive electric bills
+
+Mining Bitcoin is an expensive business, mainly due to the extremely large electricity bill the process can ramp up and the pricey hardware involved.
+
+Bitcoin mining works by using powerful computers (known as nodes) to validate transactions by solving complex mathematical puzzles to find a solution that matches a specific number provided by a grouping, or ‘block’, of transactions which are then linked with other solved blocks to form a block-chain.
+
+However, this isn’t as easy as it sounds as the number can be anything between 0 and 4,294,967,296 and cannot be predicted, so computers must keep guessing at random until they get lucky; the more processing power a node has, the luckier it will be against its competitors.
+
+Once a node guesses the correct number, it is rewarded with 12.5 Bitcoins, currently worth around US$133,425, although this reward halves every four years or so.
+
+While the rewards for mining Bitcoin can be great, the demand for computing power has led to the rise of massive mining nodes made up of dozens of processors that perform trillions of calculations to try to mine as much as possible.
+
+All of this has led to a dramatic spike in the global power supply used to mine Bitcoin, which as of 19 August was estimated at a minimum of around 44 terawatt-hours (TWh) per year, according to tech trends site Digiconomist.
+
+That’s more than the entire annual 2018 power consumption of New Zealand being dedicated to creating a currency that doesn’t physically exist.
+
+Ballooning processor costs
+
+Aside from the massive electricity bill, serious Bitcoin miners also have to contend with the costs of computer processors required to perform the required calculations.
+
+When Bitcoin first appeared on the scene back in 2009, mining the crypto-currency was relatively simple due to the small pool of users who knew about it and were using their PC CPUs (essentially the computer’s brain) to perform the calculations necessary.
+
+However, as Bitcoin’s popularity grew, more powerful processors were needed to compete with the influx of new users, and mining progressed to the use of graphics processing units (GPUs), which were equivalent to the power of around 30 CPUs, before then moving to FPGAs, essentially a GPU that runs three to 100 times faster, and finally application-specific integrated circuits (ASICs), pieces of hardware designed solely to mine Bitcoin.
+
+ASICs are now the standard for Bitcoin miners and their costs reflect it, with an Antminer S17, the flagship ASIC from Bitmain, the world’s leading Bitcoin mining hardware manufacturer, retailing at around US$2,700 a pop.
+
+For comparison purposes, a top of the range CPU will usually set you back around US$50-US$300.
+
+Case study
+
+On a corporate level, it is possible to extrapolate many of the costs of running a large Bitcoin mining operation by looking at Argo Blockchain PLC (LON:ARB), an-enterprise scale crypto miner listed on the main board of the LSE.
+
+As of 4 July, Argo currently operates 7,025 Bitcoin mining machines from a data centre in the Canadian province of Quebec.
+
+Assuming these machines are all Antminer S17’s, Argo’s existing operation is worth around US$19mln, while also consuming around US$29,741 a day in electricity costs based on Quebec’s electricity prices.
+
+If the operation runs 24 hours a day, 365 days a year, that’s US$10.8mln a year in power costs alone.
+
+This is only set to increase further, with Argo expecting another 7,000 mining machines to be installed and in production by the end of 2019.
+
+Big Tech needs big power
+
+The seemingly endless hunger of Bitcoin miners for electricity sounds like it would make any environmentalist recoil in terror, and they may have reason to as there are competing reports as to how much carbon dioxide is produced by the global Bitcoin machine despite assertions that most of the power used comes from renewable sources.
+
+A report in May 2019 from cryptocurrency asset manager CoinShares estimated that the global Bitcoin mining network drew around 74% of its power from renewable sources, although a contrasting report in June from journal Joule estimated the network contributed around 22mln tonnes of CO2 each year, around the same amount as Morocco.
+
+However, despite Bitcoin’s massive appetite for electricity, it isn’t the only big tech enterprise straining the world’s energy grid.
+
+Search engine giant Google, owned by parent Alphabet Inc (NASDAQ:GOOG), consumed 8 TWh in 2017 alone, while fellow tech behemoth Facebook Inc (NASDAQ:FB) consumed 3.4 TWh in 2017.
+
+That’s around a quarter of Bitcoin’s annual energy consumption used by only two companies, with other computing heavyweights such as Apple Inc (NASDAQ:AAPL) and Microsoft Inc (NASDAQ:MSFT) likely to push the total for 'Big Tech' up even further as the move toward remote, ‘cloud-based’ data centres and huge server farms become a bigger part of modern computing.
+
+If data centres full of social media photos and cat videos begin sapping the electricity grids, Bitcoin mining will probably be the least of the world’s problems.

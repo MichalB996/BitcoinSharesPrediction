@@ -1,0 +1,27 @@
+DATE:  17.01.2020, 15:34:01
+TITLE: Bitcoin fans just turned their Tesla car into a full node
+URL:   https://thenextweb.com/hardfork/2020/01/17/bitcoin-tesla-full-node-blockchain-cryptocurrency/
+
+Tesla cars are capable of a lot, from self-driving, smart summoning, and automatic parking — but what about running Bitcoin?
+
+As it turns out, they can do that too. Cryptocurrency fans have shared video footage of a Tesla car’s onboard computer system operating as a Bitcoin BTC full node.
+
+[Read: Accidental Tesla ‘butt dial’ upgrade highlights confusing future of car maintenance]
+
+This is possible thanks to the Bcoin project, which shared the video. Bcoin is an alternative implementation of the Bitcoin protocol that any machine — like Tesla‘s onboard computer — can run via its internet browser to join in the consensus process.
+
+So, for at least a short while, there was a Tesla car out there helping to keep Bitcoin chugging along smoothly.
+
+Probably don’t use your Tesla to run Bitcoin
+
+While this is a pretty cool (albeit novel) way to show off the Bcoin project, turning your Tesla car into a mobile Bitcoin full node might not be the greatest idea.
+
+Indeed, running a Bitcoin full node is relatively resource intensive, so the processing power required to download and process Bitcoin block data could impact the UX experience of its onboard computer — as one Twitter user pointed out.
+
+They also highlighted lifespan issues suffered by memory modules in Tesla cars. Bitcoin full nodes must interact with data quite regularly, which could exacerbate those concerns.
+
+Bcoin devs apparently know this, too. Its website comes complete with a disclaimer. It reads: “Warning: this will use a lot of your bandwidth, [CPU], and potentially disk space.”
+
+This means it’s likely that Bcoin devs didn’t actually run their full node for very long, and it’s probably advisable that you do the same, for the sake of your Tesla.
+
+Bitcoin fans have turned other gadgets (albeit smaller ones) into Bitcoin full nodes in the past. Most notably, they’ve found the single board computers Raspberry Pi to be a particularly good machine for syncing the blockchain.

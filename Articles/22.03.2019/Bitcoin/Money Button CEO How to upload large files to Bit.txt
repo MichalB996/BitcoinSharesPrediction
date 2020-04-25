@@ -1,0 +1,21 @@
+DATE:  22.03.2019, 07:39:08
+TITLE: Money Button CEO: How to upload large files to Bitcoin SV blockchain
+URL:   https://coingeek.com/money-button-ceo-how-to-upload-large-files-to-bitcoin-sv-blockchain/
+
+When Steve Shadders and his team unleashed OP_RETURN, increasing its maximum size to 100KB, the Bitcoin SV (BSV) community took advantage and started uploading a torrent of image files using services like Bitstagram. Even though that has allowed users to do so much already, Money Button CEO Ryan X Charles is now ready to show us how we can upload even better pictures to the BSV blockchain.
+
+On March 21, Charles tweeted that there’s now a more reliable method to upload large files, including pictures, to the blockchain. He links to a BitPaste article, which shows 12 examples of large image files uploaded to the blockchain, and a link to a YouTube video that explains how the process works.
+
+The process works by uploading multiple files, which will then be combined to create the larger upload. Each upload to the blockchain incurs a transaction cost. Uploading a 100KB file or image costs roughly $0.07 at the moment, so as Charles explains, a 5MB image or file will cost roughly $3.50.
+
+The Money Button team has created a new tool to accomplish UTXO splits, called ‘Raise Speed Limit.’ This allows the user to sign hundreds of transactions at once, which will then allow writing to the blockchain. In Charles’ demonstration, the tool signs 250 transactions in 45 seconds.
+
+Once the transactions are confirmed and a new block is created on the blockchain, the user can upload their file using the add.bico.media site. After the file is dragged to the screen, money buttons are created, which can be swiped to put each piece of the file on the network.
+
+Then, using bico.media, the user can find their file. The 5MB file that Charles uploaded in his YouTube video can be found here.
+
+The Money Button CEO notes that the BSV blockchain is reserved for high quality images that are worth the cost of uploading, which is an important point to make. The blockchain is immutable, storing files indefinitely, so you want to make sure that whatever you are putting there is worthy of the BSV blockchain, and worth the cost.
+
+It’s still not perfect. Charles admits that the user experience could be friendlier, but considering we’re only a couple of months into the new age of increased OP_RETURN file sizes, the amount of app development seen has been astounding.
+
+New to Bitcoin? Check out CoinGeek’s Bitcoin for Beginners section, the ultimate resource guide to learn more about Bitcoin—as originally envisioned by Satoshi Nakamoto—and blockchain.

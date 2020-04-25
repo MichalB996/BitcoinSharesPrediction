@@ -1,0 +1,103 @@
+DATE:  13.03.2020, 14:30:16
+TITLE: Bitcoins lost in exchange hacks: Legit or a claim to profit?
+URL:   https://eng.ambcrypto.com/bitcoins-lost-in-exchange-hacks-legit-or-a-claim-to-profit/
+
+Ever wondered what happens to hacked cryptocurrencies?
+
+From securing expensive diamonds and valuables in vaults to preventing user data from being leaked, security has come a long way. No matter how hard one tries, a security breach is inevitable. This is due to several reasons – the inability to follow proper security checks or due to an inherent fault in the system which invariably leads to a leak.
+
+So, what really happens to the cryptocurrencies that are hacked from exchanges?
+
+A few institutions track the lost funds, however, most of the lost cryptocurrencies are not recovered. Exchanges cooperate and the hacked funds aka tainted cryptocurrencies are usually not allowed to get back into the exchange.
+
+“Was the hack legit?” is another question people fail to ask.
+
+It might seem like a tinfoil hat theory. Is there any proof that the said hack occurred? With the said ‘conspiracy’ out in the open, looking at the sheer number of hacks since cryptocurrencies’ inception is overwhelming.
+
+There are quite a few. Just in 2019, the number of hacks exceeded 10; Binance was also on the list. However, three prominent hacks should be examined – Mt. Gox, Bitfinex’s two hacks, and the one experienced by Tether.
+
+Mt. Gox
+
+Mt. Gox, perhaps the world’s first popular Bitcoin exchange, was hacked back in 2011 when it lost an unknown amount of money. It was later rediscovered during an investigation that it had lost an approximate 650,00 BTCs to 850,000 BTCs. However, the hack only came to light when the exchange went bankrupt in 2014.
+
+Between the time it got hacked and it filed for bankruptcy, Mt. Gox tried to recover the lost Bitcoins by using trading bots to show massive trading volume. “Price manipulation in the Bitcoin ecosystem” by Gandal et al. (2018) stated,
+
+“Mt. Gox was trying to hide the absence of a huge number of BTC from its coffers, it could succeed so long as customers remained confident in the exchange. By offering to buy large numbers of bitcoins, Willy could prop up the trading volume at Mt. Gox and “convert” consumer “bitcoin” balances to fiat money.”
+
+It was also seen that during the times these bots were active, the price of Bitcoin surged almost exponentially.
+
+Trading volume manipulation is a commonly used form of manipulation that is employed by most exchanges to attract users to its platforms. Volume manipulation is easy and fairly straightforward; more volume attracts users, which would mean more actual volume when the platforms onboard more users.
+
+Bitfinex
+
+Bitfinex is among the oldest exchanges and as a result, has been a victim of hacks. The oldest known hack on Bitfinex dates back to May 2015 when 1500 BTC was stolen. However, what took place in August 2016 was the second-largest hack of Bitcoin exchange platforms. This cost the exchange a whopping 119,756 BTC worth $72 million at the time. Now, the same amount of Bitcoin would be worth $1.16 billion.
+
+Following this attack, the exchange immediately stopped withdrawals and deposits. The same continued on and off since the exchange is known to have banking problems.
+
+Although this might look normal, an academic paper that gained mainstream attention thinks otherwise. A paper written by John M. Griffin et al. (2018), among other allegations, hypothesized that hacks like these were a part of how Bifinex functioned in the early days.
+
+The paper alleged manipulation by Bitfinex and Tether by artificially creating buying pressure. According to the paper, Tether, the most used stablecoin, was printed and pushed into the market to prop up the price of Bitcoin.
+
+More precisely,
+
+“The Tether issuers create a valuable put option in the case of a future crypto market downturn. The founders of Tether have a valuable option to not redeem Tether to dollars, and possibly experience an inside ’hack’ (perhaps, similar to the one on Mt. Gox) when Tethers and/or their associated dollars suddenly disappear.”
+
+This is yet another form of manipulation that might be used by exchanges. With Bitfinex and Tether, it was printing more USDT even without manipulation and redeeming BTC from the profits to back the printed USDT. All of which ties into the audits which never happened.
+
+Bitfinex’ed & Hasu
+
+2018 was ripe with allegations and rumors of insolvency for Bitfinex. More of Bitfinex’s so-called manipulations were allegedly ousted by a well-known critic – Bitfinex’ed.
+
+The critic outlined everything from wash trading, spoofing, hacks, repayment of tokens, to the audits that Bitfinex never actually underwent and audio recording of Bitfinex insiders, etc.
+
+Other forms of alleged manipulation employed by Bitfinex was spoof trading, very similar to the one seen in the case of Mt. Gox.
+
+Perhaps, the most important one was when Bitfinex addressed the rumor of insolvency.
+
+“There have been ups and downs along the way, with complications scrutinized by watchful ‘investigators’ eagerly anticipating and predicting the industry’s collapse. These parties are quick to scream insolvency, seemingly with little understanding of what this concept means and what they are generally talking about.”
+
+As for BitMEX, the world’s largest perpetual contract exchange, was also faced with allegations regarding the running of a for-profit trading desk, among other things like price manipulation, etc.
+
+Fractional Reserve
+
+All these major institutions have manipulation in common, albeit alleged. Most of the manipulation is centered around the simple fact that some of these exchanges did not have enough reserves. Mt. Gox tried volume manipulation to refill its coffers with Bitcoin after losing massive amounts to a hack. Bitfinex, however, did it to increase the price of Bitcoin and it probably doesn’t have a fully backed Tether reserve. Even in 2020, there isn’t any conclusive proof that shows Tether’s backed reserves.
+
+Speaking to AMBCrypto about the fractional reserve nature and exchange hacks, co-founder and CEO of CoinGecko, Bobby Ong, stated,
+
+“It’s possible, though we would never know. The only way is for exchanges to be regulated or to be completely transparent on their reserves, which unfortunately most are not.”
+
+Even now, centralized and unregulated exchanges could be running a fractional reserve and nobody would know. Take, for example, the CME Futures or any cash-settled product of Bitcoin. There are market/liquidity providers who provide liquidity, but there is no proof that the institution has Bitcoin to back it.
+
+Fractional Reserve can be seen in the U.S. dollar. In fact, Investopedia defines it as,
+
+“Fractional reserve banking is a system in which only a fraction of bank deposits are backed by actual cash on hand and available for withdrawal. This is done to theoretically expand the economy by freeing capital for lending.”
+
+It is arguably good for the fiat ecosystem on which the whole world runs on. Cash needs to be liquid and available for the economy to grow. For crypto, however, it is a whole other story. Unlike fiat, cryptocurrencies, especially Bitcoin, has a hard cap. There will be 21 million Bitcoins in existence forever and not more than that. It doesn’t matter if Bitcoins are lost, they are taken out of Bitcoin circulation.
+
+A fractional reserve in cryptocurrencies will artificially inflate the price of Bitcoin and will prevent price discovery. Further, the fractional reserve will also help the exchanges go rampant with their spending as they can always claim a hack or a security breach and get away with it.
+
+Hacked cryptos & their fate
+
+So, the reason why an exchange would allegedly claim a security breach or hack would be to cover up its fractional reserve, if any. It is also since the hacked Bitcoins or cryptocurrencies can be reintroduced into the circulation with necessary steps.
+
+Since Bitcoin isn’t completely anonymous, it can be linked to real-world identities, especially with KYC and AML at on and off-ramps. Some institutions have built their whole business models to analyze these transactions. Chainalysis is one such company working with several government agencies to build tools to track and explore the blockchain.
+
+However, there are ways and methods not too obscure to try and evade such authorities. Bitcoin Mixers are tools used to sever ties between Bitcoin addresses and real-world identities. Even if exchanges are using such services, there isn’t any method to prove it.
+
+Solutions?
+
+Bobby Ong agreed that one of the solutions would be for exchanges to reveal their reserves. He added,
+
+“Yes, they should be as transparent and possible and reveal their balances. They should follow like what Renrenbit is doing by disclosing their reserves.”
+
+There have been various developments in the ecosystem, but none have yielded any results due to the lack of cooperation. An age-old solution would be to conduct a third-party audit.
+
+A blockchain-centric solution would be the implementation of BIP 127. BIP 127 is a proposal that formalizes a standard format for constructing such proofs, easing their construction with existing wallet infrastructure, and enabling general proof-verification software.
+
+Another solution is Proof-of-Keys [PoK], a movement started by Trace Mayer to let people take control of their cryptocurrencies by withdrawing their cryptocurrencies from hot wallets of exchanges and other platforms. Started on 3 January 2018, PoK caused a lot of exchanges to shut down withdrawals or increase their fees to discourage the movement.
+
+Although not efficient, Bobby noted that it is “highly unlikely the community” would be “able to move a large portion of the funds off exchanges to make a difference.”
+
+Among other reasons like ‘not your keys not your coins,’ the main reason for PoK was to prevent what everybody knew but nobody admitted – to hinder fractional reserves.
+
+For the crypto-industry aka Finance 2.0 to grow, it should be built on a strong foundation; a foundation devoid of lies and the troubles of Finance 1.0. This can be achieved through tiny efforts like supporting PoK, BIP 127, and others like it.

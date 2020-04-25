@@ -1,0 +1,37 @@
+DATE:  27.11.2019, 02:15:08
+TITLE: Devs Discuss Formal Specification Project for Bitcoin Cash
+URL:   https://news.bitcoin.com/devs-discuss-formal-specification-project-for-bitcoin-cash/
+
+Devs Discuss Formal Specification Project for Bitcoin Cash
+
+On Monday, Bitcoin ABC’s lead developer Amaury Séchet explained in a blog post that Bitcoin Cash will be getting its own formal specification from Bitcoin Verde programmer Joshua Green. Séchet noted that although a slew of developers have written documentation, “the existing state of affairs is poorly documented.” Green and his team writing a formal specification for Bitcoin Cash is “great news” to the software engineer.
+
+Also read: Privacy-Enhancing BCH Tool Cashfusion Begins Working Behind the Scenes
+
+Bitcoin ABC’s Amaury Séchet Discusses the Attempt to Create a Formal Bitcoin Cash Specification
+
+Bitcoin Cash will be getting a formal specification according to Bitcoin ABC’s lead developer Amaury Séchet. In the eyes of the development community, software specifications are extremely important for a variety of reasons including listing technical requirements and descriptions of a protocol’s behavior. Moreover, it can help other developers get acquainted with a project more easily and programmers can interact with the software in a frictionless manner. However, Séchet’s blog post highlights that the specification task can be daunting and current documentation has been written by individuals like Mark Lundeberg, Freetrader, Shammah Chancellor, Antony “Mengerian” Zegers, and he has contributed as well. Still, in Séchet’s opinion, “the existing state of affairs is poorly documented” and these authors are recognized “as major contributors” as far as infrastructure is concerned.
+
+Séchet underscored that major contributors already have to deal with designing the protocol, coordinating with the ecosystem, writing additional software, running tests, and be expected to write a specification for all of it. So Bitcoin Verde’s Josh Green has offered to have his team write a specification for Bitcoin Cash. This is great news to Séchet but he wants to remind people that there was a previous attempt by Nchain to write a formal specification. “Taking control of the specification, rather than contributing to pre-existing efforts, is a logical move for an attacker wanting to take advantage of a poorly funded infrastructure,” Séchet stressed. The Bitcoin ABC developer added:
+
+In order to make sure no act of manipulation takes place, it is vitally important for the community to ensure that the right people are involved. People who have proven, not only by their words, but by their actions and achievements, their commitment to Bitcoin Cash and its goal: peer to peer cash for the world, enabled by cheap, fast and reliable transactions.
+
+‘Providing a Genuine Benefit to the Bitcoin Cash Community’
+
+Séchet said that Green is a “good leader” for the formal specification task and has “proven to be professional.” However, Séchet further explained that Green’s “involvement is not enough” and he suggested two other members of the BCH community that should help. The programmer remarked that he thinks Chris Pacia from the node implementation BCHD and independent developer Mark Lundeberg would be a great help toward the specification project.
+
+Additionally, Séchet detailed that the specification “must use a license compatible with MIT,” but it also important that the specifications do not live in a “walled garden.” An example of a “walled garden” scenario is when the 1970s American telephone system manufacturer Bell controlled all the telecommunications media, applications, and content, essentially controlling the information being sent through all telecommunications infrastructure at the time.
+
+“No matter what the license is, a malicious actor could create a de facto capture by requiring the use of non-standard tools, for instance,” Séchet opined.
+
+An official spec for Bitcoin Cash is a big deal! It's great to see @deadalnix and ABC supporting@joshmgreen is a fantastic choice to lead the effort I certainly hope BCHD is represented on the team. @ChrisPacia or @zquestz would be valuable additionshttps://t.co/Yiw7uNAPp4 — Ⓥin Ⓐrmani (@vinarmani) November 26, 2019
+
+Séchet’s blog post concluded that he supports the effort to establish a specification for Bitcoin Cash. He noted that the points he stressed were meant to ensure the specification project “provides a genuine benefit to the Bitcoin Cash community.” “I will be following progress with interest, and hope this project has great success,” the developer added. On the Reddit forum r/btc, BCH proponents indicated that they respected Séchet’s message, as the blog post was quite popular.
+
+“As Bitcoin Cash continues the whitepaper mission, this specification initiative is as brilliant as it is vital,” one person commented on the specification Reddit thread. “Not only is a Bitcoin Cash specification vital for coordinating mission-critical infrastructure that the world’s economy is one day expected to depend upon but it’s also brilliant in that Bitcoin Cash leadership is assumed and confirmed.” On Twitter, software developer Josh Ellithorpe said he would also be involved with the project. “Just for the record, I am involved — Josh Green contacted me the moment this initiative started to make sure I would be a part of it,” Ellithorpe said.
+
+What do you think about Bitcoin Cash getting a formal specification? What do you think about Amaury Séchet’s points about a formal BCH specification? Let us know what you think about this subject in the comments section below.
+
+Image credits: Shutterstock, Pixabay, Wiki Commons, Fair Use, Bitcoin Verde, Bitcoin ABC, and Twitter.
+
+Did you know you can buy and sell BCH privately using our noncustodial, peer-to-peer Local Bitcoin Cash trading platform? The local.Bitcoin.com marketplace has thousands of participants from all around the world trading BCH right now. And if you need a bitcoin wallet to securely store your coins, you can download one from us here.

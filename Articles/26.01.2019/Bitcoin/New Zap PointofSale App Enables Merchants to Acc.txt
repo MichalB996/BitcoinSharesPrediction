@@ -1,0 +1,31 @@
+DATE:  26.01.2019, 04:39:33
+TITLE: New Zap Point-of-Sale App Enables Merchants to Accept Lightning
+URL:   https://bitcoinmagazine.com/articles/new-zap-point-sale-app-enables-merchants-accept-lightning
+
+Ring in the new bitcoin halving cycle the right way: with us!
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+A new point-of-sale (PoS) app released by Zap allows merchants to independently accept transactions on the Lightning Network.
+
+Jack Mallers, the founder of Zap, described some of the properties of this new app on a recent Twitter thread. Mallers also spoke with Bitcoin Magazine to elaborate on some of the inner workings of the project.
+
+Zap’s new PoS protocol was recently put to the test at a Chicago cocktail lounge, uploading the menu onto the app and allowing customers to use a QR code for tipping. Mallers built a device to allow the establishment to run the app, a “Rock64 board (4GB ram) with a Samsung SSD (1TB).” Mallers said that the current hardware rig “is very similar to a Nodl (nodl.it) device” and that “the founder of Nodl (ketominer) was very helpful with advising the build out of the box.”
+
+Self-sovereignty was a huge design concern for rolling out this app, so for the final product “total costs for the device hardware were under $200, and that was non-manufactured and ordered from Amazon. This allows the merchant to be fully validating, always online, and not reliant on any third party. The most powerful position any merchant can be in.”
+
+Looking forward, Mallers said, “I'd like to help Bitcoin enter a more consumer-facing era, and build this new relationship with end users via the Lightning Network. However Zap can best help Bitcoin achieve adoption and success, is where Zap will go.”
+
+With the first test launch successful, he went on to state that he’s seen a lot of demand from people in specific industries, “like marijuana for example, that struggle with banking relationships and are very interested in Zap PoS. We plan to continue working on the app(s) to get them to a point where they are helping real people. You can definitely expect more to come.”
+
+The Lightning Network has already been heralded as a technology with the potential to completely transform the industry, with a way to circumvent the scaling problem associated with Bitcoin. Many companies have been taking notice of the network’s advantages and have made their own attempts to capitalize on it. BitFury, for example, has recently rolled out Lightning Peach, its own set of tools for the Lightning Network, including a PoS system.
+
+For Mallers, spreading the use of the Lightning Network was the principal driver behind building the Zap PoS application and holding the Chicago event. “We want to humanize the Lightning protocol [and] present it in a way that is digestible, understandable, easy to communicate with, etc.”
+
+The road to large-scale adoption won’t be easy, of course.
+
+“Getting all of this right doesn't take genius insight, rather learning from repeated efforts,” said Mallers. “It simply requires time and persistent ambitious effort towards a common goal.”
+
+Nevertheless, Mallers seemed confident in the overall feasibility of this technology. “The benefits are clear. There is no more powerful position to be in than a self-sovereign merchant. Nobody can deny you payment, no paybacks, no down time, no banking issues, no border restrictions, attracts new customers, etc. There is literally only upside in this.”

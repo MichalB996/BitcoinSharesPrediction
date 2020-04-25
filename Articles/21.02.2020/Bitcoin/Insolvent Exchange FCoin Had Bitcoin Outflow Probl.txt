@@ -1,0 +1,41 @@
+DATE:  21.02.2020, 10:14:16
+TITLE: Insolvent Exchange FCoin Had Bitcoin Outflow Problems Just Two Months After Launch: Report
+URL:   https://finance.yahoo.com/news/insolvent-exchange-fcoin-had-bitcoin-101416276.html
+
+Cryptocurrency exchange FCoin, which revealed its insolvency this week, may have already been leaking bitcoin as early as July 2018 – just two months after its debut.
+
+On-chain analysis and security startup PeckShield released a report on Friday, suggesting FCoin’s bitcoin (BTC) wallets had a significant outflow of nearly 10,000 BTC between July 19 and Aug. 31, 2018 – a time that coincided with the occurrence of the fatal “data error” that FCoin founder Zhang Jian mentioned in his tell-all post on Feb. 17.
+
+While announcing FCoin was insolvent, the founder revealed the exchange had a shortfall of up to $130 million worth of bitcoin.
+
+Related: Binance Is Not Under Our Jurisdiction, Says Malta Regulator
+
+Basing its on-chain analysis on the address of one of FCoin’s major bitcoin cold wallets, starting with “12rU7w” and disclosed in June 2018, PeckShield said it had collected 33,938 bitcoin addresses that are believed to belong to FCoin – including hot, cold and users’ custodian wallets – and compiled the combined daily balance of these wallets from April 2018 to February 2020.
+
+View photos FCoin’s daily bitcoin balance since April 2018. Data compiled by PeckShield More
+
+The chart shows FCoin’s wallets surged to as many as 13,272 BTC on July 19, reflecting sharp growth after the debut of the exchange’s “trans-fee mining” model in May. But the daily balance sharply decreased to just 3,759 BTC on Aug. 31, according to PeckShield.
+
+Although the daily balance climbed back to 7,300 BTC around November 2018, it has since decreased to only about 477 bitcoin currently, PeckShield’s analysis suggested.
+
+“Our initial guess is FCoin’s cashflow problem may already have emerged in July 2018. The Pandora’s box may have been opened at that time at the peak of its momentum,” the firm said in the post.
+
+Missing millions
+
+Related: Fidelity International Invests $14M in Hong Kong Crypto Exchange Operator
+
+It’s unclear where all these bitcoin went exactly, but at least about 3,500 of them were sent from FCoin to wallets at other nine crypto exchanges. Each of the series of transactions was a round number of 100, 150, or 200 BTC. The recipient exchanges included Huobi, OKEx, Binance, Coinbase and Bitfinex.
+
+According to PeckShield’s analysis, FCoin’s the 12rU7w cold wallet address has cumulatively sent 8,009 and 11,107 BTC to sub-addresses that start with 19xHiA and 1PFtrR, respectively. These two sub-addresses further initiated transactions, of which 3,500 BTC ended up at wallets at other exchanges.
+
+While it’s unclear if those wallets belong to respective exchanges or merely FCoin’s custodian wallets at those exchanges, PeckShield said those transactions – sent in round numbers of 100 or 150 BTC – were unlikely to be FCoin users’ withdrawal requests, which would otherwise be in random amounts.
+
+View photos Connections between FCoin’s bitcoin wallets and other exchanges: Credit: PeckShield More
+
+FCoin, which adopted its novel and controversial trans-fee mining model in May 2018, said in a post earlier this week its digital asset reserve has a bitcoin shortfall of 7,000 to 13,000 and thus can no longer process users’ withdrawal requests.
+
+FCoin’s Jian claimed in his post the issue was due to a “data error” in the exchange’s systems that began in mid 2018, crediting users with more assets than they should have received.
+
+Without a proper auditing system, FCoin allowed these users to convert assets they shouldn’t have into real assets and subsequently to withdraw those assets from the exchange.
+
+Related Stories

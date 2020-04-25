@@ -1,0 +1,43 @@
+DATE:  02.05.2019, 13:02:19
+TITLE: Bitcoin Core 0.18.0 Release: Here’s What’s New
+URL:   https://bitcoinmagazine.com/articles/bitcoin-core-0180-release-heres-whats-new
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+Today, May 2, 2019, marks the official release of Bitcoin Core 0.18.0, the 18th generation of Bitcoin’s original software client launched by Satoshi Nakomoto almost 10 years ago, and still the dominant Bitcoin implementation on the network today. Overseen by Bitcoin Core lead maintainer Wladimir van der Laan, this latest major release was developed over a span of about six months, by over a hundred contributors.
+
+Bitcoin Core 0.18.0 includes the typical range of performance improvements and bug fixes, as well as some new features.
+
+Here’s an overview of some of the most significant changes.
+
+Hardware Wallet Compatibility
+
+One of the most highly anticipated changes in Bitcoin Core 0.18.0 will be allowing users the ability to connect their hardware wallet (Ledger, Trezor, Digital BitBox, KeepKey and Coldcard) through the Hardware Wallet Interaction (HWI) tool. This combines one of the most secure ways to store your private keys with the most secure way to interact with the blockchain.
+
+Hardware wallets are considered secure because the user’s private keys never leave the device. The keys are never exposed to the internet or the computer to which they’re connected, which makes hardware wallets immune to remote hacking.
+
+While it is already possible to connect a hardware wallet to an Electrum wallet connected to your full node using the Electrum Personal Server, HWI will be the first native, hardware-to-node option as part of the Bitcoin Core project. For now, the HWI scripts are still command line only and a manual process is required to connect the hardware wallet.
+
+GUI Support for Multiwallet Feature
+
+Another advancement from the latest update is giving users the ability to pair with multiple wallets. This builds off of some of the work done in Bitcoin Core 0.17.0, where users were no longer constrained by only creating wallets when starting up their node, and could instead create and use new wallets whenever they like. In Bitcoin Core 0.18.0, users can pair these multiple wallets they’ve created and plug the feature into the Graphical User Interface (GUI).
+
+This feature will continue to be refined with later updates, as there are still some known issues in using the GUI to access the “multiwallet” command. The most notable is that you can’t use coin control features with multiple wallets loaded, or else you will likely retain the wrong wallet when attempting to switch wallets.
+
+The coin control function allows the user to control which coins in the wallet to use when you send a transaction. This feature is an important aspect in maintaining user privacy since certain unspent transaction outputs (UTXO) may reveal more than others, either by the address they are sent from or the amount that they are worth. (For example, if you have one UTXO that is worth 1,000 BTC and one that’s worth 0.1 BTC, you may prefer to use the 0.1 UTXO to prevent that the person you pay learns you own at least 1,000 BTC.)
+
+Refinements to Output Script Descriptors Language
+
+Proposed by Blockstream engineer and Bitcoin Core contributor Pieter Wuille, the output script descriptors language debuted in Bitcoin 0.17.0. The main use of this language is to allow users to name their different types of public and private keys associated with their wallets and make it easier to move these keys from one wallet to another. Per his original proposal document, Wuille’s ultimate goal is to one day “remove the need for importing scripts and keys entirely, and instead make the wallet just be a list of these descriptors and their associated metadata.”
+
+As Wuille and other developers continue to work toward growing this list of descriptors, the latest update refines some of the existing language by providing new commands to allow users to begin importing human-readable descriptors for every script for which Bitcoin Core can sign.
+
+Bitcoin Mining Promotes Segregated Witness Adoption
+
+Getblocktemplate (GBT) was the first attempt at a decentralized, open source, Bitcoin mining pool protocol and was developed by the Bitcoin community in 2012. Some of the pool-specific mining protocols at that time simply issued block headers for a miner to solve, with no knowledge of what was actually in the block, and essentially gave control blindly to the pool operator. Like the much newer BetterHash protocol, GBT decentralized this process by returning power back to the miner (“hasher”), by moving block creation (transaction selection) to him.
+
+If you are a miner looking to join a supported pool, to begin using the protocol, the miner contacts the pool server and requests an initial template, which will include the rules set down for participation in the pool. These rules are customized by the mining pool and can range from coinbase and nonce parameters to min/max times hashing. But in the latest update, calls to receive this template that don’t enable SegWit will fail and the miner will receive an error message. ((However, a miner calling getblocktemplate without SegWit specified is likely a user error in any case, since this would result in lower rewards for the miner.)
+
+SegWit, implemented in 2017, is considered the biggest protocol update ever made to the Bitcoin software. The major change resulting from SegWit was fixing the malleability bug and replacing the block size limit with a block “weight” limit, allowing up to 4 megabytes of transaction data, and giving a substantial boost in the transaction capacity of the network.

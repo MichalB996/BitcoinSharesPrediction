@@ -1,0 +1,69 @@
+DATE:  18.06.2019, 12:20:00
+TITLE: Bitcoin is an energy hog. Where is all that electricity coming from?
+URL:   https://www.vox.com/2019/6/18/18642645/bitcoin-energy-price-renewable-china
+
+The cryptocurrency bitcoin has become notorious for its ravenous appetite for electricity — and its presumed massive carbon footprint.
+
+A June paper in the journal Joule estimated that annual carbon dioxide emissions from the bitcoin network are as high as 22.9 million metric tons (as much as the country of Jordan). It also accounts for 0.2 percent of global electricity use.
+
+But another recent study by CoinShares, a cryptocurrency asset management and analysis firm, found that the majority of the electricity used by bitcoin actually comes from clean sources, like wind, solar, and hydropower. CoinShares says bitcoin network gets 74.1 percent of its electricity from renewables, making it “more renewables-driven than almost every other large-scale industry in the world.”
+
+It’s a surprising finding, and some analysts are skeptical, since it contradicts other assessments of where bitcoin miners get their energy. Analysts also warn that the same factors that pushed miners to use clean energy could one day lead them to back to dirty fuels.
+
+The CoinShares study also points to a broader problem for how renewable energy is currently deployed around the world: Many renewable power generators are so poorly located and underused that mining bitcoin has become the only viable use for that electricity. Even so, in a warming world with increasing greenhouse gas emissions, is it really worthwhile to use zero-emissions power for a volatile cryptocurrency, which one critic has described as “a colossal pump-and-dump scheme”?
+
+So it’s worth examining why bitcoin uses so much energy to begin with and whether CoinShares’ claim that it has turned toward clean energy stands up to scrutiny.
+
+Why bitcoin needs so much power
+
+Even though bitcoin solely exists in digital zeroes and ones, the computers that run the network are huge energy hogs.
+
+According to the bitcoin energy consumption tracker at Digiconomist, bitcoin currently consumes 66.7 terawatt-hours per year. That’s comparable to the total energy consumption of the Czech Republic, a country of 10.6 million people.
+
+Bitcoin’s energy appetite is fused into its foundations. Since there is no central bank or authority governing the currency, the bitcoin network regulates itself through a distributed accounting system known as blockchain. In blockchain, every bitcoin transaction is tracked in a public ledger spread across thousands of computers. These transactions are grouped into blocks. However, it’s tedious to reconcile and verify every single instance of digital currency changing hands, and verifying a block requires finding a cryptographic key, an increasingly difficult computing problem.
+
+The bitcoin network creates an incentive for people to contribute computing power to verify transactions by awarding bitcoins to a miner who verifies a block (currently 12.5 bitcoins). With the price of a bitcoin right now at roughly $9,000, that’s an award of more than $112,000. This is how bitcoins are “mined,” and with the right hardware and cost inputs, it can be quite lucrative. Blocks are added to the blockchain roughly every 10 minutes.
+
+But mining is competitive, with only one miner winning the award per block. Over time, the calculations needed to verify a block get more difficult and the bitcoin award shrinks. The price is also unstable. Bitcoin’s price peaked at more than $19,500 in December 2017. These factors have created an arms race to develop better computer hardware to more rapidly verify transactions and a push to devote ever-increasing amounts of electricity to the task.
+
+Why it’s so hard to track bitcoin’s energy supply
+
+Between 60 and 80 percent of bitcoin mining revenue goes straight back into paying for electricity. So miners really, really want to save as much on their electricity bills as possible.
+
+The quest for the cheapest kilowatt has led miners to set up shop in remote regions of China and Mongolia. It’s sent miners to the sulfurous rock in Iceland to harvest geothermal power. Bitcoin mines have gone up in rural Washington state. The hunt for cheap power has even led to cases of electricity theft.
+
+However, it’s challenging to figure out just what the energy supply is. Since the network is spread all over the world, bitcoin miners often want to remain anonymous and keep their operations opaque.
+
+Another factor is that the computing hardware miners use, known as an application-specific integrated circuit (ASIC), has been getting more energy efficient over time. But mining operations are continually deploying more of them. The power grids miners draw on are also changing over time and can change in their fuel sources between seasons. That means a local utility could be getting cleaner or dirtier over time, and if more fossil fuels are coming online to meet the demand, that would lead to more greenhouse gas emissions.
+
+That’s why researchers who want to figure out what bitcoin is doing to the global climate are often forced to study proxies like surveys, interviews, news reports, and calculations based on the bitcoin network’s performance. The recent CoinShares report drew on all of these sources when it concluded that three-quarters of bitcoin’s electricity comes from renewables.
+
+“We find that miners are pretty reluctant to talk about themselves but are quite happy to talk about their competitors,” said Christopher Bendiksen, head of research at CoinShares and a contributor to the recent report.
+
+He explained that in order to assess bitcoin’s energy use, you can’t just look at the energy mix in a country as a whole; you have to zoom in on specific regions, down to provinces, cities, and sometimes individual mining facilities. In so doing, the CoinShares team found that bitcoin miners were using a disproportionate share of renewables.
+
+“This is not by chance at all,” Bendiksen said. “The reason why they’re doing this is that stranded renewables, and particularly underutilized and stranded hydro, is the cheapest large-scale energy that you can find. This is why you see miners flock to regions where high-powered renewables are abundant.”
+
+Regions with high levels of renewable energy and low demand are often areas that saw local industries leave in recent years and subsequently experienced a population exodus. So bitcoin miners, who care more about electricity costs than location, happily moved into renewable-powered rust belts around the world.
+
+Has bitcoin truly cleaned up its act?
+
+Governments have had mixed reactions to the rise of cryptocurrencies like bitcoin and their rapacious demand for electricity. In Quebec, the government is offering discounted electricity to lure in miners to boost the economy. Meanwhile, China is weighing an outright ban on cryptocurrency mining because it sees miners as scofflaws that are wasting resources and damaging the environment.
+
+China’s proposed ban asks a fundamental question about bitcoin: Regardless of where the power comes from, is bitcoin a good use of energy at all?
+
+Bendiksen said bitcoin mining is making use of energy resources that would otherwise go to waste and that renewable power mitigates its environmental footprint. “If miners don’t use cheap, renewable power, then they will use fossil fuels in less savory jurisdictions,” he said.
+
+Alex de Vries, a blockchain specialist at PwC’s Experience Center and the proprietor of Digiconomist, was skeptical of the conclusions in the CoinShares report. He noted that its estimate of renewable energy use in bitcoin mining is out of line with other calculations. A 2018 report from the University of Cambridge, for example, found that while the majority of bitcoin mining facilities drew on renewables to some extent, the average share was just 28 percent.
+
+In a separate paper published in Joule in April, de Vries explained that even the renewables being used for bitcoin mining have their own consequences. Hydropower in particular has huge regional environmental effects and sometimes has to be backed up by fossil fuels. China’s bitcoin mining industry is a case in point:
+
+Production of hydropower is high in the wet season during the summer months and low in the dry season during the winter months. As a result, seasonal variability in hydropower is already higher than 30% and expected to increase further because of climate change. In Sichuan, specifically, ‘‘the average power generation capacity during the wet season is three times that of the dry season.’’
+
+“As such, the carbon intensity of purchased electricity in Sichuan is much higher than you’d expect based on pure hydro,” de Vries said in an email. And since miners are concerned about energy costs above all else, a glut in coal, oil, or natural gas could make burning them much more attractive.
+
+Another emerging concern around bitcoin is the electronic waste. The ASIC mining devices quickly go obsolete, often in just under two years, and they can’t really be repurposed for anything other than mining.
+
+“There’s a carbon output attached to this as well, but nobody has looked into this to date (I only recently quantified the e-waste),” de Vries wrote. “This is something no amount of ‘green’ energy can fix.”
+
+But mining bitcoins remains profitable, so the amount of hardware it uses and the quantity of electricity it inhales will continue to surge dramatically for years. Another price spike could push energy use even higher. “We fundamentally don’t know how high the price of bitcoin will go,” Bendiksen said. “If the bitcoin price goes up by 10x, you would expect the energy consumption of the network to also go up by 10x.”

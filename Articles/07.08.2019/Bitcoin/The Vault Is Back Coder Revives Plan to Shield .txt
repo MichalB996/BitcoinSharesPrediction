@@ -1,0 +1,55 @@
+DATE:  07.08.2019, 14:00:32
+TITLE: The ‘Vault’ Is Back: Coder Revives Plan to Shield Bitcoin Wallets From Theft
+URL:   https://www.coindesk.com/the-vault-is-back-bitcoin-coder-to-revive-plan-to-shield-wallets-from-theft
+
+What if there were a mechanism that placed a time delay whenever someone spent bitcoin?
+
+The idea has been around for a few years now, and for good reason, it’s believed it could make it much harder for bad actors to steal funds from bitcoin users.
+
+Basically, someone holding bitcoin primarily as a store of value could put it in cold storage, or hold it offline, with code that says it can be spent, but not immediately. The owner could set some pre-determined time delay on any attempt to move the coins. The fact that it has a built-in delay would give a true owner time to reverse a transaction if their private information had been compromised and someone tried to steal their crypto.
+
+Malte Möser, Ittay Eyal, and Emin Gün Sirer proposed this feature, known as “vaults,” as a way to better secure bitcoin in 2016, but their proposal required a fork of the protocol codebase. That fork never happened.
+
+But on Wednesday, Bitcoin Core contributor and crypto consultant Bryan Bishop sent out a design to developers to accomplish the same thing using existing code.
+
+In an email titled, “Practical bitcoin vaults with theft-recovery/clawback mechanisms,” Bishop writes:
+
+“Vaults are particularly interesting as a bitcoin cold storage security mechanism because they enable a publicly observable delay period during which time a user could be alerted by a “watchtower” that a thief might be in the process of stealing their coins.”
+
+Kill switch key
+
+Under Bishop’s proposal, if an “unlock period” were initiated, an owner could choose to react or not react.
+
+If the proper owner had initiated the transaction, he or she would do nothing because they actually did want to move the bitcoin to a less-secure “hot” wallet for use. But if it was a malicious transaction, the rightful owner could use another pre-determined transaction to force the bitcoin back into the cold wallet, under the same time delay.
+
+In his email, Bishop writes:
+
+“The idea is to have a sequence of pre-generated pre-signed transactions that are generated in a certain way. The basic components are a vaulting transaction that locks coins into a vault, a delayed-spend transaction which is the only way to spend from a vault, and a re-vaulting transaction which can recover/clawback coins from the delayed-spend transaction.”
+
+Bishop’s proposal also has a number of options to address other scenarios, for more-sophisticated users.
+
+He told CoinDesk:
+
+“The way I’m looking at this is there are a lot of people and a lot of exchanges that clearly cannot secure their keys. We’ve seen theft after theft. Having the ability to revoke or undo a transaction, even in this constrained environment, could be quite valuable.”
+
+Indeed, this year has seen hacks at Bitpoint, Bitrue and Binance, among others.
+
+“I don’t know if I’m willing to say it solves theft,” Bishop added. “That’s a strong statement, but it’s a very important tool in the toolbox.”
+
+No fork required
+
+Bishop said that his proposal would not require any kind of fork as the prior proposal did. It relies on existing time lock functions that are already built into bitcoin code.
+
+That said, the software is not written yet. Before he makes this code available to the public, he needs to get feedback from fellow developers, write it and then test it thoroughly. So it will be a while before it’s available.
+
+During that give and take with fellow developers, questions about making security more complex are likely to be revisited. When the prior proposal came up in 2016, one developer noted that such a proposal gives a bitcoin user more pieces of data that they have to secure.
+
+On the other hand, since the approach requires no changes at the protocol level, it will be entirely up to the user to take advantage of it or not.
+
+And Bishop is aware that his strategy imposes new responsibilities on users. If it gets built, his concept will also need to be delivered, he said, with a certain amount of public education material, about protecting these new tools, security practices and so on.
+
+Once it is ready, though, the developer said he will make it freely available to any bitcoin holder who wants to use it.
+
+Bishop said he is likely to secure much of his own bitcoin this way, once the software is ready.
+
+Bryan Bishop photo by Flickr user @jeanbaptisteparis

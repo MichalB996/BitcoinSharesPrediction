@@ -1,0 +1,29 @@
+DATE:  13.09.2019, 16:21:04
+TITLE: Ricardo Pérez-Marco on Lightning Network and Bitcoin
+URL:   https://bitcoinmagazine.com/articles/video-interview-ricardo-perez-marco-on-lightning-network-routing-and-bitcoin
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+Ricardo Pérez-Marco is a Spanish university professor who teaches mathematics at the Paris Diderot University in France. Since discovering Bitcoin sometime in 2011 and realizing that the cryptography and math were unassailable, he has dedicated a significant amount of time to researching Satoshi Nakamoto’s creation. At one point in 2013, he attempted to create a Bitcoin-centric class in his department at the university but did not manage to convince the academic consortium about the legitimacy of the topic.
+
+Pérez-Marco’s most significant contribution to Bitcoin is unquestionably his work on the ant routing algorithm for the Lightning Network. This research project, which he conducts alongside Professor Cyril Grunspan from Pôle Universitaire Léonard de Vinci in Paris, culminated in the release of an academic paper titled “Ant Routing Algorithm for the Lightning Network.”
+
+How Ant Routing Draws From Nature
+
+During the first part of this exclusive Bitcoin Magazine interview, Pérez Marco explains why the Lightning Network needs improvements in its routing method and how the proposal he co-authored works. The mathematician considers that Bitcoin’s second layer should be as decentralized and efficient as possible ⁠— and the essential condition to achieve this goal is to enable all nodes to perform the same tasks while having access to the same information.
+
+At this point in its development, Lightning tends to converge toward faster custodial solutions. Furthermore, the upcoming Watchtower nodes will further centralize the network. This is part of the reason why multiple teams are working on improved routing solutions which maximize decentralization while also retaining the quickness and affordability of the second layer.
+
+In order to find a possible solution for the issue, Pérez-Marco and his partner have turned to theoretical research in biology on the topics of ant colonies and foraging. Assigning tasks and enabling cooperation, even in the absence of communication, are essential issues which lay at the foundation of the Byzantine Generals problem — which Satoshi Nakamoto solved with Bitcoin. In the case of Lightning, ant routing seeks to build a system which takes inspiration from the way in which ants work together to find food and accomplish great efficiency without formal coordination.
+
+On Bitcoin’s Lindy Effect, Regulation and Hyperbitcoinization
+
+Another important topic discussed in this interview revolves around Bitcoin-related research in academia and the difficulty level of finding proper funding or convincing peers about the significance of the phenomena.
+
+Pérez-Marco talks about the Lindy effect (which theorizes that something that has already existed for a long time is more likely to keep on existing, and, therefore, be regarded as a sturdy invention which has stood the test of time) as a major driving force behind academic acknowledgment of Bitcoin’s value proposition. Also, he more or less jokingly explains that research in mathematics can be done with just a pen and a piece of paper — unlike other sciences, there is very little need for other resources.
+
+Last but not least, Pérez-Marco approaches the topic of regulation and how politicians rarely manage to understand how Bitcoin works before passing bills that could affect how it’s utilized. Unless they agree to treat BTC as a different and unprecedented form of money which deserves careful analysis, they often mislabel it as a commodity or taxable property. This leads to many loopholes and potential abuses on the side of the regulators, which Pérez-Marco thinks are normal for all new technologies but should improve over time.
+
+The interview ends on a positive note, as Pérez-Marco agrees that “hyperbitcoinization is probably” the most likely evolution and reiterates the strength of the Lindy effect.

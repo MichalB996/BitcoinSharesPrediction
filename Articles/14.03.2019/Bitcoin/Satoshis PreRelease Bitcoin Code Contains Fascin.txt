@@ -1,0 +1,37 @@
+DATE:  14.03.2019, 22:45:12
+TITLE: Satoshi's Pre-Release Bitcoin Code Contains Fascinating Findings
+URL:   https://news.bitcoin.com/satoshis-pre-release-bitcoin-code-contains-some-fascinating-findings/
+
+Satoshi's Pre-Release Bitcoin Code Contains Fascinating Findings
+
+Cryptocurrency supporters have been discussing an early version of the original Bitcoin source code that surfaced this week. An old forum post and mailing list letter written by Satoshi suggests there was a private version of the code distributed to a few people before the launch of the network on Jan. 3, 2009.
+
+Also Read: Thailand Approves Country’s First ICO Portal
+
+The Pre-Release of Bitcoin and a Discarded Genesis Block With Completely Different Hash
+
+Bitcoiners have been conversing about Satoshi Nakamoto’s original Bitcoin source code over the last few hours and whether the pseudonymous creator distributed a private version to others before the official launch. The discussion started on March 13 when well-known BTC proponent Francis Pouliot shared a very old version of Satoshi’s source code and a letter from the creator detailing that he sent the “main files” to James A. Donald. “I sent you the main files (available by request at the moment, full release soon),” Nakamoto stated on Nov. 17, 2008.
+
+In the source code that was distributed to Bitcointalk.org member “Cryddit” there are some interesting finds in what is believed to be the earliest version of the Bitcoin code. For instance, the code mentions the term “bitcoin miner” which seems to be the first time Nakamoto describes these participants as miners. Interestingly, the term “miners” was not used in the original whitepaper – throughout the text they are referred to as “nodes.” Additionally, the term blockchain was really called the “timechain” according to Satoshi’s code given to Cryddit.
+
+“The timechain is a tree-shaped structure starting with the genesis block at the root. With each block potentially having multiple candidates to be the next block. pprev and pnext link a path through the main/longest chain. A block index may have multiple pprev pointing back to it but pnext will only point forward to the longest branch or will be null if the block is not part of the longest chain,” the source code text explains.
+
+The text continues:
+
+Nodes collect new transactions into a block, hash them into a hash tree, and scan through nonce values to make the block’s hash satisfy proof-of-work requirements. When they solve the proof-of-work, they broadcast the block to everyone and the block is added to the timechain. The first transaction in the block is a special one that creates a new coin owned by the creator of the block.
+
+Another intriguing find within the early code is the fact that Satoshi named Bitcoin’s smaller units a “coin” (1,000,000) and “cent” (10,000) rather than “satoshis,” the term most people use today. There’s also a line of text that talks about “atoms” and “user reviews” which refers to some sort of rating system.
+
+According to early Bitcoin developer Mike Hearn, Satoshi had intended to integrate a peer-to-peer (P2P) marketplace inside the protocol but the creator never finished the code and the idea was shelved. The source also has a discarded genesis block in the code which has a completely different hash. Assuming the hash was the first genesis test block, it was produced on Sept. 10, 2008.
+
+IRC Client, P2P Marketplace and a Virtual Poker Game
+
+Besides the pre-code release before the launch on Jan. 3, 2009, the original 0.1.0 Bitcoin code also has some fascinating details. For example, the original Bitcoin software had an IRC client included, which aimed to create an easier way to bootstrap messaging. Further, the original repository that held Bitcoin’s 0.1.0 code also included the framework in order to create a virtual poker game which was added on April 16, 2008. After the official network launch, ideas like the P2P market and the virtual poker game never came to fruition. The IRC client stuck around for a few releases, but after Bitcoin version 0.8.2, support for IRC bootstrapping was removed completely.
+
+No one knows why Satoshi used certain definitions for Bitcoin terminology and why the creator decided to give up on the P2P market and poker application. The oldest available history of proof of an operating Bitcoin 0.1.0 version is a human-readable debug log. Satoshi worked on the Bitcoin code all the way up until version 0.3.19 as the chief maintainer, but subsequently left in 2010, handing the reins to Gavin Andresen. The pre-distributed code before the launch in 2009 is compelling, to say the least, for it provides an insight into the mind of Bitcoin’s enigmatic creator and his world-changing technology.
+
+What do you think about the pre-release source code and some of the terms Satoshi used throughout the text? Let us know what you think about this subject in the comments section below.
+
+Image credits: Shutterstock, Twitter, Francis Pouliot, Bitcointalk.org, and Pixabay.
+
+At Bitcoin.com there’s a bunch of free helpful services. For instance, have you seen our Tools page? You can even look up the exchange rate for a transaction in the past. Or calculate the value of your current holdings. Or create a paper wallet. And much more.

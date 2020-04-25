@@ -1,0 +1,57 @@
+DATE:  10.01.2019, 16:02:46
+TITLE: Cryptocurrency analysts predict the end of the Bitcoin bear market
+URL:   https://thenextweb.com/hardfork/2019/01/10/bitcoin-bear-market-prediction/
+
+Blockchain investigators have employed a neat method for analyzing Bitcoin BTC activity to determine at what point long-term holders typically yield and sell their Bitcoin.
+
+Delphi Digital, an independent research boutique specializing in the digital asset market, has studied Bitcoin transaction data and market prices, calculating that Bitcoin investors are (for the most part) done with their selling.
+
+This indicates the start of an accumulation phase that might replicate cycles from way back in 2014, when the price fell from $1,000 to less than $200 as a result of a year-long bear market.
+
+“In its simplest form, it’s a method to understand the accumulation and selling patterns of long term holders through market cycles,” a spokesperson told Hard Fork. “We’ve established that selling pressure from long term holders is significantly tapped, and accumulation has begun.”
+
+Calculating the bottom with Bitcoin’s UTXO
+
+Delphi Digital‘s method relies on data contained within Bitcoin transactions, known as Unspent Transaction Output (UTXO).
+
+Every time Bitcoin‘s are sent, the network creates a new UTXO. The age of that UTXO points to which block the particular transaction was first added, representing the last time that Bitcoin was moved.
+
+Essentially, the analysts are tracking the last time coins have moved. A fall in cumulative UTXO age coincides with an increase in Bitcoin activity – which means less holding overall.
+
+Conversely, investors typically accumulate as the price declines. A rise in cumulative UTXO age represents more holding across the market.
+
+We may have already passed peak capitulation
+
+Here is an example of Delphi Digital‘s charting method. The black squiggly line shows Bitcoin‘s price, while the coloured squiggly lines represent the UTXO age of Bitcoins.
+
+So, the green line tells us what percentage of Bitcoin‘s circulating supply (currently 17.5M) has not been used in a transaction in the past year.
+
+The blue line gives us how many Bitcoin’s haven’t moved in the past five years or more.
+
+Notice the green line has been quite volatile. The most recent data indicates just over 50 percent of Bitcoin‘s circulating supply has not been used in the past year.
+
+But check out that blue line. It has pretty much been on the rise since 2014 (the first year Bitcoins could have a UTXO age of more than five years).
+
+The exception is a small dip at the end of 2017. Notice that dip occurs when Bitcoin’s price was at its peak (shown by the vertical purple line).
+
+The idea is to apply this kind of analysis to the most recent price decline. If we can figure out where the selling pressure is coming from by tracking UTXO age, it’s easier to approximate how close we are to “selling exhaustion.”
+
+“[We] can assume these older owners have exhausted much of their selling efforts, evident in the flattening of these older UTXO bands, coupled with the 1 Year UTXO band reaching a floor and staying flat through the first half of 2018,” the analysts wrote. “We’re seeing an accumulation process now similar to the one at the end of 2014. This would imply a bottom is in sight.”
+
+20% of Bitcoin’s current supply could be lost forever
+
+As Bitcoins that haven’t moved in five years or more represent such a large percentage of the circulating supply, understanding why they haven’t moved is critical.
+
+According to Delphi Digital, roughly 20 percent of Bitcoins are most probably locked away forever. This is inevitably due to their owners losing the private keys required for access.
+
+“Chainalysis completed a thorough analysis of likely lost [Bitcoins] and came to an estimate ranging from 2.78-3.79M coins,” a spokesperson told Hard Fork. “We were able to indirectly track those coins over time as they aged and moved into older bands. Most of those coins are now in the 5 Year+ band. This implies that there are very few coins that haven’t been moved in over [five] years where the owners still have access to the private key.”
+
+Delphi Digital were also quick to point out most of these Bitcoins were actually lost long ago. As well, it should be noted that Satoshi Nakamoto accounts for roughly 1 million of the inactive Bitcoins.
+
+“This implies that a significant portion of coins in the 5 Year+ band are lost. The rest of the lost coins will progressively make their way through the bands in a similar fashion, ultimately ending in the 5 Year+ band,” the spokesperson added.
+
+So, with all this data and a method for determining where the selling is coming from – at what point does Delphi Digital believe Bitcoin‘s price will bottom out and stabilize?
+
+Well, right now – their analysts say the local price bottom for Bitcoin will occur at some point in the first quarter of 2019.
+
+You can find the complete breakdown of the UTXO analysis here. The full report has even more estimates – like when the next bull run might hit its peak.

@@ -1,0 +1,27 @@
+DATE:  06.02.2019, 21:15:45
+TITLE: Zcash Bug Demonstrates the Difficulty of Auditing Complex Cryptocurrencies
+URL:   https://news.bitcoin.com/zcash-bug-demonstrates-the-difficulty-of-auditing-complex-cryptocurrencies/
+
+Zcash Bug Demonstrates the Difficulty of Auditing Complex Cryptocurrencies
+
+A recent counterfeiting bug in Zcash demonstrates that the added functionality of so-called second generation blockchains comes at a price. The vulnerability, which existed for years before being patched in October, could have been exploited to generate additional coins. As every major cryptocurrency since Bitcoin has demonstrated, added complexity corresponds with lower security.
+
+Also read: Australian Banks Fraudulently Collected Fees From Deceased Customers
+
+Zcash Vulnerability Lay Undiscovered for Years
+
+On Feb. 5, the Zcash team shared a blog post acknowledging the existence of a bug that had been in place since the privacy coin launched. Discovering its existence would have called for “a high level of technical and cryptographic sophistication that very few people possess,” claimed Zcash developers. While likely true, this admission has provided little comfort to zcash holders, and doesn’t augur well for any future bugs that have yet to be discovered. It stands to reason that any elementary exploits in the protocol will have long since been identified. As such, any critical Zcash bug to surface at this stage can be assumed to require sophisticated knowledge to pinpoint.
+
+Great point by gmaxwell on the Zcash inflation exploit: contrary to what their announcement suggests, they do _not_ know if it was exploited or not. Supermajority of shielded funds are still in the vulnerable Sprout; if that was inflated, last out out loses. So get out now. — Peter Todd (@peterktodd) February 5, 2019
+
+Common sense holds that the less moving parts a device has, the less there is to go wrong. The same concept applies to cryptocurrencies. With the addition of enhanced features such as smart contracts and complex privacy tech like zk-snarks, code becomes harder to audit, and it can be virtually impossible to determine whether vulnerabilities have been exploited. Bitcoin Core is not immune to vulnerabilities, with a bug that had lain undiscovered since 2016 only identified and patched last year. The relative simplicity of Bitcoin’s design, however, means it has less possible attack vectors, having survived a decade of adversarial probing by governments, research groups, and hackers.
+
+Mixed Reactions to Zcash Response
+
+“Although we believe that no counterfeiting occurred, we are monitoring pool totals and will act in accordance with our published defense against counterfeiting in an effort to preserve the monetary supply,” noted the Zcash team. Zcash is trading at $46 per coin at the time of publication, down almost 5 percent from 24 hours ago, when the bug was publicly disclosed.
+
+What are your thoughts on how the Zcash team responded to the vulnerability in the privacy coin’s protocol? Let us know in the comments section below.
+
+Images courtesy of Shutterstock.
+
+Need to calculate your bitcoin holdings? Check our tools section.

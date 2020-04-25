@@ -1,0 +1,57 @@
+DATE:  10.04.2020, 13:00:50
+TITLE: Coronavirus ransomware hackers demanding payments in Bitcoin
+URL:   https://decrypt.co/24687/coronavirus-ransomware-hackers-demanding-payments-in-bitcoin
+
+Despite the global effort to limit the impact of the coronavirus pandemic, there are bad actors taking advantage of the chaos. From profiteers ramping up prices of essential goods, to hoarders stockpiling medical equipment, there’s no shortage of nefarious behaviour.
+
+Perhaps the most insidious, though, is hackers using ransomware to target the critical public services responding to the coronavirus threat—and demanding payment in Bitcoin.
+
+There’s nothing like fear and uncertainty to help individual hackers and hacking groups improve their chances of securing a ransom using ransomware. Hackers tend to favour collecting ransoms in Bitcoin and other cryptocurrencies, as they are difficult—although not impossible—to trace.
+
+Ransomware attacking vital health services
+
+The problem is that these attacks are targeting critical public services such as hospitals and health organisations at the very moment they’re battling the coronavirus pandemic. Dealing with ransomware can have significant knock-on effects, affecting patient care, tying up vital resources and, in the most extreme cases, slowing down the race for a cure or vaccine.
+
+While the practice of targeting critical services was going on pre-coronavirus, Adenike Cosgrove, cybersecurity strategist at US security company Proofpoint, told Decrypt that the practice is continuing during the pandemic, and with a renewed focus on Bitcoin ransom payments. “The fact that threat actors are choosing to launch cyber attacks on healthcare organisations during this global pandemic is beneath the worst actions we’ve seen from most crimewave groups; it’s heartless and could cause real lasting harm,” Cosgrove said.
+
+"[Ransomware] is heartless and could cause real lasting harm." Adenike Cosgrove
+
+One of the most prominent COVID-19-related attacks was an attempt to get into the systems of the World Health Organisation (WHO). Thought to be the work of hacking group DarkHotel, it involved trying to obtain the passwords of WHO staff using phishing techniques. The WHO has, in fact, witnessed a two-fold increase in attacks—a total of 2,000 per day in recent weeks, according to a report by Reuters.
+
+Last month also saw an attack on British medical firm Hammersmith Medicines Research (HMR), an organisation that is working on Ebola vaccination, by hacking group Maze—around the same time as the WHO incident. Hackers threatened to release the personal details of thousands of former patients unless a ransom was paid in Bitcoin. Though details of the ransom demand haven’t been published, previous attacks by Maze have seen seven-figure demands.
+
+Fortunately, internal IT staff were able to foil the attack, preventing the medical histories, national insurance numbers, passport copies and driving licences of more than 2,300 former patients being made public.
+
+The cost of ransomware attacks isn’t just a financial one. Although ransomware attacks cost businesses a total of $25 billion in 2019, that was just one-seventh of the cost endured by companies affected by downtime and other associated costs. With the coronavirus already causing unprecedented economic strain, that’s a hardship that no business wants to face.
+
+Threat actors change strategies
+
+Not all experts have seen an increase in ransomware attacks in light of the pandemic. What’s changed, however, is the strategy of threat actors, which now more commonly includes using links to fake grant, virus tracking and websites associated with coronavirus.
+
+“At this point in time, we’ve seen no evidence of an increase in ransomware activity, either specifically targeting healthcare providers or generally,” Emisoft threat analyst Brett Callow argued, while conceding that the number of successful ransomware incidents tends to spike in the spring and the summer months.
+
+Callow also noted that the coronavirus pandemic may place an additional burden on organizations as they attempt to deal with ransomware attacks. “As organizations are facing unprecedented pressures—including needing to have certain personnel working remotely and staff shortages—the spikes may well be bigger than in previous years and, unfortunately, could coincide with the peak of COVID-19,” he said.
+
+What sort of tricks are hackers using?
+
+Hackers aren't just going after the organizations fighting the coronavirus; they're using coronavirus as a vector to get their malware onto people's machines. “For more than five weeks our threat research team has observed numerous COVID-19 malicious email campaigns with many using fear to try and convince potential victims to click,” Cosgrove said. These attacks are dominating the threatscape in a way that is nearly unprecedented.”
+
+So what sort of tricks are hackers using amid the COVID-19 chaos? “We have seen nearly every type of attack being used with coronavirus themes,” said Cosgrove. They include (but aren’t limited to) business email compromise (BEC), credential phishing, malware, and spam email campaigns. “Proofpoint researchers observed thousands of these emails targeting people in pharmaceutical and manufacturing companies in the United States.”
+
+It’s not just the volume of attacks that’s a problem; it’s how convincing they are too. Cosgrove continued: “In some campaigns, cybercriminals are subverting and abusing legitimate sources of information by using trusted brands like the CDC and the World Health Organization (WHO) and their correct logos, format, and wording that potential victims might expect within messages.”
+
+“We have seen messages claiming to have information that helps protect potential victims and their friends and loved ones from COVID-19, urging readers to click the link provided. Once delivered, attackers can then download additional types of malware including banking Trojans and ransomware.”
+
+The fight back against coronavirus ransomware
+
+While the spread of ransomware during a global pandemic is disheartening, there are those in the cybersecurity sector who are fighting back. One initiative, known as Cyber Volunteers 19 (CV-19), was set up solely to protect healthcare organisations.
+
+The group, which is said to have more than 3,000 volunteers, was co-founded by social engineering and insider threat expert Lisa Forte. “We started CV19 to create a community of skilled cyber professionals to volunteer their valuable time to organisations on the frontline of the fight,” Forte told Forbes. She added: “We have your backs.”
+
+Prevention is particularly difficult during these times. As ethical hacker and cybersecurity company owner Jay Harris explained, “It can be difficult to differentiate between legitimate information and an actual attack. As an example, last week the UK Government used SMS to tell people to stay inside. This could easily be spoofed by a malicious actor and include a malicious link.”
+
+What then can be done while coronavirus is ravaging healthcare systems worldwide? “The best advice is a combination of training (so people are less likely to fall for social engineering attacks), good preparation by IT—regular backs and hardening of infrastructure—and not blaming the people that do fall for it. We want to detect it as quickly as possible and if we blame users they may not report something as soon as it happens.”
+
+As for foiling ransomware once it’s infected your computer, there are tools that can be used to ‘unfreeze’ files, thus avoiding the need to pay any Bitcoin. Those affected by the Stop Djvu ransomware, for instance, can download and use a decryptor tool from Emsisoft.
+
+Given that it’s best to avoid getting to the point where your computer is infected, we all need to be more vigilant when it comes to viruses—both on our computers and in the real world.

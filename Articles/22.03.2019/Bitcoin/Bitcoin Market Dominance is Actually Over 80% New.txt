@@ -1,0 +1,39 @@
+DATE:  22.03.2019, 16:00:08
+TITLE: Bitcoin Market Dominance is Actually Over 80%, New Research Finds
+URL:   https://bitcoinist.com/bitcoin-dominance-new-80/
+
+Bitcoin Bitcoin Market Dominance is Actually Over 80%, New Research Finds
+
+Bitcoin market dominance or BTC’s percentage of the total market cap may not be the best way to get an accurate picture of the market, according to new research.
+
+Market Share vs Market Dominance
+
+There are certain Bitcoin metrics that we all understand; the price, the circulating supply, the market cap. And then there’s market dominance, which is BTC’s percentage of the total market cap of all cryptocurrencies. But what if we’ve all been wrong on this last one?
+
+When considering Bitcoin’s ‘Market Dominance’, we generally go to the measure used by CoinMarketCap. But whilst comparing BTC to the total market cap certainly gives us market share, maybe ‘dominance’ should include other factors?
+
+That was the theory John-Paul Thorbjornsen investigated, after feeling the current 50% ‘dominance’ score didn’t give a true representation. A better reflection of Bitcoin’s dominance, he suggested, might include some measure of liquidity, or daily trading volume.
+
+Pareto Distribution and Power Law
+
+His research revolved around the Pareto principle or 80/20 rule. This states that 80% of the effects come from 20% of the causes. Or in this case that 20% of cryptocurrencies should dominate 80% of the market. This principle often occurs in nature where the rule of equilibrium abounds. As a free market, cryptocurrency trading could well follow this pattern, which is a form of Power Law.
+
+Thorbjornsen compared the top 100 cryptocurrencies by market cap on a logarithmic scale. He found that while there was some form of Power Law, volumes did not correlate well. Some coins had less than 0.1% of market cap in daily volume, indicating a trapped market or artificial market cap.
+
+Volume-Weighted Market Dominance
+
+When Thorbjornsen multiplied the volume by the market cap (Volume-Weighted Cap), he found a much higher correlation. Removing the bottom third of the coins (to correct for ‘Page 1 Effect’), strongly suggested that this was indeed a Power Law distribution.
+
+Calculating a new measure of Bitcoin Dominance using this metric, showed a level consistently over 80%. In fact, considering only the top 5 cryptocurrencies, Bitcoin (the 20%) dominates over 85% of the market. This fits the Pareto distribution hypothesis originally suggested.
+
+The King Is Dead, Long Live The King
+
+So should we all forget about CoinMarketCap’s ‘market dominance’ metric?
+
+Well no, although it might be better renamed ‘market (cap) share.’ As a metric, it can be useful. In Bitcoinist’s latest article on the subject, lower Bitcoin market dominance index has actually historically coincided with a higher bitcoin price.
+
+But in the future, when talking about true market dominance, it would probably be wise to consider the volume-weighted cap as a more accurate measure. Particularly when the liquidity and volume of some altcoins are almost non-existent.
+
+Does this new way to measure market dominance paint a more accurate picture? Let us know below!
+
+Images courtesy of Shutterstock, medium.com/@jpthor

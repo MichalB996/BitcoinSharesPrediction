@@ -1,0 +1,51 @@
+DATE:  05.03.2020, 15:31:52
+TITLE: The Algorithms That Control the Cryptocurrency Market
+URL:   https://news.bitcoin.com/the-algorithms-that-control-the-cryptocurrency-market/
+
+The Algorithms That Control the Cryptocurrency Market
+
+Algorithms are at the heart of 21st century life, invisibly controlling many of the systems we use and take for granted on a daily basis. Pervasive algorithms determine the entertainment we consume (Netflix, Spotify), the information we read (Google), and the chatter we hear (Facebook, Twitter). It’s no different in crypto, where complex and ever-evolving algorithms silently govern core processes.
+
+Also read: How to Mix Your Bitcoins Using Coinjoin for Greater Privacy
+
+
+
+Algorithmically Controlled Coins
+
+Algorithmic stablecoin projects have come to the fore in recent years, although fiat-backed stablecoins such as Tether (USDT), USD Coin (USDC), and True USD (TUSD) capture most of the volume. While the concept of dollar-pegged stablecoins is easy to grasp, algorithmic stablecoins are a little more complex. Essentially, they are cryptocurrencies which attain price stability by algorithmically expanding the coin’s circulating supply to reflect market behavior.
+
+Take Timvi (TMV), for example, an ERC20 token whose algorithm and collateralized algo-stablecoin targets a $1 price to mitigate volatility and breed investor confidence. The security token relies on ETH deposits by participants in the ecosystem, and proprietary financial instruments such as Tbox (an analogue of an interest-free collateral loan), Tbond and Leverage let users earn interest during both bull and bear markets. Timvi’s algorithm “is designed so that the creation of a new Tbox (a blockchain-based account which converts ETH to TMV) does not cause a decrease of the global collateral below the target value.”
+
+What if ETH’s price drops and impacts the collateral in Tbox, you might wonder. In this circumstance, the Tbox owner must recapitalize by depositing ETH or TMV. If they fail to do so, the Tbox is deemed toxic and other users can step in and do the honors, recapitalizing while earning an ETH commission of 1-6% of the pledged amount.
+
+Reserve is another much-hyped algorithmic stablecoin, backed by high-profile investors such as Coinbase, Peter Thiel and DCG. Messari dubbed Reserve one of their “top projects to watch in 2020.” Like Timvi, the stablecoin system employs algorithms to manipulate supply and maintain its price ($1), striking a neat balance between stability, decentralization and profitability. Reserve is staffed by a team of 20 including Google and OpenAI veterans, and is advised by Patomak Global Advisors, led by former SEC Commissioner Paul Atkins. Algorithms can also be seen at work regulating ecosystems such as Makerdao, to control its dai issuance and collateralization, and to adjust the supply of Saga’s SGA token.
+
+Algorithmic Trading Strategies
+
+In the old days, traders congregated on the floor of exchanges, barking into phone receivers and making elaborate hand signals. With the advent of electronic markets, however, trades could be executed with algorithms rather than humans, taking much emotion and impulse out of the equation. Such algorithms enabled traders to trigger trades at the optimal price, accounting for factors such as trade size, time of day and market status.
+
+High-frequency trading (HFT) is as popular a strategy in the cryptosphere as it is on the stock market. A subset of algorithmic trading, this high-speed process sees traders utilize algorithmic programs to exploit modest price discrepancies in the markets. Oftentimes, HFT firms will go so far as to situate their trading servers in close proximity to exchanges’ matching engines to win an edge in speed and make off with handsome profits on arbitrage. This can even be facilitated by the exchange in question, at no extra charge; last year, Singapore platform Huobi began offering this arrangement – known as colocation – to high-frequency traders, who could expect to make trades 70 to 100 times faster than other users. Gemini and Erisx also offer colocation, hoping it will mean traders choose to do business with them rather than competitors.
+
+Of course, algorithmic trading encompasses a vast range of strategies – from time-weighted average price (TWAP), wherein crypto traders seek to buy or sell a fixed amount of an asset gradually over a period of time, to iceberg, where they buy/sell large orders of an asset without revealing the order’s true size to the rest of the market. It is difficult to imagine a modern financial market operating without algorithms.
+
+Transaction-Tracking Algorithms
+
+Crypto forensics firms such as Chainalysis utilize proprietary algorithms to monitor and flag suspicious or fraudulent transactions on exchanges, as well as to identify certain individuals operating in the cryptosphere on behalf of hawkish lawmakers and legislators. One software, Chainalysis KYT (Know Your Transaction), tracks transactions made on exchanges using digital assets such as bitcoin, litecoin, ethereum, bitcoin cash, and TUSD.
+
+Firms like Chainalysis are increasingly being tapped up to help crypto platforms achieve regulatory compliance, particularly pertaining to Anti-Money Laundering (AML) processes. They are also employed by government agencies including the Department of Homeland Security, the Drug Enforcement Agency, and Europol, all of whom are desperate to de-anonymize crypto users – often with little justification. It’s little wonder pro-privacy advocates are concerned about the long-term effects of such incursions. By all accounts Chainalysis’s algorithms are incredibly effective, which is why you might want to think about using a coin-mixing service to preserve your privacy.
+
+Privacy-Enhancing Algorithms
+
+Fittingly, privacy advocates are hitting back with algorithms of their own; Samourai is developing a tool called Solomon, a smart UTXO selection algorithm that takes the past history of UTXOs as well as user initiated tags into account when composing transactions. It will automatically choose the best UTXOs to combine for optimizing each transaction. As privacy proponent and bitcoiner Lauren MT explains:
+
+Solomon is based on the observation that the cat and mouse game between bitcoin wallets and chain analysis tools is highly asymmetric. CA tools have an almost perfect memory (the blockchain) while wallets are mostly amnesic when it comes to coin selection … the first goal of Solomon is to give a “memory” to the UTXOs controlled by the wallet.
+
+To the developers, this memory provides a more formal tool for reasoning about the benefits/limitations of a specific coin selection algorithm. To the users, it provides useful feedback about the wallet (for manual coin selection, etc) and for the wallet itself, it provides information that can be used by the coin selection algorithm.
+
+The future is algorithmically controlled.
+
+What other algorithms control key parts of the cryptosphere? Let us know in the comments section below.
+
+Images courtesy of Shutterstock.
+
+Did you know you can verify any unconfirmed Bitcoin transaction with our Bitcoin Block Explorer tool? Simply complete a Bitcoin address search to view it on the blockchain. Plus, visit our Bitcoin Charts to see what’s happening in the industry.

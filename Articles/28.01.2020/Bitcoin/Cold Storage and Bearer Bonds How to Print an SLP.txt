@@ -1,0 +1,35 @@
+DATE:  28.01.2020, 22:24:03
+TITLE: Cold Storage and Bearer Bonds: How to Print an SLP Token Paper Wallet
+URL:   https://news.bitcoin.com/cold-storage-and-bearer-bonds-how-to-print-an-slp-token-paper-wallet/
+
+Cold Storage and Bearer Bonds: How to Print an SLP Token Paper Wallet
+
+The Simple Ledger Protocol (SLP) and tokens have become a mainstay within the Bitcoin Cash ecosystem. SLP tokens have gathered traction as they are supported by multiple noncustodial wallets and a slew of tokens gained real-world value after being listed on exchanges. Even though SLP tokens are digital, you can still create a paper wallet for tips or a way to hold special tokens in cold storage. The following editorial is a step-by-step walkthrough for creating SLP-based paper wallets.
+
+Also Read: How to Print Your Own Bitcoin Cash Paper Wallet
+
+How to Print an SLP Paper Wallet Offline
+
+Cryptocurrencies are digital and they are typically exchanged online and stored in mobile devices or hardware wallets. However, there is a way that you can create cryptocurrency paper wallets that resemble the fiat currency in your wallet. In fact, with an SLP paper wallet generator used offline, you can create a variety of bearer bond instruments using tokens. Crypto loaded paper wallets can be traded anonymously and offchain at any time. Paper wallets are also helpful to store digital assets in cold storage by keeping the funds in physical form rather than using them online. And of course, just like a dollar bill you can spend your paper wallet at any time by sweeping the funds into another wallet you own.
+
+News.Bitcoin.com has written a number of guides on how to store BTC in cold storage and how to print a BCH paper wallet as well. Bitcoin.com provides an easy to use Bitcoin Cash (BCH) paper wallet generator that can create paper wallets in no time. This particular guide shows you how to complete the same process but using an SLP token instead. Users can visit wallet.bitchslap.tech, download the generator, secure their computer environment, and print a number of SLP paper wallets. The first thing you want to do is visit the website and read the “extra security tips” section to get started. You will need to run the generator offline so no one online can intercept your SLP paper wallet’s private key. After you download the SLP wallet generator, disconnect your computer from the internet and run the page locally from your browser. You can use Safari, Chrome, Firefox or any browser, but you should also disable any browser extensions you might use.
+
+One thing you should do before running the program offline is to check your computer for viruses and malware. If your computer is infected with a virus or malware, you should not proceed with making a paper wallet from that specific computer. Only a clean offline computing device should be used to execute the SLP paper wallet creation process. To run the page locally, open the SLP Paper Wallet folder and open the HTML file called “slpwallethtml.” From here, your browser will open and the program will ask you to create randomness and entropy using either your mouse or by texting characters with the keyboard. You can simply move your mouse around until the green progress bar changes from 0% to 100%. Or you can type a bunch of random keys into the box until the green progress bar completes as well. You can create a bunch of SLP paper wallets in this manner by simply creating randomness for every key generated.
+
+BIP38 Encryption and 21 Million Test Tokens
+
+Once the randomness process is complete, wallet.bitchslap.tech will give you options to choose from one of six SLP paper wallet designs. From here you can print the paper wallet using an offline printer, but the generator offers an “advanced” settings feature that leverages BIP38 encryption. Essentially, you can add a passphrase to the paper wallet and the passphrase needs to be leveraged when you or anyone decides to spend the funds.
+
+Otherwise, an unencrypted SLP paper wallet’s private key can simply be swept with no passphrase needed. The SLP paper wallet generators’ BIP38 encryption adds another layer of protection to physical bearer bonds. In order to safeguard the private key you print, you can also record the Simple Ledger Protocol address and private key in another fashion. Some individuals would recommend backing up a second copy of the private key, but this choice is 100% up to the SLP paper wallet creators’ discretion.
+
+After you have printed the paper wallet, you can then add SLP tokens to it by simply sending the tokens to the public address provided. The private key printed on the paper wallet is meant to be hidden and folded away, so no one can see it. Once you’ve deposited some SLP tokens into the address, you can check your token balance by visiting Bitcoin.com’s token explorer or simpleledger.info. According to the repository’s documentation, the SLP paper wallet generator was forked from Bitcoin.com’s paper wallet generator.
+
+In order to spend the SLP tokens stored on the paper wallet, you will need an SLP compatible wallet that can sweep the SLP token’s private key. For fun, news.Bitcoin.com loaded our test SLP paper wallet with 21 million simpleledgerpapertest (SLPPTST). We created the token using Bitcoin.com Mint, which gives anyone the ability to create SLP tokens in a noncustodial manner. The first person that reads this SLP paper wallet article and decides to sweep the private key in one of the above article pictures, will get 21,000,000 SLP paper wallet test tokens. The SLP paper wallet generator’s creators also created a video demo that explains how to use the platform and another video on how to change wallet templates.
+
+Have you set up an SLP-token paper wallet yet? Let us know what you think about this topic in the comments section below.
+
+Disclaimer: Walkthrough editorials are intended for informational purposes only. There are multiple security risks and methods that are ultimately made by the decisions of the user. There are various steps mentioned in reviews and guides and some of them are optional. Neither Bitcoin.com nor the author is responsible for any losses, mistakes, skipped steps or security measures not taken, as the ultimate decision-making process to do any of these things is solely the reader’s responsibility. For good measure always cross-reference paper wallet guides with other walkthroughs found online. The SLP-tokens used in this article have no real-world value and are used for test purposes only.
+
+Image credits: Shutterstock, Fair Use, wallet.bitchslap.tech, Jamie Redman, and the Simple Ledger Protocol (SLP) logo.
+
+Did you know you can buy and sell BCH privately using our noncustodial, peer-to-peer Local Bitcoin Cash trading platform? The local.Bitcoin.com marketplace has thousands of participants from all around the world trading BCH right now. And if you need a bitcoin wallet to securely store your coins, you can download one from us here.

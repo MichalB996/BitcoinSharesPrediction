@@ -1,0 +1,83 @@
+DATE:  08.02.2020, 18:54:59
+TITLE: After Four Years, Is Decred Better than Bitcoin Yet?
+URL:   https://cryptobriefing.com/after-four-years-is-decred-better-bitcoin-yet/
+
+Analysis After Four Years, Is Decred Better than Bitcoin Yet? by Liam Kelly
+
+Not quite, and that doesn't matter according to top analysts.
+
+Share this article
+
+Decred, a hybrid Proof of Work (PoW) and Proof of Stake (Pos) crypto network, turns four today. And unlike the average, fickle altcoin project, Decred’s message has been clear since 2016: Be a better Bitcoin.
+
+But how close has it come to achieving this objective? Crypto Briefing asked two of the protocol’s most active researchers to find out.
+
+A 10,000 Foot Perspective
+
+The hybrid consensus mechanism used to mine each and every Decred (DCR) token is one of the protocol’s strongest selling points.
+
+Enthusiasts have indicated time and again that this mechanism is more secure than networks using exclusively one or the other. Understanding how it operates is relatively straightforward.
+
+Like Bitcoin, miners in the Decred network work to produce blocks. Unlike Bitcoin, Decred’s blocks must be again verified by stakeholders, or in Decred parlance, PoS ticket holders. These tickets can be purchased with DCR tokens in an open auction. Every Decred block announces 20 tickets for sale.
+
+At the time of press, one ticket currently costs an estimated 135.11 DCR, or ~$2,868. Token holders are allowed to bid on as many tickets as they can afford.
+
+To participate, DCR holders must first wait for the Decred network to announce an open bid on a ticket via users’ wallet software. Interested parties then place their bid and wait for the miners to include it in an upcoming block. The bid joins a pool of bids for the same 20 tickets.
+
+Ticket holders still need to wait 24 hours before using their ticket to vote on an incoming block, however.
+
+Five PoS tickets in the network are pseudo-randomly selected to validate a mined block. Three of them must validate the block mined for the block to be attached to the blockchain. If this validation fails for whatever reason, the blocks must be mined again.
+
+If successful, then the block reward is split three ways: 60% to miners, 30% to winning ticket votes, and 10% to the Decred treasury.
+
+One can think of Decred as having added a functional social layer on top of the mining protocol. Token holders, or those most incentivized to benefit from a healthy network, can actively participate in the project’s security. It is in their best interests to behave honestly because it is also the most economically sound choice in this network.
+
+Thus, attacking the Decred network is slightly more complicated than a brute force 51% mining attack. Malicious agents would need both a majority of the hashing power and the majority of the tickets in the network.
+
+Assuming the cost of mining equipment, market cap, and hashpower is the same as pure-play PoW networks like Bitcoin and Ethereum, one analyst, Zubair Zia, concluded in 2018 that “Decred would be ~22 times costlier to attack than Bitcoin and ~9 times more expensive to attack than Etheruem.”
+
+The above outline is only the foundation. Since launching this hybrid consensus mechanism, a lot has been added to Decred in the past four years.
+
+Decred’s Governance Experiments
+
+“I only found Decred in early 2018, so I can only really speak to the past two years,” said Permabull Niño in a Twitter conversation with Crypto Briefing. “The biggest thing for me is how much has been built in that time, which was an extended bear market.”
+
+My crypto investment philosophy summarized in a graphic, and why I'm only willing to hold BTC and DCR. Dominant coins within a certain ledger assurance model will be the big winners is my bet pic.twitter.com/JKgMAqtklw — Permabull Niño (@PermabullNino) December 21, 2018
+
+More than armchair crypto analysts, both Permabull and Checkmate have been hard at work researching, documenting, and getting the word out about all of the developments happening in Decred. The two have been so prolific, the Decred community has practically employed the duo to be its spokespeople.
+
+In the same year that Permabull began digging into the nuances of the cryptocurrency, Decred launched Politeia. The initiative offers additional powers to ticket-voting stakeholders beyond helping with block confirmation. Indeed, the entire vision of the project, not just its security, has been handed over to the community.
+
+Stakeholders can lance proposals for 0.1 DCR, and the rest of the community can vote and discuss the proposal through the Politeia portal. Like proposals, it costs 0.1 DCR to create a Politeia account. This cost is in place to prevent the rise of sock puppets and other forms of spam.
+
+Proposals fall into two broad categories — those that looking for voter support to make a change to the protocol, or those that hope to draw funding from the Decred Treasury.
+
+The latest proposal, for instance, is for a research grant to fund the work of Checkmate and Permabull.
+
+“The goal is to build more charts on metrics that are specific to Decred,” Checkmate said in an interview with Crypto Briefing. This data would then be used to better understand Decred’s behavior as well as offer investors a more comprehensive understanding of the project.
+
+Checkmate added:
+
+“I believe [Decred is] the most important coin next to Bitcoin and want to explore what the data indicates and what the fundamental potential of the project is.”
+
+To complete the task, Checkmate, along with Permabull, has asked the community for $17,500 for roughly eight months of work. Critically, this is the second proposal of the same nature; Checkmate asked for $12,000 in July 2019 for similar work. The community voted 92.3% in favor to pursue the research at that time.
+
+The first proposal was also an opportunity to corral some of the more active members of the Decred community. This includes Richard Red, Murad Mahmadov, Zubair Zia, and others.
+
+Once a proposal is approved by the community, the requisite funds are drawn from the treasury. If one remembers earlier, the treasury is replenished with 10% of the block reward each time a block is mined and validated by voters. At the time of press, the treasury holds 643,405.27025766 DCR, or $13.7 million.
+
+Successful proposals have been wide-ranging, too. The community voted on whether to hire Wachsman, a blockchain-focused marketing agency, for instance. Other proposals have included creating video content, developing Decred-integrated ATMs, performing a bug bounty, and setting up a Decred-native decentralized exchange (DEX).
+
+As for 2020, Permabull said that he is most excited about the upcoming DEX. “I think a lot of people are sleeping on its potential and over time it will become a key piece of crypto infrastructure,” they said.
+
+For Checkmate, Decred is ahead of most other projects entering the decade. “As for fundamental potential of the project, the biggest narratives coming up are privacy, Chainalysis, KYC, security in the face of expanding derivatives (ability to short and 51% attack), funding, and governance,” they said. Concluding:
+
+“Decred has solved these issues long before they showed up elsewhere. So far, betting against convention has paid off.”
+
+But is it better than Bitcoin yet? The question isn’t yet relevant, according to Permabull.
+
+“When Decred is larger in scale, the comparison between it and Bitcoin will be more appropriate.” Instead, Permabull takes solace in another thought. They said:
+
+“Bitcoin changed the way I look at money, and Decred changed the way I look at cryptocurrencies.”
+
+Whether it will eventually outpace the premier cryptocurrency is pure speculation. But as many throughout the crypto space experiment with decentralized autonomous organizations (DAO) and the challenges of governance, one may not need to look much further than Decred.

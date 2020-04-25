@@ -1,0 +1,1037 @@
+DATE:  20.05.2019, 06:20:00
+TITLE: Ripple CEO Brad Garlinghouse explains why big banks should get into cryptocurrencies
+URL:   https://www.vox.com/recode/2019/5/20/18631886/ripple-brad-garlinghouse-banks-bitcoin-blockchain-cryptocurrency-xrp-kara-swisher-podcast-interview
+
+Uncovering and explaining how our digital world is changing — and changing us.
+
+Terms like “bitcoin” and “cryptocurrency” used to be linked with techno-anarchists who wanted an anonymous way to sell drugs and weapons on the internet, via online marketplaces like the Silk Road. So Ripple CEO Brad Garlinghouse was encouraged when regular people started speculating in tokens a few years ago.
+
+“That’s actually forward progress,” he said on the latest episode of Recode Decode with Kara Swisher. “You went from illicit activity to speculation, and today you’re going from speculation to utility.”
+
+Part of Garlinghouse’s job is to convince legitimate financial institutions — including banking goliaths like Citibank and Deutsche Bank — that crypto is an inevitable part of their industry’s future, albeit maybe not their immediate future. Ripple sells software to those institutions to let them transact on blockchain, which may one day give them access to the billions of “unbanked” people who currently lack a convenient way of moving that money across borders.
+
+So unlike the earliest adopters of bitcoin, Garlinghouse has no interest in ensuring that crypto holders can always remain anonymous. And he doesn’t expect that legacy institutions such as banks and governments will be obliterated by the new technology.
+
+“We want to change the system by working with the system,” he said. “These are profound technologies that can really benefit society in lots of ways. We can reduce the friction of global commerce, we can allow people globally more access to the economies around the world to compete. I think that’s actually a really good thing.”
+
+You can listen to Recode Decode wherever you get your podcasts, including Apple Podcasts, Spotify, Google Podcasts, Pocket Casts, and Overcast.
+
+Below, we’ve shared a lightly edited full transcript of Kara’s conversation with Brad.
+
+Kara Swisher: Hi, I’m Kara Swisher, editor-at-large of Recode. You may know me as someone who traded all my bitcoin for a pair of cool sunglasses because you can’t wear bitcoin, but in my spare time I talk tech, and you’re listening to Recode Decode from the Vox Media Podcast Network.
+
+Today in the red chair, I’m so excited to have Brad Garlinghouse, the CEO of Ripple. I knew him when he was other things, but now he’s the CEO of Ripple, which is an online exchange for tokens representing fiat currency, cryptocurrency, commodities, and more. He previously was CEO of Hightail. That was a bad period, wasn’t it?
+
+Brad Garlinghouse: That was a wind in your face trying to turn something around.
+
+All right. Whatever.
+
+Funny, that the description of Ripple at that ...
+
+Welcome to Recode Decode. All right. How would you like me to describe it? You describe it for me.
+
+We’re not an exchange.
+
+What are you? How would you describe it?
+
+Ripple is effectively an enterprise software company selling blockchain and crypto technologies to banks, payment providers, financial institutions globally, to solve a cross-border payments problem.
+
+Oh, that’s well done. Very nice. So we’re going to talk about your journey, Brad, because let’s talk ... Thank you for correcting me, immediately. That’s a nice thing for you to do. So let’s go through your history, because people know you from a lot of other things, right? You were ... Where did you start? I forget.
+
+My first job in Silicon Valley, I moved out here in 1997 and joined a company called the @Home Network.
+
+You were at @Home.
+
+Old-school. You were at the Wall Street Journal in those days.
+
+Yes. I was trying to take that company down. That was a full of suspect characters. Who ran it?
+
+There were a lot of really — Tom Jermoluk, TJ.
+
+Oh him. Ay-yi-yi. That guy.
+
+Anyway, regardless of what you thought of him ...
+
+He liked to sell stock and talk up the company, that’s what I remember of him.
+
+What’s cool for me to think about is, I mean, the @Home Network as much as it maybe ...
+
+Explain to people what it was. It was a great idea.
+
+Well, not just a great idea. It was the first company to roll out cable modems. You think about how dependent we are, I mean, we went, @Home really had a major impact in moving people from dial-up to broadband.
+
+Yes, they did.
+
+And they probably catalyzed ...
+
+[dial-up noise]
+
+Exactly.
+
+Right.
+
+But they also probably catalyzed the telephone companies to more aggressively engage in DSL.
+
+They did. Do you remember the fights with AT&T and everyone else? So they originally had the cable and then they merged inexplicably with Excite. And then it was Excite@Home, which was the concept of putting the portals together with the high-speed networks. AOL was trying that at Time Warner, it didn’t work out. It never worked out. Why didn’t you go there? What was the concept?
+
+Well, at pre-business school, I had been at SBC Communications, which now is AT&T, and had been involved with rolling out ISDN. Now, at the time, ISDN, like that was super fast.
+
+That was fast.
+
+That was fast.
+
+Yeah.
+
+So I was familiar with the challenge of just broadband connectivity and twisted pair and the limitations. And I read this article ...
+
+And SBC was big. I wrote about it at the Washington Post.
+
+Indeed.
+
+ISDN, I can’t get those days back. I have to tell you, all the time spent.
+
+You don’t look like you’ve aged a day.
+
+I just want to say, I cannot imagine, I wrote about ISDN so much back then and now I’d forgotten until you just mentioned it.
+
+Yeah, I don’t know, I can’t remember what it stands for right now. But anyway, I read an article in Wired Magazine while I was at business school about John Malone and John Doerr talking about leveraging coaxial cable to deliver broadband.
+
+John Malone, a legend too.
+
+And I cold-called the board members of the starting — it was when Will Hearst was CEO of @Home and I got myself an internship there. Actually, I was technically an intern at TCI, of the big cable company that’s also long gone.
+
+There was another one, yeah.
+
+We’re dating ourselves.
+
+I know we are, but that’s okay. So you did that and then you worked at @Home and then went over to Yahoo, right?
+
+No, in between there I was at a company called Dialpad doing Voice Over IP.
+
+Oh, damn. Oh, my God.
+
+Yeah. Early days of VoIP.
+
+Jesus, you’ve hit them all, haven’t you? Yikes. What happened to DialPad?
+
+Well, it was a good fit for me because I was a telco guy. This was obviously pre-Skype and connected phone era and that was, I mean, on the one hand, things were a lot of consumer adoption, but at a time when the dot-com crash was crashing upon us.
+
+Sure. I’m only making you do this. I want them to understand that you were always at the forefront of some sketchy stuff.
+
+And trying new stuff.
+
+But some interesting early steps.
+
+Sketchy, anyway, a long story short, trying to shorten this chapter, I ended up at Yahoo. Yahoo bought Dialpad. I had a long run at Yahoo.
+
+You had a famous run at Yahoo. What did you run there?
+
+It can be famous and long.
+
+Yes, yes. We have to talk of peanut butter, you know that, that’s how everyone knows you. So you were at Yahoo, what did you do there?
+
+Nobody knows about peanut butter anymore. That’s a long time ago.
+
+Yes, they do. I know now you’re the rich CEO of Ripple. I get that. But I’m just saying you did ... It was a big moment when you talked about that because it was the first time people were talking about innovation problems within a company that was successful.
+
+Yeah.
+
+It was, it was one of the first times because everything was up and to the right with internet...
+
+I loved my experience at Yahoo. They were, I mean, as I was just talking about on the way into your studio here. The diaspora of Yahoo alums is a really impressive, great group of people.
+
+It is.
+
+The first handful of years I was at Yahoo, it was up and to the right. And I remember going into weekly staff meetings and every time you’re up in our forecast in there, we could do no wrong. But you did start to see cracks in the ice. And I think — as is true in all of life — the first step to solving a problem is admitting you have one. I think Yahoo was a little bit slow in acknowledging it had one. Despite your pointing it out.
+
+Yeah, I tried to do it on a daily basis, yeah. What prompted you to write that memo? You’ve talked about it before.
+
+Yeah, I’ve talked a little about it. I mean, the actual thing that happened was there’s an article in the New York Times. As I recall, it was a Tuesday, and a gentleman, Saul Hansell from the New York Times, wrote an article about Yahoo, and later that day ... We used to do with the executive staff, there’s a daily, we call it a stand-up meeting where you just check in for 15 minutes in a stand-up meeting. And at that meeting, there was a kvetching about this New York Times article. And I think at the meeting I was probably, if not the lone voice, a relatively speaking lone voice and saying, “no, actually there’s some really good points here.”
+
+And at the time my then boss, I think to mostly get me to shut up, said, “Why don’t you write down what you think.” And out of that little seed came the Peanut Butter Manifesto.
+
+Oh, you ran with it. Which you talked about the idea that you get covered with peanut butter. Right?
+
+Well, the peanut butter analogy actually also came from the budgeting process at Yahoo because someone had said during the budgeting process that we spread our resources around like peanut butter and everybody gets some. And I remember I used that metaphor as like, that’s what’s wrong. And I think even today in life…
+
+You prioritize.
+
+Yeah, you got to decide, you can’t be all things to all people. That’s true in all parts of business and for personal, professional. And I think Yahoo was too slow to let go of trying to be all things to all people and things that weren’t working.
+
+And it meant that things that were working got underinvested in. Things that weren’t working well, the kind of good money after bad. And look, I, there’s a lot to love about the Yahoo experience and that was a very difficult time and place. I think a lot of smart people were trying to address it, including after I left, Carol Bartz came in and then Marissa and I’m sure I think, oh Scott Thompson.
+
+That didn’t go well.
+
+But as I look back, I do think so much of innovation is born out of the culture of an organization.
+
+Sure.
+
+And a culture that encourages risk and tolerates failure is, I think, a culture that will yield innovation. Because you’ve got to take chances, you got to take risks. And it’s okay that some of the risks fail.
+
+So speaking of which, you went to Hightail, right? To run ...
+
+After Yahoo, I have actually spent about a year at an investment [firm] called Silver Lake.
+
+Yes, that’s right. One of those parking lot jobs, right?
+
+And it was kind of an adviser. I didn’t think it was a parking lot...
+
+What did you do, have lunch? What happens during lunch?
+
+It was a lovely lunch.
+
+What really happens during those things? You just sort of sit around and get cappuccino? Mochachino?
+
+They had beautiful offices.
+
+They do. I’ve been there. They have nice lunches.
+
+They do, I agree with that as well.
+
+Yeah. So, why?
+
+Well, they hadn’t yet at that point done what I would say you and I would define as an internet deal. And they’d obviously done a lot in the tech space, but they had looked at but not done an internet deal. And the idea was, hey, you know, I thought maybe I knew something about the internet and I can maybe be helpful as they’re looking at things. And I think they’re also, maybe they would buy something, I’d go in and run it. It’s just kind of, uh, you know, maybe pejoratively you called it a parking lot job, but directionally fair.
+
+Whatever. Come on.
+
+It was super interesting though.
+
+I gotta look at being an EIR, because I want to sleep. That’s what my whole thing...
+
+Yeah, but the private equity guys don’t call them EIRs. They call them senior advisers. It’s the same ...
+
+They’re all over there. That’s Egon, right?
+
+Egon Durban, although he was in London at the time. Mike Bingle, I looked at him or deals with, and they did Skype while I was there...
+
+Yeah, that ended well. So you were CEO of Hightail then. This was a company ... I was fascinated by this move by you.
+
+Well, you’re also missing another chapter, which you will greatly enjoy. I went to work for your friend Tim Armstrong.
+
+Oh my God. You were at AOL! Oh my God! I forgot, everyone was there, right?
+
+Well that was ... yeah, Tim did a really good job, I think, bringing in some really interesting people. I think all of Tim’s direct reports, probably ...
+
+What did you do there?
+
+The same kind of stuff I did at Yahoo and I read the homepage. I had mail and the communication products.
+
+I just had him onstage talking about his new cockamamie idea. I’m sorry. Fascinating idea.
+
+Retail, I recall.
+
+It’s direct to consumer, DTC. His new thing.
+
+It’s retail.
+
+Yeah, but it’s direct to consumer, like Glossier kind of stuff. Yeah, whatever. I love that he always comes up with something.
+
+Clever guy, for sure.
+
+So you were at AOL doing that and then you went off and did Hightail?
+
+Correct.
+
+Trying to get you to Ripple as soon as I can but go ahead.
+
+So Hightail ...
+
+What we’re finding out is that you had a lot of jobs, Brad Garlinghouse.
+
+Is that good or bad?
+
+Whatever.
+
+Yahoo was the longest tenure of the jobs I’ve had in Silicon Valley, but it’s been a bunch of interesting stuff and Hightail, for those of you familiar with it, was a cloud based storage.
+
+It was called something else.
+
+It was called YouSendIt when I joined and I felt like ...
+
+You didn’t like the name.
+
+Yeah.
+
+Remember you sent me the name Hightail and I made fun of it?
+
+I can’t imagine you would do that.
+
+Yes I did. I had like a dirty remark, I think, around the word Hightail. But anyway.
+
+That doesn’t sound anything like you.
+
+Why did you like the concept of cloud storage?
+
+Well, I think consistently I’ve tried to look at what are the big macro trends happening? And I think, local storage felt like it was dying and eroding and then YouSendIt had a large user base that you could potentially ...
+
+Right.
+
+But it was a turnaround, and in the face of Google Drive and Dropbox and Box, we were a pipsqueak trying to swim upstream. And there’s a famous Buffett saying that “most turnarounds don’t turn,” which I feel like I’ve learned the hard way.
+
+I had dinner with him.
+
+That would be fascinating. That would be on my bucket list, for sure.
+
+I don’t eat red meat very much and I had a giant steak. That’s all I have to say about that entire dinner. You know who I went with? Sue Decker.
+
+Oh, I love Sue!
+
+I know, another Yahoo.
+
+She’s good people.
+
+Had a good time. He’s everything and more, he’s all that and a bag of chips.
+
+He seems very bright.
+
+He’s exactly the way you’d imagine him. Except there is a lot more sugar than I realized going on. Like more sugar and meat and butter. That was the only...
+
+He owns Dairy Queen.
+
+Yeah. There’s a lot of ice cream happening or Coca-Cola happening. There’s steak, there’s butter everywhere. Otherwise, it was enjoyable. It was a highly enjoyable time.
+
+Good.
+
+He’s really quite a legend. Anyway, back to you. So how did you get to Ripple? I don’t really know this story. I don’t understand it. I know, you’ve talked about it a little bit, explain to the people how did it ... what I want to get [through to] people is, you can shift from one thing to the other. So local/cloud storage was really important. Was a conceptually important, right?
+
+It was a computing shift.
+
+Which you identified correctly.
+
+Yeah, probably right about the shift and wrong ...
+
+Directionally correct. All right. So how ...
+
+I was frankly ... I had left Hightail and I was Uber driving and I thought that ...
+
+Did it come to that, Brad? You were just doing it? Why? An experiment?
+
+I was fascinated by the sharing economy and...
+
+What was your number? What did you get? Like 3.2?
+
+Actually, it’s funny you ... 3.2! That hurts, Kara.
+
+I have a terrible score in Uber. Let me just say.
+
+That tells a lot about you. I just thought actually interviewing people at Ripple, we should ask people’s Uber score or Lyft score.
+
+Yeah.
+
+It’s an interesting ... like how do you treat people, when people aren’t looking?
+
+No.
+
+I did not have a five-star rating at the end. I did it for a month and I thought for sure that I’d have a five-star rating, but somebody didn’t like me.
+
+Why did you do this? Just to see how it works?
+
+I was just fascinated, yeah. I am frankly, I had a bunch of entrepreneurial ideas of starting a company in the sharing economy space. I was talking to Uber about potentially joining the company and, well anyway, the only reason I tell you that story is, I was driving an Uber and I got a recruiting call from a recruiter who I knew and I liked and he said, “Hey, this company Ripple is looking for a COO. Have you heard of it?” And I lied and said I had.
+
+Okay, well done.
+
+And I tried to wave him off honestly, because he described what the company is doing and I said, “Well look, I don’t know about payments. You should call — I know some people at PayPal or Visa.” And he said, “No, have you ever met this guy Chris Larsen? He’s the co-founder of the company. He wants to hire somebody from outside of the system,” with the idea being that, if you’re from inside the system you don’t necessarily see the opportunities in the same way.
+
+And so, I had some time on my hands and so I went and spent some time with Chris and Chris is a brilliant, fascinating guy who, honestly, he knows that, he’s heard me say this, but the first meeting, I came out of it and I was like, “I have no idea he’s talking about but he might be onto something. And I’m totally fascinated.”
+
+Sounds like of all Silicon Valley. That’s a VC remark, essentially. Why did you think he was onto something? What struck you? Did you have a thought about this area? Bitcoin and the whole area.
+
+Yeah. Through my friend network, I had invested in bitcoin. A friend, Dave Goldberg, had kind of twisted my arm and said, “You really should own bitcoin.” I bought some bitcoin, but the pitch around Ripple was always that there are limitations of trying to go around the government or attack the banks.
+
+Right.
+
+And isn’t there a way you could partner with the government and with the banks and with finance institutions?
+
+Now, bitcoin wasn’t a big thing then. It was a medium thing. It was like a little trend...
+
+It was pretty small at the time.
+
+I only heard it from Katie Mitic and then, what’s his name, the Xapo guy?
+
+Wences.
+
+Wences.
+
+Fabulous guy.
+
+Who’s everyone’s friend. Right. He got you all into it. Right? Wences Casares.
+
+Well, so I was intrigued. And in talking to Chris, I thought that he had a pragmatic, thoughtful way of hey, how do we approach this as a way that can have the biggest impact on society? He talked a lot about this idea of enabling an internet of value. Why is it that we can move information completely interoperably around the world? You can access any Recode podcast anywhere in the world, but you can’t move your own money from point A to cross-border efficiently.
+
+Right. A lot of the things had been focused on storage of bitcoin. There was a whole gang of them. Wences was one of them. Moving them, buying them, essentially buying and storing them.
+
+Yeah. I think the earliest entrance into crypto, if you’re going to enable this, you have to be able to buy them, thus emergence of things like Coinbase and Bitstamp.
+
+Right. But not use it? Buy it.
+
+Yeah. So that was buying it and then you got to be able to store it. And so you have … obviously, Coinbase and in Bitstamp allow you to store it, but so do, you know, institutional players like Xapo, what Wences and team are doing. But there’s also, I think increasingly, people are focused on how do you use these technologies for real utility. Just depending upon speculation to kind of fuel the marketplace, I think is a bad idea in the long term.
+
+Which it’s been. That’s what a lot of it’s been.
+
+Yeah. But you’ll see...
+
+That’s a lot of ... as blockchain is developing as a technology...
+
+Yeah. But look, the way I think about it, you and I have both been around this ecosystem for a while. Technologies like TCP/IP and HTTP were, from my point of view, not literally but figuratively, born in the ’90s. And I think what’s happening is you have new platform technologies that are the next TCP/IPs. They are the next HTTPs.
+
+Right.
+
+And I think there are going to be lots of businesses built upon them. What Ripple is doing I think is compelling and that we’re very focused, kind of the anti-peanut butter, “we’re going to focus on one problem,” it’s cross-border payments.
+
+Right. Which people had done in different ways. Right. There are tons of companies.
+
+Yeah. I mean, there’s definitely companies, but really those have been…
+
+It was using cash and stuff like …
+
+We are trying to rewire, fundamentally, the infrastructure. And it’s very unusual to take on that at that base layer...
+
+Using cryptocurrency.
+
+Yeah. Crypto is definitely part of it. Blockchain and crypto is definitely part of the solution. And I think again, because we’ve been focused, we’ve been super fortunate, we’ve signed up a couple hundred banks, financial institutions around the world, and it’s working so far.
+
+So talk to me about the challenges you face, because there’s a lot of controversy around your company, too.
+
+Yeah, I think part of the controversy is born of the original crypto community is very much ...
+
+Crazy.
+
+Kind of “let’s circumvent the government, let’s enable anonymous transactions.” I think there’s still that ethos in part of the crypto community today. Even from the early days, Ripple took a point of view that no, no, no, we’re going to work with the system, we’re going to work with banks. And you know, if you’re in the crypto community and you’re working with the people that the other parts of the community are trying to kill, it doesn’t make you very popular.
+
+Right.
+
+So, Ripple has had its controversies. I think increasingly people realize that these technologies are only relevant insofar as they’re solving real problems. There’s a lot of hype in this space. There’s a lot of experiments.
+
+And ICOs. Why didn’t it do that? Because I recall the early internet and having that kind of con man-ish kind of thing. But it wasn’t quite to the extent, the ridiculous extent that ... this extent.
+
+I don’t know. There was some pretty crazy stuff back in the ’90s.
+
+I guess.
+
+I don’t know which one is better, which one’s worse. There is no doubt that I was one of the earliest people to come out and say that these ICOs are mostly scams and people should avoid them, which also made us unpopular because a lot of people loved the fact that, “I can’t raise money up and down the traditional Sand Hill Road circuit so I’m going to do an ICO.”
+
+Right.
+
+That doesn’t sound like ...
+
+It takes money from people who do not have the money to afford it.
+
+Correct. And so I actually think that the end of the ICO craze is a very healthy thing. And then the maturation of these technologies, and it’s good.
+
+Well, except this concept behind it is great. The idea of finding other ways to raise money is a smart ...
+
+Democratizing fundraising is interesting, as long as it’s not through preying upon those that maybe don’t have as much information and taking advantage of … which, a lot of that happened.
+
+Right. Because the current fundraising system is sort of broken and extends only to certain people.
+
+Yeah, there are problems with the current system, for sure. I don’t think I see it as a solution.
+
+All right. So we’re talking to Brad Garlinghouse, who is the CEO of Ripple. We’re going to take a quick break now and we’ll be back after this, and we’re going to talk about where this is all going because I think we’re in the first stage ... would you say we’ve been through the first stage of this?
+
+Yeah, I think we’re through stage one. It’s still early innings, but there’s a lot of ...
+
+Why do men always say baseball metaphors?
+
+Yeah, I don’t even like baseball, and actually I don’t have to like men, but fair enough. I don’t like using it because it’s actually a US metaphor, which isn’t a great one. You’re right, I should work on that.
+
+All right, we’ll figure something else out. We’ll be back in a second with Brad Garlinghouse.
+
+[ad]
+
+We’re here with Brad Garlinghouse, he’s the CEO of Ripple. I have known him forever and so I’m giving him a little bit of a hard time, but let’s talk about your business itself. So you’ve signed up all these banks, and what you’re trying to do is essentially recreate it? How would you put it? I want to get a sense of it.
+
+We’re trying to rewire the global financial infrastructure.
+
+Right.
+
+Today we depend upon technology that was built truly decades ago.
+
+Such as wiring money or ...
+
+Actually, this is an interesting kind of ... The etymology of that word, when you “wire money,” do you know what that comes from?
+
+From a wire I’m guessing, right?
+
+A telegraph. A telegraph wire, like from the 1800s. Exactly.
+
+[telegraph noise] Western Union, is what I’m thinking.
+
+Exactly, exactly, I mean the old version of Western Union. There’s a lot of parts of our global financial ecosystem that are stitched together with very old technologies. We live in the world of the internet. Why is it that the fastest way ... If you and I decided right now, let’s take $10,000 to London, what’s the fastest way to get it there?
+
+In my suitcase. All in ones.
+
+Let’s drive to SFO and buy a plane ticket and fly it there.
+
+Yeah, yeah.
+
+That’s a crazy thought. The fastest way in 2019, you and I can stream video from this ...
+
+I could Venmo it? No, no, no. I couldn’t Venmo, because you have to send in pieces.
+
+Well, you’d have to be intra-Venmo.
+
+Yeah, yeah.
+
+I could go Venmo to Venmo, but if I want to go ... I mean, not everybody’s on Venmo, not everybody’s on the same banking system.
+
+It’s not hard to sign up, but yeah.
+
+I happen to bank with First Republic bank, if I want to send money from First Republic bank to a friend of mine in Germany ...
+
+You can’t, it’s hard.
+
+And it’s going to cost a bunch.
+
+You’d have to do it in chunks, too.
+
+Yeah, it’s very broken. And there’s an opportunity to leverage modern technologies, blockchain technologies, to enable real-time settlement between financial institutions. So, we’ve been out selling these technologies.
+
+The software.
+
+Software, as well as leveraging digital assets for liquidity. So, the idea being that ... The way that global financial ecosystem works with those cross-border transactions is the bank of Kara, you can be US dollar. I’ll be the bank of Brad, and I’m the Philippine peso. You would pre-fund pesos in my account and I would pre-fund dollars in your account, and those are called, these banking relationships, “correspondent banking.”
+
+Then we use those, we daisy-chain them through a system so that we can hop, hop, hop, and I don’t have to have a relationship with everybody, because you have a relationship with people, etc. Every hop adds time, it adds cost, it adds the risk of errors. There’s an error rate in the global financial wiring system, about 6 percent.
+
+Hm, that’s a lot.
+
+Imagine if 6 percent of your Google searches resulted in an error. I think it’s only a matter of time before these things change. We can debate whether or not Ripple will be successful, but there’s no doubt in my mind that over the next 10, 15, 20 years, this will change. And it does get back to what Chris Larsen has talked about from the very beginning. In internet of value ... Enabling value to move the way information moves today, I think will unequivocally happen.
+
+What are the challenges from your perspective right now? After doing this ... Because again, the first part of this was all about weird parties in Puerto Rico and all kinds of stuff like that, a lot of that were these stories, or stupid events here or weird people and ... I meant in speculation around the price of bitcoin.
+
+Here’s an interesting kind of observation about how the industry has matured. You started with Silk Road, and when you talked about crypto, it was about drugs and ...
+
+Drugs and prostitution, terrorism.
+
+Bad stuff. And then we went from Silk Road to speculation. That’s actually forward progress.
+
+With a stop at terrorism.
+
+Yeah. I mean, the industry needs to continue to mature.
+
+So then you went to bitcoin. Go ahead, speculation.
+
+You went from illicit activity to speculation, and today you’re going from speculation to utility. I don’t think we’re fully at utility yet because there was very few companies, in fact I think Ripple is really the only company that has production use cases of blockchain and crypto at scale.
+
+So where’s speculation now? I can’t remember the last time I looked at bitcoin’s price.
+
+Bitcoin’s at $5,200 so it ...
+
+It went up and down, wasn’t it 20 or something?
+
+Yeah, I think it hit a high of around $19,000, $20,000, and it came back down. It has been called ... we’re in the middle of a “crypto winter,” or I think some people think we’re now entering the “crypto spring.” I don’t think about those descriptions so much. We look at this over about three weeks, or three months or three years. I mean, if this is a long journey ...
+
+But why the speculation? Explain to ... I have some sense of it, explain to regular people what’s going on there.
+
+Well, it’s kind of the speculation of the dot-com era. Frankly, I think people ... The pursuit of get-rich-quick schemes gets people excited, they dive in. I think with people, the speculation bubble was aggressive about 18 months ago. I think as time has passed, people are increasingly focused on, “Are these technologies solving a real problem?” I think there will continue to be a weeding out ... I think it’s actually a healthy thing for the market. I’ve been public in saying, if there’s roughly 2,000 different crypto tokens out there, I’ve said that 99 percent of them, I think, will go to zero.
+
+To zero. Which ones remain? And why do you need them? Again, explain for regular people.
+
+Well, why do you need them? It depends on what use case. Some people have taken the point that there’s going to be one set of crypto to rule them all.
+
+A global cryptocurrency.
+
+Yeah, I don’t really subscribe to that. I think the different use cases for different ...
+
+Subject.
+
+Well, what Ripple’s doing around cross-border transactions. We use a technology in our tech stack called the XRP ledger. XRP is the third-most valuable cryptocurrency, its market cap ... It trades at about, I don’t know, 30-32 cents. I don’t know where it is right now. It’s part of how we manage liquidity for these financial institutions. It allows you, instead of that pre-funding I was describing earlier, where the Bank of Kara put Philippine pesos in the Bank of Brad, you now can shoot off payments in real time instead of pre-funding between the dollar and the peso by using XRP as a bridge currency, in effect.
+
+Right, bridge currency. So it’s not really a currency? Well, currency’s just an agreement between people that this is worth something, right?
+
+Yeah, it’s interesting. The word “currency” has different definitions to different people. I think about currency as something that is fiat currency. Meaning, you can go use it at Starbucks. It makes no sense, in my opinion, in the United States, to go use bitcoin or XRP at Starbucks. The dollar works, or decently works. Now, that isn’t necessarily true in some other markets and countries where holding fiat currency actually …
+
+It’s dangerous.
+
+It just has a lot of inflation, and there’s some currencies that are weak.
+
+Yes, that’s when this started, right?
+
+That’s exactly right. So I’m not saying ...
+
+But isn’t the dollar bitcoin, then? Isn’t the dollar just that now? Hasn’t it become that?
+
+How do you mean?
+
+Isn’t the dollar the currency?
+
+Globally?
+
+Shouldn’t there just be one?
+
+No. I don’t think that from a sovereignty of nations point of view, right, you have the yen, you have the euro, you have the RMB, you have the rupee, you have the dollar.
+
+But I mean what it’s leading to, that there’ll be one ...
+
+Oh, I don’t think so.
+
+One cryptocurrency to rule them all.
+
+Look, I mean, you’ve seen what’s happened in the eurozone by bringing on some countries whose fiscal behavior has caused problems to the rest of the eurozone because they standardized around the euro. Unless you’re going to have regulatory frameworks ... I’m thinking of Greece in particular, is one that the odds are is problematic, where I think the eurozone probably wishes Greece had not come in to use the euro and that became complicated. I don’t subscribe to the idea that there’s going to be one currency to rule them all, whether it’s fiat or digital.
+
+So, there won’t be one cryptocurrency, there’ll just be one that people use a lot, for example.
+
+I just think there’ll be different use cases for different things. I actually own bitcoin, so I’m “long bitcoin.” But you know, bitcoin is not going to be used to solve a payments problem. Bitcoin as a technology is slow in terms of transaction speed, and it’s expensive on a per-transaction basis. Worst of all, probably, its power consumption, I mean, I’m sure you’ve read about these things, but it’s a little bit shocking that the percentage of global power ... bitcoin alone represents almost 1 percent of global power consumption.
+
+I can’t believe you’re surprised people are greedy as fuck. But that’s just me. I mean, what are you talking about, of course it’s using it. Why not? They could dredge...
+
+But there’s other ways to use ...
+
+If they could dredge the Bay here and knock over the Golden Gate Bridge for money, they’d do it. You know they would.
+
+I think that there’s ...
+
+Thank-you, that is my TED Talk for today.
+
+There’s other ways. I mean, you could use these technologies for great benefit. One of the things that I find most compelling about what Ripple is doing is there is a massive population that is either unbanked, under-banked, or those that are the most penalized by the current system. Think about it: The population that is paying the cross-border remittance costs, that’s the population that can least afford it. I was at a talk by the chief economist of the World Bank, and he said their goal was by 2030 to reduce the average remittance cost from 600 basis points, or 6 percent, to 300 basis points, by 2030.
+
+Which is not, still ...
+
+I happened to be speaking right after him at this event and I kind of started my talk, respectfully, by saying ...
+
+It should be zero.
+
+Well, not zero, but let’s talk about, how do we get to 30 basis points? That’s achievable. There’s so many things that if we reduce the friction measured by cost and speed that we can unlock in terms of what’s possible...
+
+So everybody could be banks. This term “unbanked” has been a big one I’ve heard a lot of places I go, the unbanked, and it’s most people who are moving around money or whatever.
+
+Some people say, they blame the banks for the unbanked, but banks are profit-motivated entities. If they can profitably serve a segment of the population, they will do so. The challenge is, if you’re a migrant worker, you know, between countries, and you want to carry your currency, you have to either deal with the marauders who might try to steal it, or if you’re moving it through some kind of banking establishment, they’re going to take a lot of that value because you’re transferring it kind of back and forth.
+
+We don’t think about that when we walk to Starbucks in downtown San Francisco, but there are billions of people who have not been brought in to the financial ecosystem, and I think any time in history you have reduced the cost and increased the efficiency of a technology ...
+
+You bring more people into it. Like phones.
+
+Correct. I mean, text messaging. Well, phones, and text messaging even more so. You and I both remember when sending one text message might have cost 25, 50 cents. And now as that cost came down to effectively zero ...
+
+Well, the phone itself, I think is really even more so. The concept of everybody having a cell.
+
+Yeah, everybody — I even think, though, in the late ’90s everybody had a ... A lot of people had mobile phones, but sending one text message costs like 25 cents. So you were very thoughtful about how many texts you sent. Nowadays, it’s like, I don’t even think about it.
+
+I don’t think about it at all. I don’t think about any of it.
+
+You don’t even think about as having a cost to send a text.
+
+Do you ever think about international costs?
+
+Oh yeah.
+
+I’m not going to say which Google executive because he’s under scrutiny right now, but one was complaining about when they first got the iPhone and the international pricing.
+
+I don’t remember.
+
+Nothing worse than a billionaire complaining about the cost of something. I was like, “I don’t care, I’m so glad you got cheated.” In any case, let’s get to the problems that you foresee right now. What are some of the big issues that you imagine being a problem?
+
+I think one of the challenges that is often talked about in this space is regulatory comfort and uncertainty. I spend probably 20-25 percent of my time flying around the world, meeting with regulators globally. More often than not, that’s simply education. People hear the word “crypto” and they go to that Silk Road place.
+
+I quickly explain to them, Ripple-enabled technologies — well, Ripple-enabled transactions — all of them are KYC, meaning know your customer. All of them are checked for AML, anti-money laundering, all of them are checked for OFAC compliance ... Name your acronym for financial regulation and we ... What Ripple’s doing is not circumventing any regulatory frameworks. Once regulators understand, they’re like, “Oh, okay.”
+
+The challenge is that when you hear “crypto,” they don’t necessarily assume that. And so, there’s a journey. You know frankly, the reason why I’m in a tie today, which I’m not sure of the last time you saw me in a tie.
+
+Never. It’s a lovely suit. I’m wearing my SoulCycle outfit, but go ahead.
+
+Spending time talking to regulators and making sure they understand ...
+
+Which regulators are you talking to today?
+
+The Milken Institute is having their event down in Los Angeles.
+
+Oh, you’re going down to Los Angeles?
+
+I’m coming back. I just got back.
+
+Okay, who were you on the stage with discussing ... Oh, there were a lot of regulators hanging in that place.
+
+A lot of people.
+
+That’s like dripping with regulators, global ...
+
+Just dripping.
+
+I can’t go there anymore, I’ll be honest with you. They invited me, and I was like, “No, I’m busy.” I made something up.
+
+You’re busy with me!
+
+I am, but I made something up. I was like, I can’t, international world of blabbers. Oh, now I’ll never be invited again. Oh well. Which was my goal right then. So, reassuring them that it will not be used for illicit purposes, why?
+
+I think any new technology can be used for illicit purposes.
+
+Hence the internet pornography, child … pedophilia. Remember the Communications Decency Act, when that was passed?
+
+These were important steps. We’ll go through the same important steps in making sure that these new technologies are used constructively in a way that helps society.
+
+All right, so regulation’s one, current banking systems. The bank companies who have been somewhat resistant.
+
+We have had an unbelievably positive reception. I mean, 2018, which people called the crypto winter, was a phenomenal year for us as a company. Q1, we hit all of our goals for the quarter, things are going extremely well. It’s because we are solving a real problem. So, do we have a long way to go in the journey we’re on, of really enabling an internet of value? 100 percent.
+
+All right. So what are the problems from the banks that you see? Because if you did this correctly, it’s like going to the media companies back in the internet days like, “We’re not going to hurt you.” That’s really what you’re doing.
+
+That’s a good point but ... It belies how the banking system works at that level. There’s a small number of oligopoly, of what we call money-center banks. They are the global banks that make money. So Citibank made about $8 billion last year from other banks. Because if you bank with a regional bank — if I may ask where you bank?
+
+Wells Fargo.
+
+So Wells Fargo’s not considered a tier one money-center bank. They certainly work with a city to reach certain court orders, and depending where you’re sending money, the city is taxing Wells. Wells doesn’t love the idea that they’re paying the city. So it turns out, 99 percent of banks love what we’re doing, because we’re democratizing something that’s controlled by a small number of banks, their competitors.
+
+To make the markets, right? To get between markets.
+
+Because they have the most equity they’ve pre-funded around the world. Citi, Deutsche Bank, JPM, these are the big kind of money-center banks that other banks use.
+
+So how much resistance do those big banks put up to you?
+
+Well, I have publicly said that Citibank was going to be our last customer.
+
+Why’s that?
+
+Because they’re the biggest of the big. They make more money ...
+
+What’s the benefit for them doing this? There isn’t.
+
+You and I have been in Silicon Valley a long time, it’s a classic innovator’s dilemma. Do you lean into ... These technologies are going to happen, how long do you wait to adopt them? And how much market share do you lose by waiting? I think some big money-center-type banks are actually leaning in to these technologies because they see this is the future and they want to make sure that they are on board. If they can go to Citi’s customers and say, “Hey, I can enable these global transactions for you and reduce the cost significantly.”
+
+So what, then, is the role of the bank, from your perspective?
+
+I don’t think ... You know, and again, there’s some in the crypto community who’d argue with this point, but I don’t think banks ... I don’t think governments go away. And if governments don’t go away, banks aren’t going to go away. Banks are applying a very important regulatory framework that I actually think is important for society.
+
+I personally believe that banks will continue to serve that role, they’re good at it. Sure, maybe they could be better at it and we could point to lots of ways that they have, maybe could have been better. But there’s lots of ways banks will continue to be part of the solution in this. I think this is a new set of technologies that they can benefit from to grow their business.
+
+I want to talk more about where this is going. So when you think of yourself, before you finish, as the crypto group, you’re all not together. People do tend to lump everyone in.
+
+Yeah, you make a really important point. It’s important to me that people understand this is not one big group. Even in Washington, there’s various lobbying organizations coming together and a lot of them, we won’t join because they have, as their members, some people who espouse the criticality of anonymous transactions. That is not going to fly here.
+
+Not with regulators.
+
+Well, it turns out regulators globally. It’s not just in the United States. That is not going to fly, and so I want to ...
+
+We do have the Cayman Islands, don’t we? And Swiss banks, and so they exist.
+
+I mean, not anymore! Swiss banks in the last 20 years have changed dramatically. I just think ...
+
+They have pierced the veil.
+
+We want to change the system by working with the system, and I think trying to hold onto ideas that are counter to fundamental tenets of the current system is just going to slow adoption down. These are profound technologies that can really benefit society in lots of ways. We can reduce the friction of global commerce, we can allow people globally more access to the economies around the world to compete. I think that’s actually a really good thing.
+
+Okay, we’re here with Brad Garlinghouse, he is actually one of my favorite people in Silicon Valley, don’t tell him. He’s sitting right here, he’s very funny. He’s always very affable when I insult him and his friends.
+
+I allow you to insult me and I smile.
+
+You do, you smile. I know what you’re thinking. What are you thinking, actually? Are you thinking, “That jackass?”
+
+No, I actually ... You and I met in the late ’90s.
+
+Yeah, we did.
+
+And I think you’ve always been an important voice.
+
+Trying to keep you honest. Thank you, I’m trying to keep you honest. As long as you respond, I really appreciate it. But let’s talk about where banking is going, and not just banking, but currency. Regulatory issues are an issue, big banks, power of big banks, the lobbying power. Things take a while to break apart, although everyone thought media companies had hung the moon forever and now they’re in a much more prone position to companies like Facebook and others.
+
+And Vox.
+
+Vox, yeah, right. Yeah, and us over here, “Hey, it’s us.” So, we’re irritatingly small but that’s how I like it.
+
+Where are the power centers? Where does bank — like, Amazon? I always think they should be doing this, this is kind of something ...
+
+Well, I think it’s an interesting question and that you are seeing ...
+
+Just the one company, I think that Facebook, everyone’s always on Facebook, but I’m like, no, Facebook, it’s Amazon.
+
+Apple has announced some things recently, Apple Pay. Amazon has made some noises and partnered with Chase and some things. I think you would continue to see digital-first companies lean into this space and to extend it because it can be done better. Then I think you’re going to see companies like Amazon, say, I have a ton of respect for Amazon. And I think if Amazon were to offer solutions around payments, do you think it would take four days to send a payment to London?
+
+No.
+
+It costs... Actually, a gentleman who used to work at Ripple sent me an email this week. He had invested in a company in Europe and he had a 4 percent fee, it was an investment. So it wasn’t a small check, a 4 percent fee by the time that it was all settled.
+
+Right, to get the money there?
+
+Yeah, like that is crazy. And I just think that if Amazon were to aggressively enter this market ... And you asked the question earlier, what is the incentive for the biggest of the big, the cities to lean in? Well, if they don’t and Amazon launches ...
+
+Or Apple.
+
+Or fill in the blank.
+
+Right.
+
+Where does that leave them?
+
+Right? Who do you think is most likely the current ...? Or will it just be new companies that will be doing this, new banks? What would you call them?
+
+I mean, you have digital-first banks, right? Mobile-only banks. I don’t have the list in front of me. You were seeing lots of activity in this space. The slower the incumbents are to evolve, the more you’re going to see competition enter.
+
+Yeah, but digital-first banks I still have to operate in the current banking system.
+
+For sure.
+
+They still can’t do these settlements without fees.
+
+Yeah, that’s true. But I thought you were going to go, they still have to enforce regulatory frameworks and very globally. But yeah, in various countries around the world, you’re seeing more and more entrepreneurial efforts around launching new kinds of financial institutions, payments. Here locally, SoFi, lots of people are going into this space, and maybe that’s because some financial institutions have been relatively slow to evolve.
+
+Yeah.
+
+That’s what feeds Silicon Valley.
+
+Talk to me about the trends. So you all would be writing systems really to do this?
+
+Yeah. I grew up in Kansas, and then when my mom asked what we would do it’s like very simplistically, like, “I sell software to banks.”
+
+Right. Why not become the bank?
+
+Well, that is an interesting question. Many people have thought Ripple could do that. So think about what that means. That means every customer we have, we have to go through the KYC, know your customer process, and you have to enforce all of those regulatory frameworks. If I were to go into that directly, I think our success in fundamentally changing the way this works, rewiring it more quickly, would go much more slowly.
+
+So the benefit to that Filipino worker would take longer to reach, as opposed to saying, “No, no, no, let’s take, let’s go.” The banks already have the customers. I mean, I’ve been fond of saying if you want to enable an internet of value, you have to connect the repositories of value.
+
+Right.
+
+The repositories of value are the banks.
+
+Right. And the customers they have.
+
+If you went to kind of create a whole new system and compete with the banks and get the money on your account ...
+
+It means shifting people off the things they normally do. Well, that’s happened again and again in every internet space. Everyone had a phone in their house. Everybody. I just found a story the other day, I wrote a column about it at the Times, where I had a landline phone. Who the hell has a landline phone? I mean, some people do, but really, what I mean, like, it’s shifted quickly. It shifted quickly on public phones. It does shift quicker than you think. People do change their behaviors.
+
+Yeah, banking has been slower in that regard. But I think the banks continue to provide a very important role. And you may call me a bank apologist. I just think that ...
+
+That’s the crypto people talking. They called me before this.
+
+I just think that in the global … in the scale of global financial infrastructure, banks and big payment providers, that’s where it’s at. And I’ll give you an example. A big oil company wanted to meet with us because they have truck drivers in Nigeria who don’t have bank accounts and they need to pay them. They have M-Pesa accounts. Well, you can’t ... yeah, this is a big oil company and they bank at some of the biggest banks, but those banks can’t settle a transaction to M-Pesa.
+
+Right.
+
+Or to PayPal or to Alipay or to ... We fundamentally look at the world and say, how do we stitch this together in an interoperable way? So that sending a payment from Citi to M-Pesa or somebody else, like that’s no problem.
+
+Just happens. And how do you look at those payment providers like in M-Pesa or Venmo or PayPal or the others?
+
+I think they’re all part of the fabric that needs to be interoperable.
+
+Right, so that it would go, the payments would go right there?
+
+Yeah, I mean, look, I was onstage with Dan Schulman, who I respect immensely, recently.
+
+PayPal CEO.
+
+PayPal CEO, and there’s an interesting irony, PayPal owns Venmo.
+
+They do.
+
+If you look at the FAQ on PayPal for how to move money from PayPal or Venmo, you have to move the money from Venmo to your bank and then back to PayPal.
+
+Yeah, it’s crazy.
+
+It’s totally crazy!
+
+I was just paying someone a larger amount the other day and I was like, I cannot believe this. I couldn’t do, I had “reached my limit for this month” and I was like, why? And I wrote why, like why is that my limit for this month if I have the money, like what’s that ...
+
+You’re a sketchy operator.
+
+I know I am. I run a serious … I don’t know, what would I run? What kind of sketchy things?
+
+I don’t even want to, I’m not going to play that game.
+
+A shadowboxing operation.
+
+My point is that there’s so many ...
+
+I’m a well-known drug dealer. It’s going to be come out. It’s going to be amazing.
+
+There’s so many examples where this friction exists ... And I think that the fastest way for Ripple to impact that isn’t to try to go get people to onboard ...
+
+So, you’re software company for banks.
+
+Financial institutions.
+
+So what then happens to that bitcoin and the rest of them? It just continues?
+
+Well, the rest of them is a lot and that’s what I think a lot of them, they have no use case and I think they will ...
+
+But where is the actual, I want to finish up talking about where’s the actual use cases for consumers. How long does it take to get to them?
+
+So, I think that question goes back to what we were talking about earlier, and you know we referenced Wences Casares, a very talented guy from Argentina. I think the consumer use case in Argentina I can get my head around.
+
+Meaning?
+
+Meaning that you have a currency there that you may not want to hold because it’s very inflationary. You have a very high credit card fee cost where it’s, you 600-700 basis points for a small — and that is expensive.
+
+In that context, you could see crypto actually starting to infiltrate traditional transactions. I think in the United States, the dollar works. Your Visa is not that expensive. And I think it’s not in my lifetime I think we’re going to see any erosion of the dollar.
+
+Yeah, that’s it. It doesn’t shift. It’s like oil, it’s like oil’s still cheapest compared to everything else.
+
+No. Do I think bitcoin, I mean, I don’t think about bitcoin as a currency. Back to my scalability.
+
+Yeah.
+
+Bitcoin, could it be digital gold where it’s a store of value? And if you want to, people buy gold today for a host of reasons.
+
+And they don’t actually own gold. They do, but they don’t.
+
+Some people do. I mean, it depends, but ...
+
+You and I watch Billions, we know we have a safe full of gold. Did you see that one thing?
+
+I love that show, actually.
+
+I love that show. I love the lifting of the bouillion …
+
+My point being that the use case for bitcoin, maybe it’s a store of value that, if allows people want to … It’s the next, it’s digital gold or digital diamonds, and I don’t know if people really hold diamonds as a store of value, but maybe.
+
+They do, what are you talking about? I think they hold on to everything.
+
+Loose diamonds? I don’t care.
+
+Diamonds, art, lots of things.
+
+Right, art for sure.
+
+That’s what Elizabeth Warren wants to tax, my friend. In case you’re interested in the art, the wine, the ... all the other things you rich people have. Do you have a lot of wine now that you’re really, really ...
+
+I don’t really drink as much as I used to.
+
+Yeah. Interesting. What do you hold? You hold bitcoin. You hold ...?
+
+I hold bitcoin, I hold XRP, which is a part of Ripple’s technology stack. That’s basically it.
+
+Do you hold cash anymore, like dollars?
+
+I mean, my friends kind of make fun of it. I still use cash.
+
+Yeah.
+
+I think, you’re going to tip people.
+
+Okay, not tip people, but when you think of value, you on stock. How should people think of wealth anymore?
+
+Well, I do subscribe to the idea of just coming from my portfolio allocation. When friends of mine ask me, “Hey, should I invest in crypto?” the story I often tell them, which you’ll appreciate ... in 1999 it was not obvious that Google is going to win.
+
+Right.
+
+Had you bought a basket of the 10 search engines, which included Lycos and Infoseek and I can’t remember, WebCrawler, AltaVista.
+
+That guy, Infoseek. Remember him? He had a house that was totally wired before everybody else. Like you pushed a button, like one of those digital lighting things, everything. Everything in the house was like ...
+
+If you bought the 10 search engines, you got Google.
+
+Right.
+
+And if you hit it, you kind of equally, that one worked out great.
+
+Yeah.
+
+Your IRR on that investment would work out really well.
+
+Yeah.
+
+I have told my friends, I think about what’s going on in crypto somewhat similarly. I can’t say with certainty how this is going to play out. There is no doubt in my mind that digital assets are here to stay. Digital assets are going to be solving real problems and how the global transactions occur and having exposure, I wouldn’t go all-in on any of them.
+
+Now, I happen to unobjectively say, I think what we’re doing in the XRP ecosystem, what I see other companies doing in the XRP ecosystem is very interesting. But that’s also like saying, why didn’t Lycos win? Why did Google ... it’s early in the ...
+
+Yeah, I can tell you, but there has to be ... So the companies in this thing, if people are thinking about it, is the actual currencies like bitcoin and the holding companies to store and buy them. Then the software to make it work. And what else?
+
+That’s pretty much it. I think about it as, you have the application layer, the software to make it work. You have an application layer, Ripple is an application layer around correspondent banking. You have, I think as an example, a compelling company called BitPay. I think it’s the leading consumer payments ... So you can use your bitcoin to buy things on the internet and it’s part of the checkout process.
+
+Still small.
+
+It’s still small, but everybody’s take, you’d be surprised, BitPay is doing incredibly well.
+
+Okay.
+
+And so, they’re an application layer on top of that infrastructure ...
+
+So you want to buy like, whatever, lunch. You can’t buy lunch still, but go ahead.
+
+Well, I can’t name off the top of my head, but people are integrating BitPay the same way they integrated PayPal.
+
+Right. Got it. Okay. You’re right, you’re right, fair point.
+
+At checkout. You’d have to ask the CEO of BitPay, and he’s a smart guy …
+
+But you’d have to have bitcoin to do it, right?
+
+They support a couple of different, I can’t remember exactly what they support, but yes, you’d have to own a digital asset in order to facilitate those transactions. But my point being, that’s the application layer.
+
+Right.
+
+You have the storage layer we already talked about and the exchanges, there’s hundreds of exchanges around the world now. Some of them are doing really, really, really well. Some of them have gotten into trouble because they haven’t been as regulatory on point.
+
+Government will come down on that stuff.
+
+But it continues to, I think, in general a macro ...
+
+The company ignores everything in Facebook does. But bitcoin, “we’re on it!”
+
+They’re on it now.
+
+Yeah they are, what, Face[book]? I know that, I know. Let me finish with that. What do you think about all that and having worked for all these companies?
+
+Maybe, if I may just keep it at a macro level, I think we all in Silicon Valley and frankly more broadly, I think we have a responsibility to be good citizens. And I think that manifests itself in lots of ways. And I think there are examples I can point to where I think some of the companies that you and I have known, and it’s like, would I have done it that way? Maybe not.
+
+Right. How does that change? Do you think it’s going to change now? Regulation obviously is one way.
+
+Yeah. And I mean, look, for better or for worse, which smart people can debate, I think that some of the largest players have invited that regulatory scrutiny. And there will be regulation, I expect, coming out of that. And I don’t know if that’s good or bad.
+
+I think it’s because, for example, your stuff is going to sort it out better because you’ve been in, you’re in a regulatory environment to start with. Cars are a regulatory environment, all that’s going to be a lot faster and more innovative because it’s already within a regulatory framework. That might have to change, obviously, but people are used to it. Health care. That’s why they are so much slower too, in a weird way. And the stuff that has had that the problems are without any regulations.
+
+Yeah, well it’s also, these are new problems, right?
+
+Really? Hate is not a new problem.
+
+No, I’m talking about data privacy.
+
+Right.
+
+Twenty years ago, your life didn’t exist on servers on the internet.
+
+They were papers. You’re right. Yes, I get that.
+
+And now they do. And these are new problems. And I’m not commenting on the, yes, hate is a problem. Look, I personally am not a big social media user and there’s a lot of reasons for that, but I do think those platforms have more of an obligation than they embrace to correct these things. I actually did tweet something out, which again, I don’t do a lot of, but I have people impersonating me on these various platforms.
+
+Really? Why?
+
+I shouldn’t have drawn your attention to that.
+
+Why?
+
+I submitted to Instagram, like “this person’s impersonating me,” and I got a feedback back. They’re like, no, it’s you.
+
+Oh, no.
+
+I was flabbergasted that ...
+
+Want me to call them?
+
+No, it’s been fixed. But I acknowledge they have a hard problem, but if you created the problem, you’ve got to own the problem.
+
+Yeah, that’s what I say to them, all the time. You made it. Like, I love every time one of them, it’s always marked like, “We need to work on this together,” and I’m like, “I’m not working on this. I got things to do. I got to go get the cat vaccinated. You can handle this. You started it.” You know what I mean? “I’ll take care of my stuff.” But anyway, it’s just an interesting problem.
+
+Do you have any advice, last thing, for people who really want to get into this as an industry, for entrepreneurs? What’s the thing you’d caution against?
+
+I was a little bit cautious but I would lean into that. I think, as we talked about the very beginning of these conversations, there’s macro trends happening and I think blockchain is a macro trend that I think is not going away. It’s going to impact lots of parts of lots of industries in the same way the internet impacted lots of industries. And so becoming expert in this space is a really good thing. There’s going to be more and more companies launched, addressing different use cases.
+
+My only council, I guess, in terms of cautionary notes, is focus on the substance, not the hype. As it happens on the internet, people added .com in this, you had people adding blockchain this. And it’s just like, are you solving a real problem? Or you just use catnip for an investor?
+
+That’s right.
+
+Saying like, a crypto company or a blockchain company.
+
+Right.
+
+No, these technologies are profound. I think it will impact many things, but focus on one thing. Don’t try to peanut butter.
+
+No peanut butter. That is a very wise thing to say. You’re right. People do do that, catnip.
+
+Catnip for investors.
+
+I like that a lot. Do you know I had bitcoin? Do you know that?
+
+You don’t anymore?
+
+I lost the thing. Had it on a little drive. I had 10 bitcoin.
+
+That’s worth a lot of money now.
+
+I know! It wasn’t worth that — when it got up to 20, I thought, gosh, I’m such an idiot. I had 10 bitcoins, I will do a story on it, Wences ... it’s like a 100 years ago.
+
+Yeah, it was cheap then.
+
+Yeah, whatever. I know it was. Thank you very much, Kara Swisher threw away, like probably threw it out in the garbage with my peanut butter sandwiches and things like that. Anyway, I’m not going to be doing any cryptocurrency investing, as I do not do any technology investing.
+
+I don’t say any of that. Makes sense. Yeah.
+
+Anyway, Brad, thank you. It was great talking to you. Thanks for coming on the show.
+
+Recode and Vox have joined forces to uncover and explain how our digital world is changing — and changing us. Subscribe to Recode podcasts to hear Kara Swisher and Peter Kafka lead the tough conversations the technology industry needs today.

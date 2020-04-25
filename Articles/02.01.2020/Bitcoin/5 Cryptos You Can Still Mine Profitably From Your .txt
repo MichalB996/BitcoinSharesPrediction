@@ -1,0 +1,121 @@
+DATE:  02.01.2020, 18:34:35
+TITLE: 5 Cryptos You Can Still Mine Profitably From Your PC
+URL:   https://bitcoinist.com/5-cryptos-you-can-still-mine-profitably-from-your-pc/
+
+Altcoins 5 Cryptos You Can Still Mine Profitably From Your PC
+
+Mining, for most crypto coins, is a resource-heavy activity. The intricacies of algorithms also make them especially fit for graphic card mining. But there are still projects which are either just starting off, or have made the explicit decision to be supportive of CPU miners.
+
+One Processor, One Vote
+
+The principle behind CPU mining is “one processor, one vote”, an early mechanism of consensus proposed in the Bitcoin white paper by Satoshi Nakamoto. The principle was soon broken for Bitcoin, though there are still coins that aim for some semblance.
+
+CPU mining involves either using everyday computers or setting up components to make use of their capacity solely as mining devices.
+
+Pool or Solo Mining?
+
+The consensus in 2020 is that solo mining would be outdated but for the earliest stages of new coins, or those where the hashrate is extremely low due to almost no interest. Even if a CPU is used, solo mining, where a computer competes for the entire block reward, may be futile.
+
+The reason for this is that mining does not guarantee rewards, but is a game of chance. It may be possible for a solo miner to find a block header, but this may be an event that never repeats.
+
+Enter pool mining, which offers a higher percentage chance of winning a block reward. A pool can consist of many types of miners, contributing their hashrate. When the pool is large enough, there is a higher chance of solving a block. The reward is then distributed proportionately among participants.
+
+Pool mining means your CPU will receive the chance for a fraction of a block reward, accruing over time to a certain stash of cryptocurrency. Solving an entire block will yield a higher amount of coins, but will only happen based on astronomical probabilities, especially for mature networks.
+
+Solving Power: Here’s How an Intel i7 Stacks Up
+
+An Intel i7 Processor is consumer-available, and relatively advanced. Retail prices reach between $570 and $750 for the processor alone, and more if embedded in a laptop.
+
+This processor, in the i7 8700 modification, produces 2.36 KH/s for RandomX, the new Monero mining algorithm. At a similar power range, the Intel Core i7 5820K produces 192.7 H/s for CryptoNight mining, still one of the most widely distributed algorithms for mining smaller coins.
+
+This mid-range hashing power can, in theory, be used for Monero or smaller coins. However, more advanced and powerful processors are also possibly joining the mining race.
+
+To compare, an AMD Ryzen 9 3900X 12-Core Processor / 24 / 3.80 GHz would produce 12.4 KH/s. With a retail price similar to the i7 range, this processor can start to achieve breakeven for Monero, depending on electricity prices.
+
+The best overall approach is to take stock of the mining power available, and whether it would be a good idea to use consumer electronics. From then onward, the list of relevant coins may shift, and some networks may become temporarily more difficult to mine. A curated list gives some examples of which coins are available for CPU mining, though each has different details and potential reward payout.
+
+Risks and Precautions
+
+It is still difficult to estimate which coin is worth mining. Calculators constantly crop up, though with a warning that the favorable rates proposed may be misleading. Dedicating resources to a brand-new project is always a shot in the dark, and it is possible to mine in vain, accruing electricity costs and wearing down the processor.
+
+Market price risk remains the biggest factor in the final analysis. Being able to sell the coins mined, or exchange them for other value, completes the analysis on whether the coin mining process has been profitable. Mining calculators usually calculate the profitability at the time of mining.
+
+In the past, miners have achieved enormous gains based on holding onto block rewards. The boom in all altcoins in 2017 allowed small-scale miners to liquidate some of the rewards and end up with outlandish profits.
+
+But in 2020, the decision to mine through CPU may be a game of pennies and dollars. Curiously, the more hashrate is allocated, the more chance of breaking even and running a profitable operation. For Monero, that cutoff arrives around 23 KH/s, which would have to employ at least two powerful processors, or a handful of less powerful idle ones. Depending on whether electronics on the cheap is freely available, the operation may turn a profit based on XMR prices around $40.
+
+So, What Coins Are Worthwhile?
+
+Needless to say, Monero (XMR) would be the hottest take on CPU mining. Other coins that are relatively liquid, widely known, and accessible to CPU mining, include Nerva (XNV), a self-reported “best” coin for CPI mining. We will also look at RavenCoin (RNV), Haven Protocol (XHV), and Webchain (WEB) for its relatively low general hashrate and high potential profitability even in 2020.
+
+Monero (XMR): Leading Anonymous Coin
+
+Mining XMR through a CPU is a renewed competitive sport. The decision for a hard fork in late November switched XMR from the CryptoNight algorithm to RandomX, immediately disabling both specialized rigs and GPU miners.
+
+The Monero network turned highly competitive right after the fork, as apparently there were enough processor-owners to raise the hashrate. Currently, the network produces 1.3 GH/s, on a scale of millions above the power of a single processor. This means roughly a one in a million chance of solving a block as a solo miner – an impractical proposition.
+
+But mining XRM at a mere 23 KH/s can yield 11 XMR per year – potentially a bit more with luck. The haul, worth around $400, could be profitable in cases of cheap electricity and spare electronics, but not worth the effort of burning out consumer electronics.
+
+The chief advantage lies in possibly solving more blocks than others, while at the same time betting on a price increase. Mining also gives direct access to XMR coins, which have one of the most secure anonymity features. Mining XMR is thus a totally anonymous tool for acquiring crypto assets, which means some miners can choose to support the network even without a financial profit, as a tool to switch to untraceable assets without going through exchanges.
+
+The competition for XMR miners may come from large-scale operations that rely on multiple CPU setups. Additionally, some of the XMR may be produced by botnets, which can use captured computer resources.
+
+Nerva (XNV): Solo Mining with No Pools Allowed
+
+Nerva (XNV) is a project for those that want to risk it all and possibly mine a “sleeping giant” coin. XNV appeared in 2018, and has existed with the aim of remaining highly decentralized.
+
+XNV tries to prevent 51% attacks by not allowing hashrate to be united in pools. This means no tool to unite the hashrate and solve blocks, as each processor competes against others on its own merit. The limitation is set at the protocol level, and means Nerva will never see mining on an industrial scale. Even putting two processors may be more unproductive, as it would only make the two compete against each other.
+
+Thus, the coin has remained in the solo mining stage throughout its history.
+
+The coin is minable the old-fashioned way, by downloading the official wallet. The Nerva protocol allows for selecting the number of cores to allocate to the process of hashing, and the hashrate varies constantly. Nerva is CryptoNight adaptable, thus ideal for using the usual processors. However, the coin, traded thinly around $0.01, is still awaiting its time to become a profitable asset. XNV is ideal for amateur, speculative mining, accruing some coins for potential future gains.
+
+Nerva is relatively inactive on social media in the past months, and selling the asset is not immediately available to network participants. Allocating some time to this coin is a bet on the potential to realize profits from the rather illiquid market. However, XNV mining may be considered “profitable” in that it could generate more coins, and is less risky than getting exposed to an exchange and buying those assets. Mined coins are always controlled, unlike coins on an exchange which may have limits on withdrawals.
+
+RavenCoin (RVN): Minable Platform Coin with Tokenization
+
+RavenCoin is among the most prominent projects that combine mining with a tokenization platform. The biggest advantage of RVN is its relatively high liquidity and representation on exchanges, including Binance.
+
+The Ravencoin network has a hashrate of 12.57 TH/s, which may be amenable to pool mining and CPU participation. It will require X16R hash production, which is a switch between 16 different algorithms, amenable to a CPU.
+
+RVN becomes profitable at around 90 MH/s, quite a high rate for a single miner, requiring multiple processors. Joining a pool may lead to some rewards, given low electricity prices. RVN poses the challenge of making it possible to mine by CPU, but also having to compete with an unknown number of ASIC also attempting to solve blocks.
+
+With RVN, CPU mining would also require significant investment. The reward of 5,000 RVN each minute is distributed among multiple miners, still allowing for daily profitability on days of favorable difficulty. CPU mining for RVN is best performed through a mining pool. RVN miners use the activity to “stack sats”, as the coin rewards can be immediately changed for Bitcoin (BTC), thus using altcoin mining to acquire more BTC.
+
+Haven Protocol (XHV): Anonymous Minable Asset
+
+Haven Protocol (HXV) is one of the better-known anonymous assets which gained prominence in the past couple of years. The project promises “a Swiss bank account in your pocket”, and follows the pattern of offering an anonymous, mineable coin.
+
+XHV is also a CryptoNight coin, using the algorithm abandoned by Monero. Network data vary, and profitability depends on other miners and pools. The entire network produces around 8.49 MH/s, comparable to Ravencoin mining. With processors capable of the previously mentioned 2.5 to roughly 12 KH/s, profitability is possible, though for significant hardware investment, or using remaining electronics.
+
+The problem with XHV is that mining this protocol is once again a race against market prices. XHV is traded on Bittrex, and is not open to all audiences, thus posing the risk of low liquidity. Mining XHV is a bet on future price appreciation, though using CPU power to solve a block may lead to gaining some of the block rewards.
+
+With a two-minute block time and 13 XHV block reward, the coin may vary in profitability. Still, having a dedicated CPU or CPUs for CryptoNight mining means those can always be targeted to other coins of a similar mining algorithm.
+
+Webchain (WEB): Wild Card, Easy-to-Mine Coin
+
+Webchain (WEB), rebranded to MintMe (MINTME), is a rather obscure asset that offers a low overall hashrate and a chance to win those extremely volatile, thinly traded assets. With a hash rate of 0.15 MH/s, and a count of 148 miners, MINTME offers small, steady profits as yet another CryptoNight coin.
+
+The profitability of this coin comes from the very low miner count, and just five pools. The coin is almost amenable to solo mining, though joining a pool may increase the rewards.
+
+Selling MINTME may be a challenge, but this is one of the assets where mining may be used to accrue coins, which will wait for a better time. MINTME is an example of an asset with a relatively low hashrate, where setting up CPUs may bring unexpected gains, especially down the line.
+
+MINTME is at rock-bottom prices around $0.00003, with wild up-and-down fluctuations. Mining this coin can quickly turn the calculation into the red. However, setting up older machines and using their idle capacity could deliver moderate results.
+
+CPU Mining Still Relevant in 2020
+
+CPU mining is not outdated just yet, though it’s likely that 99% of all projects will not lead to positive gains. A potential source of income could come from brand-new coins in their initial stages, before more powerful machines are pointed at the network.
+
+This type of mining, however, is extremely speculative these days as very few new assets take off in price.
+
+But if mining continues for a while, it becomes a relatively small sunk cost in exchange for future gains. Despite the fact that XMR sank after switching its mining algorithm, it is still possible to try out mining during a more favorable period. If miners give up, this means coins can be acquired at a lower hashrate, and at a lower price.
+
+This is not political, but it is to answer a question my friend asked me. so here it is CPU MINING is PROFITABLE IF USED THE RIGHT WAY AS AN ASSET https://t.co/pLtSJPqeep — Mark Fluet (@mrfluet1969) January 2, 2020
+
+Mining is also best done on relatively well-known assets and pools. Depending on the mining software, profitability also varies. In the past, it came to light that some mining programs hijacked a part of the hashrate and did not pay out as much as expected. Malware may also hide in mining programs, so it is best to be aware of risks.
+
+Coins without a pre-mined stash are also potentially more profitable, as there are no “whales” ready to tank the price. In the end, mining is taxing on consumer electronics, and while CPUs can run at full capacity for a relatively long time, in the end mining wears out electronics and leads to overheating. But as the message of crypto spreads, it is always possible there will be projects aiming to repeat the early experience of Bitcoin (BTC) production.
+
+What do you think of the potential of CPU mining to still compete among bigger crypto projects? Share your thoughts in the comments section below!
+
+Images via Shutterstock, Twitter @MrFluet1969

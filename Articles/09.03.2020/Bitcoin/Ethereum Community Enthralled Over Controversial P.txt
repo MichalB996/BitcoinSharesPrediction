@@ -1,0 +1,47 @@
+DATE:  09.03.2020, 23:00:01
+TITLE: Ethereum Community Enthralled Over Controversial ProgPoW Proposal
+URL:   https://news.bitcoin.com/ethereum-controversial-progpow-proposal/
+
+Ethereum Community Enthralled Over Controversial ProgPoW Proposal
+
+The Ethereum community has been debating a proposal called ProgPoW as many ETH proponents believe the Programmatic Proof-of-Work function will alter the network significantly. The contentious topic has seemed to galvanize the community, with the ProgPoW proposal favored by a significant proportion while being detested by others. A few Ethereum participants were shocked on February 21 when the Ethereum Improvement Proposal (EIP) 1057 (ProgPoW specification) was submitted at a developers meeting.
+
+Also read: Market Update: Coronavirus Fears, Stock Market Crash, and Bitcoin Price Predictions
+
+The Controversial Programmatic Proof-of-Work Proposal
+
+While the Steemit and Tron communities argue and bitcoiners from various big blocker and small blocker communities squabble, Ethereum participants have been debating as well. There’s been various headlines and threads on forums and social media about “ProgPoW,” a proposal that stands for Programmatic Proof-of-Work. Basically ProgPoW is an extension of the current Ethereum algorithm Ethash but it allows graphic card components to join the mining race.
+
+#ProgPoW dominated Friday's #ethereum core developers call. The debate took 2/3 of the 3 hour meeting. With ASICs possibly on the way out, there could be a significant network hashrate drop in the near future. It gets interesting for miners an hour in👇https://t.co/IeQvPiN1S2 — f2pool (@f2pool_official) March 9, 2020
+
+In a post on the Reddit forum r/ethereum called “ELI5: What Is ProgPoW?” the independent programmer and miner Jonathan Toomim explained what ProgPoW is and how it relates to the Ethereum network. “ProgPoW is a proposal to change the Proof of Work function for Ethereum from the current Ethash algorithm (which can be effectively performed by both ASICs and GPUs, though ASICs are more efficient) to a new algorithm that is more heavily biased towards GPUs,” Toomim said.
+
+ProgPoW has had a long and controversial history since it was introduced more than two years ago. It was created by a group called Ifdefelse and one of the original members Kristy Leigh-Minehan has written extensively about the subject. “A lot of research was done into ProgPoW and to whether it protects the incentives of the network participants (common and commercial miners). We believe it does,” Minehan wrote in June 2018. The proposal has two algorithm features that are claimed to make mining more decentralized by making graphic card mining more competitive against a network full of Application-Specific Integrated Circuits or ASICs. Minehan and other ProgPoW proponents wholeheartedly believe the proposal will address centralization within the mining ecosystem.
+
+To be fair to Satoshi, GPU driver support was awful in 2009. pic.twitter.com/TEDGFdTFRs — Kristy-Leigh Minehan (@OhGodAGirl) March 8, 2020
+
+“ProgPoW addresses the problem of centralization by minimizing the benefit of specialized, secretly-developed ASICs,” Minehan’s blog post called “A Perspective on ProgPoW” notes. “A simpler algorithm benefits those developing a secret ASIC. Those who say simple algorithms allow competition are misunderstanding the hardware ecosystem.” Minehan’s editorial adds:
+
+ProgPoW has been designed to be a vendor-neutral proof-of-work, or more specifically, proof-of-GPU. ProgPoW has intentionally avoided using features that only one core architecture has, such as LOP3 on NVIDIA, or indexed register files on AMD.
+
+ProgPoW Concerns: Forced Redistribution, Keccak Function Worries, ASIC Resistance Failures, and the Proposal’s Creators Are Anonymous
+
+Despite the beliefs of Minehan and others, ProgPoW is not favorable in the eyes of many ethereans. Some have called the idea a “socialist agenda” which uses “the initiation of force to redistribute wealth.” Last year as the debates continued, Ethereum supporter Martin Köppelmann tweeted that he is against the ProgPoW concept. “I am against a ProgPoW hard fork,” Köppelmann wrote. “To me, there are only two legitimate reasons to hard fork Ethereum – address an existential threat or bring Ethereum one step closer to a long term sustainable stable state. ProgPoW is tinkering in favor of one group (GPU miners) vs another.” Ethereum members also took issue with an audit published in September 2019. The audit was delivered by Least Authority, a security consulting company. The audit revealed a unique type of the cryptographic function Keccak and Least Authority addressed this change. The Ifdefelse Twitter account responded to the community’s concerns over the change but it remained a topical discussion.
+
+The ProgPoW debate continued during a developer meeting held on February 21 and even more so when the Ethereum Improvement Proposal (EIP) 1057 (ProgPoW specification) was submitted for review. ProgPoW haters don’t think driving ASIC miners off the network is ideal and skeptics say that ASIC resistance has destroyed networks like Bitcoin Gold.
+
+At this point in time, numerous crypto influencers don’t believe an ASIC resistant chain can be built securely and ASIC manufacturers will always find a way to create an ASIC rig that mines the coin. Other ethereans see ProgPoW as a distraction toward moving the Ethereum chain toward proof-of-stake (PoS). People think that ProgPoW could cause a potential chain split like the Ethereum Classic hard fork and skeptics also take issue with the fact that Ifdefelse representatives are anonymous.
+
+Well done to @kikx for his findings! Thank you for strengthening ProgPoW! https://t.co/lkBstnP5hd — Kristy-Leigh Minehan (@OhGodAGirl) March 5, 2020
+
+On March 2, Ethereum developer Hudson Jameson addressed the “topic of contention in the Ethereum community” in a blog post called “ProgPoW: The Ethereum Community Speaks.” Jameson discussed a number of pros and cons associated with the proposal and he denounced those who have harassed people during the debate.
+
+“We need to have productive, civil discourse as we try to solve difficult governance and communication problems — I believe we can do it,” Jameson wrote.
+
+What do you think about the ProgPow debate within the Ethereum community? Do you think ASIC resistance is not feasible or do you think developers will be able to stop ASICs going forward? Let us know what you think about this subject in the comments section below.
+
+Disclaimer: This article is for informational purposes only. It is not an offer or solicitation of an offer to buy or sell, or a recommendation, endorsement, or sponsorship of any products, services, or companies. Bitcoin.com does not provide investment, tax, legal, or accounting advice. Neither the company nor the author is responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.
+
+Images credits: Shutterstock, Twitter, Fair Use, Wiki Commons, and Pixabay.
+
+Want to create your own secure cold storage paper wallet? Check our tools section. You can also enjoy the easiest way to buy Bitcoin online with us. Download your free Bitcoin wallet and head to our Purchase Bitcoin page where you can buy BCH and BTC securely.

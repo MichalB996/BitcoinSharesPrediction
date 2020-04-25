@@ -1,0 +1,45 @@
+DATE:  02.04.2020, 14:19:08
+TITLE: Economist Suggests Bitcoin’s Price Would Skyrocket If It Scaled
+URL:   https://blockonomi.com/bitcoin-price-would-skyrocket-if-it-scaled/
+
+Over the past decade, Bitcoin has been the world’s best-performing asset, rallying from pennies to thousands of dollars, reaching an all-time high of $20,000 at the end of 2017.
+
+Case in point, Saifedean Ammous, an economics professor and the author of industry primer “The Bitcoin Standard,” observed last October that Bitcoin (then trading around $9,000) was over 838 million percent higher than the first market price of the asset, which was under one cent.
+
+Ten years ago today, 5,050 btc were sold for $5.02 in the first market transaction for bitcoin. Today, they'd be worth $42,171,792.50. A rise of 838,078,685%. https://t.co/yCvJ9TrrSn — Saifedean Ammous (@saifedean) October 12, 2019
+
+It would be fair to say that Bitcoin hasn’t underperformed. But according to a leading economist and cryptocurrency proponent, the asset could have likely performed even better if proper scaling solutions had been implemented in time for the previous rally.
+
+Would Bitcoin Be Trading Higher If It Scaled?
+
+In a tweet published Monday, Jeffrey A. Tucker — an economics writer of the Austrian School, a branch of economic thought that is known for its propensity to gravitate towards hard monies like gold (and sometimes Bitcoin) — wrote:
+
+I’m not unimpressed by a $6K price of BTC. I was blown away when the thing reached $30.00. But can you imagine the price today if the thing had properly scaled?
+
+I'm not unimpressed by a $6K price of BTC. I was blown away when the thing reached $30.00. But can you imagine the price today if the thing had properly scaled? — Jeffrey A Tucker (@jeffreyatucker) March 30, 2020
+
+This comes shortly after Tucker explained on Russian state-funded media outlet RT that Bitcoin’s journey to the mainstream has been seriously hampered because it has “not properly scaled.” The economist specifically cited his sentiment that too few consumers and merchants leverage the technology.
+
+Although Tucker’s tweet got a lot of love, accentuated by the nearly 1,000 likes, many in the Bitcoin community were quick to rebut the sentiment.
+
+Many looked to the failure of the “scaled” Bitcoin forks, such as BCH and BSV, as the perfect case in points; indeed, despite their large block sizes, these two digital assets still trade at a dramatically lower price than BTC. This was presumably in reference to Tucker’s comments from 2017, when he lauded BCH as a “useful” digital asset.
+
+Yan Pritzker, a co-founder of BTC financial services upstart SwanBitcoin, called Tucker’s opinion “seriously misinformed,” explaining that Bitcoin “scaling properly” would likely sacrifice many of the characteristics that imbue the cryptocurrency with much of its value:
+
+How do you imagine a system that is permissionless yet somehow magically transfers every transaction from America to China to reach every node to scale infinitely. All. High. Throughput. Systems. Are. Built. In. Layers. Or. Are. Fully. Centralized.
+
+And Michael Goldstein of the Nakamoto Institute said that even at $6,000, Bitcoin is “scaling right on schedule,” referencing the fact that BTC’s economic capacity is scaling as price increases.
+
+Long story short, few hardcore Bitcoiners agreed with Tucker.
+
+Scaling Is Happening
+
+Even if Tucker’s thesis is invalid, it’s clear that attempts are being made to scale the flagship blockchain, albeit not as fast as some would like.
+
+The leading solution in place is the Lightning Network —a second-layer scaling solution that migrates transactions off the base Bitcoin blockchain to allow for lightning-fast, effectively free, and cross-chain transfers. Many liken the solution to an open tab at a bar.
+
+Earlier this year, fintech giant Square’s crypto division, the fittingly-named Square Crypto, unveiled the Lightning Development Kit (LDK), which will allow developers to create “custom” integrations of the Network in an “easy, safe, and configurable way” through an API, demo apps, and other technical tools.
+
+Essentially, it should make the integration of the Lightning Network into existing or up-and-coming cryptocurrency software much easier than it is, and should, therefore, increase the adoption of the scaling solution with ample time.
+
+There’s also progress being made with so-called Schnorr signatures, which are a cryptographic solution that would allow more transactions to fit into each Bitcoin block, thereby increasing the number of possible transactions per second.

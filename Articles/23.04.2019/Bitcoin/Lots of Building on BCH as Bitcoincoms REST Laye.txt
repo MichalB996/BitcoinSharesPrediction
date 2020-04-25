@@ -1,0 +1,33 @@
+DATE:  23.04.2019, 21:55:22
+TITLE: Lots of Building on BCH as Bitcoin.com's REST Layer Sees Millions of Requests
+URL:   https://news.bitcoin.com/lots-of-building-on-bch-as-bitcoin-coms-rest-layer-sees-millions-of-requests/
+
+Lots of Building on BCH as Bitcoin.com's REST Layer Sees Millions of Requests
+
+Over the last year, Bitcoin.com has released a robust Bitcoin Cash (BCH) developer platform loaded with programming tools like Bitbox as well as the newly launched Badger and SLP tool kits. In addition to these services, Bitcoin.com provides programmers with guides, a GUI BIP44 development wallet, a BCH testnet faucet, and REST layer for the BCH network so developers can speak to the blockchain over REST. On April 19, the Rest.Bitcoin.com platform got over 5 million requests in 24 hours, suggesting some exciting ideas are being built by BCH developers.
+
+Also read: UK and Europe-Based Users Can Now Buy Bitcoin Cash Inside the Bitcoin.com Wallet
+
+Bitcoin.com’s REST Layer for Developing Bitcoin Cash Sees 5 Million Requests in 24 Hours
+
+Nine months ago, Bitcoin.com launched a new web portal called Developer.Bitcoin.com aimed at providing Bitcoin Cash (BCH) programmers with the tools and resources they need to supercharge their workflow. The portal provides programmers with instruments and software development kits for SLP, Badger, Bitbox, and other frameworks like Rest.Bitcoin.com, a REST layer for developing on Bitcoin Cash.
+
+In addition to the helpful tools provided, the developer web portal’s Learn section provides educational resources like Mastering Bitcoin Cash. There are also tutorials, human interface guidelines, and insights from developers who already understand how to build certain applications but could still use helpful resources like Bitbox or the REST layer. In fact, more recently the Bitcoin.com REST layer has been a very popular tool for BCH developers.
+
+“Rest.Bitcoin.com has gotten over 5 million requests in the last 24 hours,” explained BCH developer Gabriel Cardona on April 19. “That’s 5 million reads/writes from/to the Bitcoin Cash blockchain. “We’re witnessing a Renaissance for app developers on BCH right now — So many exciting ideas being built and big things on the horizon.” Cardona added:
+
+If your app uses REST and you’re running into the rate-limit please reach out to me. We’re building out the pro-tier infrastructure now and are looking for people to test it out.
+
+Explore the Depth of BCH Script With Op_Code Documentation for Smart Contracts
+
+REST or RESTful API design (Representational State Transfer) is specifically designed to take advantage of existing network infrastructure. With Bitcoin.com’s REST layer, developers get BCH RPC over HTTP functionality and 100% of the Bitcoin Cash JSON RPC available over HTTP with proper REST semantics. BCH software developers can either use our Bitbox SDK in order to ‘GET’ and ‘POST’ requests to the BCH network with no further setup. Programmers can also opt to build their own client in order to speak with the BCH chain over REST. This includes data like address and UTXO details, block information, interactions with the BCH chain, creating raw transactions, control over your own chain, and specific utilities like data on single or bulk BCH addresses.
+
+In addition to these features, the REST layer has Simple Ledger Protocol (SLP) support which provides programmers with the ability to obtain details for SLP tokens. The resource is the fastest API to use for integrating Simple Ledger Protocol (SLP) token concepts into a robust application. Moreover, if developers want to experiment with the power of smart contracts and the BCH protocol’s Script, the developers at Bitcoin.com have published a document with all the Script Op_codes. Software developers can also test the boundaries of BCH smart contracts and tokens via Script by developing an understanding of these Op_code terms, hex, inputs/outputs, and descriptions.
+
+We’re thrilled developers are using Bitcoin.com’s REST layer on a regular basis. At Bitcoin.com we believe developers have the power to make Bitcoin Cash accessible to global citizens, no matter their age, gender, nationality or financial status. BCH is an inclusive network whose user-friendly applications and platforms that provide real-world utility are important in attaining mass adoption. If you’re a programmer and are passionate about spreading economic freedom through the power of Bitcoin’s innovative technology then visit Developer.bitcoin.com today.
+
+What do you think about the Developer.bitcoin.com web portal? Are you building a project on top of the BCH chain? Let us know what you think about this subject in the comments section below.
+
+Image credits: Shutterstock and Developer.bitcoin.com
+
+Want to energize your Bitcoin Cash smart contracts? Oracle.Bitcoin.com is coming soon!

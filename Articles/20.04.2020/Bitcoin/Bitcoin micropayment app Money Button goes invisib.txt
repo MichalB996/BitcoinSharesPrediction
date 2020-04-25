@@ -1,0 +1,19 @@
+DATE:  20.04.2020, 14:31:36
+TITLE: Bitcoin micropayment app Money Button goes invisible
+URL:   https://coingeek.com/bitcoin-micropayment-app-money-button-goes-invisible/
+
+One of the leaders in very low fee, ultra-fast microtransactions has taken another step in its evolution to become the easiest processor on the planet. With the release of Invisible Money Button, businesses using the platform can now fully embed the payments into their website or app.
+
+Although the swipe action of Money Button is a user-friendly experience appropriate for most implementations, some applications have a better experience with a custom action to create payments or facilitate automatic payments. With Invisible Money Button, applications now have the ability to request permission to swipe automatically on behalf of the user. This makes it possible to create user-experiences tailored specifically to the audience of each application, without necessarily needing to manually swipe the button.
+
+As the Money Button brand does not appear at all when using Invisible Money Button, it becomes a back end payment system with no need for customers to leave the site they are using or interact directly with Money Button as a 3rd party processor.
+
+Ryan X. Charles, Founder & CEO of Money Button, commented on the release, saying: “As the next generation of internet – metanet – starts to take shape and internet users realize they want their data to be their own again, micropayments become vital. We are taking less than a cent to post or ‘like’ and for more normal retail purchases, offering extremely low fees for the retailer. This part exists already, but now Money Button can be fully integrated, unlike when using a relatively high fee processor such as PayPal where customers will have to leave the site they are on and log in to their payment processor.”
+
+“The swipe-based interface has been carefully designed to have the best user-experience for most use-cases, but it could never be the best user-experience for every use-case. We are happy to announce the immediate availability of Invisible Money Button, a new API for businesses to request permission to swipe on behalf of the user. The button itself never appears on the screen. This makes advanced applications much more user-friendly, such as micropayments in social media, messaging apps, and uploading data to the blockchain. Not only is the user-experience customizable, but payments can even be performed automatically, making entirely new applications possible.”
+
+“Furthermore, along with Invisible Money Button, we are happy to launch a new permissions system that gives full control to the end-user. People can choose to grant access to applications to spend money and perform other actions such as signatures and encryption on their behalf. Users always have full control and can grant, manage, and delete permissions at any time. This is an important step forward for the new ‘users own their data’ paradigm for the internet made possible by Bitcoin SV.”
+
+About Money Button: Money Button is a wallet solution for businesses, built on the Bitcoin SV (BSV) blockchain – the only coin built on a blockchain that scales, has utility to enterprise level users, low transaction fees and is committed to a set-in-stone protocol for developers to build on. There are over 400 business cases, just like Money Button, built on the Bitcoin SV blockchain with more coming on each day as the ecosystem grows.
+
+New to Bitcoin? Check out CoinGeek’s Bitcoin for Beginners section, the ultimate resource guide to learn more about Bitcoin—as originally envisioned by Satoshi Nakamoto—and blockchain.

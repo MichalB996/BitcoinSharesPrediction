@@ -1,0 +1,17 @@
+DATE:  20.05.2019, 10:35:03
+TITLE: Bitcoin Core still has major issue with the inflation bug
+URL:   https://coingeek.com/bitcoin-core-still-has-major-issue-with-the-inflation-bug/
+
+It appears that many of the Bitcoin Core (BTC) node operators don’t take their operations as seriously as they should. As has been seen numerous times in the past, a lack of attention to detail and a laid-back attitude in the computer world can have catastrophic consequences, and the BTC network is facing the same concerns. According to a recent post by BTC developer “Luke Dashjr,” over half of the full nodes in operation are running client software that is vulnerable to the inflation bug that was first reported in September of last year.
+
+For eight months, the bug has persisted. However, over 50% of the nodes have not been updated. The only silver lining is that the figure has dropped from the 60% seen at the beginning of May, but it seems apparent that there are a number of BTC machines out there running 24 hours a day, seven days a week with no human intervention at all, and that’s a scary proposition for the BTC blockchain.
+
+The inflation bug could potentially allow miners to inflate the amount of BTC in supply beyond the 21-million limit imposed. They can theoretically spend multiple unspent transaction outputs (UTXO) in a single transaction, but developers didn’t release a notification of the vulnerability. Instead, they simply released a new version of the client software and, in a subsequent community guide published on Bitcoincore.org, stated, “In order to encourage rapid upgrades, the decision was made to immediately patch and disclose the less serious Denial of Service vulnerability, concurrently with reaching out to miners, businesses, and other affected systems while delaying publication of the full issue to give times for systems to upgrade. On September 20th a post in a public forum reported the full impact and although it was quickly retracted the claim was further circulated.”
+
+There could be as many as 100,000 nodes on the BTC network, although most sources say the number of active nodes hovers around 10,000. The issue, if exploited, has the potential to completely demolish the BTC blockchain.
+
+Dashjr explained to Cointelegraph, “The inflation bug is in practice a network-wide risk. It would allow a 51% miner attack to cause inflation (something such attacks can’t normally do). The inflationary chain would only be accepted by vulnerable nodes and light wallets. It makes what was thought to be a full node, actually just a light wallet in that one respect. If more than a small minority use light wallets, miners get to make up the rules.”
+
+Some individuals with extensive training on crypto believe that the inflation bug may not be as dire as some think, and that most miners wouldn’t attempt it. However, they also acknowledge that any country opposed to crypto advancement could certainly exploit the defect and destroy the network.
+
+New to Bitcoin? Check out CoinGeek’s Bitcoin for Beginners section, the ultimate resource guide to learn more about Bitcoin—as originally envisioned by Satoshi Nakamoto—and blockchain.

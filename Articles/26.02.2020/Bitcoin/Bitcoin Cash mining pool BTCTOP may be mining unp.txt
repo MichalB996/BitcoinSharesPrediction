@@ -1,0 +1,19 @@
+DATE:  26.02.2020, 19:30:13
+TITLE: Bitcoin Cash mining pool BTC.TOP may be mining unprofitable blocks on purpose
+URL:   https://eng.ambcrypto.com/bitcoin-cash-mining-pool-btc-top-may-be-mining-unprofitable-blocks-on-purpose/
+
+The Bitcoin Cash network has experienced long wait times between mined blocks several times this month. Between 1-23 February, there were 59 blocks which took over an hour to be mined and interestingly, the BTC.TOP pool mined 37 of them.
+
+The long wait times were likely due to how the network’s difficulty adjustment algorithm functions and this phenomenon has also been seen on the BTC network as well.
+
+According to a developer who goes by the name ‘dskloet‘ on Reddit, the number of Bitcoin blocks expected to be found in a certain time follows a ‘Poisson distribution,’ a pattern that expresses the probability of a given number of events occurring over a fixed interval of time. He also explained how the time between blocks follows an ‘Exponential distribution’ — the probability distribution of the time between events in a Poisson point process.
+
+By this logic, there is only a 16% chance of 6 blocks being mined in a given hour and twice a day, it takes over 42.5 minutes to mine a single block. For BTC.TOP to mine these blocks, they have been moving significant hashrate to the Bitcoin Cash network, against what is likely better judgment.
+
+According to Bitcoin miner Jonathan Toomim, mining BTC is around 10% more profitable during these BCH ‘dry spells’ and BTC.TOP has been mining at a loss to reduce these long validation times. His estimates suggest that they have lost around $16,400 already and are en route to losing $20,000 this month.
+
+Toomim also reported how this behavior had only started this month and that prior to February, BTC.TOP had been avoiding mining unprofitable blocks entirely. Between 15 December and 31 January, there were 175 blocks that took at least 1 hour to mine, of which only 6 were mined by the mining pool.
+
+This change in behavior looks to be a directed effort towards improving transaction speed on the network at the expense of their own profits. Bravo, BTC.TOP.
+
+This isn’t the first time BTC.TOP has been in the news lately, however. The mining pool was recently in the news after its CEO, Jiang Zhuoer, proposed the implementation of an ‘Infrastructure Funding Program’ to redirect a portion of mining profits to help developers on the BCH network.

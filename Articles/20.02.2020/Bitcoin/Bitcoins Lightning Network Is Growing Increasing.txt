@@ -1,0 +1,51 @@
+DATE:  20.02.2020, 20:30:06
+TITLE: Bitcoin’s Lightning Network Is Growing ‘Increasingly Centralized,’ Researchers Find
+URL:   https://www.coindesk.com/bitcoins-lightning-network-is-growing-increasingly-centralized-researchers-find
+
+Bitcoin's lightning network is growing "increasingly centralized," making it more susceptible to attacks, asserts a new paper by security researchers.
+
+Seen as a potential solution to bitcoin's scaling headaches, lightning is a payment network allowing for speedier and cheaper transactions. Partly to make lightning more robust, developers and researchers have been trying to spot holes in the network.
+
+Released earlier this month, the paper "Lightning Network: a second path towards centralisation of the Bitcoin economy" (by researchers Jian-Hong Lin, Kevin Primicerio, Tiziano Squartini, Christian Decker and Claudio J. Tessone) concludes that lightning has an "unequal wealth distribution" with a smaller percentage of nodes on the network gradually accumulating a larger proportion of bitcoin (BTC).
+
+Specifically, the researchers found that 10 percent of the nodes control 80 percent of funds on the network. The situation, they caution, creates room for disruption. If most of the bitcoin is held mostly on a few nodes, this could make the network more vulnerable to attacks because removing these routing nodes would leave gaping holes.
+
+
+
+"Removing hubs leads to the collapse of the network into many components... suggesting that this network may be a target for the so-called split attacks," potentially leading to lightning being divided in half.
+
+To be sure, engineer Christian Decker, a lightning engineer at bitcoin tech startup Blockstream and one of the paper's authors, said he is not worried about this state of affairs lasting.
+
+This trend toward centralization is "likely temporary," he tweeted. He and other lightning developers are "working to make it easier for operators to build redundancies into the network."
+
+Rise of the middlemen
+
+The researchers analyzed how the global network of nodes used for sending payments from place to place has evolved over time, by combing through a series of snapshots of the network over a period of 18 months.
+
+On the lightning network, a payment might need to hop across several nodes to reach its destination. Most nodes passively sit at the edge of the network to send or receive a payment.
+
+But "routing nodes" in the middle are doing the heavy lifting of passing payments across the network on behalf of others. If they want, they can charge a small fee for their services.
+
+The researchers looked at these intermediary nodes and found a smaller portion of them are starting to shepherd a higher percentage of payments.
+
+Barriers to entry
+
+Decker added that it's not surprising more casual users aren't running routing nodes on the network.
+
+"We can't (and shouldn't) force users to invest the time and effort to run a routing node in the network, the best we can do is lower the barriers to do so, and maybe automate. We're not there yet, it is not very surprising that most stable nodes are run by few tech-savvy people," he tweeted.
+
+But he hopes running a routing node is at least easy enough for a power user with some extra timwe to set up without racking up major expenses.
+
+"As long as a hobbyist with some knowledge can set up a node and actively compete with the other operators in the network, I think we have achieved our goal," he added.
+
+Poking holes
+
+In a similar what-could-go-wrong exercise, Hebrew University researchers released a paper this week showing how to execute a "congestion attack" on the lightning network, making it tough to send payments.
+
+This hypothetical attack costs only about $4,000 at press time to significantly disrupt the network.
+
+"Our results show that it is possible to disrupt the Lightning Network by locking most of its liquidity using less than half a bitcoin," the paper reads.
+
+Broadly, Decker sees this type of research as an important part of hardening the payment system.
+
+"We believe in publicly discussing both upsides as well as downsides of our protocol, and the network. Only this way we [can] make progress," he wrote. "Anything else would be marketing, and that's not the business we're in."

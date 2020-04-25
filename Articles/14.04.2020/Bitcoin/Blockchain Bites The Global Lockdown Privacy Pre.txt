@@ -1,0 +1,99 @@
+DATE:  14.04.2020, 17:25:33
+TITLE: Blockchain Bites: The Global Lockdown, Privacy Preserving Cryptography and Bitmain’s Cash Rebates
+URL:   https://finance.yahoo.com/news/blockchain-bites-global-lockdown-privacy-172533676.html
+
+The coronavirus-led economic crisis, now called the Great Lockdown, shows no signs of letting up.
+
+“For the first time since the Great Depression both advanced economies and emerging market and developing economies are in recession,” Gita Gopinath, International Monetary Fund (IMF) chief economist, said. The crypto industry is far from insulated, today major Bitcoin miner manufacturer Bitmain announced it will pay rebates to customers hit by the market downturn, while an aspiring crypto exchange has folded.
+
+You’re reading Blockchain Bites, the daily roundup of the most pivotal stories in blockchain and crypto news, and why they’re significant. You can subscribe to this and all of CoinDesk’s newsletters here.
+
+Related: First Mover: Gold Is Crushing Bitcoin, but Inflation May Bring the Cryptocurrency a Boost
+
+To combat the spread of the virus, technologists are working fervently to develop contact tracing tools to monitor how the virus moves through communities, often sacrificing cherished principles like privacy and autonomy. Here’s the story:
+
+Top Shelf
+
+The Great Lockdown
+
+“The Great Lockdown is the worst economic downturn since the Great Depression, and far worse than the Global Financial Crisis [of 2008],” International Monetary Fund (IMF) chief economist Gita Gopinath said on Tuesday. She projected the global economy will contract by 3 percent in 2020, due to $9 trillion in losses. The United States is expected to decline to roughly -6 percent growth, as are other nations in the advanced economy group. Gopinath said this year’s losses will “dwarf” the global financial crisis 12 years ago.
+
+A second wave of job loss is hitting businesses that were once thought to be resilient to shelter-in-place mandates, according to the Wall Street Journal. These include workers in the intellectual economy, including corporate lawyers, government bureaucrats, and healthcare workers not engaged in fighting the pandemic. “The longer shutdowns continue, the bigger this second wave could become, risking a repeat of the deep and prolonged labor downturn that accompanied the 2007-09 recession,” according to the Journal.
+
+The bitcoin-friendly company behind Cash App, Square, announced Monday it is participating in the U.S. government’s emergency Paycheck Protection Program. Jackie Reses, head of Square Capital, tweeted that Square will work with Salt Lake City-based Celtic Bank to roll out the lending program this week.
+
+Contact Tracing
+
+Google and Apple will bake their jointly produced decentralized tracing tool, meant to track COVID-19 contagion, into their operating systems. TechCrunch’s Zack Whittaker and Darrell break down what data will be collected, where it will be stored, and who will have access. An absolute must read.
+
+“But contact tracing in the real world is not quite as many of the academic and industry proposals assume,” writes Ross Anderson for Light Blue Touchpaper, a University of Cambridge Computer Laboratory blog. While the morality of contact tracing has been getting a lot of play, the efficacy of monitoring global, mobile populations isn’t yet fully understood. Decentralized systems are difficult to update, people will naturally resist downloading an app, and the information collected may be insufficient or misleading, Anderson argues.
+
+Still, there are paths to boosting public health without invading civil liberties, and a European consortium is forging the way. The Pan-European Privacy-Preserving Proximity Tracing, is putting together a variety of different proposals for contact tracing, including the Decentralized Privacy-Preserving Proximity Tracing that offers a model for protecting privacy while carrying out necessary disease surveillance. This includes how to keep users’ Bluetooth IDs truly anonymous, how to secure the upload of Bluetooth data to servers, and what a decentralized, open system approach might look like.
+
+Zoom Boom?
+
+Your Zoom account information is worth less than a penny on the dark web. Cybersecurity intelligence firm Cyble told BleepingComputer that more than 500,000 Zoom accounts are being auctioned on the dark net and hacker forums, and sometimes given away for free.
+
+Related: First Mover: Bitcoin Market Goes Into ‘Backwardation’ Despite Fed’s Trillions
+
+Transaction Monitoring
+
+Crypto exchange Huobi has developed an analytics tool that traces fraudulent and illicit transactions and automatically freezes accounts. (Modern Consensus)
+
+Tough Times
+
+Beijing-based Bitmain is handing out cash coupons to compensate customers who ordered its latest bitcoin mining machines ahead of recent price markdowns. The company said Tuesday that buyers of its AntMiner S17+ and T17+ devices with delivery dates between mid-February and the end of April will receive coupons worth from $17 to $272 per unit – a move that reflects the lasting impact of last month’s crash in bitcoin prices and the expected mining revenue drop due to bitcoin’s halving event in May.
+
+Blackmoon Crypto, an exchange that aspired to be the first to sell Telegram’s blockchain tokens, is shutting down. Oleg Seydak, the firm’s CEO, cited the legal limbo of TON tokens in the U.S. and the cost of regulatory compliance as cause for closure.
+
+Mergers & Partnerships
+
+Crypto exchange ShapeShift acquires non-custodial crypto wallet Portis. (The Block)
+
+Beijing-based video platform iQiyi will tap a public blockchain, the New Kind of Network, to boost buffering speeds and reduce energy consumption and network congestion.
+
+Cryptic Warnings
+
+The Financial Stability Board, a G20 body advising on ways to improve the global financial system, has warned national regulators to review standards and address any possible disruptions caused by global stablecoins such as Libra.
+
+The Federal Bureau of Investigation warned Monday that fraudsters are about to unleash a surge of coronavirus cryptocurrency scams. “Fraudsters are leveraging increased fear and uncertainty during the COVID-19 pandemic to steal your money and launder it through the complex cryptocurrency ecosystem,” the agency said, and they’re targeting victims regardless of their age.
+
+Developers Innovate
+
+Crypto entrepreneur Alex Masmej raised $20,000 by tokenizing a portion of the next three years of his income. These shares will be tradable on Uniswap and will fund his development of a DeFi savings startup. (The Block)
+
+Bitcoin developer Bryan Bishop has rolled out a fork-free prototype of a bitcoin vault. Shared on Github and over the Bitcoin Core email list, the code update is a way to backup holders’ private keys, presenting a failsafe to the Sorry For Your Loss events.
+
+A group of technologists and engineers are open sourcing a design for face mask factories. The Open PPE Project is spearheading the initiative to get regulatory approval, source materials and develop this vital resource to help plug the gap between the billions of face masks the world will need to fight off the coronavirus pandemic.
+
+Market Intel
+
+Not All That Glitches
+
+Gold has left bitcoin behind on a month-to-date basis following a rise to seven-year highs early on Tuesday. The biggest cryptocurrency by market value, often touted as “digital gold,” is trading near $6,900 at press time, representing a marginal gain on the day, according to CoinDesk’s Bitcoin Price Index. Meanwhile, an ounce of gold is changing hands near $1,717, up 0.5 percent on the day, having hit a 7.5-year high of $1,730 during the Asian trading hours. The yellow metal is now up 9 percent on a month-to-date basis, while bitcoin is lagging with just a 5 percent gain.
+
+
+
+Miners’ Anticipation
+
+As the latest Bitcoin halving approaches, miners are upgrading equipment, optimizing arrangements, conserving power and more in the race to dominate. On this week’s episode of “Bitcoin Halving 2020: Miner Perspectives,” Kristy-Leigh Minehan and Pavel Moravec give an in-depth explanation of what miners are doing to maximize profits and increase operational efficiency.
+
+
+
+CoinDesk Research
+
+March 12 changed how investors look at crypto markets and assets, shook out some participants and left others unmoved. The CoinDesk Quarterly Review is a Q1 analysis of how the narrative has changed for crypto blue-chips like Bitcoin and Ethereum, which assets outperformed, and how the participants in crypto markets are shifting in the wake of Q1’s defining event.
+
+
+
+CoinDesk Research Webinar
+
+March 12 changed how investors look at crypto markets and assets, shook out some participants and left others unmoved. The CoinDesk Quarterly Review is a Q1 analysis of how the narrative has changed for crypto blue-chips like Bitcoin and Ethereum. On Wednesday, April 15 at 2pm ET, CoinDesk Research hosts a webinar to review and discuss our analysis. Sign up here.
+
+
+
+Who Won #CryptoTwitter?
+
+Blockchain Bites is CoinDesk’s daily news roundup of the most important stories in blockchain tech from this site and around the web. You can subscribe here.
+
+Related Stories

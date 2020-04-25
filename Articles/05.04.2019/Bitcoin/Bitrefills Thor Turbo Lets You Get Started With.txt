@@ -1,0 +1,25 @@
+DATE:  05.04.2019, 17:10:05
+TITLE: Bitrefill’s ‘Thor Turbo’ Lets You Get Started With Bitcoin’s Lightning Faster
+URL:   https://www.coindesk.com/bitrefills-thor-turbo-lets-you-get-started-with-bitcoins-lightning-faster
+
+Bitrefill has launched a new service that seeks to simplify the process of setting up payment channels on the lightning network, the experimental, layer-two initiative being built on top of bitcoin.
+
+Demoed for the first time Friday at the Understanding Bitcoin conference in Malta, the new service – dubbed “Thor Turbo” – helps users to get around a wrinkle in how lightning works today. Currently, users need to wait an hour to initialize a lightning channel, but with a technology that Bitrefill is calling “turbo channels,” they’re looking to make that set-up process more smooth for would-be transactors.
+
+It just goes to show, as promising as lightning is for scaling bitcoin, developers are still working out all the kinks.
+
+Lightning, in general, is quite fast, allowing for transactions to be sent instantaneously, even across the world. But before users can take advantage of this speed, they first need to convert their bitcoin into lightning, which is generally not an instant process. Doing so takes six “confirmations” on the bitcoin blockchain, a wait of roughly 60 minutes, to know the transaction has been settled securely and the network has officially accepted the transaction.
+
+With the new Thor Turbo app, users can bypass the initial wait by opening a “turbo channel” with Bitrefill of any size, which they can pay for in bitcoin, ethereum, dash, litecoin, dogecoin. Their technology is based on an idea by developer Martin Habovštiak, which was later put into practice by developer Anton Kumaigorodskiy in Bitcoin Lightning Wallet.
+
+Bitrefill CCO John Carvalho said in a statement:
+
+“We want to show the world what’s possible with ‘layer 2’ scaling technology. Words can’t do justice to the feeling of using bitcoin instantaneously. Everyone needs to try this, and once they do, they will never go back. This expands the entire paradigm of what’s possible for internet commerce.”
+
+Bitrefill is one of the companies that’s been following lightning the longest and most aggressively, even sending one of the first trial payments. The team launched Thor in January to make it easier to receive lightning payments. Thor Turbo is an additional feature that makes it faster for a user to get set up to send lightning payments.
+
+That said, Bitrefill knows that the service it offers is risky, as the underlying lightning technology still has lingering bugs, making it risky to use.
+
+“Some will call us reckless, but we’re here to pull bitcoin forward and make onboarding the world to bitcoin and lightning as frictionless as possible,” said Carvahlo.
+
+Turbo blades image via Shutterstock

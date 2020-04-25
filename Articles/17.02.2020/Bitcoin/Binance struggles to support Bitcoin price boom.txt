@@ -1,0 +1,27 @@
+DATE:  17.02.2020, 22:25:32
+TITLE: Binance struggles to support Bitcoin price boom
+URL:   https://decrypt.co/19750/binance-struggles-to-support-bitcoin-price-boom
+
+Preparing for Bitcoin’s next bull run? Choose your exchange carefully: this week, the crypto exchange giant Binance failed to handle the influx of users piling on Bitcoin’s rising price, suffering from “a number of performance issues,” according to CEO Changpeng Zhao in a Performance Incident Report today.
+
+Over the past couple of weeks, Bitcoin’s price has hovered at around $10,000, its highest price since September. The result? An influx of activity: Over the weekend, when the performance issues occurred, daily trading volume hit a peak of $50 billion, according to data metrics site CoinMarketCap. In comparison, on January 26, Bitcoin’s daily trading volume was less than half that, at $21 billion.
+
+And Binance’s daily trading volume was the highest it's been since July, peaking at around $4 billion toward the end of last week, according to CoinGecko, another metrics site. (In July, trading volume hit highs of around $5.6 billion).
+
+Though Zhao said that the exchange was “stress-tested...like crazy in our test environments,” Binance obviously wasn’t prepared for this past week’s influx of users. The exchange overshot things since July, adding computationally intensive features, “thinking we still have 10-100x performance headroom, while in reality, we may be down to 3-5x,” Zhao wrote.
+
+The exchange hit a breaking point over the weekend, when users saw intermittent UI errors of “too many requests,” “5xx internal error,” and API timeout errors. Users who saw such errors would likely try to place their trades again, increasing the burden on the system. Work was in place to remedy these problems, but Binance “didn’t finish before the massive traffic hit us just a few days ago,” wrote Zhao.
+
+In addition, its software clogged up: A piece of software that usually pushes out more than 2.5gb of data per second dropped in throughput by a hundred times. The result was that some accounts showed incorrect balances (some indicated that entire portfolios had been wiped out), and processed trades sometimes didn’t appear. Binance also suffered from a shortage of the US dollar-pegged stablecoin, Tether (USDT), as reported by BeInCrypto.
+
+To Binance’s credit, Zhao published the report in the name of “#transparency.” But it came at a bad time.
+
+For some users, Binance’s failings might suggest that Zhao’s platform isn’t capable of handling the next Bitcoin bull run. The supply of Bitcoin issued as mining rewards is expected to halve in mid-May—the event is called “The Halvening”—which has historically been associated with a price rise.
+
+Some believe that the price will rise this time around, too, which could lead to increased volume on exchanges as people try to make the most of the price boom. But following this week’s report, some crypto aficionados might think twice about trading on Binance as the market heats up.
+
+What’s more, Zhao published his report on the same day that Binance launched its white-label crypto exchange solution, Binance Cloud. Customers of the new service can use Binance’s tech, like its matching engine, trading risk controls, and big data security system, while letting Binance “take care of the boring stuff (tech, product, liquidity) for you,” according to Zhao.
+
+But following recent performance problems, potential customers of this service might also think twice. If Binance’s infrastructure has shown difficultly handling an influx of trading activity, could this dissuade customers from renting its system?
+
+On Sunday, Zhao tweeted that the performance problems could be solved “with a combination of short, mid and long term solutions. Not everything can be implemented right away, but they will get done.” With the mid-May 2020 halving looming, Binance has its deadline.

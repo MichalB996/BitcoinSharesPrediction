@@ -1,0 +1,47 @@
+DATE:  15.01.2019, 23:35:23
+TITLE: Transparency and privacy: Empowering people through blockchain
+URL:   https://theconversation.com/transparency-and-privacy-empowering-people-through-blockchain-104887
+
+Blockchain has already proven its huge influence on the financial world with its first application in the form of cryptocurrencies such as Bitcoin. It might not be long before its impact is felt everywhere.
+
+Blockchain is a secure chain of digital records that exist on multiple computers simultaneously so no record can be erased or falsified. The redundancy of the system ensures many backups, and the lack of a central storage place ensures there is no one target for hackers. Some suggest that blockchain could become a component of the next generation of the internet.
+
+Many blockchain systems provide a technology called “smart contract:” these are the rules by which records can be accessed and modified by creating new versions. These rules define, for example, who gets access to the stored records, under what conditions, for what declared purpose and in exchange of what (payment or virtual credit). Smart contracts also record every access to the data in the blockchain.
+
+In this way, users can permanently and securely store their data, set their own conditions and control who accesses the data and for what purpose. Because of these features, blockchain technology can be used to store user profile data.
+
+Hoarding the data
+
+Currently, social media giants hoard user data and use it to sell targeted advertisements (their main source of revenue). These social media networks don’t give users a real choice or awareness of what data about them are kept. They provide very few control options and no rewards for users in exchange of their data.
+
+Recently, we have seen many cases when user data has been stolen by hackers, leading to breaches of privacy, the possibility for identity theft or exploitation of the data to manipulate people and influence public opinion towards voting. This can have serious consequences for the democratic process in a liberal society.
+
+Mark Lennihan/AP
+
+The unauthorized use of personal data is difficult to track. But blockchain can change that. Instead of hoarding the data of millions of users for large companies, each user can hold the keys for access to their data.
+
+Currently, there is no universal method to track who shared what, with whom, when and for what purposes in a verifiable fashion. My current research addresses these problems by incorporating the blockchain technology.
+
+User-controlled privacy
+
+One of the elements of user data sharing would be to control who can share the data and by what means, and how users can be incentivized to share data. Smart contracts allow storing these access-control policies securely on the blockchain. Blockchain provides an unalterable record of all transactions. Users can also be incentivized with monetary rewards for sharing their data to commercial enterprises.
+
+I have been researching how a blockchain-based system can keep users data safe, provide access control and provenance of their ownership, and incentivize them to share their data. My recent paper, presented at the International Conference on Blockchain in Seattle in March 2018, is the first in the area of sharing research data and it generated a lot of interest.
+
+University of Saskatchewan professor and computer scientist Julita Vassileva has worked on ways that allow users to control the sharing of their data, and also provide incentives that preserve a user’s control and provide incentives for sharing. Vassileva’s guidance and supervision led me to experiment with blockchain technology to implement such a framework. This led to an award-winning research paper, that I presented at the 2017 Future Technologies Conference. The paper proposed a blockchain-based system to share users’ personal data among tourism businesses.
+
+Sharing can be caring
+
+We need new data-sharing practices so that we can maximize what we learn from research. In medicine and health care, for example, both personalized patient care and medical research can benefit from sharing research data from clinical trials.
+
+Similar to shifts in the business world, the personalization of services is trending. Various data associated with users’ profiles and behaviours are being shared among commercial enterprises. This information is used to better help businesses target their customers and improve the quality of their services. Much of the data are contributed voluntarily by the user; others are obtained from observation of user activities, or inferred through advanced analysis of volunteered or observed data.
+
+Users need to become active participants who stand to benefit from the personal data economy. Blockchain and smart contracts can support users in the following ways:
+
+(1) Give the users full transparency over who accesses their data, when and for what purpose;
+
+(2) Allow the users to specify the purposes of data sharing, which kinds of data that can be shared, and which applications or companies can access the data;
+
+(3) Provide an incentive to users for sharing their data (in terms of payment for the use of the data by applications, as specified by the contracts).
+
+My research project develops guidelines and methods for embedding privacy, user transparency, control and incentives from the start in the design of a data sharing framework. This is an alternative to what currently exists, providing a platform that users can trust to protect their data, have control over it and share it in the ways they want.

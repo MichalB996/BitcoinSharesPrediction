@@ -1,0 +1,55 @@
+DATE:  08.07.2019, 12:42:49
+TITLE: Here’s why Satoshi Nakamoto set Bitcoin’s supply limit to 21 million
+URL:   https://thenextweb.com/hardfork/2019/07/08/heres-why-satoshi-nakamoto-set-bitcoin-supply-limit-to-21-million/
+
+Welcome to Hard Fork Basics, a collection of tips, tricks, guides, and info to keep you up to date in the cryptocurrency and blockchain world.
+
+When Satoshi Nakamoto built Bitcoin, design choices were made that effectively limits the number of Bitcoins that will ever exist to (roughly) 21 million.
+
+A fixed supply limit certainly gives Bitcoin BTC anti-inflationary properties, but the reason it was set to 21 million is hidden in personal correspondence between Nakamoto and software developer Mike Hearn.
+
+21 million was an educated guess
+
+According to an email shared by Hearn, Nakamoto intended Bitcoin‘s unit prices to eventually align with traditional fiat currencies, so that 0.001 BTC would be worth 1 Euro, for instance.
+
+“I wanted to pick something that would make prices similar to existing currencies, but without knowing the future, that’s very hard. I ended up picking something in the middle,” Nakamoto said.
+
+“If Bitcoin remains a small niche, it’ll be worth less per unit than existing currencies. If you imagine it being used for some fraction of world commerce, then there’s only going to be 21 million coins for the whole world, so it would be worth much more per unit,” they added.
+
+Turns out, Nakamoto was a little off in their prediction. 0.001 BTC is currently worth 10.62 Euro, almost 11 times their original example.
+
+OK – but how did Nakamoto come to 21 million Bitcoin?
+
+Nakamoto explained why they chose 21 million for Bitcoin‘s supply limit, but never really expressed how.
+
+One solid theory involves dissecting Bitcoin‘s distribution model (which had been hinted at in the Hearn email), but it unfortunately requires some mathematics.
+
+Many believe that Bitcoin‘s 21 million limit was arbitrarily set when Nakamoto made two key decisions, that: Bitcoin should add new blocks its blockchain every 10 minutes (on average); and the reward paid to miners (starting with 50 BTC) halves every four years.
+
+A post on the Bitcoin section of popular dev forum StackExchange suggested Bitcoin‘s 21 million supply limit is more of a mathematical coincidence than a conscious choice.
+
+Calculate the number of blocks per four year cycle: 6 blocks per hour
+
+* 24 hours per day
+
+* 365 days per year
+
+* 4 years per cycle
+
+= 210,240
+
+~= 210,000 Sum all the block reward sizes: 50 + 25 + 12.5 + 6.25 + 3.125 + … = 100 Multiply the two: 210,000 * 100 = 21 million.
+
+But as one responder put it: this arithmetic only really provides the maximum amount of Bitcoin that can ever exist, and that number was determined by the parameters set by Nakamoto in the first place — so again, this doesn’t answer why.
+
+Yeah but that’s just numbers
+
+If you’re like me (and you’re over the mathematics already), the internet is ripe with alternative suggestions much easier to understand.
+
+Satoshi Nakamoto decides 21 million is a good number, 2008
+
+An interesting theory, sure …
+
+This is worth looking into
+
+So, there you have it. Nakamoto is a secret numerologist, die-hard table tennis fan, and a serial guesstimator. The more you know!

@@ -1,0 +1,41 @@
+DATE:  18.01.2020, 12:27:19
+TITLE: When a Tesla Car Becomes a Bitcoin Node…
+URL:   https://bitcoinist.com/using-tesla-car-as-a-bitcoin-node/
+
+News When a Tesla Car Becomes a Bitcoin Node…
+
+Bitcoin users recently decided to try using their Tesla electric car as a full BTC node, and it worked.
+
+Tesla Electric Car becomes a full Bitcoin node
+
+Electric cars and digital currencies are not usually two things that people would think to connect in any way, but they do have a few things in common. Both are considered emerging technologies that can make the world a better place. Both are also becoming increasingly popular around the world.
+
+However, according to a recent video that was posted by some members of the Bitcoin community, they may establish an even deeper connection.
+
+The video in question shows that Tesla cars can also be used for running Bitcoin. Crypto fans used the car’s onboard computer system to turn the electric vehicle into a Bitcoin full node.
+
+As unlikely as it sounds, the attempt was actually successful, and its success was ensured by a project called Bcoin. This is a project that seeks out the alternative implementation of the Bitcoin protocol, which can be used to run a node on any machine. As a result, the Bitcoin network briefly had an entire car, helping with the process of running the world’s largest digital currency.
+
+Why Running a BTC node on Tesla is a bad idea
+
+Of course, while this was quite a unique way of presenting the Bcoin project, as well as Tesla’s capabilities — running a Bitcoin node via the Tesla car is probably not the best idea. As many already know, running a Bitcoin node requires a lot in terms of resources, including processing power.
+
+Not to mention the fact that the computer that is used for running a node needs to download and process Bitcoin blockchain’s data, which could dangerously interfere with the UX experience of the car’s computer.
+
+Not a good idea! Two problems… 1) Memory & processing concerns that could impact UX
+
+2) Wear on internal storage. Honestly, my biggest concern. #Tesla is known to have issues with memory module lifespan due to limited read/write cycles. — Brandy Lee Camacho (@brandylee79) January 17, 2020
+
+Furthermore, Tesla car’s memory modules were already known for being problematic due to limited read/write cycles, and using the car for running a blockchain node is likely to interfere with them further. However, according to Bcoin’s developers, they were familiar with these problems. In fact, their website even features a warning that reads: “This will use a lot of your bandwidth, CPU, and potentially disk space.”
+
+In other words, they likely did not try to run their new car node for very long, just long enough to record a video and prove to the world that it was possible.
+
+While this is the first time that a car was turned into a Bitcoin node, it is not the first time that the crypto community tried to use non-PC devices for running a full node. In fact, one experiment revealed that Raspberry Pi single-board computers are pretty good when it comes to syncing the blockchain.
+
+Another thing to remember is one thing that Twitter and Tesla have in common, which would be the car maker’s CEO, Elon Musk, who is well known for his presence on Twitter. So far, Musk did not share his thoughts on this experiment.
+
+He also never admitted to being a crypto investor, although he started dropping crypto references in his tweets quite often in the last several months. On one occasion, he stated that Bitcoin is ‘quite brilliant,’ and on another, he said that ‘Ethereum deserves some merit.’ He even revealed that Dogecoin is likely his favorite coin.
+
+What are your thoughts on using Tesla cars for running a Bitcoin full node? Let us know in the comments below.
+
+Image via Twitter: @Bcoin, @brandylee79

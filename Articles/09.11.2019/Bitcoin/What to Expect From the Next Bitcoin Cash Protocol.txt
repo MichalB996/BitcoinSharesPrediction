@@ -1,0 +1,45 @@
+DATE:  09.11.2019, 18:30:04
+TITLE: What to Expect From the Next Bitcoin Cash Protocol Upgrade
+URL:   https://news.bitcoin.com/what-to-expect-from-the-next-bitcoin-cash-protocol-upgrade/
+
+What to Expect From the Next Bitcoin Cash Protocol Upgrade
+
+On November 15, shortly after 12 p.m., Bitcoin Cash (BCH) will execute an upgrade of the network’s consensus rules. After the upgrade is locked in, the next block will enforce minimal pushdata in script and the opcodes OP_Checkmultisig and OP_Checkmultisigverify will be upgraded to accept Schnorr signatures.
+
+Also Read: QE Infinity: 37 Central Banks Participate in Stimulus and Easing Practices
+
+Delivered Code
+
+Next Friday, Bitcoin Cash proponents will be watching the BCH chain upgrade the current consensus ruleset in order to add two new features. Developers have been discussing the upgrade for months now and have explained in great detail at developer meetings how the changes apply to the BCH roadmap. Since August 1, 2017, BCH developers have produced a significant number of protocol developments that are unique to BCH. For instance, BCH engineers have increased the block size to 32MB, allowing for a lot more throughput than a 1MB block.
+
+In September 2018, BCH surpassed BTC’s daily transaction count by processing millions of transactions in a single day. Bitcoin Cash programmers have re-enabled the old Satoshi opcodes, which can allow for a variety of decision-based transactions, compilers, and other functions. The added opcodes allow for the implementation of OP_Checkdatasig which can be used to calculate the hash within a transaction in order to validate signatures in an automated way. Bitcoin Cash developers also increased the network’s default Data-Carrier-Size to 220 Bytes.
+
+BCH engineers did not stop there and at block 582680, the blockchain upgraded by adding the basic foundations of the Schnorr signature protocol. The upgrade prior to the Schnorr feature saw the implementation of Canonical Transaction Ordering otherwise known as CTOR. With CTOR the BCH chain can essentially work with blocks as a set, as opposed to list ordering as the process is done in a canonical manner. According to Coin Dance statistics, BCH developers have added 20 different components to the protocol, there’s another 20 under development, 15 features being discussed and two new properties pending activation. The two added components being implemented to the BCH blockchain consist of a finalized malleability vector (enforcing minimal pushdata in script) and Schnorr signature support for both OP_Checkmultisig and OP_Checkmultisigverify.
+
+Less than two weeks until the Bitcoin Cash network upgrade! All Bitcoin ABC node operators should ensure they are ready by upgrading to a recent version (0.20.x). https://t.co/MfblcCxh6p#bitcoincash #bch #bitcoin — Bitcoin ABC (@Bitcoin_ABC) November 4, 2019
+
+Two New Ruleset Changes
+
+The first change will curb malleability vectors on the network by applying the Minimaldata rule. “This removes the final BIP 62 malleability vector, and means that most of the transactions on the Bitcoin Cash network (including all P2PKH transactions) will now be non-malleable,” the November 15 upgrade documentation explains. While bitcoin transactions are signed, signatures don’t encompass all the data hashed and it’s possible for nodes to pervert the transaction by invalidating the hash.
+
+There are various forms of malleability vectors in scriptSig and signatures, and in 2014 BIP62 was introduced in order to deal with the problems. Over the last few years, many types of solutions have been attempted in order to confront third-party malleability vectors. After the network upgrade next Friday, a majority of bitcoin cash transactions will not be third-party malleable and the enforced Minimaldata rule should also strengthen Simplified Payment Verification (SPV) clients.
+
+The second added feature coming to the BCH chain is support for OP_Checkmultisig (Verify) in order to complement the first iteration of Schnorr signatures. “This upgrade extends that support to OP_Checkmultisig and after this upgrade, all signature checking operations will support Schnorr signatures,” the upgrade documentation reads.
+
+The new feature will allow for more complex mechanics to multi-signature transactions that will benefit from the Schnorr mechanism. “Schnorr aggregated signatures (with OP_Checksig) are one way to do multi-signatures, but they have different technical properties than the familiar Bitcoin multisig, and thus are far from being a drop-in replacement for it,” the November 15 specification notes. The summary adds:
+
+Besides that, it is also desirable that any existing coin can be spent using Schnorr signatures, and there are numerous OP_Checkmultisig-based wallets and coins in existence that we want to be able to take advantage of Schnorr signatures.
+
+Upgrading Nodes and Where to Watch
+
+Bitcoin Cash fans are excited about the next upgrade and network participants have been steadily preparing for the changes. Ordinary users won’t have to do anything before the network changes take effect. Miners and node operators, however, are encouraged to download and run the latest version of a BCH client that supports the November 15 ruleset changes.
+
+Currently Bitcoin ABC, Bitcoin Unlimited, BCHD, Flowee, and Bitcoin Verde are all ready to accept the new rules, and at press time 68% of all publicly accessible BCH nodes show upgrade support. Every day enthusiasts and proponents who don’t mine or run a node can simply watch the upgrade online using a data site like Coin Dance or Fork Monitor. On November 15, both websites will let people know exactly when the consensus changes are executed.
+
+For more information regarding the November 15 Bitcoin Cash upgrade, you can read the specifications on Github.
+
+What do you think about the upcoming Bitcoin Cash upgrade scheduled for November 15? Let us know what you think about this subject in the comments section below.
+
+Image credits: Shutterstock, Twitter, Github, Coin Dance, Wiki Commons, and Pixabay.
+
+Did you know you can buy and sell BCH privately using our noncustodial, peer-to-peer Local Bitcoin Cash trading platform? The Local.Bitcoin.com marketplace has thousands of participants from all around the world trading BCH right now. And if you need a bitcoin wallet to securely store your coins, you can download one from us here.

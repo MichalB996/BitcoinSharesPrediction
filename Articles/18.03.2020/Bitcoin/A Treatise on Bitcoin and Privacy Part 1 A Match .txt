@@ -1,0 +1,96 @@
+DATE:  18.03.2020, 21:04:32
+TITLE: A Treatise on Bitcoin and Privacy Part 1: A Match Made in the Whitepaper
+URL:   https://bitcoinmagazine.com/articles/a-treatise-on-bitcoin-and-privacy-part-1-a-match-made-in-the-whitepaper
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+Introduction
+
+How one’s focus can shift in just two weeks! While today everybody in the Bitcoin space seems more concerned with price fluctuations in response to the global financial panic (understandably so), it’s important to remember perennial issues that never go away, like the importance of maintaining your privacy when you transact in bitcoin. Throughout this month especially, we’ve been hearing reports of KYC/AML-compliant exchanges freezing user accounts due to suspected use of CoinJoin software (more on that later), followed by yet another case of a famous and respected early Bitcoin proponent promoting his new illiquid altcoin as something that “will replace Bitcoin, which isn’t private enough!”
+
+If you want to take a short break from global pandemics, financial meltdowns and price volatility, here’s an attempt at analyzing claims, facts and context of this latest “Bitcoin drama.” To begin with, in Part 1 of this two-part series, we’ll start by looking at the fundamental relationship between Bitcoin and privacy by going back to the beginning with the whitepaper. Then, in Part 2, we’ll focus on some the ways that Bitcoin privacy is being maintained and improved upon — and strike down a few “red herrings.”
+
+Money Needs Privacy
+
+Bitcoin is designed to perform monetary functions, and money needs a strong separation of personal identity from specific monetary units and transactions in order to work sustainably at scale. There are at least two fundamental components to this separation.
+
+Deniability
+
+We could call the first component “deniability.” This describes the possibility for an individual using a monetary tool to credibly deny any connection with it later on.
+
+The reason for this is that money has been developed to facilitate individual saving and voluntary exchange among people. But the positive-sum game of voluntary exchange is not the only way to increase one’s wealth: The other way is the negative-sum game of violent confiscation. As the sociologist and political economist Franz Oppenheimer brilliantly put it, there are two different paradigms for wealth acquisition within societies:
+
+“These are work and robbery: one’s own labor and the forcible appropriation of the labor of others. I propose in the following discussion to call one’s own labor and the equivalent exchange of one’s own labor for the labor of others, the economic means for the satisfaction of needs, while the unrequited appropriation of the labor of others will be called the political means.”
+
+While the temptation to resort to political means is always present in extended social contexts, it becomes particularly strong when money is involved: The same features that make money an especially good tool for exchange and for storing economically acquired wealth make it also particularly interesting as a target of confiscation — and as a way to store politically acquired wealth.
+
+Individuals exchanging and storing money are more easily and more often targeted by political rent-seekers, since it’s most efficient to rob them than to rob participants in simple barter or insulated hermits who don’t exchange at all. Quite often political organizations prefer to present confiscation as conditional upon the specific type of exchange engaged in by the victim: taxes, imposts, tolls, tariffs, tributes, fines, bribes, penalties, excise duties, protection money, etc.
+
+Privacy in communication is important, and economic exchanges are among the most important, sensitive, private and potentially dangerous forms of communication in adversarial environments. Money talks. Somebody whose financial and commercial life is completely exposed runs a higher risk of suffering robbery, blackmail, kidnapping or political expropriation.
+
+For all these reasons, it becomes paramount for economic agents to be able to detach their own public identity from the specific monetary transactions they have taken part in and, thus, to be able to deny such connection.
+
+Fungibility
+
+The second component is called “fungibility.” By this, we mean the possibility for an individual receiving a monetary tool to safely ignore any connection between that tool and any particular individual or use case it interacted with in the past.
+
+Fungibility is more an economical category than a political one: It basically means that any random amount of money is practically indistinguishable from any other, thus making the validation cost for a money receiver way lower. One $50 bill is as good as any other, and you don’t need to know who has used it in the past in order to accept or use it as payment today. Indeed, if a receiver had to evaluate the history of every individual unit before being able to assess its value, verification costs would increase exponentially.
+
+Ironically, one of the relatively recent trends of “Know Your Customer” regulations around the world is, indeed, that money was mostly adopted as a way for merchants to avoid knowing (and trusting) their customers! Customers are already somehow required to “know their merchant,” since they have to trust them about the quality and the dependable delivery of the product or service they purchase. But merchants, when they scale up from trivial systems of barter or credit to actual markets, use money to be free from the burden of knowing all their customers. “KYC” regulation is just a political control tool marketed with a paradoxical expression which exudes economic illiteracy.
+
+This isn’t an ideological problem but a functional one: A good cannot easily pass over many hands (as a monetary good is required to do) if every current receiver has to verify the entire political status of every previous owner in order to know how much political risk (including persecution, censorship, taxation, debt) he is actually inheriting. Non-fungible goods can’t work as money.
+
+Some goods are ideal for mitigating both deniability and fungibility problems: “bearer instruments” which don’t carry the personal information of previous owners, making it easy for everyone to deny having been involved in any specific transaction.
+
+Bitcoin: Born for Privacy
+
+Satoshi Nakamoto created Bitcoin as a tool for privacy. The entire cypherpunk quest, which Satoshi was an active part of and which the Bitcoin experiment is the coronation of, was all about personal and financial privacy. Most of the early messages and publications by Satoshi (including the famous whitepaper, which devotes a paragraph to it) are heavily concerned with its privacy features.
+
+The first consideration made in the whitepaper about privacy is that centralized online payment intermediaries are easy targets for regulation. As such, it is easy to push these intermediaries to actively mediate disputes and thus to make most transactions reversible. This requirement, as a consequence, forces merchants, scared by risks of chargebacks, to be very “wary of their customers, hassling them for more information than they would otherwise need.” Merchants get pushed back to the “KYC paradox” once again. Being decentralized and impossible to regulate, Bitcoin cannot be forced to actively mediate disputes. For this reason, Bitcoin transactions can quickly become irreversible, making any inquiry into the personal identity of a payer absolutely redundant and unnecessary.
+
+The second consideration concerns the fact that Bitcoin’s base layer (the “timechain,” developed to avoid double-spending without the need of a trusted third party) requires the publication of every settlement transaction, thus limiting the chance to apply the traditional “privacy through obscurity” technique of centralized providers. This limitation is mitigated by the anonymity of the cryptographic public keys, which are intended to be used only once, without any association with identities to work. In Satoshi’s words,
+
+“The traditional banking model achieves a level of privacy by limiting access to information to the parties involved and the trusted third party. The necessity to announce all transactions publicly precludes this method, but privacy can still be maintained by breaking the flow of information in another place: by keeping public keys anonymous. The public can see that someone is sending an amount to someone else, but without information linking the transaction to anyone. This is similar to the level of information released by stock exchanges, where the time and size of individual trades, the ‘tape,’ is made public, but without telling who the parties were.”
+
+Privacy and Trust: All or Nothing
+
+An interesting feature of this transparent setting, discussed by Satoshi and by many other early Bitcoin contributors and researchers, is the all-or-nothing nature of its privacy guarantees. A trusted third party can, indeed, promise to keep your sensitive information safe from potential kidnappers, robbers or stalkers, while still being forced to provide any detail to more powerful political entities (nation-states with their tax agencies, financial authorities, secret services, etc.).
+
+In a (pseudo)anonymous but public setting, it’s safe to assume that in every case where the latter type of adversary is able to access sensitive financial information, the former type will find a way as well. When somebody’s privacy on the timechain is broken, it is broken to the benefit of all snoopers with an internet connection: governments, bandits, hackers, business competitors, personal enemies, haters, ex-spouses, etc. This should serve as a strong incentive for users to protect their “on-chain” deniability, thus protecting fungibility for all.
+
+Bitcoin base-layer transactions, on the other hand, already show perfect fungibility internally. What this means is that, although every transaction is public, there is no public data about who, within a certain transaction, was in control of the private keys that spent a specific input, or who is now in control of the private keys that will spend a specific output.
+
+Bitcoin’s rules assure us that the total amount of satoshis spent with all the inputs is equal to or less than the total amount of satoshis “locked” in all the outputs (transaction can’t create inflation, they can only leave out “blockspace fees” for miners). But there’s technically no way to be sure, from public timechain data alone, if a transaction with 10 inputs and 10 outputs is moving satoshis from one payer to ten payees, or from two payers to one payee, or from one entity to himself. Of course, some probabilistic inferences are possible, based on heuristics and common patterns, but nothing can be proven with public timechain data at the individual transaction level.
+
+While having one or more entities controlling the outputs is trivial, having more entities controlling the inputs is a little bit trickier, requiring some real-time coordination among all the payees before the transaction gets broadcasted. Luckily, though, the atomicity of Bitcoin transactions is such that this process doesn’t require any trust among different, unknown payees.
+
+The Fungibility Factor
+
+This fungibility feature of Bitcoin transactions has been part of Bitcoin’s design since the very beginning, but its privacy implications were explicitly pointed out by different contributors only later on. Finally, in 2013, the label CoinJoin was created by Gregory Maxwell, to refer to the best practices a bitcoin wallet should implement in order to fully leverage such preexistent internal fungibility. Many variants of the technique have been proposed over time (PayJoin, JoinMarket, CoinSwap, P2EP and Zerolink implemented in wallets Wasabi and Samourai), all with the same goal: taking advantage of the fundamental fungibility of the protocol.
+
+Another dynamic with the potential of boosting Bitcoin’s privacy is its layerization. Upper layers of the protocol stack, like the Lightning Network, don’t need to use the timechain to confirm every single transaction; rather transactions are only used as “anchors” to open and close “contracts” enabling payments elsewhere. Satoshi already imagined such kinds of “payment channels” early on:
+
+“The parties hold this tx in reserve and if need be, pass it around until it has enough signatures. […] They can keep updating a tx by unanimous agreement. The party giving money would be the first to sign the next version. If one party stops agreeing to changes, then the last state will be recorded at nLockTime. If desired, a default transaction can be prepared after each version so n-1 parties can push an unresponsive party out. Intermediate transactions do not need to be broadcast. Only the final outcome gets recorded by the network. Just before nLockTime, the parties and a few witness nodes broadcast the highest sequence tx they saw.”
+
+This did not turn out to be the exact way payment channels have been introduced (it was flawed), but they are now a common tool for many Bitcoin users. They can be used directly or collectively via routing. While often presented as a “scalability” solution, the Lightning Network and, in general, Layer 2 techniques have the big privacy advantage of massively reducing the amount of public information available on the timechain.
+
+Starting Off on the Wrong Foot
+
+Of course, it was not trivial to implement privacy best practices in everyday bitcoin wallets and tools. First of all, while reducing the amount of information leaked on-chain, Layer 2 techniques and CoinJoin often increase the amount of network-level information to manage and protect (mostly because of the need for real-time interactivity, up-to-date lists of reachable peers, publicly available liquidity, etc.). The Lightning Network, in particular, was not really easy to bootstrap until a protocol upgrade was adopted by users in late 2017.
+
+While CoinJoin, unlike the Lightning Network, was possible to implement in theory since day zero (although with many practical challenges regarding coordination, liquidity and amount obfuscation), most actual bitcoin wallets didn’t bother to find a way to do it. By not doing so, they consolidated a dangerous trend: The large majority of on-chain transactions were considered as created, signed and broadcast by one single entity, in complete control of the private keys associated with all the inputs. Bitcoin transactions started to be seen as always one-to-one or one-to-many. Thus, one of the most effective fungibility features of the protocol hasn’t actually been turned into a wallet best practice until very recently, even though it has always been available.
+
+But there’s more, unfortunately. Other, simpler best practices, included in Bitcoin’s design as trivial defaults, have been mostly ignored by tool builders who have been less concerned with privacy and more focused on user experience during the early years. One obvious example is address reuse. Satoshi’s words about the anonymity of public keys were written under the assumption that users would generate a one-off address every time they received bitcoin, which would then be discarded after it’s spent again and never reused. (Maybe the word “address,” itself, wasn’t a good choice after all, being often linked to permanent references: email, IBAN, ecc.; while the word “invoice,” now used for Lightning Network transactions, would have been a cleaner choice.)
+
+Implementing this design was not entirely trivial either (especially before the introduction of HD wallets which made it easier to re-derive thousands of keys with just one “master” backup). So we ended up with massive reuse of static addresses, decreasing the entropy and facilitating analysis and deanonymization. Users started to link the same address to their profiles on forums, social networks and blogs. For many early users, making a payment meant giving the payee a complete overview of all their past and future financial life in Bitcoin.
+
+Another major incident was the proliferation of “light clients”: applications unable to download, validate and store the timechain directly, but able to store private keys and query other nodes (in the best cases, a trusted third party, like a wallet provider; in the worst cases, random nodes, in so-called “SPV wallets”) for the validity of the transactions involving the corresponding public keys. Besides creating a systemic risk in terms of security, these clients become a common hazard in terms of privacy.
+
+Some other minor implementation best practices have been initially overlooked by tool providers in this regard (including privacy-oriented coin selection, merge-avoidance, change management, etc.), but, for the most part, these three practices represent the basis for the heuristics employed by “chain-analysis” companies hired by eavesdroppers to spy on Bitcoin users.
+
+As of today, most of these problems have brilliant technical solutions and modern tools that implement them. But it’s difficult to push the best practices (which sometimes present small but existent coordination costs) in an ecosystem already “drugged” with easy, if dangerous, shortcuts. And privacy, as they say, loves company: Even if you have the best tools and follow the best practices, it doesn’t really help if you are the only one doing so (in fact, it may even hurt by making your efforts stand out in comparison, putting you under the spotlight).
+
+In Part 2, we’ll look at some of the techniques that are threatening our privacy as bitcoin users, common misconceptions about privacy, and finally, how innovations in Bitcoin are going to make privacy more secure and easier to maintain.
+
+This is an op ed contribution by Giacomo Zucco. Opinions expressed are his own and do not necessarily reflect those of Bitcoin Magazine or BTC Inc.
+

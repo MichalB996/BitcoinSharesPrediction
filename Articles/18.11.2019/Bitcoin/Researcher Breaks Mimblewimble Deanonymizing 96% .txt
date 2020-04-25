@@ -1,0 +1,43 @@
+DATE:  18.11.2019, 21:30:20
+TITLE: Researcher Breaks Mimblewimble, Deanonymizing 96% of Grin Transactions
+URL:   https://news.bitcoin.com/researcher-breaks-mimblewimble-deanonymizing-96-of-grin-transactions/
+
+Researcher Breaks Mimblewimble, Deanonymizing 96% of Grin Transactions
+
+The Mimblewimble privacy technology used by cryptocurrencies such as Beam and Grin is broken. That’s the claim of researcher Ivan Bogatyy who has published a report documenting his findings. In it, he reveals how he was able to deanonymize 96% of all Grin transactions just by running a node at a cost of around $60. Bogatyy asserts that the flaw is fatal, effectively breaking Mimblewimble.
+
+Also read: IRS Dispels Crypto Tax Confusion
+
+
+
+Mimblewimble Is ‘Fundamentally Flawed’
+
+“Mimblewimble should no longer be considered a viable alternative to Zcash or Monero when it comes to privacy.” That’s the belief of Ivan Bogatyy after deanonymizing the bulk of all Grin transactions that propagated to his node during a test. A weakness in the Mimblewimble technology, which obfuscates all transactions by default, has long been theorized. Now, Bogatyy professes to have proven this, causing him to recommend that “Mimblewimble should not be relied upon for robust privacy.”
+
+Although the attack does not reveal the amounts being sent, it unveils which addresses are sending funds to other addresses, effectively rendering Mimblewimble obsolete, if a patch cannot be found. Moreover, Bogatyy claims had he been running multiple nodes, he would have been able to record an even higher success rate than the 96% he posted.
+
+How the Attack Works
+
+Cryptocurrencies such as Grin and Beam utilize a number of privacy techniques including Coinjoin, which all transactions are appended to, before being added to a new block, the contents of which cannot be reconstructed at that stage to determine the origin of the inputs and outputs. Bogatyy’s solution is to attack the transactions as they’re broadcast to Coinjoin to be mixed. He explains:
+
+Because transactions are continually being created and broadcasted from separate places, if you run a sniffer node that picks up all transactions before cut-through aggregation is finished, it’s trivial to unwind the CoinJoin. Any sniffer node can just observe the network and take note of the original transactions before they get aggregated.
+
+Grin’s developers were aware of this attack vector when constructing the cryptocurrency and took measures to thwart it through the use of additional privacy tools including Dandelion. This technology conceals the IP address of transactors and thwarts sniffer nodes that attempt to eavesdrop on network activity. But because Dandelion transactions are automatically aggregated by nodes that receive them, prior to entering Coinjoin, Bogatyy found a way to intercept them at this early stage and link them to their original sender.
+
+Through increasing the number of peers his node connects to (the default is eight), the researcher was able to escalate his access, effectively granting him supernode status. This provided unprecedented oversight of Dandelion transactions, and the ability to disaggregate them before they reached Coinjoin. Bogatyy linked 96% of transactions while connected to 200 peers out of a possible 3,000, but points out the ease of connecting to all 3,000 nodes had he spent more on the attack, noting:
+
+The same attack works by launching 3000 separate nodes with unique IPs, each only connected to one peer. As long as I’m sniffing all the transaction data and dumping it into a central master database, the attack works just the same.
+
+Grin developer David Burkett praised the quality of research in Bogatyy’s report, but added: “none of this is “news”. I’m actually surprised only 96% was traceable. There are a number of ways to help break linkability in Grin, but none are implemented and released yet. As I always say, don’t use Grin if you require privacy – it’s not there yet.”
+
+A Sliver of Salvation for Grin
+
+Despite making grim reading for Grin and other Mimblewimble coins, Bogatyy’s report does provide a glimmer of light. He is at pains to point out the other qualities that are inherent to Grin, such as its ability to conceal transaction amounts, though this will be of small comfort to users who were relying on Mimblewimble to obfuscate the path of their transactions. The researcher suggests that Mimblewimble could be combined with another privacy protocol that conceals the transaction graph altogether, but that would be a significant undertaking to implement and is not feasible at this time. This suggestion was echoed by Charlie Lee, whose Litecoin project is looking to introduce Mimblewimble through a collaboration with Beam. Following the publication of this article, several Grin developers have shared their response to the research piece in which they take issue with several of its claims.
+
+As Bogatyy concludes, “it’s clear that Mimblewimble on its own is not strong enough to confer robust privacy.” Grin has fallen 10% since the report was published earlier today, and beam 6%. One small crumb of consolation to Grin’s developers is that the exploit could not have been revealed at a better time: the project has just received a 50 BTC donation to fund its development courtesy of an early bitcoin miner. Thanks to this $420,000 war chest, it has the means to fight back in the hope of engineering a solution.
+
+Do you think Grin’s developers will be able to find a solution to this problem? Let us know in the comments section below.
+
+Images courtesy of Shutterstock and Coincodex.
+
+Did you know you can verify any unconfirmed Bitcoin transaction with our Bitcoin Block Explorer tool? Simply complete a Bitcoin address search to view it on the blockchain. Plus, visit our Bitcoin Charts to see what’s happening in the industry.

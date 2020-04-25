@@ -1,0 +1,111 @@
+DATE:  13.01.2019, 12:01:19
+TITLE: This Scaling Tech Could Let You Sync Bitcoin Straight From Your Phone
+URL:   https://www.coindesk.com/this-scaling-tech-could-let-you-sync-bitcoin-straight-from-your-phone
+
+“Maybe we don’t have to store everything ourselves.”
+
+That’s Tadge Dryja, cryptocurrency research scientist at the MIT Digital Currency Initiative, explaining the concept behind his bitcoin scaling solution, “utreexo.”
+
+Based on an idea that has been pursued by developers for many years, utreexo seeks to streamline an aspect of bitcoin’s code that leads to heavy storage requirements over time.
+
+Simply put, it addresses what is known as the UTXO set – or the code that gives information on whether a bitcoin has been spent.
+
+Currently, bitcoin nodes must store the entirety of this information, what is known as the “state,” in order to verify it.
+
+With utreexo, though, rather than having to store the entirety of the bitcoin state, bitcoin holders could simply verify if it is correct using a cryptographic proof. This approach could minimize storage requirements to the extent that it might even be possible to run bitcoin on a mobile phone.
+
+Also known as an accumulator, the tech underpinning utreexo isn’t a new idea – developers have been discussing ways to implement similar kinds of code since bitcoin’s early days – but it was previously met with hurdles to implementation.
+
+Now, – due to work by Dryja and others – it is swiftly becoming a reality. In an early prototype, Dryja has created functioning proof-of-concept code.
+
+And he’s not alone. Dryja is joined by cryptography heavyweights Dan Boneh, Benedikt Bünz and Ben Fisch, who have written a paper detailing an alternate accumulator method.
+
+“The high-level goal is basically your phone could run a full node. That is the dream,” Bünz, who is known for his work on bulletproofs, a scaling tech that allowed monero to reduce transaction fees by 96 percent, told CoinDesk.
+
+The paper has even been picked up by ethereum researchers, who are investigating how the technology might apply to layer two scaling solution, Plasma.
+
+And part of this flurry of activity stems from the fact that due to the nature of the technology, it doesn’t require a hard fork – a type of software update that requires unanimous support and participation – in order to safely activate. Instead, accumulators would be deployed at the wallet level, which significantly reduces the hurdle to implementation.
+
+“Hard forks are almost impossible on bitcoin. Soft forks are hard as well,” Bünz said, adding:
+
+“It’s great that we can just deploy it, it makes it a lot easier and it means we can have a competition of ideas.”
+
+Growing bigger
+
+Stepping back, accumulators have been discussed since as early as 2010, however, were previously met with an insurmountable bottleneck – what is known as a bridge node.
+
+And that’s because, in order to function, accumulators require other people within the network to support the software. While previously, this was highly resource-intensive, Dryja has built a bridge node that doesn’t come with additional trade-offs – meaning that accumulators are now feasible for the first time.
+
+According to Dryja, that’s notable because utreexo could address what has been a long-term pressure point for bitcoin: its increasing UTXO set.
+
+UTXO – which stands for unspent transaction output – is the data structure that gives information about all the outstanding bitcoins on the network.
+
+While it is known to fluctuate (the UTXO count actually decreased in 2018), the dataset tends to increase alongside bitcoin’s usage. This means that, if left unchecked, it could continue to grow, necessitating ever-increasing storage requirements.
+
+In particular, this is something that concerns what is known as a bitcoin “full node,” a type of node that keeps a history of every transaction ever made on bitcoin. Currently, a full node requires about 200 gigabytes of storage – just beyond what a conventional laptop can store.
+
+With accumulators, though, full nodes no longer need to store all of the blockchain data in order to order to reach consensus about where coins are on the network. Instead, they can simple provide proofs that data is correct.
+
+“The high level is this idea of separating the consensus away from the state,” Bünz summarized, “Anyone can now be a full node without having to store the data.”
+
+Previously, mobile full nodes were addressed by a particular type of client called an SPV client, which requires light wallets to trust other full nodes to have the correct data. Because this comes with decreased security assumptions, accumulators are heralded as a way to achieve this without trade-offs.
+
+“My hope is that the people who are currently running SPV wallets would be able to use [utreexo] and get the same security of a full node, with the resource requirements that are more similar to SPV,” Dryja summarized.
+
+The competition
+
+But while they are both positioned toward the same goal, there are ways in which Dryja’s utreexo model and the work by Bünz, Boneh and Fisch differ significantly as well.
+
+First and foremost, Dryja’s work stands out from the fact that it is much closer to deployment. For example, it already has a working prototype and functioning code. Equally, it uses simple mathematics – hash functions that are already familiar to bitcoin.
+
+Bünz, Boneh and Fisch’s design, on the other hand, is potentially more efficient and boasts more advanced features. Still, it uses mathematics that according to Dryja, is comparatively more risky and exotic compared to his own design.
+
+For example, one stage of Bünz, Boneh and Fisch’s accumulators requires a kind of trusted setup – in short, the product of two secret numbers, that if revealed could be compromising to its security.
+
+“We’re using fancier maths to get different properties,” Bunz said,
+
+“The high level differences is [utreexo] is ready now, it’s based on a simpler thing, it’s based on simple hash function, which is a good thing, but ours has more advanced cool features like batching and aggregating which would be cool at some point.”
+
+Additionally, the paper has a section that may have implications for the world’s second largest blockchain, ethereum, as well.
+
+Speaking to CoinDesk, Georgios Konstantopoulos – a researcher and developer for ethereum layer two scaling solution, Plasma – said that due to its applicability, Bunz’s paper had attracted a lot of enthusiasm in the ethereum research community.
+
+For example, Konstantopoulos said that accumulators could even be a more efficient replacement for the most fundamental data structure in ethereum, the Merkle-tree. Additionally, accumulators could help solve a problem inherent to Plasma Cash, which requires users to store large transaction histories.
+
+The enthusiasm was such that Konstantopoulos estimated 10 new designs of how accumulators could apply to ethereum have been proposed, sparking the researcher to undertake a “taxonomy” to analyze the viability of each idea.
+
+He told CoinDesk:
+
+“I’m generally very optimistic that we will find a UXTO compaction scheme for Plasma.”
+
+A ways to go
+
+Still, there’s work that remains on all fronts before the scaling solutions can be considered viable.
+
+Konstantopoulos emphasized that while accumulators could theoretically be useful for ethereum on both layer one and layer two scaling solutions, work remains in order to fully investigate its practical viability.
+
+And both Bunz and Dryja emphasized similar caution as well.
+
+For example, while accumulators have the potential to allow full nodes on mobile phones in terms of storage, they will encounter other hurdles to implementation.
+
+In Dryja’s model, he emphasized that in its current implementation the accumulator is only really useful for bottom of the range computers.
+
+“If you have a fast computer this actually doesn’t help. It will not make much difference or make it slower. But if you have a crummy computer it will make a really big difference,” he continued,
+
+“We want bitcoin to work on crummy computers as well.”
+
+For Bünz, Boneh and Fisch’s paper, work remains in order to build a working implementation of the design, which may come with its own unanticipated research problems.
+
+Plus, using the mobile phone as an example, Bünz said that it would be technically feasible to deploy in terms of storage, the phone would need to be constantly online in order to function.
+
+However, Bünz said that such problems can likely be overcome given sufficient research.
+
+“This is one step of the way for getting us to a space where your mobile phone can run a full node,” Bünz said, “There’s nothing theoretically that stands in the way, we just need to be smart about how we do things.”
+
+He continued:
+
+“There needs to be a lot of new innovation happening, but thankfully there is, and it’s really possible.”
+
+Phone image via Shutterstock
+
+EDIT (9.30 UTC, January 14, 2019): This article has been corrected to more clearly state that Bünz, Boneh and Fisch’s paper on accumulators was a joint work, and not written by Bünz alone.

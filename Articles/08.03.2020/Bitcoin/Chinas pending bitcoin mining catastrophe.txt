@@ -1,0 +1,89 @@
+DATE:  08.03.2020, 15:12:22
+TITLE: China's pending bitcoin "mining catastrophe"
+URL:   https://decrypt.co/21710/chinas-pending-bitcoin-mining-catastrophe
+
+China is slowly picking itself up from the covid-19 outbreak and businesses nationwide are also slowly recovering. Yet bitcoin mining, though it initially appeared to be virus-proof, has suffered—and could be in for way more pain.
+
+That’s partly because, thanks to quarantines, mining rig manufacturers, such as Beijing-based Bitmain and Shenzhen-based MicroBT, were unable to ship new equipment to mining farms, which are mostly in the northwest of the country (where hydroelectricity is abundant.) Coindesk says that the supply-chain hiccup could have caused BTC’s hash rate to stagnate last month.
+
+Unrelated, but also problematic, was the shipping delay of 7-nanometer chips from Taiwan-based manufacturer TSMC. High demand from the likes of Apple and Huawei caused the chip maker to postpone its delivery from 2019 to early 2020. The new chips are denser, more powerful and require less power, and are in high demand among miners.
+
+The elephant in the waiting room
+
+But as things return to business-as-usual, miners are facing a bigger elephant that has been lingering in the waiting room: The so-called “矿难 mining catastrophe.” The term refers to a scenario that many believe will cause a massive shutdown of many smaller mining farms in China.
+
+If the price of bitcoin stays flat or drops further, mining becomes less profitable, putting unbearable pressure on independent miners and smaller operations. That comes at a time—the “halving,” expected in May 2020—when miners will want to upgrade to those 7-nm chips to handle the more complex and computationally intensive proof of work.
+
+This looks like a perfect storm for everyone except the big mining operations. The virus and its consequences caught lots of miners by surprise. Those who didn't upgrade earlier enough are now facing dire consequences. Some observers say that this collective upgrade will result in a mining catastrophe for many farms, which are still recouping capital expenditures from the purchase of their old mining rigs. What’s worse: the new chips on the block also drive up hashrate, making it more energy-consuming for the oldies to mine BTC.
+
+Oldie but goldie: AntMiner S9
+
+Naturally, some observers say a mining catastrophe can be avoided.
+
+“Even if the price drops, miners won’t lose everything,” Dan Li, co-founder of XSJ Mining, a mining farm located in the northwest part of China, told me. He believes that sophisticated miners have recouped their infrastructure costs during the past 3 years, which is the effective lifetime of 16nm chips. So they should be able to afford sunsetting outdated equipment.
+
+Li believes that mining is just like any other energy storage business. Though miners are affected by short-term price fluctuation, the experienced ones understand that to be truly profitable, you need to be in it for the long haul.
+
+“If you look at most energy projects, they are looking out at a 20 to 30-year horizon. The reason is that, compared to trading tokens, mining gives steady cash flow—as long as the risks are properly mitigated,” Li pointed out.
+
+Likewise, newer financial instruments, such as derivatives from Bitmain and Canaan, protect sophisticated miners from running into a complete disaster. Digital merchant bank DAG Global is offering innovative ways for miners to hedge hashrate fluctuation. (Though the derivatives market for miners is still immature and no one knows whether there’s enough liquidity yet.)
+
+The bottom line
+
+So what are we to make of this?
+
+I’m still pessimistic that the little guys will be able to survive. It’s analogous to how the whales control the crypto trading markets, with the smaller retail investors getting played. Similarly, the smaller miners respond to rather than control the market. Their fate is often determined by the electricity price they managed to negotiate. Meanwhile, big mining farms, and machine manufacturers move the market. Bitmain, for instance, not only sells rigs but also mines tokens using its latest machines before pushing them to the market.
+
+By the time retail miners enter the field, they might just be fresh leeks waiting to be cut by the big miners.
+
+Top 3 other things that happened last week:
+
+#1. FTX is seeking strategic investors as it rises to become the next unicorn
+
+There are supposedly 451 unicorns in the world, according to CBInsight. But I think there might now be 452, if we count one from the crypto world: FTX. It’s a Hong Kong-based (and apparently Antigua registered) crypto derivative exchange that experienced exponential growth since its launch last May.
+
+Last week , FTX announced that it would be raising capital through the sale of “FTX_Equity” tokens. Some 500 million tokens will be sold at $2 per token, to investors with a $250,000 minimum buy in. So there you go, $1 billion!
+
+Constance Wang, FTX’s COO, told me that the exchange is seeking “long-term strategic investors” and that the coin offering will allow FTX to find global partners to support its expansion. Many Chinese investors, including the Beijing-based Sino Global Capital’s Liquid Value blockchain fund, have participated in the token sale, which was expected to close yesterday.
+
+Wang told me that “40% of our trading volume comes from Chinese traders. We’ve observed that Chinese traders are more curious and accepting of derivative trading and innovative products. For example, our leveraged token has been a huge success in China.”
+
+FTX pioneered new ways of trading crypto—including its hilarious shitcoin index. But its success cannot be separated from how well it positions itself in the crypto trading ecosystem. Notably, Binance invested in it in December, and FTX has tapped into vast amounts of resources provided by the exchange giant. Its leveraged tokens are listed by Binance, which enjoy $0 listing fees.
+
+Wang said that the next wave of FTX expansion in China will focus on community building, in the area of educating traders, onboarding new users, and reducing time spent to learn new trading products. The rise of FTX is proof that trading—especially when it’s closer to gambling and betting—is a good way to breed a unicorn.
+
+#2: Nervos and Huobi: 1+1 >2?
+
+Exchanges are dominating the crypto world not only because they hold, literally, the keys to trading, but also because they are extending their footprint outside the trading world.
+
+Binance announced its own public blockchain platform, Binance Chain, in 2019. OKEx, another crypto exchange focusing on Chinese consumers, announced its protocol layer project, OKChain, on Feb 24th. Both Binance and OKEx marketed their chains as platforms for decentralized exchanges (DEX), which can be seen as complementary to their existing business.
+
+Last week, Huobi, the remaining one of the top 3 Chinese crypto exchanges, also released the public beta version of its own public blockchain: Huobi Chain. Rather than develop the chain in-house, Huobi partnered with China’s Nervos CKB (Common Knowledge Base), to create a PoW protocol.
+
+The protocol will have a strict focus on financial services such as asset tokenizing, identity verification, and lending services. Contrary to its competitors’ obsession with DEX, Huobi focuses its own DEX rhetoric on decentralized finance, and repeatedly iterates its “regulator-friendly framework.” The emphasis on compliance should not come as a surprise. As we all know, Huobi is the darling crypto child of the Chinese government. But focusing the entire chain on the financial services, rather than its core business—trading—is still a huge bet.
+
+Still, Huobi’s move is a smart one. Given that the firm operates largely in China, it has learned to adapt to the government’s appetite, which is essential to compete with tech giants such as Alibaba or Tencent.Who, by the way, have also entered the blockchain sphere aggressively.
+
+In recent years, the Chinese government has focused increasingly on financial inclusion 普惠金融, which includes services such as SME lending (especially to farmers), instant account settlement, and credit rating. With China’s digital currency under development, the government might use its centralized blockchain as an underlying infrastructure to implement some of its financial inclusion policy. If that’s the case, then Huobi Chain will be well-positioned to share a slice of the pie because it is also designed to implement similar use cases.
+
+#3: FCoin Nirvana?
+
+Jian Zhang, the founder of the notorious Fcoin, has been issuing weekly updates on his plan to reboot the insolvent exchange. Many have stopped paying attention and think the whole thing is an exit scam. Yet, still, Zhang keeps communicating.
+
+On Friday, Zhang published a blog post disclosing the platforms financial details as well as detailing the steps he says will pave the way for FCoin’s reopening.
+
+According to the blog, 70% of FCoin users’ assets are contaminated (read here to understand what that means.) The actual asset gap is around 90 million USDT, which is far less than the 150 million estimated when the news broke out.
+
+Zhang plans to reopen Fcoin in a week, and users will be able to view their wallet and withdraw as much as 50% of their holdings. The rest of the 50% can only be withdrawn upon request (email only!).
+
+Zhang claimed that FCoin will be regulated and governed by the community, for the utmost transparency. Even his own, locked-up tokens, will be determined by community voting.
+
+That ought to be interesting to see, given his recent experiences with the “Fcoin community.” As we all know, managing communities is easier said than done, especially when heavy-handed principals play a role ( like the case of Justin Sun taking over Steemit).
+
+Oh, well. FCoin users should be hopeful that some part of their lost investment will be redeemed. At least, until we hear from Zhang again.
+
+Do you know?
+
+“打酱油” is a widely-used slang expression. It literally means “pick up soy sauce” and describes kids who are old enough that they can run errands, such as picking up soy sauce at the store.
+
+In recent years, the term has evolved (especially on the Internet) after a widely viewed TV interview in which a journalist tried to interview someone about a scandal. The person dismissed the journalist, saying: “I have nothing to do with this—I’m just out picking up soy sauce.” Nowadays, people use the term to describe a scenario in which they have little interest in participating.

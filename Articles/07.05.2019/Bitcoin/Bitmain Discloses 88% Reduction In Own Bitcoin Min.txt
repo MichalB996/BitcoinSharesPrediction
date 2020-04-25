@@ -1,0 +1,33 @@
+DATE:  07.05.2019, 19:15:03
+TITLE: Bitmain Discloses 88% Reduction In Own Bitcoin Mining Power
+URL:   https://www.coindesk.com/bitmain-discloses-88-drop-in-its-own-bitcoin-mining-power
+
+Bitmain’s internal bitcoin mining operations are generating 88 percent less computing power than a month ago, suggesting that the industry giant has cut back on capacity.
+
+According to the hashing power disclosure that the company releases each month, as of May 7, the hash rate of all Bitmain-owned hardware running the SHA265 algorithm – which the bitcoin and bitcoin cash networks are based on – had dropped to just 237.29 quadrillion hashes per second (PH/s). Just a month ago, it was at 2,072 PH/s.
+
+Bitmain, based in Beijing, manufactures mining equipment that it sells to others and also mines coins for itself. The firm started disclosing the hashrate of the machines it owns on a monthly basis in July of last year. Archived pages available online show that the hash rate was 1,692 PH/s that month, and then increased to 2,339 PH/s in October.
+
+This figure then dropped below 1,700 PH/s in March, in line with the overall decline of the bitcoin network’s total computing power since November of last year as bitcoin’s price plunged below $4,000 during the same period. It then climbed slightly in early April before the latest steep drop.
+
+Partly as a result of that drop, Bitmain’s share of the bitcoin network’s total computing power has also shrunk from four percent to now just 0.4 percent.
+
+Assuming all the hashing power comes from the more widely used AntMiner S9, each with a hash rate of 14 tera hashes per second (TH/s), Bitmain may have ceased using more than 130,000 machines to mine for itself.
+
+The cutback is notable since many miners in China have been gearing up to take advantage of cheap hydroelectric power during the coming rainy season. As recently as March, Bitmain was said to be planning to deploy $80 million worth of its own machines this summer.
+
+Smaller slice, bigger pie
+
+To be clear: none of this should be taken to mean Bitmain has shut down all its mining equipment.
+
+Even as the company’s share of computing power on the network has declined, the denominator has grown: bitcoin’s total hash power just reached a six-month high over 58,000 PH/s on May 2, according to data from blockchain.info.
+
+Meanwhile, the hash rate of the bitcoin cash network – which Bitmain has vocally supported – has been steady around 2,000 to 2,500 PH/s since early this year, data shows.
+
+When contacted by CoinDesk, a Bitmain spokesperson would not say what exactly led to the decrease in the firm’s hash rate.
+
+“It is [in the] natural course of the mining business where the hash rate owned by one body at one instant may be owned by someone else at another instant,” the spokesperson said.
+
+Also, Bitmain has been advertising a contract cloud mining service for retail customers called BitDeer that uses the company’s flagship AntMiner S15, S17 and S11 equipment, with many plans marked on the website as sold-out.
+
+Bitmain Antminer image via CoinDesk archives.

@@ -1,0 +1,59 @@
+DATE:  21.08.2019, 20:00:33
+TITLE: New Flexa Tech Will Let You Spend Bitcoin From Other Apps Too
+URL:   https://www.coindesk.com/new-flexa-tech-will-let-you-spend-bitcoin-from-other-apps-too
+
+The merchant payments startup Flexa will soon allow any other app to run payments in crypto just like its own SPEDN app has since May.
+
+Staking with the company’s Flexacoin (FXC) will enable apps to trustlessly provide payments to merchants without any danger of malicious apps reversing a transaction after Flexa has transferred funds. The company raised $14.1 million in a private sale of FXC tokens in April.
+
+It’s the last piece of the puzzle for Flexa to simplify spending crypto throughout the economy. Now, CEO Tyler Spalding told CoinDesk, Flexa’s full business model should be clear to everyone.
+
+“Here’s how this is going to work,” he said. “Here’s how people can participate. Here’s what our token is for. Here’s what we believe in.”
+
+With staking enabled, any application will be able to offer payment services – but the most obvious initial use-case will be wallets. So apps that already hold crypto for users will be able to stake FXC and then enable direct-to-merchant payments.
+
+Not only will the apps themselves be able to stake, but their users can contribute to the stakes as well. The advantage of doing so will be that all stakers will share in the fees charged for using Flexa’s payment rails.
+
+Said Spalding:
+
+“Flexa is not going to be another fee-taking entity where all we do is provide the service and extract these fees.”
+
+Instead, it will actually return the fees to all stakers. Users who contribute to an app’s stake will receive a cut of the fees proportional to how much of the stake they added.
+
+Flexa created 100 billion FXC at its token-generation event and that supply is permanently fixed. As major holders of the token, it’s seeking to increase the value of FXC.
+
+“We think that good token economics are way better than a business model,” he said. “All the value we are providing to the community is in the token.”
+
+What staking does
+
+Staking creates a sort of trustless bandwidth for payments from a given app.
+
+So, for example, if a wallet provider had set up a stake of $1,000 in FXC, then its users would be able to make payments of up to $1,000.
+
+When a payment is made to a merchant using Flexa’s system, the merchant needs to get paid right away but it takes time for the blocks to finalize. Flexa makes the payment immediate, which presents an opportunity for a malicious app to reverse a transaction after Flexa had delivered payment.
+
+If it attempted to do so, though, the smart contract would detect that the payment hadn’t been delivered and simply take the same amount from its collateral of FXC.
+
+“Our intent is that it will never ever not process,” Spalding said, that’s because everyone knows they will have something to lose. But it’s essential to build-in this disincentive to bad actors.
+
+Flexa’s SPEDN app itself will open up a stake at the end of September.
+
+Merchants want privacy
+
+Spalding noted that it’s not enough for Flexa to provide functional payment rails: merchants also don’t want to reveal details about their businesses to competitors.
+
+Blockchains present a number of small problems along these lines. Flexa is finalizing technology now to move much of this activity off-chain so that payouts can be made in batches.
+
+“By using a zero-knowledge proof we can ensure that you are getting paid appropriately as a staker, but without knowing how much money is going through the system,” Spalding said.
+
+While its specific application of zero-knowledge proofs probably won’t be ready at launch, it is built into the larger roadmap.
+
+Another piece of the larger roadmap: enlisting more merchants to finalize purchases in crypto rather than fiat.
+
+For now, Flexa delivers final payment to most merchants in fiat, working with exchange partners to provide liquidity to trade tokens used in payment for the final currency. But the Flexa system defaults to paying merchants in the cryptocurrency used by the customer, and it hopes to nudge more to do so.
+
+Spalding said Flexa’s initial partners have been large companies (Barnes & Noble, GameStop, Jamba Juice, etc.) that need to take traditional payments, but it’s moving into small and medium-sized business relationships now. He said:
+
+“We have quite a few coming on board soon who actually are going to accept crypto, but they are much smaller.”
+
+Flexa co-founders Tyler Spalding, Trevor Filter, Zachary Kilgore and Daniel McCabe (photo via Flexa)

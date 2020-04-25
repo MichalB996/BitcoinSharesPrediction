@@ -1,0 +1,197 @@
+DATE:  25.10.2019, 16:44:29
+TITLE: Living on Bitcoin in Europe: Lightning in Berlin
+URL:   https://bitcoinmagazine.com/articles/living-on-bitcoin-in-europe-day-3-lightning-strikes-in-berlin
+
+Ring in the new bitcoin halving cycle the right way: with us!
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+Bitcoin Magazine supplied reporter Colin Harper with a fistful of sats and set him loose in Europe. This is the third installment in his “Living on Bitcoin in Europe” series. Catch up on Colin’s earlier adventures in Living on Bitcoin in Europe: From Amsterdam to Prague, No Cash Required and Living on Bitcoin in Europe: High on the Hog in Arnhem.
+
+There’s something you must understand before we continue. There is a distinct vibe to the European bitcoin scene. It’s more raw, more “f*** the state.” The best way I can think to describe it is — it’s more cypherpunk. And this conviction bleeds into the mainstream, seeping from the fringe of Europe’s culture into its central fold.
+
+For example, on two separate occasions in Arnhem I met a complete stranger who, though not working in Bitcoin, owned bitcoin. Once was in the cab with Patrick van der Meijde (the founder of BitKassa) upon arriving in Arnhem, and the other time was while talking with a stranger outside the restaurant Meem: Eten en Drinken. These were average dudes in a smaller Dutch city (and, though it is arguably a bitcoin hotspot, my point stands).
+
+In the cities I went to on my trip, not only did most precoiners know about bitcoin, but they took it seriously (enough). And this would only make sense because the bitcoiners in these areas took it very seriously in a different, crypto-anarchist kind of way.
+
+Of course, I’m speaking from (not for) the perspective of an America citizen. An uncannily talented, independent developer told me in San Francisco that Silicon Valley is too steeped in shitcoinery and VC-backed blockchain projects; then, on the east coast, you have the suits.
+
+This is not to say America doesn’t have a strong bitcoin community. We do; it’s just different. Similar incentives, different execution. My fellow Americans, don’t take this as a derision or judgement. It’s just an observation, one that I’m continuing to unpack (and test) across my European trip.
+
+With that, let’s go to Berlin.
+
+‘No, You Didn’t’
+
+I ended up missing my train connection from Duisburg to Berlin because there was a platform change and the PA system operator had the audacity to make the announcement only in their native German. (I mean, really, imagine how annoying it must be to accommodate a foreign language!)
+
+Calling an audible, I caught a different train run by a different company. My ticket wasn’t fungible, though, and all of the seats were reserved (some German train lines have an ingenious system for reserving seats for specific legs of a trip like, say, Duisburg to Dusseldorf). I spent most of the ride on the floor in the vestibule by the entry/exit doors, alternating sides depending on which door was facing the platform at each stop. Playing the ignorant American, I avoided the reprimand of a conductor who, after checking my ticket and seeing it was for another company, said she’d let it slip this time.
+
+Upon arriving in Berlin, I immediately topped off my Uber account with credit from Bitrefill, ordered a ride and made my way to Room 77.
+
+Room 77. Source
+
+If Arnhem is the Bitcoin city, then Room 77 is the Bitcoin bar. It’s the oldest bitcoin-accepting bar in Europe, and conceivably the world, as its owner, Joerg Platzer, began accepting bitcoin in May 2011. And it’s been a bitcoiner watering hole ever since, and for the weekend of the Lightning Conference, it would come alive each night with a bustling throng of bitcoin freaks from all corners of the world.
+
+The first thing you see is the neon sign blazoning the Bitcoin logo, a luminescent orange beacon glowing for those who know to look. Inside, Room 77 looks like any typical dive — only it’s festooned with cypherpunk/Bitcoin memorabilia. Over two booths to the left of the entrance, posters of Ross Ulrbicht, Edward Snowden and Julian Assange (captioned with quotes) overlook patrons sipping pilsners. Among these icons of cryptoanarchy is a “Have you seen this space cat?” poster bearing hodlonaut’s psuedonymous caricature.
+
+On this same wall, there’s a fiat currency burner, which does exactly what it sounds like. In the belly of its plain glass apparatus, discarded euros of various denominations lay crimped, curled and charred in a bed of grayish soot. Perhaps ironically, a KYC-free bitcoin ATM sat across from this fiat disposal (why burn and not convert?).
+
+Further reading: Check out technical editor Aaron van Wirdum’s experience at Room 77 last year after the #lightninghackday.
+
+As I came in, I greeted Rod Roudi and John Christovich, two of our sales staff at Bitcoin Magazine, and took a seat next to Bitcoin Magazine Technical Editor Aaron van Wirdum. Directly across from me at the nook in the bar where they process bitcoin transactions was a sign demanding that customers not send coins from Coinbase, Gemini, Bitstamp, etc.
+
+Almost immediately upon my arrival, Sergej Kotliar and some Bitrefill team members came in, a funny coincidence since I had just taken Uber, paid for with Bitrefill to get to the bar — or so I thought.
+
+“I just used Uber credit from Bitrefill to get here,” I semi-shouted over the increasing noisiness of the bar.
+
+“No, you didn’t,” Sergej responded definitively after a brief pause.
+
+I’ve come to learn in this industry that, if you think you’re absolutely right and someone whose been around longer than you says you’re wrong, you should probably shut up (something I learned early on working under Aaron). Of course, this logic could be extended to anything, but anyway, after going back and forth for a minute, I realized that I was, in fact, wrong.
+
+I had bought USD credit; Bitrefill doesn’t sell EUR credit yet (one of Bitrefill’s marketing and strategy guys at the bar said that he was actually working on this). My error was in assuming that, as with credit card transactions in Europe, this credit would automatically convert. A foolish assumption, bro, but bitcoin definitely fixes this.
+
+I had cheated unintentionally, which was a bummer because I was looking forward to using Uber credit for the Spin bicycles and scooters that have invaded Berlin’s streets. But tough luck, I guess.
+
+After swallowing my pride (and a beer, or two or three with it — which I paid for on-chain to the chagrin of a disgruntled, bushy-bearded bartender), I walked to the hotel The Company™ had booked for the Bitcoin Magazine writers to rest up before the first day of the conference.
+
+Lightning Strikes
+
+The next morning, I woke up next to a Romanian man. No, I didn’t get that drunk. Let me explain:
+
+I had originally intended on booking a room through CryptoCribs, the crypto-only AirBnB alternative that you’ve doubtlessly never heard of or used and which, as I found out, apparently no one registered on the site still uses either. I tried to book six or seven different accommodations but heard crickets; when I finally thought I had one nailed down, they cancelled on my way to Berlin.
+
+So I shacked up with Vlad Costea, a tall Romanian with shoulder-length, curly black hair who’d recently joined Bitcoin Magazine as one of our principal writers. He was kind enough to let me crash in the king-sized bed we had booked for him. Lacking lodging, I happily acquiesced.
+
+“And then I can be in your story,” he told me with a smile.
+
+We woke and went down to the lobby for breakfast, which, at 21 euro, Vlad critiqued as being pretty steep. So, dude piled on the food — a mountain of pastries, fruit, yogurt and meat like you wouldn’t believe. I respected his rationale: “If I’m going to pay that much, then I’m going to have my fill,” he explained.
+
+Vlad paid my way forward (I had found another human ATM, it seems) and then we made our way via elevated rail to the conference.
+
+A Lightning-Powered Playground
+
+We entered the conference site, a two-story industrial building near the banks of the Spree River. The talks had already begun and Jameson Lopp was wrapping up his presentation on enterprise Lightning services. Rows of conference-goers numbering in the hundreds sat listening attentively.
+
+Eager to spend my bitcoin in every conceivable way, I rushed to the hackerspace on the second story, where a sandbox of Lightning-powered tools were waiting to be played with.
+
+The whole floor was rich with opportunities to spend LBTC. There were two Lightning ATMs, a Lightning vending machine, a Lightning photobooth and a Lightning electric scooter (which, to my dismay, didn’t actually work). There was also a Street Fighter clone that required a 100-satoshi deposit from each player; through the match, each hit would subtract a sat from the injured player’s HP bar and reward it to the other player, and you could refill your HP by satisfying a Lightning QR invoice displayed on the screen.
+
+Two “Blockstream spies” duking it out on the Lightning Street Fighter clone
+
+And that was just for starters. I’ve often held the opinion that conferences are just big parties. The talks and networking, while definitely useful, are not much more than an excuse to get hammered with people in your line of work — for bitcoin, this means throwing a rager for a bunch of friends you’ve only ever met online.
+
+So it was to be expected that there would be alcohol for purchase with bitcoin. And there was, for 402 sats or 3 cents. It was so dirt cheap, it felt, I imagine, like drinking during Prohibition, except I was paying with a cyber currency that would be impossible to explain to someone from that time, when the greatest technological achievement was the radio.
+
+Lightning powered beer tap by @selberthomas. 402 sats for a pour–that's 3 cents y'all lmao
+
+
+
+@LNconf is a playground. pic.twitter.com/nQzaTY1Ky4 — Colin Harper (@AsILayHodling) October 19, 2019
+
+There was also a punch mixer (the Satoshi 12) created by Bitcoin im Turm, a German bitcoin podcast and collective. The dispenser, for a still modest 12,000 sats, would spit out punches with such punnily colorful names as the Matt Colado, the Hal Ginney and (my favorite) Shitcoin Punch. Tastes like college, I thought, wincing at my shitcoin mix.
+
+The Satoshi 12 punch mixer
+
+Throughout the conference, I would return to these founts of liquidity time and time again. I also tested many of the hacking projects on display, namely, the ATMs and the photobooth. As I tinkered with these, an employee from Fold sauntered by wearing a construction helmet flanked on either side with miniature propellers and a QR code — a Lightning payment would send the propellers whirring.
+
+This is a playground.
+
+A Spacecat, Romanian and Dutchman Walk Into a Bar
+
+A geeky playground but a playground nonetheless. I was weaving in and out of conversations when Vlad messaged me.
+
+“Colin, I have someone here who wants to meet you. He might be a space cat.”
+
+Oh hells yeah.
+
+Back in February 2019, I covered a story about an anonymous Twitter user (represented by an astronautical tabby cat and bearing the handle @hodlonaut) starting a Lightning payment chain called the Lightning Torch. Then I wrote about him again when Craig Wright sued the astrocat for calling him a fraud on Twitter and then again when funds were raised for his legal defense. (This was all rather hard to explain to my girlfriend.)
+
+We’ve been in touch and have always spoken of meeting. Extracting myself from a conversation or two, I rushed down to the stage area. Toward the back, he was leaning against a concrete windowsill next to Vlad and Katia Dolzhenko, Trezor’s social media head.
+
+Now, I know what you’re thinking. Where’s the descriptor Colin? You always describe them. Given the lawsuit with CSW, it would be rude — no, reckless — of me to describe our friend. But I will. The story demands it, and the truth may shock you. You may find it hard to believe, even, but nonetheless.
+
+The hero we need but don’t deserve, hodlonaut.
+
+What you must know, or understand, is that he’s not anonymous at all. Not even pseudonymous. He’s actually a cat, man (think Khajiit from Skyrim). But he rarely travels with the spacesuit. This time, he wore a black shirt and black pants, creamsicle fur spilling out of the collar and cuffs.
+
+We clasped hands and headed out to the Bitcoin coffee area outside, provided by Paralelní Polis. Peter Bas, a Dutch programmer who coded the Lightning Torch website, joined us.
+
+The conversation bounced between the absurdity of the lawsuit, the unlikely success of the Lightning Torch and how electric the conference was. I had to stay chill around the spacecat and not gawk too much. After all, this cat had reached near-mythical significance within the Bitcoin community.
+
+When the conference concluded, he, Vlad, Katia, Peter and I went out to dinner. The food of choice? Tacos, of course — well, German tacos, which more resembled deconstructed enchiladas.
+
+I had always been told about European Mexican food but had never experienced it. I didn’t have the heart to refuse hodlonaut his cat food of choice. It was still good, just different. Like whenever one culture appropriates cuisine from another, you end up with a strange blend of the two.
+
+A group of Norwegian bitcoiners joined us, and after we paid (hodlonaut covered my meal), we made our way to the official conference afterparty…
+
+Which was full, so we went to Room 77 instead.
+
+I bought a round of drinks with Lightning, but the first time I tried, the payment didn’t go through. Second time, the network found a way to route it.
+
+We sat down in a booth under the adventurous gaze of hodlonaut’s avatar postered on the wall. In sum, we were Norwegian, American, Dutch, Ukranian and feline. Distinct nationalities united under a common cause.
+
+With the night stretching into the later hours, Room 77 swelled with bitcoiners. They came from every continent save Antarctica to commune, learn, teach and collaborate. A collision of culture, enthusiasm and ideas.
+
+If I could translate the current of enthusiasm and creative energy that surges through these conference — what I see when a developer’s eyes light up and they discuss the tech — folks back home wouldn’t think that the bitcoin thing is so crazy.
+
+This, and other topics, filtered through my mind while Vlad and I walked back to the hotel.
+
+Day two of the conference: New day, same routine. Breakfast then conference and plenty of those spotty, happenstance conversations that materialize when you bump into people you know (whether from online or irl).
+
+I sat in on independent journalist and “Block Digest” host Janine Roem’s presentation on Lightning and journalism. I spoke to many developers and teams, brushing up on the differences between Lightning implementations and learning about what new features they’re all developing.
+
+My funds were running low (and bitcoin was taking a beating, slumping a handful of percentage points over the week), so I took advantage of something I never get to do in the U.S.: I bought bitcoin with cash, KYC-free.
+
+Paralelní Polis, the hackers commune in Prague that I would visit a few days later, installed an ATM by its Bitcoin Coffee stand. It politely asked me if I was a politically-exposed citizen, which I found almost comically considerate. The process was smooth and very low fee, something like 1 percent. I couldn’t shut up about it all conference; coming from the States, KYC-free bitcoin, via ATM or otherwise, is hard to come by unless you’re using Bisq or “know a guy.” Here, I could do it without batting an eye.
+
+Time flew as it’s want to do — especially when you’re bombarded with social stimulation at a conference like this.
+
+As things wound down on the second day, I found myself outside searching for a direction. I found it, or it found me, when some French bitcoiners grabbed me to see if I wanted to go check out c-base, the self-described oldest hacker community in the world. I had intended to go with Brennan, one of the guys from who started foodforcoins.org, a bitcoin-only delivery service manned by a fleet of delivery bikers (business had been booming because of the conference). I had missed my chance though, having been caught up recording a recap of the conference with Vlad and Aaron for the Bitcoin Magazine “Bitcoin Happy Hour” podcast.
+
+As fate would have it, I would be going all the same.
+
+…Aliens?
+
+The French bitcoiners were kind enough to let me practice my frightfully American French. One of these poor souls, who bore the worst of my linguistic transgressions, was a petite woman with wide-rimmed glasses, Léa Thiebaut. She’s one of the co-founders of the Breaking Bitcoin and Building on Bitcoin conferences, alongside Pierre Lorcery and Kevin Loaec. As bitcoiners do, we spent the walk waxing poetic about the technology’s potential and what attracted us to the industry.
+
+After a short promenade, we had reached c-base. The entrance was tucked away in an alley. The all-metal door bore various Bitcoin and cypherpunk stickers. An old PC mouse served as a doorbell.
+
+We gave it a ring and were promptly granted entrance by a gangly, bespectacled American whom we’ll call Link. Link’s blond hair was fashioned into a ponytail and an unusually prominent Adam’s apple bobbed up and down his skeletal neck as he talked.
+
+Entering the premises, we found ourselves in a metal terminal known as the airlock. On the other side of this passageway, the space opened up to a bar (which accepts bitcoin depending on the bartender working it) and a lounging area. Monitors dotted with a motley of switches, and dials and blinking buttons lined the walls. The entire room, dimly lit with neon fluorescence like a laser tag arena, was glowing like a cypherpunk Christmas tree. A multi-monitor screen was positioned behind one of the communal tables, though it was off and I didn’t know what its function was.
+
+There were a lot of us, so tours of the place were split into two groups; after waiting around for the first tour to finish, Léa, Pierre and I began ours, along with a few others. We started in the airlock and were quickly educated about c-base’s totally legit origins.
+
+“So, c-base,” Link began, pausing with a few “uhhs” as he spoke, “is a space station from 3,000 years in the future which crashed in this area 4 billion years in the past.”
+
+wut
+
+This lore came out of nowhere, and Link presented it with either stoic sincerity or deadpan irony. At the very least, he didn’t break character (if there was one to break) and explained the whole thing very soberly.
+
+As we continued to the basement, the mystique grew. A space station module, whose USB port unlocked the secrets of the universe (its past and its future — our past and our future). The rust-bucket spacecraft was also ready to launch back to its home in the stars at a moment’s notice, Link assured us. Around us, members tapped away at their computers. Behind the module, a man (presumably the resident librarian) watched over a library.
+
+Continuing into the base, we had to ring an alarm that announced to the c-base members that “Aliens are here.” A warning ring followed by a tongue I couldn’t decipher heralded our trespass for the other members. In this communal area typically closed off to extraterrestrials, hackers were situated at multi-monitored stations and watched us as we walked by.
+
+From here, Link took us into a computer hardware workshop, a tight room with shelves stocked and bins bulging with cords and chips and any other hardware you could imagine.
+
+“Things just show up here. It’s crazy,” a rotund German hacker seated at his desk in the room said. As he said this, Link picked up what looked like a toy alien gun which had miraculously spawned there the other day.
+
+In another room, a carpenter’s workspace. Link explained to us that hacking is not limited to what you can do on the computer. C-base also welcomes craftsmen and artists. Basically, the idea goes, if you can create something of value or improve on something else, the word hacker applies (the concept of “life hack” comes to mind). One example: The space has an automated page turner for books that employs a vacuum.
+
+‘The Idea of Bitcoin Existed Before Bitcoin Itself’
+
+Having seen the space, we went back above ground, and since everyone was either hungry or thirsty, we made our way to Room 77.
+
+For the third night in a row, I bought my beer with bitcoin (which, with my Lightning wallet depleted, took a while for the on-chain payment to clear) and communed with the international Bitcoin scene.
+
+I had the pleasure of connecting with Joerg, the founder of Room 77. Asking him about the impetus for making the bar’s schtick a Bitcoin one, the long-time cypherpunk said that bitcoin was the first truly successful cryptocurrency. As a confluence of the technical specs of its predecessors like e-gold, bitgold and others, Joerg said, bitcoin finally realized what had been dreamed of for decades.
+
+“The idea of bitcoin existed before bitcoin itself,” he said. “So when it was finally created, I knew this was it. It did what the others before it did not.”
+
+I stayed out past 1:00 a.m., clinging to the final hours of the festivities and talking to as many bitcoiners as I could before we all made our isolated journeys home, hopefully to meet again at another conference at another time.
+
+Walking back to my hotel, everything was suddenly calm, like the receding tide on a moonless night. But my mind was rushing with a current of rapid thoughts as I took stock of the trip so far and mentally prepared myself for the next and final leg to Prague.
+
+Colin’s series concludes with Living on Bitcoin in Europe: Wrapping It Up in the “Parallel State.”

@@ -1,0 +1,69 @@
+DATE:  18.04.2019, 15:33:50
+TITLE: Five Years in the Making, Bisq Exchange Launches Its Bitcoin DAO
+URL:   https://bitcoinmagazine.com/articles/five-years-making-bisq-exchange-launches-its-bitcoin-dao
+
+Ring in the new bitcoin halving cycle the right way: with us!
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+Decentralized autonomous organizations (DAOs) are one of crypto’s more novel and ambitious applications — one that Bitcoin, until recently, has had nothing to do with.
+
+In practice, they’re a bit younger than Bitcoin forks and older than smart contract-focused blockchains. The idea is that you can devise a decentralized governance system using the blockchain’s cryptographic controls — rule of code, so to speak. Using tokenomics and technical schemes, the DAO affects certain laws over its participants, incentivizes them to play by the rules and encourages the community to hold itself accountable.
+
+Dan Larimer’s BitShares, with its delegated proof-of-stake consensus mechanism, was the first DAO, followed by Dash. Since these trailblazers went live, DAO endeavors have become dominated by the Ethereum ecosystem, including, most notably, the eponymous and disastrous The DAO — best known for forfeiting millions in ether to the void after an incompetent coder unwittingly deleted a wallet library — and Maker, among others.
+
+Perhaps because of Bitcoin’s limited scripting language and, conversely, Ethereum’s rich scripting language, Ethereum has been the frontrunner for popular DAOs in recent memory, while one has never launched on the Bitcoin blockchain.
+
+Until now, that is.
+
+Bisq Gets an Upgrade
+
+Bisq, one of the Bitcoin community’s only truly decentralized exchanges, introduced version 1.0 of its software this week. Along with other ancillary upgrades, the release dropped a bombshell by furnishing Bitcoin with its first DAO.
+
+“Bisq’s DAO, launched on Monday, April 15, is (to my knowledge) the only attempt of its kind to decentralize a project’s management and funding to the extent it does,” Steve Jain, a Bisq contributor, told Bitcoin Magazine.
+
+With its intention to migrate toward distributed governance, Bisq will strive for an even greater degree of decentralization than it already features. Its software operates on Tor, and each user must run their own separate instance of the program (akin to running a node on a much smaller scale) to access the exchange, making it completely peer-to-peer.
+
+The privacy-minded exchange offers a rare, KYC-resistant fiat ramp for bitcoin trading, allowing users to facilitate fiat exchange with payment apps, bank wires and even hard cash swaps, like LocalBitcoins offers. With each trade, bitcoin is locked away in multi-signature contracts, requiring arbitrators to resolve any conflicts should a dispute arise in a trade.
+
+Jain said that this version upgrade was a long time coming.
+
+“The DAO was intended to be a part of Bisq from the day it was first conceived in 2014,” he revealed, adding that this launch has been in the works for five years — meaning that its development predates even the infamous Ethereum DAO. Now that it’s live, he believes that the program has realized an even truer version of itself, one that separates it from the pack.
+
+“From this standpoint, Bisq is a totally different beast —in terms of software and governance — than any other exchange,” he claimed.
+
+How the DAO Works
+
+Bisq’s governance will revolve around a token, but speculators need not apply — the project isn’t launching an ICO. Instead, each BSQ token will be minted through a process known as coloring.
+
+Colored coins, so-called because they are distinguished from regular coins on the blockchain, are simply satoshis marked for a specific use case. To create tokens for Bisq, for example, users submit satoshis to the DAO, which are then “painted over” to represent BSQ. These tokens give users the ability to participate in the Bisq DAO.
+
+This participation can take many forms. For traders on the platform, BSQ will give them trading discounts, not unlike BNB coin for Binance users, but this token’s use case is more dynamic than that. Contributors, for instance, can submit a compensation request to the network for payment in BSQ after finishing a project for the DAO. The community then votes on whether or not compensation should be awarded, and the developer submits satoshis to mint the colored BSQ tokens.
+
+More than just developers, DAO contributors could be designers, support staff, social media managers or writers. These contributors can also stake BSQ in a bond to fill a high-trust position in the DAO, like a back end engineer, copywriter or social media representative. If these de facto employees are caught slacking off or acting up, the community can confiscate their stakes as punishment.
+
+“It’s a dynamic system of stakeholders acting in their own best interests … And notably, there are no gatekeepers to manage it all,” Jain said. “BSQ is bought on the open market, and it’s issued by collective stakeholder voting. Personal vendettas, bank tantrums, government policies, company rules … none of these things can get in the way of someone doing work and getting paid for it.”
+
+To start, 3,657,480 BSQ has been minted to compensate a team of more than 200 contributors for their five years of labor to get Bisq and its nascent DAO up and running. Going forward, Jain told us that new BSQ will be put into circulation every month to fulfill compensation requests. Any BSQ used for trading fees, on the other hand, will be burned and taken out of supply entirely.
+
+Should I Trust the Government?
+
+For some, the DAO’s attempt to realize cohesive-yet-anarchic governance is utopian at best and foolhardy at worst. Critics point to Ethereum’s DAO and the ensuing hard fork as a bailout of sorts — the crypto equivalent of the windfalls Washington bestowed on Wall Street during the Great Recession.
+
+Other criticisms point to the notion that incentives aren’t powerful enough to keep bad actors in line, or that governance systems, depending on structure, give these bad actors mechanisms to game the system and circumvent checks and balances.
+
+Bisq’s own governance is twofold. Voter clout is determined on a weighted basis (how many BSQ tokens you own) and on merit (your reputation on the network). Voting based on token count is a red flag for many — it’s one of the reasons people look at EOS’ block producer elections as a pay-for-play playground, for instance. When asked if he felt that a stake-based voting model might enable vote buying and give the 1 percent an opportunity to out-influence the other 99, Jain noted optimism around the intentions of stakeholders.
+
+“[To vote you must] allot a certain amount of the BSQ you own for your voting weight,” he said. “You must own this BSQ, and yes, you can buy as much of it as you want on the open market. We think that’s fair. Presumably, assuming no bad intentions, someone with a lot of money who really believes in the Bisq network may want to buy a lot of BSQ to have a big influence in its decisions.”
+
+He continued to qualify that merit “is worth more than pure stake weight.” Basically, someone who contributes to the network has more of a say in voting than someone who bought their tokens; if I earn 10,000 BSQ tokens, for example, even if I sell them, my vote holds more clout than someone who bought 10,000 BSQ on the market. Merit will decay on an annual basis, as well, meaning contributors have to keep working on the ecosystem to maintain or bolster their reputations.
+
+“Lastly, the merits ‘stack,’ so if I have 10,000 BSQ of merit and 5,000 BSQ in my BSQ wallet, I can stake 5,000 BSQ for a combined voting weight of 15,000 BSQ,” Jain said.
+
+With this governance structure in place, Jain emphasized that one of the most significant — and exciting — differences with this version upgrade is that contributors can finally get paid for their work. This work, he continued, includes “growing liquidity, expanding to new markets and finally integrating SegWit.” Lightning Network integration is a bit further off, though, as it doesn’t fit well into Bisq’s complex architecture.
+
+Even as the DAO is launched and Bisq has achieved a greater degree of decentralization than before, Jain said that Bisq’s community is “focused on further decentralizing the network.” This means a new trading scheme which removes arbitrators from the multisignature process and replaces them with mediators “for a more private, quick and decentralized trading experience where less trust is required.”
+
+Ultimately, he concluded, the idea and final goal is that “users shouldn’t have to trust Bisq for anything.”

@@ -1,0 +1,29 @@
+DATE:  25.03.2019, 13:00:45
+TITLE: ‘A Sad Joke’: Bitcoin Cash’s Lead Coder Quits Bitcoin Unlimited Project
+URL:   https://www.coindesk.com/a-sad-joke-bitcoin-cashs-lead-coder-quits-bitcoin-unlimited-project
+
+Amaury Séchet, a leading developer of bitcoin cash, is renouncing his membership in one of the projects that paved the way for the controversial cryptocurrency.
+
+He’s sticking with bitcoin cash as lead developer of the code implementation BitcoinABC, but he’s unhappy with the direction of Bitcoin Unlimited, a code implementation that arguably got bitcoin cash off the ground as one of the first code implementations to increase bitcoin’s block size parameter.
+
+All these different “bitcoins” may be hard to keep track of, but it’s important to note that Bitcoin Unlimited remains relevant because it provides an alternative code implementation of bitcoin cash.
+
+Revealed to CoinDesk prior to publication, Séchet wrote a detailed explanation for his departure, posted to Medium Monday, in which he explained he is disappointed with Bitcoin Unlimited’s development process, partly because lingering bugs in the code allowed an unknown developer to crash most Bitcoin Unlimited nodes.
+
+Instead of getting better, he argues Bitcoin Unlimited’s process has since gotten worse:
+
+“The BUIP process has turned into a sad joke, with proposals more and more absurd being voted on. BU leaders are complacent and, while saying that the attitude of the [Bitcoin Satoshi’s Vision (BSV)] community will cost them developer support, they continue to enable the toxic behavior by supporting BSV.”
+
+Stepping back, while Bitcoin Unlimited paved the way, Bitcoin ABC was the first group to actually go through with these promises to increase the blocksize parameter back in 2017. Then sentiments in the community began to strain, partly because Craig Wright, a developer who claims to have created bitcoin (without evidence), joined bitcoin cash’s ranks.
+
+A bit over a year after bitcoin cash launched, Wright went to war with developers, including Séchet, ultimately breaking bitcoin cash into two cryptocurrencies: bitcoin cash and bitcoin SV (BSV).
+
+As this happened, Bitcoin Unlimited released software supporting both cryptocurrencies. But this code split ended up splintering the Bitcoin Unlimited team, with some eagerly supporting BSV. Drama between bitcoin cash and bitcoin SV hasn’t stopped with the fork, however. A few days ago, influential bitcoin cash coder, Antony Zegers, left Bitcoin Unlimited as a member, inspiring Séchet to follow.
+
+“The Bitcoin Cash project seeks to bring more freedom to the world by engaging in voluntary cooperation to build a better form of money. It is important that the Bitcoin Cash community protect itself from people and groups attempting to take advantage of its cooperative nature and undermine the project,” Séchet continued.
+
+He concluded:
+
+“My goal is to make Bitcoin Cash successful. Life is too short, and convenient sound money is a goal too important to be distracted from.”
+
+Amaury Séchet image via CoinDesk archives

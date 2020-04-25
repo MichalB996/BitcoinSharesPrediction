@@ -1,0 +1,49 @@
+DATE:  19.04.2019, 11:42:27
+TITLE: Five Simple Ways to Increase Your Privacy When Using Cryptocurrency
+URL:   https://news.bitcoin.com/five-simple-ways-to-increase-your-privacy-when-using-cryptocurrency/
+
+Five Simple Ways to Increase Your Privacy When Using Cryptocurrency
+
+Cryptocurrency without privacy is pointless. If your coins aren’t fungible, you lose much of the benefits of using cryptocurrency in the first place. Privacy isn’t just won and lost onchain though. In fact, much of the privacy gains to be made when it comes to sending, spending and trading crypto occur offchain, as you go about your business on the web.
+
+Also read: Wasabi’s Privacy-Focused BTC Wallet Aims to Make Bitcoin Fungible Again
+
+The Never-Ending Quest for Privacy
+
+Privacy is like fitness: a way of life rather than a task that can be ticked off. Just as it takes time, perseverance and focus on different muscle groups to build a better body in the gym, strengthening your privacy calls for undertaking regular exercises to stem the flow of doxable information. Every time you perform an action online, you’re hemorrhaging a trove of data. This can be particularly damaging for cryptocurrency users, whose onchain actions will be recorded indefinitely.
+
+When paired with offchain data points such as IP, email address, and cell number, it’s possible for an adversary to build a complete picture of their target. Given the ever-increasing capabilities of three-letter agencies, it’s safe to assume that in the near future, the state will be able to construct a highly detailed picture of the activities of today’s cryptocurrency users.
+
+tl;dr: privacy matters. Here are five ways to up yours.
+
+Use a VPN
+
+There’s an assumption that using a VPN requires a degree of technical knowledge, and is for privacy zealots only. In fact, the majority of VPNs are foolproof and can be up and silently running in a couple of clicks – no manual port reconfiguration necessary. Opera even offers a VPN now in its desktop and Android browsers. “Enhanced online privacy is a right for everyone,” claim Opera. They’re right. A VPN will provide an added layer of privacy when logging into exchanges as well as masking the IP address associated with Bitcoin transaction relays.
+
+Separate Your Regular Email From Your Crypto Email
+
+Creating a separate email account for every cryptocurrency service you need to log into is impractical. You can, though, segment all of your crypto-related emails into a single account. This will yield twin benefits: if your main account is compromised, the hacker will have no information on or access to your crypto activities. Secondly, if you choose a fully encrypted email account such as Tutanota, prying eyes at border control and other government agencies will have no insight into your penchant for trading obscure shitcoins.
+
+Stop Reusing Addresses
+
+More than half of all bitcoin transactions involve addresses that have previously been used. Creating a new bitcoin address is free, instant, and provides an immediate privacy boost. If the wallet or platform you’re using doesn’t allow you to create a new address at will, stop using it. There’s a wealth of competing services out there, and switching to a more privacy-minded alternative can be done in a matter of minutes. Unless you’re transacting solely in privacy coins like monero, or are using an account-based, rather than UTXO-based, system like ethereum, you should aim for a fresh address every time.
+
+Keep Your Keys and Codes Offline
+
+Where do you store the backup 2FA codes for your trading accounts and the private keys to your crypto wallets? Are they written down, split into parts and stashed offline in a series of very safe places? Or are they hidden in plaintext in a folder on your laptop marked “anime”? You’d be surprised how many people go with the latter. Even if you’ve encrypted the folder containing your keys and codes, it’s dangerous to assume it can’t be cracked by a determined attacker since, statistically speaking, you almost certainly recycle passwords – you and 10 million others.
+
+Keeping your private keys offline will protect you in the event of your computer being physically or digitally compromised. Even if you can’t afford a bank vault or strongbox, separating your key into parts and storing it in multiple locations – with duplicates, to ensure redundancy – will work just as well.
+
+Always Be Shuffling
+
+Coin mixers aren’t for the ultra-paranoid and the ultra-shady: they’re for everyone. If more people ran their coins through tumblers before withdrawing them to hardware wallets, bitcoin would become significantly more fungible, and blockchain forensics companies would suffer a major blow. Even if you can’t be motivated to mix your coins for the greater good, do it for your own. Services such as Cashshuffle for BCH make it easier than ever to obfuscate the origin of your coins, while Coinjoin, incorporated into pro-privacy wallets like Wasabi, do the same for BTC.
+
+There’s something extremely comfortable about having a stash of cryptocurrency that can’t be linked to your identity safely stored in a hardware wallet that’s been backed up. It’s the digital equivalent of having a backyard bunker filled with canned goods and ammo in readiness for the apocalypse. Treat yourself to a privacy makeover and see how good it feels.
+
+What other privacy tips do you recommend? Let us know in the comments section below.
+
+Images courtesy of Shutterstock.
+
+Disclaimer: Bitcoin.com does not endorse nor support the products/services mentioned in this article.
+
+Readers should do their own due diligence before taking any actions related to the mentioned company or any of its affiliates or services. Bitcoin.com is not responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

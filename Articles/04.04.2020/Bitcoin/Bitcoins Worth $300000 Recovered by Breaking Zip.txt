@@ -1,0 +1,33 @@
+DATE:  04.04.2020, 13:00:14
+TITLE: Bitcoins Worth $300,000 Recovered by ‘Breaking Zip Encryption’
+URL:   https://bitcoinist.com/bitcoin-worth-usd-300000-recovered/
+
+Featured Bitcoins Worth $300,000 Recovered by ‘Breaking Zip Encryption’
+
+A cryptographer has posted an article discussing how he cracked an encrypted zip file to recover a lost hoard of Bitcoin keys. This story underscores the need to keep keys safe, and always remember passwords.
+
+Bitcoin Private Keys Found By Cracking INFOZIP
+
+The author, Mike Stay, has a Ph.D. in computer science and an extensive background in cryptography dating to the 1990s. He discusses how he was contacted and hired to crack an encrypted zip file from a man that read a paper he had written on the subject almost twenty years ago. The file contained the private keys to USD $300k worth of Bitcoins purchased in 2016, yet the man had forgotten the password.
+
+He states:
+
+Back in January of 2016, he had bought around $10K or $15K of Bitcoin and put the keys in an encrypted zip file. Now they were worth upwards of $300K and he couldn’t remember the password. Luckily, he still had the original laptop and knew exactly when the encryption took place. Because InfoZip seeds its entropy using the timestamp, that promised to reduce the work enormously—”only” 10 quintillion—and made it quite feasible, a matter of a couple of months on a medium GPU farm. We made a contract and I got to work.
+
+Stay notes that he was able to re-learn his earlier skills, and with some help crack the zip file within a matter of days.
+
+It is important to note that at no time did Stay crack the code to the keys themselves, nor did he compromise any other element of the Bitcoin protocol. Rather, he merely found the password to an encrypted zip file which could have contained any information.
+
+Act Raises Security Concerns
+
+Experts agree that the encryption behind Bitcoin and most other top altcoins is extremely secure, and attempts to crack private keys using presently-available techniques would be futile. Nevertheless, there remains a risk of theft or loss if such keys are not stored properly.
+
+Unfortunately, all too often crypto investors store keys and passwords in unencrypted files, or they follow other lax procedures that put their coins at risk. Sometimes, as outlined in Stay’s story, they do not keep track of passwords. It is well known that almost all cryptocurrency theft and loss is due to user error.
+
+It is impossible to know how many Bitcoins are now irretrievably lost. By some estimates, it is as high as 25% of all present in existence. Perhaps the most speculated upon are the more than one million Bitcoins known to be owned by Satoshi Nakamoto. These have remained unmoved for more than ten years. Craig Wright’s claims notwithstanding, one commonly believed theory is that Satoshi, whoever he is, can no longer access them.
+
+Thus, it is crucially important to follow proper security guidelines when storing cryptocurrency. Passwords must be stored safely, and files encrypted using the latest techniques. Whereas there is no way to guarantee total security, improper personal handling is a very easy way to lose access to funds.
+
+What do you think about this lost and found Bitcoin story? Share your thoughts in the comments below.
+
+Image via Shutterstock

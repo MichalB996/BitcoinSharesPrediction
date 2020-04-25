@@ -1,0 +1,21 @@
+DATE:  17.04.2020, 14:14:18
+TITLE: Researchers Expose Privacy Flaws in Bitcoin Lightning Network
+URL:   https://www.thecryptoupdates.com/researchers-expose-privacy-flaws-in-bitcoin-lightning-network/
+
+University researchers identify privacy concerns in Bitcoin Lightning Network; propose solutions to trade off efficiency for security.
+
+Researchers from the Norwegian University and the University of Luxembourg have expressed concern over the privacy safety in Bitcoin Lightning Network. They have detailed the possibility of a ‘probing attack with moderate capital commitment and no expenditures on the network at a rate of under a minute per channel’ in their recently published research paper. As per their theory, this could expose anonymous transactions stored across the network. The researchers said that, by using a technique called transfer routing, they could find out the sum of Bitcoins held in balances.
+
+About the Lightning Network
+
+The Lightning Network is basically a solution that enables near-instant, low-cost Bitcoin transactions. Advocates of the concept claim that it offers enhanced privacy via the Segregated Witness method. In the lightning network, users can either transfer funds directly between two parties, or they can route the transactions via a mutually-agreed-upon third party.
+
+In the case of the latter, the researchers could use a range of routed transactions on the Bitcoin testnet, thus being able to reveal individual channel balances.
+
+As of now, the Lightning Network houses 11,000 nodes, 36,000 payment channels, and about 900 BTC.
+
+Proposed Solutions
+
+The group of researchers has proposed several potential solutions to this problem, but at the same time, they acknowledged the fact that in order to implement those solutions and enhance privacy, the network will have to lose some of its efficiency. They suggested a few changes to the network’s protocol but warned that those changes will reduce transaction efficiency at the cost of better privacy.
+
+However, they vouched for the fact that this is the most viable solution in order to maintain a balance between privacy and efficiency.

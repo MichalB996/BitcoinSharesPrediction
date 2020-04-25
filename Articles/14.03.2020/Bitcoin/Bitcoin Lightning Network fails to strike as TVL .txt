@@ -1,0 +1,19 @@
+DATE:  14.03.2020, 12:00:00
+TITLE: Bitcoin Lightning Network fails to strike as TVL [USD] crashes amid market chaos
+URL:   https://eng.ambcrypto.com/bitcoin-lightning-network-fails-to-strike-as-tvl-usd-crashes-amid-market-chaos/
+
+Bitcoin’s crash this week has been devastating, to say the least, with the fall affecting the cryptocurrency market far and wide. In fact, fundamental metrics have taken the price’s lead and fallen as well. For instance, the Lightning Network’s [LN] stats have also seen a substantial drop since the market crash over 12-13th March. This was evidenced by the fact that the charts indicating the total value locked [USD] in Lightning Network had also recorded a huge fall lately.
+
+According to data charted by DeFi Pulse, the figure dropped to $4.30 million on 13 March from $7.073 million the previous day, meaning a decline of nearly 65% in a matter of just 24-hours.
+
+The total value locked in LN in terms of US Dollar peaked when it hit $12.21 million on 29 June 2o19. This was around the time when Bitcoin’s price was consolidating above $11k, with the king coin on its way to its 2019-high of $13.6k. It must be noted, however, that the price of Bitcoin fell soon after hitting that figure.
+
+The values further suffered two major dips on 29 November and 13 December 2019, falling to $551k and $535k, respectively. While it appeared that the total value locked had started gaining traction this year when it touched $9.1 million on 19 February this year, the trend did not last long as it mimicked the king coin’s price action.
+
+Lightning setbacks
+
+Emerging as a possible solution to Bitcoin’s scalability woes, the second layer payment protocol has itself faced its fair share of criticism. In a recent paper titled ‘Lightning Network: a second path towards centralization of the Bitcoin economy,’ academics stressed that the Lightning Network is becoming centralized. The study noted,
+
+“Despite the huge activity characterizing the BLN, the bitcoins distribution is very unequal: the average Gini coefficient of the node strengths [computed across the entire history of the Bitcoin Lightning Network] is, in fact, ‘ 0.88 causing the 10% [50%] of the nodes to hold the 80% [99%] of the bitcoins at stake in the BLN [on average, across the entire period].”
+
+Another intriguing piece of research was presented by BitMEX, with the exchange questioning the LN’s privacy and scalability factors. The study identified over 60,000 transactions of Lightning Network’s non-cooperative channel closures taking place, as of January 2020. While admitting that privacy has been “greatly enhanced” by Lightning, as opposed to on-chain transactions, the study noted that blockchain monitoring services may still “identify and publish non-cooperative closures and penalty transactions.”

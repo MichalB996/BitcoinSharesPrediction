@@ -1,0 +1,71 @@
+DATE:  03.12.2019, 22:18:08
+TITLE: Squire Announces Testing of Bitcoin SV Node
+URL:   https://www.globenewswire.com/news-release/2019/12/03/1955894/0/en/Squire-Announces-Testing-of-Bitcoin-SV-Node.html
+
+VANCOUVER, British Columbia, Dec. 03, 2019 (GLOBE NEWSWIRE) -- Squire Mining Ltd. (CSE:SQR | FWB:9SQ | OTCQB:SQRMF) (“Squire”) is pleased to announce it has successfully completed testing of the latest version 0.2.2 (beta release) of the Bitcoin SV Node software using its custom cloud computing management and pooling software (“Taal Orchestrator”) and a subfleet of 2,500 blockchain cloud computers. During the week-long test period, Squire successfully processed over 35 Bitcoin SV blocks. Testing was performed in collaboration with leading U.K. blockchain research and development firm, nChain Limited (“nChain”), as part of the ongoing development and services agreement between Squire and nChain announced by press release of Squire on August 7, 2019. Testing is part of Squire’s plan to enhance Taal Orchestrator to optimize and to develop internal controls for cloud computing fleets managed by Squire’s subsidiary, Taal Technologies SECZ (“Taal Tech”). Taal Tech provides turn-key management services and oversight over enterprise-scale global blockchain cloud computing operations, totalling over 200,000 ASIC cloud computers, or approximately 3,000 petahashes of computing power.
+
+
+
+Bitcoin SV Node
+
+Bitcoin SV Node software version 0.2.2 is a major milestone release featuring:
+
+Parallel transaction validation, resulting in a 50% improvement in cloud computing speed
+
+
+
+
+
+Incremental block assembly to support the building of bigger blocks and in support of transaction scaling
+
+
+
+
+
+Internal block streaming to optimize system memory resources when processing bigger blocks
+
+These features bring substantial improvements to the capacity of the Bitcoin SV blockchain and pave the way for significant transaction scaling. Preliminary testing on the Bitcoin SV Scaling Test Network shows an increase from a sustained 200 transactions per second in version 0.2.1 to approximately 400 transactions per second with this version.
+
+“This test is part of Squire’s leadership role in the adoption of Bitcoin SV to support large scale enterprise applications on the blockchain with our state-of-the-art mining infrastructure,” remarked Joseph Chin, Chief Mining Officer and Corporate Secretary of Squire.
+
+The Bitcoin SV Node software was developed by nChain on behalf of the Bitcoin Association, the global industry organization supporting Bitcoin SV. The organization’s President, Jimmy Nguyen, who is an advisor to Squire, commented: “We thank Squire Mining for helping to lead testing of this beta release of Bitcoin SV Node version 0.2.2. This is another step in the Bitcoin SV Node team’s ongoing technical work to achieve scaling improvements on the BSV main net, and demonstrates that the original Bitcoin design could always scale to become the global enterprise blockchain.”
+
+Steve Shadders, Chief Technology Officer of nChain and Technical Director of the Bitcoin SV Node software project commented: “The Bitcoin SV Node team is pleased to see Squire Mining taking a leading role in the testing and deployment of improved scaling technologies. The business model of miners and the entire Bitcoin industry is enhanced by increasing throughput to levels that are beginning to rival traditional credit card payment networks.”
+
+The Bitcoin SV Node version 0.2.2 is accessible at: https://bitcoinsv.io/2019/10/30/bitcoin-sv-node-v0-2-2-beta-release/ .
+
+Title Change
+
+Squire is pleased to announce that the board of directors has resolved, effective October 23, 2019, to change Joseph Chin’s title to Chief Mining Officer and Corporate Secretary.
+
+About nChain Limited
+
+nChain is a global leader in advisory, research, and development of open blockchain technologies. Established in 2015, the UK-based company is one of the most active developers of intellectual property and software in the blockchain space, with a focus on bringing to market enterprise-grade open blockchain solutions for global business.
+
+About Squire Mining Ltd.
+
+Squire is a Canadian based technology company engaged, through its subsidiaries, in the business of developing and operating cloud computing data infrastructure and system technology to support global blockchain applications related to Bitcoin SV, Bitcoin Core and other associated SHA-256 derived digital assets.
+
+About Bitcoin SV
+
+Bitcoin Satoshi Vision (BSV) is the only Bitcoin implementation that follows Bitcoin’s original design, protocol and vision, as expressed by its creator Satoshi Nakamoto. Squire supports the BSV roadmap as it is the only project that aims to enable massive blockchain scaling by significantly increasing the Bitcoin block size so blocks can fit much more transactions and data and thus generate more transaction fees for miners, and outlines for the crypto mining sector why massive blockchain scaling is important for the entire interrelated Bitcoin ecosystem. Dr. Craig S. Wright, who serves on Squire’s strategic advisory board, has been issued U.S. copyright registrations, as author under the pseudonym Satoshi Nakamoto, for the original Bitcoin white paper and most of the original Bitcoin code.
+
+About Bitcoin Association
+
+Bitcoin Association is the leading global organization for Bitcoin business. It brings together merchants, exchanges, application developers, enterprises, miners and others in the Bitcoin ecosystem to advance the growth of Bitcoin commerce. Bitcoin Association supports Bitcoin SV (BSV) as the original Bitcoin with a stable protocol and scaling roadmap to become the world's new money and global enterprise blockchain. The Bitcoin Association seeks to build a regulation-friendly ecosystem that fosters lawful conduct while enabling cryptocurrency innovation.
+
+For further information contact:
+
+Angela Holowaychuk
+
+President and Chief Executive Officer
+
+Telephone: +1 800‐371‐2809
+
+
+
+The CSE accepts no responsibility for the adequacy or accuracy of this release.
+
+CAUTIONARY STATEMENT REGARDING FORWARD‐LOOKING INFORMATION:
+
+This news release includes “forward‐looking information” as defined under applicable Canadian securities legislation. Forward‐looking information and statements include, but are not limited to, disclosure regarding possible events, that are based on assumptions about future economic conditions and courses of action, and, in certain cases, can be identified by the use of words such as “potential”, “propose”, “aim”, “depend”, “seeks”, “plans”, “expects”, “is expected”, “intends”, “anticipates”, or “believes”, or variations of such words and phrases or statements that certain actions, events or results “may”, “can”, “could”, “should”, “shall”, “would”, “might” or “will”, or the negative forms of any of these words and other similar expressions. Forward‐looking information is necessarily based upon a number of estimates and assumptions that, while considered reasonable, are subject to known and unknown risks, uncertainties, and other factors which may cause the actual results and future events to differ materially from those expressed or implied by such forward‐looking information. Such factors include, but are not limited to: general business, economic, competitive, political and social uncertainties, uncertain and volatile equity and capital markets, lack of available capital, future demand for Bitcoin SV, Bitcoin Core and other digital assets and risks related to the mining thereof, when and if halving of Bitcoin will take place and the impact such halving will have on profitability, the ability to increase block size and the effects of such increases, integration issues, personnel and staffing requirements of Squire, technological change and obsolescence, statements with respect to testing of the Bitcoin SV Node software (including speed, block building, scalability and other benefits thereof) and the results or anticipated benefits of the Bitcoin SV Node, if implemented; statements with respect to Taal Orchestrator (including its ability to optimize, develop internal controls and provide other benefits for cloud computing fleets); statements with respect to benefits or improvements, if any, from the Bitcoin SV Node or Taal Orchestrator to the capacity of the Bitcoin SV blockchain; and statements made by the Chief Operating Officer of Squire, the President of the Bitcoin Association and the Director of the Bitcoin SV Node software project. Actual results and future events could differ materially from those anticipated in such forward looking information. Accordingly, readers should not place undue reliance on forward‐looking information. All forward looking information in this news release is made as of the date hereof and qualified by these cautionary statements and those in our continuous disclosure filings available on SEDAR at www.sedar.com. Squire disclaims any intention or obligation to update or revise such forward‐looking information, whether as a result of new information, future events or otherwise, except as required by law.

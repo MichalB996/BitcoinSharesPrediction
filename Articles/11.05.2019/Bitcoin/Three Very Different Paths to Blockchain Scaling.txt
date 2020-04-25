@@ -1,0 +1,51 @@
+DATE:  11.05.2019, 19:28:11
+TITLE: Three Very Different Paths to Blockchain Scaling
+URL:   https://news.bitcoin.com/three-very-different-paths-to-blockchain-scaling/
+
+Three Very Different Paths to Blockchain Scaling
+
+How do you scale a blockchain so that it can process hundreds or even thousands of transactions per second – but without compromising on decentralization? It’s a question that has kept some of the brightest minds in the space awake at night, and some of the more ardent crypto factions sniping at each other for years. In this primer on blockchain scaling, news.Bitcoin.com looks at the very different approaches being taken by three prominent cryptocurrency projects – Bitcoin Core, Bitcoin Cash, and Zilliqa.
+
+Also read: Decryptionary Helps New Investors Understand Crypto Terms
+
+A Short History of Scaling
+
+In Bitcoin’s early years, scaling was rarely discussed because it simply wasn’t a problem. Transactions per second (TPS) were low, fees were low, and there were more important concerns, like resolving critical bugs, and creating an ecosystem that would support a vibrant community of users who would ensure Bitcoin survived long enough to need to scale. That’s not to say that scaling was never broached; in fact the topic was discussed on multiple occasions on the Bitcointalk forum, on IRC chat and in emails, but with little urgency.
+
+For example, in an email with Bitcoinj developer Mike Hearn, Satoshi proposed the idea of payment channels in which parties “can keep updating a tx by unanimous agreement …Only the final outcome gets recorded by the network.” Advocates of the Lightning Network have seized upon this as evidence of Satoshi’s vision for a layer two solution built upon the Bitcoin protocol. Given Satoshi’s near-nine-year absence, however, it is impossible to say with any certainty what his vision may have been for scaling Bitcoin along these lines.
+
+One interesting point of note, however, is that Bitcoin launched without a block size limit. It would be a year before Satoshi introduced a 1MB block size limit to prevent spam attacks. Tellingly, Bitcoin’s creator envisaged a future in which larger block sizes could be introduced to the network, writing, in October 2010, that a larger block size “can be phased in, like: if (blocknumber > 115000), maxblocksize = largerlimit.” As such, proponents of the scaling approaches since taken by BTC (layer two/LN) and BCH (bigger blocks) can both lay claim to a solution that aligns with some of Satoshi’s early ideas. We’ll examine the pros and cons to each approach shortly, after considering a very different approach to blockchain scaling.
+
+The Sharding Solution
+
+If bigger blocks can be likened to building a bigger factory, then sharding is akin to creating an assembly line within that factory, so that each worker (miner) is given a specialist task – namely, verifying a portion of the block rather the whole thing. Zilliqa is the crypto network known for popularizing this scaling technique, after its founders authored a paper in 2016 on the feasibility of introducing sharding to public blockchains. Through splitting the transaction verification process into multiple parts – or shards – it’s possible to significantly increase the throughput, resulting in magnitudes more TPS.
+
+In recent testnet trials, using a network of 2,400 nodes, Zilliqa claims to have recorded throughput of around 2,800 tx/s. When asked about the feasibility of applying sharding to UTXO chains such as Bitcoin, Amrit Kumar, Chief Science Officer with Zilliqa, told news.Bitcoin.com that “sharding can indeed be used for UTXO based chains. In fact, there have been a couple of academic works that study sharding particularly for UTXO-based chains.” Sharding will play a pivotal role in Ethereum’s scaling strategy. Although capable of dramatically increasing throughput, this approach has its trade-offs, which we’ll examine shortly, but first, back to Bitcoin and the acrimonious split that arose from opposing scaling ideologies.
+
+The Two Bitcoins
+
+As Aaron van Wirdum wrote in “The Long Road to Segwit,” “It had been looming for some time, technically since October 2010, more concretely since February 2013 and finally publicly, bursting onto the scene by the spring of 2015: the block size limit dispute.” This battle saw developers such as Gavin Andresen and Mike Hearn favor increasing BTC’s block size from 1 MB, while Bitcoin Core developers loyal to Blockstream, which launched in 2014, favored retaining the 1 MB cap, and scaling through other means. Initially, this was to be achieved through Segwit, which reduces the average size of each transaction, but the endgame was to be the Lightning Network, a layer two solution in which multiple transactions occur offchain, with only the initial and final transactions being recorded onchain.
+
+Due to its complexity, development of Lightning has been beset by repeated delays and UX issues, and the network is still not fully production ready. However, the network has been growing steadily through 2019, and now holds close to 1,100 BTC, has over 8,300 nodes, and more than 38,000 channels. The advantages of LN include the potential to settle transactions almost instantly at negligible cost. Lightning has its share of critics, though, who take issue with its complexity, and its reliance on liquidity providers which to all intents and purposes makes the network a relatively centralized and custodial solution.
+
+Onchain Scaling
+
+Many of those who believe that scaling should be handled onchain have migrated to Bitcoin Cash, which will soon be approaching its two-year anniversary. 8 MB blocks have been processed by miners without any difficulty, and fees have remained low, enabling BCH to be sent for less than a cent. Critics of the big block approach tend to have two points of attack: that large blocks take longer to propagate across the network and that when the block reward is reduced, in years to come, transaction fees won’t be enough to incentivize miners to secure the network.
+
+Advocates of big blocks assert that ever-improving data storage costs and download speeds negate the first criticism, while the diminishing block reward can be dealt with further down the line. At this point in time, at least, Bitcoin Cash is working as its proponents envisaged. Due to deep-seated differences and ongoing acrimony, however, onchain and offchain evangelists will likely never see eye to eye. There is too much water under the bridge and insults traded on crypto Twitter for the Core and Cash brigades to achieve concord.
+
+The Future of Blockchain Scaling
+
+Although big blocks and Lightning Network are presented as binary options for scaling Bitcoin, these are in fact merely the two prevailing approaches currently favored by BCH and BTC respectively. In reality, there are many other proposals for increasing throughput, including sidechains, which can take much of the strain off the network without having to switch to quasi-custodial solutions such as LN.
+
+Although associated with so-called second generation blockchains, for example, sharding is also viable for UTXO chains such as BTC and BCH. It too has it drawbacks, however, which must be accommodated. As Zilliqa’s Amrit Kumar explains, “In a non-sharded network every single node verifies every single transaction. However, in a sharded network, only a subset of the network verifies each transaction. So, yes, the security guarantee that you get is slightly weaker in theory.”
+
+“However, in practice,” Kumar added, “if the shard size (the number of nodes in each shard) is sufficiently large – say around 600 – and randomly chosen from the initial network, then the chances that anything bad will happen in the shard is infinitesimally small.”
+
+While different blockchains press ahead with different visions on how to achieve high throughput, divergence between projects increases. What began with Bitcoin has now fragmented into a series of crypto networks, each doggedly pursuing their own path to scaling.
+
+What are your thoughts on the different scaling solutions favored by BCH, BTC, and ZIL? Let us know in the comments section below.
+
+Images courtesy of Shutterstock.
+
+Did you know you can verify any unconfirmed Bitcoin transaction with our Bitcoin Block Explorer tool? Simply complete a Bitcoin address search to view it on the blockchain. Plus, visit our Bitcoin Charts to see what’s happening in the industry.

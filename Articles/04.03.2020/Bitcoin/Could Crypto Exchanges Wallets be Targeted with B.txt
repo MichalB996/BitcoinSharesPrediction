@@ -1,0 +1,37 @@
+DATE:  04.03.2020, 14:00:38
+TITLE: Could Crypto Exchanges, Wallets be Targeted with Banking Trojans?
+URL:   https://bitcoinist.com/crypto-exchanges-wallets-facing-new-threats-trojans/
+
+Bitcoin Security Could Crypto Exchanges, Wallets be Targeted with Banking Trojans?
+
+Sophisticated malware strains that usually target online banking services may pivot towards crypto exchanges and wallets in 2020.
+
+RATs Could Target Crypto Exchanges and Wallets in 2020
+
+According to a report by Dutch-based cybersecurity firm ThreatFabric, hackers may use banking trojans to target crypto exchanges and wallets in 2020.
+
+In its report, ThreatFabric also highlighted the growing trend of these attack vectors moving from desktop platforms to mobile banking services with crypto wallets and exchange accounts the next likely destination.
+
+Using Remote Access Trojans (RATs), hackers can reportedly bypass security infrastructure on smartphones, enabling cybercriminals to carry out transactions directly from the infected mobile devices.
+
+According to the report, hackers are already using banking trojans like Hydra and Gustuff to attack crypto exchanges and wallets. Using Hydra’s screencast capabilities, cybercriminals can remotely monitor real-time activities on the infected mobile devices.
+
+Hydra also allows hackers to clone the infected device, providing access to stored financial information. As part of its report, ThreatFabric revealed that rogue actors are using Hydra to hack crypto wallets on platforms like Binance, Bitfinex, and Coinbase among others.
+
+With Gustuff, hackers have access to keylogging and browser overlay attack vectors allowing rogue actors to trick victims into entering their financial details on fake websites that closely resemble their real banking or crypto exchange platforms. According to ThreatFabric, Gustuff’s potential target is also currently expanding to include crypto wallets like Electrum, Blockchain.com, and Xapo.
+
+In addition to Hydra and Gustuff, other banking trojans currently targeting crypto exchanges and wallets include Anubis, Cerberus, and SMS hacking tool Ginp.
+
+Industry Needs to Combat Cryptocurrency Theft
+
+The emergence of more sophisticated attack vectors targeting the crypto exchanges and wallets is sure to pose serious headaches for industry stakeholders. In recent times, exchange services have been forced to revamp their security architecture to thwart the activities of online hackers.
+
+With these banking trojans, however, the security consideration falls on the shoulders of smartphone makers to develop more secure devices. As previously reported by Bitcoinist, Samsung announced plans to include tamper-resistant crypto information storage capabilities in its Galaxy S20 series.
+
+With mobile devices coming with inbuilt crypto wallets, users require more advanced security features to stave off malicious intrusions from hackers who are repurposing these deadly banking trojans.
+
+These attack vector will also join the expanding list of crypto threats ranging from clipper malware to malicious mining scripts all dedicated to stealing valuable cryptocurrency funds.
+
+What steps are you going to take to prevent falling victim to these RAT banking trojans? Let us know in the comments below.
+
+Image via Shutterstock

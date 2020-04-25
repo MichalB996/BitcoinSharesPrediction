@@ -1,0 +1,37 @@
+DATE:  16.03.2019, 01:00:57
+TITLE: How to Create Your Own Decentralized Prediction Market
+URL:   https://news.bitcoin.com/how-to-create-your-own-decentralized-prediction-market/
+
+How to Create Your Own Decentralized Prediction Market
+
+The decentralized web is hard to use, complain its critics. And to be fair, they’ve had a point up until recently. With improved UX and new layer two solutions built on top of Web3 protocols, however, interacting with these technologies is getting easier. This is particularly evident in the case of prediction markets, where new features from Guesser and Veil have opened up these services up to a wider, less technically accomplished audience.
+
+Also read: Cboe Discontinues Bitcoin Futures for Now
+
+Decentralized Prediction Markets Keep Getting Better
+
+“What will be the market capitalization of Cosmos Atoms (ATOM) in USD on April 30, 2019?” asks Veil. “Will a second referendum on Brexit be announced in the UK before 29 March 2019?” ponders Guesser. Technically these markets originate on Augur, but people are increasingly now placing their bets via secondary services that bolt a user-friendly interface onto Augur’s protocol and simplify the betting options.
+
+Guesser’s recently introduced Bet of the Week has been going down well – this week’s question was “Will the base price announced for the Tesla Model Y be $39,000 (USD) or lower?” Bettors who went with over, at odds of 1.26, were vindicated. The only significant downside to Augur-based markets, including Guesser, is the length of time it takes for them to resolve. Last week’s featured Guesser bet, for example (“What will the total value locked in Defi be on Monday March 11, 15:00:00 UTC, according to defipulse.com?”) is still awaiting results, even though its outcome is not contentious.
+
+How to Create Your Own Prediction Market
+
+Creating an Augur-based prediction market got significantly easier this week thanks to Veil’s new interface that removes much of the complexity. Users can potentially earn revenue when people participate in their market by placing a bet. The process works as follows:
+
+Choose whether to create a binary (yes/no) or scalar marker (one with a range of values). Create a draft market. Be sure to include clear rules regarding scenarios that will determine its outcome. Publicly share the market, while it is still in draft form, to generate interest in it prior to activation. Activate the market. This calls for making a deposit in ETH and in REP, but Veil can automatically exchange the former for the latter using Uniswap for convenience. Report the outcome of the market once the event has concluded.
+
+“Start by creating a draft market for free,” urges Veil, “then see if the community is interested in betting in it. If they are, activate it and get paid when people participate.” To help keep track of draft markets proposed using Veil, a Twitter bot has been set up. Newly devised markets cover Donald Trump, cryptocurrency price predictions, sporting events, and music releases.
+
+A World of Predicting Possibilities
+
+The number of users of Augur and of the third party markets that connect to it remain low, as does the maximum stake that can be placed. With virtually zero geographical restrictions on who can participate however – a Metamask wallet and an email address is all it takes – the barriers to access are low. Moreover, while the majority of markets currently revolve around simple bets that make Augur little more than a decentralized sportsbook, in future its potential use cases could expand significantly.
+
+As Ben Davidow notes in “The Three Powers of Augur,” the market “can be used to hedge risk or insure against undesired outcomes and thus prepare for the future.” He also opines that it could one day be used for things like “filtering out fake news, and creating accountability for public figures.” Just as people are still discovering new applications for Bitcoin, 10 years on, it’s same to assume that decentralized prediction markets will gain significant utility and usability in the months and years to come.
+
+Have you tried using Augur, Guesser or Veil? Let us know in the comments section below.
+
+Images courtesy of Shutterstock.
+
+Disclaimer: Bitcoin.com does not endorse nor support this product/service.
+
+Readers should do their own due diligence before taking any actions related to the mentioned company or any of its affiliates or services. Bitcoin.com is not responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in this article.

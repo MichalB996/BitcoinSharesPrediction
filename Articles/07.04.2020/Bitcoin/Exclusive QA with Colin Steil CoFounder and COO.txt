@@ -1,0 +1,85 @@
+DATE:  07.04.2020, 09:40:03
+TITLE: Exclusive Q&A with Colin Steil, Co-Founder and COO of Cartesi
+URL:   https://europeangaming.eu/portal/latest-news/2020/04/07/67957/exclusive-qa-with-colin-steil-co-founder-and-coo-of-cartesi/
+
+Reading Time: 6 minutes
+
+We usually start with an introductory question. Tell us about yourself. How have you become a blockchain entrepreneur?
+
+I’m Colin, Co-Founder and COO of Cartesi. I am a previous venture capitalist and start-up founder with a passion to make blockchain a reality. I have an expertise in execution and years of experience in community building and business operations across the globe.
+
+I originally got into blockchain while working for my previous venture capital firm, SOSV. We were actively investing in companies in a wide variety of verticals that were always trying to push the boundaries of technology. Some of these companies had discovered blockchain technology early on and were integrating into their existing products, or starting exchanges (such as Bitmex). I got to learn about blockchain through assisting our portfolio companies and fell in love with the technology and the possibilities it brang. From here, I eventually met my current business partners and Cartesi was born.
+
+What is the story of Cartesi? What is special about Cartesi in the blockchain universe?
+
+The Cartesi founding team initially got into blockchain as a result of Augusto Teixeira (our Chief Scientific Officer) being friends with Serguei Popov (Founder of IOTA and inventor of the Tangle).
+
+Serguei Popov, one of our Advisors, initiated Augusto into the crypto scene through the Bitcoin whitepaper and sparked his interest in the technology, knowing that Augusto is a leading expert in cryptography and game theory.
+
+Augusto had the original idea of creating a trustless marketplace for data scientists. Basically, it would allow specialists and companies to engage in a service agreement without the need to know each other or a reputation system. In order to implement that, he invited Diego Nehab (our CTO) to design and implement a reproducible VM capable of running Linux. With this architecture and the protocols Augusto had envisioned, we would be able to make generic computation verifiable by the blockchain. More specifically, the blockchain would be able to initiate routines in the emulator to verify the results sent by the specialists after they completed their jobs. The system would protect the two parties involved, only releasing the funds if the results were proven to be correct.
+
+Later on, after engaging in long discussions, we realized we were tapping into a broader scope. Before Cartesi even had that name, we understood we could actually create a versatile layer-2 Linux infrastructure to overcome the problems of scalability of computation and infrastructure for blockchain applications.
+
+Cartesi is special in the blockchain universe in the sense that it allows decentralized applications to be run within a Linux environment in a way that’s verifiable by the blockchain. Complex processing can be executed off-chain free from blockchains’ computational limits and corresponding fees.
+
+By offering a Linux runtime environment, Cartesi is the only software-based verifiable off-chain compute system that gives developers a vast array of software that evolved in the last 30 years and that enable the applications we use on the Internet today.
+
+You have talked about the twin major objectives of Cartesi in other interviews as well: increasing network efficiency and reducing programming difficult over blockchain? Could you share details about real life projects that actually achieved the objectives?
+
+For sure! No software application is built in isolation. Mainstream mobile/desktop/web Applications today depend on multiple software dependencies that took decades to mature on operating systems like Linux. Cartesi brings all this software infrastructure to blockchain applications. Whereas without Cartesi, blockchain applications cannot use mainstream software, libraries and services, unless they sacrifice decentralization in some way.
+
+Then, there’s the second problem. Besides being hampered by insufficient software infrastructure, decentralized applications also suffer tight on-chain processing limits. So, they can hardly offer a compelling alternative to mainstream centralized applications. They are often hard to build, being clunky and limited for developers and DApp users.
+
+Cartesi solves these three problems by
+
+1) offering developers the software and tools supported by a full Linux OS
+
+2) moving off-chain all the heavy computation over large amounts of data, that blockchains cannot do
+
+3) offering services and a token economy that allows users to securely rely on the network and remain free from inconveniences of blockchain tech (e.g. slow confirmation times, requirement to remain online to resolve disputes, and others).
+
+We have only just recently open-sourced and launched our decentralized tournament infrastructure with Cartesi. With this, we have recently released our first DApp, Creepts – a tournament on a tower defense game. This game showcases a fully decentralized game that was developed using conventional software stocks on Linux and also requiring billions of microprocessor instructions (and thus impossible to run on-chain): https://creepts.cartesi.io
+
+The most significant product from Cartesi for the gaming industry must be Creepts, the blockchain-based game. Tell us more about it.
+
+Creepts is the world’s first fully decentralized tower defense tournament game built with and running on Linux. It is built on top of Cartesi’s Layer-2 Linux solution for blockchains, which is available as an open-source software stack that is under active development.
+
+Currently, Creepts is playable on the Rinkeby Ethereum testnet. In Creepts, players compete against each other to see who can claim the highest score in a fully-featured, real-time, browser-based Tower Defense game map. Players join a tournament by committing their high-scores and game moves to the blockchain, at a negligible cost. The game’s smart contracts then decide who the winner of the tournament is.
+
+In order to play Creepts, players will currently have to go through a rigorous setup experience, downloading docker, setting up Infura, and installing the Cartesi Node. To simplify this in the future, we are now working on a read-write version of Creepts, which will present users with a similar experience to running a normal app without having to deal with any idiosyncracies of blockchain technology.
+
+Is Creepts publically available now? If not, when can we expect to have its public release?
+
+Yes! Creepts is publicly available now on the Creepts website: https://creepts.cartesi.io. We are currently offering both a read-only version which is playable immediately (although centralized) as well as instructions on how to setup the fully decentralize version on Ethereum’s Rinkeby testnet.
+
+What are the values and features that do you think Creepts add to the existing crowded world of games?
+
+Cartesi frees blockchain Layer 2 development from restrictive programming environments. The Creepts game logic that determines player’s scores is implemented in Typescript and runs over a Linux OS. The blockchain components of Cartesi do not care what the software used to write the Creepts DApp is. All it cares about is that Creepts can run inside of the Cartesi RISC-V machine emulator to produce verifiable and disputable game logs and player scores to the tournament contracts.
+
+Cartesi also allows Creepts to be the first blockchain-based multiplayer game that is able to mathematically prevent one of the most impacting cheating vectors in decentralized and competitive virtual worlds from being exploited, which is the injection of arbitrary content into the persisted game state. Creepts can do so while accepting arbitrary off-chain (Layer 2) game logic, written for a Linux OS, incurring massively reduced computational costs for the Layer 1 components of the DApp.
+
+What are the things do you think blockchain technology can bring changes to (let’s say ‘revolutionize’) the gaming and gambling industry?
+
+Blockchain technology brings a lot of advantages and fixes a lot of problems we face in games and development today, largely due to having to trust people. Blockchain can make games self-hosting, so if players love it and are there to pay the transactions, it will never go away or be changed unless mutually agreed upon.
+
+Full decentralization will also make game systems transparent and traceable, with provably fair game-play. This can potentially allow for much higher stakes and bids in tournaments, gambling, or games involving money.
+
+Another big factor is in-game asset ownership. This is something that has already evolved and is quite popular. Blockchain brings the potential for players to truly own their in-game assets, and would even allow them to bring them into other games – this opens up a whole new class of gaming possibilities.
+
+Cartesi is not an exclusive programming platform for the gaming sector. Still, what are the ways in which the existing gaming and gambling software and technologies can make use of Cartesi?
+
+Correct, Cartesi is a general-purpose infrastructure that will enable a new wave of DApps that were not possible before. We are not limited to gaming, but it is a great showcase given the market for DApps and for Cartesi’s technology.
+
+Now that we’ve released our decentralized tournament infrastructure, gaming companies can easily create never before seen tournament DApps without having to know about blockchain development, they can even create these complex games with any software of their choice. In addition, we’ll be launching our SDK and documentation next quarter, which will guide developers to build with Cartesi and venture into different kinds of game development.
+
+We’re looking forward to see what people can come up with in terms of games on Cartesi!
+
+The ongoing Corona outbreak is really in the process of crippling the world economy. Hope your company’s operations are going smoothly. Some experts say this would be like pressing a reset button on all fronts. How do you estimate the future of blockchain technology in a reset world? We would love to hear your views on this.
+
+Our thoughts are with all those who are affected by the current outbreak that is going on. We hope it gets better soon.
+
+It is very hard to predict or understand the effect coronavirus will have in how the world works, but one thing that has become clear is how decentralization is important in times like this. For instance, governments may be acting in haste by printing loads of money to cover up for lack of preparation, which is basically another way to tax the poor. Blockchain, DeFi and cryptocurrencies could be used to protect yourself against government actions such as these depending on where you live in the world. Individuals are growing increasingly scared of authoritarian methods that are employed by governments, and it may be used as an excuse to escalate this authoritarianism around the world, where blockchain would be another good defence.
+
+We are of course hoping things become stable soon and the world carries on. Wishing everyone safety and good health!
+
+If you have some important topic you would like to discuss, we are ready to talk to you! Please contact me on [email protected] and we can set up an interview.

@@ -1,0 +1,39 @@
+DATE:  03.04.2020, 15:00:00
+TITLE: P2P Exchange Hodl Hodl Takes First Step in Bringing Private Bitcoin Trades to BlueWallet Users
+URL:   https://www.coindesk.com/noncustodial-exchange-hodl-hodl-bringing-private-bitcoin-trading-to-bluewallet-users
+
+While the cryptocurrency space has moved well beyond its cypherpunk origins, some platforms are still determined to let users keep their transactions to themselves.
+
+In the works since late 2019, BlueWallet, a non-custodial mobile crypto wallet for iOS and Android, is integrating with Hodl Hodl, a peer-to-peer exchange, to add private bitcoin (BTC) trades to the app.
+
+Now, the wallet's users can view available orders on the exchange, but a full integration is coming in “several months,” BlueWallet co-founder Igor Korsakov told CoinDesk. Once complete, BlueWallet users will be able to buy and sell bitcoin directly with other users via the app.
+
+“They have a non-custodial wallet, we have non-custodial trades. Nobody else in the bitcoin space has done this yet,” Hodl Hodl CEO Max Keidun said.
+
+No checks
+
+Hodl Hodl is a peer-to-peer exchange that as a matter of principle does not perform know-your-customer (KYC) checks. That's because the team does not believe providing identification does any good for bitcoiners – on the contrary, it makes their personal data subject to potential hacks and leaks, the founders said.
+
+“We chose Hodl Hodl because it’s the only peer-to-peer marketplace that isn’t doing KYC and isn't going to,” BlueWallet's Korsakov said. “This will be very important in the coming battle for privacy in bitcoin.”
+
+That "battle" is between the proponents of pseudonymous, private transactions and the more numerous pro-KYC/anti-money laundering (AML) companies choosing to comply with requirements from global financial watchdogs such as the Financial Action Task Force. BlueWallet places itself firmly in the first group.
+
+“In 2020, this battle will be in full swing, as the regulators are pressing more and more, and exchanges are easily handing over their users’ data, introducing KYC, working with blockchain analytics firms and rejecting the coins from suspicious transactions,” Korsakov said. This hurts the fungibility of bitcoin and destroys the presumption of innocence for users, he believes.
+
+“We’re not going to do any surveillance,” Keidun agreed. “Plus, virtually any coins could touch the dark web marketplaces at some point.”
+
+Hodl Hodl is serving about 25,000 users globally at the moment, according to Keidun. The marketplace has recently joined a number of other exchanges using the Liquid sidechain by Blockstream for faster transactions.
+
+Taking it mobile
+
+To trade bitcoin on Hodl Hodl, a user needs to find a counterparty and create a two-out-of-three multi-signature escrow (that gives a key each for both parties in the trade, with a third held by the exchange).
+
+The seller locks bitcoin in the escrow and releases it once they see the buyer has sent a fiat currency payment via an agreed method. In case of a conflict, Hodl Hodl can the third key to resolve the dispute and release the funds either way.
+
+“As we don’t store users’ funds, creating a standalone mobile app would be nonsense. As in this case, we would have to create a wallet as well and take care of the funds. So we chose to integrate with already existing wallets,” Keidun said. Hodl Hodl is in talks with other wallets as well, he said, but could not disclose any names.
+
+Also read: Ripple Engineers Publish Design for Private Transactions on XRP Ledger
+
+Building the multisig escrow for a mobile interface is no easy task, Korsakov conceded. At this point, the team is working on making the system user friendly so that “not just geeks" can understand it.
+
+BlueWallet has also recently added support for hardware wallets like Coldcard.

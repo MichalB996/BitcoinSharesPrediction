@@ -1,0 +1,47 @@
+DATE:  10.07.2019, 14:57:25
+TITLE: DX Exchange Introduces “Smart Leverage” Tokens
+URL:   https://cryptobriefing.com/smart-leverage-tokens-dx-exchange/
+
+Business DX Exchange Introduces “Smart Leverage” Tokens by Paddy Baker
+
+Customers can trade cryptocurrencies with leverage and without risks usually associated with CFDs.
+
+Share this article
+
+A new form of digital asset vehicle will allow retail investors to make leveraged trades in cryptocurrencies without breaking strict European laws on trading products.
+
+Estonia-based DX.Exchange has announced the launch of Smart Leverage Tokens – also dubbed ‘Turbo Tokens’ – that will allow clients to trade on margin without borrowing funds or having to undergo forced liquidation. Unlike ordinary Contracts For Difference(CFD’s), the new tokens will autonomously adjust their prices to market conditions.
+
+The trading platform hopes that SLTs will allow investors to engage with the cryptocurrency market, without becoming exposed to undue risk. Starting today, users will be able to go long or short on seven different cryptocurrencies, including Bitcoin (BTC), Ether (ETH), XRP and Binance Coin (BNB), with leverage at either 5x and 10x.
+
+Trade Smarter, Not Harder
+
+Here’s how it works: a client buys a Smart Leverage Token linked to their crypto of choice, such as BTC or ETH. Using an aggregated data feed from multiple exchanges, the token’s smart contract tracks the spot price of the underlying asset, and adjusts accordingly depending on position and leverage.
+
+Hence, if Bitcoin moves up by $1, then the price of a 10x Long SLT on Bitcoin moves upwards by $10. Similarly, if Bitcoin falls by $2, the price of the long leverage token would fall by $20; a short leverage token would see prices increase by $20.
+
+One million ERC-20 turbo tokens are now available to any investor based outside of the U.S., and DX plans to release more depending on initial sales and reception. Customers will be able to purchase SLTs with Tether (USDT) at a maximum of 5x leverage or with the exchange’s native utility token, DXCASH.
+
+SLTs utilize a compounding mechanism that prevent their prices from falling to zero. Whenever a turbo token loses more than 90% of its value, it is burned and a new one is automatically issued at the current price of the underlying digital asset.
+
+“Exchanges are in a race to add leverage products, but they are still tied to the old school of margin trading with high risk and fees,” says Daniel Skowronski, CEO and Co-Founder of DX.Exchange. “Now we created a new category called Smart Leverage Tokens or SLTs. It’s a game-changer when it comes to margin trading.”
+
+What about regulation?
+
+Last month, Crypto Briefing reported on a talk by David Mercer, the founder of LMAX – an institutional cryptocurrency exchange – who criticised EU-domiciled exchanges for offering more than 2:1 leverage on cryptocurrencies.
+
+Calling for a major overhaul of the existing system, Mercer said many were breaking rules set by ESMA that only allow a maximum of 2x leverage on any CFD made available to retail investors.
+
+But DX.Exchange believes they’ve created a product that gives retail investors the option to use leverage, while simultaneously addressing regulator’s concerns. Because leverage is embedded into the smart contract, and none of the funds are borrowed, DX believes that SLTs are not CFDs and are reportedly classified as a “token with utility.”
+
+This means DX.Exchange is able to offer leveraged products on cryptocurrencies that go above the usual 2x leverage to professional and retail investors alike. Although Estonian authorities have so far not provided a specific stance on SLTs, DX.Exchange plans to operate the vehicle under its exchange’s existing license.
+
+But some questions remain. Last week the UK’s chief financial regulator, the FCA, announced it was moving ahead with a comprehensive proposal to ban retail access to crypto-derivatives. The Consultation Paper said that existing crypto derivatives are poorly designed and represented a real risk to investors who may not understand the product’s complex nature
+
+“Since these [SLT] products own the leverage, they also bear a higher risk factor, what I would call turbo certificates,” explained Laurent Kssis, director of CEC Capital. CEC Capital is a London-based trading firm in ETPs and crypto markers.
+
+Although SLT’s demonstrate how smart contracts can be harnessed to create a whole host of new financial products, they are “still very risky and highly volatile in the crypto market since the underlying [assets] could fluctuate quite dramatically,” Kssis added.
+
+It’s still not certain whether SLT’s would fall under the FCA’s proposed ban. They may currently be legal throughout the E.U., but ESMA can always amend the regulation to cover new products coming to market.
+
+DX.Exchange may believe they’ve found the panacea for crypto CFDs, but the basic premise still stands: if SLTs pose a real risk to retail investors, regulators will clamp down on them.

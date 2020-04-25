@@ -1,0 +1,49 @@
+DATE:  24.02.2020, 21:50:57
+TITLE: Bitcoin trial: Apex court finds virtual currency exchange operator in breach of contract
+URL:   https://www.straitstimes.com/singapore/courts-crime/bitcoin-trial-apex-court-finds-exchange-operator-in-breach-of-contract
+
+SINGAPORE - The Court of Appeal has ruled in a landmark case that virtual currency exchange operator Quoine must pay damages for wrongfully reversing seven trades on its platform .
+
+The court on Monday (Feb 24) rejected Quoine's argument that it was entitled to unilaterally cancel the seven orders - placed by trader B2C2 to sell ethereum for bitcoin - on the basis that the transactions were a mistake.
+
+Quoine had argued that the parties who transacted with B2C2 were under the mistaken belief that the trades were at market price and that B2C2 knew of this mistake.
+
+The case is the first legal dispute in Singapore involving cryptocurrency. It is also believed be the first in the Commonwealth to deal with the question of how the legal doctrine of mistake should be applied when contracts are made by computerised trading systems, without human involvement.
+
+The dispute will now centre on assessing how much damages are to be paid to B2C2.
+
+Both companies use complex computer systems to place buy and sell orders on Quoine's platform.
+
+Quoine's software retrieves price information from other currency exchanges to generate orders.
+
+B2C2's software evaluates the first 20 market prices, excluding low-volume orders, and calculates an appropriate price to buy or sell.
+
+The software has a fail-safe "deep price" of 10 bitcoins to one ethereum. This kicks in when there is insufficient market data.
+
+In April 2017, a glitch in Quoine's software made it unable to access external data and it stopped creating new orders. This led to B2C2's "deep price" taking effect.
+
+On April 19, 2017, seven trades were carried out by the computer systems, with 3,092 bitcoins being credited to B2C2 in exchange for about 309 ethereum debited.
+
+Related Story Singapore helps global cryptocurrency firms to expand their local operations
+
+This was at a rate of about 250 times the prevailing exchange rate of about 0.04 bitcoin to one ethereum.
+
+Quoine became aware of these trades the next day and unilaterally reversed the transactions.
+
+B2C2, represented by Mr Danny Ong, then sued Quoine, argued that the cancellations amounted to a breach of contract and a breach of trust.
+
+The Singapore International Commercial Court found in March last year (2019) that Quoine was in breach of both contract and trust.
+
+Quoine, represented by Senior Counsel Stanley Lai, appealed before a five-judge panel.
+
+The majority - comprising Chief Justice Sundaresh Menon, Judges of Appeal Andrew Phang and Judith Prakash and International Judge Robert French - dismissed Quoine's appeal on breach of contract.
+
+They held that, in the context of contracts made by computer systems, it is the programmer's state of knowledge that is relevant, from the point of programming up to the forming of the contract.
+
+In other words, the court has to determine whether in programming the system, the programmer was acting to take advantage of offers made by a party operating under a mistake.
+
+The court said there was no mistake in this case as to the terms of the trading contract. Even assuming there was a mistake, the creator of B2C2's software did not know of this mistaken belief, the majority said.
+
+International Judge Jonathan Mance dissented on this issue.
+
+The court allowed the appeal on breach of trust, saying that no trust was created over the bitcoins in B2C2's account.

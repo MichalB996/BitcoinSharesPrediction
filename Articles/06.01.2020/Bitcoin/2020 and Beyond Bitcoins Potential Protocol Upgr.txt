@@ -1,0 +1,91 @@
+DATE:  06.01.2020, 13:00:38
+TITLE: 2020 and Beyond: Bitcoin’s Potential Protocol Upgrades – Bitcoin Magazine
+URL:   https://bitcoinmagazine.com/articles/2020-and-beyond-bitcoins-potential-protocol-upgrades
+
+Ring in the new bitcoin halving cycle the right way: with us!
+
+Bitcoin Magazine presents non-stop coverage of Bitcoin’s third Halving with hours of commentary and analysis from Bitcoin 2020 speakers and some of our closest friends.
+
+The Halving (sometimes referred to as “ the Halvening ”) is the predetermined moment when Bitcoin’s block subsidy gets cut in half. The halving of Bitcoin’s block subsidy occurs every 210,000 blocks (approximately every four years) and is a key feature of Bitcoin.
+
+Bitcoin’s consensus layer has remained unchanged for over two years now. Since Segregated Witness (SegWit), which activated in August 2017, no hard fork or soft fork protocol upgrades have been deployed at all*, marking Bitcoin’s longest stretch without consensus forks so far.
+
+But this stretch may soon come to an end: several backward-compatible soft forks are currently in development. Optimistically, some of them may go live in 2020 — if they gather sufficient support from the Bitcoin ecosystem.
+
+These could be Bitcoin’s protocol upgrades in the new year … or perhaps in the new decennium.
+
+Schnorr/Taproot/Tapscript
+
+Schnorr signatures are considered by many cryptographers to be the best type of cryptographic signatures in the field. They offer a strong level of correctness, do not suffer from malleability, are relatively fast to verify and, perhaps most interestingly, allow for math to be performed with them. To name one concrete benefit for Bitcoin: Several signatures can be aggregated into a single signature, which could, for example, economically incentivize privacy-enhancing CoinJoin transactions.
+
+Adding Schnorr signatures to the Bitcoin protocol has been a work in progress for some time now. But over the past year, developers working on a Schnorr signatures proposal, like Blockstream developers Pieter Wuille and Jonas Nick and Xapo’s Anthony Towns, revealed even more ambitious plans. Schnorr signatures will be proposed as part of a bigger soft fork protocol upgrade called Taproot, a proposal by Bitcoin Core contributor Gregory Maxwell, which was itself inspired by an older proposal called MAST (Merkelized Abstract Syntax Tree).
+
+(Fractions of) bitcoin can be locked up in such a way that they can be spent under several different conditions, for example requiring timelocks, secret numbers of several participants to agree to unlock the coins. With MAST, all the different conditions are hashed and included in a Merkle Tree: a compact cryptographic data structure. The coins would then essentially be locked up in the final hash of this Merkle Tree, the Merkle Root. To spend the coins, you only need to reveal the condition you end up using. The alternative ways in which the coins could have been unlocked remain hidden forever.
+
+Taproot, then, is based on an interesting realization: No matter how complex, almost any MAST-construction could (or should) include a condition that allows all participants to agree on the outcome and sign off on a settlement transaction together. This “cooperative close” would override all other conditions.
+
+Taproot leverages this realization and utilizes Schnorr signatures to make the cooperative close look like a regular transaction. Simplified, the cooperative close would be done with an aggregated signature, which looks just like a regular signature. In doing so, the MAST-construction remains completely hidden to the outside world! This benefits privacy and efficiency.
+
+Taproot may also come with an updated version of Bitcoin’s programming language, Script, called Tapscript. This would also make it easier to add new features (“OP codes”) to Bitcoin’s programming language later on.
+
+Taproot doesn’t appear to be very contentious, though developers are still discussing implementation details.
+
+For further reading, see this article and this article.
+
+The Great Consensus Cleanup
+
+The Great Consensus Cleanup is a proposed soft fork by Square Crypto developer Matt Corallo. As opposed to most protocol upgrades — including the other upgrades included in this list — The Great Consensus Cleanup is not intended to enrich Bitcoin with new features or possibilities. Instead, as the name suggests, this soft fork would remove some edge case vulnerabilities from the Bitcoin protocol.
+
+These vulnerabilities are quite technical and “in the weeds.” They include, for example, fringe types of transactions that require much processing power to validate, redundant tricks for upgrading parts of the protocol, and a weak spot in Bitcoin’s difficulty adjustment algorithm. It has been known for some time that these vulnerabilities existed, but it is generally believed that exploiting them would be too costly to be profitable, or that such exploits would be relatively easy to deal with when they happen. Still, fixing them would make Bitcoin slightly more robust, while it would make developing Bitcoin implementations a bit easier.
+
+The main objection to (parts of) The Great Consensus Cleanup is probably that some of the upgrades could, in theory, make certain existing coins (UTXOs) unspendable. While it’s very unlikely that such UTXOs exist at all, it is impossible to know for sure whether they do, and some argue that making them unspendable is a risk that should, as a matter of principle, never be taken.
+
+For further reading, see the BIP, the Bitcoin-dev mailing list discussion and Bitcoin Optech Newsletter #36.
+
+The “Noinput Class”
+
+Bitcoin transactions include cryptographic signatures, which prove that the owner of a public key really wants to spend the corresponding coins in that specific transaction. But not the whole transaction is signed. Which part of a transaction is signed exactly is indicated with something called a “sighash flag.”
+
+Now, a new class of sighash flags is being proposed by Blockstream developer Christian Decker and Xapo’s Towns. Carrying names like SIGHASH_NOINPUT, SIGHASH_ANYPREVOUT and SIGHASH_ANYPREVOUTANYSCRIPT, they offer a similar solution, so we’ll refer to all of these as the “Noinput class.”
+
+If a sighash flag in the Noinput class is included in a transaction, it indicates that the outputs (the “receiving” part of the transaction) and some other transaction data will be signed, but not the inputs (the “sending” part of the transaction). By not signing the input, it is possible to take a transaction even after it is signed and swap in a different but compatible input.
+
+More often than not, there wouldn’t be any other compatible input. The signature still corresponds to a public key, and this public key corresponds only to a specific (fraction of a) coin. Swapping in a random input would break this link and make the transaction invalid.
+
+But there are some exceptions where the input can be swapped. Notably, Bitcoin transactions for a new type of Lightning Network payment channel protocol, called Eltoo, could be subject to having their input swapped for a compatible input. This would significantly simplify how payment channels are enforced. Most notably, bugs and other honest mistakes wouldn’t lead to a loss of all funds in a channel, and users could do with far less backup data.
+
+The main objection to the Noinput class is that SIGHASH_NOINPUT in particular can be insecure if used improperly. SIGHASH_ANYPREVOUT and SIGHASH_ANYPREVOUTANYSCRIPT resolve this (and make it compatible with Taproot), but at the cost of more complexity. Some also suggest that OP_CHECKTEMPLATEVERIFY (see below) or OP_cat (a disabled OP code that could be re-enabled, perhaps through Tapscript) could offer similar benefits.
+
+For further reading, see this article.
+
+OP_CHECKTEMPLATEVERIFY
+
+OP_CHECKTEMPLATEVERIFY (CTV), previously known as OP_SECURETHEBAG, is a new OP code proposed by Bitcoin Core contributor Jeremy Rubin. As its main benefit, it could help smooth out Bitcoin’s network congestion and fees during peak hours, effectively increasing network throughput.
+
+More specifically, CTV would, in a way, allow a Bitcoin transaction to be cut into two transactions. The “sending” half of the transaction would include the inputs, basically the addresses the coins are sent from. The “receiving” part of the transaction includes the outputs, basically the addresses the coins are sent to.
+
+The two halves would be tied to each other through a special output included in the “sending” transaction, called a “committed output.” The committed output would contain a cryptographic hash: a seemingly random but relatively short string of numbers that serves as a unique serial number, linking it to the “receiving” transaction. The coins that are “sent” in the “sending” transaction can only be “received” by the “receiving” transaction.
+
+The trick is that both “halves” — the “sending” and the “receiving” transaction — are broadcast to the network, with an important difference. The “sending” transaction includes a relatively large fee to ensure that it confirms fast. The “receiving” transaction includes a relatively low fee, meaning it could take a while to confirm.
+
+The wait for the low-fee transaction to confirm shouldn’t be a big deal for the recipients of the coins. Once the “sending” transaction is confirmed, it ensures that all the money is guaranteed to the “receiving” transaction. The funds are anchored in the blockchain and have nowhere else to go but to the recipients.
+
+If recipients do need to speed up the “receiving” transaction, for example, because they have to re-spend the coins, they can simply spend their funds straight from the unconfirmed “receiving” transaction. If the fee on the new transaction is high enough to compensate, both the “receiving” transaction and the new transaction will be confirmed quickly. (This trick is called “Child Pays for Parent.”) Even more interesting, CTV allows for more efficient solutions by chopping the “receiving” transaction into smaller transactions, called Tree Payments.
+
+The main objection to CTV is probably that there may be better and/or more general ways to accomplish the same thing. (The more general solution is usually referred to as Covenants.) Some also suggest that the Noinput class or OP_cat could offer similar benefits.
+
+For further reading, see this article.
+
+Drivechain BIPs
+
+Sidechains are blockchains that are “pegged” to the Bitcoin blockchain, allowing bitcoin to effectively “move” from Bitcoin’s blockchain to the sidechain and back. Once the coins are on the sidechain, they would obey the protocol rules of that blockchain, which could be about as diverse as any blockchain in existence today. There could, for example, be a “Zcash sidechain” for privacy, an “Ethereum sidechain” for certain smart contracts or a “big block sidechain” for low-fee blockchain transactions.
+
+Some sidechains already exist, most notably Blockstream’s Liquid (primarily for inter-exchange fund transfers) and RSK Labs’ RSK (an “Ethereum sidechain”). These are “federated sidechains”: the bridge between Bitcoin’s blockchain and the sidechain is managed by a “federation” of well-known companies in the space. They essentially control a multisignature address on the Bitcoin blockchain and collectively sign to “move” coins back and forth.
+
+Drivechains would instead be secured by bitcoin miners: The same miners providing the hashpower that already secures the Bitcoin blockchain. “Moving” funds from the sidechain back to the main chain would require a majority of hash power over an extended period of time. Further, drivechains would be merged mined, meaning that hash power on the Bitcoin blockchain also protects the sidechain.
+
+To realize this, Tierion developer Paul Sztorc and the pseudonymous CryptAxe have proposed two soft forks. The first one, called Hashrate Escrows, would act to lock funds in a contract on Bitcoin’s blockchain (“moving” them to the sidechain), to only be unlocked once sufficient hash rate votes to unlock the funds (“moving” the coins back). The second soft fork, called Blind Merged Mining, would enable the sidechain to be secured by the same hashpower as the Bitcoin blockchain.
+
+Drivechains are somewhat controversial, because (it is argued that) it would give more power to bitcoin miners. Some also suggest that blind merged mining could be achieved with the Noinput class.
+
+For further reading, see drivechain.info and the Bitcoin-dev mailing list discussion.*Depending on your definition of “hard fork” and “soft fork,” it could be argued that the inflation bug, included in Bitcoin Core versions in 2017 and 2018, was fixed with a soft fork in 2018. But even if considered a soft fork, which is dubious, this can hardly be considered a protocol upgrade.

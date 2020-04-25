@@ -1,0 +1,49 @@
+DATE:  22.09.2019, 17:00:48
+TITLE: What Google’s Quantum Breakthrough Means for Blockchain Cryptography
+URL:   https://news.bitcoin.com/what-googles-quantum-breakthrough-means-for-blockchain-cryptography/
+
+What Google’s Quantum Breakthrough Means for Blockchain Cryptography
+
+We’ve been warned for years that a quantum computing breakthrough is just around the corner. When that day comes, we’re told, it could render existing encryption standards obsolete, threatening the security of every major blockchain. It seems that day has finally arrived, with Google achieving “quantum supremacy.” Impressive as the feat is, however, it doesn’t signal game over for crypto networks – and least not yet.
+
+Also read: How Merge Mining and Anchored Blockchain Projects Capitalize on Bitcoin’s Security Model
+
+They Actually Did It, the Absolute Madmen
+
+On Friday, the FT published a story claiming that a paper published by Google researchers described a major computing breakthrough. Using a quantum computer, the team managed to perform a calculation in just over three minutes that would take the world’s most powerful supercomputer 10,000 years. In an industry that’s characterized by incremental improvements, that sounds like a leap that warrants comparisons with the Big Bang. Quantum supremacy, which the researchers claim to have attained, refers to the moment when a quantum computer outperforms the world’s best classical computer in a specific test.
+
+Google described the achievement as a “milestone towards full-scale quantum computing,” and predicted quantum computing capacity to expand at a “double exponential rate,” outstripping the exponential rate that Moore’s Law has described so faithfully for decades. On the face of it, this technology sounds in danger of destroying everything we hold dear, starting with Bitcoin. The reality, as is so often the case, is more nuanced: predictions of Bitcoin’s death at the hands of quantum computing have been greatly exaggerated.
+
+Cryptography and the Rise of Quantum-Resistant Blockchains
+
+Fearing that a quantum breakthrough is just around the corner, threatening the sanctity of all known encryption algorithms, cryptographers have been striving to develop quantum-resistant blockchains that can withstand a Cambrian explosion in quantum computers.
+
+Johann Polecsak, CTO of quantum-resistant blockchain QAN, told news.Bitcoin.com: “The most popular public-key algorithms are theoretically at risk of being broken by a quantum computing breakthrough. Most encrypted data intercepted and stored today could be decrypted by quantum computers in the near future.” On Google’s quantum computer, believed to be called Sycamore, Polecsak ventured: “The notion of Google achieving a quantum breakthrough sounds very dramatic, but in reality, it’s hard to gauge the significance at this time. How can we be sure that Google’s quantum computer is more powerful than D-wave’s, for example, which surpassed 1,000 qubits four years ago?”
+
+
+
+All signatures and hashes within QAN’s protocol that might be susceptible to quantum algorithms (typically Shor or Grover algorithm searches) are protected by post-quantum cryptography. Just as it sounds, this is a school of cryptography dedicated to protecting networks in a world of quantum supercomputers. There are numerous models of post-quantum cryptography, with QAN favoring a lattice-based approach; other variants of the six primary schools of post-quantum cryptographic research include hash- and code-based cryptography.
+
+Andrew Yang Suggests the Threat Is Real
+
+One of the hardest things when discussing quantum computing is separating fact from fiction, fears from fear-mongering, and theory from practice. It is a sector of computing in which FUD and FOMO are in constant supply – which might explain why the quantum threat has resonated so strongly within the cryptosphere. Just how “justed” Bitcoin and other cryptocurrencies are in the event of a quantum breakthrough depends on who you want to believe. For example, pro-tech presidential candidate Andrew Yang explains in his policy on quantum computing and encryption standards:
+
+Quantum computers, using qubits, will theoretically be able to perform the calculations necessary to break our current encryptions standards in under a day. When that happens, all of our encrypted data will be vulnerable. That means our businesses, communications channels, and banking and national security systems may be accessible.
+
+As for when this will happen, Yang notes that “Some estimates put the timeline for this at a decade or less. In short, this is a problem that has to be fixed now … First, and immediately, we need to invest in and develop new encryption standards and systems, and immediately shift to using these quantum computing-resistant standards to protect our most sensitive data.”
+
+Bitcoin Isn’t Broken Yet
+
+While advancements in quantum computing warrant close scrutiny, there is no evidence to suggest that BTC and BCH private keys are in danger of getting popped any time soon. To illustrate just how secure current cryptographic standards are, Openbazaar’s Chris Pacia wrote a blog post in 2013 in which he discussed the commonly used 128-bit Advanced Encryption Standard (AES), concluding: “If every one of the 7 billion people on Earth had 10 computers testing 1 billion key combinations per second, it would take the entire population 77,000,000,000,000,000,000,000,000 years to find a single 128-bit AES key.”
+
+As for how quickly a quantum computer could achieve the same feat, Pacia confesses to being no expert, but ventures: “Quantum computing would likely double the size of a key that could be effectively brute-forced. That might cause AES-128 to fall, but AES-192 and AES-256 should still be safe.”
+
+Bitcoin mining uses SHA-256, while ECDSA (Elliptical Curve Digital Signature Algorithm) is used in the cryptography to create private and public key pairs. In the event of quantum computers cracking SHA-256, for example, an obvious solution would be to switch to a stronger encryption algorithm of the same family, such as SHA-512. As Wikipedia’s post-quantum cryptography entry notes, “While the quantum Grover’s algorithm does speed up attacks against symmetric ciphers, doubling the key size can effectively block these attacks. Thus post-quantum symmetric cryptography does not need to differ significantly from current symmetric cryptography.” In other words, even if quantum computing does materialize at scale, it’s unlikely to require redesigning our cryptography from the ground up; rather, we’ll just need to enforce more robust versions of existing algorithms that incorporate more bits.
+
+As Sabine Hossenfelder concluded in a video on quantum supremacy in June, “I’m not very optimistic that quantum computers will have practical applications any time soon. I’m quite worried that quantum computing will go the same way as nuclear fusion: that it will remain forever promising but never quite work. Nevertheless, quantum supremacy is going to be a super exciting event.”
+
+Do you think quantum computers will threaten Bitcoin in the next decade? Let us know in the comments section below.
+
+Images courtesy of Shutterstock.
+
+Did you know you can verify any unconfirmed Bitcoin transaction with our Bitcoin Block Explorer tool? Simply complete a Bitcoin address search to view it on the blockchain. Plus, visit our Bitcoin Charts to see what’s happening in the industry.

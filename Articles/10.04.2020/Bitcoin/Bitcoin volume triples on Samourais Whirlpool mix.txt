@@ -1,0 +1,25 @@
+DATE:  10.04.2020, 18:35:08
+TITLE: Bitcoin volume triples on Samourai’s Whirlpool mixing service
+URL:   https://decrypt.co/25238/bitcoin-volume-triples-on-samourais-whirlpool-mixing-service
+
+Bitcoin wallet Samourai has seen volumes on its flagship privacy service triple in a month. The service, called Whirlpool, is designed to make someone’s Bitcoin more anonymous.
+
+Whirlpool is an implementation of the CoinJoin protocol, which is designed to mix Bitcoin in a non-custodial fashion. This makes it more secure than using a third party Bitcoin mixing service, since you don’t have to hand over your Bitcoin.
+
+Per Whirlpool statistics—compiled by Bitcoin privacy advocate Matt Odell—Samourai’s Whirlpool volume tripled month-over-month from February to March, rising from 529 Bitcoin to 1523 Bitcoin.
+
+“When we started Samourai in 2015 we had an untested assumption that there was a strong unmet demand for privacy enhancing payment technology in retail and consumer markets,” an anonymous Samourai developer told Decrypt.
+
+“The recent dramatic growth in volume entering Whirlpool shows that our assumption was not unfounded and that consumers are enthusiastic about reclaiming their financial privacy,” they added.
+
+So far this month, volumes have already reached 914 Bitcoin—a 430% increase on volumes seen in December 2019. Whirlpool has cumulatively coinjoined 4,784 Bitcoin since the desktop feature launched in May 2019.
+
+Whirlpool’s future is mobile
+
+The surge in Whirlpool use, which began in late 2019, has likely been spurred on by the mobile wallet’s Whirlpool integration in February. Samourai’s most popular product is its mobile wallet, with 80,000 downloads.
+
+“The future is mobile, and Whirlpool is the first and only fully non-custodial coinjoin tool available on mobile, and the only CoinJoin tool to fully break all deterministic links between the past history and the future activity of Bitcoin that enters it,” they said.
+
+At the same time, it appears the demand is largely retail. In 2019, 56.7% of all Whirlpool transactions were in batches of 0.01 Bitcoin–the smallest denomination that Samourai allows users to mix. This trend has continued into 2020, with 62.5% of all Whirlpool transactions coming in batches of 0.01 Bitcoin.
+
+And that’s despite an increasing number of Bitcoin whales.

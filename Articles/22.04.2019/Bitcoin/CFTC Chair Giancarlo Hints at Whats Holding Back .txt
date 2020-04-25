@@ -1,0 +1,105 @@
+DATE:  22.04.2019, 14:30:02
+TITLE: CFTC Chair Giancarlo Hints at What’s Holding Back Bakkt’s Bitcoin Futures
+URL:   https://www.coindesk.com/cftc-giancarlo-bakkt-bitcoin-futures
+
+The Takeaway
+
+Bakkt, the proposed bitcoin futures exchange, remains in regulatory limbo
+
+CFTC Chairman Christopher Giancarlo wouldn’t discuss specific proposals, but his general comments about crypto regulation offer hints at the reasons Bakkt is languishing
+
+Part of the problem appears to be the firm’s plan to custody its own bitcoin, and clear trades through its parent company’s clearinghouse
+
+This proposal may present issues both in terms of regulatory jurisdiction and opposition from other clearinghouse participants
+
+When Bakkt?
+
+The question has been posed repeatedly since last summer, when Intercontinental Exchange (ICE), the parent company of the New York Stock Exchange, first revealed its grand vision for a bitcoin futures platform that would help take the cryptocurrency to the next level of mass acceptance. Bakkt has postponed its launch date twice now, including an indefinite delay at the end of 2018.
+
+It’s widely known that Bakkt’s holdup is regulatory in nature, rather than technical. But the specific reasons for the delay have been hazy, the subject of rumor and speculation in crypto legal circles and anonymously sourced news articles.
+
+This much is clear: Bakkt needs the Commodity Futures Trading Commission (CFTC) to provide a final green light before it can launch. In blog posts, Bakkt CEO Kelly Loeffler has said the exchange is working with the regulator but offered little in the way of detail. (Bakkt declined to comment for this article.)
+
+The CFTC, for its part, has kept quiet about Bakkt, so it’s hard to tell where in the process the agency is.
+
+However, CoinDesk recently sat down with CFTC Chairman J. Christopher Giancarlo, who became a hero to the crypto community after advocating for a “do no harm” approach to regulating the space before Congress in early 2018.
+
+While he wouldn’t discuss any specific proposals or companies being reviewed, Giancarlo spoke in very general terms about the regulatory issues facing new crypto products, offering insight on how the 45-year-old agency is approaching futures, as just one example.
+
+And if you read between the lines, his comments offer some clues about the snags Bakkt has hit.
+
+The 80-year-old protocol
+
+Describing the broad contours of U.S. derivatives regulation, Giancarlo used the language of the community which has nicknamed him “CryptoDad.”
+
+“In the world of crypto, everything’s based on certain protocols. Well the law is also a protocol, we work on a really old protocol – in our case it’s over 80 years old,” he said, referring to the Commodity Exchange Act of 1936. “It’s voluminous, it’s thousands of pages of regulations and it’s very detailed.”
+
+Under this protocol, which also includes state and federal antecedents and began to take form as far back as the 1860s, regulation of derivatives was bifurcated between the state and federal governments, Giancarlo explained.
+
+“The deal that was struck was there’d be federal oversight of the exchanges, derivatives products, certain intermediaries, and the clearinghouses but the entities that actually held custody of financial instruments, like cash, were usually regulated as banks or trusts under state law or a national charter,” Giancarlo said.
+
+These custodians, which also include commodity warehouses regulated by state-level agencies or by the U.S. Department of Agriculture, hold the underlying assets and deliver them to customers when their futures contracts expire.
+
+“Even when we have a CFTC-regulated clearinghouse, the clearinghouse uses state-regulated custodians or a nationally chartered, OCC-regulated bank for the actual holding of the funds and securities,” Giancarlo said. That said, firms can choose to hold their assets within the clearinghouses themselves.
+
+Today, Giancarlo went on, one of the challenges his agency faces comes from evaluating how futures exchanges might store cryptocurrencies. This comes into play when contracts are physically settled, meaning buyers are delivered the actual commodity at expiration.
+
+While the bitcoin futures launched in 2017 by CME Group and CBOE were settled in cash – amounting to side bets on the cryptocurrency’s dollar price – Bakkt, along with startups ErisX, Seed CX and LedgerX, aspire to list derivative contracts settled in real bitcoin.
+
+“Our statute allows us to regulate the new physically settled cryptocurrencies, but it contemplates an entity using a regulated trust or bank for custody of customer funds, unless they opt to hold the assets in the clearinghouse,” Giancarlo said.
+
+In that light, it starts to make sense why the CFTC has been slow to approve Bakkt.
+
+According to its past announcements, the exchange initially planned to custody bitcoin through its own digital “warehouse.” Since ICE is not a bank or state-regulated custodian, this would have required an exemption to the rules described by Giancarlo.
+
+However, Bloomberg reported last Thursday that Bakkt is now seeking a license from New York state (presumably for a trust company) so it can handle custody.
+
+But there’s another issue as well.
+
+Not so clear
+
+Zooming out the lens again, clearinghouses act as intermediaries between buyers and sellers in derivatives markets, ensuring that both parties in a transaction uphold their respective ends of any deal. They also serve to reduce the cost and risk in such transactions, as former Federal Reserve Chairman Ben Bernanke explained in a 2011 speech.
+
+But the risk isn’t totally removed – it’s mutualized among a clearing house’s member firms. Hence, if a clearinghouse were to hold bitcoin (in the sense of buying and selling it, not necessarily custodying the private keys), its members would be exposed to the asset’s rapid price swings.
+
+“A potential challenge here, and as we saw with bitcoin futures, is that the other asset class participants in the clearinghouse don’t always want the exposure to mutualize their risk on their interest rate or commodity futures with somebody else’s cryptocurrency holdings,” said Giancarlo.
+
+Indeed, a number of firms were less than thrilled by CME and Cboe launching bitcoin futures contracts at the end of 2017. One group of clearinghouses, the Futures Industry Association, even went so far as to write an open letter criticizing the CFTC for allowing this. The letter cited bitcoin’s high volatility at the time as their main cause for concern.
+
+Based on what Bakkt has shared so far, it plans to clear the one-day bitcoin futures contracts through its parent firm’s regulated clearinghouse, ICE Clear US, which would act as the intermediary.
+
+So regardless of how Bakkt custodied bitcoin, it would need to send the assets through ICE Clear US to a buyer – raising the question of how that would sit with the clearing members.
+
+CoinDesk reached out to a number of ICE Clear US members. A majority of the firms reached out to did not respond, and several more declined to comment.
+
+However, Bob Fitzsimmons, executive vice president of fixed income, currencies and commodities at ICE Clear US member Wedbush Securities, said he had no concerns about ICE warehousing bitcoin, though he did not reference its price.
+
+“Our understanding in this process is we would not be handling any of the cash bitcoin or the spot bitcoin or the spot digital currency, so there’s no need for us to have the holding or the handling of it, which is one of the things that scares people,” he said. “In terms of the futures side, we’re very comfortable.”
+
+That being said, Wedbush may be an outlier in this view – as Fitzsimmons noted, the firm has long been involved in the crypto space, having published a research report on bitcoin in 2013, and backing Coinbase early in the exchange’s life.
+
+Not alone
+
+With Bakkt in regulatory limbo, it may not be the first company to offer physically-settled bitcoin futures in the U.S.
+
+LedgerX, which was founded in 2014 and received CFTC approval to offer bitcoin derivative products in 2017, has offered swaps and options to American customers over the past two years, and now plans to offer its own physically-settled futures contracts in the coming weeks.
+
+Juthica Chou, the firm’s COO, told CoinDesk that LedgerX applied to become a Swap Execution Facility (SEF) and Derivatives Clearing Organization (DCO) when it was founded. Like Bakkt, it took some time to get regulatory approval.
+
+In 2015, the company’s applications entered an extended public comment period before receiving a final go-ahead two years later. Only then did LedgerX self-certify its physically-settled options and swaps contracts, Chou explained.
+
+Under the CFTC’s regulations, a company can self-certify that upcoming products fulfill legal and regulatory requirements, rather than ask the agency to approve a new product. CFTC staff only reviews a product to ensure that it is compliant with the appropriate regulations. If a product does violate any statute or rule, the CFTC can halt the product. Otherwise, the CFTC will allow a product to go forward.
+
+CME and Cboe both followed this process when launching its bitcoin futures products just under 18 months ago. Because Bakkt wanted to use its own warehouse to custody bitcoin, it did not follow this self-certification path.
+
+Chou noted that LedgerX holds its own bitcoin on customers’ behalf, since the company has a DCO license. In other words, it operates its own clearinghouse, and as such can conduct transactions directly with a buyer, rather than operate through an intermediary (as Bakkt would through ICE Clear). In turn, this means it can handle custody itself.
+
+“LedgerX deals directly with our participants, we have no intermediaries,” Chou said. “Ironically, the model that cuts out the intermediaries is the safest model. Too many established Wall Street firms are used to dealing exclusively with intermediaries.”
+
+Despite all the setbacks, Bakkt has continued to build up its platform, naming a board of directors, hiring execs, recruiting developers and managers, making an acquisition, and getting a $20 million to $25 million budget from its parent company (on top of $182.5 million raised from outside investors).
+
+Still and all, whether and when Bakkt launches will depend on the CFTC, and will require every last detail to match. As Giancarlo put it (again, without mentioning any specific firm or application):
+
+“It’s often a fine detail in one protocol or another that makes all the difference.”
+
+J. Christopher Giancarlo image via Marc Hochstein for CoinDesk

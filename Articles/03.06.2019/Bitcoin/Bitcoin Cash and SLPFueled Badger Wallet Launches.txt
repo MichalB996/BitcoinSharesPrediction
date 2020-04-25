@@ -1,0 +1,29 @@
+DATE:  03.06.2019, 16:17:04
+TITLE: Bitcoin Cash and SLP-Fueled Badger Wallet Launches for iOS
+URL:   https://news.bitcoin.com/bitcoin-cash-and-slp-fueled-badger-wallet-launches-for-ios/
+
+Bitcoin Cash and SLP-Fueled Badger Wallet Launches for iOS
+
+On June 3, the popular bitcoin cash (BCH) light client Badger Wallet launched its open beta version for iOS mobile devices. Now Apple users can download the wallet in order to store, send and receive BCH alongside the ability to do the same with Simple Ledger Protocol (SLP) tokens in a noncustodial manner.
+
+Also read: Creating Your Own SLP-Based Token Using Memo
+
+Testing the Badger Wallet for iOS
+
+Over the last few months, the noncustodial Badger Wallet has become one of the most versatile light clients within the Bitcoin Cash ecosystem. The wallet allows people to not only hold bitcoin cash in a secure fashion but also store SLP-based tokens built on the BCH chain. The application is very similar to the Ethereum-based Metamask wallet because it also acts as a gateway to a multitude of other BCH platforms. For instance, Badger seamlessly connects to applications like Sideshift.io and the popular website Satoshi Dice. The Badger light client originally launched for Chrome and Firefox working as a browser wallet alongside this there’s the Android version as well. Now Apple users can enjoy the benefits of Badger too.
+
+The first thing you need to do is head on over to the official Badger Wallet URL for the App Store and download the 11.3MB application. The open source Badger client requires iOS version 9.0 or later and works for iPhone, iPad, and the iPod Touch. The download will only take a few seconds depending on internet speeds and after it’s complete you can open the app using the Badger icon. After you open the platform you will be prompted with two actions in order to get started: creating a new wallet and restoring an existing wallet. To restore an existing wallet you will need a 12-word seed phrase to enter and if the phrase is correct, funds from an existing Badger or another wallet should appear. Creating a new wallet takes only a few seconds after pressing the “New wallet” tab.
+
+After creating a new wallet, the platform will open the home section of Badger and you will notice an empty BCH wallet. Underneath the BCH balance section, the wallet will let you know that Badger’s Simple Token Vault has “no SLP tokens in the vault yet.” From here, I added some bitcoin cash to the wallet by sending $0.05 worth of BCH to the address that can be found in the “Receive” section. There, there are two addresses you can copy and paste — a BCH cashaddr formatted address or an SLP-based address. I chose to copy and paste the BCH address and sent myself a nickel because it’s not possible to send such a small amount of satoshis on other networks. After receiving the $0.05 worth of bitcoin cash I opened up my Badger extension for Chrome and sent myself two different tokens. I sent 5 billion Zelda tokens that I created on the Memo.cash platform and I sent another 400,000 Satoshi Cash (STC) to my iOS Badger client too.
+
+Badger iOS: A Simple and Versatile BCH and SLP Light Client
+
+Almost immediately my Zelda and STC tokens appeared in my Simple Token Vault on the Badger iOS display. The latest version of Badger is very simple to use and getting familiar with the features only takes a minute. For backup purposes, the “Menu” section of the wallet displays the wallet’s backup phrase when you select “Reveal seed phrase.” It’s important to write the seed phrase down, don’t share it with anyone, and write it down alone. The wallet will display a “Wallet not backed up” warning the entire time to get you to backup the seed phrase, but once you do this the warning will disappear. Moreover in the “Menu” section, if you experience issues with the wallet there’s a “Contact us” tab which will display a support email address and a link to the Badger Wallet Group on Telegram.
+
+If you’re not an Apple owner, you can also store SLP tokens on the Android light clients Crescent Cash and Monarch Wallet, as well as the Electron Cash SLP version (Mac OS, Windows, and Linux) and the existing Badger extensions for Firefox and Chrome browsers. BCH users who want to strictly use Badger with their mobile device and use the Android operating system, can find the Badger light client within the Google Play store as well. The latest Badger addition for iOS brings a high performance, simple to use light client to those wishing to store SLP tokens on Apple mobile devices. With Badger, everything is done onchain and the wallet allows you to have full control and custody over your bitcoin cash or SLP tokens.
+
+What do you think about the Badger Wallet for iOS? Let us know what you think about this subject in the comments section below.
+
+Image credits: Shutterstock, Itunes, Badger Wallet, Jamie Redman, and Pixabay.
+
+Did you know you can buy Bitcoin Cash online with us using a credit card? Download your free Bitcoin wallet and head to our Purchase Bitcoin page where you can buy BCH and BTC securely.

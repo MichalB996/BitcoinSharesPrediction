@@ -1,0 +1,43 @@
+DATE:  26.02.2020, 05:00:00
+TITLE: Error or Plunder? Report Suggests FCoin Purposely Moved Customer Bitcoin Since 2019
+URL:   https://finance.yahoo.com/news/error-plunder-report-suggests-fcoin-050000094.html
+
+Ever since FCoin fell insolvent this month, blockchain researchers have been poring over data to figure out what caused the failure and where all the China-based exchange’s cryptocurrency went.
+
+A recent report from Silicon Valley-based Anchain AI wonders whether funds were pilfered by insiders, challenging FCoin’s official line claiming a data error was to blame. The study is provocatively titled, “FCoin Exchange Shutdown: Technical Difficulties or Planned Scam?”
+
+On Feb. 17, FCoin revealed a shortfall of up to $130 million worth of bitcoin (BTC). The exchange’s verified “cold” wallet, the cryptocurrency version of a bank vault used to hold customer bitcoin, was emptied. According to Anchain AI, from 2019 until February 2020, the cold wallet’s funds were likely moved to four other exchanges — Gate.io, Binance, OKEx and Huobi — and then beyond.
+
+Related: Binance Now Supports Deposits and Withdrawals in Hong-Kong Dollars
+
+Anchain AI is more upfront about its suspicions than another analysis firm, China-based Peckshield, which reported that Fcoin’s problems started in 2018. According to Peckshield, Fcoin was not properly accounting for transactions on its platform, enabling users to “leak” out valuable cryptocurrencies to other exchanges.
+
+
+
+More than 25,350 BTC has passed in and out of FCoin’s primary cold wallet, which Anchain AI labeled “Fcoin_1” in its analysis. The last 54 BTC was drained in a transaction sent on Feb. 13. Four days later, FCoin founder Zhang Jian announced the exchange would no longer be able to process customer withdrawals.
+
+A wallet is considered “cold” when the private key controlling it is kept offline, on a hardware device or a piece of paper stashed in a safe place. Cryptocurrency exchanges use these wallets for long-term storage of customer assets, with funds rarely moving.
+
+In June 2018, FCoin published its bitcoin cold wallet address on its transparency page. The link now redirects to the exchange’s homepage, which displays a note in broken English about “FCoin System Upgrading.”
+
+Related: Why Today’s Crypto Exchange Leaders Are Powerful, but Not Inevitable
+
+Fortunately, the cold wallet address was also published in a press announcement in 2018, giving Anchain AI a starting point to analyze over 210,000 transactions among FCoin’s 40,000 wallets. The cold wallet moved 9,889 BTC into another FCoin-controlled wallet, which then dispersed the funds through various other addresses. The Anchain AI analysis found that early in 2019, Fcoin was moving hundreds of bitcoin to other exchanges. Among the four biggest recipients, Huobi, where Zhang was the former CTO, received the most.
+
+For a few months in 2019, there were no exchange transactions. Activity picked up again in September, with OKEx becoming the preferred destination.
+
+
+
+Founded in 2018, FCoin used a “transaction mining” model, reimbursing traders for fees with a proprietary token, also called FCoin. When a customer paid a trading fee in BTC, for example, a corresponding amount would be sent back in FCoin tokens. Holders of this token were also paid 80 percent of the exchange’s fee revenue as an incentive to keep them.
+
+FCoin did not respond to CoinDesk’s requests for comment by press time.
+
+Addressing accusations of impropriety, Zhang took to social media to explain that FCoin’s estimated 7,000 to 13,000 bitcoin gap in funds was due not only to poor accounting but also to the transaction mining model. In a missive translated into English and posted to Reddit Feb. 17, Zhang wrote, “in particular, public lies will sooner or later break through under the watchful eyes of everyone.”
+
+Although Anchain AI made a strong case that something was suspicious in FCoin’s transactions, its inference that the company moved the bitcoin to four large exchanges and thereafter elsewhere is much harder to prove.
+
+As for the title question, Anchain AI’s report was inconclusive.
+
+“So, was the FCoin Exchange Shutdown due to technical difficulties, or the culmination of a planned scam? Only the FCoin team would know for sure,” the researchers said at the end of their study.
+
+Related Stories
